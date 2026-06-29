@@ -1,0 +1,606 @@
+---
+title: "knowledge base art"
+source_kind: "html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/art.html"
+source_relpath: "knowledge_base/art.html"
+compiled: "True"
+compiled_at: "2026-06-27T00:13:31"
+tags: ["strauhal", "source/html"]
+---
+# knowledge base art
+
+Source: [[media/strauh.al4/knowledge_base/art.html|source file]]
+
+Concepts: [[HTML Source]], [[art]], [[knowledge base]], [[strauh.al Archive]]
+
+## Compiled Page
+
+strauh.al/knowledge_base/art
+
+# [strauh.al](https://strauh.al)/[knowledge_base](https://strauh.al/knowledge_base.html)/art
+
+## artists
+
+[Barbara Gladstone - Wikipedia](https://en.wikipedia.org/wiki/Barbara_Gladstone)
+[The Wachowskis - Wikipedia](https://en.wikipedia.org/wiki/The_Wachowskis)
+[John Stezaker - Artist - Saatchi Gallery](https://www.saatchigallery.com/artist/john_stezaker)
+[Osama bin Laden’s Son Is a Painter. America Is His Muse.](https://www.vice.com/en/article/jgq3gd/osama-bin-laden-son-omar-artwork-trauma-america?utm_source=viceworldnewsfb&fbclid=IwAR3E0MKQgIHY1woxx9sBbWcDXxTweKavXOF7MmbGSQPi-OJTE4diMNFlwnY)
+[Zdzisław Beksiński - Wikipedia](https://en.wikipedia.org/wiki/Zdzis%C5%82aw_Beksi%C5%84ski)
+[Barry McGee - Wikipedia](https://en.wikipedia.org/wiki/Barry_McGee)
+[Werner Herzog - Wikipedia](https://en.wikipedia.org/wiki/Werner_Herzog)
+[unomoralez :: supernature!](http://unomoralez.com/)
+[LaBeouf, Rönkkö & Turner | #TAKEMEANYWHERE](http://labeoufronkkoturner.com/)
+[John Stezaker - Wikipedia](https://en.wikipedia.org/wiki/John_Stezaker)
+[glenn branca: the official web site](https://www.glennbranca.com/)
+[Alvar Aalto - Wikipedia](https://en.wikipedia.org/wiki/Alvar_Aalto)
+[Sudhu Tewari | Exploratorium](https://www.exploratorium.edu/tinkering/tinkerers/sudhu-tewari)
+[Rudolf Arnheim - Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Arnheim)
+[ori toor](https://oritoor.com/)
+[Fernando Ciancolini, l’ultimo scalpellino eccellenza vitorchianese | TusciaUp](https://www.tusciaup.com/fernando-ciancolini-lultimo-scalpellino-eccellenza-vitorchianese/110729)
+[Gregory Bateson - Wikipedia](https://en.wikipedia.org/wiki/Gregory_Bateson)
+[Patrick Nagel - Wikipedia](https://en.wikipedia.org/wiki/Patrick_Nagel)
+[Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
+[Alicia McCarthy - Wikipedia](https://en.wikipedia.org/wiki/Alicia_McCarthy)
+[Louise Nevelson - Wikipedia](https://en.wikipedia.org/wiki/Louise_Nevelson)
+[Taro Hattori Biography – Taro Hattori on artnet](http://www.artnet.com/artists/taro-hattori/biography)
+[Taro Hattori -Installation Work](http://www.tarohattori.com/)
+[ryoji ikeda | news](https://www.ryojiikeda.com/?fbclid=IwAR0Db941WMKdWiH_v2OoKRxZxufXiev3_r2FBhZcHSv3vR2_K6z-a55q3rU)
+[Kenji Kawai - Wikipedia](https://en.wikipedia.org/wiki/Kenji_Kawai)
+[Alex Schaefer | Saatchi Art](https://www.saatchiart.com/paintwithalex)
+[Carl Andre - Wikipedia](https://en.wikipedia.org/wiki/Carl_Andre)
+[Robert Crumb - Wikipedia](https://en.wikipedia.org/wiki/Robert_Crumb)
+[Robert Bechtle - Wikipedia](https://en.wikipedia.org/wiki/Robert_Bechtle)
+[Judd Foundation](https://juddfoundation.org/)
+[STEFAN BURNETT](https://stefanburnett.com/)
+[Félix González-Torres - Wikipedia](https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres)
+[Felix Gonzalez-Torres, “Untitled” (billboard of an empty bed) – Smarthistory](https://smarthistory.org/felix-gonzalez-torres-untitled-billboard-of-an-empty-bed/)
+[Vincent Fecteau | Matthew Marks Gallery](https://matthewmarks.com/artists/vincent-fecteau)
+[Biography - Cy Twombly Foundation](http://www.cytwombly.org/biography)
+[Manuel Neri - Wikipedia](https://en.wikipedia.org/wiki/Manuel_Neri)
+[Lizzie Fitch - Wikipedia](https://en.wikipedia.org/wiki/Lizzie_Fitch)
+[La Monte Young - Wikipedia](https://en.wikipedia.org/wiki/La_Monte_Young)
+[Saburo Murakami - Wikipedia](https://en.wikipedia.org/wiki/Saburo_Murakami)
+[Junya Watanabe - Wikipedia](https://en.wikipedia.org/wiki/Junya_Watanabe)
+[Vincent van Gogh - Wikipedia](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
+[Kazuma Kaneko - Wikipedia](https://en.wikipedia.org/wiki/Kazuma_Kaneko)
+[Lucas Abela](http://dualplover.com/abela/)
+[Chris Cunningham - Wikipedia](https://en.wikipedia.org/wiki/Chris_Cunningham)
+[CLIFFORD RAINEY](https://cliffordrainey.com/)
+[Dan Flavin - Wikipedia](https://en.wikipedia.org/wiki/Dan_Flavin)
+[Hilma af Klint - Wikipedia](https://en.wikipedia.org/wiki/Hilma_af_Klint)
+[Sonia Rykiel - Wikipedia](https://en.wikipedia.org/wiki/Sonia_Rykiel)
+[Pipilotti Rist - Wikipedia](https://en.wikipedia.org/wiki/Pipilotti_Rist)
+[Kaisik Wong - Wikipedia](https://en.wikipedia.org/wiki/Kaisik_Wong)
+[Do you see what I see? on Vimeo](https://vimeo.com/577756310)
+[Margaret Kilgallen - Wikipedia](https://en.wikipedia.org/wiki/Margaret_Kilgallen)
+[Erwin Wurm - Wikipedia](https://en.wikipedia.org/wiki/Erwin_Wurm)
+[Wang Kelly 王佳怡 - 25 Artworks, Bio & Shows on Artsy](https://www.artsy.net/artist/wang-kelly-wang-jia-yi)
+[Philip Guston - Wikipedia](https://en.wikipedia.org/wiki/Philip_Guston)
+[Anselm Kiefer - Wikipedia](https://en.wikipedia.org/wiki/Anselm_Kiefer)
+[Barry McGee - Interactive Feature - T Magazine](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/09/t-magazine/09face-collage.html?_r=0)
+[Richard Serra - Wikipedia](https://en.wikipedia.org/wiki/Richard_Serra)
+[Matthew Barney - Wikipedia](https://en.wikipedia.org/wiki/Matthew_Barney)
+[Virgil Abloh, Barrier-Breaking Designer, Is Dead at 41 - The New York Times](https://www.nytimes.com/2021/11/28/style/virgil-abloh-dead.html)
+[Roy Cannon-Berg |~~~~~~~~~| Roy Vessil](https://www.roycannon-berg.com/)
+[Alessia Clementi | Opere](http://www.alessiaclementi.it/opere)
+[LEO VILLAREAL](http://villareal.net/)
+[Julie Mehretu - Wikipedia](https://en.wikipedia.org/wiki/Julie_Mehretu)
+[Eva Hesse - Wikipedia](https://en.wikipedia.org/wiki/Eva_Hesse)
+[Carolee Schneemann - Wikipedia](https://en.wikipedia.org/wiki/Carolee_Schneemann)
+[Tehching Hsieh - Wikipedia](https://en.wikipedia.org/wiki/Tehching_Hsieh)
+[NAVID BARATY](https://www.navidbaraty.com/)
+[Michael Pisaro-Liu](https://www.michaelpisaro-liu.com/)
+[Robert Ashley - Wikipedia](https://en.wikipedia.org/wiki/Robert_Ashley)
+[Jean Tinguely - Wikipedia](https://en.wikipedia.org/wiki/Jean_Tinguely)
+[Rachel Ruysch - Wikipedia](https://en.wikipedia.org/wiki/Rachel_Ruysch)
+
+## art pieces
+
+[Jheronimus Bosch - The Garden of Earthly Delights](https://archief.ntr.nl/tuinderlusten/en.html)
+[Did a Silent Film About a Train Really Cause Audiences to Stampede? - Atlas Obscura](https://www.atlasobscura.com/articles/did-a-silent-film-about-a-train-really-cause-audiences-to-stampede)
+[JOSEPH BEUYS: I LIKE AMERICA AND AMERICA LIKES ME | Kids of Dada](https://www.kidsofdada.com/blogs/magazine/35963521-joseph-beuys-i-like-america-and-america-likes-me)
+[Le Corbusier Lamps — ICR - ICC](https://www.icr-icc.com/le-corbusier-lamps)
+[Stories of Iconic Artworks: Joseph Beuys’ I Like America and America Likes Me | Artland Magazine](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/)
+[‘BACKSTORY’ on Vimeo](https://vimeo.com/245687147)
+[Richard Cory by Edwin Arlington Robinson | Poetry Foundation](https://www.poetryfoundation.org/poems/44982/richard-cory)
+[Man with a Movie Camera - Wikipedia](https://en.wikipedia.org/wiki/Man_with_a_Movie_Camera)
+[Fat, felt and a fall to Earth: the making and myths of Joseph Beuys | Art and design | The Guardian](https://www.theguardian.com/artanddesign/2016/jan/30/fat-felt-fall-earth-making-and-myths-joseph-beuys)
+[Rhythm 0 - Wikipedia](https://en.wikipedia.org/wiki/Rhythm_0)
+[“Radical Nature: Art and Architecture for a Changing Planet, 1969–2009” at Barbican Art Gallery - Artforum International](https://www.artforum.com/print/previews/200905/radical-nature-art-and-architecture-for-a-changing-planet-1969-2009-22688)
+[Beeple (b. 1981), EVERYDAYS: THE FIRST 5000 DAYS | Christie’s](https://onlineonly.christies.com/s/beeple-first-5000-days/beeple-b-1981-1/112924)
+[Amazon Dating: The Future of Dating](https://amazondating.co/)
+[Natty Light Has Created The ‘World’s Most Expensive Piece Of Art’ In Grand Central Station](https://www.forbes.com/sites/katedingwall/2021/01/13/natty-light-has-created-the-worlds-most-expensive-piece-of-art-in-grand-central-station/?fbclid=IwAR0UGEE46CEnGZJwUnl-5XF6_yC8JyeC8smaexNhYgAu1xocLOx4eXXLdns&sh=436139df5477)
+[Andy Warhol's Marilyn Monroe 31197 | Art | Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/andy-warhols-marilyn-monroe-31197?icmp=LP-SHSB-XL-Art_Warhol_Sidekick_XL_Monroe_31197-TH-NO-SKIXQ63RLD)
+[Felt Suit: The Fabric of Joseph Beuys’s Life – SAMBlog](http://samblog.seattleartmuseum.org/2016/12/felt-suit-joseph-beuys/)
+[Mary Wollstonecraft Sculpture in London Generates Controversy – ARTnews.com](https://www.artnews.com/art-news/news/mary-wollstonecraft-sculpture-london-controversy-1234576167/)
+[An In-Depth Look at 'Christina's World' by Andrew Wyeth](https://www.thoughtco.com/christinas-world-by-andrew-wyeth-183007)
+[Chase Bank in Flames, Wilshire Blvd CA Painting by Alex Schaefer | Saatchi Art](https://www.saatchiart.com/print/Painting-Chase-Bank-in-Flames-Wilshire-Blvd-CA/718101/7485197/view)
+[Guernica (Picasso) - Wikipedia](https://en.wikipedia.org/wiki/Guernica_(Picasso))
+[Interior Semiotics | Know Your Meme](https://knowyourmeme.com/memes/interior-semiotics)
+[Pavel Tchelitchew - Hide-and-Seek, 16x12" (A3) Poster Print – Period Prints](https://periodprints.com/products/pavel-tchelitchew-hide-and-seek-16x12-a3-poster-print)
+[Untitled (Portrait of Ross in L.A.) - Wikipedia](https://en.wikipedia.org/wiki/Untitled_(Portrait_of_Ross_in_L.A.))
+[A show toying with unexpected ideas of color rises at the Underground Museum - Los Angeles Times](https://www.latimes.com/entertainment/arts/miranda/la-et-cam-underground-museum-artists-color-20170602-htmlstory.html)
+[Cruelty Squad on Steam](https://store.steampowered.com/app/1388770/Cruelty_Squad/)
+["Untitled" (Portrait of Ross in L.A.) | The Art Institute of Chicago](https://www.artic.edu/artworks/152961/untitled-portrait-of-ross-in-l-a)
+[A Newly Discovered Vincent van Gogh Drawing of a Bummed-Out Old Man Has Been Unveiled in Amsterdam | Artnet News](https://news.artnet.com/art-world/rediscovered-van-gogh-drawing-old-man-2009920)
+[Birkin bag - Wikipedia](https://en.wikipedia.org/wiki/Birkin_bag)
+[Equestrian statue of the Duke of Wellington, Glasgow - Wikipedia](https://en.wikipedia.org/wiki/Equestrian_statue_of_the_Duke_of_Wellington,_Glasgow)
+[Rafael Lozano-Hemmer | Volute, Au Clair de la Lune (2016) | Available for Sale | Artsy](https://www.artsy.net/artwork/rafael-lozano-hemmer-volute-au-clair-de-la-lune)
+[Arthur A. Aykanian. Spoon Straw. 1968 | MoMA](https://www.moma.org/collection/works/1258)
+[Drawing Restraint 9 (album) - Wikipedia](https://en.wikipedia.org/wiki/Drawing_Restraint_9_(album))
+[The Persistence of Memory - Wikipedia](https://en.wikipedia.org/wiki/The_Persistence_of_Memory)
+[Just what is it that makes today's homes so different, so appealing? - Wikipedia](https://en.wikipedia.org/wiki/Just_what_is_it_that_makes_today%27s_homes_so_different,_so_appealing%3F)
+[Untitled (Senior Thesis) - Wikipedia](https://en.wikipedia.org/wiki/Untitled_(Senior_Thesis))
+[Erased de Kooning Drawing · SFMOMA](https://www.sfmoma.org/essay/erased-de-kooning-drawing/)
+[The Work of Art in the Age of Mechanical Reproduction - Wikipedia](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction)
+[Castro Street (film) - Wikipedia](https://en.wikipedia.org/wiki/Castro_Street_(film))
+[Cow Tools - Wikipedia](https://en.wikipedia.org/wiki/Cow_Tools)
+
+## art advice
+
+[getting your sh*t together](https://www.gyst-ink.com/)
+[artist dress code: why do artists wear black to openings?](https://sparkboxstudio.com/business-blog-why-do-artists-wear-black-to-openings/)
+[how to find your artistic voice](https://medium.com/@zarinaholmes/how-to-find-your-artistic-voice-2b8c45221fcb)
+["don't quote deleuze": how to write a good artist statement](https://www.artspace.com/magazine/interviews_features/art-bytes/dont-say-deleuze-how-to-write-a-good-artist-statement-54662)
+[about sight-size](https://www.sightsize.com/about/)
+[the “passion tax” - why artists and creatives are exploited](https://optimizeyourself.me/passion-tax/)
+[can artists get funding to create their art?](https://www.quora.com/Can-artists-get-funding-to-create-their-art-similar-to-how-a-company-would-get-funding)
+[what it takes to live as an artist in new york](https://www.artsy.net/article/artsy-editorial-takes-live-artist-new-york)
+[i'm an artist moving to nyc soon. i have questions.](https://www.reddit.com/r/AskNYC/comments/6gjj58/im_an_artist_moving_to_nyc_soon_i_have_questions/)
+[the myth of the portfolio piece](https://deardesignstudent.com/the-myth-of-the-portfolio-piece-959b8737a1d7)
+[installation strategies](https://www.pinterest.com/rackleystudio/installation-strategies/)
+[10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois)
+[art business info for artists](https://www.artbusinessinfo.com/)
+
+## art concepts & theory
+
+[hysterical-body](http://noplacegallery.com/index.php/main/exhibition/hysterical-body)
+[can we separate art from the artist?](https://adarshbadri.com/separate-art-from-the-artist/)
+[a study in upholstery](https://post45.org/2019/10/a-study-in-upholstery/)
+[gesamtkunstwerk](https://en.wikipedia.org/wiki/Gesamtkunstwerk)
+[against creativity](https://www.jacobinmag.com/2018/09/against-creativity-oli-mould-commercialization-profit-resistance)
+[social sculpture](https://www.tate.org.uk/art/art-terms/s/social-sculpture)
+[mission school](https://en.wikipedia.org/wiki/Mission_School)
+[flipping and the rise of zombie formalism](https://www.artspace.com/magazine/contributors/see_here/the_rise_of_zombie_formalism-52184)
+[scenius, or communal genius](https://kk.org/thetechnium/scenius-or-comm/)
+[flâneur](https://www.tate.org.uk/art/art-terms/f/flaneur)
+[a theory of vibe](https://www.glass-bead.org/article/a-theory-of-vibe/?lang=enview)
+[stuckism](https://en.wikipedia.org/wiki/Stuckism)
+[action painting](https://en.wikipedia.org/wiki/Action_painting)
+[postminimalism](https://en.wikipedia.org/wiki/Postminimalism)
+[happening](https://en.wikipedia.org/wiki/Happening)
+[appropriation](https://en.wikipedia.org/wiki/Appropriation_(art))
+[art intervention](https://en.wikipedia.org/wiki/Art_intervention)
+[what is artistic research?](https://www.uniarts.fi/en/general-info/what-is-artistic-research/)
+[acéphale](https://monoskop.org/Ac%C3%A9phale)
+[what is pop art in the 21st century?](https://www.widewalls.ch/magazine/what-is-pop-art)
+[influence or affinity? soutine and bacon](https://brooklynrail.org/2011/06/artseen/influence-or-affinity-case-in-paint-soutine-and-bacon)
+
+## education / school
+
+[yale school of art home](https://www.art.yale.edu/)
+[yale school of art website design](https://www.linkedbyair.net/projects/43-yale-school-of-art)
+[yale art dept website "officially cemented trolling"](https://hyperallergic.com/12252/reddit-yale-art-dept/)
+[yale school of art (wikipedia)](https://en.wikipedia.org/wiki/Yale_School_of_Art)
+[graduate admission - yale](https://www.art.yale.edu/apply/graduate-admission)
+[this is what it's like to get a yale mfa degree](https://i-d.vice.com/en_us/article/bj3jvz/this-is-what-its-like-to-get-a-yale-school-of-art-mfa-degree)
+[considering tradition at yale school of art](https://www.artandeducation.net/schoolwatch/94392/considering-tradition-and-the-election-at-yale-school-of-art)
+[will an mfa make you an art star?](https://news.artnet.com/art-world/mfa-degree-successful-artists-620891)
+[graduate degree programs | risd](https://www.risd.edu/academics/graduate-study)
+[hunter college mfa studio art](http://www.hunter.cuny.edu/graduate-programs/arts/studio-art/index.html)
+[cca mfa 2021](https://2021.ccamfa.art/)
+[post-baccalaureate certificate in printmedia](https://www.saic.edu/academics/departments/printmedia/post-baccalaureate)
+[saic graduate exhibition 2022](https://sites.saic.edu/gradshow2022/filters/grad2/)
+[mfa fine art | goldsmiths](https://www.gold.ac.uk/pg/mfa-fine-art/)
+[exams that decide the futures of chinese art students](https://www.artsy.net/article/artsy-editorial-grueling-hyper-competitive-exams-decide-futures-chinese-art-students)
+[entrance exam for an art school in china](https://www.reddit.com/r/pics/comments/81pj3w/entrance_exam_for_an_art_school_in_china/)
+[debt destabilized sfai. could your college be next?](https://hyperallergic.com/583476/college-debt-sfai-cca/)
+[fraud case against academy of art university](https://hyperallergic.com/493016/fraud-case-against-academy-of-art-university-in-san-francisco-will-proceed/)
+[artist suing cca for firing her](https://news.artnet.com/art-world/jd-beltran-suing-california-college-of-the-arts-2021801)
+[stress, suicide, and scad](https://medium.com/@stephaniefranklinmarr/stress-suicide-and-the-savannah-college-of-art-and-design-2e02197ddd65)
+[is art school only for the young?](https://www.artsy.net/article/artsy-editorial-art-school-young)
+[too young for mfa?](https://forum.thegradcafe.com/topic/48388-too-young-for-mfa/)
+[norwegian artistic research programme](https://diku.no/en/programmes/norwegian-artistic-research-programme)
+[art world learning](https://artworldlearning.com/)
+[met museum internships](https://www.metmuseum.org/about-the-met/internships/undergraduate-and-graduate-students)
+[caa (college art association)](https://www.collegeart.org/)
+
+## film
+
+[review of the matrix resurrections](https://www.newcityfilm.com/2021/12/22/the-revolution-will-be-eventized-a-review-of-the-matrix-resurrections/)
+[matrix resurrections for cloud atlas fans](https://medium.com/everythings-interesting/the-matrix-resurrections-is-one-for-the-cloud-atlas-and-sense8-fans-4df1a60f6)
+[matrix resurrections soundtrack](https://www.nme.com/features/opinion/the-matrix-resurrections-soundtrack-3043362)
+[race-bending in cloud atlas](https://grantland.com/hollywood-prospectus/yo-is-this-racist-race-bending-our-way-around-cloud-atlas/)
+[accusing cloud atlas of racism is missing the point](https://www.cinemablend.com/new/Why-Accusing-Cloud-Atlas-Racism-Missing-Point-33781.html)
+[quentin tarantino on taxi driver](https://www.indiewire.com/2016/04/the-8-best-things-taxi-driver-super-fan-quentin-tarantino-has-said-about-martin-scorseses-enduring-classic-289562/)
+[rewatching taxi driver in the age of joker](https://www.vanityfair.com/hollywood/2019/10/todd-phillips-joker-rewatching-taxi-driver)
+[meaning of fabienne's pot belly talk (pulp fiction)](https://movies.stackexchange.com/questions/30037/is-there-a-deeper-meaning-to-fabiennes-pot-belly-talk)
+[man of steel is the exact superman movie zack snyder wanted](https://film.avclub.com/for-better-or-worse-man-of-steel-is-the-exact-superman-1831900927)
+[speed racer's box office flop explained](https://www.cinemablend.com/new/Speed-Racer-Box-Office-Flop-Explained-8805.html)
+[32 things learned from requiem for a dream commentary](https://filmschoolrejects.com/32-things-we-learned-from-the-requiem-for-a-dream-commentary-62e5a661031c/)
+[early motion pictures (edison companies)](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/?fa=original-format%3Afilm%2C+video&st=gallery)
+[the actual '73 giving tree movie](https://www.youtube.com/watch?v=1TZCP6OqRlE)
+[stan brakhage obituary](https://www.nytimes.com/2003/03/12/arts/stan-brakhage-avant-garde-filmmaker-is-dead-at-70.html)
+[how brakhage birthed the toxic avenger](https://www.lloydkaufman.com/roids/2000/03/01/brakhage-birthed-toxic-avenger/)
+[hayao miyazaki names hollywood films he hates](https://faroutmagazine.co.uk/hayao-miyazaki-hates-hollywood-films/?amp&fbclid=IwAR05yX-FekgYPYxS49MKYFYr6w0teCAvxH2op6QpkL9dMsyA9U0m90EcY8Y)
+[30 best anime movies of all time](https://jw-webmagazine.com/best-anime-movies/)
+[100 best anime movies of all time](https://www.pastemagazine.com/movies/best-anime-movies/the-100-best-anime-movies-of-all-time/#100-the-boy-and-the-beast)
+[top 100 hong kong movies](https://www.timeout.com/hong-kong/film/best-hong-kong-movies)
+[30 best hong kong movies of all time](http://www.tasteofcinema.com/2016/the-30-best-hong-kong-movies-of-all-time/)
+['beautiful something' review](https://www.latimes.com/entertainment/movies/la-et-mn-capsule-beautiful-something-review-20160505-snap-story.html)
+[review: the batman](https://www.vox.com/22958851/the-batman-review-pattinson-reeves-kravitz)
+[yojimbo (bampfa)](https://bampfa.org/event/yojimbo)
+[floating weeds (bampfa)](https://bampfa.org/event/floating-weeds)
+[alone: life wastes andy hardy](https://www.sensesofcinema.com/2004/cteq/alone_life_wastes_andy_hardy/)
+[björk and her daughter join cast for robert eggers’ next film](https://www.dazeddigital.com/music/article/50187/1/bjork-and-her-daughter-reportedly-join-cast-for-robert-eggers-next-film)
+[the society of the spectacle (english overdub)](https://vimeo.com/139772287)
+[ephemera.probe.01](https://vimeo.com/90461558)
+[the night it rained](https://vimeo.com/518091060)
+[you bet your noise](https://vimeo.com/128920464#)
+[playback time - carson clay](https://vimeo.com/83167904)
+[playback time (2007) letterboxd](https://letterboxd.com/film/playback-time/)
+[megan boyle & tao lin - mdma (2011)](https://ubu.com/film/lin_tao_mdma.html)
+[watch?v=vgxjr7pqo1c](https://www.youtube.com/watch?v=VgxjR7PQO1c)
+[neon genesis evangelion (wikipedia)](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion)
+[this fucked me up: 'neon genesis evangelion'](https://www.gq.com/story/neon-genesis-evangelion-gq-is-an-anime-blog-now)
+[a deep dive into hideaki anno’s evangelion](https://opuszine.us/posts/neon-genesis-evangelion-hideaki-anno-deep-dive)
+[how hideaki anno grappled with depression in anime](https://www.polygon.com/2019/6/19/18683634/neon-genesis-evangelion-hideaki-anno-depression-shinji-anime-characters-movies)
+[can you explain the meaning of evangelion?](http://www.evamonkey.com/ask-john/can-you-explain-the-meaning-of-evangelion.php)
+[the end of the end of evangelion explained](https://filmcolossus.com/end-of-evangelion-explained/)
+[end of evangelion production trivia](https://www.cbr.com/end-of-evangelion-production-trivia/)
+[meaning of the crayon painting in end of evangelion](https://anime.stackexchange.com/questions/42383/whats-the-meaning-of-the-crayon-painting-that-appear-in-end-of-evangelion)
+[end of eva question](https://www.reddit.com/r/evangelion/comments/5kscu3/end_of_eva_question/)
+[psychoanalysis of shinji ikari](https://medium.com/@ronnakritoathenglertrattana/neon-genesis-evangelion-main-character-psychoanalysis-why-shinji-ikari-is-so-weird-51b05b8b347d)
+["i wanted to erase evangelion"](https://sailorbrazil.tumblr.com/post/178219059317/i-wanted-to-erase-evangelion-about-yuko)
+[evangelion 超•現實 (behance)](https://www.behance.net/gallery/99648687/EVANGELION-)
+[end of neon genesis garfieldgelion](https://shirtoid.com/242819/end-of-neon-genesis-garfieldgelion/)
+
+## artists
+
+[gladstone gallery](https://www.gladstonegallery.com/)
+[alicia mccarthy artworks](https://www.artsy.net/artist/alicia-mccarthy)
+["your graffiti looks like shit": letter to alicia mccarthy](https://hyperallergic.com/121646/your-graffiti-looks-like-shit-a-historic-letter-to-alicia-mccarthy/)
+[the ghostly love triangle of the mission school](http://www.newyorker.com/magazine/2015/08/10/a-ghost-in-the-family)
+[barry mcgee show at ica boston](https://www.nytimes.com/2013/03/31/arts/design/barry-mcgee-show-at-institute-of-contemporary-art-in-boston.html)
+[market index: barry mcgee](https://www.artforum.com/print/200804/market-index-barry-mcgee-19755)
+[barry mcgee (hypebeast)](https://hypebeast.com/tags/barry-mcgee)
+[barry mcgee in the studio](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html)
+[barry mcgee’s tag murals](https://publicdelivery.org/barry-mcgee-tag-mural/)
+[meet the artist: kelly wang](https://artmuseum.princeton.edu/calendar/2022-01/meet-artist-kelly-wang)
+[kelly christina baltazar / kelly wang thread](https://kiwifarms.net/threads/kelly-christina-baltazar-kelly-jiayi-wang-amelia-wang-mayli-jiayiwang_inkart.64401/)
+[pipilotti rist: big heartedness, be my neighbor](https://www.moca.org/exhibition/pipilotti-rist)
+[damien hirst - a thousand years](https://www.damienhirst.com/a-thousand-years)
+[damien hirst: "it’s easier to make art when you don’t have money"](https://www.anothermag.com/art-photography/13682/damien-hirst-its-a-lot-easier-to-make-art-when-you-dont-have-any-money)
+[damien hirst's medium is the art market](https://www.nytimes.com/2022/01/21/arts/design/damien-hirst-nft.amp.html)
+[man falls into anish kapoor's bottomless pit](https://news.artnet.com/art-world/man-injured-falling-into-anish-kapoor-hole-1335176)
+[keep anish kapoor away from the whitest white paint](https://www.theverge.com/2021/4/15/22386299/whitest-white-paint-anish-kapoor-vantablack?fbclid=IwAR3d1vNWkLUl5SCJmVp_Kf78NGe5QCJTXIvVq3jCRtcWgqOdqYTTGZt8POY)
+[anish kapoor sues nra](https://news.artnet.com/art-world/anish-kapoor-sues-the-nra-for-featuring-cloud-gate-in-an-ad-1306022)
+[joseph beuys 100 years](http://artasiapacific.com/Blog/WhatToSeeAtJosephBeuys100Years)
+[beuys2021 music](https://beuys2021.de/index.php/en/media/music)
+[‘conzert coyote iii’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-conzert-coyote-iii-konzertkasse-heinersdorff-ar00973)
+[‘coyote’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-coyote-ar00733)
+[coyote iii : joseph beuys, nam june paik](https://www.si.edu/object/siris_sil_698006)
+[art: joseph beuys at the feldman gallery](https://www.nytimes.com/1986/10/31/arts/art-joseph-beuys-at-the-feldman-gallery.html)
+[the shaman artist (joseph beuys)](https://www.nytimes.com/1979/10/28/archives/article-4-no-title-beuys.html)
+[joseph beuys - i like america and america likes me](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/)
+[i like america and america likes me (wiki)](https://www.wikiwand.com/en/I_Like_America_and_America_Likes_Me)
+[joseph beuys (artic)](https://www.artic.edu/artists/33630/joseph-beuys)
+[stop hating jeff koons](https://www.nytimes.com/2019/05/17/arts/jeff-koons-auction-christies.html)
+[jasper johns: how a gray painting can break your heart](https://www.nytimes.com/interactive/2022/01/16/arts/design/jasper-johns-memory-of-my-feelings.html)
+[basquiat-isms: ten of jean-michel’s best quotes](https://www.anothermag.com/art-photography/11822/basquiat-isms-jean-michel-basquiat-best-quotes-larry-warsh-lee-jaffe)
+[cy twombly - hero and leandro](https://www.wikiart.org/en/cy-twombly/hero-and-leandro-a-painting-in-four-parts-part-iii)
+[cy twombly: against interpretation](http://www.miacollectiveart.com/articles/2017/1/13/cy-twombly-against-interpretation)
+[is cy twombly what's wrong with modern art?](https://www.chron.com/entertainment/article/Is-Cy-Twombly-what-s-wrong-with-modern-art-1920782.php)
+[pablo picasso — picador, 1889](https://www.pablo-ruiz-picasso.net/work-261.php)
+[how picasso bled the women in his life for art](https://www.theparisreview.org/blog/2017/11/09/how-picasso-bled-the-women-in-his-life-for-art/)
+[sol lewitt (nyt)](https://www.nytimes.com/2007/04/09/arts/design/09lewitt.html)
+[sol lewitt (bomb)](https://bombmagazine.org/articles/sol-lewitt/)
+[sol lewitt münchen 1986](https://dreher.netzliteratur.net/3_Konzeptkunst_SolLeWitt3.html)
+[sol lewitt in retrospect](https://www.artforum.com/print/200002/sum-and-the-parts-sol-lewitt-in-retrospect-263)
+[sol lewitt wall drawing #63](https://www.artic.edu/artworks/105023/wall-drawing-63-a-wall-is-divided-into-four-horizontal-parts-in-the-top-row-are-four-equal-vertical-divisions-each-with-lines-in-a-different-direction-in-the-second-row-six-double-combinations-in-the-third-row-four-triple-combinations-in-the-bottom-row-all-four-combinations-superimposed)
+[wolfgang laib (art21)](https://art21.org/artist/wolfgang-laib/)
+[wolfgang laib artwork survey](https://art21.org/gallery/wolfgang-laib-artwork-survey-1990s/#1)
+[martin creed works](http://www.martincreed.com/site/works)
+[marina abramović and ulay at moma](https://www.anothermag.com/art-photography/12324/marina-abramovic-ulay-moved-the-art-world-the-artist-is-present-moma)
+[tom marioni, free beer](https://www.sfmoma.org/artwork/99.70.A-E/)
+[christian marclay’s ’48 war movies’](https://www.artnews.com/art-in-america/aia-reviews/christian-marclay-48-war-movies-expose-violence-of-popular-imagination-62741/)
+[leonardo da vinci - drawing of a flood](https://www.wikiart.org/en/leonardo-da-vinci/drawing-of-an-flood)
+[mary cassatt - complete works](https://www.marycassatt.org/the-complete-works.html?pageno=1)
+[marsden hartley](https://www.nga.gov/collection/artist-info.1375.html)
+[richard diebenkorn biography](https://diebenkorn.org/the-artist/biography/)
+[sam hyde harris](https://art.state.gov/personnel/sam_hyde_harris/)
+[simone forti | striding crawling](https://whitney.org/collection/works/18016)
+[cai guo-qiang](https://caiguoqiang.com/)
+[masami teraoka](https://www.masamiteraoka.com/)
+[shilpa gupta - for, in your tongue, i cannot fit](https://shilpagupta.com/for-in-your-tongue-i-cannot-fit-audio/)
+[hunt slonem](https://www.huntslonem.com/)
+[alighiero boetti artworks](https://www.wikiart.org/en/alighiero-boetti)
+[william anastasi - untitled (pocket drawings)](https://www.moma.org/collection/works/90658?artist_id=155&page=1&sov_referrer=artist)
+[tobias spichtig](http://tobias-spichtig.com/)
+[deanna havas](https://luketurner.com/Deanna_Havas/)
+[six lessons from eva hesse](https://www.artnews.com/art-in-america/features/at-the-borderline-of-uncontrollability-six-lessons-from-eva-hesse-60064/)
+[leo villareal](http://villareal.net/)
+[jesse kanda: child's play](https://www.dazeddigital.com/artsandculture/article/20250/1/jesse-kanda-childs-play)
+[elmgreen & dragset](http://www.elmgreen-dragset.com/)
+[eva & franco mattes](https://0100101110101101.org/)
+[matteo peducci](https://www.vgo-associates.com/love-artists-matteo-peducci/)
+[affiliati peducci savini](https://ifthenisnow.eu/nl/verhalen/world-artists-and-their-story-38-affiliati-peducci-savini)
+[affiliati](http://www.galleryhouseperugia.com/en/affiliati/)
+[blane de st. croix](https://www.bemiscenter.org/events/alumni-artalks-blane-de-st-croix)
+[michael pisaro-liu](https://www.michaelpisaro-liu.com/)
+[art of éliane radigue](https://www.artforum.com/print/202205/sasha-frere-jones-on-the-art-of-eliane-radigue-88425)
+[jahra wasasala - god-house](https://jahra.xyz/godhouse)
+[jelena berenc](http://www.jelenaberenc.com/)
+[chloe rosser](https://chloerosser.com/)
+[christopher meerdo](https://www.meerd.ooo/)
+[mariko mori - play with me](https://www.artnet.com/artists/mariko-mori/play-with-me-gelrg8rK37Am_QtYJg83RQ2)
+[gary simmons](https://www.hauserwirth.com/artists/33677-gary-simmons/)
+[anatole krasnyansky](https://www.parkwestgallery.com/artist/anatole-krasnyansky/)
+[chris dorland](https://chris-dorland.com/work)
+[amy casey painting](https://www.amycaseypainting.com/)
+[vija celmins](https://www.tate.org.uk/art/artists/vija-celmins-2731/explore-art-vija-celmins)
+[gerhard mayer walldrawings](https://www.gerhard-mayer.com/index.php?id=3)
+[gerhard mayer drawings](https://www.gerhard-mayer.com/index.php?id=5)
+[shahzia sikander](https://www.shahziasikander.com/)
+[josef pelz](https://www.josefpelz.com/)
+[logan kruidenier](https://www.logankruidenier.com/)
+[cam collins](https://camcollins.neocities.org/)
+[karin diesner](https://diesnerdesigns.com/)
+[callie fink](https://www.mushroom-magazine.com/callie-fink/)
+[stormrider](https://billwear.github.io/art-of-attention.html?utm_source=tldrnewsletter)
+[barbara degenevieve](https://slow.gallery/blog/2019/2/24/barbara-degenevieve)
+[joshua kaplan](https://www.joshuakaplan.com/)
+[suzy poling](http://www.suzypoling.com/)
+[vladimir mayakovsky](https://www.poetryfoundation.org/poets/vladimir-mayakovsky)
+[shel silverstein, gary larson and albert einstein](https://www.mentalfloss.com/article/18545/shel-silverstein-gary-larson-and-albert-einstein-their-first-29-years)
+[steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson)
+[andy warhol's silver factory](https://www.anothermag.com/art-photography/7826/behind-the-scenes-at-andy-warhols-silver-factory)
+[a composer and his wife: creativity through kink](https://www.nytimes.com/2016/02/24/arts/music/a-composer-and-his-wife-creativity-through-kink.html)
+[david's world](https://transgender.money/)
+[matthew barney facts](https://kids.kiddle.co/Matthew_Barney)
+[matthew barney biography](https://www.cremasterfanatic.com/Biography.html)
+[matthew barney discography](https://rateyourmusic.com/artist/matthew-barney)
+[cremaster fanatic fan site](https://www.cremasterfanatic.com/index.html)
+[matthew barney catalog modeling](https://www.cremasterfanatic.com/ephemera/Model.html)
+[how to survive matthew barney’s cremaster cycle](https://medium.com/@japhygrant/the-cremaster-diaries-how-to-survive-matthew-barney-s-six-hour-art-film-cycle-bec842db1fa9)
+[matthew barney: 'my work is not for everyone'](https://www.theguardian.com/artanddesign/2014/jun/16/matthew-barney-river-of-fundament-film)
+[matthew barney review: redoubt](https://www.nytimes.com/2019/03/21/arts/design/matthew-barney-review-yale-university.html)
+[matthew barney, river of fundament discussion](https://www.reddit.com/r/TrueFilm/comments/krfyuf/matthew_barney_river_of_fundament_and_the/)
+[drawing restraint 2 (1988)](https://www.wikiart.org/en/matthew-barney/drawing-restraint-2-1988)
+[matthew barney sues björk for custody](https://defamer.gawker.com/salty-weirdo-matthew-barney-sues-bjork-for-custody-of-t-1695226159)
+[björk’s diss track about matthew barney](https://www.billboard.com/music/pop/bjorks-vulnicura-black-lake-10-minute-diss-track-on-it-6443855/)
+[kanye west calls matthew barney jesus](https://news.artnet.com/art-world/kanye-west-called-his-life-walking-performance-art-527441)
+[kanye west: "matthew barney is my jesus"](https://www.stereogum.com/1884763/kanye-west-explains-his-shocking-famous-video-matthew-barney-is-my-jesus/news/)
+
+## fashion / design
+
+[rick owens (wikipedia)](https://en.wikipedia.org/wiki/Rick_Owens)
+[rick owens on designing in this moment](https://www.otis.edu/news/fashion-designer-rick-owens-shares-his-thoughts-designing-during-otis-college-special-event)
+[interview with rick owens ss22](https://www.matchesfashion.com/us/stories/2022/03/designers-the-interview-rick-owens-mw-ss22)
+[virgil abloh: free-game](https://virgilabloh.com/free-game/)
+[remembering virgil abloh](https://www.anothermag.com/fashion-beauty/13735/remembering-visionary-designer-virgil-abloh-louis-vuitton-off-white?fbclid=IwAR0MRFIREdbnDj3vj6fbCeB45iINiakJg0ZNtAjjzPjteCz-LcZFBU5bEqU)
+[hood by air’s radical streetwear](https://www.newyorker.com/magazine/2016/09/05/hood-by-airs-radical-streetwear)
+[life and legacy of patrick kelly](https://www.anothermag.com/fashion-beauty/13766/the-life-and-legacy-of-patrick-kelly-runway-of-love-exhibition-book?fbclid=IwAR2p-tMeyE-AFq0shbbQSgFThzihjoxRPUWobubD0nhOhnyzSkBbWCU7174)
+[30 black designers who shaped fashion history](https://www.lofficielusa.com/fashion/black-designers-fashion-history-virgil-abloh-telfar-clemens)
+[the racist underbelly of instagram moodboards](https://fashionandrace.org/database/the-racist-underbelly-of-instagram-moodboards/)
+[business of fashion](https://www.businessoffashion.com/)
+[balenciaga admitted copying another designer](https://www.vogue.co.uk/article/balenciagas-nicolas-ghesquire-admitted-copying-another-designer)
+[adidas hit over 'racist' trainer](http://news.bbc.co.uk/2/hi/business/4895898.stm)
+[expensive white sneakers that look like stan smiths](https://www.racked.com/2016/3/4/11146604/stan-smiths-sneakers#0)
+[how gattaca costumes inspired ferragamo](https://www.anothermag.com/fashion-beauty/13150/salvatore-ferragamo-aw21-paul-andrew-gattaca-costume-designer-colleen-atwood)
+[evolution of aphex twin’s logo](https://www.dazeddigital.com/music/article/34849/1/aphex-twin-logo-designer-posts-early-blueprints-on-instagram?fbclid=IwAR3OL5WAsvlmj7n0EpgegDwZf_TGBpBDc9xI7fLTcqBO8zoTO2_N99xn83c)
+[peter saville: uk's most famous graphic designer](https://www.theguardian.com/artanddesign/2013/sep/08/peter-saville-uks-famous-graphic-designer)
+[bank gothic font](https://en.wikipedia.org/wiki/Bank_Gothic)
+[type specimens](https://typespecimens.xyz/)
+[the syntax of tokyo graffiti](https://read.artspacetokyo.com/essays/tokyo-graffiti/)
+[all caps, all the time: giant fonts in shows](https://www.theguardian.com/tv-and-radio/2018/oct/26/all-caps-all-the-time-why-are-so-many-shows-bombarding-us-with-giant-fonts)
+[history of polish movie posters](https://sabukaru.online/articles/the-insane-history-of-polish-movie-posters)
+[lego box art backgrounds](https://www.artstation.com/artwork/EG1bN)
+[avery "hello" name tags](https://www.staples.com/Avery-Print-or-Write-Name-Tags-HELLO-Red-Border-2-11-32-x-3-3-8/product_404285?ci_sku=404285&KPID=404285&cid=PS:GS:SBD:PLA:Facilities&gclid=Cj0KCQjwiNSLBhCPARIsAKNS4_fMsxTP885YxL2TX-3it0p3Hm5m969v-GQQbkdOFEFXg-NMzfSnxc8aAv3lEALw_wcB)
+[hello my name is sticker (svg)](https://commons.wikimedia.org/wiki/File:Hello_my_name_is_sticker.svg)
+[lingua franca - sinister designs](http://linguafranca.mirror.theinfo.org/9607/Savannah.html)
+[eames dar chair](https://eames.com/en/dar)
+[rolex mentor and protégé](https://www.rolex.org/rolex-mentor-protege)
+
+## architecture
+
+[the glass house](https://theglasshouse.org/explore/the-glass-house/)
+[walt disney concert hall process](http://wdch10.laphil.com/wdch/process.html)
+[superstudio: architects who dreamt of a future with no buildings](https://www.nytimes.com/2021/02/12/arts/design/superstudio-civa.html)
+[concrete house](https://pro.cosentino.com/sv/blog/concrete-house)
+[dark past of disney’s perfect town](https://www.mirror.co.uk/news/us-news/dark-past-disneys-perfect-town-18206300.amp)
+[apple store in china mural](https://www.businessinsider.com/apple-store-in-china-mural-2015-1)
+[urban design observation: asian grandmother cart parking](https://www.core77.com/posts/71185/Todays-Urban-Design-Observation-Asian-Grandmother-Cart-Parking)
+[artists build secret apartment inside mall](https://laughingsquid.com/artists-build-secret-apartment-inside-mall/?fbclid=IwAR2cfk0voxFnDTf7yxAqarZpn5-lAsKFQ3K7dj5Kzr8R9mRw7u_rXL24M9A)
+
+## crypto
+
+[crypto art (wikipedia)](https://en.wikipedia.org/wiki/Crypto_art)
+[cryptoart.wtf](http://cryptoart.wtf/#)
+[how artists are selling work on blockchain](https://mymodernmet.com/crypto-art-blockchain/)
+[what is an nft & how do i make money?](https://loopifyyy.medium.com/what-is-an-nft-how-do-i-make-money-from-selling-my-art-as-a-nft-bb91811b93df)
+[nfts are hot. so is their effect on the earth’s climate](https://www.wired.com/story/nfts-hot-effect-earth-climate/)
+[selling surfing in space (nft)](https://artificial-images.com/project/selling-surfing-space-ebay-nft/)
+
+## art world & news
+
+[danish artist takes museum’s money and runs](https://www.theartnewspaper.com/2021/09/28/danish-artist-takes-museums-money-and-runs-i-will-not-pay-it-back-he-says)
+[rothko chapel vandalized](https://www.artsy.net/news/artsy-editorial-rothko-chapel-houston-vandalized-white-paint-fliers-read-its-white)
+[couple defaced $400,000 painting in south korea](https://www.nytimes.com/2021/04/07/world/asia/jonone-vandalism-south-korea-art.html)
+[uffizi sues pornhub](https://hyperallergic.com/664137/uffizi-sues-pornhub-after-it-turns-masterpieces-into-porn/)
+[how moma and the cia conspired to use artists](https://news.artnet.com/art-world/artcurious-cia-art-excerpt-1909623)
+[mfa acquires work by dana chandler](https://www.wbur.org/artery/2021/04/07/mfa-dana-chandler-black-panther-fred-hampton-door)
+[art exhibition showcases homeless people’s photos](https://www.shropshirestar.com/news/uk-news/2021/04/28/art-exhibition-showcases-homeless-peoples-photos-throughout-lockdown/)
+[75 artists, 7 questions, one very bad year](https://www.nytimes.com/interactive/2021/03/10/arts/artists-coronavirus-lockdown.html)
+[robert indiana legacy battle resolved](https://www.artforum.com/news/robert-indiana-legacy-battle-resolved-86104)
+[art matters foundation](https://artmattersfoundation.org/grantees/a0M3100000FvtFoEAJ)
+[the underground museum celebrates "artists of color"](https://www.laweekly.com/the-underground-museum-celebrates-artists-of-color-in-a-manner-of-speaking/)
+[fight for ray fong](http://www.woostercollective.com/post/fight-for-ray-fong)
+[strike moma](https://www.strikemoma.org/)
+
+## tools / resources
+
+[ubuweb](https://ubu.com/)
+[ubuweb (wikipedia)](https://en.wikipedia.org/wiki/UbuWeb)
+[ubuweb (slate article)](https://slate.com/technology/2016/12/ubuweb-the-20-year-old-website-that-collects-the-forgotten-and-the-unfamiliar.html)
+[artstor](https://library-artstor-org.proxy.cca.edu/#/)
+[wiby - search engine for the classic web](https://wiby.me/)
+[pen plotters: best xy plotters of 2021](https://all3dp.com/2/pen-plotters-best-xy-plotters/)
+[musou black paint](https://www.ko-pro.black/product/musou-black-paint/)
+[cinestill df96 b&w monobath](https://cinestillfilm.com/products/df96-developer-fix-b-w-monobath-single-step-solution-for-processing-at-home)
+[large size papers – hiromi paper](https://store.hiromipaper.com/collections/large-size-papers)
+[inks | kinusa](https://www.kohinoorusa.com/inks)
+[definitions of print processes](https://www.photoeye.com/GALLERY/Definitions.cfm?)
+[how to screen printing on canvas?](https://www.macrokun.com/News/screen-printing-mesh-news/256.html)
+[sierra death generator](http://deathgenerator.com/#cs)
+[portrait ai](https://portraitai.app/)
+[make wordart](https://www.makewordart.com/)
+[fancy text generator](https://lingojam.com/FancyTextGenerator)
+[bezier game](https://bezier.method.ac/?fbclid=IwAR0Y2bvT24-0LzppLiIa4c_X4ksQ7WMSQlKgPPjvMdBDlpQreIjraT2izm0)
+[100 best pens](http://nymag.com/strategist/article/best-pens-gel-ballpoint-rollerball-felt-fountain.html)
+[getting your sh*t together (gyst)](https://www.gyst-ink.com/)
+[top 500 american artists since 1966 (pdf)](https://news.artnet.com/app/news-upload/2016/08/top-500-american-artists-since-1966-final.pdf)
+[italian renaissance learning resources](http://www.italianrenaissanceresources.com/)
+[discover art & artists (aic)](https://www.artic.edu/collection)
+[oblique strategies](http://stoney.sb.org/eno/oblique.html)
+
+## literature & comics
+
+[‘the most impure tale ever written’: the 120 days of sodom](https://www.theguardian.com/books/2016/oct/07/marquis-de-sade-120-days-of-sodom-published-classic)
+[the picture of dorian gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray)
+[the sorrows of young werther: summary](https://study.com/academy/lesson/the-sorrows-of-young-werther-summary-analysis.html)
+[bottomless belly button](https://readcomiconline.to/Comic/Bottomless-Belly-Button/TPB?id=132944)
+[life beyond the far side](http://content.time.com/time/magazine/article/0,9171,490695,00.html)
+[manifestos archives](https://391.org/manifestos/page/7/)
+
+## miscellaneous
+
+[your brain on lsd looks a lot like a baby's](https://www.npr.org/2016/04/17/474569125/your-brain-on-lsd-looks-a-lot-like-a-babys)
+[how to make art with aphantasia](https://aphantasia.com/how-to-make-art-with-aphantasia/)
+[jerry hall and mick jagger had a “terrible” experience after eating a 'psychedelic' omelette](https://www.music-news.com/news/UK/37088/Read)
+[rhiz-o-mat](http://www.bleb.net/rhizomat/rhizomat.html)
+[world peace (imgur)](https://imgur.com/gallery/UuScb)
+[dia.tv/project/adidas-sb](https://dia.tv/project/adidas-sb/#slide-3)
+[50 stunning examples of the droste effect](https://www.webdesignerdepot.com/2009/09/50-stunning-examples-of-the-droste-effect/)
+[creepiest. riot masks. ever.](https://www.wired.com/2007/11/creepiest-riot/amp)
+[flower power creative](https://www.flowerpowercreative.com/)
+[a2b2](https://a2b2.org/)
+[interface show spring 20](https://preview.p5js.org/bitSpaz/present/PKhQKfPPj)
+[monte carlo bond](https://www.toutfait.com/unmaking_the_museum/Monte%20Carlo%20Bond.html)
+[15 things you might not know about 'christina’s world'](https://www.mentalfloss.com/article/64001/15-things-you-might-not-know-about-christinas-world)
+[the sugar sphinx](https://www.newyorker.com/culture/culture-desk/the-sugar-sphinx)
+[a lot of sorrow](https://www.artic.edu/artworks/228827/a-lot-of-sorrow)
+[the museum of innocence](https://artsandculture.google.com/exhibit/the-museum-of-innocence-museum-of-innocence/XgJyIqBekvaEKw?hl=en)
+[ben frost: supermarket sweep](https://www.widewalls.ch/magazine/ben-frost-exhibition-supermarket-sweep-no-walls-gallery)
+[clog](https://www.clog-online.com/)
+[the art of metal gear solid v](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up)
+[the hidden history of asian-american graf writers](https://www.hiddenrsrch.com/p/the-hidden-history-of-asian-american)
+[sam hyde harris](https://art.state.gov/personnel/sam_hyde_harris/)
+[sam hyde harris (duplicate link?)](https://art.state.gov/personnel/sam_hyde_harris/)
+[oneohtrix point never takes epoch stand](https://www.artnews.com/art-news/artists/waiting-age-like-oneohtrix-point-never-takes-epoch-stand-10387/)
+[b12: 1st [framed] page](http://music.hyperreal.org/artists/b12/1st-frame.html)
+
+## Related Local Pages
+
+- None yet
+
+<!-- kb-links:start -->
+## Connections
+
+*Every bookmark on this page wired to the ideas, people, and books it touches — 92 of 438 links connected (47 nodes).*
+
+**[[The Internet as Confidant]]** — [Wang Kelly 王佳怡 - 25 Artworks, Bio & Shows on Artsy](https://www.artsy.net/artist/wang-kelly-wang-jia-yi) · [Andy Warhol's Marilyn Monroe 31197 / Art / Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/andy-warhols-marilyn-monroe-31197?icmp=LP-SHSB-XL-Art_Warhol_Sidekick_XL_Monroe_31197-TH-NO-SKIXQ63RLD) · [Rafael Lozano-Hemmer / Volute, Au Clair de la Lune (2016) / Available for Sale / Artsy](https://www.artsy.net/artwork/rafael-lozano-hemmer-volute-au-clair-de-la-lune) · [what it takes to live as an artist in new york](https://www.artsy.net/article/artsy-editorial-takes-live-artist-new-york) · [i'm an artist moving to nyc soon. i have questions.](https://www.reddit.com/r/AskNYC/comments/6gjj58/im_an_artist_moving_to_nyc_soon_i_have_questions/) · [10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois) · [yale art dept website "officially cemented trolling"](https://hyperallergic.com/12252/reddit-yale-art-dept/) · [exams that decide the futures of chinese art students](https://www.artsy.net/article/artsy-editorial-grueling-hyper-competitive-exams-decide-futures-chinese-art-students) · [entrance exam for an art school in china](https://www.reddit.com/r/pics/comments/81pj3w/entrance_exam_for_an_art_school_in_china/) · [is art school only for the young?](https://www.artsy.net/article/artsy-editorial-art-school-young) · [too young for mfa?](https://forum.thegradcafe.com/topic/48388-too-young-for-mfa/) · [end of eva question](https://www.reddit.com/r/evangelion/comments/5kscu3/end_of_eva_question/) · [alicia mccarthy artworks](https://www.artsy.net/artist/alicia-mccarthy) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson) · [matthew barney, river of fundament discussion](https://www.reddit.com/r/TrueFilm/comments/krfyuf/matthew_barney_river_of_fundament_and_the/) · [history of polish movie posters](https://sabukaru.online/articles/the-insane-history-of-polish-movie-posters) · [clog](https://www.clog-online.com/) · [b12: 1st (framed) page](http://music.hyperreal.org/artists/b12/1st-frame.html)
+
+**[[Artist - joseph beuys]]** — [JOSEPH BEUYS: I LIKE AMERICA AND AMERICA LIKES ME / Kids of Dada](https://www.kidsofdada.com/blogs/magazine/35963521-joseph-beuys-i-like-america-and-america-likes-me) · [Stories of Iconic Artworks: Joseph Beuys’ I Like America and America Likes Me / Artland Magazine](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/) · [Fat, felt and a fall to Earth: the making and myths of Joseph Beuys / Art and design / The Guardian](https://www.theguardian.com/artanddesign/2016/jan/30/fat-felt-fall-earth-making-and-myths-joseph-beuys) · [Felt Suit: The Fabric of Joseph Beuys’s Life – SAMBlog](http://samblog.seattleartmuseum.org/2016/12/felt-suit-joseph-beuys/) · [joseph beuys 100 years](http://artasiapacific.com/Blog/WhatToSeeAtJosephBeuys100Years) · [‘conzert coyote iii’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-conzert-coyote-iii-konzertkasse-heinersdorff-ar00973) · [‘coyote’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-coyote-ar00733) · [coyote iii : joseph beuys, nam june paik](https://www.si.edu/object/siris_sil_698006) · [art: joseph beuys at the feldman gallery](https://www.nytimes.com/1986/10/31/arts/art-joseph-beuys-at-the-feldman-gallery.html) · [the shaman artist (joseph beuys)](https://www.nytimes.com/1979/10/28/archives/article-4-no-title-beuys.html) · [joseph beuys - i like america and america likes me](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/) · [joseph beuys (artic)](https://www.artic.edu/artists/33630/joseph-beuys)
+
+**[[The Spatial Web]]** — [Wang Kelly 王佳怡 - 25 Artworks, Bio & Shows on Artsy](https://www.artsy.net/artist/wang-kelly-wang-jia-yi) · [Rafael Lozano-Hemmer / Volute, Au Clair de la Lune (2016) / Available for Sale / Artsy](https://www.artsy.net/artwork/rafael-lozano-hemmer-volute-au-clair-de-la-lune) · [what it takes to live as an artist in new york](https://www.artsy.net/article/artsy-editorial-takes-live-artist-new-york) · [10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois) · [exams that decide the futures of chinese art students](https://www.artsy.net/article/artsy-editorial-grueling-hyper-competitive-exams-decide-futures-chinese-art-students) · [is art school only for the young?](https://www.artsy.net/article/artsy-editorial-art-school-young) · [alicia mccarthy artworks](https://www.artsy.net/artist/alicia-mccarthy) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson)
+
+**[[Barry McGee]]** — [Barry McGee - Wikipedia](https://en.wikipedia.org/wiki/Barry_McGee) · [Barry McGee - Interactive Feature - T Magazine](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/09/t-magazine/09face-collage.html?_r=0) · [barry mcgee show at ica boston](https://www.nytimes.com/2013/03/31/arts/design/barry-mcgee-show-at-institute-of-contemporary-art-in-boston.html) · [market index: barry mcgee](https://www.artforum.com/print/200804/market-index-barry-mcgee-19755) · [barry mcgee (hypebeast)](https://hypebeast.com/tags/barry-mcgee) · [barry mcgee in the studio](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html) · [barry mcgee’s tag murals](https://publicdelivery.org/barry-mcgee-tag-mural/)
+
+**[[Transmitting My Neural Signals by Hand]]** — [A Newly Discovered Vincent van Gogh Drawing of a Bummed-Out Old Man Has Been Unveiled in Amsterdam / Artnet News](https://news.artnet.com/art-world/rediscovered-van-gogh-drawing-old-man-2009920) · [Drawing Restraint 9 (album) - Wikipedia](https://en.wikipedia.org/wiki/Drawing_Restraint_9_(album)) · [Erased de Kooning Drawing · SFMOMA](https://www.sfmoma.org/essay/erased-de-kooning-drawing/) · [sol lewitt wall drawing #63](https://www.artic.edu/artworks/105023/wall-drawing-63-a-wall-is-divided-into-four-horizontal-parts-in-the-top-row-are-four-equal-vertical-divisions-each-with-lines-in-a-different-direction-in-the-second-row-six-double-combinations-in-the-third-row-four-triple-combinations-in-the-bottom-row-all-four-combinations-superimposed) · [leonardo da vinci - drawing of a flood](https://www.wikiart.org/en/leonardo-da-vinci/drawing-of-an-flood) · [drawing restraint 2 (1988)](https://www.wikiart.org/en/matthew-barney/drawing-restraint-2-1988)
+
+**[[Artist - sol lewitt]]** — [sol lewitt (nyt)](https://www.nytimes.com/2007/04/09/arts/design/09lewitt.html) · [sol lewitt (bomb)](https://bombmagazine.org/articles/sol-lewitt/) · [sol lewitt münchen 1986](https://dreher.netzliteratur.net/3_Konzeptkunst_SolLeWitt3.html) · [sol lewitt in retrospect](https://www.artforum.com/print/200002/sum-and-the-parts-sol-lewitt-in-retrospect-263) · [sol lewitt wall drawing #63](https://www.artic.edu/artworks/105023/wall-drawing-63-a-wall-is-divided-into-four-horizontal-parts-in-the-top-row-are-four-equal-vertical-divisions-each-with-lines-in-a-different-direction-in-the-second-row-six-double-combinations-in-the-third-row-four-triple-combinations-in-the-bottom-row-all-four-combinations-superimposed)
+
+**[[Andy Warhol]]** — [Andy Warhol's Marilyn Monroe 31197 / Art / Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/andy-warhols-marilyn-monroe-31197?icmp=LP-SHSB-XL-Art_Warhol_Sidekick_XL_Monroe_31197-TH-NO-SKIXQ63RLD) · [10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson) · [andy warhol's silver factory](https://www.anothermag.com/art-photography/7826/behind-the-scenes-at-andy-warhols-silver-factory)
+
+**[[Artist - cy twombly]]** — [Biography - Cy Twombly Foundation](http://www.cytwombly.org/biography) · [cy twombly - hero and leandro](https://www.wikiart.org/en/cy-twombly/hero-and-leandro-a-painting-in-four-parts-part-iii) · [cy twombly: against interpretation](http://www.miacollectiveart.com/articles/2017/1/13/cy-twombly-against-interpretation) · [is cy twombly what's wrong with modern art?](https://www.chron.com/entertainment/article/Is-Cy-Twombly-what-s-wrong-with-modern-art-1920782.php)
+
+**[[Artist - andy warhol]]** — [Andy Warhol's Marilyn Monroe 31197 / Art / Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/andy-warhols-marilyn-monroe-31197?icmp=LP-SHSB-XL-Art_Warhol_Sidekick_XL_Monroe_31197-TH-NO-SKIXQ63RLD) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson) · [andy warhol's silver factory](https://www.anothermag.com/art-photography/7826/behind-the-scenes-at-andy-warhols-silver-factory)
+
+**[[Art Fills the God-Shaped Hole]]** — [jahra wasasala - god-house](https://jahra.xyz/godhouse) · [jerry hall and mick jagger had a “terrible” experience after eating a 'psychedelic' omelette](https://www.music-news.com/news/UK/37088/Read)
+
+**[[Artist - kanye west]]** — [kanye west calls matthew barney jesus](https://news.artnet.com/art-world/kanye-west-called-his-life-walking-performance-art-527441) · [kanye west: "matthew barney is my jesus"](https://www.stereogum.com/1884763/kanye-west-explains-his-shocking-famous-video-matthew-barney-is-my-jesus/news/)
+
+**[[Artist - pipilotti rist]]** — [Pipilotti Rist - Wikipedia](https://en.wikipedia.org/wiki/Pipilotti_Rist) · [pipilotti rist: big heartedness, be my neighbor](https://www.moca.org/exhibition/pipilotti-rist)
+
+**[[Artist - vincent van gogh]]** — [Vincent van Gogh - Wikipedia](https://en.wikipedia.org/wiki/Vincent_van_Gogh) · [A Newly Discovered Vincent van Gogh Drawing of a Bummed-Out Old Man Has Been Unveiled in Amsterdam / Artnet News](https://news.artnet.com/art-world/rediscovered-van-gogh-drawing-old-man-2009920)
+
+**[[Memory and Preservation]]** — [The Persistence of Memory - Wikipedia](https://en.wikipedia.org/wiki/The_Persistence_of_Memory) · [jasper johns: how a gray painting can break your heart](https://www.nytimes.com/interactive/2022/01/16/arts/design/jasper-johns-memory-of-my-feelings.html)
+
+**[[Artist - andrew wyeth]]** — [An In-Depth Look at 'Christina's World' by Andrew Wyeth](https://www.thoughtco.com/christinas-world-by-andrew-wyeth-183007)
+
+**[[Artist - cam collins]]** — [cam collins](https://camcollins.neocities.org/)
+
+**[[Artist - egon schiele]]** — [Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
+
+**[[Artist - fernando]]** — [Fernando Ciancolini, l’ultimo scalpellino eccellenza vitorchianese / TusciaUp](https://www.tusciaup.com/fernando-ciancolini-lultimo-scalpellino-eccellenza-vitorchianese/110729)
+
+**[[Artist - gary larson]]** — [shel silverstein, gary larson and albert einstein](https://www.mentalfloss.com/article/18545/shel-silverstein-gary-larson-and-albert-einstein-their-first-29-years)
+
+**[[Artist - hilma af klint]]** — [Hilma af Klint - Wikipedia](https://en.wikipedia.org/wiki/Hilma_af_Klint)
+
+**[[Artist - julie mehretu]]** — [Julie Mehretu - Wikipedia](https://en.wikipedia.org/wiki/Julie_Mehretu)
+
+**[[Artist - le corbusier]]** — [Le Corbusier Lamps — ICR - ICC](https://www.icr-icc.com/le-corbusier-lamps)
+
+**[[Artist - leonardo da vinci]]** — [leonardo da vinci - drawing of a flood](https://www.wikiart.org/en/leonardo-da-vinci/drawing-of-an-flood)
+
+**[[Artist - margaret kilgallen]]** — [Margaret Kilgallen - Wikipedia](https://en.wikipedia.org/wiki/Margaret_Kilgallen)
+
+**[[Artist - marsden hartley]]** — [marsden hartley](https://www.nga.gov/collection/artist-info.1375.html)
+
+**[[Artist - mary cassatt]]** — [mary cassatt - complete works](https://www.marycassatt.org/the-complete-works.html?pageno=1)
+
+**[[Artist - pablo picasso]]** — [pablo picasso — picador, 1889](https://www.pablo-ruiz-picasso.net/work-261.php)
+
+**[[Artist - pavel tchelitchew]]** — [Pavel Tchelitchew - Hide-and-Seek, 16x12" (A3) Poster Print – Period Prints](https://periodprints.com/products/pavel-tchelitchew-hide-and-seek-16x12-a3-poster-print)
+
+**[[Artist - peter saville]]** — [peter saville: uk's most famous graphic designer](https://www.theguardian.com/artanddesign/2013/sep/08/peter-saville-uks-famous-graphic-designer)
+
+**[[Artist - richard diebenkorn]]** — [richard diebenkorn biography](https://diebenkorn.org/the-artist/biography/)
+
+**[[Artist - richard serra]]** — [Richard Serra - Wikipedia](https://en.wikipedia.org/wiki/Richard_Serra)
+
+**[[Artist - robert bechtle]]** — [Robert Bechtle - Wikipedia](https://en.wikipedia.org/wiki/Robert_Bechtle)
+
+**[[Artist - robert crumb]]** — [Robert Crumb - Wikipedia](https://en.wikipedia.org/wiki/Robert_Crumb)
+
+**[[Artist - rudolf arnheim]]** — [Rudolf Arnheim - Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Arnheim)
+
+**[[Dead Architecture]]** — [“Radical Nature: Art and Architecture for a Changing Planet, 1969–2009” at Barbican Art Gallery - Artforum International](https://www.artforum.com/print/previews/200905/radical-nature-art-and-architecture-for-a-changing-planet-1969-2009-22688)
+
+**[[Egon Schiele]]** — [Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
+
+**[[Interpolating the Instruction Set]]** — [cinestill df96 b&w monobath](https://cinestillfilm.com/products/df96-developer-fix-b-w-monobath-single-step-solution-for-processing-at-home)
+
+**[[Megan]]** — [megan boyle & tao lin - mdma (2011)](https://ubu.com/film/lin_tao_mdma.html)
+
+**[[Post-Irony]]** — [Interior Semiotics / Know Your Meme](https://knowyourmeme.com/memes/interior-semiotics)
+
+**[[Synesthesia]]** — [what is pop art in the 21st century?](https://www.widewalls.ch/magazine/what-is-pop-art)
+
+**[[The Archive as Consciousness]]** — [the racist underbelly of instagram moodboards](https://fashionandrace.org/database/the-racist-underbelly-of-instagram-moodboards/)
+
+**[[The Attention Economy]]** — [stormrider](https://billwear.github.io/art-of-attention.html?utm_source=tldrnewsletter)
+
+**[[The Flâneur as Web Surfer]]** — [flâneur](https://www.tate.org.uk/art/art-terms/f/flaneur)
+
+**[[The Oedipal Screen]]** — [psychoanalysis of shinji ikari](https://medium.com/@ronnakritoathenglertrattana/neon-genesis-evangelion-main-character-psychoanalysis-why-shinji-ikari-is-so-weird-51b05b8b347d)
+
+**[[The Tedium of the Art Is the Goal]]** — [walt disney concert hall process](http://wdch10.laphil.com/wdch/process.html)
+
+**[[The Work of Art in the Age of Mechanical Reproduction]]** — [The Work of Art in the Age of Mechanical Reproduction - Wikipedia](https://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction)
+
+**[[Trainpilled]]** — [Did a Silent Film About a Train Really Cause Audiences to Stampede? - Atlas Obscura](https://www.atlasobscura.com/articles/did-a-silent-film-about-a-train-really-cause-audiences-to-stampede)
+
+<!-- kb-links:end -->

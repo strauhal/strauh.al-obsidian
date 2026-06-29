@@ -1,0 +1,25 @@
+---
+title: "a wheatfield with cypresses by vincent van gogh 1889"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg"
+source_relpath: "1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg"
+collection: "1800s"
+inferred_year: "1889"
+artist: "vincent van gogh"
+dimensions: "1080x1361"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1800s"]
+---
+# a wheatfield with cypresses by vincent van gogh 1889
+
+![[media/strauh.al3.1/1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg]]
+
+Collection: [[Collection - 1800s]]
+
+Date bucket: [[Date Bucket - 1880s]]
+
+Artist: [[Artist - vincent van gogh]]
+
+Source: [[media/strauh.al3.1/1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/a_wheatfield_with_cypresses_by_vincent_van_gogh_1889.jpeg`

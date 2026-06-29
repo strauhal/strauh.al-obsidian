@@ -1,0 +1,29 @@
+---
+title: "Artist - charlotte dumas 2006"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - charlotte dumas 2006
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/2000s/icelandic_horse_by_charlotte_dumas_2006.jpg]]
+
+## Image Notes
+
+- [[icelandic horse by charlotte dumas 2006 96003ce4|icelandic horse by charlotte dumas 2006]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - charlotte dumas|Artist - charlotte dumas]] — named in this note
+- [[knowledge/wiki/artists/Artist - marlene dumas|Artist - marlene dumas]] — shared language: dumas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marlene dumas 2002|Artist - marlene dumas 2002]] — shared language: dumas
+- [[knowledge/wiki/images/the woman who died of a broken heart by marlene dumas 2002 87d0707e|the woman who died of a broken heart by marlene dumas 2002]] — shared language: dumas
+- [[knowledge/wiki/images/line drawing of a horse chewing grass 1d319589|line drawing of a horse chewing grass]] — shared language: horse
+- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
+<!-- vault-crosslinks:end -->

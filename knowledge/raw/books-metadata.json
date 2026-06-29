@@ -1,0 +1,807 @@
+{
+  "_README": "Curated metadata overrides for the books importer (tools/wiki_books.py). Keyed by the EXACT source filename as it appears in the Readings folder / title list. Each entry may set: title (clean display title), author, year (original work, not edition), category (one of the Library categories), aliases (list). Imputed by research/identification to repair 'Unknown' authors and garbled titles; survives `wiki_refresh.py`. Add new entries here rather than editing files under knowledge/wiki/books/ directly.",
+  "06b_benjamin-work of art in the age of mechanical reproduction.pdf": {
+    "title": "The Work of Art in the Age of Mechanical Reproduction",
+    "author": "Walter Benjamin",
+    "year": "1935",
+    "category": "Art and Aesthetics",
+    "concepts": [
+      "AI Slop",
+      "Memory and Preservation",
+      "The Attention Economy"
+    ]
+  },
+  "129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf": {
+    "title": "The Search for the Manchurian Candidate",
+    "author": "John Marks",
+    "year": "1979",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "1711.00937.pdf": {
+    "title": "Neural Discrete Representation Learning (VQ-VAE)",
+    "author": "Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu",
+    "year": "2017",
+    "category": "Media and Technology",
+    "concepts": [
+      "Latent Space",
+      "Human-Machine Tug of War"
+    ]
+  },
+  "2015.187696.A-Vision.pdf": {
+    "title": "A Vision",
+    "author": "W. B. Yeats",
+    "year": "1925",
+    "category": "Spirituality and Esoterica"
+  },
+  "2015.29158.The-Story-Of-Art.pdf": {
+    "title": "The Story of Art",
+    "author": "E. H. Gombrich",
+    "year": "1950",
+    "category": "Art and Aesthetics",
+    "concepts": [
+      "Spontaneity and Elegance"
+    ]
+  },
+  "2202.11765.pdf": {
+    "title": "When Do GANs Replicate? On the Choice of Dataset Size",
+    "author": "Qianli Feng, Chenqi Guo, Fabian Benitez-Quiroz, Aleix Martinez",
+    "year": "2022",
+    "category": "Media and Technology",
+    "concepts": [
+      "Latent Space",
+      "AI Slop",
+      "Human-Machine Tug of War"
+    ]
+  },
+  "2301.11325.pdf": {
+    "title": "MusicLM: Generating Music From Text",
+    "author": "Andrea Agostinelli et al. (Google Research)",
+    "year": "2023",
+    "category": "Music and Sound",
+    "concepts": [
+      "Latent Space",
+      "AI Slop"
+    ]
+  },
+  "Analects_of_Confucius_(Eno-2015).pdf": {
+    "title": "The Analects of Confucius",
+    "author": "Confucius (trans. Robert Eno)",
+    "year": "",
+    "category": "Spirituality and Esoterica"
+  },
+  "aniara.pdf": {
+    "title": "Aniara",
+    "author": "Harry Martinson",
+    "year": "1956",
+    "category": "Literature"
+  },
+  "harry_martinson_(aniara).pdf": {
+    "title": "Aniara",
+    "author": "Harry Martinson",
+    "year": "1956",
+    "category": "Literature"
+  },
+  "arnheim.pdf.pdf": {
+    "title": "Art and Visual Perception",
+    "author": "Rudolf Arnheim",
+    "year": "1954",
+    "category": "Art and Aesthetics",
+    "concepts": [
+      "Spontaneity and Elegance"
+    ]
+  },
+  "AThousandPlateaus_20180115%2FA-Thousand-Plateaus.epub": {
+    "title": "A Thousand Plateaus",
+    "author": "Gilles Deleuze, Félix Guattari",
+    "year": "1980",
+    "category": "Philosophy",
+    "concepts": [
+      "Latent Space"
+    ]
+  },
+  "Attali_Jacques_Noise_The_Political_Economy_of_Music.pdf": {
+    "title": "Noise: The Political Economy of Music",
+    "author": "Jacques Attali",
+    "year": "1977",
+    "category": "Music and Sound",
+    "concepts": [
+      "The Attention Economy"
+    ]
+  },
+  "Basic Writings of Nietzsche.epub": {
+    "title": "Basic Writings of Nietzsche",
+    "author": "Friedrich Nietzsche",
+    "year": "",
+    "category": "Philosophy",
+    "concepts": [
+      "Amor Fati"
+    ]
+  },
+  "beuys on drawing.pdf": {
+    "title": "Beuys on Drawing",
+    "author": "Joseph Beuys",
+    "year": "",
+    "category": "Art and Aesthetics"
+  },
+  "beyond good & evil.pdf": {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "year": "1886",
+    "category": "Philosophy",
+    "concepts": [
+      "Amor Fati"
+    ]
+  },
+  "bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship.pdf": {
+    "title": "Artificial Hells: Participatory Art and the Politics of Spectatorship",
+    "author": "Claire Bishop",
+    "year": "2012",
+    "category": "Art and Aesthetics",
+    "concepts": [
+      "The Attention Economy"
+    ]
+  },
+  "Bonsanquent1886-The_Introduction_to_Hegel_s_Philosophy_of_Fine_Art.pdf": {
+    "title": "The Introduction to Hegel's Philosophy of Fine Art",
+    "author": "Bernard Bosanquet",
+    "year": "1886",
+    "category": "Art and Aesthetics"
+  },
+  "Branston_Tyler_MA_2023.pdf": {
+    "title": "Branston, Tyler — MA Thesis (2023)",
+    "author": "Tyler Branston",
+    "year": "2023",
+    "category": "Art and Aesthetics"
+  },
+  "Cage_John_Notations.pdf": {
+    "title": "Notations",
+    "author": "John Cage",
+    "year": "1969",
+    "category": "Music and Sound"
+  },
+  "capital-v1.epub": {
+    "title": "Capital, Volume I",
+    "author": "Karl Marx",
+    "year": "1867",
+    "category": "Politics and Society"
+  },
+  "capital-v2.epub": {
+    "title": "Capital, Volume II",
+    "author": "Karl Marx",
+    "year": "1885",
+    "category": "Politics and Society"
+  },
+  "capital-v3.epub": {
+    "title": "Capital, Volume III",
+    "author": "Karl Marx",
+    "year": "1894",
+    "category": "Politics and Society"
+  },
+  "capital-v4.epub": {
+    "title": "Capital, Volume IV (Theories of Surplus Value)",
+    "author": "Karl Marx",
+    "year": "",
+    "category": "Politics and Society"
+  },
+  "Capital-Volume-I.pdf": {
+    "title": "Capital, Volume I",
+    "author": "Karl Marx",
+    "year": "1867",
+    "category": "Politics and Society"
+  },
+  "Christopher Dorner's Manifesto.epub": {
+    "title": "Christopher Dorner's Manifesto",
+    "author": "Christopher Dorner",
+    "year": "2013",
+    "category": "Politics and Society"
+  },
+  "CIA. Psychological Operations In Guerrilla Warfare - libgen.li.pdf": {
+    "title": "Psychological Operations in Guerrilla Warfare",
+    "author": "Central Intelligence Agency",
+    "year": "1983",
+    "category": "Politics and Society"
+  },
+  "Confessions.epub": {
+    "title": "Confessions",
+    "author": "Augustine of Hippo",
+    "year": "397",
+    "category": "Spirituality and Esoterica"
+  },
+  "consolation of philosophy.pdf": {
+    "title": "The Consolation of Philosophy",
+    "author": "Boethius",
+    "year": "524",
+    "category": "Philosophy"
+  },
+  "critique of judgement.pdf": {
+    "title": "Critique of Judgment",
+    "author": "Immanuel Kant",
+    "year": "1790",
+    "category": "Philosophy"
+  },
+  "Crowley_on_Drugs.pdf": {
+    "title": "Crowley on Drugs",
+    "author": "Aleister Crowley",
+    "year": "",
+    "category": "Spirituality and Esoterica"
+  },
+  "Deleuze_on-Ethics.pdf": {
+    "title": "Deleuze on Ethics",
+    "author": "Gilles Deleuze",
+    "year": "",
+    "category": "Philosophy"
+  },
+  "Designing Your Life.epub": {
+    "title": "Designing Your Life",
+    "author": "Bill Burnett, Dave Evans",
+    "year": "2016",
+    "category": "Design and Making"
+  },
+  "dialectics-nature.epub": {
+    "title": "Dialectics of Nature",
+    "author": "Friedrich Engels",
+    "year": "1883",
+    "category": "Philosophy"
+  },
+  "dokumen.pub_the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west-9780593798706-9780593798690-9798217086269.epub": {
+    "title": "The Technological Republic: Hard Power, Soft Belief, and the Future of the West",
+    "author": "Alexander C. Karp, Nicholas W. Zamiska",
+    "year": "2025",
+    "category": "Media and Technology",
+    "concepts": [
+      "AI Slop",
+      "The Attention Economy"
+    ]
+  },
+  "Drawings of Joseph Beuys (MOMA) (z-lib.org).pdf": {
+    "title": "Drawings of Joseph Beuys (MoMA)",
+    "author": "Joseph Beuys",
+    "year": "",
+    "category": "Art and Aesthetics"
+  },
+  "ebin.pub_technically-man-dwells-upon-this-earth-992579840x-9789925798407-b-8689977.epub": {
+    "title": "Technically, Man Dwells Upon This Earth",
+    "author": "",
+    "year": "",
+    "category": "Art and Aesthetics"
+  },
+  "excerpt_from_Cinema-2-the-Time-Image.pdf": {
+    "title": "Cinema 2: The Time-Image (excerpt)",
+    "author": "Gilles Deleuze",
+    "year": "1985",
+    "category": "Philosophy",
+    "concepts": [
+      "Dead Architecture"
+    ]
+  },
+  "excerpt-from-Difference_and_Repetition.pdf": {
+    "title": "Difference and Repetition (excerpt)",
+    "author": "Gilles Deleuze",
+    "year": "1968",
+    "category": "Philosophy",
+    "concepts": [
+      "Latent Space"
+    ]
+  },
+  "excerpt_from_Grosz_Chaos-Territory-Art.pdf": {
+    "title": "Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt)",
+    "author": "Elizabeth Grosz",
+    "year": "2008",
+    "category": "Art and Aesthetics"
+  },
+  "foucault-the-history-of-sexuality-volume-1.pdf": {
+    "title": "The History of Sexuality, Volume 1",
+    "author": "Michel Foucault",
+    "year": "1976",
+    "category": "Philosophy"
+  },
+  "foucault-the-history-of-sexuality-volume-2.pdf": {
+    "title": "The History of Sexuality, Volume 2",
+    "author": "Michel Foucault",
+    "year": "1984",
+    "category": "Philosophy"
+  },
+  "foucault-the-history-of-sexuality-volume-3.pdf": {
+    "title": "The History of Sexuality, Volume 3",
+    "author": "Michel Foucault",
+    "year": "1984",
+    "category": "Philosophy"
+  },
+  "friedberg-the-virtual-window-from-alberti-to-microsoft-2006 (1) (1).pdf": {
+    "title": "The Virtual Window: From Alberti to Microsoft",
+    "author": "Anne Friedberg",
+    "year": "2006",
+    "category": "Media and Technology",
+    "concepts": [
+      "The Oedipal Screen",
+      "Latent Space"
+    ]
+  },
+  "Fukuyama-The-End-of-History.pdf": {
+    "title": "The End of History and the Last Man",
+    "author": "Francis Fukuyama",
+    "year": "1992",
+    "category": "Politics and Society"
+  },
+  "g-w-f-hegel-aesthetics-lectures-on-fine-art-volume-1.pdf": {
+    "title": "Aesthetics: Lectures on Fine Art, Volume 1",
+    "author": "G. W. F. Hegel",
+    "year": "1835",
+    "category": "Art and Aesthetics"
+  },
+  "GB_Site-1_Peli-Grietzer_Eng.pdf": {
+    "title": "Ambient Meaning (essay)",
+    "author": "Peli Grietzer",
+    "year": "",
+    "category": "Philosophy"
+  },
+  "gilles-deleuze-fold_-leibniz-and-the-baroque-athlone-contemporary-european-thinkers-athlone-press-1993.pdf": {
+    "title": "The Fold: Leibniz and the Baroque",
+    "author": "Gilles Deleuze",
+    "year": "1988",
+    "category": "Philosophy",
+    "concepts": [
+      "Latent Space"
+    ]
+  },
+  "gilles-deleuze-postscript-on-the-societies-of-control.pdf": {
+    "title": "Postscript on the Societies of Control",
+    "author": "Gilles Deleuze",
+    "year": "1990",
+    "category": "Philosophy",
+    "concepts": [
+      "The Attention Economy"
+    ]
+  },
+  "Harold Cohen,  Robotic Artist, 1995.pdf": {
+    "title": "Harold Cohen, Robotic Artist",
+    "author": "Harold Cohen",
+    "year": "1995",
+    "category": "Art and Aesthetics"
+  },
+  "Hegel-Glossary.pdf": {
+    "title": "Hegel Glossary",
+    "author": "G. W. F. Hegel",
+    "year": "",
+    "category": "Philosophy"
+  },
+  "Hegel_GWF-The_Master_Slave_Dialectic.pdf": {
+    "title": "The Master-Slave Dialectic",
+    "author": "G. W. F. Hegel",
+    "year": "1807",
+    "category": "Philosophy"
+  },
+  "History Of Western Philosophy.pdf": {
+    "title": "A History of Western Philosophy",
+    "author": "Bertrand Russell",
+    "year": "1945",
+    "category": "Philosophy"
+  },
+  "In Search of Lost Time (Complete Volumes).epub": {
+    "title": "In Search of Lost Time (Complete Volumes)",
+    "author": "Marcel Proust",
+    "year": "1913",
+    "category": "Literature",
+    "concepts": [
+      "Memory and Preservation",
+      "Autofiction"
+    ]
+  },
+  "Industrial Society and Its Future.pdf": {
+    "title": "Industrial Society and Its Future",
+    "author": "Theodore Kaczynski",
+    "year": "1995",
+    "category": "Politics and Society",
+    "concepts": [
+      "The Attention Economy",
+      "AI Slop",
+      "Trainpilled"
+    ]
+  },
+  "intelligent investor.pdf": {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "year": "1949",
+    "category": "Politics and Society"
+  },
+  "Intro-Tibetan-Buddhism-John-Powers.pdf": {
+    "title": "Introduction to Tibetan Buddhism",
+    "author": "John Powers",
+    "year": "1995",
+    "category": "Spirituality and Esoterica"
+  },
+  "Intro-Tibetan-Buddhism-John-Powers 2.pdf": {
+    "title": "Introduction to Tibetan Buddhism",
+    "author": "John Powers",
+    "year": "1995",
+    "category": "Spirituality and Esoterica"
+  },
+  "ItzhakBentov-StalkingTheWildPendulum_OnTheMechanicsOfConsciousnessV1_text.pdf": {
+    "title": "Stalking the Wild Pendulum: On the Mechanics of Consciousness",
+    "author": "Itzhak Bentov",
+    "year": "1977",
+    "category": "Spirituality and Esoterica",
+    "concepts": [
+      "Latent Space"
+    ]
+  },
+  "jameson.pdf": {
+    "title": "Postmodernism, or, the Cultural Logic of Late Capitalism",
+    "author": "Fredric Jameson",
+    "year": "1991",
+    "category": "Politics and Society"
+  },
+  "jean-baudrillard-the-conspiracy-of-art.pdf": {
+    "title": "The Conspiracy of Art",
+    "author": "Jean Baudrillard",
+    "year": "2005",
+    "category": "Art and Aesthetics",
+    "concepts": [
+      "AI Slop"
+    ]
+  },
+  "Kaczynski Anti-Tech Revolution Why and How.pdf": {
+    "title": "Anti-Tech Revolution: Why and How",
+    "author": "Theodore Kaczynski",
+    "year": "2016",
+    "category": "Politics and Society",
+    "concepts": [
+      "The Attention Economy",
+      "AI Slop"
+    ]
+  },
+  "Kant_ A Very Short Introduction (Very Short Introductions).epub": {
+    "title": "Kant: A Very Short Introduction",
+    "author": "Roger Scruton",
+    "year": "2001",
+    "category": "Philosophy"
+  },
+  "Knight & Stiny-Making Grammars.pdf": {
+    "title": "Making Grammars: From Computing with Shapes to Computing with Things",
+    "author": "Terry Knight, George Stiny",
+    "year": "2015",
+    "category": "Design and Making"
+  },
+  "KOJEVE-introduction-to-the-reading-of-hegel-zg6tm7.pdf": {
+    "title": "Introduction to the Reading of Hegel",
+    "author": "Alexandre Kojève",
+    "year": "1947",
+    "category": "Philosophy"
+  },
+  "Lacan on Paranoiac Knowledge .txt": {
+    "title": "Lacan on Paranoiac Knowledge",
+    "author": "Jacques Lacan",
+    "year": "",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "leo-bersani-is-the-rectum-a-grave-1.pdf": {
+    "title": "Is the Rectum a Grave?",
+    "author": "Leo Bersani",
+    "year": "1987",
+    "category": "Psychoanalysis and Psychology",
+    "concepts": [
+      "The Oedipal Screen"
+    ]
+  },
+  "Luke_Caldwell_Schizophrenizing_Lacan.pdf": {
+    "title": "Schizophrenizing Lacan",
+    "author": "Luke Caldwell",
+    "year": "",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "manifesto.epub": {
+    "title": "The Communist Manifesto",
+    "author": "Karl Marx, Friedrich Engels",
+    "year": "1848",
+    "category": "Politics and Society"
+  },
+  "[Mark_Fisher]_Capitalist_Realism_Is_There_no_Alte(BookZZ.org).pdf": {
+    "title": "Capitalist Realism: Is There No Alternative?",
+    "author": "Mark Fisher",
+    "year": "2009",
+    "category": "Politics and Society",
+    "concepts": [
+      "AI Slop",
+      "The Attention Economy"
+    ]
+  },
+  "Marx-Engels-Reader.pdf": {
+    "title": "The Marx-Engels Reader",
+    "author": "Karl Marx, Friedrich Engels (ed. Robert C. Tucker)",
+    "year": "1978",
+    "category": "Philosophy"
+  },
+  "Mayakovsky Cloud in Trousers.pdf": {
+    "title": "A Cloud in Trousers",
+    "author": "Vladimir Mayakovsky",
+    "year": "1915",
+    "category": "Literature"
+  },
+  "Moby-Dick or, The whale.epub": {
+    "title": "Moby-Dick; or, The Whale",
+    "author": "Herman Melville",
+    "year": "1851",
+    "category": "Literature"
+  },
+  "montaigne.epub": {
+    "title": "The Complete Essays",
+    "author": "Michel de Montaigne",
+    "year": "1580",
+    "category": "Literature"
+  },
+  "My Twisted World.epub": {
+    "title": "My Twisted World",
+    "author": "Elliot Rodger",
+    "year": "2014",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "rodger_manifesto.pdf": {
+    "title": "My Twisted World (manifesto)",
+    "author": "Elliot Rodger",
+    "year": "2014",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "nicomachean ethics.pdf": {
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "year": "",
+    "category": "Philosophy"
+  },
+  "On-Writing-Well-30th-Anniversa-Zinsser-William.pdf": {
+    "title": "On Writing Well",
+    "author": "William Zinsser",
+    "year": "1976",
+    "category": "Literature"
+  },
+  "plato's republic.pdf": {
+    "title": "The Republic",
+    "author": "Plato",
+    "year": "",
+    "category": "Philosophy"
+  },
+  "portable nietzsche.pdf": {
+    "title": "The Portable Nietzsche",
+    "author": "Friedrich Nietzsche (ed. Walter Kaufmann)",
+    "year": "1954",
+    "category": "Philosophy",
+    "concepts": [
+      "Amor Fati"
+    ]
+  },
+  "PrincipiaQualia.pdf": {
+    "title": "Principia Qualia",
+    "author": "Michael Edward Johnson",
+    "year": "2016",
+    "category": "Psychoanalysis and Psychology"
+  },
+  "Puar_Bodies-with-New-Organs.pdf": {
+    "title": "Bodies with New Organs",
+    "author": "Jasbir K. Puar",
+    "year": "2015",
+    "category": "Politics and Society"
+  },
+  "Quotations_from_Chairman_Mao_Tse-tung.pdf": {
+    "title": "Quotations from Chairman Mao Tse-tung",
+    "author": "Mao Zedong",
+    "year": "1964",
+    "category": "Politics and Society"
+  },
+  "Radio_Shack_Electronics_Learning_Lab_01.pdf": {
+    "title": "Radio Shack Electronics Learning Lab",
+    "author": "Forrest M. Mims III",
+    "year": "",
+    "category": "Design and Making"
+  },
+  "ranciere_the_monument_and_its_confidences.pdf": {
+    "title": "The Monument and Its Confidences",
+    "author": "Jacques Rancière",
+    "year": "",
+    "category": "Art and Aesthetics"
+  },
+  "Ray_Gene_ed_Joseph_Beuys_Mapping_the_Legacy.pdf": {
+    "title": "Joseph Beuys: Mapping the Legacy",
+    "author": "Gene Ray (ed.)",
+    "year": "2001",
+    "category": "Art and Aesthetics"
+  },
+  "Refiguring the Spiritual Beuys, Barney, Turrell, Goldsworthy (Mark C. Taylor) (z-lib.org).pdf": {
+    "title": "Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy",
+    "author": "Mark C. Taylor",
+    "year": "2012",
+    "category": "Art and Aesthetics"
+  },
+  "schopenhauer world as will.pdf": {
+    "title": "The World as Will and Representation",
+    "author": "Arthur Schopenhauer",
+    "year": "1818",
+    "category": "Philosophy"
+  },
+  "shop class as soulcraft copy.pdf": {
+    "title": "Shop Class as Soulcraft",
+    "author": "Matthew B. Crawford",
+    "year": "2009",
+    "category": "Design and Making",
+    "concepts": [
+      "Spontaneity and Elegance",
+      "Trainpilled"
+    ]
+  },
+  "situationalawareness.pdf": {
+    "title": "Situational Awareness: The Decade Ahead",
+    "author": "Leopold Aschenbrenner",
+    "year": "2024",
+    "category": "Media and Technology",
+    "concepts": [
+      "AI Slop"
+    ]
+  },
+  "Szeliski_CVAABook_2ndEd.pdf": {
+    "title": "Computer Vision: Algorithms and Applications",
+    "author": "Richard Szeliski",
+    "year": "2022",
+    "category": "Media and Technology",
+    "concepts": [
+      "Latent Space",
+      "Human-Machine Tug of War"
+    ]
+  },
+  "Tea, Scones and Socially Responsible Sex Magic- The Egalitarian Occultism of Dion Fortune.pdf": {
+    "title": "Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune",
+    "author": "",
+    "year": "",
+    "category": "Spirituality and Esoterica"
+  },
+  "THE ARCADES PROJECT.pdf": {
+    "title": "The Arcades Project",
+    "author": "Walter Benjamin",
+    "year": "1982",
+    "category": "Philosophy",
+    "concepts": [
+      "Memory and Preservation",
+      "The Attention Economy"
+    ]
+  },
+  "The Book of Disquiet.epub": {
+    "title": "The Book of Disquiet",
+    "author": "Fernando Pessoa",
+    "year": "1982",
+    "category": "Literature",
+    "concepts": [
+      "Autofiction",
+      "Post-Irony"
+    ]
+  },
+  "The Complete Chord Formulas Handbook.pdf": {
+    "title": "The Complete Chord Formulas Handbook",
+    "author": "",
+    "year": "",
+    "category": "Music and Sound"
+  },
+  "The Essays of Warren Buffett Lessons for Corporate America Third Edition.epub": {
+    "title": "The Essays of Warren Buffett: Lessons for Corporate America",
+    "author": "Warren Buffett, Lawrence A. Cunningham",
+    "year": "1997",
+    "category": "Politics and Society"
+  },
+  "the-great-gatsby.pdf": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": "1925",
+    "category": "Literature"
+  },
+  "The History of Magic (Eliphas Levi A. E. Waite (transl.)) (z-lib.org).epub": {
+    "title": "The History of Magic",
+    "author": "Éliphas Lévi (trans. A. E. Waite)",
+    "year": "1860",
+    "category": "Spirituality and Esoterica"
+  },
+  "The Middle Pillar The Balance Between Mind and Magic (Israel Regardie, Chic Cicero etc.) (z-lib.org).pdf": {
+    "title": "The Middle Pillar: The Balance Between Mind and Magic",
+    "author": "Israel Regardie",
+    "year": "1938",
+    "category": "Spirituality and Esoterica"
+  },
+  "The New Jim Crow.epub": {
+    "title": "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
+    "author": "Michelle Alexander",
+    "year": "2010",
+    "category": "Politics and Society"
+  },
+  "the_social_contract.epub": {
+    "title": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "year": "1762",
+    "category": "Politics and Society"
+  },
+  "The spectral music of James Tenney.pdf": {
+    "title": "The Spectral Music of James Tenney",
+    "author": "",
+    "year": "",
+    "category": "Music and Sound"
+  },
+  "thedeleuzedictionary.pdf": {
+    "title": "The Deleuze Dictionary",
+    "author": "Adrian Parr (ed.)",
+    "year": "2005",
+    "category": "Philosophy"
+  },
+  "Thinking_Is_Form_The_Drawings_of_Joseph_Beuys_1993.pdf": {
+    "title": "Thinking Is Form: The Drawings of Joseph Beuys",
+    "author": "Ann Temkin, Bernice Rose",
+    "year": "1993",
+    "category": "Art and Aesthetics"
+  },
+  "thus spoke zarathustra.pdf": {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": "1883",
+    "category": "Philosophy",
+    "concepts": [
+      "Amor Fati"
+    ]
+  },
+  "tim hecker thesis.pdf": {
+    "title": "Tim Hecker — Thesis",
+    "author": "Tim Hecker",
+    "year": "",
+    "category": "Music and Sound"
+  },
+  "unknown-the-camp-of-the-saints": {
+    "title": "The Camp of the Saints",
+    "author": "Jean Raspail",
+    "year": "1973",
+    "category": "Literature"
+  },
+  "The Camp Of The Saints -- Unknown -- 2016 -- f306fa29267eedd660c2002e7842ad29 -- Anna’s Archive.epub": {
+    "title": "The Camp of the Saints",
+    "author": "Jean Raspail",
+    "year": "1973",
+    "category": "Literature"
+  },
+  "vision and visuality readings": {
+    "title": "Vision and Visuality",
+    "author": "Hal Foster (ed.)",
+    "year": "1988",
+    "category": "Art and Aesthetics"
+  },
+  "Wark_McKenzie_Capital_Is_Dead_Is_This_Something_Worse_2019.pdf": {
+    "title": "Capital Is Dead: Is This Something Worse?",
+    "author": "McKenzie Wark",
+    "year": "2019",
+    "category": "Politics and Society"
+  },
+  "Zen__the_Art_of_Macintosh1986.pdf": {
+    "title": "Zen and the Art of the Macintosh",
+    "author": "Michael Green",
+    "year": "1986",
+    "category": "Design and Making",
+    "concepts": [
+      "Spontaneity and Elegance",
+      "The Oedipal Screen"
+    ]
+  },
+  "aesops-fables-030--the-fox-and-the-grapes.pdf": {
+    "title": "Aesop's Fables: The Fox and the Grapes",
+    "author": "Aesop",
+    "year": "",
+    "category": "Literature"
+  },
+  "DEMYSTIFYING-MAXMSP.pdf": {
+    "title": "Demystifying Max/MSP",
+    "author": "",
+    "year": "",
+    "category": "Design and Making"
+  },
+  "Camus Albert - The Plague  - libgen.lc.html": {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "year": "1947",
+    "category": "Literature"
+  },
+  "Camus Albert - The Stranger  - libgen.lc.pdf": {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "year": "1942",
+    "category": "Literature"
+  }
+}

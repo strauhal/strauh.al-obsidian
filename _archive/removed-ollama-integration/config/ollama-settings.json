@@ -1,0 +1,13 @@
+{
+  "generation_model": "gemma4:latest",
+  "interactive_model": "gemma4:e2b-it-qat",
+  "embedding_model": "embeddinggemma",
+  "ollama_url": "http://127.0.0.1:11434",
+  "context_tokens": 16384,
+  "semantic_candidates": 48,
+  "rerank_candidates": 24,
+  "graph_results": 30,
+  "include_private": false,
+  "nightly_image_batch": 12,
+  "nightly_critic_batch": 40
+}

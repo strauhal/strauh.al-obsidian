@@ -1,0 +1,25 @@
+---
+title: "the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_brethren_of_joseph_requesting_benjamin_from_their_father_by_rembrandt_van_rijn_c_1643.jpeg"
+source_relpath: "1600s/the_brethren_of_joseph_requesting_benjamin_from_their_father_by_rembrandt_van_rijn_c_1643.jpeg"
+collection: "1600s"
+inferred_year: "1643"
+artist: "rembrandt van rijn"
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1600s"]
+---
+# the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643
+
+![[media/strauh.al3.1/1600s/the_brethren_of_joseph_requesting_benjamin_from_their_father_by_rembrandt_van_rijn_c_1643.jpeg]]
+
+Collection: [[Collection - 1600s]]
+
+Date bucket: [[Date Bucket - 1640s]]
+
+Artist: [[Artist - rembrandt van rijn]]
+
+Source: [[media/strauh.al3.1/1600s/the_brethren_of_joseph_requesting_benjamin_from_their_father_by_rembrandt_van_rijn_c_1643.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_brethren_of_joseph_requesting_benjamin_from_their_father_by_rembrandt_van_rijn_c_1643.jpeg`

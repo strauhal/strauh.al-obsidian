@@ -1,0 +1,25 @@
+---
+title: "mucius scaevola by cornelis bloemaert ii c 1635"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg"
+source_relpath: "1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg"
+collection: "1600s"
+inferred_year: "1635"
+artist: "cornelis bloemaert ii"
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1600s"]
+---
+# mucius scaevola by cornelis bloemaert ii c 1635
+
+![[media/strauh.al3.1/1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg]]
+
+Collection: [[Collection - 1600s]]
+
+Date bucket: [[Date Bucket - 1630s]]
+
+Artist: [[Artist - cornelis bloemaert ii]]
+
+Source: [[media/strauh.al3.1/1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/mucius_scaevola_by_cornelis_bloemaert_ii_c_1635.jpeg`

@@ -1,0 +1,18 @@
+---
+title: "Artist - chance the rapper"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - chance the rapper
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/2000s/no_problem_single_cover_art_by_chance_the_rapper_2016.jpeg]]
+
+## Image Notes
+
+- [[no problem single cover art by chance the rapper 2016 f437377a|no problem single cover art by chance the rapper 2016]]

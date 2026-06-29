@@ -1,0 +1,433 @@
+---
+title: Books Folder Title List
+slug: books
+type: library
+ingested: 2026-06-22
+compiled: true
+tags: [raw, books]
+---
+
+# Books Folder Title List
+
+Entries: 407
+
+- Figure Drawing for All It's Worth — Andrew Loomis (1951)
+- Introductory Lectures on Aesthetics — Bosanquet, Bernard Hegel,Georg,Wilhelm Friedrich Inwood, Michael (2010)
+- Psychological Operations in Guerrilla Warfare — Central Intelligence Agency (1983)
+- Adorno's Marxism — Christopher Cutrone (2013)
+- Science of Coercion Communication Research and Psychological Warfare, 1945-1960 — Christopher Simpson (1945)
+- Why art cannot be taught a handbook for art students — Elkins, James (2001)
+- The Denial of Death — Ernest Becker (1973)
+- Scattered Minds The Origins and Healing of Attention Deficit Disorder — Gabor Maté (2019)
+- Hegel's Ladder :The Odyssey of Spirit (Vol 2) — H. S. Harris (1997)
+- GÃ¶del, Escher, Bach An Eternal Golden Braid — Hofstadter, Douglas, R (1999)
+- Concerning the Spiritual in Art — Kandinsky, Wassily (2012)
+- Technopoly The Surrender of Culture to Technology — Neil Postman (1993)
+- The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal — T. Stevens, Michael (2016)
+- Introduction to Classical and Quantum Computing — Thomas G. Wong (2022)
+- Spinal Catastrophism — Thomas Moynihan (2019)
+- Illuminations Essays and Reflections — Walter Benjamin, Hannah Arendt, Hannah Arendt, Harry Zohn (1969)
+- Pattern Recognition - A Novel — William Gibson (2003)
+- Francis Bacon The Logic of Sensation-Continuum — (Athlone Contemporary European Thinkers) Gilles Deleuze (2003)
+- C. G. Jung & William McGuire & R. F. C. Hull & Sonu Shamdasani — (Bollingen Series) Introduction to Jungian Psychology Notes of the Seminar on Analytical Psychology Given in 1925 (1925)
+- Nietzsche The Gay Science-Cambridge University Press — (Cambridge texts in the history of philosophy) Williams, Bernard (2001)
+- The Upanishads-Nilgiri Press — (Classics of Indian spirituality) Eknath, Easwaran Nagler, Michael N (2007)
+- Code as Creative Medium A Handbook for Computational Art and Design-MIT Press — (EPUB) Golan Levin Tega Brain (2021)
+- Abloh-isms-Princeton University Press — (ISMs 6) Larry Warsh (2021)
+- Logical Investigations. 1-Routledge — (International library of philosophy) Edmund Husserl (2001)
+- High Priest-Ronin Publishing — (Leary, Timothy) Timothy Leary (1995)
+- Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras — (Machine Learning Mastery) Jason Brownlee (2016)
+- Meditations First Philosophy-Oxford University Press, USA — (Oxford World's Classics) René Descartes, Michael Moriarty (2008)
+- Art History The Key Concepts-Routledge — (Routledge Key Guides) Jonathan Harris (2006)
+- The Burnout Society-Stanford University Press — (Stanford Briefs) Byung-Chul Han (2015)
+- 06 25 19Harris Testimony
+- The Work of Art in the Age of Mechanical Reproduction — Walter Benjamin (1935)
+- 104-4-835
+- 10 04 A Novel — Ben Lerner (2014)
+- The Search for the Manchurian Candidate — John Marks (1979)
+- 1611354422128
+- 1619646949926
+- 1619925797187
+- 1620685278614
+- 1622209317013
+- 1625220285333
+- 1629045844123
+- 1655281517852
+- 1656134951169
+- Neural Discrete Representation Learning (VQ-VAE) — Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu (2017)
+- 1718806243791076
+- 1801-4007-1-SM (1801)
+- 19341bc934d85dd5d28bd14ad2ccb964
+- Salvador Dali - 50 Secrets Of Magic Craftsmanship — 1992 (1992)
+- A Vision — W. B. Yeats (1925)
+- The Story of Art — E. H. Gombrich (1950)
+- 2015.506393.essentials-of (2015)
+- 2018thorntonephd
+- 2022-slorktastic (2022)
+- When Do GANs Replicate? On the Choice of Dataset Size — Qianli Feng, Chenqi Guo, Fabian Benitez-Quiroz, Aleix Martinez (2022)
+- MusicLM: Generating Music From Text — Andrea Agostinelli et al. (Google Research) (2023)
+- 54b7f9bf8681400300255cab original
+- 7 There Will Come Soft Rains — Ray Bradbury
+- 9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality
+- 990ff2a8-737a-4981-8f3f-08a82b17d082
+- A Thousand Plateaus — Gilles Deleuze, Félix Guattari (1980)
+- How Proust Can Change Your Life-Vintage — Alain De Botton (1998)
+- The Joyous Cosmology Adventures in the Chemistry of Consciousness-Vintage — Alan W. Watts, Timothy Leary, Richard Alpert (1965)
+- The Stranger-Vintage — Albert Camus (1989)
+- Exile and the Kingdom — Albert Camus (1991)
+- The Fall V223 — Albert Camus (1963)
+- The Myth of Sisyphus And Other Essays — Albert Camus (1991)
+- Brave New World-Harper Perennial Modern Classics — Aldous Huxley (2010)
+- Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press — Alexandre KojÃ¨ve, Allan Bloom, James H. Nichols (1980)
+- Amusing Ourselves to Death Public Discourse in the Age of Show Business — Neil Postman
+- The Analects of Confucius — Confucius (trans. Robert Eno) (2015)
+- Thought-Forms-BiblioBazaar — Annie Besant (2007)
+- Anti-Oedipus Capitalism and Schizophrenia — Gilles Deleuze
+- Ape and Essence — Aldous Huxley
+- Art and Visual Perception, Second Edition A Psychology of — Rudolf Arnheim (2004)
+- The World as Will and Representation, Vol. 1-Dover Publications — Arthur Schopenhauer (2012)
+- Growing Young-McGraw-Hill — Ashley Montagu (1983)
+- Noise: The Political Economy of Music — Jacques Attali (1977)
+- Sacred knowledge psychedelics and religious experiences-Columbia University Press — Barnard, George William Richards, William A (2016)
+- Basic Writings of Nietzsche — Friedrich Nietzsche
+- The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books — Benebell Wen (2016)
+- Security Analysis 2008 McGraw-Hill - libgenlc — Benjamin Graham David Dodd Warren Buffett (2008)
+- In the Buddha's Words An Anthology of Discourses From the Pali Canon-Wisdom Publications — Bhikkhu Bodhi (2005)
+- Blood Meridian - Or the Evening Redness in the West — Cormac McCarthy (1985)
+- The Introduction to Hegel's Philosophy of Fine Art — Bernard Bosanquet (1886)
+- Branston, Tyler — MA Thesis (2023) — Tyler Branston (2023)
+- Brian Massumi on Affect - divine curation
+- What is Art Conversation with Joseph Beuys-Clairview Books — Bueys, Joseph Harlan, Volker (2012)
+- The Red Book A Reader's Edition-W. W. Norton & Company — C. G. Jung (2012)
+- CCA PRINTMEDIA BIBLIOGRAPHY
+- CIA-RDP96-00792R000700130001-6
+- CO2 ArtbookDigitalComplete
+- Notations — John Cage (1969)
+- Deep Work Rules for focused success in a distracted world — Cal Newport (2016)
+- The Plague — Albert Camus (1947)
+- The Stranger — Albert Camus (1942)
+- Capital, Volume I — Karl Marx (1867)
+- Man and His Symbols-Doubleday — Carl Gustav Jung (1969)
+- Modern Man in Search of a Soul -Routledge — Carl Gustav Jung (2005)
+- Psychology and the Occult (Routledge Classics)-Routledge — Carl Gustav Jung (2008)
+- A Tale of Two Cities (Barnes & Noble Classics) -Barnes & Noble Classics — Charles Dickens (2004)
+- David Copperfield (Bantam Classic) -Bantam Books — Charles Dickens (2006)
+- Great Expectations-Public Domain Books — Charles Dickens (2009)
+- Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions — Chris Carter, Rupert Sheldrake (2012)
+- The Death of the Millennial Left Interventions 2006-2022-Sublation Press — Chris Cutrone (2006)
+- Christopher Dorner's Manifesto — Christopher Dorner (2013)
+- The Culture of Narcissism-W. W. Norton & Company — Christopher Lasch (2013)
+- How Not to Kill Yourself A Portrait of the Suicidal Mind-Pantheon — Clancy Martin (2023)
+- Joseph Beuys-Reaktion Books — Claudia Mesch
+- Coin Locker Babies — Ryu Murakami, Stephen Snyder (2013)
+- ColorConsultants ColorConsciousness
+- Confessions — Augustine of Hippo (397)
+- ContentServer.asp
+- An illustrated encyclopaedia of traditional symbols-Thames and Hudson — Cooper, Jean C (1978)
+- Crowley on Drugs — Aleister Crowley
+- Demystifying Max/MSP
+- Thinking, Fast and Slow — Daniel Kahneman (2011)
+- Daoist Alchemy in the West: The Esoteric Paradigms
+- The Way of the Superior Man A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire-Sounds True — David Deida (2004)
+- Infinite Jest-Back Bay Books — David Foster Wallace (2006)
+- Bullshit Jobs A Theory — David Graeber (2018)
+- Deleuze on Ethics — Gilles Deleuze
+- Of Grammatology — Derrida Jacques
+- Design as Art (Penguin Modern Classics) — Bruno Munari (2008)
+- Designing Your Life — Bill Burnett, Dave Evans (2016)
+- Discipline Punish The Birth of the Prison — Michel Foucault, Alan Sheridan
+- Present Shock When Everything Happens Now-Current Hardcover — Douglas Rushkoff (2013)
+- Drawings of Joseph Beuys (MoMA) — Joseph Beuys
+- The Story of Art-Phaidon — E. H. GOMBRICH (1951)
+- E8585.full.pdf
+- Schiele Drawings-Dover Publications — Egon Schiele (2012)
+- The Bhagavad Gita — Eknath Easwaran (2007)
+- Travels with Epicurus journey to a Greek island in search of an authentic old age — Epicurus, Epicurus. Klein, Daniel M. Klein, Daniel M (2012)
+- South the story of Shackleton's last expedition, 1914-1917-Duke Classics — Ernest Henry Shackleton (1914)
+- In the Dust of This Planet — Eugene Thacker (2011)
+- FULLTEXT01
+- Frank O'Hara poet among painters — Perloff, Marjorie (1977)
+- Postmodernism, or, The cultural logic of late capitalism — Fredric Jameson. (1990)
+- A Nietzsche Reader (Penguin Classics) — Friedrich Nietzsche, Selected and Translated with an Introduction by R. J. Hollingdale (2003)
+- On the aesthetic education of man-Dover Publications — Friedrich Schiller translated with a introduction by Reginald Snell. (2004)
+- The End of History and the Last Man — Francis Fukuyama (1992)
+- Phenomenology of Spirit — G. W. F. Hegel (2013)
+- The Science of Logic-Cambridge University Press — G. W. F. Hegel George Di Giovanni (2010)
+- Ambient Meaning (essay) — Peli Grietzer
+- The Desire of Psychoanalysis Exercises in Lacanian Thinking (Diaeresis)-Northwestern University Press — Gabriel Tupinambá (2021)
+- Galatea 2 2 — Powers, Richard (2004)
+- Dark Alliance - 1999 — Gary Webb (1999)
+- Buddhism Gautama Buddha - The Dhammapada-Buddha Dharma Education Association Inc. — Gautama Buddha Translated by John Richards
+- A Thousand Plateaus Capitalism and Schizophrenia — Gilles Deleuze, Felix Guattari (1987)
+- Gilles Deleuzes Difference and Repetition A Critical Introduction and Guide — James Williams
+- Art History The Basics-Routledge — Grant Pooke, Diana Newall (2008)
+- Harold Cohen, Robotic Artist — Harold Cohen (1995)
+- Harold Cohen, Robotic Artist, 1995 (1995)
+- Hegel Glossary — G. W. F. Hegel
+- The Master-Slave Dialectic — G. W. F. Hegel (1807)
+- A History of Western Philosophy — Bertrand Russell (1945)
+- How taking >900mcg of LSD permanently enhanced my intelligence - HackerNoon
+- IMG 0346
+- 15 Inventions - Contrapunctus Press — IMSLP768707-PMLP3267-J S Bach
+- In Search of Lost Time (Complete Volumes) — Marcel Proust (1913)
+- Industrial Society and Its Future — Theodore Kaczynski (1995)
+- Introduction to Tibetan Buddhism — John Powers (1995)
+- Introduction to Tibetan Buddhism — John Powers (1995)
+- Stalking the Wild Pendulum: On the Mechanics of Consciousness — Itzhak Bentov (1977)
+- JPEG image
+- New Dark Age - Technology and the End of the Future-Verso Books — James Bridle
+- Ways of Being-Penguin Books Ltd — James Bridle (2022)
+- Atomic Habits Tiny Changes, Remarkable Results — James Clear (2018)
+- Chaos Making a New Science — James Gleick (2008)
+- Guns, Germs and Steel The Fates of Human Societies — Jared Diamond (1999)
+- The Spirit of Terrorism — Jean Baudrillard (2014)
+- Jean Baudrillard Selected Writings Second Edition — Jean Baudrillard, Mark Poster, Jacques Mourrain (2002)
+- Existentialism Is a Humanism — Jean Paul Sartre (2007)
+- The New Media Epidemic The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev — Jean-Claude Larchet Archibald Andrew Torrance (2019)
+- Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company — Jessica Bruder (2017)
+- Ways of Seeing — John Berger (2008)
+- The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group — Jonathan Haidt (2024)
+- Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press — Jones, Eugene Michael (1993)
+- Introduction to the Reading of Hegel — Alexandre Kojève (1947)
+- Anti-Tech Revolution: Why and How — Theodore Kaczynski (2016)
+- Critique of Pure Reason — Kant Immanuel
+- Kant: A Very Short Introduction — Roger Scruton (2001)
+- Making Grammars: From Computing with Shapes to Computing with Things — Terry Knight, George Stiny (2015)
+- La Débâcle (reissue) (Oxford World's Classics) — Émile Zola; Elinor Dorday; Robert Lethbridge (2017)
+- Lacan on Paranoiac Knowledge — Jacques Lacan
+- From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley — Lawrence E. Cahoone (1996)
+- Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press — Leonard Koren (1994)
+- Through the Looking Glass -ICON Group International, Inc. — Lewis Carroll (2006)
+- Schizophrenizing Lacan — Luke Caldwell
+- The Norton Anthology of English Literature, Vol. 1, 4th Edition — M. H. Abrams (1988)
+- Drawings of Joseph Beuys-Museum of Modern Art — MOMA (1993)
+- MQ68384
+- Madness and Civilization A History of Insanity in the Age of Reason — Michel Foucault
+- MahrSweigart FINAL
+- Making it manufacturing techniques for product design — Chris Lefteri (2007)
+- Meditations — Marcus Aurelius
+- The Marx-Engels Reader — Karl Marx, Friedrich Engels (ed. Robert C. Tucker) (1978)
+- Life 3.0 Being Human in the Age of Artificial Intelligence-Alfred A. Knopf — Max Tegmark (2017)
+- A Cloud in Trousers — Vladimir Mayakovsky (1915)
+- Mein Kampf- The Original, Accurate, and Complete English — Adolf Hitler (2017)
+- Artificial Intelligence A Guide for Thinking Humans-Picador — Melanie Mitchell (2020)
+- The Metaphysics of Virtual Reality-Oxford University Press, USA — Michael Heim (1994)
+- The Elementary Particles — Michel Houellebecq (2001)
+- Atomised-Vintage — Michel Houellebecq Frank Wynne (2001)
+- Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED
+- Utilitarianism — Mill John Stuart
+- Moby-Dick; or, The Whale — Herman Melville (1851)
+- Honor Levy — My First Book
+- My Twisted World — Elliot Rodger (2014)
+- Our Oppenheimer Moment- The Creation of A.I. Weapons — NYT
+- Narrative
+- The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press — Nāgārjuna David J. Kalupahana (1986)
+- Snow Crash-Bantam Books — Neal Stephenson (2003)
+- The Shallows What the Internet Is Doing to Our Brains — Nicholas Carr (2010)
+- Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press — Nick Land (1987)
+- Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books — Nicolas Slonimsky (1987)
+- No One Is Talking About This — Patricia Lockwood (2021)
+- The Man Who Mistook His Wife for a Hat And Other Clinical Tales — Oliver W. Sacks (1987)
+- On Love and Barley Haiku of Basho (Penguin Classics) — Bashō Matsuo; Lucien Stryk (1986)
+- On the Road (Penguin Modern Classics) — Jack Kerouac
+- On Writing Well — William Zinsser (1976)
+- PDF document 2
+- PDF document
+- Parasitic AI
+- City of Glass Graphic Novel-Faber and Faber — Paul Auster (2005)
+- The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics) — Paul Auster (1990)
+- The Book of Disquiet (Penguin Classics) — Pessoa, Fernando (2002)
+- The Science of Rapid Skill Acquisition-Pkcs Media, Inc. — Peter Hollins (2019)
+- G. W. F. Hegel 0 — Phenomenology of Spirit
+- The Future of Man-Image — Pierre Teilhard de Chardin (2004)
+- The phenomenon of man — Pierre Teilhard de Chardin (1955)
+- Toward The Future-Mariner Books — Pierre Teilhard de Chardin René Hague (1975)
+- The bell jar-Faber & Faber Harper & Row — Plath, Sylvia (1971)
+- Euthyphro — Plato
+- Euthyphro, Apology of Socrates, and Crito (Clarendon Greek Text with English Notes)-Clarendon Press — Plato, John Burnet (1977)
+- Politics of Self-Determination (Self-Mastery Series) — Timothy Leary
+- Principia Qualia — Michael Edward Johnson (2016)
+- Psychological Types — Dr Carl Jung
+- Bodies with New Organs — Jasbir K. Puar (2015)
+- Quotations from Chairman Mao Tse-tung — Mao Zedong (1964)
+- Radio Shack Electronics Learning Lab — Forrest M. Mims III
+- Self-Reliance -The Domino Project — Ralph Waldo Emerson (2011)
+- The Singularity Is Near When Humans Transcend Biology-Viking Adult — Ray Kurzweil (2005)
+- Joseph Beuys: Mapping the Legacy — Gene Ray (ed.) (2001)
+- Recursivity and Contingency (Media Philosophy) — Yuk Hui (2019)
+- Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy — Mark C. Taylor (2012)
+- Halfway Home Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company — Reuben Jonathan Miller (2021)
+- The Selfish Gene . Volume 2-Oxford University Press, USA — Richard Dawkins (1990)
+- The Baudrillard Dictionary — Richard G. Smith (2010)
+- The Creative Act A Way of Being-Penguin Publishing Group — Rick Rubin (2023)
+- Matilda-Viking — Roald Dahl (1988)
+- The Twits — Roald Dahl
+- Normal People-Faber & Faber — Rooney, Sally (2018)
+- Sapiens a brief history of humankind — Harari, Yuval Noah (2014)
+- Careless People-Flatiron Books — Sarah Wynn-Williams (2025)
+- Sauer-Notations-selections-part-1&2 (1)
+- Secret knowledge - rediscovering the lost techniques of the — David Hockney (2001)
+- Sexual personae art and decadence from Nefertiti to Emily Dickinson — Paglia, Camille
+- Ethics — Spinoza Baruch
+- Computer Vision: Algorithms and Applications — Richard Szeliski (2022)
+- The Arcades Project — Walter Benjamin (1982)
+- The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions — Taoist Master Alfred Huang (2010)
+- Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune
+- The Art Spirit — Henri, Robert (2007)
+- The Book of Disquiet — Fernando Pessoa (1982)
+- The Camp of the Saints — Jean Raspail (1973)
+- The Complete Chord Formulas Handbook
+- The Corporeal Fantasy — Martin Butler
+- The Crying of Lot 49 — Pynchon, Thomas
+- The Elements of Typographic Style — Robert Bringhurst
+- The Enchiridion, — Epictetus
+- The Essays of Warren Buffett: Lessons for Corporate America — Warren Buffett, Lawrence A. Cunningham (1997)
+- The Goon Squad, — Daniel Kolitz
+- The History of Magic — Éliphas Lévi (trans. A. E. Waite) (1860)
+- The Internet’s AI Slop Problem Is Only Going to Get Worse
+- The Joyous Cosmology Adventures in the Chemistry of Consciousness — Alan W. Watts, Timothy Leary, Richard Alpert
+- The Lost Generation - Compact
+- The Middle Pillar: The Balance Between Mind and Magic — Israel Regardie (1938)
+- The New Jim Crow: Mass Incarceration in the Age of Colorblindness — Michelle Alexander (2010)
+- The Origin of Species — Charles Darwin
+- The Polymath Reading List
+- The Romance of the Three Kingdoms abridged — LUO Guanzhong, Martin Palmer, He Yun, Jay
+- The Saint And The Slut: Why Men Suffer From The Madonna Complex
+- The Sorrows of Young Werther and Selected Writings — Goethe, Johann Wolfgang von Clements, Marcelle Krimmer, Elisabeth Goethe, Johann Wolfgang von Hutter, Catherine
+- The Spirit of Terrorism, New Revised Edition — Jean Baudrillard, Chris Turner
+- The Story of Jennie — Gallico, Paul (1964)
+- A Yaqui Way of Knowledge — The Teachings of Don Juan
+- The Trouble With Being Born — E. M. Cioran
+- The Use of Folk Instruments Alongside Classical Instruments
+- The age of spiritual machines - when computers exceed human — Kurzweil, Ray (2000)
+- The creative gene how books, movies, and music inspired — Hideo Kojima; Nathan Collins (2021)
+- The Spectral Music of James Tenney
+- Thinking Is Form: The Drawings of Joseph Beuys — Ann Temkin, Bernice Rose (1993)
+- Daniel Levitin UserUpload Net — This is Your Brain on Music
+- The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar — Thomas De Quincey
+- The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press — Thomas Ligotti, Ray Brassier (2011)
+- Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics — Thomas Pynchon (2006)
+- Timbre as a Structural Device in Compositions
+- The Game of Life-New Falcon Publications — Timothy Francis Leary (1993)
+- The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead — Timothy Francis Leary, Ralph Metzner, Richard Alpert
+- Start Your Own Religion-Ronin Publishing — Timothy Leary (2005)
+- US6506148
+- Visual thinking 35th anniversary printing — RUDOLF ARNHEIM, Arnheim, Rudolf (1997)
+- WSAA 13-1985-2 14 (1985)
+- Capital Is Dead: Is This Something Worse? — McKenzie Wark (2019)
+- The Lotus Sutra-Columbia University Press — Watson, Burton
+- We Used to Read Things in This Country - Noah McCormack
+- What Does WoMan Want — Timothy Leary
+- The Story of Philosophy The Lives and Opinions of the World's Greatest Philosophers — Will Durant (1991)
+- Neuromancer -Ace Hardcover — William Gibson (2004)
+- Neuromancer (Remembering Tomorrow) — William Gibson (1984)
+- Naked lunch — William S. Burroughs (2001)
+- Your Brain on Art How the Arts Transform Us Hardcover — Susan Magsamen, Ivy Ross (2023)
+- The Temple of the Golden Pavilion-Vintage — Yukio Mishima, Ivan Morris, Nancy Wilson Ross, Fumi Komatsu (1994)
+- Homo Deus A Brief History of Tomorrow-Harper — Yuval Noah Harari (2016)
+- Zen and the Art of the Macintosh — Michael Green (1986)
+- The Complete Works of Zhuangzi-Columbia University Press — Zhuangzi, Burton Watson (2013)
+- Difference and Repetition — 0 Gilles Deleuze (1995)
+- Aesthetic Theory — Athlone Contemporary European Thinkers Theodor W. Adorno (2002)
+- The Ego and its Own — Cambridge Texts in the History of Political Thought Max Stirner (1995)
+- Mad Love — French Modernist Library André Breton Mary Ann Caws (1988)
+- Capitalist Realism: Is There No Alternative? — Mark Fisher (2009)
+- Fragments — Penguin Classics Heraclitus, Brooks Haxton, James Hillman (2003)
+- Lolita (Perennial Bestseller Collection) — Perennial Bestseller Collection Vladimir Vladimirovich Nabokov (1997)
+- Lolita (Perennial Bestseller Collection) — Perennial Bestseller Collection Vladimir Vladimirovich Nabokov (1997)
+- Ecrits A Selection — Routledge Classics Jacques Lacan (2001)
+- Two Regimes of Madness Texts and Interviews 1975-1995) — Semiotext(e) Foreign Agents Gilles Deleuze (1975)
+- Simulacra and Simulation — The Body, In Theory Histories of Cultural Materialism Jean Baudrillard, Sheila Faria Glaser (1995)
+- Aesop's Fables: The Fox and the Grapes — Aesop
+- afx interview — heiko
+- ai dating
+- Aniara — Harry Martinson (1956)
+- Art and Visual Perception — Rudolf Arnheim (1954)
+- art reading
+- arthouse animations
+- basic-notation
+- Beuys on Drawing — Joseph Beuys
+- Beyond Good and Evil — Friedrich Nietzsche (1886)
+- Artificial Hells: Participatory Art and the Politics of Spectatorship — Claire Bishop (2012)
+- Capital, Volume I — Karl Marx (1867)
+- Capital, Volume II — Karl Marx (1885)
+- Capital, Volume III — Karl Marx (1894)
+- Capital, Volume IV (Theories of Surplus Value) — Karl Marx
+- charlie kirk nyt
+- chatgpt suicide.rtfd
+- The Consolation of Philosophy — Boethius (524)
+- Critique of Judgment — Immanuel Kant (1790)
+- Dialectics of Nature — Friedrich Engels (1883)
+- The Technological Republic: Hard Power, Soft Belief, and the Future of the West — Alexander C. Karp, Nicholas W. Zamiska (2025)
+- Technically, Man Dwells Upon This Earth
+- enunciations-of-desire
+- essays
+- Difference and Repetition (excerpt) — Gilles Deleuze (1968)
+- Cinema 2: The Time-Image (excerpt) — Gilles Deleuze (1985)
+- Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt) — Elizabeth Grosz (2008)
+- filmstudents attentionspan
+- flatline-constructs
+- formalist manifesto
+- The History of Sexuality, Volume 1 — Michel Foucault (1976)
+- The History of Sexuality, Volume 2 — Michel Foucault (1984)
+- The History of Sexuality, Volume 3 — Michel Foucault (1984)
+- The Virtual Window: From Alberti to Microsoft — Anne Friedberg (2006)
+- Aesthetics: Lectures on Fine Art, Volume 1 — G. W. F. Hegel (1835)
+- gatsby sexualdrama
+- The Fold: Leibniz and the Baroque — Gilles Deleuze (1988)
+- Postscript on the Societies of Control — Gilles Deleuze (1990)
+- handwriting
+- Aniara — Harry Martinson (1956)
+- how dawkins got pwned
+- humphries paper copy
+- id-card
+- imbred autobiography
+- The Intelligent Investor — Benjamin Graham (1949)
+- Postmodernism, or, the Cultural Logic of Late Capitalism — Fredric Jameson (1991)
+- The Conspiracy of Art — Jean Baudrillard (2005)
+- jhanas
+- Is the Rectum a Grave? — Leo Bersani (1987)
+- lit wiki
+- The Communist Manifesto — Karl Marx, Friedrich Engels (1848)
+- The Complete Essays — Michel de Montaigne (1580)
+- music reading
+- Nicomachean Ethics — Aristotle
+- open letter
+- outlinesofindian00srinrich
+- pdf EMS14 waschbusch
+- pg2388-images
+- pg46333-images-3
+- piano
+- The Republic — Plato
+- The Portable Nietzsche — Friedrich Nietzsche (ed. Walter Kaufmann) (1954)
+- power of full engagement
+- The Monument and Its Confidences — Jacques Rancière
+- My Twisted World (manifesto) — Elliot Rodger (2014)
+- The World as Will and Representation — Arthur Schopenhauer (1818)
+- self-awareness
+- Shop Class as Soulcraft — Matthew B. Crawford (2009)
+- Situational Awareness: The Decade Ahead — Leopold Aschenbrenner (2024)
+- stoic 4chan
+- suicide note
+- The Great Gatsby — F. Scott Fitzgerald (1925)
+- the best of amp digital
+- The Social Contract — Jean-Jacques Rousseau (1762)
+- The Deleuze Dictionary — Adrian Parr (ed.) (2005)
+- Thus Spoke Zarathustra — Friedrich Nietzsche (1883)
+- Tim Hecker — Thesis — Tim Hecker
+- Kant. Critique of Judgment-OUP — tr. Meredith. (2007)
+- Vision and Visuality — Hal Foster (ed.) (1988)
+- wetware
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — named in this note
+- [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — named in this note
+- [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — named in this note
+- [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — named in this note
+- [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — named in this note
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — named in this note
+- [[knowledge/wiki/books/pdf-document|PDF document]] — named in this note
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — named in this note
+<!-- vault-crosslinks:end -->

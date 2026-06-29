@@ -1,0 +1,29 @@
+---
+title: "Artist - piet mondrian 1915"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - piet mondrian 1915
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/1900s/composition_no_10_pier_and_ocean_by_piet_mondrian_1915.jpg]]
+
+## Image Notes
+
+- [[composition no 10 pier and ocean by piet mondrian 1915 41913602|composition no 10 pier and ocean by piet mondrian 1915]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - piet mondrian|Artist - piet mondrian]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - piet mondrian 1907|Artist - piet mondrian 1907]] — named in this note
+- [[knowledge/wiki/images/piet mondrian composition no iv 1914 9c7d7b19|piet mondrian composition no iv 1914]] — shared language: mondrian, piet, composition
+- [[knowledge/wiki/images/amaryllis by piet mondrian 1907 bd4c160b|amaryllis by piet mondrian 1907]] — shared language: mondrian, piet
+- [[knowledge/wiki/images/farmstead with reflection by piet mondrian c 1906 217e2d66|farmstead with reflection by piet mondrian c 1906]] — shared language: mondrian, piet
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: mondrian, composition
+<!-- vault-crosslinks:end -->

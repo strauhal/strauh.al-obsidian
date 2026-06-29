@@ -1,0 +1,25 @@
+---
+title: "running horses by nicolas sassoon 2012"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/running_horses_by_nicolas_sassoon_2012.jpeg"
+source_relpath: "2000s/running_horses_by_nicolas_sassoon_2012.jpeg"
+collection: "2000s"
+inferred_year: "2012"
+artist: "nicolas sassoon"
+dimensions: "4096x2174"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# running horses by nicolas sassoon 2012
+
+![[media/strauh.al3.1/2000s/running_horses_by_nicolas_sassoon_2012.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: [[Artist - nicolas sassoon]]
+
+Source: [[media/strauh.al3.1/2000s/running_horses_by_nicolas_sassoon_2012.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/running_horses_by_nicolas_sassoon_2012.jpeg`

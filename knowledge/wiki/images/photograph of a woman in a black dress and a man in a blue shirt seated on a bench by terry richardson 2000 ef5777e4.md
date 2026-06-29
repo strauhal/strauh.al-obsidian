@@ -1,0 +1,25 @@
+---
+title: "photograph of a woman in a black dress and a man in a blue shirt seated on a bench by terry richardson 2000"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_woman_in_a_black_dress_and_a_man_in_a_blue_shirt_seated_on_a_bench_by_terry_richardson_2000.jpeg"
+source_relpath: "2000s/photograph_of_a_woman_in_a_black_dress_and_a_man_in_a_blue_shirt_seated_on_a_bench_by_terry_richardson_2000.jpeg"
+collection: "2000s"
+inferred_year: "2000"
+artist: "terry richardson"
+dimensions: "3024x4032"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# photograph of a woman in a black dress and a man in a blue shirt seated on a bench by terry richardson 2000
+
+![[media/strauh.al3.1/2000s/photograph_of_a_woman_in_a_black_dress_and_a_man_in_a_blue_shirt_seated_on_a_bench_by_terry_richardson_2000.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2000s]]
+
+Artist: [[Artist - terry richardson]]
+
+Source: [[media/strauh.al3.1/2000s/photograph_of_a_woman_in_a_black_dress_and_a_man_in_a_blue_shirt_seated_on_a_bench_by_terry_richardson_2000.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_woman_in_a_black_dress_and_a_man_in_a_blue_shirt_seated_on_a_bench_by_terry_richardson_2000.jpeg`

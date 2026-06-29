@@ -1,0 +1,176 @@
+---
+title: "Collection - computers"
+source_kind: "image_collection"
+count: "111"
+compiled: "True"
+tags: ["strauhal", "collection"]
+---
+# Collection - computers
+
+Part of [[strauh.al Image Archive]].
+
+Files: 111
+
+## Sample
+
+![[media/strauh.al3.1/computers/0*jGB1CGQ9HdeUwlgB-2.png]]
+
+![[media/strauh.al3.1/computers/1612770647828.jpg]]
+
+![[media/strauh.al3.1/computers/1612770792545.jpg]]
+
+![[media/strauh.al3.1/computers/1612770885087.jpg]]
+
+![[media/strauh.al3.1/computers/1612770898091.jpg]]
+
+![[media/strauh.al3.1/computers/1612771758341.jpg]]
+
+![[media/strauh.al3.1/computers/1612775883619.jpg]]
+
+![[media/strauh.al3.1/computers/1612782392607.jpg]]
+
+![[media/strauh.al3.1/computers/1612795919530.jpg]]
+
+![[media/strauh.al3.1/computers/1612799700230.jpg]]
+
+![[media/strauh.al3.1/computers/1612802847813.jpg]]
+
+![[media/strauh.al3.1/computers/1612820150480.png]]
+
+![[media/strauh.al3.1/computers/1614833612905.jpg]]
+
+![[media/strauh.al3.1/computers/1620707908904.jpg]]
+
+![[media/strauh.al3.1/computers/1626611657819.jpg]]
+
+![[media/strauh.al3.1/computers/1634548979747.jpg]]
+
+![[media/strauh.al3.1/computers/1638107500280.jpg]]
+
+![[media/strauh.al3.1/computers/1639681883735.jpg]]
+
+![[media/strauh.al3.1/computers/1645597469612.jpeg]]
+
+![[media/strauh.al3.1/computers/1645597779336.jpeg]]
+
+![[media/strauh.al3.1/computers/1650779827008.jpeg]]
+
+![[media/strauh.al3.1/computers/1656507353630.jpeg]]
+
+![[media/strauh.al3.1/computers/1663838774889640.png]]
+
+![[media/strauh.al3.1/computers/1681680320274803.jpg]]
+
+## Image Notes
+
+- [[0 jGB1CGQ9HdeUwlgB 2 cc3782de|0 jGB1CGQ9HdeUwlgB 2]]
+- [[1612770647828 fa3a2f26|1612770647828]]
+- [[1612770792545 0e5517cb|1612770792545]]
+- [[1612770885087 0383127c|1612770885087]]
+- [[1612770898091 fb4f066e|1612770898091]]
+- [[1612771758341 b6f3c249|1612771758341]]
+- [[1612775883619 7f0301e2|1612775883619]]
+- [[1612782392607 bbc4fa29|1612782392607]]
+- [[1612795919530 deba0b53|1612795919530]]
+- [[1612799700230 dc9d232a|1612799700230]]
+- [[1612802847813 d14bd0e1|1612802847813]]
+- [[1612820150480 c9e372da|1612820150480]]
+- [[1614833612905 0374426d|1614833612905]]
+- [[1620707908904 22585876|1620707908904]]
+- [[1626611657819 c4f9c7fc|1626611657819]]
+- [[1634548979747 42d4ff53|1634548979747]]
+- [[1638107500280 98ef50ef|1638107500280]]
+- [[1639681883735 4099f39a|1639681883735]]
+- [[1645597469612 f25c3b85|1645597469612]]
+- [[1645597779336 15ae4696|1645597779336]]
+- [[1650779827008 74811498|1650779827008]]
+- [[1656507353630 dbed8e89|1656507353630]]
+- [[1663838774889640 7eaae7c7|1663838774889640]]
+- [[1681680320274803 70394f6d|1681680320274803]]
+- [[1681680444096671 be210c78|1681680444096671]]
+- [[1681680537323533 76d40871|1681680537323533]]
+- [[1681681409784210 d9e38e76|1681681409784210]]
+- [[1685662869217610 7ede0e00|1685662869217610]]
+- [[1686386813646332 33e06fb0|1686386813646332]]
+- [[1689071568044996 1faa40cc|1689071568044996]]
+- [[1692272665916173 093a1837|1692272665916173]]
+- [[1702488338595541 79c5fb61|1702488338595541]]
+- [[1706950037721407 2b387aa9|1706950037721407]]
+- [[251300681 2965134760469659 5236504602432227586 n 60408311|251300681 2965134760469659 5236504602432227586 n]]
+- [[273524174 491079729251402 310236241442619788 n c932247d|273524174 491079729251402 310236241442619788 n]]
+- [[300820408 3366326943600908 8652945259627952113 n 6db2c67a|300820408 3366326943600908 8652945259627952113 n]]
+- [[Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x 4d0bbbe0|Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x]]
+- [[Apple WWDC22 M2 chip M1 chip 2up 220606 crop bf300f2a|Apple WWDC22 M2 chip M1 chip 2up 220606 crop]]
+- [[E96kiEnVgAAxXh bb9d5eac|E96kiEnVgAAxXh]]
+- [[EZn20q1UEAALWLj 77c34f5c|EZn20q1UEAALWLj]]
+- [[E 57TqnVkAEWAeg 0f72549d|E 57TqnVkAEWAeg]]
+- [[FC1EAgNVEAIK0Q2 174067bb|FC1EAgNVEAIK0Q2]]
+- [[FIjGqmAVgAIL78c 89de47ab|FIjGqmAVgAIL78c]]
+- [[FL2ZfACUcAEHmuh 5fe2b5fc|FL2ZfACUcAEHmuh]]
+- [[FQpI3GHVQAMHX3Z 4e9e4413|FQpI3GHVQAMHX3Z]]
+- [[FSVRal0VcAE4xHX d7b68649|FSVRal0VcAE4xHX]]
+- [[FTaHWglX0AEie e 1982b032|FTaHWglX0AEie e]]
+- [[FY2kjUgVEAEjqhX 04d05def|FY2kjUgVEAEjqhX]]
+- [[FlrJLpfWYAUyh5o 7ec2beb8|FlrJLpfWYAUyh5o]]
+- [[FnPoxq XEAEhCdV 3dbcec1c|FnPoxq XEAEhCdV]]
+- [[FoZ5bLkWIAE6fvD 47cce317|FoZ5bLkWIAE6fvD]]
+- [[FsZLIp1XsAA4Wow 57ffc984|FsZLIp1XsAA4Wow]]
+- [[FtJUeSAWIAEgKFt 8b936720|FtJUeSAWIAEgKFt]]
+- [[IMG 0165 038ee599|IMG 0165]]
+- [[IMG 0594 db809bb9|IMG 0594]]
+- [[IMG 0640 2 9463c278|IMG 0640 2]]
+- [[IMG 0642 ac5d9287|IMG 0642]]
+- [[IMG 0653 14614c55|IMG 0653]]
+- [[IMG 0666 338c1886|IMG 0666]]
+- [[IMG 0932 2 2c498ae8|IMG 0932 2]]
+- [[IMG 2056 495d45cd|IMG 2056]]
+- [[IMG 2211 20a88d61|IMG 2211]]
+- [[IMG 2800 be202c77|IMG 2800]]
+- [[IMG 2882 bb8490ac|IMG 2882]]
+- [[IMG 2894 65c93142|IMG 2894]]
+- [[IMG 3824 1c044a6f|IMG 3824]]
+- [[IMG 4560 edc446d9|IMG 4560]]
+- [[IMG 5445 db08677e|IMG 5445]]
+- [[Screenshot 2022 03 16 at 16.02.28 1 1024x640 7fa76f02|Screenshot 2022 03 16 at 16.02.28 1 1024x640]]
+- [[Z80A HD 480c4492|Z80A HD]]
+- [[andy warhol computer 0abc9789|andy warhol computer]]
+- [[bowie 41025fab|bowie]]
+- [[fibiCPURatnest c264df31|fibiCPURatnest]]
+- [[god ec3a662d|god]]
+- [[meet 8c5b669f|meet]]
+- [[tumblr 020defd1073b2c1d5e9182b9e1bd608b 49c48975 1280 d2c1aba5|tumblr 020defd1073b2c1d5e9182b9e1bd608b 49c48975 1280]]
+- [[tumblr 03006d9d853db90260d40593dbcdc23f 7f49eb53 640 3477c348|tumblr 03006d9d853db90260d40593dbcdc23f 7f49eb53 640]]
+- [[tumblr 0fb5cbfd91e938471f5d6032e1686d9b e984d241 1280 413f3f25|tumblr 0fb5cbfd91e938471f5d6032e1686d9b e984d241 1280]]
+- [[tumblr 36d8bf46ebb39fb6b4dea1e89d82dc2b 5dbc82c4 540 5dfbd489|tumblr 36d8bf46ebb39fb6b4dea1e89d82dc2b 5dbc82c4 540]]
+- [[tumblr 3a890656479f8edf2b0fbc8f63b9bf6c dc69a656 540 de65b9c1|tumblr 3a890656479f8edf2b0fbc8f63b9bf6c dc69a656 540]]
+- [[tumblr 3c69b317c737e5ec32b652c2797a91f8 f47e1f62 2048 8811cdfe|tumblr 3c69b317c737e5ec32b652c2797a91f8 f47e1f62 2048]]
+- [[tumblr 3ddebfc55a655a27cac3045d0b447eb3 42f1f1f0 1280 3a70425d|tumblr 3ddebfc55a655a27cac3045d0b447eb3 42f1f1f0 1280]]
+- [[tumblr 497d304c9be7e4da541ff0c1ae566579 be659300 1280 4e009179|tumblr 497d304c9be7e4da541ff0c1ae566579 be659300 1280]]
+- [[tumblr 4c9ce29520f609dda71ca7c804709384 6ae1b91f 2048 c752108e|tumblr 4c9ce29520f609dda71ca7c804709384 6ae1b91f 2048]]
+- [[tumblr 57a80d9e55196c848d917207b6b2dcd8 b1904af1 2048 007609db|tumblr 57a80d9e55196c848d917207b6b2dcd8 b1904af1 2048]]
+- [[tumblr 5893f699dbe81912b4f352046896896f 74d7acf7 2048 a8f0ff91|tumblr 5893f699dbe81912b4f352046896896f 74d7acf7 2048]]
+- [[tumblr 5e2e6cb22278b1a7281480803fb84aa0 24ee4211 2048 3c5ad683|tumblr 5e2e6cb22278b1a7281480803fb84aa0 24ee4211 2048]]
+- [[tumblr 6140b08db488191c5debb9cc6eca8dd2 e14a83c1 640 1123df2c|tumblr 6140b08db488191c5debb9cc6eca8dd2 e14a83c1 640]]
+- [[tumblr 70f949fa9ca400dc23b2920d546a6511 bba7e7ba 500 49cc40b2|tumblr 70f949fa9ca400dc23b2920d546a6511 bba7e7ba 500]]
+- [[tumblr 76bf48afb332988193e863a758b97e6c c1964b5c 2048 8c715d65|tumblr 76bf48afb332988193e863a758b97e6c c1964b5c 2048]]
+- [[tumblr 7d80346d2ebbc73aa735ef1c528ed78f ef86987b 640 ad3dfd54|tumblr 7d80346d2ebbc73aa735ef1c528ed78f ef86987b 640]]
+- [[tumblr 955b1cca3be0cda303dc683b01a915da 79fa91fc 1280 46261e82|tumblr 955b1cca3be0cda303dc683b01a915da 79fa91fc 1280]]
+- [[tumblr 9cb1a25a0ecd1031c7a771929c8698c8 ee85e383 2048 f6d7947a|tumblr 9cb1a25a0ecd1031c7a771929c8698c8 ee85e383 2048]]
+- [[tumblr a76166d87b817c0f23aa377920d5cb49 d6950c31 500 d7b8ce1b|tumblr a76166d87b817c0f23aa377920d5cb49 d6950c31 500]]
+- [[tumblr b9594e002a141959ec190ba3bb92c16c d3926b33 1280 de03fcac|tumblr b9594e002a141959ec190ba3bb92c16c d3926b33 1280]]
+- [[tumblr bd74e9ba364613e6793aca8f46e0c2cb d0bc0d80 1280 b0ec56fc|tumblr bd74e9ba364613e6793aca8f46e0c2cb d0bc0d80 1280]]
+- [[tumblr bd7637a3f2e4c123ea254f7a2d260632 c57a836b 2048 b4caa806|tumblr bd7637a3f2e4c123ea254f7a2d260632 c57a836b 2048]]
+- [[tumblr c29f46de9cad3f1f15c3f409d20267cd c9806211 2048 04789a2b|tumblr c29f46de9cad3f1f15c3f409d20267cd c9806211 2048]]
+- [[tumblr c2a08f96e62fddea36869cf66328c4d7 e7614984 2048 0d9a62b8|tumblr c2a08f96e62fddea36869cf66328c4d7 e7614984 2048]]
+- [[tumblr ca1e6209e49b3d067ca89e0bccdbff23 618d6df3 1280 ea70b82d|tumblr ca1e6209e49b3d067ca89e0bccdbff23 618d6df3 1280]]
+- [[tumblr cb5c0c3d05966365ebfe8a6563229f01 091c5f95 1280 20a01a1e|tumblr cb5c0c3d05966365ebfe8a6563229f01 091c5f95 1280]]
+- [[tumblr ce333ac94b781a6f592781949a508255 206e3715 2048 ce9aab4f|tumblr ce333ac94b781a6f592781949a508255 206e3715 2048]]
+- [[tumblr d633f647f138b3a5ddfa6c6cc1580d70 ab79f538 1280 cf78274c|tumblr d633f647f138b3a5ddfa6c6cc1580d70 ab79f538 1280]]
+- [[tumblr d6e570aafbc9ae49c05423bd05a003db 2ca6c468 2048 2f0fcdcc|tumblr d6e570aafbc9ae49c05423bd05a003db 2ca6c468 2048]]
+- [[tumblr dbc29223e8def778b9d27534580d1570 c8fe61b7 2048 f52da359|tumblr dbc29223e8def778b9d27534580d1570 c8fe61b7 2048]]
+- [[tumblr dc212203689323aa6f694039376b03a9 1d59da9f 2048 bd4e985a|tumblr dc212203689323aa6f694039376b03a9 1d59da9f 2048]]
+- [[tumblr f08d004dc440466b3408f8182661b92a fa35e014 500 1e851faa|tumblr f08d004dc440466b3408f8182661b92a fa35e014 500]]
+- [[tumblr f514832b586728f0150ca8f898a0efae 35abe5de 640 49ccc88c|tumblr f514832b586728f0150ca8f898a0efae 35abe5de 640]]
+- [[tumblr o7lrzjT0Sz1u2fteyo1 1280 de993868|tumblr o7lrzjT0Sz1u2fteyo1 1280]]
+- [[tumblr otp36zkGCZ1rwn93fo1 1280 bf576e9f|tumblr otp36zkGCZ1rwn93fo1 1280]]
+- [[y2k aesthetic b9239207|y2k aesthetic]]

@@ -1,0 +1,23 @@
+---
+title: "discarded striped mattress with nothing really mattress graffiti"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/discarded_striped_mattress_with_nothing_really_mattress_graffiti.jpg"
+source_relpath: "unsorted/discarded_striped_mattress_with_nothing_really_mattress_graffiti.jpg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: "500x375"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# discarded striped mattress with nothing really mattress graffiti
+
+![[media/strauh.al3.1/unsorted/discarded_striped_mattress_with_nothing_really_mattress_graffiti.jpg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/discarded_striped_mattress_with_nothing_really_mattress_graffiti.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/discarded_striped_mattress_with_nothing_really_mattress_graffiti.jpg`

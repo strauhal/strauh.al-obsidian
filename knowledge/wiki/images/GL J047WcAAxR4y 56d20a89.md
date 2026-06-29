@@ -1,0 +1,23 @@
+---
+title: "GL J047WcAAxR4y"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GL-J047WcAAxR4y.jpeg"
+source_relpath: "2024_downloadsfolder/GL-J047WcAAxR4y.jpeg"
+collection: "2024_downloadsfolder"
+inferred_year: ""
+artist: ""
+dimensions: "981x929"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2024_downloadsfolder"]
+---
+# GL J047WcAAxR4y
+
+![[media/strauh.al3.1/2024_downloadsfolder/GL-J047WcAAxR4y.jpeg]]
+
+Collection: [[Collection - 2024 downloadsfolder]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2024_downloadsfolder/GL-J047WcAAxR4y.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GL-J047WcAAxR4y.jpeg`

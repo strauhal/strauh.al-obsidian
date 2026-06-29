@@ -1,0 +1,29 @@
+---
+title: "Artist - john singer sargent 1881"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - john singer sargent 1881
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/1800s/interior_of_the_torre_de_los_infantes_alhambra_by_john_singer_sargent_1881.jpeg]]
+
+## Image Notes
+
+- [[interior of the torre de los infantes alhambra by john singer sargent 1881 23898425|interior of the torre de los infantes alhambra by john singer sargent 1881]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1904|Artist - john singer sargent 1904]] — shared language: sargent, singer, john
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1892|Artist - john singer sargent 1892]] — shared language: sargent, singer, john
+<!-- vault-crosslinks:end -->

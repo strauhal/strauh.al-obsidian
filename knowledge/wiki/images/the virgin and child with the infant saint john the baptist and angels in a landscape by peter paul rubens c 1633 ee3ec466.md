@@ -1,0 +1,25 @@
+---
+title: "the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg"
+source_relpath: "1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg"
+collection: "1600s"
+inferred_year: "1633"
+artist: "peter paul rubens"
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1600s"]
+---
+# the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633
+
+![[media/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg]]
+
+Collection: [[Collection - 1600s]]
+
+Date bucket: [[Date Bucket - 1630s]]
+
+Artist: [[Artist - peter paul rubens]]
+
+Source: [[media/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg`

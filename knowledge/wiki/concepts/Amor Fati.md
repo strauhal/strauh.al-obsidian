@@ -1,0 +1,117 @@
+---
+title: Amor Fati
+type: concept
+aliases: [amor fati, yes-saying, love of fate]
+tags: [concept, philosophy, nietzsche, recurring]
+sources: ["[[diary]]"]
+created: 2026-06-22
+updated: 2026-06-22
+---
+
+# Amor Fati
+
+**"Love of fate" — the Nietzschean stance Ernest copies into the diary as an aspiration: to see what is necessary as beautiful, and to become a "Yes-sayer."**
+
+## Summary
+On 2024-09-04 he transcribes Nietzsche's New Year passage in full: *"i want to learn
+more and more how to see what is necessary in things as what is beautiful in them —
+thus i will be one of those who make things beautiful. Amor fati: let that be my love
+from now on… some day i want only to be a Yes-sayer!"* It sits in tension with the
+diary's anger and despair, and reads in hindsight as a thesis the whole diary is
+testing — resolved in the final entry (2025-08-13) when "my will to live has been
+reignited" and he reframes the despair as what gave the year its meaning.
+
+## Key points
+- The aesthetic of *making things beautiful* connects to "beauty fills the god shaped
+  hole made by science" and "the raw material of reality must be made beautiful by the
+  artist" ([[ideas-sketchbook]]).
+- A counterweight to [[AI Slop]]-era revulsion: choosing to affirm rather than accuse.
+
+## Connections
+- [[Spontaneity and Elegance]] — both are aesthetics of affirmation over labored complaint.
+- [[Memory and Preservation]] — affirming a life by keeping it.
+- [[Albert Camus]] — a neighboring stance on living without appeal; Ernest reads both.
+
+## Sources
+- [[diary]]
+<!-- archive-links:start -->
+## In the archive
+
+*Images and books connected to this idea by filename (auto-generated).*
+
+**Images (1).** [[vanitas by david kassan 2019 cdd41f1d|vanitas by david kassan 2019]]
+
+**Books (6).** [[friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] · [[friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] · [[cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] · [[friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] · [[friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] · [[stoic-4chan|stoic 4chan]]
+
+<!-- archive-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, diary's, keeping
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: diary, reads
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, things, gave
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: amor, fati, diary
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: amor, fati, want
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: despair, affirmation
+<!-- vault-crosslinks:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> "No matter how powerful we may be fighting-wise, a system where all the parts react the same way is a system with a fatal flaw. Like individual, like organization. Overspecialization leads to death"
+>
+> In their anxious fixation on sound quality, audiophiles can resemble members of Adorno’s “cult of the master violins,” fetishists who obsess over the sound of a Stradivarius, “forgetting in the process to listen to the composition and the execution.” Thus, “the moments of sensual pleasure in the idea, the voice, the instrument are made into fetishes and torn away from any functions which could give them meaning.”
+>
+> Simply on the basis that the creation of art is a theraputic process, one should strive to become skilled enough to express themselves. On the basis that while some people enjoy vocaloids, others prefer live performances, there's always going to be a mainstream and a counterculture. The absurd prevalence of AI arts will spur a need in people to see the real, genuine, visceral thing done by a human. The future you're describing is inconsistent with human nature - when things are too easy, too simple, too perfect, we will destroy it just to learn the meaning of struggle once more. Let's also not hold foolish belief that art is graded on a 10 point line where 0 is bad and 10 is perfect. I like The Great Wave better than the Mona Lisa, but the Louvre disagrees with my taste that fractals hold more beauty than Vinki's oneitis. The masses might bumble through life hearing nothing but concrete jungle bgm generated by AI, but you and I are not the masses, we're individuals. People are stupid, a person is smart. One last point - knowing about music theory and having instrument skills would help you guide any AI tool to develop your ideas in the direction you want. Got a cool riff/lick/beat and need something to shift to retain interest? Use it as an audio prompt to generate some ideas, take what you like best and then tweak it until it's yours. Some people will just prompt and post, artists will be the ones to alter the outcome until their message is beautifully written for others to hear. Don't be such a doomer fren.
+>
+> The fundamental ego-substanceless-ness or not-self of all phenomena, anatta/anatman/nairatmya is the essence of Buddhist thought and what differentiates it from all other systems. "Nihilism" comes from a few different readings. One is the Nietzschean, which interprets a general notion of Buddhism in alignment with Schopenhauer as a pessimistic doctrine of rejecting the world and thus considers it nihilism. But Nietzsche doesn't really care what Buddhism is per se and is using it as an example of world denial without ressentiment, to be contrasted with the Christian world denial, which is based on ressentiment. Nietzsche doesn't have access to substantial Mahayana literature that would expound on the non-duality of samsara and nirvana either, since this is decades away from getting translated and disseminated by indologists studying the prajnaparamita literature or by Japanese advocates of Zen. Understanding this, one would see it is not world denial, and there goes one form of nihilism. Another nihilism charge is that of the theist opponent of the Buddhist. This should be extremely familiar, as in the West, extant Christians assume atheists are nihilists because they deny the ultimate reality of god. In Indian discourse this is Brahma(n) or Ishvara. The specifics don't matter much, it's enough that Buddhists deny a creator of the universe to be labeled as nihilists. This is a very foul smelling argument because it would suggest the theist only believes in god to avoid being called a nihilist. So if you want, you can pick up Nietzsche here even though he doesn't agree with Buddhism and use him as cudgel, since they were both arguing with some of the same priestly people who had ceded their power to evaluate to "God." Finally there are negating or apophatic doctrines like anatman or sunyata. Anatman is in every form of Buddhism and denies a permanent ego-substance or own self-nature. As you may recognize if you are familiar with Platonism, immortal souls and immortal God go hand in hand, so Buddhists are totally consistent here in saying no to both rather than picking and choosing. Madhyamaka is the school that makes sunyata its core and influences the rest of Mahayana Buddhism. This "emptiness" doctrine is really just an elaboration on anatman in its most basic sense, nothing has a self in the sense of that permanent enduring substratum. Nagarjuna is taken to be the founding thinker here, and for him and his tetralemma methodology, we cannot say of anything that it is x, not x, both x and not x, or neither x nor not-x, and this has been a nightmare of doxography ever since, with a long list of Indian, Tibetan, Chinese, Japanese, and also Korean Buddhists attempting to say "yes, but how do I explain non-dualism using language?" The consistent denial of any objects of discourse to be ultimately real is what gets this Buddhism called nihilism. But all Buddhists disagree that this is nihilism and provide many arguments to the contrary.
+>
+> The term "bouncing audio" originates from the era when recording was done on tape decks with a limited number of tracks. The idea of "bouncing" means that you would record on all but one track, and then mix those tracks together and move them to the last track, freeing them up for more recording. In modern terminology the process is much the same, meaning to record multiple tracks, mix them together, and record more tracks on top of the mixed track.
+>
+> We'll never know. It could have been a genetic corruption of instinct, a disease that altered its sense of direction, he may have looked at the sun too long and gone blind. Or maybe not. Maybe there was something more. Maybe somewhere in that brain that didn't even have a prefrontal cortex there was a tiny spark, a sense of desire, a need to know. Maybe a tiny little pre language voice spoke inside the penguins head and he decided, consciously and knowingly, to turn towards the mountains and discover that which it did not know. The real question is why does the possibility that it WAS actively seeking something captivate you? Why does it concern you that a creature knowingly marched off to its death? Thousands of men take their own lives every day why was this bird special? Was it because it was filmed? Did the mere imagery of an animal sealing its own fate have such an impact on you as to stick in your mind for who knows how long? Or are you hopeful? Are you hopeful that this is proof of something. Proof that the human need to discover is not a mere quirk of evolution. Proof of a universal and captivating desire to know, to do, to discover, to explore. A desire that perhaps you have not fulfilled as much as you would have liked to. Perhaps you find a certain solace in your mutual interspecies anxiety. Perhaps you are more like the penguin that you care to admit. I know I am.
+>
+> you were just a child then, the day you met brian eno. he bounced you on his knee and let you play on his dx7. he whispered in your ear: one day i'm going to make a coldplay record. he seemed old. when he touched you a buzz of radiation coursed through your body. years later, the doctors would diagnose you with stage four colorectal cancer, terminal. a gift from the master. as you lay dying, eno appears before you. "it was me all along. i was tim hecker. i was ben frost. on occasion, when i could muster up the energy to give a shit, i was even oneohtrix point never." he crawls up your deathbed like a night terror and stares into your eyes. "i control the pieces on the board. there's no such thing as influence. awepittance, in all his delusion, was right about one thing. the world is a puzzle. i am the key." you begin to whimper. "and what of my favorite obscure band? what of loveliescrushing?" eno waves his hand, dismissive. "dust in the wind. nothing more than a footnote in a loveless 33 1/3 book." you begin to accept. "what is life then, without my special band?" "oh child, life is meaningless." brian eno holds you as you drift off into oblivion, viva la vida pumping on the hospital speakers.
+>
+> “Never at rest, the mind of the ADD adult flits about like some deranged bird that can light here or there for a while but is perched nowhere long enough to make a home. The British psychiatrist R. D. Laing wrote somewhere that there are three things human beings are afraid of: death, other people and their own minds. Terrified of my mind, I had always dreaded spending a moment alone with it. There always had to be a book in my pocket as an emergency kit in case I was ever trapped waiting anywhere, even for one minute, be it a bank queue or supermarket checkout counter. I was forever throwing my mind scraps to feed on, as if to a ferocious and malevolent beast that would devour me the moment it was not chewing on something else. All my life I had known no other way to be.”
+>
+> I used to make the joke of why would you paint a canvas with four people? It seems totally pointless. Why would I compose computer music with three other people? It’s absurd.
+>
+> France is bacon When I was young my father said to me: "Knowledge is power, Francis Bacon." I understood it as "Knowledge is power, France is bacon." For more than a decade I wondered over the meaning of the second part and what was the surreal linkage between the two. If I said the quote to someone, "Knowledge is power, France is Bacon," they nodded knowingly. Or someone might say, "Knowledge is power" and I'd finish the quote "France is Bacon" and they wouldn't look at me like I'd said something very odd, but thoughtfully agree. I did ask a teacher what did "Knowledge is power, France is bacon mean and got a full 10-minute explanation of the "knowledge is power" bit but nothing on "France is bacon". When I prompted further explanation by saying "France is bacon?" in a questioning tone I just got a "yes". At 12 I didn't have the confidence to press it further. I just accepted it as something I'd never understand. It wasn't until years later I saw it written down that the penny dropped.
+>
+> A Neapolitan fought fourteen duels to prove that Dante was a greater poet than Ariosto. At his death-bed, his confessor desired him, by way of penance, to acknowledge the superiority of Ariosto. « Father, answered the dying man, « to tell the truth, I never read either Dante or Ariosto.
+>
+> “I’m alive!" said Gatsby, roaring past on a speedboat. He'd faked his own death and gotten away with everything. That's why they called him the Great Gatsby. "Out of the way, current!' he yelled at the water. "This speedboat is bearing me ceaselessly into the future!"
+>
+> Cobain's death confirmed the defeat and incorporation of rock's utopian and promethean ambitions. When he died, rock was already being eclipsed by hip hop, whose global success has presupposed just the kind of precorporation by capital which I alluded to above. For much hip hop, any 'naive' hope that youth culture could change anything has been replaced by the hard-headed embracing of a brutally reductive version of 'reality'. "In hip hop', Simon Reynolds pointed out in a 1996 essay in The Wire magazine,
+>
+> Hanatarashi (鼻たらし), meaning "sniveler" or "snot-nosed" in Japanese, was a noise band created by later Boredoms frontman Yamantaka Eye and featured Zen Geva guitarist Mitsuru Tabata. The outfit was formed in Osaka, Japan in 1984 after Eye and Tabata met as stage hands at an Einstürzende Neubauten show. After the release of the first album, the "I" was dropped and the name became Hanatarash. Hanatarash was notorious for its dangerous live shows. Some of the band's most infamous shows included Eye cutting a dead cat in half with a machete, strapping a circular saw to his back and almost cutting his leg off, and destroying part of a venue with a backhoe bulldozer by driving it through the back wall and onto the stage. At a 1985 show in Tokyo's Superloft, the audience was required to fill out waivers due to the possibility of harm caused by the show. The show was stopped due to Eye preparing to throw a lit molotov cocktail onto the stage. The performance cost ¥600,000 (approximately $6,000 US) in repairs.
+>
+> Sombre is human life, and as yet without meaning: a buffoon may be fateful to it. I want to teach men the sense of their existence, which is the Superman, the lightning out of the dark cloud man.
+>
+> the death for "recognition." [Without this fight to the death for pure prestige, there would never have been human beings on earth. Indeed, the human being is formed only in terms of a Desire directed toward another Desire, that is--finally--in terms of a desire for recognition. Therefore, the human being can be formed only if at least two of these Desires confront one another. Each of the two beings endowed with such a Desire is ready to go all the way in pursuit of its satisfaction; that is, is ready to risk its life--and, consequently, to put the life of the other in danger--in order to be "recognized" by the other, to impose itself on the other as the supreme value; accordingly, their meeting can only be a fight to the death. And it is only in and by such a fight that the human reality is begotten, formed,
+>
+> Psychologist Carl Jung and philosopher Jean-Paul Sartre had similar thoughts about existential angst in that both focused on achieving meaningful existence through the development of inner resources, creative exercise of freedom, and overcoming self-deception. In essence, those who experience existential angst feel lost, think they have a purposeless existence, and believe they have been abandoned by life.
+>
+> The Creative Act blessed to get to create. It's a privilege. We're choosing it. We're not being ordered to do this. If we'd rather not do it, let's not do it. Some successful artists are deeply insecure, self-sabotaging, struggling with addiction, or facing other obstacles to making and sharing their work. An unhealthy self-image or a hardship in life can fuel great art, creating a deep well of insight and emotion for an artist to draw from. They can also get in the way of the artist being able to make many things over a long period of time. People who are particularly challenged in this sense generally can't produce creative work over and over again. This isn't because they're not artistically capable, but because they were only able to break through their own issues one or two times and share great work. One of the reasons so many great artists die of overdoses early in their lives is because they're using drugs to numb a very painful existence. The reason it's painful is the reason they became artists in the first place: their incredible sensitivity. 71
+>
+> Meaning is assigned once an inspired idea is followed through. It's best to wait until a work is complete to discover what it is saying. Holding your work hostage to meaning is a limitation. Works that attempt to overtly preach a message often don't connect as hoped while a piece not intended to address a societal ill may become an anthem for a revolutionary cause. Art is far more powerful than our plans for it.
+>
+> Without this fight to the death for pure prestige, there would never have been human beings on earth. Indeed, the human being is formed only in terms of a Desire directed toward another Desire, that is—finally—in terms of a desire for recognition. Therefore, the human being can be formed only if at least two of these Desires confront one another. Each of the two beings endowed with such a Desire is ready to go all the way in pursuit of its satisfaction; that is, is ready to risk its life—and, consequently, to put the life of the other in danger—in order to be 'recognized' by the other, to impose itself on the other as the supreme value; accordingly, their meeting can only be a fight to the death. And it is only in and by such a fight that the human reality is begotten, formed,
+>
+> ize, or at least to produce images of a general type. Significant works of art and artists are, for the most part, more complex than this bison and its producer. But the example illustrates one central strand in Hegel's argument, namely, that there is a symmetry between the mind of the artist and the absolute, what he takes to be the essence or meaning of the world. The absolute as the artist presents it lies at a depth below the sensuous surface of the world corresponding to the depth at which the mind of the artist (and, to a lesser degree, of his audience) lies below his physical and sensuous exterior, that aspect of him that is in immediate contact with the external world. But Hegel does not share the view (the main representative of which, for him, is Kant) that the absolute, and more generally the world as we view it, consists in no more than the projection of our own thoughts or categories on to an intrinsically
+>
+> YAJNAVALKYA The Self, pure awareness, shines as the light within the heart, surrounded by the senses. Only seeming to think, seeming to move, the Self neither sleeps nor wakes nor dreams. When the Self takes on a body, he seems to assume the body's frailties and limitations; but when he sheds the body at the time of death, the Self leaves all these behind,
+>
+> Looking for a new ethics. Ask Nietzsche if it's good or evil. He doesn't understand. Pull out a diagram explaining what's good and what's evil. He laughs and says 'it's beyond good and evil sir'. Read the book. It's evil.
+>
+> Both Kay and Rainy described their interest in companion bots as a response to problems with humans. 'Active listening is becoming a dying art for humans,' Rainy said. 'Humanity has degraded to the point where people are finding better options digitally,' Kay said. The other side: A chatbot can't look you in the eye, give you a hug or forge a genuine two-way connection. — Irina Raicu, director of the Internet ethics program at the Markkula Center for Applied Ethics at Santa Clara University, argues that chatbot bonding could further erode human relationships. 'It goes to the loneliness that so many people feel, and the way in which so many are not well prepared to deal with conflicts that inevitably arise among people with their own autonomy,' Raicu wrote in an email to Axios.
+>
+> world. There is only nature, in all its eternal flowering, creating microprocessors and datacentres and satellites just as it produced oceans, trees, magpies, oil and us. Nature is imagination itself. Let us not re-imagine it, then, but begin to imagine anew, with nature as our co-conspirator: our partner, our comrade and our guide.
+
+*…and 13 more on [[knowledge base quotes]].*
+<!-- quotes:end -->

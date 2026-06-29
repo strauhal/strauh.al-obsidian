@@ -1,0 +1,1207 @@
+#!/usr/bin/env python3
+"""
+Generate a single self-contained HTML file that mirrors Obsidian's native
+graph view for the vault. To keep the browser fast and the graph focused on
+"real" knowledge, the following are omitted as image-archive scaffolding:
+  - image notes            (knowledge/wiki/images/* or source_kind: image)
+  - image collections      (source_kind: image_collection, the "Collection - X")
+  - date / data buckets    (source_kind: date_bucket, *-buckets-stale folders)
+  - the image-archive index notes ("Image Archive", "strauh.al Image Archive")
+
+READ-ONLY with respect to the vault: this script only READS .md files and
+WRITES one new HTML file. It never modifies or deletes vault content.
+"""
+import os, re, json, sys
+
+VAULT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
+OUT = os.path.abspath(sys.argv[2] if len(sys.argv) > 2 else os.path.join(VAULT, "obsidian-graph.html"))
+
+EXCLUDE_DIR_PREFIXES = (".git", ".obsidian", ".trash")
+WIKILINK_RE = re.compile(r'(!?)\[\[([^\]\|#\^]+)(?:[#\^][^\]\|]*)?(?:\|[^\]]*)?\]\]')
+MDLINK_RE = re.compile(r'(?<!!)\[[^\]]*\]\(([^)]+\.md)\)')
+
+# source_kind values that mark image-archive scaffolding (not real knowledge notes)
+OMIT_SOURCE_KINDS = {"image", "image_collection", "date_bucket"}
+EXCERPT_CHARS = 900
+
+def parse_frontmatter(text):
+    """Return (frontmatter dict, body). Light YAML: `key: value` lines only."""
+    if not text.startswith("---"):
+        return {}, text
+    end = text.find("\n---", 3)
+    if end < 0:
+        return {}, text
+    block = text[3:end]
+    body = text[end + 4:]
+    fm = {}
+    for line in block.split("\n"):
+        m = re.match(r'^([A-Za-z0-9_\- ]+):\s*(.*)$', line)
+        if m:
+            key = m.group(1).strip()
+            val = m.group(2).strip()
+            if val.startswith('"') and val.endswith('"') and len(val) > 1:
+                val = val[1:-1]
+            if key and val != "":
+                fm[key] = val
+    return fm, body
+
+def make_excerpt(body):
+    b = re.sub(r'<!--.*?-->', '', body, flags=re.S)          # html comments
+    b = re.sub(r'!\[\[[^\]]*\]\]', '', b)                     # image/embed transclusions
+    b = re.sub(r'\[\[([^\]\|]+)\|([^\]]+)\]\]', r'\2', b)     # [[a|b]] -> b
+    b = re.sub(r'\[\[([^\]]+)\]\]', r'\1', b)                 # [[a]] -> a
+    b = re.sub(r'`+', '', b)
+    b = re.sub(r'^#{1,6}\s*', '', b, flags=re.M)             # drop heading marks
+    b = re.sub(r'^\s*[-*]\s+', '• ', b, flags=re.M)          # bullets -> •
+    b = re.sub(r'[ \t]+', ' ', b)
+    b = re.sub(r'\n{3,}', '\n\n', b).strip()
+    if len(b) > EXCERPT_CHARS:
+        b = b[:EXCERPT_CHARS].rstrip() + " …"
+    return b
+
+def is_omitted_note(relpath, fm, name):
+    rp = relpath.replace(os.sep, "/")
+    if rp.startswith("knowledge/wiki/images/"):
+        return True
+    if rp.startswith("knowledge/wiki/collections/"):   # the "Collection - X" data buckets
+        return True
+    if "-buckets-stale/" in rp or "/date-buckets" in rp:
+        return True
+    if fm.get("source_kind", "").lower() in OMIT_SOURCE_KINDS:
+        return True
+    nl = name.lower()
+    if "image archive" in nl:                          # archive index/hub/map notes
+        return True
+    return False
+
+def main():
+    md_files = []
+    for root, dirs, files in os.walk(VAULT):
+        dirs[:] = [d for d in dirs if not any(
+            os.path.relpath(os.path.join(root, d), VAULT).startswith(p)
+            for p in EXCLUDE_DIR_PREFIXES)]
+        for f in files:
+            if f.endswith(".md"):
+                md_files.append(os.path.join(root, f))
+
+    notes = {}        # relpath -> {name, group, folder, fm, ex}
+    by_basename = {}
+    by_relpath = {}
+    raw = {}
+    omit_count = 0
+
+    for path in sorted(md_files):
+        rel = os.path.relpath(path, VAULT).replace(os.sep, "/")
+        try:
+            with open(path, "r", encoding="utf-8", errors="replace") as fh:
+                text = fh.read()
+        except Exception:
+            text = ""
+        base = os.path.splitext(os.path.basename(rel))[0]
+        fm, body = parse_frontmatter(text)
+        if is_omitted_note(rel, fm, base):
+            omit_count += 1
+            continue
+        raw[rel] = text
+        relnoext = os.path.splitext(rel)[0]
+        parts = rel.split("/")
+        if parts[0] == "knowledge" and len(parts) > 2 and parts[1] == "wiki":
+            group = parts[2]
+        elif parts[0] == "knowledge" and len(parts) > 1:
+            group = "knowledge/" + parts[1]
+        else:
+            group = parts[0] if len(parts) > 1 else "(root)"
+        notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
+                      "fm": fm, "ex": make_excerpt(body)}
+        by_basename.setdefault(base.lower(), []).append(rel)
+        by_relpath[relnoext.lower()] = rel
+
+    def resolve(target, src_rel):
+        t = target.strip()
+        if not t:
+            return None
+        tl = t.lower()
+        if tl.endswith(".md"):
+            tl = tl[:-3]
+        if "/" in tl:
+            if tl in by_relpath:
+                return by_relpath[tl]
+            tl = tl.split("/")[-1]
+        cands = by_basename.get(tl)
+        if not cands:
+            return None
+        if len(cands) == 1:
+            return cands[0]
+        src_folder = os.path.dirname(src_rel)
+        for c in cands:
+            if os.path.dirname(c) == src_folder:
+                return c
+        return sorted(cands, key=len)[0]
+
+    edge_set = set()
+    for rel, text in raw.items():
+        targets = [m.group(2) for m in WIKILINK_RE.finditer(text)]
+        targets += [m.group(1) for m in MDLINK_RE.finditer(text)]
+        for target in targets:
+            tgt = resolve(target, rel)
+            if tgt and tgt != rel:
+                a, b = rel, tgt
+                edge_set.add((a, b))
+
+    # Order nodes; assign integer indices
+    rel_list = list(notes.keys())
+    idx = {rel: i for i, rel in enumerate(rel_list)}
+
+    # group index
+    group_names = sorted({notes[r]["group"] for r in rel_list},
+                         key=lambda g: -sum(1 for r in rel_list if notes[r]["group"] == g))
+    gidx = {g: i for i, g in enumerate(group_names)}
+
+    # degree
+    deg = [0] * len(rel_list)
+    links = []
+    seen_pair = set()
+    for a, b in edge_set:
+        ia, ib = idx[a], idx[b]
+        # dedupe undirected duplicates from bidirectional links
+        key = (ia, ib) if ia < ib else (ib, ia)
+        if key in seen_pair:
+            continue
+        seen_pair.add(key)
+        links.append([ia, ib])
+        deg[ia] += 1
+        deg[ib] += 1
+
+    names = [notes[r]["name"] for r in rel_list]
+    groups = [gidx[notes[r]["group"]] for r in rel_list]
+    paths = rel_list
+    # per-node metadata for the click popup: [frontmatter dict, excerpt]
+    meta = [[notes[r]["fm"], notes[r]["ex"]] for r in rel_list]
+
+    data = {
+        "names": names,
+        "paths": paths,
+        "groups": groups,
+        "deg": deg,
+        "groupNames": group_names,
+        "links": links,
+        "meta": meta,
+    }
+
+    connected = sum(1 for d in deg if d > 0)
+    print(f"scanned md: {len(md_files)} | omitted (images/buckets/archive): {omit_count}")
+    print(f"nodes: {len(names)} (connected {connected}, orphans {len(names)-connected}) | links: {len(links)}")
+    print("groups:", {g: sum(1 for r in rel_list if notes[r]['group']==g) for g in group_names})
+
+    json_str = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
+    json_str = json_str.replace("</", "<\\/")  # guard against </script>
+
+    html = TEMPLATE.replace("/*__DATA__*/null", json_str)
+    with open(OUT, "w", encoding="utf-8") as fh:
+        fh.write(html)
+    print(f"wrote {OUT} ({os.path.getsize(OUT)/1e6:.2f} MB)")
+
+
+TEMPLATE = r"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Graph view — strauh.al vault</title>
+<style>
+  /* --- strauh.al design language: white text on animated blue, 1px borders, serif ---
+     These page-level rules mirror strauh.al so the graph looks right standalone;
+     when embedded in the site they simply match the styles already there. */
+  :root{
+    --text:#fff;
+    --muted:rgba(255,255,255,0.62);
+    --line:rgba(255,255,255,0.55);
+    --panel:#00f;
+    --accent:#fff;
+  }
+  *{box-sizing:border-box}
+  @keyframes changeColor{0%{background-color:#00f}50%{background-color:#20f}100%{background-color:#00f}}
+  html,body{margin:0;height:100%;overflow:hidden;color:var(--text);
+    font-family:'Times New Roman',Times,Georgia,serif;
+    background-color:#00f;animation:changeColor 10s infinite linear;}
+  /* transparent canvas over the animated blue page background; it receives all
+     graph interaction. The <h1> is lifted above it for visibility ONLY (stacking,
+     no offset) — its appearance (font/colour/size) is left to strauh.al's CSS. */
+  #stage{position:fixed;inset:0;z-index:1;}
+  canvas{display:block;width:100%;height:100%;cursor:grab;background:transparent;}
+  /* lift the title just above the canvas (below the UI), and let clicks pass through
+     its full-width block so the buttons/canvas underneath stay usable */
+  h1{position:relative;z-index:2;pointer-events:none;}
+  h1 a{pointer-events:auto;}
+
+  /* Buttons top-right */
+  .iconbtn{position:fixed;right:16px;z-index:6;width:34px;height:34px;
+    background:var(--panel);border:1px solid var(--line);color:#fff;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:15px;}
+  .iconbtn:hover{background:#fff;color:#00f;}
+  #btnSettings{top:14px}
+  #btnReset{top:56px}
+  #btnSearch{top:98px}
+
+  /* Settings panel */
+  #panel{position:fixed;top:14px;right:60px;z-index:7;width:288px;max-height:calc(100vh - 28px);
+    overflow-y:auto;background:var(--panel);border:1px solid var(--line);
+    padding:12px 15px 15px;display:none;font-size:14px;}
+  #panel.open{display:block}
+  #panel h3{margin:2px 0 9px;font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);
+    font-weight:400;}
+  #panel h3:not(:first-child){margin-top:16px;border-top:1px solid var(--line);padding-top:13px;}
+  .row{display:flex;align-items:center;justify-content:space-between;margin:8px 0;gap:8px;}
+  .row label{color:var(--text);flex:0 0 auto;}
+  .row .val{color:var(--muted);font-variant-numeric:tabular-nums;min-width:42px;text-align:right;font-size:12px;}
+  input[type=range]{-webkit-appearance:none;appearance:none;width:112px;height:1px;
+    background:var(--line);outline:none;}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:12px;height:12px;
+    background:#fff;cursor:pointer;border:1px solid #00f;}
+  input[type=checkbox]{accent-color:#fff;width:15px;height:15px;cursor:pointer;}
+  .legend{display:flex;flex-direction:column;gap:2px;margin-top:6px;}
+  .legend .lg{display:flex;align-items:center;gap:8px;cursor:pointer;padding:3px 5px;user-select:none;}
+  .legend .lg:hover{background:#fff;color:#00f;}
+  .legend .lg.off{opacity:.4;}
+  .legend .sw{width:10px;height:10px;border-radius:50%;flex:0 0 auto;}
+  .legend .nm{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .legend .ct{color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums;}
+  .legend .lg:hover .ct{color:#00f;}
+
+  /* Search (fixed width so long paths clip instead of overflowing the page) */
+  #searchwrap{position:fixed;top:14px;left:50%;transform:translateX(-50%);z-index:7;display:none;
+    width:min(460px,calc(100vw - 130px));}
+  #searchwrap.open{display:block;}
+  #search{width:100%;background:var(--panel);border:1px solid var(--line);
+    color:#fff;padding:9px 13px;font-size:15px;font-family:inherit;outline:none;}
+  #search:focus{border-color:#fff;}
+  #results{margin-top:6px;max-height:46vh;overflow-y:auto;overflow-x:hidden;width:100%;
+    background:var(--panel);border:1px solid var(--line);display:none;}
+  #results.show{display:block;}
+  #results .r{padding:7px 13px;cursor:pointer;font-size:14px;border-bottom:1px solid rgba(255,255,255,0.18);
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  #results .r:last-child{border-bottom:none;}
+  #results .r:hover,#results .r.sel{background:#fff;color:#00f;}
+  #results .r .p{color:var(--muted);font-size:11px;}
+  #results .r:hover .p,#results .r.sel .p{color:#00f;}
+
+  /* Tooltip */
+  #tooltip{position:fixed;z-index:8;pointer-events:none;background:var(--panel);
+    border:1px solid var(--line);padding:6px 10px;font-size:13px;
+    color:#fff;max-width:340px;display:none;}
+  #tooltip .tp{color:var(--muted);font-size:11px;margin-top:2px;}
+
+  #hint{position:fixed;bottom:12px;left:16px;z-index:4;font-size:12px;color:var(--muted);
+    background:var(--panel);padding:5px 10px;border:1px solid var(--line);pointer-events:none;}
+  #hint b{color:#fff;font-weight:400;}
+
+  /* Node info popup (top-left) */
+  #info{position:fixed;top:62px;left:16px;z-index:9;width:370px;max-width:calc(100vw - 32px);
+    max-height:calc(100vh - 90px);overflow-y:auto;background:var(--panel);
+    border:1px solid var(--line);display:none;font-size:14px;
+    transform:translateY(-6px);opacity:0;transition:opacity .16s ease,transform .16s ease;}
+  #info.open{display:block;transform:none;opacity:1;}
+  #info .hd{display:flex;align-items:flex-start;gap:9px;padding:13px 14px 11px;
+    border-bottom:1px solid var(--line);position:sticky;top:0;background:#00f;}
+  #info .dot{width:11px;height:11px;border-radius:50%;flex:0 0 auto;margin-top:5px;}
+  #info .ttl{flex:1;font-size:18px;color:#fff;line-height:1.25;word-break:break-word;}
+  #info .x{flex:0 0 auto;cursor:pointer;color:var(--muted);font-size:20px;line-height:1;padding:0 2px;}
+  #info .x:hover{color:#fff;}
+  #info .body{padding:11px 14px 14px;}
+  #info .grp{color:var(--muted);font-size:12px;margin:-2px 0 9px;word-break:break-all;}
+  #info .sect{font-size:10px;text-transform:uppercase;letter-spacing:.7px;color:var(--muted);
+    margin:14px 0 6px;}
+  #info .tags{display:flex;flex-wrap:wrap;gap:5px;}
+  #info .tag{border:1px solid var(--line);color:#fff;padding:2px 8px;font-size:12px;}
+  #info table{width:100%;border-collapse:collapse;}
+  #info td{padding:3px 6px 3px 0;vertical-align:top;font-size:13px;}
+  #info td.k{color:var(--muted);white-space:nowrap;width:1%;padding-right:12px;}
+  #info td.v{color:#fff;word-break:break-word;}
+  #info .ex{color:#fff;line-height:1.5;white-space:pre-wrap;font-size:13px;}
+  #info .conns{display:flex;flex-direction:column;gap:0;}
+  #info .cn{display:flex;align-items:center;gap:8px;padding:4px 6px;cursor:pointer;}
+  #info .cn:hover{background:#fff;}
+  #info .cn:hover .nm{color:#00f;}
+  #info .cn .sw{width:9px;height:9px;border-radius:50%;flex:0 0 auto;}
+  #info .cn .nm{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff;}
+  #info .empty{color:var(--muted);font-style:italic;}
+</style>
+</head>
+<body>
+<h1><a href="https://strauh.al">strauh.al</a>/obsidian</h1>
+
+<div id="stage"><canvas id="cv"></canvas></div>
+
+<div class="iconbtn" id="btnSettings" title="Settings">&#9881;</div>
+<div class="iconbtn" id="btnReset" title="Reset view (R)">&#10227;</div>
+<div class="iconbtn" id="btnSearch" title="Search (/)">&#128269;</div>
+
+<div id="searchwrap">
+  <input id="search" type="text" placeholder="Search notes…" autocomplete="off" spellcheck="false">
+  <div id="results"></div>
+</div>
+
+<div id="panel">
+  <h3>Forces</h3>
+  <div class="row"><label>Center force</label><input type="range" id="fCenter" min="0" max="100" value="15"><span class="val" id="vCenter"></span></div>
+  <div class="row"><label>Repel force</label><input type="range" id="fRepel" min="0" max="100" value="54"><span class="val" id="vRepel"></span></div>
+  <div class="row"><label>Link force</label><input type="range" id="fLink" min="0" max="100" value="50"><span class="val" id="vLink"></span></div>
+  <div class="row"><label>Link distance</label><input type="range" id="fDist" min="10" max="250" value="75"><span class="val" id="vDist"></span></div>
+
+  <h3>Display</h3>
+  <div class="row"><label>Node size</label><input type="range" id="dSize" min="20" max="300" value="50"><span class="val" id="vSize"></span></div>
+  <div class="row"><label>Text fade</label><input type="range" id="dText" min="0" max="100" value="42"><span class="val" id="vText"></span></div>
+  <div class="row"><label>Show arrows</label><input type="checkbox" id="dArrows"></div>
+  <div class="row"><label>Show orphans</label><input type="checkbox" id="dOrphans" checked></div>
+
+  <h3>Groups</h3>
+  <div class="legend" id="legend"></div>
+</div>
+
+<div id="tooltip"></div>
+<div id="info"></div>
+<div id="hint">scroll = zoom · drag = pan · drag node = move · <b>right-drag = rotate 3D</b> · hover = highlight · <b>click = open note</b></div>
+
+<script>
+var DATA = /*__DATA__*/null;
+(function(){
+"use strict";
+
+// ---------- palette (One Dark / Nord-ish, tuned for dark bg) ----------
+var PALETTE = ["#8a7bf0","#e06c75","#e5c07b","#56b6c2","#98c379","#c678dd",
+  "#d19a66","#61afef","#e88aa8","#5fb3b3","#b48ead","#a3be8c","#ebcb8b",
+  "#bf8b6a","#6cb6ff","#cba6f7","#94e2d5","#f2cdcd","#a6da95","#eed49f"];
+function groupColor(g){ return PALETTE[g % PALETTE.length]; }
+
+// ---------- build node/link arrays ----------
+var N = DATA.names.length;
+var nodes = new Array(N);
+var maxDeg = 1;
+for (var i=0;i<N;i++) maxDeg = Math.max(maxDeg, DATA.deg[i]);
+for (var i=0;i<N;i++){
+  nodes[i] = {
+    i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
+    x:0, y:0, z:0, vx:0, vy:0, vz:0, fx:null, fy:null, fz:null,
+    r:1, col:groupColor(DATA.groups[i])
+  };
+}
+// initial positions: 3D spherical Fibonacci spiral (gives the layout volume to inflate)
+var GA = Math.PI*(3-Math.sqrt(5));
+for (var i=0;i<N;i++){
+  var t = (i+0.5)/N;
+  var phi = Math.acos(1-2*t);          // polar angle, uniform on sphere
+  var theta = GA*i;                    // golden-angle azimuth
+  var rad = 16*Math.cbrt(i+1);         // grow radius so they start spread in a ball
+  nodes[i].x = rad*Math.sin(phi)*Math.cos(theta);
+  nodes[i].y = rad*Math.sin(phi)*Math.sin(theta);
+  nodes[i].z = rad*Math.cos(phi);
+}
+var links = new Array(DATA.links.length);
+var degCount = new Array(N).fill(0); // link count for bias/strength
+for (var i=0;i<DATA.links.length;i++){
+  var s=DATA.links[i][0], t=DATA.links[i][1];
+  links[i] = {s:nodes[s], t:nodes[t]};
+  degCount[s]++; degCount[t]++;
+}
+// adjacency for highlight
+var adj = new Array(N);
+for (var i=0;i<N;i++) adj[i]=[];
+for (var i=0;i<links.length;i++){ adj[links[i].s.i].push(links[i].t.i); adj[links[i].t.i].push(links[i].s.i); }
+
+// group visibility
+var groupVisible = DATA.groupNames.map(function(){return true;});
+var showOrphans = true;
+
+// ---------- canvas / view ----------
+var cv = document.getElementById("cv");
+var ctx = cv.getContext("2d", {alpha:true});   // transparent so the page's blue shows through
+var dpr = Math.max(1, Math.min(2, window.devicePixelRatio||1));
+var W=0,H=0;
+var view = {k:0.18, tx:0, ty:0}; // scale + translate (CSS px)
+
+// ----- pseudo-3D: rotate the flat 2D layout in space (right-drag) -----
+// The physics stays 2D; we rotate (x,y,0) about the graph centroid by yaw/pitch
+// and apply a gentle perspective divide so it reads as orbiting in 3D.
+var rot = {yaw:0, pitch:0};
+var FOCAL = 1600;          // perspective focal length in world units (set on fit)
+var fitK = 0.2;            // zoom level at which the whole graph fits (set in fitView)
+var cenX = 0, cenY = 0;    // graph centroid (recomputed each draw)
+function clampPitch(p){ return p<-1.35?-1.35:(p>1.35?1.35:p); }
+
+function nowMs(){ return performance.now(); }
+function lerp(a,b,t){ return a+(b-a)*t; }
+function easeInOut(t){ return t<0.5 ? 4*t*t*t : 1-Math.pow(-2*t+2,3)/2; }
+
+function resize(){
+  W = window.innerWidth; H = window.innerHeight;
+  cv.width = Math.floor(W*dpr); cv.height = Math.floor(H*dpr);
+  cv.style.width = W+"px"; cv.style.height = H+"px";
+  needsDraw = true;
+}
+window.addEventListener("resize", resize);
+
+// world <-> screen (face-on; used when rot is ~0, e.g. zoom anchoring)
+function toScreenX(x){ return x*view.k + view.tx; }
+function toScreenY(y){ return y*view.k + view.ty; }
+function toWorldX(sx){ return (sx - view.tx)/view.k; }
+function toWorldY(sy){ return (sy - view.ty)/view.k; }
+
+// ---------- parameters (bound to sliders) ----------
+var P = {
+  center: 0.22*1.0,
+  repel: 1.0,
+  linkForce: 0.55,
+  linkDist: 55,
+  nodeSize: 1.0,
+  linkThick: 1.0,
+  textFade: 0.42,
+  arrows: false
+};
+
+// node radius from degree
+function computeRadii(){
+  for (var i=0;i<N;i++){
+    var n=nodes[i];
+    n.r = (1.4 + 2.0*Math.sqrt(n.deg)) * (0.45 + 0.85*P.nodeSize);
+  }
+}
+computeRadii();
+
+// ---------- Barnes-Hut OCTREE for repulsion (3D) ----------
+// A full 3D charge sim gives the graph a *body*: repulsion inflates it into a
+// sphere, links pull connected notes together in all three axes, so depth
+// genuinely encodes structure (rotating reveals clusters front-to-back).
+function Oct(){ this.x0=0;this.y0=0;this.z0=0;this.s=0;
+  this.mass=0;this.cx=0;this.cy=0;this.cz=0;this.node=null;this.children=null; }
+var octPool=[], octCount=0;
+function getOct(){ var q = octPool[octCount] || (octPool[octCount]=new Oct()); octCount++;
+  q.mass=0;q.cx=0;q.cy=0;q.cz=0;q.node=null;q.children=null; return q; }
+
+function buildTree(){
+  octCount=0;
+  var mn=Infinity,mx=-Infinity, mny=Infinity,mxy=-Infinity, mnz=Infinity,mxz=-Infinity;
+  for (var i=0;i<N;i++){ var n=nodes[i];
+    if(n.x<mn)mn=n.x; if(n.x>mx)mx=n.x;
+    if(n.y<mny)mny=n.y; if(n.y>mxy)mxy=n.y;
+    if(n.z<mnz)mnz=n.z; if(n.z>mxz)mxz=n.z; }
+  if(!isFinite(mn)){mn=mny=mnz=-1;mx=mxy=mxz=1;}
+  var size=Math.max(mx-mn,Math.max(mxy-mny,mxz-mnz))+1;
+  var root=getOct(); root.x0=mn;root.y0=mny;root.z0=mnz;root.s=size;
+  for (var i=0;i<N;i++) insert(root, nodes[i]);
+  return root;
+}
+function insert(q,node){
+  if(q.node===null && q.children===null){ q.node=node; return; }
+  if(q.children===null){
+    var existing=q.node; q.node=null; q.children=[null,null,null,null,null,null,null,null];
+    placeChild(q, existing);
+  }
+  placeChild(q, node);
+}
+function placeChild(q,node){
+  var h=q.s/2, mx=q.x0+h, my=q.y0+h, mz=q.z0+h;
+  var bx=node.x>=mx?1:0, by=node.y>=my?1:0, bz=node.z>=mz?1:0;
+  var qi=bx + by*2 + bz*4;
+  var c=q.children[qi];
+  if(c===null){
+    c=getOct(); c.s=h;
+    c.x0=q.x0+(bx?h:0); c.y0=q.y0+(by?h:0); c.z0=q.z0+(bz?h:0);
+    q.children[qi]=c;
+  }
+  insert(c,node);
+}
+function computeMass(q){
+  if(q.children===null){
+    if(q.node){ q.mass=1; q.cx=q.node.x; q.cy=q.node.y; q.cz=q.node.z; }
+    return;
+  }
+  var m=0,cx=0,cy=0,cz=0;
+  for(var i=0;i<8;i++){ var c=q.children[i]; if(c){ computeMass(c); m+=c.mass; cx+=c.cx*c.mass; cy+=c.cy*c.mass; cz+=c.cz*c.mass; } }
+  q.mass=m; q.cx=cx/m; q.cy=cy/m; q.cz=cz/m;
+}
+var THETA2=0.81; // theta^2 ~ 0.9^2
+var octStack=new Array(4096);
+function applyRepel(node, root, strength, alpha){
+  var sp=0; octStack[sp++]=root;
+  while(sp>0){
+    var q=octStack[--sp];
+    if(q.mass===0) continue;
+    var dx=q.cx-node.x, dy=q.cy-node.y, dz=q.cz-node.z;
+    var d2=dx*dx+dy*dy+dz*dz;
+    if(q.children===null){
+      if(q.node && q.node!==node){
+        if(d2===0){ dx=(node.i%7-3)*0.5; dy=(node.i%5-2)*0.5; dz=(node.i%3-1)*0.5; d2=dx*dx+dy*dy+dz*dz+0.01; }
+        var f=strength*alpha/d2;
+        node.vx+=dx*f; node.vy+=dy*f; node.vz+=dz*f;
+      }
+      continue;
+    }
+    if((q.s*q.s)/(d2||1e-9) < THETA2){
+      if(d2===0){ d2=0.01; }
+      var f=strength*alpha*q.mass/d2;
+      node.vx+=dx*f; node.vy+=dy*f; node.vz+=dz*f;
+    } else {
+      for(var i=0;i<8;i++) if(q.children[i]) octStack[sp++]=q.children[i];
+    }
+  }
+}
+
+// ---------- simulation ----------
+var alpha=1, alphaMin=0.001, alphaDecay=1-Math.pow(alphaMin,1/320), alphaTarget=0, velDecay=0.6;
+var BREATHE=2.6;               // breathing wobble amplitude in SCREEN px (render-only, bounded)
+var breatheT=0;                // breathing time counter
+function reheat(a){ alpha=Math.max(alpha, a||0.35); running=true; ensureLoop(); }
+
+function tick(){
+  // repel — only while actively settling (gated so idle breathing stays cheap)
+  if(alpha>0.06){
+    var root=buildTree(); computeMass(root);
+    var rep = -34 * P.repel;
+    for(var i=0;i<N;i++) applyRepel(nodes[i], root, rep, alpha);
+  }
+
+  // links (d3-style, in 3D)
+  for(var i=0;i<links.length;i++){
+    var L=links[i], s=L.s, t=L.t;
+    var dx=(t.x+t.vx)-(s.x+s.vx), dy=(t.y+t.vy)-(s.y+s.vy), dz=(t.z+t.vz)-(s.z+s.vz);
+    var dist=Math.sqrt(dx*dx+dy*dy+dz*dz)||1e-6;
+    var ds=degCount[s.i], dt=degCount[t.i];
+    var strength=P.linkForce/Math.min(ds||1,dt||1);
+    var l=(dist-P.linkDist)/dist*alpha*strength;
+    dx*=l; dy*=l; dz*=l;
+    var bias=(ds||1)/((ds||1)+(dt||1));
+    t.vx-=dx*bias; t.vy-=dy*bias; t.vz-=dz*bias;
+    s.vx+=dx*(1-bias); s.vy+=dy*(1-bias); s.vz+=dz*(1-bias);
+  }
+
+  // center gravity (3D, pulls toward origin so the ball stays cohesive)
+  var cg=P.center*0.09*alpha;
+  if(cg>0){ for(var i=0;i<N;i++){ var n=nodes[i]; n.vx+=-n.x*cg; n.vy+=-n.y*cg; n.vz+=-n.z*cg; } }
+
+  // integrate
+  for(var i=0;i<N;i++){
+    var n=nodes[i];
+    if(n.fx!=null){ n.x=n.fx; n.vx=0; } else { n.vx*=velDecay; n.x+=n.vx; }
+    if(n.fy!=null){ n.y=n.fy; n.vy=0; } else { n.vy*=velDecay; n.y+=n.vy; }
+    if(n.fz!=null){ n.z=n.fz; n.vz=0; } else { n.vz*=velDecay; n.z+=n.vz; }
+  }
+  alpha += (alphaTarget-alpha)*alphaDecay;
+}
+
+// ---------- highlight / hover ----------
+var hoverNode=null, focusNode=null, searchSet=null;
+var hiNodes=null, hiLinks=null;
+var connHi=null;   // node index of a connection row being hovered in the popup
+var groupHi=null;  // group index being hovered in the settings legend
+function computeHighlight(){
+  var center = hoverNode || focusNode;
+  if(center){
+    hiNodes={}; hiNodes[center.i]=2;
+    var a=adj[center.i];
+    for(var j=0;j<a.length;j++) if(hiNodes[a[j]]===undefined) hiNodes[a[j]]=1;
+  } else hiNodes=null;
+}
+
+// ---------- drawing ----------
+var needsDraw=true, running=true, rafId=null;
+function ensureLoop(){ if(rafId==null) rafId=requestAnimationFrame(loop); }
+
+function nodeVisible(n){
+  if(!groupVisible[n.g]) return false;
+  if(!showOrphans && n.deg===0) return false;
+  return true;
+}
+
+// We render entirely in SCREEN space (identity transform, only dpr scale) and
+// project world->screen by hand. Drawing arcs under a non-unity canvas transform
+// triggers a Chrome tessellation artifact (circles render as teardrops/polygons),
+// so we keep the CTM at dpr and bake the projection into the coordinates instead.
+var vib=0, vibPhase=0;                 // vibration during fly animation (screen px)
+var drawOrder=new Int32Array(N);
+for(var i=0;i<N;i++) drawOrder[i]=i;
+var zMin=0, zMax=0, cenZ=0;
+
+// Project every node from its real 3D position to screen px (perspective),
+// storing _sx,_sy,_sr,_z on the node. Always on — the layout is a 3D body.
+function computeProjection(){
+  var k=view.k, tx=view.tx, ty=view.ty;
+  var sx=0, sy=0, sz=0, c=0;
+  for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue; sx+=n.x; sy+=n.y; sz+=n.z; c++; }
+  if(c){ cenX=sx/c; cenY=sy/c; cenZ=sz/c; }
+  var cyaw=Math.cos(rot.yaw), syaw=Math.sin(rot.yaw);
+  var cpit=Math.cos(rot.pitch), spit=Math.sin(rot.pitch);
+  zMin=Infinity; zMax=-Infinity;
+  for(var i=0;i<N;i++){
+    var n=nodes[i];
+    var dx=n.x-cenX, dy=n.y-cenY, dz=n.z-cenZ;
+    var y1=dy*cpit - dz*spit, z1=dy*spit + dz*cpit;  // pitch about X
+    var x2=dx*cyaw + z1*syaw;                         // yaw about Y
+    var z = -dx*syaw + z1*cyaw;
+    var persp=FOCAL/(FOCAL+z);
+    n._sx=(cenX + x2*persp)*k+tx;
+    n._sy=(cenY + y1*persp)*k+ty;
+    n._sr=n.r*k*persp;
+    n._z=z;
+    if(z<zMin)zMin=z; if(z>zMax)zMax=z;
+  }
+  // gentle perpetual "breathing": a render-only screen-space wobble (no physics, no
+  // depth drift) so the web shifts casually in place without receding into the distance.
+  var bt=breatheT;
+  for(var i=0;i<N;i++){ var n=nodes[i];
+    if(n.fx!=null) continue;                  // pinned (dragged) nodes hold still
+    n._sx += BREATHE*Math.sin(bt*0.013 + n.i*1.7);
+    n._sy += BREATHE*Math.cos(bt*0.011 + n.i*2.3);
+  }
+  if(vib>0.05){
+    for(var i=0;i<N;i++){ var n=nodes[i];
+      n._sx += vib*Math.sin(vibPhase*1.7 + n.i*1.31);
+      n._sy += vib*Math.cos(vibPhase*1.9 + n.i*0.74);
+    }
+  }
+}
+
+function fogAlpha(z){ // nearer (smaller z) brighter, farther dimmer
+  if(zMax<=zMin) return 1;
+  var t=(z-zMin)/(zMax-zMin);   // 0 near .. 1 far
+  return 1 - 0.5*t;
+}
+
+function draw(){
+  computeProjection();
+  ctx.setTransform(dpr,0,0,dpr,0,0);
+  ctx.clearRect(0,0,W,H);   // transparent: the page's animated blue shows through
+
+  var k=view.k;
+  var hasHi = hiNodes!=null || searchSet!=null || groupHi!=null;
+  var TAU=6.283185307;
+
+  // dynamic link thickness: bold (300%) at the whole-graph view, fine (20%) ~5x zoomed in
+  var zr = k/(fitK||0.2);                              // 1 = whole graph, grows as you zoom in
+  var tt = Math.max(0,Math.min(1,(zr-1)/(5-1)));      // 0 far .. 1 close
+  P.linkThick = 3.0 + tt*(0.2-3.0);
+
+  // ---- links ----
+  var baseLW = Math.max(0.3, 0.9*k*P.linkThick); // screen px
+  var litLW = baseLW*1.7;
+  for(var i=0;i<links.length;i++){
+    var L=links[i], s=L.s, t=L.t;
+    if(!nodeVisible(s)||!nodeVisible(t)) continue;
+    var sx=s._sx, sy=s._sy, txx=t._sx, tyy=t._sy;
+    if((sx<0&&txx<0)||(sx>W&&txx>W)||(sy<0&&tyy<0)||(sy>H&&tyy>H)) continue;
+    var lit = hiNodes ? (hiNodes[s.i]!==undefined && hiNodes[t.i]!==undefined) : false;
+    if(groupHi!=null && s.g===groupHi && t.g===groupHi) lit=true;   // intra-group web lights up
+    var conn = (connHi!=null && (s.i===connHi||t.i===connHi));
+    if(conn){ ctx.strokeStyle="rgba(255,255,255,1)"; ctx.lineWidth=litLW*1.35; }      // hovered connection blazes
+    else if(connHi!=null && lit){ ctx.strokeStyle="rgba(255,255,255,0.18)"; ctx.lineWidth=baseLW; } // others recede while a conn is hovered
+    else if(hasHi && !lit){ ctx.strokeStyle="rgba(255,255,255,0.05)"; ctx.lineWidth=baseLW; }
+    else if(lit){ ctx.strokeStyle="rgba(255,255,255,0.9)"; ctx.lineWidth=litLW; }
+    else {
+      var la = 0.05+0.08*fogAlpha((s._z+t._z)*0.5);
+      ctx.strokeStyle="rgba(255,255,255,"+la.toFixed(3)+")"; ctx.lineWidth=baseLW;
+    }
+    ctx.beginPath();
+    ctx.moveTo(sx,sy); ctx.lineTo(txx,tyy);
+    ctx.stroke();
+    if(P.arrows && (!hasHi || lit)) drawArrow(sx,sy,txx,tyy,t._sr,baseLW);
+  }
+
+  // ---- nodes (always depth-sorted far -> near) ----
+  Array.prototype.sort.call(drawOrder, function(a,b){ return nodes[b]._z - nodes[a]._z; });
+  for(var oi=0;oi<N;oi++){
+    var n = nodes[drawOrder[oi]];
+    if(!nodeVisible(n)) continue;
+    var sx=n._sx, sy=n._sy, r=n._sr;
+    if(sx<-r-2||sx>W+r+2||sy<-r-2||sy>H+r+2) continue;
+    if(r<0.4) r=0.4;
+    var dim=false, full=false, ring=false;
+    if(hiNodes){ if(hiNodes[n.i]===undefined) dim=true; else if(hiNodes[n.i]===2){ full=true; ring=true; } }
+    if(searchSet){ if(!searchSet[n.i]) dim=true; else { full=true; ring=true; } }
+    if(groupHi!=null){ if(n.g===groupHi){ dim=false; full=true; } else dim=true; }  // group lights up in its colour (no ring)
+    var isConn=(n.i===connHi);
+    if(isConn){ dim=false; full=true; ring=true; r=Math.max(r*1.5, r+5); }   // pop out of the focus web
+    ctx.globalAlpha = dim?0.12 : (full?1:fogAlpha(n._z));
+    ctx.beginPath();
+    ctx.arc(sx,sy,r,0,TAU);
+    ctx.fillStyle = n.col;
+    ctx.fill();
+    if(isConn){ // bright halo on the connection being hovered in the popup
+      ctx.globalAlpha=1;
+      ctx.lineWidth=Math.max(2, r*0.3);
+      ctx.strokeStyle="#fff"; ctx.stroke();
+      ctx.globalAlpha=0.55; ctx.lineWidth=Math.max(1.2,r*0.16);
+      ctx.beginPath(); ctx.arc(sx,sy,r+Math.max(5,r*0.8),0,TAU); ctx.stroke();
+    } else if(ring){
+      ctx.globalAlpha=1;
+      ctx.lineWidth=Math.max(1.4, r*0.18);
+      ctx.strokeStyle="rgba(255,255,255,0.95)";
+      ctx.stroke();
+    }
+  }
+  ctx.globalAlpha=1;
+
+  // ---- labels ----
+  var fadeK = 0.12 + P.textFade*1.4;   // view scale at which generic labels appear
+  ctx.font = "13px 'Times New Roman', Times, Georgia, serif";
+  ctx.textAlign="center"; ctx.textBaseline="top";
+  var bigDegThreshold = Math.max(6, maxDeg*0.12);
+  for(var i=0;i<N;i++){
+    var n=nodes[i];
+    if(!nodeVisible(n)) continue;
+    var forced = (hiNodes && hiNodes[n.i]!==undefined) || (searchSet && searchSet[n.i]) || n.i===connHi;
+    var show=false, a=1;
+    if(forced){ show=true; a=1; }
+    else if(hiNodes||searchSet||groupHi){ show=false; }
+    else if(k>=fadeK){ show=true; a=Math.min(1,(k-fadeK)/(fadeK*0.6)); }
+    else if(n.deg>=bigDegThreshold && k>fadeK*0.45){ show=true; a=Math.min(1,(k-fadeK*0.45)/(fadeK*0.4)); }
+    if(!show) continue;
+    var sx=n._sx, sy=n._sy, r=n._sr;
+    if(sx<-60||sx>W+60||sy<-20||sy>H+20) continue;
+    if(!forced) a*=fogAlpha(n._z);
+    var label=n.name;
+    if(label.length>34) label=label.slice(0,32)+"…";
+    var ly=sy+r+3;
+    ctx.globalAlpha=a*0.55;
+    ctx.fillStyle="#001";   // dark-blue shadow keeps white text legible on bright blue
+    ctx.fillText(label, sx+0.8, ly+0.8);
+    ctx.globalAlpha=a;
+    ctx.fillStyle="#fff";
+    ctx.fillText(label, sx, ly);
+  }
+  ctx.globalAlpha=1;
+}
+
+function drawArrow(sx,sy,tx,ty,tr,lw){
+  var dx=tx-sx, dy=ty-sy, d=Math.sqrt(dx*dx+dy*dy)||1;
+  var ux=dx/d, uy=dy/d;
+  var ex=tx-ux*tr, ey=ty-uy*tr;
+  var sz=4*P.linkThick+lw;
+  var ax=-uy, ay=ux;
+  ctx.beginPath();
+  ctx.moveTo(ex,ey);
+  ctx.lineTo(ex-ux*sz+ax*sz*0.5, ey-uy*sz+ay*sz*0.5);
+  ctx.lineTo(ex-ux*sz-ax*sz*0.5, ey-uy*sz-ay*sz*0.5);
+  ctx.closePath();
+  ctx.fillStyle="rgba(180,180,205,0.55)";
+  ctx.fill();
+}
+
+var autoFit=true; // keep the whole graph framed while it settles, until user interacts
+var flight=null;  // active fly-to camera animation
+function loop(){
+  rafId=null;
+  breatheT++; vibPhase++;
+  if(running){                         // physics only while settling (then it stops)
+    var steps = alpha>0.2?2:1;
+    for(var s=0;s<steps;s++){ tick(); if(alpha<alphaMin){alpha=alphaMin;break;} }
+    if(alpha<=alphaMin) running=false;
+    if(autoFit) fitView(90);
+  }
+  if(flight) stepFlight();
+  draw();                              // always draw -> the render-only breathing animates
+  ensureLoop();                        // perpetual loop (cheap once physics has stopped)
+}
+function stopAutoFit(){ autoFit=false; }
+var pendingDraw=false;
+function requestDraw(){ needsDraw=true; pendingDraw=true; ensureLoop(); }
+
+// ----- cinematic "fly to node": duck-and-weave through 3D, nodes vibrate, quick -----
+function flyTo(n){
+  stopAutoFit();
+  focusNode=n; hoverNode=null; searchSet=null; computeHighlight();
+  var targetK = Math.max(0.95, Math.min(1.7, view.k<0.55 ? 1.15 : view.k*1.25));
+  flight = {
+    t0: nowMs(), dur: 780,
+    fromK:view.k, fromTx:view.tx, fromTy:view.ty, fromYaw:rot.yaw, fromPitch:rot.pitch,
+    toK:targetK, node:n,
+    // a little randomised banking so each flight weaves differently
+    swayYaw: (n.i%2?1:-1)*(0.6+0.35*((n.i%5)/5)),
+    swayPitch: (n.i%3?1:-1)*(0.36+0.2*((n.i%7)/7))
+  };
+  running=true; ensureLoop();
+}
+function stepFlight(){
+  var f=flight;
+  var p=(nowMs()-f.t0)/f.dur;
+  if(p>=1){
+    rot.yaw=0; rot.pitch=0; view.k=f.toK;          // land: node centred, face-on, still
+    var pw=projWorldRest(f.node);
+    view.tx=W/2 - pw.x*f.toK; view.ty=H/2 - pw.y*f.toK;
+    vib=0; flight=null;
+    return;
+  }
+  // e is a smooth S-curve (zero velocity at both ends => no jerk at the start)
+  var e=easeInOut(p);
+  // bell: 0 -> 1 -> 0 with zero slope at both ends; envelopes every perturbation
+  var bell = 0.5 - 0.5*Math.cos(2*Math.PI*p);
+  var pw=projWorldRest(f.node);
+  var toTx=W/2 - pw.x*f.toK, toTy=H/2 - pw.y*f.toK;
+  // duck: ease the camera back mid-flight then push in (enveloped, so it eases in)
+  view.k = lerp(f.fromK, f.toK, e) * (1 - 0.30*bell);
+  view.tx = lerp(f.fromTx, toTx, e) + Math.sin(p*Math.PI*2)*70*bell;   // lateral weave
+  view.ty = lerp(f.fromTy, toTy, e) + Math.sin(p*Math.PI*3)*46*bell;
+  // weave: banking sway through 3D that eases in and levels out face-on
+  rot.yaw   = lerp(f.fromYaw,   0, e) + f.swayYaw   * bell * Math.sin(p*Math.PI*2);
+  rot.pitch = clampPitch(lerp(f.fromPitch, 0, e) + f.swayPitch * bell * Math.sin(p*Math.PI*3));
+  vib = 8 * bell;                                 // nodes shiver, eased in and out
+}
+
+// ---------- interaction ----------
+var dragNode=null, dragZ=0, panning=false, rotating=false, last={x:0,y:0}, downAt=null, moved=false;
+
+// pick using PROJECTED screen positions (works while rotated in pseudo-3D)
+function pickNode(sx,sy){
+  var best=null, bestD=Infinity;
+  for(var i=N-1;i>=0;i--){
+    var n=nodes[i];
+    if(!nodeVisible(n) || n._sx===undefined) continue;
+    var dx=n._sx-sx, dy=n._sy-sy, d=dx*dx+dy*dy;
+    var rr=(n._sr||1)+7;
+    if(d<=rr*rr && d<bestD){ bestD=d; best=n; }
+  }
+  return best;
+}
+function setCursor(c){ if(cv.style.cursor!==c) cv.style.cursor=c; }
+
+cv.addEventListener("contextmenu", function(e){ e.preventDefault(); }); // right-drag = rotate
+
+cv.addEventListener("mousedown", function(e){
+  stopAutoFit();
+  downAt={x:e.clientX,y:e.clientY}; moved=false;
+  last={x:e.clientX,y:e.clientY};
+  if(e.button===2 || (e.button===0 && e.shiftKey)){ // right (or shift+left) = 3D rotate
+    rotating=true; setCursor("grabbing"); e.preventDefault(); return;
+  }
+  var n=pickNode(e.clientX,e.clientY);
+  if(n){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
+  else { panning=true; setCursor("grabbing"); }
+});
+window.addEventListener("mousemove", function(e){
+  if(rotating){
+    rot.yaw += (e.clientX-last.x)*0.0075;
+    rot.pitch = clampPitch(rot.pitch + (e.clientY-last.y)*0.0075);
+    last={x:e.clientX,y:e.clientY}; moved=true; requestDraw(); return;
+  }
+  if(dragNode){
+    var w=screenToWorld(e.clientX, e.clientY, dragZ);   // follows cursor even when rotated
+    dragNode.fx=w.x; dragNode.fy=w.y; dragNode.fz=w.z;
+    dragNode.x=w.x; dragNode.y=w.y; dragNode.z=w.z;
+    moved=true; reheat(0.5); return;
+  }
+  if(panning){
+    view.tx+=e.clientX-last.x; view.ty+=e.clientY-last.y;
+    last={x:e.clientX,y:e.clientY}; moved=true; requestDraw(); return;
+  }
+  // hover
+  var n=pickNode(e.clientX,e.clientY);
+  setCursor(n ? "pointer" : "grab");
+  if(n!==hoverNode){ hoverNode=n; computeHighlight(); requestDraw(); }
+  if(n){ showTip(n,e.clientX,e.clientY); } else hideTip();
+});
+window.addEventListener("mouseup", function(e){
+  if(rotating){ rotating=false; setCursor("grab"); }
+  else if(dragNode){
+    // stay pinned where dropped (do NOT clear fx/fy/fz); neighbours settle around it
+    if(!moved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // a click (no move) just opens the note
+    dragNode=null; setCursor("pointer"); reheat(0.3);
+  } else if(panning){
+    panning=false; setCursor("grab");
+    if(!moved){ closeInfo(); $("panel").classList.remove("open"); if(focusNode){ focusNode=null; computeHighlight(); requestDraw(); } }
+  }
+});
+cv.addEventListener("wheel", function(e){
+  e.preventDefault();
+  stopAutoFit();
+  var factor=Math.pow(1.0015, -e.deltaY);
+  var nk=Math.max(0.02, Math.min(8, view.k*factor));
+  // anchor zoom on the cursor. When rotated, anchoring on the centroid axis is close enough.
+  var wx=toWorldX(e.clientX), wy=toWorldY(e.clientY);
+  view.k=nk;
+  view.tx=e.clientX-wx*view.k; view.ty=e.clientY-wy*view.k;
+  requestDraw();
+}, {passive:false});
+
+// touch (pan + pinch-zoom + two-finger rotate; tap a node to open it)
+var touchState=null, touchStart=null, touchMoved=false;
+cv.addEventListener("touchstart",function(e){
+  stopAutoFit();
+  if(e.touches.length===1){ var t=e.touches[0];
+    touchStart={x:t.clientX,y:t.clientY}; touchMoved=false;
+    var n=pickNode(t.clientX,t.clientY);
+    if(n){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
+    else {panning=true;}
+    last={x:t.clientX,y:t.clientY};
+  } else if(e.touches.length===2){
+    panning=false;dragNode=null;
+    touchState=pinchInfo(e);
+  }
+},{passive:false});
+cv.addEventListener("touchmove",function(e){
+  e.preventDefault();
+  if(e.touches.length===1 && (panning||dragNode)){
+    var t=e.touches[0];
+    if(touchStart && Math.hypot(t.clientX-touchStart.x,t.clientY-touchStart.y)>6) touchMoved=true;
+    if(dragNode){var w=screenToWorld(t.clientX,t.clientY,dragZ);dragNode.fx=w.x;dragNode.fy=w.y;dragNode.fz=w.z;dragNode.x=w.x;dragNode.y=w.y;dragNode.z=w.z;reheat(0.5);}
+    else {view.tx+=t.clientX-last.x;view.ty+=t.clientY-last.y;requestDraw();}
+    last={x:t.clientX,y:t.clientY};
+  } else if(e.touches.length===2 && touchState){
+    var pi=pinchInfo(e);
+    var factor=pi.dist/touchState.dist;
+    var nk=Math.max(0.02,Math.min(8,touchState.k*factor));
+    var wx=toWorldX(pi.cx), wy=toWorldY(pi.cy);
+    view.k=nk; view.tx=pi.cx-wx*view.k; view.ty=pi.cy-wy*view.k;
+    // two-finger twist also rotates the 3D view
+    var dang=pi.ang-touchState.ang;
+    if(dang>Math.PI)dang-=2*Math.PI; if(dang<-Math.PI)dang+=2*Math.PI;
+    rot.yaw += dang*0.9;
+    rot.pitch = clampPitch(rot.pitch + (pi.cy-touchState.cy)*0.002);
+    touchState=pi;
+    requestDraw();
+  }
+},{passive:false});
+cv.addEventListener("touchend",function(e){
+  if(e.touches.length===0){
+    if(dragNode){
+      if(!touchMoved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // tap = open note; drag = stay pinned
+      dragNode=null;
+    }
+    panning=false; touchState=null; reheat(0.2);
+  }
+});
+function pinchInfo(e){ var a=e.touches[0],b=e.touches[1];
+  var dx=a.clientX-b.clientX,dy=a.clientY-b.clientY;
+  return {dist:Math.hypot(dx,dy)||1,ang:Math.atan2(dy,dx),cx:(a.clientX+b.clientX)/2,cy:(a.clientY+b.clientY)/2,k:view.k}; }
+
+// ---------- tooltip ----------
+var tip=document.getElementById("tooltip");
+function showTip(n,x,y){
+  tip.innerHTML = "<div>"+escapeHtml(n.name)+"</div><div class='tp'>"+escapeHtml(n.path)+" · "+n.deg+" link"+(n.deg===1?"":"s")+"</div>";
+  tip.style.display="block";
+  var tw=tip.offsetWidth, th=tip.offsetHeight;
+  var px=x+14, py=y+14;
+  if(px+tw>W-8) px=x-tw-14; if(py+th>H-8) py=y-th-14;
+  tip.style.left=px+"px"; tip.style.top=py+"px";
+}
+function hideTip(){ tip.style.display="none"; }
+function escapeHtml(s){ return (""+s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+
+// ---------- node info popup (top-left) ----------
+var infoEl=document.getElementById("info");
+var infoNode=null;
+function parseTags(v){
+  if(v==null) return [];
+  v=(""+v).trim().replace(/^\[|\]$/g,"");
+  return v.split(",").map(function(s){return s.trim().replace(/^["']|["']$/g,"");}).filter(Boolean);
+}
+function openInfo(n){
+  infoNode=n;
+  focusNode=n; computeHighlight(); requestDraw();
+  var meta=(DATA.meta&&DATA.meta[n.i])||[{}, ""];
+  var fm=meta[0]||{}, ex=meta[1]||"";
+  var col=n.col;
+  var html="";
+  html+="<div class='hd'><span class='dot' style='background:"+col+"'></span>"+
+        "<span class='ttl'>"+escapeHtml(n.name)+"</span>"+
+        "<span class='x' id='infoX' title='Close (Esc)'>×</span></div>";
+  html+="<div class='body'>";
+  html+="<div class='grp'>"+escapeHtml(DATA.groupNames[n.g])+" · "+n.deg+" link"+(n.deg===1?"":"s")+"<br>"+escapeHtml(n.path)+"</div>";
+
+  // tags
+  var tags=parseTags(fm.tags);
+  if(tags.length){
+    html+="<div class='sect'>Tags</div><div class='tags'>";
+    tags.forEach(function(t){ html+="<span class='tag'>"+escapeHtml(t)+"</span>"; });
+    html+="</div>";
+  }
+  // frontmatter (excluding tags/title already shown)
+  var keys=Object.keys(fm).filter(function(k){ return k!=="tags" && k!=="title"; });
+  if(keys.length){
+    html+="<div class='sect'>Properties</div><table>";
+    keys.forEach(function(k){ html+="<tr><td class='k'>"+escapeHtml(k)+"</td><td class='v'>"+escapeHtml(fm[k])+"</td></tr>"; });
+    html+="</table>";
+  }
+  // connections
+  var nb=adj[n.i]||[];
+  html+="<div class='sect'>Connections ("+nb.length+")</div>";
+  if(nb.length){
+    var seen={}, uniq=[];
+    nb.forEach(function(j){ if(!seen[j]){ seen[j]=1; uniq.push(j); } });
+    uniq.sort(function(a,b){ return nodes[b].deg-nodes[a].deg; });
+    html+="<div class='conns'>";
+    uniq.slice(0,40).forEach(function(j){
+      var m=nodes[j];
+      html+="<div class='cn' data-j='"+j+"'><span class='sw' style='background:"+m.col+"'></span><span class='nm'>"+escapeHtml(m.name)+"</span></div>";
+    });
+    if(uniq.length>40) html+="<div class='cn' style='color:var(--muted);cursor:default'>+"+(uniq.length-40)+" more…</div>";
+    html+="</div>";
+  } else {
+    html+="<div class='empty'>No links to other notes.</div>";
+  }
+  // excerpt
+  if(ex){
+    html+="<div class='sect'>Note</div><div class='ex'>"+escapeHtml(ex)+"</div>";
+  }
+  html+="</div>";
+  infoEl.innerHTML=html;
+  infoEl.classList.add("open");
+  document.getElementById("infoX").addEventListener("click", closeInfo);
+  Array.prototype.forEach.call(infoEl.querySelectorAll(".cn[data-j]"), function(el){
+    var j=+el.getAttribute("data-j");
+    el.addEventListener("mouseenter", function(){ connHi=j; requestDraw(); });
+    el.addEventListener("mouseleave", function(){ if(connHi===j){ connHi=null; requestDraw(); } });
+    el.addEventListener("click", function(){ connHi=null; flyTo(nodes[j]); openInfo(nodes[j]); });
+  });
+}
+function closeInfo(){ infoEl.classList.remove("open"); infoNode=null; connHi=null; requestDraw(); }
+
+// ---------- fit / reset view (3D bounding sphere) ----------
+function fitView(pad){
+  pad = pad||70;
+  var sx=0,sy=0,sz=0,c=0;
+  for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue; sx+=n.x;sy+=n.y;sz+=n.z;c++; }
+  if(!c) return;
+  var cx=sx/c, cy=sy/c, cz=sz/c, maxD=1;
+  for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue;
+    var dx=n.x-cx,dy=n.y-cy,dz=n.z-cz, d=Math.sqrt(dx*dx+dy*dy+dz*dz); if(d>maxD)maxD=d; }
+  FOCAL = Math.max(400, 2.4*maxD);              // keep all nodes in front of the camera, dramatic depth
+  // fill the viewport: zoom so the dense bulk spans the window (far-flung outliers clip off-edge)
+  var k = (Math.min(W,H)*1.5) / (2*maxD);
+  k=Math.max(0.02,Math.min(2.5,k));
+  fitK = k;                          // reference zoom (whole graph) for dynamic link thickness
+  view.k=k; view.tx=W/2-cx*k; view.ty=H/2-cy*k;
+  requestDraw();
+}
+// projected world position of a node at the CURRENT centroid, face-on (rot=0)
+function projWorldRest(n){
+  var persp=FOCAL/(FOCAL+(n.z-cenZ));
+  return { x: cenX + (n.x-cenX)*persp, y: cenY + (n.y-cenY)*persp };
+}
+// Inverse projection: given a screen point and a rotated depth zr, return the 3D
+// world position so the node sits under the cursor (correct even when rotated).
+function screenToWorld(mx, my, zr){
+  var persp = FOCAL/(FOCAL+zr);
+  var x2 = (((mx-view.tx)/view.k) - cenX)/persp;
+  var y1 = (((my-view.ty)/view.k) - cenY)/persp;
+  var cyaw=Math.cos(rot.yaw), syaw=Math.sin(rot.yaw);
+  var cpit=Math.cos(rot.pitch), spit=Math.sin(rot.pitch);
+  var dx = x2*cyaw - zr*syaw;          // invert yaw
+  var z1 = x2*syaw + zr*cyaw;
+  var dy = y1*cpit + z1*spit;          // invert pitch
+  var dz = z1*cpit - y1*spit;
+  return { x: cenX+dx, y: cenY+dy, z: cenZ+dz };
+}
+
+// ---------- UI: panel, sliders ----------
+function $(id){return document.getElementById(id);}
+function bindSlider(id,valId,fn,fmt){
+  var el=$(id),v=$(valId);
+  function upd(){ fn(+el.value); if(v)v.textContent=fmt?fmt(+el.value):el.value; }
+  el.addEventListener("input",function(){ upd(); reheat(0.3); });
+  upd();
+}
+bindSlider("fCenter","vCenter",function(x){P.center=x/100;});
+bindSlider("fRepel","vRepel",function(x){P.repel=x/40;}); // 40 -> 1.0
+bindSlider("fLink","vLink",function(x){P.linkForce=x/100;});
+bindSlider("fDist","vDist",function(x){P.linkDist=x;});
+bindSlider("dSize","vSize",function(x){P.nodeSize=x/100;computeRadii();},function(x){return Math.round(x)+"%";});
+bindSlider("dText","vText",function(x){P.textFade=x/100;requestDraw();});
+$("dArrows").addEventListener("change",function(){P.arrows=this.checked;requestDraw();});
+$("dOrphans").addEventListener("change",function(){showOrphans=this.checked;requestDraw();});
+
+$("btnSettings").addEventListener("click",function(){ $("panel").classList.toggle("open"); });
+function unpinAll(){ for(var i=0;i<N;i++){ nodes[i].fx=null; nodes[i].fy=null; nodes[i].fz=null; } }
+$("btnReset").addEventListener("click",function(){ focusNode=null;searchSet=null;connHi=null;groupHi=null;rot.yaw=0;rot.pitch=0;flight=null;vib=0;unpinAll();reheat(0.5);computeHighlight();closeInfo();fitView(); });
+
+// legend
+var legend=$("legend");
+(function buildLegend(){
+  var counts=new Array(DATA.groupNames.length).fill(0);
+  for(var i=0;i<N;i++) counts[nodes[i].g]++;
+  var order=DATA.groupNames.map(function(nm,i){return i;}).sort(function(a,b){return counts[b]-counts[a];});
+  order.forEach(function(gi){
+    if(counts[gi]===0) return;
+    var d=document.createElement("div"); d.className="lg"; d.dataset.g=gi;
+    d.innerHTML="<span class='sw' style='background:"+groupColor(gi)+"'></span>"+
+      "<span class='nm'>"+escapeHtml(DATA.groupNames[gi])+"</span>"+
+      "<span class='ct'>"+counts[gi]+"</span>";
+    d.addEventListener("mouseenter",function(){ groupHi=gi; requestDraw(); });   // light up that area of the web
+    d.addEventListener("mouseleave",function(){ if(groupHi===gi){ groupHi=null; requestDraw(); } });
+    d.addEventListener("click",function(){
+      groupVisible[gi]=!groupVisible[gi];
+      d.classList.toggle("off",!groupVisible[gi]);
+      requestDraw();
+    });
+    legend.appendChild(d);
+  });
+})();
+
+// ---------- search ----------
+var searchWrap=$("searchwrap"), searchInput=$("search"), results=$("results");
+var selIdx=-1, curMatches=[];
+function openSearch(){ searchWrap.classList.add("open"); searchInput.focus(); searchInput.select(); }
+function closeSearch(){ searchWrap.classList.remove("open"); results.classList.remove("show");
+  searchSet=null; requestDraw(); }
+$("btnSearch").addEventListener("click",function(){ searchWrap.classList.contains("open")?closeSearch():openSearch(); });
+
+searchInput.addEventListener("input",function(){
+  var q=this.value.trim().toLowerCase();
+  results.innerHTML=""; curMatches=[]; selIdx=-1;
+  if(!q){ searchSet=null; results.classList.remove("show"); requestDraw(); return; }
+  var set={};
+  for(var i=0;i<N && curMatches.length<400;i++){
+    if(nodes[i].name.toLowerCase().indexOf(q)>=0){ curMatches.push(nodes[i]); set[i]=true; }
+  }
+  searchSet = curMatches.length?set:{};
+  curMatches.sort(function(a,b){return b.deg-a.deg;});
+  curMatches.slice(0,50).forEach(function(n,k){
+    var r=document.createElement("div"); r.className="r";
+    r.innerHTML=escapeHtml(n.name)+" <span class='p'>"+escapeHtml(n.path)+"</span>";
+    r.addEventListener("click",function(){ pickResult(n); });
+    results.appendChild(r);
+  });
+  results.classList.toggle("show", curMatches.length>0);
+  requestDraw();
+});
+function pickResult(n){
+  searchSet=null;                 // switch from "match all" mode to single-node focus
+  results.classList.remove("show");
+  searchInput.blur();
+  flyTo(n);                       // cinematic duck-and-weave flight to the node
+  openInfo(n);                    // and surface its note in the top-left popup
+}
+searchInput.addEventListener("keydown",function(e){
+  if(e.key==="Escape"){ closeSearch(); cv.focus(); }
+  else if(e.key==="Enter"){ if(curMatches.length){ pickResult(curMatches[selIdx>=0?selIdx:0]); } }
+  else if(e.key==="ArrowDown"||e.key==="ArrowUp"){
+    e.preventDefault();
+    var rs=results.querySelectorAll(".r"); if(!rs.length)return;
+    if(selIdx>=0&&rs[selIdx])rs[selIdx].classList.remove("sel");
+    selIdx+= e.key==="ArrowDown"?1:-1;
+    if(selIdx<0)selIdx=rs.length-1; if(selIdx>=rs.length)selIdx=0;
+    rs[selIdx].classList.add("sel"); rs[selIdx].scrollIntoView({block:"nearest"});
+  }
+});
+window.addEventListener("keydown",function(e){
+  if(e.target===searchInput) return;
+  if(e.key==="/"){ e.preventDefault(); openSearch(); }
+  else if(e.key==="r"||e.key==="R"){ focusNode=null;searchSet=null;connHi=null;groupHi=null;rot.yaw=0;rot.pitch=0;flight=null;vib=0;unpinAll();reheat(0.5);computeHighlight();closeInfo();fitView(); }
+  else if(e.key==="Escape"){ focusNode=null;searchSet=null;hoverNode=null;computeHighlight();closeSearch();closeInfo();requestDraw(); }
+});
+
+// ---------- stat (appended to the hint bar) ----------
+var hintEl=document.getElementById("hint");
+hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.length.toLocaleString()+" links · images hidden";
+
+// ---------- boot ----------
+resize();
+computeHighlight();
+fitView();        // initial framing; loop() keeps re-fitting until first user interaction
+ensureLoop();
+
+})();
+</script>
+</body>
+</html>
+"""
+
+if __name__ == "__main__":
+    main()

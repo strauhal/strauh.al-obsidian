@@ -12,17 +12,42 @@ READ-ONLY with respect to the vault: this script only READS .md files and
 WRITES one new HTML file. It never modifies or deletes vault content.
 """
 import os, re, json, sys
+from urllib.parse import quote
+
+# Images are served from GitHub raw so they load on strauh.al (and anywhere online).
+RAW_BASE = "https://raw.githubusercontent.com/strauhal/"
+def to_raw_url(p):
+    """Convert a vault embed path to a raw.githubusercontent URL.
+       media/<repo>/<rest>            -> raw .../strauhal/<repo>/refs/heads/main/<rest>
+       <vault-relative path>          -> raw .../strauhal/strauh.al-obsidian/refs/heads/main/<path>"""
+    p = p.strip().lstrip("/")
+    if p.startswith("media/"):
+        parts = p.split("/", 2)
+        if len(parts) == 3:
+            return RAW_BASE + parts[1] + "/refs/heads/main/" + quote(parts[2])
+    return RAW_BASE + "strauh.al-obsidian/refs/heads/main/" + quote(p)
+
+IMG_EMBED_RE = re.compile(r'!\[\[([^\]\|\n]+\.(?:jpe?g|png|gif|webp|bmp|tiff?))(?:\|[^\]]*)?\]\]', re.I)
 
 VAULT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
-OUT = os.path.abspath(sys.argv[2] if len(sys.argv) > 2 else os.path.join(VAULT, "obsidian-graph.html"))
+OUT = os.path.abspath(sys.argv[2] if len(sys.argv) > 2 else os.path.join(VAULT, "brain.html"))
 
 EXCLUDE_DIR_PREFIXES = (".git", ".obsidian", ".trash")
 WIKILINK_RE = re.compile(r'(!?)\[\[([^\]\|#\^]+)(?:[#\^][^\]\|]*)?(?:\|[^\]]*)?\]\]')
 MDLINK_RE = re.compile(r'(?<!!)\[[^\]]*\]\(([^)]+\.md)\)')
 
-# source_kind values that mark image-archive scaffolding (not real knowledge notes)
-OMIT_SOURCE_KINDS = {"image", "image_collection", "date_bucket"}
+# source_kind values that mark image-archive scaffolding (not real knowledge notes).
+# NOTE: "image" is NOT here — individual paintings are kept as surface nodes.
+OMIT_SOURCE_KINDS = {"image_collection", "date_bucket"}
 EXCERPT_CHARS = 900
+
+# Specific notes to hide from the graph (matched against the note name, with -/_
+# normalised to spaces, case-insensitive substring). Add more here anytime.
+OMIT_NAME_SUBSTRINGS = [
+    "camp of the saints",
+    "rodger", "my twisted world",
+    "lolita",
+]
 
 def parse_frontmatter(text):
     """Return (frontmatter dict, body). Light YAML: `key: value` lines only."""
@@ -61,17 +86,19 @@ def make_excerpt(body):
 
 def is_omitted_note(relpath, fm, name):
     rp = relpath.replace(os.sep, "/")
-    if rp.startswith("knowledge/wiki/images/"):
-        return True
     if rp.startswith("knowledge/wiki/collections/"):   # the "Collection - X" data buckets
         return True
-    if "-buckets-stale/" in rp or "/date-buckets" in rp:
+    if "-stale/" in rp or "/date-buckets" in rp:   # stale auto-generated dupes (incl. per-year artist stubs)
         return True
     if fm.get("source_kind", "").lower() in OMIT_SOURCE_KINDS:
         return True
     nl = name.lower()
     if "image archive" in nl:                          # archive index/hub/map notes
         return True
+    norm = re.sub(r'[-_]+', ' ', nl)                   # normalise hyphens/underscores
+    for sub in OMIT_NAME_SUBSTRINGS:
+        if sub in norm:
+            return True
     return False
 
 def main():
@@ -111,8 +138,23 @@ def main():
             group = "knowledge/" + parts[1]
         else:
             group = parts[0] if len(parts) > 1 else "(root)"
-        notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
-                      "fm": fm, "ex": make_excerpt(body)}
+        # collect any embedded images (artist works, drawing-club submissions, etc.)
+        # as raw GitHub URLs, kept separate from the note text for the on-hover viewer
+        images = []
+        for m in IMG_EMBED_RE.finditer(body):
+            u = to_raw_url(m.group(1))
+            if u not in images:
+                images.append(u)
+        images = images[:60]
+        if group == "images":
+            # individual painting node: clean title, slim metadata, no excerpt (the painting IS the content)
+            disp = (fm.get("title") or base).strip()
+            slim = {k: fm[k] for k in ("artist", "collection", "inferred_year", "dimensions") if fm.get(k)}
+            notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
+                          "fm": slim, "ex": "", "images": images}
+        else:
+            notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
+                          "fm": fm, "ex": make_excerpt(body), "images": images}
         by_basename.setdefault(base.lower(), []).append(rel)
         by_relpath[relnoext.lower()] = rel
 
@@ -175,8 +217,8 @@ def main():
     names = [notes[r]["name"] for r in rel_list]
     groups = [gidx[notes[r]["group"]] for r in rel_list]
     paths = rel_list
-    # per-node metadata for the click popup: [frontmatter dict, excerpt]
-    meta = [[notes[r]["fm"], notes[r]["ex"]] for r in rel_list]
+    # per-node metadata for the click popup: [frontmatter dict, excerpt, image urls]
+    meta = [[notes[r]["fm"], notes[r]["ex"], notes[r]["images"]] for r in rel_list]
 
     data = {
         "names": names,
@@ -207,7 +249,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>Graph view — strauh.al vault</title>
+<title>strauh.al/brain</title>
 <style>
   /* --- strauh.al design language: white text on animated blue, 1px borders, serif ---
      These page-level rules mirror strauh.al so the graph looks right standalone;
@@ -221,8 +263,11 @@ TEMPLATE = r"""<!DOCTYPE html>
   }
   *{box-sizing:border-box}
   @keyframes changeColor{0%{background-color:#00f}50%{background-color:#20f}100%{background-color:#00f}}
-  html,body{margin:0;height:100%;overflow:hidden;color:var(--text);
-    font-family:'Times New Roman',Times,Georgia,serif;
+  /* Scroll-lock on <html> only. Leaving <body> without overflow/margin overrides
+     means it does NOT form a block-formatting context, so the <h1>'s top margin
+     collapses exactly as on every other strauh.al page -> the header lines up. */
+  html{margin:0;height:100%;overflow:hidden;}
+  body{color:var(--text);font-family:'Times New Roman',Times,Georgia,serif;
     background-color:#00f;animation:changeColor 10s infinite linear;}
   /* transparent canvas over the animated blue page background; it receives all
      graph interaction. The <h1> is lifted above it for visibility ONLY (stacking,
@@ -234,14 +279,15 @@ TEMPLATE = r"""<!DOCTYPE html>
   h1{position:relative;z-index:2;pointer-events:none;}
   h1 a{pointer-events:auto;}
 
-  /* Buttons top-right */
-  .iconbtn{position:fixed;right:16px;z-index:6;width:34px;height:34px;
+  /* Buttons top-right (text labels) */
+  .iconbtn{position:fixed;right:16px;z-index:6;
     background:var(--panel);border:1px solid var(--line);color:#fff;
-    display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:15px;}
+    display:flex;align-items:center;justify-content:center;cursor:pointer;
+    font-size:15px;padding:5px 13px;white-space:nowrap;}
   .iconbtn:hover{background:#fff;color:#00f;}
   #btnSettings{top:14px}
-  #btnReset{top:56px}
-  #btnSearch{top:98px}
+  #btnReset{top:54px}
+  #btnSearch{top:94px}
 
   /* Settings panel */
   #panel{position:fixed;top:14px;right:60px;z-index:7;width:288px;max-height:calc(100vh - 28px);
@@ -325,16 +371,32 @@ TEMPLATE = r"""<!DOCTYPE html>
   #info .cn .sw{width:9px;height:9px;border-radius:50%;flex:0 0 auto;}
   #info .cn .nm{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff;}
   #info .empty{color:var(--muted);font-style:italic;}
+  /* image hyperlink list (artist works) */
+  #info .imgs{display:flex;flex-direction:column;gap:0;}
+  #info .il{padding:4px 6px;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#fff;}
+  #info .il:hover,#info .il.on{background:#fff;color:#00f;}
+
+  /* image viewer (to the right of the note popup) — same language as #info */
+  #imgview{position:fixed;top:62px;left:402px;z-index:9;max-width:calc(100vw - 418px);
+    max-height:calc(100vh - 90px);background:#00f;border:1px solid var(--line);display:none;}
+  #imgview.open{display:block;}
+  #imgview .ihd{display:flex;align-items:center;gap:9px;padding:9px 12px;border-bottom:1px solid var(--line);}
+  #imgview .ittl{flex:1;font-size:13px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  #imgview .ix{flex:0 0 auto;cursor:pointer;color:var(--muted);font-size:20px;line-height:1;padding:0 2px;display:none;}
+  #imgview.pinned .ix{display:block;}
+  #imgview .ix:hover{color:#fff;}
+  #imgview img{display:block;max-width:min(46vw,560px);max-height:calc(100vh - 150px);width:auto;height:auto;}
+  #imgview .miss{padding:20px;color:#fff;font-size:13px;max-width:300px;}
 </style>
 </head>
 <body>
-<h1><a href="https://strauh.al">strauh.al</a>/obsidian</h1>
+<h1><a href="https://strauh.al">strauh.al</a>/brain</h1>
 
 <div id="stage"><canvas id="cv"></canvas></div>
 
-<div class="iconbtn" id="btnSettings" title="Settings">&#9881;</div>
-<div class="iconbtn" id="btnReset" title="Reset view (R)">&#10227;</div>
-<div class="iconbtn" id="btnSearch" title="Search (/)">&#128269;</div>
+<div class="iconbtn" id="btnSettings" title="Settings">settings</div>
+<div class="iconbtn" id="btnReset" title="Reset view (R)">reset</div>
+<div class="iconbtn" id="btnSearch" title="Search (/)">search</div>
 
 <div id="searchwrap">
   <input id="search" type="text" placeholder="Search notes…" autocomplete="off" spellcheck="false">
@@ -352,7 +414,6 @@ TEMPLATE = r"""<!DOCTYPE html>
   <div class="row"><label>Node size</label><input type="range" id="dSize" min="20" max="300" value="50"><span class="val" id="vSize"></span></div>
   <div class="row"><label>Text fade</label><input type="range" id="dText" min="0" max="100" value="42"><span class="val" id="vText"></span></div>
   <div class="row"><label>Show arrows</label><input type="checkbox" id="dArrows"></div>
-  <div class="row"><label>Show orphans</label><input type="checkbox" id="dOrphans" checked></div>
 
   <h3>Groups</h3>
   <div class="legend" id="legend"></div>
@@ -360,7 +421,8 @@ TEMPLATE = r"""<!DOCTYPE html>
 
 <div id="tooltip"></div>
 <div id="info"></div>
-<div id="hint">scroll = zoom · drag = pan · drag node = move · <b>right-drag = rotate 3D</b> · hover = highlight · <b>click = open note</b></div>
+<div id="imgview"><div class="ihd"><span class="ittl"></span><span class="ix" title="Close">×</span></div><img alt=""></div>
+<div id="hint">scroll = zoom · <b>drag = rotate 3D</b> · <b>right-drag = pan</b> · drag node = move · hover = highlight · <b>click = open note</b></div>
 
 <script>
 var DATA = /*__DATA__*/null;
@@ -371,13 +433,16 @@ var DATA = /*__DATA__*/null;
 var PALETTE = ["#8a7bf0","#e06c75","#e5c07b","#56b6c2","#98c379","#c678dd",
   "#d19a66","#61afef","#e88aa8","#5fb3b3","#b48ead","#a3be8c","#ebcb8b",
   "#bf8b6a","#6cb6ff","#cba6f7","#94e2d5","#f2cdcd","#a6da95","#eed49f"];
-function groupColor(g){ return PALETTE[g % PALETTE.length]; }
+function groupColor(g){ if(typeof IMAGE_GROUP!=="undefined" && g===IMAGE_GROUP) return "#c8cdf0"; return PALETTE[g % PALETTE.length]; }
+function hexRgb(h){ return [parseInt(h.slice(1,3),16), parseInt(h.slice(3,5),16), parseInt(h.slice(5,7),16)]; }
 
 // ---------- build node/link arrays ----------
 var N = DATA.names.length;
 var nodes = new Array(N);
 var maxDeg = 1;
 for (var i=0;i<N;i++) maxDeg = Math.max(maxDeg, DATA.deg[i]);
+var ARTIST_GROUP = DATA.groupNames.indexOf("artists");   // pushed to the surface shell
+var IMAGE_GROUP  = DATA.groupNames.indexOf("images");    // paintings: outermost floating shell
 for (var i=0;i<N;i++){
   nodes[i] = {
     i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
@@ -400,7 +465,10 @@ var links = new Array(DATA.links.length);
 var degCount = new Array(N).fill(0); // link count for bias/strength
 for (var i=0;i<DATA.links.length;i++){
   var s=DATA.links[i][0], t=DATA.links[i][1];
-  links[i] = {s:nodes[s], t:nodes[t]};
+  // link colour = midpoint of the two notes' colours (same colour if same group)
+  var ca=hexRgb(nodes[s].col), cb=hexRgb(nodes[t].col);
+  var cm=((ca[0]+cb[0])>>1)+","+((ca[1]+cb[1])>>1)+","+((ca[2]+cb[2])>>1);
+  links[i] = {s:nodes[s], t:nodes[t], cm:cm};
   degCount[s]++; degCount[t]++;
 }
 // adjacency for highlight
@@ -423,10 +491,27 @@ var view = {k:0.18, tx:0, ty:0}; // scale + translate (CSS px)
 // The physics stays 2D; we rotate (x,y,0) about the graph centroid by yaw/pitch
 // and apply a gentle perspective divide so it reads as orbiting in 3D.
 var rot = {yaw:0, pitch:0};
-var FOCAL = 1600;          // perspective focal length in world units (set on fit)
+var FOCAL = 1600;          // perspective focal length (DYNAMIC: shrinks as you zoom in -> dolly)
+var FOCAL_BASE = 1600;     // focal length at the fit view (gentle perspective)
+var MAXD = 100;            // graph bounding radius (set on fit)
 var fitK = 0.2;            // zoom level at which the whole graph fits (set in fitView)
 var cenX = 0, cenY = 0;    // graph centroid (recomputed each draw)
 function clampPitch(p){ return p<-1.35?-1.35:(p>1.35?1.35:p); }
+// camera distance for the CURRENT zoom: as you zoom in (k>fitK) the camera dollies
+// closer (FOCAL shrinks) so perspective strengthens and you fly forward through depth.
+// The low floor keeps the dolly progressive across the whole zoom range.
+function effFocal(){ return Math.max(MAXD*0.25, Math.min(FOCAL_BASE, FOCAL_BASE*fitK/view.k)); }
+// perspective scale for a node at rotated depth z; clamp the denominator so very near
+// nodes magnify hard (fly past) without inverting / going behind the camera.
+function perspOf(z){ var d=FOCAL+z, m=FOCAL*0.14; return FOCAL/(d<m?m:d); }
+// idle "living" animation energy: 1 = spinning, 0 = still. Eased, never snapped.
+var idleTarget=1, idleEnergy=1, autoPitchPrev=0;
+// breathing (node drift) is gated by ZOOM, not interaction: alive when viewing from a
+// distance (even while rotating/panning), still when you're zoomed deep in reading.
+var breatheGate=1;
+// auto-reframe during the initial settle — turned off IMMEDIATELY on interaction (so a
+// zoom isn't fought by re-fitting), separate from the eased spin/breathe fade above.
+var autoFit=true;
 
 function nowMs(){ return performance.now(); }
 function lerp(a,b,t){ return a+(b-a)*t; }
@@ -574,9 +659,24 @@ function tick(){
     s.vx+=dx*(1-bias); s.vy+=dy*(1-bias); s.vz+=dz*(1-bias);
   }
 
-  // center gravity (3D, pulls toward origin so the ball stays cohesive)
-  var cg=P.center*0.09*alpha;
-  if(cg>0){ for(var i=0;i<N;i++){ var n=nodes[i]; n.vx+=-n.x*cg; n.vy+=-n.y*cg; n.vz+=-n.z*cg; } }
+  // degree-weighted cohesion (3D): highly-connected hubs are pulled hard to the
+  // CORE; leaves and especially artists barely at all, so repulsion + their links
+  // leave them on the outer SHELL. Connections therefore radiate from the centre.
+  var baseCG=P.center*0.11*alpha;
+  if(baseCG>0){
+    for(var i=0;i<N;i++){
+      var n=nodes[i]; if(n.fx!=null) continue;
+      var coreness=Math.sqrt(n.deg/maxDeg);                 // 0 leaf .. 1 hub
+      // layered shells: knowledge hubs sink to the CORE, artists form an inner shell,
+      // and individual paintings float on the OUTERMOST surface (weakest inward pull).
+      var w;
+      if(n.g===IMAGE_GROUP) w=0.28;
+      else if(n.g===ARTIST_GROUP) w=0.55;
+      else w=0.7+2.2*coreness;
+      var cg=baseCG*w;
+      n.vx+=-n.x*cg; n.vy+=-n.y*cg; n.vz+=-n.z*cg;
+    }
+  }
 
   // integrate
   for(var i=0;i<N;i++){
@@ -594,7 +694,7 @@ var hiNodes=null, hiLinks=null;
 var connHi=null;   // node index of a connection row being hovered in the popup
 var groupHi=null;  // group index being hovered in the settings legend
 function computeHighlight(){
-  var center = hoverNode || focusNode;
+  var center = focusNode;   // skeleton highlight only on click/focus, never on hover (no flicker)
   if(center){
     hiNodes={}; hiNodes[center.i]=2;
     var a=adj[center.i];
@@ -624,33 +724,34 @@ var zMin=0, zMax=0, cenZ=0;
 // Project every node from its real 3D position to screen px (perspective),
 // storing _sx,_sy,_sr,_z on the node. Always on — the layout is a 3D body.
 function computeProjection(){
+  FOCAL = effFocal();                  // dolly: camera distance tracks the zoom level
   var k=view.k, tx=view.tx, ty=view.ty;
   var sx=0, sy=0, sz=0, c=0;
   for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue; sx+=n.x; sy+=n.y; sz+=n.z; c++; }
   if(c){ cenX=sx/c; cenY=sy/c; cenZ=sz/c; }
   var cyaw=Math.cos(rot.yaw), syaw=Math.sin(rot.yaw);
   var cpit=Math.cos(rot.pitch), spit=Math.sin(rot.pitch);
+  // organic "living" drift: while idle, each node wanders subtly in 3D (render-only,
+  // bounded, decorrelated per node) so the whole web feels alive. Stops on interaction.
+  var bt=breatheT, B = FOCAL*0.007*breatheGate;  // breathing amplitude fades out as you zoom in
   zMin=Infinity; zMax=-Infinity;
   for(var i=0;i<N;i++){
     var n=nodes[i];
     var dx=n.x-cenX, dy=n.y-cenY, dz=n.z-cenZ;
+    if(B && n.fx==null){
+      dx += B*Math.sin(bt*0.012 + n.i*1.7);
+      dy += B*Math.sin(bt*0.011 + n.i*2.9);
+      dz += B*Math.sin(bt*0.013 + n.i*0.7);
+    }
     var y1=dy*cpit - dz*spit, z1=dy*spit + dz*cpit;  // pitch about X
     var x2=dx*cyaw + z1*syaw;                         // yaw about Y
     var z = -dx*syaw + z1*cyaw;
-    var persp=FOCAL/(FOCAL+z);
+    var persp=perspOf(z);
     n._sx=(cenX + x2*persp)*k+tx;
     n._sy=(cenY + y1*persp)*k+ty;
     n._sr=n.r*k*persp;
     n._z=z;
     if(z<zMin)zMin=z; if(z>zMax)zMax=z;
-  }
-  // gentle perpetual "breathing": a render-only screen-space wobble (no physics, no
-  // depth drift) so the web shifts casually in place without receding into the distance.
-  var bt=breatheT;
-  for(var i=0;i<N;i++){ var n=nodes[i];
-    if(n.fx!=null) continue;                  // pinned (dragged) nodes hold still
-    n._sx += BREATHE*Math.sin(bt*0.013 + n.i*1.7);
-    n._sy += BREATHE*Math.cos(bt*0.011 + n.i*2.3);
   }
   if(vib>0.05){
     for(var i=0;i<N;i++){ var n=nodes[i];
@@ -675,14 +776,9 @@ function draw(){
   var hasHi = hiNodes!=null || searchSet!=null || groupHi!=null;
   var TAU=6.283185307;
 
-  // dynamic link thickness: bold (300%) at the whole-graph view, fine (20%) ~5x zoomed in
-  var zr = k/(fitK||0.2);                              // 1 = whole graph, grows as you zoom in
-  var tt = Math.max(0,Math.min(1,(zr-1)/(5-1)));      // 0 far .. 1 close
-  P.linkThick = 3.0 + tt*(0.2-3.0);
-
-  // ---- links ----
-  var baseLW = Math.max(0.3, 0.9*k*P.linkThick); // screen px
-  var litLW = baseLW*1.7;
+  // ---- links ---- (always 1px wide regardless of zoom)
+  var baseLW = 1;
+  var litLW = 1.8;   // highlighted/connection links a touch heavier so they read
   for(var i=0;i<links.length;i++){
     var L=links[i], s=L.s, t=L.t;
     if(!nodeVisible(s)||!nodeVisible(t)) continue;
@@ -695,9 +791,9 @@ function draw(){
     else if(connHi!=null && lit){ ctx.strokeStyle="rgba(255,255,255,0.18)"; ctx.lineWidth=baseLW; } // others recede while a conn is hovered
     else if(hasHi && !lit){ ctx.strokeStyle="rgba(255,255,255,0.05)"; ctx.lineWidth=baseLW; }
     else if(lit){ ctx.strokeStyle="rgba(255,255,255,0.9)"; ctx.lineWidth=litLW; }
-    else {
-      var la = 0.05+0.08*fogAlpha((s._z+t._z)*0.5);
-      ctx.strokeStyle="rgba(255,255,255,"+la.toFixed(3)+")"; ctx.lineWidth=baseLW;
+    else {  // normal link: coloured as the midpoint of the two notes it connects
+      var la = 0.45+0.35*fogAlpha((s._z+t._z)*0.5);
+      ctx.strokeStyle="rgba("+L.cm+","+la.toFixed(3)+")"; ctx.lineWidth=baseLW;
     }
     ctx.beginPath();
     ctx.moveTo(sx,sy); ctx.lineTo(txx,tyy);
@@ -738,6 +834,15 @@ function draw(){
     }
   }
   ctx.globalAlpha=1;
+
+  // ---- hover: a single white outline ring on the node under the cursor ----
+  if(hoverNode && nodeVisible(hoverNode) && hoverNode._sx!==undefined){
+    var hr=Math.max(hoverNode._sr+2.5, 4.5);
+    ctx.beginPath();
+    ctx.arc(hoverNode._sx, hoverNode._sy, hr, 0, TAU);
+    ctx.lineWidth=1.6; ctx.strokeStyle="rgba(255,255,255,0.95)";
+    ctx.stroke();
+  }
 
   // ---- labels ----
   var fadeK = 0.12 + P.textFade*1.4;   // view scale at which generic labels appear
@@ -785,22 +890,39 @@ function drawArrow(sx,sy,tx,ty,tr,lw){
   ctx.fill();
 }
 
-var autoFit=true; // keep the whole graph framed while it settles, until user interacts
-var flight=null;  // active fly-to camera animation
+var flight=null;  // active fly-to / fly-home camera animation
+var frameN=0;
 function loop(){
-  rafId=null;
-  breatheT++; vibPhase++;
-  if(running){                         // physics only while settling (then it stops)
+  rafId=null; frameN++; vibPhase++;
+  // ease idle energy so the SPIN fades in/out (never snaps)
+  idleEnergy += (idleTarget-idleEnergy)*0.055;
+  if(idleTarget===0 && idleEnergy<0.003) idleEnergy=0;
+  if(idleTarget===1 && idleEnergy>0.997) idleEnergy=1;
+  // BREATHING gate from zoom: full at a distance, fades to nothing as you zoom deep in
+  var r = fitK>0 ? view.k/fitK : 1;
+  breatheGate += (Math.max(0,Math.min(1,(3.5-r)/2)) - breatheGate)*0.1;
+  if(breatheGate<0.002) breatheGate=0;
+  var living = idleEnergy>0.0005 || breatheGate>0.004;
+  if(living) breatheT++;                  // advance the drift/nod clock while anything's alive
+  if(idleEnergy>0.0005){                  // SPIN + nod: idle-only (stops on interaction)
+    rot.yaw += 0.0016*idleEnergy;
+    var apn = 0.16*Math.sin(breatheT*0.0035)*idleEnergy;   // subtle nod, applied additively
+    rot.pitch = clampPitch(rot.pitch + (apn-autoPitchPrev));
+    autoPitchPrev = apn;
+  } else { autoPitchPrev = 0; }
+  if(running){                            // physics only while settling (then it stops)
     var steps = alpha>0.2?2:1;
     for(var s=0;s<steps;s++){ tick(); if(alpha<alphaMin){alpha=alphaMin;break;} }
     if(alpha<=alphaMin) running=false;
-    if(autoFit) fitView(90);
+    if(autoFit) fitView(90);             // reframe during the pre-interaction settle (immediate off)
   }
   if(flight) stepFlight();
-  draw();                              // always draw -> the render-only breathing animates
-  ensureLoop();                        // perpetual loop (cheap once physics has stopped)
+  var anim = living || running || flight;
+  var hi = running || flight || needsDraw || (idleEnergy>0.003 && idleEnergy<0.997); // needs 60fps
+  if(hi || (anim && (frameN&1)===0)){ draw(); needsDraw=false; }
+  if(anim || needsDraw) ensureLoop();     // otherwise stop — a deep, settled view is fully static
 }
-function stopAutoFit(){ autoFit=false; }
+function stopAutoFit(){ autoFit=false; idleTarget=0; }   // stop reframing now; fade the living animation out
 var pendingDraw=false;
 function requestDraw(){ needsDraw=true; pendingDraw=true; ensureLoop(); }
 
@@ -810,7 +932,7 @@ function flyTo(n){
   focusNode=n; hoverNode=null; searchSet=null; computeHighlight();
   var targetK = Math.max(0.95, Math.min(1.7, view.k<0.55 ? 1.15 : view.k*1.25));
   flight = {
-    t0: nowMs(), dur: 780,
+    mode:'node', t0: nowMs(), dur: 780,
     fromK:view.k, fromTx:view.tx, fromTy:view.ty, fromYaw:rot.yaw, fromPitch:rot.pitch,
     toK:targetK, node:n,
     // a little randomised banking so each flight weaves differently
@@ -819,9 +941,34 @@ function flyTo(n){
   };
   running=true; ensureLoop();
 }
+// animated return to the default whole-graph view (Reset), then resume the living idle
+function flyHome(){
+  focusNode=null; searchSet=null; hoverNode=null; connHi=null; groupHi=null; computeHighlight(); closeInfo();
+  idleTarget=1; vib=0;       // resume the living animation IMMEDIATELY — breathe as the camera pans back
+  var y=rot.yaw % (2*Math.PI); if(y>Math.PI)y-=2*Math.PI; if(y<-Math.PI)y+=2*Math.PI; rot.yaw=y; // shortest unwind
+  var t=computeFit(90);
+  flight={ mode:'view', t0:nowMs(), dur:900,
+    fromK:view.k, fromTx:view.tx, fromTy:view.ty, fromYaw:y, fromPitch:rot.pitch,
+    toK:t.k, toTx:t.tx, toTy:t.ty, toYaw:0, toPitch:0,
+    onDone:function(){ autoFit=true; unpinAll(); reheat(0.25); } };
+  ensureLoop();
+}
 function stepFlight(){
   var f=flight;
   var p=(nowMs()-f.t0)/f.dur;
+  if(f.mode==='view'){                              // calm glide to a fixed target view
+    if(p>=1){
+      view.k=f.toK; view.tx=f.toTx; view.ty=f.toTy; rot.yaw=f.toYaw; rot.pitch=f.toPitch;
+      flight=null; if(f.onDone) f.onDone(); return;
+    }
+    var ev=easeInOut(p), bv=0.5-0.5*Math.cos(2*Math.PI*p);
+    view.k = lerp(f.fromK,f.toK,ev) * (1-0.12*bv);  // slight pull-back mid-glide
+    view.tx = lerp(f.fromTx,f.toTx,ev);
+    view.ty = lerp(f.fromTy,f.toTy,ev);
+    rot.yaw = lerp(f.fromYaw,f.toYaw,ev);
+    rot.pitch = clampPitch(lerp(f.fromPitch,f.toPitch,ev));
+    return;
+  }
   if(p>=1){
     rot.yaw=0; rot.pitch=0; view.k=f.toK;          // land: node centred, face-on, still
     var pw=projWorldRest(f.node);
@@ -862,18 +1009,18 @@ function pickNode(sx,sy){
 }
 function setCursor(c){ if(cv.style.cursor!==c) cv.style.cursor=c; }
 
-cv.addEventListener("contextmenu", function(e){ e.preventDefault(); }); // right-drag = rotate
+cv.addEventListener("contextmenu", function(e){ e.preventDefault(); }); // right-drag = pan
 
 cv.addEventListener("mousedown", function(e){
   stopAutoFit();
   downAt={x:e.clientX,y:e.clientY}; moved=false;
   last={x:e.clientX,y:e.clientY};
-  if(e.button===2 || (e.button===0 && e.shiftKey)){ // right (or shift+left) = 3D rotate
-    rotating=true; setCursor("grabbing"); e.preventDefault(); return;
+  if(e.button===2 || (e.button===0 && e.shiftKey)){ // right (or shift+left) = pan
+    panning=true; setCursor("grabbing"); e.preventDefault(); return;
   }
   var n=pickNode(e.clientX,e.clientY);
   if(n){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
-  else { panning=true; setCursor("grabbing"); }
+  else { rotating=true; setCursor("grabbing"); }   // left-drag on empty = rotate 3D
 });
 window.addEventListener("mousemove", function(e){
   if(rotating){
@@ -891,21 +1038,27 @@ window.addEventListener("mousemove", function(e){
     view.tx+=e.clientX-last.x; view.ty+=e.clientY-last.y;
     last={x:e.clientX,y:e.clientY}; moved=true; requestDraw(); return;
   }
-  // hover
+  // hover: cursor + tooltip + a single white outline ring on the node (no skeleton)
   var n=pickNode(e.clientX,e.clientY);
   setCursor(n ? "pointer" : "grab");
-  if(n!==hoverNode){ hoverNode=n; computeHighlight(); requestDraw(); }
+  if(n!==hoverNode){ hoverNode=n; requestDraw(); }
   if(n){ showTip(n,e.clientX,e.clientY); } else hideTip();
 });
+function blankClick(){ // empty-space click: dismiss popups/settings/focus
+  closeInfo(); $("panel").classList.remove("open");
+  if(focusNode){ focusNode=null; computeHighlight(); requestDraw(); }
+}
 window.addEventListener("mouseup", function(e){
-  if(rotating){ rotating=false; setCursor("grab"); }
-  else if(dragNode){
+  if(dragNode){
     // stay pinned where dropped (do NOT clear fx/fy/fz); neighbours settle around it
     if(!moved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // a click (no move) just opens the note
     dragNode=null; setCursor("pointer"); reheat(0.3);
+  } else if(rotating){
+    rotating=false; setCursor("grab");
+    if(!moved) blankClick();   // left-click on empty space
   } else if(panning){
     panning=false; setCursor("grab");
-    if(!moved){ closeInfo(); $("panel").classList.remove("open"); if(focusNode){ focusNode=null; computeHighlight(); requestDraw(); } }
+    if(!moved) blankClick();   // right-click on empty space
   }
 });
 cv.addEventListener("wheel", function(e){
@@ -920,7 +1073,7 @@ cv.addEventListener("wheel", function(e){
   requestDraw();
 }, {passive:false});
 
-// touch (pan + pinch-zoom + two-finger rotate; tap a node to open it)
+// touch: 1 finger = rotate 3D (or move a node); 2 fingers = pan + pinch-zoom; tap a node to open it
 var touchState=null, touchStart=null, touchMoved=false;
 cv.addEventListener("touchstart",function(e){
   stopAutoFit();
@@ -928,20 +1081,20 @@ cv.addEventListener("touchstart",function(e){
     touchStart={x:t.clientX,y:t.clientY}; touchMoved=false;
     var n=pickNode(t.clientX,t.clientY);
     if(n){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
-    else {panning=true;}
+    else {rotating=true;}
     last={x:t.clientX,y:t.clientY};
   } else if(e.touches.length===2){
-    panning=false;dragNode=null;
+    rotating=false;dragNode=null;
     touchState=pinchInfo(e);
   }
 },{passive:false});
 cv.addEventListener("touchmove",function(e){
   e.preventDefault();
-  if(e.touches.length===1 && (panning||dragNode)){
+  if(e.touches.length===1 && (rotating||dragNode)){
     var t=e.touches[0];
     if(touchStart && Math.hypot(t.clientX-touchStart.x,t.clientY-touchStart.y)>6) touchMoved=true;
     if(dragNode){var w=screenToWorld(t.clientX,t.clientY,dragZ);dragNode.fx=w.x;dragNode.fy=w.y;dragNode.fz=w.z;dragNode.x=w.x;dragNode.y=w.y;dragNode.z=w.z;reheat(0.5);}
-    else {view.tx+=t.clientX-last.x;view.ty+=t.clientY-last.y;requestDraw();}
+    else {rot.yaw+=(t.clientX-last.x)*0.0075;rot.pitch=clampPitch(rot.pitch+(t.clientY-last.y)*0.0075);requestDraw();}
     last={x:t.clientX,y:t.clientY};
   } else if(e.touches.length===2 && touchState){
     var pi=pinchInfo(e);
@@ -949,11 +1102,8 @@ cv.addEventListener("touchmove",function(e){
     var nk=Math.max(0.02,Math.min(8,touchState.k*factor));
     var wx=toWorldX(pi.cx), wy=toWorldY(pi.cy);
     view.k=nk; view.tx=pi.cx-wx*view.k; view.ty=pi.cy-wy*view.k;
-    // two-finger twist also rotates the 3D view
-    var dang=pi.ang-touchState.ang;
-    if(dang>Math.PI)dang-=2*Math.PI; if(dang<-Math.PI)dang+=2*Math.PI;
-    rot.yaw += dang*0.9;
-    rot.pitch = clampPitch(rot.pitch + (pi.cy-touchState.cy)*0.002);
+    // two-finger drag pans
+    view.tx+=pi.cx-touchState.cx; view.ty+=pi.cy-touchState.cy;
     touchState=pi;
     requestDraw();
   }
@@ -964,7 +1114,7 @@ cv.addEventListener("touchend",function(e){
       if(!touchMoved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // tap = open note; drag = stay pinned
       dragNode=null;
     }
-    panning=false; touchState=null; reheat(0.2);
+    rotating=false; panning=false; touchState=null; reheat(0.2);
   }
 });
 function pinchInfo(e){ var a=e.touches[0],b=e.touches[1];
@@ -993,10 +1143,10 @@ function parseTags(v){
   return v.split(",").map(function(s){return s.trim().replace(/^["']|["']$/g,"");}).filter(Boolean);
 }
 function openInfo(n){
-  infoNode=n;
+  infoNode=n; closeImg();                       // reset the image viewer for the new note
   focusNode=n; computeHighlight(); requestDraw();
-  var meta=(DATA.meta&&DATA.meta[n.i])||[{}, ""];
-  var fm=meta[0]||{}, ex=meta[1]||"";
+  var meta=(DATA.meta&&DATA.meta[n.i])||[{}, "", []];
+  var fm=meta[0]||{}, ex=meta[1]||"", imgs=meta[2]||[];
   var col=n.col;
   var html="";
   html+="<div class='hd'><span class='dot' style='background:"+col+"'></span>"+
@@ -1036,6 +1186,13 @@ function openInfo(n){
   } else {
     html+="<div class='empty'>No links to other notes.</div>";
   }
+  // images (artist works) — own section, separate from the note text; hover to preview
+  if(imgs.length){
+    html+="<div class='sect'>Images ("+imgs.length+")</div><div class='imgs'>";
+    imgs.forEach(function(u,ix){ var lab=imgLabel(u); if(lab==="submission"&&imgs.length>1) lab="submission "+(ix+1);
+      html+="<div class='il' data-u='"+escapeHtml(u)+"'>"+escapeHtml(lab)+"</div>"; });
+    html+="</div>";
+  }
   // excerpt
   if(ex){
     html+="<div class='sect'>Note</div><div class='ex'>"+escapeHtml(ex)+"</div>";
@@ -1050,35 +1207,77 @@ function openInfo(n){
     el.addEventListener("mouseleave", function(){ if(connHi===j){ connHi=null; requestDraw(); } });
     el.addEventListener("click", function(){ connHi=null; flyTo(nodes[j]); openInfo(nodes[j]); });
   });
+  Array.prototype.forEach.call(infoEl.querySelectorAll(".il[data-u]"), function(el){
+    var u=el.getAttribute("data-u");
+    el.addEventListener("mouseenter", function(){ showImg(u); });
+    el.addEventListener("mouseleave", function(){ if(imgPinnedSrc) showImg(imgPinnedSrc); else hideImg(); });
+    el.addEventListener("click", function(){ pinImg(u, el); });
+  });
+  // a painting node IS an image — show it straight away (pinned, with the × to dismiss)
+  if(n.g===IMAGE_GROUP && imgs.length){
+    pinImg(imgs[0], infoEl.querySelector(".il[data-u]"));
+  }
 }
-function closeInfo(){ infoEl.classList.remove("open"); infoNode=null; connHi=null; requestDraw(); }
+function closeInfo(){ infoEl.classList.remove("open"); infoNode=null; connHi=null; closeImg(); requestDraw(); }
+
+// ---------- image viewer (right of the note popup) ----------
+var imgEl=document.getElementById("imgview");
+var imgImg=imgEl.querySelector("img");
+var imgTtl=imgEl.querySelector(".ittl");
+var imgPinnedSrc=null;
+function imgLabel(u){
+  var f=(u.split("/").pop()||u).replace(/\.[a-z0-9]+$/i,"");
+  try{ f=decodeURIComponent(f); }catch(e){}
+  if(/^[0-9a-f]{8,}$/i.test(f)) return "submission";   // hashed attachment filename
+  return f.replace(/[_]+/g," ");
+}
+function showImg(u){
+  imgImg.onload=function(){ imgImg.style.display="block"; };
+  imgImg.onerror=function(){ imgImg.style.display="none"; };
+  imgImg.src=u; imgTtl.textContent=imgLabel(u);
+  imgEl.classList.add("open");
+}
+function hideImg(){ if(!imgPinnedSrc) imgEl.classList.remove("open"); }
+function pinImg(u, el){
+  imgPinnedSrc=u; imgEl.classList.add("pinned"); showImg(u);
+  Array.prototype.forEach.call(infoEl.querySelectorAll(".il.on"), function(e){ e.classList.remove("on"); });
+  if(el) el.classList.add("on");
+}
+function closeImg(){
+  imgPinnedSrc=null; imgEl.classList.remove("pinned","open");
+  Array.prototype.forEach.call(infoEl.querySelectorAll(".il.on"), function(e){ e.classList.remove("on"); });
+}
+imgEl.querySelector(".ix").addEventListener("click", closeImg);
 
 // ---------- fit / reset view (3D bounding sphere) ----------
-function fitView(pad){
+function computeFit(pad){
   pad = pad||70;
   var sx=0,sy=0,sz=0,c=0;
   for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue; sx+=n.x;sy+=n.y;sz+=n.z;c++; }
-  if(!c) return;
+  if(!c) return {k:view.k, tx:view.tx, ty:view.ty};
   var cx=sx/c, cy=sy/c, cz=sz/c, maxD=1;
   for(var i=0;i<N;i++){ var n=nodes[i]; if(!nodeVisible(n))continue;
     var dx=n.x-cx,dy=n.y-cy,dz=n.z-cz, d=Math.sqrt(dx*dx+dy*dy+dz*dz); if(d>maxD)maxD=d; }
-  FOCAL = Math.max(400, 2.4*maxD);              // keep all nodes in front of the camera, dramatic depth
+  MAXD = maxD; FOCAL_BASE = Math.max(400, 2.4*maxD);  // gentle perspective at the fit view
   // fill the viewport: zoom so the dense bulk spans the window (far-flung outliers clip off-edge)
-  var k = (Math.min(W,H)*1.5) / (2*maxD);
-  k=Math.max(0.02,Math.min(2.5,k));
-  fitK = k;                          // reference zoom (whole graph) for dynamic link thickness
-  view.k=k; view.tx=W/2-cx*k; view.ty=H/2-cy*k;
+  var k = Math.max(0.02, Math.min(2.5, (Math.min(W,H)*1.5)/(2*maxD)));
+  fitK = k;                          // reference zoom (whole graph) — anchors the dolly + link width
+  return {k:k, tx:W/2-cx*k, ty:H/2-cy*k};
+}
+function fitView(pad){
+  var t=computeFit(pad);
+  view.k=t.k; view.tx=t.tx; view.ty=t.ty;
   requestDraw();
 }
 // projected world position of a node at the CURRENT centroid, face-on (rot=0)
 function projWorldRest(n){
-  var persp=FOCAL/(FOCAL+(n.z-cenZ));
+  var persp=perspOf(n.z-cenZ);
   return { x: cenX + (n.x-cenX)*persp, y: cenY + (n.y-cenY)*persp };
 }
 // Inverse projection: given a screen point and a rotated depth zr, return the 3D
 // world position so the node sits under the cursor (correct even when rotated).
 function screenToWorld(mx, my, zr){
-  var persp = FOCAL/(FOCAL+zr);
+  var persp = perspOf(zr);
   var x2 = (((mx-view.tx)/view.k) - cenX)/persp;
   var y1 = (((my-view.ty)/view.k) - cenY)/persp;
   var cyaw=Math.cos(rot.yaw), syaw=Math.sin(rot.yaw);
@@ -1105,11 +1304,10 @@ bindSlider("fDist","vDist",function(x){P.linkDist=x;});
 bindSlider("dSize","vSize",function(x){P.nodeSize=x/100;computeRadii();},function(x){return Math.round(x)+"%";});
 bindSlider("dText","vText",function(x){P.textFade=x/100;requestDraw();});
 $("dArrows").addEventListener("change",function(){P.arrows=this.checked;requestDraw();});
-$("dOrphans").addEventListener("change",function(){showOrphans=this.checked;requestDraw();});
 
 $("btnSettings").addEventListener("click",function(){ $("panel").classList.toggle("open"); });
 function unpinAll(){ for(var i=0;i<N;i++){ nodes[i].fx=null; nodes[i].fy=null; nodes[i].fz=null; } }
-$("btnReset").addEventListener("click",function(){ focusNode=null;searchSet=null;connHi=null;groupHi=null;rot.yaw=0;rot.pitch=0;flight=null;vib=0;unpinAll();reheat(0.5);computeHighlight();closeInfo();fitView(); });
+$("btnReset").addEventListener("click",function(){ flyHome(); });
 
 // legend
 var legend=$("legend");
@@ -1183,13 +1381,13 @@ searchInput.addEventListener("keydown",function(e){
 window.addEventListener("keydown",function(e){
   if(e.target===searchInput) return;
   if(e.key==="/"){ e.preventDefault(); openSearch(); }
-  else if(e.key==="r"||e.key==="R"){ focusNode=null;searchSet=null;connHi=null;groupHi=null;rot.yaw=0;rot.pitch=0;flight=null;vib=0;unpinAll();reheat(0.5);computeHighlight();closeInfo();fitView(); }
+  else if(e.key==="r"||e.key==="R"){ flyHome(); }
   else if(e.key==="Escape"){ focusNode=null;searchSet=null;hoverNode=null;computeHighlight();closeSearch();closeInfo();requestDraw(); }
 });
 
 // ---------- stat (appended to the hint bar) ----------
 var hintEl=document.getElementById("hint");
-hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.length.toLocaleString()+" links · images hidden";
+hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.length.toLocaleString()+" links";
 
 // ---------- boot ----------
 resize();

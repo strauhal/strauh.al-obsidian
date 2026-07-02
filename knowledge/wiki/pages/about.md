@@ -1,10 +1,10 @@
 ---
 title: "about"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/about.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/about.html"
 source_relpath: "about.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # about
@@ -36,3 +36,16 @@ strauh.al/about
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/donate|donate]] — named in this note
+- [[knowledge/wiki/pages/scripts|scripts]] — named in this note
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, closest, capture
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
+- [[knowledge/raw/about|About strauh.al]] — shared language: site, donations, enjoy
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site
+- [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: using, python
+- [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: device
+<!-- vault-crosslinks:end -->

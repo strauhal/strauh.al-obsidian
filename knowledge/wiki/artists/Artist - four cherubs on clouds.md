@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[engraving of the eye of providence within a triangle surrounded by four cherubs on clouds a331d321|engraving of the eye of providence within a triangle surrounded by four cherubs on clouds]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — named in this note
+- [[knowledge/wiki/images/oil painting of the virgin mary in the clouds with cherubs and a dove a516cfbc|oil painting of the virgin mary in the clouds with cherubs and a dove]] — shared language: cherubs, clouds
+- [[knowledge/wiki/artists/Artist - clouds|Artist - clouds]] — shared language: clouds, surrounded
+- [[knowledge/wiki/images/classical painting of bathers and cherubs f3ec8f4f|classical painting of bathers and cherubs]] — shared language: cherubs
+- [[knowledge/wiki/artists/Artist - radiating light and clouds|Artist - radiating light and clouds]] — shared language: clouds, eye, surrounded
+- [[knowledge/wiki/images/ink drawing of a human eye surrounded by radiating light and clouds 239ae923|ink drawing of a human eye surrounded by radiating light and clouds]] — shared language: clouds, eye, surrounded
+<!-- vault-crosslinks:end -->

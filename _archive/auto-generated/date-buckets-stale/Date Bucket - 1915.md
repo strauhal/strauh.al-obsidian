@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/zwei_frauen_im_garten_two_women_in_the_garden_by_emil_nolde_1915.jpeg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1915.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1914|Date Bucket - 1914]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1916|Date Bucket - 1916]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

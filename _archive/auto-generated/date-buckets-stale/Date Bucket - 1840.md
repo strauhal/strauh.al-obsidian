@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1800s/the_examination_of_john_wesley_by_the_clergy_of_the_diocese_of_bristol_by_marshall_claxton_1840.jpeg]]
 
 ![[media/strauh.al3.1/photography/IMG_1840.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1839|Date Bucket - 1839]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1841|Date Bucket - 1841]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

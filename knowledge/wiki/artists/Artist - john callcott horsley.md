@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the goldfish seller by john callcott horsley 1868 e1edd01e|the goldfish seller by john callcott horsley 1868]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/images/the goldfish bowl by john william waterhouse 1905 7512e631|the goldfish bowl by john william waterhouse 1905]] — shared language: john, goldfish
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — shared language: john
+<!-- vault-crosslinks:end -->

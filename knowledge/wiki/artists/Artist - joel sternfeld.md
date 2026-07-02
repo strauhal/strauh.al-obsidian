@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[a man sitting at a table in a room overlooking the ocean san francisco california by joel sternfeld 1979 0571c588|a man sitting at a table in a room overlooking the ocean san francisco california by joel sternfeld 1979]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/images/photograph of a man in a hat sitting at a table with balloons at a party d8398856|photograph of a man in a hat sitting at a table with balloons at a party]] — shared language: table, sitting, man
+- [[knowledge/wiki/images/oil painting of two large trees on a bluff overlooking a beach and ocean 8f8ccbf0|oil painting of two large trees on a bluff overlooking a beach and ocean]] — shared language: overlooking, ocean
+- [[knowledge/wiki/images/colorful room illustration with table and plants d3bec09f|colorful room illustration with table and plants]] — shared language: table, room
+- [[knowledge/wiki/images/Amoeba Music San Francisco 02335dea|Amoeba Music San Francisco]] — shared language: san, francisco
+<!-- vault-crosslinks:end -->

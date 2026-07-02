@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - louis michel van loo|Artist - louis michel van loo]] — shared language: loo, van, louis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - louis michel van loo 1767|Artist - louis michel van loo 1767]] — shared language: loo, van, louis
 - [[knowledge/wiki/images/portrait of denis diderot by louis michel van loo 1767 175ef7b2|portrait of denis diderot by louis michel van loo 1767]] — shared language: loo, van, louis
-- [[knowledge/wiki/images/portrait of a black man by jean baptiste greuze c 1757 38b1c6b2|portrait of a black man by jean baptiste greuze c 1757]] — shared language: baptiste, jean, portrait
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jean baptiste greuze 1767|Artist - jean baptiste greuze 1767]] — shared language: baptiste, jean
 <!-- vault-crosslinks:end -->

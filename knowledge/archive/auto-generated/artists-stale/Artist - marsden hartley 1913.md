@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - marsden hartley|Artist - marsden hartley]] — named in this note
 - [[knowledge/wiki/images/living room by patrick hughes 2007 217c1b36|living room by patrick hughes 2007]] — shared language: living, room
 - [[knowledge/wiki/images/digital illustration of a sunlit plant filled living room viewed from above cd2f569e|digital illustration of a sunlit plant filled living room viewed from above]] — shared language: living, room
-- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
+- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: room
 <!-- vault-crosslinks:end -->

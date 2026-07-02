@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[illustration for the black cat by bernie wrightson 1974 b1f572d3|illustration for the black cat by bernie wrightson 1974]]
 - [[the monster by bernie wrightson 1973 6de53a6a|the monster by bernie wrightson 1973]]
 - [[victor frankenstein in his laboratory by bernie wrightson 1976 d87e454e|victor frankenstein in his laboratory by bernie wrightson 1976]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
+- [[knowledge/wiki/artists/Artist - berni wrightson|Artist - berni wrightson]] — shared language: wrightson, victor, creature
+- [[knowledge/wiki/images/victor frankenstein watches over the creature by berni wrightson 1983 f3962a52|victor frankenstein watches over the creature by berni wrightson 1983]] — shared language: wrightson, victor, creature
+- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
+- [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
+- [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
+<!-- vault-crosslinks:end -->

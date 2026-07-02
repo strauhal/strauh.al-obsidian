@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/marcel_duchamp_1919_l_h_o_o_q_jpg.jpg]]
 
 ![[media/strauh.al3.1/1900s/selbstbildnis_self_portrait_by_karl_schmidt_rottluff_1919.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1918|Date Bucket - 1918]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1920|Date Bucket - 1920]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

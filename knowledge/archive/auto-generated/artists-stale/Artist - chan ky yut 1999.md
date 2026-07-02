@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - chan ky yut|Artist - chan ky yut]] — named in this note
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: chan
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: chan
 - [[knowledge/wiki/images/ic post the last thing you drew artworkcritique 4chan png e0320b8b|ic post the last thing you drew artworkcritique 4chan png]] — shared language: chan
 - [[knowledge/wiki/dreams/dream-04|Dream 4 - Marriage, 4chan, and the Flight Home]] — shared language: chan
-- [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — shared language: chan
 <!-- vault-crosslinks:end -->

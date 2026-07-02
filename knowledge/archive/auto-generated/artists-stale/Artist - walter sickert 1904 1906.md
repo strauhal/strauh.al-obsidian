@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - walter gay 1909 13|Artist - walter gay 1909 13]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - walter t wood 1924|Artist - walter t wood 1924]] — shared language: walter
-- [[knowledge/wiki/images/interior of the artist s library by walter gay 1909 13 00c7b8f8|interior of the artist s library by walter gay 1909 13]] — shared language: walter
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
 <!-- vault-crosslinks:end -->

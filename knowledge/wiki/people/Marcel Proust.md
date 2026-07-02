@@ -27,14 +27,14 @@ move — a memory milked from a single sensory detail — is everywhere in Ernes
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
-- [[knowledge/wiki/images/marcel proust 53d13fd9|marcel proust]] — shared language: marcel, proust, influences
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, listed, among
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — named in this note
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, never, people
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, know, people
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: quotes, train, people
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

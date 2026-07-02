@@ -21,12 +21,12 @@ The image side of strauh.al: thousands of files from `strauh.al3.1`, exposed in 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: archive, strauh.al, obsidian
-- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: archive, strauh.al
-- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: archive, strauh.al, obsidian
-- [[knowledge/wiki/collections/Date Bucket - 1000|Date Bucket - 1000]] — shared language: archive, strauh.al, files
-- [[knowledge/wiki/collections/Date Bucket - 1000s|Date Bucket - 1000s]] — shared language: archive, strauh.al, files
-- [[knowledge/wiki/collections/Date Bucket - 100s|Date Bucket - 100s]] — shared language: archive, strauh.al, files
-- [[knowledge/wiki/collections/Date Bucket - 1013|Date Bucket - 1013]] — shared language: archive, strauh.al, files
-- [[knowledge/wiki/collections/Date Bucket - 1024|Date Bucket - 1024]] — shared language: archive, strauh.al, files
+- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: obsidian
+- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: obsidian
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: thousands
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: thousands
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: seeker
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
+- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
 <!-- vault-crosslinks:end -->

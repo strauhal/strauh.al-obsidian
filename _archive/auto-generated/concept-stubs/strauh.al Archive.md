@@ -14,11 +14,11 @@ Related: [[strauh.al Index]], [[strauh.al Image Archive]]
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: strauh.al, archive, related
-- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: strauh.al, compiled, archive
-- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: archive, strauh.al
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: archive, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1000|Date Bucket - 1000]] — shared language: strauh.al, archive
-- [[knowledge/wiki/collections/Date Bucket - 1000s|Date Bucket - 1000s]] — shared language: strauh.al, archive
-- [[knowledge/wiki/collections/Date Bucket - 100s|Date Bucket - 100s]] — shared language: strauh.al, archive
+- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: compiled, obsidian, related
+- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: related, pages
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: related, compiled, pages
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: related, compiled, pages
+- [[knowledge/output/overnight-build-report|overnight-build-report]] — shared language: top-level, archives, concept
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: related, compiled, pages
+- [[knowledge/wiki/anchors/compiled-wiki|Compiled Wiki]] — shared language: compiled
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - agnieszka rzonca|Artist - agnieszka rzonca]] — named in this note
 - [[knowledge/wiki/images/oil painting of a man and woman holding hands in a green field e9826547|oil painting of a man and woman holding hands in a green field]] — shared language: holding, oil, woman
 - [[knowledge/wiki/images/oil painting of a woman in a white bonnet holding a child in a yellow and white dress 1aeb048d|oil painting of a woman in a white bonnet holding a child in a yellow and white dress]] — shared language: holding, oil, woman
-- [[knowledge/wiki/images/oil painting of a young woman in profile with a dark headscarf 39ef8f0b|oil painting of a young woman in profile with a dark headscarf]] — shared language: oil, woman, painting
-- [[knowledge/wiki/images/expressive painting of a figure holding a light object in a dark landscape 4760e24d|expressive painting of a figure holding a light object in a dark landscape]] — shared language: light, holding, painting
-- [[knowledge/wiki/images/oil painting of a seated young man in a pink shirt holding a hat 8c653e67|oil painting of a seated young man in a pink shirt holding a hat]] — shared language: holding, oil, painting
+- [[knowledge/wiki/images/expressive painting of a figure holding a light object in a dark landscape 4760e24d|expressive painting of a figure holding a light object in a dark landscape]] — shared language: light, holding
+- [[knowledge/wiki/images/oil painting of a seated woman with blank face holding a key and ring featuring a large unpainted patch fe2944ec|oil painting of a seated woman with blank face holding a key and ring featuring a large unpainted patch]] — shared language: holding, oil, woman
+- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: light, woman
 <!-- vault-crosslinks:end -->

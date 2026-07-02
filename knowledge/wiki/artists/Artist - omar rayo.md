@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[el jardin de la vida by omar rayo 1970 0616a153|el jardin de la vida by omar rayo 1970]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - omar hassan|Artist - omar hassan]] — shared language: omar
+- [[knowledge/wiki/images/the last supper by omar hassan 2021 d1063f2f|the last supper by omar hassan 2021]] — shared language: omar
+- [[knowledge/wiki/artists/Artist - oneen|Artist - oneen]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

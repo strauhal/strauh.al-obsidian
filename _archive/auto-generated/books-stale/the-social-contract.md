@@ -42,5 +42,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
-- [[_archive/auto-generated/books-stale/rodger-manifesto|rodger manifesto]] — same category: politics society
+- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 <!-- vault-crosslinks:end -->

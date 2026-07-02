@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1992|Artist - yoshitaka amano 1992]] — shared language: yoshitaka, amano
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1983|Artist - yoshitaka amano 1983]] — shared language: yoshitaka, amano
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1990|Artist - yoshitaka amano 1990]] — shared language: yoshitaka, amano
-- [[knowledge/wiki/images/egg by yoshitaka amano 1990 e7f49edc|egg by yoshitaka amano 1990]] — shared language: yoshitaka, amano
+- [[knowledge/wiki/images/d vs red dragon by yoshitaka amano 1985 4d1fc453|d vs red dragon by yoshitaka amano 1985]] — shared language: yoshitaka, amano
 <!-- vault-crosslinks:end -->

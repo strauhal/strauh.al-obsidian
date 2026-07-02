@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[baby s first caress by mary cassatt 1891 76d9e3f0|baby s first caress by mary cassatt 1891]]
 - [[the boating party by mary cassatt 1893 1894 cd784d07|the boating party by mary cassatt 1893 1894]]
 - [[the kiss la caress by mary cassatt c 1890 1891 63c39f5e|the kiss la caress by mary cassatt c 1890 1891]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the conversation by mary hatch 2022 640f0d82|the conversation by mary hatch 2022]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary hatch|Artist - mary hatch]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary brodbeck|Artist - mary brodbeck]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary brochak|Artist - mary brochak]] — shared language: mary
+- [[knowledge/wiki/images/falls by mary brodbeck 6dbb6fb5|falls by mary brodbeck]] — shared language: mary
+- [[knowledge/wiki/images/hope by mary brodbeck 2004 982771ce|hope by mary brodbeck 2004]] — shared language: mary
+<!-- vault-crosslinks:end -->

@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/books/melanie-mitchell-artificial-intelligence-a-guide-for-thinking-humans-picador|Artificial Intelligence A Guide for Thinking Humans-Picador]] — same category: art aesthetics
-- [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
+- [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

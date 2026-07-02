@@ -60,3 +60,11 @@ Files: 42
 ![[media/strauh.al3.1/2000s/rama_by_samik_roy_choudhury_2020.jpeg]]
 
 ![[media/strauh.al3.1/2000s/rings_by_guweiz_2020.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2019|Date Bucket - 2019]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2021|Date Bucket - 2021]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

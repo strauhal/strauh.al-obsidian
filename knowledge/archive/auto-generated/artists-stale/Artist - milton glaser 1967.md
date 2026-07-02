@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - milton avery|Artist - milton avery]] — shared language: milton
 - [[knowledge/wiki/artists/Artist - milton h greene|Artist - milton h greene]] — shared language: milton
 - [[knowledge/archive/auto-generated/artists-stale/Artist - milton h greene 1953|Artist - milton h greene 1953]] — shared language: milton
-- [[knowledge/wiki/images/glazier by milton avery c 1940 47d7fe73|glazier by milton avery c 1940]] — shared language: milton
+- [[knowledge/wiki/images/woman in blue dress by milton avery 1957 153ccffb|woman in blue dress by milton avery 1957]] — shared language: milton
 <!-- vault-crosslinks:end -->

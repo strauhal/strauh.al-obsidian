@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[ys iv the dawn of ys by koji 1993 1f542efd|ys iv the dawn of ys by koji 1993]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/l aurore the dawn by pierre paul prud hon c 1804 94e0df97|l aurore the dawn by pierre paul prud hon c 1804]] — shared language: dawn
+- [[knowledge/wiki/artists/Artist - kiyoshi hasegawa|Artist - kiyoshi hasegawa]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kollmann|Artist - kollmann]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

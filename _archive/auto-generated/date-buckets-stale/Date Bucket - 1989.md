@@ -44,3 +44,11 @@ Files: 16
 ![[media/strauh.al3.1/1900s/warlock_magazine_vol_34_cover_by_yoshitaka_amano_1989.png]]
 
 ![[media/strauh.al3.1/unsorted/website_robbin_lockett_1989_final_width_1200_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1988|Date Bucket - 1988]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1990|Date Bucket - 1990]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

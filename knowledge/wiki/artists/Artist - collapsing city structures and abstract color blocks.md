@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[manga panel collage showing a screaming figure mutating surrounded by collapsing city structures and abstract color blocks ca38a06b|manga panel collage showing a screaming figure mutating surrounded by collapsing city structures and abstract color blocks]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, structures, figure
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: city, abstract
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
+<!-- vault-crosslinks:end -->

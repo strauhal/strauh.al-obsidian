@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]]
 - [[silos by charles sheeler 1947 68dd01cf|silos by charles sheeler 1947]]
 - [[ventilation system by charles sheeler 1929 17747cef|ventilation system by charles sheeler 1929]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, charles
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
+- [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
+- [[knowledge/wiki/images/charles baudelaire 376ec073|charles baudelaire]] — shared language: charles
+<!-- vault-crosslinks:end -->

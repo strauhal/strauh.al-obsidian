@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/narrative|Narrative]] — named in this note
 - [[knowledge/wiki/artists/Artist - narrative scenes on a green background|Artist - narrative scenes on a green background]] — shared language: narrative, scenes, green
 - [[knowledge/wiki/images/black and white drawing of stylized figures in two scenes 2023 01ccf91e|black and white drawing of stylized figures in two scenes 2023]] — shared language: scenes
-- [[knowledge/wiki/images/painting of a buddha head and hand performing a mudra against a vibrant green and purple background 71d5e203|painting of a buddha head and hand performing a mudra against a vibrant green and purple background]] — shared language: green, background, buddha
 - [[knowledge/wiki/images/glitched digital abstract with green and black patterns on a purple background d7ad84d4|glitched digital abstract with green and black patterns on a purple background]] — shared language: green, background
+- [[knowledge/wiki/images/dark green line drawing of an abstract figure on a lime green background 34fcd1a8|dark green line drawing of an abstract figure on a lime green background]] — shared language: green, background
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - anne louis girodet de roussy trioson 1806|Artist - anne louis girodet de roussy trioson 1806]] — shared language: girodet, anne, louis
 - [[knowledge/wiki/images/portrait of madame de saint morys by anne louis girodet de roussy trioson 1806 1a0bf42a|portrait of madame de saint morys by anne louis girodet de roussy trioson 1806]] — shared language: girodet, anne, louis
 - [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 <!-- vault-crosslinks:end -->

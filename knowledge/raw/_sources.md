@@ -21,9 +21,9 @@ Registry of ingested material. `compiled: true` once `wiki-compile` has folded i
 - [[knowledge/wiki/anchors/recent-dreams-before-ayahuasca|recent-dreams-before-ayahuasca]] — named in this note
 - [[knowledge/wiki/anchors/ideas-sketchbook|ideas-sketchbook]] — named in this note
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, sources, diary
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: sources, influences, ideas-sketchbook
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: sources, influences, diary
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, ideas-sketchbook, sources
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, sources, diary
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, sources, diary
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, sources, project
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: sources, influences, diary
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: ideas-sketchbook, implicit-distance
+- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: sources, diary, influences
 <!-- vault-crosslinks:end -->

@@ -7,8 +7,8 @@ status: queued
 queue_order: 27
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Crumb

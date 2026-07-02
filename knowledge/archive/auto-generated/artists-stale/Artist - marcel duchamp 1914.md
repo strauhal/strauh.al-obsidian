@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/marcel duchamp 1919 l h o o q jpg 510edb42|marcel duchamp 1919 l h o o q jpg]] — shared language: duchamp, marcel
 - [[knowledge/wiki/images/vierge virgin by marcel duchamp 1912 24f60b5f|vierge virgin by marcel duchamp 1912]] — shared language: duchamp, marcel
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: marcel
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: marcel
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: marcel
 <!-- vault-crosslinks:end -->

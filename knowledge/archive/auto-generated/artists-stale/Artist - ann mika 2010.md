@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: ann
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — shared language: ann
 - [[knowledge/wiki/images/egg by yoshitaka amano 1990 e7f49edc|egg by yoshitaka amano 1990]] — shared language: egg
-- [[knowledge/wiki/images/ghost chair by nendo 2012 3cb46da3|ghost chair by nendo 2012]] — shared language: chair
+- [[knowledge/wiki/images/framed portrait of a man in a black coat with red chair d1a3ea8d|framed portrait of a man in a black coat with red chair]] — shared language: chair
 <!-- vault-crosslinks:end -->

@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[_archive/auto-generated/artists-noise/Artist - a small cat and a ufo|Artist - a small cat and a ufo]] — named in this note
 - [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

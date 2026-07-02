@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[mrs joseph klapp anna milnor by thomas sully 1818 facd31fe|mrs joseph klapp anna milnor by thomas sully 1818]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
+- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: thomas
+- [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — shared language: thomas
+- [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: thomas
+<!-- vault-crosslinks:end -->

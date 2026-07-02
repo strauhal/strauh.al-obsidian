@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/tete_d_homme_et_tete_de_femme_by_pablo_picasso_1951.jpeg]]
 
 ![[media/strauh.al3.1/1900s/two_horses_by_marino_marini_1951.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1950|Date Bucket - 1950]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1952|Date Bucket - 1952]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

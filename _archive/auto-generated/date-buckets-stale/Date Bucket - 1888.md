@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1800s/vincent_van_gogh_cafe_terrace_at_night_1888_jpg.jpg]]
 
 ![[media/strauh.al3.1/1800s/william_frank_calderon_the_idyll_of_prince_arthur_1888.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1887|Date Bucket - 1887]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1889|Date Bucket - 1889]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — named in this note
-- [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian, portrait
-- [[knowledge/archive/auto-generated/artists-stale/Artist - julian story 1904|Artist - julian story 1904]] — shared language: julian, portrait
+- [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
+- [[knowledge/archive/auto-generated/artists-stale/Artist - julian story 1904|Artist - julian story 1904]] — shared language: julian
 - [[knowledge/wiki/artists/Artist - julian naito|Artist - julian naito]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian naito 2011|Artist - julian naito 2011]] — shared language: julian
 - [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: julian

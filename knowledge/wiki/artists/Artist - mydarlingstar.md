@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[sunset tears by mydarlingstar 2019 d0421dcb|sunset tears by mydarlingstar 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
+- [[knowledge/wiki/images/photograph of two figures in a canoe on sparkling water at sunset 51b01b09|photograph of two figures in a canoe on sparkling water at sunset]] — shared language: sunset
+- [[knowledge/wiki/images/framed castle landscape at sunset f1e9d4aa|framed castle landscape at sunset]] — shared language: sunset
+- [[knowledge/wiki/images/oil painting of a sunset landscape rendered in square brushstrokes 005e7f33|oil painting of a sunset landscape rendered in square brushstrokes]] — shared language: sunset
+- [[knowledge/wiki/images/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: sunset
+- [[knowledge/wiki/images/sunset by tom thomson c 1915 8946d207|sunset by tom thomson c 1915]] — shared language: sunset
+<!-- vault-crosslinks:end -->

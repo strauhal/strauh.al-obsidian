@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[red square by konstantin yuon 1926 ed57420d|red square by konstantin yuon 1926]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — shared language: konstantin
+- [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 189a2d30|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
+- [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 6b3987c3|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin makovsky|Artist - konstantin makovsky]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin somov|Artist - konstantin somov]] — shared language: konstantin
+<!-- vault-crosslinks:end -->

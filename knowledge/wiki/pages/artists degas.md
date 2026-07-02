@@ -1,10 +1,10 @@
 ---
 title: "artists degas"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/degas.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/degas.html"
 source_relpath: "artists/degas.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists degas
@@ -40,3 +40,16 @@ strauh.al/artists/degas
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Edgar Germain Hilaire Degas 009 2319db7d|Edgar Germain Hilaire Degas 009]] — named in this note
+- [[knowledge/wiki/images/Degas Ballet Rehearsal 1873 35489bee|Degas Ballet Rehearsal 1873]] — named in this note
+- [[knowledge/wiki/images/CIA CIA P 1934 SC 89 001 1251da5d|CIA CIA P 1934 SC 89 001]] — named in this note
+- [[knowledge/wiki/images/'Ballet Rehearsal' by Edgar Degas, pastel, Pushkin Museum efcddbe2|'Ballet Rehearsal' by Edgar Degas, pastel, Pushkin Museum]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/Edgar Degas Ballet (L' toile) 21617ea7|Edgar Degas Ballet (L' toile)]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/201223160806 01 edgar degas ballet dancers artsy 64d787c8|201223160806 01 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/201223162422 04 edgar degas ballet dancers artsy 2f0f541c|201223162422 04 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/201223162545 05 edgar degas ballet dancers artsy 8a5414ac|201223162545 05 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
+<!-- vault-crosslinks:end -->

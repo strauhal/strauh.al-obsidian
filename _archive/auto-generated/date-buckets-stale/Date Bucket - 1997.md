@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg]]
 
 ![[media/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1996|Date Bucket - 1996]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1998|Date Bucket - 1998]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: memory, digital
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory
+- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: memory, age, digital
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
 <!-- vault-crosslinks:end -->

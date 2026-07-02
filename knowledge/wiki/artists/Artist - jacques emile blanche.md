@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of a woman by jacques emile blanche 1895 a8a22c57|portrait of a woman by jacques emile blanche 1895]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jacques
+- [[knowledge/wiki/artists/Artist - louis emile pean de grandchamps|Artist - louis emile pean de grandchamps]] — shared language: emile
+- [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: jacques
+- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: jacques
+- [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — shared language: jacques
+<!-- vault-crosslinks:end -->

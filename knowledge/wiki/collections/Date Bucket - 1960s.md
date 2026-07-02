@@ -60,3 +60,11 @@ Files: 104
 ![[media/strauh.al3.1/1900s/earth_seen_through_the_circular_hatch_window_1968.jpg]]
 
 ![[media/strauh.al3.1/1900s/edward_hopper_sunlight_in_an_empty_room_1963.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1950s|Date Bucket - 1950s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1970s|Date Bucket - 1970s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[paraisopolis and morumbi by tuca vieira 2004 26f833b2|paraisopolis and morumbi by tuca vieira 2004]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - marie helene vieira da silva|Artist - marie helene vieira da silva]] — shared language: vieira
+- [[knowledge/wiki/images/the corridor by marie helene vieira da silva 1950 94427f7d|the corridor by marie helene vieira da silva 1950]] — shared language: vieira
+- [[knowledge/wiki/artists/Artist - tsutomu nihei|Artist - tsutomu nihei]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

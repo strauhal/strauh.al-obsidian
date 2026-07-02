@@ -21,3 +21,11 @@ Files: 2
 
 - [[impdist daw da3bc17d|impdist daw]]
 - [[mockup 9bcafa4f|mockup]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: mockup
+- [[knowledge/wiki/images/screenshot of a digital audio workstation daw interface c4cdd500|screenshot of a digital audio workstation daw interface]] — shared language: daw
+<!-- vault-crosslinks:end -->

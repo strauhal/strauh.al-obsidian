@@ -39,8 +39,8 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — same category: unsorted
 - [[knowledge/wiki/books/jessica-bruder-nomadland-surviving-america-in-the-twenty-first-century-w-w-norton-company|Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company]] — same category: unsorted
+- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — same category: unsorted
 - [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — same category: unsorted
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[black cube on piranesi by lino fiorito 2013 7722b241|black cube on piranesi by lino fiorito 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/minidisc cartridge with pink cube mix graphics 42876776|minidisc cartridge with pink cube mix graphics]] — shared language: cube
+- [[knowledge/wiki/images/comic panel of a cube shaped planet in space labeled the bizarro world 2c3ca95e|comic panel of a cube shaped planet in space labeled the bizarro world]] — shared language: cube
+- [[knowledge/wiki/artists/Artist - limp bizkit|Artist - limp bizkit]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the oracle by amanda sage 2012 1896181e|the oracle by amanda sage 2012]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: sage
+- [[knowledge/wiki/culture/music-faure-nocturnes|Listening - Faure: Nocturnes]] — shared language: sage
+- [[knowledge/wiki/images/the oracle by monica kim garza 2020 1463d919|the oracle by monica kim garza 2020]] — shared language: oracle
+<!-- vault-crosslinks:end -->

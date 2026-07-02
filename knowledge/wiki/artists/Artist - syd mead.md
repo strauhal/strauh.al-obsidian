@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]]
 - [[future freeway by syd mead 1983 34f91b3d|future freeway by syd mead 1983]]
 - [[los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, street
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
+- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
+- [[knowledge/wiki/artists/Artist - future|Artist - future]] — shared language: future
+- [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — shared language: future
+- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: future
+<!-- vault-crosslinks:end -->

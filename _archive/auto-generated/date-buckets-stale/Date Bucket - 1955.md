@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/the_alchemist_by_remedios_varo_1955.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_studio_l_atelier_by_pablo_picasso_1955.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1954|Date Bucket - 1954]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1956|Date Bucket - 1956]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

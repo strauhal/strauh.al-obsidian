@@ -21,3 +21,13 @@ Artist: Unknown
 Source: [[media/strauh.al3.1/unsorted/ai_reference_image_jpg.jpg|source file]]
 
 Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/ai_reference_image_jpg.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - unknown artist unknown year|Artist - unknown artist unknown year]] — shared language: reference
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 068 f39c00c0|contemporary visual reference by unknown artist unknown year 068]] — shared language: reference
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 069 72cc65e0|contemporary visual reference by unknown artist unknown year 069]] — shared language: reference
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 070 08158e18|contemporary visual reference by unknown artist unknown year 070]] — shared language: reference
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 071 5b816238|contemporary visual reference by unknown artist unknown year 071]] — shared language: reference
+<!-- vault-crosslinks:end -->

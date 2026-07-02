@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/photography/IMG_1703.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1700s|Date Bucket - 1700s]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1704|Date Bucket - 1704]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

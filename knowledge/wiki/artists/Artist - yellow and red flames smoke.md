@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[colorful ink and marker drawing of chaotic cartoon figures including a large yellow figure with a red nose a blue and white figure and red conical hat ebb9fe50|colorful ink and marker drawing of chaotic cartoon figures including a large yellow figure with a red nose a blue and white figure and red conical hat]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/chaotic cartoon drawing with yellow figure blue figure and red nose ac1d7ed0|chaotic cartoon drawing with yellow figure blue figure and red nose]] — shared language: yellow, red, chaotic
+- [[knowledge/wiki/images/colorful drawing of abstract and cartoon figures in yellow blue and red a570fb52|colorful drawing of abstract and cartoon figures in yellow blue and red]] — shared language: yellow, red, cartoon
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: figure, ink, figures
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: figure, large, ink
+- [[knowledge/wiki/images/framed expressionist painting with red and yellow figures 0a69c0d0|framed expressionist painting with red and yellow figures]] — shared language: yellow, red, figures
+- [[knowledge/wiki/images/large abstract painting with red black blue and yellow swirls 627a7a7b|large abstract painting with red black blue and yellow swirls]] — shared language: yellow, red, large
+<!-- vault-crosslinks:end -->

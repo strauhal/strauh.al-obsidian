@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1700s/the_shepherdess_by_jean_honore_fragonard_c_1750_1752.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1750|Date Bucket - 1750]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1753|Date Bucket - 1753]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

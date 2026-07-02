@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - pipilotti rist|Artist - pipilotti rist]] — named in this note
-- [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — shared language: self, portrait
-- [[knowledge/wiki/images/self portrait by willem de kooning 1947 e62d82ce|self portrait by willem de kooning 1947]] — shared language: self, portrait
-- [[knowledge/wiki/images/self portrait by john singer sargent 1892 c0f2323b|self portrait by john singer sargent 1892]] — shared language: self, portrait
-- [[knowledge/wiki/images/study for a self portrait by francis bacon 1976 89796d84|study for a self portrait by francis bacon 1976]] — shared language: self, portrait
-- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: self, portrait
+- [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
+- [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — shared language: self
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tschabalala self 2023|Artist - tschabalala self 2023]] — shared language: self
+- [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — shared language: self
+- [[knowledge/wiki/images/self portrait by willem de kooning 1947 e62d82ce|self portrait by willem de kooning 1947]] — shared language: self
 <!-- vault-crosslinks:end -->

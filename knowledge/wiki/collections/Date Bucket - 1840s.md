@@ -60,3 +60,11 @@ Files: 35
 ![[media/strauh.al3.1/1800s/paul_delaroche_napoleon_at_fontainebleau_october_31_1814_1840.jpg]]
 
 ![[media/strauh.al3.1/1800s/portrait_of_sister_saint_alphonse_by_antoine_plamondon_1841.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1830s|Date Bucket - 1830s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1850s|Date Bucket - 1850s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

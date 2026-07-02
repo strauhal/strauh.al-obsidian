@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[untitled two figures with long hair by david shrigley 86ff96d3|untitled two figures with long hair by david shrigley]]
 - [[we swam together by david shrigley 2020 7c01ef79|we swam together by david shrigley 2020]]
 - [[within one s lifetime by david shrigley 2019 16165d85|within one s lifetime by david shrigley 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david bardia|Artist - david bardia]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david burliuk|Artist - david burliuk]] — shared language: david
+<!-- vault-crosslinks:end -->

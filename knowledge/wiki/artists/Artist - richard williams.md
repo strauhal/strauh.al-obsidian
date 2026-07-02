@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the animator s survival kit by richard williams 1d71f35b|the animator s survival kit by richard williams]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
+- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
+- [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: williams
+- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — shared language: williams
+- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/images/the art of the deal by robert williams 2017 2f82c2bc|the art of the deal by robert williams 2017]] — shared language: williams
+<!-- vault-crosslinks:end -->

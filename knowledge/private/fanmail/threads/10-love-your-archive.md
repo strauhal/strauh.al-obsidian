@@ -28,9 +28,9 @@ Saw the banner on 4chan. Just want to say this is IT. Keep doing your thing
 - [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — same category: audience-response
 - [[knowledge/wiki/images/banner 46fc8e74|banner]] — named in this note
 - [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — same category: audience-response
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: love, want
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: archive
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private, archive
-- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: archive
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: chan, say, thing
+- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, incoming, direction
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private
+- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
 <!-- vault-crosslinks:end -->

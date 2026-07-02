@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[juche by juck juck grunzie 2013 68084094|juche by juck juck grunzie 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jost amman|Artist - jost amman]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - juergen teller|Artist - juergen teller]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

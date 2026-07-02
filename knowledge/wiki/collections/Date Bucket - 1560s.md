@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1500s/the_return_of_the_herd_by_pieter_bruegel_the_elder_1566.jpg]]
 
 ![[media/strauh.al3.1/1500s/the_triumph_of_death_by_pieter_bruegel_the_elder_c_1562.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1550s|Date Bucket - 1550s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1570s|Date Bucket - 1570s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

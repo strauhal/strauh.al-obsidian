@@ -1,7 +1,7 @@
 ---
 title: "self portrait by fyodor shurpin 1950"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by_fyodor_shurpin_1950.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/self_portrait_by_fyodor_shurpin_1950.jpeg"
 source_relpath: "1900s/self_portrait_by_fyodor_shurpin_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
@@ -22,4 +22,14 @@ Artist: [[Artist - fyodor shurpin]]
 
 Source: [[media/strauh.al3.1/1900s/self_portrait_by_fyodor_shurpin_1950.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by_fyodor_shurpin_1950.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/self_portrait_by_fyodor_shurpin_1950.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
+- [[knowledge/wiki/artists/Artist - fyodor bronnikov|Artist - fyodor bronnikov]] — shared language: fyodor
+- [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
+- [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: fyodor
+<!-- vault-crosslinks:end -->

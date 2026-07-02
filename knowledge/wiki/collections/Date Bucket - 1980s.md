@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1980s"
 source_kind: "date_bucket"
-count: "176"
+count: "178"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1980s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 176
+Files: 178
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 176
 ![[media/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg]]
 
 ![[media/strauh.al3.1/1900s/cite_de_la_vallee_by_jean_giraud_1987.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1970s|Date Bucket - 1970s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1990s|Date Bucket - 1990s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

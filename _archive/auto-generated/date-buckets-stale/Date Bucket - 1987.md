@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1900s/tracer_bullet_who_did_this_by_bill_watterson_1987.jpg]]
 
 ![[media/strauh.al3.1/1900s/ventana_i_del_fuste_de_la_memoria_i_by_humberto_calzada_1987.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1986|Date Bucket - 1986]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1988|Date Bucket - 1988]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

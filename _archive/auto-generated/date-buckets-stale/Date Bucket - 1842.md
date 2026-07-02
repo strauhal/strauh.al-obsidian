@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/the_voyage_of_life_childhood_by_thomas_cole_1842.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_voyage_of_life_manhood_by_thomas_cole_1842.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1841|Date Bucket - 1841]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1843|Date Bucket - 1843]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

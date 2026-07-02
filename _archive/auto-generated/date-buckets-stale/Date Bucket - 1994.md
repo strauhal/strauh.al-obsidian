@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/vivienne_westwood_campaign_spring_summer_1994_by_juergen_teller_1994.jpeg]]
 
 ![[media/strauh.al3.1/1900s/world_systems_analysis_by_mark_lombardi_1994.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1993|Date Bucket - 1993]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1995|Date Bucket - 1995]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

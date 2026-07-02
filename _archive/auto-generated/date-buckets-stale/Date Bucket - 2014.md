@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg]]
 
 ![[media/strauh.al3.1/unsorted/view_from_notre_dame_de_paris_24_june_2014_004_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2013|Date Bucket - 2013]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2015|Date Bucket - 2015]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

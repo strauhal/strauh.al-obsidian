@@ -1,10 +1,10 @@
 ---
 title: "album covers"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/album_covers.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/album_covers.html"
 source_relpath: "album_covers.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # album covers
@@ -61,3 +61,16 @@ strauh.al/album_covers
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - album covers|Collection - album covers]] — named in this note
+- [[knowledge/wiki/images/a9e1b18e148d6557ab39c392b67b117c 62c82955|a9e1b18e148d6557ab39c392b67b117c]] — shared language: covers, album, a9e1b18e148d6557ab39c392b67b117c.jpg
+- [[knowledge/wiki/images/E5YNw0uWYAkF q1 f86a097f|E5YNw0uWYAkF q1]] — shared language: covers, album, q1.jpeg
+- [[knowledge/wiki/images/Ey4oQUzVcAY0LDd 95576efb|Ey4oQUzVcAY0LDd]] — shared language: covers, album, ey4oquzvcay0ldd.png
+- [[knowledge/wiki/images/floralshoppe e3a99788|floralshoppe]] — shared language: covers, album, floralshoppe.jpg
+- [[knowledge/wiki/images/flydaychinatown ed394b9c|flydaychinatown]] — shared language: covers, album, flydaychinatown.jpg
+- [[knowledge/wiki/images/g o d 085ab2b7|g o d]] — shared language: covers, album, d.jpg
+- [[knowledge/wiki/images/spiritualized ceedba16|spiritualized]] — shared language: covers, album, spiritualized.jpg
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the deluge by gabriel francois doyen 1778 41ec3356|the deluge by gabriel francois doyen 1778]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - francois boucher|Artist - francois boucher]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - gabriel metsu|Artist - gabriel metsu]] — shared language: gabriel
+- [[knowledge/wiki/images/john singer sargent gabriel faur 1898 8c6e9e69|john singer sargent gabriel faur 1898]] — shared language: gabriel
+- [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — shared language: francois
+<!-- vault-crosslinks:end -->

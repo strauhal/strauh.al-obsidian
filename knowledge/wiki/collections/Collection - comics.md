@@ -195,3 +195,16 @@ Files: 132
 - [[panel 2 7b2b8655|panel 2]]
 - [[spiff15 ea806c2a|spiff15]]
 - [[why do they call it oven 411a6a2d|why do they call it oven]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/pages/comics|comics]] — shared language: comics, eto, screenshots
+- [[knowledge/wiki/images/when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986 3d7fb5ce|when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986]] — shared language: calvin, panel
+- [[knowledge/wiki/images/black and white manga panel featuring three figures faces cd3e84ab|black and white manga panel featuring three figures faces]] — shared language: panel
+- [[knowledge/wiki/images/panel from l incal by jean giraud 1981 2317579f|panel from l incal by jean giraud 1981]] — shared language: panel
+- [[knowledge/wiki/images/three panel digital collage featuring a man from a movie and a collection of plush toys ae8059fb|three panel digital collage featuring a man from a movie and a collection of plush toys]] — shared language: panel
+- [[knowledge/wiki/images/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: panel
+- [[knowledge/wiki/images/framed painting of potted white flowers on a tall panel ff1e9889|framed painting of potted white flowers on a tall panel]] — shared language: panel
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "oldphotos 66"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/oldphotos 66.png"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/oldphotos 66.png"
 source_relpath: "old_photos/oldphotos 66.png"
 collection: "old_photos"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/old_photos/oldphotos 66.png|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/oldphotos 66.png`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/oldphotos 66.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/old photos|old photos]] — named in this note
+- [[knowledge/wiki/images/oldphotos 1 c403ba96|oldphotos 1]] — same collection: old photos
+- [[knowledge/wiki/images/oldphotos 10 2894cd7d|oldphotos 10]] — same collection: old photos
+- [[knowledge/wiki/images/oldphotos 100 ddec2e6c|oldphotos 100]] — same collection: old photos
+- [[knowledge/wiki/images/oldphotos 101 6baadd26|oldphotos 101]] — same collection: old photos
+<!-- vault-crosslinks:end -->

@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/reclining_figure_by_francis_bacon_1963.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_star_by_pan_tianshou_1963.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1962|Date Bucket - 1962]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1964|Date Bucket - 1964]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

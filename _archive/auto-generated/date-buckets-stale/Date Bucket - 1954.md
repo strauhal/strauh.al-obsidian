@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1900s/yellow_iris_by_fujio_yoshida_1954.jpeg]]
 
 ![[media/strauh.al3.1/unsorted/tumblr_fdbc1954d7816df843ed8fed1b445b96_3be08dc2_540_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1953|Date Bucket - 1953]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1955|Date Bucket - 1955]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - philip jones griffiths|Artist - philip jones griffiths]] — named in this note
 - [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
-- [[knowledge/wiki/images/philip sonkys portrait study of a woman froud maisir 1902 dfa307a5|philip sonkys portrait study of a woman froud maisir 1902]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
 <!-- vault-crosslinks:end -->

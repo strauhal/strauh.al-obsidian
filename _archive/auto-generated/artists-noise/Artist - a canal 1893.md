@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-canal-1893|Artist - a canal 1893]] — shared language: canal
+- [[knowledge/wiki/images/framed painting of a canal and stone buildings 6f9078c4|framed painting of a canal and stone buildings]] — shared language: canal, buildings
 - [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: canal, buildings, large
 - [[knowledge/wiki/images/black and white illustration of a bridge and gondolas on a canal at a large exposition eec54d88|black and white illustration of a bridge and gondolas on a canal at a large exposition]] — shared language: canal, large
 - [[knowledge/wiki/images/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: canal, buildings
-- [[knowledge/wiki/images/black and white photograph of a large classical revival building with a central dome and bridge over a canal 95e6e90b|black and white photograph of a large classical revival building with a central dome and bridge over a canal]] — shared language: canal, large
-- [[knowledge/wiki/images/giovanni antonio canal canaletto piazza san marco with the basilica and the campanile c 17301735 94e2c3a8|giovanni antonio canal canaletto piazza san marco with the basilica and the campanile c 17301735]] — shared language: canal
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, large
 <!-- vault-crosslinks:end -->

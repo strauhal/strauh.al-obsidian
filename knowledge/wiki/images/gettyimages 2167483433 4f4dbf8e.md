@@ -1,7 +1,7 @@
 ---
 title: "gettyimages 2167483433"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/gettyimages-2167483433.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/gettyimages-2167483433.jpg"
 source_relpath: "2024_downloadsfolder/gettyimages-2167483433.jpg"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/gettyimages-2167483433.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/gettyimages-2167483433.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/gettyimages-2167483433.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/gettyimages 176910681 43b11d93|gettyimages 176910681]] — shared language: gettyimages
+- [[knowledge/wiki/images/gettyimages 488083785 1564755031 a88c0e83|gettyimages 488083785 1564755031]] — shared language: gettyimages
+- [[knowledge/wiki/collections/Collection - photography|Collection - photography]] — shared language: gettyimages
+<!-- vault-crosslinks:end -->

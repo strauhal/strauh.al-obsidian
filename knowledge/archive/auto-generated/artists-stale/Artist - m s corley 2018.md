@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - m s corley|Artist - m s corley]] — named in this note
 - [[knowledge/wiki/books/paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] — shared language: city
+- [[knowledge/wiki/images/dense city alley with parked motorcycles 563b5338|dense city alley with parked motorcycles]] — shared language: city
+- [[knowledge/wiki/images/misty city painting of st pauls cathedral 042feb9f|misty city painting of st pauls cathedral]] — shared language: city
 - [[knowledge/wiki/images/aerial photograph of a city grid at night dd14d761|aerial photograph of a city grid at night]] — shared language: city
-- [[knowledge/wiki/images/the city by ben tolman 2015 fb989c41|the city by ben tolman 2015]] — shared language: city
-- [[knowledge/wiki/culture/reading-sin-city|Reading - Sin City]] — shared language: city
-- [[knowledge/wiki/images/photograph of detained men on dirt mounds in a war damaged city 54067047|photograph of detained men on dirt mounds in a war damaged city]] — shared language: city
+- [[knowledge/wiki/images/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: city
 <!-- vault-crosslinks:end -->

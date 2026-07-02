@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1400s/the_whore_of_babylon_from_the_apocalypse_series_by_albrecht_durer_c_1498.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1494|Date Bucket - 1494]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1499|Date Bucket - 1499]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

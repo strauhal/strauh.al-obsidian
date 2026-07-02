@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ksenia vovchok|Artist - ksenia vovchok]] — named in this note
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: belt
 - [[knowledge/wiki/images/black and white photographic portrait of a woman with long dark hair b3cb3ff5|black and white photographic portrait of a woman with long dark hair]] — shared language: long, hair, woman
-- [[knowledge/wiki/images/pencil drawing of a woman laughing with hair in a ponytail 37755ad0|pencil drawing of a woman laughing with hair in a ponytail]] — shared language: hair, woman, drawing
-- [[knowledge/wiki/images/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: long, ink, woman
-- [[knowledge/wiki/images/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: ink, woman, drawing
+- [[knowledge/wiki/images/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: hair, woman
+- [[knowledge/wiki/images/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
+- [[knowledge/wiki/images/untitled two figures with long hair by david shrigley 86ff96d3|untitled two figures with long hair by david shrigley]] — shared language: long, hair
 <!-- vault-crosslinks:end -->

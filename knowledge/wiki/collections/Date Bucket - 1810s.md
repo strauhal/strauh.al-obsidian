@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/1800s/the_death_of_germanicus_by_pierre_narcisse_guerin_1810.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_third_of_may_1808_by_francisco_de_goya_1814.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1800s|Date Bucket - 1800s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1820s|Date Bucket - 1820s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

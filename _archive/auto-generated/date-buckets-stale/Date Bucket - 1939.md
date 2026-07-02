@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/wolfgang_paalen_the_lair_1939.png]]
 
 ![[media/strauh.al3.1/unsorted/img_1939_jpeg.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1938|Date Bucket - 1938]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1940|Date Bucket - 1940]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

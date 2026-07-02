@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1880s"
 source_kind: "date_bucket"
-count: "142"
+count: "144"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1880s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 142
+Files: 144
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 142
 ![[media/strauh.al3.1/1800s/edgar_degas_dancer_adjusting_her_strap_c_1883.jpg]]
 
 ![[media/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1870s|Date Bucket - 1870s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1890s|Date Bucket - 1890s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - utagawa hiroshige 1856|Artist - utagawa hiroshige 1856]] — shared language: hiroshige, utagawa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - utagawa hiroshige 1833 1834|Artist - utagawa hiroshige 1833 1834]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/artists/Artist - utagawa hiroshige|Artist - utagawa hiroshige]] — shared language: hiroshige, utagawa, kameido
-- [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — shared language: hiroshige, utagawa
+- [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834 475f1914|yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834]] — shared language: hiroshige, utagawa
 <!-- vault-crosslinks:end -->

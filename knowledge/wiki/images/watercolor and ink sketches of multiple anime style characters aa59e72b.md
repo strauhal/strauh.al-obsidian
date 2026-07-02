@@ -1,7 +1,7 @@
 ---
 title: "watercolor and ink sketches of multiple anime style characters"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg"
 source_relpath: "unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg"
 collection: "unsorted"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/watercolor_and_ink_sketches_of_multiple_anime_style_characters.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/digital sketch compilation of multiple anime style female characters f84503ed|digital sketch compilation of multiple anime style female characters]] — shared language: anime, multiple, style
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: anime
+- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
+<!-- vault-crosslinks:end -->

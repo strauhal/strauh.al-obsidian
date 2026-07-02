@@ -29,9 +29,9 @@ other" pairing with [[Playboi Carti]] — both, perhaps, all raw force and torn 
 - [[knowledge/wiki/images/1960 d by clyfford still 1960 04b9f7ee|1960 d by clyfford still 1960]] — named in this note
 - [[knowledge/wiki/artists/Artist - clyfford still|Artist - clyfford still]] — shared language: clyfford, still
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: clyfford, carti, playboi
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: diary, elegance, spontaneity
 - [[knowledge/wiki/images/clyfford still 767f2a97|clyfford still]] — shared language: clyfford, still
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, painter, elegance
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, ernest's
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: diary, elegance, spontaneity
+- [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: playboi, carti
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 <!-- vault-crosslinks:end -->

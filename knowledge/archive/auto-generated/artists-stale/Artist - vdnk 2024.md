@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - vdnk|Artist - vdnk]] — named in this note
-- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
-- [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: house
+- [[knowledge/wiki/images/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
+- [[knowledge/wiki/images/tiny house island with falling fireball b828ab88|tiny house island with falling fireball]] — shared language: house
 - [[knowledge/wiki/pages/grandmas house|grandmas house]] — shared language: house
-- [[knowledge/wiki/images/color print of a wooded riverbank with a small house c9c4811b|color print of a wooded riverbank with a small house]] — shared language: house
+- [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: house
 - [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: house
 <!-- vault-crosslinks:end -->

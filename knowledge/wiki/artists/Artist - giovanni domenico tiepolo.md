@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[pulcinellas by giovanni domenico tiepolo c 17971800 b2347bfa|pulcinellas by giovanni domenico tiepolo c 17971800]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: tiepolo, giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: tiepolo, giovanni
+- [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — shared language: tiepolo, giovanni
+- [[knowledge/wiki/images/the virgin and child with saints by giovanni battista tiepolo c 17351740 fd452b29|the virgin and child with saints by giovanni battista tiepolo c 17351740]] — shared language: tiepolo, giovanni
+- [[knowledge/wiki/images/allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]] — shared language: tiepolo, giovanni
+- [[knowledge/wiki/images/giovanni battista tiepolo the empire of flora c 1743 jpg 401e8103|giovanni battista tiepolo the empire of flora c 1743 jpg]] — shared language: tiepolo, giovanni
+<!-- vault-crosslinks:end -->

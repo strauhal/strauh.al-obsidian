@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[fur traders going down the missouri by george caleb bingham c 1845 fc10c1b8|fur traders going down the missouri by george caleb bingham c 1845]]
 - [[the county election by george caleb bingham 1852 9af6bd67|the county election by george caleb bingham 1852]]
 - [[the rifle match by george caleb bingham 1850 cedacac4|the rifle match by george caleb bingham 1850]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
+<!-- vault-crosslinks:end -->

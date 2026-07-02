@@ -1,7 +1,7 @@
 ---
 title: "michaelmas daisies by walter t wood 1924"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg"
 source_relpath: "1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
@@ -22,4 +22,14 @@ Artist: [[Artist - walter t wood]]
 
 Source: [[media/strauh.al3.1/1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/michaelmas_daisies_by_walter_t_wood_1924.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - barbara a wood|Artist - barbara a wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
+<!-- vault-crosslinks:end -->

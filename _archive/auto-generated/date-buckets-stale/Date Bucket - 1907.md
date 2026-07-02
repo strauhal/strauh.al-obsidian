@@ -54,3 +54,11 @@ Files: 21
 ![[media/strauh.al3.1/1900s/the_wake_of_the_ferry_ii_by_john_sloan_1907.jpeg]]
 
 ![[media/strauh.al3.1/1900s/vanity_by_frank_cadogan_cowper_1907.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1906|Date Bucket - 1906]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1908|Date Bucket - 1908]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1700s/giovanni_battista_tiepolo_the_empire_of_flora_c_1743_jpg.jpg]]
 
 ![[media/strauh.al3.1/1700s/the_triumph_of_venus_by_giovanni_battista_tiepolo_c_1743.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1741|Date Bucket - 1741]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1744|Date Bucket - 1744]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

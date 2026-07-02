@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/la_liseuse_by_stanisaw_stachowicz_1858.jpg]]
 
 ![[media/strauh.al3.1/1800s/man_seated_wearing_a_cap_by_honore_daumier_1858.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1857|Date Bucket - 1857]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1859|Date Bucket - 1859]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

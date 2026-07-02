@@ -42,7 +42,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — same category: philosophy
-- [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — same category: philosophy
 - [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — same category: philosophy
+- [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 <!-- vault-crosslinks:end -->

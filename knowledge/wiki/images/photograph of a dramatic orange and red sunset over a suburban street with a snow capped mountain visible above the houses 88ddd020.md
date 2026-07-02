@@ -1,7 +1,7 @@
 ---
 title: "photograph of a dramatic orange and red sunset over a suburban street with a snow capped mountain visible above the houses"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg"
 source_relpath: "2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/images/photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset 1884128e|photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset]] — shared language: capped, snow, sunset
+- [[knowledge/wiki/images/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: houses, sunset
+- [[knowledge/wiki/images/infrared style photograph of snow capped mountains and purple trees over a blue lake 6834923a|infrared style photograph of snow capped mountains and purple trees over a blue lake]] — shared language: capped, snow
+<!-- vault-crosslinks:end -->

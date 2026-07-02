@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the eye of the cat by enrico donati 1942 257318a2|the eye of the cat by enrico donati 1942]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - enrico marini|Artist - enrico marini]] — shared language: enrico
+- [[knowledge/wiki/images/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: enrico
+- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
+- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/images/photograph of a black cat and an orange cat near a laptop 25bc633f|photograph of a black cat and an orange cat near a laptop]] — shared language: cat
+<!-- vault-crosslinks:end -->

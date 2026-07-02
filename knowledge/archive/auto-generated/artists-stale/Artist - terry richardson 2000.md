@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - terry richardson|Artist - terry richardson]] — named in this note
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: terry
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: terry
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: terry
 - [[knowledge/wiki/images/terry riley da601e64|terry riley]] — shared language: terry
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: terry
+- [[knowledge/wiki/anchors/terry-zwigoff|Terry Zwigoff]] — shared language: terry
 <!-- vault-crosslinks:end -->

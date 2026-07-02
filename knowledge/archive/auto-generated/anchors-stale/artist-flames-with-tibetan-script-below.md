@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - flames with tibetan script below|Artist - flames with tibetan script below]] — named in this note
-- [[knowledge/wiki/images/miniature painting of a wrathful red deity surrounded by flames with tibetan script below 129a6cf6|miniature painting of a wrathful red deity surrounded by flames with tibetan script below]] — shared language: flames, below, script
+- [[knowledge/wiki/images/miniature painting of a wrathful red deity surrounded by flames with tibetan script below 129a6cf6|miniature painting of a wrathful red deity surrounded by flames with tibetan script below]] — shared language: flames, script, below
 - [[knowledge/wiki/artists/Artist - tibetan script|Artist - tibetan script]] — shared language: script, tibetan
 - [[knowledge/wiki/images/tibetan style painting of a red wrathful deity in flames cc301222|tibetan style painting of a red wrathful deity in flames]] — shared language: flames, tibetan
-- [[knowledge/wiki/images/black and white illustration of a tibetan prayer flag design with script and mythological animals ff2a724b|black and white illustration of a tibetan prayer flag design with script and mythological animals]] — shared language: script, tibetan
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

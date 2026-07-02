@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2020s"
 source_kind: "date_bucket"
-count: "132"
+count: "131"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2020s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 132
+Files: 131
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 132
 ![[media/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg]]
 
 ![[media/strauh.al3.1/2000s/digital_illustration_of_an_elderly_man_drawing_an_anime_girl_2020.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 2010s|Date Bucket - 2010s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 2000s|Date Bucket - 2000s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

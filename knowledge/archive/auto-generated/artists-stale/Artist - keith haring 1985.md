@@ -22,6 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - keith haring|Artist - keith haring]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - keith haring 1983|Artist - keith haring 1983]] — named in this note
-- [[knowledge/wiki/images/dead birds a war ritual poster by keith haring 1983 8d051df0|dead birds a war ritual poster by keith haring 1983]] — shared language: keith, haring
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: keith, haring
+- [[knowledge/wiki/images/dead birds a war ritual poster by keith haring 1983 8d051df0|dead birds a war ritual poster by keith haring 1983]] — shared language: haring, keith
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: haring
 <!-- vault-crosslinks:end -->

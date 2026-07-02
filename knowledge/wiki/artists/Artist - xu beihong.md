@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[galloping horse by xu beihong 1941 8ed1bf88|galloping horse by xu beihong 1941]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
+- [[knowledge/wiki/images/colorful illustration of a rider on a white horse 27b26447|colorful illustration of a rider on a white horse]] — shared language: horse
+- [[knowledge/wiki/images/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: horse
+- [[knowledge/wiki/images/abstract painting of a figure riding a horse and pointing 544988c3|abstract painting of a figure riding a horse and pointing]] — shared language: horse
+- [[knowledge/wiki/images/line drawing of a horse chewing grass 1d319589|line drawing of a horse chewing grass]] — shared language: horse
+- [[knowledge/wiki/images/framed ink drawing of a horse head with motion lines 712198cb|framed ink drawing of a horse head with motion lines]] — shared language: horse
+<!-- vault-crosslinks:end -->

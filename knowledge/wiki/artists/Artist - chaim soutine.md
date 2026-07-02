@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[the family by chaim soutine c 1924 3a2a52d8|the family by chaim soutine c 1924]]
 - [[woman with a bird by chaim soutine c 1924 fe1d0ec8|woman with a bird by chaim soutine c 1924]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
+- [[knowledge/wiki/images/painting of a woman carried through stormy air by a bird 9ebe504c|painting of a woman carried through stormy air by a bird]] — shared language: bird, woman
+- [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
+- [[knowledge/wiki/images/framed painting of a small bird against a blue field 717ec88f|framed painting of a small bird against a blue field]] — shared language: bird
+- [[knowledge/wiki/images/ink and wash painting of a stylized dark figure or bird 661de875|ink and wash painting of a stylized dark figure or bird]] — shared language: bird
+- [[knowledge/wiki/images/stylized painting of a teal bird in a tropical landscape at night 2d2c3cbe|stylized painting of a teal bird in a tropical landscape at night]] — shared language: bird
+<!-- vault-crosslinks:end -->

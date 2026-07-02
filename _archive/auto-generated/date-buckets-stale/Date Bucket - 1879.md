@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1800s/vodyanitsa_water_nymph_by_konstantin_makovsky_1879.jpg]]
 
 ![[media/strauh.al3.1/1800s/woman_sewing_by_pierre_auguste_renoir_1879.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1878|Date Bucket - 1878]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1880|Date Bucket - 1880]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,13 +1,13 @@
 ---
 title: "Artist - pierre auguste renoir"
 source_kind: "artist"
-count: "8"
+count: "9"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - pierre auguste renoir
 
-Images attributed by filename: 8
+Images attributed by filename: 9
 
 ## Sample
 
@@ -27,6 +27,8 @@ Images attributed by filename: 8
 
 ![[media/strauh.al3.1/1800s/woman_sewing_by_pierre_auguste_renoir_1879.jpeg]]
 
+![[media/strauh.al3.1/unsorted/alphonsine_fournaise_by_pierre_auguste_renoir_1879.jpg]]
+
 ## Image Notes
 
 - [[bather reclining on a bank by pierre auguste renoir c 1883 c6d33406|bather reclining on a bank by pierre auguste renoir c 1883]]
@@ -37,3 +39,15 @@ Images attributed by filename: 8
 - [[roses in a vase by pierre auguste renoir c 1890 b958cbd0|roses in a vase by pierre auguste renoir c 1890]]
 - [[the skiff la yole by pierre auguste renoir 1875 c9b9374d|the skiff la yole by pierre auguste renoir 1875]]
 - [[woman sewing by pierre auguste renoir 1879 28a15c0d|woman sewing by pierre auguste renoir 1879]]
+- [[alphonsine fournaise by pierre auguste renoir 1879 9ffd58c3|alphonsine fournaise by pierre auguste renoir 1879]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — named in this note
+- [[knowledge/wiki/artists/Artist - auguste renoir|Artist - auguste renoir]] — shared language: renoir, auguste
+- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: renoir, auguste
+- [[knowledge/wiki/images/le bal a bougival by auguste renoir 1883 20edab1f|le bal a bougival by auguste renoir 1883]] — shared language: renoir, auguste
+- [[knowledge/wiki/artists/Artist - pierre auguste cot|Artist - pierre auguste cot]] — shared language: auguste, pierre
+- [[knowledge/wiki/images/spring by pierre auguste cot 1873 43b15763|spring by pierre auguste cot 1873]] — shared language: auguste, pierre
+<!-- vault-crosslinks:end -->

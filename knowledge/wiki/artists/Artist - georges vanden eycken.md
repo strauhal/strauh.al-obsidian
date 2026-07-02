@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[kitten playing with a quill by georges vanden eycken 1913 565f62f2|kitten playing with a quill by georges vanden eycken 1913]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - guillaume vanden eycken|Artist - guillaume vanden eycken]] — shared language: vanden, eycken, quill
+- [[knowledge/wiki/images/kitten playing with a quill by guillaume vanden eycken 1913 33783452|kitten playing with a quill by guillaume vanden eycken 1913]] — shared language: vanden, eycken, quill
+- [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges de feure|Artist - georges de feure]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "unsupervised by refik anadol 2022"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/unsupervised_by_refik_anadol_2022.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/unsupervised_by_refik_anadol_2022.jpeg"
 source_relpath: "2000s/unsupervised_by_refik_anadol_2022.jpeg"
 collection: "2000s"
 inferred_year: "2022"
@@ -22,4 +22,12 @@ Artist: [[Artist - refik anadol]]
 
 Source: [[media/strauh.al3.1/2000s/unsupervised_by_refik_anadol_2022.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/unsupervised_by_refik_anadol_2022.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/unsupervised_by_refik_anadol_2022.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/infinity by refik anadol 2019 3f199f63|infinity by refik anadol 2019]] — same artist: refik anadol
+- [[knowledge/wiki/images/unsupervised machine hallucinations moma 2022 by refik anadol 2022 1d1d947a|unsupervised machine hallucinations moma 2022 by refik anadol 2022]] — same artist: refik anadol
+- [[knowledge/wiki/images/unrequited 19f4e954|unrequited]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

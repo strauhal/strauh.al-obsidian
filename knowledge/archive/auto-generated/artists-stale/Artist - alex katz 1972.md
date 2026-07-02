@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1973|Artist - alex katz 1973]] — shared language: katz, alex, striped
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1960|Artist - alex katz 1960]] — shared language: katz, alex
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1973|Artist - alex katz 1973]] — shared language: katz, alex, striped
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1990|Artist - alex katz 1990]] — shared language: katz, alex
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1980|Artist - alex katz 1980]] — shared language: katz, alex
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1962|Artist - alex katz 1962]] — shared language: katz, alex

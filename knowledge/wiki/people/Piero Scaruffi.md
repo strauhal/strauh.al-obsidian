@@ -29,11 +29,11 @@ his cataloguing, ranking, completist instinct — the same drive behind the
 ## Discovered Connections
 
 - [[knowledge/wiki/images/scaruffi 215ee781|scaruffi]] — shared language: scaruffi, diary
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: diary, archive, impulse
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: diary, leaving, archive
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, strauh.al, archive
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: scaruffi, piero, influences
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, impulse, influences
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: diary, turning, music
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: cataloguing, influences, summary
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, page, diary
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: i'm, diary, slop
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, impulse, influences
 <!-- vault-crosslinks:end -->

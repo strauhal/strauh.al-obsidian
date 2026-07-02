@@ -80,11 +80,11 @@ Books/files: 63
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — named in this note
-- [[knowledge/wiki/pages/arcades project|arcades project]] — named in this note
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/anchors/heraclitus|Heraclitus]] — named in this note
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: deleuze, hegel, history
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: repetition, difference, press
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: deleuze, benjamin, guattari
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: history, repetition, difference
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: deleuze, hegel, friedrich
 <!-- vault-crosslinks:end -->

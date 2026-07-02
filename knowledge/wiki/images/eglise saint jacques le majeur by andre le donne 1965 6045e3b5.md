@@ -1,7 +1,7 @@
 ---
 title: "eglise saint jacques le majeur by andre le donne 1965"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg"
 source_relpath: "1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg"
 collection: "1900s"
 inferred_year: "1965"
@@ -22,4 +22,14 @@ Artist: [[Artist - andre le donne]]
 
 Source: [[media/strauh.al3.1/1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques
+- [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: jacques
+- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: jacques
+- [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — shared language: jacques
+- [[knowledge/wiki/books/routledge-classics-jacques-lacan-ecrits-a-selection|Ecrits A Selection]] — shared language: jacques
+<!-- vault-crosslinks:end -->

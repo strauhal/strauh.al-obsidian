@@ -1,7 +1,7 @@
 ---
 title: "horace vernet prise de la tour de malakoff 1858"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
 source_relpath: "1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
 collection: "1800s"
 inferred_year: "1858"
@@ -22,4 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - horace vernet|Artist - horace vernet]] — shared language: horace, vernet
+- [[knowledge/wiki/images/the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]] — shared language: horace, vernet
+- [[knowledge/wiki/artists/Artist - horace pippin|Artist - horace pippin]] — shared language: horace
+- [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: vernet
+- [[knowledge/wiki/artists/Artist - alix vernet|Artist - alix vernet]] — shared language: vernet
+<!-- vault-crosslinks:end -->

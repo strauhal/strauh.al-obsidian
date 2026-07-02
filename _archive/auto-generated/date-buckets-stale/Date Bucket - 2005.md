@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/2000s/the_meaning_of_life_film_still_by_don_hertzfeldt_2005.jpg]]
 
 ![[media/strauh.al3.1/unsorted/tumblr_5a2005d673b60d51dbf8a2cae1d69383_b06ca2bf_640_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2004|Date Bucket - 2004]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2006|Date Bucket - 2006]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

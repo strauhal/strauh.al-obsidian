@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[the conversation by mary hatch 2022 640f0d82|the conversation by mary hatch 2022]]
 - [[wait he s coming by mary hatch e00e11da|wait he s coming by mary hatch]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/earth seen through the circular hatch window 1968 97fce1a7|earth seen through the circular hatch window 1968]] — shared language: hatch
+- [[knowledge/wiki/artists/Artist - mary brodbeck|Artist - mary brodbeck]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary brochak|Artist - mary brochak]] — shared language: mary
+- [[knowledge/wiki/images/at the opera by mary cassatt 1880 766087e1|at the opera by mary cassatt 1880]] — shared language: mary
+- [[knowledge/wiki/images/falls by mary brodbeck 6dbb6fb5|falls by mary brodbeck]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary cassatt|Artist - mary cassatt]] — shared language: mary
+<!-- vault-crosslinks:end -->

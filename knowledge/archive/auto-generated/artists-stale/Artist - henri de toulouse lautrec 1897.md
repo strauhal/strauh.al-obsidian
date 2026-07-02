@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1887|Artist - henri de toulouse lautrec 1887]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1896|Artist - henri de toulouse lautrec 1896]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1886|Artist - henri de toulouse lautrec 1886]] — shared language: toulouse, lautrec, henri
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1892|Artist - henri de toulouse lautrec 1892]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1889|Artist - henri de toulouse lautrec 1889]] — shared language: toulouse, lautrec, henri
+- [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1892|Artist - henri de toulouse lautrec 1892]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1895|Artist - henri de toulouse lautrec 1895]] — shared language: toulouse, lautrec, henri
 <!-- vault-crosslinks:end -->

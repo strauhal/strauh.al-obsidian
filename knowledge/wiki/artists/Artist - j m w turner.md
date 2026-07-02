@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[calm liber studiorum plate 53 by j m w turner 1812 a000985b|calm liber studiorum plate 53 by j m w turner 1812]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - joseph mallord william turner|Artist - joseph mallord william turner]] — shared language: turner
+- [[knowledge/wiki/images/coast of yorkshire by joseph mallord william turner 1811 5474e1a8|coast of yorkshire by joseph mallord william turner 1811]] — shared language: turner
+- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — shared language: turner
+- [[knowledge/wiki/images/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate
+- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
+- [[knowledge/wiki/images/white oval plate with blue and white transferware pattern 2bb95f8b|white oval plate with blue and white transferware pattern]] — shared language: plate
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[passage from modest witness second millennium femaleman meets oncomousetm feminism and technoscience by donna haraway 1997 2798c544|passage from modest witness second millennium femaleman meets oncomousetm feminism and technoscience by donna haraway 1997]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 0bwa2t363npg1 d47073fa|where math meets art and craftsmanship iranian v0 0bwa2t363npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 9ewn1ph53npg1 3391e131|where math meets art and craftsmanship iranian v0 9ewn1ph53npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 lsfvso563npg1 1f8bd7e1|where math meets art and craftsmanship iranian v0 lsfvso563npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 pi5cu7y53npg1 422beeb1|where math meets art and craftsmanship iranian v0 pi5cu7y53npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 rcd8jds53npg1 f74cf7d3|where math meets art and craftsmanship iranian v0 rcd8jds53npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 uukoksq53npg1 26ee0870|where math meets art and craftsmanship iranian v0 uukoksq53npg1]] — shared language: meets
+<!-- vault-crosslinks:end -->

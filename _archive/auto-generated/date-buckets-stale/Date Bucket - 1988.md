@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/the_path_by_michael_parkes_1988.jpg]]
 
 ![[media/strauh.al3.1/1900s/tomie_part_2_morita_hospital_final_panel_by_junji_ito_1988.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1987|Date Bucket - 1987]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1989|Date Bucket - 1989]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

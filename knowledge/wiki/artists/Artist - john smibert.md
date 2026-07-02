@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[george berkeley 16851753 bishop of cloyne by john smibert c 1728 eb36abc9|george berkeley 16851753 bishop of cloyne by john smibert c 1728]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/images/john george brown a fish cleaning station 1877 00e7336d|john george brown a fish cleaning station 1877]] — shared language: john, george
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
+<!-- vault-crosslinks:end -->

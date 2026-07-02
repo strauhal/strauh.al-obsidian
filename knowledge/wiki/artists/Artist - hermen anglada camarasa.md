@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the end of the dinner by hermen anglada camarasa 1898 666d3bed|the end of the dinner by hermen anglada camarasa 1898]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/end of eva jpg 2eeaba1b|end of eva jpg]] — shared language: end
+- [[knowledge/wiki/images/end of eva png f0e67867|end of eva png]] — shared language: end
+- [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — shared language: dinner
+- [[knowledge/wiki/images/the dinner by tomasz alen kopera 2008 b01152f9|the dinner by tomasz alen kopera 2008]] — shared language: dinner
+<!-- vault-crosslinks:end -->

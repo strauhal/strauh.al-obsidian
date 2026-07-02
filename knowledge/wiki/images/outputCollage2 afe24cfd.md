@@ -1,7 +1,7 @@
 ---
 title: "outputCollage2"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/outputCollage2.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/outputCollage2.jpg"
 source_relpath: "2023_downloadsfolder/outputCollage2.jpg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/outputCollage2.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/outputCollage2.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/outputCollage2.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/output6 png 9f91971e|output6 png]] — nearby note in the same source series
+- [[knowledge/wiki/images/outputMap0 bd54d6e9|outputMap0]] — nearby note in the same source series
+- [[knowledge/wiki/images/output3 png 84cde0c1|output3 png]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

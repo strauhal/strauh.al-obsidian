@@ -1,10 +1,10 @@
 ---
 title: "artists moebius"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/moebius.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/moebius.html"
 source_relpath: "artists/moebius.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists moebius
@@ -41,3 +41,16 @@ strauh.al/artists/moebius
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Art of Moebius 51eaa0f5|Art of Moebius]] — named in this note
+- [[knowledge/wiki/images/Moebius d e10e1915|Moebius d]] — shared language: moebius, artists, moebius-d.jpg
+- [[knowledge/wiki/images/1075 Moebius 5 3933f50e|1075 Moebius 5]] — shared language: moebius, artists
+- [[knowledge/wiki/images/1 jBu7mslPXsC44MIKq ug A 319aeef1|1 jBu7mslPXsC44MIKq ug A]] — shared language: artists, moebius, a.png
+- [[knowledge/wiki/images/321747b4c999e8c0e800baba885b5f97 66af61be|321747b4c999e8c0e800baba885b5f97]] — shared language: artists, moebius, b4c999e8c0e800baba885b5f97.jpg
+- [[knowledge/wiki/images/5d28d056899993 9394e86b|5d28d056899993]] — shared language: artists, moebius, d28d056899993.59c0fbc6c28d3.jpg
+- [[knowledge/wiki/images/d0254a31b3ee346825392842a4dc6081 296c8ea9|d0254a31b3ee346825392842a4dc6081]] — shared language: artists, moebius, d0254a31b3ee346825392842a4dc6081.jpeg
+- [[knowledge/wiki/images/MoebiusCrystalLake1 4e241413|MoebiusCrystalLake1]] — shared language: artists, moebius, moebiuscrystallake1.jpg
+<!-- vault-crosslinks:end -->

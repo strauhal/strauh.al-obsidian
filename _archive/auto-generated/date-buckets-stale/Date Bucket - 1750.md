@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1700s/the_triumph_of_galatea_by_corrado_giaquinto_c_1750.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1749|Date Bucket - 1749]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1752|Date Bucket - 1752]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

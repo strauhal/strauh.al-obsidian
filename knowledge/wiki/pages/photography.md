@@ -1,10 +1,10 @@
 ---
 title: "photography"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/photography.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/photography.html"
 source_relpath: "photography.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # photography
@@ -142,3 +142,16 @@ strauh.al/photography
 
 - [[photography daido moriyama daido moriyama]]
 - [[photography fan ho]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/daido-moriyama|daido moriyama]] — named in this note
+- [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — named in this note
+- [[knowledge/wiki/images/Parsifal (1882 retuschiert) 2693faf1|Parsifal (1882 retuschiert)]] — named in this note
+- [[knowledge/wiki/images/moriyama 5fe054a7|moriyama]] — named in this note
+- [[knowledge/wiki/images/202112131445 main.cropped 1639381572 25ba35b3|202112131445 main.cropped 1639381572]] — named in this note
+- [[knowledge/wiki/images/Moondog 1948 77b23d04|Moondog 1948]] — named in this note
+- [[knowledge/wiki/images/1619523650404 b47d8568|1619523650404]] — shared language: photography, daido, moriyama
+- [[knowledge/wiki/images/1619523682056 611541cd|1619523682056]] — shared language: photography, daido, moriyama
+<!-- vault-crosslinks:end -->

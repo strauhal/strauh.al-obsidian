@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the grave by keke 2019 4db1c7bc|the grave by keke 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/leo-bersani-is-the-rectum-a-grave|Is the Rectum a Grave?]] — shared language: grave
+- [[knowledge/wiki/images/soldatengrab soldier s grave by otto dix 1924 292c60dc|soldatengrab soldier s grave by otto dix 1924]] — shared language: grave
+- [[knowledge/wiki/images/grave slab decoration featuring black and white tessellating bird and geometric patterns ab7a9c25|grave slab decoration featuring black and white tessellating bird and geometric patterns]] — shared language: grave
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of augustus ii the strong by louis de silvestre 1715 c2077d67|portrait of augustus ii the strong by louis de silvestre 1715]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis faurer|Artist - louis faurer]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis haghe|Artist - louis haghe]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis markoya|Artist - louis markoya]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis r lowery|Artist - louis r lowery]] — shared language: louis
+<!-- vault-crosslinks:end -->

@@ -19,3 +19,11 @@ Images attributed by filename: 2
 
 - [[her bluebird of happiness by lisa clague 2021 ee5f5a89|her bluebird of happiness by lisa clague 2021]]
 - [[her bluebird of happiness by lisa clague 2021 3 3007bf84|her bluebird of happiness by lisa clague 2021 3]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - lisa law|Artist - lisa law]] — shared language: lisa
+- [[knowledge/wiki/images/andy warhol and the velvet underground at the castle by lisa law 1967 fa994c5e|andy warhol and the velvet underground at the castle by lisa law 1967]] — shared language: lisa
+- [[knowledge/wiki/artists/Artist - lionel royer|Artist - lionel royer]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

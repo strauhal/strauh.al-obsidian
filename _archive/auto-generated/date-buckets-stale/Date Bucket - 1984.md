@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/twist_silk_jersey_knits_patchworks_autumn_winter_1984_85_by_peter_lindbergh_1984.jpeg]]
 
 ![[media/strauh.al3.1/1900s/untitled_by_zdzisaw_beksinski_1984.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1983|Date Bucket - 1983]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1985|Date Bucket - 1985]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

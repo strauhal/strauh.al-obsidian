@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chance the rapper|Artist - chance the rapper]] — named in this note
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: rapper
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: rapper
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: rapper
 - [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
 - [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — shared language: problem
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
 <!-- vault-crosslinks:end -->

@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1900s/the_window_by_andrew_loomis_1929.jpg]]
 
 ![[media/strauh.al3.1/1900s/ventilation_system_by_charles_sheeler_1929.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1928|Date Bucket - 1928]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1930|Date Bucket - 1930]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

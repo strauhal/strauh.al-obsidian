@@ -40,7 +40,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/g-w-f-hegel-hegel-glossary|Hegel Glossary]] — same category: philosophy
 - [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
 - [[_archive/auto-generated/books-stale/foucault-the-history-of-sexuality-volume-1|foucault-the-history-of-sexuality-volume-1]] — same category: philosophy
 - [[_archive/auto-generated/books-stale/foucault-the-history-of-sexuality-volume-2|foucault-the-history-of-sexuality-volume-2]] — same category: philosophy
-- [[_archive/auto-generated/books-stale/foucault-the-history-of-sexuality-volume-3|foucault-the-history-of-sexuality-volume-3]] — same category: philosophy
 <!-- vault-crosslinks:end -->

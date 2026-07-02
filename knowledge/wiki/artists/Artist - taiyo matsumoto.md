@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[tekkon kinkreet omnibus cover illustration by taiyo matsumoto 2018 e4b793f4|tekkon kinkreet omnibus cover illustration by taiyo matsumoto 2018]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/artists/Artist - tadeusz pruszkowski|Artist - tadeusz pruszkowski]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

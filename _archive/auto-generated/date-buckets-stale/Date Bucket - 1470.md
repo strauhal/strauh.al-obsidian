@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg]]
 
 ![[media/strauh.al3.1/1400s/the_virgin_in_prayer_by_dieric_bouts_c_1470.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1468|Date Bucket - 1468]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1474|Date Bucket - 1474]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

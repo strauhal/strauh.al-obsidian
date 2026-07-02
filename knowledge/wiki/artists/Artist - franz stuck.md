@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[der froschkonig the frog king by franz stuck 1899 62fcd95e|der froschkonig the frog king by franz stuck 1899]]
 - [[oedipus and the sphinx by franz stuck 1891 02090465|oedipus and the sphinx by franz stuck 1891]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: stuck
+- [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz hanfstaengl|Artist - franz hanfstaengl]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: franz
+<!-- vault-crosslinks:end -->

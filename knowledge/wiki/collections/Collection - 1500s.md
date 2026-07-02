@@ -156,3 +156,16 @@ Files: 93
 - [[the virgin and child on the crescent by albrecht durer c 1508 4e302bda|the virgin and child on the crescent by albrecht durer c 1508]]
 - [[virgin and saint anne with the christ child and the young john the baptist by leonardo da vinci 1500 1501 2df5f753|virgin and saint anne with the christ child and the young john the baptist by leonardo da vinci 1500 1501]]
 - [[virginia de medici with her children by alessandro allori 1586 a36095ca|virginia de medici with her children by alessandro allori 1586]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/images/perseus cc022ab3|perseus]] — named in this note
+- [[knowledge/wiki/images/violin 4a3d688a|violin]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, leonardo, vinci
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, christ
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
+- [[knowledge/wiki/artists/Artist - leonardo da vinci|Artist - leonardo da vinci]] — shared language: leonardo, vinci, shoulder
+<!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/landscape by wang meng yuan dynasty 81417cc2|landscape by wang meng yuan dynasty]] — shared language: meng, wang
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang ximeng 1113|Artist - wang ximeng 1113]] — shared language: wang, mountains
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang ximeng 1113 2|Artist - wang ximeng 1113 2]] — shared language: wang, mountains
-- [[knowledge/wiki/artists/Artist - wang ximeng|Artist - wang ximeng]] — shared language: wang, mountains
+- [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: meng, wang, dwelling
 <!-- vault-crosslinks:end -->

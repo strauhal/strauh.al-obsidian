@@ -56,3 +56,11 @@ Files: 22
 ![[media/strauh.al3.1/1700s/the_tennis_court_oath_le_serment_du_jeu_de_paume_by_jacques_louis_david_c_1791.jpg]]
 
 ![[media/strauh.al3.1/1700s/vue_du_champ_de_mars_a_l_instant_du_serment_1790.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1780s|Date Bucket - 1780s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1800s|Date Bucket - 1800s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

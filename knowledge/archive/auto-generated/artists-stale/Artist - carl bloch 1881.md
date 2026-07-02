@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - carl bloch 1879|Artist - carl bloch 1879]] — named in this note
 - [[knowledge/wiki/images/the annunciation to the shepherds by carl bloch 1879 5c66abc7|the annunciation to the shepherds by carl bloch 1879]] — shared language: bloch, carl
 - [[knowledge/wiki/images/carl bloch in a roman osteria 1866 4fe3be89|carl bloch in a roman osteria 1866]] — shared language: bloch, carl
+- [[knowledge/wiki/images/carl bloch in a roman osteria 1866 2 d5ab0018|carl bloch in a roman osteria 1866 2]] — shared language: bloch, carl
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: carl
 <!-- vault-crosslinks:end -->

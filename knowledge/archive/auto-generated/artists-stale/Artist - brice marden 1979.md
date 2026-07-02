@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - brice marden|Artist - brice marden]] — shared language: brice, marden, nine
 - [[knowledge/wiki/images/the muses epitome by brice marden 1991 1993 358237c7|the muses epitome by brice marden 1991 1993]] — shared language: brice, marden
 - [[knowledge/wiki/images/the muses epitome by brice marden 1991 1999 4f5eaace|the muses epitome by brice marden 1991 1999]] — shared language: brice, marden
-- [[knowledge/wiki/images/grid of nine black and white drawings of a man in profile wearing glasses 44d8916f|grid of nine black and white drawings of a man in profile wearing glasses]] — shared language: nine
+- [[knowledge/wiki/images/line drawing diagram of nine architectural crown molding styles 437eb0d8|line drawing diagram of nine architectural crown molding styles]] — shared language: nine
 <!-- vault-crosslinks:end -->

@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1800s/the_great_white_heron_by_john_singer_sargent_1891.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_kiss_la_caress_by_mary_cassatt_c_1890_1891.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1890|Date Bucket - 1890]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1892|Date Bucket - 1892]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

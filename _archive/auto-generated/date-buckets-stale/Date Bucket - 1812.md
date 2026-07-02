@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/calm_liber_studiorum_plate_53_by_j_m_w_turner_1812.jpeg]]
 
 ![[media/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1811|Date Bucket - 1811]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1813|Date Bucket - 1813]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

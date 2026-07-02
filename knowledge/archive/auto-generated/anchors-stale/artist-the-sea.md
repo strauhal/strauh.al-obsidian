@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[_archive/auto-generated/artists-noise/Artist - the sea|Artist - the sea]] — named in this note
 - [[_archive/auto-generated/artists-noise/Artist - the sea 1951|Artist - the sea 1951]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-sea-1951|Artist - the sea 1951]] — shared language: sea, wikilink, merge
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

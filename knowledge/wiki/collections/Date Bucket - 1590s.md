@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1500s/the_holy_family_with_the_infant_saint_john_the_baptist_by_hendrick_goltzius_1593.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_nativity_by_jan_sadeler_i_1594.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1580s|Date Bucket - 1580s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1600s|Date Bucket - 1600s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

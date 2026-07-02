@@ -27,9 +27,9 @@ if you have questions or comments about the site, email me at  mailto:ernest@str
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/donate|donate]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: strauh.al, capture, closest
-- [[knowledge/wiki/pages/about|about]] — shared language: site, donations, strauh.al
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: site, strauh.al
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: site, strauh.al
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, closest, capture
+- [[knowledge/wiki/pages/about|about]] — shared language: site, donations, enjoy
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
+- [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: using, python
+- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site
 <!-- vault-crosslinks:end -->

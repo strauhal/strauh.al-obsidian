@@ -60,3 +60,11 @@ Files: 30
 ![[media/strauh.al3.1/2000s/the_deep_by_wesley_stokes_2018.jpeg]]
 
 ![[media/strauh.al3.1/2000s/the_glendearning_getaway_by_andy_thomas_2018.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2017|Date Bucket - 2017]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2019|Date Bucket - 2019]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

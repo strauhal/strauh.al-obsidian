@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[_archive/auto-generated/artists-noise/Artist - a window titled apollo 17 mission summary|Artist - a window titled apollo 17 mission summary]] — named in this note
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: summary, later
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

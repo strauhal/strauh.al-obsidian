@@ -32,10 +32,10 @@ Books/files: 14
 
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/images/hideo kojima d3de540b|hideo kojima]] — named in this note
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: music, sound
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music, hecker
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, sound, hecker
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music, hecker
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: music, hecker
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: music, sound, spectral
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: hecker, tim
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: hecker, tim
-- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: hecker, tim, movies
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: music, sound
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music
 <!-- vault-crosslinks:end -->

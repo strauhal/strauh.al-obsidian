@@ -42,5 +42,5 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/unknown-the-camp-of-the-saints|The Camp Of The Saints]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
-- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
+- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 <!-- vault-crosslinks:end -->

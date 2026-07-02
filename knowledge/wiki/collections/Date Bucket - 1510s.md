@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1510s"
 source_kind: "date_bucket"
-count: "7"
+count: "8"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1510s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 7
+Files: 8
 
 ## Sample
 
@@ -26,3 +26,13 @@ Files: 7
 ![[media/strauh.al3.1/1500s/studies_of_the_muscles_of_the_shoulder_and_arm_by_leonardo_da_vinci_c_1510.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_expulsion_of_heliodorus_from_the_temple_by_raphael_1511_1512.jpeg]]
+
+![[media/strauh.al3.1/unsorted/the_tribute_money_by_titian_1516.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1500s|Date Bucket - 1500s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1520s|Date Bucket - 1520s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

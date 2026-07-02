@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tommy wiseau|Artist - tommy wiseau]] — named in this note
-- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
+- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: room
-- [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — shared language: room
-- [[knowledge/wiki/images/black and white photograph of a woman standing in an empty room 2355fc7e|black and white photograph of a woman standing in an empty room]] — shared language: room
+- [[knowledge/wiki/images/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: room
+- [[knowledge/wiki/images/colorful room illustration with table and plants d3bec09f|colorful room illustration with table and plants]] — shared language: room
 <!-- vault-crosslinks:end -->

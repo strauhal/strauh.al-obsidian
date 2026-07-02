@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1600s/govert_flinck_the_return_of_the_prodigal_son_1642.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1640|Date Bucket - 1640]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1643|Date Bucket - 1643]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

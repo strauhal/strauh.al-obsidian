@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/untitled_by_zdzisaw_beksinski_1972.jpg]]
 
 ![[media/strauh.al3.1/1900s/yang_kuei_fei_by_mayumi_oda_1972.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1971|Date Bucket - 1971]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1973|Date Bucket - 1973]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

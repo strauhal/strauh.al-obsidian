@@ -1,7 +1,7 @@
 ---
 title: "FtCV4YkacAAV AA"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg"
 source_relpath: "2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/FtCV4YkacAAV_AA.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Ft8Kn8gaAAAZ ZC 1ee598d7|Ft8Kn8gaAAAZ ZC]] — nearby note in the same source series
+- [[knowledge/wiki/images/FtJUeSAWIAEgKFt 8b936720|FtJUeSAWIAEgKFt]] — nearby note in the same source series
+- [[knowledge/wiki/images/FsZLIp1XsAA4Wow 57ffc984|FsZLIp1XsAA4Wow]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

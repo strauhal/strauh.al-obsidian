@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - bertha lum|Artist - bertha lum]] — named in this note
 - [[knowledge/wiki/images/self portrait with chinese lanterns by egon schiele 1912 905716a0|self portrait with chinese lanterns by egon schiele 1912]] — shared language: lanterns
-- [[knowledge/wiki/images/black and white illustration of a bridge and gondolas on a canal at a large exposition eec54d88|black and white illustration of a bridge and gondolas on a canal at a large exposition]] — shared language: bridge
+- [[knowledge/wiki/images/framed city river scene with bridge and smoky sky b0eb6ac7|framed city river scene with bridge and smoky sky]] — shared language: bridge
 <!-- vault-crosslinks:end -->

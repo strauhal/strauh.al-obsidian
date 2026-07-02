@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/2000s/the_picnic_by_will_cotton_2008.png]]
 
 ![[media/strauh.al3.1/2000s/the_three_graces_by_michael_borremans_2008.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2007|Date Bucket - 2007]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2009|Date Bucket - 2009]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

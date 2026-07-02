@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the observer by damian elwes 2007 2ab4a2d0|the observer by damian elwes 2007]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the eye of the observer by saul steinberg 1966 dc3e97c2|the eye of the observer by saul steinberg 1966]] — shared language: observer
+- [[knowledge/wiki/artists/Artist - dabspunk|Artist - dabspunk]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - dana schutz|Artist - dana schutz]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

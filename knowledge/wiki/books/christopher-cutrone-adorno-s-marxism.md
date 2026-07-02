@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
-- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
-- [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — same category: philosophy
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
+- [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — same category: philosophy
 - [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — same category: philosophy
 <!-- vault-crosslinks:end -->

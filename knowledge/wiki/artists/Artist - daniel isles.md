@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[illustration of two characters on futuristic skates in a futuristic city environment by daniel isles 2018 c35c9899|illustration of two characters on futuristic skates in a futuristic city environment by daniel isles 2018]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - daniel arsham|Artist - daniel arsham]] — shared language: daniel
+- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
+- [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
+- [[knowledge/wiki/artists/Artist - daniel friedman|Artist - daniel friedman]] — shared language: daniel
+- [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: daniel
+- [[knowledge/wiki/images/poppies isles of shoals by childe hassam 1890 254c0b4a|poppies isles of shoals by childe hassam 1890]] — shared language: isles
+<!-- vault-crosslinks:end -->

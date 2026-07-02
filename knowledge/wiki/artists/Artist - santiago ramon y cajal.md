@@ -16,3 +16,13 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900 f5f8d019|different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+- [[knowledge/wiki/artists/Artist - santiago caruso|Artist - santiago caruso]] — shared language: santiago
+- [[knowledge/wiki/images/the great adversary by santiago caruso 2012 1f8f3728|the great adversary by santiago caruso 2012]] — shared language: santiago
+- [[knowledge/wiki/images/ramon prat armani hong kong fuksas 007 2 jpg 56b99425|ramon prat armani hong kong fuksas 007 2 jpg]] — shared language: ramon
+- [[knowledge/wiki/maps/Psychological Types|Psychological Types]] — shared language: types
+<!-- vault-crosslinks:end -->

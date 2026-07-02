@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[l atelier by jean georges vibert 1880 cd2f1127|l atelier by jean georges vibert 1880]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges de feure|Artist - georges de feure]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
+- [[knowledge/wiki/images/le baiser by georges de feure 1897 ff074feb|le baiser by georges de feure 1897]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges seurat|Artist - georges seurat]] — shared language: georges
+<!-- vault-crosslinks:end -->

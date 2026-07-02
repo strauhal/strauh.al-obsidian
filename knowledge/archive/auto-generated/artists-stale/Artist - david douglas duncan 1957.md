@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david douglas duncan|Artist - david douglas duncan]] — named in this note
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
+- [[knowledge/wiki/artists/Artist - william fettes douglas|Artist - william fettes douglas]] — shared language: douglas
 - [[knowledge/wiki/artists/Artist - hugh douglas hamilton|Artist - hugh douglas hamilton]] — shared language: douglas
-- [[knowledge/wiki/images/william fettes douglas alchemist painting jpg webp a9da64a0|william fettes douglas alchemist painting jpg webp]] — shared language: douglas
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/images/the alchemist by william fettes douglas 1855 7f98c27c|the alchemist by william fettes douglas 1855]] — shared language: douglas
 <!-- vault-crosslinks:end -->

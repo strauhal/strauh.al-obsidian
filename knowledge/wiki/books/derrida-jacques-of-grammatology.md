@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
-- [[knowledge/wiki/books/plato-euthyphro|Euthyphro]] — same category: philosophy
+- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
 - [[knowledge/wiki/books/plato-the-republic|The Republic]] — same category: philosophy
-- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
+- [[knowledge/wiki/books/plato-euthyphro|Euthyphro]] — same category: philosophy
 <!-- vault-crosslinks:end -->

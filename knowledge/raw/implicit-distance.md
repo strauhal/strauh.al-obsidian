@@ -28,10 +28,10 @@ End of app-wrapper
 
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — named in this note
 - [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: distance, implicit, audio
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, audio
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, stylegan
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: implicit, neural, algorithm
 <!-- vault-crosslinks:end -->

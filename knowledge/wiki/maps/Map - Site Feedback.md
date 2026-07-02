@@ -22,9 +22,9 @@ Threads: 3
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: attachments, messages, incoming
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, feedback, site
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: site, feedback, link
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: site, archive
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, website
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: site, archive
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, incoming
-- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — shared language: broken, link, site
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: feedback
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, link
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
+- [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: attachments, messages, threads
 <!-- vault-crosslinks:end -->

@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/the_houses_of_parliament_sunset_by_claude_monet_1903.webp]]
 
 ![[media/strauh.al3.1/1900s/the_houses_of_parliament_sunset_by_claude_monet_1903_3.webp]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1902|Date Bucket - 1902]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1904|Date Bucket - 1904]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - robert bechtle|Artist - robert bechtle]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/robert bechtle the gun 1985 33310c05|robert bechtle the gun 1985]] — shared language: bechtle, robert
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
 <!-- vault-crosslinks:end -->

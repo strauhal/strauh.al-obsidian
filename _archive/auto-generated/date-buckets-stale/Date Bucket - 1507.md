@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1500s/study_of_a_kneeling_youth_looking_upwards_by_raphael_c_1507.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1506|Date Bucket - 1506]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1508|Date Bucket - 1508]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

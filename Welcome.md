@@ -3,8 +3,8 @@ title: strauh.al Knowledge Base
 type: map
 aliases: [Atlas, strauh.al Atlas, home]
 tags: [map, home, strauhal, atlas]
-created: 2026-06-27
-updated: 2026-06-27
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # strauh.al — an atlas, not a feed
@@ -12,7 +12,7 @@ updated: 2026-06-27
 A knowledge system built the opposite way from the old web. Instead of a flat pile
 of pages linking to index pages, this is a **layered atlas**: a spine of *ideas* at
 the center, and everything else — people, works, reading, images — arranged as what
-*feeds* those ideas. From here, any of ~9371 notes is three hops away.
+*feeds* those ideas. From here, any of ~9944 notes is three hops away.
 
 ## ① The spine — start here
 
@@ -53,4 +53,17 @@ grouped into four themes. This is the front door; read the vault *through* the i
 
 ## Current counts
 
-people 19 · concepts 25 · works 11 · books 402 · culture 120 · dreams 7 · images 7598 · pages 73 · collections 96
+people 19 · concepts 25 · works 11 · books 402 · culture 120 · dreams 7 · images 8116 · pages 74 · collections 96
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, latent, space
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: atlas, graph, space
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, influences, space
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: feed, built, themes
+<!-- vault-crosslinks:end -->

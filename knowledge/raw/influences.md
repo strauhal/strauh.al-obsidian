@@ -58,11 +58,11 @@ https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/influences/
 ## Discovered Connections
 
 - [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, strauh.al
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, alexander
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: influences, alexander
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, alexander
-- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: influences, strauh.al
 - [[knowledge/raw/diary|Diary]] — shared language: refs, raw.githubusercontent.com, https
+- [[knowledge/wiki/pages/influences|influences]] — shared language: influences, alexander, camus.jpg
+- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: influences, alexander, scriabin.png
 <!-- vault-crosslinks:end -->

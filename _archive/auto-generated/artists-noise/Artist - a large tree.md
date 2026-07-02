@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-large-tree|Artist - a large tree]] — shared language: tree, large
+- [[knowledge/wiki/images/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: tree, large, landscape
 - [[knowledge/wiki/images/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: large
 - [[knowledge/wiki/artists/Artist - tree foliage|Artist - tree foliage]] — shared language: tree
 - [[knowledge/wiki/artists/Artist - tree branches|Artist - tree branches]] — shared language: tree
-- [[knowledge/wiki/images/watercolor and ink drawing of a gnarled tree on a slope 0d0ab0c0|watercolor and ink drawing of a gnarled tree on a slope]] — shared language: tree, drawing
-- [[knowledge/wiki/images/photograph of suburban houses a large pine tree and an airplane flying over an airport ec8ba57a|photograph of suburban houses a large pine tree and an airplane flying over an airport]] — shared language: tree, large
 <!-- vault-crosslinks:end -->

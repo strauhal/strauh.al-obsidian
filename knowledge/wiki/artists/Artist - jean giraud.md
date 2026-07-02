@@ -37,3 +37,14 @@ Images attributed by filename: 8
 - [[the citadel by jean giraud 1979 402216a8|the citadel by jean giraud 1979]]
 - [[the crystal citadel by jean giraud 1980 19f1ce20|the crystal citadel by jean giraud 1980]]
 - [[the market by jean giraud 1980 0a2c8a6d|the market by jean giraud 1980]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - moebius jean giraud|Artist - moebius jean giraud]] — shared language: giraud, jean
+- [[knowledge/wiki/images/le groupe by moebius jean giraud 1980 08d0e2e5|le groupe by moebius jean giraud 1980]] — shared language: giraud, jean
+- [[knowledge/wiki/images/stel by jean giraud moebius 1988 245e1dc0|stel by jean giraud moebius 1988]] — shared language: giraud, jean
+- [[knowledge/wiki/artists/Artist - jean giraud moebius|Artist - jean giraud moebius]] — shared language: giraud, jean
+- [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/images/moebius aka jean giraud 36 of 41 acc1c93d|moebius aka jean giraud 36 of 41]] — shared language: giraud, jean
+<!-- vault-crosslinks:end -->

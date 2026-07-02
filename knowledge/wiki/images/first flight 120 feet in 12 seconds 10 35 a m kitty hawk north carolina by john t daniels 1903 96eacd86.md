@@ -1,7 +1,7 @@
 ---
 title: "first flight 120 feet in 12 seconds 10 35 a m kitty hawk north carolina by john t daniels 1903"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg"
 source_relpath: "1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg"
 collection: "1900s"
 inferred_year: "1903"
@@ -22,4 +22,14 @@ Artist: [[Artist - john t daniels]]
 
 Source: [[media/strauh.al3.1/1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/first_flight_120_feet_in_12_seconds_10_35_a_m_kitty_hawk_north_carolina_by_john_t_daniels_1903.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: flight
+- [[knowledge/wiki/images/painting of feet in a bathtub under a running faucet 8b5282be|painting of feet in a bathtub under a running faucet]] — shared language: feet
+- [[knowledge/wiki/books/my-first-book-honor-levy|Honor Levy]] — shared language: first
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+<!-- vault-crosslinks:end -->

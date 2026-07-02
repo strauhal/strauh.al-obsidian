@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-human-hand|Artist - a human hand]] — shared language: hand, human
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human, like
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: human, like
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: human
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: hand
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edouard vuillard 1914|Artist - edouard vuillard 1914]] — named in this note
 - [[knowledge/wiki/artists/Artist - jean edouard vuillard|Artist - jean edouard vuillard]] — shared language: vuillard, edouard
 - [[knowledge/wiki/images/le baiser the kiss by jean edouard vuillard c 1893 6bfa2583|le baiser the kiss by jean edouard vuillard c 1893]] — shared language: vuillard, edouard
+- [[knowledge/wiki/images/jardins publics by edouard vuillard 1894 ef6d31c7|jardins publics by edouard vuillard 1894]] — shared language: vuillard, edouard
 - [[knowledge/wiki/images/square vintimille la nuit by edouard vuillard 1914 7825cef6|square vintimille la nuit by edouard vuillard 1914]] — shared language: vuillard, edouard
-- [[knowledge/wiki/images/edouard vuillard public gardens google art project jpg 09dc205a|edouard vuillard public gardens google art project jpg]] — shared language: vuillard, edouard
 <!-- vault-crosslinks:end -->

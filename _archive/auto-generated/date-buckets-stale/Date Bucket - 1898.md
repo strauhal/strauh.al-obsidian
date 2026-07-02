@@ -50,3 +50,11 @@ Files: 19
 ![[media/strauh.al3.1/1800s/two_dancers_by_edgar_degas_c_1898.jpeg]]
 
 ![[media/strauh.al3.1/comics/IMG_1898.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1897|Date Bucket - 1897]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1899|Date Bucket - 1899]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

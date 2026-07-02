@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/1900s/the_well_by_michael_parkes_1990.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_world_of_the_word_by_toshio_iwai_1990.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1989|Date Bucket - 1989]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1991|Date Bucket - 1991]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

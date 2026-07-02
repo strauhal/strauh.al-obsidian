@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - lygia pape|Artist - lygia pape]] — named in this note
-- [[knowledge/wiki/images/abstract drawing of interlocking geometric shapes composed of horizontal black lines d0ba27db|abstract drawing of interlocking geometric shapes composed of horizontal black lines]] — shared language: horizontal, geometric, lines
+- [[knowledge/wiki/images/abstract drawing of interlocking geometric shapes composed of horizontal black lines d0ba27db|abstract drawing of interlocking geometric shapes composed of horizontal black lines]] — shared language: horizontal, lines, geometric
 - [[knowledge/wiki/images/black and beige geometric print of interlocking parallelograms aef8933a|black and beige geometric print of interlocking parallelograms]] — shared language: print, geometric
 - [[knowledge/wiki/images/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
-- [[knowledge/wiki/images/drawing of a dense geometric grid pattern composed of black lines forming triangles on a light background 858fa88d|drawing of a dense geometric grid pattern composed of black lines forming triangles on a light background]] — shared language: forming, geometric, lines
+- [[knowledge/wiki/images/drawing of a dense geometric grid pattern composed of black lines forming triangles on a light background 858fa88d|drawing of a dense geometric grid pattern composed of black lines forming triangles on a light background]] — shared language: forming, lines, geometric
 - [[knowledge/wiki/images/abstract composition with black horizontal stripes forming a wavy shape 68652ca6|abstract composition with black horizontal stripes forming a wavy shape]] — shared language: forming, horizontal
 <!-- vault-crosslinks:end -->

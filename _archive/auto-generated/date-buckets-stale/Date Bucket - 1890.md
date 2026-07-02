@@ -60,3 +60,11 @@ Files: 26
 ![[media/strauh.al3.1/1800s/the_prison_courtyard_by_vincent_van_gogh_1890.jpg]]
 
 ![[media/strauh.al3.1/1800s/view_of_auvers_sur_oise_by_vincent_van_gogh_1890.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1889|Date Bucket - 1889]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1891|Date Bucket - 1891]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

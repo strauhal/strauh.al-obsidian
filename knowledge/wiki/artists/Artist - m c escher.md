@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[regular division of the plane vi by m c escher 1938 ea9a0659|regular division of the plane vi by m c escher 1938]]
 - [[rippled surface by m c escher 1950 9cf2d1c4|rippled surface by m c escher 1950]]
 - [[waterfall by m c escher 1961 9bc736fe|waterfall by m c escher 1961]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
+- [[knowledge/wiki/images/mc escher snakes 1969 186361ca|mc escher snakes 1969]] — shared language: escher
+- [[knowledge/wiki/images/regular division of the plane v by maurits cornelis escher 1941 5415dc80|regular division of the plane v by maurits cornelis escher 1941]] — shared language: escher, regular, division
+- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
+- [[knowledge/wiki/images/escher 34cb06a4|escher]] — shared language: escher
+- [[knowledge/wiki/artists/Artist - maurits cornelis escher|Artist - maurits cornelis escher]] — shared language: escher, regular, division
+<!-- vault-crosslinks:end -->

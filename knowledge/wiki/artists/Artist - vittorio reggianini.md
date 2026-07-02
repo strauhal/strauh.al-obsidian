@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[a conversation by vittorio reggianini c 1900 dd535e68|a conversation by vittorio reggianini c 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - virgil finlay|Artist - virgil finlay]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - vladimir bonacic|Artist - vladimir bonacic]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - vincent van gogh|Artist - vincent van gogh]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

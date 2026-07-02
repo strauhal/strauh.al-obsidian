@@ -44,6 +44,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — same category: music sound
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — same category: music sound
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — same category: music sound
-- [[knowledge/wiki/books/imslp768707-pmlp3267-j-s-bach-15-inventions-contrapunctus-press|15 Inventions - Contrapunctus Press]] — same category: music sound
 - [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — same category: music sound
+- [[knowledge/wiki/books/imslp768707-pmlp3267-j-s-bach-15-inventions-contrapunctus-press|15 Inventions - Contrapunctus Press]] — same category: music sound
 <!-- vault-crosslinks:end -->

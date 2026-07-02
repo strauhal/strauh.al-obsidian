@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[cityscape i formerly landscape i by richard diebenkorn 1963 563a349e|cityscape i formerly landscape i by richard diebenkorn 1963]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
+- [[knowledge/wiki/images/richard diebenkorn potrero hill 1955 a06cf7f8|richard diebenkorn potrero hill 1955]] — shared language: diebenkorn, richard
+- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard
+- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: richard
+- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: richard
+<!-- vault-crosslinks:end -->

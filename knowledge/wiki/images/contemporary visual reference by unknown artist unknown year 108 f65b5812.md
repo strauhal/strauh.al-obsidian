@@ -1,0 +1,33 @@
+---
+title: "contemporary visual reference by unknown artist unknown year 108"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/contemporary_visual_reference_by_unknown_artist_unknown_year_108.png"
+source_relpath: "2000s/contemporary_visual_reference_by_unknown_artist_unknown_year_108.png"
+collection: "2000s"
+inferred_year: "2000s"
+artist: "unknown artist unknown year"
+dimensions: "1280x1280"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# contemporary visual reference by unknown artist unknown year 108
+
+![[media/strauh.al3.1/2000s/contemporary_visual_reference_by_unknown_artist_unknown_year_108.png]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: [[Artist - unknown artist unknown year]]
+
+Source: [[media/strauh.al3.1/2000s/contemporary_visual_reference_by_unknown_artist_unknown_year_108.png|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/contemporary_visual_reference_by_unknown_artist_unknown_year_108.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 068 f39c00c0|contemporary visual reference by unknown artist unknown year 068]] — same artist: artist year
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 069 72cc65e0|contemporary visual reference by unknown artist unknown year 069]] — same artist: artist year
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 070 08158e18|contemporary visual reference by unknown artist unknown year 070]] — same artist: artist year
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 071 5b816238|contemporary visual reference by unknown artist unknown year 071]] — same artist: artist year
+- [[knowledge/wiki/images/contemporary visual reference by unknown artist unknown year 072 ef1d182f|contemporary visual reference by unknown artist unknown year 072]] — same artist: artist year
+<!-- vault-crosslinks:end -->

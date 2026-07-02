@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1800s/the_expulsion_from_paradise_by_gustave_dore_1866.png]]
 
 ![[media/strauh.al3.1/1800s/the_vision_of_the_valley_of_dry_bones_by_gustave_dore_1866.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1865|Date Bucket - 1865]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1867|Date Bucket - 1867]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

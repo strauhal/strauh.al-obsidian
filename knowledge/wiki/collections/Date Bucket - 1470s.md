@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1400s/the_virgin_in_prayer_by_dieric_bouts_c_1470.jpeg]]
 
 ![[media/strauh.al3.1/comics/IMG_1474.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1460s|Date Bucket - 1460s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1480s|Date Bucket - 1480s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

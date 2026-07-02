@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1900s/the_old_river_running_by_ben_lomond_calif_by_l_a_faile_1926.jpeg]]
 
 ![[media/strauh.al3.1/2023_downloadsfolder/IMG_1926.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1925|Date Bucket - 1925]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1927|Date Bucket - 1927]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

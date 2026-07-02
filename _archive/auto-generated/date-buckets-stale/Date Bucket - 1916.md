@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/the_decameron_by_john_william_waterhouse_1916.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_rope_dancer_accompanies_herself_with_her_shadows_by_man_ray_1916.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1915|Date Bucket - 1915]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1917|Date Bucket - 1917]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

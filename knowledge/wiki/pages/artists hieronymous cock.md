@@ -1,10 +1,10 @@
 ---
 title: "artists hieronymous cock"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/hieronymous_cock.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/hieronymous_cock.html"
 source_relpath: "artists/hieronymous_cock.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists hieronymous cock
@@ -30,3 +30,16 @@ strauh.al/artists/hieronymous_cock
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/54036 dd04e9b0|54036]] — shared language: artists, hieronymous, cock
+- [[knowledge/wiki/images/Hieronymus Cock 2ddf967c|Hieronymus Cock]] — shared language: cock, artists, hieronymus
+- [[knowledge/wiki/images/Cock Mercury and Argus sheet small ca8c2239|Cock Mercury and Argus sheet small]] — shared language: cock, artists, mercury
+- [[knowledge/wiki/images/Barrett5.2 FI 08b3a1de|Barrett5.2 FI]] — shared language: artists, hieronymous, cock
+- [[knowledge/wiki/images/DP823111 5e4c2b6f|DP823111]] — shared language: artists, hieronymous, cock
+- [[knowledge/wiki/images/DP825988 cacd0a68|DP825988]] — shared language: artists, hieronymous, cock
+- [[knowledge/wiki/images/DP828807 2a809324|DP828807]] — shared language: artists, hieronymous, cock
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: artists, none, related
+<!-- vault-crosslinks:end -->

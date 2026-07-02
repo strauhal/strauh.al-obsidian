@@ -60,3 +60,11 @@ Files: 27
 ![[media/strauh.al3.1/1900s/the_camp_by_n_c_wyeth_1910.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_cellist_by_egon_schiele_1910.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1909|Date Bucket - 1909]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1911|Date Bucket - 1911]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

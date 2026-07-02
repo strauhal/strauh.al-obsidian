@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1700s/portrait_of_the_violinist_pierre_gavinies_by_joseph_ducreux_c_1765.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_misses_paine_by_sir_joshua_reynolds_c_1765.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1763|Date Bucket - 1763]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1767|Date Bucket - 1767]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

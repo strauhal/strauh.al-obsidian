@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the battle for the soul of the world by norspac 2022 feb0bd72|the battle for the soul of the world by norspac 2022]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/images/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
+- [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: soul
+- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: battle
+- [[knowledge/wiki/books/elliot-rodger-my-twisted-world|My Twisted World]] — shared language: world
+<!-- vault-crosslinks:end -->

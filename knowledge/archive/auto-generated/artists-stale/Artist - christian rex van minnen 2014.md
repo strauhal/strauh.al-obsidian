@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - christian rex van minnen|Artist - christian rex van minnen]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christian rex van minnen 2013|Artist - christian rex van minnen 2013]] — named in this note
 - [[knowledge/wiki/images/the mirror by christian rex van minnen 2013 9854a1e9|the mirror by christian rex van minnen 2013]] — shared language: rex, minnen, christian
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van, study
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

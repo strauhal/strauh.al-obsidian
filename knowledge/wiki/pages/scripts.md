@@ -1,10 +1,10 @@
 ---
 title: "scripts"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/scripts.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/scripts.html"
 source_relpath: "scripts.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # scripts
@@ -40,3 +40,16 @@ strauh.al/scripts
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: scripts, none, related
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/san francisco|san francisco]] — shared language: txt.txt, none, related
+- [[knowledge/wiki/images/ezgif.com resize f1cec9c6|ezgif.com resize]] — shared language: resize
+- [[knowledge/raw/about|About strauh.al]] — shared language: scripts, rename
+- [[knowledge/wiki/pages/random quote|random quote]] — shared language: none, related, yet
+<!-- vault-crosslinks:end -->

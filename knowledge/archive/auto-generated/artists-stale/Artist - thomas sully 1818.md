@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
 - [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy thomas 2018|Artist - andy thomas 2018]] — shared language: thomas
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: thomas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1837|Artist - thomas cole 1837]] — shared language: thomas
 <!-- vault-crosslinks:end -->

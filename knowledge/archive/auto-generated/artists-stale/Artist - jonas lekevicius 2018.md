@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - jonas lekevicius|Artist - jonas lekevicius]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: jonas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: jonas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: jonas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: jonas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2019|Artist - jonas wood 2019]] — shared language: jonas
 - [[knowledge/wiki/images/the click by jonas wood 2019 e253761a|the click by jonas wood 2019]] — shared language: jonas
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/marcel duchamp 1919 l h o o q jpg 510edb42|marcel duchamp 1919 l h o o q jpg]] — shared language: duchamp, marcel
 - [[knowledge/wiki/images/soldier ordering important abstraction to attack the left and diagrammatic drawing with text by marcel duchamp 1914 d8d4a4c3|soldier ordering important abstraction to attack the left and diagrammatic drawing with text by marcel duchamp 1914]] — shared language: duchamp, marcel
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: marcel
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: marcel
+- [[knowledge/wiki/images/marcel proust 53d13fd9|marcel proust]] — shared language: marcel
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - julian naito|Artist - julian naito]] — named in this note
+- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian story 1904|Artist - julian story 1904]] — shared language: julian
 - [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian schnabel 1991|Artist - julian schnabel 1991]] — shared language: julian
-- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: julian
 <!-- vault-crosslinks:end -->

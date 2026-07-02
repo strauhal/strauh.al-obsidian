@@ -50,3 +50,11 @@ Files: 19
 ![[media/strauh.al3.1/2023_downloadsfolder/VirtualBox_95 clonar_19_12_2022_23_09_16.png]]
 
 ![[media/strauh.al3.1/gif_collection/11-Copyright__Julia_Schimautz_2022.gif]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2021|Date Bucket - 2021]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2023|Date Bucket - 2023]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

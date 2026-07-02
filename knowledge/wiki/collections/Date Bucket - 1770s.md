@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1700s/the_sick_woman_by_jean_honore_fragonard_c_1770_1775.jpeg]]
 
 ![[media/strauh.al3.1/1700s/watson_and_the_shark_by_john_singleton_copley_1778.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1760s|Date Bucket - 1760s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1780s|Date Bucket - 1780s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

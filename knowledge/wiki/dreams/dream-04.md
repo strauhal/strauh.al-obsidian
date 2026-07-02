@@ -39,3 +39,16 @@ This note is an index and reflection surface. The complete first-person account 
 ## Reflection
 
 No fixed interpretation has been assigned. Add remembered details, waking associations, or later resonances here.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: marriage, flight, dreams
+- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: version
+- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
+- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

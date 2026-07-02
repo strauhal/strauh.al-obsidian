@@ -22,8 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - fernand leger|Artist - fernand leger]] — named in this note
 - [[knowledge/wiki/images/Les Glaneuses a5bb4d7c|Les Glaneuses]] — shared language: les
-- [[knowledge/wiki/images/Taureau dans les Alpes oil painting 1884 ba7e2865|Taureau dans les Alpes oil painting 1884]] — shared language: les
 - [[knowledge/wiki/images/pablo picasso les demoiselles davignon 1907 38a86cf2|pablo picasso les demoiselles davignon 1907]] — shared language: les
-- [[knowledge/wiki/images/Les Anes dans le Midi 715242fa|Les Anes dans le Midi]] — shared language: les
 - [[knowledge/wiki/images/deux jeunes filles lisant by jean baptiste camille corot c 1855 1860 196c8fce|deux jeunes filles lisant by jean baptiste camille corot c 1855 1860]] — shared language: deux
+- [[knowledge/wiki/images/ren magritte les amants 1928 a9a9dec1|ren magritte les amants 1928]] — shared language: les
 <!-- vault-crosslinks:end -->

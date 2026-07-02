@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[the knight of the flowers by herbert james draper 1911 03dc5bed|the knight of the flowers by herbert james draper 1911]]
 - [[the water baby by herbert james draper 1900 3bca7f86|the water baby by herbert james draper 1900]]
 - [[ulysses and the sirens by herbert james draper 1909 461ce8bb|ulysses and the sirens by herbert james draper 1909]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Aurora ad69604a|Aurora]] — named in this note
+- [[knowledge/wiki/images/herbert james draper clyties of the mist jpg 68650d32|herbert james draper clyties of the mist jpg]] — shared language: draper, herbert, james
+- [[knowledge/wiki/images/herbert james draper calypso 1897 1efad66e|herbert james draper calypso 1897]] — shared language: draper, herbert, james
+- [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: herbert
+- [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
+- [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james
+<!-- vault-crosslinks:end -->

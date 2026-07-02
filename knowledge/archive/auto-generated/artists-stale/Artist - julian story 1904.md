@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — named in this note
-- [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian, portrait
-- [[knowledge/archive/auto-generated/artists-stale/Artist - julian schnabel 1991|Artist - julian schnabel 1991]] — shared language: julian, portrait
+- [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian
+- [[knowledge/archive/auto-generated/artists-stale/Artist - julian schnabel 1991|Artist - julian schnabel 1991]] — shared language: julian
 - [[knowledge/wiki/artists/Artist - julian naito|Artist - julian naito]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian naito 2011|Artist - julian naito 2011]] — shared language: julian
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — shared language: story

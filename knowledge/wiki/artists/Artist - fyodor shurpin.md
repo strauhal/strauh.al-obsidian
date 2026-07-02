@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[self portrait by fyodor shurpin 1950 474cf60c|self portrait by fyodor shurpin 1950]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - fyodor bronnikov|Artist - fyodor bronnikov]] — shared language: fyodor
+- [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
+- [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: fyodor
+- [[knowledge/wiki/images/the demon and the angel by fyodor bronnikov 1864 478d9ede|the demon and the angel by fyodor bronnikov 1864]] — shared language: fyodor
+- [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
+- [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — shared language: self
+<!-- vault-crosslinks:end -->

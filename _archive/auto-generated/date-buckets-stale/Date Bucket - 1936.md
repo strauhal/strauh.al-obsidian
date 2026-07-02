@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1900s/snow_at_kiyomizu_temple_by_tsuchiya_koyo_1936.jpg]]
 
 ![[media/strauh.al3.1/1900s/walker_evans_alabama_tenant_farmer_wife_1936.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1935|Date Bucket - 1935]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1937|Date Bucket - 1937]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

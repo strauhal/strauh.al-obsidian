@@ -1,7 +1,7 @@
 ---
 title: "parallax metadata"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/parallax metadata.png"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/parallax metadata.png"
 source_relpath: "2024_downloadsfolder/parallax metadata.png"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/parallax metadata.png|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/parallax metadata.png`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/parallax metadata.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: metadata
+- [[knowledge/README|README]] — shared language: metadata
+- [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: metadata
+<!-- vault-crosslinks:end -->

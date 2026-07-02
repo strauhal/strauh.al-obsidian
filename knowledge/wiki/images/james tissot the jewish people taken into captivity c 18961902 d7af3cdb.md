@@ -1,7 +1,7 @@
 ---
 title: "james tissot the jewish people taken into captivity c 18961902"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg"
 source_relpath: "2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/james_tissot_the_jewish_people_taken_into_captivity_c_18961902.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: people
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: people
+<!-- vault-crosslinks:end -->

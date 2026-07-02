@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[reiter auf blauem pferd mit rehen by franz marc 1913 de296284|reiter auf blauem pferd mit rehen by franz marc 1913]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: marc, franz
+- [[knowledge/wiki/artists/Artist - marc simonetti|Artist - marc simonetti]] — shared language: marc
+- [[knowledge/wiki/images/the golden city by marc simonetti 2016 5299ced5|the golden city by marc simonetti 2016]] — shared language: marc
+- [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz hanfstaengl|Artist - franz hanfstaengl]] — shared language: franz
+<!-- vault-crosslinks:end -->

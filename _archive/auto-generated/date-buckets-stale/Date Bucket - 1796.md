@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1700s/george_washington_the_lansdowne_portrait_by_gilbert_stuart_1796.jpg]]
 
 ![[media/strauh.al3.1/1700s/the_ghost_of_oiwa_played_by_onoe_matsusuke_i_by_utagawa_toyokuni_i_c_1796.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1795|Date Bucket - 1795]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1798|Date Bucket - 1798]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - louis leopold boilly|Artist - louis leopold boilly]] — shared language: leopold
 - [[knowledge/wiki/images/portrait of jean baptiste joseph fourier by louis leopold boilly c 1820 6883f5c4|portrait of jean baptiste joseph fourier by louis leopold boilly c 1820]] — shared language: leopold
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — shared language: leopold
-- [[knowledge/wiki/images/log log plot showing validation loss versus compute with parameter color scale aa6b794d|log log plot showing validation loss versus compute with parameter color scale]] — shared language: compute
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — shared language: base
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base
 <!-- vault-crosslinks:end -->

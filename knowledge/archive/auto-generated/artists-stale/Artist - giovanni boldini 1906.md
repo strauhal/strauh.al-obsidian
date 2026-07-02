@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni baglione|Artist - giovanni baglione]] — shared language: giovanni
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giovanni baglione 1602|Artist - giovanni baglione 1602]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

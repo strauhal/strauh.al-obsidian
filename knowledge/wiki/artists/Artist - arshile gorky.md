@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[portrait of a young man by arshile gorky 1937 3717457c|portrait of a young man by arshile gorky 1937]]
 - [[portrait of vartoosh by arshile gorky 1933 83992339|portrait of vartoosh by arshile gorky 1933]]
 - [[the liver is the cock s comb by arshile gorky 1944 1efe2be6|the liver is the cock s comb by arshile gorky 1944]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
+- [[knowledge/wiki/images/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: man, young
+- [[knowledge/wiki/images/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: man, young
+- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: man, young
+- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: man, young
+- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
+<!-- vault-crosslinks:end -->

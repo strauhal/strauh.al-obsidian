@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1600s/interior_dome_and_muqarnas_of_sheikh_lotfollah_mosque_isfahan_c_1619.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1618|Date Bucket - 1618]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1620|Date Bucket - 1620]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/waterbearer_by_emma_amos_1977.jpeg]]
 
 ![[media/strauh.al3.1/unsorted/allegory_of_the_planets_and_continents_met_1977_1_3_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1976|Date Bucket - 1976]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1978|Date Bucket - 1978]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

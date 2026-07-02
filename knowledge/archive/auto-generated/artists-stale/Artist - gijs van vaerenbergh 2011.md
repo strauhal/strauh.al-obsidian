@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - gijs van vaerenbergh|Artist - gijs van vaerenbergh]] — named in this note
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1885|Artist - vincent van gogh 1885]] — shared language: van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1886|Artist - vincent van gogh 1886]] — shared language: van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1659|Artist - rembrandt van rijn 1659]] — shared language: van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1635|Artist - rembrandt van rijn 1635]] — shared language: van
 <!-- vault-crosslinks:end -->

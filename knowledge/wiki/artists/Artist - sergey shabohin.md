@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[enter by sergey shabohin 2011 81ce9f14|enter by sergey shabohin 2011]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - seo young deok|Artist - seo young deok]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - shang xi ming dynasty|Artist - shang xi ming dynasty]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - sentrock|Artist - sentrock]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

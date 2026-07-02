@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[expressionistic painting of a nude woman with red hair surrounded by red flowers bacb9d7f|expressionistic painting of a nude woman with red hair surrounded by red flowers]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/framed painting of a red reclining nude in flowers 64bdff46|framed painting of a red reclining nude in flowers]] — shared language: flowers, red, nude
+- [[knowledge/wiki/artists/Artist - flowers|Artist - flowers]] — shared language: flowers, surrounded
+- [[knowledge/wiki/images/moody photo of red flowers against dark background 8cd00314|moody photo of red flowers against dark background]] — shared language: flowers, red
+- [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
+- [[knowledge/wiki/images/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: flowers, red
+- [[knowledge/wiki/images/black and white relief print of a hare surrounded by flowers 62917a06|black and white relief print of a hare surrounded by flowers]] — shared language: flowers, surrounded
+<!-- vault-crosslinks:end -->

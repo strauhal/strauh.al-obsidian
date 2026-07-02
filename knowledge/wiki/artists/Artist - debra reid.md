@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[beachtime by debra reid fb69d233|beachtime by debra reid]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - debra reid jenkins|Artist - debra reid jenkins]] — shared language: debra, reid
+- [[knowledge/wiki/images/dreaming of mavericks by debra reid jenkins 5267a0f9|dreaming of mavericks by debra reid jenkins]] — shared language: debra, reid
+- [[knowledge/wiki/artists/Artist - delphi fabrice|Artist - delphi fabrice]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

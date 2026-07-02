@@ -1,7 +1,7 @@
 ---
 title: "RWS Tarot 00 Fool"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/RWS_Tarot_00_Fool.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/RWS_Tarot_00_Fool.jpg"
 source_relpath: "2023_downloadsfolder/RWS_Tarot_00_Fool.jpg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/RWS_Tarot_00_Fool.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/RWS_Tarot_00_Fool.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/RWS_Tarot_00_Fool.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/mural for the apple boutique by the fool 1967 d3a775fc|mural for the apple boutique by the fool 1967]] — shared language: fool
+- [[knowledge/wiki/images/the fool by pamela colman smith 1909 8dcd0825|the fool by pamela colman smith 1909]] — shared language: fool
+- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: fool
+<!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - fra damiano da bergamo|Artist - fra damiano da bergamo]] — named in this note
+- [[knowledge/wiki/images/the annunciation by fra angelico c 1440 1445 b554f150|the annunciation by fra angelico c 1440 1445]] — shared language: fra
 - [[knowledge/wiki/artists/Artist - fra angelico|Artist - fra angelico]] — shared language: fra
 - [[knowledge/wiki/images/the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446 203038c9|the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446]] — shared language: fra
 - [[knowledge/wiki/images/the last supper by r h quaytman 2018 91218f2b|the last supper by r h quaytman 2018]] — shared language: supper, last
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: last
 - [[knowledge/wiki/images/the last supper by omar hassan 2021 d1063f2f|the last supper by omar hassan 2021]] — shared language: supper, last
 <!-- vault-crosslinks:end -->

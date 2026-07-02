@@ -7,8 +7,8 @@ status: queued
 queue_order: 19
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Tomie
@@ -36,6 +36,6 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/images/tomie the painter panel by junji ito 1997 a638d25f|tomie the painter panel by junji ito 1997]] — shared language: tomie, junji, ito
 - [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: tomie, junji, ito
 - [[knowledge/wiki/images/tomie painter manga panels by junji ito 1997 284491e8|tomie painter manga panels by junji ito 1997]] — shared language: tomie, junji, ito
-- [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, encounter
+- [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
 <!-- vault-crosslinks:end -->

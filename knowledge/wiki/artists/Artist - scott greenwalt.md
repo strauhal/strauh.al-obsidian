@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the end is near by scott greenwalt 2022 883c85f0|the end is near by scott greenwalt 2022]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — named in this note
+- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott naismith|Artist - scott naismith]] — shared language: scott
+- [[knowledge/wiki/images/the night shift by scott green 2022 2532d700|the night shift by scott green 2022]] — shared language: scott
+<!-- vault-crosslinks:end -->

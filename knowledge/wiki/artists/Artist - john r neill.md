@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[princess ozma by john r neill 1909 08c4ee40|princess ozma by john r neill 1909]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/images/interior of the o neill cylinder by rick guidice 1975 e261b2df|interior of the o neill cylinder by rick guidice 1975]] — shared language: neill
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
+<!-- vault-crosslinks:end -->

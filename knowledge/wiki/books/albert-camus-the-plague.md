@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — same author: albert camus
 - [[knowledge/wiki/books/albert-camus-exile-and-the-kingdom|Exile and the Kingdom]] — same author: albert camus
 - [[knowledge/wiki/books/albert-camus-the-myth-of-sisyphus-and-other-essays|The Myth of Sisyphus And Other Essays]] — same author: albert camus
-- [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
-- [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — same category: literature
+- [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 <!-- vault-crosslinks:end -->

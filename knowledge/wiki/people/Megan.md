@@ -30,3 +30,16 @@ without having to talk around her.
 - [[nyce]]
 - [[portraits]]
 - [[diary]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/new-mexico|new mexico]] — named in this note
+- [[knowledge/wiki/images/wedding 55ff7e55|wedding]] — named in this note
+- [[knowledge/wiki/anchors/banquet|banquet]] — named in this note
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/images/megan 1b531387|megan]] — shared language: megan, portraits
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: belongs, rest, page
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: megan, dreams, vault
+<!-- vault-crosslinks:end -->

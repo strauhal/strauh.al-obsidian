@@ -46,3 +46,14 @@ Images attributed by filename: 11
 - [[red and pink poppies by emil nolde 1920 19f53807|red and pink poppies by emil nolde 1920]]
 - [[wildly dancing children by emil nolde 1909 6176ea11|wildly dancing children by emil nolde 1909]]
 - [[zwei frauen im garten two women in the garden by emil nolde 1915 a89cbb30|zwei frauen im garten two women in the garden by emil nolde 1915]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/emil-gilels|Emil Gilels]] — shared language: emil
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: nolde, emil, der
+- [[knowledge/wiki/artists/Artist - emil otto hoppe|Artist - emil otto hoppe]] — shared language: emil
+- [[knowledge/wiki/images/giacomo puccini by emil otto hoppe c 1910 e3e2064a|giacomo puccini by emil otto hoppe c 1910]] — shared language: emil
+- [[knowledge/wiki/images/1983 1047 adam and eve in paradise jpg c2ec0c5e|1983 1047 adam and eve in paradise jpg]] — shared language: eve, adam
+- [[knowledge/wiki/images/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children, women
+<!-- vault-crosslinks:end -->

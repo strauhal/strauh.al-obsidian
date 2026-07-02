@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg]]
 
 ![[media/strauh.al3.1/unnamed/Taureau_dans_les_Alpes_oil_painting_1884.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1883|Date Bucket - 1883]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1885|Date Bucket - 1885]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

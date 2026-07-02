@@ -265,3 +265,16 @@ Files: 427
 - [[GXD8cT1bYAAs sC b9b29976|GXD8cT1bYAAs sC]]
 
 _Only the first 200 image notes are listed here; search covers all 427._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/images/metalocus tadao ando iglesia de la luz 32 a 49c1a828|metalocus tadao ando iglesia de la luz 32 a]] — shared language: tadao, ando
+- [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: iannis, xenakis
+- [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — shared language: listed, search, first
+- [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — shared language: covers
+- [[knowledge/wiki/images/1597424260214 2bcf978e|1597424260214]] — shared language: covers
+- [[knowledge/wiki/images/1613015135325 42554d2b|1613015135325]] — shared language: covers
+<!-- vault-crosslinks:end -->

@@ -24,5 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: ivanov
 - [[knowledge/wiki/images/study of the travelers for the appearance of christ to the people by alexander ivanov c 1840 1850 a8470980|study of the travelers for the appearance of christ to the people by alexander ivanov c 1840 1850]] — shared language: ivanov
 - [[knowledge/wiki/images/booth heavenly hills jpg 8d952fce|booth heavenly hills jpg]] — shared language: heavenly
+- [[knowledge/wiki/images/franklin booth heavenly hills illustration b17a6882|franklin booth heavenly hills illustration]] — shared language: heavenly
 - [[knowledge/wiki/images/the virgin adoring the host by jean auguste dominique ingres 1852 22d8b0d1|the virgin adoring the host by jean auguste dominique ingres 1852]] — shared language: host
 <!-- vault-crosslinks:end -->

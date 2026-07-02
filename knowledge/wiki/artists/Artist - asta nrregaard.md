@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of the artist s sister helga nrregaard by asta nrregaard 1890 636e425c|portrait of the artist s sister helga nrregaard by asta nrregaard 1890]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: sister
+- [[knowledge/wiki/artists/Artist - arthur rothstein|Artist - arthur rothstein]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - atab mayawa|Artist - atab mayawa]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

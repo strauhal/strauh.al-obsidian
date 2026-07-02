@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[a moor by josep tapiro i baro c 1880 b66488c2|a moor by josep tapiro i baro c 1880]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - josef albers|Artist - josef albers]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[portrait of vladimir mayakovsky by alexander rodchenko 1924 eb10057a|portrait of vladimir mayakovsky by alexander rodchenko 1924]]
 - [[the dam by alexander rodchenko 1930 634c9555|the dam by alexander rodchenko 1930]]
 - [[the team by alexander rodchenko 1930 2ef7707b|the team by alexander rodchenko 1930]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: alexander
+- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander roslin|Artist - alexander roslin]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: alexander
+<!-- vault-crosslinks:end -->

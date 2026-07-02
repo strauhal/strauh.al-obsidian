@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[o que e arte by paulo bruscky 1978 04c35818|o que e arte by paulo bruscky 1978]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - paula modersohn becker|Artist - paula modersohn becker]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - paulus pontius|Artist - paulus pontius]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - paul wonner|Artist - paul wonner]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

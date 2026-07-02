@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1907|Artist - george bellows 1907]] — shared language: george
+- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george ault 1926|Artist - george ault 1926]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george ault 1922|Artist - george ault 1922]] — shared language: george

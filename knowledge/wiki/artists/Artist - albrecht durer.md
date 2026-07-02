@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[saint anthony reading by albrecht durer 1519 6ee10ec8|saint anthony reading by albrecht durer 1519]]
 - [[study of a woman in nuremberg costume by albrecht durer c 1500 58ef2bc0|study of a woman in nuremberg costume by albrecht durer c 1500]]
 - [[the virgin and child on the crescent by albrecht durer c 1508 4e302bda|the virgin and child on the crescent by albrecht durer c 1508]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - albrecht altdorfer|Artist - albrecht altdorfer]] — shared language: albrecht
+- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: albrecht, durer, anthony
+- [[knowledge/wiki/images/the battle of issus by albrecht altdorfer 1529 332f93f4|the battle of issus by albrecht altdorfer 1529]] — shared language: albrecht
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: madonna, saint
+- [[knowledge/wiki/pages/art|art]] — shared language: albrecht, anthony, saint
+- [[knowledge/wiki/images/the whore of babylon by michael wolgemut and wilhelm pleydenwurff 1493 de0a6a0e|the whore of babylon by michael wolgemut and wilhelm pleydenwurff 1493]] — shared language: babylon, whore
+<!-- vault-crosslinks:end -->

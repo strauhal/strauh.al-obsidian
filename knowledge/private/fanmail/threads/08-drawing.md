@@ -36,11 +36,11 @@ smile :>>
 ## Discovered Connections
 
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/12-my-drawing-i-made|Private Correspondence - 12 - My drawing i made]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/12-my-drawing-i-made|Private Correspondence - 12 - My drawing i made]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/14-name-change|Private Correspondence - 14 - Name change]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

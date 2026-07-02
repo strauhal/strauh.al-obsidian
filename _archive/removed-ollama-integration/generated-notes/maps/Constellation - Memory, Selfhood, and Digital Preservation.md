@@ -29,11 +29,11 @@ The impulse to archive and define selfhood across multiple media—from physical
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: archive, strauh.al, archives
-- [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: archive, strauh.al, media
-- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: archive, strauh.al
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: memory, chatgpt, archives
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, autofiction
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: selfhood, physical
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: selfhood, memory, digital
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: memory, autofiction, archive
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: archive, impulse, strauh.al
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: digital, web
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: memory, chatgpt, archives
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: memory, record
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: digital, physical, questions
 <!-- vault-crosslinks:end -->

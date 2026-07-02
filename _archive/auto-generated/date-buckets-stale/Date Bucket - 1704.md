@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1700s/portrait_of_the_artist_s_family_by_nicolas_de_largilliere_c_1704.jpg]]
 
 ![[media/strauh.al3.1/unsorted/brutalist_silence_co_working_office_interiors_annabell_kutucu_berlin_dezeen_1704_col_7_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1703|Date Bucket - 1703]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1714|Date Bucket - 1714]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

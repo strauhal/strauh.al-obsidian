@@ -624,8 +624,8 @@ also how arrogant of me to assume that i could even finish a sizable chunk of ph
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — named in this note
 - [[knowledge/wiki/images/allegory of the planets and continents met 1977 1 3 jpg 88f05de9|allegory of the planets and continents met 1977 1 3 jpg]] — named in this note
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
+- [[knowledge/wiki/images/allegory of the planets and continents met 1977 1defebf3|allegory of the planets and continents met 1977]] — named in this note
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — named in this note
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — named in this note
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
 <!-- vault-crosslinks:end -->

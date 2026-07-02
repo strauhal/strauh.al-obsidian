@@ -42,8 +42,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — same category: art aesthetics
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — same category: art aesthetics

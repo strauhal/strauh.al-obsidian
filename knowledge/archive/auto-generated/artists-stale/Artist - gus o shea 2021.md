@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - gus o shea|Artist - gus o shea]] — named in this note
 - [[knowledge/wiki/anchors/gus-van-sant|Gus Van Sant]] — shared language: gus
-- [[knowledge/wiki/images/drawing of two expressive facial studies in black marker and color accents 9a07260b|drawing of two expressive facial studies in black marker and color accents]] — shared language: facial, marker, drawing
 - [[knowledge/wiki/images/marker and ink sketch of a woman s head with blue eyes and brown hair 84201029|marker and ink sketch of a woman s head with blue eyes and brown hair]] — shared language: marker, ink, blue
+- [[knowledge/wiki/images/drawing of two expressive facial studies in black marker and color accents 9a07260b|drawing of two expressive facial studies in black marker and color accents]] — shared language: facial, marker
 - [[knowledge/wiki/images/two sketches of a woman s head in blue ink and reddish brown marker on brown paper 33271e4f|two sketches of a woman s head in blue ink and reddish brown marker on brown paper]] — shared language: marker, ink, blue
-- [[knowledge/wiki/images/stylized marker drawing of a character jumping with a spray can a96ffc77|stylized marker drawing of a character jumping with a spray can]] — shared language: marker, stylized, drawing
+- [[knowledge/wiki/images/stylized marker drawing of a character jumping with a spray can a96ffc77|stylized marker drawing of a character jumping with a spray can]] — shared language: marker, stylized
 <!-- vault-crosslinks:end -->

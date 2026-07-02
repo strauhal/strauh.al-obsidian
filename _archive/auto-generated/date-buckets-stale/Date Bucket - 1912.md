@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1912.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1911|Date Bucket - 1911]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1913|Date Bucket - 1913]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

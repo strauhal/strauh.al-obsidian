@@ -24,7 +24,7 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/images/fallen 84cf3b93|fallen]] — named in this note
-- [[knowledge/wiki/artists/Artist - leon golub|Artist - leon golub]] — shared language: golub, leon, fallen
+- [[knowledge/wiki/artists/Artist - leon golub|Artist - leon golub]] — shared language: golub, leon, warrior
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leon golub 1975|Artist - leon golub 1975]] — shared language: golub, leon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leon golub 1956|Artist - leon golub 1956]] — shared language: golub, leon
 - [[knowledge/wiki/images/head by leon golub 1975 0fa24ca1|head by leon golub 1975]] — shared language: golub, leon

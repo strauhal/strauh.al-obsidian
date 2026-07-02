@@ -16,3 +16,13 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[seiken densetsu 3 trials of mana cover art by hiroo isono 1995 f0d54d30|seiken densetsu 3 trials of mana cover art by hiroo isono 1995]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
+- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/no problem single cover art by chance the rapper 2016 f437377a|no problem single cover art by chance the rapper 2016]] — shared language: cover, art
+- [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: cover, art
+<!-- vault-crosslinks:end -->

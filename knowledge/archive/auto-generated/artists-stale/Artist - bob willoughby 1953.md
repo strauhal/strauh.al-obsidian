@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - bob willoughby|Artist - bob willoughby]] — named in this note
-- [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: bob
 - [[knowledge/wiki/images/oil painting of a girl with green eyes and bob hair against a red background c078053f|oil painting of a girl with green eyes and bob hair against a red background]] — shared language: bob
+- [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: bob
 - [[knowledge/wiki/artists/Artist - massimo vignelli and bob noorda|Artist - massimo vignelli and bob noorda]] — shared language: bob
 - [[knowledge/archive/auto-generated/artists-stale/Artist - massimo vignelli and bob noorda 1970|Artist - massimo vignelli and bob noorda 1970]] — shared language: bob
 - [[knowledge/wiki/images/bob dylan at breakfast paris by barry feinstein 1966 7ac1b356|bob dylan at breakfast paris by barry feinstein 1966]] — shared language: bob

@@ -1,10 +1,10 @@
 ---
 title: "comics"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/comics.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/comics.html"
 source_relpath: "comics.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # comics
@@ -173,3 +173,16 @@ strauh.al/comics
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Screenshots 2021 04 08 20 41 35 0c9d8544|Screenshots 2021 04 08 20 41 35]] — named in this note
+- [[knowledge/wiki/images/147378719 3706090259475920 3846741166612908716 n bdf93dfd|147378719 3706090259475920 3846741166612908716 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/21743235 522354954780101 5330403764447892523 n 2e537d81|21743235 522354954780101 5330403764447892523 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/240111945 10218557475440333 7544815377457412080 n 900c8267|240111945 10218557475440333 7544815377457412080 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/246450919 2947988348796795 476360920702996586 n 4b5b1d99|246450919 2947988348796795 476360920702996586 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/268757730 4623669681002263 4643145793952247695 n 84914498|268757730 4623669681002263 4643145793952247695 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/269745455 119357643914126 5741833660241581298 n 565d2390|269745455 119357643914126 5741833660241581298 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/272841818 484123096613732 3340846833853269440 n c837fec7|272841818 484123096613732 3340846833853269440 n]] — shared language: n.jpg
+<!-- vault-crosslinks:end -->

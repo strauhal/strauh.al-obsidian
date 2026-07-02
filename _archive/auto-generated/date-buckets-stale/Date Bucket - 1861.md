@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1800s/the_transformation_of_the_thieves_canto_xxv_by_gustave_dore_1861.jpg]]
 
 ![[media/strauh.al3.1/1800s/westward_the_course_of_empire_takes_its_way_by_emanuel_leutze_1861.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1860|Date Bucket - 1860]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1862|Date Bucket - 1862]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

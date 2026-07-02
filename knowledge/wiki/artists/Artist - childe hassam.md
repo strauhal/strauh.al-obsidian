@@ -34,3 +34,14 @@ Images attributed by filename: 7
 - [[rainy day in boston by childe hassam 1885 e437c23c|rainy day in boston by childe hassam 1885]]
 - [[rainy night new york by childe hassam 1890 f303feef|rainy night new york by childe hassam 1890]]
 - [[the bookstalls paris by childe hassam 1887 ce7873b0|the bookstalls paris by childe hassam 1887]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, night
+- [[knowledge/wiki/images/rainy day by pascal campion 2015 2f9111e5|rainy day by pascal campion 2015]] — shared language: rainy, day
+- [[knowledge/wiki/collections/Collection - 1800s|Collection - 1800s]] — shared language: childe, hassam, seine
+- [[knowledge/wiki/images/street 58d9c13c|street]] — shared language: street
+- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: day, night
+<!-- vault-crosslinks:end -->

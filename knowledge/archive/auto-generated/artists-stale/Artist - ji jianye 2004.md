@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ji jianye|Artist - ji jianye]] — named in this note
+- [[knowledge/wiki/images/split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head 9e0c3207|split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head]] — shared language: split, showing
 - [[knowledge/wiki/images/black and white ink drawing of four figures in a dramatic comic panel layout 722428a0|black and white ink drawing of four figures in a dramatic comic panel layout]] — shared language: four, panel, figures
-- [[knowledge/wiki/images/split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head 9e0c3207|split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head]] — shared language: split, showing, drawing
 - [[knowledge/wiki/images/three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165 f4f71363|three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165]] — shared language: musculature, figures
-- [[knowledge/wiki/images/four panel digital drawing tutorial of a stylized male head 4f23d939|four panel digital drawing tutorial of a stylized male head]] — shared language: four, panel, drawing
 - [[knowledge/wiki/images/two tone graphic print of modernist buildings red and blue 3b4ae73e|two tone graphic print of modernist buildings red and blue]] — shared language: tone, red
+- [[knowledge/wiki/images/panel 1 ed4f0fcd|panel 1]] — shared language: panel
 <!-- vault-crosslinks:end -->

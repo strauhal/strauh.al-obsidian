@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - eduardo risso|Artist - eduardo risso]] — shared language: eduardo
 - [[knowledge/wiki/images/black and white comic page depicting a noir street scene and confrontation by eduardo risso 6d816234|black and white comic page depicting a noir street scene and confrontation by eduardo risso]] — shared language: eduardo
 - [[knowledge/wiki/books/rooney-sally-normal-people-faber-faber|Normal People-Faber & Faber]] — shared language: sally
-- [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: forever
 - [[knowledge/wiki/images/IMG 0836 f43977e7|IMG 0836]] — shared language: old
+- [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: forever
 <!-- vault-crosslinks:end -->

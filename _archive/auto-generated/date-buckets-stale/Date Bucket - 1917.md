@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/the_king_of_the_land_of_the_young_by_harry_clarke_1917.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_west_wind_by_tom_thomson_1917.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1916|Date Bucket - 1916]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1918|Date Bucket - 1918]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

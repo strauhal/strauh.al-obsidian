@@ -1,7 +1,7 @@
 ---
 title: "outputMap0"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/outputMap0.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/outputMap0.jpg"
 source_relpath: "2023_downloadsfolder/outputMap0.jpg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/outputMap0.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/outputMap0.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/outputMap0.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/outputCollage2 afe24cfd|outputCollage2]] — nearby note in the same source series
+- [[knowledge/wiki/images/oval portrait of a young man in an eighteenth century coat 90e3bcb2|oval portrait of a young man in an eighteenth century coat]] — nearby note in the same source series
+- [[knowledge/wiki/images/output6 png 9f91971e|output6 png]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

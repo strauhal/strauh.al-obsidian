@@ -21,3 +21,13 @@ Artist: Unknown
 Source: [[media/strauh.al3.1/unsorted/goltzius_s_right_hand_jpg.jpg|source file]]
 
 Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/goltzius_s_right_hand_jpg.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the artists right hand by hendrick goltzius 1588 382f81bd|the artists right hand by hendrick goltzius 1588]] — shared language: goltzius, right, hand
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
+- [[knowledge/wiki/artists/Artist - hendrick goltzius|Artist - hendrick goltzius]] — shared language: goltzius, right, hand
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right
+- [[knowledge/wiki/images/the annunciation by hendrick goltzius 1594 8fc0932c|the annunciation by hendrick goltzius 1594]] — shared language: goltzius
+<!-- vault-crosslinks:end -->

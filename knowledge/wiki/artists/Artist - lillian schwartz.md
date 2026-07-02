@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[siren by lillian schwartz 1971 6d0f435d|siren by lillian schwartz 1971]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/frank and lillian gilbreth a3e73b46|frank and lillian gilbreth]] — shared language: lillian
+- [[knowledge/wiki/images/frank and lillian gilbreth 6c1f0d14|frank and lillian gilbreth]] — shared language: lillian
+- [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: lillian
+<!-- vault-crosslinks:end -->

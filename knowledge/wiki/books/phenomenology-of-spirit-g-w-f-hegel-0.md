@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — same category: philosophy
-- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — same category: philosophy
 - [[knowledge/wiki/books/alexandre-koja-ve-allan-bloom-james-h-nichols-introduction-to-the-reading-of-hegel-lectures-on-the-phenomenology-of-spirit-cornell-universit|Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press]] — same category: philosophy
+- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — same category: philosophy
 <!-- vault-crosslinks:end -->

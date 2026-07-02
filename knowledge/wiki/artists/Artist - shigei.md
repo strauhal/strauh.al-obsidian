@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[wafu by shigei 2019 079ae110|wafu by shigei 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - shepard fairey|Artist - shepard fairey]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - shen zhou|Artist - shen zhou]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

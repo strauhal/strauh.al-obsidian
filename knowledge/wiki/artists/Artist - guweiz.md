@@ -19,3 +19,11 @@ Images attributed by filename: 2
 
 - [[nami by guweiz 2019 cd00a4d5|nami by guweiz 2019]]
 - [[rings by guweiz 2020 5282eb96|rings by guweiz 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/split image comparing tree rings and fingerprint 1d945081|split image comparing tree rings and fingerprint]] — shared language: rings
+- [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - guy rose|Artist - guy rose]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

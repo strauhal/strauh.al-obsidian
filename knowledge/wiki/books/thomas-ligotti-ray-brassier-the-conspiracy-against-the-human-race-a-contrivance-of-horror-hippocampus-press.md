@@ -40,8 +40,8 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — same category: media technology
-- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/ray-bradbury-7-there-will-come-soft-rains|7 There Will Come Soft Rains]] — same category: media technology
+- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/thomas-g-wong-introduction-to-classical-and-quantum-computing|Introduction to Classical and Quantum Computing]] — same category: media technology
 - [[knowledge/wiki/books/michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] — same category: media technology

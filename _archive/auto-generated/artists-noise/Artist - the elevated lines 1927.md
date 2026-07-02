@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-elevated-lines-1927|Artist - the elevated lines 1927]] — shared language: elevated, lines
 - [[knowledge/wiki/images/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
-- [[knowledge/wiki/images/color photograph of a green and white train on elevated tracks in chicago skyline d369c3c6|color photograph of a green and white train on elevated tracks in chicago skyline]] — shared language: elevated
-- [[knowledge/wiki/anchors/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — shared language: lines
-- [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines
-- [[knowledge/wiki/artists/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: elevated
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: lines
+- [[knowledge/wiki/images/framed painting of red modern buildings and elevated tracks c1c5960a|framed painting of red modern buildings and elevated tracks]] — shared language: elevated
 <!-- vault-crosslinks:end -->

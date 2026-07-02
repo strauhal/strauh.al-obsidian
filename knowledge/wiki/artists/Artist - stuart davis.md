@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[still life with book by stuart davis 1922 baba5765|still life with book by stuart davis 1922]]
 - [[still life with bottles by stuart davis 1948 829b332f|still life with bottles by stuart davis 1948]]
 - [[still life with head by stuart davis 1921 1ce45392|still life with head by stuart davis 1921]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - stuart davis 19531954|Artist - stuart davis 19531954]] — shared language: davis, stuart
+- [[knowledge/wiki/images/something on the eight ball by stuart davis 19531954 a21888ac|something on the eight ball by stuart davis 19531954]] — shared language: davis, stuart
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: davis
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, still
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
+<!-- vault-crosslinks:end -->

@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/2000s/stadia_ii_by_julie_mehretu_2004.jpeg]]
 
 ![[media/strauh.al3.1/2000s/the_boss_concept_sketches_metal_gear_solid_3_by_yoji_shinkawa_2004.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2003|Date Bucket - 2003]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2005|Date Bucket - 2005]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

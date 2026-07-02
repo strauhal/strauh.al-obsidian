@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1740.PNG]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1741.PNG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1730s|Date Bucket - 1730s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1750s|Date Bucket - 1750s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

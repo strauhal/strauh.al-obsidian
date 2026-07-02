@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg]]
 
 ![[media/strauh.al3.1/1800s/william_blake_job_and_his_wife_and_his_three_comforters_c_1805.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1804|Date Bucket - 1804]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1806|Date Bucket - 1806]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1931.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1930|Date Bucket - 1930]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1932|Date Bucket - 1932]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

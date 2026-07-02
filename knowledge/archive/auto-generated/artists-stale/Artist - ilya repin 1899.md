@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1877|Artist - ilya repin 1877]] — shared language: ilya, repin
-- [[knowledge/wiki/artists/Artist - ilya repin|Artist - ilya repin]] — shared language: repin, ilya, duel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1873|Artist - ilya repin 1873]] — shared language: ilya, repin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1880 1891|Artist - ilya repin 1880 1891]] — shared language: ilya, repin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1883|Artist - ilya repin 1883]] — shared language: repin, ilya
+- [[knowledge/wiki/artists/Artist - ilya repin|Artist - ilya repin]] — shared language: repin, ilya, duel
 - [[knowledge/wiki/artists/Artist - ilya repin 18701873|Artist - ilya repin 18701873]] — shared language: ilya, repin
 <!-- vault-crosslinks:end -->

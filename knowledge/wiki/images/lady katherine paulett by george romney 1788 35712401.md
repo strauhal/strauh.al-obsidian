@@ -1,7 +1,7 @@
 ---
 title: "lady katherine paulett by george romney 1788"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/lady_katherine_paulett_by_george_romney_1788.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/lady_katherine_paulett_by_george_romney_1788.jpeg"
 source_relpath: "1700s/lady_katherine_paulett_by_george_romney_1788.jpeg"
 collection: "1700s"
 inferred_year: "1788"
@@ -22,4 +22,14 @@ Artist: [[Artist - george romney]]
 
 Source: [[media/strauh.al3.1/1700s/lady_katherine_paulett_by_george_romney_1788.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/lady_katherine_paulett_by_george_romney_1788.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/lady_katherine_paulett_by_george_romney_1788.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+<!-- vault-crosslinks:end -->

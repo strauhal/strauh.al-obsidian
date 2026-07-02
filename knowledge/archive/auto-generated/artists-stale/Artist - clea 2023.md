@@ -21,6 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - clea|Artist - clea]] — named in this note
-- [[knowledge/wiki/images/vincent van gogh almond blossom 1890 ad8bd2bd|vincent van gogh almond blossom 1890]] — shared language: blossom
 - [[knowledge/wiki/images/oil painting of a blossom orchard with green grass and yellow flowers f49cb301|oil painting of a blossom orchard with green grass and yellow flowers]] — shared language: blossom
+- [[knowledge/wiki/images/vincent van gogh almond blossom 1890 ad8bd2bd|vincent van gogh almond blossom 1890]] — shared language: blossom
+- [[knowledge/wiki/images/vincent van gogh almond blossom 1890 2 7f7a73e3|vincent van gogh almond blossom 1890 2]] — shared language: blossom
 <!-- vault-crosslinks:end -->

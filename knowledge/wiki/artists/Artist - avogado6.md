@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[close up digital illustration of a woman wiping her face with a tissue by avogado6 2020 c342859b|close up digital illustration of a woman wiping her face with a tissue by avogado6 2020]]
 - [[escalator by avogado6 2020 78e43a96|escalator by avogado6 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/digital painting of a woman s face surrounded by white material 45d64b8c|digital painting of a woman s face surrounded by white material]] — shared language: face, digital, woman
+- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: face, digital, woman
+- [[knowledge/wiki/images/oil painting of a close up abstracted face in grayscale ca009861|oil painting of a close up abstracted face in grayscale]] — shared language: close, face
+- [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
+- [[knowledge/wiki/images/high contrast black and white close up of a face with flowing hair 4c611fca|high contrast black and white close up of a face with flowing hair]] — shared language: close, face
+- [[knowledge/wiki/images/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: face, woman
+<!-- vault-crosslinks:end -->

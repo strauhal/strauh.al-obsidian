@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - charles burchfield|Artist - charles burchfield]] — named in this note
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles, street
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles

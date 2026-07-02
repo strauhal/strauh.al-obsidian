@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - leonardo da vinci|Artist - leonardo da vinci]] — named in this note
 - [[knowledge/wiki/images/study for the virgin and child with st anne by leonardo da vinci c 1500 95afe6df|study for the virgin and child with st anne by leonardo da vinci c 1500]] — shared language: leonardo, vinci, anne
-- [[knowledge/wiki/images/head of a woman la scapigliata by leonardo da vinci c 1508 71ec3afa|head of a woman la scapigliata by leonardo da vinci c 1508]] — shared language: leonardo, vinci
 - [[knowledge/wiki/images/head of a warrior in profile by leonardo da vinci c 1472 1475 983d63b9|head of a warrior in profile by leonardo da vinci c 1472 1475]] — shared language: leonardo, vinci
 - [[knowledge/wiki/images/head of a warrior in profile by leonardo da vinci c 1472 1475 2 9b856c00|head of a warrior in profile by leonardo da vinci c 1472 1475 2]] — shared language: leonardo, vinci
+- [[knowledge/wiki/images/head of a woman la scapigliata by leonardo da vinci c 1508 71ec3afa|head of a woman la scapigliata by leonardo da vinci c 1508]] — shared language: leonardo, vinci
 - [[knowledge/wiki/images/a grotesque head and a profile of a youth by leonardo da vinci c 1490 55b192ec|a grotesque head and a profile of a youth by leonardo da vinci c 1490]] — shared language: leonardo, vinci
 <!-- vault-crosslinks:end -->

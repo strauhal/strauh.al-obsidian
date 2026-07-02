@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1800s/view_of_the_rhine_valley_with_burg_rheinstein_by_barend_cornelis_koekkoek_1853_2.jpg]]
 
 ![[media/strauh.al3.1/comics/IMG_1853.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1852|Date Bucket - 1852]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1854|Date Bucket - 1854]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

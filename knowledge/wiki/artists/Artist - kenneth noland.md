@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[dakota ridge by kenneth noland 1958 7607ddf6|dakota ridge by kenneth noland 1958]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - kenneth m adams|Artist - kenneth m adams]] — shared language: kenneth
+- [[knowledge/wiki/images/juanita by kenneth m adams 1939 6d4c22c8|juanita by kenneth m adams 1939]] — shared language: kenneth
+- [[knowledge/wiki/artists/Artist - kenny scharf|Artist - kenny scharf]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

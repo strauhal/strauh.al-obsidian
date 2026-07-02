@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - charles joshua chaplin|Artist - charles joshua chaplin]] — named in this note
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - sir joshua reynolds|Artist - sir joshua reynolds]] — shared language: joshua
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/images/the misses paine by sir joshua reynolds c 1765 46a720b5|the misses paine by sir joshua reynolds c 1765]] — shared language: joshua
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
 <!-- vault-crosslinks:end -->

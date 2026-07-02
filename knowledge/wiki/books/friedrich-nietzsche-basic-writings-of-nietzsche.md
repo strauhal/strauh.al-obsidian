@@ -48,7 +48,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — same category: philosophy
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
-- [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — same category: philosophy
+- [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-engels-dialectics-of-nature|Dialectics of Nature]] — same category: philosophy
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert strange 1757|Artist - robert strange 1757]] — shared language: strange
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: point
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: strange
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: point
+- [[knowledge/wiki/images/belisarius by robert strange 1757 781fa7bc|belisarius by robert strange 1757]] — shared language: strange
 <!-- vault-crosslinks:end -->

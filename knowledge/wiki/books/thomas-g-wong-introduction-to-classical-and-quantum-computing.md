@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] — same category: media technology
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
-- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
 - [[knowledge/wiki/books/thomas-ligotti-ray-brassier-the-conspiracy-against-the-human-race-a-contrivance-of-horror-hippocampus-press|The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press]] — same category: media technology
+- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
 <!-- vault-crosslinks:end -->

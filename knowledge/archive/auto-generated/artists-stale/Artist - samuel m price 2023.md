@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
+- [[knowledge/wiki/images/the gallery of the louvre by samuel f b morse 18311833 85e71ca1|the gallery of the louvre by samuel f b morse 18311833]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel worcester rowse|Artist - samuel worcester rowse]] — shared language: samuel
-- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel worcester rowse 1874|Artist - samuel worcester rowse 1874]] — shared language: samuel
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[john brown going to his hanging by horace pippin 1942 418e5d98|john brown going to his hanging by horace pippin 1942]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - horace vernet|Artist - horace vernet]] — shared language: horace
+- [[knowledge/wiki/images/the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]] — shared language: horace
+- [[knowledge/wiki/images/horace vernet prise de la tour de malakoff 1858 e4251de6|horace vernet prise de la tour de malakoff 1858]] — shared language: horace
+- [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — shared language: going
+- [[knowledge/wiki/images/john george brown a fish cleaning station 1877 00e7336d|john george brown a fish cleaning station 1877]] — shared language: brown, john
+- [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — shared language: brown
+<!-- vault-crosslinks:end -->

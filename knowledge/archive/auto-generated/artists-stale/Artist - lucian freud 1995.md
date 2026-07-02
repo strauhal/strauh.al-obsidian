@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - lucian freud|Artist - lucian freud]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lucian freud 1947 1948|Artist - lucian freud 1947 1948]] — named in this note
 - [[knowledge/wiki/images/girl reading by lucian freud 1947 1948 5d2c6d95|girl reading by lucian freud 1947 1948]] — shared language: lucian, freud
-- [[knowledge/wiki/images/portrait of lucian freud by francis bacon 1951 60a87d39|portrait of lucian freud by francis bacon 1951]] — shared language: lucian, freud, portrait
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1951|Artist - francis bacon 1951]] — shared language: lucian, freud, portrait
-- [[knowledge/wiki/artists/Artist - francis bacon|Artist - francis bacon]] — shared language: lucian, freud, portrait
+- [[knowledge/wiki/images/portrait of lucian freud by francis bacon 1951 60a87d39|portrait of lucian freud by francis bacon 1951]] — shared language: lucian, freud
+- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1951|Artist - francis bacon 1951]] — shared language: lucian, freud
+- [[knowledge/wiki/artists/Artist - francis bacon|Artist - francis bacon]] — shared language: lucian, freud
 <!-- vault-crosslinks:end -->

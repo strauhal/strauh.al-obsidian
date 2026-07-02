@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nikolay krymov|Artist - nikolay krymov]] — named in this note
+- [[knowledge/wiki/images/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: mountain, landscape
 - [[knowledge/wiki/images/ink drawing of a mountain landscape with trees and calligraphy 2cdce20b|ink drawing of a mountain landscape with trees and calligraphy]] — shared language: mountain, landscape
 - [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/digital painting of a mountain landscape with a brightly lit central peak cab26f29|digital painting of a mountain landscape with a brightly lit central peak]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/geometric acrylic painting of a mountain landscape with a house and conical trees 6de886ea|geometric acrylic painting of a mountain landscape with a house and conical trees]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/mountain range 07fd8e4e|mountain range]] — shared language: mountain
+- [[knowledge/wiki/images/rocky mountain landscape painting with steep cliffs c5234a34|rocky mountain landscape painting with steep cliffs]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: mountain, landscape
 <!-- vault-crosslinks:end -->

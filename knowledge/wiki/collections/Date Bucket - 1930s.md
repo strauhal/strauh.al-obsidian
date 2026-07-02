@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1930s"
 source_kind: "date_bucket"
-count: "95"
+count: "93"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1930s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 95
+Files: 93
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 95
 ![[media/strauh.al3.1/1900s/fillette_au_bateau_maya_a_la_poupee_by_pablo_picasso_1937.jpeg]]
 
 ![[media/strauh.al3.1/1900s/franklin_d_roosevelt_shaking_hands_with_a_farmer_1932.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1920s|Date Bucket - 1920s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1940s|Date Bucket - 1940s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

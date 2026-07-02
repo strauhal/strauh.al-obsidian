@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[self portrait by stanton macdonald wright 1926 1927 adfb22f4|self portrait by stanton macdonald wright 1926 1927]]
 - [[synchromy in orange to a passing train by stanton macdonald wright 1914 74c86b93|synchromy in orange to a passing train by stanton macdonald wright 1914]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — shared language: wright
+- [[knowledge/wiki/images/the blacksmith s shop by joseph wright of derby 1771 4c0a948d|the blacksmith s shop by joseph wright of derby 1771]] — shared language: wright
+- [[knowledge/wiki/images/mixed media drawing with architectural sketches text commentary on frank lloyd wright and abstract squares 58ef2709|mixed media drawing with architectural sketches text commentary on frank lloyd wright and abstract squares]] — shared language: wright
+- [[knowledge/wiki/images/aerial photograph of a train passing through a densely populated urban area with high rise buildings in the background ffeaebfc|aerial photograph of a train passing through a densely populated urban area with high rise buildings in the background]] — shared language: passing, train
+- [[knowledge/wiki/images/train transfixed jpg 4d465ca0|train transfixed jpg]] — shared language: train
+- [[knowledge/wiki/images/red orange kaleidoscopic pattern 69c4dd8c|red orange kaleidoscopic pattern]] — shared language: orange
+<!-- vault-crosslinks:end -->

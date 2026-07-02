@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - walter t wood 1924|Artist - walter t wood 1924]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - walter sickert 1904 1906|Artist - walter sickert 1904 1906]] — shared language: walter
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
 <!-- vault-crosslinks:end -->

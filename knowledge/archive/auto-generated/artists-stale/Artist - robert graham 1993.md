@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - robert graham|Artist - robert graham]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
 - [[knowledge/wiki/artists/Artist - charles graham|Artist - charles graham]] — shared language: graham
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles graham 1893|Artist - charles graham 1893]] — shared language: graham
 - [[knowledge/wiki/images/moonlight on the lagoons by charles graham 1893 1d9ff77a|moonlight on the lagoons by charles graham 1893]] — shared language: graham
+- [[knowledge/wiki/books/benjamin-graham-the-intelligent-investor|The Intelligent Investor]] — shared language: graham
 <!-- vault-crosslinks:end -->

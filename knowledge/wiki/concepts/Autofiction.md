@@ -43,18 +43,17 @@ might read it (see [[The Internet as Confidant]]).
 **Books (1).** [[imbred-autobiography|imbred autobiography]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
+- [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: diary, internet, slides
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: internet, confidant, individual
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: diary, confidant, internet
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: autofiction, diary, confidant
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: diary, diary's, keeping
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

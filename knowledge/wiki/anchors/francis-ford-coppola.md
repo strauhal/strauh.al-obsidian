@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/artists/Artist - walton ford|Artist - walton ford]] — shared language: ford
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: francis
 <!-- vault-crosslinks:end -->

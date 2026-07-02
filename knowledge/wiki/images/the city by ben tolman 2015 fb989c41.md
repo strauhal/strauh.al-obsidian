@@ -1,7 +1,7 @@
 ---
 title: "the city by ben tolman 2015"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_city_by_ben_tolman_2015.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_city_by_ben_tolman_2015.jpg"
 source_relpath: "2000s/the_city_by_ben_tolman_2015.jpg"
 collection: "2000s"
 inferred_year: "2015"
@@ -22,4 +22,14 @@ Artist: [[Artist - ben tolman]]
 
 Source: [[media/strauh.al3.1/2000s/the_city_by_ben_tolman_2015.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_city_by_ben_tolman_2015.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_city_by_ben_tolman_2015.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: ben
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: ben
+<!-- vault-crosslinks:end -->

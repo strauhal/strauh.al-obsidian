@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1800s/the_starry_night_by_vincent_van_gogh_1889.jpeg]]
 
 ![[media/strauh.al3.1/1800s/wheat_field_with_sun_by_vincent_van_gogh_1889.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1888|Date Bucket - 1888]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1890|Date Bucket - 1890]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

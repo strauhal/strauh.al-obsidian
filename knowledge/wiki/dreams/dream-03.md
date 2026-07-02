@@ -39,3 +39,16 @@ This note is an index and reflection surface. The complete first-person account 
 ## Reflection
 
 No fixed interpretation has been assigned. Add remembered details, waking associations, or later resonances here.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — named in this note
+- [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, ceremony
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, ceremony, recent
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
+- [[knowledge/wiki/images/demo 74257d33|demo]] — shared language: demo
+- [[knowledge/wiki/images/SplattingAvatar demo 4ec79be5|SplattingAvatar demo]] — shared language: demo
+- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

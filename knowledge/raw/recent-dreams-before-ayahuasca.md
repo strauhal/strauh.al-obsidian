@@ -55,3 +55,16 @@ bought a cyber truck for some reason.  don’t know why, they’re pretty ugly v
 
 dream 5
 in my dream, I got to see Frederic Chopin play the piano live, and after the concert, he asked me if he wanted to be bowling partners. Later, I looked on YouTube and I saw that people were reacting to his taste in anime.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/frederic chopin 48920806|frederic chopin]] — named in this note
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — named in this note
+- [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
+- [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
+<!-- vault-crosslinks:end -->

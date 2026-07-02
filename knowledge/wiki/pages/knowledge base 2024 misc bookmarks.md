@@ -1,10 +1,10 @@
 ---
 title: "knowledge base 2024 misc bookmarks"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
 source_relpath: "knowledge_base/2024_misc_bookmarks.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base 2024 misc bookmarks
@@ -530,3 +530,16 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 **[[art reading]]** — [Keywords to know before you start reading papers on GANs / by Dr. Varshita Sher / Towards Data Science](https://towardsdatascience.com/keywords-to-know-before-you-start-reading-papers-on-gans-8a08a665b40c)
 
 <!-- kb-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/miftalkcollage jesse kanda 8c32f32f|miftalkcollage jesse kanda]] — named in this note
+- [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — named in this note
+- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+<!-- vault-crosslinks:end -->

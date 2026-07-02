@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: ben
-- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — shared language: ben
 - [[knowledge/wiki/images/ben frost 4 jpg 57558bc3|ben frost 4 jpg]] — shared language: ben
+- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — shared language: ben
 <!-- vault-crosslinks:end -->

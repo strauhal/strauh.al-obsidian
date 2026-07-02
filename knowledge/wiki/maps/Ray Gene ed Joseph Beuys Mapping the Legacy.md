@@ -18,5 +18,5 @@ See [[Ray Gene ed Joseph Beuys Mapping the Legacy]].
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/joseph beuys crawford c44457d9|joseph beuys crawford]] — shared language: beuys, joseph
+- [[knowledge/wiki/images/joseph beuys drawing on blackboard b1eb30f6|joseph beuys drawing on blackboard]] — shared language: beuys, joseph
 <!-- vault-crosslinks:end -->

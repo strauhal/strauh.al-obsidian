@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[kopf eines mannes head of a man by karl schmidt rottluff 1919 9a3df16b|kopf eines mannes head of a man by karl schmidt rottluff 1919]]
 - [[selbstbildnis self portrait by karl schmidt rottluff 1919 cf7808bd|selbstbildnis self portrait by karl schmidt rottluff 1919]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
+- [[knowledge/wiki/artists/Artist - ben schmidt|Artist - ben schmidt]] — shared language: schmidt
+- [[knowledge/wiki/artists/Artist - karl wirsum|Artist - karl wirsum]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: karl
+<!-- vault-crosslinks:end -->

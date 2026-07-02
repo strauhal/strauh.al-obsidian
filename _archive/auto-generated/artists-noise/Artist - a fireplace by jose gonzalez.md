@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/sitting 5edf981f|sitting]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-fireplace-by-jose-gonzalez|Artist - a fireplace by jose gonzalez]] — shared language: fireplace, jose, gonzalez
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: jose, gonzalez
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jose gonzalez 1971|Artist - jose gonzalez 1971]] — shared language: jose, gonzalez
 - [[knowledge/wiki/images/illustration of a man protecting a youth in an orange forest by jose gonzalez 1971 a1bb2f97|illustration of a man protecting a youth in an orange forest by jose gonzalez 1971]] — shared language: jose, gonzalez
 - [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez 2016|Artist - josan gonzalez 2016]] — shared language: gonzalez
+- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

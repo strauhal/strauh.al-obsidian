@@ -1,7 +1,7 @@
 ---
 title: "the annunciation to the shepherds by carl bloch 1879"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg"
 source_relpath: "1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg"
 collection: "1800s"
 inferred_year: "1879"
@@ -22,4 +22,14 @@ Artist: [[Artist - carl bloch]]
 
 Source: [[media/strauh.al3.1/1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_annunciation_to_the_shepherds_by_carl_bloch_1879.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the incredulity of thomas by carl bloch 1881 0c1f2732|the incredulity of thomas by carl bloch 1881]] — same artist: carl bloch
+- [[knowledge/wiki/images/carl bloch in a roman osteria 1866 4fe3be89|carl bloch in a roman osteria 1866]] — shared language: bloch, carl
+- [[knowledge/wiki/images/carl bloch in a roman osteria 1866 2 d5ab0018|carl bloch in a roman osteria 1866 2]] — shared language: bloch, carl
+- [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: carl
+<!-- vault-crosslinks:end -->

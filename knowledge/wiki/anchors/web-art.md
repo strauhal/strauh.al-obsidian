@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/1949 ph455 001 regester2012 web jpg 4203f73c|1949 ph455 001 regester2012 web jpg]] — shared language: web
 - [[knowledge/wiki/images/64 1726 ph web jpg 9f2d1eaa|64 1726 ph web jpg]] — shared language: web
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

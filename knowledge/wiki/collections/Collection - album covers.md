@@ -1,7 +1,7 @@
 ---
 title: "Collection - album covers"
 source_kind: "image_collection"
-count: "41"
+count: "42"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 41
+Files: 42
 
 ## Sample
 
@@ -99,8 +99,22 @@ Files: 41
 - [[pop2 ac7f63b6|pop2]]
 - [[ravedeath 2d13625b|ravedeath]]
 - [[slow 5c60ebbd|slow]]
+- [[solo piano by philip glass 1989 012e837f|solo piano by philip glass 1989]]
 - [[spiritualized ceedba16|spiritualized]]
 - [[the beach boys surf s up vinile lp2 b43b8252|the beach boys surf s up vinile lp2]]
 - [[thousand knives 44c40ca1|thousand knives]]
 - [[woodson 80ad8132|woodson]]
 - [[zNpL0 8Bq8Qe1QMqOgh 3TnoDSfLxVzpTKoSy0zGsRo 29675b51|zNpL0 8Bq8Qe1QMqOgh 3TnoDSfLxVzpTKoSy0zGsRo]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/pages/album covers|album covers]] — named in this note
+- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: solo, piano, philip
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip, glass, solo
+- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: piano, solo, philip
+- [[knowledge/wiki/images/pixel art collage of nine square images primarily depicting album covers dd8fd59e|pixel art collage of nine square images primarily depicting album covers]] — shared language: covers, album
+<!-- vault-crosslinks:end -->

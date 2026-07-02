@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note
 - [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — shared language: kirchner, ernst, ludwig
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ernst ludwig kirchner 1908|Artist - ernst ludwig kirchner 1908]] — shared language: kirchner, ernst, ludwig
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ernst ludwig kirchner 1914|Artist - ernst ludwig kirchner 1914]] — shared language: kirchner, ernst, ludwig
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ernst ludwig kirchner 1908|Artist - ernst ludwig kirchner 1908]] — shared language: kirchner, ernst, ludwig
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ernst ludwig kirchner 1917|Artist - ernst ludwig kirchner 1917]] — shared language: kirchner, ernst, ludwig
 - [[knowledge/wiki/images/self portrait by ernst ludwig kirchner 1914 5cc7bba5|self portrait by ernst ludwig kirchner 1914]] — shared language: kirchner, ernst, ludwig
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-small-cat-and-a-ufo|Artist - a small cat and a ufo]] — shared language: ufo, cat, small
 - [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/small etched cat portrait 34dec11b|small etched cat portrait]] — shared language: cat, small
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic, art
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: small, figure
 - [[knowledge/wiki/images/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: small, figure
 <!-- vault-crosslinks:end -->

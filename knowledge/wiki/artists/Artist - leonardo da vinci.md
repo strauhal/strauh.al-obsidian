@@ -55,3 +55,14 @@ Images attributed by filename: 14
 - [[studies of the muscles of the shoulder and arm by leonardo da vinci c 1510 46a4dba1|studies of the muscles of the shoulder and arm by leonardo da vinci c 1510]]
 - [[study for the virgin and child with st anne by leonardo da vinci c 1500 95afe6df|study for the virgin and child with st anne by leonardo da vinci c 1500]]
 - [[virgin and saint anne with the christ child and the young john the baptist by leonardo da vinci 1500 1501 2df5f753|virgin and saint anne with the christ child and the young john the baptist by leonardo da vinci 1500 1501]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: leonardo, vinci, studies
+- [[knowledge/wiki/collections/Collection - 1400s|Collection - 1400s]] — shared language: leonardo, vinci, profile
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, baptist, christ
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, study
+- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: leonardo, vinci, shoulder
+- [[knowledge/wiki/pages/art|art]] — shared language: leonardo, vinci, studies
+<!-- vault-crosslinks:end -->

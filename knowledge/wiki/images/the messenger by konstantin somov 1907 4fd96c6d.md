@@ -1,7 +1,7 @@
 ---
 title: "the messenger by konstantin somov 1907"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_messenger_by_konstantin_somov_1907.png"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_messenger_by_konstantin_somov_1907.png"
 source_relpath: "1900s/the_messenger_by_konstantin_somov_1907.png"
 collection: "1900s"
 inferred_year: "1907"
@@ -22,4 +22,14 @@ Artist: [[Artist - konstantin somov]]
 
 Source: [[media/strauh.al3.1/1900s/the_messenger_by_konstantin_somov_1907.png|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_messenger_by_konstantin_somov_1907.png`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_messenger_by_konstantin_somov_1907.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/intimate scene by konstantin somov 1935 ff242bb6|intimate scene by konstantin somov 1935]] — same artist: konstantin somov
+- [[knowledge/wiki/images/landscape with chickens by konstantin somov 1918 92980ef8|landscape with chickens by konstantin somov 1918]] — same artist: konstantin somov
+- [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin yuon|Artist - konstantin yuon]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — shared language: konstantin
+<!-- vault-crosslinks:end -->

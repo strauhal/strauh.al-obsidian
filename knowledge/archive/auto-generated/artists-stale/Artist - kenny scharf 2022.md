@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/mr goody goody by kenny scharf 2021 7de5ee79|mr goody goody by kenny scharf 2021]] — shared language: scharf, kenny
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
 - [[knowledge/wiki/culture/music-azimuth|Listening - Azimuth]] — shared language: kenny
-- [[knowledge/wiki/images/display featuring a super sonico figurine and a fish fossil c608dcfe|display featuring a super sonico figurine and a fish fossil]] — shared language: super
+- [[knowledge/wiki/images/illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan a52afe28|illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan]] — shared language: bubble
 <!-- vault-crosslinks:end -->

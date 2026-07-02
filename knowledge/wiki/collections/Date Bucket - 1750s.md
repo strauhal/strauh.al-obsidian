@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1700s/the_shepherdess_by_jean_honore_fragonard_c_1750_1752.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_triumph_of_galatea_by_corrado_giaquinto_c_1750.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1740s|Date Bucket - 1740s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1760s|Date Bucket - 1760s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -13,12 +13,13 @@ This note exists because generated pages linked this spelling or alias. The rich
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: terry, davis
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: terry, davis
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, spelling, alias
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, spelling, alias
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/The Internet
+as Confidant|The Internet]] — shared language: canonical, alias, richer
 <!-- vault-crosslinks:end -->

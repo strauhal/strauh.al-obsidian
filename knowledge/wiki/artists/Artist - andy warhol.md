@@ -37,3 +37,14 @@ Images attributed by filename: 8
 - [[mao by andy warhol 1973 7a66d8d0|mao by andy warhol 1973]]
 - [[woman s head with purple hair by andy warhol c 1957 512a622b|woman s head with purple hair by andy warhol c 1957]]
 - [[woman with tie and flowers on head by andy warhol 1958 ade73834|woman with tie and flowers on head by andy warhol 1958]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: andy, warhol
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol
+- [[knowledge/wiki/culture/reading-the-andy-warhol-diaries|Reading - The Andy Warhol Diaries]] — shared language: andy, warhol
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: andy, warhol
+- [[knowledge/wiki/images/warhol 42bf1e15|warhol]] — shared language: warhol
+<!-- vault-crosslinks:end -->

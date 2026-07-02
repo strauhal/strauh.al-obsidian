@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[the artist by saul steinberg 1948 6c138962|the artist by saul steinberg 1948]]
 - [[the crowd by saul steinberg 1965 e62af0ca|the crowd by saul steinberg 1965]]
 - [[the eye of the observer by saul steinberg 1966 dc3e97c2|the eye of the observer by saul steinberg 1966]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: saul
+- [[knowledge/wiki/images/the new world by peter saul 1991 6bebcfca|the new world by peter saul 1991]] — shared language: saul
+- [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: saul
+- [[knowledge/wiki/images/the second coming by peter saul 1969 75bb7b97|the second coming by peter saul 1969]] — shared language: saul
+- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: saul
+<!-- vault-crosslinks:end -->

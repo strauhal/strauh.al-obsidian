@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[Shibai Ukie by Masanobu Okumura 4864509f|Shibai Ukie by Masanobu Okumura]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - Josetsu|Artist - Josetsu]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - J Blanc|Artist - J Blanc]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

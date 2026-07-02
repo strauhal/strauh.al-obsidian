@@ -60,3 +60,11 @@ Files: 136
 ![[media/strauh.al3.1/1900s/figures_on_a_beach_by_yannis_tsarouchis_1971.jpeg]]
 
 ![[media/strauh.al3.1/1900s/forever_for_old_lady_sally_by_eduardo_paolozzi_1971.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1960s|Date Bucket - 1960s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1980s|Date Bucket - 1980s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

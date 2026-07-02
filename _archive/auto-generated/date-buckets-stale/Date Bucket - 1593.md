@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1500s/the_holy_family_with_the_infant_saint_john_the_baptist_by_hendrick_goltzius_1593.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1590|Date Bucket - 1590]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1594|Date Bucket - 1594]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

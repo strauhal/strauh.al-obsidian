@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[soldier ordering important abstraction to attack the left and diagrammatic drawing with text by marcel duchamp 1914 d8d4a4c3|soldier ordering important abstraction to attack the left and diagrammatic drawing with text by marcel duchamp 1914]]
 - [[vierge virgin by marcel duchamp 1912 24f60b5f|vierge virgin by marcel duchamp 1912]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/marcel duchamp 1919 l h o o q jpg 510edb42|marcel duchamp 1919 l h o o q jpg]] — shared language: duchamp, marcel
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: marcel
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: marcel
+- [[knowledge/wiki/images/marcel proust 53d13fd9|marcel proust]] — shared language: marcel
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: marcel
+- [[knowledge/wiki/books/marcel-proust-in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — shared language: marcel
+<!-- vault-crosslinks:end -->

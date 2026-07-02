@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hilary pecis|Artist - hilary pecis]] — named in this note
+- [[knowledge/wiki/images/framed painting of a shop or window display b2dd592b|framed painting of a shop or window display]] — shared language: window
+- [[knowledge/wiki/images/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: window
 - [[knowledge/wiki/images/the window by andrew loomis 1929 d71221c1|the window by andrew loomis 1929]] — shared language: window
+- [[knowledge/wiki/images/open window overlooking a city and balcony 8dc8a6d6|open window overlooking a city and balcony]] — shared language: window
 - [[knowledge/wiki/images/the window by odd nerdrum 1981 50930230|the window by odd nerdrum 1981]] — shared language: window
-- [[knowledge/wiki/images/at the window by konstantin korovin 1913 67672264|at the window by konstantin korovin 1913]] — shared language: window
-- [[knowledge/wiki/images/Sermon on the mount window f0b31e99|Sermon on the mount window]] — shared language: window
-- [[knowledge/wiki/images/photograph of a dolphin looking through a window above trays of buffet food 3823c793|photograph of a dolphin looking through a window above trays of buffet food]] — shared language: window
 <!-- vault-crosslinks:end -->

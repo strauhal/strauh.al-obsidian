@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/claire-bishop-artificial-hells-participatory-art-and-the-politics-of-spectatorship|Artificial Hells: Participatory Art and the Politics of Spectatorship]] — same category: art aesthetics
 - [[knowledge/wiki/books/max-tegmark-life-3-0-being-human-in-the-age-of-artificial-intelligence-alfred-a-knopf|Life 3.0 Being Human in the Age of Artificial Intelligence-Alfred A. Knopf]] — same category: art aesthetics
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — same category: art aesthetics
 - [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — same category: art aesthetics
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

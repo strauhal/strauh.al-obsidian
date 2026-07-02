@@ -38,9 +38,9 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/intro-tibetan-buddhism-john-powers-2|Intro-Tibetan-Buddhism-John-Powers 2]] — same category: esoterica
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
-- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
-- [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
+- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
+- [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 - [[knowledge/wiki/books/marcus-aurelius-meditations|Meditations]] — same category: esoterica
 <!-- vault-crosslinks:end -->

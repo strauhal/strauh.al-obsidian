@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1800s/deux_jeunes_filles_lisant_by_jean_baptiste_camille_corot_c_1855_1860.jpeg]]
 
 ![[media/strauh.al3.1/1800s/secluded_landscape_at_sunset_by_frederick_edwin_church_1860.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1859|Date Bucket - 1859]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1861|Date Bucket - 1861]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

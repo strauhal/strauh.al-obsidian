@@ -7,8 +7,8 @@ status: queued
 queue_order: 24
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Ali: Fear Eats the Soul
@@ -30,6 +30,7 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fear
 - [[knowledge/wiki/culture/movie-trainspotting|Watchlist - Trainspotting]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-koyaanisqatsi|Watchlist - Koyaanisqatsi]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current
@@ -37,5 +38,4 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-watchmen|Watchlist - Watchmen]] — shared language: watchlist, film, current
-- [[knowledge/wiki/culture/movie-gattaca|Watchlist - Gattaca]] — shared language: watchlist, film, current
 <!-- vault-crosslinks:end -->

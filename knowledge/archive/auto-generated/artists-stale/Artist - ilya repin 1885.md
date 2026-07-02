@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/ilya repin ivan the terrible and his son ivan on november 16 1581 1885 6c2fbe64|ilya repin ivan the terrible and his son ivan on november 16 1581 1885]] — shared language: ilya, repin, ivan
 - [[knowledge/wiki/images/ilya repin ivan the terrible and his son ivan on november 16 1581 1885 2 adc8d61d|ilya repin ivan the terrible and his son ivan on november 16 1581 1885 2]] — shared language: ilya, repin, ivan
-- [[knowledge/wiki/artists/Artist - ilya repin|Artist - ilya repin]] — shared language: repin, ilya, ivan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1883|Artist - ilya repin 1883]] — shared language: repin, ilya, son
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1877|Artist - ilya repin 1877]] — shared language: ilya, repin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1873|Artist - ilya repin 1873]] — shared language: ilya, repin
+- [[knowledge/wiki/artists/Artist - ilya repin|Artist - ilya repin]] — shared language: repin, ilya, ivan
 <!-- vault-crosslinks:end -->

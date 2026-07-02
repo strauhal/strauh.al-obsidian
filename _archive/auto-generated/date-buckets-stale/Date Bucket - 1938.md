@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1900s/regular_division_of_the_plane_vi_by_m_c_escher_1938.jpg]]
 
 ![[media/strauh.al3.1/1900s/rythme_couleur_by_sonia_delaunay_1938.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1937|Date Bucket - 1937]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1939|Date Bucket - 1939]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

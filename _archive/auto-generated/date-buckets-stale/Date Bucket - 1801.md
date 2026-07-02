@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1800s/achille_et_briseis_achilles_and_briseis_by_jean_auguste_dominique_ingres_1801.jpg]]
 
 ![[media/strauh.al3.1/1800s/phedre_acte_v_scene_derniere_by_anne_louis_girodet_1801.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1800s|Date Bucket - 1800s]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1802|Date Bucket - 1802]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

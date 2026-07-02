@@ -1,10 +1,10 @@
 ---
 title: "arcades project"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/arcades_project.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/arcades_project.html"
 source_relpath: "arcades_project.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # arcades project
@@ -270,3 +270,16 @@ Skrillex and Jordan Peterson
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/anchors/skrillex|Skrillex]] — named in this note
+- [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
+- [[knowledge/wiki/images/amazon 81e1bc0d|amazon]] — named in this note
+- [[knowledge/wiki/images/autechre 0591ce6c|autechre]] — named in this note
+- [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+<!-- vault-crosslinks:end -->

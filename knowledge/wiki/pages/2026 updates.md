@@ -1,10 +1,10 @@
 ---
 title: "2026 updates"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2026_updates.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/2026_updates.html"
 source_relpath: "2026_updates.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # 2026 updates
@@ -54,3 +54,16 @@ strauh.al/2026_updates
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/even more art|even more art]] — named in this note
+- [[knowledge/wiki/images/mockup 9bcafa4f|mockup]] — named in this note
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: like, even, say
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: art, like
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: art, like
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: art, fine
+<!-- vault-crosslinks:end -->

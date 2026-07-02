@@ -1,7 +1,7 @@
 ---
 title: "the weavers by nikolaos gyzis 1880"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg"
 source_relpath: "1800s/the_weavers_by_nikolaos_gyzis_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
@@ -22,4 +22,12 @@ Artist: [[Artist - nikolaos gyzis]]
 
 Source: [[media/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the watering can by charles joshua chaplin 1870 652b0083|the watering can by charles joshua chaplin 1870]] — nearby note in the same source series
+- [[knowledge/wiki/images/the wedding by jacob lawrence 1948 fc3f1517|the wedding by jacob lawrence 1948]] — nearby note in the same source series
+- [[knowledge/wiki/images/the water carriers by theodoros ralli 1892 97349146|the water carriers by theodoros ralli 1892]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

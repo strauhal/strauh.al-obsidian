@@ -1,7 +1,7 @@
 ---
 title: "the death of gelert by sydney prior hall 1868"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg"
 source_relpath: "1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
@@ -22,4 +22,14 @@ Artist: [[Artist - sydney prior hall]]
 
 Source: [[media/strauh.al3.1/1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: prior
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
+- [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
+- [[knowledge/wiki/artists/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
+- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
+<!-- vault-crosslinks:end -->

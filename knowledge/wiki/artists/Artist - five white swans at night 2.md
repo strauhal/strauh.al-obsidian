@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[photograph of a person lying face down on cobblestones surrounded by five white swans at night 2 132b1023|photograph of a person lying face down on cobblestones surrounded by five white swans at night 2]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/artist-five-white-swans-at-night|Artist - five white swans at night]] — named in this note
+- [[knowledge/wiki/anchors/artist-five-white-swans-at-night-2|Artist - five white swans at night 2]] — named in this note
+- [[knowledge/wiki/artists/Artist - five white swans at night|Artist - five white swans at night]] — shared language: swans, five, night
+- [[knowledge/wiki/images/photograph of a person lying face down on cobblestones surrounded by five white swans at night 8ecb81e0|photograph of a person lying face down on cobblestones surrounded by five white swans at night]] — shared language: swans, five, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
+- [[knowledge/wiki/images/painting of a dense group of white swans on dark water 5e556be4|painting of a dense group of white swans on dark water]] — shared language: swans
+<!-- vault-crosslinks:end -->

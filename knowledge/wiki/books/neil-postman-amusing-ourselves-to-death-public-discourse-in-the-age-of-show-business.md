@@ -44,5 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — same category: media technology
 - [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — same category: media technology
 - [[knowledge/wiki/books/william-gibson-neuromancer-remembering-tomorrow|Neuromancer (Remembering Tomorrow)]] — same category: media technology
-- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
+- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 <!-- vault-crosslinks:end -->

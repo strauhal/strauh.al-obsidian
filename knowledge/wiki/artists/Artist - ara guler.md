@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[antkabir ankara by ara guler 1970 6ef40111|antkabir ankara by ara guler 1970]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - antonio lopez|Artist - antonio lopez]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - archibald j motley jr|Artist - archibald j motley jr]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - antonio de felipe|Artist - antonio de felipe]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

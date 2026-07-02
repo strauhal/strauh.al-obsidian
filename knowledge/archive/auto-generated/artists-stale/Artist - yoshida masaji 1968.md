@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - yoshida masaji|Artist - yoshida masaji]] — named in this note
 - [[knowledge/wiki/images/yoshida toshi regenschirme jpg 8098c489|yoshida toshi regenschirme jpg]] — shared language: yoshida
+- [[knowledge/wiki/images/regenschirme by toshi yoshida 2158e6d0|regenschirme by toshi yoshida]] — shared language: yoshida
 - [[knowledge/archive/auto-generated/artists-stale/Artist - toshi yoshida 1973|Artist - toshi yoshida 1973]] — shared language: yoshida
 - [[knowledge/wiki/artists/Artist - hiroshi yoshida|Artist - hiroshi yoshida]] — shared language: yoshida
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi yoshida 1930|Artist - hiroshi yoshida 1930]] — shared language: yoshida
-- [[knowledge/archive/auto-generated/artists-stale/Artist - toshi yoshida 1987|Artist - toshi yoshida 1987]] — shared language: yoshida
 <!-- vault-crosslinks:end -->

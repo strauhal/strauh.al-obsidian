@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/king_george_iii_in_coronation_robes_by_allan_ramsay_1762.jpg]]
 
 ![[media/strauh.al3.1/1700s/the_death_of_dido_by_sir_robert_strange_1762.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1759|Date Bucket - 1759]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1763|Date Bucket - 1763]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

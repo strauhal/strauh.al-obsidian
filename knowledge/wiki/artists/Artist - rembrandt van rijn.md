@@ -46,3 +46,14 @@ Images attributed by filename: 11
 - [[the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643 bd812f10|the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643]]
 - [[the sleeping puppy by rembrandt van rijn c 1640 7a40b62a|the sleeping puppy by rembrandt van rijn c 1640]]
 - [[young woman at her toilet by rembrandt van rijn b1cd11da|young woman at her toilet by rembrandt van rijn]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, self
+- [[knowledge/wiki/images/the incredulity of st thomas by rembrandt van rijn about 1640 2 451b0079|the incredulity of st thomas by rembrandt van rijn about 1640 2]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/artists/Artist - rembrandt harmenszoon van rijn|Artist - rembrandt harmenszoon van rijn]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/rembrandt harmenszoon van rijn lucretia 1666 63a69a5d|rembrandt harmenszoon van rijn lucretia 1666]] — shared language: rijn, rembrandt, van
+<!-- vault-crosslinks:end -->

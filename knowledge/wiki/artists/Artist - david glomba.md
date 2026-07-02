@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the sun the moon the star by david glomba 2017 d6375e84|the sun the moon the star by david glomba 2017]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david bardia|Artist - david bardia]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david burliuk|Artist - david burliuk]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david kassan|Artist - david kassan]] — shared language: david
+<!-- vault-crosslinks:end -->

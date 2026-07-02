@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - marcela okeke|Artist - marcela okeke]] — named in this note
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
-- [[knowledge/wiki/books/t-stevens-michael-the-art-of-psychological-warfare-how-to-skillfully-influence-people-undetected-and-how-to-mentally-subdue-your-enemies-in-|The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal]] — shared language: people
 - [[knowledge/wiki/images/james tissot the jewish people taken into captivity c 18961902 d7af3cdb|james tissot the jewish people taken into captivity c 18961902]] — shared language: people
-- [[knowledge/wiki/images/black and white photograph of three people seated at a table in front of a chalkboard b269e3a2|black and white photograph of three people seated at a table in front of a chalkboard]] — shared language: people
-- [[knowledge/wiki/images/black and white photograph of people sitting on the floor facing a window aa461b7c|black and white photograph of people sitting on the floor facing a window]] — shared language: people
+- [[knowledge/wiki/images/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people
+- [[knowledge/wiki/images/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: people
+- [[knowledge/wiki/images/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: people
+- [[knowledge/wiki/images/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — shared language: people
 <!-- vault-crosslinks:end -->

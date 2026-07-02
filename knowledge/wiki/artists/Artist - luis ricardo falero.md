@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the dance of the witches by luis ricardo falero 1880 8a310cb1|the dance of the witches by luis ricardo falero 1880]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/images/witches flight by francisco de goya c 17971798 81ee50fc|witches flight by francisco de goya c 17971798]] — shared language: witches
+- [[knowledge/wiki/images/dance i by henri matisse 1909 c9670ea5|dance i by henri matisse 1909]] — shared language: dance
+- [[knowledge/wiki/images/study for the dance by henri matisse 1909 6415a185|study for the dance by henri matisse 1909]] — shared language: dance
+- [[knowledge/wiki/images/the dance class by edgar degas 1874 8da86325|the dance class by edgar degas 1874]] — shared language: dance
+- [[knowledge/wiki/images/dance of the forest ka by frank balaam 6d67d4db|dance of the forest ka by frank balaam]] — shared language: dance
+<!-- vault-crosslinks:end -->

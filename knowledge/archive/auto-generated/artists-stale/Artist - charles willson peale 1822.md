@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/images/the staircase group by charles willson peale 1795 409af89d|the staircase group by charles willson peale 1795]] — shared language: willson, peale, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "marilyn monroe in red swimsuit with parasol by frank powolny 1953"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg"
 source_relpath: "1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg"
 collection: "1900s"
 inferred_year: "1953"
@@ -22,4 +22,14 @@ Artist: [[Artist - frank powolny]]
 
 Source: [[media/strauh.al3.1/1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/marilyn_monroe_in_red_swimsuit_with_parasol_by_frank_powolny_1953.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: monroe, marilyn
+- [[knowledge/wiki/images/marilyn monroe new york by richard avedon 1954 6d2da2e5|marilyn monroe new york by richard avedon 1954]] — shared language: monroe, marilyn
+- [[knowledge/wiki/images/marilyn monroe with apples by richard avedon 1954 c2f5d17b|marilyn monroe with apples by richard avedon 1954]] — shared language: monroe, marilyn
+- [[knowledge/wiki/images/marilyn monroe sitting on the floor by milton h greene 1953 409a5c6a|marilyn monroe sitting on the floor by milton h greene 1953]] — shared language: monroe, marilyn
+- [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: monroe, marilyn
+<!-- vault-crosslinks:end -->

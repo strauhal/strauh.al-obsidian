@@ -215,3 +215,16 @@ Files: 152
 - [[womanstatue 481f26bc|womanstatue]]
 - [[womanstatue2 5a5a7b85|womanstatue2]]
 - [[yellowcar 5438b273|yellowcar]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
+- [[knowledge/wiki/images/img 1245 copy jpg fb3870e0|img 1245 copy jpg]] — shared language: copy
+- [[knowledge/wiki/images/estrauhal 05 967e9f35|estrauhal 05]] — shared language: estrauhal
+- [[knowledge/wiki/images/Captsafdsvdsvure copy c35f1e2c|Captsafdsvdsvure copy]] — shared language: copy
+- [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
+- [[knowledge/wiki/images/estrauhal 05 resized b10d6561|estrauhal 05 resized]] — shared language: estrauhal
+- [[knowledge/wiki/images/image 0068 real B copy a7bc373b|image 0068 real B copy]] — shared language: copy
+<!-- vault-crosslinks:end -->

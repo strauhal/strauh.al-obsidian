@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1800s/woman_reading_at_a_table_la_liseuse_by_henri_de_toulouse_lautrec_1897.jpg]]
 
 ![[media/strauh.al3.1/photography/IMG_1897.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1896|Date Bucket - 1896]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1898|Date Bucket - 1898]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

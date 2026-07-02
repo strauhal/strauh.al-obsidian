@@ -64,3 +64,14 @@ Images attributed by filename: 17
 - [[uzumaki panel from the hair chapter by junji ito 1998 7a9caf99|uzumaki panel from the hair chapter by junji ito 1998]]
 - [[illustration of a young woman with a long braid and patterned top standing in front of a building by junji ito 5bfe8f83|illustration of a young woman with a long braid and patterned top standing in front of a building by junji ito]]
 - [[the long hair in the attic by junji ito 2002 fb55396d|the long hair in the attic by junji ito 2002]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
+- [[knowledge/wiki/images/tomie 1d78e552|tomie]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, tomie
+- [[knowledge/wiki/images/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: junji, ito, tomie
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream, panel
+<!-- vault-crosslinks:end -->

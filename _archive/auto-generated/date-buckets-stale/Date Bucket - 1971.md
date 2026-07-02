@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1900s/the_something_missing_is_essentially_inexpressible_by_bern_porter_1971.jpg]]
 
 ![[media/strauh.al3.1/artists/degas/1971.2_bailarina-basculando-bailarina-verde.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1970|Date Bucket - 1970]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1972|Date Bucket - 1972]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

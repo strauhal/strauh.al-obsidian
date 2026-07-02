@@ -19,3 +19,12 @@ Images attributed by filename: 2
 
 - [[le renseignement by alphonse de neuville 1880 7032c869|le renseignement by alphonse de neuville 1880]]
 - [[the interrogation by alphonse de neuville 1880 e792385b|the interrogation by alphonse de neuville 1880]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - alphonse mucha|Artist - alphonse mucha]] — shared language: alphonse
+- [[knowledge/wiki/images/la nature by alphonse mucha c 1900 0ead3837|la nature by alphonse mucha c 1900]] — shared language: alphonse
+- [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: alphonse
+- [[knowledge/wiki/artists/Artist - antoine plamondon|Artist - antoine plamondon]] — shared language: alphonse
+<!-- vault-crosslinks:end -->

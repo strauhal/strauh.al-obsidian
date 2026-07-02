@@ -51,18 +51,17 @@ trained on his life, and warping audio "interpolates between each audio sample."
 **Books (1).** [[aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/spatial b1efb1dc|spatial]] — named in this note
-- [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: latent, space, kits.ai
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: latent, space, distance
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, space, distance
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: latent, space
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: ideas-sketchbook, implicit, art
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: distance, implicit, human
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
+- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

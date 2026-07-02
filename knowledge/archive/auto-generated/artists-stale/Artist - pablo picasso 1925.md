@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1955|Artist - pablo picasso 1955]] — shared language: picasso, pablo
 - [[knowledge/wiki/images/head of a woman by pablo picasso 1926 2d377890|head of a woman by pablo picasso 1926]] — shared language: picasso, pablo, head
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: picasso, pablo
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: picasso, pablo
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1969|Artist - pablo picasso 1969]] — shared language: picasso, pablo
 <!-- vault-crosslinks:end -->

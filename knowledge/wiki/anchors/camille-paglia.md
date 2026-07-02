@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/books/paglia-camille-sexual-personae-art-and-decadence-from-nefertiti-to-emily-dickinson|Sexual personae art and decadence from Nefertiti to Emily Dickinson]] — shared language: paglia, camille
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
 <!-- vault-crosslinks:end -->

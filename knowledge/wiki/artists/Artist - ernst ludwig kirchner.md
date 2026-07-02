@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[straenszene by ernst ludwig kirchner 1913 158d31e6|straenszene by ernst ludwig kirchner 1913]]
 - [[street berlin by ernst ludwig kirchner 1913 2797feb2|street berlin by ernst ludwig kirchner 1913]]
 - [[street dresden by ernst ludwig kirchner 1908 77a94dd3|street dresden by ernst ludwig kirchner 1908]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note
+- [[knowledge/wiki/artists/Artist - rudolf ernst|Artist - rudolf ernst]] — shared language: ernst
+- [[knowledge/wiki/images/on the terrace by rudolf ernst 1880 ae52486c|on the terrace by rudolf ernst 1880]] — shared language: ernst
+- [[knowledge/wiki/artists/Artist - ludwig knaus|Artist - ludwig knaus]] — shared language: ludwig
+- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
+- [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: ludwig
+<!-- vault-crosslinks:end -->

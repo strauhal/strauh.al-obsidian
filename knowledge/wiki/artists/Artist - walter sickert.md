@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[at the rat mort by walter sickert 1904 1906 f98cf836|at the rat mort by walter sickert 1904 1906]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/images/interior of the artist s library by walter gay 1909 13 00c7b8f8|interior of the artist s library by walter gay 1909 13]] — shared language: walter
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
+<!-- vault-crosslinks:end -->

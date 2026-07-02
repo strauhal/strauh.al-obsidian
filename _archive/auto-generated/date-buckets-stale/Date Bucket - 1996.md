@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1900s/gail_from_sin_city_the_big_fat_kill_by_frank_miller_1996.jpeg]]
 
 ![[media/strauh.al3.1/1900s/martin_luther_king_jr_i_have_a_dream_by_aminah_robinson_1996.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1995|Date Bucket - 1995]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1997|Date Bucket - 1997]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

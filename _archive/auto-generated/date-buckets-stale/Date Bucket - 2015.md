@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/2000s/there_s_nothing_left_to_be_modernized_by_david_shrigley_2015.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/sprueth_magers_George_Condo_Zombie_Modernism_2015_2451.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2014|Date Bucket - 2014]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2016|Date Bucket - 2016]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

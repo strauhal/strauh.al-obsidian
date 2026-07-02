@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of a young girl with a cat by balthus 1937 f27543dc|portrait of a young girl with a cat by balthus 1937]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Balthus|Balthus]] — named in this note
+- [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: balthus
+- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/oil painting of a young girl in hanbok with interwoven ribbon background 171b44b0|oil painting of a young girl in hanbok with interwoven ribbon background]] — shared language: girl, young
+- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+<!-- vault-crosslinks:end -->

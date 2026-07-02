@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - miodrag zivkovic|Artist - miodrag zivkovic]] — named in this note
-- [[_archive/auto-generated/books-stale/ranciere-the-monument-and-its-confidences|ranciere the monument and its confidences]] — shared language: monument
 - [[_archive/auto-generated/books-stale/kaczynski-anti-tech-revolution-why-and-how|Kaczynski Anti-Tech Revolution Why and How]] — shared language: revolution
+- [[_archive/auto-generated/books-stale/ranciere-the-monument-and-its-confidences|ranciere the monument and its confidences]] — shared language: monument
 - [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: monument
 - [[knowledge/wiki/books/theodore-kaczynski-anti-tech-revolution-why-and-how|Anti-Tech Revolution: Why and How]] — shared language: revolution
 - [[knowledge/wiki/images/edgar payne monument valley early 20th century 47ac96d9|edgar payne monument valley early 20th century]] — shared language: monument

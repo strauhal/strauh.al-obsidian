@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/2000s/the_battle_of_the_hard_boiled_eggs_by_martin_handford_2006.jpeg]]
 
 ![[media/strauh.al3.1/2000s/the_bride_who_married_a_snake_by_wangechi_mutu_2006.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2005|Date Bucket - 2005]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2007|Date Bucket - 2007]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

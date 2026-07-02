@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - chen yifei|Artist - chen yifei]] — named in this note
 - [[knowledge/wiki/artists/Artist - chen shizeng|Artist - chen shizeng]] — shared language: chen
 - [[knowledge/wiki/images/plum blossoms by chen shizeng a2f19917|plum blossoms by chen shizeng]] — shared language: chen
-- [[knowledge/wiki/images/oil painting of a young woman in profile with a dark headscarf 39ef8f0b|oil painting of a young woman in profile with a dark headscarf]] — shared language: young, woman
-- [[knowledge/wiki/images/juxtaposition of a potted pilea plant and multiple satellite dishes on a building cf9cff34|juxtaposition of a potted pilea plant and multiple satellite dishes on a building]] — shared language: plant
+- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young, woman
+- [[knowledge/wiki/images/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: young, woman
 - [[knowledge/wiki/images/river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]] — shared language: plant
 <!-- vault-crosslinks:end -->

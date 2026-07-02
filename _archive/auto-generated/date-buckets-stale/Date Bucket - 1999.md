@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg]]
 
 ![[media/strauh.al3.1/1900s/wildcats_promotional_poster_by_travis_charest_and_richard_friend_1999.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1998|Date Bucket - 1998]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2000|Date Bucket - 2000]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

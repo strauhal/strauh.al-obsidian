@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1800s/williamadolphe_bouguereau_dante_and_virgil_1850.jpg]]
 
 ![[media/strauh.al3.1/1800s/williamadolphe_bouguereau_dante_and_virgil_1850_2.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1849|Date Bucket - 1849]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1851|Date Bucket - 1851]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

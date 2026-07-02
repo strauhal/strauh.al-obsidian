@@ -40,18 +40,17 @@ endless feed."
 **Books (1).** [[gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/books/penguin-classics-heraclitus-brooks-haxton-james-hillman-fragments|Fragments]] — named in this note
+- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
 - [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: feed, attention, economy
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: label, slop, record
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: economy, attention, label
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: economy, attention
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: andy, warhol
-- [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — shared language: economy, attention
-- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: economy, attention, slop
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

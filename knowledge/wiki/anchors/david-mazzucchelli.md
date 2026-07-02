@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/david-lean|David Lean]] — shared language: david, wikilink, merge
-- [[knowledge/wiki/anchors/current-cultural-diet|current-cultural-diet]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/current-cultural-diet|current-cultural-diet]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[mutius excellens virtute reliquit eremum st mutius by maerten de vos c 1585 0f74ebab|mutius excellens virtute reliquit eremum st mutius by maerten de vos c 1585]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - mac grea|Artist - mac grea]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - makoto aida|Artist - makoto aida]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - m s corley|Artist - m s corley]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

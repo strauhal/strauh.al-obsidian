@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the faerie queene by kinuko y craft 2008 27ce8a86|the faerie queene by kinuko y craft 2008]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/benebell-wen-the-tao-of-craft-fu-talismans-and-casting-sigils-in-the-eastern-esoteric-tradition-north-atlantic-books|The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books]] — shared language: craft
+- [[knowledge/wiki/artists/Artist - kilian eng|Artist - kilian eng]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kirk rosenkranz|Artist - kirk rosenkranz]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

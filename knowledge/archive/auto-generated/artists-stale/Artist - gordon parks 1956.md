@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gordon parks 1949|Artist - gordon parks 1949]] — named in this note
 - [[knowledge/wiki/images/untitled man on a wheel fort scott kansas by gordon parks 1949 3a62c7ba|untitled man on a wheel fort scott kansas by gordon parks 1949]] — shared language: parks, gordon
 - [[knowledge/wiki/images/three boys with a toy gun fort scott kansas by gordon parks 1949 b9a233ec|three boys with a toy gun fort scott kansas by gordon parks 1949]] — shared language: parks, gordon
-- [[knowledge/wiki/images/black and white photographs of christopher n schumacher and gordon schumacher on a printed page 9cdc91ff|black and white photographs of christopher n schumacher and gordon schumacher on a printed page]] — shared language: gordon
 - [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: gordon
+- [[knowledge/wiki/images/black and white photographs of christopher n schumacher and gordon schumacher on a printed page 9cdc91ff|black and white photographs of christopher n schumacher and gordon schumacher on a printed page]] — shared language: gordon
 <!-- vault-crosslinks:end -->

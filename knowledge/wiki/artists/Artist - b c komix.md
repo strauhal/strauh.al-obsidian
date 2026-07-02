@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[fuck kim jung gi is dead by b c komix 2023 5b6475b4|fuck kim jung gi is dead by b c komix 2023]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: fuck
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: fuck
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: jung
+<!-- vault-crosslinks:end -->

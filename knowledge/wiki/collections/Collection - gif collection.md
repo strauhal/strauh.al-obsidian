@@ -265,3 +265,16 @@ Files: 355
 - [[1729051528863820 c67a0155|1729051528863820]]
 
 _Only the first 200 image notes are listed here; search covers all 355._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/1696800305163788 66db6f1f|1696800305163788]] — shared language: gif
+- [[knowledge/wiki/images/1729051593234719 df429d3a|1729051593234719]] — shared language: gif
+- [[knowledge/wiki/images/1729051820342562 5ba5892e|1729051820342562]] — shared language: gif
+- [[knowledge/wiki/images/1729051882527168 81cc4486|1729051882527168]] — shared language: gif
+- [[knowledge/wiki/images/1729052646111556 a7f6bc18|1729052646111556]] — shared language: gif
+- [[knowledge/wiki/images/1729052730643756 005d3d2e|1729052730643756]] — shared language: gif
+- [[knowledge/wiki/images/1729058559909112 c9f00964|1729058559909112]] — shared language: gif
+<!-- vault-crosslinks:end -->

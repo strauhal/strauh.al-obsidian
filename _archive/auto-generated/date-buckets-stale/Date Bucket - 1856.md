@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/night_view_of_saruwaka_machi_by_utagawa_hiroshige_1856.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_banjo_player_by_william_sidney_mount_1856.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1855|Date Bucket - 1855]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1857|Date Bucket - 1857]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

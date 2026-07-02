@@ -18,3 +18,12 @@ Files: 1
 ## Image Notes
 
 - [[banner 46fc8e74|banner]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/raw/source-manifest|Raw Source Manifest]] — shared language: root
+- [[knowledge/wiki/life/Family|Family]] — shared language: root
+- [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — shared language: banner
+<!-- vault-crosslinks:end -->

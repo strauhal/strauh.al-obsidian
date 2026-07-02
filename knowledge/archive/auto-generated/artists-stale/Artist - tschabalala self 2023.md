@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — named in this note
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: self
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: self
 - [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
 - [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — shared language: self
-- [[knowledge/wiki/images/self portrait by willem de kooning 1947 e62d82ce|self portrait by willem de kooning 1947]] — shared language: self
 <!-- vault-crosslinks:end -->

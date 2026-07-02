@@ -47,8 +47,8 @@ ernest
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
 - [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — same category: site-feedback
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: website, know, find
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, bugs, incoming
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, strauh.al
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private
 - [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — shared language: private, direction, incoming
-- [[knowledge/wiki/images/flowerkite website png 5b33fcc0|flowerkite website png]] — shared language: website
 <!-- vault-crosslinks:end -->

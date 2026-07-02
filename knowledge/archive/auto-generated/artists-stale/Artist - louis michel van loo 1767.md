@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean baptiste van loo 1723|Artist - jean baptiste van loo 1723]] — shared language: loo, van, louis
 - [[knowledge/wiki/images/portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]] — shared language: loo, louis, van
 - [[knowledge/wiki/images/portrait of louis xv king of france and navarre by jean baptiste van loo c 1725 8f055c38|portrait of louis xv king of france and navarre by jean baptiste van loo c 1725]] — shared language: loo, louis, van
-- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: michel
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 <!-- vault-crosslinks:end -->

@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1500s/the_golden_age_l_age_d_or_by_lucas_cranach_the_elder_c_1530.jpeg]]
 
 ![[media/strauh.al3.1/photography/IMG_1531.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1520s|Date Bucket - 1520s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1540s|Date Bucket - 1540s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

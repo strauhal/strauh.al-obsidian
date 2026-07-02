@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[les demoiselles de village the young ladies of the village by gustave courbet 1852 e0235fcf|les demoiselles de village the young ladies of the village by gustave courbet 1852]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
+- [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: gustave
+- [[knowledge/wiki/images/the deluge by gustave dore 1866 ab921780|the deluge by gustave dore 1866]] — shared language: gustave
+- [[knowledge/wiki/images/the deluge by gustave dore 1866 2 2c86e9ec|the deluge by gustave dore 1866 2]] — shared language: gustave
+- [[knowledge/wiki/images/herodiade by gustave dore 1868 9180f266|herodiade by gustave dore 1868]] — shared language: gustave
+- [[knowledge/wiki/images/man on a balcony by gustave caillebotte 1880 87b11d90|man on a balcony by gustave caillebotte 1880]] — shared language: gustave
+<!-- vault-crosslinks:end -->

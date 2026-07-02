@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/the_print_collector_by_honore_victorin_daumier_1857_65.jpeg]]
 
 ![[media/strauh.al3.1/1800s/view_of_cotopaxi_by_frederic_edwin_church_1857.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1856|Date Bucket - 1856]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1858|Date Bucket - 1858]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

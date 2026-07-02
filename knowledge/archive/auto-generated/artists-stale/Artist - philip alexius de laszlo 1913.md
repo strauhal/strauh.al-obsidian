@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - philip alexius de laszlo|Artist - philip alexius de laszlo]] — named in this note
-- [[knowledge/wiki/images/philip sonkys portrait study of a woman froud maisir 1902 dfa307a5|philip sonkys portrait study of a woman froud maisir 1902]] — shared language: philip, portrait
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - laszlo moholy nagy|Artist - laszlo moholy nagy]] — shared language: laszlo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - laszlo moholy nagy 1929|Artist - laszlo moholy nagy 1929]] — shared language: laszlo
-- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
+- [[knowledge/wiki/images/composition by laszlo moholy nagy 1929 e8f4f4e8|composition by laszlo moholy nagy 1929]] — shared language: laszlo
 <!-- vault-crosslinks:end -->

@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/2000s/the_policeman_by_peter_doig_2002.jpg]]
 
 ![[media/strauh.al3.1/2000s/the_woman_who_died_of_a_broken_heart_by_marlene_dumas_2002.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2001|Date Bucket - 2001]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2003|Date Bucket - 2003]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

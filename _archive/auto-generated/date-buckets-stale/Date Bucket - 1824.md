@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1800s/the_fall_of_the_rebel_angels_by_john_martin_1824.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1824.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1822|Date Bucket - 1822]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1826|Date Bucket - 1826]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

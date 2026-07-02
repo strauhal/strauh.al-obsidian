@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1900s/when_i_grow_up_i_want_to_be_a_radical_terrorist_calvin_and_hobbes_by_bill_watterson_1986.jpg]]
 
 ![[media/strauh.al3.1/1900s/when_i_grow_up_i_want_to_be_a_radical_terrorist_calvin_and_hobbes_strip_panel_by_bill_watterson_1986.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1985|Date Bucket - 1985]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1987|Date Bucket - 1987]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-glue-society-2014|Artist - the glue society 2014]] — shared language: glue, society
 - [[_archive/auto-generated/books-stale/fukuyama-the-end-of-history|Fukuyama-The-End-of-History]] — shared language: society
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: society
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: society
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: society
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — shared language: society
-- [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: society
-- [[_archive/auto-generated/books-stale/manifesto|manifesto]] — shared language: society
 <!-- vault-crosslinks:end -->

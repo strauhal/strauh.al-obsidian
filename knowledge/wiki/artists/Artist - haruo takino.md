@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[catv higashi takarajima by haruo takino 1993 46f3a647|catv higashi takarajima by haruo takino 1993]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - harry clarke|Artist - harry clarke]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - hashiguchi goyo|Artist - hashiguchi goyo]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - harold edgerton|Artist - harold edgerton]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

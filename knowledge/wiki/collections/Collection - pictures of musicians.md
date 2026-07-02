@@ -134,3 +134,16 @@ Files: 71
 - [[swanson 500 6239a91c|swanson 500]]
 - [[trampoline alt d5c220f6|trampoline alt]]
 - [[trio ae42a64b|trio]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/pages/pictures of musicians|pictures of musicians]] — named in this note
+- [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
+- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/images/102127 a1m3mxqxxxxdms7 custom e233cbf9|102127 a1m3mxqxxxxdms7 custom]] — named in this note
+- [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: talking
+- [[knowledge/wiki/images/tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048 47aa976a|tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg 8a6a2513|tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg]] — shared language: tumblr
+<!-- vault-crosslinks:end -->

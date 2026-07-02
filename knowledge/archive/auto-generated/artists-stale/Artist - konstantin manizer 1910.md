@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — named in this note
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1907|Artist - konstantin somov 1907]] — shared language: konstantin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin makovsky 1880|Artist - konstantin makovsky 1880]] — shared language: konstantin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1935|Artist - konstantin somov 1935]] — shared language: konstantin
-- [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

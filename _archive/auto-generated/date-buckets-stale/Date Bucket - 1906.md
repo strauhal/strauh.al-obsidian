@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/the_sun_saule_by_mikalojus_konstantinas_ciurlionis_1905_1906.jpeg]]
 
 ![[media/strauh.al3.1/1900s/william_merritt_chase_a_daisy_field_1906.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1905|Date Bucket - 1905]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1907|Date Bucket - 1907]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

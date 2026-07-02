@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[open by oneen 2020 a2aba985|open by oneen 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - omar rayo|Artist - omar rayo]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - onoe matsusuke i by utagawa toyokuni i|Artist - onoe matsusuke i by utagawa toyokuni i]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - omar hassan|Artist - omar hassan]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

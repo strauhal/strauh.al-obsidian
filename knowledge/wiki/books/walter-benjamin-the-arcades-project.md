@@ -48,11 +48,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — same author: walter benjamin
-- [[knowledge/wiki/pages/arcades project|arcades project]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/gilles-deleuze-postscript-on-the-societies-of-control|Postscript on the Societies of Control]] — same category: philosophy
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
 - [[knowledge/wiki/books/gilles-deleuze-difference-and-repetition-excerpt|Difference and Repetition (excerpt)]] — same category: philosophy
+- [[knowledge/wiki/books/gilles-deleuze-cinema-2-the-time-image-excerpt|Cinema 2: The Time-Image (excerpt)]] — same category: philosophy
 <!-- vault-crosslinks:end -->

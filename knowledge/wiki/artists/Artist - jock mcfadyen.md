@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the bather by jock mcfadyen 2012 0b8737e4|the bather by jock mcfadyen 2012]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/bather reclining on a bank by pierre auguste renoir c 1883 c6d33406|bather reclining on a bank by pierre auguste renoir c 1883]] — shared language: bather
+- [[knowledge/wiki/artists/Artist - joaquin sorolla y bastida|Artist - joaquin sorolla y bastida]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - joe madureira|Artist - joe madureira]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

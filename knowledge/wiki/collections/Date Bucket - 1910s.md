@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1910s"
 source_kind: "date_bucket"
-count: "124"
+count: "125"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1910s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 124
+Files: 125
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 124
 ![[media/strauh.al3.1/1900s/egon_schiele_gustav_klimt_im_blauen_malerkittel_1913_jpeg.jpeg]]
 
 ![[media/strauh.al3.1/1900s/egon_schiele_sitzende_frau_mit_hochgezogenem_knie_1917_jpeg.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1900s|Date Bucket - 1900s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1920s|Date Bucket - 1920s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[still life with dead game a monkey and a dog by jan weenix c 1700 ce05f12e|still life with dead game a monkey and a dog by jan weenix c 1700]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
+- [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, still, life
+- [[knowledge/wiki/artists/Artist - jan sadeler i|Artist - jan sadeler i]] — shared language: jan
+- [[knowledge/wiki/images/still life with flowers and fruit by jan van huysum c 1715 3e9fa2de|still life with flowers and fruit by jan van huysum c 1715]] — shared language: jan, still, life
+- [[knowledge/wiki/artists/Artist - jan roehr|Artist - jan roehr]] — shared language: jan
+- [[knowledge/wiki/artists/Artist - jan mandijn|Artist - jan mandijn]] — shared language: jan
+<!-- vault-crosslinks:end -->

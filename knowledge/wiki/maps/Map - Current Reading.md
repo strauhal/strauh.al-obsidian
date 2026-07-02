@@ -2,8 +2,8 @@
 title: Map - Current Reading
 type: map
 tags: [map, culture, reading, queue]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Map - Current Reading

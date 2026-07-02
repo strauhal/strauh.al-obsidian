@@ -16,3 +16,13 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the flying carpet by viktor vasnetsov 1880 849f924a|the flying carpet by viktor vasnetsov 1880]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the carpet merchant by jean leon gerome 1887 8a86d8b1|the carpet merchant by jean leon gerome 1887]] — shared language: carpet
+- [[knowledge/wiki/images/franklin booth flying islands illustration 1913 jpg a6080d4a|franklin booth flying islands illustration 1913 jpg]] — shared language: flying
+- [[knowledge/wiki/images/photograph of a black u s air force reconnaissance jet flying above clouds 7e1783d9|photograph of a black u s air force reconnaissance jet flying above clouds]] — shared language: flying
+- [[knowledge/wiki/images/flying vehicle over forest landscape by jean giraud moebius b915eb72|flying vehicle over forest landscape by jean giraud moebius]] — shared language: flying
+- [[knowledge/wiki/images/photographic grid of small birds flying against a cloudy blue sky f799a926|photographic grid of small birds flying against a cloudy blue sky]] — shared language: flying
+<!-- vault-crosslinks:end -->

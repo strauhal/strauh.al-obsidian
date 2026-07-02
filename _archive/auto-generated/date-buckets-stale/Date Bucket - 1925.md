@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1900s/the_red_tower_by_giorgio_de_chirico_1925.jpg]]
 
 ![[media/strauh.al3.1/1900s/two_male_ballet_dancers_by_pablo_picasso_1925.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1924|Date Bucket - 1924]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1926|Date Bucket - 1926]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

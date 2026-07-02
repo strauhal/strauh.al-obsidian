@@ -47,9 +47,9 @@ Total entries: 407
 - [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, art, media
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: entries, confidant, read
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, confidant, internet
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: elegance, spontaneity, latent
 - [[knowledge/output/library-build-report|library-build-report]] — shared language: technology, media, esoterica
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: confidant, latent, internet
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, philosophy, total
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, personal, space
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: elegance, spontaneity, latent
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: latent, wiki, confidant
 <!-- vault-crosslinks:end -->

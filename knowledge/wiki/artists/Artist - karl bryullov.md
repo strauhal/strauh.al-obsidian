@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[perseus and andromeda by karl bryullov 1822 1fd40d21|perseus and andromeda by karl bryullov 1822]]
 - [[portrait of grand duchess maria nikolaevna by karl bryullov 1837 46c60666|portrait of grand duchess maria nikolaevna by karl bryullov 1837]]
 - [[portrait of princess maria nikolaevna volkonskaya by karl bryullov 1837 a61734ca|portrait of princess maria nikolaevna volkonskaya by karl bryullov 1837]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/perseus cc022ab3|perseus]] — named in this note
+- [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
+- [[knowledge/wiki/artists/Artist - karl wirsum|Artist - karl wirsum]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: karl
+- [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: karl
+<!-- vault-crosslinks:end -->

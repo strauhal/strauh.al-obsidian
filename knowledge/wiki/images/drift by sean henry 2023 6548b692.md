@@ -1,7 +1,7 @@
 ---
 title: "drift by sean henry 2023"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/drift_by_sean_henry_2023.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/drift_by_sean_henry_2023.jpeg"
 source_relpath: "2000s/drift_by_sean_henry_2023.jpeg"
 collection: "2000s"
 inferred_year: "2023"
@@ -22,4 +22,14 @@ Artist: [[Artist - sean henry]]
 
 Source: [[media/strauh.al3.1/2000s/drift_by_sean_henry_2023.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/drift_by_sean_henry_2023.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/drift_by_sean_henry_2023.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/drift by sean henry 2023 3 97e9fe04|drift by sean henry 2023 3]] — same artist: sean henry
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: drift
+- [[knowledge/wiki/artists/Artist - sean adair|Artist - sean adair]] — shared language: sean
+- [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — shared language: henry
+<!-- vault-crosslinks:end -->

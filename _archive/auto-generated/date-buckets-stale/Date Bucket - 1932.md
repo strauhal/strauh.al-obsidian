@@ -44,3 +44,11 @@ Files: 16
 ![[media/strauh.al3.1/1900s/the_tube_station_by_cyril_edward_power_1932.jpg]]
 
 ![[media/strauh.al3.1/2023_downloadsfolder/IMG_1932.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1931|Date Bucket - 1931]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1933|Date Bucket - 1933]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

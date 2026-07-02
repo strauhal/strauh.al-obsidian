@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[george washington the lansdowne portrait by gilbert stuart 1796 1f8d2ca4|george washington the lansdowne portrait by gilbert stuart 1796]]
 - [[mrs perez morton by gilbert stuart c 1802 c2a7d752|mrs perez morton by gilbert stuart c 1802]]
 - [[thomas jefferson by gilbert stuart 1805 e765ec56|thomas jefferson by gilbert stuart 1805]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: gilbert
+- [[knowledge/wiki/images/the offering by gilbert williams 1995 ae967606|the offering by gilbert williams 1995]] — shared language: gilbert
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
+- [[knowledge/wiki/artists/Artist - stuart davis 19531954|Artist - stuart davis 19531954]] — shared language: stuart
+- [[knowledge/wiki/images/composition by stuart davis 1930 5aefd485|composition by stuart davis 1930]] — shared language: stuart
+- [[knowledge/wiki/images/composition by stuart davis 1957 1e5db7ad|composition by stuart davis 1957]] — shared language: stuart
+<!-- vault-crosslinks:end -->

@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/2023_downloadsfolder/IMG_1615.JPG]]
 
 ![[media/strauh.al3.1/unsorted/tumblr_f98f7fc5afa7c1615e89dc3ff676a469_4db5fb39_1280_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1614|Date Bucket - 1614]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1616|Date Bucket - 1616]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

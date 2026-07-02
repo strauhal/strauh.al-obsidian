@@ -52,3 +52,14 @@ Images attributed by filename: 13
 - [[the goldfish bowl by john william waterhouse 1905 7512e631|the goldfish bowl by john william waterhouse 1905]]
 - [[the sweet pea by john william waterhouse 1905 8f469338|the sweet pea by john william waterhouse 1905]]
 - [[vanity by john william waterhouse 1900 1d86cae6|vanity by john william waterhouse 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/john william waterhouse hylas and the nymphs 1896 0b76d852|john william waterhouse hylas and the nymphs 1896]] — named in this note
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/images/john william waterhouse naiads 1908 dd603bdc|john william waterhouse naiads 1908]] — shared language: waterhouse, william, john
+- [[knowledge/wiki/artists/Artist - john william godward|Artist - john william godward]] — shared language: william, john, study
+- [[knowledge/wiki/images/a classical study by john william godward 1905 d33f157a|a classical study by john william godward 1905]] — shared language: william, john, study
+- [[knowledge/wiki/images/the mirror by john william godward 1899 c2159a79|the mirror by john william godward 1899]] — shared language: william, john
+<!-- vault-crosslinks:end -->

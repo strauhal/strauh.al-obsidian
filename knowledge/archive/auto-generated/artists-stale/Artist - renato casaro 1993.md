@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - renato casaro|Artist - renato casaro]] — named in this note
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
 - [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
 - [[knowledge/wiki/images/great architecture in chicago poster for container corporation of america by john massey 1966 b8f1ac96|great architecture in chicago poster for container corporation of america by john massey 1966]] — shared language: poster, great
 - [[knowledge/wiki/images/86 busted poster png 23102ee7|86 busted poster png]] — shared language: poster
-- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

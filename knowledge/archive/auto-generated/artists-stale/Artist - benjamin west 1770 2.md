@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1770|Artist - benjamin west 1770]] — shared language: benjamin, west, wolfe
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1802|Artist - benjamin west 1802]] — shared language: benjamin, west, death
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1768|Artist - benjamin west 1768]] — shared language: benjamin, west
-- [[knowledge/wiki/artists/Artist - benjamin west|Artist - benjamin west]] — shared language: benjamin, west, wolfe
+- [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1777|Artist - benjamin west 1777]] — shared language: benjamin, west
 <!-- vault-crosslinks:end -->

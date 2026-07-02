@@ -1,7 +1,7 @@
 ---
 title: "the open door by nell blaine 1959"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_open_door_by_nell_blaine_1959.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_open_door_by_nell_blaine_1959.jpeg"
 source_relpath: "1900s/the_open_door_by_nell_blaine_1959.jpeg"
 collection: "1900s"
 inferred_year: "1959"
@@ -22,4 +22,14 @@ Artist: [[Artist - nell blaine]]
 
 Source: [[media/strauh.al3.1/1900s/the_open_door_by_nell_blaine_1959.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_open_door_by_nell_blaine_1959.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_open_door_by_nell_blaine_1959.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/screen door png 19aa7855|screen door png]] — shared language: door
+- [[knowledge/wiki/images/photo through a screen door of trees bbe51fd4|photo through a screen door of trees]] — shared language: door
+- [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: door
+- [[knowledge/wiki/images/photo of two black cats by a glass door 2 c84476a3|photo of two black cats by a glass door 2]] — shared language: door
+- [[knowledge/wiki/images/photo of two black cats by a glass door c5051b95|photo of two black cats by a glass door]] — shared language: door
+<!-- vault-crosslinks:end -->

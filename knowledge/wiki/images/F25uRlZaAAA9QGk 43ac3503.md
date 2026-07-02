@@ -1,7 +1,7 @@
 ---
 title: "F25uRlZaAAA9QGk"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg"
 source_relpath: "2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/F25uRlZaAAA9QGk.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/F1bOQMXWIAwFpHq 9107d220|F1bOQMXWIAwFpHq]] — nearby note in the same source series
+- [[knowledge/wiki/images/F27JQWMWEAA1eaP 71106bda|F27JQWMWEAA1eaP]] — nearby note in the same source series
+- [[knowledge/wiki/images/F x5J10aUAAX io 65ea183f|F x5J10aUAAX io]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

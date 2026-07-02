@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[interior of the artist s library by walter gay 1909 13 00c7b8f8|interior of the artist s library by walter gay 1909 13]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
+- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: gay
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
+<!-- vault-crosslinks:end -->

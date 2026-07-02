@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/2023_downloadsfolder/Messiaen_1937_4.jpg]]
 
 ![[media/strauh.al3.1/unsorted/charles_meryon_etchings_of_paris_the_new_bridge_1937_635_cleveland_museum_of_art_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1936|Date Bucket - 1936]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1938|Date Bucket - 1938]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

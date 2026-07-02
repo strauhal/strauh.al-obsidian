@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/the_east_river_by_maurice_prendergast_1901.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_knight_of_the_flowers_by_herbert_james_draper_1901.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1900s|Date Bucket - 1900s]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1902|Date Bucket - 1902]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

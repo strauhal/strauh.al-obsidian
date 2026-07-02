@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[saint francis in the desert by giovanni bellini c 14801485 1ae5688e|saint francis in the desert by giovanni bellini c 14801485]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, francis
+- [[knowledge/wiki/artists/Artist - giovanni boldini|Artist - giovanni boldini]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni baglione|Artist - giovanni baglione]] — shared language: giovanni
+- [[knowledge/wiki/images/giovanni battista piazzetta the ecstasy of st francis wga17423 jpg 77d61760|giovanni battista piazzetta the ecstasy of st francis wga17423 jpg]] — shared language: giovanni, francis
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: giovanni
+<!-- vault-crosslinks:end -->

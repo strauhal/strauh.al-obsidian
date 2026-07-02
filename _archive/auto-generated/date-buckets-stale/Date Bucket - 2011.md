@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/2000s/the_decline_and_fall_of_the_roman_empire_after_edward_gibbon_by_mishka_henner_2011.png]]
 
 ![[media/strauh.al3.1/2000s/the_jump_by_alex_prager_2011.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2010|Date Bucket - 2010]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2012|Date Bucket - 2012]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

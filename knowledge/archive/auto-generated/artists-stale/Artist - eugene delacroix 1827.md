@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - eugene delacroix|Artist - eugene delacroix]] — named in this note
-- [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: eugene
 - [[knowledge/wiki/images/eugne delacroix faust and mephistopheles 1828 dea113a2|eugne delacroix faust and mephistopheles 1828]] — shared language: delacroix
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: eugene
+- [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: eugene
+- [[knowledge/wiki/images/le paysan by eugene burnand 1894 d25ad84d|le paysan by eugene burnand 1894]] — shared language: eugene
 - [[knowledge/wiki/images/pieta after delacroix by vincent van gogh 1889 3abdf0a1|pieta after delacroix by vincent van gogh 1889]] — shared language: delacroix
-- [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — shared language: eugene
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: eugene
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1870s"
 source_kind: "date_bucket"
-count: "83"
+count: "90"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1870s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 83
+Files: 90
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 83
 ![[media/strauh.al3.1/1800s/jan_matejko_astronomer_copernicus_or_conversations_with_god_1873.jpg]]
 
 ![[media/strauh.al3.1/1800s/jeanjulesantoine_lecomte_du_nou_the_dream_le_rve_1874.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1860s|Date Bucket - 1860s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1880s|Date Bucket - 1880s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

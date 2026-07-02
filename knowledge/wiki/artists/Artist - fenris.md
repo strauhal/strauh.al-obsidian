@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[macintosh witch by fenris 2019 4ee5c3c2|macintosh witch by fenris 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: macintosh
+- [[knowledge/wiki/images/saul and the witch of endor by benjamin west 1777 99285f5b|saul and the witch of endor by benjamin west 1777]] — shared language: witch
+- [[knowledge/wiki/artists/Artist - early macintosh icons|Artist - early macintosh icons]] — shared language: macintosh
+- [[knowledge/wiki/images/macintosh family by chuck walker 1986 b7fc587d|macintosh family by chuck walker 1986]] — shared language: macintosh
+- [[knowledge/wiki/images/takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844 5e5d9ecf|takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844]] — shared language: witch
+- [[knowledge/wiki/images/photograph of a vintage macintosh computer with a piano keyboard and mouse 9c8346aa|photograph of a vintage macintosh computer with a piano keyboard and mouse]] — shared language: macintosh
+<!-- vault-crosslinks:end -->

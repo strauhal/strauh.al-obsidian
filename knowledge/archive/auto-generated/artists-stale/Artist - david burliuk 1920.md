@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 1978|Artist - david hockney 1978]] — shared language: david
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: david
 <!-- vault-crosslinks:end -->

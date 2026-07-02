@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1800s/portrait_of_jeanne_samary_by_pierre_auguste_renoir_1877.jpeg]]
 
 ![[media/strauh.al3.1/1800s/portrait_of_jeanne_samary_by_pierre_auguste_renoir_1877.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1876|Date Bucket - 1876]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1878|Date Bucket - 1878]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

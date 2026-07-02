@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - fyodor shurpin|Artist - fyodor shurpin]] — named in this note
-- [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
-- [[knowledge/archive/auto-generated/artists-stale/Artist - fyodor bruni 1837|Artist - fyodor bruni 1837]] — shared language: fyodor
 - [[knowledge/wiki/artists/Artist - fyodor bronnikov|Artist - fyodor bronnikov]] — shared language: fyodor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fyodor bronnikov 1864|Artist - fyodor bronnikov 1864]] — shared language: fyodor
+- [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
+- [[knowledge/archive/auto-generated/artists-stale/Artist - fyodor bruni 1837|Artist - fyodor bruni 1837]] — shared language: fyodor
 - [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: fyodor
 <!-- vault-crosslinks:end -->

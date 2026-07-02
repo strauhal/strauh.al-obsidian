@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[black and white woodblock print of a lungta wind horse surrounded by tibetan text abe1e074|black and white woodblock print of a lungta wind horse surrounded by tibetan text]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - tibetan script|Artist - tibetan script]] — shared language: tibetan, surrounded
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: text
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: tibetan
+- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: tibetan
+- [[knowledge/wiki/images/line drawing of a seated deity tara surrounded by tibetan script ef6ff518|line drawing of a seated deity tara surrounded by tibetan script]] — shared language: tibetan, surrounded
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: text
+<!-- vault-crosslinks:end -->

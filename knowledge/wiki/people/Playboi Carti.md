@@ -31,10 +31,10 @@ finding hidden adjacencies (cf. [[Latent Space]]).
 
 - [[knowledge/wiki/images/1960 d by clyfford still 1960 04b9f7ee|1960 d by clyfford still 1960]] — named in this note
 - [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: playboi, carti, influences
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, listed, among
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: carti, influences, playboi
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: influences, listed, among
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, paired
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space, distance
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, distance, space
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space, influences
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, influences, space
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, diary
 <!-- vault-crosslinks:end -->

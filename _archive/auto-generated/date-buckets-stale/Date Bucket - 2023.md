@@ -60,3 +60,11 @@ Files: 25
 ![[media/strauh.al3.1/2000s/the_plane_by_sarah_green_2023.jpg]]
 
 ![[media/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2022|Date Bucket - 2022]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2024|Date Bucket - 2024]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

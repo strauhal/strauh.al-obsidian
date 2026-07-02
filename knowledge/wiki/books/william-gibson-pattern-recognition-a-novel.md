@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
-- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/thomas-g-wong-introduction-to-classical-and-quantum-computing|Introduction to Classical and Quantum Computing]] — same category: media technology
+- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
 <!-- vault-crosslinks:end -->

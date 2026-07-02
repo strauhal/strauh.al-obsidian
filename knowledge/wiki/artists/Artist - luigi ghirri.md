@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[peonies bassano in teverina by luigi ghirri 1980 2d836122|peonies bassano in teverina by luigi ghirri 1980]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/sunday news free luigi deny 95899189 jpg d15b9f11|sunday news free luigi deny 95899189 jpg]] — shared language: luigi
+- [[knowledge/wiki/images/chinese ink and color painting of red and yellow peonies with bees 2a7a64b8|chinese ink and color painting of red and yellow peonies with bees]] — shared language: peonies
+- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

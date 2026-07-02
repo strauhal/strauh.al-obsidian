@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg]]
 
 ![[media/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1680s|Date Bucket - 1680s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1700s|Date Bucket - 1700s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

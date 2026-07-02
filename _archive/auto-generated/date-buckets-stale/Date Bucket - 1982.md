@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/untitled_knight_on_horseback_by_jean_michel_basquiat_1982.jpeg]]
 
 ![[media/strauh.al3.1/1900s/untitled_xii_by_willem_de_kooning_1982.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1981|Date Bucket - 1981]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1983|Date Bucket - 1983]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

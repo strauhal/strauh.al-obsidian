@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[official poster for the xx summer olympics munich 1972 architectural view by otl aicher 1972 d0a9cec8|official poster for the xx summer olympics munich 1972 architectural view by otl aicher 1972]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/images/summer solstice 3686b730|summer solstice]] — shared language: summer
+- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
+- [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: summer
+- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
+- [[knowledge/wiki/images/86 busted poster png 23102ee7|86 busted poster png]] — shared language: poster
+<!-- vault-crosslinks:end -->

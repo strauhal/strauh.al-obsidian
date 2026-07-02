@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — named in this note
 - [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1973|Artist - andy warhol 1973]] — shared language: andy
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: andy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1958|Artist - andy warhol 1958]] — shared language: andy
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: andy
 <!-- vault-crosslinks:end -->

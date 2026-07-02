@@ -21,7 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - javier calleja|Artist - javier calleja]] — named in this note
-- [[knowledge/wiki/images/cant see cant speak jpg 92dbf368|cant see cant speak jpg]] — shared language: see
 - [[knowledge/wiki/culture/movie-happy-as-lazzaro|Watchlist - Happy as Lazzaro]] — shared language: happy
 - [[knowledge/wiki/images/i am happy because every one loves me by louis wain c 1900 9382a08b|i am happy because every one loves me by louis wain c 1900]] — shared language: happy
 <!-- vault-crosslinks:end -->

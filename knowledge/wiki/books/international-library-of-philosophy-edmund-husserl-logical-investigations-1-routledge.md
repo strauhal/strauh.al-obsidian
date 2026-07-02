@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — same category: philosophy
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — same category: philosophy
-- [[knowledge/wiki/books/plato-euthyphro|Euthyphro]] — same category: philosophy
+- [[knowledge/wiki/books/plato-the-republic|The Republic]] — same category: philosophy
 <!-- vault-crosslinks:end -->

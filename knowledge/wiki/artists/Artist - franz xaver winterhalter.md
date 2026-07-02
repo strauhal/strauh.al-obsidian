@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of empress eugenie by franz xaver winterhalter 1853 ff2a5dac|portrait of empress eugenie by franz xaver winterhalter 1853]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz hanfstaengl|Artist - franz hanfstaengl]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - franz von bayros|Artist - franz von bayros]] — shared language: franz
+<!-- vault-crosslinks:end -->

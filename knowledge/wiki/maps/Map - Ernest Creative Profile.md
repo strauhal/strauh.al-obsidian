@@ -4,8 +4,8 @@ type: map
 status: synthesized
 tags: [map, profile, creative-practice, chatgpt-memory]
 sources: ["[[ChatGPT Memory Summary]]", "[[about]]", "[[diary]]", "[[influences]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Map - Ernest Creative Profile
@@ -77,5 +77,5 @@ ChatGPT remembers interest in Ableton, Premiere Pro, Pages, image generation, la
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: internet, confidant, summary
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, confidant, internet
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1892|Artist - john singer sargent 1892]] — shared language: sargent, singer, john
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1904|Artist - john singer sargent 1904]] — shared language: sargent, singer, john
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1898|Artist - john singer sargent 1898]] — shared language: sargent, singer, john
 <!-- vault-crosslinks:end -->

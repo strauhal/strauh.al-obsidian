@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[_archive/auto-generated/artists-noise/Artist - a swimming pool|Artist - a swimming pool]] — named in this note
 - [[knowledge/wiki/images/oil painting of figures and a dog by a swimming pool fb148c03|oil painting of figures and a dog by a swimming pool]] — shared language: swimming, pool
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

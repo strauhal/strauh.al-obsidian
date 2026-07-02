@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — same category: art aesthetics
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — same category: art aesthetics
+- [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

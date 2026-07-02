@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ernest strauhal|Artist - ernest strauhal]] — shared language: fire, eyes, like
-- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: like
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: like
-- [[knowledge/wiki/images/black and white photograph of two children playing in water from a fire hydrant 38eecc47|black and white photograph of two children playing in water from a fire hydrant]] — shared language: fire
-- [[knowledge/wiki/images/field fire by david hockney 2011 a5296dfd|field fire by david hockney 2011]] — shared language: fire
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: like
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: like
 <!-- vault-crosslinks:end -->

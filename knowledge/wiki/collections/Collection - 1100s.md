@@ -30,3 +30,16 @@ Files: 5
 - [[auspicious cranes section of a hanging scroll by emperor huizong 1112 22a98aed|auspicious cranes section of a hanging scroll by emperor huizong 1112]]
 - [[listening to the qin ting qin tu by emperor huizong c 1110 edd35d92|listening to the qin ting qin tu by emperor huizong c 1110]]
 - [[the red cliff section of a handscroll by qiao zhongchang ca 1123 e7afa55f|the red cliff section of a handscroll by qiao zhongchang ca 1123]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/artists/Artist - emperor huizong|Artist - emperor huizong]] — shared language: huizong, emperor, qin
+- [[knowledge/wiki/artists/Artist - wang ximeng|Artist - wang ximeng]] — shared language: ximeng, wang, rivers
+- [[knowledge/wiki/artists/Artist - qiao zhongchang|Artist - qiao zhongchang]] — shared language: qiao, zhongchang, section
+- [[knowledge/wiki/images/the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty ae70836e|the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty]] — shared language: emperor, section, wang
+- [[knowledge/wiki/artists/Artist - emperor huizong northern song dynasty|Artist - emperor huizong northern song dynasty]] — shared language: huizong, emperor
+- [[knowledge/wiki/artists/Artist - wang hui and others qing dynasty|Artist - wang hui and others qing dynasty]] — shared language: wang, emperor, section
+- [[knowledge/wiki/artists/Artist - wang hui|Artist - wang hui]] — shared language: wang, thousand
+<!-- vault-crosslinks:end -->

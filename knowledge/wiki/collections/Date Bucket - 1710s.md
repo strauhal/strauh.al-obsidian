@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1710s"
 source_kind: "date_bucket"
-count: "5"
+count: "4"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1710s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 4
 
 ## Sample
 
@@ -21,4 +21,10 @@ Files: 5
 
 ![[media/strauh.al3.1/1700s/still_life_with_flowers_and_fruit_by_jan_van_huysum_c_1715.jpeg]]
 
-![[media/strauh.al3.1/unsorted/img_1714_jpeg.jpeg]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1700s|Date Bucket - 1700s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1720s|Date Bucket - 1720s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

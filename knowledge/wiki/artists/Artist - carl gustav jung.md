@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[lapis philosophorum diagram by carl gustav jung 1919 5ec13172|lapis philosophorum diagram by carl gustav jung 1919]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: jung, carl
+- [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: jung, gustav, carl
+- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: jung, carl
+- [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: jung, gustav, carl
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung, carl, gustav
+- [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — shared language: jung, gustav, carl
+<!-- vault-crosslinks:end -->

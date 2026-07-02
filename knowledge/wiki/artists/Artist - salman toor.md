@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the studio by salman toor 2020 6de2904b|the studio by salman toor 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/auerbach s studio 1985 6fb0216f|auerbach s studio 1985]] — shared language: studio
+- [[knowledge/wiki/images/calvary painting with artist in studio 708f19c0|calvary painting with artist in studio]] — shared language: studio
+- [[knowledge/wiki/images/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: studio
+- [[knowledge/wiki/images/joan mitchell in her studio 1956 9aae0df7|joan mitchell in her studio 1956]] — shared language: studio
+- [[knowledge/wiki/images/21 portrait of joan mitchell in her studio 1956 jpg 9cecff11|21 portrait of joan mitchell in her studio 1956 jpg]] — shared language: studio
+- [[knowledge/wiki/images/egon schiele in his studio with sculpture 1102d053|egon schiele in his studio with sculpture]] — shared language: studio
+<!-- vault-crosslinks:end -->

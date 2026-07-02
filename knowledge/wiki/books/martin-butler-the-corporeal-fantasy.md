@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
-- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

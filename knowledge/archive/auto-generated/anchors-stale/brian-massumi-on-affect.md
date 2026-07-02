@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[knowledge/wiki/books/brian-massumi-on-affect-divine-curation|Brian Massumi on Affect - divine curation]] — shared language: massumi, affect, brian
 - [[knowledge/wiki/anchors/brian-de-palma|Brian De Palma]] — shared language: brian, wikilink, merge
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

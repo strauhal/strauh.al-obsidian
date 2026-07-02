@@ -1,10 +1,10 @@
 ---
 title: "pictures of musicians"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/pictures_of_musicians.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/pictures_of_musicians.html"
 source_relpath: "pictures_of_musicians.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # pictures of musicians
@@ -72,3 +72,16 @@ strauh.al/pictures_of_musicians
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - pictures of musicians|Collection - pictures of musicians]] — named in this note
+- [[knowledge/wiki/images/pete swanson PR e1360767839462 d62b7513|pete swanson PR e1360767839462]] — named in this note
+- [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
+- [[knowledge/wiki/images/swanson 500 6239a91c|swanson 500]] — named in this note
+- [[knowledge/wiki/images/reznor e0b097ed|reznor]] — named in this note
+- [[knowledge/wiki/images/grips 1e01a5b3|grips]] — named in this note
+- [[knowledge/wiki/images/138086545 10158699256068503 3418963648647898543 n 725913ac|138086545 10158699256068503 3418963648647898543 n]] — shared language: pictures, musicians, n.jpg
+- [[knowledge/wiki/images/174555764 10220184080575620 4719616491706322302 n 8a4a41a1|174555764 10220184080575620 4719616491706322302 n]] — shared language: pictures, musicians, n.jpg
+<!-- vault-crosslinks:end -->

@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/the_old_glen_mill_by_maxfield_parrish_1950.jpeg]]
 
 ![[media/strauh.al3.1/1900s/untitled_by_willem_de_kooning_c_1949_1950.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1949|Date Bucket - 1949]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1951|Date Bucket - 1951]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

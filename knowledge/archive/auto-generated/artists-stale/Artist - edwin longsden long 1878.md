@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - edwin longsden long|Artist - edwin longsden long]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: long
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1857|Artist - frederic edwin church 1857]] — shared language: edwin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1865|Artist - frederic edwin church 1865]] — shared language: edwin
-- [[knowledge/wiki/artists/Artist - frederick edwin church|Artist - frederick edwin church]] — shared language: edwin
 <!-- vault-crosslinks:end -->

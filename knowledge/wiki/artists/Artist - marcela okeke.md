@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[my people did not let my people in so they flew home by marcela okeke 2023 b452ced3|my people did not let my people in so they flew home by marcela okeke 2023]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/james tissot the jewish people taken into captivity c 18961902 d7af3cdb|james tissot the jewish people taken into captivity c 18961902]] — shared language: people
+- [[knowledge/wiki/images/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people
+- [[knowledge/wiki/images/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: people
+- [[knowledge/wiki/images/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: people
+- [[knowledge/wiki/images/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — shared language: people
+- [[knowledge/wiki/images/cartoon about doing what people want not what they say 551f1d78|cartoon about doing what people want not what they say]] — shared language: people
+<!-- vault-crosslinks:end -->

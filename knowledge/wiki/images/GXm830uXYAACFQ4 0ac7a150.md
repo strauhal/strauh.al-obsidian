@@ -1,7 +1,7 @@
 ---
 title: "GXm830uXYAACFQ4"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GXm830uXYAACFQ4.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GXm830uXYAACFQ4.jpeg"
 source_relpath: "2024_downloadsfolder/GXm830uXYAACFQ4.jpeg"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/GXm830uXYAACFQ4.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GXm830uXYAACFQ4.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GXm830uXYAACFQ4.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/GXjcECrXYAAnKVc f66d41e9|GXjcECrXYAAnKVc]] — nearby note in the same source series
+- [[knowledge/wiki/images/GXnWgGeXkAMGnS0 71cb7b92|GXnWgGeXkAMGnS0]] — nearby note in the same source series
+- [[knowledge/wiki/images/GXiWfLDWoAA0xhZ 8bb898b2|GXiWfLDWoAA0xhZ]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

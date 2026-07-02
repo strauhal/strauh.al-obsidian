@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hans bellmer 1939|Artist - hans bellmer 1939]] — shared language: hans
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hans bellmer 1937|Artist - hans bellmer 1937]] — shared language: hans
+- [[knowledge/wiki/artists/Artist - hans bellmer|Artist - hans bellmer]] — shared language: hans
 - [[knowledge/wiki/artists/Artist - hans makart|Artist - hans makart]] — shared language: hans
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hans makart 1878|Artist - hans makart 1878]] — shared language: hans
 <!-- vault-crosslinks:end -->

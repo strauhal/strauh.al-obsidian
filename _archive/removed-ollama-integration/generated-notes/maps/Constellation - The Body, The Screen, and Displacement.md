@@ -30,10 +30,10 @@ Interrogating how technology mediates embodiment—from physical movement captur
 
 - [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, body, vocal
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: screen, oedipal, presence
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self, schiele, egon
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dreams, oedipal, dream
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: vocal, movement
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: screen, oedipal, study
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: body, screen, digital
+- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: screen, body, digital
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: vocal, study, dreams
 <!-- vault-crosslinks:end -->

@@ -28,14 +28,14 @@ come to him in dreams" — to argue that "elegance is a virtue."
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: elegance, whose, spontaneity
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: elegance, diary, spontaneity
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, elegance, whose
-- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: elegance, dreams, spontaneity
-- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, elegance, spontaneity
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, terry, people
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, summary
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: diary, already, summary
+- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, really
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, you're, can't
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, diary
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, try
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: quotes, though, patron
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

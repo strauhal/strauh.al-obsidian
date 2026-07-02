@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/artists/Artist - colorful wildflowers on a dark background|Artist - colorful wildflowers on a dark background]] — shared language: wildflowers, colorful, dark
 - [[knowledge/wiki/images/silhouette of a figure formed by colorful wildflowers on a dark background 84870807|silhouette of a figure formed by colorful wildflowers on a dark background]] — shared language: wildflowers, colorful, dark
 - [[knowledge/wiki/anchors/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — shared language: background, wikilink, merge
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

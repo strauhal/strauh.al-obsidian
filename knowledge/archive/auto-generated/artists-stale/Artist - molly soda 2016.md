@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/books-stale/schopenhauer-world-as-will|schopenhauer world as will]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[_archive/auto-generated/books-stale/my-twisted-world|My Twisted World]] — shared language: world
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: end
+- [[knowledge/wiki/artists/Artist - william glackens|Artist - william glackens]] — shared language: soda
 <!-- vault-crosslinks:end -->

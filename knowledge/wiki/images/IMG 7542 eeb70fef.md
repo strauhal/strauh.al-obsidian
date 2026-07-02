@@ -1,7 +1,7 @@
 ---
 title: "IMG 7542"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/IMG_7542.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/IMG_7542.jpeg"
 source_relpath: "2024_downloadsfolder/IMG_7542.jpeg"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/IMG_7542.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/IMG_7542.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/IMG_7542.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/IMG 7418 98b05d26|IMG 7418]] — nearby note in the same source series
+- [[knowledge/wiki/images/IMG 7571 923a8d92|IMG 7571]] — nearby note in the same source series
+- [[knowledge/wiki/images/IMG 7373 00cd6f68|IMG 7373]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

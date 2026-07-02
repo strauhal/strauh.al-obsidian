@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1800s"
 source_kind: "image_collection"
-count: "617"
+count: "623"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 617
+Files: 623
 
 ## Sample
 
@@ -146,6 +146,7 @@ Files: 617
 - [[burg eltz by johann wilhelm schirmer 1845 df19cd5b|burg eltz by johann wilhelm schirmer 1845]]
 - [[calm liber studiorum plate 53 by j m w turner 1812 a000985b|calm liber studiorum plate 53 by j m w turner 1812]]
 - [[carl bloch in a roman osteria 1866 4fe3be89|carl bloch in a roman osteria 1866]]
+- [[carl bloch in a roman osteria 1866 2 d5ab0018|carl bloch in a roman osteria 1866 2]]
 - [[carnation lily lily rose by john singer sargent 18851886 20b5ef61|carnation lily lily rose by john singer sargent 18851886]]
 - [[caspar david friedrich wanderer above the sea of fog 1818 92d91695|caspar david friedrich wanderer above the sea of fog 1818]]
 - [[cha u kao at the moulin rouge by henri de toulouse lautrec 1895 82b85ad8|cha u kao at the moulin rouge by henri de toulouse lautrec 1895]]
@@ -209,6 +210,7 @@ Files: 617
 - [[frederic edwin church cotopaxi 1862 ff207183|frederic edwin church cotopaxi 1862]]
 - [[frederic edwin church the parthenon 1871 33716f3b|frederic edwin church the parthenon 1871]]
 - [[frederick william hulme loch tummel perthshire mid19th century 129a47c1|frederick william hulme loch tummel perthshire mid19th century]]
+- [[frederick william hulme loch tummel perthshire mid19th century 2 11cae292|frederick william hulme loch tummel perthshire mid19th century 2]]
 - [[frederiksborg castle by moonlight by johan christian dahl 1817 41bab9b0|frederiksborg castle by moonlight by johan christian dahl 1817]]
 - [[french pavilion world s columbian exposition chicago 1893 14b26905|french pavilion world s columbian exposition chicago 1893]]
 - [[fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]]
@@ -261,7 +263,18 @@ Files: 617
 - [[jeanlon grme pollice verso 1872 ac4f2027|jeanlon grme pollice verso 1872]]
 - [[jeanlon grme the christian martyrs last prayer 1883 56f15c87|jeanlon grme the christian martyrs last prayer 1883]]
 - [[jeanlon grme the moorish bath 1880 95b678bf|jeanlon grme the moorish bath 1880]]
-- [[jenaro prez de villaamil la giralda sevilla c 1840 a394bee5|jenaro prez de villaamil la giralda sevilla c 1840]]
-- [[jeune fille lisant au pied d un grand arbre by louis emile pean de grandchamps 1884 58687bbf|jeune fille lisant au pied d un grand arbre by louis emile pean de grandchamps 1884]]
 
-_Only the first 200 image notes are listed here; search covers all 617._
+_Only the first 200 image notes are listed here; search covers all 623._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
+- [[knowledge/wiki/images/the annunciation by john william waterhouse 1914 f6963c66|the annunciation by john william waterhouse 1914]] — named in this note
+- [[knowledge/wiki/images/la toilette by henri de toulouse lautrec 1896 5f3a1d00|la toilette by henri de toulouse lautrec 1896]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/Aurora ad69604a|Aurora]] — named in this note
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+<!-- vault-crosslinks:end -->

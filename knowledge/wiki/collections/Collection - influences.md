@@ -106,3 +106,16 @@ Files: 43
 - [[wes montgomery 9d9c9143|wes montgomery]]
 - [[yohji yamamoto 86e1cd12|yohji yamamoto]]
 - [[yoji shinkawa b786eab1|yoji shinkawa]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — named in this note
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — named in this note
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — named in this note
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — named in this note
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — named in this note
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
+<!-- vault-crosslinks:end -->

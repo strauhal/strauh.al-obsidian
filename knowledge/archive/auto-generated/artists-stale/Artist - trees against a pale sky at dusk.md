@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - trees|Artist - trees]] — named in this note
+- [[knowledge/wiki/images/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale, trees, framed
 - [[knowledge/wiki/images/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: pale, sky, against
 - [[knowledge/wiki/artists/Artist - snowy pine trees and mountains at dusk|Artist - snowy pine trees and mountains at dusk]] — shared language: dusk, trees
 - [[knowledge/wiki/images/photograph of a dense urban skyline at dusk under a hazy sky 1a3d3b78|photograph of a dense urban skyline at dusk under a hazy sky]] — shared language: dusk, sky
 - [[knowledge/wiki/images/photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk acd3f0a5|photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk]] — shared language: dusk, trees
-- [[knowledge/wiki/images/blurred landscape with golden grass and pale foggy sky ee8a82ae|blurred landscape with golden grass and pale foggy sky]] — shared language: pale, sky
 <!-- vault-crosslinks:end -->

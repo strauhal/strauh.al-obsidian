@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/piet mondrian composition no iv 1914 9c7d7b19|piet mondrian composition no iv 1914]] — shared language: mondrian, piet, composition
 - [[knowledge/wiki/images/amaryllis by piet mondrian 1907 bd4c160b|amaryllis by piet mondrian 1907]] — shared language: mondrian, piet
 - [[knowledge/wiki/images/farmstead with reflection by piet mondrian c 1906 217e2d66|farmstead with reflection by piet mondrian c 1906]] — shared language: mondrian, piet
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: mondrian, composition
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: mondrian, piet, composition
 <!-- vault-crosslinks:end -->

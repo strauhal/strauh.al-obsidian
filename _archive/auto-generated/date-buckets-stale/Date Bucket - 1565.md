@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1500s/pieter_bruegel_the_elder_the_hunters_in_the_snow_1565.jpg]]
 
 ![[media/strauh.al3.1/1500s/pieter_bruegel_the_elder_the_hunters_in_the_snow_1565_2.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1564|Date Bucket - 1564]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1566|Date Bucket - 1566]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

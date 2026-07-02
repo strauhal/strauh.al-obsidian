@@ -22,3 +22,12 @@ Images attributed by filename: 3
 - [[kama by esther shimazu 2021 e275803b|kama by esther shimazu 2021]]
 - [[kava by esther shimazu 2024 5b9723ab|kava by esther shimazu 2024]]
 - [[spring by esther shimazu 2021 908575e3|spring by esther shimazu 2021]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/esther by edwin longsden long 1878 48de1a40|esther by edwin longsden long 1878]] — shared language: esther
+- [[knowledge/wiki/artists/Artist - edwin longsden long|Artist - edwin longsden long]] — shared language: esther
+- [[knowledge/wiki/images/spring by pierre auguste cot 1873 43b15763|spring by pierre auguste cot 1873]] — shared language: spring
+- [[knowledge/wiki/images/spring primavera by giuseppe arcimboldo 1573 084f05d0|spring primavera by giuseppe arcimboldo 1573]] — shared language: spring
+<!-- vault-crosslinks:end -->

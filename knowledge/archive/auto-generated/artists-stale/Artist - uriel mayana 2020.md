@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - attab mayana 2020|Artist - attab mayana 2020]] — shared language: mayana, golden
 - [[knowledge/wiki/images/the golden stripes by attab mayana 2020 02e03e2f|the golden stripes by attab mayana 2020]] — shared language: mayana, golden
 - [[knowledge/wiki/images/tokyo japan 2014 train station rush hour 3b4741f5|tokyo japan 2014 train station rush hour]] — shared language: hour
-- [[knowledge/wiki/images/the golden city by marc simonetti 2016 5299ced5|the golden city by marc simonetti 2016]] — shared language: golden
+- [[knowledge/wiki/images/painting of a golden eagle against a blue sky d5f2b18f|painting of a golden eagle against a blue sky]] — shared language: golden
 <!-- vault-crosslinks:end -->

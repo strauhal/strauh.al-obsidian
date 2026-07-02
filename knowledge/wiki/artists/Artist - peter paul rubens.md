@@ -1,13 +1,13 @@
 ---
 title: "Artist - peter paul rubens"
 source_kind: "artist"
-count: "14"
+count: "16"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - peter paul rubens
 
-Images attributed by filename: 14
+Images attributed by filename: 16
 
 ## Sample
 
@@ -20,6 +20,8 @@ Images attributed by filename: 14
 ![[media/strauh.al3.1/1600s/study_of_a_nude_man_seen_from_behind_by_peter_paul_rubens_c_16091610.jpg]]
 
 ![[media/strauh.al3.1/1600s/susanna_and_the_elders_by_peter_paul_rubens_c_1607.jpg]]
+
+![[media/strauh.al3.1/1600s/susanna_and_the_elders_by_peter_paul_rubens_c_1607_2.jpg]]
 
 ![[media/strauh.al3.1/1600s/the_adoration_of_the_shepherds_by_peter_paul_rubens_c_1617.jpeg]]
 
@@ -39,6 +41,8 @@ Images attributed by filename: 14
 
 ![[media/strauh.al3.1/1600s/venus_and_adonis_by_peter_paul_rubens_c_1614.jpg]]
 
+![[media/strauh.al3.1/unsorted/the_fall_of_phaeton_by_peter_paul_rubens_1604_1605.jpg.webp]]
+
 ## Image Notes
 
 - [[drunken silenus by peter paul rubens c 16161617 a8114c16|drunken silenus by peter paul rubens c 16161617]]
@@ -46,6 +50,7 @@ Images attributed by filename: 14
 - [[studies of a male nude with arms raised and other studies by peter paul rubens c 16091610 32be115e|studies of a male nude with arms raised and other studies by peter paul rubens c 16091610]]
 - [[study of a nude man seen from behind by peter paul rubens c 16091610 7bf5fdef|study of a nude man seen from behind by peter paul rubens c 16091610]]
 - [[susanna and the elders by peter paul rubens c 1607 99610bbc|susanna and the elders by peter paul rubens c 1607]]
+- [[susanna and the elders by peter paul rubens c 1607 2 c694a365|susanna and the elders by peter paul rubens c 1607 2]]
 - [[the adoration of the shepherds by peter paul rubens c 1617 16a29789|the adoration of the shepherds by peter paul rubens c 1617]]
 - [[the entombment of christ by peter paul rubens c 1612 73d9b265|the entombment of christ by peter paul rubens c 1612]]
 - [[the fall of the damned by peter paul rubens c 1620 1621 a3b0b180|the fall of the damned by peter paul rubens c 1620 1621]]
@@ -55,3 +60,15 @@ Images attributed by filename: 14
 - [[the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633 ee3ec466|the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633]]
 - [[the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]]
 - [[venus and adonis by peter paul rubens c 1614 817cf2dd|venus and adonis by peter paul rubens c 1614]]
+- [[the fall of phaeton by peter paul rubens 1604 1605 787fb186|the fall of phaeton by peter paul rubens 1604 1605]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/peter paul rubens two satyrs c 16181619 c65ef876|peter paul rubens two satyrs c 16181619]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/peter paul rubens the fall of icarus c 16361637 98d38e6d|peter paul rubens the fall of icarus c 16361637]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/peter paul rubens the assumption of the virgin c 16181620 38d7f766|peter paul rubens the assumption of the virgin c 16181620]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639 5288029a|Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, baptist, christ
+- [[knowledge/wiki/images/peter paul rubens prometheus bound 16111618 48cb2a46|peter paul rubens prometheus bound 16111618]] — shared language: rubens, peter, paul
+<!-- vault-crosslinks:end -->

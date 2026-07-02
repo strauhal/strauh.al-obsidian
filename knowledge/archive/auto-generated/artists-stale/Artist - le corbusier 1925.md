@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/femme et accordeon by le corbusier 1932 a367938d|femme et accordeon by le corbusier 1932]] — shared language: corbusier
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: corbusier
 - [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
-- [[knowledge/wiki/images/instructional diagram showing human proportions and foreshortening in perspective 679b1dac|instructional diagram showing human proportions and foreshortening in perspective]] — shared language: perspective
+- [[knowledge/wiki/images/black and white arcade perspective drawing with figure 52661389|black and white arcade perspective drawing with figure]] — shared language: perspective
 <!-- vault-crosslinks:end -->

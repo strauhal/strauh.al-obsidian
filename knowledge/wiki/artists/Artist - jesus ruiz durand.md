@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[el azucar primera industria sin patrones en el continente americano by jesus ruiz durand 1970 d602a416|el azucar primera industria sin patrones en el continente americano by jesus ruiz durand 1970]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/asher b durand a home in the wilderness 1845 80069db1|asher b durand a home in the wilderness 1845]] — shared language: durand
+- [[knowledge/wiki/images/giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679 936100f2|giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679]] — shared language: jesus
+- [[knowledge/wiki/images/triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679 95a634b9|triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679]] — shared language: jesus
+- [[knowledge/wiki/images/sin titulo 1962 ace4e74a|sin titulo 1962]] — shared language: sin
+- [[knowledge/wiki/artists/Artist - giovanni battista gaulli 16741679|Artist - giovanni battista gaulli 16741679]] — shared language: jesus
+- [[knowledge/wiki/culture/reading-sin-city|Reading - Sin City]] — shared language: sin
+<!-- vault-crosslinks:end -->

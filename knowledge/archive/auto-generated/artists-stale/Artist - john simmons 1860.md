@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/vetememes rough simmons campaign square 9 2048x2048 jpg webp 3135941e|vetememes rough simmons campaign square 9 2048x2048 jpg webp]] — shared language: simmons
-- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1837|Artist - john martin 1837]] — shared language: john
 <!-- vault-crosslinks:end -->

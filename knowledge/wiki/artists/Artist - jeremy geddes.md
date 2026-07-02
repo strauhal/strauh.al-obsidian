@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the last of us by jeremy geddes 2013 5104a868|the last of us by jeremy geddes 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: jeremy
+- [[knowledge/wiki/artists/Artist - jeremy deller|Artist - jeremy deller]] — shared language: jeremy
+- [[knowledge/wiki/artists/Artist - jeremy mann|Artist - jeremy mann]] — shared language: jeremy
+- [[knowledge/wiki/images/the letter by jeremy lipking 2019 20c05f0a|the letter by jeremy lipking 2019]] — shared language: jeremy
+- [[knowledge/wiki/images/the couple by jeremy lipking 2018 eba5eb85|the couple by jeremy lipking 2018]] — shared language: jeremy
+- [[knowledge/wiki/images/jeremy mann newsstand 21st century 85f7b947|jeremy mann newsstand 21st century]] — shared language: jeremy
+<!-- vault-crosslinks:end -->

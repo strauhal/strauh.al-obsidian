@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/reception_de_l_empereur_et_de_l_imperatrice_au_palais_des_tuileries_by_jean_baptiste_isabey_c_1810.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_death_of_germanicus_by_pierre_narcisse_guerin_1810.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1809|Date Bucket - 1809]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1811|Date Bucket - 1811]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

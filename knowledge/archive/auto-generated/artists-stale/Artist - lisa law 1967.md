@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - lisa law|Artist - lisa law]] — named in this note
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: andy, warhol
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: law
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: law
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague 2021|Artist - lisa clague 2021]] — shared language: lisa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague 2021 3|Artist - lisa clague 2021 3]] — shared language: lisa
-- [[knowledge/wiki/artists/Artist - lisa clague|Artist - lisa clague]] — shared language: lisa
 <!-- vault-crosslinks:end -->

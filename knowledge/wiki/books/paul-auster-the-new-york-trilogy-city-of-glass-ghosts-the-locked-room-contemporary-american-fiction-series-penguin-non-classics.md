@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
-- [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
+- [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 <!-- vault-crosslinks:end -->

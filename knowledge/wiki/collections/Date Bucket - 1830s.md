@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1830s"
 source_kind: "date_bucket"
-count: "23"
+count: "24"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1830s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 23
+Files: 24
 
 ## Sample
 
@@ -58,3 +58,13 @@ Files: 23
 ![[media/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg]]
 
 ![[media/strauh.al3.1/2023_downloadsfolder/IMG_1832.JPG]]
+
+![[media/strauh.al3.1/unsorted/view_of_dresden_by_moonlight_by_johan_christian_dahl_1839.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1820s|Date Bucket - 1820s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1840s|Date Bucket - 1840s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

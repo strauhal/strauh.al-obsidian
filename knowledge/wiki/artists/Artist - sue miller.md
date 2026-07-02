@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the dragon s lair by sue miller 1997 631b8583|the dragon s lair by sue miller 1997]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - ian miller|Artist - ian miller]] — shared language: miller
+- [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: miller
+- [[knowledge/wiki/images/portrait of sue tilley by lucian freud 1995 a8397659|portrait of sue tilley by lucian freud 1995]] — shared language: sue
+<!-- vault-crosslinks:end -->

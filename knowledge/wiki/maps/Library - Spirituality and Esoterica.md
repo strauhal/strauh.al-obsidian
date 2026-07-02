@@ -49,7 +49,7 @@ Books/files: 28
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, university, richard
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — shared language: leary, timothy
 - [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — shared language: leary, timothy
-- [[knowledge/output/book-author-candidates|Book Author Candidates]] — shared language: joyous, cosmology, adventures
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
+- [[knowledge/output/book-author-candidates|Book Author Candidates]] — shared language: joyous, cosmology, adventures
 - [[knowledge/wiki/books/richard-dawkins-the-selfish-gene-volume-2-oxford-university-press-usa|The Selfish Gene . Volume 2-Oxford University Press, USA]] — shared language: press, university, richard
 <!-- vault-crosslinks:end -->

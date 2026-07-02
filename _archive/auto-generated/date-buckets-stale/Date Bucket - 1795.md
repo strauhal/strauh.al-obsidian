@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1700s/sir_henry_raeburn_the_reverend_robert_walker_skaiting_upon_duddingston_loch_1795.jpg]]
 
 ![[media/strauh.al3.1/1700s/the_staircase_group_by_charles_willson_peale_1795.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1794|Date Bucket - 1794]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1796|Date Bucket - 1796]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

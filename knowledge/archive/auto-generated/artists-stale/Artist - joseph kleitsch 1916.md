@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joseph beuys 1980|Artist - joseph beuys 1980]] — shared language: joseph
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: joseph
-- [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — shared language: joseph
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
 <!-- vault-crosslinks:end -->

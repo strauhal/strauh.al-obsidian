@@ -43,3 +43,14 @@ Images attributed by filename: 10
 - [[three studies for figures at the base of a crucifixion by francis bacon 1944 b7638bb4|three studies for figures at the base of a crucifixion by francis bacon 1944]]
 - [[two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]]
 - [[two figures in a room by francis bacon 1968 6576d12e|two figures in a room by francis bacon 1968]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: bacon, self, francis
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: bacon
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: bacon
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, studies
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
+<!-- vault-crosslinks:end -->

@@ -39,6 +39,6 @@ Drive threw.
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/14-name-change|Private Correspondence - 14 - Name change]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/09-i-drewed-a-picur|Private Correspondence - 09 - I drewed a picur]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/09-i-drewed-a-picur|Private Correspondence - 09 - I drewed a picur]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

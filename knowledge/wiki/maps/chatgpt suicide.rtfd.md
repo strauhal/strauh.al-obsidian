@@ -17,5 +17,5 @@ This import points to the complete library note: [[chatgpt-suicide-rtfd|chatgpt 
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: chatgpt, import
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: suicide.rtfd
-- [[knowledge/wiki/chatgpt/Memory Candidates|ChatGPT Memory Candidates]] — shared language: chatgpt
+- [[knowledge/wiki/images/05roose chatgpt superJumbo 6c19865a|05roose chatgpt superJumbo]] — shared language: chatgpt
 <!-- vault-crosslinks:end -->

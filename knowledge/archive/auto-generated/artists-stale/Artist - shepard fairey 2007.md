@@ -22,6 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - shepard fairey|Artist - shepard fairey]] — named in this note
 - [[knowledge/wiki/images/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
-- [[knowledge/wiki/images/abstraction flower by arthur dove 1924 477b2512|abstraction flower by arthur dove 1924]] — shared language: flower
-- [[knowledge/wiki/images/a flower market rome by john william waterhouse 1886 00e10d9a|a flower market rome by john william waterhouse 1886]] — shared language: flower
+- [[knowledge/wiki/images/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: flower
+- [[knowledge/wiki/images/vintage nasturtium flower card bcd07706|vintage nasturtium flower card]] — shared language: flower
+- [[knowledge/wiki/images/vintage poppy flower card a246b0f0|vintage poppy flower card]] — shared language: flower
+- [[knowledge/wiki/images/bison in a yellow flower field bbd57728|bison in a yellow flower field]] — shared language: flower
 <!-- vault-crosslinks:end -->

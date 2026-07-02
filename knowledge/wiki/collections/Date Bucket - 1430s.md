@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1430s"
 source_kind: "date_bucket"
-count: "2"
+count: "1"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,10 +9,16 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1430s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 2
+Files: 1
 
 ## Sample
 
 ![[media/strauh.al3.1/1400s/the_arnolfini_portrait_by_jan_van_eyck_1434.jpeg]]
 
-![[media/strauh.al3.1/unsorted/tumblr_5eed5b722be4a158ba0ffee0319b1439_a8d0d90e_2048_png.png]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1420s|Date Bucket - 1420s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1440s|Date Bucket - 1440s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

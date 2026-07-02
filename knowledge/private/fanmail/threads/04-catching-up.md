@@ -99,10 +99,10 @@ Temple on Monday at 5 sounds good though. I'll be there
 
 - [[knowledge/private/fanmail/threads/16-pleasure-to-meet-you-peets|Private Correspondence - 16 - Pleasure to Meet you (Peets)]] — same category: private-correspondence
 - [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — same category: private-correspondence
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: i'm, it's
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: i'm, things, music
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, made
-- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: think, i'm, direction
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — shared language: private, direction, incoming
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, able, hear
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: time, it's, think
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: temple, music, sounds
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: think, phone, time
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: hey, that's, it's
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: think, able, like
 <!-- vault-crosslinks:end -->

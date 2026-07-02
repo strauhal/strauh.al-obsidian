@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1800s/the_rainbow_by_john_martin_1837.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_temptation_of_christ_by_fyodor_bruni_1837.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1836|Date Bucket - 1836]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1839|Date Bucket - 1839]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

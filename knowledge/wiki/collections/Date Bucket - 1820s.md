@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1820s"
 source_kind: "date_bucket"
-count: "19"
+count: "20"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1820s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 19
+Files: 20
 
 ## Sample
 
@@ -50,3 +50,13 @@ Files: 19
 ![[media/strauh.al3.1/1800s/the_fall_of_the_rebel_angels_by_john_martin_1824.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1824.jpeg]]
+
+![[media/strauh.al3.1/unsorted/woman_at_a_window_by_caspar_david_friedrich_1822.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1810s|Date Bucket - 1810s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1830s|Date Bucket - 1830s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

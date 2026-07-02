@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1800s/portrait_of_the_artist_s_son_yury_repin_by_ilya_repin_1883.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_veil_by_theodoros_ralli_1883.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1882|Date Bucket - 1882]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1884|Date Bucket - 1884]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

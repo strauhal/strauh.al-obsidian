@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]]
 - [[portrait of louis xv king of france and navarre by jean baptiste van loo c 1725 8f055c38|portrait of louis xv king of france and navarre by jean baptiste van loo c 1725]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - louis michel van loo|Artist - louis michel van loo]] — shared language: loo, van, louis
+- [[knowledge/wiki/images/portrait of denis diderot by louis michel van loo 1767 175ef7b2|portrait of denis diderot by louis michel van loo 1767]] — shared language: loo, van, louis
+- [[knowledge/wiki/artists/Artist - jean baptiste greuze|Artist - jean baptiste greuze]] — shared language: baptiste, jean
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
+- [[knowledge/wiki/images/portrait of a black man by jean baptiste greuze c 1757 38b1c6b2|portrait of a black man by jean baptiste greuze c 1757]] — shared language: baptiste, jean
+- [[knowledge/wiki/artists/Artist - jean baptiste pillement|Artist - jean baptiste pillement]] — shared language: baptiste, jean
+<!-- vault-crosslinks:end -->

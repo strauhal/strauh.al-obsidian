@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/pencil_sketch_of_my_daughter_by_andrew_loomis_1946.png]]
 
 ![[media/strauh.al3.1/1900s/salvador_dal_the_temptation_of_saint_anthony_1946.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1945|Date Bucket - 1945]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1947|Date Bucket - 1947]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/the_by_herb_lubalin_1974.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_quilt_by_john_wilde_1974.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1973|Date Bucket - 1973]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1975|Date Bucket - 1975]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

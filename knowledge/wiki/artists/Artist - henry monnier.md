@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[jambons saucissons le lyonnais by henry monnier 1930 4102a43a|jambons saucissons le lyonnais by henry monnier 1930]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — shared language: henry
+- [[knowledge/wiki/images/drift by sean henry 2023 6548b692|drift by sean henry 2023]] — shared language: henry
+- [[knowledge/wiki/images/drift by sean henry 2023 3 97e9fe04|drift by sean henry 2023 3]] — shared language: henry
+- [[knowledge/wiki/images/computer generated drawing by desmond paul henry 1962 8db33787|computer generated drawing by desmond paul henry 1962]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - henry fuseli|Artist - henry fuseli]] — shared language: henry
+<!-- vault-crosslinks:end -->

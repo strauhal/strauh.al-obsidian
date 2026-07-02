@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - donna haraway|Artist - donna haraway]] — named in this note
-- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
 - [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 0bwa2t363npg1 d47073fa|where math meets art and craftsmanship iranian v0 0bwa2t363npg1]] — shared language: meets
 - [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 9ewn1ph53npg1 3391e131|where math meets art and craftsmanship iranian v0 9ewn1ph53npg1]] — shared language: meets
 - [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 lsfvso563npg1 1f8bd7e1|where math meets art and craftsmanship iranian v0 lsfvso563npg1]] — shared language: meets
 - [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 pi5cu7y53npg1 422beeb1|where math meets art and craftsmanship iranian v0 pi5cu7y53npg1]] — shared language: meets
+- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 rcd8jds53npg1 f74cf7d3|where math meets art and craftsmanship iranian v0 rcd8jds53npg1]] — shared language: meets
 <!-- vault-crosslinks:end -->

@@ -50,3 +50,11 @@ Files: 19
 ![[media/strauh.al3.1/2000s/untitled_from_the_series_ametsuchi_by_rinko_kawauchi_2012.jpg]]
 
 ![[media/strauh.al3.1/unsorted/1949_ph455_001_regester2012_web_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2011|Date Bucket - 2011]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2013|Date Bucket - 2013]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

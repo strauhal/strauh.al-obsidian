@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the empress by sentrock 2017 98f2a98a|the empress by sentrock 2017]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807 56e822c8|jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807]] — shared language: empress
+- [[knowledge/wiki/images/portrait of empress eugenie by franz xaver winterhalter 1853 ff2a5dac|portrait of empress eugenie by franz xaver winterhalter 1853]] — shared language: empress
+- [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: empress
+<!-- vault-crosslinks:end -->

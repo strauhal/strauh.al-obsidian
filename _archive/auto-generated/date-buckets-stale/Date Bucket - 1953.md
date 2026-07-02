@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/oil_painting_of_a_cowboy_on_a_horse_herding_cattle_by_frank_zuanich_1953.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_and_bicycle_by_willem_de_kooning_1952_1953.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1952|Date Bucket - 1952]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1954|Date Bucket - 1954]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

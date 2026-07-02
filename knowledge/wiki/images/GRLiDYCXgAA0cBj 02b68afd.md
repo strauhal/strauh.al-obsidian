@@ -1,7 +1,7 @@
 ---
 title: "GRLiDYCXgAA0cBj"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg"
 source_relpath: "2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/GRGk jZb0AAOl9s ff4d6909|GRGk jZb0AAOl9s]] — nearby note in the same source series
+- [[knowledge/wiki/images/GRQ8yCFXsAAxHPW 50dd8ff5|GRQ8yCFXsAAxHPW]] — nearby note in the same source series
+- [[knowledge/wiki/images/GRGOhRgXYAEwDId 16e23ca7|GRGOhRgXYAEwDId]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -21,3 +21,13 @@ Artist: Unknown
 Source: [[media/strauh.al3.1/unsorted/robert_walser_jpg.jpg|source file]]
 
 Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/robert_walser_jpg.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/portrait of robert walser f6c2ee33|portrait of robert walser]] — shared language: walser, robert
+- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: robert
+<!-- vault-crosslinks:end -->

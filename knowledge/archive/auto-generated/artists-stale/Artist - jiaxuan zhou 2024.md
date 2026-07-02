@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jiaxuan zhou|Artist - jiaxuan zhou]] — named in this note
 - [[knowledge/wiki/artists/Artist - shen zhou|Artist - shen zhou]] — shared language: zhou
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study, body
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body, study
 - [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 67e7df75|poet on a mountain top by shen zhou c 1500]] — shared language: zhou
 - [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 2 77c65482|poet on a mountain top by shen zhou c 1500 2]] — shared language: zhou
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body, study
 <!-- vault-crosslinks:end -->

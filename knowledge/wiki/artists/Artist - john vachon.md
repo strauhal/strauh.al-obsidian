@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[washington d c a worker in the bureau of engraving and printing operating a machine which rounds the corners of the cards on which war savings stamps 35cd2e51|washington d c a worker in the bureau of engraving and printing operating a machine which rounds the corners of the cards on which war savings stamps]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war, machine
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — shared language: john
+<!-- vault-crosslinks:end -->

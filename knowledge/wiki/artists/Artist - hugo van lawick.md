@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[jane goodall with a chimpanzee apple think different campaign by hugo van lawick 1997 4c117222|jane goodall with a chimpanzee apple think different campaign by hugo van lawick 1997]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - hugo simberg|Artist - hugo simberg]] — shared language: hugo
+- [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: hugo
+- [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
+- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: van
+- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: van
+- [[knowledge/wiki/images/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: van
+<!-- vault-crosslinks:end -->

@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[portrait of anne of cleves by hans holbein the younger c 1539 3ebdc84d|portrait of anne of cleves by hans holbein the younger c 1539]]
 - [[portrait of cardinal john fisher by hans holbein the younger c 1535 847b52dc|portrait of cardinal john fisher by hans holbein the younger c 1535]]
 - [[the body of the dead christ in the tomb by hans holbein the younger 1521 c800284b|the body of the dead christ in the tomb by hans holbein the younger 1521]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: holbein, younger, hans
+- [[knowledge/wiki/artists/Artist - hans makart|Artist - hans makart]] — shared language: hans, charles
+- [[knowledge/wiki/artists/Artist - hans bellmer|Artist - hans bellmer]] — shared language: hans
+- [[knowledge/wiki/artists/Artist - hans schaufelein|Artist - hans schaufelein]] — shared language: hans
+- [[knowledge/wiki/artists/Artist - hans namuth|Artist - hans namuth]] — shared language: hans
+- [[knowledge/wiki/images/cephalopodes irises by hans bellmer 1939 98920cc1|cephalopodes irises by hans bellmer 1939]] — shared language: hans
+<!-- vault-crosslinks:end -->

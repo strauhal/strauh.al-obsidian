@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[bob dylan at breakfast paris by barry feinstein 1966 7ac1b356|bob dylan at breakfast paris by barry feinstein 1966]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: barry
+- [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: barry
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: barry
+- [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: dylan, bob
+- [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
+- [[knowledge/wiki/artists/Artist - bob willoughby|Artist - bob willoughby]] — shared language: bob
+<!-- vault-crosslinks:end -->

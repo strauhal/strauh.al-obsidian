@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1800s/two_women_seated_reading_by_edgar_degas_c_1878.jpg]]
 
 ![[media/strauh.al3.1/1800s/vasily_vereshchagin_requiem_after_the_battle_1878.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1877|Date Bucket - 1877]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1879|Date Bucket - 1879]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

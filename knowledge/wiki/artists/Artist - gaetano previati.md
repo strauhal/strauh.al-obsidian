@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[dante and the shades of the envious by gaetano previati 1900 b04352dd|dante and the shades of the envious by gaetano previati 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/dante quartet png cea15ca3|dante quartet png]] — shared language: dante
+- [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 d451d1cf|williamadolphe bouguereau dante and virgil 1850]] — shared language: dante
+- [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 2 27278792|williamadolphe bouguereau dante and virgil 1850 2]] — shared language: dante
+- [[knowledge/wiki/artists/Artist - dante gabriel rossetti 18661868|Artist - dante gabriel rossetti 18661868]] — shared language: dante
+- [[knowledge/wiki/artists/Artist - dante gabriel rossetti|Artist - dante gabriel rossetti]] — shared language: dante
+- [[knowledge/wiki/images/the three shades les trois ombres by auguste rodin c 1880 1886 b41fa362|the three shades les trois ombres by auguste rodin c 1880 1886]] — shared language: shades
+<!-- vault-crosslinks:end -->

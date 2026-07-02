@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-river|Artist - a river]] — shared language: river
-- [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: river, landscape
-- [[knowledge/wiki/images/the industrial river by david hockney 1969 2ec18f17|the industrial river by david hockney 1969]] — shared language: river
-- [[knowledge/wiki/images/east river by george ault 1926 bfa6e7ea|east river by george ault 1926]] — shared language: river
-- [[knowledge/wiki/images/river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]] — shared language: river
-- [[knowledge/wiki/images/the east river by maurice prendergast 1901 8d17af3a|the east river by maurice prendergast 1901]] — shared language: river
+- [[knowledge/wiki/images/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: river, hills, landscape
+- [[knowledge/wiki/images/tonalist river landscape with boat and low hills 3af493a1|tonalist river landscape with boat and low hills]] — shared language: river, hills, landscape
+- [[knowledge/wiki/images/framed landscape with river trees and mountains 3554916a|framed landscape with river trees and mountains]] — shared language: river, landscape
+- [[knowledge/wiki/images/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: river, landscape
+- [[knowledge/wiki/images/framed sunset river landscape with trees and reflections 53e831ee|framed sunset river landscape with trees and reflections]] — shared language: river, landscape
 <!-- vault-crosslinks:end -->

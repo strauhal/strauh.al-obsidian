@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[rest on the road by alexey venetsianov 1823 1824 0ecc045d|rest on the road by alexey venetsianov 1823 1824]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/alexey bogolyubov a street in seville spain 1860 1deb7b6a|alexey bogolyubov a street in seville spain 1860]] — shared language: alexey
+- [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
+- [[knowledge/wiki/images/1947 112 a turn in the road jpg b2b94a86|1947 112 a turn in the road jpg]] — shared language: road
+- [[knowledge/wiki/images/the rest of us by susan kare 1983 f7f8ac9a|the rest of us by susan kare 1983]] — shared language: rest
+- [[knowledge/wiki/images/three dancers dancers at rest by edgar degas c 1898 5f268e8b|three dancers dancers at rest by edgar degas c 1898]] — shared language: rest
+- [[knowledge/wiki/images/aerial view of a road intersection with long shadows dcbbdf53|aerial view of a road intersection with long shadows]] — shared language: road
+<!-- vault-crosslinks:end -->

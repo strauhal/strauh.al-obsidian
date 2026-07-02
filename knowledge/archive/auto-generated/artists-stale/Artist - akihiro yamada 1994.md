@@ -21,7 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - akihiro yamada|Artist - akihiro yamada]] — named in this note
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: war
 - [[knowledge/wiki/images/photograph of detained men on dirt mounds in a war damaged city 54067047|photograph of detained men on dirt mounds in a war damaged city]] — shared language: war
 <!-- vault-crosslinks:end -->

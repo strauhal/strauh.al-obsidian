@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: henri, robert
 - [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: henri, robert
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: robert, wikilink, merge
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/images/the chinese girl by robert henri 1914 71ddacd8|the chinese girl by robert henri 1914]] — shared language: henri, robert
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "knowledge base quotes"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/quotes.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/quotes.html"
 source_relpath: "knowledge_base/quotes.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base quotes
@@ -606,3 +606,15 @@ A few of the adult guests wandered in, including Warhol and Haring. Warhol took 
 
 <!-- quote-links:end -->
 
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: slave, ilwaco, recognition
+<!-- vault-crosslinks:end -->

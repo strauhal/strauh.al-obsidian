@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/2000s/the_heavenly_host_by_vsevolod_ivanov_2007.jpg]]
 
 ![[media/strauh.al3.1/2000s/the_observer_by_damian_elwes_2007.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2006|Date Bucket - 2006]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2008|Date Bucket - 2008]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

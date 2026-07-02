@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1500s/the_peasant_brawl_by_pieter_bruegel_the_elder_c_1558.jpeg]]
 
 ![[media/strauh.al3.1/comics/IMG_1555.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1540s|Date Bucket - 1540s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1560s|Date Bucket - 1560s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

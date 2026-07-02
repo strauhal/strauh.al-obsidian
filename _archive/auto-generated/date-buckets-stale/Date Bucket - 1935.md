@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1900s/schwebendes_by_wassily_kandinsky_1935.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1934|Date Bucket - 1934]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1936|Date Bucket - 1936]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

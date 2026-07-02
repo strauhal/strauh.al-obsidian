@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[midori no kage by kaii higashiyama 1976 19a9f090|midori no kage by kaii higashiyama 1976]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - kaho shishido|Artist - kaho shishido]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kanye west|Artist - kanye west]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kacper kowalski|Artist - kacper kowalski]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

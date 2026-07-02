@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/2000s/something_s_just_not_rightour_air_is_clean_our_water_is_pure_we_all_get_plenty_of_exercise_everything_we_eat_is_organic_and_free_range_and_yet_nobody_lives_past_thirty_by_alex_gregory_2001.jpeg]]
 
 ![[media/strauh.al3.1/2000s/untitled_from_the_series_utatane_by_rinko_kawauchi_2001.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2000s|Date Bucket - 2000s]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2002|Date Bucket - 2002]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

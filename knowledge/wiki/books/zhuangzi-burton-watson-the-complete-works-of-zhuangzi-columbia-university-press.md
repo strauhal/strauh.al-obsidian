@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
 - [[knowledge/wiki/books/eknath-easwaran-the-bhagavad-gita|The Bhagavad Gita]] — same category: esoterica
 - [[knowledge/wiki/books/taoist-master-alfred-huang-the-complete-i-ching-10th-anniversary-edition-the-definitive-translation-by-taoist-master-alfred-huang-inner-trad|The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions]] — same category: esoterica
+- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
 - [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
-- [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 <!-- vault-crosslinks:end -->

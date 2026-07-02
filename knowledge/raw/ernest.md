@@ -26,12 +26,12 @@ i'd love to hear from you!  shoot me an email at  mailto:ernest@strauh.al ______
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: i'm, strauh.al
-- [[knowledge/wiki/pages/ernest|ernest]] — shared language: i'm, strauh.al, previously
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: i've, hear, work
+- [[knowledge/wiki/pages/ernest|ernest]] — shared language: i'm, oriented, fluent
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
-- [[knowledge/raw/about|About strauh.al]] — shared language: strauh.al, https, enjoy
 - [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
-- [[knowledge/raw/diary|Diary]] — shared language: i'm, https, strauh.al
-- [[knowledge/wiki/pages/draw for me|draw for me]] — shared language: strauh.al, email, https
-- [[knowledge/wiki/pages/disclaimer|disclaimer]] — shared language: i'm, strauh.al, currently
+- [[knowledge/wiki/images/framed vertical painting of people in a cafe or restaurant 70e453a1|framed vertical painting of people in a cafe or restaurant]] — shared language: cafe, people
+- [[knowledge/wiki/pages/diary|diary]] — shared language: i'm, https, i've
+- [[knowledge/wiki/images/framed cafe or train car interior with people c95ef7e6|framed cafe or train car interior with people]] — shared language: cafe, people
+- [[knowledge/raw/about|About strauh.al]] — shared language: https, enjoy, mailto
 <!-- vault-crosslinks:end -->

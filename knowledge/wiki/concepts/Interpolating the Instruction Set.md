@@ -46,3 +46,16 @@ the instruction set; the model executes it.
 **Images (1).** [[stylegan geometry 3858bdb5|stylegan geometry]]
 
 <!-- archive-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, studies, gan
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: latent, stylegan, human-machine
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, archive-links, space
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, latent, gan
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, like, one
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, human-machine
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, sketchbook, one
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: sketchbook, archive-links, one
+<!-- vault-crosslinks:end -->

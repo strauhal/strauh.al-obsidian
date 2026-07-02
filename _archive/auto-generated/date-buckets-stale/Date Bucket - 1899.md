@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1800s/vercingetorix_jette_ses_armes_aux_pieds_de_cesar_by_lionel_royer_1899_2.jpg]]
 
 ![[media/strauh.al3.1/1800s/voutes_et_coupoles_syrie_et_asie_mineure_damas_et_nicee_plate_xxi_from_histoire_de_l_architecture_by_auguste_choisy_1899.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1898|Date Bucket - 1898]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1900|Date Bucket - 1900]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

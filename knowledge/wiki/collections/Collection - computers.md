@@ -174,3 +174,16 @@ Files: 111
 - [[tumblr o7lrzjT0Sz1u2fteyo1 1280 de993868|tumblr o7lrzjT0Sz1u2fteyo1 1280]]
 - [[tumblr otp36zkGCZ1rwn93fo1 1280 bf576e9f|tumblr otp36zkGCZ1rwn93fo1 1280]]
 - [[y2k aesthetic b9239207|y2k aesthetic]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048 47aa976a|tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg 8a6a2513|tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 06ddf3fdf5c8136d32735f451f4dc8dd bb08bac0 1280 jpg 8c8c0afa|tumblr 06ddf3fdf5c8136d32735f451f4dc8dd bb08bac0 1280 jpg]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 07f1ee0232c910fe7c5704ea7ead8a8c ca20d8f4 2048 jpg 604a2b63|tumblr 07f1ee0232c910fe7c5704ea7ead8a8c ca20d8f4 2048 jpg]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 084aeb22760ef39d3a5658ce441cd4cf 2d7b8dbc 1280 jpg 96d9f33e|tumblr 084aeb22760ef39d3a5658ce441cd4cf 2d7b8dbc 1280 jpg]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 0874b7fea48b69c9d5bdee619cfe3a94 bf3ebf03 1280 jpg 9bddec26|tumblr 0874b7fea48b69c9d5bdee619cfe3a94 bf3ebf03 1280 jpg]] — shared language: tumblr
+<!-- vault-crosslinks:end -->

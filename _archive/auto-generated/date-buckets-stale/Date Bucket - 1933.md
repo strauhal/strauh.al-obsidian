@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1900s/portrait_of_vartoosh_by_arshile_gorky_1933.jpg]]
 
 ![[media/strauh.al3.1/1900s/winter_street_by_charles_burchfield_1933.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1932|Date Bucket - 1932]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1934|Date Bucket - 1934]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

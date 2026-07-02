@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/three_boys_with_a_toy_gun_fort_scott_kansas_by_gordon_parks_1949.jpg]]
 
 ![[media/strauh.al3.1/1900s/untitled_man_on_a_wheel_fort_scott_kansas_by_gordon_parks_1949.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1948|Date Bucket - 1948]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1950|Date Bucket - 1950]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

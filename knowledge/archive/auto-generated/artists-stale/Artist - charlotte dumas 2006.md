@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - marlene dumas|Artist - marlene dumas]] — shared language: dumas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marlene dumas 2002|Artist - marlene dumas 2002]] — shared language: dumas
 - [[knowledge/wiki/images/the woman who died of a broken heart by marlene dumas 2002 87d0707e|the woman who died of a broken heart by marlene dumas 2002]] — shared language: dumas
-- [[knowledge/wiki/images/line drawing of a horse chewing grass 1d319589|line drawing of a horse chewing grass]] — shared language: horse
 - [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
+- [[knowledge/wiki/images/colorful illustration of a rider on a white horse 27b26447|colorful illustration of a rider on a white horse]] — shared language: horse
 <!-- vault-crosslinks:end -->

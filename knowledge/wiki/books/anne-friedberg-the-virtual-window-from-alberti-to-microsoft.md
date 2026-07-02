@@ -53,6 +53,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — same category: media technology
 - [[knowledge/wiki/books/aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]] — same category: media technology
-- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — same category: media technology
+- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 <!-- vault-crosslinks:end -->

@@ -43,3 +43,14 @@ Images attributed by filename: 10
 - [[paesaggio landscape by giorgio morandi 1935 425cc1a9|paesaggio landscape by giorgio morandi 1935]]
 - [[pen and ink still life of bottles vases and candlestick by giorgio morandi 1930 29a94a17|pen and ink still life of bottles vases and candlestick by giorgio morandi 1930]]
 - [[still life drawing of three objects by giorgio morandi 9e877ec3|still life drawing of three objects by giorgio morandi]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
+- [[knowledge/wiki/images/framed still life with brass instruments and objects 57a3f5dd|framed still life with brass instruments and objects]] — shared language: objects, still, life
+- [[knowledge/wiki/images/still life with white and dark bottles on a brown background 7e4af406|still life with white and dark bottles on a brown background]] — shared language: still, life, bottles
+- [[knowledge/wiki/artists/Artist - giorgio de chirico|Artist - giorgio de chirico]] — shared language: giorgio
+- [[knowledge/wiki/artists/Artist - giorgio ghisi|Artist - giorgio ghisi]] — shared language: giorgio
+- [[knowledge/wiki/images/line drawing of a still life with bottles and geometric forms 9822ba63|line drawing of a still life with bottles and geometric forms]] — shared language: still, life, bottles
+<!-- vault-crosslinks:end -->

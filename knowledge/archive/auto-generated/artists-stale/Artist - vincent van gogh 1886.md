@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1885|Artist - vincent van gogh 1885]] — shared language: gogh, vincent, van
-- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: gogh, vincent, van
 - [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: gogh, vincent, van
+- [[knowledge/wiki/images/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: gogh, vincent, van
+- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: gogh, vincent, van
 - [[knowledge/wiki/images/irises by vincent van gogh 1889 67f0422d|irises by vincent van gogh 1889]] — shared language: gogh, vincent, van
-- [[knowledge/wiki/artists/Artist - vincent van gogh summer|Artist - vincent van gogh summer]] — shared language: gogh, vincent, van
 <!-- vault-crosslinks:end -->

@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/2000s/the_reader_by_alyssa_monks_2017.jpg]]
 
 ![[media/strauh.al3.1/2000s/the_sun_the_moon_the_star_by_david_glomba_2017.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2016|Date Bucket - 2016]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2018|Date Bucket - 2018]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

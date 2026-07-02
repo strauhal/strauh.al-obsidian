@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1800s/valdemar_atterdag_holding_visby_to_ransom_1361_by_gustaf_hellquist_1882.jpg]]
 
 ![[media/strauh.al3.1/photography/Parsifal_(1882_retuschiert).jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1881|Date Bucket - 1881]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1883|Date Bucket - 1883]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -39,3 +39,16 @@ This note is an index and reflection surface. The complete first-person account 
 ## Reflection
 
 No fixed interpretation has been assigned. Add remembered details, waking associations, or later resonances here.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice, uncanny
+- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

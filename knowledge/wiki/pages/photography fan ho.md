@@ -1,10 +1,10 @@
 ---
 title: "photography fan ho"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/photography/fan_ho.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/photography/fan_ho.html"
 source_relpath: "photography/fan_ho.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # photography fan ho
@@ -30,3 +30,16 @@ strauh.al/photography/fan_ho
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - fan ho|Artist - fan ho]] — shared language: fan
+- [[knowledge/wiki/images/Smokey+World 2+copy 3b8daf5f|Smokey+World 2+copy]] — shared language: smokey, photography, fan
+- [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: fan
+- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — shared language: photography
+- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — shared language: photography
+- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — shared language: photography
+- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — shared language: photography
+- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — shared language: photography
+<!-- vault-crosslinks:end -->

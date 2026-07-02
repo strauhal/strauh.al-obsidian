@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-great-north-star-2020|Artist - the great north star 2020]] — shared language: north, star, great
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: great
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: star
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: star
 - [[knowledge/wiki/artists/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: star
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: great
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: great
 <!-- vault-crosslinks:end -->

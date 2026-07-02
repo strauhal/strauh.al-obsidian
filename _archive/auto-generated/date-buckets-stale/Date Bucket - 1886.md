@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1800s/the_three_shades_les_trois_ombres_by_auguste_rodin_c_1880_1886.jpeg]]
 
 ![[media/strauh.al3.1/unsorted/img_1886_jpeg.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1885|Date Bucket - 1885]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1887|Date Bucket - 1887]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

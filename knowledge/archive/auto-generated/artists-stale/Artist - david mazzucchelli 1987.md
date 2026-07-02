@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/culture/reading-batman-year-one|Reading - Batman: Year One]] — shared language: batman, one, david
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/archive/auto-generated/artists-stale/Artist - david shrigley 2019|Artist - david shrigley 2019]] — shared language: david, one
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
-- [[knowledge/wiki/images/within one s lifetime by david shrigley 2019 16165d85|within one s lifetime by david shrigley 2019]] — shared language: david, one
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: one, art
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: one, art
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one, art
 <!-- vault-crosslinks:end -->

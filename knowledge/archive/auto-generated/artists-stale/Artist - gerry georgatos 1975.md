@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gerry phibbs 1986|Artist - gerry phibbs 1986]] — shared language: gerry
 - [[knowledge/wiki/images/the hands of the artist by gerry phibbs 1986 e1c45446|the hands of the artist by gerry phibbs 1986]] — shared language: gerry
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — shared language: great
+- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "natura morta con sei oggetti still life with six objects by giorgio morandi 1930"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg"
 source_relpath: "1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
@@ -22,4 +22,14 @@ Artist: [[Artist - giorgio morandi]]
 
 Source: [[media/strauh.al3.1/1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_by_giorgio_morandi_1930.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/natura morta a cinque oggetti still life with five objects by giorgio morandi 1931 a1986456|natura morta a cinque oggetti still life with five objects by giorgio morandi 1931]] — same artist: giorgio morandi
+- [[knowledge/wiki/images/natura morta con cinque oggetti by giorgio morandi 1929 a41a4a56|natura morta con cinque oggetti by giorgio morandi 1929]] — same artist: giorgio morandi
+- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1940 40134fd6|natura morta still life by giorgio morandi 1940]] — same artist: giorgio morandi
+- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]] — same artist: giorgio morandi
+- [[knowledge/wiki/images/still life drawing of three objects by giorgio morandi 9e877ec3|still life drawing of three objects by giorgio morandi]] — same artist: giorgio morandi
+<!-- vault-crosslinks:end -->

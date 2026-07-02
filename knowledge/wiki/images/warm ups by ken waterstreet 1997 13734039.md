@@ -1,7 +1,7 @@
 ---
 title: "warm ups by ken waterstreet 1997"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg"
 source_relpath: "1900s/warm_ups_by_ken_waterstreet_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
@@ -22,4 +22,14 @@ Artist: [[Artist - ken waterstreet]]
 
 Source: [[media/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/warm_ups_by_ken_waterstreet_1997.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - ken jenkins|Artist - ken jenkins]] — shared language: ken
+- [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken
+- [[knowledge/wiki/artists/Artist - ken bastian|Artist - ken bastian]] — shared language: ken
+- [[knowledge/wiki/images/the dragon by ken feingold 1987 999a5de0|the dragon by ken feingold 1987]] — shared language: ken
+- [[knowledge/wiki/images/inside macpaint by ken jenkins 1985 34dd5bb8|inside macpaint by ken jenkins 1985]] — shared language: ken
+<!-- vault-crosslinks:end -->

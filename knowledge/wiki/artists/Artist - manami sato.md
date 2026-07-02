@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the mechanism of the geisha by manami sato 2010 f4dbf8f9|the mechanism of the geisha by manami sato 2010]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/pixelated black and white exploded diagram of a computer mouse mechanism d7d3dacf|pixelated black and white exploded diagram of a computer mouse mechanism]] — shared language: mechanism
+- [[knowledge/wiki/artists/Artist - man ray|Artist - man ray]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - manfred mohr|Artist - manfred mohr]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

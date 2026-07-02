@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george ault 1922|Artist - george ault 1922]] — named in this note
 - [[knowledge/wiki/images/new york the waterfront by george ault 1922 076cb4ff|new york the waterfront by george ault 1922]] — shared language: ault, george
-- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1907|Artist - george bellows 1907]] — shared language: george
+- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
 <!-- vault-crosslinks:end -->

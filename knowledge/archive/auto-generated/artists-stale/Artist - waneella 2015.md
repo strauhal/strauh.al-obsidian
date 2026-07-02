@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - waneella 2019|Artist - waneella 2019]] — named in this note
 - [[knowledge/wiki/images/the brinmansta by waneella 2019 0e89c52e|the brinmansta by waneella 2019]] — shared language: waneella
 - [[knowledge/wiki/images/baron town by waneella 2019 ef4c7cb5|baron town by waneella 2019]] — shared language: waneella
-- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: night
 - [[knowledge/wiki/images/gu hongzhong s night revels 1 edit jpg 7c8c4ef3|gu hongzhong s night revels 1 edit jpg]] — shared language: night
+- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: night
 <!-- vault-crosslinks:end -->

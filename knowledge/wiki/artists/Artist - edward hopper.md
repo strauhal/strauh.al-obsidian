@@ -43,3 +43,14 @@ Images attributed by filename: 10
 - [[soir bleu by edward hopper 1914 c533406c|soir bleu by edward hopper 1914]]
 - [[soir bleu by edward hopper 1914 2 6efe0675|soir bleu by edward hopper 1914 2]]
 - [[summer time by edward hopper 1943 77200d6e|summer time by edward hopper 1943]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — named in this note
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: hopper, edward
+- [[knowledge/wiki/images/edward hopper rooms by the sea 1951 d62a2fb9|edward hopper rooms by the sea 1951]] — shared language: hopper, edward
+- [[knowledge/wiki/images/edward hopper sunlight in an empty room 1963 efa8f0ff|edward hopper sunlight in an empty room 1963]] — shared language: hopper, edward, room
+- [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — shared language: york, new, room
+<!-- vault-crosslinks:end -->

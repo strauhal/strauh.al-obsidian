@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1600s/the_sleeping_puppy_by_rembrandt_van_rijn_c_1640.jpg]]
 
 ![[media/strauh.al3.1/1600s/the_virgin_and_child_with_a_kneeling_figure_and_putti_by_giovanni_francesco_barbieri_c_1630_1640.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1639|Date Bucket - 1639]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1642|Date Bucket - 1642]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

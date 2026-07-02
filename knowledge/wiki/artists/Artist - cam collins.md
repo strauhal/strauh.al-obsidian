@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021 8eb18995|digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021]]
 - [[the last supper of the unicorns by cam collins 2020 4f85272b|the last supper of the unicorns by cam collins 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: collins
+- [[knowledge/wiki/books/hideo-kojima-nathan-collins-the-creative-gene-how-books-movies-and-music-inspired|The creative gene how books, movies, and music inspired]] — shared language: collins
+- [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
+- [[knowledge/wiki/images/the last supper by r h quaytman 2018 91218f2b|the last supper by r h quaytman 2018]] — shared language: supper, last
+- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: last
+- [[knowledge/wiki/images/digital sketch of a fantasy figure with multiple head and body studies long hair and halo 7070b70f|digital sketch of a fantasy figure with multiple head and body studies long hair and halo]] — shared language: fantasy, multiple, digital
+<!-- vault-crosslinks:end -->

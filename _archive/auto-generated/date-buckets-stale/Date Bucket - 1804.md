@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/portrait_of_the_marchioness_of_villafranca_by_francisco_de_goya_y_lucientes_c_1804.jpeg]]
 
 ![[media/strauh.al3.1/1800s/view_of_niagara_falls_by_john_vanderlyn_c_1802_1804.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1802|Date Bucket - 1802]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1805|Date Bucket - 1805]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

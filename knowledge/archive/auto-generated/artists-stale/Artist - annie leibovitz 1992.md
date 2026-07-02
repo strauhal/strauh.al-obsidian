@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jimmy hinson|Artist - jimmy hinson]] — shared language: jimmy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jimmy hinson 2012|Artist - jimmy hinson 2012]] — shared language: jimmy
 - [[knowledge/wiki/images/pxl con by jimmy hinson 2012 db11d271|pxl con by jimmy hinson 2012]] — shared language: jimmy
-- [[knowledge/wiki/images/digital painting of two figures on a desert cliff at sunset b32955cd|digital painting of two figures on a desert cliff at sunset]] — shared language: cliff
+- [[knowledge/wiki/images/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: cliff
 <!-- vault-crosslinks:end -->

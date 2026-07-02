@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — named in this note
 - [[knowledge/wiki/images/black and white photograph of a crowded lagoon area in front of neoclassical exhibition halls flying flags 8e76b07f|black and white photograph of a crowded lagoon area in front of neoclassical exhibition halls flying flags]] — shared language: halls, exhibition
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, walking, central
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: exhibition, domed, large
 - [[knowledge/wiki/images/black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue bc9934c8|black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue]] — shared language: exhibition, central, building
 - [[knowledge/wiki/images/sepia photograph of a grand neoclassical exhibition building and waterway e07c0340|sepia photograph of a grand neoclassical exhibition building and waterway]] — shared language: exhibition, building
-- [[knowledge/wiki/images/black and white photograph of a large neoclassical exhibition hall with flags and street lamps 5440deff|black and white photograph of a large neoclassical exhibition hall with flags and street lamps]] — shared language: exhibition, large
 <!-- vault-crosslinks:end -->

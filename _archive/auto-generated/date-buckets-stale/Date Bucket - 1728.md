@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1700s/george_berkeley_16851753_bishop_of_cloyne_by_john_smibert_c_1728.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1726|Date Bucket - 1726]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1730|Date Bucket - 1730]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

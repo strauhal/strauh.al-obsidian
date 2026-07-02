@@ -60,3 +60,11 @@ Files: 28
 ![[media/strauh.al3.1/1900s/zdzisaw_beksiski_untitled_circa_1980.webp]]
 
 ![[media/strauh.al3.1/comics/IMG_1980.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1979|Date Bucket - 1979]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1981|Date Bucket - 1981]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -47,23 +47,22 @@ these dork ass losers making ai art have probably never felt."
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (1).** [[midjourney has now restricted access to their google doc v0 8m13d4aaew9c1 0536662b|midjourney has now restricted access to their google doc v0 8m13d4aaew9c1]]
+**Images (2).** [[meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] · [[midjourney has now restricted access to their google doc v0 8m13d4aaew9c1 0536662b|midjourney has now restricted access to their google doc v0 8m13d4aaew9c1]]
 
 **Books (1).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/rafah e5f8f25b|rafah]] — named in this note
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: voice, kits.ai, ideas-sketchbook
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice, control, work
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: slop, feed
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: art, slop, essay
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: slop, work, kits.ai
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, feed, sustained
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: process, slop, model
+- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/essays|essays]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

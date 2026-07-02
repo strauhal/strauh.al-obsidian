@@ -40,3 +40,14 @@ Images attributed by filename: 9
 - [[cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988 74dcb9fe|cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988]]
 - [[sayonara nippon cover illustration by katsuhiro otomo 1981 ee7d4f00|sayonara nippon cover illustration by katsuhiro otomo 1981]]
 - [[black and white illustration of a young man in a fur collared jacket and jeans by katsuhiro otomo cb6314e1|black and white illustration of a young man in a fur collared jacket and jeans by katsuhiro otomo]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/culture/reading-akira|Reading - Akira]] — shared language: akira, katsuhiro, otomo
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page, comme, des
+- [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: akira, katsuhiro, otomo
+- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: akira
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: katsuhiro, otomo, akira
+<!-- vault-crosslinks:end -->

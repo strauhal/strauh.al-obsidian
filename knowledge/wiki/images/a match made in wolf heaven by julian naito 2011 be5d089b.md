@@ -1,7 +1,7 @@
 ---
 title: "a match made in wolf heaven by julian naito 2011"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg"
 source_relpath: "2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg"
 collection: "2000s"
 inferred_year: "2011"
@@ -22,4 +22,14 @@ Artist: [[Artist - julian naito]]
 
 Source: [[media/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
+- [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian
+- [[knowledge/wiki/images/kingdom of heaven 522d0569|kingdom of heaven]] — shared language: heaven
+- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: julian
+- [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — shared language: wolf
+<!-- vault-crosslinks:end -->

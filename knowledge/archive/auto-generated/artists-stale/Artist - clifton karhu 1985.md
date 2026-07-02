@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clifton wheeler 1932|Artist - clifton wheeler 1932]] — shared language: clifton
 - [[knowledge/wiki/images/the mill by clifton wheeler 1932 891dba74|the mill by clifton wheeler 1932]] — shared language: clifton
 - [[knowledge/wiki/images/yellow iris by fujio yoshida 1954 8b43eba1|yellow iris by fujio yoshida 1954]] — shared language: iris
-- [[knowledge/wiki/images/the garden by r kikuo johnson 2019 d2714fa1|the garden by r kikuo johnson 2019]] — shared language: garden
+- [[knowledge/wiki/images/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: garden
 <!-- vault-crosslinks:end -->

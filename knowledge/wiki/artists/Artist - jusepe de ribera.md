@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[martyrdom of saint bartholomew by jusepe de ribera 1634 9dae627a|martyrdom of saint bartholomew by jusepe de ribera 1634]]
 - [[the martyrdom of saint bartholomew by jusepe de ribera c 1630 1639 9deffded|the martyrdom of saint bartholomew by jusepe de ribera c 1630 1639]]
 - [[the repentance of saint peter by jusepe de ribera c 1630 de483cea|the repentance of saint peter by jusepe de ribera c 1630]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: jusepe, ribera, saint
+- [[knowledge/wiki/pages/art|art]] — shared language: jusepe, ribera, saint
+- [[knowledge/wiki/images/saint bartholomew s day massacre by francois dubois c 15721584 21534971|saint bartholomew s day massacre by francois dubois c 15721584]] — shared language: bartholomew, saint
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: saint
+- [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint
+- [[knowledge/wiki/images/1971 430 liberation of saint peter from prison jpg 2ac0d73b|1971 430 liberation of saint peter from prison jpg]] — shared language: saint, peter
+<!-- vault-crosslinks:end -->

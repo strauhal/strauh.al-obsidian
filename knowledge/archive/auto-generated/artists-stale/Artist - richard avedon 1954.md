@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1957|Artist - richard avedon 1957]] — shared language: avedon, richard, monroe
 - [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: avedon, richard, monroe
 - [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: avedon, richard, monroe
-- [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1953|Artist - richard avedon 1953]] — shared language: avedon, richard, york
+- [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1970|Artist - richard avedon 1970]] — shared language: avedon, richard, york
 <!-- vault-crosslinks:end -->

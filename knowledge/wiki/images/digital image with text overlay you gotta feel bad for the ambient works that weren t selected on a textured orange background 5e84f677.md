@@ -1,7 +1,7 @@
 ---
 title: "digital image with text overlay you gotta feel bad for the ambient works that weren t selected on a textured orange background"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg"
 source_relpath: "unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg"
 collection: "unsorted"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/digital_image_with_text_overlay_you_gotta_feel_bad_for_the_ambient_works_that_weren_t_selected_on_a_textured_orange_background.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: text, digital, background
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: ambient
+- [[Welcome|strauh.al Knowledge Base]] — shared language: works
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: works
+<!-- vault-crosslinks:end -->

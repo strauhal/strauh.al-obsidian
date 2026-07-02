@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[die purzler the tumblers by george grosz 1922 ce7114c0|die purzler the tumblers by george grosz 1922]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/elizabeth-grosz-chaos-territory-art-deleuze-and-the-framing-of-the-earth-excerpt|Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt)]] — shared language: grosz
+- [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george romney|Artist - george romney]] — shared language: george
+<!-- vault-crosslinks:end -->

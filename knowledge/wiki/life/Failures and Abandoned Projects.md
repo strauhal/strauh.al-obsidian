@@ -56,3 +56,16 @@ from it, and the baseline the [[The Ceremony|ceremony]] is meant to work on.
 
 ## Sources
 - [[diary]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: failures, abandoned, bottom
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, projects, label
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: rebuild, failures, abandoned
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: work, economy, attention
+- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: diary, amor, fati
+<!-- vault-crosslinks:end -->

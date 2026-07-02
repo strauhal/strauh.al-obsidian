@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - helmut newton|Artist - helmut newton]] — named in this note
 - [[knowledge/wiki/images/bowie 41025fab|bowie]] — named in this note
 - [[knowledge/wiki/images/portrait of sir isaac newton 1689 brightened jpg 366c34a3|portrait of sir isaac newton 1689 brightened jpg]] — shared language: newton
+- [[knowledge/wiki/images/gallery photo of black and white contact sheet with standing figures 816885b3|gallery photo of black and white contact sheet with standing figures]] — shared language: contact, sheet
 - [[knowledge/wiki/images/contact sheet of a man in a silver mask and red shirt holding a black electronic device fa332db4|contact sheet of a man in a silver mask and red shirt holding a black electronic device]] — shared language: contact, sheet
 - [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 <!-- vault-crosslinks:end -->

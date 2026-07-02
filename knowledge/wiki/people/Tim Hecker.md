@@ -29,14 +29,14 @@ one weekend. absolutely unreal stuff" — an appraisal that doubles as a stateme
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
+- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+- [[knowledge/wiki/images/Puzzle 1 1176b82a|Puzzle 1]] — named in this note
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
-- [[knowledge/wiki/images/sitting 5edf981f|sitting]] — named in this note
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, influences
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, sound, listed
-- [[knowledge/wiki/books/tim-hecker-tim-hecker-thesis|Tim Hecker — Thesis]] — shared language: hecker, tim, sound
-- [[knowledge/wiki/images/tim hecker 258b8f71|tim hecker]] — shared language: tim, hecker, influences
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: one, influences, fellow
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

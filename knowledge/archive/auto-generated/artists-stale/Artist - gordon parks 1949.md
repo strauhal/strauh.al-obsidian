@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - gordon parks|Artist - gordon parks]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gordon parks 1956|Artist - gordon parks 1956]] — named in this note
 - [[knowledge/wiki/images/eldridge a member of the thornton family with a rifle near mobile alabama by gordon parks 1956 9abb8b4c|eldridge a member of the thornton family with a rifle near mobile alabama by gordon parks 1956]] — shared language: parks, gordon
+- [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: gordon
 - [[knowledge/wiki/images/black and white photographs of christopher n schumacher and gordon schumacher on a printed page 9cdc91ff|black and white photographs of christopher n schumacher and gordon schumacher on a printed page]] — shared language: gordon
 - [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
-- [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: gordon
 <!-- vault-crosslinks:end -->

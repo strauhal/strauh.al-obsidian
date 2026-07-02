@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2000s"
 source_kind: "date_bucket"
-count: "83"
+count: "82"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2000s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 83
+Files: 82
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 83
 ![[media/strauh.al3.1/2000s/heavy_dog_kiss_by_dennis_oppenheim_2001.jpeg]]
 
 ![[media/strauh.al3.1/2000s/hope_by_mary_brodbeck_2004.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1990s|Date Bucket - 1990s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 2010s|Date Bucket - 2010s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

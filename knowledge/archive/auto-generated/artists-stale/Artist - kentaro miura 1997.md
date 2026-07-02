@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - kentaro miura|Artist - kentaro miura]] — named in this note
 - [[_archive/auto-generated/books-stale/beyond-good-evil|beyond good & evil]] — shared language: evil
-- [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: evil, idea
 - [[knowledge/wiki/images/evil png 213b94fc|evil png]] — shared language: evil
+- [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: evil, idea
 - [[knowledge/wiki/images/idea for communications bay 2010 6bf54032|idea for communications bay 2010]] — shared language: idea
 <!-- vault-crosslinks:end -->

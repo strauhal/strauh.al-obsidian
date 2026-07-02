@@ -7,8 +7,8 @@ status: queued
 queue_order: 7
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # First Floor
@@ -35,7 +35,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-consumed|Listening - Consumed]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-elseq|Listening - elseq]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-mutant|Listening - Mutant]] — shared language: listening, current, performer
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: first
 - [[knowledge/wiki/culture/music-anoyo|Listening - Anoyo]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-musik|Listening - Musik]] — shared language: listening, current, performer
+- [[knowledge/wiki/culture/music-madvillainy|Listening - Madvillainy]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

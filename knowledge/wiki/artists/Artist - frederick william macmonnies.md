@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the barge of the republic by frederick william macmonnies 1893 8a47c228|the barge of the republic by frederick william macmonnies 1893]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/plato-the-republic|The Republic]] — named in this note
+- [[knowledge/wiki/images/william morris by frederick hollyer 1884 f808d900|william morris by frederick hollyer 1884]] — shared language: frederick, william
+- [[knowledge/wiki/artists/Artist - frederick hollyer|Artist - frederick hollyer]] — shared language: frederick, william
+- [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
+- [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
+- [[knowledge/wiki/images/the harvest by frederick booth 1918 ae851690|the harvest by frederick booth 1918]] — shared language: frederick
+<!-- vault-crosslinks:end -->

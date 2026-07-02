@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[clipper by paul signac 1887 ace6434d|clipper by paul signac 1887]]
 - [[les andelys the washerwomen by paul signac 1886 8fb64e46|les andelys the washerwomen by paul signac 1886]]
 - [[le pin de saint tropez by paul signac 1909 d963d45c|le pin de saint tropez by paul signac 1909]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
+- [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
+- [[knowledge/wiki/artists/Artist - paul wonner|Artist - paul wonner]] — shared language: paul
+- [[knowledge/wiki/artists/Artist - paul dubois|Artist - paul dubois]] — shared language: paul
+- [[knowledge/wiki/artists/Artist - paul klee|Artist - paul klee]] — shared language: paul
+<!-- vault-crosslinks:end -->

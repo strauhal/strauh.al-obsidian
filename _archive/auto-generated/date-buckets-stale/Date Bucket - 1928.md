@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1900s/place_vendome_by_jean_dufy_1928.jpeg]]
 
 ![[media/strauh.al3.1/1900s/ren_magritte_les_amants_1928.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1927|Date Bucket - 1927]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1929|Date Bucket - 1929]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "digital drawing of a character transitioning appearance over five years"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg"
 source_relpath: "unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg"
 collection: "unsorted"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/digital_drawing_of_a_character_transitioning_appearance_over_five_years.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: character, digital
+- [[knowledge/wiki/images/digital sketch page with anatomical head studies and character drawings cdcbfec4|digital sketch page with anatomical head studies and character drawings]] — shared language: character, digital
+- [[knowledge/wiki/artists/Artist - five white swans at night|Artist - five white swans at night]] — shared language: five
+- [[knowledge/wiki/artists/Artist - five white swans at night 2|Artist - five white swans at night 2]] — shared language: five
+- [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
+<!-- vault-crosslinks:end -->

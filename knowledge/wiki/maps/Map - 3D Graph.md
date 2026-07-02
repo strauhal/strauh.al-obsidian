@@ -60,11 +60,11 @@ python3 tools/wiki_refresh.py     # full vault refresh (includes it)
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: archive, vault, literal
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: archive, theme
-- [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, built, vault
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, built, vault
-- [[knowledge/wiki/images/black and white graph showing a single line splitting repeatedly into a dense chaotic region 034260fb|black and white graph showing a single line splitting repeatedly into a dense chaotic region]] — shared language: graph, single
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: mind, vault, literal
+- [[Welcome|strauh.al Knowledge Base]] — shared language: graph, ideas, vault
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: graph, ideas, vault
 - [[knowledge/wiki/images/red ink abstract biomorphic drawing on graph paper bc6ed6cd|red ink abstract biomorphic drawing on graph paper]] — shared language: graph
+- [[knowledge/wiki/images/black and white graph showing a single line splitting repeatedly into a dense chaotic region 034260fb|black and white graph showing a single line splitting repeatedly into a dense chaotic region]] — shared language: graph, single
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: click, drag, theme
+- [[knowledge/wiki/images/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the breath of life by stanisaw szukalski 1904 6e04a6f3|the breath of life by stanisaw szukalski 1904]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - stanisaw stachowicz|Artist - stanisaw stachowicz]] — shared language: stanisaw
+- [[knowledge/wiki/images/la liseuse by stanisaw stachowicz 1858 02fc98fb|la liseuse by stanisaw stachowicz 1858]] — shared language: stanisaw
+- [[knowledge/wiki/images/life of pi 171df880|life of pi]] — shared language: life
+<!-- vault-crosslinks:end -->

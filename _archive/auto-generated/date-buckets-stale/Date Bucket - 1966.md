@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1900s/yukoku_patriotism_by_yukio_mishima_1966.jpg]]
 
 ![[media/strauh.al3.1/comics/IMG_1966.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1965|Date Bucket - 1965]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1967|Date Bucket - 1967]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

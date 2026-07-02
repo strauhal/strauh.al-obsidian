@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1850s"
 source_kind: "date_bucket"
-count: "46"
+count: "51"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1850s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 46
+Files: 51
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 46
 ![[media/strauh.al3.1/1800s/man_seated_wearing_a_cap_by_honore_daumier_1858.jpeg]]
 
 ![[media/strauh.al3.1/1800s/night_view_of_saruwaka_machi_by_utagawa_hiroshige_1856.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1840s|Date Bucket - 1840s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1860s|Date Bucket - 1860s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

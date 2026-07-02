@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - santiago ramon y cajal|Artist - santiago ramon y cajal]] — shared language: santiago
 - [[knowledge/wiki/images/different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900 f5f8d019|different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900]] — shared language: santiago
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — shared language: great
 - [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
+- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

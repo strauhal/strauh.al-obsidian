@@ -31,7 +31,7 @@ Images attributed by filename: 4
 
 - [[knowledge/wiki/artists/Artist - victor moscoso|Artist - victor moscoso]] — named in this note
 - [[knowledge/wiki/images/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: moscoso, victor
-- [[knowledge/wiki/images/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, band, doors
+- [[knowledge/wiki/images/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, doors, band
 - [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - victor nizovtsev 2006|Artist - victor nizovtsev 2006]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor

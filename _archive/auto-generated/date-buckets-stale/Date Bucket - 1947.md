@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/silos_by_charles_sheeler_1947.jpeg]]
 
 ![[media/strauh.al3.1/artists/kawase_husui/anastasiavonseiboldjapaneseart-kawase-hasui-1883-1957-evening-rain-at-kawarago-kawarago-no-yau-1947.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1946|Date Bucket - 1946]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1948|Date Bucket - 1948]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

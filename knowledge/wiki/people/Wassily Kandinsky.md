@@ -28,14 +28,14 @@ shared with [[Alexander Scriabin]] and realized technically in the audiovisual
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance, influences
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: influences, sound, listed
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, listed, among
-- [[knowledge/wiki/images/wassily kandinsky 829cef07|wassily kandinsky]] — shared language: wassily, kandinsky, influences
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, kandinsky, wassily
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily, quotes
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, rather, implicit
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, perception
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: quotes, rather, process
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

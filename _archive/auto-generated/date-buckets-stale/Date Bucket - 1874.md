@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1800s/the_bridge_at_villeneuve_la_garenne_by_alfred_sisley_1874.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_dance_class_by_edgar_degas_1874.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1873|Date Bucket - 1873]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1875|Date Bucket - 1875]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

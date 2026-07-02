@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/the_pink_dress_by_laura_wheeler_waring_c_1927.jpg]]
 
 ![[media/strauh.al3.1/1900s/three_bauhaus_students_by_t_lux_feininger_1927.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1926|Date Bucket - 1926]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1928|Date Bucket - 1928]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

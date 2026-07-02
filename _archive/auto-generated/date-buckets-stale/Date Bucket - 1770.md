@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1700s/the_death_of_general_wolfe_by_benjamin_west_1770.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_death_of_general_wolfe_by_benjamin_west_1770_2.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1768|Date Bucket - 1768]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1771|Date Bucket - 1771]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

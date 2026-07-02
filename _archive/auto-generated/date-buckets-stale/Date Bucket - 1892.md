@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1800s/view_from_illinois_bldg_sep_18_1892_1892.jpg]]
 
 ![[media/strauh.al3.1/1800s/woman_in_a_black_boa_by_henri_de_toulouse_lautrec_1892.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1891|Date Bucket - 1891]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1893|Date Bucket - 1893]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/the_red_studio_by_henri_matisse_1911.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_sleeper_la_siesta_by_john_singer_sargent_c_1911.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1910|Date Bucket - 1910]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1912|Date Bucket - 1912]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

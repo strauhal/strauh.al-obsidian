@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the cookout by devan shimoyama 2022 247a3862|the cookout by devan shimoyama 2022]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - detroit publishing co|Artist - detroit publishing co]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - diagonal light|Artist - diagonal light]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

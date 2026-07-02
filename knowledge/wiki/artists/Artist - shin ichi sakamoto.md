@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[innocent manga panel by shin ichi sakamoto 2013 108fa087|innocent manga panel by shin ichi sakamoto 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: sakamoto
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: sakamoto
+- [[knowledge/wiki/images/ichi by bandit9 2022 f968add2|ichi by bandit9 2022]] — shared language: ichi
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: sakamoto
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: sakamoto
+- [[knowledge/wiki/images/ryuichi sakamoto 9feaef1f|ryuichi sakamoto]] — shared language: sakamoto
+<!-- vault-crosslinks:end -->

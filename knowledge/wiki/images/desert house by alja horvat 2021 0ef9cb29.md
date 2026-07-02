@@ -1,7 +1,7 @@
 ---
 title: "desert house by alja horvat 2021"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg"
 source_relpath: "2000s/desert_house_by_alja_horvat_2021.jpeg"
 collection: "2000s"
 inferred_year: "2021"
@@ -22,4 +22,14 @@ Artist: [[Artist - alja horvat]]
 
 Source: [[media/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/desert bloom by alja horvat 2021 c940105d|desert bloom by alja horvat 2021]] — same artist: alja horvat
+- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
+- [[knowledge/wiki/images/digital painting of two figures on a desert cliff at sunset b32955cd|digital painting of two figures on a desert cliff at sunset]] — shared language: desert
+- [[knowledge/wiki/images/oil painting of an indigenous woman carrying a child in a desert landscape 2b7b86fc|oil painting of an indigenous woman carrying a child in a desert landscape]] — shared language: desert
+- [[knowledge/wiki/images/christ in the desert by ivan kramskoi 1872 0e3daa72|christ in the desert by ivan kramskoi 1872]] — shared language: desert
+<!-- vault-crosslinks:end -->

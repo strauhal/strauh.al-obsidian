@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[portrait of allen knapp by robert henri c 1914 e228e344|portrait of allen knapp by robert henri c 1914]]
 - [[the chinese girl by robert henri 1914 71ddacd8|the chinese girl by robert henri 1914]]
 - [[the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — named in this note
+- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri, robert
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: robert
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1991|Artist - peter saul 1991]] — shared language: peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1967|Artist - peter saul 1967]] — shared language: peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1969|Artist - peter saul 1969]] — shared language: peter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter doig 2011|Artist - peter doig 2011]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: peter
+- [[knowledge/archive/auto-generated/artists-stale/Artist - peter doig 2011|Artist - peter doig 2011]] — shared language: peter
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "knowledge base art"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/art.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/art.html"
 source_relpath: "knowledge_base/art.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base art
@@ -604,3 +604,16 @@ strauh.al/knowledge_base/art
 **[[Trainpilled]]** — [Did a Silent Film About a Train Really Cause Audiences to Stampede? - Atlas Obscura](https://www.atlasobscura.com/articles/did-a-silent-film-about-a-train-really-cause-audiences-to-stampede)
 
 <!-- kb-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
+- [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/anchors/hideaki-anno|Hideaki Anno]] — named in this note
+- [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — named in this note
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+<!-- vault-crosslinks:end -->

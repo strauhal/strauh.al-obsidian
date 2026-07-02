@@ -40,3 +40,14 @@ Images attributed by filename: 9
 - [[the destruction of sodom and gomorrah by john martin 1852 2 388ffed2|the destruction of sodom and gomorrah by john martin 1852 2]]
 - [[the fall of the rebel angels by john martin 1824 513f0c10|the fall of the rebel angels by john martin 1824]]
 - [[the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/john martin the destruction of sodom and gomorrah 1859 30217c25|john martin the destruction of sodom and gomorrah 1859]] — named in this note
+- [[knowledge/wiki/images/john martin pandemonium 1841 cb7eaa34|john martin pandemonium 1841]] — named in this note
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
+- [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: martin, feast, john
+- [[knowledge/wiki/images/john martin the great day of his wrath 1853 22ffb5d0|john martin the great day of his wrath 1853]] — shared language: martin, john
+<!-- vault-crosslinks:end -->

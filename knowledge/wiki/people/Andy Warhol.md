@@ -27,14 +27,14 @@ last shared American experience.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, jobs, quotes
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, look, attention
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, diary, yeah
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, drew
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: economy, attention, diary
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: attention, feed, ernest's
-- [[knowledge/wiki/images/coke 08f599f2|coke]] — shared language: coke, diary
-- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: diary, like, attention
-- [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: warhol, andy
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, point, summary
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: attention, feed, economy
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1860s"
 source_kind: "date_bucket"
-count: "63"
+count: "64"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1860s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 63
+Files: 64
 
 ## Sample
 
@@ -39,6 +39,8 @@ Files: 63
 
 ![[media/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866.jpg]]
 
+![[media/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg]]
+
 ![[media/strauh.al3.1/1800s/david_johnson_the_haymakers_1867.jpg]]
 
 ![[media/strauh.al3.1/1800s/der_grottenschmied_by_carl_spitzweg_c_1855_1860.jpeg]]
@@ -59,4 +61,10 @@ Files: 63
 
 ![[media/strauh.al3.1/1800s/herodiade_by_gustave_dore_1868.jpg]]
 
-![[media/strauh.al3.1/1800s/jan_matejko_staczyk_1862.jpg]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1850s|Date Bucket - 1850s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1870s|Date Bucket - 1870s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

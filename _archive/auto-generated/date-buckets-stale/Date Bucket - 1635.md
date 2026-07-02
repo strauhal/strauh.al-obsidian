@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1600s/the_three_eldest_children_of_charles_i_by_anthony_van_dyck_1635.jpeg]]
 
 ![[media/strauh.al3.1/1600s/the_three_graces_by_peter_paul_rubens_c_1635.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1634|Date Bucket - 1634]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1636|Date Bucket - 1636]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

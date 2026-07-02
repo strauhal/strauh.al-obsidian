@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[man in chair by wayne thiebaud 1995 8221d4e3|man in chair by wayne thiebaud 1995]]
 - [[sacramento by wayne thiebaud 1982 da0dacb7|sacramento by wayne thiebaud 1982]]
 - [[steep street by wayne thiebaud 1980 3ecf45dc|steep street by wayne thiebaud 1980]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, multiple, human
+- [[knowledge/wiki/images/exhibition wall text titled tradition and the self discussing wayne thiebaud 439efd6e|exhibition wall text titled tradition and the self discussing wayne thiebaud]] — shared language: wayne, thiebaud
+- [[knowledge/wiki/artists/Artist - wayne barlowe|Artist - wayne barlowe]] — shared language: wayne
+- [[knowledge/wiki/images/the burning city by wayne barlowe 2000 832e9d71|the burning city by wayne barlowe 2000]] — shared language: wayne
+- [[knowledge/wiki/images/pen and ink study sheet featuring multiple sketches of horses and human heads 9ba541bf|pen and ink study sheet featuring multiple sketches of horses and human heads]] — shared language: heads, multiple, human
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/williamadolphe bouguereau the sleep le sommeil 1873 31c1aa27|williamadolphe bouguereau the sleep le sommeil 1873]] — shared language: bouguereau
 - [[knowledge/archive/auto-generated/artists-stale/Artist - william adolphe bouguereau 1886|Artist - william adolphe bouguereau 1886]] — shared language: bouguereau
 - [[knowledge/archive/auto-generated/artists-stale/Artist - william adolphe bouguereau 1902|Artist - william adolphe bouguereau 1902]] — shared language: bouguereau
-- [[knowledge/archive/auto-generated/artists-stale/Artist - william adolphe bouguereau 1850|Artist - william adolphe bouguereau 1850]] — shared language: bouguereau
 - [[knowledge/wiki/images/williamadolphe bouguereau nymphes des sources 1902 ed0e3352|williamadolphe bouguereau nymphes des sources 1902]] — shared language: bouguereau
+- [[knowledge/archive/auto-generated/artists-stale/Artist - william adolphe bouguereau 1850|Artist - william adolphe bouguereau 1850]] — shared language: bouguereau
 <!-- vault-crosslinks:end -->

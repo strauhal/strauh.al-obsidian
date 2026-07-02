@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1800s/the_poacher_s_nurse_by_briton_riviere_1868.jpg]]
 
 ![[media/strauh.al3.1/1800s/view_of_tiflis_by_ivan_aivazovsky_1868.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1867|Date Bucket - 1867]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1869|Date Bucket - 1869]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

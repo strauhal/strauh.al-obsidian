@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[apollo and hyacinth by gustave moreau 1855 3839bfc1|apollo and hyacinth by gustave moreau 1855]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jean michel moreau|Artist - jean michel moreau]] — shared language: moreau
+- [[knowledge/wiki/images/le bal pare by jean michel moreau 1812 4a7556db|le bal pare by jean michel moreau 1812]] — shared language: moreau
+- [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
+- [[knowledge/wiki/images/the deluge by gustave dore 1866 ab921780|the deluge by gustave dore 1866]] — shared language: gustave
+- [[knowledge/wiki/images/the deluge by gustave dore 1866 2 2c86e9ec|the deluge by gustave dore 1866 2]] — shared language: gustave
+- [[knowledge/wiki/images/herodiade by gustave dore 1868 9180f266|herodiade by gustave dore 1868]] — shared language: gustave
+<!-- vault-crosslinks:end -->

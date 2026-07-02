@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: sakamoto
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: sakamoto
 - [[knowledge/wiki/images/ichi by bandit9 2022 f968add2|ichi by bandit9 2022]] — shared language: ichi
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: sakamoto
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: sakamoto
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: sakamoto
 <!-- vault-crosslinks:end -->

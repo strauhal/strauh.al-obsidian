@@ -140,3 +140,16 @@ Files: 77
 - [[youngrembrandt 59957721|youngrembrandt]]
 - [[zine1 66962c59|zine1]]
 - [[zwon b5509c9f|zwon]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: scaruffi, diary
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: coke, diary
+- [[knowledge/wiki/images/laion clusters e094424a|laion clusters]] — shared language: laion, clusters
+- [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
+- [[knowledge/wiki/artists/Artist - robert ryman|Artist - robert ryman]] — shared language: ryman
+- [[knowledge/wiki/images/beethoven on his deathbed jpg e9c5b821|beethoven on his deathbed jpg]] — shared language: deathbed
+- [[knowledge/wiki/images/twin by robert ryman 1966 8fc7c210|twin by robert ryman 1966]] — shared language: ryman
+<!-- vault-crosslinks:end -->

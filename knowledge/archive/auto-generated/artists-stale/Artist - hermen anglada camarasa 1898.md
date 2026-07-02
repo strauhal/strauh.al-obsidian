@@ -21,7 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hermen anglada camarasa|Artist - hermen anglada camarasa]] — named in this note
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: end
 - [[knowledge/wiki/images/end of eva jpg 2eeaba1b|end of eva jpg]] — shared language: end
 - [[knowledge/wiki/images/end of eva png f0e67867|end of eva png]] — shared language: end
 - [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — shared language: dinner

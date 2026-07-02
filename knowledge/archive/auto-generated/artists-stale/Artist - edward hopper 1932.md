@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1939 2|Artist - edward hopper 1939 2]] — shared language: hopper, edward, york
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1922|Artist - edward hopper 1922]] — shared language: hopper, edward, york
 - [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: hopper, edward
-- [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — shared language: hopper, edward, room
+- [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — shared language: hopper, edward, york
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1943|Artist - edward hopper 1943]] — shared language: hopper, edward
 <!-- vault-crosslinks:end -->

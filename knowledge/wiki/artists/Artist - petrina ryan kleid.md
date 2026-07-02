@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the paper airplane by petrina ryan kleid 2012 f9d06221|the paper airplane by petrina ryan kleid 2012]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - ryan bliss|Artist - ryan bliss]] — shared language: ryan
+- [[knowledge/wiki/images/stargazer by ryan bliss 2000 7b855db6|stargazer by ryan bliss 2000]] — shared language: ryan
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
+- [[knowledge/wiki/images/the paper airplane by john mcnaughton 2008 c7e89a28|the paper airplane by john mcnaughton 2008]] — shared language: airplane, paper
+- [[knowledge/wiki/images/apple paper 7b0456ee|apple paper]] — shared language: paper
+- [[knowledge/wiki/images/abstract black ink brushstrokes on paper 3dd6bc32|abstract black ink brushstrokes on paper]] — shared language: paper
+<!-- vault-crosslinks:end -->

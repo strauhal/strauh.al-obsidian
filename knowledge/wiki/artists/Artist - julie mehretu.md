@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[stadia ii by julie mehretu 2004 17bcb7a7|stadia ii by julie mehretu 2004]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - julien breton|Artist - julien breton]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

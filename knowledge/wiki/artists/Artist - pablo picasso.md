@@ -86,3 +86,14 @@ Images attributed by filename: 25
 - [[two brothers by pablo picasso 1905 ed4cea42|two brothers by pablo picasso 1905]]
 - [[two male ballet dancers by pablo picasso 1925 cfc392d1|two male ballet dancers by pablo picasso 1925]]
 - [[two women running on the beach the race by pablo picasso 1922 2a3e7a34|two women running on the beach the race by pablo picasso 1922]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/images/pablo picasso femme dans un fauteuil woman in an armchair 1938 0b88bc86|pablo picasso femme dans un fauteuil woman in an armchair 1938]] — shared language: picasso, pablo, femme
+- [[knowledge/wiki/images/pablo picasso les demoiselles davignon 1907 38a86cf2|pablo picasso les demoiselles davignon 1907]] — shared language: picasso, pablo, demoiselles
+- [[knowledge/wiki/images/tete de femme head of a woman by salvador dali 1937 b1ef89d2|tete de femme head of a woman by salvador dali 1937]] — shared language: tete, femme, head
+- [[knowledge/wiki/images/pablo picasso drawing a figure with light by gjon mili 1949 e5d05cab|pablo picasso drawing a figure with light by gjon mili 1949]] — shared language: picasso, pablo
+- [[knowledge/wiki/images/pablo picasso in his studio at la californie cannes by david douglas duncan 1957 9f0d1ab8|pablo picasso in his studio at la californie cannes by david douglas duncan 1957]] — shared language: picasso, pablo
+<!-- vault-crosslinks:end -->

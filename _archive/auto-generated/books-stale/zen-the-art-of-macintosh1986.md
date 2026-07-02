@@ -40,7 +40,7 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
+- [[_archive/auto-generated/books-stale/beuys-on-drawing|beuys on drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

@@ -3,8 +3,8 @@ title: Map - Concepts
 type: map
 aliases: [Idea Atlas, The Idea Atlas, Concept Atlas]
 tags: [map, concepts, atlas]
-created: 2026-06-27
-updated: 2026-06-27
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # The Idea Atlas
@@ -106,3 +106,16 @@ Orbiting: [[Barry McGee]] · [[Egon Schiele]] · [[Yohji Yamamoto]] · [[Rei Kaw
 - [[To Render Myself Unnecessary]]
 - [[Trainpilled]]
 - [[Transmitting My Neural Signals by Hand]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
+- [[knowledge/wiki/images/spatial b1efb1dc|spatial]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy, feed
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: latent, attention, space
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: works, art, space
+<!-- vault-crosslinks:end -->

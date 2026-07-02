@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_peasant_brawl_by_pieter_bruegel_the_elder_c_1558.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1555|Date Bucket - 1555]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1559|Date Bucket - 1559]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

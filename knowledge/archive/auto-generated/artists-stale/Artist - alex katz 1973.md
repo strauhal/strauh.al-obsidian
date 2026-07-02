@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1980|Artist - alex katz 1980]] — shared language: katz, alex, ada
 - [[knowledge/wiki/artists/Artist - alex katz|Artist - alex katz]] — shared language: katz, alex, ada
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1960|Artist - alex katz 1960]] — shared language: katz, alex
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1962|Artist - alex katz 1962]] — shared language: katz, alex
+- [[knowledge/wiki/images/ada in the landscape by alex katz 1990 d09a82d9|ada in the landscape by alex katz 1990]] — shared language: katz, alex, ada
 <!-- vault-crosslinks:end -->

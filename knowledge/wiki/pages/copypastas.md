@@ -1,10 +1,10 @@
 ---
 title: "copypastas"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/copypastas.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/copypastas.html"
 source_relpath: "knowledge_base/copypastas.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # copypastas
@@ -50,3 +50,16 @@ strauh.al/copypastas
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/books/plato-the-republic|The Republic]] — named in this note
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kbps, flac, like
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: you're, even, like
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: even, nothing, like
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck, like, play
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: you're, say, can't
+<!-- vault-crosslinks:end -->

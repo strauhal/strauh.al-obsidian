@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[joker by todd phillips 2019 cdc28118|joker by todd phillips 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - todd hido|Artist - todd hido]] — shared language: todd
+- [[knowledge/wiki/images/4 bros liquor 4 san bernardino ca by todd hido 2013 4263df13|4 bros liquor 4 san bernardino ca by todd hido 2013]] — shared language: todd
+- [[knowledge/wiki/artists/Artist - tom lovell|Artist - tom lovell]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

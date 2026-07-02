@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - henri paul motte|Artist - henri paul motte]] — named in this note
+- [[knowledge/wiki/images/le cardinal de richelieu au siege de la rochelle by henri paul motte 1881 2 5f0af077|le cardinal de richelieu au siege de la rochelle by henri paul motte 1881 2]] — shared language: motte, henri, paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: henri
 - [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: henri
-- [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: henri
 <!-- vault-crosslinks:end -->

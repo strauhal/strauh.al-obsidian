@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - rachel ruysch after|Artist - rachel ruysch after]] — named in this note
 - [[knowledge/wiki/images/rachel c879da05|rachel]] — named in this note
-- [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
-- [[knowledge/wiki/images/mixed media floral still life with yellow impasto flowers and red halftone flower 2739dc6c|mixed media floral still life with yellow impasto flowers and red halftone flower]] — shared language: flower, still, life
-- [[knowledge/wiki/images/life of pi 171df880|life of pi]] — shared language: life
-- [[knowledge/wiki/images/still life with head by stuart davis 1921 1ce45392|still life with head by stuart davis 1921]] — shared language: still, life
+- [[knowledge/wiki/images/framed flower still life with red and white blossoms 4f4965ab|framed flower still life with red and white blossoms]] — shared language: flower, still, life
+- [[knowledge/wiki/images/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: flower, still, life
+- [[knowledge/wiki/images/framed flower still life with red blossoms and a white vase 7eea50a5|framed flower still life with red blossoms and a white vase]] — shared language: flower, still, life
+- [[knowledge/wiki/images/flower still life in a glass vase on blue checkered tablecloth 11546f42|flower still life in a glass vase on blue checkered tablecloth]] — shared language: flower, still, life
 <!-- vault-crosslinks:end -->

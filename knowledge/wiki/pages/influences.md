@@ -1,10 +1,10 @@
 ---
 title: "influences"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/influences.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/influences.html"
 source_relpath: "influences.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # influences
@@ -65,3 +65,16 @@ strauh.al/influences
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander, influences
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, alexander
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, alexander
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences
+<!-- vault-crosslinks:end -->

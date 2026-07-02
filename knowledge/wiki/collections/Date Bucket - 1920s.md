@@ -60,3 +60,11 @@ Files: 96
 ![[media/strauh.al3.1/1900s/doppelbildnis_double_portrait_by_adolf_wolfli_1920.jpeg]]
 
 ![[media/strauh.al3.1/1900s/dotonbori_osaka_by_kawase_hasui_1927.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1910s|Date Bucket - 1910s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1930s|Date Bucket - 1930s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

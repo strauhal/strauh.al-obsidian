@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1800s/frederic_edwin_church_cotopaxi_1855.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_doge_s_palace_venice_by_federico_moja_1855.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1854|Date Bucket - 1854]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1856|Date Bucket - 1856]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - winsor mccay|Artist - winsor mccay]] — named in this note
+- [[knowledge/wiki/images/framed painting of mont saint michel on a sandy plain 5284da2d|framed painting of mont saint michel on a sandy plain]] — shared language: mont, michel, saint
 - [[knowledge/wiki/books/michel-de-montaigne-the-complete-essays|The Complete Essays]] — shared language: michel
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: michel
 - [[knowledge/wiki/books/michel-houellebecq-the-elementary-particles|The Elementary Particles]] — shared language: michel
 - [[knowledge/wiki/books/michel-foucault-the-history-of-sexuality-volume-1|The History of Sexuality, Volume 1]] — shared language: michel
-- [[knowledge/wiki/books/michel-foucault-the-history-of-sexuality-volume-2|The History of Sexuality, Volume 2]] — shared language: michel
 <!-- vault-crosslinks:end -->

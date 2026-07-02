@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[l espace du monde by roberto matta 1957 3b9b9429|l espace du monde by roberto matta 1957]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/matta au fond du reflet jpg 3b470f1a|matta au fond du reflet jpg]] — shared language: matta
+- [[knowledge/wiki/images/Matta Earth Is a Man 7910980f|Matta Earth Is a Man]] — shared language: matta
+- [[knowledge/wiki/artists/Artist - roberto ferri|Artist - roberto ferri]] — shared language: roberto
+- [[knowledge/wiki/images/the bull by roberto ferri 2015 fa9fc4b3|the bull by roberto ferri 2015]] — shared language: roberto
+<!-- vault-crosslinks:end -->

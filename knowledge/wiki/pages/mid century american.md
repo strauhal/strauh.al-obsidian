@@ -1,10 +1,10 @@
 ---
 title: "mid century american"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/mid_century_american.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/mid_century_american.html"
 source_relpath: "mid_century_american.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # mid century american
@@ -59,3 +59,16 @@ strauh.al/mid_century_american
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/a lady holding a flowering branch mid 17th century f10cbb46|a lady holding a flowering branch mid 17th century]] — shared language: mid, century
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: american
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: american
+- [[knowledge/wiki/images/anime illustration of a maid skateboarding in mid air 1ddc7ce2|anime illustration of a maid skateboarding in mid air]] — shared language: mid
+- [[knowledge/wiki/images/vadim gerasimov scream early 21st century 53b5989b|vadim gerasimov scream early 21st century]] — shared language: century
+- [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century
+- [[knowledge/wiki/images/blemmyes 15th century 5a4f467c|blemmyes 15th century]] — shared language: century
+- [[knowledge/wiki/images/hassan rizali fantasia early 21st century a623820e|hassan rizali fantasia early 21st century]] — shared language: century
+<!-- vault-crosslinks:end -->

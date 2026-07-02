@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[motoko kusanagi by josan gonzalez 2017 32301614|motoko kusanagi by josan gonzalez 2017]]
 - [[the block by josan gonzalez 2016 cdd25e31|the block by josan gonzalez 2016]]
 - [[the future is now neo city riot by josan gonzalez 2017 3b266cc7|the future is now neo city riot by josan gonzalez 2017]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/images/this old bones needs rest by samuel g gonzalez 2021 5a360852|this old bones needs rest by samuel g gonzalez 2021]] — shared language: gonzalez
+- [[knowledge/wiki/images/illustration of a man protecting a youth in an orange forest by jose gonzalez 1971 a1bb2f97|illustration of a man protecting a youth in an orange forest by jose gonzalez 1971]] — shared language: gonzalez
+- [[knowledge/wiki/images/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
+<!-- vault-crosslinks:end -->

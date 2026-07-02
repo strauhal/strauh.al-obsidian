@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/the_villa_falconieri_by_carl_blechen_c_1830.jpeg]]
 
 ![[media/strauh.al3.1/1800s/view_of_florence_from_the_boboli_gardens_by_franz_ludwig_catel_c_1830.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1828|Date Bucket - 1828]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1832|Date Bucket - 1832]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

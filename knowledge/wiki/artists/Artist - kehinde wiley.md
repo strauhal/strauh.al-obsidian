@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of a young man by kehinde wiley 2013 a5c71a3c|portrait of a young man by kehinde wiley 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/lawrence-e-cahoone-from-modernism-to-postmodernism-blackwell-philosophy-anthologies-wiley|From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley]] — shared language: wiley
+- [[knowledge/wiki/images/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young, man
+- [[knowledge/wiki/images/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young, man
+- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
+- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: young, man
+- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: young, man
+<!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: sign, yellow
 - [[knowledge/wiki/images/m4 motorway sign by banksy 2009 26965675|m4 motorway sign by banksy 2009]] — shared language: sign
 - [[knowledge/wiki/images/innocent manga panel by shin ichi sakamoto 2013 108fa087|innocent manga panel by shin ichi sakamoto 2013]] — shared language: innocent
-- [[knowledge/wiki/images/black yard sign with rainbow text quoting spinoza and reich on servitude 4a879d74|black yard sign with rainbow text quoting spinoza and reich on servitude]] — shared language: sign
-- [[knowledge/wiki/images/white robotic arm with lace like forearm texture held by a human hand 21c4bd2a|white robotic arm with lace like forearm texture held by a human hand]] — shared language: held
+- [[knowledge/wiki/images/framed small town street scene with stop sign ce2c6373|framed small town street scene with stop sign]] — shared language: sign
 - [[knowledge/wiki/images/photograph of two men standing on a wooden porch in front of a shingled building with a pig sign 44b4a0d1|photograph of two men standing on a wooden porch in front of a shingled building with a pig sign]] — shared language: sign
+- [[knowledge/wiki/images/white robotic arm with lace like forearm texture held by a human hand 21c4bd2a|white robotic arm with lace like forearm texture held by a human hand]] — shared language: held
 <!-- vault-crosslinks:end -->

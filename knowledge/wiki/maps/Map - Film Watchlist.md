@@ -2,8 +2,8 @@
 title: Map - Film Watchlist
 type: map
 tags: [map, culture, movie, queue]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Map - Film Watchlist

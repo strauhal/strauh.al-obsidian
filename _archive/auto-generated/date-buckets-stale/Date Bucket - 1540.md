@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1500s/portrait_of_a_man_by_titian_c_1540.jpeg]]
 
 ![[media/strauh.al3.1/1500s/portrait_of_a_woman_by_hans_holbein_the_younger_1540.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1539|Date Bucket - 1539]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1544|Date Bucket - 1544]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

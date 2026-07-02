@@ -23,11 +23,11 @@ A retained library bridge for Walter Benjamin's essay and its place in the vault
 ## Discovered Connections
 
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical, age, art
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: aura, art, human
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, art, media
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: art, work, human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: elegance, spontaneity, slop
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: art, human
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: benjamin's, vault's, work
 - [[knowledge/wiki/books/art-reading|art reading]] — shared language: art, aesthetics
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: art, essay, human
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: art, slop, trace
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: art, work, human
 <!-- vault-crosslinks:end -->

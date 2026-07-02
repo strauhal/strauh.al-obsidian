@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jacques louis david|Artist - jacques louis david]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — named in this note
+- [[knowledge/wiki/artists/Artist - jacques louis david|Artist - jacques louis david]] — named in this note
 - [[knowledge/wiki/images/the death of socrates by jacques louis david 1787 1fcb6c1c|the death of socrates by jacques louis david 1787]] — shared language: jacques, louis, david
 - [[knowledge/wiki/images/the tennis court oath le serment du jeu de paume by jacques louis david c 1791 5d82c2bf|the tennis court oath le serment du jeu de paume by jacques louis david c 1791]] — shared language: jacques, louis, david
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques

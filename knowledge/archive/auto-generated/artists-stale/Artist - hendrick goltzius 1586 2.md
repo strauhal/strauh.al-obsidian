@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/marcus curtius by hendrick goltzius c 1586 c3da044d|marcus curtius by hendrick goltzius c 1586]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hendrick goltzius 1594|Artist - hendrick goltzius 1594]] — shared language: hendrick, goltzius
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hendrick goltzius 1586|Artist - hendrick goltzius 1586]] — shared language: hendrick, goltzius, curtius
-- [[knowledge/wiki/artists/Artist - hendrick goltzius|Artist - hendrick goltzius]] — shared language: hendrick, goltzius, curtius
+- [[knowledge/wiki/artists/Artist - hendrick goltzius 159394|Artist - hendrick goltzius 159394]] — shared language: hendrick, goltzius
 <!-- vault-crosslinks:end -->

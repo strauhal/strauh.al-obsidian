@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/portrait_of_the_family_of_the_artist_by_nicolas_de_largilliere_c_1715.jpeg]]
 
 ![[media/strauh.al3.1/1700s/still_life_with_flowers_and_fruit_by_jan_van_huysum_c_1715.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1714|Date Bucket - 1714]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1718|Date Bucket - 1718]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

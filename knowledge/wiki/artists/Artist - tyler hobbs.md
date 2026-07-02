@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[fidenza 993 by tyler hobbs 2021 6715e4d4|fidenza 993 by tyler hobbs 2021]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/tyler-branston-branston-tyler-ma-thesis-2023|Branston, Tyler — MA Thesis (2023)]] — shared language: tyler
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: tyler
+- [[knowledge/wiki/artists/Artist - tuca vieira|Artist - tuca vieira]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

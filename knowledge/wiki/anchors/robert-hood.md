@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — shared language: robert, wikilink, merge
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: hood
 <!-- vault-crosslinks:end -->

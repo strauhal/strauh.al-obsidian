@@ -1,7 +1,7 @@
 ---
 title: "kubrick"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/kubrick.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/kubrick.jpeg"
 source_relpath: "2023_downloadsfolder/kubrick.jpeg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/kubrick.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/kubrick.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/kubrick.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/stanley-kubrick|Stanley Kubrick]] — shared language: kubrick
+- [[knowledge/wiki/culture/movie-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb|Watchlist - Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb]] — shared language: kubrick
+- [[knowledge/wiki/images/kuala lumpur city by eko bintang 2020 13becd7f|kuala lumpur city by eko bintang 2020]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

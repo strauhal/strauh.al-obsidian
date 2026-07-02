@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1900s/ys_iv_the_dawn_of_ys_by_koji_1993.jpg]]
 
 ![[media/strauh.al3.1/gif_collection/tumblr_b4f4fcf8e30217cb2a66edb55dd86c4b_1993ba6b_1280.gif]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1992|Date Bucket - 1992]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1994|Date Bucket - 1994]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

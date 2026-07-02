@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[rythme couleur by sonia delaunay 1938 f3f8ef7e|rythme couleur by sonia delaunay 1938]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - robert delaunay|Artist - robert delaunay]] — shared language: delaunay
+- [[knowledge/wiki/images/simultaneous contrasts sun and moon by robert delaunay 1913 afce778f|simultaneous contrasts sun and moon by robert delaunay 1913]] — shared language: delaunay
+- [[knowledge/wiki/artists/Artist - sompong adulsaringkar|Artist - sompong adulsaringkar]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

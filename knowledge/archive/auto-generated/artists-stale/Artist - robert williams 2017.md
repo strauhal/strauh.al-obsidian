@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
 - [[knowledge/wiki/artists/Artist - richard williams|Artist - richard williams]] — shared language: williams
 - [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: williams
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gilbert williams 1995|Artist - gilbert williams 1995]] — shared language: williams
+- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — shared language: williams
 <!-- vault-crosslinks:end -->

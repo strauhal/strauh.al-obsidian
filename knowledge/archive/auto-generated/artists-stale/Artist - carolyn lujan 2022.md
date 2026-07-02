@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - carolyn lujan|Artist - carolyn lujan]] — named in this note
 - [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
-- [[knowledge/wiki/images/sunset tears by mydarlingstar 2019 d0421dcb|sunset tears by mydarlingstar 2019]] — shared language: sunset
 - [[knowledge/wiki/artists/Artist - mydarlingstar|Artist - mydarlingstar]] — shared language: sunset
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mydarlingstar 2019|Artist - mydarlingstar 2019]] — shared language: sunset
+- [[knowledge/wiki/images/sunset tears by mydarlingstar 2019 d0421dcb|sunset tears by mydarlingstar 2019]] — shared language: sunset
 - [[knowledge/wiki/images/photograph of two figures in a canoe on sparkling water at sunset 51b01b09|photograph of two figures in a canoe on sparkling water at sunset]] — shared language: sunset
 <!-- vault-crosslinks:end -->

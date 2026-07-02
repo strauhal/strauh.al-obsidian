@@ -29,10 +29,10 @@ as fast brush gestures rather than rendered illustration — is squarely in Erne
 
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
 - [[knowledge/wiki/images/yoji shinkawa b786eab1|yoji shinkawa]] — shared language: yoji, shinkawa, influences
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: elegance, spontaneity, influences
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, shinkawa, yoji
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: influences, listed, among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, listed, among
+- [[knowledge/wiki/artists/Artist - yoji shinkawa|Artist - yoji shinkawa]] — shared language: shinkawa, yoji, gear
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon, read
 <!-- vault-crosslinks:end -->

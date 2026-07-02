@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1600s/salmon_fishing_by_wenceslaus_hollar_c_1652.jpg]]
 
 ![[media/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1650|Date Bucket - 1650]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1655|Date Bucket - 1655]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

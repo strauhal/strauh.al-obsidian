@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1700s/the_actors_segawa_tomisaburo_ii_as_yadorigi_and_nakamura_konozo_i_as_ishizuka_hachizo_by_toshusai_sharaku_1794.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_ancient_of_days_frontispiece_to_europe_a_prophecy_by_william_blake_1794.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1793|Date Bucket - 1793]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1795|Date Bucket - 1795]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

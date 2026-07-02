@@ -1,7 +1,7 @@
 ---
 title: "mmmyummy"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/mmmyummy.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/mmmyummy.jpg"
 source_relpath: "diary/mmmyummy.jpg"
 collection: "diary"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/mmmyummy.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/mmmyummy.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/mmmyummy.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/1fd 94fcc577|1fd]] — same collection: diary
+- [[knowledge/wiki/images/2ui17a4ychd51 99e52ad9|2ui17a4ychd51]] — same collection: diary
+- [[knowledge/wiki/images/6b8ec1cdf337f0ee342e9ed63d3ebffe88d604be 32bf0e0e|6b8ec1cdf337f0ee342e9ed63d3ebffe88d604be]] — same collection: diary
+- [[knowledge/wiki/images/90 f5c392fd|90]] — same collection: diary
+- [[knowledge/wiki/images/batmanvillains 7f3cedfb|batmanvillains]] — same collection: diary
+<!-- vault-crosslinks:end -->

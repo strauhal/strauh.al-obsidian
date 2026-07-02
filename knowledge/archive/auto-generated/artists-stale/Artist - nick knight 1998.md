@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/books-stale/knight-stiny-making-grammars|Knight & Stiny-Making Grammars]] — shared language: knight
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
 - [[knowledge/wiki/images/the knight of the star by elyvees 2023 d2e1e6dc|the knight of the star by elyvees 2023]] — shared language: knight
-- [[knowledge/wiki/images/may julia nick 4 by joan brown 1976 eb245347|may julia nick 4 by joan brown 1976]] — shared language: nick
+- [[knowledge/wiki/images/variation of a knight digital artwork b377e0e8|variation of a knight digital artwork]] — shared language: knight
 <!-- vault-crosslinks:end -->

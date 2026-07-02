@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-coiled-cable-to-a-woman-wearing-headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: coiled, headphones, cable
 - [[knowledge/wiki/images/black and white photograph of a man wearing headphones and dark clothes in a room with a textured stone ceiling 667dc139|black and white photograph of a man wearing headphones and dark clothes in a room with a textured stone ceiling]] — shared language: headphones, wearing, man
 - [[knowledge/wiki/images/digital illustration of a blonde woman with coiled hair looking at a pink smartphone 35e6614b|digital illustration of a blonde woman with coiled hair looking at a pink smartphone]] — shared language: coiled, woman
-- [[knowledge/wiki/images/photograph of a man with headphones and turntable at an outdoor cafe b0ed9367|photograph of a man with headphones and turntable at an outdoor cafe]] — shared language: headphones, man
 - [[knowledge/wiki/images/pixelated black and white drawing of a low profile mechanical device with a cable by john m kohlenberger 1986 00a13173|pixelated black and white drawing of a low profile mechanical device with a cable by john m kohlenberger 1986]] — shared language: cable, device
+- [[knowledge/wiki/images/photograph of a man with headphones and turntable at an outdoor cafe b0ed9367|photograph of a man with headphones and turntable at an outdoor cafe]] — shared language: headphones, man
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — shared language: cable, device
 <!-- vault-crosslinks:end -->

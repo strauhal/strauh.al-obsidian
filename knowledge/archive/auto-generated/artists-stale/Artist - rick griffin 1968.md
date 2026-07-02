@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rick guidice 1975|Artist - rick guidice 1975]] — shared language: rick
 - [[knowledge/wiki/anchors/rick-tetzeli|Rick Tetzeli]] — shared language: rick
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: rick
-- [[knowledge/wiki/images/interior of the o neill cylinder by rick guidice 1975 e261b2df|interior of the o neill cylinder by rick guidice 1975]] — shared language: rick
+- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: rick
 <!-- vault-crosslinks:end -->

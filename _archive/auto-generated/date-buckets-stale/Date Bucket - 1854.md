@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/sketch_to_illustrate_the_passions_ambition_vaulting_ambition_mocking_the_meat_it_feeds_on_by_richard_dadd_1854.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_house_of_the_mufti_sheikh_el_mahadi_in_cairo_by_frank_dillon_1854.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1853|Date Bucket - 1853]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1855|Date Bucket - 1855]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

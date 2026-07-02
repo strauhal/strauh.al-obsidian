@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1800s/the_japanese_girl_by_claude_monet_1876.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_oise_at_pontoise_grey_weather_by_camille_pissarro_1876.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1875|Date Bucket - 1875]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1877|Date Bucket - 1877]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

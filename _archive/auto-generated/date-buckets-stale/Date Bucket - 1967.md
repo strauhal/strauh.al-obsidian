@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/the_haight_ashbury_scene_by_robert_crumb_1967.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_miller_blues_band_neon_rose_2_by_victor_moscoso_1967.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1966|Date Bucket - 1966]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1968|Date Bucket - 1968]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

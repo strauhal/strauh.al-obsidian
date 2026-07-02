@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1600s/the_virgin_and_child_with_a_kneeling_figure_and_putti_by_giovanni_francesco_barbieri_c_1630_1640.jpg]]
 
 ![[media/strauh.al3.1/pictures_of_musicians/ab6761610000e5eb75d1644d614715c551d7debf.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1630s|Date Bucket - 1630s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1650s|Date Bucket - 1650s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

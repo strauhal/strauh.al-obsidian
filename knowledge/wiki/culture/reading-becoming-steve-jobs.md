@@ -7,8 +7,8 @@ status: queued
 queue_order: 26
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Becoming Steve Jobs
@@ -30,12 +30,12 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: becoming
 - [[knowledge/wiki/images/steve jobs with macintosh by norman seeff 1984 bd1ca521|steve jobs with macintosh by norman seeff 1984]] — shared language: jobs, steve
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: becoming, current
-- [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: jobs
-- [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, encounter
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: becoming, add
+- [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
-- [[knowledge/wiki/artists/Artist - steve dillon|Artist - steve dillon]] — shared language: steve
-- [[knowledge/wiki/culture/reading-akira|Reading - Akira]] — shared language: current, stronger, encounter
 <!-- vault-crosslinks:end -->

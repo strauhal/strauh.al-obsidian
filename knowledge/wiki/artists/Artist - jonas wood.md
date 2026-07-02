@@ -34,3 +34,14 @@ Images attributed by filename: 7
 - [[still life with flowers and window by jonas wood 2019 2f0674e7|still life with flowers and window by jonas wood 2019]]
 - [[the click by jonas wood 2019 e253761a|the click by jonas wood 2019]]
 - [[the swimmers by jonas wood 2018 241aef77|the swimmers by jonas wood 2018]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jonas lekevicius|Artist - jonas lekevicius]] — shared language: jonas
+- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - barbara a wood|Artist - barbara a wood]] — shared language: wood
+- [[knowledge/wiki/images/rider 2 by jonas lekevicius 2018 9d717ccf|rider 2 by jonas lekevicius 2018]] — shared language: jonas
+- [[knowledge/wiki/images/woman with cat by barbara a wood 43a2c008|woman with cat by barbara a wood]] — shared language: wood
+<!-- vault-crosslinks:end -->

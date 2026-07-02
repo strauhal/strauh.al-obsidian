@@ -49,3 +49,14 @@ Images attributed by filename: 12
 - [[the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868 b30ad4e5|the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868]]
 - [[the transformation of the thieves canto xxv by gustave dore 1861 a4150e84|the transformation of the thieves canto xxv by gustave dore 1861]]
 - [[the vision of the valley of dry bones by gustave dore 1866 52a47da4|the vision of the valley of dry bones by gustave dore 1866]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
+- [[knowledge/wiki/images/gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861 94edab78|gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861]] — shared language: gustave, canto, inferno
+- [[knowledge/wiki/images/illustration for dante alighieri s paradiso canto ii 1544 5719abad|illustration for dante alighieri s paradiso canto ii 1544]] — shared language: canto, dante, paradiso
+- [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
+- [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: gustave
+<!-- vault-crosslinks:end -->

@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - eadweard muybridge|Artist - eadweard muybridge]] — named in this note
-- [[knowledge/wiki/books/my-first-book-honor-levy|Honor Levy]] — shared language: first
 - [[knowledge/wiki/images/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate
+- [[knowledge/wiki/books/my-first-book-honor-levy|Honor Levy]] — shared language: first
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
 - [[knowledge/wiki/images/white oval plate with blue and white transferware pattern 2bb95f8b|white oval plate with blue and white transferware pattern]] — shared language: plate
-- [[knowledge/wiki/images/two color illustration of a girl and an animal in dense green foliage 0c11b2ec|two color illustration of a girl and an animal in dense green foliage]] — shared language: animal
+- [[knowledge/wiki/images/dark mythological scene of figures suspended over a black animal 0829a150|dark mythological scene of figures suspended over a black animal]] — shared language: animal
 <!-- vault-crosslinks:end -->

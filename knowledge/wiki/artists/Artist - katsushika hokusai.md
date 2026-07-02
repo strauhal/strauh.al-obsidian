@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[archers by katsushika hokusai c 1817 35e942c0|archers by katsushika hokusai c 1817]]
 - [[the great wave off kanagawa by katsushika hokusai c 18301832 b805207f|the great wave off kanagawa by katsushika hokusai c 18301832]]
 - [[page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai 3ae1f6c2|page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
+- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: hokusai, katsushika
+- [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
+- [[knowledge/wiki/images/black and white manga panel featuring three figures faces cd3e84ab|black and white manga panel featuring three figures faces]] — shared language: manga, figures
+- [[knowledge/wiki/images/black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]] — shared language: wave
+- [[knowledge/wiki/images/wave copy 9ca902b4|wave copy]] — shared language: wave
+<!-- vault-crosslinks:end -->

@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1500s/saint_agnes_by_andrea_del_sarto_c_1527_1530.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_golden_age_l_age_d_or_by_lucas_cranach_the_elder_c_1530.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1529|Date Bucket - 1529]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1531|Date Bucket - 1531]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

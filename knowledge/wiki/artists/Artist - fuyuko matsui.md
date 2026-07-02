@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[nyanko by fuyuko matsui 2007 d8e1dcb5|nyanko by fuyuko matsui 2007]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - future|Artist - future]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - fyodor bronnikov|Artist - fyodor bronnikov]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - fujishima takeji|Artist - fujishima takeji]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

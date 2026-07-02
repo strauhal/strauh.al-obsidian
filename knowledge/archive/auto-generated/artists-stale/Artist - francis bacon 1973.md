@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1964|Artist - francis bacon 1964]] — shared language: bacon, francis, self
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1976|Artist - francis bacon 1976]] — shared language: bacon, francis, self
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1979|Artist - francis bacon 1979]] — shared language: bacon, francis, portrait
+- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1979|Artist - francis bacon 1979]] — shared language: bacon, francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1952|Artist - francis bacon 1952]] — shared language: bacon, francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1975|Artist - francis bacon 1975]] — shared language: bacon, francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1963|Artist - francis bacon 1963]] — shared language: bacon, francis

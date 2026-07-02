@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-sea|Artist - the sea]] — shared language: sea
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-sea-1951|Artist - the sea 1951]] — shared language: sea
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: sea
+- [[knowledge/wiki/images/framed landscape painting of a sky and sea cliff 14a885d5|framed landscape painting of a sky and sea cliff]] — shared language: sea
 - [[knowledge/wiki/images/edward hopper rooms by the sea 1951 d62a2fb9|edward hopper rooms by the sea 1951]] — shared language: sea
-- [[knowledge/wiki/images/the eye of the sea by salvador dali 1942 34802201|the eye of the sea by salvador dali 1942]] — shared language: sea
 <!-- vault-crosslinks:end -->

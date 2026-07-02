@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - rob verhorst|Artist - rob verhorst]] — named in this note
 - [[knowledge/wiki/artists/Artist - rob israel|Artist - rob israel]] — shared language: rob
 - [[knowledge/wiki/images/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob
-- [[knowledge/wiki/images/the harvest festival by william hahn 1870 55751286|the harvest festival by william hahn 1870]] — shared language: festival
 - [[knowledge/wiki/images/indian miniature painting of a festival scene with figures in balconies 3c4993d9|indian miniature painting of a festival scene with figures in balconies]] — shared language: festival
-- [[knowledge/wiki/images/the stage by odd nerdrum 1982 cf9a265c|the stage by odd nerdrum 1982]] — shared language: stage
+- [[knowledge/wiki/images/the harvest festival by william hahn 1870 55751286|the harvest festival by william hahn 1870]] — shared language: festival
+- [[knowledge/wiki/images/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: stage
 <!-- vault-crosslinks:end -->

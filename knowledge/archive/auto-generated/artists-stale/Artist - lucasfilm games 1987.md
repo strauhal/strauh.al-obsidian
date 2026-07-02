@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/maniac by conan gray 2019 c5b2ff8d|maniac by conan gray 2019]] — shared language: maniac
 - [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — shared language: dave
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dave gibbons 1986|Artist - dave gibbons 1986]] — shared language: dave
-- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
+- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 <!-- vault-crosslinks:end -->

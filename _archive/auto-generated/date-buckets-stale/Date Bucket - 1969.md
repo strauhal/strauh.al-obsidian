@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/the_industrial_river_by_david_hockney_1969.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_second_coming_by_peter_saul_1969.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1968|Date Bucket - 1968]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1970|Date Bucket - 1970]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

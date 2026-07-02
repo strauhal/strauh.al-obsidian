@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[a young couple armed with rifles walk along the shore of the perfume river hue by philip jones griffiths 1968 a6921caa|a young couple armed with rifles walk along the shore of the perfume river hue by philip jones griffiths 1968]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
+- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
+- [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: jones
+<!-- vault-crosslinks:end -->

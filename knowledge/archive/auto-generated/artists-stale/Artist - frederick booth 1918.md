@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — named in this note
 - [[knowledge/wiki/images/the harvest by franklin booth 1918 0e46ea58|the harvest by franklin booth 1918]] — shared language: booth, harvest
-- [[knowledge/wiki/images/booth dream jpg 7f592fab|booth dream jpg]] — shared language: booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — shared language: booth, harvest
+- [[knowledge/wiki/images/booth dream jpg 7f592fab|booth dream jpg]] — shared language: booth
 - [[knowledge/wiki/artists/Artist - franklin booth|Artist - franklin booth]] — shared language: booth, harvest
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1914|Artist - franklin booth 1914]] — shared language: booth
 <!-- vault-crosslinks:end -->

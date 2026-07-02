@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: balthus
 - [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/images/oil painting of a young girl in hanbok with interwoven ribbon background 171b44b0|oil painting of a young girl in hanbok with interwoven ribbon background]] — shared language: girl, young
 <!-- vault-crosslinks:end -->

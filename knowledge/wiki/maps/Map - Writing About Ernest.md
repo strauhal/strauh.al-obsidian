@@ -2,8 +2,8 @@
 title: Map - Writing About Ernest
 type: map
 tags: [map, criticism, secondary-sources]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Map - Writing About Ernest
@@ -30,10 +30,10 @@ Secondary writing about Ernest's work. Interpretations remain attributed to thei
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: control, human, secondary
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: writing
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: works, human-machine, tug
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: color, gan, human-machine
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, studies, work
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: writing, human, control
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, work
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: color, gan, work
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: color, control, art
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: color, ernest's, work
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: writing, ernest's
 <!-- vault-crosslinks:end -->

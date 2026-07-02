@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henryk siemiradzki 1876|Artist - henryk siemiradzki 1876]] — named in this note
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/nero s torches pochodnie nerona by henryk siemiradzki 1876 b23bab83|nero s torches pochodnie nerona by henryk siemiradzki 1876]] — shared language: henryk, siemiradzki
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
+- [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

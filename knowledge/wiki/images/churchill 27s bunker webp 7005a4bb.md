@@ -1,7 +1,7 @@
 ---
 title: "churchill 27s bunker webp"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/churchill_27s_bunker_webp.webp"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/churchill_27s_bunker_webp.webp"
 source_relpath: "2000s/churchill_27s_bunker_webp.webp"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/churchill_27s_bunker_webp.webp|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/churchill_27s_bunker_webp.webp`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/churchill_27s_bunker_webp.webp`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/24k valhallvagen 2023 jpg webp 713a154e|24k valhallvagen 2023 jpg webp]] — shared language: webp, webp.webp
+- [[knowledge/wiki/images/c750e19a 3d03 4728 b71b68bbd753cdad source jpg webp 5b0cbf31|c750e19a 3d03 4728 b71b68bbd753cdad source jpg webp]] — shared language: webp, webp.webp
+- [[knowledge/wiki/images/img 0629 webp 5656a346|img 0629 webp]] — shared language: webp, webp.webp
+- [[knowledge/wiki/images/original jpg webp 68153b97|original jpg webp]] — shared language: webp, webp.webp
+- [[knowledge/wiki/images/surewhynotgoogle webp dfac0f76|surewhynotgoogle webp]] — shared language: webp, webp.webp
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1600s"
 source_kind: "image_collection"
-count: "94"
+count: "95"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 94
+Files: 95
 
 ## Sample
 
@@ -125,6 +125,7 @@ Files: 94
 - [[study of a nude man seen from behind by peter paul rubens c 16091610 7bf5fdef|study of a nude man seen from behind by peter paul rubens c 16091610]]
 - [[study of seven figures by rembrandt van rijn c 1639 a937889b|study of seven figures by rembrandt van rijn c 1639]]
 - [[susanna and the elders by peter paul rubens c 1607 99610bbc|susanna and the elders by peter paul rubens c 1607]]
+- [[susanna and the elders by peter paul rubens c 1607 2 c694a365|susanna and the elders by peter paul rubens c 1607 2]]
 - [[the adoration of the shepherds by peter paul rubens c 1617 16a29789|the adoration of the shepherds by peter paul rubens c 1617]]
 - [[the annunciation to the shepherds by schelte a bolswert c 1630 c2b42061|the annunciation to the shepherds by schelte a bolswert c 1630]]
 - [[the bitter drink by adriaen brouwer c 1635 53feb818|the bitter drink by adriaen brouwer c 1635]]
@@ -157,3 +158,16 @@ Files: 94
 - [[triumph of the barberini by pietro da cortona 1632 39 86bfb69a|triumph of the barberini by pietro da cortona 1632 39]]
 - [[triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679 95a634b9|triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679]]
 - [[venus and adonis by peter paul rubens c 1614 817cf2dd|venus and adonis by peter paul rubens c 1614]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/images/guido 52af9147|guido]] — named in this note
+- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, baptist
+- [[knowledge/wiki/artists/Artist - peter paul rubens|Artist - peter paul rubens]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
+<!-- vault-crosslinks:end -->

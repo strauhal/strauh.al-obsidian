@@ -48,3 +48,11 @@ Files: 18
 ![[media/strauh.al3.1/1900s/untitled_by_zdzisaw_beksinski_1985.jpg]]
 
 ![[media/strauh.al3.1/comics/IMG_1985.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1984|Date Bucket - 1984]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1986|Date Bucket - 1986]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

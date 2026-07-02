@@ -1,10 +1,10 @@
 ---
 title: "strauh.al Home"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/index.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/index.html"
 source_relpath: "index.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # strauh.al Home
@@ -34,6 +34,8 @@ strauh.al
 ### [/1900s](https://strauh.al/art#1900s)
 
 ### [/2000s](https://strauh.al/art#2000s)
+
+## [/brain](https://strauh.al/brain)
 
 ## [/3d_scans](https://strauh.al/3d_scans)
 
@@ -98,3 +100,16 @@ strauh.al
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — named in this note
+- [[knowledge/wiki/pages/random quote|random quote]] — named in this note
+- [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
+- [[knowledge/wiki/pages/baby videos|baby videos]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — named in this note
+- [[knowledge/wiki/pages/old photos|old photos]] — named in this note
+<!-- vault-crosslinks:end -->

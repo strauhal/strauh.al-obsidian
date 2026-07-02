@@ -21,3 +21,16 @@ Files: 2
 
 - [[190809 voidmap al 1254 webp acea54ff|190809 voidmap al 1254 webp]]
 - [[three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: mengjian, zhao, friends
+- [[knowledge/wiki/images/IMG 0063 f70cdae8|IMG 0063]] — shared language: webp
+- [[knowledge/wiki/images/IMG 2329 d8214e4c|IMG 2329]] — shared language: webp
+- [[knowledge/wiki/images/IMG 2373 b1a8c6e6|IMG 2373]] — shared language: webp
+- [[knowledge/wiki/images/IMG 3093 c438738f|IMG 3093]] — shared language: webp
+- [[knowledge/wiki/images/IMG 3207 dea7f418|IMG 3207]] — shared language: webp
+- [[knowledge/wiki/images/IMG 3290 3880b611|IMG 3290]] — shared language: webp
+<!-- vault-crosslinks:end -->

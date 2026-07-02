@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/ghost signatures d83cbd4a|ghost signatures]] — shared language: ghost
 - [[knowledge/wiki/images/ghost signatures1 7613340a|ghost signatures1]] — shared language: ghost
 - [[knowledge/wiki/images/ghost by faxada 2021 11159af0|ghost by faxada 2021]] — shared language: ghost
-- [[knowledge/wiki/images/man in chair by wayne thiebaud 1995 8221d4e3|man in chair by wayne thiebaud 1995]] — shared language: chair
+- [[knowledge/wiki/images/framed portrait of a man in a black coat with red chair d1a3ea8d|framed portrait of a man in a black coat with red chair]] — shared language: chair
 <!-- vault-crosslinks:end -->

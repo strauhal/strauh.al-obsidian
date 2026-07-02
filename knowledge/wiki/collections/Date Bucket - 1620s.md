@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1600s/the_gallery_of_cornelis_van_der_geest_by_willem_van_haecht_1628.jpeg]]
 
 ![[media/strauh.al3.1/1600s/the_laughing_boy_with_a_bird_by_bernardo_strozzi_c_1620_1625.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1610s|Date Bucket - 1610s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1630s|Date Bucket - 1630s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

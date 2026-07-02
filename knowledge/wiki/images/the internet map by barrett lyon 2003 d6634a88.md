@@ -1,7 +1,7 @@
 ---
 title: "the internet map by barrett lyon 2003"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_internet_map_by_barrett_lyon_2003.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_internet_map_by_barrett_lyon_2003.jpg"
 source_relpath: "2000s/the_internet_map_by_barrett_lyon_2003.jpg"
 collection: "2000s"
 inferred_year: "2003"
@@ -22,4 +22,14 @@ Artist: [[Artist - barrett lyon]]
 
 Source: [[media/strauh.al3.1/2000s/the_internet_map_by_barrett_lyon_2003.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_internet_map_by_barrett_lyon_2003.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_internet_map_by_barrett_lyon_2003.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: internet
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: internet
+<!-- vault-crosslinks:end -->

@@ -186,3 +186,16 @@ Files: 123
 - [[oldphotos 98 00b5abc4|oldphotos 98]]
 - [[oldphotos 99 94c9a3b0|oldphotos 99]]
 - [[oldphotos 0bb4ecd9|oldphotos]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/old photos|old photos]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: old, two
+- [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: old
+- [[knowledge/wiki/images/black and white drawing of an old man in profile wearing a helmet a211a290|black and white drawing of an old man in profile wearing a helmet]] — shared language: old
+- [[knowledge/wiki/images/pirate costume photo with laptop and old computer fb28a519|pirate costume photo with laptop and old computer]] — shared language: old
+- [[knowledge/wiki/images/vincent van gogh at eternitys gate sorrowing old man 1890 38c78f89|vincent van gogh at eternitys gate sorrowing old man 1890]] — shared language: old
+- [[knowledge/wiki/images/event poster with pink and purple background and portrait photos for grad prin talk 9c25f161|event poster with pink and purple background and portrait photos for grad prin talk]] — shared language: photos
+<!-- vault-crosslinks:end -->

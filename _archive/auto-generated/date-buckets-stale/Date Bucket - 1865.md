@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1800s/the_print_collector_by_honore_daumier_c_1860_1865.jpeg]]
 
 ![[media/strauh.al3.1/1800s/thodore_philippoteaux_arab_cavalry_crossing_a_stream_1865.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1864|Date Bucket - 1864]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1866|Date Bucket - 1866]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[annunciation by mati klarwein 1961 aa853cac|annunciation by mati klarwein 1961]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - mateusz urbanowicz|Artist - mateusz urbanowicz]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - maurice denis|Artist - maurice denis]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - master e s|Artist - master e s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

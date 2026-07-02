@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/the_old_stagecoach_by_jonathan_eastman_johnson_1871.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_parthenon_by_frederic_edwin_church_1871.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1870|Date Bucket - 1870]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1872|Date Bucket - 1872]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

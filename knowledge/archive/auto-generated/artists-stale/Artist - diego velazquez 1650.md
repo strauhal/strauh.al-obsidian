@@ -25,5 +25,4 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diego rivera 1934|Artist - diego rivera 1934]] — shared language: diego
 - [[knowledge/wiki/images/man controller of the universe by diego rivera 1934 0e0900a3|man controller of the universe by diego rivera 1934]] — shared language: diego
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: juan
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: portrait
 <!-- vault-crosslinks:end -->

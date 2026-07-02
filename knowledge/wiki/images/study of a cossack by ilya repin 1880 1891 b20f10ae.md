@@ -1,7 +1,7 @@
 ---
 title: "study of a cossack by ilya repin 1880 1891"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg"
 source_relpath: "1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg"
 collection: "1800s"
 inferred_year: "1891"
@@ -22,4 +22,14 @@ Artist: [[Artist - ilya repin]]
 
 Source: [[media/strauh.al3.1/1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/study_of_a_cossack_by_ilya_repin_1880_1891.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/students by ilya repin 1899 48041fd5|students by ilya repin 1899]] — same artist: ilya repin
+- [[knowledge/wiki/images/hunter by ilya repin 1877 a441470f|hunter by ilya repin 1877]] — same artist: ilya repin
+- [[knowledge/wiki/images/viola by ilya repin 1873 e4e69d6a|viola by ilya repin 1873]] — same artist: ilya repin
+- [[knowledge/wiki/images/portrait of the artist s son yury repin by ilya repin 1883 72074cde|portrait of the artist s son yury repin by ilya repin 1883]] — same artist: ilya repin
+- [[knowledge/wiki/images/barge haulers on the volga by ilya repin 18701873 7454640d|barge haulers on the volga by ilya repin 18701873]] — same artist: ilya repin
+<!-- vault-crosslinks:end -->

@@ -40,8 +40,8 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — same category: media technology
-- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/ray-bradbury-7-there-will-come-soft-rains|7 There Will Come Soft Rains]] — same category: media technology
+- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/thomas-ligotti-ray-brassier-the-conspiracy-against-the-human-race-a-contrivance-of-horror-hippocampus-press|The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology

@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[at a comedy by charles dana gibson 1903 9b1d5e87|at a comedy by charles dana gibson 1903]]
 - [[the eternal question by charles dana gibson c 1905 581f789e|the eternal question by charles dana gibson c 1905]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/wiki/artists/Artist - dana schutz|Artist - dana schutz]] — shared language: dana
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: gibson
+- [[knowledge/wiki/images/civilian by dana schutz 2012 bfdea8bf|civilian by dana schutz 2012]] — shared language: dana
+- [[knowledge/wiki/images/the visible world by dana schutz 2018 5497000d|the visible world by dana schutz 2018]] — shared language: dana
+- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — shared language: gibson
+<!-- vault-crosslinks:end -->

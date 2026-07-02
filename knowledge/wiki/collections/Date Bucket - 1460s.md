@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1400s/saint_john_on_patmos_by_master_e_s_c_1465.jpeg]]
 
 ![[media/strauh.al3.1/photography/IMG_1468.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1450s|Date Bucket - 1450s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1470s|Date Bucket - 1470s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

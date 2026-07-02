@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 2020|Artist - hiroshi nagai 2020]] — shared language: hiroshi, nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1983|Artist - hiroshi nagai 1983]] — shared language: hiroshi, nagai
 - [[knowledge/wiki/artists/Artist - hiroshi nagai|Artist - hiroshi nagai]] — shared language: hiroshi, nagai, swimming
-- [[knowledge/wiki/images/the shipwreck by hiroshi nagai 1985 5a7c3e53|the shipwreck by hiroshi nagai 1985]] — shared language: hiroshi, nagai
+- [[knowledge/wiki/images/hiroshi nagai field 1980s 8ecd23a1|hiroshi nagai field 1980s]] — shared language: hiroshi, nagai
 <!-- vault-crosslinks:end -->

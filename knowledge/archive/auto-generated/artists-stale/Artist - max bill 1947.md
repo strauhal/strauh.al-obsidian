@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: bill
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
-- [[knowledge/wiki/images/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: continuous, line
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: bill
-- [[knowledge/wiki/artists/Artist - max loffler|Artist - max loffler]] — shared language: max
+- [[knowledge/wiki/images/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
 <!-- vault-crosslinks:end -->

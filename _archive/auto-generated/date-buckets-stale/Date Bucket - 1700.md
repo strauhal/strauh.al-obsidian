@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1700s/portrait_of_nicolas_boileau_despreaux_by_hyacinthe_rigaud_c_1700.jpg]]
 
 ![[media/strauh.al3.1/1700s/still_life_with_dead_game_a_monkey_and_a_dog_by_jan_weenix_c_1700.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1699|Date Bucket - 1699]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1700s|Date Bucket - 1700s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

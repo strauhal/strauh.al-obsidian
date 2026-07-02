@@ -41,6 +41,6 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 - [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
-- [[_archive/auto-generated/books-stale/rodger-manifesto|rodger manifesto]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
+- [[_archive/auto-generated/books-stale/the-social-contract|the social contract]] — same category: politics society
 <!-- vault-crosslinks:end -->

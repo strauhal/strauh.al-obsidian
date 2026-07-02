@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
 - [[knowledge/wiki/images/the future of senses editorial jpg 757f753b|the future of senses editorial jpg]] — shared language: future
-- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
+- [[knowledge/wiki/images/the future of senses editorial image 97c2aee6|the future of senses editorial image]] — shared language: future
 <!-- vault-crosslinks:end -->

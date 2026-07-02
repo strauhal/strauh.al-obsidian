@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/the_immortal_and_the_scholar_by_chang_shuhong_1940.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_killed_in_car_crash_by_weegee_1940.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1939|Date Bucket - 1939]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1941|Date Bucket - 1941]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

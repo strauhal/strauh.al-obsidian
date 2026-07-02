@@ -1,7 +1,7 @@
 ---
 title: "photograph of a dense mass of black cables covering a building facade and utility pole in an urban area"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg"
 source_relpath: "2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dense_mass_of_black_cables_covering_a_building_facade_and_utility_pole_in_an_urban_area.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: pole
+- [[knowledge/wiki/images/photo of yellow cables hanging in a utility space ca7828bf|photo of yellow cables hanging in a utility space]] — shared language: cables, utility
+- [[knowledge/wiki/books/michelle-alexander-the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness|The New Jim Crow: Mass Incarceration in the Age of Colorblindness]] — shared language: mass
+<!-- vault-crosslinks:end -->

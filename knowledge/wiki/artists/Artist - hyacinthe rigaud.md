@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[portrait of jules hardouin mansart by hyacinthe rigaud c 1699 b9a60f0c|portrait of jules hardouin mansart by hyacinthe rigaud c 1699]]
 - [[portrait of cardinal melchior de polignac by hyacinthe rigaud c 17301735 e55a2f3f|portrait of cardinal melchior de polignac by hyacinthe rigaud c 17301735]]
 - [[portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700 23b1c90b|portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/portrait of cardinal melchior de polignac by jean marc nattier 1740 1e090bc4|portrait of cardinal melchior de polignac by jean marc nattier 1740]] — shared language: melchior, polignac, cardinal
+- [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: hyacinthe, rigaud, colbert
+- [[knowledge/wiki/images/portrait of jean baptiste colbert by philippe de champaigne c 1655 9b4e1a06|portrait of jean baptiste colbert by philippe de champaigne c 1655]] — shared language: colbert, baptiste, jean
+- [[knowledge/wiki/pages/art|art]] — shared language: hyacinthe, rigaud
+- [[knowledge/wiki/artists/Artist - jean marc nattier|Artist - jean marc nattier]] — shared language: jean, melchior, polignac
+- [[knowledge/wiki/images/jules bastienlepage october the potato gatherers 1878 5fbb7124|jules bastienlepage october the potato gatherers 1878]] — shared language: jules
+<!-- vault-crosslinks:end -->

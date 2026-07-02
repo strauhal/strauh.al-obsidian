@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - b c komix|Artist - b c komix]] — named in this note
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: fuck
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: fuck
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
-- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: jung
-- [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: jung
-- [[knowledge/wiki/images/black and white four panel comic strip discussing ai art and the legacy of kim jung gi 872ea9d6|black and white four panel comic strip discussing ai art and the legacy of kim jung gi]] — shared language: kim, jung
 <!-- vault-crosslinks:end -->

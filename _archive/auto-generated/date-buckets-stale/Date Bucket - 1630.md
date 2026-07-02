@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1600s/the_annunciation_to_the_shepherds_by_schelte_a_bolswert_c_1630.jpeg]]
 
 ![[media/strauh.al3.1/1600s/the_repentance_of_saint_peter_by_jusepe_de_ribera_c_1630.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1628|Date Bucket - 1628]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1631|Date Bucket - 1631]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
 - [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: davidson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bruce davidson 1980|Artist - bruce davidson 1980]] — shared language: davidson
 - [[knowledge/wiki/images/subway by bruce davidson 1980 cdf59370|subway by bruce davidson 1980]] — shared language: davidson
+- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
 <!-- vault-crosslinks:end -->

@@ -60,3 +60,11 @@ Files: 24
 ![[media/strauh.al3.1/1800s/the_weavers_by_nikolaos_gyzis_1880.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_wreck_le_naufrage_by_pascal_adolphe_jean_dagnan_bouveret_1880.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1879|Date Bucket - 1879]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1881|Date Bucket - 1881]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

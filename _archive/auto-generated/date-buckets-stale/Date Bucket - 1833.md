@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/david_roberts_the_south_transept_of_the_cathedral_seville_c_1833.jpg]]
 
 ![[media/strauh.al3.1/1800s/thomas_cole_moonlight_roman_scene_column_1833.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1832|Date Bucket - 1832]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1834|Date Bucket - 1834]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

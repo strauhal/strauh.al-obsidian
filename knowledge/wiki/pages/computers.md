@@ -1,10 +1,10 @@
 ---
 title: "computers"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/computers.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/computers.html"
 source_relpath: "computers.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # computers
@@ -144,3 +144,16 @@ https://www.youtube.com/watch?v=e1KD7DdnRb8
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/img 1331 png 8e341b79|img 1331 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 7e677750|img 5472 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 2 303ff8a8|img 5472 png 2]] — named in this note
+- [[knowledge/wiki/images/tumblr 020defd1073b2c1d5e9182b9e1bd608b 49c48975 1280 d2c1aba5|tumblr 020defd1073b2c1d5e9182b9e1bd608b 49c48975 1280]] — named in this note
+- [[knowledge/wiki/images/tumblr 3ddebfc55a655a27cac3045d0b447eb3 42f1f1f0 1280 3a70425d|tumblr 3ddebfc55a655a27cac3045d0b447eb3 42f1f1f0 1280]] — named in this note
+- [[knowledge/wiki/images/tumblr 5893f699dbe81912b4f352046896896f 74d7acf7 2048 a8f0ff91|tumblr 5893f699dbe81912b4f352046896896f 74d7acf7 2048]] — named in this note
+- [[knowledge/wiki/images/tumblr 5e2e6cb22278b1a7281480803fb84aa0 24ee4211 2048 3c5ad683|tumblr 5e2e6cb22278b1a7281480803fb84aa0 24ee4211 2048]] — named in this note
+- [[knowledge/wiki/images/tumblr 955b1cca3be0cda303dc683b01a915da 79fa91fc 1280 46261e82|tumblr 955b1cca3be0cda303dc683b01a915da 79fa91fc 1280]] — named in this note
+<!-- vault-crosslinks:end -->

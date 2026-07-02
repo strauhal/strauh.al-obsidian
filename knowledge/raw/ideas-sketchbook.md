@@ -2029,11 +2029,11 @@ Solomon Scott
 ## Discovered Connections
 
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — named in this note
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — named in this note
 - [[knowledge/wiki/pages/ideas sketchbook 2020 25|ideas sketchbook 2020 25]] — named in this note
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
-- [[knowledge/wiki/pages/arcades project|arcades project]] — named in this note
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
 <!-- vault-crosslinks:end -->

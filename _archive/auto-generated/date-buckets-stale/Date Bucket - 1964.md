@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/willem_de_kooning_in_his_studio_springs_long_island_by_hans_namuth_1964.jpeg]]
 
 ![[media/strauh.al3.1/computers/tumblr_76bf48afb332988193e863a758b97e6c_c1964b5c_2048.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1963|Date Bucket - 1963]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1965|Date Bucket - 1965]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

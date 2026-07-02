@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/two_women_running_on_the_beach_the_race_by_pablo_picasso_1922.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_with_a_blue_dog_by_kees_van_dongen_1922.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1921|Date Bucket - 1921]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1923|Date Bucket - 1923]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

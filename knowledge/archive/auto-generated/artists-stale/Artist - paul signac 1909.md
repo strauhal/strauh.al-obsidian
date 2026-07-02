@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul signac 1886|Artist - paul signac 1886]] — shared language: signac, paul
 - [[knowledge/wiki/images/clipper by paul signac 1887 ace6434d|clipper by paul signac 1887]] — shared language: signac, paul
 - [[knowledge/wiki/images/les andelys the washerwomen by paul signac 1886 8fb64e46|les andelys the washerwomen by paul signac 1886]] — shared language: signac, paul
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: paul
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — named in this note
 - [[knowledge/wiki/artists/Artist - charles marion russell|Artist - charles marion russell]] — shared language: russell, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles marion russell 1916|Artist - charles marion russell 1916]] — shared language: russell, charles
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
 - [[knowledge/wiki/images/loops and swift horses are surer than lead by charles marion russell 1916 20ab1eac|loops and swift horses are surer than lead by charles marion russell 1916]] — shared language: russell, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles
 <!-- vault-crosslinks:end -->

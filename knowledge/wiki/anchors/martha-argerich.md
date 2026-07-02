@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[knowledge/wiki/images/martha argerich erich auerbach 2 fee3aa02|martha argerich erich auerbach 2]] — shared language: argerich, martha
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, otherwise
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: argerich, martha
 <!-- vault-crosslinks:end -->

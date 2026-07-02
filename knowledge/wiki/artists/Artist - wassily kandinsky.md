@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[composition 8 komposition viii by wassily kandinsky 1923 16c6e044|composition 8 komposition viii by wassily kandinsky 1923]]
 - [[composition by wassily kandinsky 1910 018f415a|composition by wassily kandinsky 1910]]
 - [[schwebendes by wassily kandinsky 1935 d4034c5d|schwebendes by wassily kandinsky 1935]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
+- [[knowledge/wiki/images/wassily kandinsky 829cef07|wassily kandinsky]] — shared language: wassily, kandinsky
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily, composition
+- [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: kandinsky, wassily
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: wassily, kandinsky
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: kandinsky, wassily
+<!-- vault-crosslinks:end -->

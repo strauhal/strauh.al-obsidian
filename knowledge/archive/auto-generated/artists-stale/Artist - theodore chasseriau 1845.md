@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodore ralli 1884|Artist - theodore ralli 1884]] — shared language: theodore
 - [[knowledge/wiki/artists/Artist - theodore robinson about|Artist - theodore robinson about]] — shared language: theodore
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodore robinson about 1887|Artist - theodore robinson about 1887]] — shared language: theodore
-- [[knowledge/wiki/images/theodore roosevelt detail jpg 0335826d|theodore roosevelt detail jpg]] — shared language: theodore
+- [[knowledge/wiki/images/theodore roosevelt portrait detail e4985dcf|theodore roosevelt portrait detail]] — shared language: theodore
 <!-- vault-crosslinks:end -->

@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1500s/the_resurrection_of_christ_by_pieter_bruegel_the_elder_c_1563.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1562|Date Bucket - 1562]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1564|Date Bucket - 1564]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the glory of the kings by erol akyavas 1959 f0a3c1dd|the glory of the kings by erol akyavas 1959]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/montague dawson the kings ship mid20th century e2c2eacd|montague dawson the kings ship mid20th century]] — shared language: kings
+- [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - esther shimazu|Artist - esther shimazu]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

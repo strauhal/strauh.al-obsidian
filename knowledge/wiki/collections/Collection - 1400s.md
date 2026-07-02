@@ -93,3 +93,16 @@ Files: 30
 - [[two profile heads a grotesque man and a youth by leonardo da vinci c 1490 e308a639|two profile heads a grotesque man and a youth by leonardo da vinci c 1490]]
 - [[view of venice by erhard reuwich 1486 99fc4194|view of venice by erhard reuwich 1486]]
 - [[wolf rehfeldt ruth overall 02 jpg 1440 jpeg 668f4d7e|wolf rehfeldt ruth overall 02 jpg 1440 jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/the annunciation by fra angelico c 1440 1445 b554f150|the annunciation by fra angelico c 1440 1445]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: leonardo, vinci, head
+- [[knowledge/wiki/artists/Artist - leonardo da vinci|Artist - leonardo da vinci]] — shared language: leonardo, vinci, profile
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, christ, francis
+- [[knowledge/wiki/artists/Artist - michael wolgemut and wilhelm pleydenwurff|Artist - michael wolgemut and wilhelm pleydenwurff]] — shared language: wolgemut, wilhelm, apostles
+- [[knowledge/wiki/artists/Artist - rogier van der weyden|Artist - rogier van der weyden]] — shared language: rogier, weyden, der
+- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: piero
+<!-- vault-crosslinks:end -->

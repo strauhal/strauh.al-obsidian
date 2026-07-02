@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/wanes on the dance by roger dean 1973 21c904ae|wanes on the dance by roger dean 1973]] — shared language: roger, dean
 - [[knowledge/wiki/artists/Artist - roger bissiere|Artist - roger bissiere]] — shared language: roger
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roger bissiere 1958|Artist - roger bissiere 1958]] — shared language: roger
-- [[knowledge/archive/auto-generated/artists-stale/Artist - dean cornwell 1920|Artist - dean cornwell 1920]] — shared language: dean
+- [[knowledge/wiki/images/gray by roger bissiere 1958 b6836e61|gray by roger bissiere 1958]] — shared language: roger
 <!-- vault-crosslinks:end -->

@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same category: art aesthetics
 - [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
-- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

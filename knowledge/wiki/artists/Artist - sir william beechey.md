@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the family of sir robert frankland russell 7th baronet by sir william beechey 1800 30b67388|the family of sir robert frankland russell 7th baronet by sir william beechey 1800]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/sir william quiller orchardson napoleon on st helena 1892 8d009129|sir william quiller orchardson napoleon on st helena 1892]] — shared language: sir, william
+- [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir, robert
+- [[knowledge/wiki/images/the family of sir thomas frankland bt by john hoppner 1792 7a7abc39|the family of sir thomas frankland bt by john hoppner 1792]] — shared language: sir, frankland, family
+- [[knowledge/wiki/images/the death of dido by sir robert strange 1762 2c3ce4fe|the death of dido by sir robert strange 1762]] — shared language: sir, robert
+- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir
+- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
+<!-- vault-crosslinks:end -->

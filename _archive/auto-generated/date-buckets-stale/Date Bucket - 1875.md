@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1800s/woman_with_a_parasol_madame_monet_and_her_son_by_claude_monet_1875.jpg]]
 
 ![[media/strauh.al3.1/photography/IMG_1875.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1874|Date Bucket - 1874]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1876|Date Bucket - 1876]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

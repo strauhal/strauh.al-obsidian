@@ -1,10 +1,10 @@
 ---
 title: "art"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/art.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/art.html"
 source_relpath: "art.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # art
@@ -5189,3 +5189,16 @@ randomize order]()
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the annunciation by hendrick goltzius 1594 8fc0932c|the annunciation by hendrick goltzius 1594]] — named in this note
+- [[knowledge/wiki/images/a thousand li of rivers and mountains by wang ximeng 1113 437d714d|a thousand li of rivers and mountains by wang ximeng 1113]] — named in this note
+- [[knowledge/wiki/images/a thousand li of rivers and mountains by wang ximeng 1113 2 d8d0df94|a thousand li of rivers and mountains by wang ximeng 1113 2]] — named in this note
+- [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 67e7df75|poet on a mountain top by shen zhou c 1500]] — named in this note
+- [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 2 77c65482|poet on a mountain top by shen zhou c 1500 2]] — named in this note
+- [[knowledge/wiki/images/marcus curtius by hendrick goltzius 1586 559ffd8a|marcus curtius by hendrick goltzius 1586]] — named in this note
+- [[knowledge/wiki/images/marcus curtius by hendrick goltzius 1586 2 aa6b1b8a|marcus curtius by hendrick goltzius 1586 2]] — named in this note
+- [[knowledge/wiki/images/marcus curtius by hendrick goltzius c 1586 c3da044d|marcus curtius by hendrick goltzius c 1586]] — named in this note
+<!-- vault-crosslinks:end -->

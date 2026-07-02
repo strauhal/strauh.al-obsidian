@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1800s/the_sermon_in_the_woods_die_predigt_im_walde_by_carl_spitzweg_c_1845.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_women_of_algiers_in_a_garden_by_theodore_chasseriau_1845.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1844|Date Bucket - 1844]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1846|Date Bucket - 1846]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

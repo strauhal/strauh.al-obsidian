@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/anchors-stale/artist-image-deconvolution-with-and-without-png|Artist - image deconvolution with and without png]] — shared language: without, png
-- [[knowledge/wiki/images/149924 1 4edf54c8|149924 1]] — shared language: png
-- [[knowledge/wiki/images/161103001 85d090e3|161103001]] — shared language: png
-- [[knowledge/wiki/images/1631582470306 484410fb|1631582470306]] — shared language: png
-- [[knowledge/wiki/images/1637021571223 54871f57|1637021571223]] — shared language: png
-- [[knowledge/wiki/images/1637072086312 7355b4be|1637072086312]] — shared language: png
+- [[knowledge/archive/auto-generated/anchors-stale/artist-image-deconvolution-with-and-without-png|Artist - image deconvolution with and without png]] — shared language: without
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: without
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: without
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: without
+- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: without
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: without
 <!-- vault-crosslinks:end -->

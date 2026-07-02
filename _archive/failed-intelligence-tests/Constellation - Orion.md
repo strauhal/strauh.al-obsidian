@@ -26,7 +26,7 @@ The Hunter's Belt is famous for its three bright stars.
 ## Discovered Connections
 
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: stars, archived, gemma
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: vault, bright
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: bright, vault
 - [[knowledge/wiki/artists/Artist - stars|Artist - stars]] — shared language: stars
 - [[knowledge/wiki/images/digital illustration of a stylized figure holding a phone surrounded by stars 39ac0dab|digital illustration of a stylized figure holding a phone surrounded by stars]] — shared language: stars
 - [[knowledge/wiki/images/the city and the stars by fred gambino 1988 8337dee2|the city and the stars by fred gambino 1988]] — shared language: stars

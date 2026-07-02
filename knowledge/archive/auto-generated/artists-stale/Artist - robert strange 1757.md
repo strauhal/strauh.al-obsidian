@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: strange, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sir robert strange 1762|Artist - sir robert strange 1762]] — shared language: strange, robert
 - [[knowledge/wiki/images/the death of dido by sir robert strange 1762 2c3ce4fe|the death of dido by sir robert strange 1762]] — shared language: strange, robert
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - you si|Artist - you si]] — shared language: strange
 <!-- vault-crosslinks:end -->

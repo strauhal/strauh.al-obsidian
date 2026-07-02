@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1800s/pierrepaul_prudhon_andromeda_1820.jpg]]
 
 ![[media/strauh.al3.1/1800s/portrait_of_jean_baptiste_joseph_fourier_by_louis_leopold_boilly_c_1820.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1818|Date Bucket - 1818]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1821|Date Bucket - 1821]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

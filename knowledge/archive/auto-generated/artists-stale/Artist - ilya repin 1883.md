@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1880 1891|Artist - ilya repin 1880 1891]] — shared language: repin, ilya
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1885|Artist - ilya repin 1885]] — shared language: repin, ilya, son
 - [[knowledge/wiki/artists/Artist - ilya repin 18701873|Artist - ilya repin 18701873]] — shared language: repin, ilya
-- [[knowledge/wiki/artists/Artist - ilya repin|Artist - ilya repin]] — shared language: repin, ilya, son
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ilya repin 1899|Artist - ilya repin 1899]] — shared language: repin, ilya
 <!-- vault-crosslinks:end -->

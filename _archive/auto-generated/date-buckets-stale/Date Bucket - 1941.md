@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1900s/natura_morta_still_life_by_giorgio_morandi_1941.jpeg]]
 
 ![[media/strauh.al3.1/1900s/regular_division_of_the_plane_v_by_maurits_cornelis_escher_1941.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1940|Date Bucket - 1940]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1942|Date Bucket - 1942]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - eliran kantor|Artist - eliran kantor]] — named in this note
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+- [[knowledge/wiki/images/framed psychedelic abstract painting with swirl pattern 1059a538|framed psychedelic abstract painting with swirl pattern]] — shared language: swirl
 - [[knowledge/wiki/images/drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks 1d7b7870|drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks]] — shared language: swirl
 - [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
 - [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
-- [[knowledge/archive/auto-generated/anchors-stale/artist-the-great-north-star-2020|Artist - the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

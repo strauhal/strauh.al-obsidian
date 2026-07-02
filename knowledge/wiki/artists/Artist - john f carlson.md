@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the sentinels by john f carlson c 1920 05522448|the sentinels by john f carlson c 1920]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/artists/Artist - andrea carlson|Artist - andrea carlson]] — shared language: carlson
+- [[knowledge/wiki/images/indaanik oobijigan by andrea carlson 2019 b21abd9c|indaanik oobijigan by andrea carlson 2019]] — shared language: carlson
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
+<!-- vault-crosslinks:end -->

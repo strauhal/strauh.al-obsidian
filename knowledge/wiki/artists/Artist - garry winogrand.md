@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[dancing at the st regis by garry winogrand 1957 5d9ce23c|dancing at the st regis by garry winogrand 1957]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/painting of a couple dancing folklorico in front of a yellow cathedral 897515b6|painting of a couple dancing folklorico in front of a yellow cathedral]] — shared language: dancing
+- [[knowledge/wiki/images/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: dancing
+- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: dancing
+- [[knowledge/wiki/images/framed group scene of people dancing or performing dbae02a2|framed group scene of people dancing or performing]] — shared language: dancing
+- [[knowledge/wiki/images/painting of stylized figures dancing around a central fire on a black background 52a5da15|painting of stylized figures dancing around a central fire on a black background]] — shared language: dancing
+- [[knowledge/wiki/images/expressionistic painting of two figures dancing against a red background with yellow lights 39376a24|expressionistic painting of two figures dancing against a red background with yellow lights]] — shared language: dancing
+<!-- vault-crosslinks:end -->

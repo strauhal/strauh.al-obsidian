@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-an-artist-under-the-influence-of-lsd-1959|Artist - an artist under the influence of lsd 1959]] — shared language: lsd, influence
+- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
 - [[knowledge/wiki/books/how-taking-900mcg-of-lsd-permanently-enhanced-my-intelligence-hackernoon|How taking >900mcg of LSD permanently enhanced my intelligence - HackerNoon]] — shared language: lsd
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influence
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influence
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influence
 <!-- vault-crosslinks:end -->

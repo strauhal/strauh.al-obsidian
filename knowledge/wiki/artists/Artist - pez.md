@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[carpe diem by pez 2019 1366a8b4|carpe diem by pez 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - petrus christus|Artist - petrus christus]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - philip alexius de laszlo|Artist - philip alexius de laszlo]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - petrina ryan kleid|Artist - petrina ryan kleid]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

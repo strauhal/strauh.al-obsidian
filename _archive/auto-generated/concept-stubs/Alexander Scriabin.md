@@ -14,11 +14,11 @@ This note exists because generated pages linked this spelling or alias. The rich
 ## Discovered Connections
 
 - [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: scriabin, alexander
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: scriabin, alexander
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, spelling, alias
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, spelling, alias
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, alias, richer
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: scriabin, alexander
 <!-- vault-crosslinks:end -->

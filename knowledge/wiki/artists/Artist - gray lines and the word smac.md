@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[stylized graphic design of an animal formed by gray lines and the word smac 9300f29f|stylized graphic design of an animal formed by gray lines and the word smac]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: lines
+- [[knowledge/wiki/images/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: word
+- [[knowledge/wiki/images/abstract drawing of overlapping black and gray gestural lines d595cacf|abstract drawing of overlapping black and gray gestural lines]] — shared language: gray, lines
+- [[knowledge/wiki/images/abstract drawing of overlapping black and gray gestural lines on white paper 768eed4e|abstract drawing of overlapping black and gray gestural lines on white paper]] — shared language: gray, lines
+- [[knowledge/wiki/images/op art pattern of horizontal wavy lines in dark gray and white e7755905|op art pattern of horizontal wavy lines in dark gray and white]] — shared language: gray, lines
+<!-- vault-crosslinks:end -->

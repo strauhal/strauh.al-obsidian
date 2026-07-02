@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1600s/the_adoration_of_the_shepherds_by_peter_paul_rubens_c_1617.jpeg]]
 
 ![[media/strauh.al3.1/1600s/the_flagellation_of_christ_by_peter_paul_rubens_c_1614_1617.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1616|Date Bucket - 1616]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1618|Date Bucket - 1618]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[eldridge a member of the thornton family with a rifle near mobile alabama by gordon parks 1956 9abb8b4c|eldridge a member of the thornton family with a rifle near mobile alabama by gordon parks 1956]]
 - [[three boys with a toy gun fort scott kansas by gordon parks 1949 b9a233ec|three boys with a toy gun fort scott kansas by gordon parks 1949]]
 - [[untitled man on a wheel fort scott kansas by gordon parks 1949 3a62c7ba|untitled man on a wheel fort scott kansas by gordon parks 1949]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: gordon
+- [[knowledge/wiki/images/black and white photographs of christopher n schumacher and gordon schumacher on a printed page 9cdc91ff|black and white photographs of christopher n schumacher and gordon schumacher on a printed page]] — shared language: gordon
+- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
+- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
+<!-- vault-crosslinks:end -->

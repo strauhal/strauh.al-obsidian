@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[comparing shipping routes through history before and after the construction of the panama and suez canals by ben schmidt 3f365dd5|comparing shipping routes through history before and after the construction of the panama and suez canals by ben schmidt]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: ben
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: ben
+- [[knowledge/wiki/images/selbstbildnis self portrait by karl schmidt rottluff 1919 cf7808bd|selbstbildnis self portrait by karl schmidt rottluff 1919]] — shared language: schmidt
+- [[knowledge/wiki/artists/Artist - karl schmidt rottluff|Artist - karl schmidt rottluff]] — shared language: schmidt
+<!-- vault-crosslinks:end -->

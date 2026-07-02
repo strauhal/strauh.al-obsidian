@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1981.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1980|Date Bucket - 1980]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1982|Date Bucket - 1982]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

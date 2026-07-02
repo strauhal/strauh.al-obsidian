@@ -1,7 +1,7 @@
 ---
 title: "ink drawing detail of three figures including a man in a vest"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg"
 source_relpath: "2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/ink_drawing_detail_of_three_figures_including_a_man_in_a_vest.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, figures
+- [[knowledge/wiki/images/pen and ink sketch of three figures in conversation c58d12cc|pen and ink sketch of three figures in conversation]] — shared language: three, ink, figures
+- [[knowledge/wiki/images/black and white ink drawing of three figures sheltering from rain 2fda5370|black and white ink drawing of three figures sheltering from rain]] — shared language: three, ink, figures
+- [[knowledge/wiki/images/sketch studies of figures including a standing drummer and seated man 23311a55|sketch studies of figures including a standing drummer and seated man]] — shared language: including, figures, man
+- [[knowledge/wiki/images/oil painting of three figures in an interior 64822d42|oil painting of three figures in an interior]] — shared language: three, figures
+<!-- vault-crosslinks:end -->

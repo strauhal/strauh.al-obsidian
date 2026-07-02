@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1900s/strawberry_pickers_near_pescadero_by_emmy_lou_packard_1945.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_apotheosis_of_homer_by_salvador_dali_1944_1945.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1944|Date Bucket - 1944]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1946|Date Bucket - 1946]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

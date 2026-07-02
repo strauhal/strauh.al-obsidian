@@ -1,10 +1,10 @@
 ---
 title: "gif collection"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/gif_collection.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/gif_collection.html"
 source_relpath: "gif_collection.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # gif collection
@@ -378,3 +378,16 @@ strauh.al/gif_collection
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/gif image 2 gif b2103b40|gif image 2 gif]] — named in this note
+- [[knowledge/wiki/images/gif image 3 gif 72d9592b|gif image 3 gif]] — named in this note
+- [[knowledge/wiki/images/gif image gif 9178d3b3|gif image gif]] — named in this note
+- [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — named in this note
+- [[knowledge/wiki/images/tumblr 12b9e7b8597d5107d99b019a75876787 70002bfc 540 cab77089|tumblr 12b9e7b8597d5107d99b019a75876787 70002bfc 540]] — named in this note
+- [[knowledge/wiki/images/tumblr 1e363c274caa3c06e1f5698f82b1896e 490e5de2 400 e0dc0b76|tumblr 1e363c274caa3c06e1f5698f82b1896e 490e5de2 400]] — named in this note
+- [[knowledge/wiki/images/tumblr 24b182e962ab0df5f3900551bca963cf 227dc3d6 250 52abb110|tumblr 24b182e962ab0df5f3900551bca963cf 227dc3d6 250]] — named in this note
+- [[knowledge/wiki/images/tumblr 56b4b96b06cdcef5419129d760d84c86 2628ad61 100 1bf73cce|tumblr 56b4b96b06cdcef5419129d760d84c86 2628ad61 100]] — named in this note
+<!-- vault-crosslinks:end -->

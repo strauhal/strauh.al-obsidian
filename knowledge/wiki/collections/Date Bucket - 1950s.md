@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1950s"
 source_kind: "date_bucket"
-count: "91"
+count: "90"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1950s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 91
+Files: 90
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 91
 ![[media/strauh.al3.1/1900s/drawings_made_by_an_artist_under_the_influence_of_lsd_1959.jpeg]]
 
 ![[media/strauh.al3.1/1900s/edward_hopper_rooms_by_the_sea_1951.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1940s|Date Bucket - 1940s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1960s|Date Bucket - 1960s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

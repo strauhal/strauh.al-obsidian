@@ -1,10 +1,10 @@
 ---
 title: "artists escher"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/escher.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/escher.html"
 source_relpath: "artists/escher.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists escher
@@ -45,3 +45,16 @@ strauh.al/artists/escher
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/IMG 2748 5f740c79|IMG 2748]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2749 1ececdea|IMG 2749]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2750 37dd5a99|IMG 2750]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2751 ba532d95|IMG 2751]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2752 bad25ed5|IMG 2752]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2753 1c965fd0|IMG 2753]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2754 9f13163d|IMG 2754]] — shared language: artists, escher
+- [[knowledge/wiki/images/IMG 2755 08e08a7b|IMG 2755]] — shared language: artists, escher
+<!-- vault-crosslinks:end -->

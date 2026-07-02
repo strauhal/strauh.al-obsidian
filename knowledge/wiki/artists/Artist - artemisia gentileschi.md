@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[judith slaying holofernes by artemisia gentileschi c 16121613 ee6db9b0|judith slaying holofernes by artemisia gentileschi c 16121613]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - arshile gorky|Artist - arshile gorky]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - arnold bocklin|Artist - arnold bocklin]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[kuala lumpur city by eko bintang 2020 13becd7f|kuala lumpur city by eko bintang 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - egon sendler|Artist - egon sendler]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - elias hellquist|Artist - elias hellquist]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - egon schiele|Artist - egon schiele]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

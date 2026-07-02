@@ -1,10 +1,10 @@
 ---
 title: "old photos"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/old_photos.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/old_photos.html"
 source_relpath: "old_photos.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # old photos
@@ -146,3 +146,16 @@ strauh.al/old_photos
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - old photos|Collection - old photos]] — named in this note
+- [[knowledge/wiki/images/oldphotos 0bb4ecd9|oldphotos]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 1 c403ba96|oldphotos 1]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 10 2894cd7d|oldphotos 10]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 100 ddec2e6c|oldphotos 100]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 101 6baadd26|oldphotos 101]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 102 d4522bea|oldphotos 102]] — shared language: oldphotos, photos, old
+- [[knowledge/wiki/images/oldphotos 103 eb26edbc|oldphotos 103]] — shared language: oldphotos, photos, old
+<!-- vault-crosslinks:end -->

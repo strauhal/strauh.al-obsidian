@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/cary grant 1980s 2 e53d87ab|cary grant 1980s 2]] — shared language: grant
 - [[knowledge/wiki/images/cary grant 1980s cad26847|cary grant 1980s]] — shared language: grant
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: wood
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: wood
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: wood
 <!-- vault-crosslinks:end -->

@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_snake_charmer_by_theodoros_ralli_1881.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1880|Date Bucket - 1880]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1882|Date Bucket - 1882]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

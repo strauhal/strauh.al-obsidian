@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - carlos bueno|Artist - carlos bueno]] — named in this note
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: traditional
-- [[knowledge/wiki/images/oil painting of a young woman in profile with a dark headscarf 39ef8f0b|oil painting of a young woman in profile with a dark headscarf]] — shared language: oil, woman, painting
 - [[knowledge/wiki/images/photograph of a woman resembling hillary clinton standing in a narrow kitchen being filmed 62e86b7d|photograph of a woman resembling hillary clinton standing in a narrow kitchen being filmed]] — shared language: kitchen, woman
-- [[knowledge/wiki/images/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, woman, painting
-- [[knowledge/wiki/images/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: oil, woman, painting
+- [[knowledge/wiki/images/sunset painting of a kitchen sink and window 986c9524|sunset painting of a kitchen sink and window]] — shared language: kitchen
+- [[knowledge/wiki/images/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, woman
+- [[knowledge/wiki/images/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: oil, woman
 <!-- vault-crosslinks:end -->

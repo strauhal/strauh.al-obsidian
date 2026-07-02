@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: klimt, gustav, death
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1898|Artist - gustav klimt 1898]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/head of a woman by gustav klimt c 1917 40c45e1f|head of a woman by gustav klimt c 1917]] — shared language: klimt, gustav
-- [[knowledge/wiki/images/head of a boy in profile by gustav klimt c 1885 94592ccf|head of a boy in profile by gustav klimt c 1885]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/gustav klimt portrait of adele blochbauer i 1907 c9a9210a|gustav klimt portrait of adele blochbauer i 1907]] — shared language: klimt, gustav
+- [[knowledge/wiki/images/head of a boy in profile by gustav klimt c 1885 94592ccf|head of a boy in profile by gustav klimt c 1885]] — shared language: klimt, gustav
 <!-- vault-crosslinks:end -->

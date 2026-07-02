@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[isabella rossellini malibu by herb ritts 1988 53e362cc|isabella rossellini malibu by herb ritts 1988]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - herb lubalin|Artist - herb lubalin]] — shared language: herb
+- [[knowledge/wiki/images/the by herb lubalin 1974 0e9841ee|the by herb lubalin 1974]] — shared language: herb
+- [[knowledge/wiki/images/herb alpert 2d9ce349|herb alpert]] — shared language: herb
+- [[knowledge/wiki/collections/Collection - influences|Collection - influences]] — shared language: herb
+<!-- vault-crosslinks:end -->

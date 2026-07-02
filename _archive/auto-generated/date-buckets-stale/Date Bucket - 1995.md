@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/unsorted/169_1995_h_cccr_full_jpeg_jpg.jpg]]
 
 ![[media/strauh.al3.1/unsorted/169_1995_k_cccr_full_jpeg_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1994|Date Bucket - 1994]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1996|Date Bucket - 1996]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -42,8 +42,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/liphas-l-vi-trans-a-e-waite-the-history-of-magic|The History of Magic]] — same category: esoterica
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — same category: esoterica
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
-- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
-- [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
+- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - john moyers|Artist - john moyers]] — shared language: moyers
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john moyers 2005|Artist - john moyers 2005]] — shared language: moyers
 - [[knowledge/wiki/images/the long ride by john moyers 2005 b14f8ec4|the long ride by john moyers 2005]] — shared language: moyers
-- [[knowledge/wiki/artists/Artist - kelly pringle|Artist - kelly pringle]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle 2019|Artist - kelly pringle 2019]] — shared language: kelly
+- [[knowledge/wiki/artists/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
 <!-- vault-crosslinks:end -->

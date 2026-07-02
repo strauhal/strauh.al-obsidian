@@ -1,7 +1,7 @@
 ---
 title: "grid of thirty black ink line drawings of suburban and rural scenes"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg"
 source_relpath: "unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg"
 collection: "unsorted"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/grid_of_thirty_black_ink_line_drawings_of_suburban_and_rural_scenes.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
+- [[knowledge/wiki/images/grid of thirty black ink line drawings depicting various architectural and landscape scenes cee5ec0b|grid of thirty black ink line drawings depicting various architectural and landscape scenes]] — shared language: thirty, scenes, drawings
+- [[knowledge/wiki/images/grid of 25 black and white ink sketches depicting suburban and rural scenes 6adb54a0|grid of 25 black and white ink sketches depicting suburban and rural scenes]] — shared language: rural, suburban, scenes
+- [[knowledge/wiki/images/grid of 30 black ink sketches depicting suburban and rural scenes storyboard format c429eae6|grid of 30 black ink sketches depicting suburban and rural scenes storyboard format]] — shared language: rural, suburban, scenes
+- [[knowledge/wiki/images/black and white ink drawing grid of twenty suburban and rural vignettes 3b4a83ef|black and white ink drawing grid of twenty suburban and rural vignettes]] — shared language: rural, suburban, grid
+<!-- vault-crosslinks:end -->

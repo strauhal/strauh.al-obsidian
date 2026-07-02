@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - george caleb bingham|Artist - george caleb bingham]] — named in this note
 - [[knowledge/wiki/images/the county election by george caleb bingham 1852 9af6bd67|the county election by george caleb bingham 1852]] — shared language: caleb, bingham, george
 - [[knowledge/wiki/images/fur traders going down the missouri by george caleb bingham c 1845 fc10c1b8|fur traders going down the missouri by george caleb bingham c 1845]] — shared language: caleb, bingham, george
-- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1907|Artist - george bellows 1907]] — shared language: george
+- [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 <!-- vault-crosslinks:end -->

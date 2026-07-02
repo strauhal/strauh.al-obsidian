@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/street_dresden_by_ernst_ludwig_kirchner_1908.jpeg]]
 
 ![[media/strauh.al3.1/1900s/vinterdag_i_dyrehaven_by_peder_mrk_mnsted_1908.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1907|Date Bucket - 1907]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1909|Date Bucket - 1909]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

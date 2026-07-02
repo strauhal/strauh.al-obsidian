@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[rasetsu by tenmyouya hisashi 2010 cd41c4da|rasetsu by tenmyouya hisashi 2010]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - tatsuki fujimoto|Artist - tatsuki fujimoto]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - terri kelly moyers|Artist - terri kelly moyers]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - tangerine dream|Artist - tangerine dream]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

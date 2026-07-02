@@ -52,3 +52,11 @@ Files: 20
 ![[media/strauh.al3.1/1900s/vanity_by_john_william_waterhouse_1900.jpg]]
 
 ![[media/strauh.al3.1/1900s/view_of_the_rue_des_nations_looking_toward_the_palais_des_illusions_exposition_universelle_paris_1900_1900.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1899|Date Bucket - 1899]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1900s|Date Bucket - 1900s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

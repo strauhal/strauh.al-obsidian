@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — named in this note
+- [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois, jean
+- [[knowledge/wiki/images/the gleaners by jean francois millet 1857 1c4834e1|the gleaners by jean francois millet 1857]] — shared language: francois, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francois boucher 1740|Artist - francois boucher 1740]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - francois boucher|Artist - francois boucher]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - gabriel francois doyen|Artist - gabriel francois doyen]] — shared language: francois
 <!-- vault-crosslinks:end -->

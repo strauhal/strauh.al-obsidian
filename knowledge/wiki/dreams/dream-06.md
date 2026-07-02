@@ -39,3 +39,16 @@ This note is an index and reflection surface. The complete first-person account 
 ## Reflection
 
 No fixed interpretation has been assigned. Add remembered details, waking associations, or later resonances here.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, economy, attention
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, economy, record
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: autofiction, attention, post-irony
+- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

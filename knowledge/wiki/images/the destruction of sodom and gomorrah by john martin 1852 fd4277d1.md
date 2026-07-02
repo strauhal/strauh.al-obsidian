@@ -1,7 +1,7 @@
 ---
 title: "the destruction of sodom and gomorrah by john martin 1852"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg"
 source_relpath: "1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg"
 collection: "1800s"
 inferred_year: "1852"
@@ -22,4 +22,14 @@ Artist: [[Artist - john martin]]
 
 Source: [[media/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the destruction of sodom and gomorrah by john martin 1852 2 388ffed2|the destruction of sodom and gomorrah by john martin 1852 2]] — same artist: john martin
+- [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — same artist: john martin
+- [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — same artist: john martin
+- [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — same artist: john martin
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+<!-- vault-crosslinks:end -->

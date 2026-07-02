@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1500s/portrait_of_a_woman_by_hans_holbein_the_younger_1540.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_last_supper_intarsia_panel_by_fra_damiano_da_bergamo_1547.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1530s|Date Bucket - 1530s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1550s|Date Bucket - 1550s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

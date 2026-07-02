@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1600s/self_portrait_by_rembrandt_van_rijn_1659.jpg]]
 
 ![[media/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1640s|Date Bucket - 1640s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1660s|Date Bucket - 1660s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

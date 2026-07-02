@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - keith haring|Artist - keith haring]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - keith haring 1985|Artist - keith haring 1985]] — named in this note
-- [[knowledge/wiki/images/cindy sherman by keith haring 1985 81fe23fc|cindy sherman by keith haring 1985]] — shared language: keith, haring
+- [[knowledge/wiki/images/cindy sherman by keith haring 1985 81fe23fc|cindy sherman by keith haring 1985]] — shared language: haring, keith
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: keith, haring, poster
-- [[_archive/auto-generated/books-stale/wark-mckenzie-capital-is-dead-is-this-something-worse-2019|Wark McKenzie Capital Is Dead Is This Something Worse 2019]] — shared language: dead
 <!-- vault-crosslinks:end -->

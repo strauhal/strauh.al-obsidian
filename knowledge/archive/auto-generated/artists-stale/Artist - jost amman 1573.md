@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: saint
 - [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — shared language: thomas
 - [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
-- [[knowledge/wiki/images/caravaggio saint jerome writing 16051606 c9b81618|caravaggio saint jerome writing 16051606]] — shared language: saint
+- [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2016|Artist - simon stalenhag 2016]] — shared language: simon
 <!-- vault-crosslinks:end -->

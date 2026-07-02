@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1900s/omoigawa_river_of_memory_by_ito_shinsui_1921.jpg]]
 
 ![[media/strauh.al3.1/1900s/still_life_with_head_by_stuart_davis_1921.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1920|Date Bucket - 1920]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1922|Date Bucket - 1922]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

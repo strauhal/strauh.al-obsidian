@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1700s/portrait_of_louis_xv_in_coronation_robes_by_jean_baptiste_van_loo_1723.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1720|Date Bucket - 1720]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1725|Date Bucket - 1725]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: wood
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: wood
-- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - walter gay 1909 13|Artist - walter gay 1909 13]] — shared language: walter
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
+- [[knowledge/archive/auto-generated/artists-stale/Artist - grant wood 1930|Artist - grant wood 1930]] — shared language: wood
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - barry feinstein|Artist - barry feinstein]] — named in this note
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: barry
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: barry
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: barry
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: barry
 - [[_archive/auto-generated/concept-stubs/Barry McGee|Barry McGee]] — shared language: barry
+- [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: dylan, bob
 <!-- vault-crosslinks:end -->

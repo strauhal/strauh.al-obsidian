@@ -54,5 +54,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — same category: politics society
-- [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — same category: politics society
+- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — same category: politics society
 <!-- vault-crosslinks:end -->

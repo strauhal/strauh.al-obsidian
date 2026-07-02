@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the mound and the shadow by trenton doyle hancock 2019 d2670882|the mound and the shadow by trenton doyle hancock 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/photograph of a wasp floating on blue water with shadow d6df88ab|photograph of a wasp floating on blue water with shadow]] — shared language: shadow
+- [[knowledge/wiki/images/black and white ink drawing of a multi armed figure holding swords on a mound 39325d20|black and white ink drawing of a multi armed figure holding swords on a mound]] — shared language: mound
+- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: shadow
+- [[knowledge/wiki/images/abstract photograph of light and shadow through a window showing blue and orange colors 95443fb9|abstract photograph of light and shadow through a window showing blue and orange colors]] — shared language: shadow
+<!-- vault-crosslinks:end -->

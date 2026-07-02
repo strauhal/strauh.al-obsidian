@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/images/black and white image of georg wilhelm friedrich hegel portrait with humorous text 86b4c97d|black and white image of georg wilhelm friedrich hegel portrait with humorous text]] — shared language: georg, wilhelm, hegel
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg, wilhelm, hegel
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: hegel, friedrich
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, otherwise
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles m russell 1902|Artist - charles m russell 1902]] — shared language: russell, charles
 - [[knowledge/wiki/images/the storyteller by charles m russell 1902 2fd1e36b|the storyteller by charles m russell 1902]] — shared language: russell, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
+- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — shared language: russell
 <!-- vault-crosslinks:end -->

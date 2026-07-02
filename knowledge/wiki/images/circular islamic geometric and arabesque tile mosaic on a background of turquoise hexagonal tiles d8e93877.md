@@ -1,7 +1,7 @@
 ---
 title: "circular islamic geometric and arabesque tile mosaic on a background of turquoise hexagonal tiles"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg"
 source_relpath: "2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/circular_islamic_geometric_and_arabesque_tile_mosaic_on_a_background_of_turquoise_hexagonal_tiles.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/photograph of islamic tilework featuring a central scalloped medallion with arabesque patterns on a background of turquoise hexagonal tiles d43c115f|photograph of islamic tilework featuring a central scalloped medallion with arabesque patterns on a background of turquoise hexagonal tiles]] — shared language: hexagonal, islamic, arabesque
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: geometric, background
+- [[knowledge/wiki/images/stylized geometric and arabesque design in blue red and black on page 93 46ae4ddd|stylized geometric and arabesque design in blue red and black on page 93]] — shared language: arabesque, geometric
+- [[knowledge/wiki/images/demarco and beuys tile b1cc004e|demarco and beuys tile]] — shared language: tile
+- [[knowledge/wiki/images/textured painting with repeating gold floral pattern on turquoise background e42d3273|textured painting with repeating gold floral pattern on turquoise background]] — shared language: turquoise, background
+<!-- vault-crosslinks:end -->

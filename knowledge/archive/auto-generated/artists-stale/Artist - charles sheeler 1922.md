@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/cityscape by charles sheeler 1922 2 c273f61f|cityscape by charles sheeler 1922 2]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922 2|Artist - charles sheeler 1922 2]] — shared language: sheeler, charles, cityscape
-- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1947|Artist - charles sheeler 1947]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1930|Artist - charles sheeler 1930]] — shared language: sheeler, charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1947|Artist - charles sheeler 1947]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1929|Artist - charles sheeler 1929]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1932|Artist - charles sheeler 1932]] — shared language: sheeler, charles
 <!-- vault-crosslinks:end -->

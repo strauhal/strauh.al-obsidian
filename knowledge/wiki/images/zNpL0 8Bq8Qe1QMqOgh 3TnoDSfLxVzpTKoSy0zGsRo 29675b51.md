@@ -1,7 +1,7 @@
 ---
 title: "zNpL0 8Bq8Qe1QMqOgh 3TnoDSfLxVzpTKoSy0zGsRo"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
 source_relpath: "album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
 collection: "album_covers"
 inferred_year: ""
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/album covers|album covers]] — named in this note
+- [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — same collection: album covers
+- [[knowledge/wiki/images/1597424260214 2bcf978e|1597424260214]] — same collection: album covers
+- [[knowledge/wiki/images/1613015135325 42554d2b|1613015135325]] — same collection: album covers
+- [[knowledge/wiki/images/1613422568951 f655d3dc|1613422568951]] — same collection: album covers
+<!-- vault-crosslinks:end -->

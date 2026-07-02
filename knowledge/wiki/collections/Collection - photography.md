@@ -221,3 +221,16 @@ Files: 158
 - [[oceanbeach ca4d8aec|oceanbeach]]
 - [[piss christ f2671d8b|piss christ]]
 - [[untitled vii 8f0f180f|untitled vii]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
+- [[knowledge/wiki/pages/photography|photography]] — shared language: photography, estrauhal, moriyama
+- [[knowledge/wiki/images/estrauhal 03 1cfddd17|estrauhal 03]] — shared language: estrauhal
+- [[knowledge/wiki/images/estrauhal 29 8498da0e|estrauhal 29]] — shared language: estrauhal
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
+- [[knowledge/wiki/pages/photography daido moriyama daido moriyama|photography daido moriyama daido moriyama]] — shared language: photography, moriyama
+<!-- vault-crosslinks:end -->

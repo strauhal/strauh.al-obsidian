@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the march of the israelites by david scott 1832 aa3d7f3c|the march of the israelites by david scott 1832]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
+- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott greenwalt|Artist - scott greenwalt]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - scott naismith|Artist - scott naismith]] — shared language: scott
+<!-- vault-crosslinks:end -->

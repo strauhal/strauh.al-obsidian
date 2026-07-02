@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[war and fantasy comptiq magazine cover illustration by katsuya terada 1989 af82aedb|war and fantasy comptiq magazine cover illustration by katsuya terada 1989]]
 - [[detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada ea718cb0|detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada]]
 - [[the rider by katsuya terada 2000 0ef160c0|the rider by katsuya terada 2000]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
+- [[knowledge/wiki/images/japanese camera magazine cover with flowers 8ac0377a|japanese camera magazine cover with flowers]] — shared language: magazine, cover
+- [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: cluttered
+- [[knowledge/wiki/images/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: cluttered
+- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+<!-- vault-crosslinks:end -->

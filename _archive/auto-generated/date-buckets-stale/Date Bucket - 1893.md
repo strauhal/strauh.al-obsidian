@@ -60,3 +60,11 @@ Files: 29
 ![[media/strauh.al3.1/1800s/statue_of_a_draped_female_figure_and_a_bull_on_a_lagoon_at_a_classical_exposition_1893.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_barge_of_the_republic_by_frederick_william_macmonnies_1893.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1892|Date Bucket - 1892]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1894|Date Bucket - 1894]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

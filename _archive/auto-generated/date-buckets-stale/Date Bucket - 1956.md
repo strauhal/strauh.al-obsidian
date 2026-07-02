@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/twilight_by_paul_haller_jones_1956.jpeg]]
 
 ![[media/strauh.al3.1/unsorted/21_portrait_of_joan_mitchell_in_her_studio_1956_jpg.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1955|Date Bucket - 1955]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1957|Date Bucket - 1957]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

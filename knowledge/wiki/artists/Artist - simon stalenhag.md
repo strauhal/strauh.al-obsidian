@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[the boy and the robot by simon stalenhag 2014 74c05053|the boy and the robot by simon stalenhag 2014]]
 - [[the mascot by simon stalenhag 2016 4239ae80|the mascot by simon stalenhag 2016]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
+- [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — shared language: simon
+- [[knowledge/wiki/images/allegory of vanity by simon vouet c 1640 de928bdf|allegory of vanity by simon vouet c 1640]] — shared language: simon
+- [[knowledge/wiki/images/swamp thing vol 2 100 cover by simon bisley 1990 79d4c636|swamp thing vol 2 100 cover by simon bisley 1990]] — shared language: simon
+- [[knowledge/wiki/images/saint thomas and saint simon by jost amman 1573 77997a3c|saint thomas and saint simon by jost amman 1573]] — shared language: simon
+- [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: simon
+<!-- vault-crosslinks:end -->

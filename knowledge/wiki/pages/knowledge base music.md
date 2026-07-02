@@ -1,10 +1,10 @@
 ---
 title: "knowledge base music"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/music.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/music.html"
 source_relpath: "knowledge_base/music.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base music
@@ -507,7 +507,7 @@ strauh.al/knowledge_base/music
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 57 of 437 links connected (16 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 58 of 437 links connected (17 nodes).*
 
 **[[Tim Hecker]]** — [Tim Hecker - Biography - Amoeba Music](https://www.amoeba.com/tim-hecker/artist/59948/bio) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61) · [PRIMER: Tim Hecker - self-titled](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Florian Hecker - Wikipedia](https://en.wikipedia.org/wiki/Florian_Hecker) · [primer: tim hecker](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Tim Hecker Lyrics, Songs, and Albums / Genius](https://genius.com/artists/Tim-hecker) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [Tim Hecker: Anoyo Album Review / Pitchfork](https://pitchfork.com/reviews/albums/tim-hecker-anoyo/) · [KRANK 102 - Tim Hecker, "Harmony in Ultraviolet"](http://www.brainwashed.com/common/htdocs/discog/krank102.html) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [take cover: tim hecker: ravedeath, 1972](https://pitchfork.com/news/41245-take-cover-tim-hecker-ravedeath-1972/) · [Tim Hecker / Red Bull Music Academy](https://www.redbullmusicacademy.com/lectures/tim-hecker-lecture) · [Tim Hecker: ‘I make pagan music that dances on the ashes of a burnt church’ / Electronic music / The Guardian](https://www.theguardian.com/music/2016/apr/05/tim-hecker-sacred-music-ambient-electronica-4ad) · [Tim Hecker Talks <i>Ravedeath, 1972</i>](https://exclaim.ca/music/article/tim_hecker_talks_ravedeath_1972) · [Daniel Lopatin & Tim Hecker / Dazed](https://www.dazeddigital.com/music/article/15182/1/daniel-lopatin-tim-hecker) · [Tim Hecker 'Anoyo' Interview / SPIN](https://www.spin.com/2019/05/tim-hecker-anoyo-interview-left-field/) · [Tim Hecker: Mirages Album Review / Pitchfork](https://pitchfork.com/reviews/albums/3799-mirages/) · [Tim Hecker on his first score for The North Water — Composer Magazine](https://composer.spitfireaudio.com/en/articles/tim-hecker-on-his-first-score-for-the-north-water) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61)
 
@@ -520,6 +520,8 @@ strauh.al/knowledge_base/music
 **[[Interpolating the Instruction Set]]** — [Organic signal processing, or: How do I sound like Arca and Holly Herndon? : futurebeatproducers](https://www.reddit.com/r/futurebeatproducers/comments/3n6bci/organic_signal_processing_or_how_do_i_sound_like/) · [GitHub - grame-cncm/faust: Functional programming language for signal processing and sound synthesis](https://github.com/grame-cncm/faust) · [GitHub - grame-cncm/faust: Functional programming language for signal processing and sound synthesis](https://github.com/grame-cncm/faust)
 
 **[[Artist - kanye west]]** — [kanye west 'black skinhead' remix surfaces](https://www.billboard.com/articles/columns/hip-hop/6851542/kanye-west-black-skinhead-remix-miley-cyrus-travis-scott) · [kanye west urinates on his grammy award](https://www.nzherald.co.nz/entertainment/i-wont-stop-kanye-west-urinates-on-his-grammy-award/ZP6HMUWAMVAAJA35JBWCDFNP3E/)
+
+**[[Artist - philip glass]]** — [sol lewitt philip glass - Google Search](https://www.google.com/search?q=sol+lewitt+philip+glass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbxq39-uzuAhX3CTQIHa3CAd4Q_AUoAXoECBAQAw&biw=1440&bih=900) · [koyaanisqatsi by philip glass](https://rateyourmusic.com/release/album/philip-glass/koyaanisqatsi/)
 
 **[[Spontaneity and Elegance]]** — [holy minimalism - wikipedia](https://en.wikipedia.org/wiki/Holy_minimalism) · [Tutorial: LFO Tutorial 1: The Zen of the Silent Patch / Cycling '74](https://cycling74.com/tutorials/lfo-tutorial-1-the-zen-of-the-silent-patch)
 
@@ -542,3 +544,16 @@ strauh.al/knowledge_base/music
 **[[Timbre as a Structural Device in Compositions]]** — [hku: timbre as a structural device in compositions](http://hub.hku.hk/handle/10722/241257)
 
 <!-- kb-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
+- [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
+- [[knowledge/wiki/images/pete swanson PR e1360767839462 d62b7513|pete swanson PR e1360767839462]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — named in this note
+- [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — named in this note
+<!-- vault-crosslinks:end -->

@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/2000s/the_bar_by_kent_williams_2009.jpg]]
 
 ![[media/strauh.al3.1/2000s/the_bat_and_the_dove_by_walton_ford_2009.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2008|Date Bucket - 2008]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2010|Date Bucket - 2010]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

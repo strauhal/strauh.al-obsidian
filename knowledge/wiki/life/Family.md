@@ -39,3 +39,16 @@ work, and now they have somewhere to connect to.
 - [[grandmas house]]
 - [[old photos]]
 - [[diary]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/collections/Collection - old photos|Collection - old photos]] — named in this note
+- [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: coordinates, vault, self
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space, war
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war, latent, space
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: teaching, family, san
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: trainpilled, san, francisco
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "diana and endymion by george dawe 1809"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/diana_and_endymion_by_george_dawe_1809.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/diana_and_endymion_by_george_dawe_1809.jpg"
 source_relpath: "1800s/diana_and_endymion_by_george_dawe_1809.jpg"
 collection: "1800s"
 inferred_year: "1809"
@@ -22,4 +22,14 @@ Artist: [[Artist - george dawe]]
 
 Source: [[media/strauh.al3.1/1800s/diana_and_endymion_by_george_dawe_1809.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/diana_and_endymion_by_george_dawe_1809.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/diana_and_endymion_by_george_dawe_1809.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/grant-pooke-diana-newall-art-history-the-basics-routledge|Art History The Basics-Routledge]] — shared language: diana
+- [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
+<!-- vault-crosslinks:end -->

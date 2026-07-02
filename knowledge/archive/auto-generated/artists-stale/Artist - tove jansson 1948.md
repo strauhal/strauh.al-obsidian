@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tove jansson|Artist - tove jansson]] — named in this note
-- [[knowledge/wiki/images/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: chasm
 - [[knowledge/wiki/images/thodore philippoteaux arab cavalry crossing a stream 1865 d245ee4a|thodore philippoteaux arab cavalry crossing a stream 1865]] — shared language: crossing
+- [[knowledge/wiki/images/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: chasm
 - [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
-- [[knowledge/wiki/images/friends album cover by rick griffin 1968 8c24c70f|friends album cover by rick griffin 1968]] — shared language: friends
 - [[knowledge/wiki/images/photograph of a train crossing a trestle bridge above a red barn and forest with large mountains in the background f200b4cc|photograph of a train crossing a trestle bridge above a red barn and forest with large mountains in the background]] — shared language: crossing
+- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — shared language: friends
 <!-- vault-crosslinks:end -->

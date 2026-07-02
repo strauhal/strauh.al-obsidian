@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/the_harvest_festival_by_william_hahn_1870.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_watering_can_by_charles_joshua_chaplin_1870.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1869|Date Bucket - 1869]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1871|Date Bucket - 1871]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

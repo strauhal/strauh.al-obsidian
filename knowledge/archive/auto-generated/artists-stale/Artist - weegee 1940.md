@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/woman in subway car by martha cooper 1980 15b48f4c|woman in subway car by martha cooper 1980]] — shared language: car, woman
 - [[knowledge/wiki/images/plane crash on bridge by christophe dessaigne 2008 75bee310|plane crash on bridge by christophe dessaigne 2008]] — shared language: crash
 - [[knowledge/wiki/images/advertisement graphic of a white car in a green landscape 2010 20235e54|advertisement graphic of a white car in a green landscape 2010]] — shared language: car
-- [[knowledge/wiki/images/photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons 05606096|photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons]] — shared language: car, woman
+- [[knowledge/wiki/images/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: car
 <!-- vault-crosslinks:end -->

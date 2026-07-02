@@ -25,4 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/el gran capitan recorriendo el campo de la batalla de cerinola by federico de madrazo y kuntz 1835 a841e37b|el gran capitan recorriendo el campo de la batalla de cerinola by federico de madrazo y kuntz 1835]] — shared language: campo
 - [[knowledge/wiki/artists/Artist - federico de madrazo y kuntz|Artist - federico de madrazo y kuntz]] — shared language: campo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - federico de madrazo y kuntz 1835|Artist - federico de madrazo y kuntz 1835]] — shared language: campo
+- [[knowledge/wiki/images/framed portrait of a woman seated at a piano 769d2a2a|framed portrait of a woman seated at a piano]] — shared language: piano
 <!-- vault-crosslinks:end -->

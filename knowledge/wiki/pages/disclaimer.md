@@ -1,10 +1,10 @@
 ---
 title: "disclaimer"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/disclaimer.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/disclaimer.html"
 source_relpath: "disclaimer.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # disclaimer
@@ -30,3 +30,16 @@ strauh.al/disclaimer
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: website, know, see
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: know, something, want
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: may, slop, process
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: want, might, process
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: know, want, something
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: i'm, slop, online
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, site
+<!-- vault-crosslinks:end -->

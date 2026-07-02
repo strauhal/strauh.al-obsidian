@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin makovsky 1879|Artist - konstantin makovsky 1879]] — named in this note
 - [[knowledge/wiki/images/vodyanitsa water nymph by konstantin makovsky 1879 6e5f966e|vodyanitsa water nymph by konstantin makovsky 1879]] — shared language: makovsky, konstantin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1907|Artist - konstantin somov 1907]] — shared language: konstantin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1935|Artist - konstantin somov 1935]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

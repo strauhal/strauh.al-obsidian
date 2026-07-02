@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1500s"
 source_kind: "date_bucket"
-count: "16"
+count: "15"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1500s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 16
+Files: 15
 
 ## Sample
 
@@ -43,4 +43,10 @@ Files: 16
 
 ![[media/strauh.al3.1/1800s/hans_dahl_young_woman_gathering_flowers_by_a_fjord_late_19th_century_the_lamentation_by_master_of_the_saint_bartholomew_altarpiece_c_1500.jpg]]
 
-![[media/strauh.al3.1/unnamed/45419-koyaanisqatsi-0-1000-0-1500-crop.jpg]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1490s|Date Bucket - 1490s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1510s|Date Bucket - 1510s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

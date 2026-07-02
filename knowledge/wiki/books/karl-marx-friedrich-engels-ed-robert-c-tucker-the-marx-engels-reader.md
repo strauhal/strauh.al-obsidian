@@ -44,8 +44,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
-- [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] — same category: philosophy
+- [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
 <!-- vault-crosslinks:end -->

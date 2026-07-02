@@ -1,7 +1,7 @@
 ---
 title: "GeIseNZWgAACEXW"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GeIseNZWgAACEXW.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GeIseNZWgAACEXW.jpeg"
 source_relpath: "2024_downloadsfolder/GeIseNZWgAACEXW.jpeg"
 collection: "2024_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2024_downloadsfolder/GeIseNZWgAACEXW.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2024_downloadsfolder/GeIseNZWgAACEXW.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GeIseNZWgAACEXW.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/GeHSPB7XoAABW K ff9920bc|GeHSPB7XoAABW K]] — nearby note in the same source series
+- [[knowledge/wiki/images/Gessen PB PromoSocial2 be572051|Gessen PB PromoSocial2]] — nearby note in the same source series
+- [[knowledge/wiki/images/GbsD95ZbgAEIv7g b85dc91a|GbsD95ZbgAEIv7g]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

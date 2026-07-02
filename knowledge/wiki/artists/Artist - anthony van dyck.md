@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[queen henrietta maria with prince charles by anthony van dyck c 1632 61954014|queen henrietta maria with prince charles by anthony van dyck c 1632]]
 - [[the three eldest children of charles i by anthony van dyck 1635 5cb09635|the three eldest children of charles i by anthony van dyck 1635]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: van, charles
+- [[knowledge/wiki/images/francisco de goya the temptation of st anthony c 1798 5f3c7b47|francisco de goya the temptation of st anthony c 1798]] — shared language: anthony
+- [[knowledge/wiki/images/saint anthony reading by albrecht durer 1519 6ee10ec8|saint anthony reading by albrecht durer 1519]] — shared language: anthony
+- [[knowledge/wiki/images/salvador dal the temptation of saint anthony 1946 e41fe75c|salvador dal the temptation of saint anthony 1946]] — shared language: anthony
+- [[knowledge/wiki/images/the temptation of saint anthony by jan mandijn c 15301540 4b91112e|the temptation of saint anthony by jan mandijn c 15301540]] — shared language: anthony
+<!-- vault-crosslinks:end -->

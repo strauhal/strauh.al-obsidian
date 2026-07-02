@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[flag by jeremy deller 2013 de7c7554|flag by jeremy deller 2013]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jeremy geddes|Artist - jeremy geddes]] — shared language: jeremy
+- [[knowledge/wiki/artists/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: jeremy
+- [[knowledge/wiki/artists/Artist - jeremy mann|Artist - jeremy mann]] — shared language: jeremy
+- [[knowledge/wiki/images/the letter by jeremy lipking 2019 20c05f0a|the letter by jeremy lipking 2019]] — shared language: jeremy
+- [[knowledge/wiki/images/the couple by jeremy lipking 2018 eba5eb85|the couple by jeremy lipking 2018]] — shared language: jeremy
+- [[knowledge/wiki/images/the last of us by jeremy geddes 2013 5104a868|the last of us by jeremy geddes 2013]] — shared language: jeremy
+<!-- vault-crosslinks:end -->

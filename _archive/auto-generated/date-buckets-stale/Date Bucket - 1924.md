@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1900s/the_messenger_by_nicholas_roerich_1924.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_with_a_bird_by_chaim_soutine_c_1924.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1923|Date Bucket - 1923]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1925|Date Bucket - 1925]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

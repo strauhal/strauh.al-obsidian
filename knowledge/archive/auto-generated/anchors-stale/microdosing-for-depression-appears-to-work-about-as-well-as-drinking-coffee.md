@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: microdosing, depression, appears
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: well, work
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, otherwise
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - yannis tsarouchis|Artist - yannis tsarouchis]] — named in this note
+- [[knowledge/wiki/images/framed seaside painting with sailboats and figures on a beach 4efe9dbd|framed seaside painting with sailboats and figures on a beach]] — shared language: beach, figures
 - [[knowledge/wiki/images/the beach by david hockney 1978 7bd352a3|the beach by david hockney 1978]] — shared language: beach
-- [[knowledge/wiki/images/a woman on the beach by winslow homer 1880 283a51a8|a woman on the beach by winslow homer 1880]] — shared language: beach
+- [[knowledge/wiki/images/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: beach
 - [[knowledge/wiki/images/digital painting of whales floating vertically above a beach 64308875|digital painting of whales floating vertically above a beach]] — shared language: beach
-- [[knowledge/wiki/images/the palm beach scene by hiroshi nagai 1983 66a02909|the palm beach scene by hiroshi nagai 1983]] — shared language: beach
-- [[knowledge/wiki/images/oil painting of two large trees on a bluff overlooking a beach and ocean 8f8ccbf0|oil painting of two large trees on a bluff overlooking a beach and ocean]] — shared language: beach
+- [[knowledge/wiki/images/framed beach scene with reclining figure and water 3de79b10|framed beach scene with reclining figure and water]] — shared language: beach
 <!-- vault-crosslinks:end -->

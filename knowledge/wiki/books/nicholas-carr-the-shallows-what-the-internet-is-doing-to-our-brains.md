@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — same category: media technology
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
+- [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
 - [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
-- [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — same category: media technology
 - [[knowledge/wiki/books/william-gibson-neuromancer-ace-hardcover|Neuromancer -Ace Hardcover]] — same category: media technology
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
 <!-- vault-crosslinks:end -->

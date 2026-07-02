@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[le baiser by georges de feure 1897 ff074feb|le baiser by georges de feure 1897]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges seurat|Artist - georges seurat]] — shared language: georges
+- [[knowledge/wiki/images/l atelier by jean georges vibert 1880 cd2f1127|l atelier by jean georges vibert 1880]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges vanden eycken|Artist - georges vanden eycken]] — shared language: georges
+<!-- vault-crosslinks:end -->

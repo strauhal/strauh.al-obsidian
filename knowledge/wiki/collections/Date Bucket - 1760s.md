@@ -38,3 +38,11 @@ Files: 13
 ![[media/strauh.al3.1/1700s/the_misses_paine_by_sir_joshua_reynolds_c_1765.jpeg]]
 
 ![[media/strauh.al3.1/1700s/venus_and_adonis_by_benjamin_west_1768.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1750s|Date Bucket - 1750s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1770s|Date Bucket - 1770s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

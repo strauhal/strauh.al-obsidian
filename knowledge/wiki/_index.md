@@ -2,7 +2,7 @@
 title: "strauh.al Index"
 source_kind: "index"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:36"
+compiled_at: "2026-07-01T18:02:04"
 tags: ["strauhal", "index"]
 ---
 # strauh.al Index
@@ -17,9 +17,9 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 
 ## Counts
 
-- HTML pages compiled: 73
+- HTML pages compiled: 74
 - Image files indexed: 7598
-- Image collections: 33
+- Image collections: 32
 
 ## HTML Pages
 
@@ -42,6 +42,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[artists kawase husui]]
 - [[artists moebius]]
 - [[baby videos]]
+- [[brain]]
 - [[comics]]
 - [[computers]]
 - [[copypastas]]
@@ -106,15 +107,15 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[Collection - 1300s]] (6 files)
 - [[Collection - 1400s]] (30 files)
 - [[Collection - 1500s]] (93 files)
-- [[Collection - 1600s]] (94 files)
+- [[Collection - 1600s]] (95 files)
 - [[Collection - 1700s]] (114 files)
-- [[Collection - 1800s]] (617 files)
-- [[Collection - 1900s]] (1110 files)
-- [[Collection - 2000s]] (1977 files)
+- [[Collection - 1800s]] (623 files)
+- [[Collection - 1900s]] (1111 files)
+- [[Collection - 2000s]] (2030 files)
 - [[Collection - 2023 downloadsfolder]] (551 files)
 - [[Collection - 2024 downloadsfolder]] (427 files)
 - [[Collection - 900s]] (2 files)
-- [[Collection - album covers]] (41 files)
+- [[Collection - album covers]] (42 files)
 - [[Collection - artists]] (92 files)
 - [[Collection - comics]] (132 files)
 - [[Collection - computers]] (111 files)
@@ -129,8 +130,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[Collection - portraits]] (6 files)
 - [[Collection - root]] (1 files)
 - [[Collection - ukiyo e]] (96 files)
-- [[Collection - unnamed]] (311 files)
-- [[Collection - unsorted]] (752 files)
+- [[Collection - unsorted]] (1001 files)
 - [[Collection - wallpapers]] (152 files)
 
 ## Maintenance
@@ -138,3 +138,16 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - Recompile: `python3 tools/wiki_compile.py`
 - Health check: `python3 tools/wiki_lint.py`
 - Search: `python3 tools/wiki_search.py "query"`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/daido-moriyama|daido moriyama]] — named in this note
+- [[knowledge/wiki/anchors/philosophy-critical-thinking|philosophy critical thinking]] — named in this note
+- [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
+- [[knowledge/wiki/anchors/web-art|web art]] — named in this note
+- [[knowledge/wiki/images/kawase husui 34720f29|kawase husui]] — named in this note
+- [[knowledge/wiki/anchors/2024-misc-bookmarks|2024 misc bookmarks]] — named in this note
+- [[knowledge/wiki/anchors/cool-words|cool words]] — named in this note
+- [[knowledge/wiki/anchors/gio-swaby|gio swaby]] — named in this note
+<!-- vault-crosslinks:end -->

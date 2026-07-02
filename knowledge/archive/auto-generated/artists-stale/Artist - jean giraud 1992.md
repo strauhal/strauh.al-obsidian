@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1979|Artist - jean giraud 1979]] — shared language: giraud, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1981|Artist - jean giraud 1981]] — shared language: giraud, jean
-- [[knowledge/wiki/artists/Artist - jean giraud|Artist - jean giraud]] — shared language: giraud, jean, entree
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1987|Artist - jean giraud 1987]] — shared language: giraud, jean
+- [[knowledge/wiki/artists/Artist - jean giraud|Artist - jean giraud]] — shared language: giraud, jean, entree
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1980|Artist - jean giraud 1980]] — shared language: giraud, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1976|Artist - jean giraud 1976]] — shared language: giraud, jean
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles willson peale 1822|Artist - charles willson peale 1822]] — named in this note
 - [[knowledge/wiki/images/the artist in his museum by charles willson peale 1822 b39abe34|the artist in his museum by charles willson peale 1822]] — shared language: willson, peale, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/images/La Fuite de Charles le T m raire 71b70683|La Fuite de Charles le T m raire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
 <!-- vault-crosslinks:end -->

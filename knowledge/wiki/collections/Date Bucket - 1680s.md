@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1600s/the_judgment_of_solomon_by_luca_giordano_c_1680_1685.jpg]]
 
 ![[media/strauh.al3.1/computers/tumblr_0fb5cbfd91e938471f5d6032e1686d9b_e984d241_1280.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1670s|Date Bucket - 1670s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1690s|Date Bucket - 1690s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

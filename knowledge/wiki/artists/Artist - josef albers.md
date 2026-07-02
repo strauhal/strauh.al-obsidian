@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[shrine by josef albers 1942 df00decf|shrine by josef albers 1942]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/kumagaya o ikazuchi shrine by kawase hasui 1921 397c67a0|kumagaya o ikazuchi shrine by kawase hasui 1921]] — shared language: shrine
+- [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - josep tapiro i baro|Artist - josep tapiro i baro]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

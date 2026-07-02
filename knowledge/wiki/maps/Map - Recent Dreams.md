@@ -72,3 +72,16 @@ These seven are the *before*. The line they were recorded against is [[The Cerem
 ## Method
 
 These links are descriptive rather than diagnostic. Dream images can remain funny, embarrassing, frightening, contradictory, or unresolved.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, ceremony
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - tim kirk|Artist - tim kirk]] — named in this note
 - [[knowledge/wiki/books/charlie-kirk-nyt|charlie kirk nyt]] — shared language: kirk
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: tim
 - [[knowledge/wiki/artists/Artist - kirk rosenkranz|Artist - kirk rosenkranz]] — shared language: kirk
 - [[knowledge/wiki/books/tim-hecker-tim-hecker-thesis|Tim Hecker — Thesis]] — shared language: tim
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: tim
 - [[_archive/auto-generated/books-stale/tim-hecker-thesis|tim hecker thesis]] — shared language: tim
 <!-- vault-crosslinks:end -->

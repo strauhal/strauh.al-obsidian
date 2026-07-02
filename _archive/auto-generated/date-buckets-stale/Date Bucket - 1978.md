@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1900s/the_union_bank_by_earl_norem_1978.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_wolfen_book_cover_by_michael_whelan_1978.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1977|Date Bucket - 1977]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1979|Date Bucket - 1979]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

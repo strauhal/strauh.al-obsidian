@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[saint thomas and saint simon by jost amman 1573 77997a3c|saint thomas and saint simon by jost amman 1573]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: saint
+- [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — shared language: thomas
+- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/images/saint catherine of alexandria by parmigianino c 15231524 23736635|saint catherine of alexandria by parmigianino c 15231524]] — shared language: saint
+- [[knowledge/wiki/artists/Artist - parmigianino|Artist - parmigianino]] — shared language: saint
+<!-- vault-crosslinks:end -->

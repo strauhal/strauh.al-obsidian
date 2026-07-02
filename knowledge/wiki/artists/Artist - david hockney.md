@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[the industrial river by david hockney 1969 2ec18f17|the industrial river by david hockney 1969]]
 - [[beethoven 250 by david hockney 2020 361e9205|beethoven 250 by david hockney 2020]]
 - [[field fire by david hockney 2011 a5296dfd|field fire by david hockney 2011]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: hockney, david
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david bardia|Artist - david bardia]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david burliuk|Artist - david burliuk]] — shared language: david
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1900s"
 source_kind: "date_bucket"
-count: "117"
+count: "119"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1900s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 117
+Files: 119
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 117
 ![[media/strauh.al3.1/1900s/fritz_kreisler_by_john_singer_sargent_c_1903.jpg]]
 
 ![[media/strauh.al3.1/1900s/gaston_bussire_the_whispering_winds_c_1900.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1890s|Date Bucket - 1890s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1910s|Date Bucket - 1910s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

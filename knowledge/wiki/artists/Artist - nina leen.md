@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[teenagers sharing a milkshake by nina leen 1944 7d669257|teenagers sharing a milkshake by nina leen 1944]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: sharing
+- [[knowledge/wiki/artists/Artist - nikolay krymov|Artist - nikolay krymov]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - noriyoshi ohrai|Artist - noriyoshi ohrai]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

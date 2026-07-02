@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the immortal and the scholar by chang shuhong 1940 efeb83a1|the immortal and the scholar by chang shuhong 1940]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — shared language: scholar
+- [[knowledge/wiki/artists/Artist - chance the rapper|Artist - chance the rapper]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - chao ding|Artist - chao ding]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

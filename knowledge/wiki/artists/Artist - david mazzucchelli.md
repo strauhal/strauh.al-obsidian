@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[batman year one chapter one opening spread original art by david mazzucchelli 1987 b5527e08|batman year one chapter one opening spread original art by david mazzucchelli 1987]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/culture/reading-batman-year-one|Reading - Batman: Year One]] — shared language: batman, one, david
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: one, art
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: one, art
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one, art
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: one, art
+<!-- vault-crosslinks:end -->

@@ -49,3 +49,14 @@ Images attributed by filename: 12
 - [[when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986 ab03e280|when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986]]
 - [[when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986 3d7fb5ce|when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986]]
 - [[watercolor of calvin and hobbes with a globe and raft by bill watterson e1a6378f|watercolor of calvin and hobbes with a globe and raft by bill watterson]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/images/comic strip parody of calvin and hobbes featuring adult characters and a rabbit 14fbdec1|comic strip parody of calvin and hobbes featuring adult characters and a rabbit]] — shared language: calvin, hobbes, strip
+- [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
+- [[knowledge/wiki/artists/Artist - bill owens|Artist - bill owens]] — shared language: bill
+- [[knowledge/wiki/artists/Artist - bill willingham|Artist - bill willingham]] — shared language: bill
+<!-- vault-crosslinks:end -->

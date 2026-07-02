@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the hall of arcana by annibale siconolfi 2020 ce57e8a0|the hall of arcana by annibale siconolfi 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - annibale carracci|Artist - annibale carracci]] — shared language: annibale
+- [[knowledge/wiki/images/study of two figures by annibale carracci c 1590 2f6474cb|study of two figures by annibale carracci c 1590]] — shared language: annibale
+- [[knowledge/wiki/images/studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595 1741e0e1|studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595]] — shared language: annibale
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
+- [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
+- [[knowledge/wiki/artists/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
+<!-- vault-crosslinks:end -->

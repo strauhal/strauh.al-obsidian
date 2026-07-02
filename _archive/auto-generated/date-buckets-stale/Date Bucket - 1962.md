@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/untitled_by_leon_ferrari_1962.jpeg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/sin-titulo-1962.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1961|Date Bucket - 1961]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1963|Date Bucket - 1963]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

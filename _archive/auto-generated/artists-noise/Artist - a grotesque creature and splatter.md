@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-grotesque-creature-and-splatter|Artist - a grotesque creature and splatter]] — shared language: splatter, creature, grotesque
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-grotesque-creature-and-splatter|Artist - a grotesque creature and splatter]] — shared language: splatter, grotesque, creature
 - [[knowledge/wiki/images/digital collage of a grotesque decomposed head on an abstract splatter background e4313c1e|digital collage of a grotesque decomposed head on an abstract splatter background]] — shared language: splatter, grotesque
 - [[knowledge/wiki/images/pen and ink illustration of a man running from a large grotesque creature d61b01e9|pen and ink illustration of a man running from a large grotesque creature]] — shared language: grotesque, creature, ink
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: grotesque, surrounded
 - [[knowledge/wiki/images/engraving of grotesque ornament panel with foliage birds and a winged creature 6d255b09|engraving of grotesque ornament panel with foliage birds and a winged creature]] — shared language: grotesque, creature
-- [[knowledge/wiki/images/detailed line drawing of a large spotted crustacean creature 0e4fc17c|detailed line drawing of a large spotted crustacean creature]] — shared language: creature, drawing
 <!-- vault-crosslinks:end -->

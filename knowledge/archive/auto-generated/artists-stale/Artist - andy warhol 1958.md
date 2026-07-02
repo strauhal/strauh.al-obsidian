@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: andy, warhol
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1973|Artist - andy warhol 1973]] — shared language: andy, warhol
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1983|Artist - andy warhol 1983]] — shared language: andy, warhol
 - [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: andy, warhol
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1983|Artist - andy warhol 1983]] — shared language: andy, warhol
 - [[knowledge/wiki/images/woman s head with purple hair by andy warhol c 1957 512a622b|woman s head with purple hair by andy warhol c 1957]] — shared language: andy, warhol, head
 <!-- vault-crosslinks:end -->

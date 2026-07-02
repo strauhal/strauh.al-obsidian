@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[two women seated under bamboo and rock ink and color on paper by gai qi 23f73e3e|two women seated under bamboo and rock ink and color on paper by gai qi]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, paper
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
+- [[knowledge/wiki/images/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: women, seated, two
+- [[knowledge/wiki/images/two women seated reading by edgar degas c 1878 30164653|two women seated reading by edgar degas c 1878]] — shared language: women, seated, two
+- [[knowledge/wiki/images/abstract black ink brushstrokes on paper 3dd6bc32|abstract black ink brushstrokes on paper]] — shared language: paper, ink
+<!-- vault-crosslinks:end -->

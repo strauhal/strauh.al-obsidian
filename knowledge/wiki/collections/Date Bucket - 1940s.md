@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1940s"
 source_kind: "date_bucket"
-count: "68"
+count: "69"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1940s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 68
+Files: 69
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 68
 ![[media/strauh.al3.1/1900s/interieur_a_nice_by_henri_matisse_1946.jpeg]]
 
 ![[media/strauh.al3.1/1900s/john_brown_going_to_his_hanging_by_horace_pippin_1942.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1930s|Date Bucket - 1930s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1950s|Date Bucket - 1950s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

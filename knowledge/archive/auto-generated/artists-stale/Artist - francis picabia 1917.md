@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - francis picabia|Artist - francis picabia]] — named in this note
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: francis
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: francis
 - [[knowledge/wiki/artists/Artist - mark francis|Artist - mark francis]] — shared language: francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis 2008|Artist - mark francis 2008]] — shared language: francis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1952|Artist - francis bacon 1952]] — shared language: francis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1975|Artist - francis bacon 1975]] — shared language: francis
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/horace vernet prise de la tour de malakoff 1858 e4251de6|horace vernet prise de la tour de malakoff 1858]] — shared language: horace, vernet
+- [[knowledge/wiki/artists/Artist - horace pippin|Artist - horace pippin]] — shared language: horace
+- [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: vernet
+- [[knowledge/wiki/artists/Artist - alix vernet|Artist - alix vernet]] — shared language: vernet
+- [[knowledge/wiki/images/a shipwreck by claude joseph vernet 1765 a106c31f|a shipwreck by claude joseph vernet 1765]] — shared language: vernet
+- [[knowledge/wiki/images/the producer by alix vernet 2019 39cd4ca0|the producer by alix vernet 2019]] — shared language: vernet
+<!-- vault-crosslinks:end -->

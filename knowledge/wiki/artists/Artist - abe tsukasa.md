@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[panel from frieren beyond journey s end soso no furiren by abe tsukasa 2020 d9def936|panel from frieren beyond journey s end soso no furiren by abe tsukasa 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: beyond
+- [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: journey
+- [[knowledge/wiki/images/panel 1 ed4f0fcd|panel 1]] — shared language: panel
+- [[knowledge/wiki/images/panel 2 7b2b8655|panel 2]] — shared language: panel
+- [[knowledge/wiki/images/end of eva jpg 2eeaba1b|end of eva jpg]] — shared language: end
+- [[knowledge/wiki/images/end of eva png f0e67867|end of eva png]] — shared language: end
+<!-- vault-crosslinks:end -->

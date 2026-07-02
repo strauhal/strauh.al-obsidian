@@ -1,7 +1,7 @@
 ---
 title: "you hear anything about a truth nuke by cameron stewart 2025"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg"
 source_relpath: "2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg"
 collection: "2000s"
 inferred_year: "2025"
@@ -22,4 +22,12 @@ Artist: [[Artist - cameron stewart]]
 
 Source: [[media/strauh.al3.1/2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/you_hear_anything_about_a_truth_nuke_by_cameron_stewart_2025.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/1976 291 time unveiling truth jpg a0bdd131|1976 291 time unveiling truth jpg]] — shared language: truth
+- [[knowledge/wiki/pages/copypastas|copypastas]] — shared language: hear, anything
+- [[knowledge/wiki/images/yoshida toshi regenschirme jpg 8098c489|yoshida toshi regenschirme jpg]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

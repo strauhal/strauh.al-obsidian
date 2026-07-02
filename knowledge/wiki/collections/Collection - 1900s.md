@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1900s"
 source_kind: "image_collection"
-count: "1110"
+count: "1111"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 1110
+Files: 1111
 
 ## Sample
 
@@ -264,4 +264,17 @@ Files: 1110
 - [[doppelbildnis double portrait by adolf wolfli 1920 e35f68f2|doppelbildnis double portrait by adolf wolfli 1920]]
 - [[dotonbori osaka by kawase hasui 1927 a4d6c66f|dotonbori osaka by kawase hasui 1927]]
 
-_Only the first 200 image notes are listed here; search covers all 1110._
+_Only the first 200 image notes are listed here; search covers all 1111._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
+- [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — named in this note
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+- [[knowledge/wiki/images/Frieder Nake db5cc4cb|Frieder Nake]] — named in this note
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[regression group 4 by charles gaines 197374 cb0e3308|regression group 4 by charles gaines 197374]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
+- [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
+- [[knowledge/wiki/images/charles baudelaire 376ec073|charles baudelaire]] — shared language: charles
+<!-- vault-crosslinks:end -->

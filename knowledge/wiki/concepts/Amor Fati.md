@@ -39,23 +39,22 @@ reignited" and he reframes the despair as what gave the year its meaning.
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (1).** [[vanitas by david kassan 2019 cdd41f1d|vanitas by david kassan 2019]]
+**Images (2).** [[vanitas by david kassan 2019 cdd41f1d|vanitas by david kassan 2019]] · [[vanitas still life with skull violin and books 5602dc95|vanitas still life with skull violin and books]]
 
 **Books (6).** [[friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] · [[friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] · [[cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] · [[friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] · [[friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] · [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, diary's, keeping
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: diary, reads
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, things, gave
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: amor, fati, diary
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: amor, fati, want
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: despair, affirmation
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

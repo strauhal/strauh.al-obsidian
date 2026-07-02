@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[rusaka by jacek malczewski 1888 b4dda3f5|rusaka by jacek malczewski 1888]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - j m w turner|Artist - j m w turner]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - jack youngerman|Artist - jack youngerman]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - j h williams iii|Artist - j h williams iii]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

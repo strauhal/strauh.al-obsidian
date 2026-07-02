@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/artists/Artist - sonia delaunay|Artist - sonia delaunay]] — shared language: delaunay
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sonia delaunay 1938|Artist - sonia delaunay 1938]] — shared language: delaunay
-- [[knowledge/wiki/images/robert walser jpg 0823f2eb|robert walser jpg]] — shared language: robert
 - [[knowledge/wiki/images/rythme couleur by sonia delaunay 1938 f3f8ef7e|rythme couleur by sonia delaunay 1938]] — shared language: delaunay
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 <!-- vault-crosslinks:end -->

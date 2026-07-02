@@ -1,7 +1,7 @@
 ---
 title: "the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg"
 source_relpath: "1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg"
 collection: "1600s"
 inferred_year: "1633"
@@ -22,4 +22,14 @@ Artist: [[Artist - peter paul rubens]]
 
 Source: [[media/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the holy family with saint elizabeth and saint john the baptist by peter paul rubens c 1614 1615 c2d199d3|the holy family with saint elizabeth and saint john the baptist by peter paul rubens c 1614 1615]] — same artist: peter paul rubens
+- [[knowledge/wiki/images/the flagellation of christ by peter paul rubens c 1614 1617 b337d0bb|the flagellation of christ by peter paul rubens c 1614 1617]] — same artist: peter paul rubens
+- [[knowledge/wiki/images/the three graces by peter paul rubens c 1635 5f268f63|the three graces by peter paul rubens c 1635]] — same artist: peter paul rubens
+- [[knowledge/wiki/images/the adoration of the shepherds by peter paul rubens c 1617 16a29789|the adoration of the shepherds by peter paul rubens c 1617]] — same artist: peter paul rubens
+- [[knowledge/wiki/images/the entombment of christ by peter paul rubens c 1612 73d9b265|the entombment of christ by peter paul rubens c 1612]] — same artist: peter paul rubens
+<!-- vault-crosslinks:end -->

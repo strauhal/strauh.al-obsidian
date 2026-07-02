@@ -1,10 +1,10 @@
 ---
 title: "ernest"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ernest.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/ernest.html"
 source_relpath: "ernest.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # ernest
@@ -38,3 +38,16 @@ strauh.al/ernest
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: i've, hear, work
+- [[knowledge/raw/ernest|Ernest (bio)]] — shared language: i'm, oriented, fluent
+- [[knowledge/wiki/pages/donate|donate]] — shared language: stamp.png, referenced, preserved
+- [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
+- [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
+- [[knowledge/wiki/pages/disclaimer|disclaimer]] — shared language: i'm, stamp.png, currently
+- [[knowledge/wiki/pages/nyce|nyce]] — shared language: referenced, preserved, none
+- [[knowledge/wiki/pages/draw for me|draw for me]] — shared language: email, love, none
+<!-- vault-crosslinks:end -->

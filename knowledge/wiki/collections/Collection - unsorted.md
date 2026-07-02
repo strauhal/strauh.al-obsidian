@@ -1,7 +1,7 @@
 ---
 title: "Collection - unsorted"
 source_kind: "image_collection"
-count: "752"
+count: "1001"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,13 +9,11 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 752
+Files: 1001
 
 ## Sample
 
 ![[media/strauh.al3.1/unsorted/"Evolution"_and_life_in_vaporwave_flavours._(48475685782).png]]
-
-![[media/strauh.al3.1/unsorted/0000731871_OG.JPG]]
 
 ![[media/strauh.al3.1/unsorted/00microsoft-openai-03-pwgq-jumbo.jpg.webp]]
 
@@ -23,27 +21,7 @@ Files: 752
 
 ![[media/strauh.al3.1/unsorted/161103001.png]]
 
-![[media/strauh.al3.1/unsorted/169_1995_a_cccr_full_jpeg_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/169_1995_g_cccr_full_jpeg_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/169_1995_h_cccr_full_jpeg_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/169_1995_k_cccr_full_jpeg_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/1949_ph455_001_regester2012_web_jpg.jpg]]
-
 ![[media/strauh.al3.1/unsorted/1983.1 - Studies of Pierre Renoir; His Mother, Aline....jpg]]
-
-![[media/strauh.al3.1/unsorted/198_2_post_war_contemporary_art_september_2023_leon_golub_untitled_rago_auction_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/21_portrait_of_joan_mitchell_in_her_studio_1956_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/25_000_kittens.jpg]]
-
-![[media/strauh.al3.1/unsorted/370_g_jpg.jpg]]
-
-![[media/strauh.al3.1/unsorted/3_2_ancel_jpg.jpg]]
 
 ![[media/strauh.al3.1/unsorted/3d_data_visualization_map_with_density_spikes_over_a_landmass.jpeg]]
 
@@ -51,47 +29,49 @@ Files: 752
 
 ![[media/strauh.al3.1/unsorted/3d_topographical_map_visualization_of_south_america_highlighting_the_andes.jpeg]]
 
-![[media/strauh.al3.1/unsorted/56aj6v_jpg.jpg]]
+![[media/strauh.al3.1/unsorted/Joseph Beuys deer blackboard drawing.jpg]]
 
-![[media/strauh.al3.1/unsorted/58f5d2620e7e5b78f8b8772c56b1040b.jpg]]
+![[media/strauh.al3.1/unsorted/abstract_black_sculptures_on_a_beach_shoreline_under_a_cloudy_sky.jpg]]
 
-![[media/strauh.al3.1/unsorted/64_1726_ph_web_jpg.jpg]]
+![[media/strauh.al3.1/unsorted/abstract_blue_glowing_figure_on_dark_background.jpg]]
 
-![[media/strauh.al3.1/unsorted/86_busted_poster_png.png]]
+![[media/strauh.al3.1/unsorted/abstract_computational_visualization_with_rainbow_color_map_and_black_grid_lines.png]]
 
-![[media/strauh.al3.1/unsorted/Beuys.jpg]]
+![[media/strauh.al3.1/unsorted/abstract_digital_image_of_a_swirling_shape_made_of_white_dots_on_an_olive_green_background.jpg]]
+
+![[media/strauh.al3.1/unsorted/abstract_digital_visualization_featuring_a_red_radial_burst_and_white_swirling_lines.jpg]]
+
+![[media/strauh.al3.1/unsorted/abstract_drawing_of_overlapping_black_and_gray_gestural_lines_on_white_paper.jpg]]
+
+![[media/strauh.al3.1/unsorted/abstract_generative_line_drawing_of_intersecting_black_lines_on_beige_background.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_image_of_a_dissolving_skeleton_figure_in_purple_and_black.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_mixed_media_drawing_with_dense_lines_and_red_marks.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_painting_featuring_diagonal_streaks_of_red_green_and_yellow_on_a_white_field.jpg]]
+
+![[media/strauh.al3.1/unsorted/abstract_painting_of_a_magenta_mushroom_starry_clouds_and_psychedelic_shapes.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_painting_with_magenta_and_black_scribbles_on_tan_background.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_painting_with_pink_purple_and_green_curvilinear_shapes_and_pop_motifs.jpeg]]
+
+![[media/strauh.al3.1/unsorted/abstract_painting_with_yellow_blue_and_red_vertical_forms.jpg]]
+
+![[media/strauh.al3.1/unsorted/abstract_pastel_painting_with_red_and_blue_marks.jpg]]
 
 ## Image Notes
 
 - [[Evolution and life in vaporwave flavours. (48475685782) 1c86b80f|Evolution and life in vaporwave flavours. (48475685782)]]
-- [[0000731871 OG 08e929fb|0000731871 OG]]
 - [[00microsoft openai 03 pwgq jumbo 9970d844|00microsoft openai 03 pwgq jumbo]]
 - [[05roose chatgpt superJumbo 6c19865a|05roose chatgpt superJumbo]]
 - [[161103001 85d090e3|161103001]]
-- [[169 1995 a cccr full jpeg jpg 336255a0|169 1995 a cccr full jpeg jpg]]
-- [[169 1995 g cccr full jpeg jpg 5442188c|169 1995 g cccr full jpeg jpg]]
-- [[169 1995 h cccr full jpeg jpg 0eb1835b|169 1995 h cccr full jpeg jpg]]
-- [[169 1995 k cccr full jpeg jpg d0d91d14|169 1995 k cccr full jpeg jpg]]
-- [[1949 ph455 001 regester2012 web jpg 4203f73c|1949 ph455 001 regester2012 web jpg]]
 - [[1983.1 Studies of Pierre Renoir His Mother, Aline ac3eaba6|1983.1 Studies of Pierre Renoir His Mother, Aline]]
-- [[198 2 post war contemporary art september 2023 leon golub untitled rago auction jpg b2a63c08|198 2 post war contemporary art september 2023 leon golub untitled rago auction jpg]]
-- [[21 portrait of joan mitchell in her studio 1956 jpg 9cecff11|21 portrait of joan mitchell in her studio 1956 jpg]]
-- [[25 000 kittens e3d38f7b|25 000 kittens]]
-- [[370 g jpg be953a60|370 g jpg]]
-- [[3 2 ancel jpg 7909a699|3 2 ancel jpg]]
 - [[3d data visualization map with density spikes over a landmass 7ebb0e18|3d data visualization map with density spikes over a landmass]]
 - [[3d rendering of a low poly city street with pink car 1362af3f|3d rendering of a low poly city street with pink car]]
 - [[3d topographical map visualization of south america highlighting the andes 0ccd2c4d|3d topographical map visualization of south america highlighting the andes]]
-- [[56aj6v jpg e337e2c3|56aj6v jpg]]
-- [[58f5d2620e7e5b78f8b8772c56b1040b 914f74b4|58f5d2620e7e5b78f8b8772c56b1040b]]
-- [[64 1726 ph web jpg 9f2d1eaa|64 1726 ph web jpg]]
-- [[86 busted poster png 23102ee7|86 busted poster png]]
-- [[Beuys cdb67c14|Beuys]]
-- [[G9Wb9vbWkAAbjLL c5040d55|G9Wb9vbWkAAbjLL]]
-- [[IMG 5043 b30cf54e|IMG 5043]]
-- [[IMG 6418 2445ade5|IMG 6418]]
 - [[Joseph Beuys deer blackboard drawing 0899b01f|Joseph Beuys deer blackboard drawing]]
-- [[thisonespecifically bda06edb|thisonespecifically]]
 - [[abstract black sculptures on a beach shoreline under a cloudy sky ece1f8a6|abstract black sculptures on a beach shoreline under a cloudy sky]]
 - [[abstract blue glowing figure on dark background 9c5f8da8|abstract blue glowing figure on dark background]]
 - [[abstract computational visualization with rainbow color map and black grid lines 726021d1|abstract computational visualization with rainbow color map and black grid lines]]
@@ -100,38 +80,52 @@ Files: 752
 - [[abstract drawing of overlapping black and gray gestural lines on white paper 768eed4e|abstract drawing of overlapping black and gray gestural lines on white paper]]
 - [[abstract generative line drawing of intersecting black lines on beige background aa0725f4|abstract generative line drawing of intersecting black lines on beige background]]
 - [[abstract image of a dissolving skeleton figure in purple and black 2deb004c|abstract image of a dissolving skeleton figure in purple and black]]
+- [[abstract mixed media drawing with dense lines and red marks ad98f3bb|abstract mixed media drawing with dense lines and red marks]]
 - [[abstract painting featuring diagonal streaks of red green and yellow on a white field 70a9f840|abstract painting featuring diagonal streaks of red green and yellow on a white field]]
 - [[abstract painting of a magenta mushroom starry clouds and psychedelic shapes e1981ba1|abstract painting of a magenta mushroom starry clouds and psychedelic shapes]]
 - [[abstract painting with magenta and black scribbles on tan background c92f1e0f|abstract painting with magenta and black scribbles on tan background]]
 - [[abstract painting with pink purple and green curvilinear shapes and pop motifs 0f609fd8|abstract painting with pink purple and green curvilinear shapes and pop motifs]]
+- [[abstract painting with yellow blue and red vertical forms 1129f3ef|abstract painting with yellow blue and red vertical forms]]
+- [[abstract pastel painting with red and blue marks 4afc662e|abstract pastel painting with red and blue marks]]
+- [[abstract portrait made of small colored marks 12f57a00|abstract portrait made of small colored marks]]
+- [[aerial city drawing with red and gray marks a1814000|aerial city drawing with red and gray marks]]
+- [[aerial photo of a crowd and police in a street a56ef99d|aerial photo of a crowd and police in a street]]
 - [[aerial photograph of a dense cityscape with a central avenue and snow capped mountains 079ee9d9|aerial photograph of a dense cityscape with a central avenue and snow capped mountains]]
 - [[aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field 0a894eea|aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field]]
 - [[aerial photograph of two police officers on a modern patio with pool and outdoor bar 45dce69b|aerial photograph of two police officers on a modern patio with pool and outdoor bar]]
 - [[aggregate a by kurokawa toru 2016 2 b522e426|aggregate a by kurokawa toru 2016 2]]
-- [[ai reference image jpg 79c5e4ae|ai reference image jpg]]
-- [[alexander morison dadd jpg 89b19b14|alexander morison dadd jpg]]
-- [[allegory of the planets and continents met 1977 1 3 jpg 88f05de9|allegory of the planets and continents met 1977 1 3 jpg]]
+- [[allegory of the planets and continents met 1977 1defebf3|allegory of the planets and continents met 1977]]
+- [[alphonsine fournaise by pierre auguste renoir 1879 9ffd58c3|alphonsine fournaise by pierre auguste renoir 1879]]
+- [[alpine landscape with a seated woman in red 3e746c83|alpine landscape with a seated woman in red]]
 - [[animated depiction of a blue dragon lighting a cigar 4fbc4712|animated depiction of a blue dragon lighting a cigar]]
+- [[anime girl with hello kitty background 5464da76|anime girl with hello kitty background]]
 - [[anime illustration of a blonde girl in a red plugsuit and a red mecha against a blue sky 2a9387eb|anime illustration of a blonde girl in a red plugsuit and a red mecha against a blue sky]]
 - [[anime illustration of a boy and girl observing a giant pale head rising from a red body of water under a starry sky 02147162|anime illustration of a boy and girl observing a giant pale head rising from a red body of water under a starry sky]]
 - [[anime illustration of a maid skateboarding in mid air 1ddc7ce2|anime illustration of a maid skateboarding in mid air]]
 - [[anime illustration of a woman in an orange uniform and beret holding a gun 66a5c941|anime illustration of a woman in an orange uniform and beret holding a gun]]
 - [[anime illustration of three characters in pilot suits against a golden background 24541581|anime illustration of three characters in pilot suits against a golden background]]
-- [[artifact png d163d4a8|artifact png]]
-- [[artist unknown japan taima temple mandala amida welcomes chujohime to the western paradise google art project jpg 16fb7436|artist unknown japan taima temple mandala amida welcomes chujohime to the western paradise google art project jpg]]
+- [[anime style character standing on a mecha head b46c57d9|anime style character standing on a mecha head]]
+- [[anime style screenshot of a man in sunglasses with subtitles dfcd8af1|anime style screenshot of a man in sunglasses with subtitles]]
 - [[assemblage of clothing and objects including an assault rifle a book and a t shirt reading i have a gun and am schizophrenic 7362dda2|assemblage of clothing and objects including an assault rifle a book and a t shirt reading i have a gun and am schizophrenic]]
-- [[at prayer jpg d2f84efc|at prayer jpg]]
-- [[autechre forreal jpg da5f6562|autechre forreal jpg]]
-- [[b59a 002337 13 lowres jpg f2974148|b59a 002337 13 lowres jpg]]
+- [[autechre forreal portrait 6f7bfd32|autechre forreal portrait]]
+- [[baroque ceiling fresco photo 4bdf4454|baroque ceiling fresco photo]]
+- [[baroque ceiling fresco photo 2 90e8c554|baroque ceiling fresco photo 2]]
+- [[baroque painting of cupid figures in the sky 2c0353e6|baroque painting of cupid figures in the sky]]
+- [[baroque painting of saint peter reaching for christ 868a29ea|baroque painting of saint peter reaching for christ]]
 - [[beuys teaching1 534f4597|beuys teaching1]]
-- [[bidens hyperborea at marie victorin herbarium mt universite de montreal biodiversity centre jpg ad07fcc8|bidens hyperborea at marie victorin herbarium mt universite de montreal biodiversity centre jpg]]
+- [[bidens hyperborea herbarium sheet 1f381095|bidens hyperborea herbarium sheet]]
+- [[bison in a yellow flower field bbd57728|bison in a yellow flower field]]
 - [[black abstract scribble on white background 44a7b3d1|black abstract scribble on white background]]
 - [[black and red illustration of a dragon and four fantasy heroes on rocks with japanese text d1e1017c|black and red illustration of a dragon and four fantasy heroes on rocks with japanese text]]
 - [[black and red sketch of a person with hair tied back cb6c0d42|black and red sketch of a person with hair tied back]]
 - [[black and white abstract digital wireframe structure c711bd2f|black and white abstract digital wireframe structure]]
 - [[black and white abstract drawing on musical staff paper d3e142bf|black and white abstract drawing on musical staff paper]]
 - [[black and white abstract pattern of stacked horizontal bands with wavy line texture 2c6d5988|black and white abstract pattern of stacked horizontal bands with wavy line texture]]
+- [[black and white arcade perspective drawing with figure 52661389|black and white arcade perspective drawing with figure]]
+- [[black and white cathedral interior at prayer b3dc402e|black and white cathedral interior at prayer]]
 - [[black and white collage of headlines about millennials killing industries 893fffbf|black and white collage of headlines about millennials killing industries]]
+- [[black and white comic page of surreal city scenes 992b687f|black and white comic page of surreal city scenes]]
+- [[black and white comic panel of a hero standing over a ruined city 77344fba|black and white comic panel of a hero standing over a ruined city]]
 - [[black and white cross hatching illustration of a muscular figure looming over a person in bed 1944cec1|black and white cross hatching illustration of a muscular figure looming over a person in bed]]
 - [[black and white diagram comparing christian trinity to javascript type coercion 9d749fa1|black and white diagram comparing christian trinity to javascript type coercion]]
 - [[black and white diagram illustrating complex looping orbits around a central point labeled the earth da7a663b|black and white diagram illustrating complex looping orbits around a central point labeled the earth]]
@@ -139,8 +133,11 @@ Files: 752
 - [[black and white diagram of concentric circles with tibetan script and central vajra symbol 973781e7|black and white diagram of concentric circles with tibetan script and central vajra symbol]]
 - [[black and white digital drawing of a swordsman with a katana and wave background c740612b|black and white digital drawing of a swordsman with a katana and wave background]]
 - [[black and white digital illustration of a stylized figure in a hood and chains 3af22c3e|black and white digital illustration of a stylized figure in a hood and chains]]
+- [[black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]]
 - [[black and white drawing of two abstract forms composed of layered lines c9eed070|black and white drawing of two abstract forms composed of layered lines]]
+- [[black and white engraving of knights riding through a forest 1eb644c8|black and white engraving of knights riding through a forest]]
 - [[black and white engraving parodying the flammarion engraving with meme faces 49cf9c45|black and white engraving parodying the flammarion engraving with meme faces]]
+- [[black and white figure inside a spiral tunnel 722632b2|black and white figure inside a spiral tunnel]]
 - [[black and white four panel comic strip discussing ai art and the legacy of kim jung gi 872ea9d6|black and white four panel comic strip discussing ai art and the legacy of kim jung gi]]
 - [[black and white generative drawing of three vertical swirling forms c639147f|black and white generative drawing of three vertical swirling forms]]
 - [[black and white geometric sphere tapering to a point c131d8b6|black and white geometric sphere tapering to a point]]
@@ -177,7 +174,13 @@ Files: 752
 - [[black and white manga panel depicting a muscular man biscuit oliva at a computer by keisuke itagaki 9c8f99b5|black and white manga panel depicting a muscular man biscuit oliva at a computer by keisuke itagaki]]
 - [[black and white manga panel of large robots fighting with sound effects 6b6691b1|black and white manga panel of large robots fighting with sound effects]]
 - [[black and white map of europe with dendritic network overlay 31aadf8f|black and white map of europe with dendritic network overlay]]
+- [[black and white motion blur photo of a dancer 033719db|black and white motion blur photo of a dancer]]
 - [[black and white pen sketch collage in a spiral notebook featuring architectural studies of classical and religious buildings 07a6fb32|black and white pen sketch collage in a spiral notebook featuring architectural studies of classical and religious buildings]]
+- [[black and white photo of a lone figure in a field at night 3dd05dfe|black and white photo of a lone figure in a field at night]]
+- [[black and white photo of a man smiling at a desk 23c43a2f|black and white photo of a man smiling at a desk]]
+- [[black and white photo of a person in a wet landscape 67ecadbb|black and white photo of a person in a wet landscape]]
+- [[black and white photo of a person in front of steam or smoke 8d3ad32e|black and white photo of a person in front of steam or smoke]]
+- [[black and white photo of a white cat on a tree branch 5d7f0e9c|black and white photo of a white cat on a tree branch]]
 - [[black and white photograph of a blindfolded man balancing on a steel beam above a city cc3af5db|black and white photograph of a blindfolded man balancing on a steel beam above a city]]
 - [[black and white photograph of a brutalist concrete staircase monument aefb03f3|black and white photograph of a brutalist concrete staircase monument]]
 - [[black and white photograph of a car creating light trails on a dark surface 12757413|black and white photograph of a car creating light trails on a dark surface]]
@@ -213,55 +216,65 @@ Files: 752
 - [[black and white photograph of two soldiers in helmets lying in a field one raising a stick grenade 010f7e6f|black and white photograph of two soldiers in helmets lying in a field one raising a stick grenade]]
 - [[black and white photographic portrait of a woman with long dark hair b3cb3ff5|black and white photographic portrait of a woman with long dark hair]]
 - [[black and white photomontage of overlapping human profiles 3ea5543f|black and white photomontage of overlapping human profiles]]
+- [[black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]]
+- [[black and white portrait of james joyce in round glasses 9b7cc14f|black and white portrait of james joyce in round glasses]]
 - [[black and white sketch of perspective cubes and abstract arrows 73a6be20|black and white sketch of perspective cubes and abstract arrows]]
+- [[black and white stage photo of a dancer with fabric c79f9f1d|black and white stage photo of a dancer with fabric]]
 - [[black and white stipple drawing of three cats looking up d666b727|black and white stipple drawing of three cats looking up]]
+- [[black and white storyboard comic page 5275042d|black and white storyboard comic page]]
 - [[black and white tattoo of an anime girl with text damn i hate being sober 4a2390d1|black and white tattoo of an anime girl with text damn i hate being sober]]
+- [[black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]]
 - [[black and white woodcut of a faun playing a pipe amidst grape vines 6d2f2e9f|black and white woodcut of a faun playing a pipe amidst grape vines]]
+- [[black and white woodcut or ink landscape 6adbf372|black and white woodcut or ink landscape]]
+- [[black concept car on a blue stage 8e13574b|black concept car on a blue stage]]
 - [[black ink drawing of two figures one cloaked above and one man with a net below 74ce2f2b|black ink drawing of two figures one cloaked above and one man with a net below]]
 - [[black ink drawing of two vertical abstract forms composed of fine lines 8ff72f74|black ink drawing of two vertical abstract forms composed of fine lines]]
 - [[black ink sketch of a bearded man with glasses ba4b8615|black ink sketch of a bearded man with glasses]]
 - [[black ink sketch of people at a city intersection with a lamppost and crosswalk 4fb88d73|black ink sketch of people at a city intersection with a lamppost and crosswalk]]
 - [[black scribble drawing diptych showing two figures and a male portrait a74edc9a|black scribble drawing diptych showing two figures and a male portrait]]
-- [[booth 2817 cropped master jpg ee8b3a54|booth 2817 cropped master jpg]]
-- [[booth dream jpg 7f592fab|booth dream jpg]]
-- [[booth heavenly hills jpg 8d952fce|booth heavenly hills jpg]]
-- [[booth valley silence jpg 39d7b26c|booth valley silence jpg]]
+- [[blue dithered noise image 015ba2c5|blue dithered noise image]]
+- [[blue flower painting with orange background 11a9245d|blue flower painting with orange background]]
+- [[blue gothic hallway scene with robed figures 4c2b2d25|blue gothic hallway scene with robed figures]]
+- [[blue tree woodblock print ce799c3e|blue tree woodblock print]]
+- [[blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]]
+- [[blurred color light reflections in a dark space dc6fe79e|blurred color light reflections in a dark space]]
 - [[bracelet with enamel charms featuring tech logos worn on a person s wrist 60f8ff8b|bracelet with enamel charms featuring tech logos worn on a person s wrist]]
-- [[brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg 54098afa|brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg]]
-- [[buddha amithaba jpg 633ff108|buddha amithaba jpg]]
-- [[bungaku bandai no takara terakoya school by issunshi hanasato png c2cdc3b2|bungaku bandai no takara terakoya school by issunshi hanasato png]]
+- [[brutalist silence coworking office interior 1bcec240|brutalist silence coworking office interior]]
+- [[buddha amitabha painting 56640266|buddha amitabha painting]]
+- [[bungaku bandai no takara terakoya school by issunshi hanasato 1e7b8c0a|bungaku bandai no takara terakoya school by issunshi hanasato]]
+- [[busted psychedelic poster d6906db3|busted psychedelic poster]]
 - [[c0aaf84 cda4109fx07913front 0057f3d3|c0aaf84 cda4109fx07913front]]
-- [[c asaloon png jpeg 275ec988|c asaloon png jpeg]]
 - [[calligraphy of sanskrit verses in red and brown ink f396a2f8|calligraphy of sanskrit verses in red and brown ink]]
-- [[calvary jpg 8df5ed29|calvary jpg]]
+- [[calvary painting with artist in studio 708f19c0|calvary painting with artist in studio]]
+- [[cartoon about doing what people want not what they say 551f1d78|cartoon about doing what people want not what they say]]
 - [[cartoon illustration of a person slumped over a bloody desk 146845c4|cartoon illustration of a person slumped over a bloody desk]]
 - [[cary grant 1980s cad26847|cary grant 1980s]]
 - [[cary grant 1980s 2 e53d87ab|cary grant 1980s 2]]
+- [[cat meme about classmates going insane 7d79f898|cat meme about classmates going insane]]
 - [[charcoal and wash sketch of a narrow city street with tall buildings 849eff4d|charcoal and wash sketch of a narrow city street with tall buildings]]
-- [[charles meryon etchings of paris the new bridge 1937 635 cleveland museum of art jpg d56b4840|charles meryon etchings of paris the new bridge 1937 635 cleveland museum of art jpg]]
-- [[chimpanzee congo painting jpg 0ccc9973|chimpanzee congo painting jpg]]
+- [[charcoal head study with wild hair face7782|charcoal head study with wild hair]]
+- [[child on a bicycle beneath a large red crab sculpture 7f0f08af|child on a bicycle beneath a large red crab sculpture]]
+- [[chimpanzee congo abstract painting c32dd629|chimpanzee congo abstract painting]]
 - [[chromolithograph of a woman in a red bathing suit sitting on a pier with men swimming a8749200|chromolithograph of a woman in a red bathing suit sitting on a pier with men swimming]]
+- [[circular black and white collage of astronaut and figures 211df9a0|circular black and white collage of astronaut and figures]]
+- [[cityscape painting of paris rooftops under clouds 01da090c|cityscape painting of paris rooftops under clouds]]
+- [[classical engraving of a group scene with tent b0ecdd92|classical engraving of a group scene with tent]]
+- [[classical harbor scene with ruins and sailing ships c8b7e9ff|classical harbor scene with ruins and sailing ships]]
+- [[classical painting of bathers and cherubs f3ec8f4f|classical painting of bathers and cherubs]]
+- [[classical scene of women gathered around a well bcd4ab7b|classical scene of women gathered around a well]]
 - [[close up photograph of a man in sunglasses aiming two handguns against a bright hazy sky c8e2e766|close up photograph of a man in sunglasses aiming two handguns against a bright hazy sky]]
-- [[close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]]
-- [[close up photograph of an older man in a suit and tie against a red white and blue background 0b130d86|close up photograph of an older man in a suit and tie against a red white and blue background]]
-- [[close up photograph of the back of a dark blue circuit board 919de2de|close up photograph of the back of a dark blue circuit board]]
-- [[collage of a woman with an oval head in a red dress on a shoreline 0bb156b2|collage of a woman with an oval head in a red dress on a shoreline]]
-- [[color photograph of a city street with the world trade center twin towers visible in the distance b10b90b3|color photograph of a city street with the world trade center twin towers visible in the distance]]
-- [[color photograph of a dirt road leading to a bush in a field under a blue sky 1724eb65|color photograph of a dirt road leading to a bush in a field under a blue sky]]
-- [[color photograph of a green and white train on elevated tracks in chicago skyline d369c3c6|color photograph of a green and white train on elevated tracks in chicago skyline]]
-- [[color photograph of a man in white clothes sitting on a railing next to a motorcycle on an urban street d8b42de0|color photograph of a man in white clothes sitting on a railing next to a motorcycle on an urban street]]
-- [[color photograph of a vintage car driving past skyscrapers in chicago ed918f77|color photograph of a vintage car driving past skyscrapers in chicago]]
-- [[color photograph of a young man in a blue sweater and paint splattered jeans standing in a studio with arms outstretched e5c29cb5|color photograph of a young man in a blue sweater and paint splattered jeans standing in a studio with arms outstretched]]
-- [[color photograph of four men in dark suits pointing at the viewer 1dae4994|color photograph of four men in dark suits pointing at the viewer]]
-- [[colorized postcard of hotel traymore in atlantic city with beach scene 64620a45|colorized postcard of hotel traymore in atlantic city with beach scene]]
-- [[comic book illustration of a silver figure surfing above a planet 82e4cc6f|comic book illustration of a silver figure surfing above a planet]]
-- [[comic panel of a cube shaped planet in space labeled the bizarro world 2c3ca95e|comic panel of a cube shaped planet in space labeled the bizarro world]]
-- [[comic panel of a dark insect under a sun saying i m caught in my own brain f5b42a94|comic panel of a dark insect under a sun saying i m caught in my own brain]]
-- [[comparing shipping routes through history before and after the construction of the panama and suez canals by ben schmidt 3f365dd5|comparing shipping routes through history before and after the construction of the panama and suez canals by ben schmidt]]
-- [[composite image featuring a dark dripping head against a red background over a grayscale image of a man s neck and beard 7ad42046|composite image featuring a dark dripping head against a red background over a grayscale image of a man s neck and beard]]
-- [[contact sheet of a man in a silver mask and red shirt holding a black electronic device fa332db4|contact sheet of a man in a silver mask and red shirt holding a black electronic device]]
-- [[crab nebula jpg a9af0fa9|crab nebula jpg]]
-- [[crayon and ink drawing of two figures on a street one holding a gun a08f96cc|crayon and ink drawing of two figures on a street one holding a gun]]
-- [[d7hftxdivxxvm 1 cloudfront net jpeg a9ee4e24|d7hftxdivxxvm 1 cloudfront net jpeg]]
 
-_Only the first 200 image notes are listed here; search covers all 752._
+_Only the first 200 image notes are listed here; search covers all 1001._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 e4f40622|aggregate a by kurokawa toru 2016]] — named in this note
+- [[knowledge/wiki/images/the flammarion engraving 1888 4dfca67f|the flammarion engraving 1888]] — named in this note
+- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — named in this note
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — named in this note
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/images/autechre 0591ce6c|autechre]] — named in this note
+- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
+<!-- vault-crosslinks:end -->

@@ -50,10 +50,10 @@ The index is rebuilt during `python3 tools/wiki_refresh.py`.
 
 - [[knowledge/README|README]] — shared language: graph, obsidian's, ribbon
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
-- [[knowledge/wiki/books/cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] — shared language: focused
+- [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, settings
 - [[knowledge/wiki/images/red ink abstract biomorphic drawing on graph paper bc6ed6cd|red ink abstract biomorphic drawing on graph paper]] — shared language: graph
 - [[knowledge/wiki/images/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph
 - [[knowledge/wiki/images/magenta ink drawing of swirling patterns and mathematical equations on graph paper acc7c5e9|magenta ink drawing of swirling patterns and mathematical equations on graph paper]] — shared language: graph
 - [[knowledge/wiki/images/the click by jonas wood 2019 e253761a|the click by jonas wood 2019]] — shared language: click
-- [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show
+- [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: click, drag, zoom
 <!-- vault-crosslinks:end -->

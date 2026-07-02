@@ -177,3 +177,16 @@ Files: 114
 - [[vue du champ de mars a l instant du serment 1790 c5d41194|vue du champ de mars a l instant du serment 1790]]
 - [[watson and the shark by john singleton copley 1778 1676c93f|watson and the shark by john singleton copley 1778]]
 - [[witches flight by francisco de goya c 17971798 81ee50fc|witches flight by francisco de goya c 17971798]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - nicolas de largilliere|Artist - nicolas de largilliere]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — named in this note
+- [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
+- [[knowledge/wiki/images/hamilton 6a10ec6f|hamilton]] — named in this note
+- [[knowledge/wiki/images/perseus cc022ab3|perseus]] — named in this note
+- [[knowledge/wiki/images/rachel c879da05|rachel]] — named in this note
+<!-- vault-crosslinks:end -->

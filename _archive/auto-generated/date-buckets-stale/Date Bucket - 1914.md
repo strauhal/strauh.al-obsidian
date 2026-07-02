@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/the_music_of_the_spheres_by_franklin_booth_1914.jpg]]
 
 ![[media/strauh.al3.1/1900s/woman_against_a_white_background_by_kees_van_dongen_about_1914.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1913|Date Bucket - 1913]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1915|Date Bucket - 1915]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

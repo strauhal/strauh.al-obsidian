@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - yoshiyuki sadamoto|Artist - yoshiyuki sadamoto]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshiyuki sadamoto 1997|Artist - yoshiyuki sadamoto 1997]] — named in this note
 - [[knowledge/wiki/images/misato katsuragi neon genesis evangelion manga chapter 23 splash page by yoshiyuki sadamoto 1997 a1f143a6|misato katsuragi neon genesis evangelion manga chapter 23 splash page by yoshiyuki sadamoto 1997]] — shared language: yoshiyuki, sadamoto
-- [[knowledge/wiki/images/dianne mize whippet study contemporary 80a1f8fa|dianne mize whippet study contemporary]] — shared language: study
 - [[knowledge/wiki/images/illustration of a character with flowing purple hair and heterochromia cd2870e0|illustration of a character with flowing purple hair and heterochromia]] — shared language: character
-- [[knowledge/wiki/images/black and white ink drawing of a stylized character with a boombox and cigarette 5d0538fb|black and white ink drawing of a stylized character with a boombox and cigarette]] — shared language: character
+- [[knowledge/wiki/images/digital drawing of a character transitioning appearance over five years 8c85533f|digital drawing of a character transitioning appearance over five years]] — shared language: character
+- [[knowledge/wiki/images/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: character
 <!-- vault-crosslinks:end -->

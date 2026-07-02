@@ -52,3 +52,11 @@ Files: 20
 ![[media/strauh.al3.1/1900s/the_spirit_of_the_ancient_oak_by_maxfield_parrish_1920.jpg]]
 
 ![[media/strauh.al3.1/1900s/white_peacocks_by_frank_morley_fletcher_c_1920.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1919|Date Bucket - 1919]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1921|Date Bucket - 1921]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

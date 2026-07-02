@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-exposition-buildings-with-smoke-rising-from-a-chimney|Artist - exposition buildings with smoke rising from a chimney]] — shared language: chimney, rising, smoke
-- [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: buildings, exposition, large
-- [[knowledge/wiki/images/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: buildings, exposition
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, large
+- [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: exposition, buildings, large
 - [[knowledge/wiki/images/black and white photograph of large classical exposition buildings along a waterway with bridges and crowds 1fcb6bab|black and white photograph of large classical exposition buildings along a waterway with bridges and crowds]] — shared language: buildings, exposition, large
+- [[knowledge/wiki/images/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: buildings, exposition
 - [[knowledge/wiki/images/sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground 4ec9d879|sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground]] — shared language: buildings, exposition
-- [[knowledge/wiki/images/black and white photograph of a cityscape with an elevated train residential buildings and large exposition structures near a shoreline 075dedcd|black and white photograph of a cityscape with an elevated train residential buildings and large exposition structures near a shoreline]] — shared language: buildings, exposition, large
 <!-- vault-crosslinks:end -->

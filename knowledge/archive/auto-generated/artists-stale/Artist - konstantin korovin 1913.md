@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1907|Artist - konstantin somov 1907]] — shared language: konstantin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1935|Artist - konstantin somov 1935]] — shared language: konstantin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin makovsky 1880|Artist - konstantin makovsky 1880]] — shared language: konstantin
-- [[knowledge/wiki/artists/Artist - konstantin yuon|Artist - konstantin yuon]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1935|Artist - konstantin somov 1935]] — shared language: konstantin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - konstantin somov 1918|Artist - konstantin somov 1918]] — shared language: konstantin
+- [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 189a2d30|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

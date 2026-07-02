@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1800s/view_of_niagara_falls_by_john_vanderlyn_c_1802_1804.jpeg]]
 
 ![[media/strauh.al3.1/1800s/william_blake_job_and_his_wife_and_his_three_comforters_c_1805.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1790s|Date Bucket - 1790s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1810s|Date Bucket - 1810s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

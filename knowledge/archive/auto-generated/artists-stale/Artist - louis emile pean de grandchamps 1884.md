@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques emile blanche 1895|Artist - jacques emile blanche 1895]] — shared language: emile
 - [[knowledge/wiki/images/portrait of a woman by jacques emile blanche 1895 a8a22c57|portrait of a woman by jacques emile blanche 1895]] — shared language: emile
 - [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 <!-- vault-crosslinks:end -->

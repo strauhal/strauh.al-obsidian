@@ -23,5 +23,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - taiyo matsumoto|Artist - taiyo matsumoto]] — named in this note
 - [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
 - [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
-- [[knowledge/wiki/images/franklin booth elks cover jpg 912030cb|franklin booth elks cover jpg]] — shared language: cover
 <!-- vault-crosslinks:end -->

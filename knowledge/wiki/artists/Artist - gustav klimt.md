@@ -37,3 +37,14 @@ Images attributed by filename: 8
 - [[standing nude arms crossed behind her back by gustav klimt c 1910 1912 b8701ab5|standing nude arms crossed behind her back by gustav klimt c 1910 1912]]
 - [[standing woman in profile holding a book by gustav klimt c 1907 1908 c75c905b|standing woman in profile holding a book by gustav klimt c 1907 1908]]
 - [[stehende frau mit den handen am gesicht by gustav klimt c 1908 1910 906cb78d|stehende frau mit den handen am gesicht by gustav klimt c 1908 1910]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/death and life by gustav klimt 19101915 31900ead|death and life by gustav klimt 19101915]] — named in this note
+- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: klimt, gustav, death
+- [[knowledge/wiki/images/gustav klimt portrait of adele blochbauer i 1907 c9a9210a|gustav klimt portrait of adele blochbauer i 1907]] — shared language: klimt, gustav
+- [[knowledge/wiki/images/gustav klimt portrait of a woman c 1910 nga 48302 jpg 1fcd0f88|gustav klimt portrait of a woman c 1910 nga 48302 jpg]] — shared language: klimt, gustav, woman
+- [[knowledge/wiki/images/gustav klimt die jungfrau the virgin c 1913 ef1ce3a0|gustav klimt die jungfrau the virgin c 1913]] — shared language: klimt, gustav
+<!-- vault-crosslinks:end -->

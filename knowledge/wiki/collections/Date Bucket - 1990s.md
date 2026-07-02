@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1990s"
 source_kind: "date_bucket"
-count: "126"
+count: "122"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1990s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 126
+Files: 122
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 126
 ![[media/strauh.al3.1/1900s/flix_gonzleztorres_untitled_curtain_installation_early_1990s.webp]]
 
 ![[media/strauh.al3.1/1900s/gaia_by_alex_grey_1998.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1980s|Date Bucket - 1980s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 2000s|Date Bucket - 2000s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

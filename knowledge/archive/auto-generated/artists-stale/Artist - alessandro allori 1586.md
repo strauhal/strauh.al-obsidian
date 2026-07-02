@@ -23,6 +23,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - alessandro allori|Artist - alessandro allori]] — named in this note
 - [[knowledge/wiki/images/2560px proudhon children jpg 30a8e3e6|2560px proudhon children jpg]] — shared language: children
 - [[knowledge/wiki/images/black and white photograph of two children playing in water from a fire hydrant 38eecc47|black and white photograph of two children playing in water from a fire hydrant]] — shared language: children
+- [[knowledge/wiki/images/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children
 - [[knowledge/wiki/culture/movie-children-of-men|Watchlist - Children of Men]] — shared language: children
-- [[knowledge/wiki/images/wildly dancing children by emil nolde 1909 6176ea11|wildly dancing children by emil nolde 1909]] — shared language: children
 <!-- vault-crosslinks:end -->

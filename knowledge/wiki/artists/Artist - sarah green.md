@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: sarah
+- [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: sarah
+- [[knowledge/wiki/artists/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
+- [[knowledge/wiki/artists/Artist - sarah cain|Artist - sarah cain]] — shared language: sarah
+- [[knowledge/wiki/books/sarah-wynn-williams-careless-people-flatiron-books|Careless People-Flatiron Books]] — shared language: sarah
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: green
+<!-- vault-crosslinks:end -->

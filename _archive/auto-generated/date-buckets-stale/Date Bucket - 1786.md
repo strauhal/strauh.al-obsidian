@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/the_death_of_general_montgomery_in_the_attack_on_quebec_december_31_1775_by_john_trumbull_1786.jpeg]]
 
 ![[media/strauh.al3.1/2023_downloadsfolder/tumblr_e729a7eca32ed17c454cb7767e941dde_725e1786_1280.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1785|Date Bucket - 1785]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1787|Date Bucket - 1787]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

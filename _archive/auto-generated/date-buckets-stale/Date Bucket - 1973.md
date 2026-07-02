@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/the_three_graces_by_john_kacere_1973.jpeg]]
 
 ![[media/strauh.al3.1/1900s/wanes_on_the_dance_by_roger_dean_1973.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1972|Date Bucket - 1972]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1974|Date Bucket - 1974]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tony frank 1969|Artist - tony frank 1969]] — shared language: tony
 - [[knowledge/wiki/images/jane birkin with paul mccartney mask and portrait by tony frank 1969 46f938ad|jane birkin with paul mccartney mask and portrait by tony frank 1969]] — shared language: tony
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
-- [[knowledge/wiki/images/painting of a couple dancing folklorico in front of a yellow cathedral 897515b6|painting of a couple dancing folklorico in front of a yellow cathedral]] — shared language: cathedral
+- [[knowledge/wiki/images/black and white cathedral interior at prayer b3dc402e|black and white cathedral interior at prayer]] — shared language: cathedral
 <!-- vault-crosslinks:end -->

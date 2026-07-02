@@ -7,8 +7,8 @@ status: queued
 queue_order: 4
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # American Beauty
@@ -36,6 +36,6 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/movie-edward-scissorhands|Watchlist - Edward Scissorhands]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: beauty
 - [[knowledge/wiki/culture/movie-watchmen|Watchlist - Watchmen]] — shared language: watchlist, film, current
-- [[knowledge/wiki/culture/movie-gattaca|Watchlist - Gattaca]] — shared language: watchlist, film, current
 <!-- vault-crosslinks:end -->

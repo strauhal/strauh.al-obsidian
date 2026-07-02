@@ -23,11 +23,6 @@ Files: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/collections/Date Bucket - 1000|Date Bucket - 1000]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1000s|Date Bucket - 1000s]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 100s|Date Bucket - 100s]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1013|Date Bucket - 1013]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1030|Date Bucket - 1030]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1040|Date Bucket - 1040]] — shared language: part, files, strauh.al
-- [[knowledge/wiki/collections/Date Bucket - 1058|Date Bucket - 1058]] — shared language: part, files, strauh.al
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1013|Date Bucket - 1013]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1030|Date Bucket - 1030]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

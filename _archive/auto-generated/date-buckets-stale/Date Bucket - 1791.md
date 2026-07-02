@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/the_departure_of_regulus_from_rome_detail_of_marcia_by_william_sharp_1791.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_tennis_court_oath_le_serment_du_jeu_de_paume_by_jacques_louis_david_c_1791.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1790|Date Bucket - 1790]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1792|Date Bucket - 1792]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

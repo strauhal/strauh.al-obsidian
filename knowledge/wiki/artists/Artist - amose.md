@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[eyeulpie by amose 2018 eefd7550|eyeulpie by amose 2018]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - aminah robinson|Artist - aminah robinson]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - anatoly metlan|Artist - anatoly metlan]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - american flags and blue curtains|Artist - american flags and blue curtains]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

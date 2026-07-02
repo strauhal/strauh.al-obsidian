@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni boldini|Artist - giovanni boldini]] — shared language: giovanni
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giovanni boldini 1906|Artist - giovanni boldini 1906]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: giovanni
-- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

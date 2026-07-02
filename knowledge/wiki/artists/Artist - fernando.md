@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[that woman is back on the plane by fernando 2023 bbf379e6|that woman is back on the plane by fernando 2023]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/fernando-pessoa-the-book-of-disquiet|The Book of Disquiet]] — shared language: fernando
+- [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — shared language: fernando
+- [[knowledge/wiki/images/miss la la at the cirque fernando by edgar degas 1879 3d78ed34|miss la la at the cirque fernando by edgar degas 1879]] — shared language: fernando
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: fernando
+- [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — shared language: woman
+- [[knowledge/wiki/images/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: plane
+<!-- vault-crosslinks:end -->

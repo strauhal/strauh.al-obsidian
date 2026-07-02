@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[a forest stream summer day by peder mrk mnsted 1910 e6e43d13|a forest stream summer day by peder mrk mnsted 1910]]
 - [[a forest stream with a fisherman by peder mrk mnsted 1910 bba81e79|a forest stream with a fisherman by peder mrk mnsted 1910]]
 - [[vinterdag i dyrehaven by peder mrk mnsted 1908 8f0ee4a8|vinterdag i dyrehaven by peder mrk mnsted 1908]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: peder, mrk, mnsted
+- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: peder, mrk, mnsted
+- [[knowledge/wiki/images/framed forest stream landscape with rocks and sunlight a442b955|framed forest stream landscape with rocks and sunlight]] — shared language: stream, forest
+- [[knowledge/wiki/images/summer solstice 3686b730|summer solstice]] — shared language: summer
+- [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: forest
+<!-- vault-crosslinks:end -->

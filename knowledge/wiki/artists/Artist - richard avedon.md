@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]]
 - [[marilyn monroe new york by richard avedon 1954 6d2da2e5|marilyn monroe new york by richard avedon 1954]]
 - [[marilyn monroe with apples by richard avedon 1954 c2f5d17b|marilyn monroe with apples by richard avedon 1954]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
+- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: richard
+- [[knowledge/wiki/images/marilyn monroe sitting on the floor by milton h greene 1953 409a5c6a|marilyn monroe sitting on the floor by milton h greene 1953]] — shared language: monroe, marilyn
+- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard
+- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: richard
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[el che guevara de la mirada by hector garcia 1968 8c2f80e1|el che guevara de la mirada by hector garcia 1968]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — shared language: garcia
+- [[knowledge/wiki/images/ChE BvTWgAADxQm 9894aa07|ChE BvTWgAADxQm]] — shared language: che
+- [[knowledge/wiki/images/l uomo che lavora by gianfranco meggiato 2019 365f8c34|l uomo che lavora by gianfranco meggiato 2019]] — shared language: che
+<!-- vault-crosslinks:end -->

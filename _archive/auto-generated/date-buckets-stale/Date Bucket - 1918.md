@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/the_harvest_by_franklin_booth_1918.jpg]]
 
 ![[media/strauh.al3.1/1900s/the_harvest_by_frederick_booth_1918.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1917|Date Bucket - 1917]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1919|Date Bucket - 1919]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1800s/romain_cazes_interior_of_the_cathedral_of_burgos_1862.jpg]]
 
 ![[media/strauh.al3.1/1800s/williamadolphe_bouguereau_orestes_pursued_by_the_furies_1862.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1861|Date Bucket - 1861]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1863|Date Bucket - 1863]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

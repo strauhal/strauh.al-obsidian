@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1800s/hans_dahl_young_woman_gathering_flowers_by_a_fjord_late_19th_century_the_lamentation_by_master_of_the_saint_bartholomew_altarpiece_c_1500.jpg]]
 
 ![[media/strauh.al3.1/unnamed/45419-koyaanisqatsi-0-1000-0-1500-crop.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1499|Date Bucket - 1499]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1500s|Date Bucket - 1500s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the grand staircase eaton hall by joseph nash 1849 d3fec459|the grand staircase eaton hall by joseph nash 1849]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
+- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
+- [[knowledge/wiki/books/bueys-joseph-harlan-volker-what-is-art-conversation-with-joseph-beuys-clairview-books|What is Art Conversation with Joseph Beuys-Clairview Books]] — shared language: joseph
+- [[knowledge/wiki/books/claudia-mesch-joseph-beuys-reaktion-books|Joseph Beuys-Reaktion Books]] — shared language: joseph
+- [[knowledge/wiki/artists/Artist - joseph stella|Artist - joseph stella]] — shared language: joseph
+<!-- vault-crosslinks:end -->

@@ -45,3 +45,16 @@ shared nervous system.
 **Images (1).** [[digital death mask archive 1 d745068d|digital death mask archive 1]]
 
 <!-- archive-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, archive-links, space
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: latent, autofiction, confidant
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: mind, drive, whole
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: already, latent, makes
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: mind, it's
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind, internet
+<!-- vault-crosslinks:end -->

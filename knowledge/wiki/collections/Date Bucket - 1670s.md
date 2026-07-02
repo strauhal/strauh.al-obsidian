@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1670s"
 source_kind: "date_bucket"
-count: "5"
+count: "4"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1670s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 4
 
 ## Sample
 
@@ -21,4 +21,10 @@ Files: 5
 
 ![[media/strauh.al3.1/1600s/the_triumph_of_louis_xiv_over_the_heresy_by_charles_le_brun_c_1672.jpg]]
 
-![[media/strauh.al3.1/unnamed/tumblr_03e807a785f225aea8206b5bd07c1675_6c0633d9_2048.webp]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1660s|Date Bucket - 1660s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1680s|Date Bucket - 1680s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

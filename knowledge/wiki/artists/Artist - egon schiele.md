@@ -43,3 +43,14 @@ Images attributed by filename: 10
 - [[self portrait with green face and exposed leg by egon schiele 1910 08e09b2b|self portrait with green face and exposed leg by egon schiele 1910]]
 - [[the cellist by egon schiele 1910 7ec60e27|the cellist by egon schiele 1910]]
 - [[the desk by egon schiele 1910 26d500e1|the desk by egon schiele 1910]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+- [[knowledge/wiki/images/egon schiele 5bd8a96a46e0fb00510a25e9 jpg 8405cc94|egon schiele 5bd8a96a46e0fb00510a25e9 jpg]] — shared language: schiele, egon
+- [[knowledge/wiki/artists/Artist - egon schiele v0 5qm1hxb5wfmf1|Artist - egon schiele v0 5qm1hxb5wfmf1]] — shared language: schiele, egon
+- [[knowledge/wiki/artists/Artist - egon schiele v0 w2f5v6qoprmf1|Artist - egon schiele v0 w2f5v6qoprmf1]] — shared language: schiele, egon
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon, self
+- [[knowledge/wiki/images/egon schiele 15e6f3ec|egon schiele]] — shared language: egon, schiele
+<!-- vault-crosslinks:end -->

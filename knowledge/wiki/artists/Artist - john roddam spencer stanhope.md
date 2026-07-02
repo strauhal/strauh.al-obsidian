@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[love and the maidens by john roddam spencer stanhope 1877 e4048784|love and the maidens by john roddam spencer stanhope 1877]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — shared language: john
+- [[knowledge/wiki/books/john-marks-the-search-for-the-manchurian-candidate|The Search for the Manchurian Candidate]] — shared language: john
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "boy for all seasons by peter vandenberge 1992"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg"
 source_relpath: "1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg"
 collection: "1900s"
 inferred_year: "1992"
@@ -22,4 +22,14 @@ Artist: [[Artist - peter vandenberge]]
 
 Source: [[media/strauh.al3.1/1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/boy_for_all_seasons_by_peter_vandenberge_1992.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: peter
+- [[knowledge/wiki/artists/Artist - peter doig|Artist - peter doig]] — shared language: peter
+- [[knowledge/wiki/artists/Artist - peter saville|Artist - peter saville]] — shared language: peter
+- [[knowledge/wiki/artists/Artist - peter hoffer|Artist - peter hoffer]] — shared language: peter
+- [[knowledge/wiki/anchors/peter-weir|Peter Weir]] — shared language: peter
+<!-- vault-crosslinks:end -->

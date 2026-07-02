@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - michael pollan|Artist - michael pollan]] — named in this note
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: addiction, mind
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1988|Artist - michael parkes 1988]] — shared language: michael
 - [[knowledge/wiki/images/the path by michael parkes 1988 06f10797|the path by michael parkes 1988]] — shared language: michael
 - [[knowledge/wiki/images/the source by michael parkes 1990 70d2bc84|the source by michael parkes 1990]] — shared language: michael
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: michael
 <!-- vault-crosslinks:end -->

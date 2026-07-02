@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - leon spilliaert|Artist - leon spilliaert]] — named in this note
+- [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
+- [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
 - [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leon ferrari 1962|Artist - leon ferrari 1962]] — shared language: leon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leon ferrari 1964|Artist - leon ferrari 1964]] — shared language: leon
-- [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
-- [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
 <!-- vault-crosslinks:end -->

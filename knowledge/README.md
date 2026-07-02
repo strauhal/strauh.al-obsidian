@@ -116,9 +116,9 @@ Conversation notes are archival evidence. Automatically surfaced memory candidat
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge, graph
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, vault, graph
 <!-- vault-crosslinks:end -->

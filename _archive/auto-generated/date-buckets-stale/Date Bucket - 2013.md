@@ -56,3 +56,11 @@ Files: 22
 ![[media/strauh.al3.1/2000s/the_walker_by_lora_zombie_2013.jpeg]]
 
 ![[media/strauh.al3.1/2000s/yeezus_by_kanye_west_2013.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2012|Date Bucket - 2012]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2014|Date Bucket - 2014]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

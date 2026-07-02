@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the great day by wojciech siudmak 1989 b286d78f|the great day by wojciech siudmak 1989]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+- [[knowledge/wiki/images/john martin the great day of his wrath 1853 22ffb5d0|john martin the great day of his wrath 1853]] — shared language: day, great
+- [[knowledge/wiki/images/john martin the great day of his wrath 1853 2 d640377e|john martin the great day of his wrath 1853 2]] — shared language: day, great
+- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: day
+- [[knowledge/wiki/artists/Artist - w percy day|Artist - w percy day]] — shared language: day
+- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
+<!-- vault-crosslinks:end -->

@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1800s/the_boating_party_by_mary_cassatt_1893_1894.jpeg]]
 
 ![[media/strauh.al3.1/1800s/the_redcrosse_knight_is_captive_made_by_gyaunt_proud_opprest_prince_arthur_meets_with_una_greatly_with_those_news_distrest_by_walter_crane_1894.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1893|Date Bucket - 1893]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1895|Date Bucket - 1895]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

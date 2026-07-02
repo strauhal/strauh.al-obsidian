@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - moonlight by johan christian dahl|Artist - moonlight by johan christian dahl]] — named in this note
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — named in this note
 - [[knowledge/wiki/images/johan christian dahl eruption of vesuvius 1826 33702371|johan christian dahl eruption of vesuvius 1826]] — shared language: johan, dahl, christian
+- [[knowledge/wiki/images/view of dresden by moonlight by johan christian dahl 1839 96d4dba7|view of dresden by moonlight by johan christian dahl 1839]] — shared language: johan, dahl, moonlight
 - [[knowledge/wiki/books/roald-dahl-the-twits|The Twits]] — shared language: dahl
 - [[knowledge/wiki/books/roald-dahl-matilda-viking|Matilda-Viking]] — shared language: dahl
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: dahl
 <!-- vault-crosslinks:end -->

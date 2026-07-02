@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1500s/madonna_and_child_with_saints_pala_di_san_frediano_by_andrea_del_sarto_c_1517.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1515|Date Bucket - 1515]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1519|Date Bucket - 1519]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

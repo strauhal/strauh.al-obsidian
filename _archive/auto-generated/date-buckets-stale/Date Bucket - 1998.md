@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/uzumaki_panel_featuring_azami_kurotani_by_junji_ito_1998.jpeg]]
 
 ![[media/strauh.al3.1/1900s/uzumaki_panel_from_the_hair_chapter_by_junji_ito_1998.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1997|Date Bucket - 1997]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1999|Date Bucket - 1999]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

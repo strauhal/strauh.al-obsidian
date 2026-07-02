@@ -265,3 +265,16 @@ Files: 551
 - [[391592748 7168490879840565 8220540532442249980 n a52fd57a|391592748 7168490879840565 8220540532442249980 n]]
 
 _Only the first 200 image notes are listed here; search covers all 551._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music, listed
+- [[knowledge/wiki/images/venus model2.jpg 1354x0 q85 subsampling 2 2e635055|venus model2.jpg 1354x0 q85 subsampling 2]] — shared language: q85, subsampling
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: making
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/images/abl257 polishradio3.jpg 800.0x566.0 q85 subsampling 2 823e7be3|abl257 polishradio3.jpg 800.0x566.0 q85 subsampling 2]] — shared language: q85, subsampling
+<!-- vault-crosslinks:end -->

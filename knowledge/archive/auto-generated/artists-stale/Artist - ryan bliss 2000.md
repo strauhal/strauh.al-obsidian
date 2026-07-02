@@ -25,4 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - petrina ryan kleid|Artist - petrina ryan kleid]] — shared language: ryan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - petrina ryan kleid 2012|Artist - petrina ryan kleid 2012]] — shared language: ryan
 - [[knowledge/wiki/images/the paper airplane by petrina ryan kleid 2012 f9d06221|the paper airplane by petrina ryan kleid 2012]] — shared language: ryan
+- [[knowledge/wiki/images/microsoft paint screenshot of bliss wallpaper with seated figure 4ab226c0|microsoft paint screenshot of bliss wallpaper with seated figure]] — shared language: bliss
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1940|Artist - giorgio morandi 1940]] — shared language: morandi, giorgio, natura
+- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1941|Artist - giorgio morandi 1941]] — shared language: morandi, giorgio, natura
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1931|Artist - giorgio morandi 1931]] — shared language: morandi, giorgio, oggetti
-- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1940|Artist - giorgio morandi 1940]] — shared language: morandi, giorgio, still
-- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1941|Artist - giorgio morandi 1941]] — shared language: morandi, giorgio, still
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1929|Artist - giorgio morandi 1929]] — shared language: morandi, giorgio, oggetti
-- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1940 40134fd6|natura morta still life by giorgio morandi 1940]] — shared language: morandi, giorgio, still
-- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]] — shared language: morandi, giorgio, still
+- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1940 40134fd6|natura morta still life by giorgio morandi 1940]] — shared language: morandi, giorgio, natura
+- [[knowledge/wiki/images/natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]] — shared language: morandi, giorgio, natura
 <!-- vault-crosslinks:end -->

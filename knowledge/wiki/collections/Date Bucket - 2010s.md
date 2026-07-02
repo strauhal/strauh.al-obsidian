@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2010s"
 source_kind: "date_bucket"
-count: "189"
+count: "187"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2010s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 189
+Files: 187
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 189
 ![[media/strauh.al3.1/2000s/civilian_by_dana_schutz_2012.jpg]]
 
 ![[media/strauh.al3.1/2000s/clipping_1_by_jonas_wood_2017.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 2000s|Date Bucket - 2000s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 2020s|Date Bucket - 2020s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

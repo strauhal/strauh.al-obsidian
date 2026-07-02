@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[ink drawing of a human eye surrounded by radiating light and clouds 239ae923|ink drawing of a human eye surrounded by radiating light and clouds]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - clouds|Artist - clouds]] — shared language: clouds, surrounded
+- [[knowledge/wiki/artists/Artist - radiating and curved lines|Artist - radiating and curved lines]] — shared language: radiating
+- [[knowledge/wiki/images/framed textile or painting with red white blue and black radiating shapes f477e08e|framed textile or painting with red white blue and black radiating shapes]] — shared language: radiating
+- [[knowledge/wiki/artists/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: clouds, eye, surrounded
+- [[knowledge/wiki/images/black and white illustration of a window showing a city skyline surrounded by clouds 560057ba|black and white illustration of a window showing a city skyline surrounded by clouds]] — shared language: clouds, surrounded
+- [[knowledge/wiki/images/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: clouds
+<!-- vault-crosslinks:end -->

@@ -46,6 +46,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
 - [[knowledge/wiki/books/tea-scones-and-socially-responsible-sex-magic-the-egalitarian-occultism-of-dion-fortune|Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
+- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
 - [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
-- [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 <!-- vault-crosslinks:end -->

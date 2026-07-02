@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[Hy nen zu by Josetsu 765d6826|Hy nen zu by Josetsu]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/josetsu 83478ee8|josetsu]] — named in this note
+- [[knowledge/wiki/collections/Collection - influences|Collection - influences]] — shared language: josetsu
+- [[knowledge/wiki/artists/Artist - J Blanc|Artist - J Blanc]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

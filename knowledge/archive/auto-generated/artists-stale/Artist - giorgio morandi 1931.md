@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1941|Artist - giorgio morandi 1941]] — shared language: morandi, giorgio, natura
 - [[knowledge/wiki/images/natura morta still life by giorgio morandi 1940 40134fd6|natura morta still life by giorgio morandi 1940]] — shared language: morandi, giorgio, natura
 - [[knowledge/wiki/images/natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]] — shared language: morandi, giorgio, natura
-- [[knowledge/wiki/artists/Artist - giorgio morandi|Artist - giorgio morandi]] — shared language: morandi, giorgio, natura
+- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1930|Artist - giorgio morandi 1930]] — shared language: morandi, giorgio, oggetti
 <!-- vault-crosslinks:end -->

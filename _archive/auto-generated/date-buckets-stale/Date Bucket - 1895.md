@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1800s/two_dancers_by_edgar_degas_c_1890_1895.jpeg]]
 
 ![[media/strauh.al3.1/1800s/vishnu_on_garuda_with_consorts_by_raja_ravi_varma_c_1895.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1894|Date Bucket - 1894]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1896|Date Bucket - 1896]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

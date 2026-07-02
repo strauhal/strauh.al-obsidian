@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]]
 - [[cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]]
 - [[tool cows by gary larson 1982 ab263c9d|tool cows by gary larson 1982]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
+- [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: gary
+- [[knowledge/wiki/images/christmas lights london by jeffrey t larson 2018 f2d24da3|christmas lights london by jeffrey t larson 2018]] — shared language: larson
+- [[knowledge/wiki/images/dellasposa gary hume untitled water painting 1998 jpg 46def95f|dellasposa gary hume untitled water painting 1998 jpg]] — shared language: gary
+- [[knowledge/wiki/pages/comics|comics]] — shared language: larson, gary
+- [[knowledge/wiki/images/oil painting of cows in a polder landscape with windmill f3a712e7|oil painting of cows in a polder landscape with windmill]] — shared language: cows
+<!-- vault-crosslinks:end -->

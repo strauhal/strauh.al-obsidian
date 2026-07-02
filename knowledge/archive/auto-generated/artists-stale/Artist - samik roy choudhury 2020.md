@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - samik roy choudhury|Artist - samik roy choudhury]] — named in this note
 - [[knowledge/wiki/artists/Artist - roy lichtenstein|Artist - roy lichtenstein]] — shared language: roy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roy lichtenstein 1990|Artist - roy lichtenstein 1990]] — shared language: roy
+- [[knowledge/wiki/images/reflections on expressionist painting by roy lichtenstein 1990 af1a5d0e|reflections on expressionist painting by roy lichtenstein 1990]] — shared language: roy
 - [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: roy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roy de forest 2001|Artist - roy de forest 2001]] — shared language: roy
-- [[knowledge/wiki/images/reflections on expressionist painting by roy lichtenstein 1990 af1a5d0e|reflections on expressionist painting by roy lichtenstein 1990]] — shared language: roy
 <!-- vault-crosslinks:end -->

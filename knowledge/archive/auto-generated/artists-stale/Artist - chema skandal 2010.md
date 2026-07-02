@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chema skandal|Artist - chema skandal]] — named in this note
+- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
 - [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition
 - [[knowledge/archive/auto-generated/artists-stale/Artist - neoclassical exhibition halls 1893|Artist - neoclassical exhibition halls 1893]] — shared language: exhibition
 - [[knowledge/wiki/images/44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940 5f6a4c17|44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940]] — shared language: exhibition, poster
-- [[knowledge/wiki/images/sepia photograph of a grand neoclassical exhibition building and waterway e07c0340|sepia photograph of a grand neoclassical exhibition building and waterway]] — shared language: exhibition
 <!-- vault-crosslinks:end -->

@@ -1,13 +1,13 @@
 ---
 title: "Artist - ilya repin"
 source_kind: "artist"
-count: "7"
+count: "8"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - ilya repin
 
-Images attributed by filename: 7
+Images attributed by filename: 8
 
 ## Sample
 
@@ -25,6 +25,8 @@ Images attributed by filename: 7
 
 ![[media/strauh.al3.1/1800s/viola_by_ilya_repin_1873.jpg]]
 
+![[media/strauh.al3.1/unsorted/reply_of_the_zaporozhian_cossacks_by_ilya_repin_1880_1891.jpg]]
+
 ## Image Notes
 
 - [[hunter by ilya repin 1877 a441470f|hunter by ilya repin 1877]]
@@ -34,3 +36,15 @@ Images attributed by filename: 7
 - [[study of a cossack by ilya repin 1880 1891 b20f10ae|study of a cossack by ilya repin 1880 1891]]
 - [[the duel illustration for pushkin s eugene onegin by ilya repin 1899 ffb60ac8|the duel illustration for pushkin s eugene onegin by ilya repin 1899]]
 - [[viola by ilya repin 1873 e4e69d6a|viola by ilya repin 1873]]
+- [[reply of the zaporozhian cossacks by ilya repin 1880 1891 f4901ae4|reply of the zaporozhian cossacks by ilya repin 1880 1891]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/ilya repin ivan the terrible and his son ivan on november 16 1581 1885 6c2fbe64|ilya repin ivan the terrible and his son ivan on november 16 1581 1885]] — shared language: repin, ilya, ivan
+- [[knowledge/wiki/images/ilya repin ivan the terrible and his son ivan on november 16 1581 1885 2 adc8d61d|ilya repin ivan the terrible and his son ivan on november 16 1581 1885 2]] — shared language: repin, ilya, ivan
+- [[knowledge/wiki/artists/Artist - ilya repin 18701873|Artist - ilya repin 18701873]] — shared language: repin, ilya
+- [[knowledge/wiki/images/barge haulers on the volga by ilya repin 18701873 7454640d|barge haulers on the volga by ilya repin 18701873]] — shared language: repin, ilya
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: repin, ilya
+- [[knowledge/wiki/collections/Collection - 1800s|Collection - 1800s]] — shared language: repin, ilya, ivan
+<!-- vault-crosslinks:end -->

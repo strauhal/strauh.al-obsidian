@@ -23,5 +23,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - wangechi mutu|Artist - wangechi mutu]] — named in this note
 - [[knowledge/wiki/images/snake by richard serra 1994 1997 e026d525|snake by richard serra 1994 1997]] — shared language: snake
 - [[knowledge/wiki/images/the dragon s bride by michael whelan 1980 1480faff|the dragon s bride by michael whelan 1980]] — shared language: bride
+- [[knowledge/wiki/images/painting of a bride signing a register with family looking on ed4d35ca|painting of a bride signing a register with family looking on]] — shared language: bride
 - [[knowledge/wiki/images/the snake charmer by theodoros ralli 1881 65571f7c|the snake charmer by theodoros ralli 1881]] — shared language: snake
 <!-- vault-crosslinks:end -->

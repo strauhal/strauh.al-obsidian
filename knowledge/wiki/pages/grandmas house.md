@@ -1,10 +1,10 @@
 ---
 title: "grandmas house"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/grandmas_house.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/grandmas_house.html"
 source_relpath: "grandmas_house.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # grandmas house
@@ -30,3 +30,16 @@ strauh.al/grandmas_house
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: break, one
+- [[knowledge/wiki/images/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
+- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
+- [[knowledge/wiki/images/tiny house island with falling fireball b828ab88|tiny house island with falling fireball]] — shared language: house
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
+- [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: house
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
+<!-- vault-crosslinks:end -->

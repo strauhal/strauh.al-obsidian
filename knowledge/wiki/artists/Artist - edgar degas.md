@@ -61,3 +61,14 @@ Images attributed by filename: 16
 - [[two dancers by edgar degas c 1898 b3004a2b|two dancers by edgar degas c 1898]]
 - [[two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]]
 - [[two women seated reading by edgar degas c 1878 30164653|two women seated reading by edgar degas c 1878]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas, class
+- [[knowledge/wiki/images/201223160806 01 edgar degas ballet dancers artsy 64d787c8|201223160806 01 edgar degas ballet dancers artsy]] — shared language: edgar, degas, dancers
+- [[knowledge/wiki/images/201223162422 04 edgar degas ballet dancers artsy 2f0f541c|201223162422 04 edgar degas ballet dancers artsy]] — shared language: edgar, degas, dancers
+- [[knowledge/wiki/images/201223162545 05 edgar degas ballet dancers artsy 8a5414ac|201223162545 05 edgar degas ballet dancers artsy]] — shared language: edgar, degas, dancers
+- [[knowledge/wiki/images/the ballet class la classe de danse by edgar degas 18711874 b7153c54|the ballet class la classe de danse by edgar degas 18711874]] — shared language: edgar, degas, class
+<!-- vault-crosslinks:end -->

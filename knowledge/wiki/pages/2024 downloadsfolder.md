@@ -1,10 +1,10 @@
 ---
 title: "2024 downloadsfolder"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2024_downloadsfolder.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/2024_downloadsfolder.html"
 source_relpath: "2024_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # 2024 downloadsfolder
@@ -479,3 +479,16 @@ strauh.al/2024_downloadsfolder
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/img 1331 png 8e341b79|img 1331 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 7e677750|img 5472 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 2 303ff8a8|img 5472 png 2]] — named in this note
+- [[knowledge/wiki/images/img 0629 webp 5656a346|img 0629 webp]] — named in this note
+- [[knowledge/wiki/images/sprueth magers George Condo Zombie Modernism 2015 2451 86780475|sprueth magers George Condo Zombie Modernism 2015 2451]] — named in this note
+- [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/images/connection map 409fea96|connection map]] — named in this note
+<!-- vault-crosslinks:end -->

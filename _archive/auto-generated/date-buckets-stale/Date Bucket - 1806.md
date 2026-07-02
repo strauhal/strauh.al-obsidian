@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1800s/portrait_of_madame_de_saint_morys_by_anne_louis_girodet_de_roussy_trioson_1806.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1805|Date Bucket - 1805]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1809|Date Bucket - 1809]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

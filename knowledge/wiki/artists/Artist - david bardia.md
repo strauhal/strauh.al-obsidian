@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the art of painting by david bardia 1997 3519d787|the art of painting by david bardia 1997]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david burliuk|Artist - david burliuk]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david kassan|Artist - david kassan]] — shared language: david
+<!-- vault-crosslinks:end -->

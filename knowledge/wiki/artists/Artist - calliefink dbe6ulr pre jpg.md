@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[deoxyribose by calliefink dbe6ulr pre jpg b7260ee6|deoxyribose by calliefink dbe6ulr pre jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/deoxyribose psychedelic digital illustration 7c8f8e30|deoxyribose psychedelic digital illustration]] — shared language: deoxyribose
+- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — shared language: pre
+- [[knowledge/wiki/artists/Artist - cal crotchett|Artist - cal crotchett]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

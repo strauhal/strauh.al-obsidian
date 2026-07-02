@@ -67,3 +67,14 @@ Images attributed by filename: 18
 - [[woman in a black boa by henri de toulouse lautrec 1892 747cedef|woman in a black boa by henri de toulouse lautrec 1892]]
 - [[woman reading at a table la liseuse by henri de toulouse lautrec 1897 f2c6f57e|woman reading at a table la liseuse by henri de toulouse lautrec 1897]]
 - [[the milliner la modiste by henri de toulouse lautrec c 1900 e730df0d|the milliner la modiste by henri de toulouse lautrec c 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: lautrec
+- [[knowledge/wiki/images/le moulin de la galette by vincent van gogh 1886 a9ebccbf|le moulin de la galette by vincent van gogh 1886]] — shared language: moulin, galette, gogh
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri
+- [[knowledge/wiki/collections/Collection - 1800s|Collection - 1800s]] — shared language: toulouse, lautrec, henri
+- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: henri
+<!-- vault-crosslinks:end -->

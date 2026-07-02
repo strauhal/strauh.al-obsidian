@@ -44,3 +44,11 @@ Files: 16
 ![[media/strauh.al3.1/1800s/theodor_von_hrmann_der_calvarienberg_bei_linz_circa_1885.jpg]]
 
 ![[media/strauh.al3.1/1800s/two_horses_by_edgar_degas_c_1880_1885.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1884|Date Bucket - 1884]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1886|Date Bucket - 1886]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang ximeng 1113 2|Artist - wang ximeng 1113 2]] — named in this note
 - [[knowledge/wiki/artists/Artist - wang ximeng|Artist - wang ximeng]] — named in this note
 - [[knowledge/wiki/collections/Collection - 1100s|Collection - 1100s]] — shared language: ximeng, wang, rivers
-- [[knowledge/wiki/artists/Artist - wang meng|Artist - wang meng]] — shared language: wang, mountains
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wang meng 1366|Artist - wang meng 1366]] — shared language: wang, mountains
+- [[knowledge/wiki/artists/Artist - wang hui|Artist - wang hui]] — shared language: wang, thousand
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wang hui 1693|Artist - wang hui 1693]] — shared language: wang, thousand
 <!-- vault-crosslinks:end -->

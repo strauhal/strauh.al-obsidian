@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[l attente by yves tanguy 1952 cca28cb4|l attente by yves tanguy 1952]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - yutaka izubuchi|Artist - yutaka izubuchi]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - yun shouping qing dynasty|Artist - yun shouping qing dynasty]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

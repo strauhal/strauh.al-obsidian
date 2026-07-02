@@ -40,3 +40,16 @@ This note is an index and reflection surface. The complete first-person account 
 ## Reflection
 
 No fixed interpretation has been assigned. Add remembered details, waking associations, or later resonances here.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record, economy, attention
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, elegance, spontaneity
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: teaching, memory, elegance
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: teaching, moves, dreams
+- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

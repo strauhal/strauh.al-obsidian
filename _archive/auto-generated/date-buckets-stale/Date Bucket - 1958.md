@@ -28,3 +28,11 @@ Files: 8
 ![[media/strauh.al3.1/1900s/no_16_red_brown_and_black_by_mark_rothko_1958.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_with_tie_and_flowers_on_head_by_andy_warhol_1958.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1957|Date Bucket - 1957]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1959|Date Bucket - 1959]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

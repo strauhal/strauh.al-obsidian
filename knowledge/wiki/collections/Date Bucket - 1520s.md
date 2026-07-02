@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1500s/the_body_of_the_dead_christ_in_the_tomb_by_hans_holbein_the_younger_1521.jpg]]
 
 ![[media/strauh.al3.1/1500s/the_old_man_learning_ancora_imparo_by_agostino_veneziano_1527.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1510s|Date Bucket - 1510s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1530s|Date Bucket - 1530s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - marc simonetti|Artist - marc simonetti]] — shared language: marc
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marc simonetti 2016|Artist - marc simonetti 2016]] — shared language: marc
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean marc nattier 1740|Artist - jean marc nattier 1740]] — shared language: marc
-- [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1891|Artist - franz stuck 1891]] — shared language: franz
+- [[knowledge/wiki/images/the golden city by marc simonetti 2016 5299ced5|the golden city by marc simonetti 2016]] — shared language: marc
 <!-- vault-crosslinks:end -->

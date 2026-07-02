@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the battle of the hard boiled eggs by martin handford 2006 c599bf1f|the battle of the hard boiled eggs by martin handford 2006]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin
+- [[knowledge/wiki/images/the resurrection by martin schongauer c 1475 1480 6ba685bc|the resurrection by martin schongauer c 1475 1480]] — shared language: martin
+- [[knowledge/wiki/artists/Artist - martin schongauer|Artist - martin schongauer]] — shared language: martin
+- [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — shared language: martin
+<!-- vault-crosslinks:end -->

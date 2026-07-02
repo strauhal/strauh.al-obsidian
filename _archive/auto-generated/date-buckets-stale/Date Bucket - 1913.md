@@ -52,3 +52,11 @@ Files: 20
 ![[media/strauh.al3.1/1900s/the_living_room_by_marsden_hartley_1913.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1913.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1912|Date Bucket - 1912]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1914|Date Bucket - 1914]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

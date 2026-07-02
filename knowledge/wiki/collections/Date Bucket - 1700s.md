@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1700s"
 source_kind: "date_bucket"
-count: "7"
+count: "6"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1700s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 7
+Files: 6
 
 ## Sample
 
@@ -25,4 +25,10 @@ Files: 7
 
 ![[media/strauh.al3.1/photography/IMG_1703.JPG]]
 
-![[media/strauh.al3.1/unsorted/brutalist_silence_co_working_office_interiors_annabell_kutucu_berlin_dezeen_1704_col_7_jpg.jpg]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1690s|Date Bucket - 1690s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1710s|Date Bucket - 1710s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

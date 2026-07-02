@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[visit the clinic today by woshibai 2020 bab4ca19|visit the clinic today by woshibai 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/a friendly visit by william merritt chase 1895 66ff92c7|a friendly visit by william merritt chase 1895]] — shared language: visit
+- [[knowledge/wiki/images/david byrne talking heads suit today inline 180907 ea010dba5a613161fde2edfbc7164b6b 906c545b|david byrne talking heads suit today inline 180907 ea010dba5a613161fde2edfbc7164b6b]] — shared language: today
+- [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

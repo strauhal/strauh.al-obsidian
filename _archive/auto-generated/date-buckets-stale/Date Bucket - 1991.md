@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1900s/the_sound_of_distant_thunder_by_howard_terpning_1991.jpg]]
 
 ![[media/strauh.al3.1/1900s/walt_disney_concert_hall_sketch_by_frank_gehry_1991.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1990|Date Bucket - 1990]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1992|Date Bucket - 1992]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

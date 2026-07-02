@@ -34,3 +34,11 @@ Files: 11
 ![[media/strauh.al3.1/1900s/the_game_by_t_l_c_wacker_1976.jpg]]
 
 ![[media/strauh.al3.1/1900s/victor_frankenstein_in_his_laboratory_by_bernie_wrightson_1976.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1975|Date Bucket - 1975]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1977|Date Bucket - 1977]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

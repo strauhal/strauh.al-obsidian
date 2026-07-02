@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1843|Date Bucket - 1843]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1845|Date Bucket - 1845]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

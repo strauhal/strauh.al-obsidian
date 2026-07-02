@@ -1,10 +1,10 @@
 ---
 title: "printing videos"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/printing_videos.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/printing_videos.html"
 source_relpath: "printing_videos.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # printing videos
@@ -148,3 +148,16 @@ strauh.al/printing_videos
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
+- [[knowledge/wiki/pages/scripts|scripts]] — named in this note
+- [[knowledge/wiki/pages/disclaimer|disclaimer]] — named in this note
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video, frames, photoshop
+- [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — shared language: want
+- [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — shared language: printing
+- [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: python, using
+<!-- vault-crosslinks:end -->

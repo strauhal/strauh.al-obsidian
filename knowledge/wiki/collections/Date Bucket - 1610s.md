@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1610s"
 source_kind: "date_bucket"
-count: "11"
+count: "10"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1610s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 11
+Files: 10
 
 ## Sample
 
@@ -33,4 +33,10 @@ Files: 11
 
 ![[media/strauh.al3.1/comics/IMG_1618.JPG]]
 
-![[media/strauh.al3.1/unsorted/tumblr_f98f7fc5afa7c1615e89dc3ff676a469_4db5fb39_1280_jpg.jpg]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1600s|Date Bucket - 1600s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1620s|Date Bucket - 1620s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[clarksburg by miles hermann 2023 50448395|clarksburg by miles hermann 2023]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: hermann
+- [[knowledge/wiki/artists/Artist - mike kelley|Artist - mike kelley]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - milton avery|Artist - milton avery]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

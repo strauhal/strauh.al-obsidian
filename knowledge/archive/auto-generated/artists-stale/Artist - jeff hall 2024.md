@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john g hall 1980|Artist - john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
-- [[knowledge/wiki/images/oil painting of two large trees on a bluff overlooking a beach and ocean 8f8ccbf0|oil painting of two large trees on a bluff overlooking a beach and ocean]] — shared language: overlooking, ocean, beach
 - [[knowledge/wiki/artists/Artist - sydney prior hall|Artist - sydney prior hall]] — shared language: hall
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sydney prior hall 1868|Artist - sydney prior hall 1868]] — shared language: hall
 <!-- vault-crosslinks:end -->

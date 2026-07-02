@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/2023_downloadsfolder/1650465857281-bill-bernstein-paradise-garage-dance-floor-1979.webp]]
 
 ![[media/strauh.al3.1/photography/joseph-beuys-1979-E015HY.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1978|Date Bucket - 1978]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1980|Date Bucket - 1980]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

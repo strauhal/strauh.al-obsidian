@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1982|Artist - wayne thiebaud 1982]] — shared language: thiebaud, wayne
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1976|Artist - wayne thiebaud 1976]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1995|Artist - wayne thiebaud 1995]] — shared language: thiebaud, wayne
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1976|Artist - wayne thiebaud 1976]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1994|Artist - wayne thiebaud 1994]] — shared language: thiebaud, wayne
 - [[knowledge/wiki/artists/Artist - wayne thiebaud|Artist - wayne thiebaud]] — shared language: thiebaud, wayne, steep
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1956|Artist - wayne thiebaud 1956]] — shared language: thiebaud, wayne

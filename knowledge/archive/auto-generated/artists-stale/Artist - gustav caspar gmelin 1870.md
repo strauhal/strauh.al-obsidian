@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - gustav caspar gmelin|Artist - gustav caspar gmelin]] — named in this note
 - [[knowledge/wiki/artists/Artist - caspar david friedrich|Artist - caspar david friedrich]] — shared language: caspar
+- [[knowledge/wiki/images/woman at a window by caspar david friedrich 1822 178e827c|woman at a window by caspar david friedrich 1822]] — shared language: caspar
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: gustav
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1915|Artist - gustav klimt 1915]] — shared language: gustav
-- [[knowledge/wiki/images/marsh in the evening by caspar david friedrich c 1821 1c174ede|marsh in the evening by caspar david friedrich c 1821]] — shared language: caspar
 <!-- vault-crosslinks:end -->

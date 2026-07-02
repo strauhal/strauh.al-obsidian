@@ -14,11 +14,11 @@ Related: [[strauh.al Index]], [[strauh.al Image Archive]]
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: strauh.al, archive, related
-- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: strauh.al, related, archive
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: strauh.al, archive
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: strauh.al, archive
-- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: archive, strauh.al
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: strauh.al4, archive
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: strauh.al, archive
+- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: related, pages
+- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: related
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: converted
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: strauh.al4
+- [[knowledge/wiki/images/burberry website png 429f934c|burberry website png]] — shared language: website
+- [[knowledge/wiki/images/flowerkite website png 5b33fcc0|flowerkite website png]] — shared language: website
 <!-- vault-crosslinks:end -->

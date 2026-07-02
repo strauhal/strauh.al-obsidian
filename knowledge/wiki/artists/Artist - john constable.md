@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[cloud study by john constable c 1821 1822 4c243f31|cloud study by john constable c 1821 1822]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
+- [[knowledge/wiki/images/study of a woman by john singer sargent c 1900 54f87c3f|study of a woman by john singer sargent c 1900]] — shared language: john, study
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/images/a classical study by john william godward 1905 d33f157a|a classical study by john william godward 1905]] — shared language: john, study
+<!-- vault-crosslinks:end -->

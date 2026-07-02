@@ -1,7 +1,7 @@
 ---
 title: "arcakandamomaps1"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/arcakandamomaps1.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/arcakandamomaps1.jpg"
 source_relpath: "2023_downloadsfolder/arcakandamomaps1.jpg"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/arcakandamomaps1.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/arcakandamomaps1.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/arcakandamomaps1.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/arca c3841cfe|arca]] — nearby note in the same source series
+- [[knowledge/wiki/images/archers by katsushika hokusai c 1817 35e942c0|archers by katsushika hokusai c 1817]] — nearby note in the same source series
+- [[knowledge/wiki/images/april by william wendt 1910 52058ec3|april by william wendt 1910]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

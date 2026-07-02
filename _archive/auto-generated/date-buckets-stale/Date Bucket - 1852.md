@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1800s/the_destruction_of_sodom_and_gomorrah_by_john_martin_1852_2.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_virgin_adoring_the_host_by_jean_auguste_dominique_ingres_1852.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1851|Date Bucket - 1851]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1853|Date Bucket - 1853]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[the departure by thomas cole 1837 2ba808b3|the departure by thomas cole 1837]]
 - [[the voyage of life childhood by thomas cole 1842 07aec253|the voyage of life childhood by thomas cole 1842]]
 - [[the voyage of life manhood by thomas cole 1842 3cf3a5b7|the voyage of life manhood by thomas cole 1842]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: cole, thomas
+- [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: cole, thomas
+- [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: cole, thomas
+- [[knowledge/wiki/images/the angel appearing to the shepherds by thomas cole 18331834 2cc1b187|the angel appearing to the shepherds by thomas cole 18331834]] — shared language: cole, thomas
+- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/images/thomas cole the course of empire series 18331836 6b85e45c|thomas cole the course of empire series 18331836]] — shared language: cole, thomas
+<!-- vault-crosslinks:end -->

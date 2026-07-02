@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1500s/the_annunciation_to_the_shepherds_by_abraham_bloemaert_1599.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_annunciation_to_the_shepherds_by_jan_saenredam_1599.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1598|Date Bucket - 1598]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1600|Date Bucket - 1600]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

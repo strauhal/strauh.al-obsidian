@@ -159,3 +159,16 @@ Files: 96
 - [[YTC014Scopy 1024x1024 2x 2 742ab65b|YTC014Scopy 1024x1024 2x 2]]
 - [[jg092342 a7b6ef0e|jg092342]]
 - [[toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/regenschirme by toshi yoshida 2158e6d0|regenschirme by toshi yoshida]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/ytc014scopy 1024x1024 2x jpg b5f5611b|ytc014scopy 1024x1024 2x jpg]] — shared language: ytc014scopy, x1024
+- [[knowledge/wiki/images/yoshida toshi regenschirme jpg 8098c489|yoshida toshi regenschirme jpg]] — shared language: toshi, yoshida
+- [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — shared language: toshi, yoshida
+- [[knowledge/wiki/images/aspen by toshi yoshida 1973 9c39469e|aspen by toshi yoshida 1973]] — shared language: toshi, yoshida
+- [[knowledge/wiki/images/PG SoloPiano FinalAlbumCover 1 1024x1024 5504827c|PG SoloPiano FinalAlbumCover 1 1024x1024]] — shared language: x1024
+- [[knowledge/wiki/images/mt fuji from gotemba by toshi yoshida 1987 5828aa99|mt fuji from gotemba by toshi yoshida 1987]] — shared language: toshi, yoshida
+<!-- vault-crosslinks:end -->

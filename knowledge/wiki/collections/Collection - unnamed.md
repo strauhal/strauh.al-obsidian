@@ -265,3 +265,16 @@ Files: 311
 - [[IMG 0297 8fda5c60|IMG 0297]]
 
 _Only the first 200 image notes are listed here; search covers all 311._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/IMG 0298 dfe4aa3e|IMG 0298]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0299 f523b103|IMG 0299]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0300 25e65672|IMG 0300]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0301 63f8a28a|IMG 0301]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0302 ead867e8|IMG 0302]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0303 aedbc964|IMG 0303]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0304 79591b1e|IMG 0304]] — shared language: unnamed
+<!-- vault-crosslinks:end -->

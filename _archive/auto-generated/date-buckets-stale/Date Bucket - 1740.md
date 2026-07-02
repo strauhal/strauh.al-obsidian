@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1740.PNG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1739|Date Bucket - 1739]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1741|Date Bucket - 1741]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

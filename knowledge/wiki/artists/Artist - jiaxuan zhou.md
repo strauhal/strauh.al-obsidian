@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[body study by jiaxuan zhou 2024 9e59e379|body study by jiaxuan zhou 2024]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - shen zhou|Artist - shen zhou]] — shared language: zhou
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study, body
+- [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 67e7df75|poet on a mountain top by shen zhou c 1500]] — shared language: zhou
+- [[knowledge/wiki/images/poet on a mountain top by shen zhou c 1500 2 77c65482|poet on a mountain top by shen zhou c 1500 2]] — shared language: zhou
+- [[knowledge/wiki/images/movements of the body fe7ea923|movements of the body]] — shared language: body
+- [[knowledge/wiki/images/body prison by gigi 2021 53b86ec8|body prison by gigi 2021]] — shared language: body
+<!-- vault-crosslinks:end -->

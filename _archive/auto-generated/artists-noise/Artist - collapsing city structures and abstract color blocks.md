@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
 - [[knowledge/wiki/anchors/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, structures, figure
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: collapsing, abstract
-- [[knowledge/wiki/images/abstract geometric composition with concentric arcs and color blocks d0530a10|abstract geometric composition with concentric arcs and color blocks]] — shared language: blocks, color, abstract
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: city, abstract
 <!-- vault-crosslinks:end -->

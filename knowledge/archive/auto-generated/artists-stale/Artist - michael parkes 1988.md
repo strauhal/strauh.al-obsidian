@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1990|Artist - michael parkes 1990]] — shared language: parkes, michael
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1998|Artist - michael parkes 1998]] — shared language: parkes, michael
 - [[knowledge/wiki/artists/Artist - michael parkes|Artist - michael parkes]] — shared language: parkes, michael
-- [[knowledge/wiki/images/the star by michael parkes 1998 c739499c|the star by michael parkes 1998]] — shared language: parkes, michael
 - [[knowledge/wiki/images/the well by michael parkes 1990 06916479|the well by michael parkes 1990]] — shared language: parkes, michael
+- [[knowledge/wiki/images/the star by michael parkes 1998 c739499c|the star by michael parkes 1998]] — shared language: parkes, michael
 <!-- vault-crosslinks:end -->

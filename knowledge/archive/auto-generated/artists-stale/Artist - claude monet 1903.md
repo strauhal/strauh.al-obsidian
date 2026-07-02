@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/the houses of parliament sunset by claude monet 1903 12b1d3c1|the houses of parliament sunset by claude monet 1903]] — named in this note
 - [[knowledge/wiki/images/the houses of parliament sunset by claude monet 1903 3 40e3cd5a|the houses of parliament sunset by claude monet 1903 3]] — named in this note
 - [[knowledge/wiki/images/the houses of parliament sunset by claude monet 1904 80ee1d30|the houses of parliament sunset by claude monet 1904]] — named in this note
 - [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1903 3|Artist - claude monet 1903 3]] — shared language: monet, claude, parliament
 - [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1904|Artist - claude monet 1904]] — shared language: monet, claude, parliament
-- [[knowledge/wiki/artists/Artist - claude monet|Artist - claude monet]] — shared language: monet, claude, parliament
 <!-- vault-crosslinks:end -->

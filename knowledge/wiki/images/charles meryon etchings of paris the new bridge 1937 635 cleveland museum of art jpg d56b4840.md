@@ -23,3 +23,13 @@ Artist: Unknown
 Source: [[media/strauh.al3.1/unsorted/charles_meryon_etchings_of_paris_the_new_bridge_1937_635_cleveland_museum_of_art_jpg.jpg|source file]]
 
 Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/charles_meryon_etchings_of_paris_the_new_bridge_1937_635_cleveland_museum_of_art_jpg.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/artists/Artist - charles meryon|Artist - charles meryon]] — shared language: meryon, charles
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: art, new
+- [[knowledge/wiki/images/charles meryon the apse of notre dame paris 1854 ii jpg ecab51fd|charles meryon the apse of notre dame paris 1854 ii jpg]] — shared language: meryon, paris, charles
+- [[knowledge/wiki/images/le pont neuf by charles meryon 1853 30f6b52f|le pont neuf by charles meryon 1853]] — shared language: meryon, charles
+<!-- vault-crosslinks:end -->

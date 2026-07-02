@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1951|Artist - pablo picasso 1951]] — shared language: picasso, pablo, tete
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1923|Artist - pablo picasso 1923]] — shared language: picasso, pablo, femme
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: picasso, pablo, femme
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: picasso, pablo, woman
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1969|Artist - pablo picasso 1969]] — shared language: picasso, pablo, woman
 <!-- vault-crosslinks:end -->

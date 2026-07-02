@@ -36,3 +36,11 @@ Files: 12
 ![[media/strauh.al3.1/1800s/williamadolphe_bouguereau_the_sleep_le_sommeil_1873.jpg]]
 
 ![[media/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1872|Date Bucket - 1872]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1874|Date Bucket - 1874]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

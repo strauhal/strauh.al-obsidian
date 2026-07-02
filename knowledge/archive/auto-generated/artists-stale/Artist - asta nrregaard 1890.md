@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - asta nrregaard|Artist - asta nrregaard]] — named in this note
-- [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: sister, portrait
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: portrait
+- [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: sister
+- [[knowledge/archive/auto-generated/artists-stale/Artist - arthur rothstein 1936|Artist - arthur rothstein 1936]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

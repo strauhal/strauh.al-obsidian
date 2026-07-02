@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/la tentation de saint antoine by rene magritte 1946 9d625537|la tentation de saint antoine by rene magritte 1946]] — shared language: antoine, saint
+- [[knowledge/wiki/images/la tentation de saint antoine by felicien rops 1878 a7adc816|la tentation de saint antoine by felicien rops 1878]] — shared language: antoine, saint
+- [[knowledge/wiki/artists/Artist - alphonse de neuville|Artist - alphonse de neuville]] — shared language: alphonse
+- [[knowledge/wiki/images/le renseignement by alphonse de neuville 1880 7032c869|le renseignement by alphonse de neuville 1880]] — shared language: alphonse
+- [[knowledge/wiki/images/the interrogation by alphonse de neuville 1880 e792385b|the interrogation by alphonse de neuville 1880]] — shared language: alphonse
+- [[knowledge/wiki/artists/Artist - alphonse mucha|Artist - alphonse mucha]] — shared language: alphonse
+<!-- vault-crosslinks:end -->

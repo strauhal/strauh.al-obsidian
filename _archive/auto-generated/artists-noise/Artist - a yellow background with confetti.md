@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-yellow-background-with-confetti|Artist - a yellow background with confetti]] — shared language: confetti, yellow, background
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, holding, figure
+- [[knowledge/wiki/images/framed expressionist painting with red and yellow figures 0a69c0d0|framed expressionist painting with red and yellow figures]] — shared language: yellow, framed, red
 - [[knowledge/wiki/images/red figure wearing yellow goggles against a blue background 66556983|red figure wearing yellow goggles against a blue background]] — shared language: yellow, background, figure
 - [[knowledge/wiki/images/biomechanical figure with barbed elements on a yellow background b849d2af|biomechanical figure with barbed elements on a yellow background]] — shared language: yellow, background, figure
-- [[knowledge/wiki/images/expressionistic painting of two figures dancing against a red background with yellow lights 39376a24|expressionistic painting of two figures dancing against a red background with yellow lights]] — shared language: yellow, background, red
-- [[knowledge/wiki/images/large abstract painting with dark blue ribbed forms on a yellow background 2c9dd385|large abstract painting with dark blue ribbed forms on a yellow background]] — shared language: yellow, background
-- [[knowledge/wiki/images/digital visualization of orange and yellow lines on a dark blue background split horizontally 759de7db|digital visualization of orange and yellow lines on a dark blue background split horizontally]] — shared language: yellow, background
+- [[knowledge/wiki/images/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: background, dress, framed
 <!-- vault-crosslinks:end -->

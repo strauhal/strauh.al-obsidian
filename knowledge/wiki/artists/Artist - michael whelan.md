@@ -25,3 +25,14 @@ Images attributed by filename: 4
 - [[the dragon of the night by michael whelan 1977 43b27832|the dragon of the night by michael whelan 1977]]
 - [[the dragon s bride by michael whelan 1980 1480faff|the dragon s bride by michael whelan 1980]]
 - [[the wolfen book cover by michael whelan 1978 c6e6cb40|the wolfen book cover by michael whelan 1978]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael
+- [[knowledge/wiki/images/the path by michael parkes 1988 06f10797|the path by michael parkes 1988]] — shared language: michael
+- [[knowledge/wiki/images/the source by michael parkes 1990 70d2bc84|the source by michael parkes 1990]] — shared language: michael
+- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: michael
+- [[knowledge/wiki/artists/Artist - michael parkes|Artist - michael parkes]] — shared language: michael
+- [[knowledge/wiki/artists/Artist - michael goldberg|Artist - michael goldberg]] — shared language: michael
+<!-- vault-crosslinks:end -->

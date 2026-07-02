@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: star
 - [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: star
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: star
-- [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: pan
 - [[knowledge/wiki/artists/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: star
+- [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: pan
 <!-- vault-crosslinks:end -->

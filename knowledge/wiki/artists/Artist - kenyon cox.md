@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the tradition of art by kenyon cox 1915 8272a887|the tradition of art by kenyon cox 1915]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
+- [[knowledge/wiki/images/exhibition wall text titled tradition and the self discussing wayne thiebaud 439efd6e|exhibition wall text titled tradition and the self discussing wayne thiebaud]] — shared language: tradition
+- [[knowledge/wiki/artists/Artist - kentaro miura|Artist - kentaro miura]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

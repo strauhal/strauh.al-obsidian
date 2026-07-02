@@ -41,3 +41,16 @@ here forces the forward connection from the dream cluster to whatever comes next
 - [[Amor Fati]] — meeting what comes as necessary, even welcome.
 - [[The Oedipal Screen]] — the existing frame for perception-altering thresholds.
 - [[Megan]] — present on both sides of the line.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/images/connection map 409fea96|connection map]] — named in this note
+- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

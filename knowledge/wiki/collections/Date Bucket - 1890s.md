@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1890s"
 source_kind: "date_bucket"
-count: "156"
+count: "162"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1890s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 156
+Files: 162
 
 ## Sample
 
@@ -60,3 +60,11 @@ Files: 156
 ![[media/strauh.al3.1/1800s/cha_u_kao_by_henri_de_toulouse_lautrec_1893.jpeg]]
 
 ![[media/strauh.al3.1/1800s/charon_by_joaquin_sorolla_y_bastida_1898.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1880s|Date Bucket - 1880s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1900s|Date Bucket - 1900s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/portrait_of_the_musician_jean_baptiste_forqueray_by_jean_marc_nattier_c_1739.jpg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1739.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1738|Date Bucket - 1738]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1740|Date Bucket - 1740]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

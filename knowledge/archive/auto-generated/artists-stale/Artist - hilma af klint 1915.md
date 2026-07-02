@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - hilma af klint|Artist - hilma af klint]] — named in this note
 - [[knowledge/wiki/images/plate 97 by hilma af klint c 19001915 a9d185f3|plate 97 by hilma af klint c 19001915]] — shared language: hilma, klint
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hilda rix nicholas 1920|Artist - hilda rix nicholas 1920]] — nearby note in the same source series
+- [[knowledge/wiki/images/framed painting of a white swan on dark water d2b2bf06|framed painting of a white swan on dark water]] — shared language: swan
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[i m next by yoshitomo nara 2011 e669ee0d|i m next by yoshitomo nara 2011]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/rain at the toshodaiji temple nara by kawase hasui 1930 44a7f8bf|rain at the toshodaiji temple nara by kawase hasui 1930]] — shared language: nara
+- [[knowledge/wiki/artists/Artist - kawase hasui|Artist - kawase hasui]] — shared language: nara
+- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: nara
+- [[knowledge/wiki/images/the window next door by junji ito 1998 71bf9b58|the window next door by junji ito 1998]] — shared language: next
+<!-- vault-crosslinks:end -->

@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[reclining nude by henri gaudier brzeska c 1913 f8b0d6ca|reclining nude by henri gaudier brzeska c 1913]]
 - [[standing female nude with arms raised by henri gaudier brzeska c 1913 400aa9c7|standing female nude with arms raised by henri gaudier brzeska c 1913]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri
+- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: henri
+- [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: henri
+- [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — shared language: henri
+- [[knowledge/wiki/artists/Artist - henri manguin|Artist - henri manguin]] — shared language: henri, nude
+- [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: henri
+<!-- vault-crosslinks:end -->

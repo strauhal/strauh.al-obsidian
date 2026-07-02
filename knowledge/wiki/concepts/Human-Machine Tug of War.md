@@ -4,8 +4,8 @@ type: concept
 aliases: [tug of war, machine collaboration, negotiated authorship]
 tags: [concept, ai-art, authorship, control]
 sources: ["[[No More Human Art]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Human-Machine Tug of War
@@ -22,25 +22,26 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 - [[Latent Space]]
 - [[Spontaneity and Elegance]]
 - [[No More Human Art]]
+
 <!-- archive-links:start -->
 ## In the archive
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (9).** [[abstract generative line art with yellow green gradient and orange highlight 7be64794|abstract generative line art with yellow green gradient and orange highlight]] · [[abstract generative line drawing of intersecting black lines on beige background aa0725f4|abstract generative line drawing of intersecting black lines on beige background]] · [[black and white generative drawing of three vertical swirling forms c639147f|black and white generative drawing of three vertical swirling forms]] · [[black and white generative line drawing of abstract kinetic forms 0f796110|black and white generative line drawing of abstract kinetic forms]] · [[generative art butterfly composed of multicolored vertical bars 24aa390c|generative art butterfly composed of multicolored vertical bars]] · [[generative drawing of swirling overlapping forms composed of short black dashes 4da6f687|generative drawing of swirling overlapping forms composed of short black dashes]] · [[generative line art of layered arches and columns a8117a9b|generative line art of layered arches and columns]] · [[midjourney has now restricted access to their google doc v0 8m13d4aaew9c1 0536662b|midjourney has now restricted access to their google doc v0 8m13d4aaew9c1]] · [[pix2pix copy 07d244e2|pix2pix copy]]
+**Images (10).** [[abstract generative line art with yellow green gradient and orange highlight 7be64794|abstract generative line art with yellow green gradient and orange highlight]] · [[abstract generative line drawing of intersecting black lines on beige background aa0725f4|abstract generative line drawing of intersecting black lines on beige background]] · [[black and white generative drawing of three vertical swirling forms c639147f|black and white generative drawing of three vertical swirling forms]] · [[black and white generative line drawing of abstract kinetic forms 0f796110|black and white generative line drawing of abstract kinetic forms]] · [[generative art butterfly composed of multicolored vertical bars 24aa390c|generative art butterfly composed of multicolored vertical bars]] · [[generative drawing of swirling overlapping forms composed of short black dashes 4da6f687|generative drawing of swirling overlapping forms composed of short black dashes]] · [[generative line art of layered arches and columns a8117a9b|generative line art of layered arches and columns]] · [[meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] · [[midjourney has now restricted access to their google doc v0 8m13d4aaew9c1 0536662b|midjourney has now restricted access to their google doc v0 8m13d4aaew9c1]] · [[pix2pix copy 07d244e2|pix2pix copy]]
 
 <!-- archive-links:end -->
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: human-machine, tug, war
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: human-machine, tug, war
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: human-machine, tug, war
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, produces, vocal
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, color, gan
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, studies, gan
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process, work
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, gan, vocal
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, model, slop
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: elegance, spontaneity, whose
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, gan, ben
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, brush
 <!-- vault-crosslinks:end -->
 

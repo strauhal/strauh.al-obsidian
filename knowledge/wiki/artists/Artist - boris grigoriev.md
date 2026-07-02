@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the mulatto by boris grigoriev 1926 10c53833|the mulatto by boris grigoriev 1926]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - boris efimovich efimov|Artist - boris efimovich efimov]] — shared language: boris
+- [[knowledge/wiki/images/the capture of field marshal paulus by boris efimovich efimov 1943 5b681d4b|the capture of field marshal paulus by boris efimovich efimov 1943]] — shared language: boris
+- [[knowledge/wiki/artists/Artist - branching organic forms|Artist - branching organic forms]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

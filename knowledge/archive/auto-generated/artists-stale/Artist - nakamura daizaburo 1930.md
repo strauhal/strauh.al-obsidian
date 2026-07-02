@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - nakamura daizaburo|Artist - nakamura daizaburo]] — named in this note
 - [[knowledge/wiki/images/the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794 b41d2741|the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794]] — shared language: nakamura
+- [[knowledge/wiki/images/pink illustration of three women smoking 3494a2cf|pink illustration of three women smoking]] — shared language: women
+- [[knowledge/wiki/images/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: women
+- [[knowledge/wiki/images/painting of women on a balcony above a crowd 749aeaea|painting of women on a balcony above a crowd]] — shared language: women
 - [[knowledge/wiki/images/two women by willem de kooning 1954 f413895c|two women by willem de kooning 1954]] — shared language: women
-- [[knowledge/wiki/images/two women seated reading by edgar degas c 1878 30164653|two women seated reading by edgar degas c 1878]] — shared language: women
-- [[knowledge/wiki/images/oil painting of women reclining in a lush orientalist conservatory 07dd1565|oil painting of women reclining in a lush orientalist conservatory]] — shared language: women
-- [[knowledge/wiki/artists/Artist - toshusai sharaku|Artist - toshusai sharaku]] — shared language: nakamura
 <!-- vault-crosslinks:end -->

@@ -28,3 +28,14 @@ Images attributed by filename: 5
 - [[the stage by odd nerdrum 1982 cf9a265c|the stage by odd nerdrum 1982]]
 - [[the window by odd nerdrum 1981 50930230|the window by odd nerdrum 1981]]
 - [[belshazzar s feast by odd nerdrum 2005 68759adc|belshazzar s feast by odd nerdrum 2005]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2bd9914e|belshazzar s feast by john martin 1821]] — shared language: belshazzar, feast
+- [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2 9c833927|belshazzar s feast by john martin 1821 2]] — shared language: belshazzar, feast
+- [[knowledge/wiki/images/random distribution of 40 000 squares using the odd and even numbers of a telephone directory 50 blue 50 red by francois morellet 1960 566d4c69|random distribution of 40 000 squares using the odd and even numbers of a telephone directory 50 blue 50 red by francois morellet 1960]] — shared language: odd
+- [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: feast
+- [[knowledge/wiki/artists/Artist - francois morellet|Artist - francois morellet]] — shared language: odd
+- [[knowledge/wiki/images/kanye party cd913a48|kanye party]] — shared language: party
+<!-- vault-crosslinks:end -->

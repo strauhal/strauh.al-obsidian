@@ -46,3 +46,11 @@ Files: 17
 ![[media/strauh.al3.1/1900s/two_figures_in_a_room_by_francis_bacon_1968.jpg]]
 
 ![[media/strauh.al3.1/1900s/wall_of_bricks_by_christo_and_jeanne_claude_1968.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1967|Date Bucket - 1967]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1969|Date Bucket - 1969]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

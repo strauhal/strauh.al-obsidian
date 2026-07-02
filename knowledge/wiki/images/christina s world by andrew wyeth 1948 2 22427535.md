@@ -1,7 +1,7 @@
 ---
 title: "christina s world by andrew wyeth 1948 2"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg"
 source_relpath: "1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg"
 collection: "1900s"
 inferred_year: "1948"
@@ -22,4 +22,14 @@ Artist: [[Artist - andrew wyeth]]
 
 Source: [[media/strauh.al3.1/1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/christina_s_world_by_andrew_wyeth_1948_2.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/christina s world by andrew wyeth 1948 2412ff1a|christina s world by andrew wyeth 1948]] — same artist: andrew wyeth
+- [[knowledge/wiki/images/the lovers by andrew wyeth 1981 245509d0|the lovers by andrew wyeth 1981]] — same artist: andrew wyeth
+- [[knowledge/wiki/images/siri by andrew wyeth 1970 7d6dc271|siri by andrew wyeth 1970]] — same artist: andrew wyeth
+- [[knowledge/wiki/images/weatherside by andrew wyeth 1965 b9ba0671|weatherside by andrew wyeth 1965]] — same artist: andrew wyeth
+- [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: wyeth, andrew, world
+<!-- vault-crosslinks:end -->

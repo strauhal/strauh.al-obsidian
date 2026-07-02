@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the blue slip by richard e miller 1910 f65e8c7b|the blue slip by richard e miller 1910]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
+- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard, blue
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - ian miller|Artist - ian miller]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - sue miller|Artist - sue miller]] — shared language: miller
+- [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: miller
+<!-- vault-crosslinks:end -->

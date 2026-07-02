@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[interior of discovery one by robert mccall 1968 504bb933|interior of discovery one by robert mccall 1968]]
 - [[space station v by robert mccall 1968 1d4be7f1|space station v by robert mccall 1968]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: robert
+- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
+- [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: robert
+<!-- vault-crosslinks:end -->

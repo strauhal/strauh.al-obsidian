@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - milton h greene|Artist - milton h greene]] — named in this note
-- [[knowledge/wiki/images/sitting 5edf981f|sitting]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - milton avery 1957|Artist - milton avery 1957]] — shared language: milton
 - [[knowledge/wiki/artists/Artist - milton glaser|Artist - milton glaser]] — shared language: milton
 - [[knowledge/archive/auto-generated/artists-stale/Artist - milton glaser 1967|Artist - milton glaser 1967]] — shared language: milton
 - [[knowledge/wiki/artists/Artist - milton avery|Artist - milton avery]] — shared language: milton
+- [[knowledge/wiki/images/woman in blue dress by milton avery 1957 153ccffb|woman in blue dress by milton avery 1957]] — shared language: milton
 <!-- vault-crosslinks:end -->

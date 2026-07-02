@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jeremy deller|Artist - jeremy deller]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2019|Artist - jeremy lipking 2019]] — shared language: jeremy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2014|Artist - jeremy lipking 2014]] — shared language: jeremy
 - [[knowledge/wiki/artists/Artist - jeremy geddes|Artist - jeremy geddes]] — shared language: jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy geddes 2013|Artist - jeremy geddes 2013]] — shared language: jeremy

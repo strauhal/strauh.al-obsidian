@@ -1,10 +1,10 @@
 ---
 title: "music"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/music.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/music.html"
 source_relpath: "music.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # music
@@ -503,3 +503,16 @@ strauh.al/knowledge_base/music
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
+- [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
+- [[knowledge/wiki/images/pete swanson PR e1360767839462 d62b7513|pete swanson PR e1360767839462]] — named in this note
+- [[knowledge/wiki/pages/knowledge base music|knowledge base music]] — named in this note
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+<!-- vault-crosslinks:end -->

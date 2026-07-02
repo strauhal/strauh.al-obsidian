@@ -31,12 +31,12 @@ and the more serious work of [[Implicit Distance]].
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance, influences
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: label, slop, record
 - [[knowledge/wiki/images/ryuichi sakamoto 9feaef1f|ryuichi sakamoto]] — shared language: ryuichi, sakamoto, influences
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, sits, whose
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, sits, listed
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, hinge
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, influences, distance
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, sakamoto, ryuichi
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: distance, implicit
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: slop, ernest's
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, turning, music
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: influences, another, ernest's
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, ernest's
 <!-- vault-crosslinks:end -->

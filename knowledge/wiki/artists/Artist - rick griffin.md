@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[friends album cover by rick griffin 1968 8c24c70f|friends album cover by rick griffin 1968]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - rick guidice|Artist - rick guidice]] — shared language: rick
+- [[knowledge/wiki/anchors/rick-tetzeli|Rick Tetzeli]] — shared language: rick
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: rick
+- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: rick
+- [[knowledge/wiki/images/interior of the o neill cylinder by rick guidice 1975 e261b2df|interior of the o neill cylinder by rick guidice 1975]] — shared language: rick
+- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+<!-- vault-crosslinks:end -->

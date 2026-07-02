@@ -60,3 +60,11 @@ Files: 25
 ![[media/strauh.al3.1/2000s/the_queen_by_harmonia_rosales_2021.jpeg]]
 
 ![[media/strauh.al3.1/2000s/this_old_bones_needs_rest_by_samuel_g_gonzalez_2021.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2020|Date Bucket - 2020]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2022|Date Bucket - 2022]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

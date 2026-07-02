@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1800s/l_ange_dechu_the_fallen_angel_by_alexandre_cabanel_1847.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_interior_of_the_cathedral_of_st_jacques_antwerp_by_louis_haghe_1847.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1846|Date Bucket - 1846]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1848|Date Bucket - 1848]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

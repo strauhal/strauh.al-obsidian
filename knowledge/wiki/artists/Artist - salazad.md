@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the familiar by salazad 2019 759f9a3c|the familiar by salazad 2019]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - salaam|Artist - salaam]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - salman toor|Artist - salman toor]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - sachiko kuru|Artist - sachiko kuru]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

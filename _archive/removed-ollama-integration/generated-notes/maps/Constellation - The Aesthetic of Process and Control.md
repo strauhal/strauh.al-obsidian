@@ -28,12 +28,12 @@ How the act of creation—whether technical or artistic—reveals a tension betw
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: aesthetic, terry, davis
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: control, process, human
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: process, generative, machine
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: color, human-machine, tug
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: process, control, machine
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: control, judgment, color
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: control, color, human-machine
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, human
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: control, human-machine, tug
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, output, model
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: control, loop, color
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: necessary, tension
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, process
 <!-- vault-crosslinks:end -->

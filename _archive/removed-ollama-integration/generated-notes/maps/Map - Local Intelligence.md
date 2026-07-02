@@ -34,11 +34,11 @@ The audit trail for knowledge created by local models. These notes remain ordina
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — named in this note
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — named in this note
 - [[knowledge/wiki/images/connection map 409fea96|connection map]] — named in this note
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: control, process, ernest's
 - [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: cross-linked
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: remain, material, control
-- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: memory, review, remain
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: observer, separate
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen, body, knowledge
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: process, control, thinking
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: remain, control, material
 <!-- vault-crosslinks:end -->

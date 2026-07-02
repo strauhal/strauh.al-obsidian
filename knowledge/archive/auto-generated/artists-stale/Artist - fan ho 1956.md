@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/fan-ho|fan ho]] — shared language: fan
 - [[_archive/auto-generated/concept-stubs/fan ho|fan ho]] — shared language: fan
 - [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: fan
+- [[knowledge/wiki/images/framed closeup of a hand holding a fan 3ebb07e7|framed closeup of a hand holding a fan]] — shared language: fan
 - [[knowledge/wiki/images/woodblock print of a moonlit landscape with bushes in a fan shape 1543f616|woodblock print of a moonlit landscape with bushes in a fan shape]] — shared language: fan
-- [[knowledge/wiki/images/scroll painting of a standing woman in elaborate red and green robes holding a fan 3ce1ac9f|scroll painting of a standing woman in elaborate red and green robes holding a fan]] — shared language: fan
 <!-- vault-crosslinks:end -->

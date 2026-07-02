@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the decline and fall of the roman empire after edward gibbon by mishka henner 2011 e8feb1e7|the decline and fall of the roman empire after edward gibbon by mishka henner 2011]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — shared language: fall
+- [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
+- [[knowledge/wiki/images/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: roman
+- [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: edward
+- [[knowledge/wiki/images/thomas cole the course of empire series 18331836 6b85e45c|thomas cole the course of empire series 18331836]] — shared language: empire
+- [[knowledge/wiki/artists/Artist - edward kemeys|Artist - edward kemeys]] — shared language: edward
+<!-- vault-crosslinks:end -->

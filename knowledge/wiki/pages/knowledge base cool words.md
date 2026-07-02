@@ -1,10 +1,10 @@
 ---
 title: "knowledge base cool words"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/cool_words.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/cool_words.html"
 source_relpath: "knowledge_base/cool_words.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base cool words
@@ -49,11 +49,15 @@ strauh.al/knowledge_base/cool_words
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
+<!-- vault-crosslinks:start -->
+## Discovered Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 1 of 25 links connected (1 nodes).*
-
-**[[The Spatial Web]]** — [Topic Q&A List](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Numbers.html?page=2)
-
-<!-- kb-links:end -->
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/images/finder 75a55db0|finder]] — named in this note
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: knowledge, meaning
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, none
+- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: knowledge, concepts
+<!-- vault-crosslinks:end -->

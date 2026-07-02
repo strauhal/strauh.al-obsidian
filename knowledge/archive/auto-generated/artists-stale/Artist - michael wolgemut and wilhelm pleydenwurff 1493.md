@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - michael wolgemut and wilhelm pleydenwurff|Artist - michael wolgemut and wilhelm pleydenwurff]] — named in this note
 - [[knowledge/wiki/collections/Collection - 1400s|Collection - 1400s]] — shared language: wolgemut, wilhelm, apostles
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: wilhelm, michael
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael
 - [[knowledge/archive/auto-generated/artists-stale/Artist - johann wilhelm schirmer 1840|Artist - johann wilhelm schirmer 1840]] — shared language: wilhelm
 - [[knowledge/archive/auto-generated/artists-stale/Artist - johann wilhelm schirmer 1845|Artist - johann wilhelm schirmer 1845]] — shared language: wilhelm
-- [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1988|Artist - michael parkes 1988]] — shared language: michael
 <!-- vault-crosslinks:end -->

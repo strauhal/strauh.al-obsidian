@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1800s/edward_william_cooke_the_dogana_and_santa_maria_della_salute_venice_at_sunset_1851.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1850|Date Bucket - 1850]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1852|Date Bucket - 1852]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

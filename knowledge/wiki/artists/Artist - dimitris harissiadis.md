@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[nikos kazantzakis by dimitris harissiadis 1955 2800c7f8|nikos kazantzakis by dimitris harissiadis 1955]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - dieric bouts|Artist - dieric bouts]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - dmitry grebenkov|Artist - dmitry grebenkov]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - diego velazquez|Artist - diego velazquez]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

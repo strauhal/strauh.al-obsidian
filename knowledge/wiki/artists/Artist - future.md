@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[ds2 dirty sprite 2 album cover by future 2015 55e0546c|ds2 dirty sprite 2 album cover by future 2015]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: future
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
+- [[knowledge/wiki/images/the future of senses editorial jpg 757f753b|the future of senses editorial jpg]] — shared language: future
+- [[knowledge/wiki/images/the future of senses editorial image 97c2aee6|the future of senses editorial image]] — shared language: future
+- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
+- [[knowledge/wiki/images/future city by hiroshi nagai 1981 21d963e5|future city by hiroshi nagai 1981]] — shared language: future
+<!-- vault-crosslinks:end -->

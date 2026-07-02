@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - grzegorz chudy|Artist - grzegorz chudy]] — named in this note
+- [[knowledge/wiki/images/line drawing portrait with pixelated cyan and magenta blocks 0f1dd1a3|line drawing portrait with pixelated cyan and magenta blocks]] — shared language: blocks
 - [[knowledge/wiki/anchors/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
 - [[_archive/auto-generated/artists-noise/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
 - [[knowledge/wiki/artists/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
-- [[knowledge/wiki/images/line drawing portrait with pixelated cyan and magenta blocks 0f1dd1a3|line drawing portrait with pixelated cyan and magenta blocks]] — shared language: blocks
 - [[knowledge/wiki/images/abstract geometric painting with magenta orange blue and dark teal blocks e23e4183|abstract geometric painting with magenta orange blue and dark teal blocks]] — shared language: blocks
 <!-- vault-crosslinks:end -->

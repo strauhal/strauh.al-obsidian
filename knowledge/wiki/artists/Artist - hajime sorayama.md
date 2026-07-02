@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the mask by hajime sorayama 1983 300121a2|the mask by hajime sorayama 1983]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
+- [[knowledge/wiki/images/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
+- [[knowledge/wiki/images/black and white photograph of a fencer wearing a mask viewed from the back 3173554b|black and white photograph of a fencer wearing a mask viewed from the back]] — shared language: mask
+- [[knowledge/wiki/images/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
+- [[knowledge/wiki/images/person wearing a black monkey mask in a gallery 986a02de|person wearing a black monkey mask in a gallery]] — shared language: mask
+- [[knowledge/wiki/images/animated drawing of a soldier in a gas mask using a computer 408f87cc|animated drawing of a soldier in a gas mask using a computer]] — shared language: mask
+<!-- vault-crosslinks:end -->

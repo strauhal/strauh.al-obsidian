@@ -1,10 +1,10 @@
 ---
 title: "artists gio swaby"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/gio_swaby.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/gio_swaby.html"
 source_relpath: "artists/gio_swaby.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists gio swaby
@@ -34,3 +34,16 @@ strauh.al/artists/gio_swaby
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/IMG 3058 c2e3b418|IMG 3058]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3059 23345b12|IMG 3059]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3060 52a10738|IMG 3060]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3061 52df665b|IMG 3061]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3062 4db9e5af|IMG 3062]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3063 ba6ab037|IMG 3063]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3064 119d7040|IMG 3064]] — shared language: artists, gio, swaby
+- [[knowledge/wiki/images/IMG 3065 6fd2db21|IMG 3065]] — shared language: artists, gio, swaby
+<!-- vault-crosslinks:end -->

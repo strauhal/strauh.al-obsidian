@@ -60,3 +60,11 @@ Files: 31
 ![[media/strauh.al3.1/1900s/rhythmic_rhythmisch_by_paul_klee_1930.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_concert_by_pavel_tchelitchew_1930.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1929|Date Bucket - 1929]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1931|Date Bucket - 1931]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

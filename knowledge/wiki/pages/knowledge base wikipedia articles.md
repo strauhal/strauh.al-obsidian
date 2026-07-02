@@ -1,10 +1,10 @@
 ---
 title: "knowledge base wikipedia articles"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/wikipedia_articles.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/wikipedia_articles.html"
 source_relpath: "knowledge_base/wikipedia_articles.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base wikipedia articles
@@ -657,3 +657,16 @@ strauh.al/knowledge_base/wikipedia_articles
 **[[Transmitting My Neural Signals by Hand]]** — [Guqin notation](https://en.wikipedia.org/wiki/Guqin_notation)
 
 <!-- kb-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — named in this note
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — named in this note
+- [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — named in this note
+- [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — named in this note
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/anchors/satoshi-kon|Satoshi Kon]] — named in this note
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1580s"
 source_kind: "date_bucket"
-count: "12"
+count: "14"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1580s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 12
+Files: 14
 
 ## Sample
 
@@ -36,3 +36,15 @@ Files: 12
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1582.PNG]]
 
 ![[media/strauh.al3.1/computers/tumblr_d633f647f138b3a5ddfa6c6cc1580d70_ab79f538_1280.jpg]]
+
+![[media/strauh.al3.1/unsorted/mucius_scaevola_by_hendrick_goltzius_1586.jpg]]
+
+![[media/strauh.al3.1/unsorted/the_artists_right_hand_by_hendrick_goltzius_1588.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1570s|Date Bucket - 1570s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1590s|Date Bucket - 1590s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

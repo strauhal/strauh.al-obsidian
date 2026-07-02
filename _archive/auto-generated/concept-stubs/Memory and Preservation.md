@@ -13,13 +13,13 @@ This note exists because generated pages linked this spelling or alias. The rich
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, spelling, alias
-- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, spelling, alias
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/The Internet
-as Confidant|The Internet]] — shared language: canonical, spelling, alias
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: memory, see
-- [[_archive/auto-generated/concept-stubs/mockup|mockup]] — shared language: canonical, spelling, alias
+as Confidant|The Internet]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
+- [[_archive/auto-generated/concept-stubs/mockup|mockup]] — shared language: canonical, alias, richer
+- [[_archive/auto-generated/concept-stubs/Dreams Series|Dreams Series]] — shared language: canonical, alias, richer
 <!-- vault-crosslinks:end -->

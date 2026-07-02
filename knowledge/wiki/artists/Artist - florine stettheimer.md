@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[cathedrals of art by florine stettheimer 1942 81c051d3|cathedrals of art by florine stettheimer 1942]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
+- [[knowledge/wiki/artists/Artist - floral motifs|Artist - floral motifs]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - flowers|Artist - flowers]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

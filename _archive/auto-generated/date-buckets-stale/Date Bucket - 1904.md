@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/william_mcgregor_paxton_the_chariot_of_pegasus_1904.jpg]]
 
 ![[media/strauh.al3.1/computers/tumblr_57a80d9e55196c848d917207b6b2dcd8_b1904af1_2048.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1903|Date Bucket - 1903]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1905|Date Bucket - 1905]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "diary"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diary.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/diary.html"
 source_relpath: "diary.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # diary
@@ -622,6 +622,27 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
  also how arrogant of me to assume that i could even finish a sizable chunk of phenomenology of spirit in three months. i set aside 2-3 days a week just to read that book and i only just finished reading the introduction after being stuck in the preface.
 
+## june 24th, 2026
+
+ quite a bit has happened in the year and a half since i put a gun to my head. i drove all the way from california to illinois with my father to retrieve my things from my aunt and uncle's basement, got a new job teaching piano to the elderly and disabled, , got married, moved into an apartment with my wife, and now i am thinking about publishing this diary along with some drawings and letting a larger group of people into my mind.
+
+a year or two ago, the thought of publishing my writing occurred to me but i dismissed it because i felt that there were so many other talented writers and i didn’t quite feel like my writing was up to their level. self pity aside, regarding the current literary climate which is currently drowning in AI generated sludge and fantasy themed smut, i think there might be some people out there that might benefit from reading my writings which are painfully human and were made during a pivotal time in my life
+
+thank you for reading
+
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — named in this note
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — named in this note
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
+- [[knowledge/wiki/images/1960 d by clyfford still 1960 04b9f7ee|1960 d by clyfford still 1960]] — named in this note
+- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+<!-- vault-crosslinks:end -->

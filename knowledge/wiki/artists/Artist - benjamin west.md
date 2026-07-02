@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[the death of general wolfe by benjamin west 1770 2 41ce179a|the death of general wolfe by benjamin west 1770 2]]
 - [[venus and adonis by benjamin west 1768 751271b2|venus and adonis by benjamin west 1768]]
 - [[death on the pale horse by benjamin west 1802 58d2c088|death on the pale horse by benjamin west 1802]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: benjamin
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: benjamin
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: benjamin
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: benjamin
+- [[knowledge/wiki/artists/Artist - kanye west|Artist - kanye west]] — shared language: west
+<!-- vault-crosslinks:end -->

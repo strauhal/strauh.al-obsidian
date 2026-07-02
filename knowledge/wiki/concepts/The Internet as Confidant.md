@@ -45,23 +45,22 @@ that i can capture in html."
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (7).** [[burberry website png 429f934c|burberry website png]] · [[flowerkite website png 5b33fcc0|flowerkite website png]] · [[h mag blog post only steichen perfection in black 12974030880340357017 jpg 9fb021a5|h mag blog post only steichen perfection in black 12974030880340357017 jpg]] · [[the end of the internet by constant dullaart 2013 29d15776|the end of the internet by constant dullaart 2013]] · [[the internet map by barrett lyon 2003 d6634a88|the internet map by barrett lyon 2003]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]] · [[website robbin lockett 1989 final width 1200 jpg 3210e316|website robbin lockett 1989 final width 1200 jpg]]
+**Images (8).** [[burberry website png 429f934c|burberry website png]] · [[flowerkite website png 5b33fcc0|flowerkite website png]] · [[flowerkite website poster 88d11050|flowerkite website poster]] · [[h mag blog post only steichen perfection in black 12974030880340357017 jpg 9fb021a5|h mag blog post only steichen perfection in black 12974030880340357017 jpg]] · [[the end of the internet by constant dullaart 2013 29d15776|the end of the internet by constant dullaart 2013]] · [[the internet map by barrett lyon 2003 d6634a88|the internet map by barrett lyon 2003]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]] · [[website robbin lockett 1989 final width 1200 jpg 3210e316|website robbin lockett 1989 final width 1200 jpg]]
 
 **Books (2).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
 - [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: internet, confidant, screen
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: internet, confidant
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, confidant, diary
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: diary, reads
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, leaving, archive
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

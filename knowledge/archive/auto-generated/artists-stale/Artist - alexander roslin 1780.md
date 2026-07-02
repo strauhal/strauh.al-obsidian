@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - alexander roslin|Artist - alexander roslin]] — named in this note
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: alexander
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alexander rodchenko 1924|Artist - alexander rodchenko 1924]] — shared language: alexander, portrait
 - [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alexander rodchenko 1924|Artist - alexander rodchenko 1924]] — shared language: alexander
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alexander rodchenko 1930|Artist - alexander rodchenko 1930]] — shared language: alexander
 <!-- vault-crosslinks:end -->

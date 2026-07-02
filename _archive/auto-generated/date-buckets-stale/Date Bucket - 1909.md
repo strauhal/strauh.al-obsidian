@@ -44,3 +44,11 @@ Files: 16
 ![[media/strauh.al3.1/1900s/ulysses_and_the_sirens_by_herbert_james_draper_1909.jpg]]
 
 ![[media/strauh.al3.1/1900s/wildly_dancing_children_by_emil_nolde_1909.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1908|Date Bucket - 1908]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1910|Date Bucket - 1910]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

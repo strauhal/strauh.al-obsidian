@@ -1,7 +1,7 @@
 ---
 title: "nakagin capsule tower building floor plan by kisho kurokawa 1972"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg"
 source_relpath: "1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg"
 collection: "1900s"
 inferred_year: "1972"
@@ -22,4 +22,14 @@ Artist: [[Artist - kisho kurokawa]]
 
 Source: [[media/strauh.al3.1/1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kurokawa_1972.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/nakagin capsule tower building sectional drawing sheet a21 by kisho kurokawa 1972 af54cae0|nakagin capsule tower building sectional drawing sheet a21 by kisho kurokawa 1972]] — same artist: kisho kurokawa
+- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
+- [[knowledge/wiki/artists/Artist - kurokawa toru|Artist - kurokawa toru]] — shared language: kurokawa
+- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 e4f40622|aggregate a by kurokawa toru 2016]] — shared language: kurokawa
+<!-- vault-crosslinks:end -->

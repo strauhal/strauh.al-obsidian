@@ -16,3 +16,12 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[el gran capitan recorriendo el campo de la batalla de cerinola by federico de madrazo y kuntz 1835 a841e37b|el gran capitan recorriendo el campo de la batalla de cerinola by federico de madrazo y kuntz 1835]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - federico moja|Artist - federico moja]] — shared language: federico
+- [[knowledge/wiki/images/the doge s palace venice by federico moja 1855 5dfcf85e|the doge s palace venice by federico moja 1855]] — shared language: federico
+- [[knowledge/wiki/artists/Artist - alberto campo baeza|Artist - alberto campo baeza]] — shared language: campo
+- [[knowledge/wiki/images/piano by alberto campo baeza 2010 5d067115|piano by alberto campo baeza 2010]] — shared language: campo
+<!-- vault-crosslinks:end -->

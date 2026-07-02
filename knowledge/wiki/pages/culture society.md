@@ -1,10 +1,10 @@
 ---
 title: "culture society"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/culture_society.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/culture_society.html"
 source_relpath: "culture_society.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # culture society
@@ -466,3 +466,16 @@ strauh.al/culture_society
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/img 1331 png 8e341b79|img 1331 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 7e677750|img 5472 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 2 303ff8a8|img 5472 png 2]] — named in this note
+- [[knowledge/wiki/images/img 0629 webp 5656a346|img 0629 webp]] — named in this note
+- [[knowledge/wiki/anchors/skrillex|Skrillex]] — named in this note
+- [[knowledge/wiki/images/147378719 3706090259475920 3846741166612908716 n bdf93dfd|147378719 3706090259475920 3846741166612908716 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/21743235 522354954780101 5330403764447892523 n 2e537d81|21743235 522354954780101 5330403764447892523 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/240111945 10218557475440333 7544815377457412080 n 900c8267|240111945 10218557475440333 7544815377457412080 n]] — shared language: n.jpg
+<!-- vault-crosslinks:end -->

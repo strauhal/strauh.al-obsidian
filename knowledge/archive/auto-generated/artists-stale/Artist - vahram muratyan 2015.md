@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: forest
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roy de forest 2001|Artist - roy de forest 2001]] — shared language: forest
 - [[knowledge/wiki/images/dog star ii by roy de forest 2001 db67f2a4|dog star ii by roy de forest 2001]] — shared language: forest
+- [[knowledge/wiki/images/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: forest
 - [[knowledge/wiki/images/dance of the forest ka by frank balaam 6d67d4db|dance of the forest ka by frank balaam]] — shared language: forest
-- [[knowledge/wiki/images/pine forest by ivan shishkin 1890 3a1979f2|pine forest by ivan shishkin 1890]] — shared language: forest
 <!-- vault-crosslinks:end -->

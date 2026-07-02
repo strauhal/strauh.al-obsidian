@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/painting of feet in a bathtub under a running faucet 8b5282be|painting of feet in a bathtub under a running faucet]] — shared language: running
 - [[knowledge/wiki/images/photograph of detained men on dirt mounds in a war damaged city 54067047|photograph of detained men on dirt mounds in a war damaged city]] — shared language: men
 - [[knowledge/wiki/images/watercolor illustration of two men rowing a shell f72689da|watercolor illustration of two men rowing a shell]] — shared language: men
-- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: running
+- [[knowledge/wiki/images/framed black and white group portrait of men in suits 478bf54d|framed black and white group portrait of men in suits]] — shared language: men
 <!-- vault-crosslinks:end -->

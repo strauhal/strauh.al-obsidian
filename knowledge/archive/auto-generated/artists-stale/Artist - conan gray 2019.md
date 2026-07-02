@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - conan gray|Artist - conan gray]] — named in this note
 - [[knowledge/wiki/images/conan on horseback by frank frazetta 1977 88aa0f48|conan on horseback by frank frazetta 1977]] — shared language: conan
 - [[knowledge/wiki/images/conan the adventurer by frank frazetta 1966 83b349ae|conan the adventurer by frank frazetta 1966]] — shared language: conan
-- [[knowledge/wiki/images/scanning electron micrograph of a gray polyhedral microstructure on a textured background b3dde473|scanning electron micrograph of a gray polyhedral microstructure on a textured background]] — shared language: gray
-- [[knowledge/wiki/images/gray by roger bissiere 1958 b6836e61|gray by roger bissiere 1958]] — shared language: gray
-- [[knowledge/wiki/artists/Artist - gray lines and the word smac|Artist - gray lines and the word smac]] — shared language: gray
+- [[knowledge/wiki/images/gray abstract line drawing of a seated figure 55e4cfe5|gray abstract line drawing of a seated figure]] — shared language: gray
+- [[knowledge/wiki/images/framed small portrait of a woman in white against gray 66b0d3a4|framed small portrait of a woman in white against gray]] — shared language: gray
+- [[knowledge/wiki/images/framed geometric abstract painting with orange green and gray curves cd96e050|framed geometric abstract painting with orange green and gray curves]] — shared language: gray
 <!-- vault-crosslinks:end -->

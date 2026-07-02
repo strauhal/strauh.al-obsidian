@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[the fortune teller by gil elvgren 1940 e55d4e4d|the fortune teller by gil elvgren 1940]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/tea-scones-and-socially-responsible-sex-magic-the-egalitarian-occultism-of-dion-fortune|Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune]] — shared language: fortune
+- [[knowledge/wiki/artists/Artist - juergen teller|Artist - juergen teller]] — shared language: teller
+- [[knowledge/wiki/images/vivienne westwood campaign spring summer 1994 by juergen teller 1994 90abc1f4|vivienne westwood campaign spring summer 1994 by juergen teller 1994]] — shared language: teller
+<!-- vault-crosslinks:end -->

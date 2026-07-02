@@ -2,7 +2,7 @@
 title: Current Cultural Diet
 slug: current-cultural-diet
 type: source
-ingested: 2026-06-22
+ingested: 2026-07-01
 compiled: true
 tags: [raw, culture, reading, listening, watching]
 ---
@@ -147,8 +147,8 @@ Supplied by Ernest on 2026-06-22. Wording is lightly normalized in compiled note
 
 - [[knowledge/wiki/anchors/yuval-noah-harari|Yuval Noah Harari]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/anchors/ayn-rand|Ayn Rand]] — named in this note
 - [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note

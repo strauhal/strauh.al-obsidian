@@ -31,11 +31,11 @@ rad project, seriously.
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
-- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — same category: site-feedback
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — same category: site-feedback
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken, link, site
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: link, site, strauh.al
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: broken, friend, strauh.al
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, site
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken, site, link
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: link, feels, site
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: link, site
 <!-- vault-crosslinks:end -->

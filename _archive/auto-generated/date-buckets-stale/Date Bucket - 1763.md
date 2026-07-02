@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1700s/engraving_of_anatomical_studies_of_human_eyes_and_noses_plate_titled_dessein_1763.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1762|Date Bucket - 1762]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1765|Date Bucket - 1765]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

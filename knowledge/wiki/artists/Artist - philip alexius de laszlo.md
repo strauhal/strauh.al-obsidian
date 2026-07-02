@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913 1eca5363|portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - laszlo moholy nagy|Artist - laszlo moholy nagy]] — shared language: laszlo
+- [[knowledge/wiki/images/composition by laszlo moholy nagy 1929 e8f4f4e8|composition by laszlo moholy nagy 1929]] — shared language: laszlo
+- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
+- [[knowledge/wiki/images/john philip sousa e5034438|john philip sousa]] — shared language: philip
+<!-- vault-crosslinks:end -->

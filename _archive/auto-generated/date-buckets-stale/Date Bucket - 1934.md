@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/triumph_des_todes_death_s_triumph_by_albin_egger_lienz_1934.jpeg]]
 
 ![[media/strauh.al3.1/artists/degas/CIA_CIA_P_1934_SC_89-001.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1933|Date Bucket - 1933]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1935|Date Bucket - 1935]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "knowledge base speed racer"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/speed_racer.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/speed_racer.html"
 source_relpath: "knowledge_base/speed_racer.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base speed racer
@@ -33,11 +33,15 @@ strauh.al/knowledge_base/speed_racer
 
 - None yet
 
-<!-- kb-links:start -->
-## Connections
+<!-- vault-crosslinks:start -->
+## Discovered Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 1 of 9 links connected (1 nodes).*
-
-**[[The Spatial Web]]** — [Speed Racer Script - transcript from the screenplay and/or the Wachowski movie with Emile Hirsch](http://www.script-o-rama.com/movie_scripts/a1/speed-racer-script-transcript-wachowski.html)
-
-<!-- kb-links:end -->
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, none
+- [[knowledge/wiki/culture/movie-speed-racer-2008|Watchlist - Speed Racer (2008)]] — shared language: racer, speed
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: knowledge, concepts
+- [[knowledge/wiki/pages/knowledge base cool words|knowledge base cool words]] — shared language: base, knowledge, none
+- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: knowledge
+<!-- vault-crosslinks:end -->

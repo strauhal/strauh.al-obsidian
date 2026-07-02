@@ -28,3 +28,11 @@ Images attributed by filename: 5
 - [[jatayu vadham by raja ravi varma c 1900 8188d2ff|jatayu vadham by raja ravi varma c 1900]]
 - [[kali by raja ravi varma c 18961905 8b4ee42a|kali by raja ravi varma c 18961905]]
 - [[the procession of rama by raja ravi varma c 1900 b5592c73|the procession of rama by raja ravi varma c 1900]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/screenshot of a digital avatar profile with a farewell message 9b6bc982|screenshot of a digital avatar profile with a farewell message]] — shared language: avatar
+- [[knowledge/wiki/artists/Artist - radiating light and clouds|Artist - radiating light and clouds]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - ralph mcquarrie|Artist - ralph mcquarrie]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "morning light by william maus"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/morning_light_by_william_maus.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/morning_light_by_william_maus.jpeg"
 source_relpath: "2000s/morning_light_by_william_maus.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: [[Artist - william maus]]
 
 Source: [[media/strauh.al3.1/2000s/morning_light_by_william_maus.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/morning_light_by_william_maus.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/morning_light_by_william_maus.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
+- [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — shared language: william
+- [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
+- [[knowledge/wiki/artists/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light
+<!-- vault-crosslinks:end -->

@@ -32,10 +32,10 @@ hollowed out the audience for sustained creative work.
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: label, record, economy
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: economy, attention, diary
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: attention, feed, sustained
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: diary, audience
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: record, diary, ryuichi
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: got, diary, summary
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: economy, attention, feed
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: got, diary, summary
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative, attention, summary
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: economy, attention, diary
+- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, summary, sources
 <!-- vault-crosslinks:end -->

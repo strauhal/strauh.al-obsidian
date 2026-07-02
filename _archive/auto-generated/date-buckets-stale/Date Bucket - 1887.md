@@ -60,3 +60,11 @@ Files: 25
 ![[media/strauh.al3.1/1800s/valentin_serov_girl_with_peaches_1887.jpg]]
 
 ![[media/strauh.al3.1/1800s/view_of_camogli_by_andreas_sitterath_1887.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1886|Date Bucket - 1886]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1888|Date Bucket - 1888]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

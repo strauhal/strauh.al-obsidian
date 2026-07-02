@@ -1,7 +1,7 @@
 ---
 title: "the evolution of louis wain s cats by louis wain"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg"
 source_relpath: "2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: [[Artist - louis wain]]
 
 Source: [[media/strauh.al3.1/2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_evolution_of_louis_wain_s_cats_by_louis_wain.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/two dancing cats by louis wain d7e59a8d|two dancing cats by louis wain]] — same artist: louis wain
+- [[knowledge/wiki/images/i am happy because every one loves me by louis wain c 1900 9382a08b|i am happy because every one loves me by louis wain c 1900]] — same artist: louis wain
+- [[knowledge/wiki/images/louis wain cats png a71de10b|louis wain cats png]] — shared language: wain, cats, louis
+- [[knowledge/wiki/images/louis wain grid of cat portraits e8ffef7f|louis wain grid of cat portraits]] — shared language: wain, louis
+- [[knowledge/wiki/images/human evolution vf png f3f47e82|human evolution vf png]] — shared language: evolution
+<!-- vault-crosslinks:end -->

@@ -40,9 +40,21 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (4).** [[Joseph Beuys deer blackboard drawing 0899b01f|Joseph Beuys deer blackboard drawing]] · [[black and white photograph of three people seated at a table in front of a chalkboard b269e3a2|black and white photograph of three people seated at a table in front of a chalkboard]] · [[four panel digital drawing tutorial of a stylized male head 4f23d939|four panel digital drawing tutorial of a stylized male head]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
+**Images (6).** [[joseph beuys blackboard lecture photo c127ddad|joseph beuys blackboard lecture photo]] · [[Joseph Beuys deer blackboard drawing 0899b01f|Joseph Beuys deer blackboard drawing]] · [[black and white photograph of three people seated at a table in front of a chalkboard b269e3a2|black and white photograph of three people seated at a table in front of a chalkboard]] · [[four panel digital drawing tutorial of a stylized male head 4f23d939|four panel digital drawing tutorial of a stylized male head]] · [[joseph beuys drawing on blackboard b1eb30f6|joseph beuys drawing on blackboard]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, likely, school
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: unnecessary, render, authorship
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes

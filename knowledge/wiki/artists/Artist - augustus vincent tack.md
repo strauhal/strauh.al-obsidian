@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[girl in a garden by augustus vincent tack 1892 1c2a7e5e|girl in a garden by augustus vincent tack 1892]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - augustus john|Artist - augustus john]] — shared language: augustus
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: vincent
+- [[knowledge/wiki/images/line drawing of a reclining female nude by augustus john f24af68e|line drawing of a reclining female nude by augustus john]] — shared language: augustus
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: vincent
+- [[knowledge/wiki/images/portrait of augustus ii the strong by louis de silvestre 1715 c2077d67|portrait of augustus ii the strong by louis de silvestre 1715]] — shared language: augustus
+- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: vincent
+<!-- vault-crosslinks:end -->

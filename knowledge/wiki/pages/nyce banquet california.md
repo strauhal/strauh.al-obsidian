@@ -1,10 +1,10 @@
 ---
 title: "nyce banquet california"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/california.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/nyce/banquet/california.html"
 source_relpath: "nyce/banquet/california.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet california
@@ -32,3 +32,16 @@ strauh.al/nyce/banquet/california
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/nyce banquet|nyce banquet]] — named in this note
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: nyce, banquet, california
+- [[knowledge/wiki/pages/nyce banquet new mexico|nyce banquet new mexico]] — shared language: banquet, nyce, wedding1.png
+- [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, portraits
+- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, portraits
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
+- [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
+- [[knowledge/wiki/pages/donate|donate]] — shared language: referenced, preserved, none
+<!-- vault-crosslinks:end -->

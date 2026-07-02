@@ -1,12 +1,11 @@
 ---
 title: GAN Color Studies
 type: work
-date: "2022–2023"
 aliases: [Untitled 4 Color Study 1, Pix2Pix color studies]
 tags: [work, drawing, pix2pix, gan, color]
 sources: ["[[No More Human Art]]", "[[ideas-sketchbook]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # GAN Color Studies
@@ -35,10 +34,10 @@ The process makes authorship sequential rather than singular. Hand drawing estab
 
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, studies, gan
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, color, studies
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, studies
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, gan, studies
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, process
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: read, result, described
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: makes, read, model
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: color, hand, slop
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: output, model, slop
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 <!-- vault-crosslinks:end -->

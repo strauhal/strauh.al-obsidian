@@ -31,3 +31,14 @@ Images attributed by filename: 6
 - [[portrait of madame raoul rochette by jean auguste dominique ingres 1830 f03b6f29|portrait of madame raoul rochette by jean auguste dominique ingres 1830]]
 - [[study for the figure of the virgin in the vow of louis xiii by jean auguste dominique ingres c 1820 1824 6d19c5b9|study for the figure of the virgin in the vow of louis xiii by jean auguste dominique ingres c 1820 1824]]
 - [[the virgin adoring the host by jean auguste dominique ingres 1852 22d8b0d1|the virgin adoring the host by jean auguste dominique ingres 1852]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — shared language: auguste
+- [[knowledge/wiki/artists/Artist - auguste renoir|Artist - auguste renoir]] — shared language: auguste
+- [[knowledge/wiki/artists/Artist - auguste lepere|Artist - auguste lepere]] — shared language: auguste
+- [[knowledge/wiki/artists/Artist - auguste rodin|Artist - auguste rodin]] — shared language: auguste
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: jean
+<!-- vault-crosslinks:end -->

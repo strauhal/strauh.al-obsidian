@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[sunflower by masaru oishi 2020 c5dd4439|sunflower by masaru oishi 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - masao yamamoto|Artist - masao yamamoto]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - mason chamberlin|Artist - mason chamberlin]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - masamune shirow|Artist - masamune shirow]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

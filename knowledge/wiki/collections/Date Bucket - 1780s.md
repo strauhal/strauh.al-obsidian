@@ -42,3 +42,11 @@ Files: 15
 ![[media/strauh.al3.1/2023_downloadsfolder/tumblr_e729a7eca32ed17c454cb7767e941dde_725e1786_1280.jpg]]
 
 ![[media/strauh.al3.1/artists/moebius/1179183-2500x1787-quality-moebius-wallpaper.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1770s|Date Bucket - 1770s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1790s|Date Bucket - 1790s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

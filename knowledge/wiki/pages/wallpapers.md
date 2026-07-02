@@ -1,10 +1,10 @@
 ---
 title: "wallpapers"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/wallpapers.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/wallpapers.html"
 source_relpath: "wallpapers.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # wallpapers
@@ -178,3 +178,16 @@ strauh.al/wallpapers
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/New Ipad 2018 d7b03c94|New Ipad 2018]] — named in this note
+- [[knowledge/wiki/images/Aurora ad69604a|Aurora]] — named in this note
+- [[knowledge/wiki/images/leopard 4db0ab45|leopard]] — named in this note
+- [[knowledge/wiki/images/estrauhal 03 1cfddd17|estrauhal 03]] — shared language: estrauhal, wallpapers
+- [[knowledge/wiki/images/estrauhal 29 8498da0e|estrauhal 29]] — shared language: estrauhal, wallpapers
+- [[knowledge/wiki/images/anotherjapanphoto dae47513|anotherjapanphoto]] — shared language: wallpapers, anotherjapanphoto.jpg
+- [[knowledge/wiki/images/black fd7fe5aa|black]] — shared language: wallpapers, black.png
+- [[knowledge/wiki/images/blackstairway b7465ac1|blackstairway]] — shared language: wallpapers, blackstairway.jpg
+<!-- vault-crosslinks:end -->

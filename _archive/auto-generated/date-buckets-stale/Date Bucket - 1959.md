@@ -26,3 +26,11 @@ Files: 7
 ![[media/strauh.al3.1/1900s/two_figures_at_the_seashore_by_elmer_bischoff_1959.jpeg]]
 
 ![[media/strauh.al3.1/photography/fan_ho/03-w1959.jpg.webp]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1958|Date Bucket - 1958]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1960|Date Bucket - 1960]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

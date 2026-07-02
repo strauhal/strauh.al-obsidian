@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — named in this note
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stanton macdonald wright 1926 1927|Artist - stanton macdonald wright 1926 1927]] — shared language: wright
+- [[knowledge/wiki/images/self portrait by stanton macdonald wright 1926 1927 adfb22f4|self portrait by stanton macdonald wright 1926 1927]] — shared language: wright
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stanton macdonald wright 1914|Artist - stanton macdonald wright 1914]] — shared language: wright
 - [[knowledge/wiki/artists/Artist - stanton macdonald wright|Artist - stanton macdonald wright]] — shared language: wright
-- [[knowledge/wiki/images/self portrait by stanton macdonald wright 1926 1927 adfb22f4|self portrait by stanton macdonald wright 1926 1927]] — shared language: wright
 <!-- vault-crosslinks:end -->

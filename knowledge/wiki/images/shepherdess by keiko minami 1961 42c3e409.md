@@ -1,7 +1,7 @@
 ---
 title: "shepherdess by keiko minami 1961"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/shepherdess_by_keiko_minami_1961.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/shepherdess_by_keiko_minami_1961.jpeg"
 source_relpath: "1900s/shepherdess_by_keiko_minami_1961.jpeg"
 collection: "1900s"
 inferred_year: "1961"
@@ -22,4 +22,12 @@ Artist: [[Artist - keiko minami]]
 
 Source: [[media/strauh.al3.1/1900s/shepherdess_by_keiko_minami_1961.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/shepherdess_by_keiko_minami_1961.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/shepherdess_by_keiko_minami_1961.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/the shepherdess by jean honore fragonard c 1750 1752 3179d7f5|the shepherdess by jean honore fragonard c 1750 1752]] — shared language: shepherdess
+- [[knowledge/wiki/artists/Artist - jean honore fragonard|Artist - jean honore fragonard]] — shared language: shepherdess
+- [[knowledge/wiki/images/sheffield by haidee jo summers 2020 dad5520a|sheffield by haidee jo summers 2020]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

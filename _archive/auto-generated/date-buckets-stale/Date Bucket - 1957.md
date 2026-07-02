@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/woman_in_blue_dress_by_milton_avery_1957.jpeg]]
 
 ![[media/strauh.al3.1/1900s/woman_s_head_with_purple_hair_by_andy_warhol_c_1957.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1956|Date Bucket - 1956]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1958|Date Bucket - 1958]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "implicit distance"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/implicit_distance.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/implicit_distance.html"
 source_relpath: "implicit_distance.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # implicit distance
@@ -30,3 +30,16 @@ playpausestop
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
+- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: implicit, distance, audio
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, stylegan
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: implicit, neural, algorithm
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance
+<!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jacques
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — shared language: jacques
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1783|Artist - jacques louis david 1783]] — shared language: jacques, portrait
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1783|Artist - jacques louis david 1783]] — shared language: jacques
 - [[_archive/auto-generated/books-stale/attali-jacques-noise-the-political-economy-of-music|Attali Jacques Noise The Political Economy of Music]] — shared language: jacques
 <!-- vault-crosslinks:end -->

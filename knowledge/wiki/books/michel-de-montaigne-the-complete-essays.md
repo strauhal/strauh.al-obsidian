@@ -41,11 +41,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/books/marcel-proust-in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — same category: literature
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — same category: literature
+- [[knowledge/wiki/books/marcel-proust-in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
-- [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
+- [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature
 - [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 <!-- vault-crosslinks:end -->

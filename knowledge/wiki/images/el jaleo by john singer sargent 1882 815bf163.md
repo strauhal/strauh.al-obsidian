@@ -1,7 +1,7 @@
 ---
 title: "el jaleo by john singer sargent 1882"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg"
 source_relpath: "1800s/el_jaleo_by_john_singer_sargent_1882.jpg"
 collection: "1800s"
 inferred_year: "1882"
@@ -22,4 +22,14 @@ Artist: [[Artist - john singer sargent]]
 
 Source: [[media/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/el_jaleo_by_john_singer_sargent_1882.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
+- [[knowledge/wiki/images/self portrait by john singer sargent 1892 c0f2323b|self portrait by john singer sargent 1892]] — same artist: john singer sargent
+- [[knowledge/wiki/images/the artist in his studio by john singer sargent 1904 1487c049|the artist in his studio by john singer sargent 1904]] — same artist: john singer sargent
+- [[knowledge/wiki/images/study of a woman by john singer sargent c 1900 54f87c3f|study of a woman by john singer sargent c 1900]] — same artist: john singer sargent
+- [[knowledge/wiki/images/la carmencita by john singer sargent 1890 910a6712|la carmencita by john singer sargent 1890]] — same artist: john singer sargent
+<!-- vault-crosslinks:end -->

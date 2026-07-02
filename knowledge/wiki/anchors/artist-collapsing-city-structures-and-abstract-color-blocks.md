@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[knowledge/wiki/artists/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
 - [[knowledge/wiki/images/manga panel collage showing a screaming figure mutating surrounded by collapsing city structures and abstract color blocks ca38a06b|manga panel collage showing a screaming figure mutating surrounded by collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, structures
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: collapsing, abstract
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 <!-- vault-crosslinks:end -->

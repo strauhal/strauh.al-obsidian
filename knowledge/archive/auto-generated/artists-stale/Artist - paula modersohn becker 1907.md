@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: becker
 - [[knowledge/wiki/images/standing nude arms crossed behind her back by gustav klimt c 1910 1912 b8701ab5|standing nude arms crossed behind her back by gustav klimt c 1910 1912]] — shared language: crossed, nude
 - [[knowledge/wiki/images/two pencil figure studies of a seated nude figure 09bc9606|two pencil figure studies of a seated nude figure]] — shared language: nude, seated
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
+- [[knowledge/wiki/culture/reading-the-denial-of-death|Reading - The Denial of Death]] — shared language: becker
 <!-- vault-crosslinks:end -->

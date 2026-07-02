@@ -1,7 +1,7 @@
 ---
 title: "IMG 0598"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/IMG_0598.JPG"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/IMG_0598.JPG"
 source_relpath: "2023_downloadsfolder/IMG_0598.JPG"
 collection: "2023_downloadsfolder"
 inferred_year: ""
@@ -20,4 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2023_downloadsfolder/IMG_0598.JPG|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2023_downloadsfolder/IMG_0598.JPG`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/IMG_0598.JPG`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/IMG 0594 db809bb9|IMG 0594]] — nearby note in the same source series
+- [[knowledge/wiki/images/IMG 0599 f1a6ba77|IMG 0599]] — nearby note in the same source series
+- [[knowledge/wiki/images/IMG 0589 2 5ce6f4a9|IMG 0589 2]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

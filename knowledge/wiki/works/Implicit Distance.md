@@ -43,11 +43,11 @@ thinking (see [[Latent Space]]).
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, latent, implicit
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance, latent
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance, latent
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: implicit, distance, warping
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space, fills
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance, diary
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, distance, space
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: stylegan, latent, space
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: latent, space, axis
 <!-- vault-crosslinks:end -->

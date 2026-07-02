@@ -1,7 +1,7 @@
 ---
 title: "Collection - 2000s"
 source_kind: "image_collection"
-count: "1977"
+count: "2030"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 1977
+Files: 2030
 
 ## Sample
 
@@ -264,4 +264,17 @@ Files: 1977
 - [[black and white abstract pattern of parallel wavy lines d74d38d8|black and white abstract pattern of parallel wavy lines]]
 - [[black and white abstract print with varied linear patterns and circular shape 7151b3c1|black and white abstract print with varied linear patterns and circular shape]]
 
-_Only the first 200 image notes are listed here; search covers all 1977._
+_Only the first 200 image notes are listed here; search covers all 2030._
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/original jpg webp 68153b97|original jpg webp]] — named in this note
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 2 b522e426|aggregate a by kurokawa toru 2016 2]] — named in this note
+- [[knowledge/wiki/images/gif image 2 gif b2103b40|gif image 2 gif]] — named in this note
+- [[knowledge/wiki/images/gif image 3 gif 72d9592b|gif image 3 gif]] — named in this note
+- [[knowledge/wiki/images/gif image gif 9178d3b3|gif image gif]] — named in this note
+- [[knowledge/wiki/books/penguin-classics-heraclitus-brooks-haxton-james-hillman-fragments|Fragments]] — named in this note
+<!-- vault-crosslinks:end -->

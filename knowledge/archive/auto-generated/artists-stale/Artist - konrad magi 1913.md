@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the adoration of the magi by chris ofili 2017 6b62ab8c|the adoration of the magi by chris ofili 2017]] — shared language: magi
 - [[knowledge/wiki/images/konrad witz the miraculous draught of fishes 1444 cf3bd609|konrad witz the miraculous draught of fishes 1444]] — shared language: konrad
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: magi
-- [[knowledge/wiki/artists/Artist - chris ofili|Artist - chris ofili]] — shared language: magi
+- [[knowledge/wiki/images/framed lighthouse painting with blue sky 6ce0fc69|framed lighthouse painting with blue sky]] — shared language: lighthouse
 <!-- vault-crosslinks:end -->

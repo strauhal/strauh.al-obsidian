@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - fred gambino|Artist - fred gambino]] — shared language: gambino, fred, drug
+- [[knowledge/wiki/artists/Artist - fred gambino|Artist - fred gambino]] — shared language: gambino, fred, forever
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fred gambino 1984|Artist - fred gambino 1984]] — shared language: gambino, fred
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fred gambino 1988|Artist - fred gambino 1988]] — shared language: gambino, fred
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fred gambino 1992|Artist - fred gambino 1992]] — shared language: gambino, fred

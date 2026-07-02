@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - berni wrightson|Artist - berni wrightson]] — named in this note
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1983|Artist - bernie wrightson 1983]] — shared language: wrightson, creature, victor
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1983|Artist - bernie wrightson 1983]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/artists/Artist - bernie wrightson|Artist - bernie wrightson]] — shared language: wrightson, victor, creature
-- [[knowledge/wiki/images/illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983 1d5f3907|illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983]] — shared language: wrightson, creature, victor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1976|Artist - bernie wrightson 1976]] — shared language: wrightson, victor
+- [[knowledge/wiki/images/illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983 1d5f3907|illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983]] — shared language: wrightson, victor, creature
 <!-- vault-crosslinks:end -->

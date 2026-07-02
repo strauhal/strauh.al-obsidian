@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/wiki/images/van gogh bildnis einer frau in blau jpeg jpeg cd436c50|van gogh bildnis einer frau in blau jpeg jpeg]] — shared language: blau
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2016|Artist - simon stalenhag 2016]] — shared language: simon
-- [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2014|Artist - simon stalenhag 2014]] — shared language: simon
+- [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 <!-- vault-crosslinks:end -->

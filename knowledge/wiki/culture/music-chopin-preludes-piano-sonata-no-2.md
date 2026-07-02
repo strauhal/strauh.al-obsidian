@@ -7,8 +7,8 @@ status: queued
 queue_order: 8
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Chopin: Preludes & Piano Sonata No. 2
@@ -36,6 +36,6 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: preludes, piano, current
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, listening, current
 - [[knowledge/wiki/culture/music-bruckner-piano-works|Listening - Bruckner: Piano Works]] — shared language: piano, listening, current
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: piano, listening, current
-- [[knowledge/wiki/culture/music-schumann-kinderszenen-kreisleriana|Listening - Schumann: Kinderszenen & Kreisleriana]] — shared language: listening, current, argerich
 <!-- vault-crosslinks:end -->

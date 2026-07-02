@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[sistine chapel ceiling fresco detail showing lunettes spandrels prophets and ignudi by michelangelo buonarroti 15081512 3bfc16a0|sistine chapel ceiling fresco detail showing lunettes spandrels prophets and ignudi by michelangelo buonarroti 15081512]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - michelangelo buonarroti 15081541|Artist - michelangelo buonarroti 15081541]] — shared language: buonarroti, chapel, sistine
+- [[knowledge/wiki/artists/Artist - michelangelo buonarroti 15361541|Artist - michelangelo buonarroti 15361541]] — shared language: buonarroti
+- [[knowledge/wiki/images/frescoes in the sistine chapel ceiling and the last judgment by michelangelo buonarroti 15081541 3ce061be|frescoes in the sistine chapel ceiling and the last judgment by michelangelo buonarroti 15081541]] — shared language: buonarroti, chapel, sistine
+- [[knowledge/wiki/images/atlas by michelangelo buonarroti 1530 1534 27fc9388|atlas by michelangelo buonarroti 1530 1534]] — shared language: buonarroti
+- [[knowledge/wiki/artists/Artist - michelangelo buonarroti|Artist - michelangelo buonarroti]] — shared language: buonarroti
+- [[knowledge/wiki/images/sistine ceiling fresco in the sistine chapel by michelangelo 15081512 bd85329e|sistine ceiling fresco in the sistine chapel by michelangelo 15081512]] — shared language: sistine, chapel, fresco
+<!-- vault-crosslinks:end -->

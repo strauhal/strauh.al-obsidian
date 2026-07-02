@@ -32,3 +32,11 @@ Files: 10
 ![[media/strauh.al3.1/1800s/the_toilet_illustration_for_the_rape_of_the_lock_by_aubrey_beardsley_1896.jpeg]]
 
 ![[media/strauh.al3.1/gif_collection/tumblr_1e363c274caa3c06e1f5698f82b1896e_490e5de2_400.gif]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1895|Date Bucket - 1895]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1897|Date Bucket - 1897]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

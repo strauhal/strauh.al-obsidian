@@ -22,3 +22,14 @@ Images attributed by filename: 3
 - [[the pieta by michelangelo 1499 7bb549b9|the pieta by michelangelo 1499]]
 - [[study of two standing figures a draped man and a nude man by michelangelo c 15041505 45830ff2|study of two standing figures a draped man and a nude man by michelangelo c 15041505]]
 - [[engraving of a muscular male figure with anatomical labels copy of a sketch by michelangelo fc585e43|engraving of a muscular male figure with anatomical labels copy of a sketch by michelangelo]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: male, figure, figures
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, sketch
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
+- [[knowledge/wiki/images/charcoal drawing of a standing male figure draped in cloth f2d3ebd3|charcoal drawing of a standing male figure draped in cloth]] — shared language: draped, male, standing
+- [[knowledge/wiki/images/sanguine drawing of two male nude figures one standing one seated 1b17edd1|sanguine drawing of two male nude figures one standing one seated]] — shared language: male, nude, standing
+- [[knowledge/wiki/images/sanguine drawing of two nude male figures 4e30dd56|sanguine drawing of two nude male figures]] — shared language: male, nude, two
+<!-- vault-crosslinks:end -->

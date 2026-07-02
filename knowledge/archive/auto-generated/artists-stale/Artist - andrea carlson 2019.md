@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - john f carlson|Artist - john f carlson]] — shared language: carlson
 - [[knowledge/wiki/images/the sentinels by john f carlson c 1920 05522448|the sentinels by john f carlson c 1920]] — shared language: carlson
 - [[knowledge/wiki/images/andrea mantegna 036 jpg c3a325ac|andrea mantegna 036 jpg]] — shared language: andrea
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
-- [[knowledge/wiki/artists/Artist - andrea del sarto|Artist - andrea del sarto]] — shared language: andrea
+- [[knowledge/wiki/artists/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
+- [[knowledge/wiki/images/the crucifixion by andrea mantegna 1457 1459 e4311b50|the crucifixion by andrea mantegna 1457 1459]] — shared language: andrea
 <!-- vault-crosslinks:end -->

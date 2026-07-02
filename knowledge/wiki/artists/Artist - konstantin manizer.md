@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[summer day by konstantin manizer 1910 2a2772c0|summer day by konstantin manizer 1910]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/artists/Artist - konstantin korovin|Artist - konstantin korovin]] — shared language: konstantin
+- [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 189a2d30|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
+- [[knowledge/wiki/images/portrait of a woman by konstantin makovsky 1880 6b3987c3|portrait of a woman by konstantin makovsky 1880]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin yuon|Artist - konstantin yuon]] — shared language: konstantin
+- [[knowledge/wiki/artists/Artist - konstantin makovsky|Artist - konstantin makovsky]] — shared language: konstantin
+<!-- vault-crosslinks:end -->

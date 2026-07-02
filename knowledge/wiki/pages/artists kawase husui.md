@@ -1,10 +1,10 @@
 ---
 title: "artists kawase husui"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/kawase_husui.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/kawase_husui.html"
 source_relpath: "artists/kawase_husui.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # artists kawase husui
@@ -41,3 +41,16 @@ strauh.al/artists/kawase_husui
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/85461g1 bf2145a2|85461g1]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/49 1 front 1 3f06754e|49 1 front 1]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/90 0add3cc5|90]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/90 2 a2324944|90 2]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/90 3 05d90ab5|90 3]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/90 4 9c3526f8|90 4]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/P4031 55b7ca9c|P4031]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/images/enoshima island kawase hasui 5 e1fdd336|enoshima island kawase hasui 5]] — shared language: kawase, artists, husui
+<!-- vault-crosslinks:end -->

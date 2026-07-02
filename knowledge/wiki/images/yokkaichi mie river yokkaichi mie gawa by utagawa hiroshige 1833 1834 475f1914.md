@@ -1,7 +1,7 @@
 ---
 title: "yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg"
 source_relpath: "1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg"
 collection: "1800s"
 inferred_year: "1834"
@@ -22,4 +22,14 @@ Artist: [[Artist - utagawa hiroshige]]
 
 Source: [[media/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — same artist: utagawa hiroshige
+- [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — same artist: utagawa hiroshige
+- [[knowledge/wiki/images/the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857 bb5ea15a|the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857]] — same artist: utagawa hiroshige
+- [[knowledge/wiki/images/nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834 2473f61c|nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834]] — same artist: utagawa hiroshige
+- [[knowledge/wiki/images/okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834 72a86b5b|okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834]] — same artist: utagawa hiroshige
+<!-- vault-crosslinks:end -->

@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[children drinking and smoking london by david bailey 1962 d78926e8|children drinking and smoking london by david bailey 1962]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david bardia|Artist - david bardia]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david burliuk|Artist - david burliuk]] — shared language: david
+- [[knowledge/wiki/images/digital painting of a person drinking and smoking 39b04b4e|digital painting of a person drinking and smoking]] — shared language: drinking, smoking
+<!-- vault-crosslinks:end -->

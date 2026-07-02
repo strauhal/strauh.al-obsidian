@@ -44,3 +44,11 @@ Files: 16
 ![[media/strauh.al3.1/1900s/virabhadra_destroying_daksha_s_sacrifice_by_jadurani_dasi_1975.jpg]]
 
 ![[media/strauh.al3.1/1900s/worms_of_the_earth_by_frank_frazetta_1975.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1974|Date Bucket - 1974]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1976|Date Bucket - 1976]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

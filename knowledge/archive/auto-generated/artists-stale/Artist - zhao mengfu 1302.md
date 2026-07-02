@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — named in this note
 - [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: zhao
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: mengfu, zhao, shuicun
-- [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
 - [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — shared language: zhao
+- [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
 - [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: zhao
 <!-- vault-crosslinks:end -->

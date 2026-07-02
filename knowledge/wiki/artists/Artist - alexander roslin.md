@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[portrait of anne vallayer coster by alexander roslin 1780 625f4621|portrait of anne vallayer coster by alexander roslin 1780]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: alexander
+- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: alexander
+<!-- vault-crosslinks:end -->

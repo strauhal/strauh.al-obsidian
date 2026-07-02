@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - garry winogrand|Artist - garry winogrand]] — named in this note
 - [[knowledge/wiki/images/painting of a couple dancing folklorico in front of a yellow cathedral 897515b6|painting of a couple dancing folklorico in front of a yellow cathedral]] — shared language: dancing
-- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: dancing
 - [[knowledge/wiki/images/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: dancing
-- [[knowledge/wiki/images/two dancing cats by louis wain d7e59a8d|two dancing cats by louis wain]] — shared language: dancing
+- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: dancing
+- [[knowledge/wiki/images/framed group scene of people dancing or performing dbae02a2|framed group scene of people dancing or performing]] — shared language: dancing
 - [[knowledge/wiki/images/painting of stylized figures dancing around a central fire on a black background 52a5da15|painting of stylized figures dancing around a central fire on a black background]] — shared language: dancing
 <!-- vault-crosslinks:end -->

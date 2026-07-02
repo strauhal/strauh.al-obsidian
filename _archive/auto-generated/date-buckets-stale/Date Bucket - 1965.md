@@ -30,3 +30,11 @@ Files: 9
 ![[media/strauh.al3.1/1900s/weatherside_by_andrew_wyeth_1965.jpeg]]
 
 ![[media/strauh.al3.1/photography/fan_ho/14-danger1965.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1964|Date Bucket - 1964]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1966|Date Bucket - 1966]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

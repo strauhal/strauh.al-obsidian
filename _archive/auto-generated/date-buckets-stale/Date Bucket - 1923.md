@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/1900s/self_portrait_with_brother_by_giorgio_de_chirico_1923.jpeg]]
 
 ![[media/strauh.al3.1/1900s/william_herbert_dunton_the_squall_c_1923.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1922|Date Bucket - 1922]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1924|Date Bucket - 1924]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

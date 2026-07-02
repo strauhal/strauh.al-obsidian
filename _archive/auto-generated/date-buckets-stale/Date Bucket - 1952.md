@@ -24,3 +24,11 @@ Files: 6
 ![[media/strauh.al3.1/1900s/tete_de_femme_head_of_a_woman_by_pablo_picasso_1952.jpeg]]
 
 ![[media/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1951|Date Bucket - 1951]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1953|Date Bucket - 1953]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

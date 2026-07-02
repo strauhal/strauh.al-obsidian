@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[henry sturgis drinker with a cat by cecilia beaux 1898 31802be5|henry sturgis drinker with a cat by cecilia beaux 1898]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — shared language: henry
+- [[knowledge/wiki/images/drift by sean henry 2023 6548b692|drift by sean henry 2023]] — shared language: henry
+<!-- vault-crosslinks:end -->

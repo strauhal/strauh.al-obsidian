@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
+- [[knowledge/wiki/books/friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] — same category: philosophy
 - [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — same category: philosophy
 - [[knowledge/wiki/books/penguin-classics-heraclitus-brooks-haxton-james-hillman-fragments|Fragments]] — same category: philosophy
-- [[knowledge/wiki/books/friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] — same category: philosophy
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-engels-dialectics-of-nature|Dialectics of Nature]] — same category: philosophy
 <!-- vault-crosslinks:end -->

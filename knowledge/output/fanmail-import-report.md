@@ -14,10 +14,10 @@ Generated: 2026-06-22T12:40:02
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: unique, messages, fanmail
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: attachments, messages, threads
-- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, fanmail
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, threads
+- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, fanmail
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — shared language: import
-- [[knowledge/wiki/collections/Date Bucket - 1000|Date Bucket - 1000]] — shared language: files
-- [[knowledge/wiki/collections/Date Bucket - 1000s|Date Bucket - 1000s]] — shared language: files
-- [[knowledge/wiki/collections/Date Bucket - 100s|Date Bucket - 100s]] — shared language: files
+- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: import
+- [[knowledge/wiki/images/black and white photograph of bicycles parked outside a building caa8ff83|black and white photograph of bicycles parked outside a building]] — shared language: outside
+- [[knowledge/wiki/images/photo of a man outside family express gas station 260ac7a8|photo of a man outside family express gas station]] — shared language: outside
 <!-- vault-crosslinks:end -->

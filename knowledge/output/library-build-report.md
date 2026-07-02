@@ -20,10 +20,10 @@ Entries parsed: 407
 
 - [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media, esoterica
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, sound
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music, sound
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: society, art
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: society, art
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music, art
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, art, media
-- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: making, design
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, sound
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: sound, music
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: aesthetics, art
 <!-- vault-crosslinks:end -->

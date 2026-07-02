@@ -22,3 +22,11 @@ Files: 5
 ![[media/strauh.al3.1/2024_downloadsfolder/IMG_1487.png]]
 
 ![[media/strauh.al3.1/gif_collection/tumblr_763b3318d1482fa2739751235f23c757_0cf4288f_100.gif]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1470s|Date Bucket - 1470s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1490s|Date Bucket - 1490s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

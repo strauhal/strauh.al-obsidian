@@ -60,3 +60,11 @@ Files: 25
 ![[media/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg]]
 
 ![[media/strauh.al3.1/1600s/triumph_of_the_barberini_by_pietro_da_cortona_1632_39.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/collections/Date Bucket - 1620s|Date Bucket - 1620s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1640s|Date Bucket - 1640s]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

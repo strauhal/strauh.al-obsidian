@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[exploration de la gravite by philippe ramette 2006 8381958c|exploration de la gravite by philippe ramette 2006]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - philippe de champaigne|Artist - philippe de champaigne]] — shared language: philippe
+- [[knowledge/wiki/images/philippe mohlitz the great gallery late 20th century 43dbdd6f|philippe mohlitz the great gallery late 20th century]] — shared language: philippe
+- [[knowledge/wiki/images/portrait of jean baptiste colbert by philippe de champaigne c 1655 9b4e1a06|portrait of jean baptiste colbert by philippe de champaigne c 1655]] — shared language: philippe
+<!-- vault-crosslinks:end -->

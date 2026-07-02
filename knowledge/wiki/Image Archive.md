@@ -47,7 +47,7 @@ Artworks filed by the century/decade they were made:
 - [[knowledge/wiki/pages/pictures of musicians|pictures of musicians]] — named in this note
 - [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
 - [[knowledge/wiki/pages/3d scans|3d scans]] — named in this note
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge, archive
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: archive, diary, belongs
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, entries, keeping
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, knowledge, entries
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, live, portraits
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: live, diary, faces
 <!-- vault-crosslinks:end -->

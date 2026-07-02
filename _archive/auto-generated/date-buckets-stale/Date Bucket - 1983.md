@@ -60,3 +60,11 @@ Files: 26
 ![[media/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983.jpg]]
 
 ![[media/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1982|Date Bucket - 1982]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1984|Date Bucket - 1984]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

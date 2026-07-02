@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[photograph of a woman in a black dress and a man in a blue shirt seated on a bench by terry richardson 2000 ef5777e4|photograph of a woman in a black dress and a man in a blue shirt seated on a bench by terry richardson 2000]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: terry
+- [[knowledge/wiki/images/terry riley da601e64|terry riley]] — shared language: terry
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: terry
+- [[knowledge/wiki/anchors/terry-zwigoff|Terry Zwigoff]] — shared language: terry
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: terry
+- [[knowledge/wiki/books/terry-knight-george-stiny-making-grammars-from-computing-with-shapes-to-computing-with-things|Making Grammars: From Computing with Shapes to Computing with Things]] — shared language: terry
+<!-- vault-crosslinks:end -->

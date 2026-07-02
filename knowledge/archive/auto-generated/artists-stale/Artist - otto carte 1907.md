@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - otto carte|Artist - otto carte]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - otto dix 1924|Artist - otto dix 1924]] — shared language: otto
 - [[knowledge/archive/auto-generated/artists-stale/Artist - otto dix 1912|Artist - otto dix 1912]] — shared language: otto
+- [[knowledge/archive/auto-generated/artists-stale/Artist - otto dix 1924|Artist - otto dix 1924]] — shared language: otto
 - [[knowledge/wiki/artists/Artist - otto dix|Artist - otto dix]] — shared language: otto
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — shared language: otto
-- [[knowledge/wiki/artists/Artist - emil otto hoppe|Artist - emil otto hoppe]] — shared language: otto
+- [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — shared language: otto
 <!-- vault-crosslinks:end -->

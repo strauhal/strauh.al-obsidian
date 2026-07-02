@@ -34,3 +34,14 @@ Images attributed by filename: 7
 - [[the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857 bb5ea15a|the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857]]
 - [[yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834 475f1914|yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834]]
 - [[yui satta peak from the series the fifty three stations of the tokaido by utagawa hiroshige c 18331834 16056261|yui satta peak from the series the fifty three stations of the tokaido by utagawa hiroshige c 18331834]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: utagawa, hiroshige, fuji
+- [[knowledge/wiki/artists/Artist - utagawa toyokuni i|Artist - utagawa toyokuni i]] — shared language: utagawa, bridge
+- [[knowledge/wiki/artists/Artist - utagawa kunisada|Artist - utagawa kunisada]] — shared language: utagawa
+- [[knowledge/wiki/artists/Artist - utagawa kuniyoshi|Artist - utagawa kuniyoshi]] — shared language: utagawa
+- [[knowledge/wiki/images/fuji 33043657|fuji]] — shared language: fuji
+- [[knowledge/wiki/images/evening cool at ryogoku bridge ryogoku yusuzumi no zu by utagawa toyokuni i c 17951800 03faf6b7|evening cool at ryogoku bridge ryogoku yusuzumi no zu by utagawa toyokuni i c 17951800]] — shared language: utagawa, bridge
+<!-- vault-crosslinks:end -->

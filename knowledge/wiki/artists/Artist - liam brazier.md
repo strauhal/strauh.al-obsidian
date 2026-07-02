@@ -16,3 +16,11 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[nhs update by liam brazier 2020 67d55ba9|nhs update by liam brazier 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - li keran|Artist - li keran]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - lillian schwartz|Artist - lillian schwartz]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - li cheng|Artist - li cheng]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

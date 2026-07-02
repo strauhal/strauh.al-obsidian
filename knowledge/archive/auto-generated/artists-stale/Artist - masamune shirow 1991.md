@@ -22,5 +22,6 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - masamune shirow|Artist - masamune shirow]] — named in this note
 - [[knowledge/wiki/images/black and white photograph of a man drawing while looking at his surprised reflection in a mirror 1cf18707|black and white photograph of a man drawing while looking at his surprised reflection in a mirror]] — shared language: reflection
+- [[knowledge/wiki/images/framed hazy lake landscape with tree and reflection 7a21ed3d|framed hazy lake landscape with tree and reflection]] — shared language: reflection
 - [[knowledge/wiki/images/farmstead with reflection by piet mondrian c 1906 217e2d66|farmstead with reflection by piet mondrian c 1906]] — shared language: reflection
 <!-- vault-crosslinks:end -->

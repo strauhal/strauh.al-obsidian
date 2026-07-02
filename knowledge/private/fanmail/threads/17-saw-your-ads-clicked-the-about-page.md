@@ -90,9 +90,9 @@ Sent with [Proton Mail](https://proton.me/mail/home) secure email.
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — same category: audience-response
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/images/ritalin e54fbea5|ritalin]] — named in this note
-- [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — same category: audience-response
 - [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — same category: audience-response
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, i'm, someone
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like, think, it's
 <!-- vault-crosslinks:end -->

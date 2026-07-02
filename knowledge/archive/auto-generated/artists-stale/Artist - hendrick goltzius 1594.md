@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hendrick goltzius 1593|Artist - hendrick goltzius 1593]] — shared language: hendrick, goltzius
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hendrick goltzius 1586|Artist - hendrick goltzius 1586]] — shared language: hendrick, goltzius
 - [[knowledge/wiki/images/hendrick goltzius bacchus 1595 jpg 0a0cbb80|hendrick goltzius bacchus 1595 jpg]] — shared language: hendrick, goltzius
-- [[knowledge/wiki/images/marcus curtius by hendrick goltzius 1586 559ffd8a|marcus curtius by hendrick goltzius 1586]] — shared language: hendrick, goltzius
+- [[knowledge/wiki/images/the artists right hand by hendrick goltzius 1588 382f81bd|the artists right hand by hendrick goltzius 1588]] — shared language: hendrick, goltzius
 <!-- vault-crosslinks:end -->

@@ -16,3 +16,11 @@ Files: 2
 ![[media/strauh.al3.1/1500s/hendrick_goltzius_bacchus_1595_jpg.jpg]]
 
 ![[media/strauh.al3.1/1500s/studies_of_a_young_man_s_head_an_old_man_s_head_and_hands_by_annibale_carracci_c_1590_1595.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1594|Date Bucket - 1594]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1598|Date Bucket - 1598]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

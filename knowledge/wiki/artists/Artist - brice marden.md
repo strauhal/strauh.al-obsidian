@@ -22,3 +22,13 @@ Images attributed by filename: 3
 - [[nine studies by brice marden 1979 4243b6e9|nine studies by brice marden 1979]]
 - [[the muses epitome by brice marden 1991 1993 358237c7|the muses epitome by brice marden 1991 1993]]
 - [[the muses epitome by brice marden 1991 1999 4f5eaace|the muses epitome by brice marden 1991 1999]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/line drawing diagram of nine architectural crown molding styles 437eb0d8|line drawing diagram of nine architectural crown molding styles]] — shared language: nine
+- [[knowledge/wiki/images/grid of nine black and white drawings of a man in profile wearing glasses 44d8916f|grid of nine black and white drawings of a man in profile wearing glasses]] — shared language: nine
+- [[knowledge/wiki/images/studies in composition after goya 1899 59ba8b76|studies in composition after goya 1899]] — shared language: studies
+- [[knowledge/wiki/images/nine framed black and white prints depicting draped fabric folds in a grid installation 10472a72|nine framed black and white prints depicting draped fabric folds in a grid installation]] — shared language: nine
+- [[knowledge/wiki/images/black and white ink drawing of nine urban and suburban scenes in a grid format 701f360c|black and white ink drawing of nine urban and suburban scenes in a grid format]] — shared language: nine
+<!-- vault-crosslinks:end -->

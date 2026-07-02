@@ -1,10 +1,10 @@
 ---
 title: "2023 downloadsfolder"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2023_downloadsfolder.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/2023_downloadsfolder.html"
 source_relpath: "2023_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # 2023 downloadsfolder
@@ -602,3 +602,16 @@ strauh.al/2023_downloadsfolder
 ## Related Local Pages
 
 - None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/img 1331 png 8e341b79|img 1331 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 7e677750|img 5472 png]] — named in this note
+- [[knowledge/wiki/images/img 5472 png 2 303ff8a8|img 5472 png 2]] — named in this note
+- [[knowledge/wiki/images/img 0629 webp 5656a346|img 0629 webp]] — named in this note
+- [[knowledge/wiki/images/tumblr e729a7eca32ed17c454cb7767e941dde 725e1786 1280 e820af6d|tumblr e729a7eca32ed17c454cb7767e941dde 725e1786 1280]] — named in this note
+- [[knowledge/wiki/images/1 b1pa0olh2hgzwf6fxqu aa png jpeg 02c62570|1 b1pa0olh2hgzwf6fxqu aa png jpeg]] — named in this note
+- [[knowledge/wiki/images/Flyday Chinatown ( ) 1c91e9d5|Flyday Chinatown ( )]] — named in this note
+- [[knowledge/wiki/images/FWa 9bSWAAUdGv f0955e37|FWa 9bSWAAUdGv]] — named in this note
+<!-- vault-crosslinks:end -->

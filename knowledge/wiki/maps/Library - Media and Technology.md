@@ -53,7 +53,7 @@ Books/files: 32
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/books/plato-the-republic|The Republic]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age, technology, media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media, internet
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: age, internet, press
 <!-- vault-crosslinks:end -->

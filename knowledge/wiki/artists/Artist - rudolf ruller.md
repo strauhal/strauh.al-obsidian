@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[ansicht einer stadt an einem fluss mit gebirgslandschaft by rudolf ruller 1840 c7af7674|ansicht einer stadt an einem fluss mit gebirgslandschaft by rudolf ruller 1840]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - rudolf ernst|Artist - rudolf ernst]] — shared language: rudolf
+- [[knowledge/wiki/artists/Artist - rudolf arnheim|Artist - rudolf arnheim]] — shared language: rudolf
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: rudolf
+- [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — shared language: rudolf
+- [[knowledge/wiki/images/on the terrace by rudolf ernst 1880 ae52486c|on the terrace by rudolf ernst 1880]] — shared language: rudolf
+- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception|Art and Visual Perception]] — shared language: rudolf
+<!-- vault-crosslinks:end -->

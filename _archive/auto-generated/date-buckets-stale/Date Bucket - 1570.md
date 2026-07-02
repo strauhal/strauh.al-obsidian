@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1500s/the_prophet_abraham_in_the_fire_of_nimrod_c_1570.jpg]]
 
 ![[media/strauh.al3.1/computers/tumblr_dbc29223e8def778b9d27534580d1570_c8fe61b7_2048.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1566|Date Bucket - 1566]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1573|Date Bucket - 1573]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

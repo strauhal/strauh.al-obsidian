@@ -1,10 +1,10 @@
 ---
 title: "knowledge base psychology"
 source_kind: "html"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-06-27T00:13:31"
+compiled_at: "2026-07-01T18:01:48"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -79,3 +79,16 @@ strauh.al/knowledge_base/psychology
 **[[The Internet as Confidant]]** — [Distorted Grief: 10 Things to Know When Grief Turns Hostile » Urns / Online](https://www.usurnsonline.com/grief-loss/distorted-grief/) · [Debunking the Internet Myth of the A.T. Field - HubPages](https://discover.hubpages.com/entertainment/Why-the-AT-Field-is-Not-a-Real-Psychological-Term?fbclid=IwAR0hBxO6S3yE-NsFb1drCC3QhJ8jM0kBpYbS7tSTCUGElCaMpbfZKy6loD4)
 
 <!-- kb-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
+- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: psychology, knowledge, lacan
+<!-- vault-crosslinks:end -->

@@ -18,3 +18,11 @@ Files: 3
 ![[media/strauh.al3.1/1700s/the_deluge_by_gabriel_francois_doyen_1778.jpeg]]
 
 ![[media/strauh.al3.1/1700s/watson_and_the_shark_by_john_singleton_copley_1778.jpeg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1777|Date Bucket - 1777]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1780|Date Bucket - 1780]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

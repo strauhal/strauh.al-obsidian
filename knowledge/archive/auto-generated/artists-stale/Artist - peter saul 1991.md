@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1969|Artist - peter saul 1969]] — shared language: saul, peter
 - [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: saul, peter
 - [[knowledge/wiki/images/the second coming by peter saul 1969 75bb7b97|the second coming by peter saul 1969]] — shared language: saul, peter
-- [[knowledge/wiki/images/the artist by saul steinberg 1948 6c138962|the artist by saul steinberg 1948]] — shared language: saul
+- [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1948|Artist - saul steinberg 1948]] — shared language: saul
 <!-- vault-crosslinks:end -->

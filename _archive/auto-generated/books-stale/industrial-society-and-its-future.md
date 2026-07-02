@@ -41,6 +41,6 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/manifesto|manifesto]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
-- [[_archive/auto-generated/books-stale/rodger-manifesto|rodger manifesto]] — same category: politics society
 - [[_archive/auto-generated/books-stale/the-social-contract|the social contract]] — same category: politics society
+- [[_archive/auto-generated/books-stale/rodger-manifesto|rodger manifesto]] — same category: politics society
 <!-- vault-crosslinks:end -->

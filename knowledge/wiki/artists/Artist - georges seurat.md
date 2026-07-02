@@ -16,3 +16,14 @@ Images attributed by filename: 1
 ## Image Notes
 
 - [[study for a sunday afternoon on the island of la grande jatte by georges seurat 1884 e519fa4b|study for a sunday afternoon on the island of la grande jatte by georges seurat 1884]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges de feure|Artist - georges de feure]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
+- [[knowledge/wiki/images/le baiser by georges de feure 1897 ff074feb|le baiser by georges de feure 1897]] — shared language: georges
+- [[knowledge/wiki/images/l atelier by jean georges vibert 1880 cd2f1127|l atelier by jean georges vibert 1880]] — shared language: georges
+<!-- vault-crosslinks:end -->

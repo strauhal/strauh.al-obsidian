@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1800s/jeanlon_grme_bonaparte_before_the_sphinx_1867_2.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_castle_of_the_sleeping_beauty_by_gustave_dore_1867.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1866|Date Bucket - 1866]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1868|Date Bucket - 1868]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

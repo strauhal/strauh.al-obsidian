@@ -106,3 +106,16 @@ Files: 43
 - [[dream 00040 662dbd43|dream 00040]]
 - [[dream 00041 700db5de|dream 00041]]
 - [[dream 00042 fb6b579b|dream 00042]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/dream 85b838d2|dream]] — shared language: dream
+- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream, dreams
+- [[knowledge/wiki/pages/dreams|dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/images/booth dream jpg 7f592fab|booth dream jpg]] — shared language: dream
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/artists/Artist - tangerine dream|Artist - tangerine dream]] — shared language: dream
+- [[knowledge/raw/dreams|Dreams Series]] — shared language: dream, dreams
+<!-- vault-crosslinks:end -->

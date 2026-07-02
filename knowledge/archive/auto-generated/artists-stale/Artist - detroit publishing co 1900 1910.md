@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - detroit publishing co|Artist - detroit publishing co]] — named in this note
 - [[knowledge/wiki/images/detroit aerial vjp 6710 jpg a150ad7d|detroit aerial vjp 6710 jpg]] — shared language: detroit
-- [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: detroit
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — shared language: publishing
+- [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: detroit
 - [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: publishing
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: publishing
 <!-- vault-crosslinks:end -->

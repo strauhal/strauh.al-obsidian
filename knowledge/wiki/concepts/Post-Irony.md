@@ -32,23 +32,22 @@ and the thing he keeps trying to write his way out of.
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (4).** [[meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device f51eaf13|meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device]] · [[black and white engraving parodying the flammarion engraving with meme faces 49cf9c45|black and white engraving parodying the flammarion engraving with meme faces]] · [[deep fried image of a bed with a loose fitted sheet and meme text overlay 2f435597|deep fried image of a bed with a loose fitted sheet and meme text overlay]] · [[ic post the last thing you drew artworkcritique 4chan png e0320b8b|ic post the last thing you drew artworkcritique 4chan png]]
+**Images (8).** [[meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device f51eaf13|meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device]] · [[black and white engraving parodying the flammarion engraving with meme faces 49cf9c45|black and white engraving parodying the flammarion engraving with meme faces]] · [[cat meme about classmates going insane 7d79f898|cat meme about classmates going insane]] · [[deep fried image of a bed with a loose fitted sheet and meme text overlay 2f435597|deep fried image of a bed with a loose fitted sheet and meme text overlay]] · [[ic post the last thing you drew artworkcritique 4chan png e0320b8b|ic post the last thing you drew artworkcritique 4chan png]] · [[meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] · [[meme image of collapsed chair with caption you arent doing it wrong ae8b832c|meme image of collapsed chair with caption you arent doing it wrong]] · [[purple muscle creature meme 6a1e2e20|purple muscle creature meme]]
 
 **Books (1).** [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: post-irony, feed, slop
-- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: lives
-- [[knowledge/wiki/books/fernando-pessoa-the-book-of-disquiet|The Book of Disquiet]] — shared language: post-irony, autofiction
-- [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — shared language: slop
-- [[knowledge/wiki/images/diagram illustrating naive sincerity irony and post irony using a cartoon cat and dog image with corresponding text 3286d91e|diagram illustrating naive sincerity irony and post irony using a cartoon cat and dog image with corresponding text]] — shared language: irony
-- [[knowledge/wiki/pages/copypastas|copypastas]] — shared language: you're, can't, told
-- [[knowledge/wiki/images/lvx signs c333a294|lvx signs]] — shared language: signs
-- [[knowledge/wiki/images/black and white photograph of a person covering their face with hands af63db01|black and white photograph of a person covering their face with hands]] — shared language: covering
+- [[knowledge/wiki/images/the flammarion engraving 1888 4dfca67f|the flammarion engraving 1888]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, archive-links, start
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: quotes, going, thing
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

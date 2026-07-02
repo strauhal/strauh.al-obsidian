@@ -48,3 +48,11 @@ Files: 18
 ![[media/strauh.al3.1/2024_downloadsfolder/Screenshot_2024-01-01_at_10.06.11_PM.png]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/Screenshot_2024-01-01_at_10.06.19_PM.png]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2023|Date Bucket - 2023]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 2025|Date Bucket - 2025]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

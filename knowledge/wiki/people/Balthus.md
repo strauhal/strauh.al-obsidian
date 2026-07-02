@@ -30,11 +30,11 @@ gut-reaction before you can name it.
 ## Discovered Connections
 
 - [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus, diary
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: diary, things, gave
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, entry
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: diary, elegance, spontaneity
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: whose, elegance, spontaneity
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: got, diary, summary
-- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, painter, elegance
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: painter, without, things
 - [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school, father, whose
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: whose, elegance, spontaneity
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, painter, elegance
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: got, diary, summary
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative, elegance, spontaneity
 <!-- vault-crosslinks:end -->

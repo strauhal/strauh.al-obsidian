@@ -1,7 +1,7 @@
 ---
 title: "aerial photograph of a large gothic cathedral in a hazy cityscape"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg"
 source_relpath: "2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/aerial_photograph_of_a_large_gothic_cathedral_in_a_hazy_cityscape.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, cityscape, large
+- [[knowledge/wiki/images/aerial photograph of a densely packed cityscape 55f1d533|aerial photograph of a densely packed cityscape]] — shared language: aerial, cityscape, cityscape.jpeg
+- [[knowledge/wiki/images/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: aerial, large
+- [[knowledge/wiki/images/photograph of the ornate gothic spires and rooftop of a cathedral e3187370|photograph of the ornate gothic spires and rooftop of a cathedral]] — shared language: gothic, cathedral
+- [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
+<!-- vault-crosslinks:end -->

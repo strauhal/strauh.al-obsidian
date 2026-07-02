@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/the_wedding_by_jacob_lawrence_1948.jpeg]]
 
 ![[media/strauh.al3.1/photography/Moondog_1948.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1947|Date Bucket - 1947]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1949|Date Bucket - 1949]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

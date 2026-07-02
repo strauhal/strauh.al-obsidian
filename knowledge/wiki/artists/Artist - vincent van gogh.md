@@ -1,13 +1,13 @@
 ---
 title: "Artist - vincent van gogh"
 source_kind: "artist"
-count: "20"
+count: "21"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - vincent van gogh
 
-Images attributed by filename: 20
+Images attributed by filename: 21
 
 ## Sample
 
@@ -51,6 +51,8 @@ Images attributed by filename: 20
 
 ![[media/strauh.al3.1/1800s/wheat_field_with_sun_by_vincent_van_gogh_1889.jpeg]]
 
+![[media/strauh.al3.1/unsorted/portrait_of_a_woman_in_blue_by_vincent_van_gogh_1885.jpeg]]
+
 ## Image Notes
 
 - [[a wheatfield with cypresses by vincent van gogh 1889 c217432b|a wheatfield with cypresses by vincent van gogh 1889]]
@@ -73,3 +75,15 @@ Images attributed by filename: 20
 - [[the starry night by vincent van gogh 1889 7c3e2cf3|the starry night by vincent van gogh 1889]]
 - [[view of auvers sur oise by vincent van gogh 1890 a77ec12f|view of auvers sur oise by vincent van gogh 1890]]
 - [[wheat field with sun by vincent van gogh 1889 14e4781f|wheat field with sun by vincent van gogh 1889]]
+- [[portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/images/the pieta by michelangelo 1499 7bb549b9|the pieta by michelangelo 1499]] — named in this note
+- [[knowledge/wiki/images/vincent van gogh at eternitys gate sorrowing old man 1890 38c78f89|vincent van gogh at eternitys gate sorrowing old man 1890]] — shared language: gogh, vincent, van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van, gogh, vincent
+- [[knowledge/wiki/artists/Artist - vincent van gogh summer|Artist - vincent van gogh summer]] — shared language: gogh, vincent, van
+- [[knowledge/wiki/images/vincent van gogh factories at clichy 1887 9635f512|vincent van gogh factories at clichy 1887]] — shared language: gogh, vincent, van
+<!-- vault-crosslinks:end -->

@@ -19,3 +19,14 @@ Images attributed by filename: 2
 
 - [[the great pikes peak bus accident by john sloan 1927 44db5098|the great pikes peak bus accident by john sloan 1927]]
 - [[the wake of the ferry ii by john sloan 1907 d06acf00|the wake of the ferry ii by john sloan 1907]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
+<!-- vault-crosslinks:end -->

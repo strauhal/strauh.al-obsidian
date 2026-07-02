@@ -1,7 +1,7 @@
 ---
 title: "digital chart titled conflict in literature featuring characters from jimmy neutron and conan o brien"
 source_kind: "image"
-source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg"
 source_relpath: "2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg"
 collection: "2000s"
 inferred_year: "2000s"
@@ -20,4 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg|source file]]
 
-Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg`
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/digital_chart_titled_conflict_in_literature_featuring_characters_from_jimmy_neutron_and_conan_o_brien.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: literature
+- [[knowledge/wiki/artists/Artist - tim o brien|Artist - tim o brien]] — shared language: brien
+- [[knowledge/wiki/artists/Artist - conan gray|Artist - conan gray]] — shared language: conan
+- [[knowledge/wiki/artists/Artist - jimmy hinson|Artist - jimmy hinson]] — shared language: jimmy
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — shared language: literature
+<!-- vault-crosslinks:end -->

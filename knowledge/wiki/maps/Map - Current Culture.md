@@ -2,8 +2,8 @@
 title: Map - Current Culture
 type: map
 tags: [map, culture, reading, listening, watching]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-01
+updated: 2026-07-01
 ---
 
 # Map - Current Culture

@@ -14,3 +14,11 @@ Files: 1
 ## Sample
 
 ![[media/strauh.al3.1/1600s/the_wolf_and_fox_hunt_by_peter_paul_rubens_c_1616.jpg]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1615|Date Bucket - 1615]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1617|Date Bucket - 1617]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

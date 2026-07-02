@@ -40,3 +40,11 @@ Files: 14
 ![[media/strauh.al3.1/1900s/three_men_sitting_on_the_hood_of_a_car_the_center_man_holding_a_rifle_barrel_in_his_mouth_by_michael_lavine_1992.jpg]]
 
 ![[media/strauh.al3.1/2023_downloadsfolder/IMG_1992.JPG]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1991|Date Bucket - 1991]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1993|Date Bucket - 1993]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

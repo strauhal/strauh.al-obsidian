@@ -20,3 +20,11 @@ Files: 4
 ![[media/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg]]
 
 ![[media/strauh.al3.1/2024_downloadsfolder/Peter-Paul-Rubens-oil-self-portrait-Kunsthistorisches-Museum-1639.webp]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1638|Date Bucket - 1638]] — nearby note in the same source series
+- [[_archive/auto-generated/date-buckets-stale/Date Bucket - 1640|Date Bucket - 1640]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

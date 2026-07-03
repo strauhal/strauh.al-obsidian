@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - j h williams iii|Artist - j h williams iii]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
+- [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - j h williams iii|Artist - j h williams iii]] — shared language: williams, iii, sandman
+- [[knowledge/wiki/artists/Artist - J.H. Williams III|Artist - J.H. Williams III]] — shared language: williams, iii
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams|Artist - robert williams]] — shared language: williams
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams 2017|Artist - robert williams 2017]] — shared language: williams
-- [[knowledge/wiki/artists/Artist - richard williams|Artist - richard williams]] — shared language: williams
-- [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: williams
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gilbert williams 1995|Artist - gilbert williams 1995]] — shared language: williams
+- [[knowledge/wiki/images/Comic Dream and a Cat like Creature in a Fantastical Desert Landscape by J. H. Williams III 7899d75e|Comic Dream and a Cat like Creature in a Fantastical Desert Landscape by J. H. Williams III]] — shared language: williams, iii
 <!-- vault-crosslinks:end -->

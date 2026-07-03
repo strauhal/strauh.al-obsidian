@@ -1,10 +1,10 @@
 ---
 title: "2026 updates"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/2026_updates.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2026_updates.html"
 source_relpath: "2026_updates.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # 2026 updates
@@ -61,9 +61,9 @@ strauh.al/2026_updates
 - [[knowledge/wiki/pages/even more art|even more art]] — named in this note
 - [[knowledge/wiki/images/mockup 9bcafa4f|mockup]] — named in this note
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: like, even, say
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: art, like
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: art, like
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: art, fine
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like, decade, fully
+- [[knowledge/private/fanmail/threads/05-changes-in-website|Private Correspondence - 05 - Changes in website]] — shared language: say, thank, nice
+- [[knowledge/wiki/books/g-w-f-hegel-aesthetics-lectures-on-fine-art-volume-1|Aesthetics: Lectures on Fine Art, Volume 1]] — shared language: fine
+- [[knowledge/wiki/books/bernard-bosanquet-the-introduction-to-hegel-s-philosophy-of-fine-art|The Introduction to Hegel's Philosophy of Fine Art]] — shared language: fine
 <!-- vault-crosslinks:end -->

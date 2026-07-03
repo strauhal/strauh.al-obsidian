@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: lewis
-- [[knowledge/wiki/images/pink illustration of three women smoking 3494a2cf|pink illustration of three women smoking]] — shared language: smoking, three
-- [[knowledge/wiki/images/digital painting of a person drinking and smoking 39b04b4e|digital painting of a person drinking and smoking]] — shared language: smoking
-- [[knowledge/wiki/images/grainy photograph of an airplane and a smoking skyscraper d7d42d7d|grainy photograph of an airplane and a smoking skyscraper]] — shared language: smoking
-- [[knowledge/wiki/images/mixed media painting of two women in hats smoking 85f8c890|mixed media painting of two women in hats smoking]] — shared language: smoking
-- [[knowledge/wiki/images/pixel art drawing of a white character in a blue jester outfit smoking a cigar c3173097|pixel art drawing of a white character in a blue jester outfit smoking a cigar]] — shared language: smoking
+- [[knowledge/wiki/images/Illustration Surreal Black And White Ink Drawing Of Smoking Figures 6005cb96|Illustration Surreal Black And White Ink Drawing Of Smoking Figures]] — shared language: smoking
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
+- [[knowledge/wiki/images/Illustration Textured Portrait Of A Person Smoking A Cigar c55c1864|Illustration Textured Portrait Of A Person Smoking A Cigar]] — shared language: smoking
+- [[knowledge/wiki/images/Photograph Black and White Portrait of James Dean Smoking a Cigarette 5e796a09|Photograph Black and White Portrait of James Dean Smoking a Cigarette]] — shared language: smoking
+- [[knowledge/wiki/images/Illustration Portrait of Hooded Figure Smoking with Swirling Smoke 0268f050|Illustration Portrait of Hooded Figure Smoking with Swirling Smoke]] — shared language: smoking
 <!-- vault-crosslinks:end -->

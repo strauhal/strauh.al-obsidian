@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: mayumi
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: mayumi
-- [[knowledge/wiki/artists/Artist - ernest strauhal|Artist - ernest strauhal]] — shared language: fire
-- [[knowledge/wiki/images/ernest your html is like fire in my eyes by ernest strauhal 2017 90a5b90e|ernest your html is like fire in my eyes by ernest strauhal 2017]] — shared language: fire
-- [[knowledge/wiki/images/black and white photograph of two children playing in water from a fire hydrant 38eecc47|black and white photograph of two children playing in water from a fire hydrant]] — shared language: fire
-- [[knowledge/wiki/images/black and white drawing of a spiky haired boy in a v neck shirt with a circular emblem dfab7887|black and white drawing of a spiky haired boy in a v neck shirt with a circular emblem]] — shared language: emblem
+- [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: emblem, war
+- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
+- [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: holy
+- [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: war
 <!-- vault-crosslinks:end -->

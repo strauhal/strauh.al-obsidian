@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — named in this note
-- [[knowledge/wiki/artists/Artist - ross moore|Artist - ross moore]] — shared language: moore
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ross moore|Artist - Ross Moore]] — shared language: moore
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — shared language: chris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood 2020|Artist - chris hood 2020]] — shared language: chris
-- [[knowledge/wiki/images/uphill glow by ross moore ae7b31a0|uphill glow by ross moore]] — shared language: moore
-- [[knowledge/wiki/artists/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili 2017|Artist - chris ofili 2017]] — shared language: chris
 <!-- vault-crosslinks:end -->

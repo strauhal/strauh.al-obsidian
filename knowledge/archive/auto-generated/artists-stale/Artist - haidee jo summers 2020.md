@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - haidee jo summers|Artist - haidee jo summers]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - haidee jo summers|Artist - haidee jo summers]] — named in this note
 - [[knowledge/wiki/artists/Artist - edward sheffield bartholomew|Artist - edward sheffield bartholomew]] — shared language: sheffield
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward sheffield bartholomew 1856|Artist - edward sheffield bartholomew 1856]] — shared language: sheffield
 - [[knowledge/wiki/images/hagar and ishmael by edward sheffield bartholomew 1856 5d99e931|hagar and ishmael by edward sheffield bartholomew 1856]] — shared language: sheffield

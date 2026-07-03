@@ -1,12 +1,12 @@
 ---
 title: "the fall of the rebel angels by giorgio ghisi 1550 1551"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg"
 source_relpath: "1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg"
 collection: "1500s"
 inferred_year: "1551"
 artist: "giorgio ghisi"
-dimensions: "1280x1761"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - giorgio ghisi]]
 
 Source: [[media/strauh.al3.1/1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - clyde caldwell|Artist - clyde caldwell]] — named in this note
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — shared language: caldwell
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
 - [[_archive/auto-generated/books-stale/the-book-of-disquiet|The Book of Disquiet]] — shared language: book
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
+- [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[_archive/auto-generated/images-stale/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/Document Teal Book Cover With White And Orange Text 9ba2bba6|Document Teal Book Cover With White And Orange Text]] — shared language: cover, book
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Luke Caldwell Schizophrenizing Lacan]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Luke_Caldwell_Schizophrenizing_Lacan.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Schizophrenizing Lacan
@@ -43,7 +43,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/routledge-classics-jacques-lacan-ecrits-a-selection|Ecrits A Selection]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
-- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
+- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — same category: psychology
 <!-- vault-crosslinks:end -->

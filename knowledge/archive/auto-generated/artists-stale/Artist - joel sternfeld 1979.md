@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - joel sternfeld|Artist - joel sternfeld]] — named in this note
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
-- [[knowledge/wiki/images/photograph of a man in a hat sitting at a table with balloons at a party d8398856|photograph of a man in a hat sitting at a table with balloons at a party]] — shared language: table, sitting, man
-- [[knowledge/wiki/images/oil painting of two large trees on a bluff overlooking a beach and ocean 8f8ccbf0|oil painting of two large trees on a bluff overlooking a beach and ocean]] — shared language: overlooking, ocean
-- [[knowledge/wiki/images/colorful room illustration with table and plants d3bec09f|colorful room illustration with table and plants]] — shared language: table, room
+- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: san, francisco
+- [[knowledge/wiki/images/Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums bf14c0b5|Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums]] — shared language: ocean, overlooking
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jean francois rauzier|Artist - jean francois rauzier]] — named in this note
+- [[knowledge/wiki/images/Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012) 36f535b9|Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012)]] — shared language: rauzier, jean, hyper
 - [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois, jean
 - [[knowledge/wiki/images/the gleaners by jean francois millet 1857 1c4834e1|the gleaners by jean francois millet 1857]] — shared language: francois, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francois boucher 1740|Artist - francois boucher 1740]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
 <!-- vault-crosslinks:end -->

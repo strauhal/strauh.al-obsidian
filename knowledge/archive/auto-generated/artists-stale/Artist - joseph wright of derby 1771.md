@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — named in this note
+- [[knowledge/wiki/images/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780) af192adb|Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780)]] — shared language: derby, wright, joseph
+- [[knowledge/wiki/images/John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]] — shared language: derby, wright, joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stanton macdonald wright 1926 1927|Artist - stanton macdonald wright 1926 1927]] — shared language: wright
 - [[knowledge/wiki/images/self portrait by stanton macdonald wright 1926 1927 adfb22f4|self portrait by stanton macdonald wright 1926 1927]] — shared language: wright
-- [[knowledge/archive/auto-generated/artists-stale/Artist - stanton macdonald wright 1914|Artist - stanton macdonald wright 1914]] — shared language: wright
-- [[knowledge/wiki/artists/Artist - stanton macdonald wright|Artist - stanton macdonald wright]] — shared language: wright
 <!-- vault-crosslinks:end -->

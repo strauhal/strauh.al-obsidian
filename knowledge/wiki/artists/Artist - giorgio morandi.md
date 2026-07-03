@@ -1,13 +1,13 @@
 ---
 title: "Artist - giorgio morandi"
 source_kind: "artist"
-count: "10"
+count: "9"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - giorgio morandi
 
-Images attributed by filename: 10
+Images attributed by filename: 9
 
 ## Sample
 
@@ -29,8 +29,6 @@ Images attributed by filename: 10
 
 ![[media/strauh.al3.1/1900s/pen_and_ink_still_life_of_bottles_vases_and_candlestick_by_giorgio_morandi_1930.jpeg]]
 
-![[media/strauh.al3.1/2000s/still_life_drawing_of_three_objects_by_giorgio_morandi.jpeg]]
-
 ## Image Notes
 
 - [[natura morta a cinque oggetti still life with five objects by giorgio morandi 1931 a1986456|natura morta a cinque oggetti still life with five objects by giorgio morandi 1931]]
@@ -42,15 +40,14 @@ Images attributed by filename: 10
 - [[natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]]
 - [[paesaggio landscape by giorgio morandi 1935 425cc1a9|paesaggio landscape by giorgio morandi 1935]]
 - [[pen and ink still life of bottles vases and candlestick by giorgio morandi 1930 29a94a17|pen and ink still life of bottles vases and candlestick by giorgio morandi 1930]]
-- [[still life drawing of three objects by giorgio morandi 9e877ec3|still life drawing of three objects by giorgio morandi]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Natura morta (Still Life) by Giorgio Morandi (1956) fe6899f4|Natura morta (Still Life) by Giorgio Morandi (1956)]] — named in this note
+- [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: morandi, giorgio, objects
+- [[knowledge/wiki/images/Illustration Still Life With Bottles And Containers by Giorgio Morandi 7fab5a89|Illustration Still Life With Bottles And Containers by Giorgio Morandi]] — shared language: morandi, giorgio, still
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
-- [[knowledge/wiki/images/framed still life with brass instruments and objects 57a3f5dd|framed still life with brass instruments and objects]] — shared language: objects, still, life
-- [[knowledge/wiki/images/still life with white and dark bottles on a brown background 7e4af406|still life with white and dark bottles on a brown background]] — shared language: still, life, bottles
-- [[knowledge/wiki/artists/Artist - giorgio de chirico|Artist - giorgio de chirico]] — shared language: giorgio
-- [[knowledge/wiki/artists/Artist - giorgio ghisi|Artist - giorgio ghisi]] — shared language: giorgio
-- [[knowledge/wiki/images/line drawing of a still life with bottles and geometric forms 9822ba63|line drawing of a still life with bottles and geometric forms]] — shared language: still, life, bottles
+- [[knowledge/wiki/images/Illustration Black and White Etching of Pears and Grapes on Plate by Giorgio Morandi dd200266|Illustration Black and White Etching of Pears and Grapes on Plate by Giorgio Morandi]] — shared language: morandi, giorgio
+- [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: still, objects, life
 <!-- vault-crosslinks:end -->

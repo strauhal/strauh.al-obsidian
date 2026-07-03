@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - pierre narcisse guerin|Artist - pierre narcisse guerin]] — named in this note
-- [[knowledge/wiki/images/pierre narcisse guerin aurora and cephalus study jpg 3a03bac8|pierre narcisse guerin aurora and cephalus study jpg]] — shared language: guerin, narcisse, pierre
+- [[_archive/auto-generated/images-stale/pierre narcisse guerin aurora and cephalus study jpg 3a03bac8|pierre narcisse guerin aurora and cephalus study jpg]] — shared language: guerin, narcisse, pierre
 - [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: narcisse, pierre
+- [[knowledge/wiki/images/Aurora and Cephalus by Pierre Narcisse Gu rin (1810) 6a7f502d|Aurora and Cephalus by Pierre Narcisse Gu rin (1810)]] — shared language: narcisse, pierre
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pierre bonnard 1908|Artist - pierre bonnard 1908]] — shared language: pierre
 <!-- vault-crosslinks:end -->

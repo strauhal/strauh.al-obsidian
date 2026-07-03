@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Discipline  Punish The Birth of the Prison by Michel Foucault, Alan Sheridan (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Discipline Punish The Birth of the Prison

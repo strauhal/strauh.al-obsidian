@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1840s"
 source_kind: "date_bucket"
-count: "35"
+count: "42"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,11 +9,23 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1840s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 35
+Files: 42
 
 ## Sample
 
+![[media/strauh.al3.1/1800s/Boatmen on the Missouri by George Caleb Bingham (1846).jpeg]]
+
+![[media/strauh.al3.1/1800s/Max Stirner by Friedrich Engels (1845-1846).jpg]]
+
+![[media/strauh.al3.1/1800s/Prometheus Bound by Thomas Cole (1847).jpeg]]
+
 ![[media/strauh.al3.1/1800s/Richard Dadd - Come unto these Yellow Sands 1842  - (MeisterDrucke-211019).jpg]]
+
+![[media/strauh.al3.1/1800s/The Abduction of Rebecca by Eugène Delacroix (1846).jpg]]
+
+![[media/strauh.al3.1/1800s/The Picnic by Thomas Cole (1846).jpeg]]
+
+![[media/strauh.al3.1/1800s/The Village Lawyer by Richard Redgrave (1842).jpeg]]
 
 ![[media/strauh.al3.1/1800s/adolph_tidemand_and_hans_gude_the_bridal_procession_in_hardanger_brudeferden_i_hardanger_1848.jpg]]
 
@@ -48,18 +60,6 @@ Files: 35
 ![[media/strauh.al3.1/1800s/l_ange_dechu_the_fallen_angel_by_alexandre_cabanel_1847.jpg]]
 
 ![[media/strauh.al3.1/1800s/la_ciociara_by_francesco_hayez_1842.jpeg]]
-
-![[media/strauh.al3.1/1800s/lamartine_refusing_the_red_flag_at_the_hotel_de_ville_paris_february_25_1848_by_felix_philippoteaux_1848.jpg]]
-
-![[media/strauh.al3.1/1800s/leo_von_klenze_the_acropolis_of_athens_restored_1846.jpg]]
-
-![[media/strauh.al3.1/1800s/nathaniel_hawthorne_by_charles_osgood_c_1840.jpg]]
-
-![[media/strauh.al3.1/1800s/pandemonium_by_john_martin_1841.jpg]]
-
-![[media/strauh.al3.1/1800s/paul_delaroche_napoleon_at_fontainebleau_october_31_1814_1840.jpg]]
-
-![[media/strauh.al3.1/1800s/portrait_of_sister_saint_alphonse_by_antoine_plamondon_1841.jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Satoshi Kon|Artist - Satoshi Kon]] — shared language: satoshi, kon
+- [[knowledge/wiki/images/Screenshot Perfect Blue by Satoshi Kon 668e7179|Screenshot Perfect Blue by Satoshi Kon]] — shared language: satoshi, kon
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

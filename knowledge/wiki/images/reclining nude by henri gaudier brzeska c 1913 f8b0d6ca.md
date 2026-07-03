@@ -1,12 +1,12 @@
 ---
 title: "reclining nude by henri gaudier brzeska c 1913"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg"
 source_relpath: "1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "henri gaudier brzeska"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - henri gaudier brzeska]]
 
 Source: [[media/strauh.al3.1/1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/images/standing female nude with arms raised by henri gaudier brzeska c 1913 400aa9c7|standing female nude with arms raised by henri gaudier brzeska c 1913]] — same artist: henri gaudier brzeska
-- [[knowledge/wiki/images/painting of a reclining blonde nude reading c6d76965|painting of a reclining blonde nude reading]] — shared language: reclining, nude
-- [[knowledge/wiki/images/framed painting of a red reclining nude in flowers 64bdff46|framed painting of a red reclining nude in flowers]] — shared language: reclining, nude
-- [[knowledge/wiki/images/soft black and white reclining nude study 944bebef|soft black and white reclining nude study]] — shared language: reclining, nude
-- [[knowledge/wiki/images/reclining nude by egon schiele 1910 153773d0|reclining nude by egon schiele 1910]] — shared language: reclining, nude
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude, reclining
+- [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining, nude
+- [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: reclining, nude
+- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

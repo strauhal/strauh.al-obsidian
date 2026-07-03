@@ -20,11 +20,11 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - barrett lyon|Artist - barrett lyon]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - barrett lyon|Artist - Barrett Lyon]] — named in this note
+- [[knowledge/wiki/images/Diagram The Internet Map by Barrett Lyon b26d2dc4|Diagram The Internet Map by Barrett Lyon]] — shared language: barrett, lyon, internet
 - [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — shared language: internet
 - [[knowledge/wiki/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]] — shared language: internet
 - [[_archive/auto-generated/concept-stubs/The Internet
 as Confidant|The Internet]] — shared language: internet
 - [[_archive/auto-generated/concept-stubs/The Internet as Confidant|The Internet as Confidant]] — shared language: internet
-- [[knowledge/wiki/images/the end of the internet by constant dullaart 2013 29d15776|the end of the internet by constant dullaart 2013]] — shared language: internet
 <!-- vault-crosslinks:end -->

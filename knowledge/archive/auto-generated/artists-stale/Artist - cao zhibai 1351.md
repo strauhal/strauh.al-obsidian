@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - cao zhibai|Artist - cao zhibai]] — named in this note
-- [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: zhibai, cao, sparse
-- [[knowledge/wiki/artists/Artist - cao fei|Artist - cao fei]] — shared language: cao
+- [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: zhibai, cao, secluded
+- [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei|Artist - cao fei]] — shared language: cao
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei 2007|Artist - cao fei 2007]] — shared language: cao
-- [[knowledge/wiki/images/rmb city city planning by cao fei 2007 ac3167c7|rmb city city planning by cao fei 2007]] — shared language: cao
-- [[knowledge/wiki/images/painting of cypress trees on cliffs above water 75aa5267|painting of cypress trees on cliffs above water]] — shared language: cliffs
+- [[_archive/auto-generated/images-stale/rmb city city planning by cao fei 2007 ac3167c7|rmb city city planning by cao fei 2007]] — shared language: cao
+- [[knowledge/wiki/images/RMB City A Second Life City Planning 04 by Cao Fei (2007) d83c2da6|RMB City A Second Life City Planning 04 by Cao Fei (2007)]] — shared language: cao
 <!-- vault-crosslinks:end -->

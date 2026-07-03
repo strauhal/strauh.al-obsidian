@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud moebius 1988|Artist - jean giraud moebius 1988]] — shared language: giraud, moebius, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud moebius 1975|Artist - jean giraud moebius 1975]] — shared language: giraud, moebius, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud moebius 1977|Artist - jean giraud moebius 1977]] — shared language: giraud, moebius, jean
-- [[knowledge/wiki/images/stel by jean giraud moebius 1988 245e1dc0|stel by jean giraud moebius 1988]] — shared language: giraud, moebius, jean
 - [[knowledge/wiki/artists/Artist - jean giraud moebius|Artist - jean giraud moebius]] — shared language: giraud, moebius, jean
+- [[knowledge/wiki/images/stel by jean giraud moebius 1988 245e1dc0|stel by jean giraud moebius 1988]] — shared language: giraud, moebius, jean
 <!-- vault-crosslinks:end -->

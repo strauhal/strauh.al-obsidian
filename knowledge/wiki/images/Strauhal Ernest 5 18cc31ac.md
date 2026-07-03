@@ -1,12 +1,12 @@
 ---
 title: "Strauhal Ernest 5"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/Strauhal_Ernest_5.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/Strauhal_Ernest_5.png"
 source_relpath: "diary/Strauhal_Ernest_5.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "2830x3728"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/Strauhal_Ernest_5.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/Strauhal_Ernest_5.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/Strauhal_Ernest_5.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

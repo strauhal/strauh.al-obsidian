@@ -21,6 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/alice-rohrwacher|Alice Rohrwacher]] — shared language: alice
-- [[knowledge/wiki/images/diagram illustrating alice and bob s nested models of each other s minds featuring two profile outlines and concentric blue and purple circles 50cb8f75|diagram illustrating alice and bob s nested models of each other s minds featuring two profile outlines and concentric blue and purple circles]] — shared language: alice
+- [[knowledge/wiki/images/Photograph Behind The Scenes Of Alice In Wonderland Film Production f729f8a1|Photograph Behind The Scenes Of Alice In Wonderland Film Production]] — shared language: alice
+- [[knowledge/wiki/images/Diagram Diagram Illustrating Alice And Bob's Nested Models Of Each Other's Minds 7ce6cf6c|Diagram Diagram Illustrating Alice And Bob's Nested Models Of Each Other's Minds]] — shared language: alice
 - [[knowledge/wiki/culture/movie-happy-as-lazzaro|Watchlist - Happy as Lazzaro]] — shared language: alice
 <!-- vault-crosslinks:end -->

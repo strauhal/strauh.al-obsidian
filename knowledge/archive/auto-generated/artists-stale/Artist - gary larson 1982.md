@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - gary larson|Artist - gary larson]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1986|Artist - gary larson 1986]] — named in this note
 - [[knowledge/wiki/images/abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]] — shared language: larson, gary
-- [[knowledge/wiki/artists/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson 2018|Artist - jeffrey t larson 2018]] — shared language: larson
 - [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: gary
 <!-- vault-crosslinks:end -->

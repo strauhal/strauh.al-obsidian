@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1982|Artist - hiroshi nagai 1982]] — shared language: hiroshi, nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1981|Artist - hiroshi nagai 1981]] — shared language: hiroshi, nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 2020|Artist - hiroshi nagai 2020]] — shared language: hiroshi, nagai
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1983|Artist - hiroshi nagai 1983]] — shared language: hiroshi, nagai
 - [[knowledge/wiki/artists/Artist - hiroshi nagai|Artist - hiroshi nagai]] — shared language: hiroshi, nagai, shipwreck
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1983|Artist - hiroshi nagai 1983]] — shared language: hiroshi, nagai
 - [[knowledge/wiki/images/swimming by hiroshi nagai 1982 272e8745|swimming by hiroshi nagai 1982]] — shared language: hiroshi, nagai
 <!-- vault-crosslinks:end -->

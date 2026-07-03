@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/images/Photograph Sarcastic Letter From Dave About Treefort Complaint db763ed6|Photograph Sarcastic Letter From Dave About Treefort Complaint]] — shared language: dave
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: dave
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: dave
 - [[knowledge/wiki/images/maniac mansion dave s room scene by lucasfilm games 1987 a5ffa292|maniac mansion dave s room scene by lucasfilm games 1987]] — shared language: dave
 - [[knowledge/wiki/images/uzumaki panel from the hair chapter by junji ito 1998 7a9caf99|uzumaki panel from the hair chapter by junji ito 1998]] — shared language: chapter, panel
-- [[knowledge/wiki/artists/Artist - lucasfilm games|Artist - lucasfilm games]] — shared language: dave
 <!-- vault-crosslinks:end -->

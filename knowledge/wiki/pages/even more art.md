@@ -1,10 +1,10 @@
 ---
 title: "even more art"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/even_more_art.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/even_more_art.html"
 source_relpath: "even_more_art.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # even more art
@@ -861,11 +861,11 @@ strauh.al/even_more_art
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the annunciation by john william waterhouse 1914 f6963c66|the annunciation by john william waterhouse 1914]] — named in this note
-- [[knowledge/wiki/images/gif image 2 gif b2103b40|gif image 2 gif]] — named in this note
-- [[knowledge/wiki/images/gif image 3 gif 72d9592b|gif image 3 gif]] — named in this note
-- [[knowledge/wiki/images/gif image gif 9178d3b3|gif image gif]] — named in this note
 - [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
-- [[knowledge/wiki/images/abstract figurative painting of two reclining figures 2 1a128e67|abstract figurative painting of two reclining figures 2]] — named in this note
-- [[knowledge/wiki/images/abstract figurative painting of two reclining figures 666b0bb4|abstract figurative painting of two reclining figures]] — named in this note
+- [[knowledge/wiki/images/Illustration Abstract Figurative Painting of Two Reclining Figures 964adcc3|Illustration Abstract Figurative Painting of Two Reclining Figures]] — named in this note
 - [[knowledge/wiki/images/burg eltz by johann wilhelm schirmer 1840 62a7c924|burg eltz by johann wilhelm schirmer 1840]] — named in this note
+- [[knowledge/wiki/images/burg eltz by johann wilhelm schirmer 1845 df19cd5b|burg eltz by johann wilhelm schirmer 1845]] — named in this note
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/images/le renseignement by alphonse de neuville 1880 7032c869|le renseignement by alphonse de neuville 1880]] — named in this note
+- [[knowledge/wiki/images/the interrogation by alphonse de neuville 1880 e792385b|the interrogation by alphonse de neuville 1880]] — named in this note
 <!-- vault-crosslinks:end -->

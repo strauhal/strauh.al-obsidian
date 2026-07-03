@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/anchors-stale/artist-the-hon-john-collier-1887|Artist - the hon john collier 1887]] — shared language: collier, hon, john
+- [[knowledge/archive/auto-generated/anchors-stale/artist-the-hon-john-collier-1887|Artist - the hon john collier 1887]] — shared language: hon, collier, john
+- [[knowledge/wiki/images/Eve by John Collier (1900) 2d8171d8|Eve by John Collier (1900)]] — shared language: collier, john
 - [[knowledge/wiki/artists/Artist - pierre paul prud hon|Artist - pierre paul prud hon]] — shared language: hon
 - [[knowledge/wiki/images/l aurore the dawn by pierre paul prud hon c 1804 94e0df97|l aurore the dawn by pierre paul prud hon c 1804]] — shared language: hon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — shared language: john
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[_archive/auto-generated/books-stale/cage-john-notations|Cage John Notations]] — shared language: john
 <!-- vault-crosslinks:end -->

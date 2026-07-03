@@ -1,10 +1,10 @@
 ---
 title: "religious texts"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/religious_texts.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/religious_texts.html"
 source_relpath: "religious_texts.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # religious texts
@@ -40,8 +40,8 @@ strauh.al/religious_texts
 
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — named in this note
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
-- [[knowledge/wiki/anchors/bible|bible]] — named in this note
 - [[knowledge/wiki/anchors/quran|quran]] — named in this note
+- [[knowledge/wiki/anchors/bible|bible]] — named in this note
 - [[knowledge/wiki/anchors/dhammapada|dhammapada]] — named in this note
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: texts, religious, quran
 - [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — shared language: texts, religious, guru

@@ -31,9 +31,9 @@ his cataloguing, ranking, completist instinct — the same drive behind the
 - [[knowledge/wiki/images/scaruffi 215ee781|scaruffi]] — shared language: scaruffi, diary
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: scaruffi, piero, influences
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, impulse, influences
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: diary, turning, music
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: diary, turning, slop
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, page, diary
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: cataloguing, influences, summary
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, page, diary
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: i'm, diary, slop
+- [[knowledge/wiki/images/Photograph Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo acc4a089|Photograph Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo]] — shared language: scaruffi, piero
 <!-- vault-crosslinks:end -->

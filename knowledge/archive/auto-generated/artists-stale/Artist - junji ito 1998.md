@@ -38,7 +38,7 @@ Images attributed by filename: 6
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
 - [[knowledge/wiki/images/uzumaki by junji ito 1998 1999 386ecb02|uzumaki by junji ito 1998 1999]] — shared language: junji, ito, uzumaki
 - [[knowledge/wiki/artists/Artist - junji ito|Artist - junji ito]] — shared language: junji, ito, uzumaki
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, panel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1998 1999|Artist - junji ito 1998 1999]] — shared language: junji, ito, uzumaki
+- [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, panel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1987|Artist - junji ito 1987]] — shared language: junji, ito
 <!-- vault-crosslinks:end -->

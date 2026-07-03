@@ -1,12 +1,12 @@
 ---
 title: "adderall"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/adderall.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/adderall.gif"
 source_relpath: "diary/adderall.gif"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "268x510"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/adderall.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/adderall.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/adderall.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

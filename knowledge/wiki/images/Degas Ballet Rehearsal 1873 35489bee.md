@@ -1,12 +1,12 @@
 ---
 title: "Degas Ballet Rehearsal 1873"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg"
 source_relpath: "artists/degas/Degas-Ballet-Rehearsal-1873.jpg"
 collection: "artists"
 inferred_year: "1873"
 artist: ""
-dimensions: "1280x989"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/Degas-Ballet-Rehearsal-1873.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

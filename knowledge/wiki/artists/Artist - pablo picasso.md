@@ -90,10 +90,10 @@ Images attributed by filename: 25
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — named in this note
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/images/T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953) 9666a4d3|T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953)]] — shared language: picasso, pablo, femme
 - [[knowledge/wiki/images/pablo picasso femme dans un fauteuil woman in an armchair 1938 0b88bc86|pablo picasso femme dans un fauteuil woman in an armchair 1938]] — shared language: picasso, pablo, femme
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: femme, nude, reclining
 - [[knowledge/wiki/images/pablo picasso les demoiselles davignon 1907 38a86cf2|pablo picasso les demoiselles davignon 1907]] — shared language: picasso, pablo, demoiselles
-- [[knowledge/wiki/images/tete de femme head of a woman by salvador dali 1937 b1ef89d2|tete de femme head of a woman by salvador dali 1937]] — shared language: tete, femme, head
-- [[knowledge/wiki/images/pablo picasso drawing a figure with light by gjon mili 1949 e5d05cab|pablo picasso drawing a figure with light by gjon mili 1949]] — shared language: picasso, pablo
-- [[knowledge/wiki/images/pablo picasso in his studio at la californie cannes by david douglas duncan 1957 9f0d1ab8|pablo picasso in his studio at la californie cannes by david douglas duncan 1957]] — shared language: picasso, pablo
 <!-- vault-crosslinks:end -->

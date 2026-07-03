@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
+- [[knowledge/wiki/images/In de tram by Frans Bergsma (c. 1900) afdfb964|In de tram by Frans Bergsma (c. 1900)]] — shared language: frans
 - [[knowledge/wiki/artists/Artist - franklin booth|Artist - franklin booth]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - frantisek kupka|Artist - frantisek kupka]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-fool-1967|Artist - the fool 1967]] — shared language: fool
-- [[knowledge/wiki/images/RWS Tarot 00 Fool d4f12ba9|RWS Tarot 00 Fool]] — shared language: fool
+- [[_archive/auto-generated/images-stale/RWS Tarot 00 Fool d4f12ba9|RWS Tarot 00 Fool]] — shared language: fool
 - [[knowledge/wiki/images/the fool by pamela colman smith 1909 8dcd0825|the fool by pamela colman smith 1909]] — shared language: fool
-- [[knowledge/wiki/images/apple paper 7b0456ee|apple paper]] — shared language: apple
-- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: fool
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pamela colman smith 1909|Artist - pamela colman smith 1909]] — shared language: fool
+- [[knowledge/wiki/images/The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909) 5c8d2461|The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909)]] — shared language: fool
+- [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: apple
+- [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
 <!-- vault-crosslinks:end -->

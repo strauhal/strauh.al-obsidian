@@ -40,5 +40,5 @@ Images attributed by filename: 6
 - [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
 - [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
-- [[knowledge/wiki/images/le baiser the kiss by jean delville 1898 b847c299|le baiser the kiss by jean delville 1898]] — shared language: jean, baiser, kiss
+- [[knowledge/wiki/images/two figures by leon golub 1960 cf93f1d3|two figures by leon golub 1960]] — shared language: leon
 <!-- vault-crosslinks:end -->

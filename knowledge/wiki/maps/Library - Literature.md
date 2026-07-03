@@ -2,8 +2,8 @@
 title: Library - Literature
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Literature

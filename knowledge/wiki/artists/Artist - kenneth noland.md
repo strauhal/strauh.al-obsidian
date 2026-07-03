@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - kenneth m adams|Artist - kenneth m adams]] — shared language: kenneth
 - [[knowledge/wiki/images/juanita by kenneth m adams 1939 6d4c22c8|juanita by kenneth m adams 1939]] — shared language: kenneth
-- [[knowledge/wiki/artists/Artist - kenny scharf|Artist - kenny scharf]] — nearby note in the same source series
+- [[knowledge/wiki/images/Meadows Ridge by Gordon Mortensen 6d5142f2|Meadows Ridge by Gordon Mortensen]] — shared language: ridge
 <!-- vault-crosslinks:end -->

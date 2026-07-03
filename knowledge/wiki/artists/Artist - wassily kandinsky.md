@@ -36,9 +36,9 @@ Images attributed by filename: 6
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
+- [[knowledge/wiki/images/Yellow Red Blue by Wassily Kandinsky (1925) 39dc2dc0|Yellow Red Blue by Wassily Kandinsky (1925)]] — shared language: kandinsky, wassily
 - [[knowledge/wiki/images/wassily kandinsky 829cef07|wassily kandinsky]] — shared language: wassily, kandinsky
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily, composition
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: kandinsky, wassily
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: wassily, kandinsky
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: kandinsky, wassily
 <!-- vault-crosslinks:end -->

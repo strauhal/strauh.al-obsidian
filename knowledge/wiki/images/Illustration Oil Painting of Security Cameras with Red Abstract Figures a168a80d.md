@@ -1,0 +1,33 @@
+---
+title: "Illustration Oil Painting of Security Cameras with Red Abstract Figures"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Oil Painting of Security Cameras with Red Abstract Figures.jpeg"
+source_relpath: "2000s/Illustration - Oil Painting of Security Cameras with Red Abstract Figures.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Illustration Oil Painting of Security Cameras with Red Abstract Figures
+
+![[media/strauh.al3.1/2000s/Illustration - Oil Painting of Security Cameras with Red Abstract Figures.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Illustration - Oil Painting of Security Cameras with Red Abstract Figures.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Oil Painting of Security Cameras with Red Abstract Figures.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: security
+- [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: oil
+- [[knowledge/wiki/images/Illustration Oil Painting of Three Figures in an Interior c259eaca|Illustration Oil Painting of Three Figures in an Interior]] — shared language: oil
+- [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil
+- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: oil
+<!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/woodblock print of a flowering branch against a large moon a675511e|woodblock print of a flowering branch against a large moon]] — shared language: branch, moon
+- [[knowledge/wiki/images/Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon fb0259f1|Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon]] — shared language: branch, moon
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
-- [[knowledge/wiki/images/Joseph Beuys deer blackboard drawing 0899b01f|Joseph Beuys deer blackboard drawing]] — shared language: deer
-- [[knowledge/wiki/images/black and white photo of a white cat on a tree branch 5d7f0e9c|black and white photo of a white cat on a tree branch]] — shared language: branch
-- [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
-- [[knowledge/wiki/images/glass bottle sculpture installation with branch 6edf09c0|glass bottle sculpture installation with branch]] — shared language: branch
+- [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: deer
+- [[knowledge/wiki/images/Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames f7b75581|Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames]] — shared language: moon, night
+- [[knowledge/wiki/images/Illustration White Deer With Pylon Antlers Against Dark Blue Background 96fffcd0|Illustration White Deer With Pylon Antlers Against Dark Blue Background]] — shared language: deer
+- [[knowledge/wiki/images/Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky 8fc6b033|Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky]] — shared language: moon, night
 <!-- vault-crosslinks:end -->

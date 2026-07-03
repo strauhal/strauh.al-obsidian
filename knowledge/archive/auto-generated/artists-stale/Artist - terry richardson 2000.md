@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - terry richardson|Artist - terry richardson]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - terry richardson|Artist - terry richardson]] — named in this note
+- [[knowledge/wiki/artists/Artist - Joey Richardson|Artist - Joey Richardson]] — shared language: richardson
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: terry
+- [[knowledge/wiki/artists/Artist - Terry A. Davis|Artist - Terry A. Davis]] — shared language: terry
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: terry
 - [[knowledge/wiki/images/terry riley da601e64|terry riley]] — shared language: terry
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: terry
-- [[knowledge/wiki/anchors/terry-zwigoff|Terry Zwigoff]] — shared language: terry
 <!-- vault-crosslinks:end -->

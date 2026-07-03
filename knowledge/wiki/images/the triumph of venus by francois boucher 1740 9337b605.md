@@ -1,12 +1,12 @@
 ---
 title: "the triumph of venus by francois boucher 1740"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg"
 source_relpath: "1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg"
 collection: "1700s"
 inferred_year: "1740"
 artist: "francois boucher"
-dimensions: "2033x2750"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - francois boucher]]
 
 Source: [[media/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_triumph_of_venus_by_francois_boucher_1740.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — shared language: venus, triumph
 - [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - francois morellet|Artist - francois morellet]] — shared language: francois
 <!-- vault-crosslinks:end -->

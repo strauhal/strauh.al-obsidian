@@ -23,5 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - hector garcia|Artist - hector garcia]] — named in this note
 - [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — shared language: garcia
 - [[knowledge/wiki/images/ChE BvTWgAADxQm 9894aa07|ChE BvTWgAADxQm]] — shared language: che
-- [[knowledge/wiki/images/l uomo che lavora by gianfranco meggiato 2019 365f8c34|l uomo che lavora by gianfranco meggiato 2019]] — shared language: che
+- [[knowledge/wiki/images/L'Uomo Che Lavora by Gianfranco Meggiato (2019) 417effe7|L'Uomo Che Lavora by Gianfranco Meggiato (2019)]] — shared language: che
+- [[knowledge/wiki/images/Nietzsche and the Horse by J zef Che mo ski (1898) 8a38c72c|Nietzsche and the Horse by J zef Che mo ski (1898)]] — shared language: che
+- [[_archive/auto-generated/images-stale/l uomo che lavora by gianfranco meggiato 2019 365f8c34|l uomo che lavora by gianfranco meggiato 2019]] — shared language: che
 <!-- vault-crosslinks:end -->

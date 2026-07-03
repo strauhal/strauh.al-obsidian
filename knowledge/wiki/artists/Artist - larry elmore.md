@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - larry welo|Artist - larry welo]] — shared language: larry
-- [[knowledge/wiki/images/the road to oz by larry welo 38dc9767|the road to oz by larry welo]] — shared language: larry
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — shared language: larry
 - [[knowledge/wiki/images/the dragon s lair by sue miller 1997 631b8583|the dragon s lair by sue miller 1997]] — shared language: lair, dragon
+- [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: dragon
 - [[knowledge/wiki/images/wolfgang paalen the lair 1939 917614e9|wolfgang paalen the lair 1939]] — shared language: lair
+- [[knowledge/wiki/images/Illustration Black and Red Fantasy Illustration of Dragon and Heroes fb5a3076|Illustration Black and Red Fantasy Illustration of Dragon and Heroes]] — shared language: dragon
 <!-- vault-crosslinks:end -->

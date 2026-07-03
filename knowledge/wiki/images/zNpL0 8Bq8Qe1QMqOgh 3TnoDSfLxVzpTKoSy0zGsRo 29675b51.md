@@ -1,12 +1,12 @@
 ---
 title: "zNpL0 8Bq8Qe1QMqOgh 3TnoDSfLxVzpTKoSy0zGsRo"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
 source_relpath: "album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/zNpL0-8Bq8Qe1QMqOgh-3TnoDSfLxVzpTKoSy0zGsRo.jpg.webp`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

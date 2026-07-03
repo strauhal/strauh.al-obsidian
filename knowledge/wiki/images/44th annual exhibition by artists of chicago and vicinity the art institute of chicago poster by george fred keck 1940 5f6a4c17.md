@@ -1,12 +1,12 @@
 ---
 title: "44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg"
 source_relpath: "1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg"
 collection: "1900s"
 inferred_year: "1940"
 artist: ""
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/44th_annual_exhibition_by_artists_of_chicago_and_vicinity_the_art_institute_of_chicago_poster_by_george_fred_keck_1940.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago, art
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[knowledge/wiki/artists/Artist - fred gambino|Artist - fred gambino]] — shared language: fred, art
-- [[knowledge/wiki/images/Art of Moebius 51eaa0f5|Art of Moebius]] — shared language: artists, art
-- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: artists, art
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
+- [[knowledge/wiki/artists/Artist - fred gambino|Artist - fred gambino]] — shared language: fred
+- [[knowledge/wiki/images/Diagram Colorful Map of Chicago Neighborhoods a376e21d|Diagram Colorful Map of Chicago Neighborhoods]] — shared language: chicago
+- [[knowledge/wiki/images/IMG 2748 5f740c79|IMG 2748]] — shared language: artists
+- [[knowledge/wiki/images/IMG 2749 1ececdea|IMG 2749]] — shared language: artists
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "FKC2jcAXMAIL34"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/FKC2jcAXMAIL34_.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/comics/FKC2jcAXMAIL34_.jpeg"
 source_relpath: "comics/FKC2jcAXMAIL34_.jpeg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "1534x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/comics/FKC2jcAXMAIL34_.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/FKC2jcAXMAIL34_.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/comics/FKC2jcAXMAIL34_.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
+- [[knowledge/wiki/images/Illustration Two Figures in a Cluttered Gothic Study by Bernie Wrightson 2480bcba|Illustration Two Figures in a Cluttered Gothic Study by Bernie Wrightson]] — shared language: bernie, wrightson
 - [[knowledge/wiki/artists/Artist - berni wrightson|Artist - berni wrightson]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/images/victor frankenstein watches over the creature by berni wrightson 1983 f3962a52|victor frankenstein watches over the creature by berni wrightson 1983]] — shared language: wrightson, victor, creature
-- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
+- [[knowledge/wiki/images/The Creature Confronts Victor Frankenstein by Berni Wrightson (1983) 446b7916|The Creature Confronts Victor Frankenstein by Berni Wrightson (1983)]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
 <!-- vault-crosslinks:end -->

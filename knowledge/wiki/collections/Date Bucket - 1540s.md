@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1540s"
 source_kind: "date_bucket"
-count: "6"
+count: "7"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1540s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 6
+Files: 7
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Rabbits between the staves (c. 1540-50).jpg]]
 
 ![[media/strauh.al3.1/1500s/illustration_for_dante_alighieri_s_paradiso_canto_ii_1544.jpeg]]
 

@@ -1,12 +1,12 @@
 ---
 title: "goethe im feldlager vor mainz by johann heinrich lips 1793"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg"
 source_relpath: "1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg"
 collection: "1700s"
 inferred_year: "1793"
 artist: "johann heinrich lips"
-dimensions: "400x556"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - johann heinrich lips]]
 
 Source: [[media/strauh.al3.1/1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/goethe_im_feldlager_vor_mainz_by_johann_heinrich_lips_1793.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

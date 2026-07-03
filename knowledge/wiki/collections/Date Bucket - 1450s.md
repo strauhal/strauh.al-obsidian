@@ -13,9 +13,9 @@ Files: 2
 
 ## Sample
 
-![[media/strauh.al3.1/photography/IMG_1454.JPG]]
+![[media/strauh.al3.1/1400s/The Crucifixion by Andrea Mantegna (1457–1459).jpg]]
 
-![[media/strauh.al3.1/unsorted/the_crucifixion_by_andrea_mantegna_1457_1459.jpg]]
+![[media/strauh.al3.1/photography/IMG_1454.JPG]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

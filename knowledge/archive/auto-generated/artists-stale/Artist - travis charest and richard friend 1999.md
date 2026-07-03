@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - travis charest and richard friend|Artist - travis charest and richard friend]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — shared language: richard
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: friend
 - [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
-- [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: richard
 <!-- vault-crosslinks:end -->

@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - robert ryman|Artist - robert ryman]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/ryman a1ecb8ba|ryman]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert

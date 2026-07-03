@@ -1,12 +1,12 @@
 ---
 title: "g o d"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/g_o_d.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/g_o_d.jpg"
 source_relpath: "album_covers/g_o_d.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "1400x1400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/g_o_d.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/g_o_d.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/g_o_d.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

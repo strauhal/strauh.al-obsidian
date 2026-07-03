@@ -1,0 +1,35 @@
+---
+title: "Fjordlandskap med b t og jente by Hans A. Dahl (c. 1900)"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900).jpg"
+source_relpath: "1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900).jpg"
+collection: "1900s"
+inferred_year: "1900"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1900s"]
+---
+# Fjordlandskap med b t og jente by Hans A. Dahl (c. 1900)
+
+![[media/strauh.al3.1/1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900).jpg]]
+
+Collection: [[Collection - 1900s]]
+
+Date bucket: [[Date Bucket - 1900s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900).jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900).jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900) e4bff0a9|A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900)]] — shared language: dahl, hans
+- [[knowledge/wiki/images/A Woman with a Rake in a Mountain Landscape by Hans Andreas Dahl (1919) 0f207179|A Woman with a Rake in a Mountain Landscape by Hans Andreas Dahl (1919)]] — shared language: dahl, hans
+- [[knowledge/wiki/books/roald-dahl-the-twits|The Twits]] — shared language: dahl
+- [[knowledge/wiki/books/roald-dahl-matilda-viking|Matilda-Viking]] — shared language: dahl
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: dahl
+<!-- vault-crosslinks:end -->

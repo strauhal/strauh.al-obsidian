@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/tango by heinrich kley 1914 b1fcaa3f|tango by heinrich kley 1914]] — shared language: heinrich
 - [[knowledge/wiki/artists/Artist - johann heinrich lips|Artist - johann heinrich lips]] — shared language: heinrich
 - [[knowledge/wiki/artists/Artist - johann heinrich wilhelm tischbein|Artist - johann heinrich wilhelm tischbein]] — shared language: heinrich
+- [[knowledge/wiki/artists/Artist - Heinrich Wilhelm Brinckmann Thiersch|Artist - Heinrich Wilhelm Brinckmann Thiersch]] — shared language: heinrich
 - [[knowledge/wiki/images/goethe in the roman campagna by johann heinrich wilhelm tischbein 1787 f53fa6ad|goethe in the roman campagna by johann heinrich wilhelm tischbein 1787]] — shared language: heinrich
-- [[knowledge/wiki/images/goethe im feldlager vor mainz by johann heinrich lips 1793 ef3663f1|goethe im feldlager vor mainz by johann heinrich lips 1793]] — shared language: heinrich
 <!-- vault-crosslinks:end -->

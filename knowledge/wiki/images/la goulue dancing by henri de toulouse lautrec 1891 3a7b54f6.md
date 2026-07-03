@@ -1,12 +1,12 @@
 ---
 title: "la goulue dancing by henri de toulouse lautrec 1891"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg"
 source_relpath: "1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg"
 collection: "1800s"
 inferred_year: "1891"
 artist: "henri de toulouse lautrec"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - henri de toulouse lautrec]]
 
 Source: [[media/strauh.al3.1/1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/la_goulue_dancing_by_henri_de_toulouse_lautrec_1891.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

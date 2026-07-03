@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - ryan bliss|Artist - ryan bliss]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ryan bliss|Artist - ryan bliss]] — named in this note
+- [[knowledge/wiki/images/Stargazer by Ryan Bliss (2000) a074d7ce|Stargazer by Ryan Bliss (2000)]] — named in this note
 - [[knowledge/wiki/images/bliss 58c6e178|bliss]] — named in this note
-- [[knowledge/wiki/artists/Artist - petrina ryan kleid|Artist - petrina ryan kleid]] — shared language: ryan
-- [[knowledge/archive/auto-generated/artists-stale/Artist - petrina ryan kleid 2012|Artist - petrina ryan kleid 2012]] — shared language: ryan
-- [[knowledge/wiki/images/the paper airplane by petrina ryan kleid 2012 f9d06221|the paper airplane by petrina ryan kleid 2012]] — shared language: ryan
-- [[knowledge/wiki/images/microsoft paint screenshot of bliss wallpaper with seated figure 4ab226c0|microsoft paint screenshot of bliss wallpaper with seated figure]] — shared language: bliss
+- [[knowledge/wiki/artists/Artist - Ryan Pagelow|Artist - Ryan Pagelow]] — shared language: ryan
+- [[_archive/auto-generated/images-stale/microsoft paint screenshot of bliss wallpaper with seated figure 4ab226c0|microsoft paint screenshot of bliss wallpaper with seated figure]] — shared language: bliss
+- [[knowledge/archive/auto-generated/artists-stale/Artist - petrina ryan kleid|Artist - petrina ryan kleid]] — shared language: ryan
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicholas roerich 1924|Artist - nicholas roerich 1924]] — shared language: roerich, nicholas
 - [[knowledge/wiki/artists/Artist - nicholas roerich|Artist - nicholas roerich]] — shared language: roerich, nicholas, good
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicholas roerich 1925|Artist - nicholas roerich 1925]] — shared language: roerich, nicholas
-- [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — shared language: roerich, nicholas
 - [[knowledge/wiki/images/the face of the world by nicholas roerich 1925 0fd26cfb|the face of the world by nicholas roerich 1925]] — shared language: roerich, nicholas
+- [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — shared language: roerich, nicholas
 - [[knowledge/wiki/images/buddha in the cave by nicholas roerich 1925 89792310|buddha in the cave by nicholas roerich 1925]] — shared language: roerich, nicholas
 <!-- vault-crosslinks:end -->

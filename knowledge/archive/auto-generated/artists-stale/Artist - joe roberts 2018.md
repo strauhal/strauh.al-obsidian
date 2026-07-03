@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - joe roberts|Artist - joe roberts]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joe roberts|Artist - joe roberts]] — named in this note
+- [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts 2024|Artist - michael james roberts 2024]] — shared language: roberts
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts 2024 2|Artist - michael james roberts 2024 2]] — shared language: roberts
-- [[knowledge/wiki/artists/Artist - joe madureira|Artist - joe madureira]] — shared language: joe
-- [[knowledge/wiki/artists/Artist - michael james roberts|Artist - michael james roberts]] — shared language: roberts
-- [[knowledge/wiki/images/projecting a bit 1 by michael james roberts 2024 c38985bb|projecting a bit 1 by michael james roberts 2024]] — shared language: roberts
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joe madureira|Artist - Joe Madureira]] — shared language: joe
+- [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts|Artist - Michael James Roberts]] — shared language: roberts
 <!-- vault-crosslinks:end -->

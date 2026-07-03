@@ -32,7 +32,7 @@ displays the contents. It belongs to the same DIY ethos Ernest describes in the 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: seeker, web, corpus
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: filenames, corpus, diary
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: diary, get, web
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page, site, diary
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page, diary, site
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, summary, sources

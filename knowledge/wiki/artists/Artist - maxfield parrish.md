@@ -32,7 +32,7 @@ Images attributed by filename: 4
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 - [[knowledge/wiki/anchors/theo-parrish|Theo Parrish]] — shared language: parrish
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: mill
-- [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — shared language: spirit
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: spirit
+- [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — shared language: spirit
 - [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — shared language: spirit
 <!-- vault-crosslinks:end -->

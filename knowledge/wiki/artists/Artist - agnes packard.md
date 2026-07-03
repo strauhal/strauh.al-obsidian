@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/hewlett packard spaceball 3d input device 1b5815e9|hewlett packard spaceball 3d input device]] — shared language: packard
+- [[knowledge/wiki/artists/Artist - Packard|Artist - Packard]] — shared language: packard
+- [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: agnes
+- [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: agnes
+- [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: packard
 - [[knowledge/wiki/artists/Artist - emmy lou packard|Artist - emmy lou packard]] — shared language: packard, strawberry
 - [[knowledge/wiki/artists/Artist - agnes denes|Artist - agnes denes]] — shared language: agnes
-- [[knowledge/wiki/images/strawberry pickers near pescadero by emmy lou packard 1945 0dfb3bfe|strawberry pickers near pescadero by emmy lou packard 1945]] — shared language: packard, strawberry
-- [[knowledge/wiki/images/saint agnes by andrea del sarto c 1527 1530 0cc919e5|saint agnes by andrea del sarto c 1527 1530]] — shared language: agnes
-- [[knowledge/wiki/images/study for wheatfield a confrontation battery park landfill downtown manhattan by agnes denes 1982 13185d1f|study for wheatfield a confrontation battery park landfill downtown manhattan by agnes denes 1982]] — shared language: agnes
 <!-- vault-crosslinks:end -->

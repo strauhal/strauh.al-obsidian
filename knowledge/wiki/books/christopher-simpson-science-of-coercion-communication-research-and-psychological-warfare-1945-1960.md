@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Christopher Simpson - Science of Coercion_ Communication Research and Psychological Warfare, 1945-1960 (1996, Oxford University Press, USA) - libgen.li.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Science of Coercion Communication Research and Psychological Warfare, 1945-1960
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — same category: psychology
 - [[knowledge/wiki/books/barnard-george-william-richards-william-a-sacred-knowledge-psychedelics-and-religious-experiences-columbia-university-press|Sacred knowledge psychedelics and religious experiences-Columbia University Press]] — same category: psychology
 - [[knowledge/wiki/books/gabriel-tupinamba-the-desire-of-psychoanalysis-exercises-in-lacanian-thinking-diaeresis-northwestern-university-press|The Desire of Psychoanalysis Exercises in Lacanian Thinking (Diaeresis)-Northwestern University Press]] — same category: psychology
-- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 <!-- vault-crosslinks:end -->

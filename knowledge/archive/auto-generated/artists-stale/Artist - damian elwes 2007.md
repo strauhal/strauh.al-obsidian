@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - damian elwes|Artist - damian elwes]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - damian elwes|Artist - damian elwes]] — named in this note
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: observer
 - [[knowledge/wiki/images/the eye of the observer by saul steinberg 1966 dc3e97c2|the eye of the observer by saul steinberg 1966]] — shared language: observer
 <!-- vault-crosslinks:end -->

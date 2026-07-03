@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Portrait of a Man by Cornelis de Vos (c. 1620 1625) 316b895e|Portrait of a Man by Cornelis de Vos (c. 1620 1625)]] — shared language: vos
 - [[knowledge/wiki/artists/Artist - mac grea|Artist - mac grea]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - makoto aida|Artist - makoto aida]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - m s corley|Artist - m s corley]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

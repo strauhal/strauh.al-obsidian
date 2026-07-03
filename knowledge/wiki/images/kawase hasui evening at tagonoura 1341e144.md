@@ -1,12 +1,12 @@
 ---
 title: "kawase hasui evening at tagonoura"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg"
 source_relpath: "artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1401x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

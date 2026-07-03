@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1830s"
 source_kind: "date_bucket"
-count: "24"
+count: "28"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1830s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 24
+Files: 28
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/Reclining Nude by William Etty (c. 1830).jpg]]
+
+![[media/strauh.al3.1/1800s/The Prisoner by Jean-Baptiste Auguste Leloir (1837).jpg]]
+
+![[media/strauh.al3.1/1800s/View of Dresden by Moonlight by Johan Christian Dahl (1839).jpg]]
 
 ![[media/strauh.al3.1/1800s/a_view_of_the_catskills_by_thomas_cole_1833.jpeg]]
 
@@ -54,12 +60,6 @@ Files: 24
 ![[media/strauh.al3.1/1800s/view_of_florence_from_the_boboli_gardens_by_franz_ludwig_catel_c_1830.jpeg]]
 
 ![[media/strauh.al3.1/1800s/waldschlucht_by_carl_friedrich_lessing_1836.jpg]]
-
-![[media/strauh.al3.1/1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshige_1833_1834.jpeg]]
-
-![[media/strauh.al3.1/2023_downloadsfolder/IMG_1832.JPG]]
-
-![[media/strauh.al3.1/unsorted/view_of_dresden_by_moonlight_by_johan_christian_dahl_1839.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

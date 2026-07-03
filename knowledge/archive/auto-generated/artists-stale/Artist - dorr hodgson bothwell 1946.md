@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - dorr hodgson bothwell|Artist - dorr hodgson bothwell]] — named in this note
-- [[knowledge/wiki/images/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: terrain
+- [[_archive/auto-generated/images-stale/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: terrain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - donna haraway 1997|Artist - donna haraway 1997]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - andres reisinger|Artist - andres reisinger]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andreas sitterath 1887|Artist - andreas sitterath 1887]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andrew loomis 1929|Artist - andrew loomis 1929]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andres reisinger|Artist - andres reisinger]] — named in this note
+- [[knowledge/wiki/artists/Artist - Andres Soria Aedo|Artist - Andres Soria Aedo]] — shared language: andres
+- [[knowledge/wiki/images/Reclining Nude by Andres Soria Aedo a7606f06|Reclining Nude by Andres Soria Aedo]] — shared language: andres
 <!-- vault-crosslinks:end -->

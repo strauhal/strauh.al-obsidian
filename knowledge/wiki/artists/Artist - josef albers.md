@@ -20,7 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Anton Josef Tr ka|Artist - Anton Josef Tr ka]] — shared language: josef
+- [[knowledge/wiki/images/Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: josef
+- [[knowledge/wiki/images/Beethoven on his Deathbed by Josef Danhauser (1827) f4130bf8|Beethoven on his Deathbed by Josef Danhauser (1827)]] — shared language: josef
 - [[knowledge/wiki/images/kumagaya o ikazuchi shrine by kawase hasui 1921 397c67a0|kumagaya o ikazuchi shrine by kawase hasui 1921]] — shared language: shrine
-- [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - josep tapiro i baro|Artist - josep tapiro i baro]] — nearby note in the same source series
+- [[knowledge/wiki/images/Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi 50c36bd8|Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi]] — shared language: shrine
 <!-- vault-crosslinks:end -->

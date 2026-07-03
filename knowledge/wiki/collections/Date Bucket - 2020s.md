@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2020s"
 source_kind: "date_bucket"
-count: "131"
+count: "60"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,57 +9,57 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2020s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 131
+Files: 60
 
 ## Sample
 
-![[media/strauh.al3.1/2000s/24k_valhallvagen_2023_jpg_webp.webp]]
+![[media/strauh.al3.1/2000s/16th February 2021, More Flowers in a Glass Vase by David Hockney (2021).jpeg]]
 
-![[media/strauh.al3.1/2000s/abstract_drawing_with_central_black_and_white_stippled_pattern_framed_by_geometric_borders_and_stylized_white_architectural_forms_by_jen_wohlnee_2023.jpeg]]
+![[media/strauh.al3.1/2000s/A Greener Splash by JRM (2026).jpeg]]
 
-![[media/strauh.al3.1/2000s/autoban_by_rom_rom_2020.png]]
+![[media/strauh.al3.1/2000s/Alert Alert by Jordan Sullivan (2020).jpg]]
 
-![[media/strauh.al3.1/2000s/base_scaleup_of_effective_compute_by_leopold_aschenbrenner_2024.jpeg]]
+![[media/strauh.al3.1/2000s/Autobahn by Rom Rom (2020).png]]
 
-![[media/strauh.al3.1/2000s/beethoven_250_by_david_hockney_2020.jpg]]
+![[media/strauh.al3.1/2000s/Autozone by Jordan Sullivan (2025).jpg]]
 
-![[media/strauh.al3.1/2000s/black_and_white_drawing_of_stylized_figures_in_two_scenes_2023.jpg]]
+![[media/strauh.al3.1/2000s/Bad Cameo by James Blake & Lil Yachty (2023).jpg]]
 
-![[media/strauh.al3.1/2000s/black_cat_in_the_garden_by_erin_hanson_2022.jpeg]]
+![[media/strauh.al3.1/2000s/Beethoven 250 by David Hockney (2020).jpg]]
 
-![[media/strauh.al3.1/2000s/black_ink_scribble_drawing_of_a_figure_with_a_halo_of_connected_faces_2022.jpeg]]
+![[media/strauh.al3.1/2000s/Caeruleum: Zen R26 by Takada Design (2026).jpeg]]
 
-![[media/strauh.al3.1/2000s/black_ink_sketchbook_page_with_24_panels_of_landscapes_and_figures_2024.jpg]]
+![[media/strauh.al3.1/2000s/Canto by Juliano Mazzuchini (2020).jpg]]
 
-![[media/strauh.al3.1/2000s/blossom_by_clea_2023.jpg]]
+![[media/strauh.al3.1/2000s/Cat in the Garden by Anastasia Trusova (2024).jpeg]]
 
-![[media/strauh.al3.1/2000s/body_prison_by_gigi_2021.jpg]]
+![[media/strauh.al3.1/2000s/Circular Reasoning by Adam Riches (2022).jpeg]]
 
-![[media/strauh.al3.1/2000s/body_study_by_jiaxuan_zhou_2024.jpeg]]
+![[media/strauh.al3.1/2000s/Cooking by Jeremy Miranda (2023).jpg]]
 
-![[media/strauh.al3.1/2000s/cake_by_bess_duke_2021.jpeg]]
+![[media/strauh.al3.1/2000s/De Nuce Maga by Vincent Proce (2024).jpeg]]
 
-![[media/strauh.al3.1/2000s/clarksburg_by_miles_hermann_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Deep Blue by patten (2024).jpg]]
 
-![[media/strauh.al3.1/2000s/close_up_digital_illustration_of_a_woman_wiping_her_face_with_a_tissue_by_avogado6_2020.jpeg]]
+![[media/strauh.al3.1/2000s/Flower Block by Luca Ricci (2020).jpeg]]
 
-![[media/strauh.al3.1/2000s/continuous_line_drawing_of_a_human_spine_and_ribcage_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Hold Me by Malcolm T. Liepke (2023).jpg]]
 
-![[media/strauh.al3.1/2000s/continuous_line_drawing_of_flowers_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Ichi by Bandit9 (2022).jpg]]
 
-![[media/strauh.al3.1/2000s/continuous_line_drawing_of_organic_forms_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Loose Screw by Anna Weyant (2020).jpeg]]
 
-![[media/strauh.al3.1/2000s/daisy_by_tschabalala_self_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Mission Bay Lights by Adam Forfang (2024).jpeg]]
 
-![[media/strauh.al3.1/2000s/danny_masterson_and_defense_attorney_viewing_video_evidence_by_jane_rosenberg_2023.jpeg]]
+![[media/strauh.al3.1/2000s/Mortis by Bad Radio (2020).jpg]]
 
-![[media/strauh.al3.1/2000s/danny_rodriguez_selfie_in_coffin_2020.jpg]]
+![[media/strauh.al3.1/2000s/Navajo Blanket by Terri Kelly Moyers (2021).jpeg]]
 
-![[media/strauh.al3.1/2000s/desert_bloom_by_alja_horvat_2021.jpeg]]
+![[media/strauh.al3.1/2000s/Neco raid by Vodnik (2024).jpg]]
 
-![[media/strauh.al3.1/2000s/desert_house_by_alja_horvat_2021.jpeg]]
+![[media/strauh.al3.1/2000s/Nichtschwimmerbecken, Schwimmhalle Anton Saefkow-Platz by Eline Brontsema (2024).jpg]]
 
-![[media/strauh.al3.1/2000s/digital_illustration_of_an_elderly_man_drawing_an_anime_girl_2020.jpg]]
+![[media/strauh.al3.1/2000s/Nymph by Torso Solutions (2022).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

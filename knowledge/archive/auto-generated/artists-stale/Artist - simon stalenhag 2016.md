@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - simon stalenhag|Artist - simon stalenhag]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag|Artist - simon stalenhag]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2014|Artist - simon stalenhag 2014]] — named in this note
-- [[knowledge/wiki/images/the boy and the robot by simon stalenhag 2014 74c05053|the boy and the robot by simon stalenhag 2014]] — shared language: stalenhag, simon
+- [[_archive/auto-generated/images-stale/the boy and the robot by simon stalenhag 2014 74c05053|the boy and the robot by simon stalenhag 2014]] — shared language: stalenhag, simon
+- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
 - [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 - [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — shared language: simon
-- [[knowledge/archive/auto-generated/artists-stale/Artist - simon bisley 1990|Artist - simon bisley 1990]] — shared language: simon
 <!-- vault-crosslinks:end -->

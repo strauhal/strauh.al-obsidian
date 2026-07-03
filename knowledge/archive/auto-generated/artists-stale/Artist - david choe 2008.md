@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - david choe|Artist - david choe]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - david choe|Artist - david choe]] — named in this note
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 1978|Artist - david hockney 1978]] — shared language: david
-- [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 2020|Artist - david hockney 2020]] — shared language: david
+- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
+- [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: david
 <!-- vault-crosslinks:end -->

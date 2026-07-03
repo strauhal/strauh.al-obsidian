@@ -33,9 +33,9 @@ and anonymous at once.
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: mcgee, barry, influences
+- [[knowledge/wiki/artists/Artist - Barry McGee|Artist - Barry McGee]] — shared language: mcgee, barry, train
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, internet, listed
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, whose, diary
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant, whose
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, whose
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, internet, confidant
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: mcgee, influences, barry
 <!-- vault-crosslinks:end -->

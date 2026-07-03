@@ -1,0 +1,35 @@
+---
+title: "aggregate a by kurokawa toru 2016"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/aggregate_a_by_kurokawa_toru_2016.jpeg"
+source_relpath: "2000s/aggregate_a_by_kurokawa_toru_2016.jpeg"
+collection: "2000s"
+inferred_year: "2016"
+artist: "kurokawa toru"
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# aggregate a by kurokawa toru 2016
+
+![[media/strauh.al3.1/2000s/aggregate_a_by_kurokawa_toru_2016.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: [[Artist - kurokawa toru]]
+
+Source: [[media/strauh.al3.1/2000s/aggregate_a_by_kurokawa_toru_2016.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/aggregate_a_by_kurokawa_toru_2016.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[_archive/auto-generated/images-stale/aggregate a by kurokawa toru 2016 2 b522e426|aggregate a by kurokawa toru 2016 2]] — same artist: kurokawa toru
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016|Artist - kurokawa toru 2016]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016 2|Artist - kurokawa toru 2016 2]] — named in this note
+- [[knowledge/wiki/images/Aggregate A by Toru Kurokawa (2016) d82ec5f1|Aggregate A by Toru Kurokawa (2016)]] — shared language: toru, kurokawa, aggregate
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: kurokawa
+<!-- vault-crosslinks:end -->

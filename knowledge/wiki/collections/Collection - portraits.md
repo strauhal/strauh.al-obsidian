@@ -39,10 +39,10 @@ Files: 6
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, megan, benjamin
-- [[knowledge/wiki/images/charcoal portraits of an elderly man and an elderly woman f938c0f4|charcoal portraits of an elderly man and an elderly woman]] — shared language: portraits
-- [[knowledge/wiki/images/louis wain grid of cat portraits e8ffef7f|louis wain grid of cat portraits]] — shared language: portraits
-- [[knowledge/wiki/images/black and white stipple drawing of a draped figure with qr code and two portraits 54e0a5ea|black and white stipple drawing of a draped figure with qr code and two portraits]] — shared language: portraits
-- [[knowledge/wiki/images/pencil sketches of twelve different portraits of a young girl f590a073|pencil sketches of twelve different portraits of a young girl]] — shared language: portraits
-- [[knowledge/wiki/pages/3d scans|3d scans]] — shared language: portraits
-- [[knowledge/wiki/images/black and white magazine advertisement for gage millinery featuring six portraits of women in hats 1904 ff7310bc|black and white magazine advertisement for gage millinery featuring six portraits of women in hats 1904]] — shared language: portraits
+- [[knowledge/wiki/images/Illustration Charcoal Portraits of an Elderly Man and Woman e814e9e5|Illustration Charcoal Portraits of an Elderly Man and Woman]] — shared language: portraits
+- [[knowledge/wiki/images/Photograph Two Gravestones with Etched Portraits and Mementos in Cemetery 78ac91d3|Photograph Two Gravestones with Etched Portraits and Mementos in Cemetery]] — shared language: portraits
+- [[knowledge/wiki/images/Illustration Black and White Stipple Drawing of Draped Figure, QR Code, Two Portraits 254744b6|Illustration Black and White Stipple Drawing of Draped Figure, QR Code, Two Portraits]] — shared language: portraits
+- [[knowledge/wiki/images/Document Black And White Portraits Of Christopher And Gordon Schumacher d0f61ccd|Document Black And White Portraits Of Christopher And Gordon Schumacher]] — shared language: portraits
+- [[knowledge/wiki/images/Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits 05c0d472|Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: portraits
+- [[knowledge/wiki/images/Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson 748f2929|Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson]] — shared language: portraits
 <!-- vault-crosslinks:end -->

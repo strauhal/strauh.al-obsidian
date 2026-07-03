@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - salazad|Artist - salazad]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - salazad|Artist - salazad]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - salaam|Artist - salaam]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sachiko kuru 1981|Artist - sachiko kuru 1981]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - salman toor 2020|Artist - salman toor 2020]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

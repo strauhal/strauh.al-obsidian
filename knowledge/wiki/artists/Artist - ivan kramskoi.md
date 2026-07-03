@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ivan aivazovsky|Artist - ivan aivazovsky]] — shared language: ivan
+- [[knowledge/wiki/images/ivan aivazovsky view of constantinople yeni cami 1899 d5c417b5|ivan aivazovsky view of constantinople yeni cami 1899]] — shared language: ivan
 - [[knowledge/wiki/artists/Artist - ivan shishkin|Artist - ivan shishkin]] — shared language: ivan
 - [[knowledge/wiki/artists/Artist - ivan rehak|Artist - ivan rehak]] — shared language: ivan
+- [[knowledge/wiki/images/ivan aivazovsky the ninth wave 1850 8f9bc434|ivan aivazovsky the ninth wave 1850]] — shared language: ivan
 - [[knowledge/wiki/images/rye by ivan shishkin 1890 f3dc0b4f|rye by ivan shishkin 1890]] — shared language: ivan
-- [[knowledge/wiki/images/pine forest by ivan shishkin 1890 3a1979f2|pine forest by ivan shishkin 1890]] — shared language: ivan
-- [[knowledge/wiki/images/view of tiflis by ivan aivazovsky 1868 0b25a8b8|view of tiflis by ivan aivazovsky 1868]] — shared language: ivan
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - aubrey beardsley|Artist - aubrey beardsley]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - aubrey beardsley 1894|Artist - aubrey beardsley 1894]] — named in this note
-- [[knowledge/wiki/images/Beardsley peacockskirt ce20ae14|Beardsley peacockskirt]] — named in this note
-- [[knowledge/wiki/images/only love and death change all things by aubrey beardsley 1894 38590c67|only love and death change all things by aubrey beardsley 1894]] — shared language: aubrey, beardsley
-- [[knowledge/wiki/images/untitled rape of the sabines by cy twombly 1960 0f53a0b2|untitled rape of the sabines by cy twombly 1960]] — shared language: rape
-- [[knowledge/wiki/images/young woman at her toilet by rembrandt van rijn b1cd11da|young woman at her toilet by rembrandt van rijn]] — shared language: toilet
+- [[_archive/auto-generated/images-stale/Beardsley peacockskirt ce20ae14|Beardsley peacockskirt]] — named in this note
+- [[knowledge/wiki/images/only love and death change all things by aubrey beardsley 1894 38590c67|only love and death change all things by aubrey beardsley 1894]] — shared language: beardsley, aubrey
+- [[knowledge/wiki/images/The Peacock Skirt by Aubrey Beardsley (1894) fe4310f8|The Peacock Skirt by Aubrey Beardsley (1894)]] — shared language: beardsley, aubrey
+- [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - River|Artist - River]] — named in this note
+- [[knowledge/wiki/images/Illustration Triptych Woodblock Print of Three Women Viewing Cherry Blossoms by River aa2e092e|Illustration Triptych Woodblock Print of Three Women Viewing Cherry Blossoms by River]] — shared language: river, blossoms, triptych
+- [[knowledge/wiki/images/Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms 7f454778|Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms]] — shared language: river, blossoms, hills
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: woodblock, print, chinese
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-river|Artist - a river]] — shared language: river
-- [[knowledge/wiki/images/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: river, hills, landscape
-- [[knowledge/wiki/images/tonalist river landscape with boat and low hills 3af493a1|tonalist river landscape with boat and low hills]] — shared language: river, hills, landscape
-- [[knowledge/wiki/images/framed landscape with river trees and mountains 3554916a|framed landscape with river trees and mountains]] — shared language: river, landscape
-- [[knowledge/wiki/images/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: river, landscape
-- [[knowledge/wiki/images/framed sunset river landscape with trees and reflections 53e831ee|framed sunset river landscape with trees and reflections]] — shared language: river, landscape
+- [[_archive/auto-generated/images-stale/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: river, hills, landscape
 <!-- vault-crosslinks:end -->

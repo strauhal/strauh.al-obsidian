@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - chang shuhong|Artist - chang shuhong]] — named in this note
 - [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — shared language: scholar
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chance the rapper 2016|Artist - chance the rapper 2016]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chance the rapper|Artist - chance the rapper]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

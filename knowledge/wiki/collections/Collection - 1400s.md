@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1400s"
 source_kind: "image_collection"
-count: "30"
+count: "42"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,11 +9,35 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 30
+Files: 42
 
 ## Sample
 
 ![[media/strauh.al3.1/1400s/2019_1418_sitges_jpg.jpg]]
+
+![[media/strauh.al3.1/1400s/Adoration of the Magi by Sandro Botticelli (c. 1475).jpg]]
+
+![[media/strauh.al3.1/1400s/Hyōnen zu by Josetsu (c. 1413).jpg]]
+
+![[media/strauh.al3.1/1400s/Saint George and the Dragon by Paolo Uccello (c. 1470).jpg]]
+
+![[media/strauh.al3.1/1400s/Scenes from the Passion of Christ by Hans Memling (1471).jpg]]
+
+![[media/strauh.al3.1/1400s/The Annunciation by Fra Angelico (c. 1440–1445).jpg]]
+
+![[media/strauh.al3.1/1400s/The Assumption of the Virgin by Francesco Botticini (c. 1475-1476).jpeg]]
+
+![[media/strauh.al3.1/1400s/The Crucifixion by Andrea Mantegna (1457–1459).jpg]]
+
+![[media/strauh.al3.1/1400s/The Crucifixion by Gerard David (c. 1495).jpg]]
+
+![[media/strauh.al3.1/1400s/The Crucifixion by Jean Fouquet (c. 1452-1460).jpeg]]
+
+![[media/strauh.al3.1/1400s/The Lamentation by Dieric Bouts (c. 1460-1464).jpg]]
+
+![[media/strauh.al3.1/1400s/The Last Judgment by Hans Memling (c. 1467-1471).jpg]]
+
+![[media/strauh.al3.1/1400s/The Last Judgment by Hieronymus Bosch (c. 1485-1490).jpeg]]
 
 ![[media/strauh.al3.1/1400s/a_grotesque_head_and_a_profile_of_a_youth_by_leonardo_da_vinci_c_1490.jpeg]]
 
@@ -37,33 +61,21 @@ Files: 30
 
 ![[media/strauh.al3.1/1400s/miraflores_altarpiece_detail_of_mary_magdalene_by_rogier_van_der_weyden_c_1440_1445.jpeg]]
 
-![[media/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg]]
-
-![[media/strauh.al3.1/1400s/saint_francis_in_the_desert_by_giovanni_bellini_c_14801485.jpg]]
-
-![[media/strauh.al3.1/1400s/saint_john_on_patmos_by_master_e_s_c_1465.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_annunciation_by_piero_della_francesca_c_14501455.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_arnolfini_portrait_by_jan_van_eyck_1434.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_betrayal_of_christ_by_jean_bourdichon_c_14981499.jpg]]
-
-![[media/strauh.al3.1/1400s/the_last_judgment_beaune_altarpiece_central_panel_by_rogier_van_der_weyden_c_14431451.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_philosopher_s_stone_lapis_philosophorum_c_1415.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_pieta_by_michelangelo_1499.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_resurrection_by_martin_schongauer_c_1475_1480.jpeg]]
-
-![[media/strauh.al3.1/1400s/the_stigmatization_of_saint_francis_and_saint_nicholas_of_bari_healing_a_sick_man_by_fra_angelico_c_14371446.jpg]]
-
-![[media/strauh.al3.1/1400s/the_virgin_in_prayer_by_dieric_bouts_c_1470.jpeg]]
-
 ## Image Notes
 
 - [[2019 1418 sitges jpg 5da80ba7|2019 1418 sitges jpg]]
+- [[Adoration of the Magi by Sandro Botticelli (c. 1475) 75ea1888|Adoration of the Magi by Sandro Botticelli (c. 1475)]]
+- [[Hy nen zu by Josetsu (c. 1413) 0834942f|Hy nen zu by Josetsu (c. 1413)]]
+- [[Saint George and the Dragon by Paolo Uccello (c. 1470) 5bc7a366|Saint George and the Dragon by Paolo Uccello (c. 1470)]]
+- [[Scenes from the Passion of Christ by Hans Memling (1471) a48a76dc|Scenes from the Passion of Christ by Hans Memling (1471)]]
+- [[The Annunciation by Fra Angelico (c. 1440 1445) 3b38a5e6|The Annunciation by Fra Angelico (c. 1440 1445)]]
+- [[The Assumption of the Virgin by Francesco Botticini (c. 1475 1476) b4314777|The Assumption of the Virgin by Francesco Botticini (c. 1475 1476)]]
+- [[The Crucifixion by Andrea Mantegna (1457 1459) 9cd61ce5|The Crucifixion by Andrea Mantegna (1457 1459)]]
+- [[The Crucifixion by Gerard David (c. 1495) 47b51192|The Crucifixion by Gerard David (c. 1495)]]
+- [[The Crucifixion by Jean Fouquet (c. 1452 1460) b3ba7eff|The Crucifixion by Jean Fouquet (c. 1452 1460)]]
+- [[The Lamentation by Dieric Bouts (c. 1460 1464) 1e4876db|The Lamentation by Dieric Bouts (c. 1460 1464)]]
+- [[The Last Judgment by Hans Memling (c. 1467 1471) 63b644b8|The Last Judgment by Hans Memling (c. 1467 1471)]]
+- [[The Last Judgment by Hieronymus Bosch (c. 1485 1490) dad838cb|The Last Judgment by Hieronymus Bosch (c. 1485 1490)]]
 - [[a grotesque head and a profile of a youth by leonardo da vinci c 1490 55b192ec|a grotesque head and a profile of a youth by leonardo da vinci c 1490]]
 - [[a warrior on horseback fighting a dragon by leonardo da vinci c 1480 1482 6cb318bb|a warrior on horseback fighting a dragon by leonardo da vinci c 1480 1482]]
 - [[blemmyes 15th century 5a4f467c|blemmyes 15th century]]
@@ -98,11 +110,11 @@ Files: 30
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/the annunciation by fra angelico c 1440 1445 b554f150|the annunciation by fra angelico c 1440 1445]] — named in this note
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: leonardo, vinci, head
+- [[knowledge/wiki/images/josetsu 83478ee8|josetsu]] — named in this note
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, francis
 - [[knowledge/wiki/artists/Artist - leonardo da vinci|Artist - leonardo da vinci]] — shared language: leonardo, vinci, profile
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, christ, francis
 - [[knowledge/wiki/artists/Artist - michael wolgemut and wilhelm pleydenwurff|Artist - michael wolgemut and wilhelm pleydenwurff]] — shared language: wolgemut, wilhelm, apostles
 - [[knowledge/wiki/artists/Artist - rogier van der weyden|Artist - rogier van der weyden]] — shared language: rogier, weyden, der
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: piero
+- [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — shared language: leonardo, vinci, saint
 <!-- vault-crosslinks:end -->

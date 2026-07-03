@@ -48,12 +48,12 @@ The index is rebuilt during `python3 tools/wiki_refresh.py`.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/README|README]] — shared language: graph, obsidian's, ribbon
+- [[knowledge/README|README]] — shared language: obsidian's, graph, waypoints
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
 - [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, settings
-- [[knowledge/wiki/images/red ink abstract biomorphic drawing on graph paper bc6ed6cd|red ink abstract biomorphic drawing on graph paper]] — shared language: graph
-- [[knowledge/wiki/images/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph
-- [[knowledge/wiki/images/magenta ink drawing of swirling patterns and mathematical equations on graph paper acc7c5e9|magenta ink drawing of swirling patterns and mathematical equations on graph paper]] — shared language: graph
-- [[knowledge/wiki/images/the click by jonas wood 2019 e253761a|the click by jonas wood 2019]] — shared language: click
-- [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: click, drag, zoom
+- [[knowledge/wiki/books/cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] — shared language: focused
+- [[knowledge/wiki/images/Illustration Red Abstract Looping Line Drawing On Graph Paper ab7a839e|Illustration Red Abstract Looping Line Drawing On Graph Paper]] — shared language: graph
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living
+- [[knowledge/wiki/images/Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper 45c8b400|Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper]] — shared language: graph
+- [[knowledge/wiki/images/Diagram Digital Mind Map Graph View with Interconnected Nodes 834b78a8|Diagram Digital Mind Map Graph View with Interconnected Nodes]] — shared language: graph
 <!-- vault-crosslinks:end -->

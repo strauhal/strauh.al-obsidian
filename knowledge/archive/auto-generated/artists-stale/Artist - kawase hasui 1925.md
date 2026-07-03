@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/daibutsu kamakura by kawase hasui 1930 4b7e8524|daibutsu kamakura by kawase hasui 1930]] — shared language: hasui, kawase, kamakura
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1934|Artist - kawase hasui 1934]] — shared language: hasui, kawase
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1927|Artist - kawase hasui 1927]] — shared language: hasui, kawase
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1924|Artist - kawase hasui 1924]] — shared language: hasui, kawase
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, kamakura
 <!-- vault-crosslinks:end -->

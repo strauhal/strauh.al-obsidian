@@ -27,9 +27,9 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/images/piet mondrian composition no iv 1914 9c7d7b19|piet mondrian composition no iv 1914]] — named in this note
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: mondrian, piet, composition
-- [[knowledge/wiki/images/black and white photograph of a man drawing while looking at his surprised reflection in a mirror 1cf18707|black and white photograph of a man drawing while looking at his surprised reflection in a mirror]] — shared language: reflection
-- [[knowledge/wiki/images/black and white photograph of a woman standing in ocean waves near cliffs 67002523|black and white photograph of a woman standing in ocean waves near cliffs]] — shared language: ocean
-- [[knowledge/wiki/images/reflection by masamune shirow 1991 588d1227|reflection by masamune shirow 1991]] — shared language: reflection
-- [[knowledge/wiki/images/illustration of a red haired youth crouching on a pier near a red building 1970 79005a0e|illustration of a red haired youth crouching on a pier near a red building 1970]] — shared language: pier
+- [[knowledge/wiki/images/Broadway Boogie Woogie by Piet Mondrian (1942 1943) a719fbee|Broadway Boogie Woogie by Piet Mondrian (1942 1943)]] — shared language: mondrian, piet
+- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
+- [[knowledge/wiki/images/christen dalsgaard two girls at a boat pier 1859 bc3086d0|christen dalsgaard two girls at a boat pier 1859]] — shared language: pier
+- [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: pier
+- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection
 <!-- vault-crosslinks:end -->

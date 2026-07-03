@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - camille pissarro|Artist - camille pissarro]] — shared language: pissarro, camille, oise
 - [[knowledge/archive/auto-generated/artists-stale/Artist - camille pissarro 1874|Artist - camille pissarro 1874]] — shared language: pissarro, camille, oise
 - [[knowledge/archive/auto-generated/artists-stale/Artist - camille pissarro 1897|Artist - camille pissarro 1897]] — shared language: pissarro, camille
+- [[knowledge/wiki/images/Bouquet by Camille Pissarro (1898) 09781f4a|Bouquet by Camille Pissarro (1898)]] — shared language: pissarro, camille
+- [[knowledge/wiki/images/La Sainte Chapelle by Camille Pissarro (1901) d36b1638|La Sainte Chapelle by Camille Pissarro (1901)]] — shared language: pissarro, camille
 - [[knowledge/wiki/images/a cowherd at valhermeil auvers sur oise by camille pissarro 1874 8acc31e9|a cowherd at valhermeil auvers sur oise by camille pissarro 1874]] — shared language: pissarro, camille, oise
-- [[knowledge/wiki/images/the boulevard montmartre on a winter morning by camille pissarro 1897 8ab1a64f|the boulevard montmartre on a winter morning by camille pissarro 1897]] — shared language: pissarro, camille
-- [[knowledge/wiki/artists/Artist - lucien pissarro|Artist - lucien pissarro]] — shared language: pissarro
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "the boy by virgil finlay 1952"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg"
 source_relpath: "1900s/the_boy_by_virgil_finlay_1952.jpg"
 collection: "1900s"
 inferred_year: "1952"
 artist: "virgil finlay"
-dimensions: "563x893"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - virgil finlay]]
 
 Source: [[media/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_boy_by_virgil_finlay_1952.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 2 27278792|williamadolphe bouguereau dante and virgil 1850 2]] — shared language: virgil
 - [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — shared language: virgil
 - [[knowledge/wiki/images/dante and virgil by william adolphe bouguereau 1850 297aa2bf|dante and virgil by william adolphe bouguereau 1850]] — shared language: virgil
-- [[knowledge/wiki/images/framed portrait of a boy in a red coat e78bc46b|framed portrait of a boy in a red coat]] — shared language: boy
+- [[knowledge/wiki/images/gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861 94edab78|gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861]] — shared language: virgil
 <!-- vault-crosslinks:end -->

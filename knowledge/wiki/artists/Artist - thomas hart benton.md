@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — named in this note
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
 - [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — shared language: thomas
 - [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: thomas
-- [[knowledge/wiki/images/thomas couture the vision of john bunyan c 18531854 77f7dc8c|thomas couture the vision of john bunyan c 18531854]] — shared language: thomas
+- [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: thomas
+- [[knowledge/wiki/artists/Artist - thomas eakins|Artist - thomas eakins]] — shared language: thomas
 <!-- vault-crosslinks:end -->

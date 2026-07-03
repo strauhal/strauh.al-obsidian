@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - antoine plamondon|Artist - antoine plamondon]] — named in this note
 - [[knowledge/wiki/images/la tentation de saint antoine by rene magritte 1946 9d625537|la tentation de saint antoine by rene magritte 1946]] — shared language: antoine, saint
 - [[knowledge/wiki/images/la tentation de saint antoine by felicien rops 1878 a7adc816|la tentation de saint antoine by felicien rops 1878]] — shared language: antoine, saint
+- [[knowledge/wiki/images/The Execution of Louis XVI by Pierre Antoine Demachy (1793) 89313f0a|The Execution of Louis XVI by Pierre Antoine Demachy (1793)]] — shared language: antoine
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rene magritte 1946|Artist - rene magritte 1946]] — shared language: antoine, saint
 - [[knowledge/archive/auto-generated/artists-stale/Artist - felicien rops 1878|Artist - felicien rops 1878]] — shared language: antoine, saint
-- [[knowledge/wiki/artists/Artist - alphonse de neuville|Artist - alphonse de neuville]] — shared language: alphonse
 <!-- vault-crosslinks:end -->

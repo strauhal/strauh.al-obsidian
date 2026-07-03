@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - johann friedrich bause|Artist - johann friedrich bause]] — named in this note
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: friedrich, kant, immanuel
+- [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: friedrich
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: johann
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: friedrich
 - [[knowledge/wiki/artists/Artist - johann pezolt|Artist - johann pezolt]] — shared language: johann
 - [[knowledge/archive/auto-generated/artists-stale/Artist - johann wilhelm schirmer 1840|Artist - johann wilhelm schirmer 1840]] — shared language: johann
 <!-- vault-crosslinks:end -->

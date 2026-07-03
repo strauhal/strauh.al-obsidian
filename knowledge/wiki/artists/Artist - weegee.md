@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/photograph of a car dashboard with green digital gauges 2ff01d56|photograph of a car dashboard with green digital gauges]] — shared language: car
-- [[knowledge/wiki/images/woman in subway car by martha cooper 1980 15b48f4c|woman in subway car by martha cooper 1980]] — shared language: car, woman
-- [[knowledge/wiki/images/plane crash on bridge by christophe dessaigne 2008 75bee310|plane crash on bridge by christophe dessaigne 2008]] — shared language: crash
-- [[knowledge/wiki/images/advertisement graphic of a white car in a green landscape 2010 20235e54|advertisement graphic of a white car in a green landscape 2010]] — shared language: car
-- [[knowledge/wiki/images/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: car
-- [[knowledge/wiki/images/photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons 05606096|photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons]] — shared language: car, woman
+- [[knowledge/wiki/images/Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic 7e9ae20b|Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic]] — shared language: killed
+- [[knowledge/wiki/images/Illustration Pixelated Painting of a Vintage Red and White Car d54ea966|Illustration Pixelated Painting of a Vintage Red and White Car]] — shared language: car
+- [[knowledge/wiki/images/Diagram Car Colors By Year ceb3df2b|Diagram Car Colors By Year]] — shared language: car
+- [[knowledge/wiki/images/Illustration Abstract Painting of Vintage Car at In N Out Burger ec6fd4f0|Illustration Abstract Painting of Vintage Car at In N Out Burger]] — shared language: car
+- [[knowledge/wiki/images/Photograph Person Standing On Car Balanced On Side Of Road 0d4e8fd2|Photograph Person Standing On Car Balanced On Side Of Road]] — shared language: car
+- [[knowledge/wiki/images/Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights 8c903117|Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights]] — shared language: car
 <!-- vault-crosslinks:end -->

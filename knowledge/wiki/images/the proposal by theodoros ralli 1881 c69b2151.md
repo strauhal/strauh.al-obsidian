@@ -1,12 +1,12 @@
 ---
 title: "the proposal by theodoros ralli 1881"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg"
 source_relpath: "1800s/the_proposal_by_theodoros_ralli_1881.jpg"
 collection: "1800s"
 inferred_year: "1881"
 artist: "theodoros ralli"
-dimensions: "1920x1603"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - theodoros ralli]]
 
 Source: [[media/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_proposal_by_theodoros_ralli_1881.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

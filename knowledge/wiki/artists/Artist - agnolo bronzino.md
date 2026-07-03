@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: statue, man
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/statue of kaaper sheikh el balad c 2450 bce 0a10c4ee|statue of kaaper sheikh el balad c 2450 bce]] — shared language: statue
-- [[knowledge/wiki/images/oil painting of a still life with a white horse statue and dark vase 8f696826|oil painting of a still life with a white horse statue and dark vase]] — shared language: statue
-- [[knowledge/wiki/images/color illustration of a colossal seated statue of zeus in a temple f13b7619|color illustration of a colossal seated statue of zeus in a temple]] — shared language: statue
-- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: statue
+- [[knowledge/wiki/images/Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552) 8437ddde|Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552)]] — shared language: agnolo, bronzino
+- [[knowledge/wiki/images/Illustration Statue of Zeus at Olympia 279bcbac|Illustration Statue of Zeus at Olympia]] — shared language: statue
+- [[knowledge/wiki/images/Photograph Minimalist White Tunnel With Statue Holding Black Flag 8453cb88|Photograph Minimalist White Tunnel With Statue Holding Black Flag]] — shared language: statue
+- [[knowledge/wiki/images/Photograph Cemetery With Angel Statue And Foggy Trees 0cf6d51c|Photograph Cemetery With Angel Statue And Foggy Trees]] — shared language: statue
+- [[knowledge/wiki/images/Illustration Stylized Blue City With Angel Statue And Glowing Data Grid e91f95a6|Illustration Stylized Blue City With Angel Statue And Glowing Data Grid]] — shared language: statue
+- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: agnolo
 <!-- vault-crosslinks:end -->

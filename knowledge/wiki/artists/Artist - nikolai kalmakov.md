@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - nikolai blokhin|Artist - nikolai blokhin]] — shared language: nikolai
-- [[knowledge/wiki/images/the embrace by nikolai blokhin 2005 d5722d8c|the embrace by nikolai blokhin 2005]] — shared language: nikolai
-- [[knowledge/wiki/images/bedroom at night by nikolai blokhin 2005 ced38447|bedroom at night by nikolai blokhin 2005]] — shared language: nikolai
 - [[knowledge/wiki/artists/Artist - nikolai bogdanov belsky|Artist - nikolai bogdanov belsky]] — shared language: nikolai
 - [[knowledge/wiki/images/the chess players by nikolai bogdanov belsky 1901 7c44db07|the chess players by nikolai bogdanov belsky 1901]] — shared language: nikolai
-- [[knowledge/wiki/images/life of pi 171df880|life of pi]] — shared language: life
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree
+- [[knowledge/wiki/images/Illustration Black And White ASCII Art Of A House And Tree 4f37e911|Illustration Black And White ASCII Art Of A House And Tree]] — shared language: tree
+- [[knowledge/wiki/images/the tree by joan mitchell 1980 c493b0f2|the tree by joan mitchell 1980]] — shared language: tree
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Cows Drinking by a Large Tree e9f852bc|Illustration Black and White Drawing of Cows Drinking by a Large Tree]] — shared language: tree
 <!-- vault-crosslinks:end -->

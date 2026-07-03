@@ -1,12 +1,12 @@
 ---
 title: "FSVRal0VcAE4xHX"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FSVRal0VcAE4xHX.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FSVRal0VcAE4xHX.jpeg"
 source_relpath: "computers/FSVRal0VcAE4xHX.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "828x819"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/FSVRal0VcAE4xHX.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FSVRal0VcAE4xHX.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FSVRal0VcAE4xHX.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

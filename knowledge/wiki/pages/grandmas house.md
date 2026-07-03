@@ -1,10 +1,10 @@
 ---
 title: "grandmas house"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/grandmas_house.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/grandmas_house.html"
 source_relpath: "grandmas_house.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # grandmas house
@@ -34,12 +34,12 @@ strauh.al/grandmas_house
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: break, one
-- [[knowledge/wiki/images/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
+- [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: house
+- [[knowledge/wiki/images/Illustration Black And White ASCII Art Of A House And Tree 4f37e911|Illustration Black And White ASCII Art Of A House And Tree]] — shared language: house
 - [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
-- [[knowledge/wiki/images/tiny house island with falling fireball b828ab88|tiny house island with falling fireball]] — shared language: house
+- [[knowledge/wiki/artists/Artist - Step House Sketch|Artist - Step House Sketch]] — shared language: house
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
-- [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: house
-- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
+- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: house
 <!-- vault-crosslinks:end -->

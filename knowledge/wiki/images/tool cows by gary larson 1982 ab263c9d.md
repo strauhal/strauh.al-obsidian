@@ -1,12 +1,12 @@
 ---
 title: "tool cows by gary larson 1982"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/tool_cows_by_gary_larson_1982.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tool_cows_by_gary_larson_1982.jpg"
 source_relpath: "1900s/tool_cows_by_gary_larson_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "gary larson"
-dimensions: "554x700"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - gary larson]]
 
 Source: [[media/strauh.al3.1/1900s/tool_cows_by_gary_larson_1982.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/tool_cows_by_gary_larson_1982.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tool_cows_by_gary_larson_1982.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

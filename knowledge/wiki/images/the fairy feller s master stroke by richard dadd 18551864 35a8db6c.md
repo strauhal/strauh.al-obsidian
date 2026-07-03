@@ -1,12 +1,12 @@
 ---
 title: "the fairy feller s master stroke by richard dadd 18551864"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg"
 source_relpath: "1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "richard dadd 18551864"
-dimensions: "863x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -20,14 +20,14 @@ Artist: [[Artist - richard dadd 18551864]]
 
 Source: [[media/strauh.al3.1/1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_fairy_feller_s_master_stroke_by_richard_dadd_18551864.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - richard dadd|Artist - richard dadd]] — named in this note
-- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
-- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — same artist: richard dadd
-- [[knowledge/wiki/images/sir alexander morison by richard dadd 1852 43f991ec|sir alexander morison by richard dadd 1852]] — same artist: richard dadd
+- [[knowledge/wiki/images/sketch to illustrate the passions ambition vaulting ambition mocking the meat it feeds on by richard dadd 1854 14e6d42d|sketch to illustrate the passions ambition vaulting ambition mocking the meat it feeds on by richard dadd 1854]] — same artist: richard dadd
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: dadd, richard
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: master
 <!-- vault-crosslinks:end -->

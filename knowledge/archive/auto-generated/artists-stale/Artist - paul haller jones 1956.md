@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — named in this note
 - [[knowledge/wiki/images/grace jones by jean paul goude 1978 653bbf86|grace jones by jean paul goude 1978]] — shared language: jones, paul
+- [[knowledge/wiki/images/Photograph Grace Jones, New York by Jean Paul Goude 57aba063|Photograph Grace Jones, New York by Jean Paul Goude]] — shared language: jones, paul
 - [[knowledge/wiki/artists/Artist - jean paul goude|Artist - jean paul goude]] — shared language: paul, jones
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean paul goude 1978|Artist - jean paul goude 1978]] — shared language: paul, jones
 - [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: jones
-- [[knowledge/archive/auto-generated/artists-stale/Artist - elizabeth sparhawk jones 1912|Artist - elizabeth sparhawk jones 1912]] — shared language: jones
 <!-- vault-crosslinks:end -->

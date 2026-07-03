@@ -1,12 +1,12 @@
 ---
 title: "landscape with yellow fields and snow capped mountains by frank zvanich 1949"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg"
 source_relpath: "1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg"
 collection: "1900s"
 inferred_year: "1949"
 artist: "frank zvanich"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - frank zvanich]]
 
 Source: [[media/strauh.al3.1/1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/landscape_with_yellow_fields_and_snow_capped_mountains_by_frank_zvanich_1949.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Abstract Landscape with Red and Blue Mountains and Green Fields 34daa5a4|Illustration Abstract Landscape with Red and Blue Mountains and Green Fields]] — shared language: fields, mountains, landscape
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: snow, landscape
+- [[knowledge/wiki/images/Photograph Silver Teapot On Post With Snow Capped Mountains In Background 2352752e|Photograph Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
 - [[knowledge/wiki/artists/Artist - f h zvanich|Artist - f h zvanich]] — shared language: zvanich
-- [[knowledge/wiki/images/infrared style photograph of snow capped mountains and purple trees over a blue lake 6834923a|infrared style photograph of snow capped mountains and purple trees over a blue lake]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/images/aerial photograph of a dense cityscape with a central avenue and snow capped mountains 079ee9d9|aerial photograph of a dense cityscape with a central avenue and snow capped mountains]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: fields
-- [[knowledge/wiki/images/photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset 1884128e|photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/images/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
 <!-- vault-crosslinks:end -->

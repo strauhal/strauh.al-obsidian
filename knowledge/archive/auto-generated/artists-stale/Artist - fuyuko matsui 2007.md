@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - fuyuko matsui|Artist - fuyuko matsui]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - fuyuko matsui|Artist - fuyuko matsui]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - future|Artist - future]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - future 2015|Artist - future 2015]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - fyodor bronnikov 1864|Artist - fyodor bronnikov 1864]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

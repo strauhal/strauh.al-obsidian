@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ken jenkins 1985|Artist - ken jenkins 1985]] — shared language: ken
 - [[knowledge/wiki/artists/Artist - ken waterstreet|Artist - ken waterstreet]] — shared language: ken
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ken waterstreet 1997|Artist - ken waterstreet 1997]] — shared language: ken
-- [[knowledge/wiki/artists/Artist - ken bastian|Artist - ken bastian]] — shared language: ken
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ken bastian|Artist - ken bastian]] — shared language: ken
 <!-- vault-crosslinks:end -->

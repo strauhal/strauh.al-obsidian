@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992 892bafb7|ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992]] — shared language: futuristic, flying
-- [[knowledge/wiki/images/framed painting of a canal and stone buildings 6f9078c4|framed painting of a canal and stone buildings]] — shared language: canal
-- [[knowledge/wiki/images/futuristic aircraft over mountain range ddf5f45a|futuristic aircraft over mountain range]] — shared language: futuristic
-- [[knowledge/wiki/images/black and white illustration of a bridge and gondolas on a canal at a large exposition eec54d88|black and white illustration of a bridge and gondolas on a canal at a large exposition]] — shared language: canal
-- [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: canal
-- [[knowledge/wiki/images/cityscape by charles sheeler 1922 5d012594|cityscape by charles sheeler 1922]] — shared language: cityscape
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, futuristic
+- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: vehicles, futuristic
+- [[knowledge/wiki/artists/Artist - Mac Baconai|Artist - Mac Baconai]] — shared language: mac
+- [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — shared language: mac
+- [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: mac
+- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: futuristic, cityscape
 <!-- vault-crosslinks:end -->

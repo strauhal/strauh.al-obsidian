@@ -1,0 +1,33 @@
+---
+title: "franz marc 020 jpg"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/franz_marc_020_jpg.jpg"
+source_relpath: "2000s/franz_marc_020_jpg.jpg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "1920x2086"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# franz marc 020 jpg
+
+![[media/strauh.al3.1/2000s/franz_marc_020_jpg.jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/franz_marc_020_jpg.jpg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/franz_marc_020_jpg.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc, franz
+- [[knowledge/archive/auto-generated/artists-stale/Artist - franz marc 1913|Artist - franz marc 1913]] — shared language: marc, franz
+- [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: marc, franz
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marc simonetti|Artist - marc simonetti]] — shared language: marc
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marc simonetti 2016|Artist - marc simonetti 2016]] — shared language: marc
+<!-- vault-crosslinks:end -->

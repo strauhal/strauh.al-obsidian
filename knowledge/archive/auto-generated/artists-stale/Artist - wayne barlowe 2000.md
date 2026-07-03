@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - wayne barlowe|Artist - wayne barlowe]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1982|Artist - wayne thiebaud 1982]] — shared language: wayne
+- [[knowledge/wiki/images/The Burning City by Wayne Barlowe (2000) 164e255e|The Burning City by Wayne Barlowe (2000)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne barlowe|Artist - wayne barlowe]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1995|Artist - wayne thiebaud 1995]] — shared language: wayne
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1982|Artist - wayne thiebaud 1982]] — shared language: wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1976|Artist - wayne thiebaud 1976]] — shared language: wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1980|Artist - wayne thiebaud 1980]] — shared language: wayne
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1994|Artist - wayne thiebaud 1994]] — shared language: wayne
 <!-- vault-crosslinks:end -->

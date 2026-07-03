@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
+- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: hockney, david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 2020|Artist - david hockney 2020]] — shared language: hockney, david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 2011|Artist - david hockney 2011]] — shared language: hockney, david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 1991|Artist - david hockney 1991]] — shared language: hockney, david
-- [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 1969|Artist - david hockney 1969]] — shared language: hockney, david
 <!-- vault-crosslinks:end -->

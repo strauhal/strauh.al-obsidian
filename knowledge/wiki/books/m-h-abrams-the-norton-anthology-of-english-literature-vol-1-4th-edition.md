@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/M. H. Abrams - The Norton Anthology of English Literature, Vol. 1, 4th Edition (1988).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Norton Anthology of English Literature, Vol. 1, 4th Edition
@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/jessica-bruder-nomadland-surviving-america-in-the-twenty-first-century-w-w-norton-company|Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company]] — same category: unsorted
-- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — same category: unsorted
 - [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
+- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — same category: unsorted
 - [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — same category: unsorted
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — same category: unsorted
+- [[knowledge/wiki/books/pdf-document|PDF document]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
-- [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
-- [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "voyager by yumi matsutoya 1983 2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg"
 source_relpath: "1900s/voyager_by_yumi_matsutoya_1983_2.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "yumi matsutoya"
-dimensions: "1085x1073"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - yumi matsutoya]]
 
 Source: [[media/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/voyager_by_yumi_matsutoya_1983_2.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

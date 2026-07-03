@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - al satterwhite|Artist - al satterwhite]] — named in this note
-- [[knowledge/wiki/images/black and white newspaper clipping detailing hunter s thompson s daily routine 9e2a11ed|black and white newspaper clipping detailing hunter s thompson s daily routine]] — shared language: thompson, hunter
+- [[_archive/auto-generated/images-stale/black and white newspaper clipping detailing hunter s thompson s daily routine 9e2a11ed|black and white newspaper clipping detailing hunter s thompson s daily routine]] — shared language: thompson, hunter
+- [[knowledge/wiki/artists/Artist - Bob Thompson|Artist - Bob Thompson]] — shared language: thompson
 - [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: typewriter
-- [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: thompson
-- [[knowledge/archive/auto-generated/artists-stale/Artist - elizabeth thompson lady butler 1875|Artist - elizabeth thompson lady butler 1875]] — shared language: thompson
-- [[knowledge/wiki/images/hunter by ilya repin 1877 a441470f|hunter by ilya repin 1877]] — shared language: hunter
+- [[knowledge/wiki/artists/Artist - Hunter Biden|Artist - Hunter Biden]] — shared language: hunter
+- [[knowledge/wiki/images/Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson 766f6715|Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson]] — shared language: thompson
 <!-- vault-crosslinks:end -->

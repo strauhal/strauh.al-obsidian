@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - abe tsukasa|Artist - abe tsukasa]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - abe tsukasa|Artist - Abe Tsukasa]] — named in this note
+- [[knowledge/wiki/images/Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa e7a6f9ce|Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa]] — shared language: abe, tsukasa, panel
 - [[_archive/auto-generated/books-stale/beyond-good-evil|beyond good & evil]] — shared language: beyond
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: beyond
 - [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: journey
-- [[knowledge/wiki/images/panel 1 ed4f0fcd|panel 1]] — shared language: panel
-- [[knowledge/wiki/images/panel 2 7b2b8655|panel 2]] — shared language: panel
+- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: end
 <!-- vault-crosslinks:end -->

@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - walter hood fitch|Artist - walter hood fitch]] — named in this note
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: hood
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — shared language: hood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood 2020|Artist - chris hood 2020]] — shared language: hood
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter

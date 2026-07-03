@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - william holman hunt|Artist - william holman hunt]] — named in this note
 - [[knowledge/wiki/artists/Artist - william holman hunt 18541860|Artist - william holman hunt 18541860]] — named in this note
 - [[knowledge/wiki/images/the finding of the saviour in the temple by william holman hunt 18541860 e0946908|the finding of the saviour in the temple by william holman hunt 18541860]] — shared language: holman, hunt, william
+- [[knowledge/wiki/images/After the Hunt by William Michael Harnett (1885) b0788d47|After the Hunt by William Michael Harnett (1885)]] — shared language: hunt, william
 - [[knowledge/wiki/images/peter nicolai arbo sgrdsreien the wild hunt of odin 1872 45f64bbe|peter nicolai arbo sgrdsreien the wild hunt of odin 1872]] — shared language: hunt
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/interior of the o neill cylinder by rick guidice 1975 e261b2df|interior of the o neill cylinder by rick guidice 1975]] — shared language: neill
-- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/images/The Prince and the Princess on the White Horse by John Bauer (1913) f41f6bcb|The Prince and the Princess on the White Horse by John Bauer (1913)]] — shared language: princess, john
 <!-- vault-crosslinks:end -->

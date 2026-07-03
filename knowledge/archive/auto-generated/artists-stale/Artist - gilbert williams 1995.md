@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gilbert stuart 1805|Artist - gilbert stuart 1805]] — shared language: gilbert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gilbert stuart 1796|Artist - gilbert stuart 1796]] — shared language: gilbert
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams|Artist - robert williams]] — shared language: williams
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams 2017|Artist - robert williams 2017]] — shared language: williams
 - [[knowledge/wiki/artists/Artist - gilbert stuart|Artist - gilbert stuart]] — shared language: gilbert
 <!-- vault-crosslinks:end -->

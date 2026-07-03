@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - alyssa monks|Artist - alyssa monks]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alyssa monks|Artist - alyssa monks]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alyssa monks 2008|Artist - alyssa monks 2008]] — named in this note
-- [[knowledge/wiki/images/subway by alyssa monks 2008 64201935|subway by alyssa monks 2008]] — shared language: alyssa, monks
+- [[_archive/auto-generated/images-stale/subway by alyssa monks 2008 64201935|subway by alyssa monks 2008]] — shared language: alyssa, monks
 - [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — shared language: reader
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — shared language: reader
-- [[knowledge/wiki/images/the reader by jean baptiste camille corot c 1850 74c47d05|the reader by jean baptiste camille corot c 1850]] — shared language: reader
+- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: reader
 <!-- vault-crosslinks:end -->

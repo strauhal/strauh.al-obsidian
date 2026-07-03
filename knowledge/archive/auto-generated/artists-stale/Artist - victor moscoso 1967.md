@@ -30,9 +30,9 @@ Images attributed by filename: 4
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - victor moscoso|Artist - victor moscoso]] — named in this note
-- [[knowledge/wiki/images/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: moscoso, victor
-- [[knowledge/wiki/images/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, doors, band
-- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
-- [[knowledge/archive/auto-generated/artists-stale/Artist - victor nizovtsev 2006|Artist - victor nizovtsev 2006]] — shared language: victor
-- [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
+- [[knowledge/wiki/images/The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967) ba171366|The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967)]] — shared language: moscoso, victor, flash
+- [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: moscoso, victor
+- [[_archive/auto-generated/images-stale/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: moscoso, victor
+- [[_archive/auto-generated/images-stale/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, doors, band
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: miller
 <!-- vault-crosslinks:end -->

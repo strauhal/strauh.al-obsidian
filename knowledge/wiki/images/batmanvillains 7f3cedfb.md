@@ -1,12 +1,12 @@
 ---
 title: "batmanvillains"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/batmanvillains.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/batmanvillains.jpeg"
 source_relpath: "diary/batmanvillains.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1037x967"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/batmanvillains.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/batmanvillains.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/batmanvillains.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Timothy Francis Leary, Ralph Metzner, Richard Alpert - The Psychedelic Experience_ A Manual Based on the Tibetan Book of the Dead.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead
@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — same category: psychology
-- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
+- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/leo-bersani-is-the-rectum-a-grave|Is the Rectum a Grave?]] — same category: psychology
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — same category: psychology
 <!-- vault-crosslinks:end -->

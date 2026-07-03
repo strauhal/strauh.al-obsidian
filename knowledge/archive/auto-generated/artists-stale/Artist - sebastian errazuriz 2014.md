@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sebastian errazuriz|Artist - sebastian errazuriz]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sebastian errazuriz|Artist - sebastian errazuriz]] — named in this note
+- [[knowledge/wiki/artists/Artist - Johann Sebastian Bach|Artist - Johann Sebastian Bach]] — shared language: sebastian
+- [[knowledge/wiki/images/Document St John Passion by Johann Sebastian Bach c03517d1|Document St John Passion by Johann Sebastian Bach]] — shared language: sebastian
 - [[knowledge/wiki/images/the virgin and child with saints sebastian and januarius by luca giordano c 1660 1665 786b3168|the virgin and child with saints sebastian and januarius by luca giordano c 1660 1665]] — shared language: sebastian
-- [[knowledge/wiki/images/chinese cabinet jpg 27b6f25b|chinese cabinet jpg]] — shared language: cabinet
+- [[_archive/auto-generated/images-stale/chinese cabinet jpg 27b6f25b|chinese cabinet jpg]] — shared language: cabinet
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
-- [[knowledge/wiki/images/black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]] — shared language: wave
-- [[knowledge/wiki/artists/Artist - luca giordano|Artist - luca giordano]] — shared language: sebastian
 <!-- vault-crosslinks:end -->

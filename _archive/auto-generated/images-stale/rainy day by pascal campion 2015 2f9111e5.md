@@ -1,0 +1,35 @@
+---
+title: "rainy day by pascal campion 2015"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/rainy_day_by_pascal_campion_2015.jpeg"
+source_relpath: "2000s/rainy_day_by_pascal_campion_2015.jpeg"
+collection: "2000s"
+inferred_year: "2015"
+artist: "pascal campion"
+dimensions: "3024x4032"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# rainy day by pascal campion 2015
+
+![[media/strauh.al3.1/2000s/rainy_day_by_pascal_campion_2015.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: [[Artist - pascal campion]]
+
+Source: [[media/strauh.al3.1/2000s/rainy_day_by_pascal_campion_2015.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/rainy_day_by_pascal_campion_2015.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pascal campion 2015|Artist - pascal campion 2015]] — named in this note
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — shared language: rainy, day
+- [[knowledge/wiki/images/rainy day in boston by childe hassam 1885 e437c23c|rainy day in boston by childe hassam 1885]] — shared language: rainy, day
+<!-- vault-crosslinks:end -->

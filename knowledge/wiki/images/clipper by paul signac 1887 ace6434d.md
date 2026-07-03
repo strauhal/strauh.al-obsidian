@@ -1,12 +1,12 @@
 ---
 title: "clipper by paul signac 1887"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/clipper_by_paul_signac_1887.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/clipper_by_paul_signac_1887.jpeg"
 source_relpath: "1800s/clipper_by_paul_signac_1887.jpeg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "paul signac"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - paul signac]]
 
 Source: [[media/strauh.al3.1/1800s/clipper_by_paul_signac_1887.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/clipper_by_paul_signac_1887.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/clipper_by_paul_signac_1887.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

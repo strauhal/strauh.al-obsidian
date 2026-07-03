@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - masao yamamoto|Artist - masao yamamoto]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - masao yamamoto|Artist - masao yamamoto]] — named in this note
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: yamamoto
+- [[knowledge/wiki/images/The Shimabara Rebellion of 1637 by Takato Yamamoto (2006) ab645d1a|The Shimabara Rebellion of 1637 by Takato Yamamoto (2006)]] — shared language: yamamoto
 - [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto 2006|Artist - takato yamamoto 2006]] — shared language: yamamoto
 - [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto 2002|Artist - takato yamamoto 2002]] — shared language: yamamoto
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: yamamoto
-- [[knowledge/wiki/artists/Artist - takato yamamoto|Artist - takato yamamoto]] — shared language: yamamoto
+- [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto|Artist - Takato Yamamoto]] — shared language: yamamoto
 <!-- vault-crosslinks:end -->

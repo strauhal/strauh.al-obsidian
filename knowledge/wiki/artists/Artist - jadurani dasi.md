@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/jadurani dasi the change of bodies 1970s ba35c761|jadurani dasi the change of bodies 1970s]] — shared language: jadurani, dasi
-- [[knowledge/wiki/images/Giovanni Battista Tiepolo The Sacrifice of Iphigenia Villa Valmarana ab84ddf9|Giovanni Battista Tiepolo The Sacrifice of Iphigenia Villa Valmarana]] — shared language: sacrifice
-- [[knowledge/wiki/images/hand colored engraving depicting men destroying wooden crates on a ship deck ace2887c|hand colored engraving depicting men destroying wooden crates on a ship deck]] — shared language: destroying
+- [[knowledge/wiki/images/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757) 072a67b8|The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757)]] — shared language: sacrifice
+- [[knowledge/wiki/images/Illustration Men Dressed as Native Americans Destroying Tea Crates on Ship 25b4383a|Illustration Men Dressed as Native Americans Destroying Tea Crates on Ship]] — shared language: destroying
 <!-- vault-crosslinks:end -->

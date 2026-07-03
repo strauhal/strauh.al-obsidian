@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tatsuki fujimoto|Artist - tatsuki fujimoto]] — shared language: tatsuki, fujimoto
-- [[knowledge/wiki/images/black and white illustration of a person with dark hair and a checkered garment outdoors by tatsuki fujimoto 979235eb|black and white illustration of a person with dark hair and a checkered garment outdoors by tatsuki fujimoto]] — shared language: tatsuki, fujimoto
+- [[knowledge/wiki/images/Comic Look Back by Tatsuki Fujimoto 5f04773b|Comic Look Back by Tatsuki Fujimoto]] — shared language: tatsuki, fujimoto
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/maps/books|books]] — shared language: anchor
 <!-- vault-crosslinks:end -->

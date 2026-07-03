@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jeremy mann|Artist - jeremy mann]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy mann|Artist - jeremy mann]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy mann 2012|Artist - jeremy mann 2012]] — named in this note
-- [[knowledge/wiki/images/jeremy mann newsstand 21st century 85f7b947|jeremy mann newsstand 21st century]] — shared language: mann, jeremy
-- [[knowledge/wiki/images/rain on broadway by jeremy mann 2012 727510ae|rain on broadway by jeremy mann 2012]] — shared language: mann, jeremy
+- [[_archive/auto-generated/images-stale/rain on broadway by jeremy mann 2012 727510ae|rain on broadway by jeremy mann 2012]] — shared language: mann, jeremy
+- [[_archive/auto-generated/images-stale/jeremy mann newsstand 21st century 85f7b947|jeremy mann newsstand 21st century]] — shared language: mann, jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2019|Artist - jeremy lipking 2019]] — shared language: jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: jeremy
 <!-- vault-crosslinks:end -->

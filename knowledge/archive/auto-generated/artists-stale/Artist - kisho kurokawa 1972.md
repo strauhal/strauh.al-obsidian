@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - kisho kurokawa|Artist - kisho kurokawa]] — named in this note
-- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: kisho, kurokawa, tower
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016|Artist - kurokawa toru 2016]] — shared language: kurokawa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru 2016 2|Artist - kurokawa toru 2016 2]] — shared language: kurokawa
-- [[knowledge/wiki/artists/Artist - kurokawa toru|Artist - kurokawa toru]] — shared language: kurokawa
-- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 e4f40622|aggregate a by kurokawa toru 2016]] — shared language: kurokawa
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kurokawa toru|Artist - kurokawa toru]] — shared language: kurokawa
+- [[_archive/auto-generated/images-stale/aggregate a by kurokawa toru 2016 e4f40622|aggregate a by kurokawa toru 2016]] — shared language: kurokawa
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Story of Jennie -- Gallico, Paul -- 1964 -- Alfred A_ Knopf -- 467ba16b021e3e23a291b2721ee03ce6 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Story of Jennie

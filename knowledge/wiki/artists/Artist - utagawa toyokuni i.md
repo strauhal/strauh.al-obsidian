@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the ghost of oiwa played by onoe matsusuke i by utagawa toyokuni i c 1796 771d939c|the ghost of oiwa played by onoe matsusuke i by utagawa toyokuni i c 1796]] — shared language: toyokuni, utagawa
 - [[knowledge/wiki/artists/Artist - utagawa kunisada|Artist - utagawa kunisada]] — shared language: utagawa
 - [[knowledge/wiki/artists/Artist - utagawa kuniyoshi|Artist - utagawa kuniyoshi]] — shared language: utagawa
-- [[knowledge/wiki/images/okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834 72a86b5b|okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834]] — shared language: utagawa, bridge
 - [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — shared language: utagawa
+- [[knowledge/wiki/images/okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834 72a86b5b|okazaki yahagi bridge okazaki yahagi no hashi by utagawa hiroshige c 18331834]] — shared language: utagawa, bridge
 <!-- vault-crosslinks:end -->

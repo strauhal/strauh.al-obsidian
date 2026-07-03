@@ -20,7 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/black and white photograph of a man drawing while looking at his surprised reflection in a mirror 1cf18707|black and white photograph of a man drawing while looking at his surprised reflection in a mirror]] — shared language: reflection
-- [[knowledge/wiki/images/framed hazy lake landscape with tree and reflection 7a21ed3d|framed hazy lake landscape with tree and reflection]] — shared language: reflection
-- [[knowledge/wiki/images/farmstead with reflection by piet mondrian c 1906 217e2d66|farmstead with reflection by piet mondrian c 1906]] — shared language: reflection
+- [[knowledge/wiki/images/Ghost in the Shell Original Soundtrack by Masamune Shirow (1995) ba798799|Ghost in the Shell Original Soundtrack by Masamune Shirow (1995)]] — shared language: masamune, shirow
+- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection
+- [[knowledge/wiki/images/Illustration Black Dog Looking At Its Reflection In A Mirror d3153e0e|Illustration Black Dog Looking At Its Reflection In A Mirror]] — shared language: reflection
+- [[knowledge/wiki/images/Illustration Black Dog Looking Into Mirror, Reflection Visible ecde2416|Illustration Black Dog Looking Into Mirror, Reflection Visible]] — shared language: reflection
+- [[knowledge/wiki/images/Photograph Reflection of Person in Dark Jacket Over Faint Landscape 144ddcdf|Photograph Reflection of Person in Dark Jacket Over Faint Landscape]] — shared language: reflection
+- [[knowledge/wiki/images/Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror 55a16c92|Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: reflection
 <!-- vault-crosslinks:end -->

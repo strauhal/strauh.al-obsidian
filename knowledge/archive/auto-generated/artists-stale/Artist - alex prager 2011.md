@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - alex prager|Artist - alex prager]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alex prager|Artist - alex prager]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex prager 2013|Artist - alex prager 2013]] — named in this note
-- [[knowledge/wiki/images/the great gatsby by alex prager 2013 98eadca6|the great gatsby by alex prager 2013]] — shared language: prager, alex
-- [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: alex
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex grey 1998|Artist - alex grey 1998]] — shared language: alex
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1960|Artist - alex katz 1960]] — shared language: alex
+- [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
+- [[_archive/auto-generated/images-stale/the great gatsby by alex prager 2013 98eadca6|the great gatsby by alex prager 2013]] — shared language: prager, alex
+- [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: alex
+- [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: alex
 <!-- vault-crosslinks:end -->

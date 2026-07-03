@@ -9,8 +9,8 @@ metadata: curated
 aliases: [AThousandPlateaus 20180115 - A-Thousand-Plateaus]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/AThousandPlateaus_20180115%2FA-Thousand-Plateaus.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # A Thousand Plateaus

@@ -33,9 +33,9 @@ Images attributed by filename: 5
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note
+- [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig, self
+- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig, self
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig, self
 - [[knowledge/wiki/artists/Artist - rudolf ernst|Artist - rudolf ernst]] — shared language: ernst
-- [[knowledge/wiki/images/on the terrace by rudolf ernst 1880 ae52486c|on the terrace by rudolf ernst 1880]] — shared language: ernst
-- [[knowledge/wiki/artists/Artist - ludwig knaus|Artist - ludwig knaus]] — shared language: ludwig
-- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
-- [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: ludwig
+- [[knowledge/wiki/images/The Water Sprite by Ernst Josephson (1882) bf48de7a|The Water Sprite by Ernst Josephson (1882)]] — shared language: ernst
 <!-- vault-crosslinks:end -->

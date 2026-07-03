@@ -1,12 +1,12 @@
 ---
 title: "Ey4oQUzVcAY0LDd"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/Ey4oQUzVcAY0LDd.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/Ey4oQUzVcAY0LDd.png"
 source_relpath: "album_covers/Ey4oQUzVcAY0LDd.png"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "540x540"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/Ey4oQUzVcAY0LDd.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/Ey4oQUzVcAY0LDd.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/Ey4oQUzVcAY0LDd.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

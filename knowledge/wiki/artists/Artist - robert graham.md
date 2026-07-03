@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/artists/Artist - charles graham|Artist - charles graham]] — shared language: graham
 - [[knowledge/wiki/images/moonlight on the lagoons by charles graham 1893 1d9ff77a|moonlight on the lagoons by charles graham 1893]] — shared language: graham
 - [[knowledge/wiki/books/benjamin-graham-the-intelligent-investor|The Intelligent Investor]] — shared language: graham
-- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/images/Photograph Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures b68cb591|Photograph Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures]] — shared language: graham
 - [[knowledge/wiki/images/the electricity building at night world s columbian exposition chicago 1893 by charles graham 1893 36f1cd3f|the electricity building at night world s columbian exposition chicago 1893 by charles graham 1893]] — shared language: graham
+- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 <!-- vault-crosslinks:end -->

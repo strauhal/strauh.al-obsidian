@@ -45,10 +45,10 @@ Right on. Have fun with it brother.
 
 - [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — same category: private-correspondence
 - [[knowledge/private/fanmail/threads/04-catching-up|Private Correspondence - 04 - Catching Up]] — same category: private-correspondence
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: pleasure, right
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, sent
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: pleasure, time
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: incoming
-- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, direction, incoming
-- [[knowledge/wiki/images/meet 8c5b669f|meet]] — shared language: meet
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private, sent
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, direction, incoming
 <!-- vault-crosslinks:end -->

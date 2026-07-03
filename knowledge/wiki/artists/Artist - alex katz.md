@@ -35,10 +35,10 @@ Images attributed by filename: 6
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
+- [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: alex
+- [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: alex
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: alex
-- [[knowledge/wiki/artists/Artist - alex prager|Artist - alex prager]] — shared language: alex
+- [[knowledge/wiki/artists/Artist - Alex Kanevsky|Artist - Alex Kanevsky]] — shared language: alex, landscape
 - [[knowledge/wiki/images/gaia by alex grey 1998 3b26b11f|gaia by alex grey 1998]] — shared language: alex
-- [[knowledge/wiki/artists/Artist - alex chinneck|Artist - alex chinneck]] — shared language: alex
-- [[knowledge/wiki/images/the jump by alex prager 2011 4a71344d|the jump by alex prager 2011]] — shared language: alex
-- [[knowledge/wiki/images/the great gatsby by alex prager 2013 98eadca6|the great gatsby by alex prager 2013]] — shared language: alex
 <!-- vault-crosslinks:end -->

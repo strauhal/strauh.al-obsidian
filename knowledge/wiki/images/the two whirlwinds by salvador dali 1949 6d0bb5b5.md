@@ -1,12 +1,12 @@
 ---
 title: "the two whirlwinds by salvador dali 1949"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg"
 source_relpath: "1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg"
 collection: "1900s"
 inferred_year: "1949"
 artist: "salvador dali"
-dimensions: "755x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - salvador dali]]
 
 Source: [[media/strauh.al3.1/1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_two_whirlwinds_by_salvador_dali_1949.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/the ear by salvador dali 1942 1e052c47|the ear by salvador dali 1942]] — same artist: salvador dali
 - [[knowledge/wiki/images/the shepherd by salvador dali 1929 5e555b24|the shepherd by salvador dali 1929]] — same artist: salvador dali
 - [[knowledge/wiki/images/the eye of the sea by salvador dali 1942 34802201|the eye of the sea by salvador dali 1942]] — same artist: salvador dali
-- [[knowledge/wiki/images/the apotheosis of homer by salvador dali 1944 1945 a9608332|the apotheosis of homer by salvador dali 1944 1945]] — same artist: salvador dali
 - [[knowledge/wiki/images/galatea of the spheres by salvador dali 1952 d8ac9491|galatea of the spheres by salvador dali 1952]] — same artist: salvador dali
+- [[knowledge/wiki/images/the apotheosis of homer by salvador dali 1944 1945 a9608332|the apotheosis of homer by salvador dali 1944 1945]] — same artist: salvador dali
 <!-- vault-crosslinks:end -->

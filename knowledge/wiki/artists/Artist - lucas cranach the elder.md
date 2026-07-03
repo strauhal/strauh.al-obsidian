@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: elder
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: lucas
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: age, great
 - [[knowledge/wiki/images/the adoration of the magi by lucas van valckenborch c 1570 3ae38e16|the adoration of the magi by lucas van valckenborch c 1570]] — shared language: lucas
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: age, great
 - [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: elder, lucas, cranach
-- [[knowledge/wiki/images/the resurrection of christ by pieter bruegel the elder c 1563 8a974585|the resurrection of christ by pieter bruegel the elder c 1563]] — shared language: elder
 <!-- vault-crosslinks:end -->

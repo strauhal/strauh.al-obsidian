@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/artist-narrative-scenes-on-a-green-background|Artist - narrative scenes on a green background]] — named in this note
+- [[knowledge/wiki/artists/Artist - Narrative Scenes on Green Background|Artist - Narrative Scenes on Green Background]] — named in this note
 - [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-- [[knowledge/wiki/artists/Artist - narrative scenes on a green background|Artist - narrative scenes on a green background]] — shared language: narrative, scenes, green
-- [[knowledge/wiki/images/black and white drawing of stylized figures in two scenes 2023 01ccf91e|black and white drawing of stylized figures in two scenes 2023]] — shared language: scenes
-- [[knowledge/wiki/images/glitched digital abstract with green and black patterns on a purple background d7ad84d4|glitched digital abstract with green and black patterns on a purple background]] — shared language: green, background
-- [[knowledge/wiki/images/dark green line drawing of an abstract figure on a lime green background 34fcd1a8|dark green line drawing of an abstract figure on a lime green background]] — shared language: green, background
+- [[knowledge/archive/auto-generated/artists-stale/Artist - narrative scenes on a green background|Artist - narrative scenes on a green background]] — shared language: narrative, scenes, green
+- [[knowledge/wiki/images/Illustration Central Seated Buddha Surrounded by Narrative Scenes on Green Background 1676a6c4|Illustration Central Seated Buddha Surrounded by Narrative Scenes on Green Background]] — shared language: narrative, scenes, green
+- [[knowledge/archive/auto-generated/anchors-stale/artist-narrative-scenes-on-a-green-background|Artist - narrative scenes on a green background]] — shared language: narrative, scenes, green
+- [[_archive/auto-generated/images-stale/black and white drawing of stylized figures in two scenes 2023 01ccf91e|black and white drawing of stylized figures in two scenes 2023]] — shared language: scenes
 <!-- vault-crosslinks:end -->

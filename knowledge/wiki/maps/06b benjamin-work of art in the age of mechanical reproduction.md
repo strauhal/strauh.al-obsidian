@@ -22,12 +22,12 @@ A retained library bridge for Walter Benjamin's essay and its place in the vault
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical, age, art
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: aura, art, human
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, art, media
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: art, work, human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: elegance, spontaneity, slop
+- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical, age, benjamin-work
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media, aesthetics
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: aura, human
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: aura, human
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: benjamin's, vault's, work
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art, aesthetics
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: art, essay, human
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: essay, human, retained
+- [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: age, technology, media
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity
 <!-- vault-crosslinks:end -->

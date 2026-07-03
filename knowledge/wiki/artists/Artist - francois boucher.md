@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - gabriel francois doyen|Artist - gabriel francois doyen]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - francois morellet|Artist - francois morellet]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - gabriel francois doyen|Artist - gabriel francois doyen]] — shared language: francois
 - [[knowledge/wiki/images/the gleaners by jean francois millet 1857 1c4834e1|the gleaners by jean francois millet 1857]] — shared language: francois
+- [[knowledge/wiki/images/the deluge by gabriel francois doyen 1778 41ec3356|the deluge by gabriel francois doyen 1778]] — shared language: francois
 <!-- vault-crosslinks:end -->

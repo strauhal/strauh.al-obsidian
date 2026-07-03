@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - mike kelley|Artist - mike kelley]] — named in this note
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
-- [[knowledge/wiki/artists/Artist - mike harris|Artist - mike harris]] — shared language: mike
-- [[knowledge/wiki/images/mike mearls the dungeon master by ken bastian 2015 750950c4|mike mearls the dungeon master by ken bastian 2015]] — shared language: mike
-- [[knowledge/wiki/images/cartoon of a man holding a briefcase of artwork looking at a banana taped to a wall by mike harris 4f715044|cartoon of a man holding a briefcase of artwork looking at a banana taped to a wall by mike harris]] — shared language: mike
-- [[_archive/auto-generated/books-stale/radio-shack-electronics-learning-lab-01|Radio Shack Electronics Learning Lab 01]] — shared language: shack
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mike harris|Artist - Mike Harris]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: mike
+- [[knowledge/wiki/images/Busted (BG 59) by Stanley Mouse and Alton Kelley (1967) d4d99a55|Busted (BG 59) by Stanley Mouse and Alton Kelley (1967)]] — shared language: kelley
+- [[knowledge/wiki/images/Comic Comparison of Young and Experienced Cartoonists by Mike Kelly 8a4bc504|Comic Comparison of Young and Experienced Cartoonists by Mike Kelly]] — shared language: mike
 <!-- vault-crosslinks:end -->

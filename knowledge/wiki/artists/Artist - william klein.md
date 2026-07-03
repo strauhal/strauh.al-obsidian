@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: klein
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: klein
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william, man
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 - [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
 - [[knowledge/wiki/images/nebuchadnezzar by william blake c 1795 d9d30f8e|nebuchadnezzar by william blake c 1795]] — shared language: william
 <!-- vault-crosslinks:end -->

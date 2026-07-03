@@ -23,7 +23,7 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - nikolai blokhin|Artist - nikolai blokhin]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nikolai blokhin|Artist - nikolai blokhin]] — named in this note
 - [[knowledge/wiki/artists/Artist - nikolai kalmakov|Artist - nikolai kalmakov]] — shared language: nikolai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nikolai kalmakov 1910|Artist - nikolai kalmakov 1910]] — shared language: nikolai
 - [[knowledge/wiki/images/the tree of life by nikolai kalmakov 1910 4721d29c|the tree of life by nikolai kalmakov 1910]] — shared language: nikolai

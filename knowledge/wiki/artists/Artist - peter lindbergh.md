@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: peter
-- [[knowledge/wiki/artists/Artist - peter vandenberge|Artist - peter vandenberge]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - peter doig|Artist - peter doig]] — shared language: peter
 - [[knowledge/wiki/images/the new world by peter saul 1991 6bebcfca|the new world by peter saul 1991]] — shared language: peter
-- [[knowledge/wiki/artists/Artist - peter saville|Artist - peter saville]] — shared language: peter
+- [[knowledge/wiki/artists/Artist - peter vandenberge|Artist - peter vandenberge]] — shared language: peter
 <!-- vault-crosslinks:end -->

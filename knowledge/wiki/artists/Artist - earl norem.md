@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Photograph Paul McCartney and Earl Sweatshirt Posing Together 68e3af67|Photograph Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: earl
+- [[knowledge/wiki/images/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795) 5b716454|Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795)]] — shared language: earl
 - [[knowledge/wiki/images/landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744 ff285a8d|landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744]] — shared language: earl
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: earl
+- [[knowledge/wiki/images/Photograph Man Painting Bank of America Building on Fire 3d2143ea|Photograph Man Painting Bank of America Building on Fire]] — shared language: bank
 - [[knowledge/wiki/images/bather reclining on a bank by pierre auguste renoir c 1883 c6d33406|bather reclining on a bank by pierre auguste renoir c 1883]] — shared language: bank
-- [[knowledge/wiki/images/hong kong and shanghai bank by andreas gursky 1994 23f0808e|hong kong and shanghai bank by andreas gursky 1994]] — shared language: bank
-- [[knowledge/wiki/images/illustration of a prehistoric aquatic creature with scales and fins resting on a sandy bank be1a8227|illustration of a prehistoric aquatic creature with scales and fins resting on a sandy bank]] — shared language: bank
 <!-- vault-crosslinks:end -->

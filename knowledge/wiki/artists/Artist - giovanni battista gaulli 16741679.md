@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679 936100f2|giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679]] — shared language: gaulli, battista, giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: battista, giovanni, triumph
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — shared language: battista, giovanni, triumph
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: battista, giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: battista, giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: battista, giovanni
+- [[knowledge/wiki/images/Portrait of a Man by Giovanni Battista Moroni (c. 1570) 1d471918|Portrait of a Man by Giovanni Battista Moroni (c. 1570)]] — shared language: battista, giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: battista, giovanni
 <!-- vault-crosslinks:end -->

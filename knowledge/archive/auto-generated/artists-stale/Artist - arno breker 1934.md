@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - arno breker|Artist - arno breker]] — named in this note
 - [[knowledge/wiki/images/kopf eines mannes head of a man by karl schmidt rottluff 1919 9a3df16b|kopf eines mannes head of a man by karl schmidt rottluff 1919]] — shared language: kopf, eines, mannes
+- [[knowledge/wiki/images/Maristany and Arno Vinos Seleccionados Vermouth by Jaume Llaverias i Viladomat (1908) f0bcfb53|Maristany and Arno Vinos Seleccionados Vermouth by Jaume Llaverias i Viladomat (1908)]] — shared language: arno
 - [[knowledge/wiki/artists/Artist - karl schmidt rottluff|Artist - karl schmidt rottluff]] — shared language: kopf, eines, mannes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - karl schmidt rottluff 1919|Artist - karl schmidt rottluff 1919]] — shared language: kopf, eines, mannes
-- [[knowledge/wiki/images/clive head washing 2002 520eedec|clive head washing 2002]] — shared language: head
-- [[knowledge/wiki/images/studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595 1741e0e1|studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595]] — shared language: head, young, man
+- [[knowledge/wiki/images/Illustration Twelve Pencil Sketches of a Young Girl's Head f335092b|Illustration Twelve Pencil Sketches of a Young Girl's Head]] — shared language: young, head
 <!-- vault-crosslinks:end -->

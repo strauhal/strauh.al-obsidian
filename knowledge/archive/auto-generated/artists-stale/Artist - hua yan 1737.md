@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hua yan|Artist - hua yan]] — named in this note
-- [[knowledge/wiki/artists/Artist - yan blanco|Artist - yan blanco]] — shared language: yan
+- [[knowledge/archive/auto-generated/artists-stale/Artist - yan blanco|Artist - yan blanco]] — shared language: yan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yan blanco 2020|Artist - yan blanco 2020]] — shared language: yan
+- [[knowledge/wiki/images/Tired by Yan Blanco (2020) 73ca17f1|Tired by Yan Blanco (2020)]] — shared language: yan
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: yan
-- [[knowledge/wiki/images/the krusty krab is closed by yan blanco 2020 962c5d98|the krusty krab is closed by yan blanco 2020]] — shared language: yan
-- [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: yan
+- [[_archive/auto-generated/images-stale/the krusty krab is closed by yan blanco 2020 962c5d98|the krusty krab is closed by yan blanco 2020]] — shared language: yan
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ian miller|Artist - ian miller]] — named in this note
+- [[knowledge/wiki/artists/Artist - Ian Foley|Artist - Ian Foley]] — shared language: ian
 - [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: miller
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard e miller 1910|Artist - richard e miller 1910]] — shared language: miller
+- [[knowledge/wiki/images/Comic AI nxiety by Ian Foley 7f77d89f|Comic AI nxiety by Ian Foley]] — shared language: ian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: miller
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1993 1994|Artist - frank miller 1993 1994]] — shared language: miller
 <!-- vault-crosslinks:end -->

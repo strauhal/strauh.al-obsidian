@@ -42,9 +42,9 @@ Images attributed by filename: 8
 ## Discovered Connections
 
 - [[knowledge/wiki/images/death and life by gustav klimt 19101915 31900ead|death and life by gustav klimt 19101915]] — named in this note
+- [[knowledge/wiki/images/Death and Life by Gustav Klimt (1910 1911) fbd2602f|Death and Life by Gustav Klimt (1910 1911)]] — named in this note
 - [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: klimt, gustav, death
+- [[knowledge/wiki/images/On Lake Attersee by Gustav Klimt 80d2aa4e|On Lake Attersee by Gustav Klimt]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/gustav klimt portrait of adele blochbauer i 1907 c9a9210a|gustav klimt portrait of adele blochbauer i 1907]] — shared language: klimt, gustav
-- [[knowledge/wiki/images/gustav klimt portrait of a woman c 1910 nga 48302 jpg 1fcd0f88|gustav klimt portrait of a woman c 1910 nga 48302 jpg]] — shared language: klimt, gustav, woman
-- [[knowledge/wiki/images/gustav klimt die jungfrau the virgin c 1913 ef1ce3a0|gustav klimt die jungfrau the virgin c 1913]] — shared language: klimt, gustav
 <!-- vault-crosslinks:end -->

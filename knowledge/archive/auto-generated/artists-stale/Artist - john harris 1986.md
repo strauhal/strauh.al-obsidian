@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — shared language: harris
-- [[knowledge/wiki/artists/Artist - mike harris|Artist - mike harris]] — shared language: harris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mike harris|Artist - Mike Harris]] — shared language: harris
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "the flying carpet by viktor vasnetsov 1880"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg"
 source_relpath: "1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "viktor vasnetsov"
-dimensions: "3436x1931"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - viktor vasnetsov]]
 
 Source: [[media/strauh.al3.1/1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_flying_carpet_by_viktor_vasnetsov_1880.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/the carpet merchant by jean leon gerome 1887 8a86d8b1|the carpet merchant by jean leon gerome 1887]] — shared language: carpet
-- [[knowledge/wiki/images/franklin booth flying islands illustration 1913 jpg a6080d4a|franklin booth flying islands illustration 1913 jpg]] — shared language: flying
-- [[knowledge/wiki/images/photograph of a black u s air force reconnaissance jet flying above clouds 7e1783d9|photograph of a black u s air force reconnaissance jet flying above clouds]] — shared language: flying
-- [[knowledge/wiki/images/flying vehicle over forest landscape by jean giraud moebius b915eb72|flying vehicle over forest landscape by jean giraud moebius]] — shared language: flying
-- [[knowledge/wiki/images/photographic grid of small birds flying against a cloudy blue sky f799a926|photographic grid of small birds flying against a cloudy blue sky]] — shared language: flying
+- [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph White Cat Tangled In Black Yarn On Carpet 6fc6af3d|Photograph White Cat Tangled In Black Yarn On Carpet]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph Interior of a Brutalist style building with red carpet and offices 5f430014|Photograph Interior of a Brutalist style building with red carpet and offices]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph White Bust Sculpture With AR Overlay on Carpet 8baa790d|Photograph White Bust Sculpture With AR Overlay on Carpet]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph Laptop On Carpet In Empty Room With Curtains d73bca90|Photograph Laptop On Carpet In Empty Room With Curtains]] — shared language: carpet
 <!-- vault-crosslinks:end -->

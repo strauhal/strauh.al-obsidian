@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - chuck close|Artist - chuck close]] — named in this note
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: chuck
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chuck walker 1986|Artist - chuck walker 1986]] — shared language: chuck
+- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[knowledge/wiki/images/macintosh family by chuck walker 1986 b7fc587d|macintosh family by chuck walker 1986]] — shared language: chuck
-- [[knowledge/wiki/images/close up photograph of a dirty eyeglass lens 5ff73c1d|close up photograph of a dirty eyeglass lens]] — shared language: close
-- [[knowledge/wiki/images/close up photograph of orange pleated fabric texture e30690e3|close up photograph of orange pleated fabric texture]] — shared language: close
+- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close
 <!-- vault-crosslinks:end -->

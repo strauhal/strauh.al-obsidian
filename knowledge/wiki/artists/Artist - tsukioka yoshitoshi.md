@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: tsukioka, yoshitoshi, series
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
-- [[knowledge/wiki/images/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
 - [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: moon
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
+- [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — shared language: moon
 <!-- vault-crosslinks:end -->

@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - avogado6|Artist - avogado6]] — named in this note
-- [[knowledge/wiki/images/digital painting of a woman s face surrounded by white material 45d64b8c|digital painting of a woman s face surrounded by white material]] — shared language: face, digital, woman
-- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: face, digital, woman
-- [[knowledge/wiki/images/oil painting of a close up abstracted face in grayscale ca009861|oil painting of a close up abstracted face in grayscale]] — shared language: close, face
+- [[knowledge/wiki/images/Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6 4ef44638|Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6]] — shared language: avogado6, wiping, tissue
+- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
-- [[knowledge/wiki/images/high contrast black and white close up of a face with flowing hair 4c611fca|high contrast black and white close up of a face with flowing hair]] — shared language: close, face
+- [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: close, face
+- [[_archive/auto-generated/images-stale/oil painting of a close up abstracted face in grayscale ca009861|oil painting of a close up abstracted face in grayscale]] — shared language: close, face
 <!-- vault-crosslinks:end -->

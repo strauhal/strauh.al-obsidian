@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - marcela okeke|Artist - marcela okeke]] — named in this note
-- [[knowledge/wiki/images/james tissot the jewish people taken into captivity c 18961902 d7af3cdb|james tissot the jewish people taken into captivity c 18961902]] — shared language: people
-- [[knowledge/wiki/images/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people
-- [[knowledge/wiki/images/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: people
-- [[knowledge/wiki/images/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: people
-- [[knowledge/wiki/images/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — shared language: people
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marcela okeke|Artist - marcela okeke]] — named in this note
+- [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people
+- [[_archive/auto-generated/images-stale/black ink sketch of people at a city intersection with a lamppost and crosswalk 4fb88d73|black ink sketch of people at a city intersection with a lamppost and crosswalk]] — shared language: people
+- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: people
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: people
+- [[knowledge/wiki/images/Photograph Black and White Photograph of People Sitting on Floor 5d26b5dd|Photograph Black and White Photograph of People Sitting on Floor]] — shared language: people
 <!-- vault-crosslinks:end -->

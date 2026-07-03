@@ -26,8 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/painting of a reclining blonde nude reading c6d76965|painting of a reclining blonde nude reading]] — shared language: nude
-- [[knowledge/wiki/anchors/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: nude
-- [[knowledge/wiki/artists/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: nude
-- [[knowledge/wiki/images/framed painting of a red reclining nude in flowers 64bdff46|framed painting of a red reclining nude in flowers]] — shared language: nude
+- [[knowledge/wiki/images/Separation by Edvard Munch (1896) 11553387|Separation by Edvard Munch (1896)]] — named in this note
+- [[knowledge/wiki/images/The Kiss by Edvard Munch (1897) 6c8b0fd5|The Kiss by Edvard Munch (1897)]] — shared language: edvard, munch
+- [[knowledge/wiki/images/The Boxer by Edvard Munch (1909 1918) d3fa0ce5|The Boxer by Edvard Munch (1909 1918)]] — shared language: edvard, munch
+- [[knowledge/wiki/images/The Vampire by Edvard Munch (1895) 1431978a|The Vampire by Edvard Munch (1895)]] — shared language: edvard, munch
+- [[knowledge/wiki/images/Portrait of Friedrich Nietzsche by Edvard Munch (1906) 77c942e2|Portrait of Friedrich Nietzsche by Edvard Munch (1906)]] — shared language: edvard, munch
+- [[knowledge/wiki/images/Portrait of Friedrich Nietzsche by Edvard Munch (1906) (2) d9a21ce2|Portrait of Friedrich Nietzsche by Edvard Munch (1906) (2)]] — shared language: edvard, munch
 <!-- vault-crosslinks:end -->

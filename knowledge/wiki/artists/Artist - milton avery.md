@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - milton h greene|Artist - milton h greene]] — shared language: milton
 - [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: milton
 - [[knowledge/wiki/images/marilyn monroe sitting on the floor by milton h greene 1953 409a5c6a|marilyn monroe sitting on the floor by milton h greene 1953]] — shared language: milton
-- [[knowledge/wiki/images/framed portrait of a woman in a white dress acce577c|framed portrait of a woman in a white dress]] — shared language: dress, woman
-- [[knowledge/wiki/images/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: dress, blue, woman
+- [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
+- [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
 <!-- vault-crosslinks:end -->

@@ -51,6 +51,6 @@ from a dead theorist and turned on the present.
 - [[knowledge/wiki/images/Screenshots 2021 04 08 20 41 35 0c9d8544|Screenshots 2021 04 08 20 41 35]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: arcades, project, revisited
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, feed, internet
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: arcades, web, feed
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet, feed, confidant
 <!-- vault-crosslinks:end -->

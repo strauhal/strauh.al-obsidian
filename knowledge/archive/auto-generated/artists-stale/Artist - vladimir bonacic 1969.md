@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - vladimir bonacic|Artist - vladimir bonacic]] — named in this note
+- [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: vladimir
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: vladimir
 - [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — shared language: vladimir
 - [[knowledge/wiki/books/perennial-bestseller-collection-vladimir-vladimirovich-nabokov-lolita-perennial-bestseller-collection|Lolita (Perennial Bestseller Collection)]] — shared language: vladimir
 - [[knowledge/wiki/images/portrait of vladimir mayakovsky by alexander rodchenko 1924 eb10057a|portrait of vladimir mayakovsky by alexander rodchenko 1924]] — shared language: vladimir
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alexander rodchenko 1924|Artist - alexander rodchenko 1924]] — shared language: vladimir
 <!-- vault-crosslinks:end -->

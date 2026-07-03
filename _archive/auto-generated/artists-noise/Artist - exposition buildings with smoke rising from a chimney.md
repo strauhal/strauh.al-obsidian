@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-exposition-buildings-with-smoke-rising-from-a-chimney|Artist - exposition buildings with smoke rising from a chimney]] — shared language: chimney, rising, smoke
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, large
-- [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: exposition, buildings, large
-- [[knowledge/wiki/images/black and white photograph of large classical exposition buildings along a waterway with bridges and crowds 1fcb6bab|black and white photograph of large classical exposition buildings along a waterway with bridges and crowds]] — shared language: buildings, exposition, large
-- [[knowledge/wiki/images/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: buildings, exposition
-- [[knowledge/wiki/images/sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground 4ec9d879|sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground]] — shared language: buildings, exposition
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, large
+- [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: exposition, buildings, large
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: exposition, buildings
+- [[knowledge/wiki/images/Photograph Ferris Wheel at the World's Columbian Exposition 45c0fb8a|Photograph Ferris Wheel at the World's Columbian Exposition]] — shared language: exposition, ferris, wheel
+- [[knowledge/wiki/images/Illustration Volcano Erupting With Large Plume Of Smoke And Ash a4f798d5|Illustration Volcano Erupting With Large Plume Of Smoke And Ash]] — shared language: smoke, large
 <!-- vault-crosslinks:end -->

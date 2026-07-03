@@ -1,12 +1,12 @@
 ---
 title: "carl bloch in a roman osteria 1866 2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg"
 source_relpath: "1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg"
 collection: "1800s"
 inferred_year: "1866"
 artist: ""
-dimensions: "3514x2827"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

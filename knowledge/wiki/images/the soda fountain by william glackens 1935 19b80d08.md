@@ -1,12 +1,12 @@
 ---
 title: "the soda fountain by william glackens 1935"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg"
 source_relpath: "1900s/the_soda_fountain_by_william_glackens_1935.jpeg"
 collection: "1900s"
 inferred_year: "1935"
 artist: "william glackens"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - william glackens]]
 
 Source: [[media/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_soda_fountain_by_william_glackens_1935.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Maypole, Central Park by William Glackens (c. 1905) 27046058|Maypole, Central Park by William Glackens (c. 1905)]] — shared language: glackens, william
 - [[knowledge/wiki/images/the fountain of youth by john william waterhouse 1909 7367a6e4|the fountain of youth by john william waterhouse 1909]] — shared language: fountain, william
-- [[knowledge/wiki/artists/Artist - molly soda|Artist - molly soda]] — shared language: soda
-- [[knowledge/wiki/images/the end of the world by molly soda 2016 165d6d69|the end of the world by molly soda 2016]] — shared language: soda
-- [[knowledge/wiki/images/the fountain by theodoros ralli c 1890 c0950fa9|the fountain by theodoros ralli c 1890]] — shared language: fountain
-- [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — shared language: william
+- [[knowledge/wiki/images/Illustration Blue and White Ceramic Soda Cans with Traditional Patterns 67d3630c|Illustration Blue and White Ceramic Soda Cans with Traditional Patterns]] — shared language: soda
+- [[knowledge/wiki/images/Girl at a Fountain by L on Bonnat (1875) 093c2dac|Girl at a Fountain by L on Bonnat (1875)]] — shared language: fountain
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Courtyard with Fountain and Colonnade b503de60|Photograph Black and White Photograph of a Courtyard with Fountain and Colonnade]] — shared language: fountain
 <!-- vault-crosslinks:end -->

@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1992|Artist - yoshitaka amano 1992]] — shared language: yoshitaka, amano
 - [[knowledge/wiki/artists/Artist - yoshitaka amano|Artist - yoshitaka amano]] — shared language: yoshitaka, amano, egg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1983|Artist - yoshitaka amano 1983]] — shared language: yoshitaka, amano
+- [[knowledge/wiki/images/d vs red dragon by yoshitaka amano 1985 4d1fc453|d vs red dragon by yoshitaka amano 1985]] — shared language: yoshitaka, amano
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1989|Artist - yoshitaka amano 1989]] — shared language: yoshitaka, amano
-- [[knowledge/wiki/images/fruit by yoshitaka amano 1989 672beca9|fruit by yoshitaka amano 1989]] — shared language: yoshitaka, amano
 <!-- vault-crosslinks:end -->

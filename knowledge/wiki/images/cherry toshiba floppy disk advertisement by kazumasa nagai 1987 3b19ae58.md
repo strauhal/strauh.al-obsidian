@@ -1,12 +1,12 @@
 ---
 title: "cherry toshiba floppy disk advertisement by kazumasa nagai 1987"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg"
 source_relpath: "1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "kazumasa nagai"
-dimensions: "1034x738"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - kazumasa nagai]]
 
 Source: [[media/strauh.al3.1/1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cherry_toshiba_floppy_disk_advertisement_by_kazumasa_nagai_1987.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/black and white pixel art illustration of a hooded figure holding a floppy disk next to a computer with text disk 1 of 5 a3b008ae|black and white pixel art illustration of a hooded figure holding a floppy disk next to a computer with text disk 1 of 5]] — shared language: disk, floppy
+- [[knowledge/wiki/images/Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk 252982b7|Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk]] — shared language: floppy, disk
+- [[knowledge/wiki/images/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: floppy, disk
 - [[knowledge/wiki/artists/Artist - hiroshi nagai|Artist - hiroshi nagai]] — shared language: nagai
 - [[knowledge/wiki/images/swimming by hiroshi nagai 1982 272e8745|swimming by hiroshi nagai 1982]] — shared language: nagai
-- [[knowledge/wiki/images/hiroshi nagai field 1980s 8ecd23a1|hiroshi nagai field 1980s]] — shared language: nagai
-- [[knowledge/wiki/images/the shipwreck by hiroshi nagai 1985 5a7c3e53|the shipwreck by hiroshi nagai 1985]] — shared language: nagai
+- [[knowledge/wiki/images/future city by hiroshi nagai 1981 21d963e5|future city by hiroshi nagai 1981]] — shared language: nagai
 <!-- vault-crosslinks:end -->

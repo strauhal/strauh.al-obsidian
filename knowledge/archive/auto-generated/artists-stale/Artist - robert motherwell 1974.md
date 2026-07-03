@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - robert motherwell|Artist - robert motherwell]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/wiki/images/Illustration Abstract Painting With Black Shapes And White Background by Robert Motherwell 31f24bb3|Illustration Abstract Painting With Black Shapes And White Background by Robert Motherwell]] — shared language: motherwell, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
 <!-- vault-crosslinks:end -->

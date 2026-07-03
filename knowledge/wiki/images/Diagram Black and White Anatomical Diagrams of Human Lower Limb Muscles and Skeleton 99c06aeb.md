@@ -1,0 +1,33 @@
+---
+title: "Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton.jpeg"
+source_relpath: "2000s/Diagram - Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton
+
+![[media/strauh.al3.1/2000s/Diagram - Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Diagram - Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Anatomical Illustrations of Human Lower Limb, Back View, Muscles and Skeleton cfc71a92|Illustration Anatomical Illustrations of Human Lower Limb, Back View, Muscles and Skeleton]] — shared language: lower, limb, muscles
+- [[knowledge/wiki/images/Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles 5bddca2d|Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles]] — shared language: limb, muscles, anatomical
+- [[knowledge/wiki/images/Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles 55c9eb50|Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles]] — shared language: muscles, anatomical, skeleton
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human, diagram
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, diagram
+<!-- vault-crosslinks:end -->

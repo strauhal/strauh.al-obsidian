@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: andy, warhol
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1958|Artist - andy warhol 1958]] — shared language: andy, warhol
-- [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: andy, warhol
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1983|Artist - andy warhol 1983]] — shared language: andy, warhol
-- [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: andy, warhol
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: warhol, andy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1958|Artist - andy warhol 1958]] — shared language: warhol, andy
+- [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
+- [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: warhol, andy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1983|Artist - andy warhol 1983]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

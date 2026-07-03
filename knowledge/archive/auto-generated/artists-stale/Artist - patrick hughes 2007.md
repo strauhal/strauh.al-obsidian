@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - patrick hughes|Artist - patrick hughes]] — named in this note
-- [[knowledge/wiki/images/patrick nagel 180 jpg 29ee7bce|patrick nagel 180 jpg]] — shared language: patrick
-- [[knowledge/wiki/artists/Artist - w preston hughes|Artist - w preston hughes]] — shared language: hughes
-- [[knowledge/wiki/images/oil painting of a cowboy on horseback leading a pack mule in a mountain landscape by w preston hughes 6e802eb0|oil painting of a cowboy on horseback leading a pack mule in a mountain landscape by w preston hughes]] — shared language: hughes
-- [[knowledge/wiki/images/the living room by marsden hartley 1913 9798e05c|the living room by marsden hartley 1913]] — shared language: living, room
-- [[knowledge/wiki/images/digital illustration of a sunlit plant filled living room viewed from above cd2f569e|digital illustration of a sunlit plant filled living room viewed from above]] — shared language: living, room
+- [[knowledge/archive/auto-generated/artists-stale/Artist - patrick hughes|Artist - patrick hughes]] — named in this note
+- [[_archive/auto-generated/images-stale/patrick nagel 180 jpg 29ee7bce|patrick nagel 180 jpg]] — shared language: patrick
+- [[knowledge/wiki/artists/Artist - W. Preston Hughes|Artist - W. Preston Hughes]] — shared language: hughes
+- [[knowledge/archive/auto-generated/artists-stale/Artist - w preston hughes|Artist - w preston hughes]] — shared language: hughes
+- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
+- [[knowledge/wiki/artists/Artist - Patrick E. Leahy|Artist - Patrick E. Leahy]] — shared language: patrick
 <!-- vault-crosslinks:end -->

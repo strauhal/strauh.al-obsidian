@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/robert bechtle c58e6e9b|robert bechtle]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert bechtle|Artist - robert bechtle]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/robert bechtle the gun 1985 33310c05|robert bechtle the gun 1985]] — shared language: bechtle, robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
+- [[knowledge/wiki/images/Potrero Hill by Robert Bechtle (1980) 6531de4c|Potrero Hill by Robert Bechtle (1980)]] — shared language: bechtle, robert
+- [[knowledge/wiki/images/Illustration Woman in Sunglasses Holding Beer Bottle in Backyard by Robert Bechtle 0e2346bd|Illustration Woman in Sunglasses Holding Beer Bottle in Backyard by Robert Bechtle]] — shared language: bechtle, robert
 <!-- vault-crosslinks:end -->

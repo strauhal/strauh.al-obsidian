@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - eduardo risso|Artist - eduardo risso]] — shared language: eduardo
-- [[knowledge/wiki/images/black and white comic page depicting a noir street scene and confrontation by eduardo risso 6d816234|black and white comic page depicting a noir street scene and confrontation by eduardo risso]] — shared language: eduardo
+- [[knowledge/wiki/images/Peine del Viento XV by Eduardo Chillida (1976) db3fe765|Peine del Viento XV by Eduardo Chillida (1976)]] — shared language: eduardo
 - [[knowledge/wiki/books/rooney-sally-normal-people-faber-faber|Normal People-Faber & Faber]] — shared language: sally
-- [[knowledge/wiki/images/IMG 0836 f43977e7|IMG 0836]] — shared language: old
+- [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: forever
-- [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: lady
+- [[knowledge/wiki/images/IMG 0836 f43977e7|IMG 0836]] — shared language: old
+- [[knowledge/wiki/images/ernest two ab5edb69|ernest two]] — shared language: old
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "watercolor rendering of the arcadia public library building 1997"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg"
 source_relpath: "1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: ""
-dimensions: "1200x947"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/watercolor_rendering_of_the_arcadia_public_library_building_1997.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: rendering
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: public
-- [[knowledge/wiki/images/watercolor and ink drawing of a park with modern red building 314ff354|watercolor and ink drawing of a park with modern red building]] — shared language: watercolor, building
-- [[knowledge/wiki/images/administration building d797c4c3|administration building]] — shared language: building
+- [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor
+- [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — shared language: public
+- [[knowledge/wiki/artists/Artist - FRAGILETEMPORARY|Artist - FRAGILETEMPORARY]] — shared language: rendering
 <!-- vault-crosslinks:end -->

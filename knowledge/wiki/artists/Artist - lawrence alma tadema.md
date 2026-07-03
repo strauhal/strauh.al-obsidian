@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/the triumph of titus by sir lawrence alma tadema 1885 2b1a1895|the triumph of titus by sir lawrence alma tadema 1885]] — shared language: tadema, alma, lawrence
 - [[knowledge/wiki/images/the education of the children of clovis by sir lawrence alma tadema 1861 1da19038|the education of the children of clovis by sir lawrence alma tadema 1861]] — shared language: tadema, alma, lawrence
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: lawrence, roses
-- [[knowledge/wiki/images/dh lawrence npg 4f6a5828|dh lawrence npg]] — shared language: lawrence
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: lawrence
+- [[knowledge/wiki/images/The Battle of the Alma by Louis Toussaint (1855 1856) 5d596876|The Battle of the Alma by Louis Toussaint (1855 1856)]] — shared language: alma
 <!-- vault-crosslinks:end -->

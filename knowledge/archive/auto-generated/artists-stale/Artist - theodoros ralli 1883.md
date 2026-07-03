@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodoros ralli 1892|Artist - theodoros ralli 1892]] — shared language: theodoros, ralli
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodoros ralli 1881|Artist - theodoros ralli 1881]] — shared language: theodoros, ralli
-- [[knowledge/wiki/images/the fountain by theodoros ralli c 1890 c0950fa9|the fountain by theodoros ralli c 1890]] — shared language: theodoros, ralli
 - [[knowledge/wiki/artists/Artist - theodoros ralli|Artist - theodoros ralli]] — shared language: theodoros, ralli, veil
+- [[knowledge/wiki/images/the fountain by theodoros ralli c 1890 c0950fa9|the fountain by theodoros ralli c 1890]] — shared language: theodoros, ralli
 - [[knowledge/wiki/images/the offering by theodoros ralli c 1890 d9081207|the offering by theodoros ralli c 1890]] — shared language: theodoros, ralli
 - [[knowledge/wiki/images/the proposal by theodoros ralli 1881 c69b2151|the proposal by theodoros ralli 1881]] — shared language: theodoros, ralli
 <!-- vault-crosslinks:end -->

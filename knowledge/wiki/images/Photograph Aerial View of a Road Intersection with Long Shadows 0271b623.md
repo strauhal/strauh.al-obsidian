@@ -1,0 +1,33 @@
+---
+title: "Photograph Aerial View of a Road Intersection with Long Shadows"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aerial View of a Road Intersection with Long Shadows.jpeg"
+source_relpath: "2000s/Photograph - Aerial View of a Road Intersection with Long Shadows.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Photograph Aerial View of a Road Intersection with Long Shadows
+
+![[media/strauh.al3.1/2000s/Photograph - Aerial View of a Road Intersection with Long Shadows.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Photograph - Aerial View of a Road Intersection with Long Shadows.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aerial View of a Road Intersection with Long Shadows.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Photograph Aerial View Of People's Shadows Playing Beach Volleyball 74fc815f|Photograph Aerial View Of People's Shadows Playing Beach Volleyball]] — shared language: shadows, aerial, view
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
+- [[knowledge/wiki/images/Illustration Stylized Figures of Horse Riders with Long Shadows ee2a2a8e|Illustration Stylized Figures of Horse Riders with Long Shadows]] — shared language: shadows, long, shadows.jpeg
+- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
+<!-- vault-crosslinks:end -->

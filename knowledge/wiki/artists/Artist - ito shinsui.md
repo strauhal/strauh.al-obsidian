@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: ito
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: ito
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — shared language: ito
 - [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — shared language: ito
 - [[knowledge/wiki/images/the long dream by junji ito 1997 9be646fc|the long dream by junji ito 1997]] — shared language: ito

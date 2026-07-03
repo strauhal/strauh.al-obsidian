@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew loomis 1929|Artist - andrew loomis 1929]] — named in this note
 - [[knowledge/wiki/images/the window by andrew loomis 1929 d71221c1|the window by andrew loomis 1929]] — shared language: loomis, andrew
 - [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — shared language: loomis, andrew
+- [[knowledge/wiki/images/Illustration Four Stages Of Painting A Woman's Portrait by Andrew Loomis 03ef7433|Illustration Four Stages Of Painting A Woman's Portrait by Andrew Loomis]] — shared language: loomis, andrew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1981|Artist - andrew wyeth 1981]] — shared language: andrew
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1965|Artist - andrew wyeth 1965]] — shared language: andrew
 <!-- vault-crosslinks:end -->

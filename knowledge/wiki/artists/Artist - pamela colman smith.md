@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: smith
+- [[knowledge/wiki/images/The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909) 5c8d2461|The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909)]] — shared language: pamela, colman, smith
 - [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
-- [[knowledge/wiki/images/the temptress by michael s smith 2019 079d24ac|the temptress by michael s smith 2019]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
+- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: smith
 - [[knowledge/wiki/images/the architect s dream by rodney smith 1991 c3d56977|the architect s dream by rodney smith 1991]] — shared language: smith
-- [[knowledge/wiki/images/mural for the apple boutique by the fool 1967 d3a775fc|mural for the apple boutique by the fool 1967]] — shared language: fool
+- [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
 <!-- vault-crosslinks:end -->

@@ -13,6 +13,7 @@ This note exists because generated pages linked this spelling or alias. The rich
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: kawase, husui, place
 - [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
@@ -20,5 +21,4 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[knowledge/wiki/images/90 0add3cc5|90]] — shared language: husui, kawase
 - [[knowledge/wiki/images/90 2 a2324944|90 2]] — shared language: husui, kawase
 - [[knowledge/wiki/images/90 3 05d90ab5|90 3]] — shared language: husui, kawase
-- [[knowledge/wiki/images/90 4 9c3526f8|90 4]] — shared language: husui, kawase
 <!-- vault-crosslinks:end -->

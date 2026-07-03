@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
 - [[knowledge/wiki/images/the fortune teller by gil elvgren 1940 e55d4e4d|the fortune teller by gil elvgren 1940]] — shared language: teller
-- [[knowledge/wiki/images/summer solstice 3686b730|summer solstice]] — shared language: summer
+- [[knowledge/wiki/images/The Red Summer (2017) 1cf9af1d|The Red Summer (2017)]] — shared language: summer
 - [[knowledge/wiki/artists/Artist - gil elvgren|Artist - gil elvgren]] — shared language: teller
 - [[knowledge/wiki/images/photograph of bias cutting spring summer 1986 by peter lindbergh 1986 d06ac267|photograph of bias cutting spring summer 1986 by peter lindbergh 1986]] — shared language: spring, summer
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: summer

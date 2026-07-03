@@ -27,9 +27,9 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
+- [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: ferrari, mark
+- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: ferrari
 - [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: ferrari
 - [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: ferrari
-- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: ferrari
-- [[knowledge/wiki/images/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark francis|Artist - mark francis]] — shared language: mark
+- [[knowledge/wiki/images/Illustration Animated Pixel Art Landscape with Pond, Trees, and Mountains by Mark Ferrari ef4ba5ed|Illustration Animated Pixel Art Landscape with Pond, Trees, and Mountains by Mark Ferrari]] — shared language: ferrari, mark
 <!-- vault-crosslinks:end -->

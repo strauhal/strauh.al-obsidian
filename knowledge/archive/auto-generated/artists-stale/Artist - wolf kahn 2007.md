@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - wolf kahn|Artist - wolf kahn]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wolf kahn|Artist - wolf kahn]] — named in this note
 - [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — shared language: wolf
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wolf vostell 1964|Artist - wolf vostell 1964]] — shared language: wolf
+- [[knowledge/wiki/artists/Artist - Ruth Wolf Rehfeldt|Artist - Ruth Wolf Rehfeldt]] — shared language: wolf
+- [[knowledge/wiki/images/Match Made in Wolf Heaven by John Nieto (2011) f4a78011|Match Made in Wolf Heaven by John Nieto (2011)]] — shared language: wolf
 - [[knowledge/wiki/images/one for the road documentation of a happening by wolf vostell 1964 86ae7e6a|one for the road documentation of a happening by wolf vostell 1964]] — shared language: wolf
-- [[knowledge/wiki/images/wolf rehfeldt ruth overall 02 jpg 1440 jpeg 668f4d7e|wolf rehfeldt ruth overall 02 jpg 1440 jpeg]] — shared language: wolf
-- [[knowledge/wiki/images/the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]] — shared language: wolf
 <!-- vault-crosslinks:end -->

@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Buddha the Conqueror by Nicholas Roerich (1925) f3eee492|Buddha the Conqueror by Nicholas Roerich (1925)]] — shared language: roerich, nicholas, buddha
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: nicholas
+- [[knowledge/wiki/artists/Artist - Nicholas Gurewitch|Artist - Nicholas Gurewitch]] — shared language: nicholas
 - [[knowledge/wiki/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]] — shared language: nicholas
 - [[knowledge/wiki/artists/Artist - hilda rix nicholas|Artist - hilda rix nicholas]] — shared language: nicholas
 - [[knowledge/wiki/images/the market granada by hilda rix nicholas 1920 bba0e4d2|the market granada by hilda rix nicholas 1920]] — shared language: nicholas
-- [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — shared language: nicholas
-- [[knowledge/wiki/images/the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446 203038c9|the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446]] — shared language: nicholas
 <!-- vault-crosslinks:end -->

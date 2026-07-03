@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ivan kramskoi|Artist - ivan kramskoi]] — named in this note
 - [[knowledge/wiki/artists/Artist - ivan aivazovsky|Artist - ivan aivazovsky]] — shared language: ivan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ivan aivazovsky 1868|Artist - ivan aivazovsky 1868]] — shared language: ivan
+- [[knowledge/wiki/images/ivan aivazovsky view of constantinople yeni cami 1899 d5c417b5|ivan aivazovsky view of constantinople yeni cami 1899]] — shared language: ivan
 - [[knowledge/wiki/artists/Artist - ivan shishkin|Artist - ivan shishkin]] — shared language: ivan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ivan shishkin 1890|Artist - ivan shishkin 1890]] — shared language: ivan
-- [[knowledge/wiki/artists/Artist - ivan rehak|Artist - ivan rehak]] — shared language: ivan
 <!-- vault-crosslinks:end -->

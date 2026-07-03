@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Rosa Luxemburg 09142379|Rosa Luxemburg]] — shared language: rosa
+- [[knowledge/wiki/images/Photograph Portrait of Rosa Luxemburg eb7f7544|Photograph Portrait of Rosa Luxemburg]] — shared language: rosa
+- [[knowledge/wiki/images/An Eagle by Rosa Bonheur (1870) 15d83cf0|An Eagle by Rosa Bonheur (1870)]] — shared language: rosa
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: rosa
-- [[knowledge/wiki/images/the goldfish bowl by john william waterhouse 1905 7512e631|the goldfish bowl by john william waterhouse 1905]] — shared language: bowl
-- [[knowledge/wiki/images/still life with vases bowl and blue bottle 9f269b06|still life with vases bowl and blue bottle]] — shared language: bowl
-- [[knowledge/wiki/images/still life with white bottles bowl and blue vessel 6eac905d|still life with white bottles bowl and blue vessel]] — shared language: bowl
-- [[knowledge/wiki/images/portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913 1eca5363|portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913]] — shared language: bowl
+- [[knowledge/wiki/images/Diogenes by John William Waterhouse (1882) e26c4a9b|Diogenes by John William Waterhouse (1882)]] — shared language: diogenes
+- [[knowledge/wiki/images/Illustration Still Life Painting of Bottles and a Bowl 816df707|Illustration Still Life Painting of Bottles and a Bowl]] — shared language: bowl
+- [[knowledge/wiki/images/Photograph Seagull Drinking From 'Dogs Only' Water Bowl 09c70e5a|Photograph Seagull Drinking From 'Dogs Only' Water Bowl]] — shared language: bowl
 <!-- vault-crosslinks:end -->

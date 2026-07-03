@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - eduard gaertner|Artist - eduard gaertner]] — named in this note
 - [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note
+- [[knowledge/wiki/images/Mural para la f brica Tirel by Eduard Arranz, Bravo Rafael (1971) c8b27ab3|Mural para la f brica Tirel by Eduard Arranz, Bravo Rafael (1971)]] — shared language: eduard
 - [[knowledge/wiki/images/a r penck die rothschildgiraffe 1978 87df1674|a r penck die rothschildgiraffe 1978]] — shared language: die
 - [[knowledge/wiki/images/street berlin by ernst ludwig kirchner 1913 2797feb2|street berlin by ernst ludwig kirchner 1913]] — shared language: berlin
-- [[knowledge/wiki/images/ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg e31f1a9f|ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg]] — shared language: die
-- [[knowledge/wiki/images/gustav klimt die jungfrau the virgin c 1913 ef1ce3a0|gustav klimt die jungfrau the virgin c 1913]] — shared language: die
+- [[knowledge/wiki/images/Photograph Close Up View of a Colorful Microchip Die 5a6b3d0d|Photograph Close Up View of a Colorful Microchip Die]] — shared language: die
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - aminah robinson|Artist - aminah robinson]] — shared language: robinson
 - [[knowledge/wiki/artists/Artist - theodore ralli|Artist - theodore ralli]] — shared language: theodore
 - [[knowledge/wiki/artists/Artist - theodore chasseriau|Artist - theodore chasseriau]] — shared language: theodore
-- [[knowledge/wiki/images/theodore roosevelt portrait detail e4985dcf|theodore roosevelt portrait detail]] — shared language: theodore
 - [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: robinson
-- [[knowledge/wiki/images/theodore roosevelt detail jpg 0335826d|theodore roosevelt detail jpg]] — shared language: theodore
+- [[knowledge/wiki/images/the veiled woman by theodore ralli 1884 e5e6dcf8|the veiled woman by theodore ralli 1884]] — shared language: theodore
+- [[knowledge/wiki/images/martin luther king jr i have a dream by aminah robinson 1996 239c6346|martin luther king jr i have a dream by aminah robinson 1996]] — shared language: robinson
 <!-- vault-crosslinks:end -->

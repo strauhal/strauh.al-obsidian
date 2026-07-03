@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
-- [[knowledge/wiki/images/painting of feet in a bathtub under a running faucet 8b5282be|painting of feet in a bathtub under a running faucet]] — shared language: running
-- [[knowledge/wiki/images/photograph of detained men on dirt mounds in a war damaged city 54067047|photograph of detained men on dirt mounds in a war damaged city]] — shared language: men
-- [[knowledge/wiki/images/watercolor illustration of two men rowing a shell f72689da|watercolor illustration of two men rowing a shell]] — shared language: men
-- [[knowledge/wiki/images/framed black and white group portrait of men in suits 478bf54d|framed black and white group portrait of men in suits]] — shared language: men
-- [[knowledge/wiki/images/pen and ink illustration of a man running from a large grotesque creature d61b01e9|pen and ink illustration of a man running from a large grotesque creature]] — shared language: running
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Soldiers Running Through Smoke a2fa9512|Photograph Black and White Photograph of Soldiers Running Through Smoke]] — shared language: running
+- [[knowledge/wiki/images/Illustration Feet In Bathtub With Running Water 03b309f0|Illustration Feet In Bathtub With Running Water]] — shared language: running
+- [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: running
+- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: running
+- [[knowledge/wiki/images/Photograph Two Men Working On Large Map On Floor 824f2004|Photograph Two Men Working On Large Map On Floor]] — shared language: men
+- [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: men
 <!-- vault-crosslinks:end -->

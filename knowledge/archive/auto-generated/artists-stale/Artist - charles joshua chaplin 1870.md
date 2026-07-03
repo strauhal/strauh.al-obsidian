@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - charles joshua chaplin|Artist - charles joshua chaplin]] — named in this note
+- [[knowledge/wiki/images/The Dive by Joshua Budich (2022) e4a3ae5b|The Dive by Joshua Budich (2022)]] — shared language: joshua
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - sir joshua reynolds|Artist - sir joshua reynolds]] — shared language: joshua
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/images/the misses paine by sir joshua reynolds c 1765 46a720b5|the misses paine by sir joshua reynolds c 1765]] — shared language: joshua
-- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
 <!-- vault-crosslinks:end -->

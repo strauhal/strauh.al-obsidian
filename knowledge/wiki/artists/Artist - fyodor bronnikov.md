@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
 - [[knowledge/wiki/images/self portrait by fyodor shurpin 1950 474cf60c|self portrait by fyodor shurpin 1950]] — shared language: fyodor
 - [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: fyodor
-- [[knowledge/wiki/images/pixel art illustration of a skeletal demon and a haloed figure 80302129|pixel art illustration of a skeletal demon and a haloed figure]] — shared language: demon
-- [[knowledge/wiki/images/black and white illustration of a man scattering beans over a crouching demon f031b937|black and white illustration of a man scattering beans over a crouching demon]] — shared language: demon
+- [[knowledge/wiki/images/Illustration Two Pixelated Demon Figures Operating a Control Panel 86d77997|Illustration Two Pixelated Demon Figures Operating a Control Panel]] — shared language: demon
+- [[knowledge/wiki/images/Illustration Pixel Art of Skeletal Demon and Haloed Figure 338b7f04|Illustration Pixel Art of Skeletal Demon and Haloed Figure]] — shared language: demon
 <!-- vault-crosslinks:end -->

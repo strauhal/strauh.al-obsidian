@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: kooning, willem
 - [[knowledge/wiki/images/woman i by willem de kooning 195052 91bd517a|woman i by willem de kooning 195052]] — shared language: kooning, willem
 - [[knowledge/wiki/images/self portrait by willem de kooning 1947 e62d82ce|self portrait by willem de kooning 1947]] — shared language: kooning, willem
-- [[knowledge/wiki/artists/Artist - willem de kooning|Artist - willem de kooning]] — shared language: kooning, willem
 - [[knowledge/wiki/images/two women by willem de kooning 1954 f413895c|two women by willem de kooning 1954]] — shared language: kooning, willem
+- [[knowledge/wiki/artists/Artist - willem de kooning|Artist - willem de kooning]] — shared language: kooning, willem
 <!-- vault-crosslinks:end -->

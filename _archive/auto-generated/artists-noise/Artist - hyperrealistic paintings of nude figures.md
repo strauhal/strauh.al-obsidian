@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — named in this note
-- [[knowledge/wiki/artists/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, figures
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: figures
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: paintings
-- [[knowledge/wiki/images/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: nude, figures
-- [[knowledge/wiki/images/sanguine drawing of two nude male figures 4e30dd56|sanguine drawing of two nude male figures]] — shared language: nude, figures
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
+- [[knowledge/wiki/images/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
+- [[knowledge/archive/auto-generated/anchors-stale/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude
+- [[knowledge/wiki/images/Photograph Photograph of two paintings featuring figures in red rooms e53637cd|Photograph Photograph of two paintings featuring figures in red rooms]] — shared language: paintings, featuring
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude
+- [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/artists/Artist - konstantin manizer|Artist - konstantin manizer]] — shared language: konstantin
 - [[knowledge/wiki/artists/Artist - konstantin somov|Artist - konstantin somov]] — shared language: konstantin
 - [[knowledge/wiki/images/at the window by konstantin korovin 1913 67672264|at the window by konstantin korovin 1913]] — shared language: konstantin
-- [[knowledge/wiki/images/the messenger by konstantin somov 1907 4fd96c6d|the messenger by konstantin somov 1907]] — shared language: konstantin
+- [[knowledge/wiki/images/red square by konstantin yuon 1926 ed57420d|red square by konstantin yuon 1926]] — shared language: konstantin
 <!-- vault-crosslinks:end -->

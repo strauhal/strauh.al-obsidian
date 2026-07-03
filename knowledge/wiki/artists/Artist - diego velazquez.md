@@ -22,5 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - diego rivera|Artist - diego rivera]] — shared language: diego
 - [[knowledge/wiki/images/man controller of the universe by diego rivera 1934 0e0900a3|man controller of the universe by diego rivera 1934]] — shared language: diego
+- [[knowledge/wiki/images/Ni a con Fruta by Diego Rivera (1943) 98d56567|Ni a con Fruta by Diego Rivera (1943)]] — shared language: diego
+- [[knowledge/wiki/images/Dos Mujeres (Two Women) by Diego Rivera (1926) e5bcb188|Dos Mujeres (Two Women) by Diego Rivera (1926)]] — shared language: diego
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: juan
 <!-- vault-crosslinks:end -->

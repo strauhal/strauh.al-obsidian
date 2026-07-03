@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Mein Kampf- The Original, Accurate, and Complete English -- Adolf Hitler -- 1, 2017-04-30 -- HijezGlobal press -- 9781544835952 -- f27c83b0dd41cbd1625b76d358107a22 -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Mein Kampf- The Original, Accurate, and Complete English

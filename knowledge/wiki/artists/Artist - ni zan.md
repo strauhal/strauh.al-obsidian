@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: zan, junzi, gentlemen
-- [[knowledge/wiki/artists/Artist - ni zan late yuan early ming dynasty|Artist - ni zan late yuan early ming dynasty]] — shared language: zan
-- [[knowledge/wiki/images/remote stream and cold pines by ni zan late yuan early ming dynasty acc3532a|remote stream and cold pines by ni zan late yuan early ming dynasty]] — shared language: zan
-- [[knowledge/wiki/artists/Artist - liu ye|Artist - liu ye]] — shared language: liu
-- [[knowledge/wiki/images/the man on the sofa by liu ye 2003 926e1ae3|the man on the sofa by liu ye 2003]] — shared language: liu
+- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: zan
+- [[knowledge/wiki/images/The Man on the Sofa by Liu Ye (2003) 776f8d48|The Man on the Sofa by Liu Ye (2003)]] — shared language: liu
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — shared language: liu
+- [[knowledge/wiki/artists/Artist - liu haisu|Artist - liu haisu]] — shared language: liu
+- [[knowledge/wiki/images/the waitress by liu xiaodong 1994 f0ce6cc5|the waitress by liu xiaodong 1994]] — shared language: liu
 <!-- vault-crosslinks:end -->

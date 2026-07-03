@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - yutaka izubuchi|Artist - yutaka izubuchi]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - yun shouping qing dynasty|Artist - yun shouping qing dynasty]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
+- [[knowledge/wiki/images/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
+- [[knowledge/wiki/artists/Artist - Jeanloup Sieff|Artist - Jeanloup Sieff]] — shared language: yves
 <!-- vault-crosslinks:end -->

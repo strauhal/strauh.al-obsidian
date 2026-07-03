@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/peter-weir|Peter Weir]] — shared language: peter, wikilink, merge
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
+- [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 <!-- vault-crosslinks:end -->

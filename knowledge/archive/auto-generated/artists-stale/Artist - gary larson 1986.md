@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1982|Artist - gary larson 1982]] — named in this note
 - [[knowledge/wiki/images/cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]] — shared language: larson, gary
 - [[knowledge/wiki/images/tool cows by gary larson 1982 ab263c9d|tool cows by gary larson 1982]] — shared language: larson, gary
-- [[knowledge/wiki/artists/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson 2018|Artist - jeffrey t larson 2018]] — shared language: larson
 <!-- vault-crosslinks:end -->

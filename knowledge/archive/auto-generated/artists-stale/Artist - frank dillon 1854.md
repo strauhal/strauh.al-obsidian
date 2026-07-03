@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frank dillon|Artist - frank dillon]] — named in this note
-- [[knowledge/wiki/images/the house of the mufti sheikh el mahadi in cairo by frank dillon 951f86af|the house of the mufti sheikh el mahadi in cairo by frank dillon]] — shared language: dillon, frank, mufti
+- [[_archive/auto-generated/images-stale/the house of the mufti sheikh el mahadi in cairo by frank dillon 951f86af|the house of the mufti sheikh el mahadi in cairo by frank dillon]] — shared language: dillon, frank, mufti
 - [[knowledge/wiki/artists/Artist - steve dillon|Artist - steve dillon]] — shared language: dillon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - steve dillon 1986|Artist - steve dillon 1986]] — shared language: dillon
 - [[knowledge/wiki/images/the art robot by steve dillon 1986 f6be644b|the art robot by steve dillon 1986]] — shared language: dillon

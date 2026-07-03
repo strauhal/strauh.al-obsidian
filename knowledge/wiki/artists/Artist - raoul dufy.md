@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Od on by Raoul Dufy (1920) ce7bf4f0|Od on by Raoul Dufy (1920)]] — named in this note
+- [[knowledge/wiki/images/Le Bal by Raoul Dufy (1906) d7c0fc69|Le Bal by Raoul Dufy (1906)]] — shared language: raoul, dufy
+- [[knowledge/wiki/images/Anemones by Raoul Dufy (1956) be55cbe2|Anemones by Raoul Dufy (1956)]] — shared language: raoul, dufy
+- [[knowledge/wiki/images/The Artist's Studio by Raoul Dufy (1935) 4af52f46|The Artist's Studio by Raoul Dufy (1935)]] — shared language: raoul, dufy
 - [[knowledge/wiki/artists/Artist - jean dufy|Artist - jean dufy]] — shared language: dufy
 - [[knowledge/wiki/images/place vendome by jean dufy 1928 a28fa90f|place vendome by jean dufy 1928]] — shared language: dufy
-- [[knowledge/wiki/images/portrait of madame raoul rochette by jean auguste dominique ingres 1830 f03b6f29|portrait of madame raoul rochette by jean auguste dominique ingres 1830]] — shared language: raoul
-- [[knowledge/wiki/images/river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]] — shared language: rouge
-- [[knowledge/wiki/images/the concert by pavel tchelitchew 1930 69117120|the concert by pavel tchelitchew 1930]] — shared language: concert
-- [[knowledge/wiki/artists/Artist - jean auguste dominique ingres|Artist - jean auguste dominique ingres]] — shared language: raoul
 <!-- vault-crosslinks:end -->

@@ -32,9 +32,9 @@ gut-reaction before you can name it.
 - [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus, diary
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: painter, without, things
 - [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
-- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school, father, whose
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: whose, elegance, spontaneity
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, painter, elegance
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: got, diary, summary
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative, elegance, spontaneity
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: diary, painter, things
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 <!-- vault-crosslinks:end -->

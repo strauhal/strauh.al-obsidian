@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
 - [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
 - [[knowledge/wiki/artists/Artist - georges seurat|Artist - georges seurat]] — shared language: georges
-- [[knowledge/wiki/images/l atelier by jean georges vibert 1880 cd2f1127|l atelier by jean georges vibert 1880]] — shared language: georges
-- [[knowledge/wiki/artists/Artist - georges vanden eycken|Artist - georges vanden eycken]] — shared language: georges
+- [[knowledge/wiki/images/Man with a Guitar by Georges Braque (1911 1912) 12a887c2|Man with a Guitar by Georges Braque (1911 1912)]] — shared language: georges
+- [[knowledge/wiki/images/lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]] — shared language: georges
 <!-- vault-crosslinks:end -->

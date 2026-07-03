@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - oda kazuma|Artist - oda kazuma]] — named in this note
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: oda
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mayumi oda 1972|Artist - mayumi oda 1972]] — shared language: oda
+- [[knowledge/wiki/artists/Artist - Eiichiro Oda|Artist - Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: oda
-- [[knowledge/wiki/artists/Artist - trees|Artist - trees]] — shared language: trees
-- [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: moonlight
+- [[knowledge/wiki/images/Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda 481af4d9|Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda]] — shared language: oda
 <!-- vault-crosslinks:end -->

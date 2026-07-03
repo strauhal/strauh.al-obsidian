@@ -1,0 +1,35 @@
+---
+title: "Hill Climber by Vulfpeck (2018)"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Hill Climber by Vulfpeck (2018).jpg"
+source_relpath: "2000s/Hill Climber by Vulfpeck (2018).jpg"
+collection: "2000s"
+inferred_year: "2018"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Hill Climber by Vulfpeck (2018)
+
+![[media/strauh.al3.1/2000s/Hill Climber by Vulfpeck (2018).jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Hill Climber by Vulfpeck (2018).jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Hill Climber by Vulfpeck (2018).jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/The Colosseum Seen from the Palatine Hill by Julius Zielke (c. 1870) 28312145|The Colosseum Seen from the Palatine Hill by Julius Zielke (c. 1870)]] — shared language: hill
+- [[knowledge/wiki/images/Illustration Impasto Painting of a Green Hill and Cloudy Blue Sky ad5a3246|Illustration Impasto Painting of a Green Hill and Cloudy Blue Sky]] — shared language: hill
+- [[knowledge/wiki/images/Illustration Castle on Hill Overlooking River at Sunset b17972f8|Illustration Castle on Hill Overlooking River at Sunset]] — shared language: hill
+- [[knowledge/wiki/images/Potrero Hill by Robert Bechtle (1980) 6531de4c|Potrero Hill by Robert Bechtle (1980)]] — shared language: hill
+- [[knowledge/wiki/images/richard diebenkorn potrero hill 1955 a06cf7f8|richard diebenkorn potrero hill 1955]] — shared language: hill
+<!-- vault-crosslinks:end -->

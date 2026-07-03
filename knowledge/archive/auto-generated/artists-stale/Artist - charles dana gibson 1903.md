@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - charles dana gibson|Artist - charles dana gibson]] — named in this note
 - [[knowledge/wiki/images/the eternal question by charles dana gibson c 1905 581f789e|the eternal question by charles dana gibson c 1905]] — shared language: dana, gibson, charles
+- [[knowledge/wiki/images/Illustration Woman's Head in Front and Profile Views by Charles Dana Gibson e4cb3341|Illustration Woman's Head in Front and Profile Views by Charles Dana Gibson]] — shared language: dana, gibson, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dana schutz 2012|Artist - dana schutz 2012]] — shared language: dana
-- [[knowledge/archive/auto-generated/artists-stale/Artist - dana schutz 2018|Artist - dana schutz 2018]] — shared language: dana
 - [[knowledge/wiki/artists/Artist - dana schutz|Artist - dana schutz]] — shared language: dana
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - dana schutz 2018|Artist - dana schutz 2018]] — shared language: dana
 <!-- vault-crosslinks:end -->

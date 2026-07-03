@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Balthus|Balthus]] — named in this note
 - [[knowledge/wiki/images/balthus b2c34a2c|balthus]] — shared language: balthus
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: balthus
-- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/oil painting of a young girl in hanbok with interwoven ribbon background 171b44b0|oil painting of a young girl in hanbok with interwoven ribbon background]] — shared language: girl, young
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
+- [[knowledge/wiki/images/Illustration Girl With Cat Ears Holding Black Cat With Red Eyes 5d1953cd|Illustration Girl With Cat Ears Holding Black Cat With Red Eyes]] — shared language: cat, girl
+- [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: girl, young
 <!-- vault-crosslinks:end -->

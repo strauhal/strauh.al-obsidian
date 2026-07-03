@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - harmonia rosales|Artist - harmonia rosales]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - harmonia rosales|Artist - harmonia rosales]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - harmonia rosales 2021|Artist - harmonia rosales 2021]] — named in this note
-- [[knowledge/wiki/images/the queen by harmonia rosales 2021 dd9941da|the queen by harmonia rosales 2021]] — shared language: harmonia, rosales
+- [[_archive/auto-generated/images-stale/the queen by harmonia rosales 2021 dd9941da|the queen by harmonia rosales 2021]] — shared language: harmonia, rosales
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - dean cornwell|Artist - dean cornwell]] — named in this note
 - [[knowledge/wiki/images/the brown dress by dean cornwell c 1918 bb350b5b|the brown dress by dean cornwell c 1918]] — shared language: cornwell, dean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 2003|Artist - roger dean 2003]] — shared language: dean
-- [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 1973|Artist - roger dean 1973]] — shared language: dean
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — shared language: dean
+- [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 1973|Artist - roger dean 1973]] — shared language: dean
 - [[knowledge/wiki/images/dean blunt 469c96bf|dean blunt]] — shared language: dean
 <!-- vault-crosslinks:end -->

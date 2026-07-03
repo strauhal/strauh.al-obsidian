@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-grotesque-creature-and-splatter|Artist - a grotesque creature and splatter]] — shared language: splatter, grotesque, creature
-- [[knowledge/wiki/images/digital collage of a grotesque decomposed head on an abstract splatter background e4313c1e|digital collage of a grotesque decomposed head on an abstract splatter background]] — shared language: splatter, grotesque
-- [[knowledge/wiki/images/pen and ink illustration of a man running from a large grotesque creature d61b01e9|pen and ink illustration of a man running from a large grotesque creature]] — shared language: grotesque, creature, ink
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: grotesque, surrounded
-- [[knowledge/wiki/images/engraving of grotesque ornament panel with foliage birds and a winged creature 6d255b09|engraving of grotesque ornament panel with foliage birds and a winged creature]] — shared language: grotesque, creature
+- [[knowledge/wiki/images/Illustration Grotesque Decomposed Head on Abstract Splatter Background 5b2aa000|Illustration Grotesque Decomposed Head on Abstract Splatter Background]] — shared language: splatter, grotesque
+- [[knowledge/wiki/images/Illustration Woman and Grotesque Creature with Ink Splatters d44ed11e|Illustration Woman and Grotesque Creature with Ink Splatters]] — shared language: grotesque, creature, ink
+- [[_archive/auto-generated/images-stale/digital collage of a grotesque decomposed head on an abstract splatter background e4313c1e|digital collage of a grotesque decomposed head on an abstract splatter background]] — shared language: splatter, grotesque
+- [[_archive/auto-generated/images-stale/pen and ink illustration of a man running from a large grotesque creature d61b01e9|pen and ink illustration of a man running from a large grotesque creature]] — shared language: grotesque, creature, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque, ink
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(Cambridge texts in the history of philosophy) Williams, Bernard (ed.) - Nietzsche_ The Gay Science-Cambridge University Press (2001).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Nietzsche The Gay Science-Cambridge University Press
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
-- [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — same category: philosophy
-- [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
+- [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — same category: philosophy
+- [[knowledge/wiki/books/friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] — same category: philosophy
 - [[knowledge/wiki/books/alexandre-koja-ve-allan-bloom-james-h-nichols-introduction-to-the-reading-of-hegel-lectures-on-the-phenomenology-of-spirit-cornell-universit|Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press]] — same category: philosophy
 <!-- vault-crosslinks:end -->

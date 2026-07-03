@@ -38,11 +38,11 @@ Files: 6
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/artists/Artist - cao zhibai|Artist - cao zhibai]] — shared language: zhibai, cao, sparse
+- [[knowledge/wiki/artists/Artist - cao zhibai|Artist - cao zhibai]] — shared language: zhibai, cao, secluded
 - [[knowledge/wiki/artists/Artist - wang meng|Artist - wang meng]] — shared language: meng, wang, dwelling
 - [[knowledge/wiki/artists/Artist - ni zan|Artist - ni zan]] — shared language: zan, junzi, gentlemen
 - [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — shared language: mengfu, zhao, shuicun
 - [[knowledge/wiki/artists/Artist - ke jiusi|Artist - ke jiusi]] — shared language: jiusi, qingbige, bamboo
-- [[knowledge/wiki/images/ink and color landscape painting of mountains water and a village with terraced fields 58926bd9|ink and color landscape painting of mountains water and a village with terraced fields]] — shared language: village, mountains, water
-- [[knowledge/wiki/artists/Artist - wang meng yuan dynasty|Artist - wang meng yuan dynasty]] — shared language: meng, wang
+- [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: zhao, gentlemen
+- [[knowledge/wiki/images/Illustration Stylized Village Scene With Church And Mountains 33c70dca|Illustration Stylized Village Scene With Church And Mountains]] — shared language: village, mountains
 <!-- vault-crosslinks:end -->

@@ -1,0 +1,33 @@
+---
+title: "photograph of a dramatic orange and red sunset over a suburban street with a snow capped mountain visible above the houses"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg"
+source_relpath: "2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "1536x2048"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# photograph of a dramatic orange and red sunset over a suburban street with a snow capped mountain visible above the houses
+
+![[media/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/photograph_of_a_dramatic_orange_and_red_sunset_over_a_suburban_street_with_a_snow_capped_mountain_visible_above_the_houses.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Photograph Dramatic Orange And Red Sunset Over Suburban Street With Mountain dc71b162|Photograph Dramatic Orange And Red Sunset Over Suburban Street With Mountain]] — shared language: dramatic, suburban, mountain
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: suburban, street, above
+- [[knowledge/wiki/images/Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections e04fb73f|Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections]] — shared language: capped, snow, mountain
+- [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, houses
+- [[_archive/auto-generated/images-stale/photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset 1884128e|photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset]] — shared language: capped, snow, sunset
+<!-- vault-crosslinks:end -->

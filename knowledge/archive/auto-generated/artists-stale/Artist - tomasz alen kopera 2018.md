@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tomasz alen kopera|Artist - tomasz alen kopera]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz alen kopera|Artist - tomasz alen kopera]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz alen kopera 2008|Artist - tomasz alen kopera 2008]] — named in this note
-- [[knowledge/wiki/images/the dinner by tomasz alen kopera 2008 b01152f9|the dinner by tomasz alen kopera 2008]] — shared language: alen, kopera, tomasz
-- [[knowledge/wiki/artists/Artist - tomasz wiech|Artist - tomasz wiech]] — shared language: tomasz
+- [[_archive/auto-generated/images-stale/the dinner by tomasz alen kopera 2008 b01152f9|the dinner by tomasz alen kopera 2008]] — shared language: alen, kopera, tomasz
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz wiech|Artist - tomasz wiech]] — shared language: tomasz
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz wiech 2013|Artist - tomasz wiech 2013]] — shared language: tomasz
-- [[knowledge/wiki/images/krakow poland by tomasz wiech 2013 ef40212d|krakow poland by tomasz wiech 2013]] — shared language: tomasz
+- [[_archive/auto-generated/images-stale/krakow poland by tomasz wiech 2013 ef40212d|krakow poland by tomasz wiech 2013]] — shared language: tomasz
 <!-- vault-crosslinks:end -->

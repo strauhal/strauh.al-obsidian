@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - yukio mishima|Artist - yukio mishima]] — named in this note
 - [[knowledge/wiki/books/yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]] — shared language: yukio, mishima
-- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug 2016|Artist - young thug 2016]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug|Artist - young thug]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

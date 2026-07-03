@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david douglas duncan|Artist - david douglas duncan]] — named in this note
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
-- [[knowledge/wiki/artists/Artist - william fettes douglas|Artist - william fettes douglas]] — shared language: douglas
-- [[knowledge/wiki/artists/Artist - hugh douglas hamilton|Artist - hugh douglas hamilton]] — shared language: douglas
-- [[knowledge/wiki/images/the alchemist by william fettes douglas 1855 7f98c27c|the alchemist by william fettes douglas 1855]] — shared language: douglas
+- [[knowledge/wiki/images/The Sword of Light by John Duncan (1910) e59ba9d5|The Sword of Light by John Duncan (1910)]] — shared language: duncan
+- [[knowledge/wiki/artists/Artist - Douglas Rushkoff|Artist - Douglas Rushkoff]] — shared language: douglas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - william fettes douglas|Artist - william fettes douglas]] — shared language: douglas
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - ann mika|Artist - ann mika]] — named in this note
-- [[knowledge/wiki/images/street fighter zero 3 playstation disc art featuring r mika 1998 00f1c619|street fighter zero 3 playstation disc art featuring r mika 1998]] — shared language: mika
+- [[knowledge/wiki/images/Egg Chair Siamese by Ann Mika (2010) 0df405f4|Egg Chair Siamese by Ann Mika (2010)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ann mika|Artist - ann mika]] — named in this note
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: ann
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — shared language: ann
-- [[knowledge/wiki/images/egg by yoshitaka amano 1990 e7f49edc|egg by yoshitaka amano 1990]] — shared language: egg
-- [[knowledge/wiki/images/framed portrait of a man in a black coat with red chair d1a3ea8d|framed portrait of a man in a black coat with red chair]] — shared language: chair
+- [[knowledge/wiki/images/street fighter zero 3 playstation disc art featuring r mika 1998 00f1c619|street fighter zero 3 playstation disc art featuring r mika 1998]] — shared language: mika
+- [[knowledge/wiki/images/Illustration Sperm Being Injected Into An Egg Cell 66cc47a7|Illustration Sperm Being Injected Into An Egg Cell]] — shared language: egg
 <!-- vault-crosslinks:end -->

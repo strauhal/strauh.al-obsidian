@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - liam brazier|Artist - liam brazier]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - liam brazier|Artist - liam brazier]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - li keran 1947|Artist - li keran 1947]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - lillian schwartz 1971|Artist - lillian schwartz 1971]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - li cheng|Artist - li cheng]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

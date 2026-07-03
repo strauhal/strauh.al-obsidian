@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/hamilton 6a10ec6f|hamilton]] — named in this note
-- [[knowledge/wiki/artists/Artist - william fettes douglas|Artist - william fettes douglas]] — shared language: douglas
+- [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: hugh
+- [[knowledge/wiki/artists/Artist - Douglas Rushkoff|Artist - Douglas Rushkoff]] — shared language: douglas
 - [[knowledge/wiki/artists/Artist - david douglas duncan|Artist - david douglas duncan]] — shared language: douglas
-- [[knowledge/wiki/images/the alchemist by william fettes douglas 1855 7f98c27c|the alchemist by william fettes douglas 1855]] — shared language: douglas
-- [[knowledge/wiki/books/douglas-rushkoff-present-shock-when-everything-happens-now-current-hardcover|Present Shock When Everything Happens Now-Current Hardcover]] — shared language: douglas
-- [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: douglas
+- [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: douglas
+- [[knowledge/wiki/images/The Alchemist by William Fettes Douglas (1855) 38c02775|The Alchemist by William Fettes Douglas (1855)]] — shared language: douglas
 <!-- vault-crosslinks:end -->

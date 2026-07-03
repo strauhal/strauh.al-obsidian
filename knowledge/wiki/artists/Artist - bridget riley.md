@@ -21,8 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/bridget riley astarte 1964 290b0305|bridget riley astarte 1964]] — shared language: bridget, riley
+- [[knowledge/wiki/images/Fall by Bridget Riley (1963) 1766d1e3|Fall by Bridget Riley (1963)]] — shared language: bridget, riley
 - [[knowledge/wiki/images/terry riley da601e64|terry riley]] — shared language: riley
-- [[knowledge/wiki/images/illuminated manuscript fragment with initial e musical notation and red staff lines c1f60739|illuminated manuscript fragment with initial e musical notation and red staff lines]] — shared language: fragment
+- [[knowledge/wiki/images/Steve Reich Terry Riley (2019) e75b1ec2|Steve Reich Terry Riley (2019)]] — shared language: riley
+- [[knowledge/wiki/images/Document Illuminated Manuscript Fragment with Initial E and Musical Notation dab19ee4|Document Illuminated Manuscript Fragment with Initial E and Musical Notation]] — shared language: fragment
 - [[knowledge/wiki/collections/Collection - influences|Collection - influences]] — shared language: riley
-- [[knowledge/wiki/chatgpt/Memory Summary|ChatGPT Memory Summary]] — shared language: riley
 <!-- vault-crosslinks:end -->

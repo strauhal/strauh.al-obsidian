@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-window-titled-apollo-17-mission-summary|Artist - a window titled apollo 17 mission summary]] — shared language: mission, apollo, titled
-- [[knowledge/wiki/images/photograph of a vintage apple macintosh portable computer displaying the classic operating system interface c45b4495|photograph of a vintage apple macintosh portable computer displaying the classic operating system interface]] — shared language: classic, operating, displaying
-- [[knowledge/wiki/images/apollo playing the violin by michelangelo buonarroti c 15301535 7f8f4d1a|apollo playing the violin by michelangelo buonarroti c 15301535]] — shared language: apollo
-- [[knowledge/wiki/images/apollo and hyacinth by gustave moreau 1855 3839bfc1|apollo and hyacinth by gustave moreau 1855]] — shared language: apollo
-- [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: window
-- [[knowledge/wiki/images/jacqueslouis david apollo and diana attacking the niobids 1772 ec1fb58e|jacqueslouis david apollo and diana attacking the niobids 1772]] — shared language: apollo
+- [[knowledge/wiki/images/Screenshot Black And White Macintosh Screenshot Showing Moon And Apollo Mission Summary d9a977f9|Screenshot Black And White Macintosh Screenshot Showing Moon And Apollo Mission Summary]] — shared language: mission, apollo, summary
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: summary
+- [[knowledge/wiki/images/Illustration Abstract Painting of Figures in Sombreros Near a Mission Building 831daa7f|Illustration Abstract Painting of Figures in Sombreros Near a Mission Building]] — shared language: mission
+- [[knowledge/wiki/images/Mission Bay Lights by Adam Forfang (2024) a2487117|Mission Bay Lights by Adam Forfang (2024)]] — shared language: mission
 <!-- vault-crosslinks:end -->

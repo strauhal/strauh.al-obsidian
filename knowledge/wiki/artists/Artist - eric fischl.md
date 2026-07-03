@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - eric boyer|Artist - eric boyer]] — shared language: eric
+- [[knowledge/wiki/images/The Raft by Eric Fischl (1982) 9c5eb325|The Raft by Eric Fischl (1982)]] — shared language: fischl, eric
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-b-rakim|Eric B. & Rakim]] — shared language: eric
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: eric
-- [[knowledge/wiki/images/female torso by eric boyer 6561ee08|female torso by eric boyer]] — shared language: eric
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: eric
+- [[knowledge/wiki/images/Photograph Discarded Striped Mattress With Graffiti 'Nothing Really Mattress' 38a1a582|Photograph Discarded Striped Mattress With Graffiti 'Nothing Really Mattress']] — shared language: mattress
 <!-- vault-crosslinks:end -->

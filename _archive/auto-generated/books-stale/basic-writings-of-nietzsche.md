@@ -41,6 +41,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — same category: philosophy
 - [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
-- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
 - [[_archive/auto-generated/books-stale/foucault-the-history-of-sexuality-volume-1|foucault-the-history-of-sexuality-volume-1]] — same category: philosophy
+- [[_archive/auto-generated/books-stale/foucault-the-history-of-sexuality-volume-2|foucault-the-history-of-sexuality-volume-2]] — same category: philosophy
 <!-- vault-crosslinks:end -->

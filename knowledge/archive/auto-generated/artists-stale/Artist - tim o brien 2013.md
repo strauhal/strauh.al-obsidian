@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tim o brien|Artist - tim o brien]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tim o brien|Artist - tim o brien]] — named in this note
+- [[knowledge/wiki/images/Haunt Me, Haunt Me Do It Again by Tim Hecker (2001) baf1d740|Haunt Me, Haunt Me Do It Again by Tim Hecker (2001)]] — shared language: tim
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: tim
 - [[knowledge/wiki/books/tim-hecker-tim-hecker-thesis|Tim Hecker — Thesis]] — shared language: tim
 - [[_archive/auto-generated/books-stale/tim-hecker-thesis|tim hecker thesis]] — shared language: tim
 - [[knowledge/wiki/artists/Artist - tim kirk|Artist - tim kirk]] — shared language: tim
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tim kirk 1975|Artist - tim kirk 1975]] — shared language: tim
 <!-- vault-crosslinks:end -->

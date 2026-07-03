@@ -1,12 +1,12 @@
 ---
 title: "IMG 2761"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/escher/IMG_2761.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/escher/IMG_2761.jpeg"
 source_relpath: "artists/escher/IMG_2761.jpeg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/escher/IMG_2761.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/escher/IMG_2761.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/escher/IMG_2761.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

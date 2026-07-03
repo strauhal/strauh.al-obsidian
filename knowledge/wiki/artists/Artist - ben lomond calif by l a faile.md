@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: ben
-- [[knowledge/wiki/images/ben frost 4 jpg 57558bc3|ben frost 4 jpg]] — shared language: ben
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — shared language: ben
 - [[knowledge/wiki/images/1937 painting by ben nicholson 1937 cdf577e5|1937 painting by ben nicholson 1937]] — shared language: ben
 <!-- vault-crosslinks:end -->

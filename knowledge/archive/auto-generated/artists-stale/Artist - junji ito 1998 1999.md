@@ -25,7 +25,7 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1987|Artist - junji ito 1987]] — shared language: junji, ito
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito
+- [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 2002|Artist - junji ito 2002]] — shared language: junji, ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1988|Artist - junji ito 1988]] — shared language: junji, ito
 - [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — shared language: junji, ito

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hiroo isono|Artist - hiroo isono]] — named in this note
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
-- [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — shared language: art
-- [[_archive/auto-generated/books-stale/zen-the-art-of-macintosh1986|Zen the Art of Macintosh1986]] — shared language: art
+- [[knowledge/wiki/artists/Artist - Hiro Isono|Artist - Hiro Isono]] — shared language: isono
+- [[knowledge/wiki/images/Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono 91279c5b|Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono]] — shared language: isono
+- [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[_archive/auto-generated/images-stale/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: cover
 <!-- vault-crosslinks:end -->

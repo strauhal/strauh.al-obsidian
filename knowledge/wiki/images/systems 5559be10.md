@@ -1,12 +1,12 @@
 ---
 title: "systems"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/systems.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/systems.jpg"
 source_relpath: "diary/systems.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "6427x5994"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/systems.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/systems.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/systems.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

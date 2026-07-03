@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/piano|piano]] — named in this note
-- [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: interior, room
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
-- [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: interior
-- [[knowledge/wiki/images/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: interior, woman
-- [[knowledge/wiki/images/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: interior, woman
+- [[knowledge/wiki/images/Interior with a Woman at a Piano by Vilhelm Hammersh i (1904) 8ec0d256|Interior with a Woman at a Piano by Vilhelm Hammersh i (1904)]] — shared language: vilhelm, interior, piano
+- [[knowledge/wiki/images/Woman at the Piano by Vilhelm Hammersh i (1901) 3123e003|Woman at the Piano by Vilhelm Hammersh i (1901)]] — shared language: vilhelm, piano
+- [[knowledge/wiki/images/Interior with a Woman Sitting at a Table by Vilhelm Hammersh i (1903) 0fc357de|Interior with a Woman Sitting at a Table by Vilhelm Hammersh i (1903)]] — shared language: vilhelm, interior
+- [[knowledge/wiki/images/Interior with a Woman Seen from the Back by Vilhelm Hammersh i (1904) 8498794f|Interior with a Woman Seen from the Back by Vilhelm Hammersh i (1904)]] — shared language: vilhelm, interior
+- [[knowledge/wiki/images/Interior with a Woman Reading by Lamplight by Vilhelm Hammersh i (1898) c2ee0787|Interior with a Woman Reading by Lamplight by Vilhelm Hammersh i (1898)]] — shared language: vilhelm, interior
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano, music
 <!-- vault-crosslinks:end -->

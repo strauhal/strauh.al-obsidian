@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — shared language: auguste
 - [[knowledge/wiki/artists/Artist - auguste renoir|Artist - auguste renoir]] — shared language: auguste
 - [[knowledge/wiki/artists/Artist - auguste lepere|Artist - auguste lepere]] — shared language: auguste
-- [[knowledge/wiki/artists/Artist - auguste rodin|Artist - auguste rodin]] — shared language: auguste
+- [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: auguste
 - [[knowledge/wiki/artists/Artist - auguste rodin 18861902|Artist - auguste rodin 18861902]] — shared language: auguste
-- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: auguste
+- [[knowledge/wiki/artists/Artist - auguste rodin|Artist - auguste rodin]] — shared language: auguste
 <!-- vault-crosslinks:end -->

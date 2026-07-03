@@ -111,11 +111,11 @@ Files: 43
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: dream
 - [[knowledge/wiki/images/dream 85b838d2|dream]] — shared language: dream
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream, dreams
 - [[knowledge/wiki/pages/dreams|dreams]] — shared language: dream, dreams
-- [[knowledge/wiki/images/booth dream jpg 7f592fab|booth dream jpg]] — shared language: dream
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/artists/Artist - tangerine dream|Artist - tangerine dream]] — shared language: dream
-- [[knowledge/raw/dreams|Dreams Series]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

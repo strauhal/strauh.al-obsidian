@@ -21,8 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - alessandro allori|Artist - alessandro allori]] — named in this note
-- [[knowledge/wiki/images/2560px proudhon children jpg 30a8e3e6|2560px proudhon children jpg]] — shared language: children
-- [[knowledge/wiki/images/black and white photograph of two children playing in water from a fire hydrant 38eecc47|black and white photograph of two children playing in water from a fire hydrant]] — shared language: children
-- [[knowledge/wiki/images/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children
-- [[knowledge/wiki/culture/movie-children-of-men|Watchlist - Children of Men]] — shared language: children
+- [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: children
+- [[_archive/auto-generated/images-stale/2560px proudhon children jpg 30a8e3e6|2560px proudhon children jpg]] — shared language: children
+- [[knowledge/wiki/images/Illustration Two Children And Cats In A Junkyard Setting 5c8646d8|Illustration Two Children And Cats In A Junkyard Setting]] — shared language: children
+- [[_archive/auto-generated/images-stale/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children
+- [[knowledge/wiki/images/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: children
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - greg cagle|Artist - greg cagle]] — named in this note
-- [[knowledge/wiki/artists/Artist - greg overton|Artist - greg overton]] — shared language: greg
-- [[knowledge/wiki/images/black and white dithered drawing of a porsche carrera front view by greg overton 05a2b915|black and white dithered drawing of a porsche carrera front view by greg overton]] — shared language: greg
+- [[knowledge/archive/auto-generated/artists-stale/Artist - greg cagle|Artist - greg cagle]] — named in this note
+- [[knowledge/wiki/artists/Artist - Cagle|Artist - Cagle]] — shared language: cagle
+- [[knowledge/wiki/artists/Artist - G. Cagle|Artist - G. Cagle]] — shared language: cagle, centaur
+- [[knowledge/wiki/images/Illustration Blue Line Drawing of Overlapping Female Figure by Cagle df28cb46|Illustration Blue Line Drawing of Overlapping Female Figure by Cagle]] — shared language: cagle
+- [[knowledge/archive/auto-generated/artists-stale/Artist - greg overton|Artist - Greg Overton]] — shared language: greg
+- [[knowledge/wiki/artists/Artist - Greg Girard|Artist - Greg Girard]] — shared language: greg
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: marc, franz
-- [[knowledge/wiki/artists/Artist - marc simonetti|Artist - marc simonetti]] — shared language: marc
-- [[knowledge/wiki/images/the golden city by marc simonetti 2016 5299ced5|the golden city by marc simonetti 2016]] — shared language: marc
+- [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: marc, franz
+- [[knowledge/wiki/images/The Golden City by Marc Simonetti (2016) 2e588854|The Golden City by Marc Simonetti (2016)]] — shared language: marc
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz hanfstaengl|Artist - franz hanfstaengl]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - jean marc nattier|Artist - jean marc nattier]] — shared language: marc
 <!-- vault-crosslinks:end -->

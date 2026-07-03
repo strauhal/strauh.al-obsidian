@@ -38,8 +38,8 @@ Files: 5
 - [[knowledge/wiki/artists/Artist - emperor huizong|Artist - emperor huizong]] — shared language: huizong, emperor, qin
 - [[knowledge/wiki/artists/Artist - wang ximeng|Artist - wang ximeng]] — shared language: ximeng, wang, rivers
 - [[knowledge/wiki/artists/Artist - qiao zhongchang|Artist - qiao zhongchang]] — shared language: qiao, zhongchang, section
-- [[knowledge/wiki/images/the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty ae70836e|the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty]] — shared language: emperor, section, wang
-- [[knowledge/wiki/artists/Artist - emperor huizong northern song dynasty|Artist - emperor huizong northern song dynasty]] — shared language: huizong, emperor
-- [[knowledge/wiki/artists/Artist - wang hui and others qing dynasty|Artist - wang hui and others qing dynasty]] — shared language: wang, emperor, section
+- [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: emperor, section, wang
+- [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: huizong, emperor
 - [[knowledge/wiki/artists/Artist - wang hui|Artist - wang hui]] — shared language: wang, thousand
+- [[knowledge/wiki/images/a thousand peaks and myriad ravines by wang hui 1693 a9213b2e|a thousand peaks and myriad ravines by wang hui 1693]] — shared language: wang, thousand
 <!-- vault-crosslinks:end -->

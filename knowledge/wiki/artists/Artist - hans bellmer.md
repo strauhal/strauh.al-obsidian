@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - hans schaufelein|Artist - hans schaufelein]] — shared language: hans
 - [[knowledge/wiki/artists/Artist - hans namuth|Artist - hans namuth]] — shared language: hans
 - [[knowledge/wiki/images/portrait of a woman by hans holbein the younger 1540 32211d4e|portrait of a woman by hans holbein the younger 1540]] — shared language: hans
-- [[knowledge/wiki/images/portrait of an unknown lady by hans holbein the younger c 1536 89ed20e9|portrait of an unknown lady by hans holbein the younger c 1536]] — shared language: hans
-- [[knowledge/wiki/artists/Artist - hans holbein the younger|Artist - hans holbein the younger]] — shared language: hans
+- [[knowledge/wiki/images/A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900) e4bff0a9|A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900)]] — shared language: hans
+- [[knowledge/wiki/images/The Golden Wall by Hans Hofmann (1961) 50f834a2|The Golden Wall by Hans Hofmann (1961)]] — shared language: hans
 <!-- vault-crosslinks:end -->

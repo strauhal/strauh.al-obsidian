@@ -24,8 +24,8 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1960|Artist - paul jenkins 1960]] — shared language: jenkins, paul, phenomena
-- [[knowledge/wiki/artists/Artist - paul jenkins|Artist - paul jenkins]] — shared language: jenkins, phenomena, paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1973|Artist - paul jenkins 1973]] — shared language: jenkins, paul, phenomena
+- [[knowledge/wiki/artists/Artist - paul jenkins|Artist - paul jenkins]] — shared language: jenkins, phenomena, paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1968|Artist - paul jenkins 1968]] — shared language: jenkins, paul, phenomena
 - [[knowledge/wiki/images/phenomena near the source by paul jenkins 1960 f5cab13b|phenomena near the source by paul jenkins 1960]] — shared language: jenkins, phenomena, paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1966|Artist - paul jenkins 1966]] — shared language: jenkins, paul, phenomena

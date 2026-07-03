@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - eric fischl|Artist - eric fischl]] — named in this note
-- [[knowledge/wiki/artists/Artist - eric boyer|Artist - eric boyer]] — shared language: eric
+- [[knowledge/wiki/images/The Raft by Eric Fischl (1982) 9c5eb325|The Raft by Eric Fischl (1982)]] — shared language: fischl, eric
+- [[knowledge/archive/auto-generated/artists-stale/Artist - eric boyer|Artist - eric boyer]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-b-rakim|Eric B. & Rakim]] — shared language: eric
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: eric
-- [[knowledge/wiki/images/female torso by eric boyer 6561ee08|female torso by eric boyer]] — shared language: eric
+- [[_archive/auto-generated/images-stale/female torso by eric boyer 6561ee08|female torso by eric boyer]] — shared language: eric
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
-- [[knowledge/wiki/artists/Artist - mike harris|Artist - mike harris]] — shared language: mike
-- [[knowledge/wiki/images/mike mearls the dungeon master by ken bastian 2015 750950c4|mike mearls the dungeon master by ken bastian 2015]] — shared language: mike
-- [[knowledge/wiki/images/cartoon of a man holding a briefcase of artwork looking at a banana taped to a wall by mike harris 4f715044|cartoon of a man holding a briefcase of artwork looking at a banana taped to a wall by mike harris]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: mike
+- [[knowledge/wiki/images/Busted (BG 59) by Stanley Mouse and Alton Kelley (1967) d4d99a55|Busted (BG 59) by Stanley Mouse and Alton Kelley (1967)]] — shared language: kelley
+- [[knowledge/wiki/images/Comic Comparison of Young and Experienced Cartoonists by Mike Kelly 8a4bc504|Comic Comparison of Young and Experienced Cartoonists by Mike Kelly]] — shared language: mike
+- [[knowledge/wiki/images/Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris 1ee3a07f|Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris]] — shared language: mike
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: shack
-- [[knowledge/wiki/artists/Artist - ken bastian|Artist - ken bastian]] — shared language: mike
 <!-- vault-crosslinks:end -->

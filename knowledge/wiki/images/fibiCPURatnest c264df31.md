@@ -1,12 +1,12 @@
 ---
 title: "fibiCPURatnest"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/fibiCPURatnest.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/fibiCPURatnest.jpg"
 source_relpath: "computers/fibiCPURatnest.jpg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1920x1363"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/fibiCPURatnest.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/fibiCPURatnest.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/fibiCPURatnest.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

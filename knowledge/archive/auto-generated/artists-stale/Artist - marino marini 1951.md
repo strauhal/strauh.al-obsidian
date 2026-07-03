@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - marino marini|Artist - marino marini]] — named in this note
-- [[knowledge/wiki/artists/Artist - enrico marini|Artist - enrico marini]] — shared language: marini
+- [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini|Artist - Enrico Marini]] — shared language: marini
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini 2011|Artist - enrico marini 2011]] — shared language: marini
-- [[knowledge/wiki/images/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: marini
-- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses, two
-- [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses, two
+- [[_archive/auto-generated/images-stale/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: marini
+- [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: marini
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
 <!-- vault-crosslinks:end -->

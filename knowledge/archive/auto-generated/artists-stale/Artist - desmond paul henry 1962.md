@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — named in this note
+- [[knowledge/wiki/images/Photograph Ronald Reagan Meeting With Desmond Tutu 6f8fe64b|Photograph Ronald Reagan Meeting With Desmond Tutu]] — shared language: desmond
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — shared language: henry
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — shared language: henry
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
-- [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henry monnier 1930|Artist - henry monnier 1930]] — shared language: henry
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry|Artist - sean henry]] — shared language: henry
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
 <!-- vault-crosslinks:end -->

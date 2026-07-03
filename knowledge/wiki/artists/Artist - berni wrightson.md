@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
+- [[knowledge/wiki/images/The Creature Confronts Victor Frankenstein by Berni Wrightson (1983) 446b7916|The Creature Confronts Victor Frankenstein by Berni Wrightson (1983)]] — shared language: berni, wrightson, victor
 - [[knowledge/wiki/artists/Artist - bernie wrightson|Artist - bernie wrightson]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/images/illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983 1d5f3907|illustration for frankenstein victor frankenstein discovers the creature by bernie wrightson 1983]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/images/victor frankenstein in his laboratory by bernie wrightson 1976 d87e454e|victor frankenstein in his laboratory by bernie wrightson 1976]] — shared language: wrightson, victor

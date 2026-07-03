@@ -1,12 +1,12 @@
 ---
 title: "ape of naples"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/ape of naples.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/ape of naples.jpeg"
 source_relpath: "album_covers/ape of naples.jpeg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "1200x1217"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/ape of naples.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/ape of naples.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/ape of naples.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

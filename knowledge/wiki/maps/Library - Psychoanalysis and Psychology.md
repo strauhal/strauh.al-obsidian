@@ -2,8 +2,8 @@
 title: Library - Psychoanalysis and Psychology
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Psychoanalysis and Psychology
@@ -47,7 +47,7 @@ Books/files: 26
 - [[knowledge/wiki/anchors/ernest-becker|Ernest Becker]] — named in this note
 - [[knowledge/wiki/artists/Artist - carl gustav jung|Artist - carl gustav jung]] — shared language: jung, carl, gustav
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, norton, classics
-- [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: jung, carl
+- [[knowledge/raw/books|Books Folder Title List]] — shared language: routledge, jung, lacan
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: classics, william, press
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: classics, thinking, press
 <!-- vault-crosslinks:end -->

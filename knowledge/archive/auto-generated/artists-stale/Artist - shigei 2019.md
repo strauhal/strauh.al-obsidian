@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - shigei|Artist - shigei]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - shepard fairey 2007|Artist - shepard fairey 2007]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - shin ichi sakamoto 2013|Artist - shin ichi sakamoto 2013]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - shigei|Artist - shigei]] — named in this note
+- [[knowledge/wiki/images/Essaka Hoisa by Shigei (2019) 62579872|Essaka Hoisa by Shigei (2019)]] — shared language: shigei
+- [[knowledge/archive/auto-generated/artists-stale/Artist - shepard fairey|Artist - shepard fairey]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

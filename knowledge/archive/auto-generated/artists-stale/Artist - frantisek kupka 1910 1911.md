@@ -23,4 +23,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frantisek kupka|Artist - frantisek kupka]] — named in this note
 - [[knowledge/wiki/images/prometheus by frantisek kupka c 1908 69e75690|prometheus by frantisek kupka c 1908]] — shared language: frantisek, kupka
 - [[knowledge/wiki/images/vertical and diagonal planes by frantisek kupka ca 191314 2054dbbd|vertical and diagonal planes by frantisek kupka ca 191314]] — shared language: frantisek, kupka
+- [[knowledge/wiki/images/The Beginning of Life by Franti ek Kupka (1900) 7dc777c4|The Beginning of Life by Franti ek Kupka (1900)]] — shared language: kupka
 <!-- vault-crosslinks:end -->

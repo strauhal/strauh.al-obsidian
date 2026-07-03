@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — named in this note
-- [[knowledge/wiki/artists/Artist - oda kazuma|Artist - oda kazuma]] — shared language: oda
-- [[knowledge/archive/auto-generated/artists-stale/Artist - oda kazuma 1915|Artist - oda kazuma 1915]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - mayumi hirota|Artist - mayumi hirota]] — shared language: mayumi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mayumi hirota 1996|Artist - mayumi hirota 1996]] — shared language: mayumi
-- [[knowledge/wiki/images/jukan no meigetsu moonlight through the trees by oda kazuma 1915 70554987|jukan no meigetsu moonlight through the trees by oda kazuma 1915]] — shared language: oda
+- [[knowledge/wiki/artists/Artist - oda kazuma|Artist - oda kazuma]] — shared language: oda
+- [[knowledge/archive/auto-generated/artists-stale/Artist - oda kazuma 1915|Artist - oda kazuma 1915]] — shared language: oda
+- [[knowledge/wiki/artists/Artist - Eiichiro Oda|Artist - Eiichiro Oda]] — shared language: oda
 <!-- vault-crosslinks:end -->

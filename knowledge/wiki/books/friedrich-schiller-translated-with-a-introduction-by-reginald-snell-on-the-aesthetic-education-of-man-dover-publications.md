@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Friedrich Schiller _ translated with a introduction by Reginald Snell. - On the aesthetic education of man-Dover Publications (2004).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # On the aesthetic education of man-Dover Publications
@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
-- [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same category: art aesthetics
 - [[knowledge/wiki/books/athlone-contemporary-european-thinkers-theodor-w-adorno-aesthetic-theory|Aesthetic Theory]] — same category: art aesthetics
+- [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same category: art aesthetics
+- [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
-- [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

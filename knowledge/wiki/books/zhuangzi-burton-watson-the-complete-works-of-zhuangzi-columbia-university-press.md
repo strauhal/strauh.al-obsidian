@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Zhuangzi, Burton Watson - The Complete Works of Zhuangzi-Columbia University Press (2013).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Complete Works of Zhuangzi-Columbia University Press
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/eknath-easwaran-the-bhagavad-gita|The Bhagavad Gita]] — same category: esoterica
 - [[knowledge/wiki/books/taoist-master-alfred-huang-the-complete-i-ching-10th-anniversary-edition-the-definitive-translation-by-taoist-master-alfred-huang-inner-trad|The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
-- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
 <!-- vault-crosslinks:end -->

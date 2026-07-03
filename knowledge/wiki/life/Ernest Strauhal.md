@@ -53,11 +53,11 @@ mentally and physically handicapped children and adults. The full sequence lives
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: lineage, left, diary
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, school, left
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, left, school
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: diary, san, francisco
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: piano, first
-- [[knowledge/wiki/images/painting of a woman at a piano seen from behind 5ae9730d|painting of a woman at a piano seen from behind]] — shared language: piano, behind
-- [[knowledge/wiki/books/jean-claude-larchet-archibald-andrew-torrance-the-new-media-epidemic-the-undermining-of-society-family-and-our-own-soul-the-printshop-of-st-|The New Media Epidemic The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev]] — shared language: job, family
+- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

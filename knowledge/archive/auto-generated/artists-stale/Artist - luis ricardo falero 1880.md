@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - luis ricardo falero|Artist - luis ricardo falero]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/artists/Artist - Marcio Luis Teixeira|Artist - Marcio Luis Teixeira]] — shared language: luis
+- [[knowledge/wiki/images/Illustration Black and White Pixel Art City Skyline Under Starry Sky by Marcio Luis Teixeira c278330f|Illustration Black and White Pixel Art City Skyline Under Starry Sky by Marcio Luis Teixeira]] — shared language: luis
+- [[knowledge/wiki/images/Witches' Flight by Francisco Goya (c. 1798) c3eba3cf|Witches' Flight by Francisco Goya (c. 1798)]] — shared language: witches
 - [[knowledge/wiki/images/witches flight by francisco de goya c 17971798 81ee50fc|witches flight by francisco de goya c 17971798]] — shared language: witches
-- [[knowledge/wiki/images/dance i by henri matisse 1909 c9670ea5|dance i by henri matisse 1909]] — shared language: dance
-- [[knowledge/wiki/images/study for the dance by henri matisse 1909 6415a185|study for the dance by henri matisse 1909]] — shared language: dance
-- [[knowledge/wiki/images/the dance class by edgar degas 1874 8da86325|the dance class by edgar degas 1874]] — shared language: dance
 <!-- vault-crosslinks:end -->

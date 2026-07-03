@@ -1,10 +1,10 @@
 ---
 title: "artists moebius"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/moebius.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/moebius.html"
 source_relpath: "artists/moebius.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # artists moebius

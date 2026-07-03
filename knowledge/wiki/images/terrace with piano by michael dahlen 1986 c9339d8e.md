@@ -1,12 +1,12 @@
 ---
 title: "terrace with piano by michael dahlen 1986"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/terrace_with_piano_by_michael_dahlen_1986.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/terrace_with_piano_by_michael_dahlen_1986.jpg"
 source_relpath: "1900s/terrace_with_piano_by_michael_dahlen_1986.jpg"
 collection: "1900s"
 inferred_year: "1986"
 artist: "michael dahlen"
-dimensions: "1280x1264"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,13 +22,13 @@ Artist: [[Artist - michael dahlen]]
 
 Source: [[media/strauh.al3.1/1900s/terrace_with_piano_by_michael_dahlen_1986.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/terrace_with_piano_by_michael_dahlen_1986.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/terrace_with_piano_by_michael_dahlen_1986.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/piano|piano]] — named in this note
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael

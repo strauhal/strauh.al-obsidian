@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: jacob
 - [[knowledge/wiki/images/the wedding by jacob lawrence 1948 fc3f1517|the wedding by jacob lawrence 1948]] — shared language: jacob
+- [[knowledge/wiki/images/The Fall of Icarus by Jacob Peter Gowy (c. 1637) b16fca45|The Fall of Icarus by Jacob Peter Gowy (c. 1637)]] — shared language: jacob
+- [[knowledge/wiki/images/The Prayer of Jacob by Gustave Dor (1866) f7d35fab|The Prayer of Jacob by Gustave Dor (1866)]] — shared language: jacob
 - [[knowledge/wiki/images/jacob van ruisdael dune landscape c 1646 d450a432|jacob van ruisdael dune landscape c 1646]] — shared language: jacob
 - [[knowledge/wiki/images/portrait of jacob cats 1651 1718 by adriaen van der werff c 1700 21e7376f|portrait of jacob cats 1651 1718 by adriaen van der werff c 1700]] — shared language: jacob
-- [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: jordaens, jacob
-- [[knowledge/wiki/images/framed cubist still life with fruit and shells 7eb286fd|framed cubist still life with fruit and shells]] — shared language: fruit
 <!-- vault-crosslinks:end -->

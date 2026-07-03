@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - trenton doyle hancock|Artist - trenton doyle hancock]] — named in this note
-- [[knowledge/wiki/images/photograph of a wasp floating on blue water with shadow d6df88ab|photograph of a wasp floating on blue water with shadow]] — shared language: shadow
-- [[knowledge/wiki/images/black and white ink drawing of a multi armed figure holding swords on a mound 39325d20|black and white ink drawing of a multi armed figure holding swords on a mound]] — shared language: mound
-- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: shadow
-- [[knowledge/wiki/images/abstract photograph of light and shadow through a window showing blue and orange colors 95443fb9|abstract photograph of light and shadow through a window showing blue and orange colors]] — shared language: shadow
+- [[knowledge/archive/auto-generated/artists-stale/Artist - trenton doyle hancock|Artist - trenton doyle hancock]] — named in this note
+- [[_archive/auto-generated/images-stale/black and white ink drawing of a multi armed figure holding swords on a mound 39325d20|black and white ink drawing of a multi armed figure holding swords on a mound]] — shared language: mound
+- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
+- [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: shadow
+- [[knowledge/wiki/images/Illustration Man in Hat Sitting on Bench in Shadow 1730a348|Illustration Man in Hat Sitting on Bench in Shadow]] — shared language: shadow
+- [[_archive/auto-generated/images-stale/abstract photograph of light and shadow through a window showing blue and orange colors 95443fb9|abstract photograph of light and shadow through a window showing blue and orange colors]] — shared language: shadow
 <!-- vault-crosslinks:end -->

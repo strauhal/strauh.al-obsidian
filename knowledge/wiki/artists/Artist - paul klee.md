@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: klee, paul
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
 - [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
-- [[knowledge/wiki/artists/Artist - paul wonner|Artist - paul wonner]] — shared language: paul
-- [[knowledge/wiki/artists/Artist - paul dubois|Artist - paul dubois]] — shared language: paul
 <!-- vault-crosslinks:end -->

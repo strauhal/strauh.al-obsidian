@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - liu ye|Artist - liu ye]] — named in this note
+- [[knowledge/wiki/images/The Man on the Sofa by Liu Ye (2003) 776f8d48|The Man on the Sofa by Liu Ye (2003)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye|Artist - liu ye]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu xiaodong 1994|Artist - liu xiaodong 1994]] — shared language: liu
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu xiaodong 1999|Artist - liu xiaodong 1999]] — shared language: liu
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — shared language: liu
 - [[knowledge/wiki/artists/Artist - liu haisu|Artist - liu haisu]] — shared language: liu
-- [[knowledge/archive/auto-generated/artists-stale/Artist - liu haisu 1950|Artist - liu haisu 1950]] — shared language: liu
 <!-- vault-crosslinks:end -->

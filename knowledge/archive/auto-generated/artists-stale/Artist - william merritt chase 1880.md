@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - william merritt chase|Artist - william merritt chase]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - william merritt chase 1895|Artist - william merritt chase 1895]] — named in this note
+- [[knowledge/wiki/images/A Corner of My Studio by William Merritt Chase (1877) 177d9613|A Corner of My Studio by William Merritt Chase (1877)]] — shared language: merritt, chase, william
 - [[knowledge/wiki/images/a friendly visit by william merritt chase 1895 66ff92c7|a friendly visit by william merritt chase 1895]] — shared language: merritt, chase, william
 - [[knowledge/wiki/images/william merritt chase a daisy field 1906 41678409|william merritt chase a daisy field 1906]] — shared language: merritt, chase, william
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 <!-- vault-crosslinks:end -->

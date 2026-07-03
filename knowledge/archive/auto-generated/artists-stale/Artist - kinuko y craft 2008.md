@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kinuko y craft|Artist - kinuko y craft]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kinuko y craft|Artist - kinuko y craft]] — named in this note
+- [[knowledge/wiki/images/Luna by Kinuko Y. Craft (2008) b00f226f|Luna by Kinuko Y. Craft (2008)]] — shared language: kinuko, craft
 - [[knowledge/wiki/books/benebell-wen-the-tao-of-craft-fu-talismans-and-casting-sigils-in-the-eastern-esoteric-tradition-north-atlantic-books|The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books]] — shared language: craft
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kilian eng 2019|Artist - kilian eng 2019]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts 36d0b358|Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts]] — shared language: craft
 <!-- vault-crosslinks:end -->

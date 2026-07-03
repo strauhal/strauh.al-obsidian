@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/richard-powers|Richard Powers]] — named in this note
-- [[knowledge/wiki/artists/Artist - richard m powers|Artist - richard m powers]] — named in this note
+- [[knowledge/wiki/artists/Artist - Richard M. Powers|Artist - Richard M. Powers]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — named in this note
+- [[knowledge/wiki/artists/Artist - richard m powers|Artist - richard m powers]] — shared language: powers, richard, drowned
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
-- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: powers, richard
 <!-- vault-crosslinks:end -->

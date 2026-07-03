@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frederic leighton 18531855|Artist - frederic leighton 18531855]] — named in this note
+- [[knowledge/wiki/images/The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/Landscape at Chailly by Frederic Bazille (1865) 3b327819|Landscape at Chailly by Frederic Bazille (1865)]] — shared language: frederic
 - [[knowledge/wiki/images/cimabue s celebrated madonna is carried in procession through the streets of florence by frederic leighton 18531855 7393b7be|cimabue s celebrated madonna is carried in procession through the streets of florence by frederic leighton 18531855]] — shared language: leighton, frederic
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, head
 - [[knowledge/wiki/images/frederic chopin 48920806|frederic chopin]] — shared language: frederic
 - [[knowledge/wiki/artists/Artist - edmund blair leighton|Artist - edmund blair leighton]] — shared language: leighton
-- [[knowledge/wiki/artists/Artist - george frederic watts|Artist - george frederic watts]] — shared language: frederic
 <!-- vault-crosslinks:end -->

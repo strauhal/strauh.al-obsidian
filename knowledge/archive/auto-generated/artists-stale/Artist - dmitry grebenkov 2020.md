@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - dmitry grebenkov|Artist - dmitry grebenkov]] — named in this note
-- [[knowledge/wiki/artists/Artist - dmitry levin|Artist - dmitry levin]] — shared language: dmitry
+- [[knowledge/archive/auto-generated/artists-stale/Artist - dmitry grebenkov|Artist - dmitry grebenkov]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - dmitry levin|Artist - dmitry levin]] — shared language: dmitry
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dmitry levin 2014|Artist - dmitry levin 2014]] — shared language: dmitry
-- [[knowledge/wiki/images/interior by dmitry levin 2014 c4adc8a3|interior by dmitry levin 2014]] — shared language: dmitry
+- [[_archive/auto-generated/images-stale/interior by dmitry levin 2014 c4adc8a3|interior by dmitry levin 2014]] — shared language: dmitry
 <!-- vault-crosslinks:end -->

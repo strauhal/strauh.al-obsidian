@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - jean giraud moebius|Artist - jean giraud moebius]] — shared language: giraud, moebius, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud moebius 1988|Artist - jean giraud moebius 1988]] — shared language: giraud, moebius, jean
 - [[knowledge/wiki/artists/Artist - moebius jean giraud|Artist - moebius jean giraud]] — shared language: giraud, moebius, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - moebius jean giraud 1980|Artist - moebius jean giraud 1980]] — shared language: giraud, moebius, jean
-- [[knowledge/wiki/artists/Artist - jean giraud moebius|Artist - jean giraud moebius]] — shared language: giraud, moebius, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud moebius 1977|Artist - jean giraud moebius 1977]] — shared language: giraud, moebius, jean
 - [[knowledge/wiki/images/le groupe by moebius jean giraud 1980 08d0e2e5|le groupe by moebius jean giraud 1980]] — shared language: giraud, moebius, jean
 <!-- vault-crosslinks:end -->

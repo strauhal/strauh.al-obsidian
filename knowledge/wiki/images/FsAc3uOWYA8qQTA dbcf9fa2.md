@@ -1,12 +1,12 @@
 ---
 title: "FsAc3uOWYA8qQTA"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/FsAc3uOWYA8qQTA.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/FsAc3uOWYA8qQTA.jpg"
 source_relpath: "diary/FsAc3uOWYA8qQTA.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "680x539"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/FsAc3uOWYA8qQTA.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/FsAc3uOWYA8qQTA.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/FsAc3uOWYA8qQTA.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

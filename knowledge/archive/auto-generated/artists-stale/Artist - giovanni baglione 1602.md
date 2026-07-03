@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni boldini|Artist - giovanni boldini]] — shared language: giovanni
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giovanni boldini 1906|Artist - giovanni boldini 1906]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: giovanni
+- [[knowledge/wiki/images/Portrait of a Man by Giovanni Battista Moroni (c. 1570) 1d471918|Portrait of a Man by Giovanni Battista Moroni (c. 1570)]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

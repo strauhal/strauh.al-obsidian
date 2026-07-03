@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1879|Artist - pierre auguste renoir 1879]] — shared language: renoir, auguste, pierre
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1875|Artist - pierre auguste renoir 1875]] — shared language: renoir, auguste, pierre
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1877|Artist - pierre auguste renoir 1877]] — shared language: renoir, auguste, pierre
-- [[knowledge/archive/auto-generated/artists-stale/Artist - auguste renoir 1882|Artist - auguste renoir 1882]] — shared language: renoir, auguste
 - [[knowledge/wiki/artists/Artist - pierre auguste renoir|Artist - pierre auguste renoir]] — shared language: renoir, auguste, pierre
+- [[knowledge/archive/auto-generated/artists-stale/Artist - auguste renoir 1882|Artist - auguste renoir 1882]] — shared language: renoir, auguste
 <!-- vault-crosslinks:end -->

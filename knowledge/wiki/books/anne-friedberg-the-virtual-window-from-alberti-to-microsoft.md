@@ -9,8 +9,8 @@ metadata: curated
 aliases: [friedberg-the-virtual-window-from-alberti-to-microsoft-2006 (1) (1)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/friedberg-the-virtual-window-from-alberti-to-microsoft-2006 (1) (1).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Virtual Window: From Alberti to Microsoft
@@ -47,8 +47,8 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] — same category: media technology
 - [[knowledge/wiki/books/richard-szeliski-computer-vision-algorithms-and-applications|Computer Vision: Algorithms and Applications]] — same category: media technology
+- [[knowledge/wiki/books/michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] — same category: media technology
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — same category: media technology

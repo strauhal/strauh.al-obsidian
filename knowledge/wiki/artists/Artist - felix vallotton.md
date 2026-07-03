@@ -25,6 +25,7 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - felix philippoteaux|Artist - felix philippoteaux]] — named in this note
 - [[knowledge/wiki/books/gilles-deleuze-felix-guattari-a-thousand-plateaus-capitalism-and-schizophrenia|A Thousand Plateaus Capitalism and Schizophrenia]] — shared language: felix
-- [[knowledge/wiki/images/1920px vincent van gogh portrait of doctor felix rey f500 jpg b9a004d5|1920px vincent van gogh portrait of doctor felix rey f500 jpg]] — shared language: felix
 - [[knowledge/wiki/images/lamartine refusing the red flag at the hotel de ville paris february 25 1848 by felix philippoteaux 1848 e4c035d9|lamartine refusing the red flag at the hotel de ville paris february 25 1848 by felix philippoteaux 1848]] — shared language: felix
+- [[knowledge/wiki/images/1920px vincent van gogh portrait of doctor felix rey f500 jpg b9a004d5|1920px vincent van gogh portrait of doctor felix rey f500 jpg]] — shared language: felix
+- [[knowledge/wiki/images/Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue 1efa02d7|Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue]] — shared language: combat
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - eko bintang|Artist - eko bintang]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - egon sendler 1990|Artist - egon sendler 1990]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - elias hellquist 1852|Artist - elias hellquist 1852]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - eko bintang|Artist - eko bintang]] — named in this note
+- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
+- [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: city
 <!-- vault-crosslinks:end -->

@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/andrea mantegna 036 jpg c3a325ac|andrea mantegna 036 jpg]] — shared language: andrea
-- [[knowledge/wiki/artists/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
+- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
-- [[knowledge/wiki/artists/Artist - andrea carlson|Artist - andrea carlson]] — shared language: andrea
-- [[knowledge/wiki/images/the crucifixion by andrea mantegna 1457 1459 e4311b50|the crucifixion by andrea mantegna 1457 1459]] — shared language: andrea
+- [[knowledge/wiki/artists/Artist - Andrea Pozzo|Artist - Andrea Pozzo]] — shared language: andrea
+- [[knowledge/wiki/images/The Crucifixion by Andrea Mantegna (1457 1459) 9cd61ce5|The Crucifixion by Andrea Mantegna (1457 1459)]] — shared language: andrea
+- [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: del
 - [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: sarto, andrea, del
 <!-- vault-crosslinks:end -->

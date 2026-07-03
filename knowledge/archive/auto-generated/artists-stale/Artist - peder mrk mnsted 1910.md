@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - peder mrk mnsted|Artist - peder mrk mnsted]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peder mrk mnsted 1908|Artist - peder mrk mnsted 1908]] — named in this note
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/wiki/images/vinterdag i dyrehaven by peder mrk mnsted 1908 8f0ee4a8|vinterdag i dyrehaven by peder mrk mnsted 1908]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: peder, mrk, mnsted
+- [[knowledge/wiki/images/vinterdag i dyrehaven by peder mrk mnsted 1908 8f0ee4a8|vinterdag i dyrehaven by peder mrk mnsted 1908]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/Anna Ancher on the Sofa by Peder Severin Kr yer (1891) 6e03f97f|Anna Ancher on the Sofa by Peder Severin Kr yer (1891)]] — shared language: peder
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/artists/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
+- [[knowledge/wiki/images/Vase of Flowers by George Henry Hall (1879) cd735ae4|Vase of Flowers by George Henry Hall (1879)]] — shared language: hall
 - [[knowledge/wiki/artists/Artist - sydney prior hall|Artist - sydney prior hall]] — shared language: hall
-- [[knowledge/wiki/images/the death of gelert by sydney prior hall 1868 59430ef9|the death of gelert by sydney prior hall 1868]] — shared language: hall
-- [[knowledge/wiki/images/black and white photograph of a large neoclassical exhibition hall with flags and street lamps 5440deff|black and white photograph of a large neoclassical exhibition hall with flags and street lamps]] — shared language: hall
-- [[knowledge/wiki/images/the hall of arcana by annibale siconolfi 2020 ce57e8a0|the hall of arcana by annibale siconolfi 2020]] — shared language: hall
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
+- [[knowledge/wiki/images/Illustration Woman In Ornate Gown In Grand Hall With Armored Figures 64e197be|Illustration Woman In Ornate Gown In Grand Hall With Armored Figures]] — shared language: hall
 <!-- vault-crosslinks:end -->

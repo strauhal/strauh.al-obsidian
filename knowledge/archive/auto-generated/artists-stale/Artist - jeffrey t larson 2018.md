@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jeffrey t larson|Artist - jeffrey t larson]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1986|Artist - gary larson 1986]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeffrey t larson|Artist - jeffrey t larson]] — named in this note
 - [[knowledge/wiki/images/abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]] — shared language: larson
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1982|Artist - gary larson 1982]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1986|Artist - gary larson 1986]] — shared language: larson
 - [[knowledge/wiki/artists/Artist - gary larson|Artist - gary larson]] — shared language: larson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gary larson 1982|Artist - gary larson 1982]] — shared language: larson
 - [[knowledge/wiki/images/cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]] — shared language: larson
 <!-- vault-crosslinks:end -->

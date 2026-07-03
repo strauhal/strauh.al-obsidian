@@ -1,10 +1,10 @@
 ---
 title: "arcades project"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/arcades_project.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/arcades_project.html"
 source_relpath: "arcades_project.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # arcades project
@@ -279,7 +279,7 @@ Skrillex and Jordan Peterson
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/anchors/skrillex|Skrillex]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
-- [[knowledge/wiki/images/amazon 81e1bc0d|amazon]] — named in this note
 - [[knowledge/wiki/images/autechre 0591ce6c|autechre]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 <!-- vault-crosslinks:end -->

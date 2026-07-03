@@ -35,10 +35,10 @@ Images attributed by filename: 6
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, charles
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
-- [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
-- [[knowledge/wiki/images/charles baudelaire 376ec073|charles baudelaire]] — shared language: charles
+- [[knowledge/wiki/images/Industrial Landscape by Charles Sheeler (1929) 91b00b84|Industrial Landscape by Charles Sheeler (1929)]] — named in this note
+- [[knowledge/wiki/images/Industrial Forms by Charles Sheeler (1947) fd240fdf|Industrial Forms by Charles Sheeler (1947)]] — shared language: sheeler, charles, industrial
+- [[knowledge/wiki/images/American Landscape by Charles Sheeler (1930) 5ff20d76|American Landscape by Charles Sheeler (1930)]] — shared language: sheeler, charles, landscape
+- [[knowledge/wiki/images/American Landscape by Charles Sheeler (1930) (2) a59615bf|American Landscape by Charles Sheeler (1930) (2)]] — shared language: sheeler, charles, landscape
+- [[knowledge/wiki/images/American Landscape by Charles Sheeler (1932) a2b2a89a|American Landscape by Charles Sheeler (1932)]] — shared language: sheeler, charles, landscape
+- [[knowledge/wiki/images/Power by Charles Sheeler (1939) 218a0e62|Power by Charles Sheeler (1939)]] — shared language: sheeler, charles
 <!-- vault-crosslinks:end -->

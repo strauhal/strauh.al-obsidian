@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - mason london|Artist - mason london]] — shared language: mason
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: mason
-- [[knowledge/wiki/images/flock ii album art by mason london 2020 98a62e36|flock ii album art by mason london 2020]] — shared language: mason
 - [[knowledge/wiki/images/landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744 ff285a8d|landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744]] — shared language: mason
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: group
-- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: group
+- [[knowledge/wiki/images/IMG 2748 5f740c79|IMG 2748]] — shared language: artists
+- [[knowledge/wiki/images/IMG 2749 1ececdea|IMG 2749]] — shared language: artists
+- [[knowledge/wiki/images/IMG 2750 37dd5a99|IMG 2750]] — shared language: artists
 <!-- vault-crosslinks:end -->

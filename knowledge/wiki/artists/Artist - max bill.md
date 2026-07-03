@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: continuous, line
-- [[knowledge/wiki/images/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
-- [[knowledge/wiki/artists/Artist - max loffler|Artist - max loffler]] — shared language: max
 - [[knowledge/wiki/artists/Artist - bill owens|Artist - bill owens]] — shared language: bill
 - [[knowledge/wiki/images/october 25 1992 by bill watterson 1992 7eefe760|october 25 1992 by bill watterson 1992]] — shared language: bill
+- [[knowledge/wiki/images/october 29 1993 by bill watterson 1993 b5fdf765|october 29 1993 by bill watterson 1993]] — shared language: bill
+- [[knowledge/wiki/artists/Artist - bill willingham|Artist - bill willingham]] — shared language: bill
 <!-- vault-crosslinks:end -->

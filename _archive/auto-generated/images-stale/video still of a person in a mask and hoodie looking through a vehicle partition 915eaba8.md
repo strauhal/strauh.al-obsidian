@@ -1,0 +1,33 @@
+---
+title: "video still of a person in a mask and hoodie looking through a vehicle partition"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/video_still_of_a_person_in_a_mask_and_hoodie_looking_through_a_vehicle_partition.webp"
+source_relpath: "unsorted/video_still_of_a_person_in_a_mask_and_hoodie_looking_through_a_vehicle_partition.webp"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: "550x309"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# video still of a person in a mask and hoodie looking through a vehicle partition
+
+![[media/strauh.al3.1/unsorted/video_still_of_a_person_in_a_mask_and_hoodie_looking_through_a_vehicle_partition.webp]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/video_still_of_a_person_in_a_mask_and_hoodie_looking_through_a_vehicle_partition.webp|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/video_still_of_a_person_in_a_mask_and_hoodie_looking_through_a_vehicle_partition.webp`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Screenshot Person in Mask and Hoodie Looks Through Police Vehicle Partition ad9d49b9|Screenshot Person in Mask and Hoodie Looks Through Police Vehicle Partition]] — shared language: partition, hoodie, vehicle
+- [[knowledge/wiki/images/Illustration Portrait of Young Person Looking Down in Hoodie 99c7f9af|Illustration Portrait of Young Person Looking Down in Hoodie]] — shared language: hoodie, looking, person
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
+- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: video, person
+- [[_archive/auto-generated/images-stale/oil painting of a young person looking down in a dark hoodie e880cc4b|oil painting of a young person looking down in a dark hoodie]] — shared language: hoodie, looking, person
+<!-- vault-crosslinks:end -->

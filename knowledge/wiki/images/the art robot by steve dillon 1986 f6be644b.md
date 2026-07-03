@@ -1,12 +1,12 @@
 ---
 title: "the art robot by steve dillon 1986"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_art_robot_by_steve_dillon_1986.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_art_robot_by_steve_dillon_1986.png"
 source_relpath: "1900s/the_art_robot_by_steve_dillon_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "steve dillon"
-dimensions: "889x712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - steve dillon]]
 
 Source: [[media/strauh.al3.1/1900s/the_art_robot_by_steve_dillon_1986.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_art_robot_by_steve_dillon_1986.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_art_robot_by_steve_dillon_1986.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frank dillon|Artist - frank dillon]] — shared language: dillon
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: art
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: art
 - [[knowledge/wiki/artists/Artist - steve schapiro|Artist - steve schapiro]] — shared language: steve
+- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: steve
+- [[knowledge/wiki/images/the house of the mufti sheikh el mahadi in cairo by frank dillon 1854 1a75b0da|the house of the mufti sheikh el mahadi in cairo by frank dillon 1854]] — shared language: dillon
+- [[knowledge/wiki/images/Illustration Normal Map Of A Winged Robot Figure 0b5a45cd|Illustration Normal Map Of A Winged Robot Figure]] — shared language: robot
 <!-- vault-crosslinks:end -->

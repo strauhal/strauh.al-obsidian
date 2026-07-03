@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - fujishima takeji|Artist - fujishima takeji]] — named in this note
-- [[knowledge/wiki/images/twenty five thousand kittens illustration bc453610|twenty five thousand kittens illustration]] — shared language: twenty
-- [[knowledge/wiki/images/the crucifixion by gerard david c 1495 58fd0900|the crucifixion by gerard david c 1495]] — shared language: crucifixion
-- [[knowledge/wiki/images/jeanlon grme the christian martyrs last prayer 1883 56f15c87|jeanlon grme the christian martyrs last prayer 1883]] — shared language: martyrs
-- [[knowledge/wiki/images/black and white ink drawing grid of twenty suburban and rural vignettes 3b4a83ef|black and white ink drawing grid of twenty suburban and rural vignettes]] — shared language: twenty
-- [[knowledge/wiki/images/the crucifixion by andrea mantegna 1457 1459 e4311b50|the crucifixion by andrea mantegna 1457 1459]] — shared language: crucifixion
+- [[knowledge/wiki/images/Crucifixion by Egon Schiele (1907) d023adfe|Crucifixion by Egon Schiele (1907)]] — shared language: crucifixion
+- [[_archive/auto-generated/images-stale/black and white ink drawing grid of twenty suburban and rural vignettes 3b4a83ef|black and white ink drawing grid of twenty suburban and rural vignettes]] — shared language: twenty
+- [[knowledge/wiki/images/The Crucifixion by Gerard David (c. 1495) 47b51192|The Crucifixion by Gerard David (c. 1495)]] — shared language: crucifixion
+- [[_archive/auto-generated/images-stale/twenty five thousand kittens illustration bc453610|twenty five thousand kittens illustration]] — shared language: twenty
+- [[knowledge/wiki/images/Illustration Grid of Twenty Black and White Ink Drawings of Various Landscapes 413ecbaa|Illustration Grid of Twenty Black and White Ink Drawings of Various Landscapes]] — shared language: twenty
 <!-- vault-crosslinks:end -->

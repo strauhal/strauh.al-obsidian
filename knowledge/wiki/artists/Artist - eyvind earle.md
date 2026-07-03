@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/photograph of a village and grazing cows in rolling green hills under a blue sky 7a222d5c|photograph of a village and grazing cows in rolling green hills under a blue sky]] — shared language: grazing, rolling, hills
-- [[knowledge/wiki/images/framed landscape with sheep on rolling green hills a1941bc7|framed landscape with sheep on rolling green hills]] — shared language: rolling, hills, green
+- [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: grazing, rolling, hills
+- [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, green
+- [[knowledge/wiki/images/Photograph Horses Grazing in a Green Field with Snow Capped Mountains 7113fa12|Photograph Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: grazing, green
 - [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: rolling
-- [[knowledge/wiki/images/painting of a stylized orange mesa against layered pastel hills 2683e353|painting of a stylized orange mesa against layered pastel hills]] — shared language: hills, stylized
-- [[knowledge/wiki/images/traditional chinese landscape painting of green hills and pink blossoms by a river 1ba9f3b3|traditional chinese landscape painting of green hills and pink blossoms by a river]] — shared language: hills, green
-- [[knowledge/wiki/images/stylized painting of an orange and pink mesa against layered purple and blue hills a81c7184|stylized painting of an orange and pink mesa against layered purple and blue hills]] — shared language: hills, stylized
+- [[knowledge/wiki/images/Illustration Brown Horse Grazing in a Field 8ad84393|Illustration Brown Horse Grazing in a Field]] — shared language: grazing
+- [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 <!-- vault-crosslinks:end -->

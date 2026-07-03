@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the crystal palace by moebius 1977 22cf026a|the crystal palace by moebius 1977]] — shared language: palace
 - [[knowledge/wiki/images/the crystal palace by moebius 1977 ca9f0d48|the crystal palace by moebius 1977]] — shared language: palace
 - [[knowledge/wiki/images/view of venice by erhard reuwich 1486 99fc4194|view of venice by erhard reuwich 1486]] — shared language: venice
-- [[knowledge/wiki/images/crowded architectural scene of a palace with many figures 142ca945|crowded architectural scene of a palace with many figures]] — shared language: palace
+- [[knowledge/wiki/images/Photograph Human Chess Game in Palace Square, Petrograd e8125690|Photograph Human Chess Game in Palace Square, Petrograd]] — shared language: palace
 <!-- vault-crosslinks:end -->

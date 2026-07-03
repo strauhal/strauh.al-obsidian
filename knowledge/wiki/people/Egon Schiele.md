@@ -29,11 +29,11 @@ recipe for a personal figurative style, prized for the nervous immediacy of his 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon, influences
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, figurative
 - [[knowledge/wiki/images/egon schiele 15e6f3ec|egon schiele]] — shared language: schiele, egon, influences
-- [[knowledge/wiki/images/egon schiele 5bd8a96a46e0fb00510a25e9 jpg 8405cc94|egon schiele 5bd8a96a46e0fb00510a25e9 jpg]] — shared language: schiele, egon
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, ernest's
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: influences, ideas-sketchbook, ernest's
-- [[knowledge/wiki/artists/Artist - egon schiele v0 5qm1hxb5wfmf1|Artist - egon schiele v0 5qm1hxb5wfmf1]] — shared language: schiele, egon
-- [[knowledge/wiki/artists/Artist - egon schiele v0 w2f5v6qoprmf1|Artist - egon schiele v0 w2f5v6qoprmf1]] — shared language: schiele, egon
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, ernest's
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, schiele, egon
 <!-- vault-crosslinks:end -->

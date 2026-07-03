@@ -1,12 +1,12 @@
 ---
 title: "marcus curtius by hendrick goltzius c 1586"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg"
 source_relpath: "1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg"
 collection: "1500s"
 inferred_year: "1586"
 artist: "hendrick goltzius"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - hendrick goltzius]]
 
 Source: [[media/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500
 - [[knowledge/wiki/images/marcus curtius by hendrick goltzius 1586 559ffd8a|marcus curtius by hendrick goltzius 1586]] — same artist: hendrick goltzius
 - [[knowledge/wiki/images/marcus curtius by hendrick goltzius 1586 2 aa6b1b8a|marcus curtius by hendrick goltzius 1586 2]] — same artist: hendrick goltzius
 - [[knowledge/wiki/images/marcus curtius on horseback from the roman heroes by hendrick goltzius 1586 b6312dc1|marcus curtius on horseback from the roman heroes by hendrick goltzius 1586]] — same artist: hendrick goltzius
-- [[knowledge/wiki/images/the artists right hand by hendrick goltzius 1588 382f81bd|the artists right hand by hendrick goltzius 1588]] — same artist: hendrick goltzius
+- [[knowledge/wiki/images/ira wrath by hendrick goltzius c 1587 44a03131|ira wrath by hendrick goltzius c 1587]] — same artist: hendrick goltzius
 <!-- vault-crosslinks:end -->

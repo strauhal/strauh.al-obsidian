@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - allyson grey|Artist - allyson grey]] — shared language: grey
+- [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
+- [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: alex, grey
+- [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: alex, grey
+- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: grey
 - [[knowledge/wiki/images/the black dress by alex katz 1960 0828583f|the black dress by alex katz 1960]] — shared language: alex
-- [[knowledge/wiki/artists/Artist - alex prager|Artist - alex prager]] — shared language: alex
-- [[knowledge/wiki/artists/Artist - alex chinneck|Artist - alex chinneck]] — shared language: alex
-- [[knowledge/wiki/images/ada in the landscape by alex katz 1990 d09a82d9|ada in the landscape by alex katz 1990]] — shared language: alex
-- [[knowledge/wiki/artists/Artist - alex katz|Artist - alex katz]] — shared language: alex
+- [[knowledge/wiki/artists/Artist - Alex Kanevsky|Artist - Alex Kanevsky]] — shared language: alex
 <!-- vault-crosslinks:end -->

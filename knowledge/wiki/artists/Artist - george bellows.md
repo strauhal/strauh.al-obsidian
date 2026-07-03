@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+- [[knowledge/wiki/images/The Waiting Room by George Tooker (1959) 984b1075|The Waiting Room by George Tooker (1959)]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george romney|Artist - george romney]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george frederic watts|Artist - george frederic watts]] — shared language: george
 <!-- vault-crosslinks:end -->

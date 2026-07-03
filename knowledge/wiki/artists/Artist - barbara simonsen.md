@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - barbara a wood|Artist - barbara a wood]] — shared language: barbara
-- [[knowledge/wiki/images/woman with cat by barbara a wood 43a2c008|woman with cat by barbara a wood]] — shared language: barbara
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
+- [[knowledge/wiki/artists/Artist - Fireplace|Artist - Fireplace]] — shared language: fireplace
+- [[knowledge/wiki/images/Illustration Woman In Long Dress By Fireplace 9a3142bd|Illustration Woman In Long Dress By Fireplace]] — shared language: fireplace
+- [[knowledge/wiki/images/Illustration Woman Squatting, Unwrapping Gifts, Bottles, and Christmas Tree ad5f8b8d|Illustration Woman Squatting, Unwrapping Gifts, Bottles, and Christmas Tree]] — shared language: christmas, tree
 - [[knowledge/wiki/images/black and white pixel graphic of a macintosh computer displaying a christmas greeting signed jk 85 1985 08bb7838|black and white pixel graphic of a macintosh computer displaying a christmas greeting signed jk 85 1985]] — shared language: christmas, pixel
-- [[knowledge/wiki/images/black and white pixel art drawing of a highly patterned rug 4aa4c5ef|black and white pixel art drawing of a highly patterned rug]] — shared language: pixel, art
-- [[knowledge/wiki/images/black and white pixel art of a man and a cat at a computer desk fec6ea12|black and white pixel art of a man and a cat at a computer desk]] — shared language: pixel, art
+- [[knowledge/wiki/images/Illustration Pixel Art House with Bare Tree and Red Door ce9be94d|Illustration Pixel Art House with Bare Tree and Red Door]] — shared language: tree, pixel
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree
 <!-- vault-crosslinks:end -->

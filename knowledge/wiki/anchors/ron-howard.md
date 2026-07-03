@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: howard
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/artists/Artist - howard pyle|Artist - howard pyle]] — shared language: howard
 <!-- vault-crosslinks:end -->

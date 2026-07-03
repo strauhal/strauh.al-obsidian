@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joseph mallord william turner 1811|Artist - joseph mallord william turner 1811]] — shared language: turner
 - [[knowledge/wiki/images/coast of yorkshire by joseph mallord william turner 1811 5474e1a8|coast of yorkshire by joseph mallord william turner 1811]] — shared language: turner
 - [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — shared language: turner
-- [[knowledge/wiki/images/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate
+- [[_archive/auto-generated/images-stale/white oval plate with blue and white transferware pattern 2bb95f8b|white oval plate with blue and white transferware pattern]] — shared language: plate
 <!-- vault-crosslinks:end -->

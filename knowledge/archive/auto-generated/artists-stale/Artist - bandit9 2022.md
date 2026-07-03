@@ -20,8 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - bandit9|Artist - bandit9]] — named in this note
-- [[knowledge/wiki/artists/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — shared language: ichi
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bandit9|Artist - bandit9]] — named in this note
+- [[knowledge/wiki/images/Ichi by Bandit9 (2022) 5c456ff4|Ichi by Bandit9 (2022)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — shared language: ichi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - shin ichi sakamoto 2013|Artist - shin ichi sakamoto 2013]] — shared language: ichi
-- [[knowledge/wiki/images/innocent manga panel by shin ichi sakamoto 2013 108fa087|innocent manga panel by shin ichi sakamoto 2013]] — shared language: ichi
+- [[_archive/auto-generated/images-stale/innocent manga panel by shin ichi sakamoto 2013 108fa087|innocent manga panel by shin ichi sakamoto 2013]] — shared language: ichi
 <!-- vault-crosslinks:end -->

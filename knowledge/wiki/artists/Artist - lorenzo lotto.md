@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
-- [[knowledge/wiki/artists/Artist - lora zombie|Artist - lora zombie]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - lois mailou jones|Artist - lois mailou jones]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

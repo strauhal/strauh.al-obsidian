@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/projecting a bit 1 by michael james roberts 2024 c38985bb|projecting a bit 1 by michael james roberts 2024]] — named in this note
+- [[_archive/auto-generated/images-stale/projecting a bit 1 by michael james roberts 2024 c38985bb|projecting a bit 1 by michael james roberts 2024]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts 2024|Artist - michael james roberts 2024]] — named in this note
-- [[knowledge/wiki/artists/Artist - michael james roberts|Artist - michael james roberts]] — named in this note
-- [[knowledge/wiki/artists/Artist - joe roberts|Artist - joe roberts]] — shared language: roberts
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joe roberts 2018|Artist - joe roberts 2018]] — shared language: roberts
-- [[knowledge/wiki/images/peace by joe roberts 2018 7bdfb177|peace by joe roberts 2018]] — shared language: roberts
+- [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts|Artist - Michael James Roberts]] — named in this note
+- [[knowledge/wiki/images/Screenshot Text Describing Artworks by Michael James Roberts d3b31c16|Screenshot Text Describing Artworks by Michael James Roberts]] — shared language: roberts, michael, james
+- [[knowledge/wiki/images/Document Text Describing Artworks by Michael James Roberts 2b50dc93|Document Text Describing Artworks by Michael James Roberts]] — shared language: roberts, michael, james
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joe roberts|Artist - joe roberts]] — shared language: roberts
 <!-- vault-crosslinks:end -->

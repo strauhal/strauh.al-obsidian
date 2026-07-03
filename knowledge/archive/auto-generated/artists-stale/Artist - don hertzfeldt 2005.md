@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - don hertzfeldt|Artist - don hertzfeldt]] — named in this note
-- [[knowledge/wiki/images/don t know artist jpg 7075b083|don t know artist jpg]] — shared language: don
+- [[knowledge/archive/auto-generated/artists-stale/Artist - don hertzfeldt|Artist - don hertzfeldt]] — named in this note
+- [[_archive/auto-generated/images-stale/don t know artist jpg 7075b083|don t know artist jpg]] — shared language: don
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: meaning, life
 - [[knowledge/wiki/artists/Artist - don harridge|Artist - don harridge]] — shared language: don
 - [[knowledge/archive/auto-generated/artists-stale/Artist - don harridge 1980|Artist - don harridge 1980]] — shared language: don
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: don
-- [[knowledge/wiki/images/culebra morning by don harridge 1980 2ba217cf|culebra morning by don harridge 1980]] — shared language: don
 <!-- vault-crosslinks:end -->

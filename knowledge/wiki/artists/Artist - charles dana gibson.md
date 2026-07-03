@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Woman's Head in Front and Profile Views by Charles Dana Gibson e4cb3341|Illustration Woman's Head in Front and Profile Views by Charles Dana Gibson]] — shared language: dana, gibson, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - dana schutz|Artist - dana schutz]] — shared language: dana
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: gibson
-- [[knowledge/wiki/images/civilian by dana schutz 2012 bfdea8bf|civilian by dana schutz 2012]] — shared language: dana
-- [[knowledge/wiki/images/the visible world by dana schutz 2018 5497000d|the visible world by dana schutz 2018]] — shared language: dana
+- [[knowledge/wiki/images/Dana d by Auguste Rodin (1890) 962dc0e8|Dana d by Auguste Rodin (1890)]] — shared language: dana
 - [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — shared language: gibson
 <!-- vault-crosslinks:end -->

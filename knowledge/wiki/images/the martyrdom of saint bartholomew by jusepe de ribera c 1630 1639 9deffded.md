@@ -1,12 +1,12 @@
 ---
 title: "the martyrdom of saint bartholomew by jusepe de ribera c 1630 1639"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg"
 source_relpath: "1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg"
 collection: "1600s"
 inferred_year: "1639"
 artist: "jusepe de ribera"
-dimensions: "4284x5712"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - jusepe de ribera]]
 
 Source: [[media/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_c_1630_1639.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

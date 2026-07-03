@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - andre le donne|Artist - andre le donne]] — named in this note
+- [[knowledge/wiki/images/INFORMATION by Carl Andre (1970) e57a9dbd|INFORMATION by Carl Andre (1970)]] — shared language: andre
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: andre
 - [[_archive/auto-generated/books-stale/attali-jacques-noise-the-political-economy-of-music|Attali Jacques Noise The Political Economy of Music]] — shared language: jacques
 - [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: jacques
-- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: jacques
 <!-- vault-crosslinks:end -->

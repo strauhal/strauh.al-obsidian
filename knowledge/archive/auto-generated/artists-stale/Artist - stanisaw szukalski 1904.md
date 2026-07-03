@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stanisaw stachowicz 1858|Artist - stanisaw stachowicz 1858]] — shared language: stanisaw
 - [[knowledge/wiki/images/la liseuse by stanisaw stachowicz 1858 02fc98fb|la liseuse by stanisaw stachowicz 1858]] — shared language: stanisaw
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
-- [[knowledge/wiki/images/life of pi 171df880|life of pi]] — shared language: life
+- [[_archive/auto-generated/images-stale/life of pi 171df880|life of pi]] — shared language: life
 <!-- vault-crosslinks:end -->

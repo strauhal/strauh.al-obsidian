@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/piano|piano]] — named in this note
-- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1898|Artist - vilhelm hammershi 1898]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1907|Artist - vilhelm hammershi 1907]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with a young man reading by vilhelm hammershi 1898 20cbc442|interior with a young man reading by vilhelm hammershi 1898]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior the music room strandgade 30 by vilhelm hammershi 1907 a7c24b37|interior the music room strandgade 30 by vilhelm hammershi 1907]] — shared language: vilhelm, hammershi, interior
+- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1898|Artist - vilhelm hammershi 1898]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1907|Artist - vilhelm hammershi 1907]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with a young man reading by vilhelm hammershi 1898 20cbc442|interior with a young man reading by vilhelm hammershi 1898]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior the music room strandgade 30 by vilhelm hammershi 1907 a7c24b37|interior the music room strandgade 30 by vilhelm hammershi 1907]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/Interior with a Woman at a Piano by Vilhelm Hammersh i (1904) 8ec0d256|Interior with a Woman at a Piano by Vilhelm Hammersh i (1904)]] — shared language: vilhelm, interior, piano
 <!-- vault-crosslinks:end -->

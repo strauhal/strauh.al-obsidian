@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: roy
-- [[knowledge/wiki/images/dog star ii by roy de forest 2001 db67f2a4|dog star ii by roy de forest 2001]] — shared language: roy
-- [[knowledge/wiki/artists/Artist - samik roy choudhury|Artist - samik roy choudhury]] — shared language: roy
-- [[knowledge/wiki/images/rama by samik roy choudhury 2020 e14361aa|rama by samik roy choudhury 2020]] — shared language: roy
+- [[knowledge/wiki/artists/Artist - Arpita Roy|Artist - Arpita Roy]] — shared language: roy
+- [[knowledge/wiki/images/Photograph Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy 38dc776c|Photograph Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy]] — shared language: roy
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: reflections
-- [[knowledge/wiki/images/abstract painting of vertical streaks and reflections in pink and red 074cd319|abstract painting of vertical streaks and reflections in pink and red]] — shared language: reflections
+- [[knowledge/wiki/images/Photograph Black And White Portrait Of Aphex Twin With Reflections 277034f4|Photograph Black And White Portrait Of Aphex Twin With Reflections]] — shared language: reflections
+- [[knowledge/wiki/images/Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red 2643a7f3|Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red]] — shared language: reflections
+- [[knowledge/wiki/images/Photograph Elderly Woman Sitting on Bench with Reflections in Glass 768be639|Photograph Elderly Woman Sitting on Bench with Reflections in Glass]] — shared language: reflections
 <!-- vault-crosslinks:end -->

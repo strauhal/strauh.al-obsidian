@@ -1,7 +1,7 @@
 ---
 title: "u7ri4sqrkw181"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/u7ri4sqrkw181.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/u7ri4sqrkw181.gif"
 source_relpath: "gif_collection/u7ri4sqrkw181.gif"
 collection: "gif_collection"
 inferred_year: ""
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/u7ri4sqrkw181.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/u7ri4sqrkw181.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/u7ri4sqrkw181.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

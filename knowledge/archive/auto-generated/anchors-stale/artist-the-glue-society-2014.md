@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - the glue society 2014|Artist - the glue society 2014]] — named in this note
-- [[knowledge/wiki/images/the skin of the city by the glue society 2014 34369684|the skin of the city by the glue society 2014]] — shared language: glue, society
+- [[_archive/auto-generated/images-stale/the skin of the city by the glue society 2014 34369684|the skin of the city by the glue society 2014]] — shared language: glue, society
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1420s|Date Bucket - 1420s]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

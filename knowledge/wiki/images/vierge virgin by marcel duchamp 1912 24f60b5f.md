@@ -1,12 +1,12 @@
 ---
 title: "vierge virgin by marcel duchamp 1912"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg"
 source_relpath: "1900s/vierge_virgin_by_marcel_duchamp_1912.jpg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "marcel duchamp"
-dimensions: "965x1296"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - marcel duchamp]]
 
 Source: [[media/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/vierge_virgin_by_marcel_duchamp_1912.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

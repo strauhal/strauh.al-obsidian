@@ -45,9 +45,9 @@ Artworks filed by the century/decade they were made:
 - [[knowledge/wiki/pages/album covers|album covers]] — named in this note
 - [[knowledge/wiki/pages/old photos|old photos]] — named in this note
 - [[knowledge/wiki/pages/pictures of musicians|pictures of musicians]] — named in this note
-- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
 - [[knowledge/wiki/pages/3d scans|3d scans]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, knowledge, entries
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, collecting, corpus
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, live, portraits
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: live, diary, faces
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, belongs, corpus
 <!-- vault-crosslinks:end -->

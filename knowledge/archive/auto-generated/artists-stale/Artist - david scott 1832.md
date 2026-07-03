@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — named in this note
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
-- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
-- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
+- [[knowledge/archive/auto-generated/artists-stale/Artist - scott|Artist - scott]] — shared language: scott
+- [[_archive/auto-generated/images-stale/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
+- [[knowledge/archive/auto-generated/artists-stale/Artist - scott green|Artist - scott green]] — shared language: scott
 <!-- vault-crosslinks:end -->

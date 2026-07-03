@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
 - [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
-- [[knowledge/wiki/artists/Artist - simon stalenhag|Artist - simon stalenhag]] — shared language: simon
-- [[knowledge/wiki/images/the mascot by simon stalenhag 2016 4239ae80|the mascot by simon stalenhag 2016]] — shared language: simon
-- [[knowledge/wiki/images/the boy and the robot by simon stalenhag 2014 74c05053|the boy and the robot by simon stalenhag 2014]] — shared language: simon
+- [[knowledge/wiki/artists/Artist - Simon St lenhag|Artist - Simon St lenhag]] — shared language: simon
 - [[knowledge/wiki/images/allegory of vanity by simon vouet c 1640 de928bdf|allegory of vanity by simon vouet c 1640]] — shared language: simon
-- [[knowledge/wiki/images/saint thomas and saint simon by jost amman 1573 77997a3c|saint thomas and saint simon by jost amman 1573]] — shared language: simon
+- [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: vol
+- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: vol
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - winslow homer 1878 2|Artist - winslow homer 1878 2]] — shared language: winslow, homer
 - [[knowledge/archive/auto-generated/artists-stale/Artist - winslow homer 1872|Artist - winslow homer 1872]] — shared language: winslow, homer
 - [[knowledge/archive/auto-generated/artists-stale/Artist - winslow homer 1869|Artist - winslow homer 1869]] — shared language: winslow, homer
-- [[knowledge/wiki/artists/Artist - winslow homer|Artist - winslow homer]] — shared language: winslow, homer, breezing
+- [[knowledge/wiki/images/a woman on the beach by winslow homer 1880 283a51a8|a woman on the beach by winslow homer 1880]] — shared language: winslow, homer
 <!-- vault-crosslinks:end -->

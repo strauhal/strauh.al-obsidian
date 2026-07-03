@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1837|Artist - john martin 1837]] — shared language: john
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1841|Artist - john martin 1841]] — shared language: john
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1817|Artist - john martin 1817]] — shared language: john
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1821|Artist - john martin 1821]] — shared language: john
 <!-- vault-crosslinks:end -->

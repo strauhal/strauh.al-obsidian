@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: davidson
-- [[knowledge/wiki/artists/Artist - oliver laric|Artist - oliver laric]] — shared language: oliver
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: oliver
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
-- [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: davidson
 - [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian
+- [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: davidson
+- [[knowledge/wiki/images/subway by bruce davidson 1980 cdf59370|subway by bruce davidson 1980]] — shared language: davidson
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "self portrait by david burliuk 1920"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/self_portrait_by_david_burliuk_1920.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by_david_burliuk_1920.jpeg"
 source_relpath: "1900s/self_portrait_by_david_burliuk_1920.jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "david burliuk"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - david burliuk]]
 
 Source: [[media/strauh.al3.1/1900s/self_portrait_by_david_burliuk_1920.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/self_portrait_by_david_burliuk_1920.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by_david_burliuk_1920.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - yoshitomo nara|Artist - yoshitomo nara]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitomo nara|Artist - yoshitomo nara]] — named in this note
 - [[knowledge/wiki/images/rain at the toshodaiji temple nara by kawase hasui 1930 44a7f8bf|rain at the toshodaiji temple nara by kawase hasui 1930]] — shared language: nara
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1930|Artist - kawase hasui 1930]] — shared language: nara
+- [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next
+- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: next
 - [[knowledge/wiki/artists/Artist - kawase hasui|Artist - kawase hasui]] — shared language: nara
-- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: nara
-- [[knowledge/wiki/images/the window next door by junji ito 1998 71bf9b58|the window next door by junji ito 1998]] — shared language: next
 <!-- vault-crosslinks:end -->

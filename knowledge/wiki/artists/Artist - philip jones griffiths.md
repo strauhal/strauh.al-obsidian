@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
-- [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: jones
+- [[knowledge/wiki/artists/Artist - Philip Pearlstein|Artist - Philip Pearlstein]] — shared language: philip
 <!-- vault-crosslinks:end -->

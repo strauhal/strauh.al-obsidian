@@ -9,8 +9,8 @@ metadata: curated
 aliases: [06b benjamin-work of art in the age of mechanical reproduction]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/06b_benjamin-work of art in the age of mechanical reproduction.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Work of Art in the Age of Mechanical Reproduction
@@ -50,10 +50,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — named in this note
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — same author: walter benjamin
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — same category: art aesthetics
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception|Art and Visual Perception]] — same category: art aesthetics
 - [[knowledge/wiki/books/claire-bishop-artificial-hells-participatory-art-and-the-politics-of-spectatorship|Artificial Hells: Participatory Art and the Politics of Spectatorship]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

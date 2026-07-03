@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edvard munch 1896|Artist - edvard munch 1896]] — named in this note
 - [[knowledge/wiki/images/separation by edvard munch 1896 a90913d1|separation by edvard munch 1896]] — shared language: edvard, munch
 - [[knowledge/wiki/images/separation by edvard munch c 1896 5a27d139|separation by edvard munch c 1896]] — shared language: edvard, munch
-- [[knowledge/wiki/images/painting of a reclining blonde nude reading c6d76965|painting of a reclining blonde nude reading]] — shared language: nude
-- [[knowledge/wiki/anchors/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: nude
+- [[knowledge/wiki/images/The Kiss by Edvard Munch (1897) 6c8b0fd5|The Kiss by Edvard Munch (1897)]] — shared language: edvard, munch
+- [[knowledge/wiki/images/Separation by Edvard Munch (1896) 11553387|Separation by Edvard Munch (1896)]] — shared language: edvard, munch
 <!-- vault-crosslinks:end -->

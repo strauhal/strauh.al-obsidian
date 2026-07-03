@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - wang hui and others qing dynasty|Artist - wang hui and others qing dynasty]] — shared language: hui, wang
 - [[knowledge/wiki/artists/Artist - wang ximeng|Artist - wang ximeng]] — shared language: wang, thousand
-- [[knowledge/wiki/images/the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty ae70836e|the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty]] — shared language: hui, wang
 - [[knowledge/wiki/images/a thousand li of rivers and mountains by wang ximeng 1113 437d714d|a thousand li of rivers and mountains by wang ximeng 1113]] — shared language: wang, thousand
 - [[knowledge/wiki/images/a thousand li of rivers and mountains by wang ximeng 1113 2 d8d0df94|a thousand li of rivers and mountains by wang ximeng 1113 2]] — shared language: wang, thousand
 - [[knowledge/wiki/artists/Artist - wang meng|Artist - wang meng]] — shared language: wang
+- [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: hui, wang
+- [[knowledge/wiki/books/yuk-hui-recursivity-and-contingency-media-philosophy|Recursivity and Contingency (Media Philosophy)]] — shared language: hui
 <!-- vault-crosslinks:end -->

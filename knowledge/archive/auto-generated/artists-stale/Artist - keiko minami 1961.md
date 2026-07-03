@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - keiko minami|Artist - keiko minami]] — named in this note
 - [[knowledge/wiki/images/the shepherdess by jean honore fragonard c 1750 1752 3179d7f5|the shepherdess by jean honore fragonard c 1750 1752]] — shared language: shepherdess
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kehinde wiley 2013|Artist - kehinde wiley 2013]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kehinde wiley|Artist - kehinde wiley]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "death on the pale horse by benjamin west 1802"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg"
 source_relpath: "1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg"
 collection: "1800s"
 inferred_year: "1802"
 artist: "benjamin west"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - benjamin west]]
 
 Source: [[media/strauh.al3.1/1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

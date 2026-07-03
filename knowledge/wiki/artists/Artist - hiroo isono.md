@@ -20,9 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
-- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
-- [[knowledge/wiki/images/no problem single cover art by chance the rapper 2016 f437377a|no problem single cover art by chance the rapper 2016]] — shared language: cover, art
-- [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: cover, art
+- [[knowledge/wiki/artists/Artist - Hiro Isono|Artist - Hiro Isono]] — shared language: isono
+- [[knowledge/wiki/images/Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono 91279c5b|Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono]] — shared language: isono
+- [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: cover
 <!-- vault-crosslinks:end -->

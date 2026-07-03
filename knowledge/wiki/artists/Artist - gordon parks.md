@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Gordon Mortensen|Artist - Gordon Mortensen]] — shared language: gordon
 - [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: gordon
-- [[knowledge/wiki/images/black and white photographs of christopher n schumacher and gordon schumacher on a printed page 9cdc91ff|black and white photographs of christopher n schumacher and gordon schumacher on a printed page]] — shared language: gordon
-- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
+- [[knowledge/wiki/images/Meadows Ridge by Gordon Mortensen 6d5142f2|Meadows Ridge by Gordon Mortensen]] — shared language: gordon
+- [[knowledge/wiki/images/Document Black And White Portraits Of Christopher And Gordon Schumacher d0f61ccd|Document Black And White Portraits Of Christopher And Gordon Schumacher]] — shared language: gordon
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
-- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "random quote"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/random_quote.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/random_quote.html"
 source_relpath: "random_quote.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # random quote
@@ -28,10 +28,10 @@ strauh.al/random_quote
 
 - [[knowledge/wiki/pages/random quote blobby|random quote blobby]] — named in this note
 - [[knowledge/wiki/anchors/blobby|blobby]] — named in this note
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: quote
-- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: quote, random, none
-- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: quote, random, compiled
-- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: quote, random, compiled
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: random, quote, none
+- [[knowledge/wiki/images/Illustration Painting of a Suicide with an 18th Century Quote Below a78880df|Illustration Painting of a Suicide with an 18th Century Quote Below]] — shared language: quote
+- [[knowledge/wiki/images/Document White Text Quote About Film Frames On Black Background 471b2e16|Document White Text Quote About Film Frames On Black Background]] — shared language: quote
+- [[knowledge/wiki/images/Illustration Brian Eno Quote on Art as Triggers for Experiences fc62d9e9|Illustration Brian Eno Quote on Art as Triggers for Experiences]] — shared language: quote
+- [[knowledge/wiki/images/Screenshot Black And White Photo Of Young Thomas Pynchon With Quote 12afea67|Screenshot Black And White Photo Of Young Thomas Pynchon With Quote]] — shared language: quote
+- [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: quote
 <!-- vault-crosslinks:end -->

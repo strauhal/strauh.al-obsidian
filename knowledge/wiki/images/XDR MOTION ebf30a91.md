@@ -1,7 +1,7 @@
 ---
 title: "XDR MOTION"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/XDR MOTION.heic"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/XDR MOTION.heic"
 source_relpath: "wallpapers/XDR MOTION.heic"
 collection: "wallpapers"
 inferred_year: ""
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/XDR MOTION.heic|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/XDR MOTION.heic`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/XDR MOTION.heic`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

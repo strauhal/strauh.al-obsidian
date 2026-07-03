@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/pieta after delacroix by vincent van gogh 1889 3abdf0a1|pieta after delacroix by vincent van gogh 1889]] — shared language: pieta
 - [[knowledge/wiki/artists/Artist - michelangelo|Artist - michelangelo]] — shared language: pieta
+- [[knowledge/wiki/images/pieta after delacroix by vincent van gogh 1889 3abdf0a1|pieta after delacroix by vincent van gogh 1889]] — shared language: pieta
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1889|Artist - vincent van gogh 1889]] — shared language: pieta
 - [[knowledge/wiki/artists/Artist - vincent van gogh|Artist - vincent van gogh]] — shared language: pieta
 <!-- vault-crosslinks:end -->

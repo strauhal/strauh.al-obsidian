@@ -1,12 +1,12 @@
 ---
 title: "diary sofar"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/diary_sofar.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/diary_sofar.png"
 source_relpath: "diary/diary_sofar.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1502x578"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/diary_sofar.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/diary_sofar.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/diary_sofar.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

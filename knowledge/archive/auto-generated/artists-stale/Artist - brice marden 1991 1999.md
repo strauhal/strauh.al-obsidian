@@ -21,8 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the muses epitome by brice marden 1991 1993 358237c7|the muses epitome by brice marden 1991 1993]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - brice marden 1991 1993|Artist - brice marden 1991 1993]] — shared language: brice, marden, muses
-- [[knowledge/wiki/artists/Artist - brice marden|Artist - brice marden]] — shared language: brice, marden, muses
+- [[knowledge/archive/auto-generated/artists-stale/Artist - brice marden 1991 1993|Artist - brice marden 1991 1993]] — shared language: brice, marden, epitome
+- [[knowledge/wiki/artists/Artist - brice marden|Artist - brice marden]] — shared language: brice, marden, epitome
 - [[knowledge/archive/auto-generated/artists-stale/Artist - brice marden 1979|Artist - brice marden 1979]] — shared language: brice, marden
 - [[knowledge/wiki/images/nine studies by brice marden 1979 4243b6e9|nine studies by brice marden 1979]] — shared language: brice, marden
+- [[knowledge/wiki/images/The Muses by Victor Morange (1855) aecfbbb8|The Muses by Victor Morange (1855)]] — shared language: muses
 <!-- vault-crosslinks:end -->

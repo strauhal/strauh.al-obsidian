@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
-- [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: rolling
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: jennie, story
+- [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: rolling
 - [[knowledge/wiki/books/ernest-henry-shackleton-south-the-story-of-shackleton-s-last-expedition-1914-1917-duke-classics|South the story of Shackleton's last expedition, 1914-1917-Duke Classics]] — shared language: henry, story
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 <!-- vault-crosslinks:end -->

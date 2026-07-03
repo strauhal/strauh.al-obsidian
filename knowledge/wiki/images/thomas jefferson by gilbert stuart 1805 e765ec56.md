@@ -1,12 +1,12 @@
 ---
 title: "thomas jefferson by gilbert stuart 1805"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg"
 source_relpath: "1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg"
 collection: "1800s"
 inferred_year: "1805"
 artist: "gilbert stuart"
-dimensions: "2512x2996"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - gilbert stuart]]
 
 Source: [[media/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/thomas_jefferson_by_gilbert_stuart_1805.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/images/mrs perez morton by gilbert stuart c 1802 c2a7d752|mrs perez morton by gilbert stuart c 1802]] — same artist: gilbert stuart
 - [[knowledge/wiki/artists/Artist - gilbert williams|Artist - gilbert williams]] — shared language: gilbert
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/images/the offering by gilbert williams 1995 ae967606|the offering by gilbert williams 1995]] — shared language: gilbert
 <!-- vault-crosslinks:end -->

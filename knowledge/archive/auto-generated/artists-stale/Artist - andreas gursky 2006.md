@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/untitled v by andreas gursky 1997 2a0e25dd|untitled v by andreas gursky 1997]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 1997|Artist - andreas gursky 1997]] — shared language: gursky, andreas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 2007|Artist - andreas gursky 2007]] — shared language: gursky, andreas
-- [[knowledge/wiki/artists/Artist - andreas gursky|Artist - andreas gursky]] — shared language: gursky, andreas, subdivision
+- [[knowledge/wiki/artists/Artist - andreas gursky|Artist - andreas gursky]] — shared language: gursky, andreas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 1994|Artist - andreas gursky 1994]] — shared language: gursky, andreas
-- [[knowledge/wiki/images/cairo by andreas gursky 2007 32c62197|cairo by andreas gursky 2007]] — shared language: gursky, andreas
+- [[_archive/auto-generated/images-stale/cairo by andreas gursky 2007 32c62197|cairo by andreas gursky 2007]] — shared language: gursky, andreas
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/giuseppe-tornatore|Giuseppe Tornatore]] — shared language: giuseppe
 - [[knowledge/wiki/images/spring primavera by giuseppe arcimboldo 1573 084f05d0|spring primavera by giuseppe arcimboldo 1573]] — shared language: giuseppe
 - [[knowledge/wiki/images/the grand staircase by j c leyendecker 1930 9fe50e78|the grand staircase by j c leyendecker 1930]] — shared language: staircase, grand
-- [[knowledge/wiki/images/colorized photograph of a grand library interior with spiral staircase and checkered floor 78b7b76d|colorized photograph of a grand library interior with spiral staircase and checkered floor]] — shared language: staircase, grand
 - [[knowledge/wiki/images/the grand staircase eaton hall by joseph nash 1849 d3fec459|the grand staircase eaton hall by joseph nash 1849]] — shared language: staircase, grand
+- [[knowledge/wiki/culture/movie-cinema-paradiso|Watchlist - Cinema Paradiso]] — shared language: giuseppe
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "portrait of a young woman by petrus christus c 1470"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg"
 source_relpath: "1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg"
 collection: "1400s"
 inferred_year: "1470"
 artist: "petrus christus"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - petrus christus]]
 
 Source: [[media/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young, woman
-- [[knowledge/wiki/images/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: young, woman
 - [[knowledge/wiki/images/christus und die kinder christ and the children by emil nolde 1910 2ad077ac|christus und die kinder christ and the children by emil nolde 1910]] — shared language: christus
-- [[knowledge/wiki/images/black and white line drawing of a young woman s face with cross hatching 258489c9|black and white line drawing of a young woman s face with cross hatching]] — shared language: young, woman
-- [[knowledge/wiki/images/oil painting of a young woman in profile with a dark headscarf 39ef8f0b|oil painting of a young woman in profile with a dark headscarf]] — shared language: young, woman
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/books/goethe-johann-wolfgang-von-clements-marcelle-krimmer-elisabeth-goethe-johann-wolfgang-von-hutter-catherine-the-sorrows-of-young-werther-and-|The Sorrows of Young Werther and Selected Writings]] — shared language: young
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
+- [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: young
 <!-- vault-crosslinks:end -->

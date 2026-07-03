@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - misha petrick|Artist - misha petrick]] — named in this note
-- [[knowledge/wiki/artists/Artist - misha|Artist - misha]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - misha petrick|Artist - misha petrick]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - misha|Artist - misha]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - misha 2010|Artist - misha 2010]] — named in this note
-- [[knowledge/wiki/images/fairy tale by misha 2010 74c41da0|fairy tale by misha 2010]] — shared language: misha
+- [[_archive/auto-generated/images-stale/fairy tale by misha 2010 74c41da0|fairy tale by misha 2010]] — shared language: misha
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
 <!-- vault-crosslinks:end -->

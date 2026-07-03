@@ -1,13 +1,13 @@
 ---
 title: "Artist - peter paul rubens"
 source_kind: "artist"
-count: "16"
+count: "15"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - peter paul rubens
 
-Images attributed by filename: 16
+Images attributed by filename: 15
 
 ## Sample
 
@@ -41,8 +41,6 @@ Images attributed by filename: 16
 
 ![[media/strauh.al3.1/1600s/venus_and_adonis_by_peter_paul_rubens_c_1614.jpg]]
 
-![[media/strauh.al3.1/unsorted/the_fall_of_phaeton_by_peter_paul_rubens_1604_1605.jpg.webp]]
-
 ## Image Notes
 
 - [[drunken silenus by peter paul rubens c 16161617 a8114c16|drunken silenus by peter paul rubens c 16161617]]
@@ -60,15 +58,14 @@ Images attributed by filename: 16
 - [[the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633 ee3ec466|the virgin and child with the infant saint john the baptist and angels in a landscape by peter paul rubens c 1633]]
 - [[the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]]
 - [[venus and adonis by peter paul rubens c 1614 817cf2dd|venus and adonis by peter paul rubens c 1614]]
-- [[the fall of phaeton by peter paul rubens 1604 1605 787fb186|the fall of phaeton by peter paul rubens 1604 1605]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/peter paul rubens two satyrs c 16181619 c65ef876|peter paul rubens two satyrs c 16181619]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/images/peter paul rubens the fall of icarus c 16361637 98d38e6d|peter paul rubens the fall of icarus c 16361637]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/images/peter paul rubens the assumption of the virgin c 16181620 38d7f766|peter paul rubens the assumption of the virgin c 16181620]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/images/Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639 5288029a|Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, baptist, christ
-- [[knowledge/wiki/images/peter paul rubens prometheus bound 16111618 48cb2a46|peter paul rubens prometheus bound 16111618]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/The Fall of the Damned by Peter Paul Rubens (c. 1618 1620) 2ed04fb7|The Fall of the Damned by Peter Paul Rubens (c. 1618 1620)]] — named in this note
+- [[knowledge/wiki/images/Self Portrait by Peter Paul Rubens (1639) 7b705037|Self Portrait by Peter Paul Rubens (1639)]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/The Fall of Phaeton by Peter Paul Rubens (1604 1605) 9784f51c|The Fall of Phaeton by Peter Paul Rubens (1604 1605)]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/Two Satyrs by Peter Paul Rubens (c. 1618 1619) ffe5ebe6|Two Satyrs by Peter Paul Rubens (c. 1618 1619)]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — shared language: rubens, peter, paul
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, baptist, virgin
 <!-- vault-crosslinks:end -->

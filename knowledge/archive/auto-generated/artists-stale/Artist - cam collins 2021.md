@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - cam collins|Artist - cam collins]] — named in this note
+- [[knowledge/wiki/images/Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon 44576e4a|Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - cam collins|Artist - cam collins]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cam collins 2020|Artist - cam collins 2020]] — named in this note
-- [[knowledge/wiki/images/the last supper of the unicorns by cam collins 2020 4f85272b|the last supper of the unicorns by cam collins 2020]] — shared language: cam, collins
+- [[_archive/auto-generated/images-stale/the last supper of the unicorns by cam collins 2020 4f85272b|the last supper of the unicorns by cam collins 2020]] — shared language: cam, collins
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: collins
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital, multiple
 - [[knowledge/wiki/books/hideo-kojima-nathan-collins-the-creative-gene-how-books-movies-and-music-inspired|The creative gene how books, movies, and music inspired]] — shared language: collins
 <!-- vault-crosslinks:end -->

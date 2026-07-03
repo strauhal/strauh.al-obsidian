@@ -1,12 +1,12 @@
 ---
 title: "FLMYpROVkAcEnhg"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/FLMYpROVkAcEnhg.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/FLMYpROVkAcEnhg.png"
 source_relpath: "pictures_of_musicians/FLMYpROVkAcEnhg.png"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/pictures_of_musicians/FLMYpROVkAcEnhg.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/FLMYpROVkAcEnhg.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/FLMYpROVkAcEnhg.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

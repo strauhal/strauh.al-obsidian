@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark francis|Artist - mark francis]] — shared language: mark
-- [[knowledge/wiki/images/the brain by mark francis 2008 aeb709aa|the brain by mark francis 2008]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark maggiori|Artist - mark maggiori]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark lombardi|Artist - mark lombardi]] — shared language: mark
+- [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: mark
+- [[knowledge/wiki/artists/Artist - mark lombardi|Artist - mark lombardi]] — shared language: mark
+- [[knowledge/wiki/images/the painter by mark j ferrari 1987 ae930315|the painter by mark j ferrari 1987]] — shared language: mark
+- [[knowledge/wiki/artists/Artist - mark haddon|Artist - mark haddon]] — shared language: mark
+- [[knowledge/wiki/artists/Artist - Mark Belan|Artist - Mark Belan]] — shared language: mark
 <!-- vault-crosslinks:end -->

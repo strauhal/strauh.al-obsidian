@@ -1,12 +1,12 @@
 ---
 title: "meer mit roter sonne by emil nolde 1930"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg"
 source_relpath: "1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "emil nolde"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - emil nolde]]
 
 Source: [[media/strauh.al3.1/1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/meer_mit_roter_sonne_by_emil_nolde_1930.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/paar by emil nolde 1913 c4fbae5c|paar by emil nolde 1913]] — same artist: emil nolde
 - [[knowledge/wiki/images/red and pink poppies by emil nolde 1920 19f53807|red and pink poppies by emil nolde 1920]] — same artist: emil nolde
 - [[knowledge/wiki/images/adam and eve by emil nolde 1913 db507d33|adam and eve by emil nolde 1913]] — same artist: emil nolde
-- [[knowledge/wiki/images/anna wied s garden by emil nolde 1907 df9fae4f|anna wied s garden by emil nolde 1907]] — same artist: emil nolde
+- [[knowledge/wiki/images/danish woman danin by emil nolde 1913 d1a48388|danish woman danin by emil nolde 1913]] — same artist: emil nolde
 <!-- vault-crosslinks:end -->

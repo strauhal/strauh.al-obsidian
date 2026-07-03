@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - fyodor bronnikov|Artist - fyodor bronnikov]] — shared language: fyodor
 - [[knowledge/wiki/images/self portrait by fyodor shurpin 1950 474cf60c|self portrait by fyodor shurpin 1950]] — shared language: fyodor
 - [[knowledge/wiki/images/the demon and the angel by fyodor bronnikov 1864 478d9ede|the demon and the angel by fyodor bronnikov 1864]] — shared language: fyodor
+- [[knowledge/wiki/images/The Temptation of Christ by Ludwig Ferdinand Schnorr von Carolsfeld (1847) a849638e|The Temptation of Christ by Ludwig Ferdinand Schnorr von Carolsfeld (1847)]] — shared language: temptation, christ
 - [[knowledge/wiki/images/francisco de goya the temptation of st anthony c 1798 5f3c7b47|francisco de goya the temptation of st anthony c 1798]] — shared language: temptation
-- [[knowledge/wiki/images/salvador dal the temptation of saint anthony 1946 e41fe75c|salvador dal the temptation of saint anthony 1946]] — shared language: temptation
 <!-- vault-crosslinks:end -->

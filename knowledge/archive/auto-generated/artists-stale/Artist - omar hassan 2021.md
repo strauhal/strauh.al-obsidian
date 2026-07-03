@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - omar hassan|Artist - omar hassan]] — named in this note
-- [[knowledge/wiki/images/hassan rizali fantasia early 21st century a623820e|hassan rizali fantasia early 21st century]] — shared language: hassan
+- [[knowledge/archive/auto-generated/artists-stale/Artist - omar hassan|Artist - omar hassan]] — named in this note
+- [[_archive/auto-generated/images-stale/hassan rizali fantasia early 21st century a623820e|hassan rizali fantasia early 21st century]] — shared language: hassan
 - [[knowledge/wiki/artists/Artist - omar rayo|Artist - omar rayo]] — shared language: omar
 - [[knowledge/archive/auto-generated/artists-stale/Artist - omar rayo 1970|Artist - omar rayo 1970]] — shared language: omar
 - [[knowledge/wiki/images/el jardin de la vida by omar rayo 1970 0616a153|el jardin de la vida by omar rayo 1970]] — shared language: omar
-- [[knowledge/wiki/images/the last supper by r h quaytman 2018 91218f2b|the last supper by r h quaytman 2018]] — shared language: supper, last
+- [[knowledge/wiki/images/Illustration Illustration from The Rubaiyat of Omar Khayyam by Ronald Balfour 0788ffd1|Illustration Illustration from The Rubaiyat of Omar Khayyam by Ronald Balfour]] — shared language: omar
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "la pantera negra by remedios varo 1955"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/la_pantera_negra_by_remedios_varo_1955.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/la_pantera_negra_by_remedios_varo_1955.jpg"
 source_relpath: "1900s/la_pantera_negra_by_remedios_varo_1955.jpg"
 collection: "1900s"
 inferred_year: "1955"
 artist: "remedios varo"
-dimensions: "1125x1125"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - remedios varo]]
 
 Source: [[media/strauh.al3.1/1900s/la_pantera_negra_by_remedios_varo_1955.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/la_pantera_negra_by_remedios_varo_1955.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/la_pantera_negra_by_remedios_varo_1955.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/el encuentro by remedios varo 1962 3263e759|el encuentro by remedios varo 1962]] — same artist: remedios varo
 - [[knowledge/wiki/images/el musico the musician by remedios varo 1958 d3540b2f|el musico the musician by remedios varo 1958]] — same artist: remedios varo
 - [[knowledge/wiki/images/el huevo the egg by remedios varo 1960 841f8cca|el huevo the egg by remedios varo 1960]] — same artist: remedios varo
-- [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: pantera
+- [[knowledge/wiki/images/The Sleepers by Remedios Varo (1947) 2fdc8873|The Sleepers by Remedios Varo (1947)]] — shared language: remedios, varo
 <!-- vault-crosslinks:end -->

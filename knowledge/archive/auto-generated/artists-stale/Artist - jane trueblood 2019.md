@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jane trueblood|Artist - jane trueblood]] — named in this note
-- [[knowledge/wiki/artists/Artist - jane rosenberg|Artist - jane rosenberg]] — shared language: jane
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jane trueblood|Artist - jane trueblood]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jane rosenberg|Artist - jane rosenberg]] — shared language: jane
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jane rosenberg 2023|Artist - jane rosenberg 2023]] — shared language: jane
 - [[knowledge/wiki/images/jane avril dancing by henri de toulouse lautrec 1892 17857063|jane avril dancing by henri de toulouse lautrec 1892]] — shared language: jane
 - [[knowledge/wiki/images/jane birkin with paul mccartney mask and portrait by tony frank 1969 46f938ad|jane birkin with paul mccartney mask and portrait by tony frank 1969]] — shared language: jane
-- [[knowledge/wiki/images/danny masterson and defense attorney viewing video evidence by jane rosenberg 2023 af801c02|danny masterson and defense attorney viewing video evidence by jane rosenberg 2023]] — shared language: jane
+- [[_archive/auto-generated/images-stale/danny masterson and defense attorney viewing video evidence by jane rosenberg 2023 af801c02|danny masterson and defense attorney viewing video evidence by jane rosenberg 2023]] — shared language: jane
 <!-- vault-crosslinks:end -->

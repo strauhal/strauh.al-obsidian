@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Boatmen on the Missouri by George Caleb Bingham (1846) 6ea1c8f3|Boatmen on the Missouri by George Caleb Bingham (1846)]] — shared language: caleb, bingham, george
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
+- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
-- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
 <!-- vault-crosslinks:end -->

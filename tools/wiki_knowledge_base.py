@@ -62,6 +62,9 @@ CONCEPT_KW: dict[str, list[str]] = {
     "Reading Like a Computer": ["attention span", "the shallows", "deep reading", "skimming", "distract*", "adhd", "tortured genius", "focus"],
     "Rebuilding from the Bottom": ["redemption", "recovery", "breakdown", "burnout", "failure", "rebuild*", "phoenix", "rock bottom"],
     "Atomization": ["atomis*", "atomiz*", "alienation", "loneliness", "isolation", "individualism", "bowling alone", "capitalist realism", "mark fisher", "acid communism", "neoliberal*", "late capitalism", "k-punk"],
+    "Decadence Is Beautiful": ["decaden*", "schiele", "baudelaire", "fin-de-si", "sexual personae", "symbolist", "van dongen", "otto dix", "belle epoque", "gilded age"],
+    "The Panel as Canvas": ["manga", "anime", "otomo", "akira", "junji ito", "tomie", "look back", "shinkawa", "graphic novel", "evangelion", "sequential art"],
+    "The Weather in the Ink": ["hasui", "kawase", "josetsu", "ukiyo-e", "ukiyoe", "woodblock", "shin-hanga", "landscape print", "atmospheric landscape"],
 }
 
 COMMON = {"still", "carti", "land", "close", "judd", "wood", "power", "brown", "hood", "white"}

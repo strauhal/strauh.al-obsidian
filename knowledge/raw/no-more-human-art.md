@@ -4,7 +4,7 @@ slug: no-more-human-art
 type: secondary-source
 author: Ben Read
 subject: Ernest Strauhal
-ingested: 2026-07-01
+ingested: 2026-07-02
 compiled: true
 tags: [raw, criticism, ai-art, gan]
 ---
@@ -51,6 +51,6 @@ Searle, John. “Minds, brains, and programs.” The Behavioral and Brain Scienc
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
+- [[knowledge/wiki/images/judgement 7109c5ed|judgement]] — named in this note
+- [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 <!-- vault-crosslinks:end -->

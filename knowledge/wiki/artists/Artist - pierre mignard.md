@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: pierre
 - [[knowledge/wiki/artists/Artist - pierre bonnard|Artist - pierre bonnard]] — shared language: pierre
-- [[knowledge/wiki/images/la toilette by pierre bonnard 1908 565a5f58|la toilette by pierre bonnard 1908]] — shared language: pierre
-- [[knowledge/wiki/images/portrait of pierre joseph proudhon 1865 jpg 5a0fb9ed|portrait of pierre joseph proudhon 1865 jpg]] — shared language: pierre
+- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: pierre
+- [[knowledge/wiki/artists/Artist - Pierre Schaeffer|Artist - Pierre Schaeffer]] — shared language: pierre
 <!-- vault-crosslinks:end -->

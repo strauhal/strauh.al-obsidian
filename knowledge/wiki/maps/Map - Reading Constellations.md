@@ -73,12 +73,12 @@ Question: when does texture become structure, and when does sound become a model
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — named in this note
 - [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — named in this note
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — named in this note
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, distance, space
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, distance, implicit
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: question, latent, internet
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, model, latent
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: repetition, difference, human
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: economy, attention, death
 <!-- vault-crosslinks:end -->

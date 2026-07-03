@@ -1,0 +1,33 @@
+---
+title: "Document Open Book Showing Two Paintings of a Man Combing Hair"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Open Book Showing Two Paintings of a Man Combing Hair.jpeg"
+source_relpath: "unsorted/Document - Open Book Showing Two Paintings of a Man Combing Hair.jpeg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# Document Open Book Showing Two Paintings of a Man Combing Hair
+
+![[media/strauh.al3.1/unsorted/Document - Open Book Showing Two Paintings of a Man Combing Hair.jpeg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/Document - Open Book Showing Two Paintings of a Man Combing Hair.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Open Book Showing Two Paintings of a Man Combing Hair.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Photograph Book Page Showing Photograph and Painting of Man Cutting Hair 847448bd|Photograph Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: showing, book, hair
+- [[knowledge/wiki/images/Woman Combing Hair by Susan Kare (1984) 944ab1cb|Woman Combing Hair by Susan Kare (1984)]] — shared language: combing, hair
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: paintings, book
+- [[knowledge/wiki/images/Document Open Book Showing Black and White Tibetan Prayer Flag Illustration 85cb029a|Document Open Book Showing Black and White Tibetan Prayer Flag Illustration]] — shared language: showing, document, book
+- [[knowledge/wiki/images/Photograph Photograph of a book page showing a stylized female bust with wavy hair f7697ccc|Photograph Photograph of a book page showing a stylized female bust with wavy hair]] — shared language: showing, book, hair
+<!-- vault-crosslinks:end -->

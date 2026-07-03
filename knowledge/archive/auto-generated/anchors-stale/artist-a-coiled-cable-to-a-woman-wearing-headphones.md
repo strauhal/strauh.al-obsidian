@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - a coiled cable to a woman wearing headphones|Artist - a coiled cable to a woman wearing headphones]] — named in this note
-- [[knowledge/wiki/images/photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones 441ff984|photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones]] — shared language: coiled, cable, headphones
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
+- [[_archive/auto-generated/images-stale/photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones 441ff984|photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones]] — shared language: coiled, cable, headphones
+- [[knowledge/wiki/images/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

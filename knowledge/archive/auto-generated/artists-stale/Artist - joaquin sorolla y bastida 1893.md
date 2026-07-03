@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1898|Artist - joaquin sorolla y bastida 1898]] — shared language: joaquin, sorolla, bastida
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1905|Artist - joaquin sorolla y bastida 1905]] — shared language: joaquin, sorolla, bastida
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1897|Artist - joaquin sorolla y bastida 1897]] — shared language: joaquin, sorolla, bastida
-- [[knowledge/wiki/artists/Artist - joaquin sorolla y bastida|Artist - joaquin sorolla y bastida]] — shared language: joaquin, sorolla, bastida
-- [[knowledge/wiki/images/charon by joaquin sorolla y bastida 1898 46a4c39d|charon by joaquin sorolla y bastida 1898]] — shared language: joaquin, sorolla, bastida
-- [[knowledge/wiki/images/la cueva the cave by joaquin sorolla y bastida 1905 70528eb3|la cueva the cave by joaquin sorolla y bastida 1905]] — shared language: joaquin, sorolla, bastida
+- [[knowledge/wiki/artists/Artist - Joaquin Sorolla|Artist - Joaquin Sorolla]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1898|Artist - joaquin sorolla y bastida 1898]] — shared language: bastida, joaquin, sorolla
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1905|Artist - joaquin sorolla y bastida 1905]] — shared language: bastida, joaquin, sorolla
+- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1897|Artist - joaquin sorolla y bastida 1897]] — shared language: bastida, joaquin, sorolla
+- [[knowledge/wiki/artists/Artist - joaquin sorolla y bastida|Artist - joaquin sorolla y bastida]] — shared language: bastida, joaquin, sorolla
+- [[knowledge/wiki/images/charon by joaquin sorolla y bastida 1898 46a4c39d|charon by joaquin sorolla y bastida 1898]] — shared language: bastida, joaquin, sorolla
 <!-- vault-crosslinks:end -->

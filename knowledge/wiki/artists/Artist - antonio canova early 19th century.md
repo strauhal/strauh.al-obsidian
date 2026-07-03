@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - antonio canova|Artist - antonio canova]] — named in this note
-- [[knowledge/wiki/images/vadim gerasimov scream early 21st century 53b5989b|vadim gerasimov scream early 21st century]] — shared language: early, century
 - [[knowledge/wiki/images/cupid and psyche by antonio canova 1787 93 ac853e63|cupid and psyche by antonio canova 1787 93]] — shared language: canova, antonio
-- [[knowledge/wiki/images/hassan rizali fantasia early 21st century a623820e|hassan rizali fantasia early 21st century]] — shared language: early, century
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: early
+- [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: early, century
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: early
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: early, century
+- [[knowledge/wiki/images/edgar payne monument valley early 20th century 47ac96d9|edgar payne monument valley early 20th century]] — shared language: early, century
 <!-- vault-crosslinks:end -->

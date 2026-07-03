@@ -32,10 +32,9 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: man, young
-- [[knowledge/wiki/images/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: man, young
-- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: man, young
-- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: man, young
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
+- [[knowledge/wiki/anchors/hieronymous-cock|hieronymous cock]] — shared language: cock
+- [[knowledge/wiki/images/Hieronymus Cock 2ddf967c|Hieronymus Cock]] — shared language: cock
+- [[knowledge/wiki/pages/artists hieronymous cock|artists hieronymous cock]] — shared language: cock
+- [[knowledge/wiki/images/Cock Mercury and Argus sheet small ca8c2239|Cock Mercury and Argus sheet small]] — shared language: cock
+- [[knowledge/wiki/images/54036 dd04e9b0|54036]] — shared language: cock
 <!-- vault-crosslinks:end -->

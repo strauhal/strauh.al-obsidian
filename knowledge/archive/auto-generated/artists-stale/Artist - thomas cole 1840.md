@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1837|Artist - thomas cole 1837]] — shared language: cole, thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1833|Artist - thomas cole 1833]] — shared language: cole, thomas
 - [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: cole, thomas
 - [[knowledge/wiki/artists/Artist - thomas cole|Artist - thomas cole]] — shared language: cole, thomas, architect
 - [[knowledge/wiki/images/the departure by thomas cole 1837 2ba808b3|the departure by thomas cole 1837]] — shared language: cole, thomas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1842|Artist - thomas cole 1842]] — shared language: cole, thomas
 <!-- vault-crosslinks:end -->

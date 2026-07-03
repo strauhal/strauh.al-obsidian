@@ -1,12 +1,12 @@
 ---
 title: "portrait of jules hardouin mansart by hyacinthe rigaud c 1699"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg"
 source_relpath: "1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg"
 collection: "1600s"
 inferred_year: "1699"
 artist: "hyacinthe rigaud"
-dimensions: "903x1198"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - hyacinthe rigaud]]
 
 Source: [[media/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -1,12 +1,12 @@
 ---
 title: "mycanvas"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/mycanvas.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/mycanvas.png"
 source_relpath: "diary/mycanvas.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1310x688"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/mycanvas.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/mycanvas.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/mycanvas.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

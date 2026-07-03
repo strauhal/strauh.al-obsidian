@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - frank powolny|Artist - frank powolny]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
+- [[_archive/auto-generated/images-stale/39272 Frank Gilbreth 2ed2af6f|39272 Frank Gilbreth]] — shared language: frank
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1993 1994|Artist - frank miller 1993 1994]] — shared language: frank
-- [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: frank
 <!-- vault-crosslinks:end -->

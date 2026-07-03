@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sompong adulsaringkar|Artist - sompong adulsaringkar]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sompong adulsaringkar|Artist - sompong adulsaringkar]] — named in this note
+- [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: balance, great
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: balance
 - [[_archive/auto-generated/books-stale/the-middle-pillar-the-balance-between-mind-and-magic-israel-regardie-chic-cicero-etc|The Middle Pillar The Balance Between Mind and Magic (Israel Regardie, Chic Cicero etc.)]] — shared language: balance
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
 - [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — shared language: great
-- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

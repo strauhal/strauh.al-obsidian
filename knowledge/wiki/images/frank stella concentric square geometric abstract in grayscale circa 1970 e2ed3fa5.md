@@ -1,12 +1,12 @@
 ---
 title: "frank stella concentric square geometric abstract in grayscale circa 1970"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg"
 source_relpath: "1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: "1414x1413"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/frank_stella_concentric_square_geometric_abstract_in_grayscale_circa_1970.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: concentric, geometric, abstract
 - [[knowledge/wiki/artists/Artist - joseph stella|Artist - joseph stella]] — shared language: stella
-- [[knowledge/wiki/images/abstract geometric composition with concentric arcs and color blocks d0530a10|abstract geometric composition with concentric arcs and color blocks]] — shared language: concentric, geometric, abstract
 - [[knowledge/wiki/images/skyscrapers by joseph stella 1922 91ec81a7|skyscrapers by joseph stella 1922]] — shared language: stella
-- [[knowledge/wiki/images/abstract painting with concentric pale lines on dark background c5d4dc38|abstract painting with concentric pale lines on dark background]] — shared language: concentric, abstract
+- [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: circa
+- [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: circa
+- [[knowledge/wiki/images/Illustration Abstract Painting with Concentric Pale Lines on Dark Background 7d219e22|Illustration Abstract Painting with Concentric Pale Lines on Dark Background]] — shared language: concentric
 <!-- vault-crosslinks:end -->

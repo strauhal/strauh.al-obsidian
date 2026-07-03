@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/images/frederic edwin church cotopaxi 1862 ff207183|frederic edwin church cotopaxi 1862]] — named in this note
 - [[knowledge/wiki/images/frederic edwin church the parthenon 1871 33716f3b|frederic edwin church the parthenon 1871]] — named in this note
 - [[knowledge/wiki/images/Aurora ad69604a|Aurora]] — named in this note
-- [[knowledge/wiki/artists/Artist - frederick edwin church|Artist - frederick edwin church]] — shared language: edwin, church
-- [[knowledge/wiki/images/secluded landscape at sunset by frederick edwin church 1860 b5b86164|secluded landscape at sunset by frederick edwin church 1860]] — shared language: edwin, church
+- [[knowledge/wiki/images/Morning in the Tropics by Frederic Edwin Church (1877) bfc3728a|Morning in the Tropics by Frederic Edwin Church (1877)]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/images/Rainy Season in the Tropics by Frederic Edwin Church (1866) 10545741|Rainy Season in the Tropics by Frederic Edwin Church (1866)]] — shared language: edwin, frederic, church
 <!-- vault-crosslinks:end -->

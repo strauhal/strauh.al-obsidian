@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - howard pyle|Artist - howard pyle]] — named in this note
+- [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: howard
 - [[knowledge/wiki/artists/Artist - howard terpning|Artist - howard terpning]] — shared language: howard
 - [[knowledge/archive/auto-generated/artists-stale/Artist - howard terpning 1991|Artist - howard terpning 1991]] — shared language: howard
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: howard
-- [[knowledge/wiki/images/the sound of distant thunder by howard terpning 1991 4fbdaa76|the sound of distant thunder by howard terpning 1991]] — shared language: howard
-- [[knowledge/archive/auto-generated/artists-stale/Artist - william merritt chase 1895|Artist - william merritt chase 1895]] — shared language: chase
+- [[knowledge/wiki/images/The Sentinel by Edward Howard 99d2ab6d|The Sentinel by Edward Howard]] — shared language: howard
 <!-- vault-crosslinks:end -->

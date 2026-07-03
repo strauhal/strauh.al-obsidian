@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/the annunciation by fra angelico c 1440 1445 b554f150|the annunciation by fra angelico c 1440 1445]] — shared language: fra
+- [[knowledge/wiki/images/The Annunciation by Fra Angelico (c. 1440 1445) 3b38a5e6|The Annunciation by Fra Angelico (c. 1440 1445)]] — shared language: fra
 - [[knowledge/wiki/artists/Artist - fra angelico|Artist - fra angelico]] — shared language: fra
 - [[knowledge/wiki/images/the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446 203038c9|the stigmatization of saint francis and saint nicholas of bari healing a sick man by fra angelico c 14371446]] — shared language: fra
-- [[knowledge/wiki/images/the last supper by r h quaytman 2018 91218f2b|the last supper by r h quaytman 2018]] — shared language: supper, last
-- [[knowledge/wiki/images/the last supper by omar hassan 2021 d1063f2f|the last supper by omar hassan 2021]] — shared language: supper, last
-- [[knowledge/wiki/images/the last supper of the unicorns by cam collins 2020 4f85272b|the last supper of the unicorns by cam collins 2020]] — shared language: supper, last
+- [[knowledge/wiki/images/Illustration Stylized Green and White Pictogram of The Last Supper 5568c78c|Illustration Stylized Green and White Pictogram of The Last Supper]] — shared language: supper, last
+- [[knowledge/wiki/collections/Collection - 1400s|Collection - 1400s]] — shared language: fra, last
+- [[knowledge/wiki/images/panel 1 ed4f0fcd|panel 1]] — shared language: panel
 <!-- vault-crosslinks:end -->

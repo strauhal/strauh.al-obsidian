@@ -1,10 +1,10 @@
 ---
 title: "religious texts quran"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/religious_texts/quran.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/religious_texts/quran.html"
 source_relpath: "religious_texts/quran.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # religious texts quran
@@ -66,11 +66,11 @@ Processing Quran Data...
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
-- [[knowledge/wiki/images/processing 94d5794d|processing]] — named in this note
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: texts, religious, click
 - [[knowledge/wiki/pages/religious texts dhammapada|religious texts dhammapada]] — shared language: texts, religious, click
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: texts, click, explore
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color, judgment, read
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: click, drag, theme
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click, drag, zoom
+- [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, highlight
+- [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: click, rotate, concepts
 <!-- vault-crosslinks:end -->

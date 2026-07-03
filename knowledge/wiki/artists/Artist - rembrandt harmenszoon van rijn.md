@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn 1659 8ab2df95|self portrait by rembrandt van rijn 1659]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/bathsheba by rembrandt van rijn 1635 38605633|bathsheba by rembrandt van rijn 1635]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/the incredulity of st thomas by rembrandt van rijn about 1640 2 451b0079|the incredulity of st thomas by rembrandt van rijn about 1640 2]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

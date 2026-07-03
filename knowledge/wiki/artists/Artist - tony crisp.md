@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - tony frank|Artist - tony frank]] — shared language: tony
 - [[knowledge/wiki/images/jane birkin with paul mccartney mask and portrait by tony frank 1969 46f938ad|jane birkin with paul mccartney mask and portrait by tony frank 1969]] — shared language: tony
+- [[knowledge/wiki/images/Photograph Cologne Cathedral 7aed0b7d|Photograph Cologne Cathedral]] — shared language: cathedral
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
-- [[knowledge/wiki/images/black and white cathedral interior at prayer b3dc402e|black and white cathedral interior at prayer]] — shared language: cathedral
-- [[knowledge/wiki/images/misty city painting of st pauls cathedral 042feb9f|misty city painting of st pauls cathedral]] — shared language: cathedral
-- [[knowledge/wiki/images/painting of a couple dancing folklorico in front of a yellow cathedral 897515b6|painting of a couple dancing folklorico in front of a yellow cathedral]] — shared language: cathedral
+- [[knowledge/wiki/images/david roberts the south transept of the cathedral seville c 1833 ef23a595|david roberts the south transept of the cathedral seville c 1833]] — shared language: cathedral
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Cathedral Interior with Praying Figures by Franklin Booth 674d93e8|Illustration Black and White Illustration of Cathedral Interior with Praying Figures by Franklin Booth]] — shared language: cathedral
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "photograph of a person revealing a tattoo reading r mutt 1917 on their torso"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg"
 source_relpath: "1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg"
 collection: "1900s"
 inferred_year: "1917"
 artist: ""
-dimensions: "960x1792"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/photograph_of_a_person_revealing_a_tattoo_reading_r_mutt_1917_on_their_torso.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/drawing and photograph of a fragmented male marble torso dae95452|drawing and photograph of a fragmented male marble torso]] — shared language: torso, torso.jpg
-- [[knowledge/wiki/images/oil painting portrait of a woman with red hair glasses and a shoulder tattoo 490c2e1f|oil painting portrait of a woman with red hair glasses and a shoulder tattoo]] — shared language: tattoo
-- [[knowledge/wiki/images/black and white tattoo of an anime girl with text damn i hate being sober 4a2390d1|black and white tattoo of an anime girl with text damn i hate being sober]] — shared language: tattoo
-- [[knowledge/wiki/images/line drawing tattoo of two nude figures dancing one with horns and a tail 066d0e89|line drawing tattoo of two nude figures dancing one with horns and a tail]] — shared language: tattoo
-- [[knowledge/wiki/collections/Collection - 100s|Collection - 100s]] — shared language: torso
+- [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: tattoo
+- [[knowledge/wiki/images/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
+- [[knowledge/wiki/images/Illustration Red Haired Woman With Tattoo In Water Looking Up f67df98c|Illustration Red Haired Woman With Tattoo In Water Looking Up]] — shared language: tattoo
+- [[knowledge/wiki/images/Photograph Photograph of a Tattoo Depicting a Broken Image File Icon d179dee7|Photograph Photograph of a Tattoo Depicting a Broken Image File Icon]] — shared language: tattoo
+- [[knowledge/wiki/images/Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E' 42d43431|Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E']] — shared language: revealing
 <!-- vault-crosslinks:end -->

@@ -1,0 +1,35 @@
+---
+title: "psychoanalytic relational map march 1730 2025 png"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/psychoanalytic_relational_map_march_1730_2025_png.png"
+source_relpath: "2000s/psychoanalytic_relational_map_march_1730_2025_png.png"
+collection: "2000s"
+inferred_year: "2025"
+artist: ""
+dimensions: "3140x2554"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# psychoanalytic relational map march 1730 2025 png
+
+![[media/strauh.al3.1/2000s/psychoanalytic_relational_map_march_1730_2025_png.png]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2020s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/psychoanalytic_relational_map_march_1730_2025_png.png|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/psychoanalytic_relational_map_march_1730_2025_png.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Diagram Psychoanalytic Relational Map with colored nodes and connecting arrows a1cd7917|Diagram Psychoanalytic Relational Map with colored nodes and connecting arrows]] — shared language: relational
+- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: march
+- [[knowledge/wiki/images/the march of the israelites by david scott 1832 aa3d7f3c|the march of the israelites by david scott 1832]] — shared language: march
+- [[knowledge/wiki/images/Diagram Logical Map of the ARPANET Network in March 1977 90bc9a67|Diagram Logical Map of the ARPANET Network in March 1977]] — shared language: march
+- [[knowledge/wiki/images/Photograph Martin Luther King Jr. Speaking at March on Washington 7e2935e8|Photograph Martin Luther King Jr. Speaking at March on Washington]] — shared language: march
+<!-- vault-crosslinks:end -->

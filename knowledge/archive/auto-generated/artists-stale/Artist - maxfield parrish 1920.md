@@ -24,7 +24,7 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-- [[knowledge/wiki/artists/Artist - maxfield parrish|Artist - maxfield parrish]] — shared language: maxfield, parrish, archer
+- [[knowledge/wiki/artists/Artist - maxfield parrish|Artist - maxfield parrish]] — shared language: maxfield, parrish, oak
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maxfield parrish 1922|Artist - maxfield parrish 1922]] — shared language: maxfield, parrish
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maxfield parrish 1950|Artist - maxfield parrish 1950]] — shared language: maxfield, parrish
 - [[knowledge/wiki/images/daybreak by maxfield parrish 1922 092cf342|daybreak by maxfield parrish 1922]] — shared language: maxfield, parrish

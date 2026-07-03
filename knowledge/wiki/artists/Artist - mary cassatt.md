@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/the conversation by mary hatch 2022 640f0d82|the conversation by mary hatch 2022]] — shared language: mary
-- [[knowledge/wiki/artists/Artist - mary hatch|Artist - mary hatch]] — shared language: mary
-- [[knowledge/wiki/artists/Artist - mary brodbeck|Artist - mary brodbeck]] — shared language: mary
-- [[knowledge/wiki/artists/Artist - mary brochak|Artist - mary brochak]] — shared language: mary
-- [[knowledge/wiki/images/falls by mary brodbeck 6dbb6fb5|falls by mary brodbeck]] — shared language: mary
-- [[knowledge/wiki/images/hope by mary brodbeck 2004 982771ce|hope by mary brodbeck 2004]] — shared language: mary
+- [[knowledge/wiki/images/Reliquary of Mary Magdalene 26312310|Reliquary of Mary Magdalene]] — shared language: mary
+- [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: mary
+- [[knowledge/wiki/images/Reliquary Bust of Mary Magdalene 1fc24f29|Reliquary Bust of Mary Magdalene]] — shared language: mary
+- [[knowledge/wiki/images/mary magdalene by moretto da brescia 1540 50 21639dd7|mary magdalene by moretto da brescia 1540 50]] — shared language: mary
+- [[knowledge/wiki/images/Illustration Byzantine Style Icon of Virgin Mary in Red Veil 7f905f23|Illustration Byzantine Style Icon of Virgin Mary in Red Veil]] — shared language: mary
+- [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: mary
 <!-- vault-crosslinks:end -->

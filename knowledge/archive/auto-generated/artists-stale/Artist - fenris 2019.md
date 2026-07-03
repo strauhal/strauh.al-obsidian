@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - fenris|Artist - fenris]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - fenris|Artist - fenris]] — named in this note
+- [[knowledge/wiki/images/Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon b18eb4cb|Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon]] — shared language: witch, macintosh
 - [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: macintosh
+- [[knowledge/wiki/images/Illustration Black and White Pixel Art of a Macintosh Desktop 9be84841|Illustration Black and White Pixel Art of a Macintosh Desktop]] — shared language: macintosh
+- [[_archive/auto-generated/images-stale/black and white pixel graphic of a figure exposing themselves to a macintosh computer captioned expose yourself to macintosh 9a4ea33e|black and white pixel graphic of a figure exposing themselves to a macintosh computer captioned expose yourself to macintosh]] — shared language: macintosh
 - [[knowledge/wiki/images/saul and the witch of endor by benjamin west 1777 99285f5b|saul and the witch of endor by benjamin west 1777]] — shared language: witch
-- [[knowledge/wiki/artists/Artist - early macintosh icons|Artist - early macintosh icons]] — shared language: macintosh
-- [[knowledge/wiki/images/macintosh family by chuck walker 1986 b7fc587d|macintosh family by chuck walker 1986]] — shared language: macintosh
-- [[knowledge/wiki/images/takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844 5e5d9ecf|takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844]] — shared language: witch
 <!-- vault-crosslinks:end -->

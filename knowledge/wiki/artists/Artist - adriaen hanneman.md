@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - adriaen van der werff|Artist - adriaen van der werff]] — shared language: adriaen
 - [[knowledge/wiki/images/the bitter drink by adriaen brouwer c 1635 53feb818|the bitter drink by adriaen brouwer c 1635]] — shared language: adriaen
 - [[knowledge/wiki/images/portrait of jacob cats 1651 1718 by adriaen van der werff c 1700 21e7376f|portrait of jacob cats 1651 1718 by adriaen van der werff c 1700]] — shared language: adriaen
-- [[knowledge/wiki/images/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: women, two
+- [[knowledge/wiki/images/doppelbildnis double portrait by adolf wolfli 1920 e35f68f2|doppelbildnis double portrait by adolf wolfli 1920]] — shared language: double
 <!-- vault-crosslinks:end -->

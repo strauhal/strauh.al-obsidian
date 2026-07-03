@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - paige powell|Artist - paige powell]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - paige powell|Artist - paige powell]] — named in this note
+- [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: powell
+- [[knowledge/wiki/images/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: powell
+- [[knowledge/wiki/images/Illustration Two People And Baby Sleeping In Messy Hotel Room e4d0fb3a|Illustration Two People And Baby Sleeping In Messy Hotel Room]] — shared language: hotel, room
+- [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
-- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
-- [[knowledge/wiki/images/black and white photograph of the stepped hotel panorama building 687a35c1|black and white photograph of the stepped hotel panorama building]] — shared language: hotel
-- [[knowledge/wiki/images/l hotel de la plage by claude monet 1870 e7143920|l hotel de la plage by claude monet 1870]] — shared language: hotel
-- [[knowledge/wiki/images/photograph of a red brick hotel with a hotel sign next to a green grain elevator 1af1b488|photograph of a red brick hotel with a hotel sign next to a green grain elevator]] — shared language: hotel
 <!-- vault-crosslinks:end -->

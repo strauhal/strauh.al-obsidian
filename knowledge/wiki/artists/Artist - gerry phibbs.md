@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - gerry georgatos|Artist - gerry georgatos]] — shared language: gerry
 - [[knowledge/wiki/images/the great beast by gerry georgatos 1975 998148c9|the great beast by gerry georgatos 1975]] — shared language: gerry
-- [[knowledge/wiki/images/black and white photograph of a person covering their face with hands af63db01|black and white photograph of a person covering their face with hands]] — shared language: hands
-- [[knowledge/wiki/images/black and white photograph of an older man seated with both hands raised 27023b77|black and white photograph of an older man seated with both hands raised]] — shared language: hands
-- [[knowledge/wiki/images/oil painting of a man and woman holding hands in a green field e9826547|oil painting of a man and woman holding hands in a green field]] — shared language: hands
-- [[knowledge/wiki/images/gallery photo of black and white artwork with hands and numbers ba00a6fe|gallery photo of black and white artwork with hands and numbers]] — shared language: hands
+- [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: hands
+- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: hands
+- [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Obscured Face And Hands 03312e8f|Illustration Abstract Black And White Figure With Obscured Face And Hands]] — shared language: hands
+- [[knowledge/wiki/images/Illustration Crouching Figure with Hands Over Face, Red Watercolor Washes a84fcef3|Illustration Crouching Figure with Hands Over Face, Red Watercolor Washes]] — shared language: hands
 <!-- vault-crosslinks:end -->

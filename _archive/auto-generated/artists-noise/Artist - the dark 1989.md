@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: dark
+- [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: dark
+- [[_archive/auto-generated/images-stale/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: dark
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-dark-1989|Artist - the dark 1989]] — shared language: dark
-- [[knowledge/wiki/images/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: dark
-- [[knowledge/wiki/images/black and white portrait of a man in a dark cloak a4de2533|black and white portrait of a man in a dark cloak]] — shared language: dark
-- [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: dark
-- [[knowledge/wiki/images/black and white photographic portrait of a woman with long dark hair b3cb3ff5|black and white photographic portrait of a woman with long dark hair]] — shared language: dark
-- [[knowledge/wiki/images/oil painting portrait of a man in a dark suit d0e4ae5b|oil painting portrait of a man in a dark suit]] — shared language: dark
+- [[_archive/auto-generated/images-stale/black and white portrait of a man in a dark cloak a4de2533|black and white portrait of a man in a dark cloak]] — shared language: dark
+- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In A Dark Cloak 623d3648|Photograph Black And White Portrait Of A Man In A Dark Cloak]] — shared language: dark
 <!-- vault-crosslinks:end -->

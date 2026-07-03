@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - morgan penza|Artist - morgan penza]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - morgan penza|Artist - morgan penza]] — named in this note
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: morgan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederick morgan 1890|Artist - frederick morgan 1890]] — shared language: morgan
 - [[knowledge/wiki/artists/Artist - evelyn de morgan|Artist - evelyn de morgan]] — shared language: morgan

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/goethe im feldlager vor mainz by johann heinrich lips 1793 ef3663f1|goethe im feldlager vor mainz by johann heinrich lips 1793]] — shared language: heinrich, johann, goethe
 - [[knowledge/wiki/images/burg eltz by johann wilhelm schirmer 1840 62a7c924|burg eltz by johann wilhelm schirmer 1840]] — shared language: johann, wilhelm
 - [[knowledge/wiki/images/burg eltz by johann wilhelm schirmer 1845 df19cd5b|burg eltz by johann wilhelm schirmer 1845]] — shared language: johann, wilhelm
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: johann, goethe
+- [[knowledge/wiki/artists/Artist - Heinrich Wilhelm Brinckmann Thiersch|Artist - Heinrich Wilhelm Brinckmann Thiersch]] — shared language: heinrich, wilhelm
 <!-- vault-crosslinks:end -->

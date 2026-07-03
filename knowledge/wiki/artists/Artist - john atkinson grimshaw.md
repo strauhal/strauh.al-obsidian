@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/john atkinson grimshaw liverpool quay by moonlight c 1887 89fd65a3|john atkinson grimshaw liverpool quay by moonlight c 1887]] — shared language: atkinson, grimshaw, john
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: atkinson, grimshaw, john
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
-- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
 <!-- vault-crosslinks:end -->

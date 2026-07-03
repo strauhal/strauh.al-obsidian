@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - pieter casteels iii|Artist - pieter casteels iii]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter stevens ii|Artist - pieter stevens ii]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter stevens|Artist - pieter stevens]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: pieter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pieter saenredam 1636|Artist - pieter saenredam 1636]] — shared language: pieter
-- [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
 <!-- vault-crosslinks:end -->

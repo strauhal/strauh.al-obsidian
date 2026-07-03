@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - gaetano previati|Artist - gaetano previati]] — named in this note
-- [[knowledge/wiki/images/dante quartet png cea15ca3|dante quartet png]] — shared language: dante
+- [[_archive/auto-generated/images-stale/dante quartet png cea15ca3|dante quartet png]] — shared language: dante
 - [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 d451d1cf|williamadolphe bouguereau dante and virgil 1850]] — shared language: dante
 - [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 2 27278792|williamadolphe bouguereau dante and virgil 1850 2]] — shared language: dante
 - [[knowledge/wiki/artists/Artist - dante gabriel rossetti 18661868|Artist - dante gabriel rossetti 18661868]] — shared language: dante

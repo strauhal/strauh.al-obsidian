@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frederic leighton|Artist - frederic leighton]] — named in this note
 - [[knowledge/wiki/artists/Artist - frederic leighton 18531855|Artist - frederic leighton 18531855]] — named in this note
 - [[knowledge/wiki/images/study of a girl s head by frederic leighton c 1885 1cfc3a88|study of a girl s head by frederic leighton c 1885]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/Landscape at Chailly by Frederic Bazille (1865) 3b327819|Landscape at Chailly by Frederic Bazille (1865)]] — shared language: frederic
 - [[knowledge/wiki/images/cimabue s celebrated madonna is carried in procession through the streets of florence by frederic leighton 18531855 7393b7be|cimabue s celebrated madonna is carried in procession through the streets of florence by frederic leighton 18531855]] — shared language: leighton, frederic
-- [[knowledge/archive/auto-generated/artists-stale/Artist - edmund blair leighton 1901|Artist - edmund blair leighton 1901]] — shared language: leighton
-- [[knowledge/archive/auto-generated/artists-stale/Artist - edmund blair leighton 1893|Artist - edmund blair leighton 1893]] — shared language: leighton
 <!-- vault-crosslinks:end -->

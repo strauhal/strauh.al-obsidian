@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: klimt, gustav
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1915|Artist - gustav klimt 1915]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/head of a woman by gustav klimt c 1917 40c45e1f|head of a woman by gustav klimt c 1917]] — shared language: klimt, gustav
+- [[knowledge/wiki/images/On Lake Attersee by Gustav Klimt 80d2aa4e|On Lake Attersee by Gustav Klimt]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/death and life by gustav klimt 19101915 31900ead|death and life by gustav klimt 19101915]] — shared language: klimt, gustav
 - [[knowledge/wiki/images/death and life by gustav klimt 1915 01db768d|death and life by gustav klimt 1915]] — shared language: klimt, gustav
-- [[knowledge/wiki/artists/Artist - gustav klimt|Artist - gustav klimt]] — shared language: klimt, gustav, knips
 <!-- vault-crosslinks:end -->

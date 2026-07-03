@@ -1,0 +1,33 @@
+---
+title: "Illustration Abstract Tiled Map of Light Blue Water and Light Green Land"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Abstract Tiled Map of Light Blue Water and Light Green Land.jpg"
+source_relpath: "unsorted/Illustration - Abstract Tiled Map of Light Blue Water and Light Green Land.jpg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# Illustration Abstract Tiled Map of Light Blue Water and Light Green Land
+
+![[media/strauh.al3.1/unsorted/Illustration - Abstract Tiled Map of Light Blue Water and Light Green Land.jpg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/Illustration - Abstract Tiled Map of Light Blue Water and Light Green Land.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Abstract Tiled Map of Light Blue Water and Light Green Land.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
+- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: light, green
+- [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land
+- [[knowledge/wiki/images/Diagram LOSS OF LAND d07113e9|Diagram LOSS OF LAND]] — shared language: land, land.jpg
+- [[knowledge/wiki/images/Photograph Slavoj i ek and Woman in Black Leather Coat in Green Tiled Bathroom d82e7f3b|Photograph Slavoj i ek and Woman in Black Leather Coat in Green Tiled Bathroom]] — shared language: tiled, green
+<!-- vault-crosslinks:end -->

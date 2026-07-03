@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1760s"
 source_kind: "date_bucket"
-count: "13"
+count: "14"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1760s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 13
+Files: 14
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/Te Deum Laudamus by Robert Strange (1760).jpeg]]
 
 ![[media/strauh.al3.1/1700s/a_group_of_artists_by_mason_chamberlin_1767.jpeg]]
 

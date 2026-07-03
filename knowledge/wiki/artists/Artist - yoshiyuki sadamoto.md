@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai 3ae1f6c2|page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai]] — shared language: manga, study, page
-- [[knowledge/wiki/images/neon and rain ba804198|neon and rain]] — shared language: neon
-- [[knowledge/wiki/images/digital sketch page with anatomical head studies and character drawings cdcbfec4|digital sketch page with anatomical head studies and character drawings]] — shared language: character, page
-- [[knowledge/wiki/images/black and white ink drawing collage of various figures and manga panels centered on a standing female character 1011cede|black and white ink drawing collage of various figures and manga panels centered on a standing female character]] — shared language: manga, character
-- [[knowledge/wiki/culture/movie-the-end-of-evangelion|Watchlist - The End of Evangelion]] — shared language: evangelion
-- [[knowledge/wiki/culture/music-the-end-of-evangelion-original-soundtrack|Listening - The End of Evangelion: Original Soundtrack]] — shared language: evangelion
+- [[knowledge/wiki/images/Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995) d32c6198|Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995)]] — shared language: yoshiyuki, sadamoto, evangelion
+- [[knowledge/wiki/images/Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto 07ae0e9f|Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto, evangelion
+- [[knowledge/wiki/images/Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto 90a714f8|Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto, asuka
+- [[knowledge/wiki/images/Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997) 3de54487|Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997)]] — shared language: yoshiyuki, sadamoto, evangelion
+- [[knowledge/wiki/images/Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto a9ffb605|Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — shared language: evangelion
 <!-- vault-crosslinks:end -->

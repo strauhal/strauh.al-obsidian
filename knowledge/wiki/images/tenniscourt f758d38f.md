@@ -1,12 +1,12 @@
 ---
 title: "tenniscourt"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/tenniscourt.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/tenniscourt.png"
 source_relpath: "wallpapers/tenniscourt.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1648"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/tenniscourt.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/tenniscourt.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/tenniscourt.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

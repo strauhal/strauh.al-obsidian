@@ -1,12 +1,12 @@
 ---
 title: "GXev5N0XkAAlFE"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/GXev5N0XkAAlFE-.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/GXev5N0XkAAlFE-.jpeg"
 source_relpath: "diary/GXev5N0XkAAlFE-.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "882x1253"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/GXev5N0XkAAlFE-.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/GXev5N0XkAAlFE-.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/GXev5N0XkAAlFE-.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

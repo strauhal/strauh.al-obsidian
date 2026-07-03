@@ -94,5 +94,5 @@ Sent with [Proton Mail](https://proton.me/mail/home) secure email.
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/images/ritalin e54fbea5|ritalin]] — named in this note
 - [[knowledge/private/fanmail/threads/22-you-the-beholder|Private Correspondence - 22 - You, The Beholder]] — same category: audience-response
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like, think, it's
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like, know, i've
 <!-- vault-crosslinks:end -->

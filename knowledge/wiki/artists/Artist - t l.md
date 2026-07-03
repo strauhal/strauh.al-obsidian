@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
-- [[knowledge/wiki/images/oil painting of a blocky blue structure with game interface 05f50a0b|oil painting of a blocky blue structure with game interface]] — shared language: game
 - [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game
-- [[knowledge/wiki/images/screenshot of a sailor moon digital dress up game interface 6f2b7945|screenshot of a sailor moon digital dress up game interface]] — shared language: game
-- [[knowledge/wiki/artists/Artist - nails and role playing game text|Artist - nails and role playing game text]] — shared language: game
-- [[knowledge/wiki/images/black and white photograph of john coltrane on a wii game case labeled a love supreme e3bfff0f|black and white photograph of john coltrane on a wii game case labeled a love supreme]] — shared language: game
+- [[knowledge/wiki/images/Photograph Human Chess Game in Palace Square, Petrograd e8125690|Photograph Human Chess Game in Palace Square, Petrograd]] — shared language: game
+- [[knowledge/wiki/images/Photograph Night Baseball Game with Japanese Castle in Background 6dd8ea8b|Photograph Night Baseball Game with Japanese Castle in Background]] — shared language: game
+- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: game
+- [[knowledge/wiki/images/Still Life with Game and Vegetables by Thomas Hill (c. 1880) 4c7fbb68|Still Life with Game and Vegetables by Thomas Hill (c. 1880)]] — shared language: game
 <!-- vault-crosslinks:end -->

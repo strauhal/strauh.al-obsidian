@@ -1,10 +1,10 @@
 ---
 title: "2024 downloadsfolder"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/2024_downloadsfolder.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2024_downloadsfolder.html"
 source_relpath: "2024_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # 2024 downloadsfolder
@@ -483,12 +483,12 @@ strauh.al/2024_downloadsfolder
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/img 1331 png 8e341b79|img 1331 png]] — named in this note
-- [[knowledge/wiki/images/img 5472 png 7e677750|img 5472 png]] — named in this note
-- [[knowledge/wiki/images/img 5472 png 2 303ff8a8|img 5472 png 2]] — named in this note
-- [[knowledge/wiki/images/img 0629 webp 5656a346|img 0629 webp]] — named in this note
-- [[knowledge/wiki/images/sprueth magers George Condo Zombie Modernism 2015 2451 86780475|sprueth magers George Condo Zombie Modernism 2015 2451]] — named in this note
+- [[knowledge/wiki/books/laska-sadie-bio-cv-2023|LASKA Sadie BIO CV 2023]] — named in this note
 - [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
-- [[knowledge/wiki/images/connection map 409fea96|connection map]] — named in this note
+- [[knowledge/wiki/images/Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]] — shared language: shot, screen, pm.png
+- [[knowledge/wiki/images/Screen Shot 2020 10 10 at 6.36.47 PM 507cb295|Screen Shot 2020 10 10 at 6.36.47 PM]] — shared language: shot, screen, pm.png
+- [[knowledge/wiki/pages/culture society|culture society]] — shared language: n.jpg, pm.png, shot
+- [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: n.jpg, shot, pm.png
+- [[knowledge/wiki/images/13312890 1364959343517951 9080943046825273669 n a7dd21a0|13312890 1364959343517951 9080943046825273669 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/180913581 127556412765709 1144180134642286206 n d4b2bdd7|180913581 127556412765709 1144180134642286206 n]] — shared language: n.jpg
 <!-- vault-crosslinks:end -->

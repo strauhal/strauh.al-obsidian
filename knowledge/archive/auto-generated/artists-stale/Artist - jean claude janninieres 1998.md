@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1876|Artist - claude monet 1876]] — shared language: claude
 - [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1870|Artist - claude monet 1870]] — shared language: claude
-- [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1872|Artist - claude monet 1872]] — shared language: claude
 - [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1903 3|Artist - claude monet 1903 3]] — shared language: claude
+- [[knowledge/archive/auto-generated/artists-stale/Artist - claude monet 1904|Artist - claude monet 1904]] — shared language: claude
 <!-- vault-crosslinks:end -->

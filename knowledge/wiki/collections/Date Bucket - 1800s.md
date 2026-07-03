@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1800s"
 source_kind: "date_bucket"
-count: "14"
+count: "16"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1800s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 14
+Files: 16
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/Time, the Destroyer by Jean-Baptiste Regnault (1800).jpg]]
 
 ![[media/strauh.al3.1/1800s/achille_et_briseis_achilles_and_briseis_by_jean_auguste_dominique_ingres_1801.jpg]]
 
@@ -40,6 +42,8 @@ Files: 14
 ![[media/strauh.al3.1/1800s/view_of_niagara_falls_by_john_vanderlyn_c_1802_1804.jpeg]]
 
 ![[media/strauh.al3.1/1800s/william_blake_job_and_his_wife_and_his_three_comforters_c_1805.jpg]]
+
+![[media/strauh.al3.1/2000s/The Coronation of Napoleon by Jacques-Louis David (1805-1807).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

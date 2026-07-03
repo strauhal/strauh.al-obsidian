@@ -1,12 +1,12 @@
 ---
 title: "double portrait of two women by adriaen hanneman c 1650"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg"
 source_relpath: "1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg"
 collection: "1600s"
 inferred_year: "1650"
 artist: "adriaen hanneman"
-dimensions: "1159x938"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - adriaen hanneman]]
 
 Source: [[media/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600
 - [[knowledge/wiki/images/the smokers by adriaen brouwer c 1636 8fde4a31|the smokers by adriaen brouwer c 1636]] — shared language: adriaen
 - [[knowledge/wiki/artists/Artist - adriaen van der werff|Artist - adriaen van der werff]] — shared language: adriaen
 - [[knowledge/wiki/images/the bitter drink by adriaen brouwer c 1635 53feb818|the bitter drink by adriaen brouwer c 1635]] — shared language: adriaen
-- [[knowledge/wiki/images/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: women, two
+- [[knowledge/wiki/images/portrait of jacob cats 1651 1718 by adriaen van der werff c 1700 21e7376f|portrait of jacob cats 1651 1718 by adriaen van der werff c 1700]] — shared language: adriaen
 <!-- vault-crosslinks:end -->

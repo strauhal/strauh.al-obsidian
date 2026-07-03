@@ -45,23 +45,11 @@ that i can capture in html."
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (8).** [[burberry website png 429f934c|burberry website png]] · [[flowerkite website png 5b33fcc0|flowerkite website png]] · [[flowerkite website poster 88d11050|flowerkite website poster]] · [[h mag blog post only steichen perfection in black 12974030880340357017 jpg 9fb021a5|h mag blog post only steichen perfection in black 12974030880340357017 jpg]] · [[the end of the internet by constant dullaart 2013 29d15776|the end of the internet by constant dullaart 2013]] · [[the internet map by barrett lyon 2003 d6634a88|the internet map by barrett lyon 2003]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]] · [[website robbin lockett 1989 final width 1200 jpg 3210e316|website robbin lockett 1989 final width 1200 jpg]]
+**Images (4).** [[Diagram Diagram of Online Services Mapped to Classifieds Categories a289bb38|Diagram Diagram of Online Services Mapped to Classifieds Categories]] · [[Diagram The Internet Map by Barrett Lyon b26d2dc4|Diagram The Internet Map by Barrett Lyon]] · [[Illustration Person Playing Online Card Game at Night b0b118f6|Illustration Person Playing Online Card Game at Night]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]]
 
 **Books (2).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -88,3 +76,16 @@ that i can capture in html."
 >
 > whole. We don't see the forest when we search the Web. We don't even see the trees. We see twigs and leaves. As companies like Google and Microsoft perfect search engines for video and audio content, more products are undergoing the fragmentation that already characterizes written works.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
+- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+<!-- vault-crosslinks:end -->

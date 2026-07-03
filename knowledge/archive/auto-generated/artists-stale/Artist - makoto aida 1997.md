@@ -21,6 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - makoto aida|Artist - makoto aida]] — named in this note
-- [[knowledge/wiki/images/black and white ink sketch of a bus on a dirt road d178b626|black and white ink sketch of a bus on a dirt road]] — shared language: bus
-- [[knowledge/wiki/images/the great pikes peak bus accident by john sloan 1927 44db5098|the great pikes peak bus accident by john sloan 1927]] — shared language: bus
+- [[knowledge/wiki/images/Quarantine by Makoto Kusano (2012) 05e2aef9|Quarantine by Makoto Kusano (2012)]] — shared language: makoto
+- [[knowledge/wiki/images/The School Bus by John Falter (1950) 7a8e8329|The School Bus by John Falter (1950)]] — shared language: bus
+- [[knowledge/wiki/images/Illustration Black and White Ink Sketch of a Bus on a Dirt Path 8be5ad46|Illustration Black and White Ink Sketch of a Bus on a Dirt Path]] — shared language: bus
+- [[_archive/auto-generated/images-stale/black and white ink sketch of a bus on a dirt road d178b626|black and white ink sketch of a bus on a dirt road]] — shared language: bus
+- [[knowledge/wiki/images/Screenshot Young Man and Joker Reflection on Bus by Todd Phillips 22cc915d|Screenshot Young Man and Joker Reflection on Bus by Todd Phillips]] — shared language: bus
 <!-- vault-crosslinks:end -->

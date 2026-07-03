@@ -1,12 +1,12 @@
 ---
 title: "mc ride picture"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/death grips/mc ride picture.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/death grips/mc ride picture.jpg"
 source_relpath: "pictures_of_musicians/death grips/mc ride picture.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "771x1280"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/pictures_of_musicians/death grips/mc ride picture.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/death grips/mc ride picture.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/death grips/mc ride picture.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

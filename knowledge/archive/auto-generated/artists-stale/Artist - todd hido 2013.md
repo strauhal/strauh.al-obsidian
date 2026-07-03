@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - todd hido|Artist - todd hido]] — named in this note
-- [[knowledge/wiki/artists/Artist - todd phillips|Artist - todd phillips]] — shared language: todd
+- [[knowledge/archive/auto-generated/artists-stale/Artist - todd hido|Artist - todd hido]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - todd phillips 2019|Artist - todd phillips 2019]] — shared language: todd
-- [[knowledge/wiki/images/joker by todd phillips 2019 cdc28118|joker by todd phillips 2019]] — shared language: todd
-- [[knowledge/wiki/pages/san francisco|san francisco]] — shared language: san
-- [[knowledge/wiki/images/Amoeba Music San Francisco 02335dea|Amoeba Music San Francisco]] — shared language: san
+- [[knowledge/archive/auto-generated/artists-stale/Artist - todd phillips|Artist - Todd Phillips]] — shared language: todd
+- [[_archive/auto-generated/images-stale/joker by todd phillips 2019 cdc28118|joker by todd phillips 2019]] — shared language: todd
+- [[knowledge/wiki/images/Screenshot Young Man and Joker Reflection on Bus by Todd Phillips 22cc915d|Screenshot Young Man and Joker Reflection on Bus by Todd Phillips]] — shared language: todd
+- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san
 <!-- vault-crosslinks:end -->

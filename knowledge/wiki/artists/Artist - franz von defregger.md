@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: von, franz
-- [[knowledge/wiki/artists/Artist - franz von bayros|Artist - franz von bayros]] — shared language: von, franz
-- [[knowledge/wiki/images/richard wagner by franz von lenbach c 1882 2f89a5cb|richard wagner by franz von lenbach c 1882]] — shared language: von, franz
-- [[knowledge/wiki/images/l etreinte the embrace by franz von bayros c 1913 5dcf4b20|l etreinte the embrace by franz von bayros c 1913]] — shared language: von, franz
+- [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: franz, von
+- [[knowledge/wiki/artists/Artist - franz von bayros|Artist - franz von bayros]] — shared language: franz, von
+- [[knowledge/wiki/images/richard wagner by franz von lenbach c 1882 2f89a5cb|richard wagner by franz von lenbach c 1882]] — shared language: franz, von
+- [[knowledge/wiki/images/l etreinte the embrace by franz von bayros c 1913 5dcf4b20|l etreinte the embrace by franz von bayros c 1913]] — shared language: franz, von
+- [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
 - [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: von
-- [[knowledge/wiki/images/ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg e31f1a9f|ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg]] — shared language: von, die
 <!-- vault-crosslinks:end -->

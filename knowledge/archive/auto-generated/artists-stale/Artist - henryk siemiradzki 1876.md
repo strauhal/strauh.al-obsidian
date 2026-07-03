@@ -22,6 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - henryk siemiradzki|Artist - henryk siemiradzki]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henryk siemiradzki 1875|Artist - henryk siemiradzki 1875]] — named in this note
+- [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/the body of a christian martyr in the catacombs by henryk siemiradzki 1875 65488a8d|the body of a christian martyr in the catacombs by henryk siemiradzki 1875]] — shared language: henryk, siemiradzki
+- [[knowledge/wiki/images/Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde b92fd565|Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde]] — shared language: torches
 <!-- vault-crosslinks:end -->

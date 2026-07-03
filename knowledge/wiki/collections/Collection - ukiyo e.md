@@ -163,12 +163,12 @@ Files: 96
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/regenschirme by toshi yoshida 2158e6d0|regenschirme by toshi yoshida]] — named in this note
+- [[knowledge/wiki/images/Regenschirme by Toshi Yoshida 74b55d4e|Regenschirme by Toshi Yoshida]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/ytc014scopy 1024x1024 2x jpg b5f5611b|ytc014scopy 1024x1024 2x jpg]] — shared language: ytc014scopy, x1024
-- [[knowledge/wiki/images/yoshida toshi regenschirme jpg 8098c489|yoshida toshi regenschirme jpg]] — shared language: toshi, yoshida
 - [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — shared language: toshi, yoshida
 - [[knowledge/wiki/images/aspen by toshi yoshida 1973 9c39469e|aspen by toshi yoshida 1973]] — shared language: toshi, yoshida
-- [[knowledge/wiki/images/PG SoloPiano FinalAlbumCover 1 1024x1024 5504827c|PG SoloPiano FinalAlbumCover 1 1024x1024]] — shared language: x1024
+- [[knowledge/wiki/images/Cat and Small Bird by Toshi Yoshida b5cc1bd1|Cat and Small Bird by Toshi Yoshida]] — shared language: toshi, yoshida
+- [[knowledge/wiki/images/Monument Valley by Toshi Yoshida (1972) bb6e353f|Monument Valley by Toshi Yoshida (1972)]] — shared language: toshi, yoshida
 - [[knowledge/wiki/images/mt fuji from gotemba by toshi yoshida 1987 5828aa99|mt fuji from gotemba by toshi yoshida 1987]] — shared language: toshi, yoshida
+- [[knowledge/wiki/images/Pagoda in Kyoto by Toshi Yoshida 04ab11d6|Pagoda in Kyoto by Toshi Yoshida]] — shared language: toshi, yoshida
 <!-- vault-crosslinks:end -->

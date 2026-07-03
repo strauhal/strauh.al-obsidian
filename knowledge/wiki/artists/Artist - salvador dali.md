@@ -56,7 +56,7 @@ Images attributed by filename: 12
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — named in this note
 - [[knowledge/wiki/books/1992-salvador-dali-50-secrets-of-magic-craftsmanship|Salvador Dali - 50 Secrets Of Magic Craftsmanship]] — shared language: dali, salvador
 - [[knowledge/wiki/images/salvador dal corpus hypercubus 1954 1fdedd47|salvador dal corpus hypercubus 1954]] — shared language: salvador, hypercubus, corpus
-- [[knowledge/wiki/images/salvador dal the temptation of saint anthony 1946 e41fe75c|salvador dal the temptation of saint anthony 1946]] — shared language: salvador
-- [[knowledge/wiki/images/tete de femme head of a woman by pablo picasso 1952 6914c4c5|tete de femme head of a woman by pablo picasso 1952]] — shared language: tete, femme, woman
-- [[knowledge/wiki/images/tete de femme de profil head of a woman in profile by pablo picasso 1926 929866ec|tete de femme de profil head of a woman in profile by pablo picasso 1926]] — shared language: tete, femme, woman
+- [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: corpus
+- [[knowledge/wiki/images/The Elephants by Salvador Dal (1948) f98f2ccc|The Elephants by Salvador Dal (1948)]] — shared language: salvador
+- [[knowledge/wiki/images/50 Secrets of Magic Craftsmanship by Salvador Dal (1947) 4fb2f715|50 Secrets of Magic Craftsmanship by Salvador Dal (1947)]] — shared language: salvador
 <!-- vault-crosslinks:end -->

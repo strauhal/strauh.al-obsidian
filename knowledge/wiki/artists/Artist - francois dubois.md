@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - paul dubois|Artist - paul dubois]] — shared language: dubois
 - [[knowledge/wiki/artists/Artist - francois boucher|Artist - francois boucher]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — shared language: francois
 - [[knowledge/wiki/images/l ange dechu the fallen angel by paul dubois 1873 e70ff067|l ange dechu the fallen angel by paul dubois 1873]] — shared language: dubois
+- [[knowledge/wiki/artists/Artist - francois morellet|Artist - francois morellet]] — shared language: francois
 - [[knowledge/wiki/artists/Artist - gabriel francois doyen|Artist - gabriel francois doyen]] — shared language: francois
 <!-- vault-crosslinks:end -->

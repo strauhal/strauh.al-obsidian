@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Aurora ad69604a|Aurora]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin, church, frederic
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin, church, frederic
-- [[knowledge/wiki/artists/Artist - frederic edwin church|Artist - frederic edwin church]] — shared language: edwin, church, frederic
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1857|Artist - frederic edwin church 1857]] — shared language: edwin, church, frederic
-- [[knowledge/wiki/images/cotopaxi by frederic edwin church 1855 010ac1cc|cotopaxi by frederic edwin church 1855]] — shared language: edwin, church, frederic
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin, frederic, church
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/artists/Artist - frederic edwin church|Artist - frederic edwin church]] — shared language: edwin, frederic, church
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1857|Artist - frederic edwin church 1857]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/images/cotopaxi by frederic edwin church 1855 010ac1cc|cotopaxi by frederic edwin church 1855]] — shared language: edwin, frederic, church
 <!-- vault-crosslinks:end -->

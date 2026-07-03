@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - wesley stokes|Artist - wesley stokes]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wesley stokes|Artist - wesley stokes]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john wesley 1984|Artist - john wesley 1984]] — shared language: wesley
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john wesley 1987 1988|Artist - john wesley 1987 1988]] — shared language: wesley
 - [[knowledge/wiki/artists/Artist - john wesley|Artist - john wesley]] — shared language: wesley

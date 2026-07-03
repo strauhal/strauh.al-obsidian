@@ -1,0 +1,33 @@
+---
+title: "Photograph Snowy Hillside with Bare Trees, Building, and Black Railing"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Snowy Hillside with Bare Trees, Building, and Black Railing.jpg"
+source_relpath: "2000s/Photograph - Snowy Hillside with Bare Trees, Building, and Black Railing.jpg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Photograph Snowy Hillside with Bare Trees, Building, and Black Railing
+
+![[media/strauh.al3.1/2000s/Photograph - Snowy Hillside with Bare Trees, Building, and Black Railing.jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Photograph - Snowy Hillside with Bare Trees, Building, and Black Railing.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Snowy Hillside with Bare Trees, Building, and Black Railing.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees
+- [[knowledge/wiki/images/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: bare, snowy, trees
+- [[knowledge/wiki/images/Photograph Aerial View of Colorful Houses on Snowy Hillside d6b5849c|Photograph Aerial View of Colorful Houses on Snowy Hillside]] — shared language: hillside, snowy
+- [[knowledge/wiki/images/Diagram Architectural Cross Sections of a Modern Building on a Hillside 183f93e2|Diagram Architectural Cross Sections of a Modern Building on a Hillside]] — shared language: hillside, building
+- [[knowledge/wiki/images/Illustration Black And White Etching Of A Building Surrounded By Trees 49bb7d57|Illustration Black And White Etching Of A Building Surrounded By Trees]] — shared language: trees, building
+<!-- vault-crosslinks:end -->

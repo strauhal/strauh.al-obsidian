@@ -21,8 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/artists/Artist - santiago caruso|Artist - santiago caruso]] — shared language: santiago
-- [[knowledge/wiki/images/the great adversary by santiago caruso 2012 1f8f3728|the great adversary by santiago caruso 2012]] — shared language: santiago
-- [[knowledge/wiki/images/ramon prat armani hong kong fuksas 007 2 jpg 56b99425|ramon prat armani hong kong fuksas 007 2 jpg]] — shared language: ramon
+- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: santiago
+- [[knowledge/wiki/images/Jard n de Aranjuez by Santiago Rusi ol (1907) a30434f2|Jard n de Aranjuez by Santiago Rusi ol (1907)]] — shared language: santiago
+- [[knowledge/wiki/images/Champagne Codorniu by Ramon Casas i Carb (1902) d7afcf3e|Champagne Codorniu by Ramon Casas i Carb (1902)]] — shared language: ramon
 - [[knowledge/wiki/maps/Psychological Types|Psychological Types]] — shared language: types
+- [[knowledge/wiki/images/Illustration Cartoon Figures With Geometric Shapes Illustrating Different Body Types 23e7700b|Illustration Cartoon Figures With Geometric Shapes Illustrating Different Body Types]] — shared language: types, different
 <!-- vault-crosslinks:end -->

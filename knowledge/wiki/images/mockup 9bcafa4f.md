@@ -1,12 +1,12 @@
 ---
 title: "mockup"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/implicitdistance/mockup.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/implicitdistance/mockup.png"
 source_relpath: "implicitdistance/mockup.png"
 collection: "implicitdistance"
 inferred_year: ""
 artist: ""
-dimensions: "640x480"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/implicitdistance"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/implicitdistance/mockup.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/implicitdistance/mockup.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/implicitdistance/mockup.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

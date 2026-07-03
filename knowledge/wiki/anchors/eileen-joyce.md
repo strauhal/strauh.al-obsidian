@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/images/black and white portrait of james joyce in round glasses 9b7cc14f|black and white portrait of james joyce in round glasses]] — shared language: joyce
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

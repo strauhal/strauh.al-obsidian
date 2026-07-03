@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1790s"
 source_kind: "date_bucket"
-count: "22"
+count: "28"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,19 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1790s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 22
+Files: 28
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/Master James Hatch by William Beechey (1799).jpeg]]
+
+![[media/strauh.al3.1/1700s/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795).jpeg]]
+
+![[media/strauh.al3.1/1700s/Portrait of a Young Woman in a Feathered Hat by Élisabeth Louise Vigée Le Brun (1797).jpg]]
+
+![[media/strauh.al3.1/1700s/The Execution of Louis XVI by Pierre-Antoine Demachy (1793).jpg]]
+
+![[media/strauh.al3.1/1700s/Witches' Flight by Francisco Goya (c. 1798).jpg]]
 
 ![[media/strauh.al3.1/1700s/athena_restraining_achilles_by_john_flaxman_c_1793_1794.jpeg]]
 
@@ -50,12 +60,6 @@ Files: 22
 ![[media/strauh.al3.1/1700s/the_family_of_sir_thomas_frankland_bt_by_john_hoppner_1792.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_ghost_of_oiwa_played_by_onoe_matsusuke_i_by_utagawa_toyokuni_i_c_1796.jpg]]
-
-![[media/strauh.al3.1/1700s/the_staircase_group_by_charles_willson_peale_1795.jpeg]]
-
-![[media/strauh.al3.1/1700s/the_tennis_court_oath_le_serment_du_jeu_de_paume_by_jacques_louis_david_c_1791.jpg]]
-
-![[media/strauh.al3.1/1700s/vue_du_champ_de_mars_a_l_instant_du_serment_1790.jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

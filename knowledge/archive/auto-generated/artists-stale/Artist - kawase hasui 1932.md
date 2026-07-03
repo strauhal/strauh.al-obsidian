@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, rain
 - [[knowledge/wiki/artists/Artist - kawase hasui|Artist - kawase hasui]] — shared language: hasui, kawase, yotsugi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1930|Artist - kawase hasui 1930]] — shared language: hasui, kawase, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1925|Artist - kawase hasui 1925]] — shared language: hasui, kawase
 - [[knowledge/wiki/images/rain at omiya by kawase hasui 1930 e4b917af|rain at omiya by kawase hasui 1930]] — shared language: hasui, kawase, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1921|Artist - kawase hasui 1921]] — shared language: hasui, kawase
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1927|Artist - kawase hasui 1927]] — shared language: hasui, kawase, temple
 <!-- vault-crosslinks:end -->

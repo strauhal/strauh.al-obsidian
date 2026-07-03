@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1930|Artist - pavel tchelitchew 1930]] — shared language: pavel, tchelitchew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1932|Artist - pavel tchelitchew 1932]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/images/the music by pavel tchelitchew 1930 02456c6d|the music by pavel tchelitchew 1930]] — shared language: pavel, tchelitchew
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1948|Artist - pavel tchelitchew 1948]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/artists/Artist - pavel tchelitchew|Artist - pavel tchelitchew]] — shared language: pavel, tchelitchew, george
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1948|Artist - pavel tchelitchew 1948]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/images/the concert by pavel tchelitchew 1930 69117120|the concert by pavel tchelitchew 1930]] — shared language: pavel, tchelitchew
 <!-- vault-crosslinks:end -->

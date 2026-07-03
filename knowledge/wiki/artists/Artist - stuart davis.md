@@ -36,6 +36,6 @@ Images attributed by filename: 5
 - [[knowledge/wiki/images/something on the eight ball by stuart davis 19531954 a21888ac|something on the eight ball by stuart davis 19531954]] — shared language: davis, stuart
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: davis
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
+- [[knowledge/wiki/artists/Artist - Terry A. Davis|Artist - Terry A. Davis]] — shared language: davis
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, still
-- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 <!-- vault-crosslinks:end -->

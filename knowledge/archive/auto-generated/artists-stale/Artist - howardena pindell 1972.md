@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - howardena pindell|Artist - howardena pindell]] — named in this note
+- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: cold
 - [[knowledge/archive/auto-generated/artists-stale/Artist - howard terpning 1991|Artist - howard terpning 1991]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hua yan 1737|Artist - hua yan 1737]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

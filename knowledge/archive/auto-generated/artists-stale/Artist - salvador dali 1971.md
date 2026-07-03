@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1929|Artist - salvador dali 1929]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1949|Artist - salvador dali 1949]] — shared language: dali, salvador
-- [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1944 1945|Artist - salvador dali 1944 1945]] — shared language: dali, salvador
-- [[knowledge/wiki/artists/Artist - salvador dali|Artist - salvador dali]] — shared language: dali, salvador, pregnant
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1952|Artist - salvador dali 1952]] — shared language: dali, salvador
+- [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1944 1945|Artist - salvador dali 1944 1945]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1942|Artist - salvador dali 1942]] — shared language: dali, salvador
+- [[knowledge/wiki/artists/Artist - salvador dali|Artist - salvador dali]] — shared language: dali, salvador, pregnant
 <!-- vault-crosslinks:end -->

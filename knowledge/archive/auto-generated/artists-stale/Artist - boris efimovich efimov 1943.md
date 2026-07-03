@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - boris grigoriev|Artist - boris grigoriev]] — shared language: boris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - boris grigoriev 1926|Artist - boris grigoriev 1926]] — shared language: boris
 - [[knowledge/wiki/images/the mulatto by boris grigoriev 1926 10c53833|the mulatto by boris grigoriev 1926]] — shared language: boris
+- [[knowledge/wiki/images/Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939) 5af82f16|Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939)]] — shared language: boris
 - [[knowledge/wiki/artists/Artist - paulus potter|Artist - paulus potter]] — shared language: paulus
-- [[knowledge/archive/auto-generated/artists-stale/Artist - paulus potter 1652|Artist - paulus potter 1652]] — shared language: paulus
 <!-- vault-crosslinks:end -->

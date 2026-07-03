@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
+- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/joseph beuys drawing on blackboard b1eb30f6|joseph beuys drawing on blackboard]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/joseph beuys crawford c44457d9|joseph beuys crawford]] — shared language: beuys, joseph
+- [[knowledge/wiki/images/Coyote by Joseph Beuys (1974) 6ca766fe|Coyote by Joseph Beuys (1974)]] — shared language: beuys, joseph
+- [[knowledge/wiki/images/Photograph Joseph Beuys Drawing on a Blackboard ff386ff7|Photograph Joseph Beuys Drawing on a Blackboard]] — shared language: beuys, joseph
 - [[knowledge/wiki/images/joseph beuys felt suit 1970 cb2512af|joseph beuys felt suit 1970]] — shared language: beuys, joseph
 <!-- vault-crosslinks:end -->

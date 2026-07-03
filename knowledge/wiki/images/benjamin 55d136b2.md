@@ -1,12 +1,12 @@
 ---
 title: "benjamin"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/portraits/benjamin.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/portraits/benjamin.png"
 source_relpath: "portraits/benjamin.png"
 collection: "portraits"
 inferred_year: ""
 artist: ""
-dimensions: "2538x3194"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/portraits"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/portraits/benjamin.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/portraits/benjamin.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/portraits/benjamin.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

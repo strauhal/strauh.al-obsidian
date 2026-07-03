@@ -20,8 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Muhammad Fatchurofi|Artist - Muhammad Fatchurofi]] — shared language: muhammad
 - [[knowledge/wiki/images/the sultan s pool by jim burns 1987 dfcab193|the sultan s pool by jim burns 1987]] — shared language: sultan
+- [[knowledge/wiki/images/Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi 50c36bd8|Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi]] — shared language: muhammad
 - [[knowledge/wiki/artists/Artist - jim burns|Artist - jim burns]] — shared language: sultan
+- [[knowledge/wiki/images/Illustration Basketball Hoop On Court Against Blue Sky 4cdc3cf0|Illustration Basketball Hoop On Court Against Blue Sky]] — shared language: court
 - [[knowledge/wiki/images/sepia photograph of the court of honor with the statue of the republic world s columbian exposition 1893 d1e37c01|sepia photograph of the court of honor with the statue of the republic world s columbian exposition 1893]] — shared language: court
-- [[knowledge/wiki/images/the tennis court oath le serment du jeu de paume by jacques louis david c 1791 5d82c2bf|the tennis court oath le serment du jeu de paume by jacques louis david c 1791]] — shared language: court
 <!-- vault-crosslinks:end -->

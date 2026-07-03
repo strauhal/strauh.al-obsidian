@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: master, saint
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: master
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: master
-- [[knowledge/wiki/images/booth 2817 cropped master jpg ee8b3a54|booth 2817 cropped master jpg]] — shared language: master
-- [[knowledge/wiki/images/franklin booth cropped master drawing ff43febf|franklin booth cropped master drawing]] — shared language: master
-- [[knowledge/wiki/images/franklin booth master study pen and ink a253b2bd|franklin booth master study pen and ink]] — shared language: master
+- [[knowledge/wiki/images/Master James Hatch by William Beechey (1799) 5a7b79af|Master James Hatch by William Beechey (1799)]] — shared language: master
+- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: master
+- [[knowledge/wiki/images/Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf 44e472d1|Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf]] — shared language: master
 <!-- vault-crosslinks:end -->

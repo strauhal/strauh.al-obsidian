@@ -1,0 +1,33 @@
+---
+title: "black and white sketch of two stylized female figures with aggressive expressions"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/black_and_white_sketch_of_two_stylized_female_figures_with_aggressive_expressions.png"
+source_relpath: "2000s/black_and_white_sketch_of_two_stylized_female_figures_with_aggressive_expressions.png"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "895x691"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# black and white sketch of two stylized female figures with aggressive expressions
+
+![[media/strauh.al3.1/2000s/black_and_white_sketch_of_two_stylized_female_figures_with_aggressive_expressions.png]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/black_and_white_sketch_of_two_stylized_female_figures_with_aggressive_expressions.png|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/black_and_white_sketch_of_two_stylized_female_figures_with_aggressive_expressions.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: female, sketch, stylized
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/images/Illustration Watercolor Painting of Stylized Female Figure with Red Flowers 23aafe47|Illustration Watercolor Painting of Stylized Female Figure with Red Flowers]] — shared language: female, stylized
+- [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: female, stylized
+- [[_archive/auto-generated/images-stale/black and white line drawing of a stylized female face and organic forms bca7462c|black and white line drawing of a stylized female face and organic forms]] — shared language: female, stylized
+<!-- vault-crosslinks:end -->

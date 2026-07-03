@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/no 10 by mark rothko 1950 36d47fad|no 10 by mark rothko 1950]] — named in this note
 - [[knowledge/wiki/artists/Artist - mark rothko|Artist - mark rothko]] — shared language: rothko, mark, royal
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark rothko 1950|Artist - mark rothko 1950]] — shared language: rothko, mark
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mark rothko 1958|Artist - mark rothko 1958]] — shared language: rothko, mark, red
-- [[knowledge/wiki/images/no 16 red brown and black by mark rothko 1958 f7b70864|no 16 red brown and black by mark rothko 1958]] — shared language: rothko, mark, red
-- [[knowledge/wiki/images/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mark rothko 1958|Artist - mark rothko 1958]] — shared language: rothko, mark
+- [[knowledge/wiki/images/no 16 red brown and black by mark rothko 1958 f7b70864|no 16 red brown and black by mark rothko 1958]] — shared language: rothko, mark
+- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "the great red dragon and the woman clothed with the sun by william blake c 1805"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg"
 source_relpath: "1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg"
 collection: "1800s"
 inferred_year: "1805"
 artist: "william blake"
-dimensions: "1280x1614"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - william blake]]
 
 Source: [[media/strauh.al3.1/1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_by_william_blake_c_1805.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/images/the ancient of days frontispiece to europe a prophecy by william blake 1794 11d0d61a|the ancient of days frontispiece to europe a prophecy by william blake 1794]] — same artist: william blake
 - [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: blake, william
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william, great
-- [[knowledge/wiki/images/framed modern city crowd scene with white clothed figures a580c326|framed modern city crowd scene with white clothed figures]] — shared language: clothed
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
 <!-- vault-crosslinks:end -->

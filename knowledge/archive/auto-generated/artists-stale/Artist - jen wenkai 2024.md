@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jen wenkai|Artist - jen wenkai]] — named in this note
-- [[knowledge/wiki/images/abstract drawing with central black and white stippled pattern framed by geometric borders and stylized white architectural forms by jen wohlnee 2023 8a3cde58|abstract drawing with central black and white stippled pattern framed by geometric borders and stylized white architectural forms by jen wohlnee 2023]] — shared language: jen, central, abstract
-- [[knowledge/wiki/images/mixed media collage featuring sheet music red polka dots and cherry imagery 7f77979c|mixed media collage featuring sheet music red polka dots and cherry imagery]] — shared language: mixed, collage, media
-- [[knowledge/wiki/images/abstract mixed media drawing with dense lines and red marks ad98f3bb|abstract mixed media drawing with dense lines and red marks]] — shared language: mixed, media, abstract
-- [[knowledge/wiki/images/framed black and white abstract collage with figures 32ca4ae5|framed black and white abstract collage with figures]] — shared language: collage, abstract, figures
-- [[knowledge/wiki/images/installation of multiple square abstract paintings featuring colorful dots and patterns 0ac7e2d6|installation of multiple square abstract paintings featuring colorful dots and patterns]] — shared language: square, patterns, featuring
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jen wenkai|Artist - jen wenkai]] — named in this note
+- [[_archive/auto-generated/images-stale/abstract drawing with central black and white stippled pattern framed by geometric borders and stylized white architectural forms by jen wohlnee 2023 8a3cde58|abstract drawing with central black and white stippled pattern framed by geometric borders and stylized white architectural forms by jen wohlnee 2023]] — shared language: jen, central
+- [[_archive/auto-generated/images-stale/mixed media collage featuring sheet music red polka dots and cherry imagery 7f77979c|mixed media collage featuring sheet music red polka dots and cherry imagery]] — shared language: mixed, collage, featuring
+- [[_archive/auto-generated/images-stale/installation of multiple square abstract paintings featuring colorful dots and patterns 0ac7e2d6|installation of multiple square abstract paintings featuring colorful dots and patterns]] — shared language: square, patterns, featuring
+- [[knowledge/wiki/images/Illustration Mixed Media Collage with Sheet Music, Red Polka Dots, and Cherries 8c5df37a|Illustration Mixed Media Collage with Sheet Music, Red Polka Dots, and Cherries]] — shared language: mixed, collage, media
+- [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 <!-- vault-crosslinks:end -->

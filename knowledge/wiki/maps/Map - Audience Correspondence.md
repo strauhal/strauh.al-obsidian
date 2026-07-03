@@ -53,9 +53,9 @@ Full messages, pseudonymized thread notes, and attachments are stored under `kno
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: audience, stored, internet
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: completed, assembled, traces
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, messages
 - [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: unique, messages, fanmail
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, private
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — shared language: private, site
+- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: audience
+- [[knowledge/wiki/images/Photograph Purple And Green Excavator On A Construction Site dc2f864b|Photograph Purple And Green Excavator On A Construction Site]] — shared language: site
 <!-- vault-crosslinks:end -->

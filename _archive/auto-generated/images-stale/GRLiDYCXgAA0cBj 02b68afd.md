@@ -1,0 +1,31 @@
+---
+title: "GRLiDYCXgAA0cBj"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg"
+source_relpath: "2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg"
+collection: "2024_downloadsfolder"
+inferred_year: ""
+artist: ""
+dimensions: "1371x1152"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2024_downloadsfolder"]
+---
+# GRLiDYCXgAA0cBj
+
+![[media/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg]]
+
+Collection: [[Collection - 2024 downloadsfolder]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024_downloadsfolder/GRLiDYCXgAA0cBj.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[_archive/auto-generated/images-stale/GRGk jZb0AAOl9s ff4d6909|GRGk jZb0AAOl9s]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/GRQ8yCFXsAAxHPW 50dd8ff5|GRQ8yCFXsAAxHPW]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/GRGOhRgXYAEwDId 16e23ca7|GRGOhRgXYAEwDId]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

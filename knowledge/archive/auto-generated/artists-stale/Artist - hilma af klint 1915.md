@@ -22,5 +22,6 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - hilma af klint|Artist - hilma af klint]] — named in this note
 - [[knowledge/wiki/images/plate 97 by hilma af klint c 19001915 a9d185f3|plate 97 by hilma af klint c 19001915]] — shared language: hilma, klint
-- [[knowledge/wiki/images/framed painting of a white swan on dark water d2b2bf06|framed painting of a white swan on dark water]] — shared language: swan
+- [[knowledge/wiki/images/The Swan by Adelle H. Fiske (c. 1920) 2f378ba1|The Swan by Adelle H. Fiske (c. 1920)]] — shared language: swan
+- [[_archive/auto-generated/images-stale/framed painting of a white swan on dark water d2b2bf06|framed painting of a white swan on dark water]] — shared language: swan
 <!-- vault-crosslinks:end -->

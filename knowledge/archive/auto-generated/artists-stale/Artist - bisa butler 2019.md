@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - bisa butler|Artist - bisa butler]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bisa butler|Artist - bisa butler]] — named in this note
+- [[knowledge/wiki/images/Flock II 773f227b|Flock II]] — named in this note
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: butler
 - [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: butler
 - [[knowledge/archive/auto-generated/artists-stale/Artist - elizabeth thompson lady butler 1875|Artist - elizabeth thompson lady butler 1875]] — shared language: butler
 - [[knowledge/wiki/images/the 28th regiment at quatre bras by elizabeth thompson lady butler 1875 1252a89a|the 28th regiment at quatre bras by elizabeth thompson lady butler 1875]] — shared language: butler
-- [[knowledge/wiki/images/flock ii album art by mason london 2020 98a62e36|flock ii album art by mason london 2020]] — shared language: flock
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - roy lichtenstein|Artist - roy lichtenstein]] — named in this note
-- [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: roy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - roy de forest|Artist - roy de forest]] — shared language: roy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roy de forest 2001|Artist - roy de forest 2001]] — shared language: roy
-- [[knowledge/wiki/images/dog star ii by roy de forest 2001 db67f2a4|dog star ii by roy de forest 2001]] — shared language: roy
-- [[knowledge/wiki/artists/Artist - samik roy choudhury|Artist - samik roy choudhury]] — shared language: roy
-- [[knowledge/archive/auto-generated/artists-stale/Artist - samik roy choudhury 2020|Artist - samik roy choudhury 2020]] — shared language: roy
+- [[_archive/auto-generated/images-stale/dog star ii by roy de forest 2001 db67f2a4|dog star ii by roy de forest 2001]] — shared language: roy
+- [[knowledge/wiki/artists/Artist - Arpita Roy|Artist - Arpita Roy]] — shared language: roy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samik roy choudhury|Artist - samik roy choudhury]] — shared language: roy
 <!-- vault-crosslinks:end -->

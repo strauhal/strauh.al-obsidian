@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kenny scharf|Artist - kenny scharf]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf|Artist - kenny scharf]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf 2021|Artist - kenny scharf 2021]] — named in this note
-- [[knowledge/wiki/images/mr goody goody by kenny scharf 2021 7de5ee79|mr goody goody by kenny scharf 2021]] — shared language: scharf, kenny
+- [[_archive/auto-generated/images-stale/mr goody goody by kenny scharf 2021 7de5ee79|mr goody goody by kenny scharf 2021]] — shared language: scharf, kenny
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
 - [[knowledge/wiki/culture/music-azimuth|Listening - Azimuth]] — shared language: kenny
-- [[knowledge/wiki/images/illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan a52afe28|illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan]] — shared language: bubble
+- [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
 <!-- vault-crosslinks:end -->

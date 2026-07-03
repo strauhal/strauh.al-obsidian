@@ -1,12 +1,12 @@
 ---
 title: "william morris by frederick hollyer 1884"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg"
 source_relpath: "1800s/william_morris_by_frederick_hollyer_1884.jpg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "frederick hollyer"
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - frederick hollyer]]
 
 Source: [[media/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/william_morris_by_frederick_hollyer_1884.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

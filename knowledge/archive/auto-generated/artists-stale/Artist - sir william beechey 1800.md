@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — named in this note
+- [[knowledge/wiki/images/Master James Hatch by William Beechey (1799) 5a7b79af|Master James Hatch by William Beechey (1799)]] — shared language: beechey, william
 - [[knowledge/wiki/images/sir william quiller orchardson napoleon on st helena 1892 8d009129|sir william quiller orchardson napoleon on st helena 1892]] — shared language: sir, william
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sir robert strange 1762|Artist - sir robert strange 1762]] — shared language: sir, robert
 - [[knowledge/wiki/images/the family of sir thomas frankland bt by john hoppner 1792 7a7abc39|the family of sir thomas frankland bt by john hoppner 1792]] — shared language: sir, frankland, family
-- [[knowledge/wiki/images/the death of dido by sir robert strange 1762 2c3ce4fe|the death of dido by sir robert strange 1762]] — shared language: sir, robert
 <!-- vault-crosslinks:end -->

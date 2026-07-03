@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1700s"
 source_kind: "image_collection"
-count: "114"
+count: "130"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,9 +9,41 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 114
+Files: 130
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/A Panoramic View of Paris from the Louvre by Jean-Baptiste Raguenet (c. 1757).jpg]]
+
+![[media/strauh.al3.1/1700s/Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752).jpg]]
+
+![[media/strauh.al3.1/1700s/Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789).jpeg]]
+
+![[media/strauh.al3.1/1700s/John Coasts Esq. by Joseph Wright of Derby (1770s).jpeg]]
+
+![[media/strauh.al3.1/1700s/Master James Hatch by William Beechey (1799).jpeg]]
+
+![[media/strauh.al3.1/1700s/Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770).jpg]]
+
+![[media/strauh.al3.1/1700s/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795).jpeg]]
+
+![[media/strauh.al3.1/1700s/Mrs. William Hope (née Anne Goddard) by Sir Joshua Reynolds (1774-1780).jpeg]]
+
+![[media/strauh.al3.1/1700s/Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775).jpg]]
+
+![[media/strauh.al3.1/1700s/Portrait of a Young Woman in a Feathered Hat by Élisabeth Louise Vigée Le Brun (1797).jpg]]
+
+![[media/strauh.al3.1/1700s/Shibai Ukie by Okumura Masanobu (c. 1740-1745).jpg]]
+
+![[media/strauh.al3.1/1700s/Te Deum Laudamus by Robert Strange (1760).jpeg]]
+
+![[media/strauh.al3.1/1700s/The Execution of Louis XVI by Pierre-Antoine Demachy (1793).jpg]]
+
+![[media/strauh.al3.1/1700s/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757).jpg]]
+
+![[media/strauh.al3.1/1700s/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776-1780).jpg]]
+
+![[media/strauh.al3.1/1700s/Witches' Flight by Francisco Goya (c. 1798).jpg]]
 
 ![[media/strauh.al3.1/1700s/a_group_of_artists_by_mason_chamberlin_1767.jpeg]]
 
@@ -29,40 +61,24 @@ Files: 114
 
 ![[media/strauh.al3.1/1700s/belisarius_by_robert_strange_1757.jpeg]]
 
-![[media/strauh.al3.1/1700s/bernardo_bellotto_view_of_warsaw_from_praga_c_1770.jpg]]
-
-![[media/strauh.al3.1/1700s/capriccio_of_roman_ruins_with_figures_by_giovanni_paolo_panini_c_1740.jpeg]]
-
-![[media/strauh.al3.1/1700s/cupid_and_psyche_by_antonio_canova_1787_93.jpeg]]
-
-![[media/strauh.al3.1/1700s/david_hume_by_allan_ramsay_1754.jpg]]
-
-![[media/strauh.al3.1/1700s/design_by_angelica_kauffman_1778.jpeg]]
-
-![[media/strauh.al3.1/1700s/design_for_a_chinoiserie_cartouche_by_jean_baptiste_pillement_c_17551760.jpg]]
-
-![[media/strauh.al3.1/1700s/design_for_a_stage_set_with_a_grand_staircase_by_giuseppe_galli_bibiena_c_1740.jpeg]]
-
-![[media/strauh.al3.1/1700s/ecstasy_of_st_francis_by_giambattista_piazzetta_c_1730.jpeg]]
-
-![[media/strauh.al3.1/1700s/engraving_of_anatomical_studies_of_human_eyes_and_noses_plate_titled_dessein_1763.jpeg]]
-
-![[media/strauh.al3.1/1700s/flower_still_life_by_rachel_ruysch_after_1700.jpeg]]
-
-![[media/strauh.al3.1/1700s/four_women_playing_musical_instruments_by_kitagawa_utamaro_c_1790_1795.jpg]]
-
-![[media/strauh.al3.1/1700s/francisco_de_goya_the_temptation_of_st_anthony_c_1798.jpg]]
-
-![[media/strauh.al3.1/1700s/george_berkeley_16851753_bishop_of_cloyne_by_john_smibert_c_1728.jpg]]
-
-![[media/strauh.al3.1/1700s/george_washington_the_lansdowne_portrait_by_gilbert_stuart_1796.jpg]]
-
-![[media/strauh.al3.1/1700s/giovanni_battista_tiepolo_the_empire_of_flora_c_1743_jpg.jpg]]
-
-![[media/strauh.al3.1/1700s/giovanni_battista_tiepolo_wealth_and_benefits_of_the_spanish_monarchy_under_charles_iii_1762_nga_12137_jpg.jpg]]
-
 ## Image Notes
 
+- [[A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757) 85501861|A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757)]]
+- [[Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752) 432f8d55|Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752)]]
+- [[Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789) 33f47fa7|Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789)]]
+- [[John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]]
+- [[Master James Hatch by William Beechey (1799) 5a7b79af|Master James Hatch by William Beechey (1799)]]
+- [[Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770) 9e98997f|Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770)]]
+- [[Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795) 5b716454|Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795)]]
+- [[Mrs. William Hope (n e Anne Goddard) by Sir Joshua Reynolds (1774 1780) 6b37d278|Mrs. William Hope (n e Anne Goddard) by Sir Joshua Reynolds (1774 1780)]]
+- [[Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775) dbead3f8|Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775)]]
+- [[Portrait of a Young Woman in a Feathered Hat by lisabeth Louise Vig e Le Brun (1797) cfb812de|Portrait of a Young Woman in a Feathered Hat by lisabeth Louise Vig e Le Brun (1797)]]
+- [[Shibai Ukie by Okumura Masanobu (c. 1740 1745) 65b0b9aa|Shibai Ukie by Okumura Masanobu (c. 1740 1745)]]
+- [[Te Deum Laudamus by Robert Strange (1760) 9798cab5|Te Deum Laudamus by Robert Strange (1760)]]
+- [[The Execution of Louis XVI by Pierre Antoine Demachy (1793) 89313f0a|The Execution of Louis XVI by Pierre Antoine Demachy (1793)]]
+- [[The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757) 072a67b8|The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757)]]
+- [[Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780) af192adb|Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780)]]
+- [[Witches' Flight by Francisco Goya (c. 1798) c3eba3cf|Witches' Flight by Francisco Goya (c. 1798)]]
 - [[a group of artists by mason chamberlin 1767 2ac686d8|a group of artists by mason chamberlin 1767]]
 - [[a shipwreck by claude joseph vernet 1765 a106c31f|a shipwreck by claude joseph vernet 1765]]
 - [[allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]]

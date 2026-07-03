@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/jules bastienlepage october the potato gatherers 1878 5fbb7124|jules bastienlepage october the potato gatherers 1878]] — shared language: jules
+- [[knowledge/wiki/artists/Artist - Edouard Taufenbach and Bastien Pourtout|Artist - Edouard Taufenbach and Bastien Pourtout]] — shared language: bastien
+- [[knowledge/wiki/images/Illustration Grid of Silhouetted Birds Against a Cloudy Sky by Edouard Taufenbach and Bastien Pourtout feb886ce|Illustration Grid of Silhouetted Birds Against a Cloudy Sky by Edouard Taufenbach and Bastien Pourtout]] — shared language: bastien
 - [[knowledge/wiki/images/portrait of jules hardouin mansart by hyacinthe rigaud c 1699 b9a60f0c|portrait of jules hardouin mansart by hyacinthe rigaud c 1699]] — shared language: jules
 - [[knowledge/wiki/images/frank e schoonover joan of arc 1911 e62f0b11|frank e schoonover joan of arc 1911]] — shared language: arc, joan
-- [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — shared language: joan
-- [[knowledge/wiki/artists/Artist - joan mitchell|Artist - joan mitchell]] — shared language: joan
-- [[knowledge/wiki/images/the tree by joan mitchell 1980 c493b0f2|the tree by joan mitchell 1980]] — shared language: joan
+- [[knowledge/wiki/images/Illustration Celestial Battle Scene with Armored Angels and Joan of Arc c62cd93a|Illustration Celestial Battle Scene with Armored Angels and Joan of Arc]] — shared language: arc, joan
 <!-- vault-crosslinks:end -->

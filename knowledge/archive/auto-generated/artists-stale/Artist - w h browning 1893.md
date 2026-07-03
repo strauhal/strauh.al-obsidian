@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - w h browning|Artist - w h browning]] — named in this note
-- [[knowledge/wiki/images/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: roof, building
-- [[knowledge/wiki/images/administration building d797c4c3|administration building]] — shared language: building
-- [[knowledge/wiki/images/view of a small white house with red roof in a green field through a circular frame 1b8f07f3|view of a small white house with red roof in a green field through a circular frame]] — shared language: roof, view
-- [[knowledge/wiki/images/view from illinois bldg sep 18 1892 1892 2ecc4dd8|view from illinois bldg sep 18 1892 1892]] — shared language: view
-- [[knowledge/wiki/images/pixel art of a white house with red roof black car and turquoise sky b035fb06|pixel art of a white house with red roof black car and turquoise sky]] — shared language: roof
+- [[_archive/auto-generated/images-stale/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: roof, building
+- [[knowledge/wiki/images/Photograph Two Statues On Building Roof Amidst Power Lines 827d8296|Photograph Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
+- [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, view
+- [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
+- [[_archive/auto-generated/images-stale/view of a small white house with red roof in a green field through a circular frame 1b8f07f3|view of a small white house with red roof in a green field through a circular frame]] — shared language: roof, view
 <!-- vault-crosslinks:end -->

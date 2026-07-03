@@ -21,6 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - luigi ghirri|Artist - luigi ghirri]] — named in this note
-- [[knowledge/wiki/images/sunday news free luigi deny 95899189 jpg d15b9f11|sunday news free luigi deny 95899189 jpg]] — shared language: luigi
-- [[knowledge/wiki/images/chinese ink and color painting of red and yellow peonies with bees 2a7a64b8|chinese ink and color painting of red and yellow peonies with bees]] — shared language: peonies
+- [[knowledge/wiki/images/Photograph Luigi Mangione's Arrest 4b9bcd4c|Photograph Luigi Mangione's Arrest]] — shared language: luigi
+- [[_archive/auto-generated/images-stale/sunday news free luigi deny 95899189 jpg d15b9f11|sunday news free luigi deny 95899189 jpg]] — shared language: luigi
+- [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: luigi
+- [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: luigi
+- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — shared language: luigi
 <!-- vault-crosslinks:end -->

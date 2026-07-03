@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — named in this note
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: smith
+- [[knowledge/wiki/images/The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909) 5c8d2461|The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909)]] — shared language: pamela, colman, smith
+- [[knowledge/archive/auto-generated/artists-stale/Artist - michael s smith|Artist - michael s smith]] — shared language: smith
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael s smith 2019|Artist - michael s smith 2019]] — shared language: smith
 - [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rodney smith 1991|Artist - rodney smith 1991]] — shared language: smith
-- [[knowledge/wiki/images/the temptress by michael s smith 2019 079d24ac|the temptress by michael s smith 2019]] — shared language: smith
 <!-- vault-crosslinks:end -->

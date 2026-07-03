@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - charles willson peale|Artist - charles willson peale]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles willson peale 1795|Artist - charles willson peale 1795]] — named in this note
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/images/the staircase group by charles willson peale 1795 409af89d|the staircase group by charles willson peale 1795]] — shared language: willson, peale, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
 <!-- vault-crosslinks:end -->

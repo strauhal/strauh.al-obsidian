@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — named in this note
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
-- [[knowledge/wiki/artists/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili 2017|Artist - chris ofili 2017]] — shared language: chris
+- [[_archive/auto-generated/images-stale/black and white digital illustration of a stylized figure in a hood and chains 3af22c3e|black and white digital illustration of a stylized figure in a hood and chains]] — shared language: hood
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — shared language: chris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris moore 1999|Artist - chris moore 1999]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
 <!-- vault-crosslinks:end -->

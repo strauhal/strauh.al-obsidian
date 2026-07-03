@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/cotopaxi by frederic edwin church 1855 010ac1cc|cotopaxi by frederic edwin church 1855]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin, church, frederic
-- [[knowledge/wiki/artists/Artist - frederic edwin church|Artist - frederic edwin church]] — shared language: edwin, church, frederic
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin, church, frederic
-- [[knowledge/wiki/images/frederic edwin church cotopaxi 1855 607c5106|frederic edwin church cotopaxi 1855]] — shared language: edwin, church, frederic
-- [[knowledge/wiki/images/frederic edwin church cotopaxi 1862 ff207183|frederic edwin church cotopaxi 1862]] — shared language: edwin, church, frederic
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/artists/Artist - frederic edwin church|Artist - frederic edwin church]] — shared language: edwin, frederic, church
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/images/frederic edwin church cotopaxi 1855 607c5106|frederic edwin church cotopaxi 1855]] — shared language: edwin, frederic, church
+- [[knowledge/wiki/images/frederic edwin church cotopaxi 1862 ff207183|frederic edwin church cotopaxi 1862]] — shared language: edwin, frederic, church
 <!-- vault-crosslinks:end -->

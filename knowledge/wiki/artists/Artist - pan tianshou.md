@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: star
+- [[knowledge/wiki/images/The Adoration of Pan by Johfra Bosschart (1979) c79c55d0|The Adoration of Pan by Johfra Bosschart (1979)]] — shared language: pan
+- [[knowledge/wiki/images/The Adoration of Pan by Johfra Bosschart (1979) (2) b0154d0b|The Adoration of Pan by Johfra Bosschart (1979) (2)]] — shared language: pan
+- [[knowledge/wiki/images/Photograph Photograph of an abstract painting depicting a cityscape with a red star 38627cc2|Photograph Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: star
-- [[knowledge/wiki/artists/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: star
 - [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: pan
 - [[knowledge/wiki/images/the star by michael parkes 1998 c739499c|the star by michael parkes 1998]] — shared language: star
-- [[knowledge/wiki/images/the knight of the star by elyvees 2023 d2e1e6dc|the knight of the star by elyvees 2023]] — shared language: star
 <!-- vault-crosslinks:end -->

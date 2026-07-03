@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2000s"
 source_kind: "date_bucket"
-count: "82"
+count: "37"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,57 +9,57 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2000s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 82
+Files: 37
 
 ## Sample
 
-![[media/strauh.al3.1/2000s/2005_102_01_h02_artsy_jpeg_4000_pixels_long_jpg.jpg]]
+![[media/strauh.al3.1/2000s/Alli Mariri by Pablo Amaringo (2003).jpg]]
 
-![[media/strauh.al3.1/2000s/acagalleries_pablo_amaringo_allpa_manchari_2005_webp.webp]]
+![[media/strauh.al3.1/2000s/Anima by Charlotte Dumas (2006).jpg]]
 
-![[media/strauh.al3.1/2000s/acagalleries_pablo_amaringo_unai_shipash_2006_jpg.jpg]]
+![[media/strauh.al3.1/2000s/Asia Dragon by Roger Dean (2003).jpg]]
 
-![[media/strauh.al3.1/2000s/amakusa_shiro_by_takato_yamamoto_2006.jpg]]
+![[media/strauh.al3.1/2000s/Calvary by Stephen Sawyer (2001).jpg]]
 
-![[media/strauh.al3.1/2000s/asia_dragon_by_roger_dean_2003.jpg]]
+![[media/strauh.al3.1/2000s/Concentracion Palistica by Pablo Amaringo (2008).jpg]]
 
-![[media/strauh.al3.1/2000s/bedroom_at_night_by_nikolai_blokhin_2005.jpg]]
+![[media/strauh.al3.1/2000s/El Templo de la Sabiduría by Pablo Amaringo (2008).jpg]]
 
-![[media/strauh.al3.1/2000s/beginning_of_a_strange_point_by_you_si_2004_2009.jpeg]]
+![[media/strauh.al3.1/2000s/HEROIN MAKES HAPPY - demo 2000 (2000).jpg]]
 
-![[media/strauh.al3.1/2000s/belshazzar_s_feast_by_odd_nerdrum_2005.jpeg]]
+![[media/strauh.al3.1/2000s/Hal Emmerich (Otacon) Character Design by Yoji Shinkawa (2001).jpg]]
 
-![[media/strauh.al3.1/2000s/bo_bartlett_homecoming_2004.jpg]]
+![[media/strauh.al3.1/2000s/Haunt Me, Haunt Me Do It Again by Tim Hecker (2001).jpg]]
 
-![[media/strauh.al3.1/2000s/bone_flower_by_shepard_fairey_2007.jpeg]]
+![[media/strauh.al3.1/2000s/Kasse II by Flepp (2007).jpg]]
 
-![[media/strauh.al3.1/2000s/cairo_by_andreas_gursky_2007.jpeg]]
+![[media/strauh.al3.1/2000s/Luna by Kinuko Y. Craft (2008).jpg]]
 
-![[media/strauh.al3.1/2000s/clive_head_washing_2002.png]]
+![[media/strauh.al3.1/2000s/Mai Dang Lao (McDonald's) by Xu Bing (2001).jpeg]]
 
-![[media/strauh.al3.1/2000s/crazy_taxi_2_dreamcast_box_art_2001.jpg]]
+![[media/strauh.al3.1/2000s/Merzbeat by Merzbow (2002).jpeg]]
 
-![[media/strauh.al3.1/2000s/cy_twombly_roman_note_2003.png]]
+![[media/strauh.al3.1/2000s/Metal Gear Solid 2: Sons of Liberty by Hideo Kojima (2001).jpeg]]
 
-![[media/strauh.al3.1/2000s/cy_twombly_untitled_abstract_painting_with_black_yellow_and_white_drips_2002.jpg]]
+![[media/strauh.al3.1/2000s/Metal Gear Solid 2: Sons of Liberty by Hideo Kojima (2001).jpg]]
 
-![[media/strauh.al3.1/2000s/dog_star_ii_by_roy_de_forest_2001.jpeg]]
+![[media/strauh.al3.1/2000s/Obliterate by Glenn Ligon (2004).webp]]
 
-![[media/strauh.al3.1/2000s/el_cazador_by_celes_2009.jpg]]
+![[media/strauh.al3.1/2000s/Photograph - Explosion at World Trade Center South Tower, September 11, 2001 by Sean Adair.jpeg]]
 
-![[media/strauh.al3.1/2000s/el_templo_de_la_sabiduria_by_pablo_amaringo_2008.jpg]]
+![[media/strauh.al3.1/2000s/RMB City: A Second Life City Planning 04 by Cao Fei (2007).jpeg]]
 
-![[media/strauh.al3.1/2000s/exploration_de_la_gravite_by_philippe_ramette_2006.jpg]]
+![[media/strauh.al3.1/2000s/Stadia II by Julie Mehretu (2004).jpeg]]
 
-![[media/strauh.al3.1/2000s/four_panel_drawing_showing_figures_split_between_flesh_tone_and_red_musculature_by_ji_jianye_2004.jpeg]]
+![[media/strauh.al3.1/2000s/Stargazer by Ryan Bliss (2000).jpeg]]
 
-![[media/strauh.al3.1/2000s/guin_saga_the_battle_of_nospherus_by_jun_suemi_2003.jpg]]
+![[media/strauh.al3.1/2000s/The Burning City by Wayne Barlowe (2000).png]]
 
-![[media/strauh.al3.1/2000s/hal_emmerich_otacon_character_design_by_yoji_shinkawa_2001.jpg]]
+![[media/strauh.al3.1/2000s/The City by Vladimir Kush (2000).jpg]]
 
-![[media/strauh.al3.1/2000s/heavy_dog_kiss_by_dennis_oppenheim_2001.jpeg]]
+![[media/strauh.al3.1/2000s/The Document of Metal Gear Solid 2 by Yoji Shinkawa (2002).jpeg]]
 
-![[media/strauh.al3.1/2000s/hope_by_mary_brodbeck_2004.jpeg]]
+![[media/strauh.al3.1/2000s/The Great Balance by Prateep Kochabua (2000).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

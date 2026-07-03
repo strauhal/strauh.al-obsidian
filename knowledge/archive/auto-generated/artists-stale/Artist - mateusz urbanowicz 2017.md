@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - mateusz urbanowicz|Artist - mateusz urbanowicz]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - massimo vignelli and bob noorda 1970|Artist - massimo vignelli and bob noorda 1970]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mati klarwein 1961|Artist - mati klarwein 1961]] — nearby note in the same source series
+- [[knowledge/wiki/images/The City of Entotsu by Mateusz Urbanowicz (2017) 97b2e2e6|The City of Entotsu by Mateusz Urbanowicz (2017)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mateusz urbanowicz|Artist - mateusz urbanowicz]] — named in this note
+- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
+- [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: city
 <!-- vault-crosslinks:end -->

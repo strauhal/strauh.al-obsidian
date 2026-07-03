@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicholas roerich 1922|Artist - nicholas roerich 1922]] — shared language: roerich, nicholas
 - [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — shared language: roerich, nicholas
 - [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: roerich, nicholas
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: nicholas
+- [[knowledge/wiki/images/Buddha the Conqueror by Nicholas Roerich (1925) f3eee492|Buddha the Conqueror by Nicholas Roerich (1925)]] — shared language: roerich, nicholas, buddha
 <!-- vault-crosslinks:end -->

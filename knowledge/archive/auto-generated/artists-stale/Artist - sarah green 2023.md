@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sarah green|Artist - sarah green]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah green|Artist - sarah green]] — named in this note
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: sarah
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sarah moon 1995|Artist - sarah moon 1995]] — shared language: sarah
 - [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: sarah
-- [[knowledge/wiki/artists/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
-- [[knowledge/wiki/artists/Artist - sarah cain|Artist - sarah cain]] — shared language: sarah
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah cain|Artist - sarah cain]] — shared language: sarah
 <!-- vault-crosslinks:end -->

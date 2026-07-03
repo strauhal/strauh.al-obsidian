@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Fukuyama-The-End-of-History]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Fukuyama-The-End-of-History.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The End of History and the Last Man
@@ -42,10 +42,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/harari-yuval-noah-sapiens-a-brief-history-of-humankind|Sapiens a brief history of humankind]] — same category: politics society
 - [[knowledge/wiki/books/yuval-noah-harari-homo-deus-a-brief-history-of-tomorrow-harper|Homo Deus A Brief History of Tomorrow-Harper]] — same category: politics society
-- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
+- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
-- [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — same category: politics society
 <!-- vault-crosslinks:end -->

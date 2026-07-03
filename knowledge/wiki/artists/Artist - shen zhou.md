@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jiaxuan zhou|Artist - jiaxuan zhou]] — shared language: zhou
-- [[knowledge/wiki/images/body study by jiaxuan zhou 2024 9e59e379|body study by jiaxuan zhou 2024]] — shared language: zhou
 - [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — shared language: poet
-- [[knowledge/wiki/images/portrait reference of a woman in a white top 1dab8bba|portrait reference of a woman in a white top]] — shared language: top
+- [[knowledge/wiki/images/up Hare on Top (1998) cb008c1d|up Hare on Top (1998)]] — shared language: top
+- [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: top
 - [[knowledge/wiki/images/mountain range 07fd8e4e|mountain range]] — shared language: mountain
-- [[knowledge/wiki/images/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: mountain
+- [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: top
+- [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: mountain
 <!-- vault-crosslinks:end -->

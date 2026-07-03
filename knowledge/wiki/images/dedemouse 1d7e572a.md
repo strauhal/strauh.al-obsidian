@@ -1,12 +1,12 @@
 ---
 title: "dedemouse"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/dedemouse.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/dedemouse.jpg"
 source_relpath: "pictures_of_musicians/dedemouse.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "1086x802"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/pictures_of_musicians/dedemouse.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/dedemouse.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/dedemouse.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

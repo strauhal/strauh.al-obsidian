@@ -29,7 +29,7 @@ Images attributed by filename: 3
 - [[knowledge/wiki/artists/Artist - c d arnold|Artist - c d arnold]] — named in this note
 - [[knowledge/wiki/images/palace of mechanic arts and lagoon world s columbian exposition chicago 1893 481e1426|palace of mechanic arts and lagoon world s columbian exposition chicago 1893]] — shared language: lagoon, columbian, palace
 - [[knowledge/wiki/images/manufactures and liberal arts building world s columbian exposition by charles dudley arnold 1892 7ebc03bc|manufactures and liberal arts building world s columbian exposition by charles dudley arnold 1892]] — shared language: arnold, columbian, exposition
+- [[knowledge/wiki/images/Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts 5258293c|Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts]] — shared language: columbian, palace, exposition
 - [[knowledge/wiki/artists/Artist - charles dudley arnold|Artist - charles dudley arnold]] — shared language: arnold, columbian, exposition
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles dudley arnold 1893|Artist - charles dudley arnold 1893]] — shared language: arnold, exposition, columbian
-- [[knowledge/archive/auto-generated/artists-stale/Artist - charles dudley arnold 1892|Artist - charles dudley arnold 1892]] — shared language: arnold, columbian, exposition
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
-- [[knowledge/wiki/artists/Artist - christian boltanski|Artist - christian boltanski]] — shared language: christian
-- [[knowledge/wiki/images/movements of the body fe7ea923|movements of the body]] — shared language: body
-- [[knowledge/wiki/images/johan christian dahl eruption of vesuvius 1826 33702371|johan christian dahl eruption of vesuvius 1826]] — shared language: christian
+- [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: christian
+- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: body
 <!-- vault-crosslinks:end -->

@@ -2,18 +2,21 @@
 title: Library - Art and Aesthetics
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Art and Aesthetics
 
-Books/files: 66
+Books/files: 69
 
 ## Titles
 
 - [[9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]]
+- [[Ambient art]]
 - [[CO2 ArtbookDigitalComplete]]
+- [[Engraving Style Drawing Vol. 1]]
+- [[Engraving Style Drawing Vol. 2]]
 - [[Harold Cohen, Robotic Artist, 1995]]
 - [[MahrSweigart FINAL]]
 - [[Sauer-Notations-selections-part-1&2 (1)]]
@@ -86,8 +89,8 @@ Books/files: 66
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
 - [[knowledge/wiki/anchors/bruno-munari|Bruno Munari]] — named in this note
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — named in this note
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/books/marcus-aurelius-meditations|Meditations]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/there goes the sun by karl wirsum 1968 d4aa6e31|there goes the sun by karl wirsum 1968]] — shared language: sun
-- [[knowledge/wiki/images/solen the sun by carl larsson 1910 bd73fa37|solen the sun by carl larsson 1910]] — shared language: sun
-- [[knowledge/wiki/images/the sun the moon the star by david glomba 2017 d6375e84|the sun the moon the star by david glomba 2017]] — shared language: sun
-- [[knowledge/wiki/images/simultaneous contrasts sun and moon by robert delaunay 1913 afce778f|simultaneous contrasts sun and moon by robert delaunay 1913]] — shared language: sun
-- [[knowledge/wiki/images/wheat field with sun by vincent van gogh 1889 14e4781f|wheat field with sun by vincent van gogh 1889]] — shared language: sun
-- [[knowledge/wiki/images/comic panel of a dark insect under a sun saying i m caught in my own brain f5b42a94|comic panel of a dark insect under a sun saying i m caught in my own brain]] — shared language: sun
+- [[knowledge/wiki/images/The Sun roars into View by Anna Loginova (2024) e271a490|The Sun roars into View by Anna Loginova (2024)]] — shared language: sun
+- [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: sun
+- [[knowledge/wiki/images/Illustration Eyes Over Water With Setting Sun And Tear b3458669|Illustration Eyes Over Water With Setting Sun And Tear]] — shared language: sun
+- [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: sun
+- [[knowledge/wiki/images/Illustration Abstract Geometric Desert Landscape with House and Sun d40a7db6|Illustration Abstract Geometric Desert Landscape with House and Sun]] — shared language: sun
+- [[knowledge/wiki/images/Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]] — shared language: sun
 <!-- vault-crosslinks:end -->

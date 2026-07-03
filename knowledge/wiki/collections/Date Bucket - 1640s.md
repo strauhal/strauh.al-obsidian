@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1640s"
 source_kind: "date_bucket"
-count: "11"
+count: "12"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1640s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 11
+Files: 12
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/The Embarkation of the Queen of Sheba by Claude Lorrain (1648).jpg]]
 
 ![[media/strauh.al3.1/1600s/allegory_of_vanity_by_simon_vouet_c_1640.jpg]]
 

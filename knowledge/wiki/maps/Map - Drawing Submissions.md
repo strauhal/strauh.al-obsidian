@@ -40,12 +40,12 @@ Threads: 12
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, incoming
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, attachments, submissions
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, club
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: submissions, site
-- [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — shared language: club, aw3some, dot
+- [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — shared language: club, aw3some, incoming
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — shared language: club, draw, incoming
 - [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: attachments, messages, threads
+- [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — shared language: draw, youu, incoming
 <!-- vault-crosslinks:end -->

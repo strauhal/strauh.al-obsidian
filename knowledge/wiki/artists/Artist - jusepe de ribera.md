@@ -30,9 +30,9 @@ Images attributed by filename: 4
 ## Discovered Connections
 
 - [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: jusepe, ribera, saint
+- [[knowledge/wiki/images/Caritas (Charity) by Peter Paul Rubens (c. 1612 1613) ede3aeb4|Caritas (Charity) by Peter Paul Rubens (c. 1612 1613)]] — shared language: caritas, charity, peter
 - [[knowledge/wiki/pages/art|art]] — shared language: jusepe, ribera, saint
 - [[knowledge/wiki/images/saint bartholomew s day massacre by francois dubois c 15721584 21534971|saint bartholomew s day massacre by francois dubois c 15721584]] — shared language: bartholomew, saint
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: saint
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint
-- [[knowledge/wiki/images/1971 430 liberation of saint peter from prison jpg 2ac0d73b|1971 430 liberation of saint peter from prison jpg]] — shared language: saint, peter
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Sorrows of Young Werther and Selected Writings by Goethe, Johann Wolfgang von Clements, Marcelle Krimmer, Elisabeth Goethe, Johann Wolfgang von Hutter, Catherine (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Sorrows of Young Werther and Selected Writings

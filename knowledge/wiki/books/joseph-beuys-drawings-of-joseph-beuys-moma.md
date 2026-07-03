@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Drawings of Joseph Beuys (MOMA)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Drawings of Joseph Beuys (MOMA) (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Drawings of Joseph Beuys (MoMA)
@@ -40,10 +40,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same author: joseph beuys
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — same category: art aesthetics
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — same category: art aesthetics
 - [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — same category: art aesthetics
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
+- [[knowledge/wiki/books/claudia-mesch-joseph-beuys-reaktion-books|Joseph Beuys-Reaktion Books]] — same category: art aesthetics
 - [[knowledge/wiki/books/bueys-joseph-harlan-volker-what-is-art-conversation-with-joseph-beuys-clairview-books|What is Art Conversation with Joseph Beuys-Clairview Books]] — same category: art aesthetics
+- [[knowledge/wiki/books/mark-c-taylor-refiguring-the-spiritual-beuys-barney-turrell-goldsworthy|Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "knowledge base 2024 misc bookmarks"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
 source_relpath: "knowledge_base/2024_misc_bookmarks.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base 2024 misc bookmarks
@@ -453,7 +453,7 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 90 of 395 links connected (37 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 97 of 395 links connected (45 nodes).*
 
 **[[The Internet as Confidant]]** — [The Art of Metal Gear Solid V : Konami Yoji Shinkawa : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up) · [If You Don’t Understand Conceptual Art, It’s Not Your Fault / Artsy](https://www.artsy.net/article/artsy-editorial-if-you-don-t-understand-conceptual-art-it-s-not-your-fault) · [Make WordArt - Online word art generator](https://www.makewordart.com/) · [CLOG](https://www.clog-online.com/) · [Vaporwave / Aesthetics Wiki / Fandom](https://aesthetics.fandom.com/wiki/Vaporwave) · [The Web Export Target / Cycling '74](https://rnbo.cycling74.com/learn/the-web-export-target) · [Students defeat new 'Barnacle' parking clamp, skip fines and get free internet / Driving](https://driving.ca/auto-news/news/students-defeat-new-barnacle-parking-boot-skip-fines-and-get-free-internet) · [LiveLeak, the internet’s font of gore and violence, has shut down - The Verge](https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix) · [The Online Hell of Amazon's Mechanical Turk - The Atlantic](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/) · [How China's most enduring meme has lasted a decade / Mashable](https://mashable.com/article/china-reaction-images-4chan) · [I Wish I Didn't Miss the '90s-00s Internet / rohan ganapavarapu](https://rohan.ga/blog/early-internet/?utm_source=tldrnewsletter) · [German Idealism / Internet Encyclopedia of Philosophy](https://iep.utm.edu/germidea/) · [Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/) · [THE 7th VOYAGE OF SINBAD (1958) 2008 BDRip - Ray Harryhausen : Morningside Productions : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the-7-th-voyage-of-sinbad-1958-ray-harryhausen) · [(6) What is this black square on the left? : cinematography](https://www.reddit.com/r/cinematography/comments/12aiok9/what_is_this_black_square_on_the_left/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [In 50 years, what movies do you think will be the "classics" of the last 10-15 years? : AskReddit](https://www.reddit.com/r/AskReddit/comments/cmad2/comment/c0tlmx9/) · [(16) Repost: A Parallel Life / Awoken By A Lamp : Glitch_in_the_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/30t9kd/repost_a_parallel_life_awoken_by_a_lamp/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [Create Your Own Quantum Mechanics Simulation (With Python) / by Philip Mocz / Level Up Coding](https://levelup.gitconnected.com/create-your-own-quantum-mechanics-simulation-with-python-51e215346798) · [Reddit thinks ChatGPT-like AI will ‘complement’ human connection, not replace it - The Verge](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard)
 
@@ -477,6 +477,12 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 **[[Marcel Proust]]** — [The Five Longest Proust Sentences – Nathan Brixius](https://nathanbrixius.wordpress.com/2013/10/30/the-five-longest-proust-sentences/) · [The Paris Review - Proust and the Joy of Suffering - The Paris Review](https://www.theparisreview.org/blog/2019/05/28/proust-and-the-joy-of-suffering/) · [182 Days of Marcel Proust: Day-by-Day Summary](https://proustproject.blogspot.com/p/day-by-day-summary.html)
 
+**[[The Panel as Canvas]]** — [The Art of Metal Gear Solid V : Konami Yoji Shinkawa : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up) · [Balinese Musical Styles in Katsuhiro Otomo’s 1988 “Akira” / U-M LSA Center for Southeast Asian Studies (CSEAS)](https://ii.umich.edu/cseas/news-events/news/search-news/balinese-musical-styles.html) · [The Terrifyingly Prescient ‘Serial Experiments Lain,’ 20 Years Later - The Ringer](https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years)
+
+**[[Artist - Barry McGee]]** — [Barry McGee’s tag murals – Walls covered with hundreds of red tags – Public Delivery](https://publicdelivery.org/barry-mcgee-tag-mural/) · [Barry McGee / In the Studio / Rvca](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html)
+
+**[[Artist - Microsoft]]** — [Microsoft’s Bing is an emotionally manipulative liar, and people love it - The Verge](https://www.theverge.com/2023/2/15/23599072/microsoft-ai-bing-personality-conversations-spy-employees-webcams) · [Is Bing too belligerent? Microsoft looks to tame AI chatbot / AP News](https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3)
+
 **[[Artist - cy twombly]]** — [Hero and Leandro (A Painting in Four Parts) Part III, 1984 - Cy Twombly - WikiArt.org](https://www.wikiart.org/en/cy-twombly/hero-and-leandro-a-painting-in-four-parts-part-iii) · [Cy Twombly: Against Interpretation / MiA Collective Art](http://www.miacollectiveart.com/articles/2017/1/13/cy-twombly-against-interpretation)
 
 **[[Barry McGee]]** — [Barry McGee’s tag murals – Walls covered with hundreds of red tags – Public Delivery](https://publicdelivery.org/barry-mcgee-tag-mural/) · [Barry McGee / In the Studio / Rvca](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html)
@@ -485,7 +491,15 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 **[[Alexander Scriabin]]** — [Aleksander Scriabin. MIDI (free download) & MIDI/ZIP](https://www.kunstderfuge.com/scriabin.htm)
 
-**[[Artist - cam collins]]** — [cam collins](https://camcollins.neocities.org/)
+**[[Ambient art]]** — [Gallery: Brian Eno's Ever-Evolving Ambient Art / WIRED](https://www.wired.com/2007/07/gallery-brian-enos-ever-evolving-ambient-art/)
+
+**[[Artist - John Provencher]]** — [How pixel art of the early web inspires John Provencher’s design work](https://www.itsnicethat.com/articles/john-provencher-graphic-design-discover-050923)
+
+**[[Artist - Marcel Proust]]** — [182 Days of Marcel Proust: Day-by-Day Summary](https://proustproject.blogspot.com/p/day-by-day-summary.html)
+
+**[[Artist - Quayola]]** — [Landscape Paintings - QUAYOLA](https://quayola.com/selected-landscape-paintings/)
+
+**[[Artist - Vija Celmins]]** — [Explore the art of Vija Celmins / Tate](https://www.tate.org.uk/art/artists/vija-celmins-2731/explore-art-vija-celmins)
 
 **[[Artist - glenn ligon]]** — [Neons — GLENN LIGON](http://www.glennligonstudio.com/neons)
 
@@ -523,6 +537,8 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 **[[The Tedium of the Art Is the Goal]]** — [Experimental music notation resources - Process - lines](https://llllllll.co/t/experimental-music-notation-resources/149/55)
 
+**[[The Weather in the Ink]]** — [Japanese Woodblock Print Search - Ukiyo-e Search](https://ukiyo-e.org/)
+
 **[[Yohji Yamamoto]]** — [Eight Facts You Need To Know About Japanese Fashion Designer Yohji Yamamoto / COBO Social](https://www.cobosocial.com/dossiers/eight-facts-yohji-yamamoto/)
 
 **[[Yoji Shinkawa]]** — [The Art of Metal Gear Solid V : Konami Yoji Shinkawa : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up)
@@ -534,12 +550,12 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/miftalkcollage jesse kanda 8c32f32f|miftalkcollage jesse kanda]] — named in this note
 - [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — named in this note
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/anchors/james-bridle|James Bridle]] — named in this note
+- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 <!-- vault-crosslinks:end -->

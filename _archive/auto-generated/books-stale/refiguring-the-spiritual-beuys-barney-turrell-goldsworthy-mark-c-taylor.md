@@ -36,11 +36,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/mark-c-taylor-refiguring-the-spiritual-beuys-barney-turrell-goldsworthy|Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy]] — same category: art aesthetics
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
 - [[_archive/auto-generated/books-stale/beuys-on-drawing|beuys on drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — same category: art aesthetics
-- [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — same category: art aesthetics
+- [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — same category: art aesthetics
+- [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — same category: art aesthetics
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

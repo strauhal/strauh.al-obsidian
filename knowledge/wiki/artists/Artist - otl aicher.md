@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/wiki/images/summer solstice 3686b730|summer solstice]] — shared language: summer
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
+- [[knowledge/wiki/images/The Red Summer (2017) 1cf9af1d|The Red Summer (2017)]] — shared language: summer
+- [[knowledge/wiki/images/Photograph Donald Trump and Official View Trump Mugshot T Shirt Display 039ce2ab|Photograph Donald Trump and Official View Trump Mugshot T Shirt Display]] — shared language: official, view
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: summer
-- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
-- [[knowledge/wiki/images/86 busted poster png 23102ee7|86 busted poster png]] — shared language: poster
+- [[knowledge/wiki/artists/Artist - vincent van gogh summer|Artist - vincent van gogh summer]] — shared language: summer
+- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
 <!-- vault-crosslinks:end -->

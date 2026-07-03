@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jessie arms botke|Artist - jessie arms botke]] — named in this note
-- [[knowledge/wiki/images/framed painting of two figures with raised arms 9d94ed1a|framed painting of two figures with raised arms]] — shared language: arms
-- [[knowledge/wiki/images/studies of a male nude with arms raised and other studies by peter paul rubens c 16091610 32be115e|studies of a male nude with arms raised and other studies by peter paul rubens c 16091610]] — shared language: arms
-- [[knowledge/wiki/images/standing nude arms crossed behind her back by gustav klimt c 1910 1912 b8701ab5|standing nude arms crossed behind her back by gustav klimt c 1910 1912]] — shared language: arms
-- [[knowledge/wiki/images/digitally altered photograph of a cat with muscular human arms standing on a patio 5ff2deba|digitally altered photograph of a cat with muscular human arms standing on a patio]] — shared language: arms
-- [[knowledge/wiki/images/standing female nude with arms raised by henri gaudier brzeska c 1913 400aa9c7|standing female nude with arms raised by henri gaudier brzeska c 1913]] — shared language: arms
+- [[knowledge/wiki/images/Illustration Two White Cranes Among Green Ferns on Gold Background by Jessie Arms Botke ebd34f07|Illustration Two White Cranes Among Green Ferns on Gold Background by Jessie Arms Botke]] — shared language: jessie, botke, arms
+- [[_archive/auto-generated/images-stale/framed painting of two figures with raised arms 9d94ed1a|framed painting of two figures with raised arms]] — shared language: arms
+- [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: arms
+- [[knowledge/wiki/images/Image Cat with Muscular Human Arms Standing on Patio cf882e02|Image Cat with Muscular Human Arms Standing on Patio]] — shared language: arms
+- [[knowledge/wiki/images/Illustration Anatomical Study of Male Torso and Arms with Directional Arrows 893c756a|Illustration Anatomical Study of Male Torso and Arms with Directional Arrows]] — shared language: arms
 <!-- vault-crosslinks:end -->

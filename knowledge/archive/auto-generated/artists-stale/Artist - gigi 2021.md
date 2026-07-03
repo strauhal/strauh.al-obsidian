@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - gigi|Artist - gigi]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gigi|Artist - gigi]] — named in this note
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
 - [[knowledge/wiki/books/michel-foucault-alan-sheridan-discipline-punish-the-birth-of-the-prison|Discipline Punish The Birth of the Prison]] — shared language: prison
 - [[knowledge/wiki/images/1971 430 liberation of saint peter from prison jpg 2ac0d73b|1971 430 liberation of saint peter from prison jpg]] — shared language: prison
-- [[knowledge/wiki/images/movements of the body fe7ea923|movements of the body]] — shared language: body
-- [[knowledge/wiki/images/the prison courtyard by vincent van gogh 1890 140cc508|the prison courtyard by vincent van gogh 1890]] — shared language: prison
+- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: body
+- [[_archive/auto-generated/images-stale/movements of the body fe7ea923|movements of the body]] — shared language: body
 <!-- vault-crosslinks:end -->

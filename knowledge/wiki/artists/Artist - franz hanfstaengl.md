@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/richard wagner by franz von lenbach c 1882 2f89a5cb|richard wagner by franz von lenbach c 1882]] — shared language: franz, wagner, richard
 - [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: franz, wagner, richard
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
 - [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: franz
+- [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: franz
 <!-- vault-crosslinks:end -->

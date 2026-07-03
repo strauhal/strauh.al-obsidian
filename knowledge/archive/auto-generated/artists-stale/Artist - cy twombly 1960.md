@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - cy twombly|Artist - cy twombly]] — named in this note
-- [[knowledge/wiki/images/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: twombly
-- [[knowledge/wiki/images/cy twombly untitled abstract painting with black yellow and white drips 2002 eed9c76d|cy twombly untitled abstract painting with black yellow and white drips 2002]] — shared language: twombly
 - [[knowledge/wiki/images/cy twombly bolsena 1969 bbedd293|cy twombly bolsena 1969]] — shared language: twombly
+- [[_archive/auto-generated/images-stale/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: twombly
+- [[knowledge/wiki/images/Illustration Abstract Painting with Black, Yellow, and White Drips by Cy Twombly 16f8b72e|Illustration Abstract Painting with Black, Yellow, and White Drips by Cy Twombly]] — shared language: twombly
+- [[_archive/auto-generated/images-stale/cy twombly untitled abstract painting with black yellow and white drips 2002 eed9c76d|cy twombly untitled abstract painting with black yellow and white drips 2002]] — shared language: twombly
 - [[knowledge/wiki/images/cy twombly analysis of the rose 1985 1ac42e40|cy twombly analysis of the rose 1985]] — shared language: twombly
-- [[knowledge/wiki/images/cy twombly cy twombly posed with early scribble paintings late 1950s 78eee703|cy twombly cy twombly posed with early scribble paintings late 1950s]] — shared language: twombly
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: karl
+- [[knowledge/wiki/images/Document Karl Marx On Religion e195e06e|Document Karl Marx On Religion]] — shared language: karl
 - [[knowledge/wiki/artists/Artist - karl bryullov|Artist - karl bryullov]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: karl
-- [[knowledge/wiki/images/perseus and andromeda by karl bryullov 1822 1fd40d21|perseus and andromeda by karl bryullov 1822]] — shared language: karl
 <!-- vault-crosslinks:end -->

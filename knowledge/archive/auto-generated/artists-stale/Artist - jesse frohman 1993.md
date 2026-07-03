@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jesse frohman|Artist - jesse frohman]] — named in this note
-- [[knowledge/wiki/images/miftalkcollage jesse kanda 8c32f32f|miftalkcollage jesse kanda]] — shared language: jesse
+- [[_archive/auto-generated/images-stale/miftalkcollage jesse kanda 8c32f32f|miftalkcollage jesse kanda]] — shared language: jesse
 - [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — shared language: jesse
-- [[knowledge/wiki/images/mark zuckerberg jesse eisenberg snl a l webp 5d43ccce|mark zuckerberg jesse eisenberg snl a l webp]] — shared language: jesse
-- [[knowledge/wiki/images/robert bechtle the gun 1985 33310c05|robert bechtle the gun 1985]] — shared language: gun
-- [[knowledge/wiki/images/gun by andy warhol 1981 72882b84|gun by andy warhol 1981]] — shared language: gun
+- [[knowledge/wiki/images/Galatea by Jesse Kanda (2017) 236e3bfe|Galatea by Jesse Kanda (2017)]] — shared language: jesse
+- [[_archive/auto-generated/images-stale/mark zuckerberg jesse eisenberg snl a l webp 5d43ccce|mark zuckerberg jesse eisenberg snl a l webp]] — shared language: jesse
+- [[knowledge/wiki/images/Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage a0863c9c|Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage]] — shared language: jesse
 <!-- vault-crosslinks:end -->

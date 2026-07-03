@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - rhonda holy bear|Artist - rhonda holy bear]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - rhonda holy bear|Artist - rhonda holy bear]] — named in this note
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: bear
+- [[knowledge/wiki/images/Illustration Stylized Figures and Teddy Bear in Plaid Patterns 74e14a5c|Illustration Stylized Figures and Teddy Bear in Plaid Patterns]] — shared language: bear
 - [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: holy
-- [[knowledge/wiki/images/two sided print design featuring a sketch of a brown bear and 100 sto dinara text c7b7a5fd|two sided print design featuring a sketch of a brown bear and 100 sto dinara text]] — shared language: bear
-- [[knowledge/wiki/images/conceptual design for a 100 dinara banknote featuring a sketch of a brown bear 79e14be9|conceptual design for a 100 dinara banknote featuring a sketch of a brown bear]] — shared language: bear
-- [[knowledge/wiki/images/painting of a brown teddy bear stencil and brown swirls on a pale green canvas 2efdfa63|painting of a brown teddy bear stencil and brown swirls on a pale green canvas]] — shared language: bear
+- [[knowledge/wiki/images/Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby e6547e78|Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby]] — shared language: bear
+- [[knowledge/wiki/images/Illustration Panda Bear Resting on Bookshelf Filled with Red and White Books 0821ded4|Illustration Panda Bear Resting on Bookshelf Filled with Red and White Books]] — shared language: bear
 <!-- vault-crosslinks:end -->

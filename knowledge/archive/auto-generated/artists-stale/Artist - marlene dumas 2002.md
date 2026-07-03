@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - marlene dumas|Artist - marlene dumas]] — named in this note
-- [[knowledge/wiki/artists/Artist - charlotte dumas|Artist - charlotte dumas]] — shared language: dumas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marlene dumas|Artist - marlene dumas]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charlotte dumas|Artist - charlotte dumas]] — shared language: dumas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charlotte dumas 2006|Artist - charlotte dumas 2006]] — shared language: dumas
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, heart
-- [[knowledge/wiki/images/icelandic horse by charlotte dumas 2006 96003ce4|icelandic horse by charlotte dumas 2006]] — shared language: dumas
-- [[knowledge/wiki/images/stylized illustration of a broken heart containing two scenes a person in bed with spiders and a woman holding cookies with two smaller caution taped c3934e64|stylized illustration of a broken heart containing two scenes a person in bed with spiders and a woman holding cookies with two smaller caution taped]] — shared language: heart, broken, woman
+- [[knowledge/wiki/images/Anima by Charlotte Dumas (2006) dded49f5|Anima by Charlotte Dumas (2006)]] — shared language: dumas
+- [[_archive/auto-generated/images-stale/icelandic horse by charlotte dumas 2006 96003ce4|icelandic horse by charlotte dumas 2006]] — shared language: dumas
+- [[knowledge/wiki/images/Illustration Stylized Broken Heart Illustration with Two Scenes and Caution Taped Figures 3ac2caa1|Illustration Stylized Broken Heart Illustration with Two Scenes and Caution Taped Figures]] — shared language: heart, broken
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: continuous, line
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: bill
-- [[knowledge/wiki/images/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: bill
 <!-- vault-crosslinks:end -->

@@ -1,0 +1,33 @@
+---
+title: "the familiar by salazad 2019"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_familiar_by_salazad_2019.jpg"
+source_relpath: "2000s/the_familiar_by_salazad_2019.jpg"
+collection: "2000s"
+inferred_year: "2019"
+artist: "salazad"
+dimensions: "1080x1341"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# the familiar by salazad 2019
+
+![[media/strauh.al3.1/2000s/the_familiar_by_salazad_2019.jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: [[Artist - salazad]]
+
+Source: [[media/strauh.al3.1/2000s/the_familiar_by_salazad_2019.jpg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/the_familiar_by_salazad_2019.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/archive/auto-generated/artists-stale/Artist - salazad 2019|Artist - salazad 2019]] — named in this note
+- [[_archive/auto-generated/images-stale/the fall of phaeton peter paul rubens national gallery of art washington dc webp dc433c11|the fall of phaeton peter paul rubens national gallery of art washington dc webp]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/the forest by vahram muratyan 2015 ab14c03d|the forest by vahram muratyan 2015]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

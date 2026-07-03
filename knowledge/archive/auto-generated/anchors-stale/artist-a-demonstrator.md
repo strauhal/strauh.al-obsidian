@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1420s|Date Bucket - 1420s]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/archive/auto-generated/anchors-stale/artist-the-dark-1989|Artist - the dark 1989]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

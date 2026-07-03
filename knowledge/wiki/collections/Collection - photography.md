@@ -1,7 +1,7 @@
 ---
 title: "Collection - photography"
 source_kind: "image_collection"
-count: "158"
+count: "1052"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 158
+Files: 1052
 
 ## Sample
 
@@ -189,48 +189,92 @@ Files: 158
 - [[PIJHB2UOIII6DKMREMRATY3UOA a7bc4294|PIJHB2UOIII6DKMREMRATY3UOA]]
 - [[Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]]
 - [[Parsifal (1882 retuschiert) 2693faf1|Parsifal (1882 retuschiert)]]
-- [[Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]]
-- [[Semen and Blood III 6d59fc5a|Semen and Blood III]]
-- [[Solitude 3d62946e|Solitude]]
-- [[barney2 7e45b0ac|barney2]]
-- [[blackshirts d3cb266f|blackshirts]]
-- [[couple 7689bc6f|couple]]
-- [[1619523650404 b47d8568|1619523650404]]
-- [[1619523682056 611541cd|1619523682056]]
-- [[1619523714707 7a95b4de|1619523714707]]
-- [[1619523906322 3d2130a5|1619523906322]]
-- [[1619538399749 f31b4411|1619538399749]]
-- [[20180908182403 60065797|20180908182403]]
-- [[20180908182415 21d76c17|20180908182415]]
-- [[20180908182427 f704539c|20180908182427]]
-- [[20180908182438 e16d3cb1|20180908182438]]
-- [[998ed10e9d5e2ac321f1205914bee9e6101fb3ac f12da1ea|998ed10e9d5e2ac321f1205914bee9e6101fb3ac]]
-- [[moriyama 5fe054a7|moriyama]]
-- [[tokyo japan 2014 train station rush hour 3b4741f5|tokyo japan 2014 train station rush hour]]
-- [[estrauhal 05 resized b10d6561|estrauhal 05 resized]]
-- [[estrauhal 05 967e9f35|estrauhal 05]]
-- [[03 w1959 e4579efc|03 w1959]]
-- [[06 private1960 f530a3cb|06 private1960]]
-- [[09 the search1960 68ca79ca|09 the search1960]]
-- [[14 danger1965 5e7e9a80|14 danger1965]]
-- [[Smokey+World 2+copy 3b8daf5f|Smokey+World 2+copy]]
-- [[fanho a8a0a3aa|fanho]]
-- [[gettyimages 488083785 1564755031 a88c0e83|gettyimages 488083785 1564755031]]
-- [[joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]]
-- [[maxresdefault 2 6c8742c4|maxresdefault 2]]
-- [[oceanbeach ca4d8aec|oceanbeach]]
-- [[piss christ f2671d8b|piss christ]]
-- [[untitled vii 8f0f180f|untitled vii]]
+- [[Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]]
+- [[Photograph Abstract Geometric Vessel with Pink, Yellow, and Green Gradient fd0c058e|Photograph Abstract Geometric Vessel with Pink, Yellow, and Green Gradient]]
+- [[Photograph Abstract Grid Painting in Progress on an Easel 606c0489|Photograph Abstract Grid Painting in Progress on an Easel]]
+- [[Photograph Abstract Grid Painting on Easel with Art Supplies 0d6bc604|Photograph Abstract Grid Painting on Easel with Art Supplies]]
+- [[Photograph Abstract Light Leak with Grainy Texture and Color Gradient a6d366f5|Photograph Abstract Light Leak with Grainy Texture and Color Gradient]]
+- [[Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set 6d0a3f88|Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]]
+- [[Photograph Aerial View Of A Baseball Stadium And Parking Lots 80b773f1|Photograph Aerial View Of A Baseball Stadium And Parking Lots]]
+- [[Photograph Aerial View Of A Rectangular Iceberg In Frozen Sea eea29271|Photograph Aerial View Of A Rectangular Iceberg In Frozen Sea]]
+- [[Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]]
+- [[Photograph Aerial View Of People's Shadows Playing Beach Volleyball 74fc815f|Photograph Aerial View Of People's Shadows Playing Beach Volleyball]]
+- [[Photograph Aerial View Of Rotonda, A Circular Planned Community In Florida 190647de|Photograph Aerial View Of Rotonda, A Circular Planned Community In Florida]]
+- [[Photograph Aerial View Of Urban Sprawl Next To Dense Forest 638ac29c|Photograph Aerial View Of Urban Sprawl Next To Dense Forest]]
+- [[Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea 71caaf7c|Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea]]
+- [[Photograph Aerial View of Burroughs Wellcome Building, Research Triangle Park 8908cd99|Photograph Aerial View of Burroughs Wellcome Building, Research Triangle Park]]
+- [[Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]]
+- [[Photograph Aerial View of Concentrated Solar Power Plant in Desert 3272d302|Photograph Aerial View of Concentrated Solar Power Plant in Desert]]
+- [[Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains 3aa16299|Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains]]
+- [[Photograph Aerial View of Detroit Skyline and River 5cbaf2c2|Photograph Aerial View of Detroit Skyline and River]]
+- [[Photograph Aerial View of Green Terraced Rice Paddies 61edd9ad|Photograph Aerial View of Green Terraced Rice Paddies]]
+- [[Photograph Aerial View of Heavily Damaged City with People Walking Through Rubble 602ba1ad|Photograph Aerial View of Heavily Damaged City with People Walking Through Rubble]]
+- [[Photograph Aerial View of Heavily Damaged Urban Area with Smoke Plumes cbd3c4ef|Photograph Aerial View of Heavily Damaged Urban Area with Smoke Plumes]]
+- [[Photograph Aerial View of Large Building Complex Amidst Green Landscape e2cda203|Photograph Aerial View of Large Building Complex Amidst Green Landscape]]
+- [[Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field 02c8155f|Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field]]
+- [[Photograph Aerial View of Large Outdoor Crowd and Spiral Formation a96021da|Photograph Aerial View of Large Outdoor Crowd and Spiral Formation]]
+- [[Photograph Aerial View of Les Espaces d'Abraxas, Noisy le Grand, France 0ec4ae0c|Photograph Aerial View of Les Espaces d'Abraxas, Noisy le Grand, France]]
+- [[Photograph Aerial View of Mecca with Grand Mosque and Clock Tower 6e5d3ee4|Photograph Aerial View of Mecca with Grand Mosque and Clock Tower]]
+- [[Photograph Aerial View of Tire Tracks in Snow with Parked Cars ccf4317c|Photograph Aerial View of Tire Tracks in Snow with Parked Cars]]
+- [[Photograph Aerial and Ground Views of Boxing Match in Crowded Stadium 69286963|Photograph Aerial and Ground Views of Boxing Match in Crowded Stadium]]
+- [[Photograph Alex Karp Doing Handstand At New York Times DealBook Summit 79b4dfa6|Photograph Alex Karp Doing Handstand At New York Times DealBook Summit]]
+- [[Photograph Allegory of the Divine Providence and Barberini Power by Pietro da Cortona 0e62c5bc|Photograph Allegory of the Divine Providence and Barberini Power by Pietro da Cortona]]
+- [[Photograph Amber by Daniel Landin e1f3dba6|Photograph Amber by Daniel Landin]]
+- [[Photograph Andy Warhol and Two Others Looking at a Computer 52d6b0fe|Photograph Andy Warhol and Two Others Looking at a Computer]]
+- [[Photograph Anime Character Cutout with Crying Cinnamoroll Sticker and School Award fe1715d8|Photograph Anime Character Cutout with Crying Cinnamoroll Sticker and School Award]]
+- [[Photograph Antenna Setup by Water with Laptop and Distant Airplane 9eaa348b|Photograph Antenna Setup by Water with Laptop and Distant Airplane]]
+- [[Photograph Apotheosis of St Ignatius by Andrea Pozzo d8821a0f|Photograph Apotheosis of St Ignatius by Andrea Pozzo]]
+- [[Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]]
+- [[Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]]
+- [[Photograph Apple iPod Nano In Clear Plastic Packaging a57521a0|Photograph Apple iPod Nano In Clear Plastic Packaging]]
+- [[Photograph Ariana Grande Posing In Pink Outfit At R.E.M. Beauty Display 9d4f1b5d|Photograph Ariana Grande Posing In Pink Outfit At R.E.M. Beauty Display]]
+- [[Photograph Arrangement of Clothing, Weapons, and Objects on a Floor 7e07476f|Photograph Arrangement of Clothing, Weapons, and Objects on a Floor]]
+- [[Photograph Art Gallery Installation with Multiple Grey Canvases 69c24736|Photograph Art Gallery Installation with Multiple Grey Canvases]]
+- [[Photograph Art Installation Of Red Bricks In A White Gallery d540bc7f|Photograph Art Installation Of Red Bricks In A White Gallery]]
+- [[Photograph Art Students Sketching Outdoors by Studio 2B (1960s) a8362982|Photograph Art Students Sketching Outdoors by Studio 2B (1960s)]]
+- [[Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies 02981a21|Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies]]
+- [[Photograph Artificial Flowers in Box and Bag with Wrapped Objects 2b8a785f|Photograph Artificial Flowers in Box and Bag with Wrapped Objects]]
+- [[Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown ca5d521c|Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]]
+- [[Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 15448d0a|Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]]
+- [[Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]]
+- [[Photograph Audience Recording Concert with Handheld Console and Phones 73a33e6e|Photograph Audience Recording Concert with Handheld Console and Phones]]
+- [[Photograph Audience at AIPAC Conference with US and Israeli Flags 4baa43d4|Photograph Audience at AIPAC Conference with US and Israeli Flags]]
+- [[Photograph Bah World Centre Buildings and Gardens Overlooking Haifa Bay a9a2e178|Photograph Bah World Centre Buildings and Gardens Overlooking Haifa Bay]]
+- [[Photograph Bathroom with Toilet, Shower, and Vanity 66439eb6|Photograph Bathroom with Toilet, Shower, and Vanity]]
+- [[Photograph Bearded Man in Teal Wig and Costume Using Bong in Field d0f93369|Photograph Bearded Man in Teal Wig and Costume Using Bong in Field]]
+- [[Photograph Behind The Scenes Of Alice In Wonderland Film Production f729f8a1|Photograph Behind The Scenes Of Alice In Wonderland Film Production]]
+- [[Photograph Behind The Scenes Of Windows 10 Logo Creation e456670d|Photograph Behind The Scenes Of Windows 10 Logo Creation]]
+- [[Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting 9970d625|Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]]
+- [[Photograph Big Ben and Houses of Parliament at Twilight with Birds 069b0588|Photograph Big Ben and Houses of Parliament at Twilight with Birds]]
+- [[Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]]
+- [[Photograph Billboard Displaying 'https numbers ' Text Against Blue Sky e70a8877|Photograph Billboard Displaying 'https numbers ' Text Against Blue Sky]]
+- [[Photograph Bison Jumping Over Stream In Field Of Yellow Flowers d888cdac|Photograph Bison Jumping Over Stream In Field Of Yellow Flowers]]
+- [[Photograph Black And White Image Of Person Curled Up On Hexagonal Floor 9891fd18|Photograph Black And White Image Of Person Curled Up On Hexagonal Floor]]
+- [[Photograph Black And White Photo Of Musician With Light Streaks 27657aa7|Photograph Black And White Photo Of Musician With Light Streaks]]
+- [[Photograph Black And White Photo Of Person On Skateboard In Front Of Building 2ebace70|Photograph Black And White Photo Of Person On Skateboard In Front Of Building]]
+- [[Photograph Black And White Photo Of Sheep With Glowing Eyes At Night 058c4ad3|Photograph Black And White Photo Of Sheep With Glowing Eyes At Night]]
+- [[Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]]
+- [[Photograph Black And White Photograph Of A Distant Nuclear Explosion Over Mountains 3fdd764d|Photograph Black And White Photograph Of A Distant Nuclear Explosion Over Mountains]]
+- [[Photograph Black And White Photograph Of A Figure With Large Dark Wings 438266ca|Photograph Black And White Photograph Of A Figure With Large Dark Wings]]
+- [[Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]]
+- [[Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt a5ab657a|Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt]]
+- [[Photograph Black And White Photograph Of A Trumpet Player On Stage a8bb6960|Photograph Black And White Photograph Of A Trumpet Player On Stage]]
+- [[Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]]
+- [[Photograph Black And White Photograph Of Chicks On Wood Shavings fcf0cbae|Photograph Black And White Photograph Of Chicks On Wood Shavings]]
+- [[Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]]
+- [[Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]]
+
+_Only the first 200 image notes are listed here; search covers all 1052._
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Cecily Brown|Artist - Cecily Brown]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
-- [[knowledge/wiki/pages/photography|photography]] — shared language: photography, estrauhal, moriyama
-- [[knowledge/wiki/images/estrauhal 03 1cfddd17|estrauhal 03]] — shared language: estrauhal
-- [[knowledge/wiki/images/estrauhal 29 8498da0e|estrauhal 29]] — shared language: estrauhal
-- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys
-- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
-- [[knowledge/wiki/pages/photography daido moriyama daido moriyama|photography daido moriyama daido moriyama]] — shared language: photography, moriyama
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
+- [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large, motion
 <!-- vault-crosslinks:end -->

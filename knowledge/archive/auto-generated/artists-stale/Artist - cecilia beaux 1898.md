@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - cecilia beaux|Artist - cecilia beaux]] — named in this note
-- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — shared language: henry
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — shared language: henry
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
+- [[knowledge/wiki/artists/Artist - Cecilia Blomberg|Artist - Cecilia Blomberg]] — shared language: cecilia
+- [[knowledge/wiki/images/Pt. Defiance Steps by Cecilia Blomberg 19f4b8d9|Pt. Defiance Steps by Cecilia Blomberg]] — shared language: cecilia
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry, cat
+- [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/The Absinthe Drinker by Jean B raud (1881) be8a261c|The Absinthe Drinker by Jean B raud (1881)]] — shared language: drinker
 <!-- vault-crosslinks:end -->

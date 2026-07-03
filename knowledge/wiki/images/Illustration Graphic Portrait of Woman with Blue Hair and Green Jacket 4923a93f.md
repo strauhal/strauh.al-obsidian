@@ -1,0 +1,33 @@
+---
+title: "Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Graphic Portrait of Woman with Blue Hair and Green Jacket.jpg"
+source_relpath: "unsorted/Illustration - Graphic Portrait of Woman with Blue Hair and Green Jacket.jpg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket
+
+![[media/strauh.al3.1/unsorted/Illustration - Graphic Portrait of Woman with Blue Hair and Green Jacket.jpg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/Illustration - Graphic Portrait of Woman with Blue Hair and Green Jacket.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Graphic Portrait of Woman with Blue Hair and Green Jacket.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: jacket
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: jacket
+- [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair
+- [[knowledge/wiki/images/Illustration Stylized Portrait of a Man with Glasses and Orange Jacket fff37f41|Illustration Stylized Portrait of a Man with Glasses and Orange Jacket]] — shared language: jacket
+- [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: hair
+<!-- vault-crosslinks:end -->

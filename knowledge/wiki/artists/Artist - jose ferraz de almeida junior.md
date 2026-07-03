@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: jose
 - [[knowledge/wiki/images/illustration of a man protecting a youth in an orange forest by jose gonzalez 1971 a1bb2f97|illustration of a man protecting a youth in an orange forest by jose gonzalez 1971]] — shared language: jose
-- [[knowledge/wiki/images/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: jose
+- [[knowledge/wiki/artists/Artist - jorge fick|Artist - jorge fick]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

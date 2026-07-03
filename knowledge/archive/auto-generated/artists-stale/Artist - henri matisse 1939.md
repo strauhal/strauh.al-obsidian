@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Visage by Henri Matisse (1951) e96fda8e|Visage by Henri Matisse (1951)]] — shared language: matisse, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1911|Artist - henri matisse 1911]] — shared language: matisse, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1910|Artist - henri matisse 1910]] — shared language: matisse, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1909|Artist - henri matisse 1909]] — shared language: matisse, henri
+- [[knowledge/wiki/images/the red studio by henri matisse 1911 fde320cf|the red studio by henri matisse 1911]] — shared language: matisse, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1941 1942|Artist - henri matisse 1941 1942]] — shared language: matisse, henri
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1905 1906|Artist - henri matisse 1905 1906]] — shared language: matisse, henri
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henri matisse 1946|Artist - henri matisse 1946]] — shared language: matisse, henri
 <!-- vault-crosslinks:end -->

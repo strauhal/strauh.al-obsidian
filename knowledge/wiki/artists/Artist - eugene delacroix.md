@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Death of Sardanapalus by Eug ne Delacroix (1827) 96eb4805|The Death of Sardanapalus by Eug ne Delacroix (1827)]] — shared language: delacroix, death
 - [[knowledge/wiki/images/eugne delacroix faust and mephistopheles 1828 dea113a2|eugne delacroix faust and mephistopheles 1828]] — shared language: delacroix
+- [[knowledge/wiki/artists/Artist - eugene burnand|Artist - eugene burnand]] — shared language: eugene
+- [[knowledge/wiki/artists/Artist - Eugene Von Bruenchenhein|Artist - Eugene Von Bruenchenhein]] — shared language: eugene
 - [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: eugene
-- [[knowledge/wiki/images/le paysan by eugene burnand 1894 d25ad84d|le paysan by eugene burnand 1894]] — shared language: eugene
-- [[knowledge/wiki/images/pieta after delacroix by vincent van gogh 1889 3abdf0a1|pieta after delacroix by vincent van gogh 1889]] — shared language: delacroix
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: eugene
-- [[knowledge/wiki/images/la pompe a feu by eugene burnand 1879 755ca057|la pompe a feu by eugene burnand 1879]] — shared language: eugene
+- [[knowledge/wiki/images/Illustration Abstract Geometric Drawing with Lines and Dots by Eugene Von Bruenchenhein 9b190a26|Illustration Abstract Geometric Drawing with Lines and Dots by Eugene Von Bruenchenhein]] — shared language: eugene
 <!-- vault-crosslinks:end -->

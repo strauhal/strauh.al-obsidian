@@ -2,8 +2,8 @@
 title: Map - Current Listening
 type: map
 tags: [map, culture, music, queue]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Map - Current Listening
@@ -60,8 +60,8 @@ Entries: 43
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — named in this note
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note

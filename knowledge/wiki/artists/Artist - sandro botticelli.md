@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Adoration of the Magi by Sandro Botticelli (c. 1475) 75ea1888|Adoration of the Magi by Sandro Botticelli (c. 1475)]] — shared language: sandro, botticelli
 - [[knowledge/wiki/collections/Collection - 1400s|Collection - 1400s]] — shared language: sandro, botticelli, hell
-- [[knowledge/wiki/images/printed hell bank note with central figure wearing imperial headwear and flanking groups of figures on clouds 98ad8833|printed hell bank note with central figure wearing imperial headwear and flanking groups of figures on clouds]] — shared language: hell
-- [[knowledge/wiki/artists/Artist - samuel worcester rowse|Artist - samuel worcester rowse]] — nearby note in the same source series
+- [[knowledge/wiki/images/Document Colorful Hell Bank Note with Imperial Figure and Flanking Deities 5b31459d|Document Colorful Hell Bank Note with Imperial Figure and Flanking Deities]] — shared language: hell
+- [[knowledge/wiki/images/Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc 87068a38|Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc]] — shared language: hell
 <!-- vault-crosslinks:end -->

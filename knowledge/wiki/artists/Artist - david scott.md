@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
-- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — shared language: scott
-- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott greenwalt|Artist - scott greenwalt]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott naismith|Artist - scott naismith]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - Scott McCloud|Artist - Scott McCloud]] — shared language: scott
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
+- [[knowledge/wiki/artists/Artist - J. Scott Applewhite|Artist - J. Scott Applewhite]] — shared language: scott
+- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
 <!-- vault-crosslinks:end -->

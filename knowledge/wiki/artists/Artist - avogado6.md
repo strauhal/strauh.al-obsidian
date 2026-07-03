@@ -1,32 +1,29 @@
 ---
 title: "Artist - avogado6"
 source_kind: "artist"
-count: "2"
+count: "1"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - avogado6
 
-Images attributed by filename: 2
+Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/2000s/close_up_digital_illustration_of_a_woman_wiping_her_face_with_a_tissue_by_avogado6_2020.jpeg]]
-
-![[media/strauh.al3.1/2000s/escalator_by_avogado6_2020.jpg]]
+![[media/strauh.al3.1/2000s/Illustration - Close-Up Digital Illustration of Woman Wiping Face With Tissue by avogado6.jpeg]]
 
 ## Image Notes
 
-- [[close up digital illustration of a woman wiping her face with a tissue by avogado6 2020 c342859b|close up digital illustration of a woman wiping her face with a tissue by avogado6 2020]]
-- [[escalator by avogado6 2020 78e43a96|escalator by avogado6 2020]]
+- [[Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6 4ef44638|Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/digital painting of a woman s face surrounded by white material 45d64b8c|digital painting of a woman s face surrounded by white material]] — shared language: face, digital, woman
-- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: face, digital, woman
-- [[knowledge/wiki/images/oil painting of a close up abstracted face in grayscale ca009861|oil painting of a close up abstracted face in grayscale]] — shared language: close, face
+- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
-- [[knowledge/wiki/images/high contrast black and white close up of a face with flowing hair 4c611fca|high contrast black and white close up of a face with flowing hair]] — shared language: close, face
-- [[knowledge/wiki/images/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: face, woman
+- [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: close, face
+- [[knowledge/wiki/images/Image Close Up Of Man's Face With 'Same As It Ever Was' Text f470019c|Image Close Up Of Man's Face With 'Same As It Ever Was' Text]] — shared language: close, face
+- [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: face, digital
+- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close
 <!-- vault-crosslinks:end -->

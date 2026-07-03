@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - carolyn lujan|Artist - carolyn lujan]] — named in this note
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
-- [[knowledge/wiki/artists/Artist - mydarlingstar|Artist - mydarlingstar]] — shared language: sunset
+- [[knowledge/wiki/images/Sunset Cranes by Carolyn Lujan (2022) ff4ef062|Sunset Cranes by Carolyn Lujan (2022)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - carolyn lujan|Artist - carolyn lujan]] — named in this note
+- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mydarlingstar|Artist - mydarlingstar]] — shared language: sunset
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mydarlingstar 2019|Artist - mydarlingstar 2019]] — shared language: sunset
-- [[knowledge/wiki/images/sunset tears by mydarlingstar 2019 d0421dcb|sunset tears by mydarlingstar 2019]] — shared language: sunset
-- [[knowledge/wiki/images/photograph of two figures in a canoe on sparkling water at sunset 51b01b09|photograph of two figures in a canoe on sparkling water at sunset]] — shared language: sunset
+- [[_archive/auto-generated/images-stale/sunset tears by mydarlingstar 2019 d0421dcb|sunset tears by mydarlingstar 2019]] — shared language: sunset
 <!-- vault-crosslinks:end -->

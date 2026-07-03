@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - agnes denes|Artist - agnes denes]] — named in this note
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: agnes
+- [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: agnes
 - [[knowledge/wiki/artists/Artist - agnes packard|Artist - agnes packard]] — shared language: agnes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - agnes packard 1970|Artist - agnes packard 1970]] — shared language: agnes
-- [[knowledge/wiki/images/strawberry picker by agnes packard 1970 2569c788|strawberry picker by agnes packard 1970]] — shared language: agnes
-- [[knowledge/wiki/images/saint agnes by andrea del sarto c 1527 1530 0cc919e5|saint agnes by andrea del sarto c 1527 1530]] — shared language: agnes
 <!-- vault-crosslinks:end -->

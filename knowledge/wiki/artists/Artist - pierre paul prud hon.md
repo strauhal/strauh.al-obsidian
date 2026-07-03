@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: pierre
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
-- [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
+- [[knowledge/wiki/artists/Artist - pierre bonnard|Artist - pierre bonnard]] — shared language: pierre
 <!-- vault-crosslinks:end -->

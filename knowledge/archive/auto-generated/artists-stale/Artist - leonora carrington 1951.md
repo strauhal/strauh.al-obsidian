@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - leonora carrington|Artist - leonora carrington]] — named in this note
 - [[knowledge/wiki/images/the tower by leonora carrington c 1985 1e767b31|the tower by leonora carrington c 1985]] — shared language: leonora, carrington
-- [[knowledge/wiki/images/the crucifixion by gerard david c 1495 58fd0900|the crucifixion by gerard david c 1495]] — shared language: crucifixion
-- [[knowledge/wiki/images/the crucifixion by andrea mantegna 1457 1459 e4311b50|the crucifixion by andrea mantegna 1457 1459]] — shared language: crucifixion
-- [[knowledge/wiki/images/three studies for figures at the base of a crucifixion by francis bacon 1944 b7638bb4|three studies for figures at the base of a crucifixion by francis bacon 1944]] — shared language: crucifixion
-- [[knowledge/wiki/images/crucifixion corpus hypercubus by salvador dali 1954 ad856389|crucifixion corpus hypercubus by salvador dali 1954]] — shared language: crucifixion
+- [[knowledge/wiki/images/Crucifixion by Egon Schiele (1907) d023adfe|Crucifixion by Egon Schiele (1907)]] — shared language: crucifixion
+- [[knowledge/wiki/images/The Crucifixion by Gerard David (c. 1495) 47b51192|The Crucifixion by Gerard David (c. 1495)]] — shared language: crucifixion
+- [[knowledge/wiki/images/The Crucifixion by Jean Fouquet (c. 1452 1460) b3ba7eff|The Crucifixion by Jean Fouquet (c. 1452 1460)]] — shared language: crucifixion
+- [[_archive/auto-generated/images-stale/the crucifixion by gerard david c 1495 58fd0900|the crucifixion by gerard david c 1495]] — shared language: crucifixion
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/head of a woman by pablo picasso 1926 2d377890|head of a woman by pablo picasso 1926]] — shared language: picasso, pablo
-- [[knowledge/wiki/images/guernica by pablo picasso 1937 dd0ae6bf|guernica by pablo picasso 1937]] — shared language: picasso, pablo
-- [[knowledge/wiki/images/la muse by pablo picasso 1935 ead13956|la muse by pablo picasso 1935]] — shared language: picasso, pablo
 - [[knowledge/wiki/images/two brothers by pablo picasso 1905 ed4cea42|two brothers by pablo picasso 1905]] — shared language: picasso, pablo
+- [[knowledge/wiki/images/la muse by pablo picasso 1935 ead13956|la muse by pablo picasso 1935]] — shared language: picasso, pablo
+- [[knowledge/wiki/images/guernica by pablo picasso 1937 dd0ae6bf|guernica by pablo picasso 1937]] — shared language: picasso, pablo
+- [[knowledge/wiki/images/line drawing of a reclining nude woman by pablo picasso 1969 8142483f|line drawing of a reclining nude woman by pablo picasso 1969]] — shared language: picasso, pablo
 - [[knowledge/wiki/images/the studio l atelier by pablo picasso 1955 3f387f6c|the studio l atelier by pablo picasso 1955]] — shared language: picasso, pablo
-- [[knowledge/wiki/images/femme a la guitare by pablo picasso 1924 745ba072|femme a la guitare by pablo picasso 1924]] — shared language: picasso, pablo
 <!-- vault-crosslinks:end -->

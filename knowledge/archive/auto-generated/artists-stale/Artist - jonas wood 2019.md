@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jonas wood|Artist - jonas wood]] — shared language: jonas, wood, castor
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood|Artist - jonas wood]] — shared language: jonas, wood, castor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: jonas, wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: jonas, wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: jonas, wood
-- [[knowledge/wiki/images/clipping 1 by jonas wood 2017 0a92e2aa|clipping 1 by jonas wood 2017]] — shared language: jonas, wood
-- [[knowledge/wiki/images/snow scene by jonas wood 2020 59cf88ea|snow scene by jonas wood 2020]] — shared language: jonas, wood
+- [[_archive/auto-generated/images-stale/clipping 1 by jonas wood 2017 0a92e2aa|clipping 1 by jonas wood 2017]] — shared language: jonas, wood
+- [[_archive/auto-generated/images-stale/snow scene by jonas wood 2020 59cf88ea|snow scene by jonas wood 2020]] — shared language: jonas, wood
 <!-- vault-crosslinks:end -->

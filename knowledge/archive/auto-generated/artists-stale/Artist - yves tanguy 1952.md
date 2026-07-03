@@ -21,6 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - yves tanguy|Artist - yves tanguy]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - yumi matsutoya 1983|Artist - yumi matsutoya 1983]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1962|Artist - zdzisaw beksinski 1962]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
+- [[knowledge/wiki/images/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
+- [[knowledge/wiki/artists/Artist - Jeanloup Sieff|Artist - Jeanloup Sieff]] — shared language: yves
 <!-- vault-crosslinks:end -->

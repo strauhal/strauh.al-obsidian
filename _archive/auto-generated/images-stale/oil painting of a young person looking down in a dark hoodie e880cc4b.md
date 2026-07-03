@@ -1,0 +1,33 @@
+---
+title: "oil painting of a young person looking down in a dark hoodie"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/oil_painting_of_a_young_person_looking_down_in_a_dark_hoodie.jpg"
+source_relpath: "2000s/oil_painting_of_a_young_person_looking_down_in_a_dark_hoodie.jpg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "750x1054"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# oil painting of a young person looking down in a dark hoodie
+
+![[media/strauh.al3.1/2000s/oil_painting_of_a_young_person_looking_down_in_a_dark_hoodie.jpg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/oil_painting_of_a_young_person_looking_down_in_a_dark_hoodie.jpg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/oil_painting_of_a_young_person_looking_down_in_a_dark_hoodie.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Portrait of Young Person Looking Down in Hoodie 99c7f9af|Illustration Portrait of Young Person Looking Down in Hoodie]] — shared language: hoodie, down, looking
+- [[knowledge/wiki/images/Illustration Oil Painting of Person with Large Dark Hair Looking Upwards 0450cc2a|Illustration Oil Painting of Person with Large Dark Hair Looking Upwards]] — shared language: looking, oil, person
+- [[knowledge/wiki/images/Photograph Person Standing In Front Of Metal Shutter Looking Down f506f497|Photograph Person Standing In Front Of Metal Shutter Looking Down]] — shared language: down, looking, person
+- [[_archive/auto-generated/images-stale/oil painting of a person with large dark hair looking upwards against a blurred background 4ba382cd|oil painting of a person with large dark hair looking upwards against a blurred background]] — shared language: looking, oil, person
+- [[_archive/auto-generated/images-stale/video still of a person in a mask and hoodie looking through a vehicle partition 915eaba8|video still of a person in a mask and hoodie looking through a vehicle partition]] — shared language: hoodie, looking, person
+<!-- vault-crosslinks:end -->

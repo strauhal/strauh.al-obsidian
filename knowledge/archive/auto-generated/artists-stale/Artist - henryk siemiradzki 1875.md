@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - henryk siemiradzki|Artist - henryk siemiradzki]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henryk siemiradzki 1876|Artist - henryk siemiradzki 1876]] — named in this note
+- [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/nero s torches pochodnie nerona by henryk siemiradzki 1876 b23bab83|nero s torches pochodnie nerona by henryk siemiradzki 1876]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
-- [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

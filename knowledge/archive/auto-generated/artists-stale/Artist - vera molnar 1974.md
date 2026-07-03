@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - vera molnar|Artist - vera molnar]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vera molnar 1976|Artist - vera molnar 1976]] — named in this note
 - [[knowledge/wiki/images/structure de tete by vera molnar 1976 d6168492|structure de tete by vera molnar 1976]] — shared language: vera, molnar
-- [[knowledge/wiki/images/square white canvas on a wall d5591b81|square white canvas on a wall]] — shared language: square
-- [[knowledge/wiki/images/oil painting of a sunset landscape rendered in square brushstrokes 005e7f33|oil painting of a sunset landscape rendered in square brushstrokes]] — shared language: square
-- [[knowledge/wiki/images/geometric op art pattern of nested squares created by white lines on a black background deebacad|geometric op art pattern of nested squares created by white lines on a black background]] — shared language: squares
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares
+- [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: squares
+- [[knowledge/wiki/images/Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares 6486d66f|Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares]] — shared language: squares
 <!-- vault-crosslinks:end -->

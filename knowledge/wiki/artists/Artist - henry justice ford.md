@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/chained 7cfad121|chained]] — named in this note
-- [[knowledge/wiki/artists/Artist - walton ford|Artist - walton ford]] — shared language: ford
+- [[knowledge/wiki/images/Illustration The Bride and The Lindorm by Henry Justice Ford f6e7d556|Illustration The Bride and The Lindorm by Henry Justice Ford]] — shared language: justice, ford, henry
+- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: ford
 - [[knowledge/wiki/anchors/francis-ford-coppola|Francis Ford Coppola]] — shared language: ford
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: henry
-- [[knowledge/wiki/images/the bat and the dove by walton ford 2009 d87e318e|the bat and the dove by walton ford 2009]] — shared language: ford
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 <!-- vault-crosslinks:end -->

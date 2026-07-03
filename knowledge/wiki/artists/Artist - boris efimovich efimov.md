@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - boris grigoriev|Artist - boris grigoriev]] — shared language: boris
 - [[knowledge/wiki/images/the mulatto by boris grigoriev 1926 10c53833|the mulatto by boris grigoriev 1926]] — shared language: boris
+- [[knowledge/wiki/images/Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939) 5af82f16|Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939)]] — shared language: boris
 - [[knowledge/wiki/artists/Artist - paulus potter|Artist - paulus potter]] — shared language: paulus
 - [[knowledge/wiki/artists/Artist - paulus pontius|Artist - paulus pontius]] — shared language: paulus
 - [[knowledge/wiki/images/the dead horse by paulus potter 1652 34b48453|the dead horse by paulus potter 1652]] — shared language: paulus
-- [[knowledge/wiki/images/the raising of the cross by paulus pontius c 1631 e969d810|the raising of the cross by paulus pontius c 1631]] — shared language: paulus
 <!-- vault-crosslinks:end -->

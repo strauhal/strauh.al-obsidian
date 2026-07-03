@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/artists/Artist - mike kelley|Artist - mike kelley]] — shared language: mike
-- [[knowledge/wiki/artists/Artist - mike harris|Artist - mike harris]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: mike
 <!-- vault-crosslinks:end -->

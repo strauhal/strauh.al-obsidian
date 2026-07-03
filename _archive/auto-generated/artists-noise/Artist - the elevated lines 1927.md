@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-elevated-lines-1927|Artist - the elevated lines 1927]] — shared language: elevated, lines
-- [[knowledge/wiki/images/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: elevated
+- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: lines
-- [[knowledge/wiki/images/framed painting of red modern buildings and elevated tracks c1c5960a|framed painting of red modern buildings and elevated tracks]] — shared language: elevated
+- [[_archive/auto-generated/images-stale/framed painting of red modern buildings and elevated tracks c1c5960a|framed painting of red modern buildings and elevated tracks]] — shared language: elevated
+- [[knowledge/wiki/images/Photograph Green And White Train On Elevated Tracks In Chicago Skyline 76c51897|Photograph Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated
+- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: elevated
 <!-- vault-crosslinks:end -->

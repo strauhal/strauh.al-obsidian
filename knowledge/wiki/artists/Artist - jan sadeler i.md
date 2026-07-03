@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jan roehr|Artist - jan roehr]] — shared language: jan
+- [[knowledge/wiki/images/jan matejko staczyk 1862 995481af|jan matejko staczyk 1862]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan mandijn|Artist - jan mandijn]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan saenredam|Artist - jan saenredam]] — shared language: jan
 - [[knowledge/wiki/images/the annunciation to the shepherds by jan saenredam 1599 e626d8a7|the annunciation to the shepherds by jan saenredam 1599]] — shared language: jan

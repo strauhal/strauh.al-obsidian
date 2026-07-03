@@ -1,12 +1,12 @@
 ---
 title: "view of the grand basin and exposition buildings world s columbian exposition by charles dudley arnold 1893"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg"
 source_relpath: "1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg"
 collection: "1800s"
 inferred_year: "1893"
 artist: "charles dudley arnold"
-dimensions: "5549x3699"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - charles dudley arnold]]
 
 Source: [[media/strauh.al3.1/1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_of_the_grand_basin_and_exposition_buildings_world_s_columbian_exposition_by_charles_dudley_arnold_1893.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/images/peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893 d233adbb|peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893]] — same artist: charles dudley arnold
 - [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: arnold, exposition, columbian
 - [[knowledge/wiki/artists/Artist - c d arnold|Artist - c d arnold]] — shared language: arnold, exposition, columbian
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, charles
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, columbian
 <!-- vault-crosslinks:end -->

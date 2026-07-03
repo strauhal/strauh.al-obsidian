@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tetsuya nomura|Artist - tetsuya nomura]] — named in this note
-- [[knowledge/wiki/artists/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light
-- [[knowledge/wiki/artists/Artist - diagonal light|Artist - diagonal light]] — shared language: light
-- [[knowledge/wiki/artists/Artist - radiating light and clouds|Artist - radiating light and clouds]] — shared language: light
-- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: light
-- [[knowledge/wiki/images/jim burns light grid 1979 95cf0e56|jim burns light grid 1979]] — shared language: light
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light
+- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light
+- [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: light
+- [[knowledge/wiki/images/Photograph Photograph of a Book Page with an Illustration of Light and Color cdea9c1a|Photograph Photograph of a Book Page with an Illustration of Light and Color]] — shared language: light
+- [[_archive/auto-generated/images-stale/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: light
 <!-- vault-crosslinks:end -->

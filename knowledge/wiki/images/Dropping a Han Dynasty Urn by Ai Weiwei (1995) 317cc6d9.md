@@ -1,0 +1,35 @@
+---
+title: "Dropping a Han Dynasty Urn by Ai Weiwei (1995)"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg"
+source_relpath: "1900s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg"
+collection: "1900s"
+inferred_year: "1995"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/1900s"]
+---
+# Dropping a Han Dynasty Urn by Ai Weiwei (1995)
+
+![[media/strauh.al3.1/1900s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg]]
+
+Collection: [[Collection - 1900s]]
+
+Date bucket: [[Date Bucket - 1990s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/1900s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Dropping a Han Dynasty Urn by Ai Weiwei (1995).jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/books/stanford-briefs-byung-chul-han-the-burnout-society-stanford-university-press|The Burnout Society-Stanford University Press]] — shared language: han
+- [[knowledge/wiki/images/The Night Revels of Han Xizai by Gu Hongzhong (c. 970) d86246d0|The Night Revels of Han Xizai by Gu Hongzhong (c. 970)]] — shared language: han
+- [[knowledge/wiki/images/Self Portrait by Ren Xiong (Qing dynasty) d3a7ee42|Self Portrait by Ren Xiong (Qing dynasty)]] — shared language: dynasty
+- [[knowledge/wiki/images/Pine Cliff and Clear Spring by Hongren (Qing dynasty) 360ec409|Pine Cliff and Clear Spring by Hongren (Qing dynasty)]] — shared language: dynasty
+- [[knowledge/wiki/images/The Tanzhi Pavilion by Gao Xiang (Qing dynasty) 1770ee5b|The Tanzhi Pavilion by Gao Xiang (Qing dynasty)]] — shared language: dynasty
+<!-- vault-crosslinks:end -->

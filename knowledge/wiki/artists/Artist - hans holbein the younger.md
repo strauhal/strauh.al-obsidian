@@ -39,6 +39,6 @@ Images attributed by filename: 6
 - [[knowledge/wiki/artists/Artist - hans makart|Artist - hans makart]] — shared language: hans, charles
 - [[knowledge/wiki/artists/Artist - hans bellmer|Artist - hans bellmer]] — shared language: hans
 - [[knowledge/wiki/artists/Artist - hans schaufelein|Artist - hans schaufelein]] — shared language: hans
+- [[knowledge/wiki/pages/art|art]] — shared language: holbein, younger, hans
 - [[knowledge/wiki/artists/Artist - hans namuth|Artist - hans namuth]] — shared language: hans
-- [[knowledge/wiki/images/cephalopodes irises by hans bellmer 1939 98920cc1|cephalopodes irises by hans bellmer 1939]] — shared language: hans
 <!-- vault-crosslinks:end -->

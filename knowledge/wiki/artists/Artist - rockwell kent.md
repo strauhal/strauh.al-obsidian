@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — shared language: kent
+- [[knowledge/wiki/images/Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent 7839d79b|Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent]] — shared language: kent, rockwell
 - [[knowledge/wiki/artists/Artist - norman rockwell|Artist - norman rockwell]] — shared language: rockwell
-- [[knowledge/wiki/images/the bar by kent williams 2009 6c4d939c|the bar by kent williams 2009]] — shared language: kent
 - [[knowledge/wiki/images/the lifesaver by norman rockwell 1959 d22630e8|the lifesaver by norman rockwell 1959]] — shared language: rockwell
+- [[knowledge/wiki/images/Picasso vs Sargent by Norman Rockwell (1966) 5a89c0fa|Picasso vs Sargent by Norman Rockwell (1966)]] — shared language: rockwell
 - [[knowledge/wiki/images/freedom of speech by norman rockwell 1943 75140841|freedom of speech by norman rockwell 1943]] — shared language: rockwell
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: group
 <!-- vault-crosslinks:end -->

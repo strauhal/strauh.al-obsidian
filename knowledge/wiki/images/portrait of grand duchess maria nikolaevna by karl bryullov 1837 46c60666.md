@@ -1,12 +1,12 @@
 ---
 title: "portrait of grand duchess maria nikolaevna by karl bryullov 1837"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg"
 source_relpath: "1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg"
 collection: "1800s"
 inferred_year: "1837"
 artist: "karl bryullov"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - karl bryullov]]
 
 Source: [[media/strauh.al3.1/1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryullov_1837.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

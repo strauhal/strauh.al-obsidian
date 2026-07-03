@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - julie mehretu|Artist - julie mehretu]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - julian story 1904|Artist - julian story 1904]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jun suemi 1989|Artist - jun suemi 1989]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - julie mehretu|Artist - julie mehretu]] — named in this note
+- [[knowledge/wiki/images/Stadia II by Julie Mehretu (2004) aca3539f|Stadia II by Julie Mehretu (2004)]] — named in this note
+- [[knowledge/wiki/images/The Garden by Julie Curtiss (2020) b6ee5599|The Garden by Julie Curtiss (2020)]] — shared language: julie
 <!-- vault-crosslinks:end -->

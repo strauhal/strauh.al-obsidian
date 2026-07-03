@@ -1,12 +1,12 @@
 ---
 title: "skate1"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/skate1.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/skate1.png"
 source_relpath: "diary/skate1.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1616x2109"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/skate1.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/skate1.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/skate1.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

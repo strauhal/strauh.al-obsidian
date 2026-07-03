@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — named in this note
-- [[knowledge/wiki/artists/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background, nested
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: lines, background, squares
-- [[knowledge/wiki/images/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
-- [[knowledge/wiki/images/white wavy scribbled lines on black background 0a438045|white wavy scribbled lines on black background]] — shared language: lines, background
-- [[knowledge/wiki/images/digital image of multicolored flowing lines representing neural pathways on a black background a823f144|digital image of multicolored flowing lines representing neural pathways on a black background]] — shared language: lines, background
+- [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background, nested
+- [[knowledge/archive/auto-generated/anchors-stale/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — shared language: lines, background
+- [[_archive/auto-generated/images-stale/not straight lines jpg 75de846e|not straight lines jpg]] — shared language: lines
+- [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: lines, background
+- [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: lines, background
+- [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: lines, background
 <!-- vault-crosslinks:end -->

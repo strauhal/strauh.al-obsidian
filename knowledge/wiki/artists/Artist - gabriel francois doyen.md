@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gabriel metsu|Artist - gabriel metsu]] — shared language: gabriel
 - [[knowledge/wiki/images/john singer sargent gabriel faur 1898 8c6e9e69|john singer sargent gabriel faur 1898]] — shared language: gabriel
 - [[knowledge/wiki/artists/Artist - jean francois millet|Artist - jean francois millet]] — shared language: francois
-- [[knowledge/wiki/artists/Artist - jean francois rauzier|Artist - jean francois rauzier]] — shared language: francois
+- [[knowledge/wiki/artists/Artist - francois morellet|Artist - francois morellet]] — shared language: francois
 <!-- vault-crosslinks:end -->

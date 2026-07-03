@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: georgia, keeffe, abstraction
-- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: green, blue
-- [[knowledge/wiki/images/pink geometric abstraction with small figures 8dde5110|pink geometric abstraction with small figures]] — shared language: abstraction
-- [[knowledge/wiki/images/framed geometric interior abstraction with red and black shapes eab2c56c|framed geometric interior abstraction with red and black shapes]] — shared language: abstraction
-- [[knowledge/wiki/images/framed geometric abstraction with circle rectangles and triangles a89e37df|framed geometric abstraction with circle rectangles and triangles]] — shared language: abstraction
+- [[knowledge/wiki/images/New York Street with Moon by Georgia O'Keeffe (1925) 0f6e496b|New York Street with Moon by Georgia O'Keeffe (1925)]] — shared language: georgia
+- [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/abstraction flower by arthur dove 1924 477b2512|abstraction flower by arthur dove 1924]] — shared language: abstraction
+- [[knowledge/wiki/images/Illustration Geometric Abstraction of Buildings and Structures Against a Dark Blue Sky by Charles Sheeler 15705f10|Illustration Geometric Abstraction of Buildings and Structures Against a Dark Blue Sky by Charles Sheeler]] — shared language: abstraction
+- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: green
+- [[knowledge/wiki/artists/Artist - guy rose|Artist - guy rose]] — shared language: rose
 <!-- vault-crosslinks:end -->

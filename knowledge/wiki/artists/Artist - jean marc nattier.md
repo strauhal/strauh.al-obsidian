@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: marc
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
-- [[knowledge/wiki/artists/Artist - marc simonetti|Artist - marc simonetti]] — shared language: marc
-- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc
-- [[knowledge/wiki/artists/Artist - jean baptiste marie pierre|Artist - jean baptiste marie pierre]] — shared language: jean, marie, baptiste
 - [[knowledge/wiki/collections/Collection - 1700s|Collection - 1700s]] — shared language: nattier, marc, jean
+- [[knowledge/wiki/artists/Artist - jean baptiste marie pierre|Artist - jean baptiste marie pierre]] — shared language: jean, marie, baptiste
+- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc
+- [[knowledge/wiki/images/The Golden City by Marc Simonetti (2016) 2e588854|The Golden City by Marc Simonetti (2016)]] — shared language: marc
+- [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: marc
 <!-- vault-crosslinks:end -->

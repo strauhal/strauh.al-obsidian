@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - henry justice ford|Artist - henry justice ford]] — named in this note
 - [[knowledge/wiki/images/chained 7cfad121|chained]] — named in this note
-- [[knowledge/wiki/artists/Artist - walton ford|Artist - walton ford]] — shared language: ford
+- [[knowledge/wiki/images/Illustration The Bride and The Lindorm by Henry Justice Ford f6e7d556|Illustration The Bride and The Lindorm by Henry Justice Ford]] — shared language: justice, ford, henry
+- [[knowledge/archive/auto-generated/artists-stale/Artist - walton ford|Artist - walton ford]] — shared language: ford
 - [[knowledge/archive/auto-generated/artists-stale/Artist - walton ford 2009|Artist - walton ford 2009]] — shared language: ford
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — shared language: henry
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — shared language: henry
+- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: ford
 <!-- vault-crosslinks:end -->

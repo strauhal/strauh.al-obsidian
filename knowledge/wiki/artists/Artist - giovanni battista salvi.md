@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the virgin in prayer by giovanni battista salvi da sassoferrato c 16401650 974fe0f9|the virgin in prayer by giovanni battista salvi da sassoferrato c 16401650]] — shared language: salvi, battista, giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: battista, giovanni, child
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: battista, giovanni
+- [[knowledge/wiki/images/Portrait of a Man by Giovanni Battista Moroni (c. 1570) 1d471918|Portrait of a Man by Giovanni Battista Moroni (c. 1570)]] — shared language: battista, giovanni
 - [[knowledge/wiki/images/the virgin and child with saints by giovanni battista tiepolo c 17351740 fd452b29|the virgin and child with saints by giovanni battista tiepolo c 17351740]] — shared language: battista, giovanni, child
-- [[knowledge/wiki/artists/Artist - giovanni battista gaulli 16741679|Artist - giovanni battista gaulli 16741679]] — shared language: battista, giovanni
 <!-- vault-crosslinks:end -->

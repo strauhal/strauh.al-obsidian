@@ -1,13 +1,13 @@
 ---
 title: "Artist - katsuya terada"
 source_kind: "artist"
-count: "4"
+count: "2"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - katsuya terada
 
-Images attributed by filename: 4
+Images attributed by filename: 2
 
 ## Sample
 
@@ -15,24 +15,18 @@ Images attributed by filename: 4
 
 ![[media/strauh.al3.1/1900s/war_and_fantasy_comptiq_magazine_cover_illustration_by_katsuya_terada_1989.jpg]]
 
-![[media/strauh.al3.1/2000s/detailed_black_and_white_illustration_of_a_girl_drawing_in_a_cluttered_office_by_katsuya_terada.jpg]]
-
-![[media/strauh.al3.1/2000s/the_rider_by_katsuya_terada_2000.jpg]]
-
 ## Image Notes
 
 - [[re co by katsuya terada 1999 c63e7f25|re co by katsuya terada 1999]]
 - [[war and fantasy comptiq magazine cover illustration by katsuya terada 1989 af82aedb|war and fantasy comptiq magazine cover illustration by katsuya terada 1989]]
-- [[detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada ea718cb0|detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada]]
-- [[the rider by katsuya terada 2000 0ef160c0|the rider by katsuya terada 2000]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
-- [[knowledge/wiki/images/japanese camera magazine cover with flowers 8ac0377a|japanese camera magazine cover with flowers]] — shared language: magazine, cover
-- [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: cluttered
-- [[knowledge/wiki/images/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: cluttered
-- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
-- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/Elks Magazine Cover by Franklin Booth (1926) 5e24620b|Elks Magazine Cover by Franklin Booth (1926)]] — shared language: magazine, cover
+- [[knowledge/wiki/images/Document Pink Flowers And A Yellow Butterfly On A Magazine Cover eee78522|Document Pink Flowers And A Yellow Butterfly On A Magazine Cover]] — shared language: magazine, cover
+- [[knowledge/wiki/images/Document TIME Magazine Cover with Computer Monitor and Video Player 9a68f45c|Document TIME Magazine Cover with Computer Monitor and Video Player]] — shared language: magazine, cover
+- [[knowledge/wiki/images/warlock magazine vol 34 cover by yoshitaka amano 1989 ed506cca|warlock magazine vol 34 cover by yoshitaka amano 1989]] — shared language: magazine, cover
+- [[knowledge/wiki/images/Document Police Officer Eating Fast Food on Magazine Cover 23c9bdcf|Document Police Officer Eating Fast Food on Magazine Cover]] — shared language: magazine, cover
 <!-- vault-crosslinks:end -->

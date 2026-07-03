@@ -1,12 +1,12 @@
 ---
 title: "EZn20q1UEAALWLj"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/EZn20q1UEAALWLj.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/EZn20q1UEAALWLj.png"
 source_relpath: "computers/EZn20q1UEAALWLj.png"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "463x441"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/EZn20q1UEAALWLj.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/EZn20q1UEAALWLj.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/EZn20q1UEAALWLj.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

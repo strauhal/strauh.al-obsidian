@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: fleming, victor
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/images/Screenshot Dorothy, Tin Man, Scarecrow, and Cowardly Lion by Victor Fleming c8e514cc|Screenshot Dorothy, Tin Man, Scarecrow, and Cowardly Lion by Victor Fleming]] — shared language: fleming, victor
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1930s"
 source_kind: "date_bucket"
-count: "93"
+count: "102"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,13 +9,33 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1930s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 93
+Files: 102
 
 ## Sample
 
 ![[media/strauh.al3.1/1900s/1931_571_ballet_dancers_jpg.jpg]]
 
 ![[media/strauh.al3.1/1900s/1937_painting_by_ben_nicholson_1937.jpeg]]
+
+![[media/strauh.al3.1/1900s/American Landscape by Charles Sheeler (1930) (2).jpeg]]
+
+![[media/strauh.al3.1/1900s/American Landscape by Charles Sheeler (1930).jpeg]]
+
+![[media/strauh.al3.1/1900s/American Landscape by Charles Sheeler (1932).jpeg]]
+
+![[media/strauh.al3.1/1900s/Coal Breaker by Max Arthur Cohn (c. 1935).jpg]]
+
+![[media/strauh.al3.1/1900s/La procesión de la muerte by José Gutiérrez Solana (1930).jpg]]
+
+![[media/strauh.al3.1/1900s/Portrait of Joseph Stalin by Isaac Brodsky (1937).jpg]]
+
+![[media/strauh.al3.1/1900s/Power by Charles Sheeler (1939).jpeg]]
+
+![[media/strauh.al3.1/1900s/San Francisco Street Scene by John Howard (1937).jpeg]]
+
+![[media/strauh.al3.1/1900s/Stalin at the Presidium of the First All-Union Congress of Collective Farmers by Boris Cheprakov (1939).jpg]]
+
+![[media/strauh.al3.1/1900s/The Artist's Studio by Raoul Dufy (1935).jpg]]
 
 ![[media/strauh.al3.1/1900s/alexander_laktionov_a_soldier_in_the_hermitage_1938.jpeg]]
 
@@ -40,26 +60,6 @@ Files: 93
 ![[media/strauh.al3.1/1900s/drawing_of_a_stepped_art_deco_skyscraper_illuminated_at_night_1930.jpg]]
 
 ![[media/strauh.al3.1/1900s/drawing_of_a_stepped_art_deco_skyscraper_illuminated_at_night_1930_2.jpg]]
-
-![[media/strauh.al3.1/1900s/edward_hopper_room_in_new_york_1932.jpeg]]
-
-![[media/strauh.al3.1/1900s/elegy_by_arshile_gorky_ca_1939.jpeg]]
-
-![[media/strauh.al3.1/1900s/family_at_supper_oklahoma_by_arthur_rothstein_1936.jpeg]]
-
-![[media/strauh.al3.1/1900s/fap_anis_by_a_delval_1930.jpeg]]
-
-![[media/strauh.al3.1/1900s/faun_and_nude_woman_by_pablo_picasso_1930.jpeg]]
-
-![[media/strauh.al3.1/1900s/femme_assise_pres_d_une_fenetre_marie_therese_by_pablo_picasso_1932.jpeg]]
-
-![[media/strauh.al3.1/1900s/femme_et_accordeon_by_le_corbusier_1932.jpeg]]
-
-![[media/strauh.al3.1/1900s/figure_in_a_plaid_dress_by_henri_matisse_1939.jpeg]]
-
-![[media/strauh.al3.1/1900s/fillette_au_bateau_maya_a_la_poupee_by_pablo_picasso_1937.jpeg]]
-
-![[media/strauh.al3.1/1900s/franklin_d_roosevelt_shaking_hands_with_a_farmer_1932.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

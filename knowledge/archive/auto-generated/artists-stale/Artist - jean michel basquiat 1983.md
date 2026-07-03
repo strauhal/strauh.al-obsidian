@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - jean michel basquiat|Artist - jean michel basquiat]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean michel basquiat 1982|Artist - jean michel basquiat 1982]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/images/untitled head by jean michel basquiat 1982 d0caf46a|untitled head by jean michel basquiat 1982]] — shared language: basquiat, michel, jean
+- [[knowledge/wiki/images/Untitled (Head) by Jean Michel Basquiat (1982) c1e1e665|Untitled (Head) by Jean Michel Basquiat (1982)]] — shared language: basquiat, michel, jean
 - [[knowledge/wiki/images/untitled knight on horseback by jean michel basquiat 1982 9e07f673|untitled knight on horseback by jean michel basquiat 1982]] — shared language: basquiat, michel, jean
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — named in this note
-- [[knowledge/wiki/artists/Artist - wolf kahn|Artist - wolf kahn]] — shared language: wolf
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wolf kahn|Artist - wolf kahn]] — shared language: wolf
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wolf kahn 2007|Artist - wolf kahn 2007]] — shared language: wolf
-- [[knowledge/wiki/images/pink and orange cloud over blue water by wolf kahn 2007 be2dccf0|pink and orange cloud over blue water by wolf kahn 2007]] — shared language: wolf
-- [[knowledge/wiki/images/wolf rehfeldt ruth overall 02 jpg 1440 jpeg 668f4d7e|wolf rehfeldt ruth overall 02 jpg 1440 jpeg]] — shared language: wolf
-- [[knowledge/wiki/images/the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]] — shared language: wolf
+- [[knowledge/wiki/artists/Artist - Ruth Wolf Rehfeldt|Artist - Ruth Wolf Rehfeldt]] — shared language: wolf
+- [[knowledge/wiki/images/Match Made in Wolf Heaven by John Nieto (2011) f4a78011|Match Made in Wolf Heaven by John Nieto (2011)]] — shared language: wolf
+- [[_archive/auto-generated/images-stale/pink and orange cloud over blue water by wolf kahn 2007 be2dccf0|pink and orange cloud over blue water by wolf kahn 2007]] — shared language: wolf
 <!-- vault-crosslinks:end -->

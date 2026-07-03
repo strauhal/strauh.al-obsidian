@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - charles fazzino|Artist - charles fazzino]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles fazzino|Artist - charles fazzino]] — named in this note
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
-- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922 2|Artist - charles sheeler 1922 2]] — shared language: charles
 <!-- vault-crosslinks:end -->

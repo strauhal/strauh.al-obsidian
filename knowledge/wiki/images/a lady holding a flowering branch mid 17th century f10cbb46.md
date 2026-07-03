@@ -1,12 +1,12 @@
 ---
 title: "a lady holding a flowering branch mid 17th century"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg"
 source_relpath: "1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg"
 collection: "1600s"
 inferred_year: "1600s"
 artist: ""
-dimensions: "492x914"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/mid century american|mid century american]] — shared language: mid, century
-- [[knowledge/wiki/images/woodblock print of a flowering branch against a large moon a675511e|woodblock print of a flowering branch against a large moon]] — shared language: flowering, branch
-- [[knowledge/wiki/images/vadim gerasimov scream early 21st century 53b5989b|vadim gerasimov scream early 21st century]] — shared language: century, century.jpg
-- [[knowledge/wiki/images/anime illustration of a maid skateboarding in mid air 1ddc7ce2|anime illustration of a maid skateboarding in mid air]] — shared language: mid
-- [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century, century.jpg
+- [[knowledge/wiki/images/Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon fb0259f1|Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon]] — shared language: flowering, branch
+- [[knowledge/wiki/images/Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet c2f9fc89|Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions ab8f188f|Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: mid, century
 <!-- vault-crosslinks:end -->

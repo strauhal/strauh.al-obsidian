@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the artist by saul steinberg 1948 6c138962|the artist by saul steinberg 1948]] — shared language: steinberg, saul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1971|Artist - saul steinberg 1971]] — shared language: steinberg, saul
 - [[knowledge/wiki/artists/Artist - saul steinberg|Artist - saul steinberg]] — shared language: steinberg, saul, crowd
-- [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — shared language: steinberg, saul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1966|Artist - saul steinberg 1966]] — shared language: steinberg, saul
+- [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — shared language: steinberg, saul
 <!-- vault-crosslinks:end -->

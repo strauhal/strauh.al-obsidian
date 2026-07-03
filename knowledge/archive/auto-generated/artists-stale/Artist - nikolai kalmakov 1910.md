@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nikolai kalmakov|Artist - nikolai kalmakov]] — named in this note
-- [[knowledge/wiki/artists/Artist - nikolai blokhin|Artist - nikolai blokhin]] — shared language: nikolai
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nikolai blokhin|Artist - nikolai blokhin]] — shared language: nikolai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nikolai blokhin 2005|Artist - nikolai blokhin 2005]] — shared language: nikolai
-- [[knowledge/wiki/images/the embrace by nikolai blokhin 2005 d5722d8c|the embrace by nikolai blokhin 2005]] — shared language: nikolai
-- [[knowledge/wiki/images/bedroom at night by nikolai blokhin 2005 ced38447|bedroom at night by nikolai blokhin 2005]] — shared language: nikolai
+- [[_archive/auto-generated/images-stale/the embrace by nikolai blokhin 2005 d5722d8c|the embrace by nikolai blokhin 2005]] — shared language: nikolai
+- [[_archive/auto-generated/images-stale/bedroom at night by nikolai blokhin 2005 ced38447|bedroom at night by nikolai blokhin 2005]] — shared language: nikolai
 - [[knowledge/wiki/artists/Artist - nikolai bogdanov belsky|Artist - nikolai bogdanov belsky]] — shared language: nikolai
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - utagawa hiroshige 1857|Artist - utagawa hiroshige 1857]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: hiroshige, utagawa
-- [[knowledge/wiki/images/the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857 bb5ea15a|the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857]] — shared language: hiroshige, utagawa
+- [[knowledge/wiki/images/Night View of Saruwaka machi by Utagawa Hiroshige (1856) d6e30486|Night View of Saruwaka machi by Utagawa Hiroshige (1856)]] — shared language: hiroshige, utagawa
 <!-- vault-crosslinks:end -->

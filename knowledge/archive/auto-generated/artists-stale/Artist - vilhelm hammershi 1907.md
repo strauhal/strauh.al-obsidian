@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1898|Artist - vilhelm hammershi 1898]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1901|Artist - vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with a young man reading by vilhelm hammershi 1898 20cbc442|interior with a young man reading by vilhelm hammershi 1898]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with a woman standing by vilhelm hammershi 1901 99975224|interior with a woman standing by vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with piano and cello by vilhelm hammershi 1901 1c5f07b5|interior with piano and cello by vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
+- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: hammershi, vilhelm, strandgade
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1898|Artist - vilhelm hammershi 1898]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1901|Artist - vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with a young man reading by vilhelm hammershi 1898 20cbc442|interior with a young man reading by vilhelm hammershi 1898]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with a woman standing by vilhelm hammershi 1901 99975224|interior with a woman standing by vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with piano and cello by vilhelm hammershi 1901 1c5f07b5|interior with piano and cello by vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
 <!-- vault-crosslinks:end -->

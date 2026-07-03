@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1948|Artist - andrew wyeth 1948]] — shared language: wyeth, andrew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1948 2|Artist - andrew wyeth 1948 2]] — shared language: wyeth, andrew
 - [[knowledge/wiki/artists/Artist - andrew wyeth|Artist - andrew wyeth]] — shared language: wyeth, andrew, lovers
-- [[knowledge/wiki/images/siri by andrew wyeth 1970 7d6dc271|siri by andrew wyeth 1970]] — shared language: wyeth, andrew
+- [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: wyeth, andrew
 <!-- vault-crosslinks:end -->

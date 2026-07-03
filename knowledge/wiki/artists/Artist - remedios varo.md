@@ -32,10 +32,10 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Sleepers by Remedios Varo (1947) 2fdc8873|The Sleepers by Remedios Varo (1947)]] — shared language: remedios, varo
+- [[knowledge/wiki/images/Armon a (Autorretrato Sugerente) by Remedios Varo (1956) 5457a3fe|Armon a (Autorretrato Sugerente) by Remedios Varo (1956)]] — shared language: remedios, varo
+- [[knowledge/wiki/images/M sica Solar by Remedios Varo (1955) 354bc047|M sica Solar by Remedios Varo (1955)]] — shared language: remedios, varo
+- [[knowledge/wiki/images/La Creaci n de las Aves by Remedios Varo (1957) 08f1b3c8|La Creaci n de las Aves by Remedios Varo (1957)]] — shared language: remedios, varo
+- [[knowledge/wiki/images/Illustration Sperm Being Injected Into An Egg Cell 66cc47a7|Illustration Sperm Being Injected Into An Egg Cell]] — shared language: egg
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: pantera
-- [[knowledge/wiki/images/egg by yoshitaka amano 1990 e7f49edc|egg by yoshitaka amano 1990]] — shared language: egg
-- [[knowledge/wiki/images/william fettes douglas alchemist painting jpg webp a9da64a0|william fettes douglas alchemist painting jpg webp]] — shared language: alchemist
-- [[knowledge/wiki/images/the alchemist by william fettes douglas 1855 7f98c27c|the alchemist by william fettes douglas 1855]] — shared language: alchemist
-- [[knowledge/wiki/images/egg chair siamese by ann mika 2010 58032b4a|egg chair siamese by ann mika 2010]] — shared language: egg
-- [[knowledge/wiki/images/black and white photograph of a musician playing a wind instrument with motion blur a3e74d3f|black and white photograph of a musician playing a wind instrument with motion blur]] — shared language: musician
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "jacobcollins jpg"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/jacobcollins_jpg.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/jacobcollins_jpg.jpg"
 source_relpath: "2000s/jacobcollins_jpg.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1440x1598"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/jacobcollins_jpg.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/jacobcollins_jpg.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/jacobcollins_jpg.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/12 rw r cc ty 3598 original jpg 870ce0d1|12 rw r cc ty 3598 original jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1626488837263 jpg b6cd638a|1626488837263 jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1652503832014 jpg d1d1be32|1652503832014 jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1652504051543 jpg af277e28|1652504051543 jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1653251333640 jpg 9bf2a055|1653251333640 jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/1924 127 woman at her toilette jpg ac25da2f|1924 127 woman at her toilette jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/toshio saeki jpg ad71c0fe|toshio saeki jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/1943 580 woman elevation jpg 3e045101|1943 580 woman elevation jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

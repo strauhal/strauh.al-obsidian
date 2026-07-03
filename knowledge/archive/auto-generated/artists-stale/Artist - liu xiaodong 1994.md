@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu xiaodong 1999|Artist - liu xiaodong 1999]] — named in this note
-- [[knowledge/wiki/artists/Artist - liu ye|Artist - liu ye]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye|Artist - liu ye]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye 2003|Artist - liu ye 2003]] — named in this note
 - [[knowledge/wiki/images/the son of the earth by liu xiaodong 1999 0847c546|the son of the earth by liu xiaodong 1999]] — shared language: xiaodong, liu
-- [[knowledge/wiki/images/the man on the sofa by liu ye 2003 926e1ae3|the man on the sofa by liu ye 2003]] — shared language: liu
+- [[_archive/auto-generated/images-stale/the man on the sofa by liu ye 2003 926e1ae3|the man on the sofa by liu ye 2003]] — shared language: liu
 <!-- vault-crosslinks:end -->

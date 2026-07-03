@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: barry
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: barry
+- [[knowledge/wiki/artists/Artist - Barry McGee|Artist - Barry McGee]] — shared language: barry
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: barry
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: barry
-- [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: dylan, bob
-- [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
-- [[knowledge/wiki/artists/Artist - bob willoughby|Artist - bob willoughby]] — shared language: bob
+- [[knowledge/wiki/images/Illustration Figure Spray Painting 'TWIST' on a Train Front by Barry McGee a18b5380|Illustration Figure Spray Painting 'TWIST' on a Train Front by Barry McGee]] — shared language: barry
 <!-- vault-crosslinks:end -->

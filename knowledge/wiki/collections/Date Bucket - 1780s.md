@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1780s"
 source_kind: "date_bucket"
-count: "15"
+count: "17"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1780s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 15
+Files: 17
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/Genius Calling Forth the Fine Arts to Adorn Manufactures by Benjamin West (1789).jpeg]]
+
+![[media/strauh.al3.1/1700s/Mrs. William Hope (née Anne Goddard) by Sir Joshua Reynolds (1774-1780).jpeg]]
+
+![[media/strauh.al3.1/1700s/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776-1780).jpg]]
 
 ![[media/strauh.al3.1/1700s/cupid_and_psyche_by_antonio_canova_1787_93.jpeg]]
 
@@ -38,8 +44,6 @@ Files: 15
 ![[media/strauh.al3.1/1700s/the_death_of_major_peirson_6_january_1781_by_john_singleton_copley_1783.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_death_of_socrates_by_jacques_louis_david_1787.jpeg]]
-
-![[media/strauh.al3.1/2023_downloadsfolder/tumblr_e729a7eca32ed17c454cb7767e941dde_725e1786_1280.jpg]]
 
 ![[media/strauh.al3.1/artists/moebius/1179183-2500x1787-quality-moebius-wallpaper.jpg]]
 

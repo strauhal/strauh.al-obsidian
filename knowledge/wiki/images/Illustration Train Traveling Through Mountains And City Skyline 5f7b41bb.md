@@ -1,0 +1,33 @@
+---
+title: "Illustration Train Traveling Through Mountains And City Skyline"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Train Traveling Through Mountains And City Skyline.jpeg"
+source_relpath: "unsorted/Illustration - Train Traveling Through Mountains And City Skyline.jpeg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# Illustration Train Traveling Through Mountains And City Skyline
+
+![[media/strauh.al3.1/unsorted/Illustration - Train Traveling Through Mountains And City Skyline.jpeg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/Illustration - Train Traveling Through Mountains And City Skyline.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Train Traveling Through Mountains And City Skyline.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
+<!-- vault-crosslinks:end -->

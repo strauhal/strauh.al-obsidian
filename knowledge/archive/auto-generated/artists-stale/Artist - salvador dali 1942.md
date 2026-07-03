@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1929|Artist - salvador dali 1929]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1949|Artist - salvador dali 1949]] — shared language: dali, salvador
-- [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1944 1945|Artist - salvador dali 1944 1945]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1952|Artist - salvador dali 1952]] — shared language: dali, salvador
+- [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1944 1945|Artist - salvador dali 1944 1945]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1950|Artist - salvador dali 1950]] — shared language: dali, salvador
 - [[knowledge/archive/auto-generated/artists-stale/Artist - salvador dali 1937|Artist - salvador dali 1937]] — shared language: dali, salvador
 <!-- vault-crosslinks:end -->

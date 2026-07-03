@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
-- [[knowledge/wiki/artists/Artist - frederick william macmonnies|Artist - frederick william macmonnies]] — shared language: frederick, william
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
+- [[knowledge/wiki/artists/Artist - frederick william macmonnies|Artist - frederick william macmonnies]] — shared language: frederick, william
 - [[knowledge/wiki/images/the harvest by frederick booth 1918 ae851690|the harvest by frederick booth 1918]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - frederick edwin church|Artist - frederick edwin church]] — shared language: frederick
 - [[knowledge/wiki/images/the gleaners by frederick morgan 1890 a9a1dc0c|the gleaners by frederick morgan 1890]] — shared language: frederick

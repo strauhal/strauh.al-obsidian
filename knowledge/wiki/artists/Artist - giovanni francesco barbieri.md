@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - francesco hayez|Artist - francesco hayez]] — shared language: francesco
+- [[knowledge/wiki/images/The Assumption of the Virgin by Francesco Botticini (c. 1475 1476) b4314777|The Assumption of the Virgin by Francesco Botticini (c. 1475 1476)]] — shared language: francesco, virgin
+- [[knowledge/wiki/artists/Artist - Francesco Villamena|Artist - Francesco Villamena]] — shared language: francesco
 - [[knowledge/wiki/images/la ciociara by francesco hayez 1842 3ccd7fe2|la ciociara by francesco hayez 1842]] — shared language: francesco
 - [[knowledge/wiki/images/the virgin and child with saints by giovanni battista tiepolo c 17351740 fd452b29|the virgin and child with saints by giovanni battista tiepolo c 17351740]] — shared language: giovanni, virgin, child
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: giovanni, virgin, child
-- [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
-- [[knowledge/wiki/images/the virgin in prayer by giovanni battista salvi da sassoferrato c 16401650 974fe0f9|the virgin in prayer by giovanni battista salvi da sassoferrato c 16401650]] — shared language: giovanni, virgin
 <!-- vault-crosslinks:end -->

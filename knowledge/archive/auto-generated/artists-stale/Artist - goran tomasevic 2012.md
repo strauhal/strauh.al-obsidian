@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - goran tomasevic|Artist - goran tomasevic]] — named in this note
-- [[knowledge/wiki/images/street fighter zero 3 playstation disc art featuring r mika 1998 00f1c619|street fighter zero 3 playstation disc art featuring r mika 1998]] — shared language: fighter
-- [[knowledge/wiki/images/oil painting portrait of a man in a dark suit d0e4ae5b|oil painting portrait of a man in a dark suit]] — shared language: suit
-- [[knowledge/wiki/images/framed portrait of a man reclining in a black suit dc5f86c7|framed portrait of a man reclining in a black suit]] — shared language: suit
-- [[knowledge/wiki/images/boy with rifle by bill owens 1964 2be1d102|boy with rifle by bill owens 1964]] — shared language: rifle
-- [[knowledge/wiki/images/joseph beuys felt suit 1970 cb2512af|joseph beuys felt suit 1970]] — shared language: suit
+- [[knowledge/archive/auto-generated/artists-stale/Artist - goran tomasevic|Artist - Goran Tomasevic]] — named in this note
+- [[knowledge/wiki/images/Photograph Syrian Rebel in Suit Holds Rifle in Aleppo Street by Goran Tomasevic e726b447|Photograph Syrian Rebel in Suit Holds Rifle in Aleppo Street by Goran Tomasevic]] — shared language: goran, tomasevic, syrian
+- [[knowledge/wiki/images/Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle 7da63720|Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle]] — shared language: rifle, suit
+- [[knowledge/wiki/images/Photograph Two Pilots Inspecting Fighter Jet with Nose Art 9c1f9042|Photograph Two Pilots Inspecting Fighter Jet with Nose Art]] — shared language: fighter
+- [[knowledge/wiki/images/Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar 75c60b3c|Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar]] — shared language: fighter
+- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 <!-- vault-crosslinks:end -->

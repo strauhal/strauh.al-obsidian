@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas eakins 1899|Artist - thomas eakins 1899]] — shared language: eakins, thomas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas eakins 1887|Artist - thomas eakins 1887]] — shared language: eakins, thomas
+- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
 <!-- vault-crosslinks:end -->

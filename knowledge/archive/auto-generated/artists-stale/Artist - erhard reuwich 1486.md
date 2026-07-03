@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - erhard reuwich|Artist - erhard reuwich]] — named in this note
-- [[knowledge/wiki/images/view from illinois bldg sep 18 1892 1892 2ecc4dd8|view from illinois bldg sep 18 1892 1892]] — shared language: view
 - [[knowledge/wiki/images/the doge s palace venice by federico moja 1855 5dfcf85e|the doge s palace venice by federico moja 1855]] — shared language: venice
-- [[knowledge/wiki/images/detailed sepia drawing of venice showing piazza san marco and ships 95441c3a|detailed sepia drawing of venice showing piazza san marco and ships]] — shared language: venice
-- [[knowledge/wiki/images/installation view of gallery with black and white patterned artworks d8c2f66f|installation view of gallery with black and white patterned artworks]] — shared language: view
-- [[knowledge/wiki/images/black and white line drawing of a woman s head in front and profile view 8b441203|black and white line drawing of a woman s head in front and profile view]] — shared language: view
+- [[knowledge/wiki/images/Illustration Detailed Sepia Drawing of Venice with Piazza San Marco and Ships bdb9ac84|Illustration Detailed Sepia Drawing of Venice with Piazza San Marco and Ships]] — shared language: venice
+- [[knowledge/wiki/images/The Grand Canal, Venice, with Santa Maria della Salute by F (c. 1880 1890) 68e23dfa|The Grand Canal, Venice, with Santa Maria della Salute by F (c. 1880 1890)]] — shared language: venice
+- [[knowledge/wiki/images/edward william cooke the dogana and santa maria della salute venice at sunset 1851 f7e042e8|edward william cooke the dogana and santa maria della salute venice at sunset 1851]] — shared language: venice
+- [[_archive/auto-generated/images-stale/detailed sepia drawing of venice showing piazza san marco and ships 95441c3a|detailed sepia drawing of venice showing piazza san marco and ships]] — shared language: venice
 <!-- vault-crosslinks:end -->

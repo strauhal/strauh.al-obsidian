@@ -1,12 +1,12 @@
 ---
 title: "E 57TqnVkAEWAeg"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/E_57TqnVkAEWAeg.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/E_57TqnVkAEWAeg.jpeg"
 source_relpath: "computers/E_57TqnVkAEWAeg.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "3565x2549"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/E_57TqnVkAEWAeg.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/E_57TqnVkAEWAeg.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/E_57TqnVkAEWAeg.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

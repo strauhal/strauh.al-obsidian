@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1750s"
 source_kind: "date_bucket"
-count: "9"
+count: "13"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1750s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 9
+Files: 13
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/A Panoramic View of Paris from the Louvre by Jean-Baptiste Raguenet (c. 1757).jpg]]
+
+![[media/strauh.al3.1/1700s/Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752).jpg]]
+
+![[media/strauh.al3.1/1700s/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757).jpg]]
 
 ![[media/strauh.al3.1/1700s/ancient_rome_by_giovanni_paolo_panini_1757.jpg]]
 
@@ -30,6 +36,8 @@ Files: 9
 ![[media/strauh.al3.1/1700s/the_shepherdess_by_jean_honore_fragonard_c_1750_1752.jpeg]]
 
 ![[media/strauh.al3.1/1700s/the_triumph_of_galatea_by_corrado_giaquinto_c_1750.jpeg]]
+
+![[media/strauh.al3.1/2000s/Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

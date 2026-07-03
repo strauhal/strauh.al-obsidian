@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Art and Visual Perception, Second Edition _ A Psychology of -- Rudolf Arnheim -- 2, 2004 -- University of California Press -- 9780520243835 -- ff86d80f33c55152b0d456bba50b5720 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Art and Visual Perception, Second Edition A Psychology of
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — same category: art aesthetics
 - [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
+- [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/anchors/california|california]] — named in this note
-- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

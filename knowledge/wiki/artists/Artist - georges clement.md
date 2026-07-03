@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll challenger jpg d933446b|joseph clement coll challenger jpg]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll fu manchu jpg 80546373|joseph clement coll fu manchu jpg]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - georges de feure|Artist - georges de feure]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
+- [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
 <!-- vault-crosslinks:end -->

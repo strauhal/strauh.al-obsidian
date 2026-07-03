@@ -36,3 +36,16 @@ None — all four repos were reachable and processed (fetch/pull succeeded on al
 - `strauh.al3.1` had a pre-existing local `.DS_Store` modification. It was stashed for safety; the stash could not be automatically popped back due to a filesystem restriction in this run's environment (see below), so it remains saved as `stash@{0}` in that repo, unapplied but not lost.
 - The `obsidian` repo had pre-existing uncommitted local edits (`.obsidian/graph.json`, `build-graph-html.py`, a pending deletion of `obsidian-graph.html`, and an untracked `brain.html`) from Ernest's own work in progress. These were left exactly as they were and were **not** included in this run's commit.
 - This automation environment enforces a no-delete policy on the connected GitHub folder, which is generally good safety behavior but caused some git plumbing (lockfile/journal cleanup that normally happens via delete) to need manual workarounds this run. Noting here in case it recurs.
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault, site, auto-generated
+- [[Welcome|strauh.al Knowledge Base]] — shared language: vault, knowledge, search.py
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: vault, knowledge, search.py
+- [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: wiki, current, existing
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site, computerdrawing.club
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge
+- [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: wiki
+<!-- vault-crosslinks:end -->

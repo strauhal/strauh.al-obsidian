@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - oskar kokoschka|Artist - oskar kokoschka]] — shared language: oskar
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: movement, studies, space
 - [[knowledge/wiki/images/reclining woman by oskar kokoschka 1910 196a0e07|reclining woman by oskar kokoschka 1910]] — shared language: oskar
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: movement, space
-- [[knowledge/wiki/images/two pencil figure studies of a seated nude figure 09bc9606|two pencil figure studies of a seated nude figure]] — shared language: studies, figure
-- [[knowledge/wiki/images/ink sketches of cyberpunk characters and figure studies in a sketchbook 254e4f57|ink sketches of cyberpunk characters and figure studies in a sketchbook]] — shared language: studies, figure
+- [[knowledge/wiki/images/Man in Space by Richard Anuszkiewicz (1962) cc22252b|Man in Space by Richard Anuszkiewicz (1962)]] — shared language: space
+- [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies
+- [[knowledge/wiki/images/Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth a4cca1bb|Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: movement
 <!-- vault-crosslinks:end -->

@@ -1,13 +1,13 @@
 ---
 title: "Artist - claude monet"
 source_kind: "artist"
-count: "14"
+count: "13"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - claude monet
 
-Images attributed by filename: 14
+Images attributed by filename: 13
 
 ## Sample
 
@@ -37,8 +37,6 @@ Images attributed by filename: 14
 
 ![[media/strauh.al3.1/1900s/the_houses_of_parliament_sunset_by_claude_monet_1904.webp]]
 
-![[media/strauh.al3.1/unsorted/the_houses_of_parliament_sunset_by_claude_monet_1903.jpg]]
-
 ## Image Notes
 
 - [[branch of the seine near giverny mist from the series mornings on the seine by claude monet 1897 0aee1660|branch of the seine near giverny mist from the series mornings on the seine by claude monet 1897]]
@@ -54,15 +52,14 @@ Images attributed by filename: 14
 - [[the houses of parliament sunset by claude monet 1903 fa63c5ba|the houses of parliament sunset by claude monet 1903]]
 - [[the houses of parliament sunset by claude monet 1903 3 40e3cd5a|the houses of parliament sunset by claude monet 1903 3]]
 - [[the houses of parliament sunset by claude monet 1904 80ee1d30|the houses of parliament sunset by claude monet 1904]]
-- [[the houses of parliament sunset by claude monet 1903 12b1d3c1|the houses of parliament sunset by claude monet 1903]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
-- [[knowledge/wiki/images/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: monet, parliament, houses
+- [[knowledge/wiki/images/The Houses of Parliament, Sunset by Claude Monet (1903) e58ff7ba|The Houses of Parliament, Sunset by Claude Monet (1903)]] — named in this note
 - [[knowledge/wiki/images/claude monet cliff walk at pourville 1882 0373382f|claude monet cliff walk at pourville 1882]] — shared language: monet, claude, cliff
 - [[knowledge/wiki/images/claude monet the walk argenteuil 1875 1bdbafe1|claude monet the walk argenteuil 1875]] — shared language: monet, claude, argenteuil
 - [[knowledge/wiki/images/claude monet impression sunrise 1872 037f106f|claude monet impression sunrise 1872]] — shared language: monet, claude
-- [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: claude
+- [[knowledge/wiki/images/Impression, Sunrise by Claude Monet (1872) 005c57cc|Impression, Sunrise by Claude Monet (1872)]] — shared language: monet, claude
+- [[knowledge/wiki/images/Photograph Big Ben and Houses of Parliament at Twilight with Birds 069b0588|Photograph Big Ben and Houses of Parliament at Twilight with Birds]] — shared language: parliament, houses
 <!-- vault-crosslinks:end -->

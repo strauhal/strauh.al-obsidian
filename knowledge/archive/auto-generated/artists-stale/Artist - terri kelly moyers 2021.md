@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - terri kelly moyers|Artist - terri kelly moyers]] — named in this note
-- [[knowledge/wiki/artists/Artist - john moyers|Artist - john moyers]] — shared language: moyers
+- [[knowledge/wiki/images/Navajo Blanket by Terri Kelly Moyers (2021) aa7806d7|Navajo Blanket by Terri Kelly Moyers (2021)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers|Artist - terri kelly moyers]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john moyers|Artist - john moyers]] — shared language: moyers
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john moyers 2005|Artist - john moyers 2005]] — shared language: moyers
-- [[knowledge/wiki/images/the long ride by john moyers 2005 b14f8ec4|the long ride by john moyers 2005]] — shared language: moyers
-- [[knowledge/wiki/artists/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
+- [[_archive/auto-generated/images-stale/the long ride by john moyers 2005 b14f8ec4|the long ride by john moyers 2005]] — shared language: moyers
+- [[knowledge/wiki/images/The Long Ride by John Moyers (2005) cc0ff144|The Long Ride by John Moyers (2005)]] — shared language: moyers
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "philosophical texts phenomenology of spirit"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/philosophical_texts/phenomenology_of_spirit.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/philosophical_texts/phenomenology_of_spirit.html"
 source_relpath: "philosophical_texts/phenomenology_of_spirit.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # philosophical texts phenomenology of spirit
@@ -67,10 +67,10 @@ Processing Phenomenology of Spirit Data...
 
 - [[knowledge/wiki/pages/religious texts dhammapada|religious texts dhammapada]] — named in this note
 - [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
-- [[knowledge/wiki/images/processing 94d5794d|processing]] — named in this note
 - [[knowledge/wiki/anchors/dhammapada|dhammapada]] — named in this note
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: texts, click, explore
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: texts, click, explore
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: click, drag, theme
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click, drag, zoom
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: spirit, texts
 <!-- vault-crosslinks:end -->

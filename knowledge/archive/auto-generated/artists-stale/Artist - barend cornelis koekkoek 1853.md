@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - barend cornelis koekkoek|Artist - barend cornelis koekkoek]] — named in this note
 - [[knowledge/wiki/images/view of the rhine valley with burg rheinstein by barend cornelis koekkoek 1853 2 bf8b3737|view of the rhine valley with burg rheinstein by barend cornelis koekkoek 1853 2]] — shared language: barend, koekkoek, cornelis
 - [[knowledge/wiki/images/barend cornelis koekkoek winter landscape with skaters and pedestrians 1839 7ce6e14a|barend cornelis koekkoek winter landscape with skaters and pedestrians 1839]] — shared language: barend, koekkoek, cornelis
+- [[knowledge/wiki/images/Portrait of a Man by Cornelis de Vos (c. 1620 1625) 316b895e|Portrait of a Man by Cornelis de Vos (c. 1620 1625)]] — shared language: cornelis
 - [[knowledge/wiki/artists/Artist - cornelis bloemaert ii|Artist - cornelis bloemaert ii]] — shared language: cornelis
-- [[knowledge/wiki/artists/Artist - maurits cornelis escher|Artist - maurits cornelis escher]] — shared language: cornelis
 <!-- vault-crosslinks:end -->

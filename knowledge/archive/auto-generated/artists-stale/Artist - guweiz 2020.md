@@ -20,8 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - guweiz|Artist - guweiz]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - guweiz|Artist - guweiz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - guweiz 2019|Artist - guweiz 2019]] — named in this note
-- [[knowledge/wiki/images/nami by guweiz 2019 cd00a4d5|nami by guweiz 2019]] — shared language: guweiz
-- [[knowledge/wiki/images/split image comparing tree rings and fingerprint 1d945081|split image comparing tree rings and fingerprint]] — shared language: rings
+- [[_archive/auto-generated/images-stale/nami by guweiz 2019 cd00a4d5|nami by guweiz 2019]] — shared language: guweiz
+- [[knowledge/wiki/images/Illustration Illustration of Person with Grey Hair and Many Rings 9d957f97|Illustration Illustration of Person with Grey Hair and Many Rings]] — shared language: rings
+- [[_archive/auto-generated/images-stale/split image comparing tree rings and fingerprint 1d945081|split image comparing tree rings and fingerprint]] — shared language: rings
+- [[knowledge/wiki/images/Illustration Split Image of Tree Rings and Fingerprint Patterns 429cada4|Illustration Split Image of Tree Rings and Fingerprint Patterns]] — shared language: rings
 <!-- vault-crosslinks:end -->

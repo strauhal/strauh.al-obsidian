@@ -1,12 +1,12 @@
 ---
 title: "vangoghchair"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/vangoghchair.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/vangoghchair.jpeg"
 source_relpath: "diary/vangoghchair.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1920x2525"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/vangoghchair.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/vangoghchair.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/vangoghchair.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

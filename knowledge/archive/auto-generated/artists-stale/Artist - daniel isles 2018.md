@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - daniel isles|Artist - daniel isles]] — named in this note
-- [[knowledge/wiki/artists/Artist - daniel arsham|Artist - daniel arsham]] — shared language: daniel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles|Artist - Daniel Isles]] — named in this note
+- [[knowledge/wiki/images/Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles a776e810|Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles]] — shared language: isles, daniel, futuristic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: futuristic, city
+- [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham|Artist - daniel arsham]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham 2019|Artist - daniel arsham 2019]] — shared language: daniel
-- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
-- [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
-- [[knowledge/wiki/artists/Artist - daniel friedman|Artist - daniel friedman]] — shared language: daniel
 <!-- vault-crosslinks:end -->

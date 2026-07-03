@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1950s"
 source_kind: "date_bucket"
-count: "90"
+count: "111"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1950s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 90
+Files: 111
 
 ## Sample
 
@@ -19,47 +19,47 @@ Files: 90
 
 ![[media/strauh.al3.1/1900s/1956armon_a_autorretrato_sugerente_painted_in_1956_jpg_large_jpg.jpg]]
 
-![[media/strauh.al3.1/1900s/apoteosis_de_franco_by_enrique_segura_iglesias_1950.jpg]]
+![[media/strauh.al3.1/1900s/1957-D No. 1 by Clyfford Still (1957).jpeg]]
 
-![[media/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg]]
+![[media/strauh.al3.1/1900s/Among the Flowers by Paul Fries (1956).jpeg]]
 
-![[media/strauh.al3.1/1900s/big_jay_mcneely_driving_the_crowd_at_the_olympic_auditorium_into_a_frenzy_los_angeles_by_bob_willoughby_1953.jpg]]
+![[media/strauh.al3.1/1900s/Anemones by Raoul Dufy (1956).webp]]
 
-![[media/strauh.al3.1/1900s/buste_de_femme_jacqueline_by_pablo_picasso_1956.jpeg]]
+![[media/strauh.al3.1/1900s/Anger transference by Richard Sargent (c.1954).jpg]]
 
-![[media/strauh.al3.1/1900s/cape_cod_morning_by_edward_hopper_1950.jpeg]]
+![[media/strauh.al3.1/1900s/Diver by Harold Edgerton (1955).jpg]]
 
-![[media/strauh.al3.1/1900s/chet_baker_hollywood_by_william_claxton_1953.jpeg]]
+![[media/strauh.al3.1/1900s/Jacqueline (Reine) by Pablo Picasso (1959).jpeg]]
 
-![[media/strauh.al3.1/1900s/ciclo_della_protesta_by_emilio_vedova_1953.jpg]]
+![[media/strauh.al3.1/1900s/Jaguar and Car by Erwin Blumenfeld (1950).jpeg]]
 
-![[media/strauh.al3.1/1900s/circle_limit_iii_by_m_c_escher_1958.jpeg]]
+![[media/strauh.al3.1/1900s/Komposition mit Spirale by Otto V. F. Fischer (1952).jpeg]]
 
-![[media/strauh.al3.1/1900s/composition_by_stuart_davis_1957.jpeg]]
+![[media/strauh.al3.1/1900s/L'Atelier de l'artiste ``` is a very common artwork by Henri Matisse called by Henri Matisse (1952).jpg]]
 
-![[media/strauh.al3.1/1900s/corpus_hypercubus_by_salvador_dali_1954.jpeg]]
+![[media/strauh.al3.1/1900s/La Creación de las Aves by Remedios Varo (1957).png]]
 
-![[media/strauh.al3.1/1900s/cover_illustration_for_junkie_ace_double_d_15_by_norman_saunders_1953.jpeg]]
+![[media/strauh.al3.1/1900s/Man in Blue I by Francis Bacon (1954).jpeg]]
 
-![[media/strauh.al3.1/1900s/crucifixion_by_leonora_carrington_1951.jpeg]]
+![[media/strauh.al3.1/1900s/Música Solar by Remedios Varo (1955).heic]]
 
-![[media/strauh.al3.1/1900s/crucifixion_corpus_hypercubus_by_salvador_dali_1954.jpeg]]
+![[media/strauh.al3.1/1900s/Natura morta (Still Life) by Giorgio Morandi (1956).jpg]]
 
-![[media/strauh.al3.1/1900s/cy_twombly_cy_twombly_posed_with_early_scribble_paintings_late_1950s.jpg]]
+![[media/strauh.al3.1/1900s/Seawall by Richard Diebenkorn (1957).jpeg]]
 
-![[media/strauh.al3.1/1900s/dakota_ridge_by_kenneth_noland_1958.jpeg]]
+![[media/strauh.al3.1/1900s/Shopping Carts by Ben Shahn (1957).jpg]]
 
-![[media/strauh.al3.1/1900s/dancing_at_the_st_regis_by_garry_winogrand_1957.jpg]]
+![[media/strauh.al3.1/1900s/Stacks by Charles Sheeler (1954).jpeg]]
 
-![[media/strauh.al3.1/1900s/dog_by_francis_bacon_1952.jpg]]
+![[media/strauh.al3.1/1900s/T-u00eate de femme (Head of a Woman) by Pablo Picasso (1952-1953).jpeg]]
 
-![[media/strauh.al3.1/1900s/dragon_by_m_c_escher_1952.jpg]]
+![[media/strauh.al3.1/1900s/The School Bus by John Falter (1950).jpg]]
 
-![[media/strauh.al3.1/1900s/drawing_of_multiple_studies_of_human_heads_faces_and_body_parts_by_wayne_thiebaud_1956.jpeg]]
+![[media/strauh.al3.1/1900s/The Waiting Room by George Tooker (1959).jpg]]
 
-![[media/strauh.al3.1/1900s/drawings_made_by_an_artist_under_the_influence_of_lsd_1959.jpeg]]
+![[media/strauh.al3.1/1900s/Two Women by David Park (1958).jpeg]]
 
-![[media/strauh.al3.1/1900s/edward_hopper_rooms_by_the_sea_1951.jpg]]
+![[media/strauh.al3.1/1900s/Visage by Henri Matisse (1951).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tyler hobbs|Artist - tyler hobbs]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tyler hobbs|Artist - tyler hobbs]] — named in this note
 - [[_archive/auto-generated/books-stale/branston-tyler-ma-2023|Branston Tyler MA 2023]] — shared language: tyler
 - [[knowledge/wiki/books/tyler-branston-branston-tyler-ma-thesis-2023|Branston, Tyler — MA Thesis (2023)]] — shared language: tyler
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: tyler

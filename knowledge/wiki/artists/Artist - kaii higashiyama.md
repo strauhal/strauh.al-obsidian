@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kaho shishido|Artist - kaho shishido]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - kanye west|Artist - kanye west]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - kacper kowalski|Artist - kacper kowalski]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - jusepe de ribera|Artist - jusepe de ribera]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - karl bryullov|Artist - karl bryullov]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - junji ito|Artist - junji ito]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

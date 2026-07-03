@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration The Beastmaster by Renato Casaro 43eda68a|Illustration The Beastmaster by Renato Casaro]] — shared language: renato, casaro
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
-- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
+- [[knowledge/wiki/images/Buddha the Conqueror by Nicholas Roerich (1925) f3eee492|Buddha the Conqueror by Nicholas Roerich (1925)]] — shared language: conqueror
+- [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: great
 - [[knowledge/wiki/images/great architecture in chicago poster for container corporation of america by john massey 1966 b8f1ac96|great architecture in chicago poster for container corporation of america by john massey 1966]] — shared language: poster, great
-- [[knowledge/wiki/images/86 busted poster png 23102ee7|86 busted poster png]] — shared language: poster
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
+- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
 <!-- vault-crosslinks:end -->

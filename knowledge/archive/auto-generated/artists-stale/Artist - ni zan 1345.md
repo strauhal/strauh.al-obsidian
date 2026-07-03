@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - ni zan|Artist - ni zan]] — named in this note
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: zan, junzi, gentlemen
-- [[knowledge/wiki/artists/Artist - ni zan late yuan early ming dynasty|Artist - ni zan late yuan early ming dynasty]] — shared language: zan
-- [[knowledge/wiki/images/remote stream and cold pines by ni zan late yuan early ming dynasty acc3532a|remote stream and cold pines by ni zan late yuan early ming dynasty]] — shared language: zan
-- [[knowledge/wiki/artists/Artist - liu ye|Artist - liu ye]] — shared language: liu
-- [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye 2003|Artist - liu ye 2003]] — shared language: liu
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ni zan late yuan early ming dynasty|Artist - ni zan late yuan early ming dynasty]] — shared language: zan
+- [[_archive/auto-generated/images-stale/remote stream and cold pines by ni zan late yuan early ming dynasty acc3532a|remote stream and cold pines by ni zan late yuan early ming dynasty]] — shared language: zan
+- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: zan
+- [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye|Artist - liu ye]] — shared language: liu
 <!-- vault-crosslinks:end -->

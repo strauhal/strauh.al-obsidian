@@ -2,8 +2,8 @@
 title: Map - Current Culture
 type: map
 tags: [map, culture, reading, listening, watching]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Map - Current Culture
@@ -85,9 +85,9 @@ What Ernest is reading, listening to, and planning to watch right now. This is a
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/anchors/speed-racer|speed racer]] — named in this note
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
 - [[knowledge/wiki/anchors/dhammapada|dhammapada]] — named in this note
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
 <!-- vault-crosslinks:end -->

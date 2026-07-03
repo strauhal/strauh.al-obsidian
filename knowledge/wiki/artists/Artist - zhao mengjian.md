@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/collections/Collection - 1200s|Collection - 1200s]] — shared language: mengjian, zhao, friends
+- [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
 - [[knowledge/wiki/images/water village shuicun tu by zhao mengfu 1302 72f5898c|water village shuicun tu by zhao mengfu 1302]] — shared language: zhao
 - [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: zhao
-- [[knowledge/wiki/collections/Collection - 900s|Collection - 900s]] — shared language: zhao
 <!-- vault-crosslinks:end -->

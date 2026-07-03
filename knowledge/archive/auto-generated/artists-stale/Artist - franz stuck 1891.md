@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1899|Artist - franz stuck 1899]] — named in this note
 - [[knowledge/wiki/images/der froschkonig the frog king by franz stuck 1899 62fcd95e|der froschkonig the frog king by franz stuck 1899]] — shared language: stuck, franz
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: stuck
+- [[_archive/auto-generated/images-stale/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz hanfstaengl 1865|Artist - franz hanfstaengl 1865]] — shared language: franz
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: stuck
 <!-- vault-crosslinks:end -->

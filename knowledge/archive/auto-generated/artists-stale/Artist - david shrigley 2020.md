@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
-- [[knowledge/wiki/artists/Artist - david shrigley|Artist - david shrigley]] — shared language: shrigley, david, swam
+- [[knowledge/archive/auto-generated/artists-stale/Artist - david shrigley|Artist - david shrigley]] — shared language: shrigley, david, swam
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david shrigley 2019|Artist - david shrigley 2019]] — shared language: shrigley, david
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david shrigley 2015|Artist - david shrigley 2015]] — shared language: shrigley, david
 <!-- vault-crosslinks:end -->

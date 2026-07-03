@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kent williams|Artist - kent williams]] — named in this note
 - [[knowledge/wiki/artists/Artist - rockwell kent|Artist - rockwell kent]] — shared language: kent
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rockwell kent 1909|Artist - rockwell kent 1909]] — shared language: kent
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams|Artist - robert williams]] — shared language: williams
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams 2017|Artist - robert williams 2017]] — shared language: williams
-- [[knowledge/wiki/artists/Artist - richard williams|Artist - richard williams]] — shared language: williams
+- [[knowledge/archive/auto-generated/artists-stale/Artist - richard williams|Artist - richard williams]] — shared language: williams
 <!-- vault-crosslinks:end -->

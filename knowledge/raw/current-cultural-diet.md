@@ -2,7 +2,7 @@
 title: Current Cultural Diet
 slug: current-cultural-diet
 type: source
-ingested: 2026-07-01
+ingested: 2026-07-02
 compiled: true
 tags: [raw, culture, reading, listening, watching]
 ---
@@ -150,7 +150,7 @@ Supplied by Ernest on 2026-06-22. Wording is lightly normalized in compiled note
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/anchors/ayn-rand|Ayn Rand]] — named in this note
-- [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
-- [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
+- [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 <!-- vault-crosslinks:end -->

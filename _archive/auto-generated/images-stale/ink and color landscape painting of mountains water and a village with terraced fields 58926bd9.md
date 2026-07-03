@@ -1,0 +1,33 @@
+---
+title: "ink and color landscape painting of mountains water and a village with terraced fields"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/ink_and_color_landscape_painting_of_mountains_water_and_a_village_with_terraced_fields.jpeg"
+source_relpath: "2000s/ink_and_color_landscape_painting_of_mountains_water_and_a_village_with_terraced_fields.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "2268x4032"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# ink and color landscape painting of mountains water and a village with terraced fields
+
+![[media/strauh.al3.1/2000s/ink_and_color_landscape_painting_of_mountains_water_and_a_village_with_terraced_fields.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/ink_and_color_landscape_painting_of_mountains_water_and_a_village_with_terraced_fields.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/ink_and_color_landscape_painting_of_mountains_water_and_a_village_with_terraced_fields.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Abstract Landscape with Red and Blue Mountains and Green Fields 34daa5a4|Illustration Abstract Landscape with Red and Blue Mountains and Green Fields]] — shared language: fields, mountains, landscape
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: village, water
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, landscape
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
+<!-- vault-crosslinks:end -->

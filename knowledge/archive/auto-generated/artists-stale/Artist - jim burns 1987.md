@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/digital dream by jim burns 1986 c9df98e5|digital dream by jim burns 1986]] — shared language: burns, jim
 - [[knowledge/wiki/images/jim burns light grid 1979 95cf0e56|jim burns light grid 1979]] — shared language: burns, jim
 - [[_archive/auto-generated/books-stale/the-new-jim-crow|The New Jim Crow]] — shared language: jim
-- [[knowledge/wiki/books/michelle-alexander-the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness|The New Jim Crow: Mass Incarceration in the Age of Colorblindness]] — shared language: jim
+- [[knowledge/wiki/artists/Artist - Jim Marshall|Artist - Jim Marshall]] — shared language: jim
 <!-- vault-crosslinks:end -->

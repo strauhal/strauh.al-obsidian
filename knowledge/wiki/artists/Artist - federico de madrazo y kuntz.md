@@ -22,6 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - federico moja|Artist - federico moja]] — shared language: federico
 - [[knowledge/wiki/images/the doge s palace venice by federico moja 1855 5dfcf85e|the doge s palace venice by federico moja 1855]] — shared language: federico
-- [[knowledge/wiki/artists/Artist - alberto campo baeza|Artist - alberto campo baeza]] — shared language: campo
-- [[knowledge/wiki/images/piano by alberto campo baeza 2010 5d067115|piano by alberto campo baeza 2010]] — shared language: campo
+- [[knowledge/wiki/artists/Artist - fan ho|Artist - fan ho]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

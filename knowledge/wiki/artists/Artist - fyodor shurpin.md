@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - fyodor bruni|Artist - fyodor bruni]] — shared language: fyodor
 - [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: fyodor
 - [[knowledge/wiki/images/the demon and the angel by fyodor bronnikov 1864 478d9ede|the demon and the angel by fyodor bronnikov 1864]] — shared language: fyodor
-- [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
-- [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — shared language: self
+- [[knowledge/wiki/images/Photograph Self immolation of Aaron Bushnell 52d2ce78|Photograph Self immolation of Aaron Bushnell]] — shared language: self
+- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: self
 <!-- vault-crosslinks:end -->

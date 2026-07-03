@@ -1,12 +1,12 @@
 ---
 title: "ilya repin ivan the terrible and his son ivan on november 16 1581 1885 2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg"
 source_relpath: "1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg"
 collection: "1800s"
 inferred_year: "1885"
 artist: ""
-dimensions: "2023x1589"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/ilya_repin_ivan_the_terrible_and_his_son_ivan_on_november_16_1581_1885_2.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

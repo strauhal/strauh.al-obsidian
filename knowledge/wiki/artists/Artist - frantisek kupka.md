@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - diagonal light|Artist - diagonal light]] — shared language: diagonal
-- [[knowledge/wiki/images/peter paul rubens prometheus bound 16111618 48cb2a46|peter paul rubens prometheus bound 16111618]] — shared language: prometheus
-- [[knowledge/wiki/images/black and white ink drawing of a textured rock using diagonal hatching 0e91841d|black and white ink drawing of a textured rock using diagonal hatching]] — shared language: diagonal
-- [[knowledge/wiki/images/black and white diagram illustrating intersecting planes of wine making and printing processes 9c17fcc5|black and white diagram illustrating intersecting planes of wine making and printing processes]] — shared language: planes
-- [[knowledge/wiki/images/digital image of wavy blue and gray lines with diagonal black overlays 2f747821|digital image of wavy blue and gray lines with diagonal black overlays]] — shared language: diagonal
-- [[knowledge/wiki/images/abstract painting featuring diagonal streaks of red green and yellow on a white field 70a9f840|abstract painting featuring diagonal streaks of red green and yellow on a white field]] — shared language: diagonal
+- [[knowledge/wiki/images/The Beginning of Life by Franti ek Kupka (1900) 7dc777c4|The Beginning of Life by Franti ek Kupka (1900)]] — shared language: kupka
+- [[knowledge/wiki/images/Prometheus Bound by Thomas Cole (1847) 394a573a|Prometheus Bound by Thomas Cole (1847)]] — shared language: prometheus
+- [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: planes
+- [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: planes
+- [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — shared language: prometheus
+- [[knowledge/wiki/images/Diagonal Freeway by Wayne Thiebaud (1993) d97cc45d|Diagonal Freeway by Wayne Thiebaud (1993)]] — shared language: diagonal
 <!-- vault-crosslinks:end -->

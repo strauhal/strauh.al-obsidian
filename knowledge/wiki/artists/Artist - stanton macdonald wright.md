@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — shared language: wright
 - [[knowledge/wiki/images/the blacksmith s shop by joseph wright of derby 1771 4c0a948d|the blacksmith s shop by joseph wright of derby 1771]] — shared language: wright
-- [[knowledge/wiki/images/mixed media drawing with architectural sketches text commentary on frank lloyd wright and abstract squares 58ef2709|mixed media drawing with architectural sketches text commentary on frank lloyd wright and abstract squares]] — shared language: wright
-- [[knowledge/wiki/images/aerial photograph of a train passing through a densely populated urban area with high rise buildings in the background ffeaebfc|aerial photograph of a train passing through a densely populated urban area with high rise buildings in the background]] — shared language: passing, train
-- [[knowledge/wiki/images/train transfixed jpg 4d465ca0|train transfixed jpg]] — shared language: train
-- [[knowledge/wiki/images/red orange kaleidoscopic pattern 69c4dd8c|red orange kaleidoscopic pattern]] — shared language: orange
+- [[knowledge/wiki/images/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780) af192adb|Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780)]] — shared language: wright
+- [[knowledge/wiki/images/John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]] — shared language: wright
+- [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: passing, train
+- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: train
 <!-- vault-crosslinks:end -->

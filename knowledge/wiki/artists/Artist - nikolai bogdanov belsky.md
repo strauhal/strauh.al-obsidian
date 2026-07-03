@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nikolai kalmakov|Artist - nikolai kalmakov]] — shared language: nikolai
-- [[knowledge/wiki/artists/Artist - nikolai blokhin|Artist - nikolai blokhin]] — shared language: nikolai
-- [[knowledge/wiki/images/the embrace by nikolai blokhin 2005 d5722d8c|the embrace by nikolai blokhin 2005]] — shared language: nikolai
 - [[knowledge/wiki/images/the tree of life by nikolai kalmakov 1910 4721d29c|the tree of life by nikolai kalmakov 1910]] — shared language: nikolai
-- [[knowledge/wiki/images/bedroom at night by nikolai blokhin 2005 ced38447|bedroom at night by nikolai blokhin 2005]] — shared language: nikolai
-- [[knowledge/wiki/images/drawing of two girls playing chess outdoors with red drops 881ca0bc|drawing of two girls playing chess outdoors with red drops]] — shared language: chess
+- [[knowledge/wiki/images/Photograph Human Chess Game in Palace Square, Petrograd e8125690|Photograph Human Chess Game in Palace Square, Petrograd]] — shared language: chess
+- [[knowledge/wiki/images/Screenshot Text Describing Vostok Station Chess Incident e61f42ed|Screenshot Text Describing Vostok Station Chess Incident]] — shared language: chess
+- [[knowledge/wiki/images/Illustration Two Girls Playing Chess Outdoors With Red Drops 8347629b|Illustration Two Girls Playing Chess Outdoors With Red Drops]] — shared language: chess
+- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess
 <!-- vault-crosslinks:end -->

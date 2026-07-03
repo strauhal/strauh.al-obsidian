@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Romance of the Three Kingdoms [abridged -- LUO Guanzhong, Martin Palmer (transl_), He Yun (ass_), Jay -- Penguin Classics, abridged -- 9780141197449 -- 40a8b8d6fca2ae98dd944abaeeaf0f56 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Romance of the Three Kingdoms abridged
@@ -39,10 +39,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — same category: art aesthetics
+- [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — same category: art aesthetics
-- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
-- [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/clancy-martin-how-not-to-kill-yourself-a-portrait-of-the-suicidal-mind-pantheon|How Not to Kill Yourself A Portrait of the Suicidal Mind-Pantheon]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
+- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

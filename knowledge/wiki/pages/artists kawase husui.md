@@ -1,10 +1,10 @@
 ---
 title: "artists kawase husui"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/artists/kawase_husui.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/kawase_husui.html"
 source_relpath: "artists/kawase_husui.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # artists kawase husui
@@ -51,6 +51,6 @@ strauh.al/artists/kawase_husui
 - [[knowledge/wiki/images/90 2 a2324944|90 2]] — shared language: artists, husui, kawase
 - [[knowledge/wiki/images/90 3 05d90ab5|90 3]] — shared language: artists, husui, kawase
 - [[knowledge/wiki/images/90 4 9c3526f8|90 4]] — shared language: artists, husui, kawase
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: kawase, husui
 - [[knowledge/wiki/images/P4031 55b7ca9c|P4031]] — shared language: artists, husui, kawase
-- [[knowledge/wiki/images/enoshima island kawase hasui 5 e1fdd336|enoshima island kawase hasui 5]] — shared language: kawase, artists, husui
 <!-- vault-crosslinks:end -->

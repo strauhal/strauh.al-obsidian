@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — named in this note
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: north, star, great
+- [[_archive/auto-generated/images-stale/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: north, star, great
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1420s|Date Bucket - 1420s]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

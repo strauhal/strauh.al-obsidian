@@ -7,8 +7,8 @@ status: queued
 queue_order: 8
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Chopin: Preludes & Piano Sonata No. 2
@@ -30,12 +30,12 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/piano|piano]] — named in this note
-- [[knowledge/wiki/culture/music-scriabin-the-complete-preludes-for-piano|Listening - Scriabin: The Complete Preludes for Piano]] — shared language: preludes, piano, listening
-- [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: piano, listening, current
+- [[knowledge/wiki/culture/music-scriabin-the-complete-preludes-for-piano|Listening - Scriabin: The Complete Preludes for Piano]] — shared language: preludes, listening, piano
+- [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, piano, current
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: preludes, piano, current
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, listening, current
-- [[knowledge/wiki/culture/music-bruckner-piano-works|Listening - Bruckner: Piano Works]] — shared language: piano, listening, current
+- [[knowledge/wiki/culture/music-bruckner-piano-works|Listening - Bruckner: Piano Works]] — shared language: listening, piano, current
+- [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: listening, piano, current
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
-- [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: piano, listening, current
+- [[knowledge/wiki/culture/music-schumann-kinderszenen-kreisleriana|Listening - Schumann: Kinderszenen & Kreisleriana]] — shared language: listening, current, argerich
 <!-- vault-crosslinks:end -->

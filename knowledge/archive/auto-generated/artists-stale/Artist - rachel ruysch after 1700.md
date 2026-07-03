@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - rachel ruysch after|Artist - rachel ruysch after]] — named in this note
 - [[knowledge/wiki/images/rachel c879da05|rachel]] — named in this note
-- [[knowledge/wiki/images/framed flower still life with red and white blossoms 4f4965ab|framed flower still life with red and white blossoms]] — shared language: flower, still, life
-- [[knowledge/wiki/images/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: flower, still, life
-- [[knowledge/wiki/images/framed flower still life with red blossoms and a white vase 7eea50a5|framed flower still life with red blossoms and a white vase]] — shared language: flower, still, life
-- [[knowledge/wiki/images/flower still life in a glass vase on blue checkered tablecloth 11546f42|flower still life in a glass vase on blue checkered tablecloth]] — shared language: flower, still, life
+- [[_archive/auto-generated/images-stale/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: flower, still, life
+- [[_archive/auto-generated/images-stale/framed flower still life with red and white blossoms 4f4965ab|framed flower still life with red and white blossoms]] — shared language: flower, still, life
+- [[_archive/auto-generated/images-stale/framed flower still life with red blossoms and a white vase 7eea50a5|framed flower still life with red blossoms and a white vase]] — shared language: flower, still, life
+- [[_archive/auto-generated/images-stale/flower still life in a glass vase on blue checkered tablecloth 11546f42|flower still life in a glass vase on blue checkered tablecloth]] — shared language: flower, still, life
 <!-- vault-crosslinks:end -->

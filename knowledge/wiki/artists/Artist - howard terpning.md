@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: howard
 - [[knowledge/wiki/artists/Artist - howard pyle|Artist - howard pyle]] — shared language: howard
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: howard
+- [[knowledge/wiki/images/The Sentinel by Edward Howard 99d2ab6d|The Sentinel by Edward Howard]] — shared language: howard
+- [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: howard
 - [[knowledge/wiki/images/the chase of the golden galleon by howard pyle 1905 e982456e|the chase of the golden galleon by howard pyle 1905]] — shared language: howard
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: sound
-- [[knowledge/wiki/books/piano|piano]] — shared language: sound
-- [[knowledge/wiki/books/basic-notation|basic-notation]] — shared language: sound
 <!-- vault-crosslinks:end -->

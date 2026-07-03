@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - albrecht altdorfer|Artist - albrecht altdorfer]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - albrecht durer 1519|Artist - albrecht durer 1519]] — shared language: albrecht
 - [[knowledge/archive/auto-generated/artists-stale/Artist - albrecht durer 1512|Artist - albrecht durer 1512]] — shared language: albrecht
 - [[knowledge/wiki/images/saint anthony reading by albrecht durer 1519 6ee10ec8|saint anthony reading by albrecht durer 1519]] — shared language: albrecht
 - [[knowledge/wiki/artists/Artist - albrecht durer|Artist - albrecht durer]] — shared language: albrecht
+- [[knowledge/wiki/images/madonna with the pear by albrecht durer 1512 c69bbdd4|madonna with the pear by albrecht durer 1512]] — shared language: albrecht
 <!-- vault-crosslinks:end -->

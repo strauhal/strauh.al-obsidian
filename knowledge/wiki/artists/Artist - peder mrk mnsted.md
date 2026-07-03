@@ -27,9 +27,9 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/images/framed forest stream landscape with rocks and sunlight a442b955|framed forest stream landscape with rocks and sunlight]] — shared language: stream, forest
-- [[knowledge/wiki/images/summer solstice 3686b730|summer solstice]] — shared language: summer
-- [[knowledge/wiki/artists/Artist - roy de forest|Artist - roy de forest]] — shared language: forest
+- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/Anna Ancher on the Sofa by Peder Severin Kr yer (1891) 6e03f97f|Anna Ancher on the Sofa by Peder Severin Kr yer (1891)]] — shared language: peder
+- [[knowledge/wiki/images/The Red Summer (2017) 1cf9af1d|The Red Summer (2017)]] — shared language: summer
+- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[knowledge/wiki/images/Illustration Stylized Painting of a Stream with Autumn Foliage cbeae40a|Illustration Stylized Painting of a Stream with Autumn Foliage]] — shared language: stream
 <!-- vault-crosslinks:end -->

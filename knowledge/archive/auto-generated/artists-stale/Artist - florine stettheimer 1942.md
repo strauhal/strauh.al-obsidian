@@ -21,9 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - florine stettheimer|Artist - florine stettheimer]] — named in this note
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
-- [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — shared language: art
-- [[_archive/auto-generated/books-stale/zen-the-art-of-macintosh1986|Zen the Art of Macintosh1986]] — shared language: art
+- [[knowledge/archive/auto-generated/artists-stale/Artist - floral motifs|Artist - floral motifs]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - flowers|Artist - flowers]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

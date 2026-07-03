@@ -1,12 +1,12 @@
 ---
 title: "les porteuses d eau by victor renault 1880"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg"
 source_relpath: "1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "victor renault"
-dimensions: "1540x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - victor renault]]
 
 Source: [[media/strauh.al3.1/1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Les Glaneuses a5bb4d7c|Les Glaneuses]] — shared language: les
-- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
-- [[knowledge/wiki/images/mermaid by victor nizovtsev 2006 b02e95b8|mermaid by victor nizovtsev 2006]] — shared language: victor
+- [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor meirelles de lima|Artist - victor meirelles de lima]] — shared language: victor
+- [[knowledge/wiki/images/The Muses by Victor Morange (1855) aecfbbb8|The Muses by Victor Morange (1855)]] — shared language: victor
+- [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: victor
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "knowledge base web art"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/web_art.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/web_art.html"
 source_relpath: "knowledge_base/web_art.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base web art
@@ -52,11 +52,11 @@ strauh.al/knowledge_base/web_art
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, art
-- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
-- [[knowledge/wiki/images/1949 ph455 001 regester2012 web jpg 4203f73c|1949 ph455 001 regester2012 web jpg]] — shared language: web
-- [[knowledge/wiki/images/64 1726 ph web jpg 9f2d1eaa|64 1726 ph web jpg]] — shared language: web
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web, nodes, neural
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, ideas
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, ideas
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: web, end, people
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: knowledge, start, end
+- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, page
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
 <!-- vault-crosslinks:end -->

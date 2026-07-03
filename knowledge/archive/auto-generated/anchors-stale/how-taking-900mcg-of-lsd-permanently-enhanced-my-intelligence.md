@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/archive/auto-generated/anchors-stale/artist-an-artist-under-the-influence-of-lsd-1959|Artist - an artist under the influence of lsd 1959]] — shared language: lsd, wikilink, merge
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

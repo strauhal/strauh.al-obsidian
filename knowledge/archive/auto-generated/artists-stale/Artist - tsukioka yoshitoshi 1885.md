@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - tsukioka yoshitoshi|Artist - tsukioka yoshitoshi]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tsukioka yoshitoshi 1886|Artist - tsukioka yoshitoshi 1886]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/images/the moon of the enemy s retreat teki no nigete yuku tsuki by tsukioka yoshitoshi 1886 8ab589e6|the moon of the enemy s retreat teki no nigete yuku tsuki by tsukioka yoshitoshi 1886]] — shared language: tsukioka, yoshitoshi, moon
 - [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: tsukioka, yoshitoshi, series
-- [[knowledge/wiki/images/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
+- [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 <!-- vault-crosslinks:end -->

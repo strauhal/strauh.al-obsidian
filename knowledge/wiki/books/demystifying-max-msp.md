@@ -9,8 +9,8 @@ metadata: curated
 aliases: [DEMYSTIFYING-MAXMSP]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/DEMYSTIFYING-MAXMSP.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Demystifying Max/MSP
@@ -45,5 +45,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/terry-knight-george-stiny-making-grammars-from-computing-with-shapes-to-computing-with-things|Making Grammars: From Computing with Shapes to Computing with Things]] — same category: design making
 - [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — same category: design making
 - [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — same category: design making
-- [[knowledge/wiki/books/peter-hollins-the-science-of-rapid-skill-acquisition-pkcs-media-inc|The Science of Rapid Skill Acquisition-Pkcs Media, Inc.]] — same category: design making
+- [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — same category: design making
 <!-- vault-crosslinks:end -->

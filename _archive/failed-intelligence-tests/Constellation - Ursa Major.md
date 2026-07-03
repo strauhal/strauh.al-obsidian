@@ -27,10 +27,10 @@ The Great Bear asterism forms a recognizable plow shape.
 
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars, archived, gemma
 - [[knowledge/wiki/images/the death of major peirson 6 january 1781 by john singleton copley 1783 a1c395b3|the death of major peirson 6 january 1781 by john singleton copley 1783]] — shared language: major
-- [[knowledge/wiki/artists/Artist - stars|Artist - stars]] — shared language: stars
-- [[knowledge/wiki/images/abstract painting with large yellow shape and intersecting black lines on a beige background 66466919|abstract painting with large yellow shape and intersecting black lines on a beige background]] — shared language: shape
-- [[knowledge/wiki/images/your name 40009423|your name]] — shared language: name
-- [[knowledge/wiki/images/administration building d797c4c3|administration building]] — shared language: building
-- [[knowledge/wiki/images/error failed to fetch 361ee7f7|error failed to fetch]] — shared language: failed
-- [[knowledge/wiki/images/black and white op art diamond shape with wavy vertical lines e13a1dd0|black and white op art diamond shape with wavy vertical lines]] — shared language: shape
+- [[knowledge/wiki/images/Comic Major Grubert's Bubble Ship Flying Over Forest Landscape by Jean Giraud (Moebius) 10f0632c|Comic Major Grubert's Bubble Ship Flying Over Forest Landscape by Jean Giraud (Moebius)]] — shared language: major
+- [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape
+- [[knowledge/wiki/images/Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape e3d47bf2|Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape]] — shared language: shape, animal
+- [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: shape
+- [[knowledge/archive/auto-generated/artists-stale/Artist - stars|Artist - Stars]] — shared language: stars
+- [[knowledge/wiki/images/Illustration Abstract Painting With Colorful Shapes, Stars, And Curvilinear Forms 5c15b490|Illustration Abstract Painting With Colorful Shapes, Stars, And Curvilinear Forms]] — shared language: stars, forms
 <!-- vault-crosslinks:end -->

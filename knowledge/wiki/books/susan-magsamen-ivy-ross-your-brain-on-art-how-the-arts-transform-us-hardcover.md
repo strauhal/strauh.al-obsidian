@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Your Brain on Art_ How the Arts Transform Us Hardcover -- Susan Magsamen, Ivy Ross -- Penguin Random House LLC, New York, 2023 -- National Geographic -- 9780593449233 -- aa1bda52121ac0ad064c90697a33ca22 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Your Brain on Art How the Arts Transform Us Hardcover
@@ -39,12 +39,12 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
-- [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
+- [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — same category: art aesthetics
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — same category: art aesthetics
-- [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
+- [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

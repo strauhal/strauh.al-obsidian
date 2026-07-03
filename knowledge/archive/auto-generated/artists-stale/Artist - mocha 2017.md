@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - mocha|Artist - mocha]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mocha|Artist - mocha]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - miwa komatsu|Artist - miwa komatsu]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - miwa komatsu 2019|Artist - miwa komatsu 2019]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - moebius 1977|Artist - moebius 1977]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

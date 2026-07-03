@@ -1,10 +1,10 @@
 ---
 title: "ukiyo e"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/ukiyo_e.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ukiyo_e.html"
 source_relpath: "ukiyo_e.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # ukiyo e
@@ -123,12 +123,12 @@ strauh.al/ukiyo_e
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/regenschirme by toshi yoshida 2158e6d0|regenschirme by toshi yoshida]] — named in this note
+- [[knowledge/wiki/images/Regenschirme by Toshi Yoshida 74b55d4e|Regenschirme by Toshi Yoshida]] — named in this note
 - [[knowledge/wiki/images/takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844 5e5d9ecf|takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844]] — named in this note
 - [[knowledge/wiki/images/yellow iris by fujio yoshida 1954 8b43eba1|yellow iris by fujio yoshida 1954]] — named in this note
 - [[knowledge/wiki/images/YTC014Scopy 1024x1024 2x 2 742ab65b|YTC014Scopy 1024x1024 2x 2]] — named in this note
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
 - [[knowledge/wiki/images/shinjuku 9067e50a|shinjuku]] — named in this note
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, rain
 <!-- vault-crosslinks:end -->

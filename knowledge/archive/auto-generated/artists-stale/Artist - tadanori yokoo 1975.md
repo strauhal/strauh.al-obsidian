@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tadanori yokoo|Artist - tadanori yokoo]] — shared language: tadanori, yokoo, voice
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tadanori yokoo 1970|Artist - tadanori yokoo 1970]] — shared language: tadanori, yokoo
+- [[knowledge/wiki/artists/Artist - tadanori yokoo|Artist - tadanori yokoo]] — shared language: tadanori, yokoo, voice
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tadanori yokoo 1966|Artist - tadanori yokoo 1966]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the monster by tadanori yokoo 1970 8e507a42|the monster by tadanori yokoo 1970]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the flower hana by tadanori yokoo 1966 5f00d0c1|the flower hana by tadanori yokoo 1966]] — shared language: tadanori, yokoo

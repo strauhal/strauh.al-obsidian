@@ -7,8 +7,8 @@ status: queued
 queue_order: 1
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Complete Parlophone & Columbia Solo Recordings

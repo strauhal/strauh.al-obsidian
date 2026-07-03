@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - cam collins|Artist - cam collins]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - cam collins|Artist - cam collins]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cam collins 2021|Artist - cam collins 2021]] — named in this note
-- [[knowledge/wiki/images/digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021 8eb18995|digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021]] — shared language: cam, collins
+- [[_archive/auto-generated/images-stale/digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021 8eb18995|digital illustration of multiple stylized fantasy characters and monsters under an orange dragon by cam collins 2021]] — shared language: cam, collins
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: collins
 - [[knowledge/wiki/books/hideo-kojima-nathan-collins-the-creative-gene-how-books-movies-and-music-inspired|The creative gene how books, movies, and music inspired]] — shared language: collins
-- [[knowledge/wiki/images/the last supper by r h quaytman 2018 91218f2b|the last supper by r h quaytman 2018]] — shared language: supper, last
+- [[knowledge/wiki/images/Illustration Stylized Green and White Pictogram of The Last Supper 5568c78c|Illustration Stylized Green and White Pictogram of The Last Supper]] — shared language: supper, last
 <!-- vault-crosslinks:end -->

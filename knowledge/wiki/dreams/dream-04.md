@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["marriage", "online hostility", "creativity", "driving", "autonomy"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Dream 4 - Marriage, 4chan, and the Flight Home
@@ -43,10 +43,10 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: marriage, flight, dreams
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: marriage, dreams, flight
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: version
-- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
+- [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — shared language: chan
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams

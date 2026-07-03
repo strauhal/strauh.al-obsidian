@@ -2,14 +2,14 @@
 title: Books Folder Title List
 slug: books
 type: library
-ingested: 2026-06-22
+ingested: 2026-07-02
 compiled: true
 tags: [raw, books]
 ---
 
 # Books Folder Title List
 
-Entries: 407
+Entries: 418
 
 - Figure Drawing for All It's Worth — Andrew Loomis (1951)
 - Introductory Lectures on Aesthetics — Bosanquet, Bernard Hegel,Georg,Wilhelm Friedrich Inwood, Michael (2010)
@@ -66,6 +66,9 @@ Entries: 407
 - 2022-slorktastic (2022)
 - When Do GANs Replicate? On the Choice of Dataset Size — Qianli Feng, Chenqi Guo, Fabian Benitez-Quiroz, Aleix Martinez (2022)
 - MusicLM: Generating Music From Text — Andrea Agostinelli et al. (Google Research) (2023)
+- 2408.04681v1
+- 2410.01131v1
+- 2509.11391v2
 - 54b7f9bf8681400300255cab original
 - 7 There Will Come Soft Rains — Ray Bradbury
 - 9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality
@@ -79,6 +82,7 @@ Entries: 407
 - The Myth of Sisyphus And Other Essays — Albert Camus (1991)
 - Brave New World-Harper Perennial Modern Classics — Aldous Huxley (2010)
 - Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press — Alexandre KojÃ¨ve, Allan Bloom, James H. Nichols (1980)
+- Ambient art
 - Amusing Ourselves to Death Public Discourse in the Age of Show Business — Neil Postman
 - The Analects of Confucius — Confucius (trans. Robert Eno) (2015)
 - Thought-Forms-BiblioBazaar — Annie Besant (2007)
@@ -100,6 +104,7 @@ Entries: 407
 - What is Art Conversation with Joseph Beuys-Clairview Books — Bueys, Joseph Harlan, Volker (2012)
 - The Red Book A Reader's Edition-W. W. Norton & Company — C. G. Jung (2012)
 - CCA PRINTMEDIA BIBLIOGRAPHY
+- CIA-RDP96-00788R001700210016-5
 - CIA-RDP96-00792R000700130001-6
 - CO2 ArtbookDigitalComplete
 - Notations — John Cage (1969)
@@ -122,6 +127,7 @@ Entries: 407
 - Coin Locker Babies — Ryu Murakami, Stephen Snyder (2013)
 - ColorConsultants ColorConsciousness
 - Confessions — Augustine of Hippo (397)
+- Consanguinity on the Canvas Studying Inbreeding in the Habsburg
 - ContentServer.asp
 - An illustrated encyclopaedia of traditional symbols-Thames and Hudson — Cooper, Jean C (1978)
 - Crowley on Drugs — Aleister Crowley
@@ -142,6 +148,8 @@ Entries: 407
 - E8585.full.pdf
 - Schiele Drawings-Dover Publications — Egon Schiele (2012)
 - The Bhagavad Gita — Eknath Easwaran (2007)
+- Engraving Style Drawing Vol. 1
+- Engraving Style Drawing Vol. 2
 - Travels with Epicurus journey to a Greek island in search of an authentic old age — Epicurus, Epicurus. Klein, Daniel M. Klein, Daniel M (2012)
 - South the story of Shackleton's last expedition, 1914-1917-Duke Classics — Ernest Henry Shackleton (1914)
 - In the Dust of This Planet — Eugene Thacker (2011)
@@ -193,6 +201,7 @@ Entries: 407
 - Critique of Pure Reason — Kant Immanuel
 - Kant: A Very Short Introduction — Roger Scruton (2001)
 - Making Grammars: From Computing with Shapes to Computing with Things — Terry Knight, George Stiny (2015)
+- LASKA Sadie BIO CV 2023 (2023)
 - La Débâcle (reissue) (Oxford World's Classics) — Émile Zola; Elinor Dorday; Robert Lethbridge (2017)
 - Lacan on Paranoiac Knowledge — Jacques Lacan
 - From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley — Lawrence E. Cahoone (1996)
@@ -256,6 +265,7 @@ Entries: 407
 - Joseph Beuys: Mapping the Legacy — Gene Ray (ed.) (2001)
 - Recursivity and Contingency (Media Philosophy) — Yuk Hui (2019)
 - Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy — Mark C. Taylor (2012)
+- Regularity of colour statistics in explaining colo
 - Halfway Home Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company — Reuben Jonathan Miller (2021)
 - The Selfish Gene . Volume 2-Oxford University Press, USA — Richard Dawkins (1990)
 - The Baudrillard Dictionary — Richard G. Smith (2010)
@@ -269,6 +279,7 @@ Entries: 407
 - Secret knowledge - rediscovering the lost techniques of the — David Hockney (2001)
 - Sexual personae art and decadence from Nefertiti to Emily Dickinson — Paglia, Camille
 - Ethics — Spinoza Baruch
+- Sunvite2021FinalsBriefing1
 - Computer Vision: Algorithms and Applications — Richard Szeliski (2022)
 - The Arcades Project — Walter Benjamin (1982)
 - The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions — Taoist Master Alfred Huang (2010)
@@ -425,9 +436,9 @@ Entries: 407
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — named in this note
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — named in this note
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — named in this note
-- [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — named in this note
+- [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — named in this note
+- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — named in this note
 - [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — named in this note
+- [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — named in this note
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — named in this note
-- [[knowledge/wiki/books/pdf-document|PDF document]] — named in this note
-- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — named in this note
 <!-- vault-crosslinks:end -->

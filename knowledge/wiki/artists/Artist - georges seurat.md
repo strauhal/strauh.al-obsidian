@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
 - [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
 - [[knowledge/wiki/images/le baiser by georges de feure 1897 ff074feb|le baiser by georges de feure 1897]] — shared language: georges
-- [[knowledge/wiki/images/l atelier by jean georges vibert 1880 cd2f1127|l atelier by jean georges vibert 1880]] — shared language: georges
+- [[knowledge/wiki/images/Man with a Guitar by Georges Braque (1911 1912) 12a887c2|Man with a Guitar by Georges Braque (1911 1912)]] — shared language: georges
 <!-- vault-crosslinks:end -->

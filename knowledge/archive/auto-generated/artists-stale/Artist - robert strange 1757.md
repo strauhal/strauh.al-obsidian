@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: strange, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sir robert strange 1762|Artist - sir robert strange 1762]] — shared language: strange, robert
 - [[knowledge/wiki/images/the death of dido by sir robert strange 1762 2c3ce4fe|the death of dido by sir robert strange 1762]] — shared language: strange, robert
-- [[knowledge/wiki/artists/Artist - you si|Artist - you si]] — shared language: strange
+- [[knowledge/wiki/images/Te Deum Laudamus by Robert Strange (1760) 9798cab5|Te Deum Laudamus by Robert Strange (1760)]] — shared language: strange, robert
 <!-- vault-crosslinks:end -->

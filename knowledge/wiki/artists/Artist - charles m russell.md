@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - charles marion russell|Artist - charles marion russell]] — shared language: russell, charles
 - [[knowledge/wiki/images/loops and swift horses are surer than lead by charles marion russell 1916 20ab1eac|loops and swift horses are surer than lead by charles marion russell 1916]] — shared language: russell, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — shared language: russell
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 <!-- vault-crosslinks:end -->

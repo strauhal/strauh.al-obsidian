@@ -39,8 +39,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
 - [[_archive/auto-generated/books-stale/beuys-on-drawing|beuys on drawing]] — same category: art aesthetics
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — same category: art aesthetics
+- [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — same category: art aesthetics
+- [[_archive/auto-generated/books-stale/ray-gene-ed-joseph-beuys-mapping-the-legacy|Ray Gene ed Joseph Beuys Mapping the Legacy]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

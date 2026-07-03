@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - celes|Artist - celes]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - celes|Artist - celes]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cecilia beaux 1898|Artist - cecilia beaux 1898]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chan ky yut 1999|Artist - chan ky yut 1999]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - cecil beaton 1960|Artist - cecil beaton 1960]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

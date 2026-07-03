@@ -1,13 +1,13 @@
 ---
 title: "Artist - rembrandt van rijn"
 source_kind: "artist"
-count: "11"
+count: "10"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - rembrandt van rijn
 
-Images attributed by filename: 11
+Images attributed by filename: 10
 
 ## Sample
 
@@ -31,8 +31,6 @@ Images attributed by filename: 11
 
 ![[media/strauh.al3.1/1600s/the_sleeping_puppy_by_rembrandt_van_rijn_c_1640.jpg]]
 
-![[media/strauh.al3.1/2000s/young_woman_at_her_toilet_by_rembrandt_van_rijn.jpeg]]
-
 ## Image Notes
 
 - [[bathsheba by rembrandt van rijn 1635 38605633|bathsheba by rembrandt van rijn 1635]]
@@ -45,15 +43,14 @@ Images attributed by filename: 11
 - [[study of seven figures by rembrandt van rijn c 1639 a937889b|study of seven figures by rembrandt van rijn c 1639]]
 - [[the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643 bd812f10|the brethren of joseph requesting benjamin from their father by rembrandt van rijn c 1643]]
 - [[the sleeping puppy by rembrandt van rijn c 1640 7a40b62a|the sleeping puppy by rembrandt van rijn c 1640]]
-- [[young woman at her toilet by rembrandt van rijn b1cd11da|young woman at her toilet by rembrandt van rijn]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630) 658a901f|Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630)]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, self
-- [[knowledge/wiki/images/the incredulity of st thomas by rembrandt van rijn about 1640 2 451b0079|the incredulity of st thomas by rembrandt van rijn about 1640 2]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/artists/Artist - rembrandt harmenszoon van rijn|Artist - rembrandt harmenszoon van rijn]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/rembrandt harmenszoon van rijn lucretia 1666 63a69a5d|rembrandt harmenszoon van rijn lucretia 1666]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/Young Woman at Her Toilet by Rembrandt van Rijn 5220c9b3|Young Woman at Her Toilet by Rembrandt van Rijn]] — shared language: rembrandt, rijn, van
 <!-- vault-crosslinks:end -->

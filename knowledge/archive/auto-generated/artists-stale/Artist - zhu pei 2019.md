@@ -20,10 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - zhu pei|Artist - zhu pei]] — named in this note
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
-- [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — shared language: art
-- [[_archive/auto-generated/books-stale/zen-the-art-of-macintosh1986|Zen the Art of Macintosh1986]] — shared language: art
+- [[knowledge/archive/auto-generated/artists-stale/Artist - zhu pei|Artist - zhu pei]] — named in this note
+- [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — shared language: center
+- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: center
+- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
 <!-- vault-crosslinks:end -->

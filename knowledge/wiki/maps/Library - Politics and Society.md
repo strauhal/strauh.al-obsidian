@@ -2,16 +2,17 @@
 title: Library - Politics and Society
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Politics and Society
 
-Books/files: 32
+Books/files: 33
 
 ## Titles
 
+- [[CIA-RDP96-00788R001700210016-5]]
 - [[CIA-RDP96-00792R000700130001-6]]
 - [[enunciations-of-desire]]
 - [[formalist manifesto]]
@@ -52,8 +53,8 @@ Books/files: 32
 - [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — named in this note
 - [[knowledge/wiki/books/essays|essays]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: society, history
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: harari, yuval, noah
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: volume, history
 - [[knowledge/wiki/books/michel-foucault-the-history-of-sexuality-volume-1|The History of Sexuality, Volume 1]] — shared language: volume, history
-- [[knowledge/wiki/books/michel-foucault-the-history-of-sexuality-volume-2|The History of Sexuality, Volume 2]] — shared language: volume, history
 <!-- vault-crosslinks:end -->

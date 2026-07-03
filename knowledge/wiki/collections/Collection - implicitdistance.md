@@ -27,5 +27,5 @@ Files: 2
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: mockup
-- [[knowledge/wiki/images/screenshot of a digital audio workstation daw interface c4cdd500|screenshot of a digital audio workstation daw interface]] — shared language: daw
+- [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

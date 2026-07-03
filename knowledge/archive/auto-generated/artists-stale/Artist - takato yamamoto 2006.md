@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - takato yamamoto|Artist - takato yamamoto]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto 2002|Artist - takato yamamoto 2002]] — named in this note
-- [[knowledge/wiki/images/kuchi zuke kiss by takato yamamoto 2002 5f83b719|kuchi zuke kiss by takato yamamoto 2002]] — shared language: takato, yamamoto
+- [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto|Artist - Takato Yamamoto]] — named in this note
+- [[knowledge/wiki/images/The Shimabara Rebellion of 1637 by Takato Yamamoto (2006) ab645d1a|The Shimabara Rebellion of 1637 by Takato Yamamoto (2006)]] — shared language: takato, yamamoto
+- [[_archive/auto-generated/images-stale/kuchi zuke kiss by takato yamamoto 2002 5f83b719|kuchi zuke kiss by takato yamamoto 2002]] — shared language: takato, yamamoto
+- [[knowledge/wiki/images/Illustration Two Women Kissing Amidst Ornate Patterns And Red Moon by Takato Yamamoto d605a2de|Illustration Two Women Kissing Amidst Ornate Patterns And Red Moon by Takato Yamamoto]] — shared language: takato, yamamoto
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: yamamoto
-- [[knowledge/wiki/artists/Artist - masao yamamoto|Artist - masao yamamoto]] — shared language: yamamoto
-- [[knowledge/archive/auto-generated/artists-stale/Artist - masao yamamoto 2008|Artist - masao yamamoto 2008]] — shared language: yamamoto
 <!-- vault-crosslinks:end -->

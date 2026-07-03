@@ -1,12 +1,12 @@
 ---
 title: "Hieronymus Cock"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/hieronymous_cock/Hieronymus_Cock.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/hieronymous_cock/Hieronymus_Cock.jpg"
 source_relpath: "artists/hieronymous_cock/Hieronymus_Cock.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1014x1420"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/hieronymous_cock/Hieronymus_Cock.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/hieronymous_cock/Hieronymus_Cock.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/hieronymous_cock/Hieronymus_Cock.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

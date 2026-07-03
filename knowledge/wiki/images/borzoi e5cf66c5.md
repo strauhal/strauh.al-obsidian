@@ -1,12 +1,12 @@
 ---
 title: "borzoi"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/borzoi.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/borzoi.gif"
 source_relpath: "gif_collection/borzoi.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "498x498"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/borzoi.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/borzoi.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/borzoi.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

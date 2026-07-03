@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — shared language: robert
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: robert
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 - [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 - [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert graham|Artist - robert graham]] — shared language: robert
 <!-- vault-crosslinks:end -->

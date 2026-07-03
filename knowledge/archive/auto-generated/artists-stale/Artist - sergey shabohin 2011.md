@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sergey shabohin|Artist - sergey shabohin]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sentrock 2017|Artist - sentrock 2017]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - shepard fairey 2007|Artist - shepard fairey 2007]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sergey shabohin|Artist - sergey shabohin]] — named in this note
+- [[knowledge/wiki/images/Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E' 42d43431|Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E']] — shared language: enter
+- [[knowledge/archive/auto-generated/artists-stale/Artist - seo young deok|Artist - Seo Young Deok]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

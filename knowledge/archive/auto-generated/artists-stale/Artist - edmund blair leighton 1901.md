@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edmund blair leighton 1893|Artist - edmund blair leighton 1893]] — named in this note
 - [[knowledge/wiki/images/edmund blair leighton the accolade 1901 66d93460|edmund blair leighton the accolade 1901]] — shared language: blair, edmund, leighton
 - [[knowledge/wiki/images/the parting by edmund blair leighton 1893 1be601f7|the parting by edmund blair leighton 1893]] — shared language: blair, edmund, leighton
-- [[knowledge/wiki/images/god speed by edmund blair leighton 1900 77aa4125|god speed by edmund blair leighton 1900]] — shared language: blair, edmund, leighton
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic leighton 1862|Artist - frederic leighton 1862]] — shared language: leighton
+- [[_archive/auto-generated/images-stale/god speed by edmund blair leighton 1900 77aa4125|god speed by edmund blair leighton 1900]] — shared language: blair, edmund, leighton
+- [[knowledge/wiki/images/God Speed by Edmund Blair Leighton (1900) 4c2c30bb|God Speed by Edmund Blair Leighton (1900)]] — shared language: blair, edmund, leighton
 <!-- vault-crosslinks:end -->

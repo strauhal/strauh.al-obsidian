@@ -1,12 +1,12 @@
 ---
 title: "coffee by sarah moon 1995"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/coffee_by_sarah_moon_1995.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/coffee_by_sarah_moon_1995.jpg"
 source_relpath: "1900s/coffee_by_sarah_moon_1995.jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "sarah moon"
-dimensions: "1080x1242"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - sarah moon]]
 
 Source: [[media/strauh.al3.1/1900s/coffee_by_sarah_moon_1995.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/coffee_by_sarah_moon_1995.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/coffee_by_sarah_moon_1995.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sarah green|Artist - sarah green]] — shared language: sarah
-- [[knowledge/wiki/images/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: sarah
-- [[knowledge/wiki/artists/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
-- [[knowledge/wiki/artists/Artist - sarah cain|Artist - sarah cain]] — shared language: sarah
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: moon
+- [[knowledge/wiki/books/sarah-wynn-williams-careless-people-flatiron-books|Careless People-Flatiron Books]] — shared language: sarah
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
+- [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: coffee
+- [[knowledge/wiki/images/The Coffee House by William Ratcliffe 8059ab99|The Coffee House by William Ratcliffe]] — shared language: coffee
 <!-- vault-crosslinks:end -->

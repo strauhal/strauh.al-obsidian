@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - norspac|Artist - norspac]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
+- [[knowledge/wiki/images/The Battle for the Soul of the World by Norspac (2022) 3cf86a39|The Battle for the Soul of the World by Norspac (2022)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - norspac|Artist - norspac]] — named in this note
 - [[_archive/auto-generated/books-stale/schopenhauer-world-as-will|schopenhauer world as will]] — shared language: world
-- [[knowledge/wiki/images/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: soul
+- [[_archive/auto-generated/books-stale/my-twisted-world|My Twisted World]] — shared language: world
 <!-- vault-crosslinks:end -->

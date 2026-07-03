@@ -1,12 +1,12 @@
 ---
 title: "congo"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/influences/congo.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/influences/congo.jpg"
 source_relpath: "influences/congo.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: "1200x980"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/influences/congo.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/influences/congo.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/influences/congo.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - virgil finlay|Artist - virgil finlay]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - vladimir bonacic|Artist - vladimir bonacic]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - vincent van gogh|Artist - vincent van gogh]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - vintage tech and icons|Artist - vintage tech and icons]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

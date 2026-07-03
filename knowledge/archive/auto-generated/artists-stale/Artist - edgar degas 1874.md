@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
 - [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas, class
-- [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1879|Artist - edgar degas 1879]] — shared language: edgar, degas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1877|Artist - edgar degas 1877]] — shared language: edgar, degas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1879|Artist - edgar degas 1879]] — shared language: edgar, degas
 - [[knowledge/wiki/images/the ballet class by edgar degas c 187880 6eb50e26|the ballet class by edgar degas c 187880]] — shared language: edgar, degas, class
-- [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: edgar, degas
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: edgar, degas
 <!-- vault-crosslinks:end -->

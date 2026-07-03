@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/black and white photographic portrait of a woman with long dark hair b3cb3ff5|black and white photographic portrait of a woman with long dark hair]] — shared language: long, hair, woman
-- [[knowledge/wiki/images/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: hair, woman
-- [[knowledge/wiki/images/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
-- [[knowledge/wiki/images/untitled two figures with long hair by david shrigley 86ff96d3|untitled two figures with long hair by david shrigley]] — shared language: long, hair
-- [[knowledge/wiki/images/marker and ink sketch of a woman s head with blue eyes and brown hair 84201029|marker and ink sketch of a woman s head with blue eyes and brown hair]] — shared language: hair, ink, woman
-- [[knowledge/wiki/images/loose pencil sketch of a standing woman with long wavy hair on tan paper c6eedbd6|loose pencil sketch of a standing woman with long wavy hair on tan paper]] — shared language: long, hair, woman
+- [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: long, hair
+- [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: long, hair
+- [[knowledge/wiki/images/Illustration Woman with Long Hair Holding Flowers in Blue Green Setting 4ac1d8f7|Illustration Woman with Long Hair Holding Flowers in Blue Green Setting]] — shared language: long, hair
+- [[knowledge/wiki/images/Illustration Ink Sketch of Four Figures in Long Robes 37704dd6|Illustration Ink Sketch of Four Figures in Long Robes]] — shared language: long, ink
+- [[knowledge/wiki/images/Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background 52b43191|Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background]] — shared language: long, hair
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: large, ink
 <!-- vault-crosslinks:end -->

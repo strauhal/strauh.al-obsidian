@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1988|Artist - faith ringgold 1988]] — shared language: faith, ringgold, quilt
-- [[knowledge/wiki/artists/Artist - faith ringgold|Artist - faith ringgold]] — shared language: faith, ringgold, quilt
-- [[knowledge/wiki/images/the lawrence story quilt by faith ringgold 1988 a4e5d758|the lawrence story quilt by faith ringgold 1988]] — shared language: faith, ringgold, quilt
-- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: faith, ringgold
-- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1973|Artist - faith ringgold 1973]] — shared language: faith, ringgold
-- [[knowledge/wiki/images/painted fabric panel depicting a nude female figure running through a dense colorful forest under a pink sky by faith ringgold 1973 364fb649|painted fabric panel depicting a nude female figure running through a dense colorful forest under a pink sky by faith ringgold 1973]] — shared language: faith, ringgold
+- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1988|Artist - faith ringgold 1988]] — shared language: ringgold, faith, quilt
+- [[knowledge/wiki/artists/Artist - faith ringgold|Artist - faith ringgold]] — shared language: ringgold, faith, quilt
+- [[knowledge/wiki/images/the lawrence story quilt by faith ringgold 1988 a4e5d758|the lawrence story quilt by faith ringgold 1988]] — shared language: ringgold, faith, quilt
+- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1973|Artist - faith ringgold 1973]] — shared language: ringgold, faith
+- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: ringgold, faith
+- [[knowledge/wiki/images/painted fabric panel depicting a nude female figure running through a dense colorful forest under a pink sky by faith ringgold 1973 364fb649|painted fabric panel depicting a nude female figure running through a dense colorful forest under a pink sky by faith ringgold 1973]] — shared language: ringgold, faith
 <!-- vault-crosslinks:end -->

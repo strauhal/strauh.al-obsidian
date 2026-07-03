@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: elder
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
-- [[knowledge/wiki/artists/Artist - jan van haasteren|Artist - jan van haasteren]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
 - [[knowledge/wiki/images/the arnolfini portrait by jan van eyck 1434 41e839d4|the arnolfini portrait by jan van eyck 1434]] — shared language: jan, van
-- [[knowledge/wiki/images/the art market by jan van haasteren 2008 3e62068f|the art market by jan van haasteren 2008]] — shared language: jan, van
 <!-- vault-crosslinks:end -->

@@ -38,10 +38,10 @@ Images attributed by filename: 7
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — named in this note
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, night
-- [[knowledge/wiki/images/rainy day by pascal campion 2015 2f9111e5|rainy day by pascal campion 2015]] — shared language: rainy, day
-- [[knowledge/wiki/collections/Collection - 1800s|Collection - 1800s]] — shared language: childe, hassam, seine
-- [[knowledge/wiki/images/street 58d9c13c|street]] — shared language: street
-- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: day, night
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, street, night
+- [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — shared language: rainy, day
+- [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: rainy, street, night
+- [[knowledge/wiki/images/Photograph City Skyline Behind Lotus Pond on a Rainy Day 0a54955b|Photograph City Skyline Behind Lotus Pond on a Rainy Day]] — shared language: rainy, day
 <!-- vault-crosslinks:end -->

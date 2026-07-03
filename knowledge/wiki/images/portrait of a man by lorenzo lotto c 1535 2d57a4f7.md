@@ -1,12 +1,12 @@
 ---
 title: "portrait of a man by lorenzo lotto c 1535"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg"
 source_relpath: "1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg"
 collection: "1500s"
 inferred_year: "1535"
 artist: "lorenzo lotto"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---
@@ -22,14 +22,12 @@ Artist: [[Artist - lorenzo lotto]]
 
 Source: [[media/strauh.al3.1/1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/portrait_of_a_man_by_lorenzo_lotto_c_1535.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: man
-- [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: man
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: man
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
+- [[knowledge/wiki/images/portrait of a man by frans hals c 1635 0d2692d2|portrait of a man by frans hals c 1635]] — nearby note in the same source series
+- [[knowledge/wiki/images/portrait of a man by titian c 1540 9f9bdcd1|portrait of a man by titian c 1540]] — nearby note in the same source series
+- [[knowledge/wiki/images/portrait of a girl by olga boznanska circa 1890 fd7bd50e|portrait of a girl by olga boznanska circa 1890]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

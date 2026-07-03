@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - odd nerdrum 1981|Artist - odd nerdrum 1981]] — shared language: nerdrum, odd
 - [[knowledge/archive/auto-generated/artists-stale/Artist - odd nerdrum 1982|Artist - odd nerdrum 1982]] — shared language: nerdrum, odd
+- [[knowledge/wiki/artists/Artist - odd nerdrum|Artist - odd nerdrum]] — shared language: nerdrum, odd, boat
 - [[knowledge/archive/auto-generated/artists-stale/Artist - odd nerdrum 2005|Artist - odd nerdrum 2005]] — shared language: nerdrum, odd
 - [[knowledge/archive/auto-generated/artists-stale/Artist - odd nerdrum 1983|Artist - odd nerdrum 1983]] — shared language: nerdrum, odd
-- [[knowledge/wiki/artists/Artist - odd nerdrum|Artist - odd nerdrum]] — shared language: nerdrum, odd, boat
 - [[knowledge/wiki/images/the window by odd nerdrum 1981 50930230|the window by odd nerdrum 1981]] — shared language: nerdrum, odd
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/books-stale/unknown-the-camp-of-the-saints|The Camp Of The Saints]] — shared language: camp
 - [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — shared language: camp
 - [[knowledge/wiki/images/the camp by n c wyeth 1910 a27266b0|the camp by n c wyeth 1910]] — shared language: camp
+- [[knowledge/wiki/images/Illustration Man in Military Uniform Standing in a Camp Setting e7b91c51|Illustration Man in Military Uniform Standing in a Camp Setting]] — shared language: camp
 - [[knowledge/wiki/artists/Artist - n c wyeth|Artist - n c wyeth]] — shared language: camp
-- [[knowledge/archive/auto-generated/artists-stale/Artist - n c wyeth 1910|Artist - n c wyeth 1910]] — shared language: camp
 <!-- vault-crosslinks:end -->

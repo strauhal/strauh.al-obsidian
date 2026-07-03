@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — shared language: show
+- [[knowledge/wiki/images/Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions f08e5f8c|Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions]] — shared language: interiors
 - [[knowledge/wiki/culture/movie-the-truman-show|Watchlist - The Truman Show]] — shared language: show
-- [[knowledge/wiki/images/brutalist silence co working office interiors annabell kutucu berlin dezeen hero 1 jpg 3c6815b0|brutalist silence co working office interiors annabell kutucu berlin dezeen hero 1 jpg]] — shared language: interiors
-- [[knowledge/wiki/images/brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg 54098afa|brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg]] — shared language: interiors
-- [[knowledge/wiki/images/photograph of a robotic dog with a rifle attachment at a trade show ef95a773|photograph of a robotic dog with a rifle attachment at a trade show]] — shared language: show
+- [[knowledge/wiki/images/Photograph Jared Leto in Green Coat at Fashion Show and Premiere c630e904|Photograph Jared Leto in Green Coat at Fashion Show and Premiere]] — shared language: show
+- [[knowledge/wiki/images/Photograph Robotic Dog With Rifle Attachment At Trade Show b3ad7035|Photograph Robotic Dog With Rifle Attachment At Trade Show]] — shared language: show
 <!-- vault-crosslinks:end -->

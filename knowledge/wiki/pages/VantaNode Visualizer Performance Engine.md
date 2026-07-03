@@ -1,10 +1,10 @@
 ---
 title: "VantaNode Visualizer Performance Engine"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/visuals.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/visuals.html"
 source_relpath: "visuals.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # VantaNode Visualizer Performance Engine
@@ -24,12 +24,12 @@ VantaNode Visualizer // Performance Engine
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: engine
+- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: performance
+- [[knowledge/wiki/images/Illustration Collage of Dark, Surreal Digital Art and Performance Stills 3fe2f6ec|Illustration Collage of Dark, Surreal Digital Art and Performance Stills]] — shared language: performance
+- [[knowledge/wiki/images/Screenshot Unity Engine Screenshot Showing 3D Scene With Camera Object f889f038|Screenshot Unity Engine Screenshot Showing 3D Scene With Camera Object]] — shared language: engine
+- [[knowledge/wiki/images/Photograph Joseph Beuys Drawing on Blackboard During Performance a7bb43a3|Photograph Joseph Beuys Drawing on Blackboard During Performance]] — shared language: performance
+- [[knowledge/wiki/images/Photograph Live Performance With Red Stage Lighting And Audience 7f31268a|Photograph Live Performance With Red Stage Lighting And Audience]] — shared language: performance
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: vantanode, visualizer, compiled
-- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: vantanode, visualizer, compiled
-- [[knowledge/wiki/pages/random quote|random quote]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/donate|donate]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

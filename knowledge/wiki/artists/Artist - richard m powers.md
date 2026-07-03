@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/richard-powers|Richard Powers]] — named in this note
+- [[knowledge/wiki/artists/Artist - Richard M. Powers|Artist - Richard M. Powers]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — shared language: powers, richard
-- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: powers, richard
-- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: powers
-- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/images/Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers 73b5243b|Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers]] — shared language: powers, richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
 <!-- vault-crosslinks:end -->

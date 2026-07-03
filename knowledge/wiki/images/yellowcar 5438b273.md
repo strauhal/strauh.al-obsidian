@@ -1,12 +1,12 @@
 ---
 title: "yellowcar"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/yellowcar.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/yellowcar.jpg"
 source_relpath: "wallpapers/yellowcar.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "3587x1762"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/yellowcar.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/yellowcar.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/yellowcar.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

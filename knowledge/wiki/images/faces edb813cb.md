@@ -1,12 +1,12 @@
 ---
 title: "faces"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/faces.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/faces.jpg"
 source_relpath: "diary/faces.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "3270x2407"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/faces.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/faces.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/faces.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

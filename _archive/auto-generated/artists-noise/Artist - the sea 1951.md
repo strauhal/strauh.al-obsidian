@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - the sea|Artist - the sea]] — named in this note
+- [[knowledge/wiki/artists/Artist - Sea|Artist - Sea]] — named in this note
+- [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-sea|Artist - the sea]] — shared language: sea
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-sea-1951|Artist - the sea 1951]] — shared language: sea
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: sea
-- [[knowledge/wiki/images/impressionistic painting of a field of flowers by the sea e049bc94|impressionistic painting of a field of flowers by the sea]] — shared language: sea
-- [[knowledge/wiki/images/framed landscape painting of a sky and sea cliff 14a885d5|framed landscape painting of a sky and sea cliff]] — shared language: sea
 <!-- vault-crosslinks:end -->

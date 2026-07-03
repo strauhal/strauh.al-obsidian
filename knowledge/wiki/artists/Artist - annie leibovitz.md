@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
 - [[knowledge/wiki/books/annie-besant-thought-forms-bibliobazaar|Thought-Forms-BiblioBazaar]] — shared language: annie
-- [[knowledge/wiki/artists/Artist - jimmy hinson|Artist - jimmy hinson]] — shared language: jimmy
-- [[knowledge/wiki/images/pxl con by jimmy hinson 2012 db11d271|pxl con by jimmy hinson 2012]] — shared language: jimmy
-- [[knowledge/wiki/images/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: cliff
-- [[knowledge/wiki/images/digital painting of two figures on a desert cliff at sunset b32955cd|digital painting of two figures on a desert cliff at sunset]] — shared language: cliff
-- [[knowledge/wiki/images/framed landscape painting of a sky and sea cliff 14a885d5|framed landscape painting of a sky and sea cliff]] — shared language: cliff
+- [[knowledge/wiki/images/PXL CON by Jimmy Hinson (2012) 86231716|PXL CON by Jimmy Hinson (2012)]] — shared language: jimmy
+- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: cliff
+- [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: cliff
+- [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: cliff
 <!-- vault-crosslinks:end -->

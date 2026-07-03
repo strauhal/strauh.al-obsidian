@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - boris efimovich efimov|Artist - boris efimovich efimov]] — shared language: boris
 - [[knowledge/wiki/images/the capture of field marshal paulus by boris efimovich efimov 1943 5b681d4b|the capture of field marshal paulus by boris efimovich efimov 1943]] — shared language: boris
-- [[knowledge/wiki/artists/Artist - branching organic forms|Artist - branching organic forms]] — nearby note in the same source series
+- [[knowledge/wiki/images/Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939) 5af82f16|Stalin at the Presidium of the First All Union Congress of Collective Farmers by Boris Cheprakov (1939)]] — shared language: boris
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn 1659 8ab2df95|self portrait by rembrandt van rijn 1659]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/bathsheba by rembrandt van rijn 1635 38605633|bathsheba by rembrandt van rijn 1635]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/study of seven figures by rembrandt van rijn c 1639 a937889b|study of seven figures by rembrandt van rijn c 1639]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/young woman at her toilet by rembrandt van rijn b1cd11da|young woman at her toilet by rembrandt van rijn]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/the sleeping puppy by rembrandt van rijn c 1640 7a40b62a|the sleeping puppy by rembrandt van rijn c 1640]] — shared language: rijn, rembrandt, van
+- [[knowledge/wiki/images/Young Woman at Her Toilet by Rembrandt van Rijn 5220c9b3|Young Woman at Her Toilet by Rembrandt van Rijn]] — shared language: rembrandt, rijn, van
 <!-- vault-crosslinks:end -->

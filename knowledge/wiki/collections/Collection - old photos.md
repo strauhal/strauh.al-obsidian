@@ -192,10 +192,10 @@ Files: 123
 
 - [[knowledge/wiki/pages/old photos|old photos]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: old, two
+- [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
+- [[knowledge/wiki/images/Photograph Older Person Looking at Laptop Displaying Family Photos d4ecd53e|Photograph Older Person Looking at Laptop Displaying Family Photos]] — shared language: photos, family
 - [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: old
-- [[knowledge/wiki/images/black and white drawing of an old man in profile wearing a helmet a211a290|black and white drawing of an old man in profile wearing a helmet]] — shared language: old
-- [[knowledge/wiki/images/pirate costume photo with laptop and old computer fb28a519|pirate costume photo with laptop and old computer]] — shared language: old
-- [[knowledge/wiki/images/vincent van gogh at eternitys gate sorrowing old man 1890 38c78f89|vincent van gogh at eternitys gate sorrowing old man 1890]] — shared language: old
-- [[knowledge/wiki/images/event poster with pink and purple background and portrait photos for grad prin talk 9c25f161|event poster with pink and purple background and portrait photos for grad prin talk]] — shared language: photos
+- [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: old
+- [[knowledge/wiki/images/Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet 39d0fedf|Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet]] — shared language: old
+- [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: old
 <!-- vault-crosslinks:end -->

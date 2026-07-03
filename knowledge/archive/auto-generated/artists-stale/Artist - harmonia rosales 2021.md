@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - harmonia rosales|Artist - harmonia rosales]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - harmonia rosales|Artist - harmonia rosales]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - harmonia rosales 2020|Artist - harmonia rosales 2020]] — named in this note
-- [[knowledge/wiki/images/the watcher by harmonia rosales 2020 5283249c|the watcher by harmonia rosales 2020]] — shared language: harmonia, rosales
+- [[_archive/auto-generated/images-stale/the watcher by harmonia rosales 2020 5283249c|the watcher by harmonia rosales 2020]] — shared language: harmonia, rosales
 - [[knowledge/wiki/images/queen of hearts by willem de kooning 194346 f2356877|queen of hearts by willem de kooning 194346]] — shared language: queen
-- [[knowledge/wiki/images/the queen of hearts by john byam liston shaw 1896 5b49eaf6|the queen of hearts by john byam liston shaw 1896]] — shared language: queen
-- [[knowledge/wiki/images/the queen of hearts by john byam liston shaw 1896 7a2d8de2|the queen of hearts by john byam liston shaw 1896]] — shared language: queen
+- [[knowledge/wiki/images/Illustration Stylized Purple Figure with Yellow Drapes and Queen of Hearts Card 8f9c37e1|Illustration Stylized Purple Figure with Yellow Drapes and Queen of Hearts Card]] — shared language: queen
+- [[knowledge/wiki/images/The Embarkation of the Queen of Sheba by Claude Lorrain (1648) 7b27466f|The Embarkation of the Queen of Sheba by Claude Lorrain (1648)]] — shared language: queen
 <!-- vault-crosslinks:end -->

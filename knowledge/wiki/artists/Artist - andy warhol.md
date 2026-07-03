@@ -42,9 +42,9 @@ Images attributed by filename: 8
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
-- [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: andy, warhol
+- [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
+- [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: warhol, andy
+- [[knowledge/wiki/images/Photograph Black and White Photo of Andy Warhol and Three Men 8229510a|Photograph Black and White Photo of Andy Warhol and Three Men]] — shared language: warhol, andy
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol
-- [[knowledge/wiki/culture/reading-the-andy-warhol-diaries|Reading - The Andy Warhol Diaries]] — shared language: andy, warhol
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: andy, warhol
-- [[knowledge/wiki/images/warhol 42bf1e15|warhol]] — shared language: warhol
+- [[knowledge/wiki/artists/Artist - Andy Warhol by MSCHF|Artist - Andy Warhol by MSCHF]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, osaka
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1925|Artist - kawase hasui 1925]] — shared language: hasui, kawase
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1921|Artist - kawase hasui 1921]] — shared language: hasui, kawase
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1930|Artist - kawase hasui 1930]] — shared language: hasui, kawase, temple
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1934|Artist - kawase hasui 1934]] — shared language: hasui, kawase
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1930|Artist - kawase hasui 1930]] — shared language: hasui, kawase, temple
 - [[knowledge/wiki/artists/Artist - kawase hasui|Artist - kawase hasui]] — shared language: hasui, kawase, osaka
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1924|Artist - kawase hasui 1924]] — shared language: hasui, kawase
 <!-- vault-crosslinks:end -->

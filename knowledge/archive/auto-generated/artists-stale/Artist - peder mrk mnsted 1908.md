@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - peder mrk mnsted|Artist - peder mrk mnsted]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peder mrk mnsted 1910|Artist - peder mrk mnsted 1910]] — named in this note
-- [[knowledge/wiki/images/a forest stream with a fisherman by peder mrk mnsted 1910 bba81e79|a forest stream with a fisherman by peder mrk mnsted 1910]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/images/a forest stream summer day by peder mrk mnsted 1910 e6e43d13|a forest stream summer day by peder mrk mnsted 1910]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: peder, mrk, mnsted
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: peder, mrk, mnsted
+- [[knowledge/wiki/images/a forest stream with a fisherman by peder mrk mnsted 1910 bba81e79|a forest stream with a fisherman by peder mrk mnsted 1910]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/a forest stream summer day by peder mrk mnsted 1910 e6e43d13|a forest stream summer day by peder mrk mnsted 1910]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/peder mrk mnsted a road with a farmhouse near the sea c 1900 4bc3510d|peder mrk mnsted a road with a farmhouse near the sea c 1900]] — shared language: mrk, mnsted, peder
+- [[knowledge/wiki/images/Anna Ancher on the Sofa by Peder Severin Kr yer (1891) 6e03f97f|Anna Ancher on the Sofa by Peder Severin Kr yer (1891)]] — shared language: peder
 <!-- vault-crosslinks:end -->

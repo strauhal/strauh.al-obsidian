@@ -1,12 +1,12 @@
 ---
 title: "madonna and child by giovanni battista salvi c 1650"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg"
 source_relpath: "1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg"
 collection: "1600s"
 inferred_year: "1650"
 artist: "giovanni battista salvi"
-dimensions: "1280x1881"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - giovanni battista salvi]]
 
 Source: [[media/strauh.al3.1/1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/madonna_and_child_by_giovanni_battista_salvi_c_1650.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

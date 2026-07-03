@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1610s"
 source_kind: "date_bucket"
-count: "10"
+count: "12"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1610s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 10
+Files: 12
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/Caritas (Charity) by Peter Paul Rubens (c. 1612-1613).jpeg]]
 
 ![[media/strauh.al3.1/1600s/interior_dome_and_muqarnas_of_sheikh_lotfollah_mosque_isfahan_c_1619.jpeg]]
 
@@ -29,7 +31,9 @@ Files: 10
 
 ![[media/strauh.al3.1/1600s/venus_and_adonis_by_peter_paul_rubens_c_1614.jpg]]
 
-![[media/strauh.al3.1/2023_downloadsfolder/IMG_1615.JPG]]
+![[media/strauh.al3.1/2000s/Prometheus Bound by Peter Paul Rubens (c. 1611-1618).jpg]]
+
+![[media/strauh.al3.1/2000s/Two Satyrs by Peter Paul Rubens (c. 1618-1619).jpg]]
 
 ![[media/strauh.al3.1/comics/IMG_1618.JPG]]
 

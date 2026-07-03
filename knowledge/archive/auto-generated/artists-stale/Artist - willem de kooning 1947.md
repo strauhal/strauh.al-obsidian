@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
 - [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: kooning, willem
+- [[knowledge/wiki/images/woman i by willem de kooning 195052 91bd517a|woman i by willem de kooning 195052]] — shared language: kooning, willem
 - [[knowledge/archive/auto-generated/artists-stale/Artist - willem de kooning 1954|Artist - willem de kooning 1954]] — shared language: kooning, willem
+- [[knowledge/archive/auto-generated/artists-stale/Artist - willem de kooning 1952 1953|Artist - willem de kooning 1952 1953]] — shared language: kooning, willem
 - [[knowledge/archive/auto-generated/artists-stale/Artist - willem de kooning 1948|Artist - willem de kooning 1948]] — shared language: kooning, willem
-- [[knowledge/archive/auto-generated/artists-stale/Artist - willem de kooning 1948 1949|Artist - willem de kooning 1948 1949]] — shared language: kooning, willem
-- [[knowledge/archive/auto-generated/artists-stale/Artist - willem de kooning 1982|Artist - willem de kooning 1982]] — shared language: kooning, willem
 <!-- vault-crosslinks:end -->

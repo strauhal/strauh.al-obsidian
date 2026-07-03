@@ -1,12 +1,12 @@
 ---
 title: "pulcinellas by giovanni domenico tiepolo c 17971800"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg"
 source_relpath: "1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "giovanni domenico tiepolo"
-dimensions: "3200x1969"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -20,7 +20,7 @@ Artist: [[Artist - giovanni domenico tiepolo]]
 
 Source: [[media/strauh.al3.1/1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

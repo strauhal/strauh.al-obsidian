@@ -43,12 +43,12 @@ series of algorithms well outside of my control" (see [[AI Slop]]).
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, portraiture, video
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: vellum, portraiture, video
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video, portraiture, implicit
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, neural, it's
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: implicit, color, frames
+- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: vellum, portraiture, color
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: neural, hand, it's
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: portraiture, video, color
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: implicit, color, frames
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, control, slop
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: really, it's, diary
 <!-- vault-crosslinks:end -->

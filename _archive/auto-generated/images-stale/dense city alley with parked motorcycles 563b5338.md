@@ -1,0 +1,33 @@
+---
+title: "dense city alley with parked motorcycles"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/dense_city_alley_with_parked_motorcycles.jpeg"
+source_relpath: "unsorted/dense_city_alley_with_parked_motorcycles.jpeg"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: "1070x1419"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# dense city alley with parked motorcycles
+
+![[media/strauh.al3.1/unsorted/dense_city_alley_with_parked_motorcycles.jpeg]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/dense_city_alley_with_parked_motorcycles.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/dense_city_alley_with_parked_motorcycles.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/images/Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley 52a5617c|Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley]] — shared language: alley
+- [[knowledge/wiki/images/Comic Collage of Manga Panels Featuring Screaming Man and Motorcycles 54a0d280|Comic Collage of Manga Panels Featuring Screaming Man and Motorcycles]] — shared language: motorcycles, motorcycles.jpeg
+- [[_archive/auto-generated/images-stale/aerial photograph of a dense city surrounding a large hill ad739689|aerial photograph of a dense city surrounding a large hill]] — shared language: dense, city
+- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
+<!-- vault-crosslinks:end -->

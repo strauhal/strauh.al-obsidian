@@ -20,7 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/digital sketch of two tiger heads grayscale and line art d2e82112|digital sketch of two tiger heads grayscale and line art]] — shared language: tiger
-- [[knowledge/wiki/images/dorje drolo a bhutanese deity astride the air tiger and holding the vajra and ceremonial dagger line drawing 556076f5|dorje drolo a bhutanese deity astride the air tiger and holding the vajra and ceremonial dagger line drawing]] — shared language: tiger
+- [[knowledge/wiki/images/Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch 6d4a15de|Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch]] — shared language: tiger
+- [[knowledge/wiki/images/Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building de0c620f|Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: tiger
+- [[knowledge/wiki/images/Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger 5b04ab58|Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger]] — shared language: tiger
+- [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: tiger
 - [[knowledge/wiki/culture/movie-crouching-tiger-hidden-dragon|Watchlist - Crouching Tiger, Hidden Dragon]] — shared language: tiger
+- [[knowledge/wiki/images/Illustration Bhutanese Deity Astride Air Tiger, Holding Vajra and Dagger afd14ec9|Illustration Bhutanese Deity Astride Air Tiger, Holding Vajra and Dagger]] — shared language: tiger
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: howard
 - [[knowledge/wiki/artists/Artist - howard terpning|Artist - howard terpning]] — shared language: howard
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: howard
+- [[knowledge/wiki/images/The Sentinel by Edward Howard 99d2ab6d|The Sentinel by Edward Howard]] — shared language: howard
+- [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: howard
 - [[knowledge/wiki/images/the sound of distant thunder by howard terpning 1991 4fbdaa76|the sound of distant thunder by howard terpning 1991]] — shared language: howard
-- [[knowledge/wiki/artists/Artist - william merritt chase|Artist - william merritt chase]] — shared language: chase
-- [[knowledge/wiki/culture/movie-a-beautiful-mind|Watchlist - A Beautiful Mind]] — shared language: howard
-- [[knowledge/wiki/images/a friendly visit by william merritt chase 1895 66ff92c7|a friendly visit by william merritt chase 1895]] — shared language: chase
 <!-- vault-crosslinks:end -->

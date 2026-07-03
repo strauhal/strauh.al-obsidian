@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - shusaku arakawa|Artist - shusaku arakawa]] — named in this note
-- [[knowledge/wiki/artists/Artist - flowers|Artist - flowers]] — shared language: flowers
+- [[knowledge/archive/auto-generated/artists-stale/Artist - red flowers|Artist - red flowers]] — shared language: flowers
+- [[knowledge/archive/auto-generated/artists-stale/Artist - flowers|Artist - flowers]] — shared language: flowers
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
-- [[knowledge/wiki/artists/Artist - red flowers|Artist - red flowers]] — shared language: flowers
-- [[knowledge/wiki/images/continuous line drawing of flowers 2023 f6c5a747|continuous line drawing of flowers 2023]] — shared language: flowers
-- [[knowledge/wiki/images/impressionistic painting of a field of flowers by the sea e049bc94|impressionistic painting of a field of flowers by the sea]] — shared language: flowers
+- [[knowledge/wiki/images/Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers 07304629|Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers]] — shared language: flowers
+- [[_archive/auto-generated/images-stale/continuous line drawing of flowers 2023 f6c5a747|continuous line drawing of flowers 2023]] — shared language: flowers
 <!-- vault-crosslinks:end -->

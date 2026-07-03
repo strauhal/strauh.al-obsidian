@@ -34,5 +34,5 @@ Images attributed by filename: 4
 - [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1866 2|Artist - gustave dore 1866 2]] — shared language: dore, gustave, deluge
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1867|Artist - gustave dore 1867]] — shared language: dore, gustave
-- [[knowledge/wiki/artists/Artist - gustave dore|Artist - gustave dore]] — shared language: dore, gustave, deluge
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1868|Artist - gustave dore 1868]] — shared language: dore, gustave, heaven
 <!-- vault-crosslinks:end -->

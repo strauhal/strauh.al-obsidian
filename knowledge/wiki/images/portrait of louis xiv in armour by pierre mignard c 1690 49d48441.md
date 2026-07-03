@@ -1,12 +1,12 @@
 ---
 title: "portrait of louis xiv in armour by pierre mignard c 1690"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg"
 source_relpath: "1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg"
 collection: "1600s"
 inferred_year: "1690"
 artist: "pierre mignard"
-dimensions: "776x977"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - pierre mignard]]
 
 Source: [[media/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

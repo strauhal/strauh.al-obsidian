@@ -1,12 +1,12 @@
 ---
 title: "the doors sparrow fd 50 by victor moscoso 1967"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg"
 source_relpath: "1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "victor moscoso"
-dimensions: "1434x2000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - victor moscoso]]
 
 Source: [[media/strauh.al3.1/1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/the doors the miller blues band the daily flash fillmore poster nr 10 by victor moscoso 1967 4de4cf62|the doors the miller blues band the daily flash fillmore poster nr 10 by victor moscoso 1967]] — same artist: victor moscoso
 - [[knowledge/wiki/images/the miller blues band neon rose 2 by victor moscoso 1967 8794a2a6|the miller blues band neon rose 2 by victor moscoso 1967]] — same artist: victor moscoso
 - [[knowledge/wiki/images/quicksilver messenger service the steve miller blues band the daily flash fd 51 by victor moscoso 1967 2d156ff7|quicksilver messenger service the steve miller blues band the daily flash fd 51 by victor moscoso 1967]] — same artist: victor moscoso
-- [[knowledge/wiki/images/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: moscoso, victor
-- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — shared language: victor
+- [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: moscoso, victor
+- [[knowledge/wiki/images/The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967) ba171366|The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967)]] — shared language: moscoso, victor
 <!-- vault-crosslinks:end -->

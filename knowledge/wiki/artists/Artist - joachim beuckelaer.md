@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/film photograph of various flowers including yellow and red tulips roses and white chrysanthemums at an outdoor stall 7a72c73c|film photograph of various flowers including yellow and red tulips roses and white chrysanthemums at an outdoor stall]] — shared language: stall
-- [[knowledge/wiki/artists/Artist - jimmy hinson|Artist - jimmy hinson]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums dd9170c1|Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: stall
+- [[knowledge/wiki/images/Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall c9633e89|Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: stall
+- [[knowledge/wiki/artists/Artist - jim burns|Artist - jim burns]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

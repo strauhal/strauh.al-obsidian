@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — named in this note
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1892|Artist - childe hassam 1892]] — shared language: childe, hassam
 - [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1890|Artist - childe hassam 1890]] — shared language: childe, hassam, rainy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1887|Artist - childe hassam 1887]] — shared language: childe, hassam
 - [[knowledge/wiki/artists/Artist - childe hassam|Artist - childe hassam]] — shared language: childe, hassam, rainy
-- [[knowledge/wiki/images/dandelions by childe hassam 1890 1fbd5501|dandelions by childe hassam 1890]] — shared language: childe, hassam
 <!-- vault-crosslinks:end -->

@@ -41,10 +41,10 @@ Images attributed by filename: 8
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — shared language: beksinski, zdzisaw
-- [[knowledge/wiki/images/untitled by zdzisaw beksinski 1970s ac7ae00e|untitled by zdzisaw beksinski 1970s]] — shared language: beksinski, zdzisaw
 - [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: zdzisaw
-- [[knowledge/wiki/artists/Artist - zdzislaw beksinski 1970s|Artist - zdzislaw beksinski 1970s]] — shared language: beksinski
-- [[knowledge/wiki/images/untitled by zdzislaw beksinski 1970s 7764386c|untitled by zdzislaw beksinski 1970s]] — shared language: beksinski
-- [[knowledge/wiki/artists/Artist - zdzisaw wrobel|Artist - zdzisaw wrobel]] — shared language: zdzisaw
+- [[knowledge/wiki/images/Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace afa35642|Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: necklace, wearing
+- [[knowledge/wiki/images/Illustration Figure with Cross in Desolate Landscape with Falling Meteors 44bb3a0f|Illustration Figure with Cross in Desolate Landscape with Falling Meteors]] — shared language: desolate, landscape
+- [[knowledge/wiki/images/Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring 525f4811|Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring]] — shared language: pearl, wearing
+- [[knowledge/wiki/images/the citadel by jean giraud 1979 402216a8|the citadel by jean giraud 1979]] — shared language: citadel
+- [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: orange, oil, landscape
 <!-- vault-crosslinks:end -->

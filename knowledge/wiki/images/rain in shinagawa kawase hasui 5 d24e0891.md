@@ -1,12 +1,12 @@
 ---
 title: "rain in shinagawa kawase hasui 5"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg"
 source_relpath: "artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "1100x1595"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

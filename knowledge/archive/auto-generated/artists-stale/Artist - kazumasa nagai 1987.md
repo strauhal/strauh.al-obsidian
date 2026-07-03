@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - kazumasa nagai|Artist - kazumasa nagai]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1982|Artist - hiroshi nagai 1982]] — shared language: nagai
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1985|Artist - hiroshi nagai 1985]] — shared language: nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1981|Artist - hiroshi nagai 1981]] — shared language: nagai
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1985|Artist - hiroshi nagai 1985]] — shared language: nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 2020|Artist - hiroshi nagai 2020]] — shared language: nagai
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1983|Artist - hiroshi nagai 1983]] — shared language: nagai
 <!-- vault-crosslinks:end -->

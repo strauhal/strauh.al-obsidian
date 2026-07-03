@@ -1,0 +1,33 @@
+---
+title: "Photograph Man With Beard And Glasses Holding A Drawing"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Man With Beard And Glasses Holding A Drawing.jpg"
+source_relpath: "photography/Photograph - Man With Beard And Glasses Holding A Drawing.jpg"
+collection: "photography"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/photography"]
+---
+# Photograph Man With Beard And Glasses Holding A Drawing
+
+![[media/strauh.al3.1/photography/Photograph - Man With Beard And Glasses Holding A Drawing.jpg]]
+
+Collection: [[Collection - photography]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/photography/Photograph - Man With Beard And Glasses Holding A Drawing.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Man With Beard And Glasses Holding A Drawing.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently df08ba96|Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently]] — shared language: glasses, holding
+- [[knowledge/wiki/images/Photograph Man With Long Hair And Beard Playing Electronic Keyboard 126743ff|Photograph Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard
+- [[knowledge/wiki/images/Illustration Pencil Sketch of an Elderly Man with Turban and Long Beard d4fc30d1|Illustration Pencil Sketch of an Elderly Man with Turban and Long Beard]] — shared language: beard
+- [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: glasses
+<!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "tshai planet of adventure by jean giraud moebius 1975"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg"
 source_relpath: "1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "jean giraud moebius"
-dimensions: "1080x1350"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - jean giraud moebius]]
 
 Source: [[media/strauh.al3.1/1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/images/stel by jean giraud moebius 1988 245e1dc0|stel by jean giraud moebius 1988]] — same artist: jean giraud moebius
-- [[knowledge/wiki/images/flying vehicle over forest landscape by jean giraud moebius b915eb72|flying vehicle over forest landscape by jean giraud moebius]] — same artist: jean giraud moebius
 - [[knowledge/wiki/images/l homme est il bon by jean giraud moebius 1977 4df56a59|l homme est il bon by jean giraud moebius 1977]] — same artist: jean giraud moebius
 - [[knowledge/wiki/artists/Artist - moebius jean giraud|Artist - moebius jean giraud]] — shared language: giraud, moebius, jean
 - [[knowledge/wiki/images/le groupe by moebius jean giraud 1980 08d0e2e5|le groupe by moebius jean giraud 1980]] — shared language: giraud, moebius, jean
+- [[knowledge/wiki/images/Arzach by Jean Giraud (Moebius) (1975) 6c8f5195|Arzach by Jean Giraud (Moebius) (1975)]] — shared language: giraud, moebius, jean
 <!-- vault-crosslinks:end -->

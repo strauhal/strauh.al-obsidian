@@ -41,23 +41,11 @@ neighbors are gone.
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (16).** [[aerial photo of a crowd and police in a street a56ef99d|aerial photo of a crowd and police in a street]] · [[aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field 0a894eea|aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field]] · [[big jay mcneely driving the crowd at the olympic auditorium into a frenzy los angeles by bob willoughby 1953 a5fe37d6|big jay mcneely driving the crowd at the olympic auditorium into a frenzy los angeles by bob willoughby 1953]] · [[black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999 35fb517d|black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999]] · [[black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893 e4024532|black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893]] · [[black and white photograph of an elderly man in white robes waving to a crowd 9004dca9|black and white photograph of an elderly man in white robes waving to a crowd]] · [[framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] · [[framed modern city crowd scene with white clothed figures a580c326|framed modern city crowd scene with white clothed figures]] · [[large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] · [[oil painting of a crowd of people in blue and red tones 41b341fd|oil painting of a crowd of people in blue and red tones]] · [[painting of a crowd of stylized figures in front of a brick wall a919b450|painting of a crowd of stylized figures in front of a brick wall]] · [[painting of women on a balcony above a crowd 749aeaea|painting of women on a balcony above a crowd]] · [[photograph of a man in a suit pointing toward a crowd reaching out to him flanked by american flags and blue curtains 3513be0e|photograph of a man in a suit pointing toward a crowd reaching out to him flanked by american flags and blue curtains]] · [[religious painting of a crowd around a fallen figure b478f101|religious painting of a crowd around a fallen figure]] · [[the crowd by r o blechman 1968 87f44c68|the crowd by r o blechman 1968]] · [[the crowd by saul steinberg 1965 e62af0ca|the crowd by saul steinberg 1965]]
+**Images (12).** [[Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] · [[Illustration Painting of Peter Falk as Columbo in a crowd d7533e57|Illustration Painting of Peter Falk as Columbo in a crowd]] · [[Illustration Surreal Sepia Image of Giant Bearded Figure and Crowd f97c14a9|Illustration Surreal Sepia Image of Giant Bearded Figure and Crowd]] · [[Illustration Two Figures on Horseback Lead a Crowd Under Dark Sky 99543c65|Illustration Two Figures on Horseback Lead a Crowd Under Dark Sky]] · [[Photograph The President's Solitude by George Tames 0307ff31|Photograph The President's Solitude by George Tames]] · [[The Loneliness of the Fry Man by J. Elliot (2024) e5453a51|The Loneliness of the Fry Man by J. Elliot (2024)]] · [[The Man of the Crowd by Harry Clarke (1919) 69c8aea0|The Man of the Crowd by Harry Clarke (1919)]] · [[big jay mcneely driving the crowd at the olympic auditorium into a frenzy los angeles by bob willoughby 1953 a5fe37d6|big jay mcneely driving the crowd at the olympic auditorium into a frenzy los angeles by bob willoughby 1953]] · [[black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999 35fb517d|black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999]] · [[black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893 e4024532|black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893]] · [[the crowd by r o blechman 1968 87f44c68|the crowd by r o blechman 1968]] · [[the crowd by saul steinberg 1965 e62af0ca|the crowd by saul steinberg 1965]]
 
 **Books (2).** [[michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] · [[mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-- [[knowledge/wiki/images/connection map 409fea96|connection map]] — named in this note
-- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -80,3 +68,16 @@ neighbors are gone.
 >
 > One of the reasons so many great artists die of overdoses early in their lives is because they're using drugs to numb a very painful existence. The reason it's painful is the reason they became artists in the first place: their incredible sensitivity. If you see tremendous beauty or tremendous pain where other people see little or nothing at all, you're confronted with big feelings all the time. These emotions can be confusing and overwhelming. When those around you don't see what you see and feel what you feel, this can lead to a sense of isolation and a general feeling of not belonging, of otherness. These charged emotions, powerful when expressed in the work, are the same dark clouds that beg to be numbed to allow sleep or to get out of bed and face the day in the morning. It's a blessing and a curse.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/images/Solitude 3d62946e|Solitude]] — named in this note
+<!-- vault-crosslinks:end -->

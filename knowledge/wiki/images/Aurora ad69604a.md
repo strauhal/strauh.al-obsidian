@@ -1,12 +1,12 @@
 ---
 title: "Aurora"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/Aurora.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/Aurora.jpg"
 source_relpath: "wallpapers/Aurora.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/Aurora.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/Aurora.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/Aurora.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

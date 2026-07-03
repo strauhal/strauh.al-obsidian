@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2010s"
 source_kind: "date_bucket"
-count: "187"
+count: "75"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,57 +9,57 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2010s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 187
+Files: 75
 
 ## Sample
 
 ![[media/strauh.al3.1/1800s/vincent_van_gogh_1853_1890_cafeterras_bij_nacht_place_du_forum_kroller_muller_museum_otterlo_23_8_2016_13_35_40_jpeg.jpeg]]
 
-![[media/strauh.al3.1/2000s/2019_06_30t173116z_1555039684_rc1d3097bea0_rtrmadp_3_northkorea_usa_southkorea_jpg_webp.webp]]
+![[media/strauh.al3.1/2000s/&&&&& by Arca (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/4_bros_liquor_4_san_bernardino_ca_by_todd_hido_2013.png]]
+![[media/strauh.al3.1/2000s/Aggregate A by Toru Kurokawa (2016).jpeg]]
 
-![[media/strauh.al3.1/2000s/a_match_made_in_wolf_heaven_by_julian_naito_2011.jpeg]]
+![[media/strauh.al3.1/2000s/At the Night Market by Malene Reynolds Laugesen (2014).jpg]]
 
-![[media/strauh.al3.1/2000s/advertisement_graphic_of_a_white_car_in_a_green_landscape_2010.jpg]]
+![[media/strauh.al3.1/2000s/Autumn's Bounty by John McCartin (2013).png]]
 
-![[media/strauh.al3.1/2000s/aggregate_a_by_kurokawa_toru_2016.jpeg]]
+![[media/strauh.al3.1/2000s/BLAU @ Stadtbad Mitte James Simon by Clare Brokens (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/ancient_undead_by_valeriy_shcherbak_2019.png]]
+![[media/strauh.al3.1/2000s/Blue Teeth by Uno Moralez (2010).gif]]
 
-![[media/strauh.al3.1/2000s/ancut_poland_by_kacper_kowalski_2014.jpg]]
+![[media/strauh.al3.1/2000s/Burning House by Mattis Dovier (2014).gif]]
 
-![[media/strauh.al3.1/2000s/antinous_by_jeremy_lipking_2014.jpeg]]
+![[media/strauh.al3.1/2000s/Ceres & Calypso in the Deep Time (2013) (2).jpg]]
 
-![[media/strauh.al3.1/2000s/aurora_borealis_by_bence_bakonyi_2011.jpg]]
+![[media/strauh.al3.1/2000s/Ceres & Calypso in the Deep Time (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/autumn_s_bounty_by_john_mccartin_2013.png]]
+![[media/strauh.al3.1/2000s/City Tours by Philippe Gandiol (2018).jpeg]]
 
-![[media/strauh.al3.1/2000s/baron_town_by_waneella_2019.jpg]]
+![[media/strauh.al3.1/2000s/Crystal Castles (II) (2010).png]]
 
-![[media/strauh.al3.1/2000s/black_cube_on_piranesi_by_lino_fiorito_2013.jpeg]]
+![[media/strauh.al3.1/2000s/Cut 2 by Hideo Tanaka (2017).jpg]]
 
-![[media/strauh.al3.1/2000s/blau_stadtbad_mitte_james_simon_by_clare_brokens_2013.jpg]]
+![[media/strauh.al3.1/2000s/Diet Coke by Noah Verrier (2016).jpeg]]
 
-![[media/strauh.al3.1/2000s/block_13_by_josan_gonzalez_2017.jpg]]
+![[media/strauh.al3.1/2000s/Dream Chairs by Tadao Ando (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/blue_bay_sf_by_timothy_mulligan_2018.jpeg]]
+![[media/strauh.al3.1/2000s/Dream Library by Malene Reynolds Laugesen (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/breakfast_by_tineke_ten_cate_2019.jpg]]
+![[media/strauh.al3.1/2000s/Egg Chair Siamese by Ann Mika (2010).jpg]]
 
-![[media/strauh.al3.1/2000s/by_mocha_2017.jpg]]
+![[media/strauh.al3.1/2000s/Emboss - Saitone by Emboss and Saitone (2014).jpg]]
 
-![[media/strauh.al3.1/2000s/carpe_diem_by_pez_2019.jpg]]
+![[media/strauh.al3.1/2000s/Essaka Hoisa by Shigei (2019).jpg]]
 
-![[media/strauh.al3.1/2000s/castor_bean_by_jonas_wood_2019.jpeg]]
+![[media/strauh.al3.1/2000s/Fishing for Escher by James Fletcher (2018).jpg]]
 
-![[media/strauh.al3.1/2000s/christ_the_good_shepherd_by_kelly_latimore_2018.jpeg]]
+![[media/strauh.al3.1/2000s/From the Knees of my Nose to the Belly of my Toes by Alex Chinneck (2013).jpg]]
 
-![[media/strauh.al3.1/2000s/christmas_lights_london_by_jeffrey_t_larson_2018.jpg]]
+![[media/strauh.al3.1/2000s/GIRL (2019).jpg]]
 
-![[media/strauh.al3.1/2000s/civilian_by_dana_schutz_2012.jpg]]
+![[media/strauh.al3.1/2000s/Galatea by Jesse Kanda (2017).jpg]]
 
-![[media/strauh.al3.1/2000s/clipping_1_by_jonas_wood_2017.jpeg]]
+![[media/strauh.al3.1/2000s/Hill Climber by Vulfpeck (2018).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

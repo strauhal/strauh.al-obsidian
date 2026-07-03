@@ -1,10 +1,10 @@
 ---
 title: "diary"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/diary.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diary.html"
 source_relpath: "diary.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # diary
@@ -641,8 +641,8 @@ thank you for reading
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — named in this note
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note
-- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — named in this note
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
-- [[knowledge/wiki/images/1960 d by clyfford still 1960 04b9f7ee|1960 d by clyfford still 1960]] — named in this note
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "EuXLmgBXMAEWXYQ"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/EuXLmgBXMAEWXYQ.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/comics/EuXLmgBXMAEWXYQ.jpeg"
 source_relpath: "comics/EuXLmgBXMAEWXYQ.jpeg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "568x325"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/comics/EuXLmgBXMAEWXYQ.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/EuXLmgBXMAEWXYQ.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/comics/EuXLmgBXMAEWXYQ.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

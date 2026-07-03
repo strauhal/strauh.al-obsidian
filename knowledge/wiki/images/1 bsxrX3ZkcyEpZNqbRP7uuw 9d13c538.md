@@ -1,12 +1,12 @@
 ---
 title: "1 bsxrX3ZkcyEpZNqbRP7uuw"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg"
 source_relpath: "pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "1200x675"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/1*bsxrX3ZkcyEpZNqbRP7uuw.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

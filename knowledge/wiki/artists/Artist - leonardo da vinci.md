@@ -59,10 +59,10 @@ Images attributed by filename: 14
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: leonardo, vinci, studies
+- [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — shared language: leonardo, vinci, anne
+- [[knowledge/wiki/images/Study for The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) faad4249|Study for The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — shared language: leonardo, vinci, anne
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head, study
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, child, baptist
 - [[knowledge/wiki/collections/Collection - 1400s|Collection - 1400s]] — shared language: leonardo, vinci, profile
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, baptist, christ
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, study
-- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: leonardo, vinci, shoulder
-- [[knowledge/wiki/pages/art|art]] — shared language: leonardo, vinci, studies
 <!-- vault-crosslinks:end -->

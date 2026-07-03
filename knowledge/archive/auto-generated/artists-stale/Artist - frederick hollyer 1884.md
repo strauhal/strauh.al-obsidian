@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frederick hollyer|Artist - frederick hollyer]] — named in this note
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederick booth 1918|Artist - frederick booth 1918]] — shared language: frederick
-- [[knowledge/wiki/artists/Artist - frederick william macmonnies|Artist - frederick william macmonnies]] — shared language: frederick, william
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederick william macmonnies 1893|Artist - frederick william macmonnies 1893]] — shared language: frederick, william
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederick morgan 1890|Artist - frederick morgan 1890]] — shared language: frederick
+- [[knowledge/wiki/artists/Artist - frederick william macmonnies|Artist - frederick william macmonnies]] — shared language: frederick, william
 <!-- vault-crosslinks:end -->

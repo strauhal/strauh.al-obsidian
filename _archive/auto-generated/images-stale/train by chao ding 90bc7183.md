@@ -1,0 +1,33 @@
+---
+title: "train by chao ding"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/train_by_chao_ding.jpeg"
+source_relpath: "2000s/train_by_chao_ding.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: "chao ding"
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# train by chao ding
+
+![[media/strauh.al3.1/2000s/train_by_chao_ding.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: [[Artist - chao ding]]
+
+Source: [[media/strauh.al3.1/2000s/train_by_chao_ding.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/train_by_chao_ding.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
+- [[_archive/auto-generated/images-stale/train transfixed jpg 4d465ca0|train transfixed jpg]] — shared language: train
+- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: train
+<!-- vault-crosslinks:end -->

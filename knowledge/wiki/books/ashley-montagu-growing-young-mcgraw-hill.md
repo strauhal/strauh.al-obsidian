@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Ashley Montagu - Growing Young-McGraw-Hill (1983).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Growing Young-McGraw-Hill
@@ -41,10 +41,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — same category: unsorted
+- [[knowledge/wiki/books/pdf-document|PDF document]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
 - [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
-- [[knowledge/wiki/books/1622209317013|1622209317013]] — same category: unsorted
-- [[knowledge/wiki/books/1625220285333|1625220285333]] — same category: unsorted
 <!-- vault-crosslinks:end -->

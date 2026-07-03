@@ -180,10 +180,10 @@ Files: 111
 
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048 47aa976a|tumblr af6d9bb047d88675152d2ce0f31a4778 4e78826a 2048]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg 8a6a2513|tumblr 0604b0c7c3a1f2213d8aa54abd3528f8 04fa9dbd 640 jpg]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 06ddf3fdf5c8136d32735f451f4dc8dd bb08bac0 1280 jpg 8c8c0afa|tumblr 06ddf3fdf5c8136d32735f451f4dc8dd bb08bac0 1280 jpg]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 07f1ee0232c910fe7c5704ea7ead8a8c ca20d8f4 2048 jpg 604a2b63|tumblr 07f1ee0232c910fe7c5704ea7ead8a8c ca20d8f4 2048 jpg]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 084aeb22760ef39d3a5658ce441cd4cf 2d7b8dbc 1280 jpg 96d9f33e|tumblr 084aeb22760ef39d3a5658ce441cd4cf 2d7b8dbc 1280 jpg]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 0874b7fea48b69c9d5bdee619cfe3a94 bf3ebf03 1280 jpg 9bddec26|tumblr 0874b7fea48b69c9d5bdee619cfe3a94 bf3ebf03 1280 jpg]] — shared language: tumblr
+- [[knowledge/wiki/pages/computers|computers]] — shared language: tumblr, computers, fnpoxq
+- [[knowledge/wiki/images/tumblr 41b0e89d195f636f8607619b5e365314 172060ff 500 41c4e971|tumblr 41b0e89d195f636f8607619b5e365314 172060ff 500]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 455dfd274aeb9b2773c2970c637a4c99 1f3ee9f0 250 9f68e6b9|tumblr 455dfd274aeb9b2773c2970c637a4c99 1f3ee9f0 250]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 52a8d81cdc1dbd438e24d9f7fdf37507 a3e5e987 1280 aea535df|tumblr 52a8d81cdc1dbd438e24d9f7fdf37507 a3e5e987 1280]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 59a15a5a6f0660b89d02b7e019a151a9 bdfae9f4 500 276b0532|tumblr 59a15a5a6f0660b89d02b7e019a151a9 bdfae9f4 500]] — shared language: tumblr
+- [[knowledge/wiki/images/tumblr 61e7ccac12263bd3b3131e3c0c29aca2 adcacd38 640 41480c29|tumblr 61e7ccac12263bd3b3131e3c0c29aca2 adcacd38 640]] — shared language: tumblr
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: lawrence, sir
-- [[knowledge/wiki/images/dh lawrence npg 4f6a5828|dh lawrence npg]] — shared language: lawrence
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - sir lawrence alma tadema|Artist - sir lawrence alma tadema]] — shared language: lawrence, sir
-- [[knowledge/wiki/images/the triumph of titus by sir lawrence alma tadema 1885 2b1a1895|the triumph of titus by sir lawrence alma tadema 1885]] — shared language: lawrence, sir
-- [[knowledge/wiki/images/the education of the children of clovis by sir lawrence alma tadema 1861 1da19038|the education of the children of clovis by sir lawrence alma tadema 1861]] — shared language: lawrence, sir
+- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir, lawrence
+- [[knowledge/wiki/artists/Artist - sir lawrence alma tadema|Artist - sir lawrence alma tadema]] — shared language: sir, lawrence
+- [[knowledge/wiki/images/the triumph of titus by sir lawrence alma tadema 1885 2b1a1895|the triumph of titus by sir lawrence alma tadema 1885]] — shared language: sir, lawrence
+- [[knowledge/wiki/images/the education of the children of clovis by sir lawrence alma tadema 1861 1da19038|the education of the children of clovis by sir lawrence alma tadema 1861]] — shared language: sir, lawrence
+- [[knowledge/wiki/images/the family of sir thomas frankland bt by john hoppner 1792 7a7abc39|the family of sir thomas frankland bt by john hoppner 1792]] — shared language: sir, thomas
+- [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: lawrence
 <!-- vault-crosslinks:end -->

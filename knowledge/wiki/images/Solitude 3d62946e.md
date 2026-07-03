@@ -1,12 +1,12 @@
 ---
 title: "Solitude"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Solitude.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Solitude.jpg"
 source_relpath: "photography/Solitude.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "768x1024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/Solitude.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Solitude.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Solitude.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/images/Photograph The President's Solitude by George Tames 0307ff31|Photograph The President's Solitude by George Tames]] — shared language: solitude
+- [[knowledge/wiki/artists/Artist - George Tames|Artist - George Tames]] — shared language: solitude
+- [[knowledge/wiki/images/Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

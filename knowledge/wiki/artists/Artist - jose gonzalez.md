@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: jose, gonzalez
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
-- [[knowledge/wiki/images/block 13 by josan gonzalez 2017 e11346f7|block 13 by josan gonzalez 2017]] — shared language: gonzalez
-- [[knowledge/wiki/images/the block by josan gonzalez 2016 cdd25e31|the block by josan gonzalez 2016]] — shared language: gonzalez
-- [[knowledge/wiki/artists/Artist - josan gonzalez|Artist - josan gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/artists/Artist - Pepe Gonzalez|Artist - Pepe Gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/images/The Future Is Now by Josan Gonzalez (2017) 227e430a|The Future Is Now by Josan Gonzalez (2017)]] — shared language: gonzalez
 - [[knowledge/wiki/artists/Artist - jose ferraz de almeida junior|Artist - jose ferraz de almeida junior]] — shared language: jose
+- [[knowledge/wiki/images/Marlon Brando by J. Gonzalez (1980) ed277ed0|Marlon Brando by J. Gonzalez (1980)]] — shared language: gonzalez
+- [[knowledge/wiki/images/leitura by jose ferraz de almeida junior 1892 1790aed9|leitura by jose ferraz de almeida junior 1892]] — shared language: jose
+- [[knowledge/wiki/images/Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez 75c84caa|Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

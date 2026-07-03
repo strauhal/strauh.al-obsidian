@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - anne louis girodet|Artist - anne louis girodet]] — named in this note
+- [[knowledge/wiki/images/Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799) 5811c42a|Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799)]] — shared language: roussy, trioson, girodet
 - [[knowledge/wiki/images/phedre acte v scene derniere by anne louis girodet 1801 c9631b44|phedre acte v scene derniere by anne louis girodet 1801]] — shared language: girodet, anne, louis
-- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
+- [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: anne
+- [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — shared language: anne, saint
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: anne
-- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis faurer|Artist - louis faurer]] — shared language: louis
 <!-- vault-crosslinks:end -->

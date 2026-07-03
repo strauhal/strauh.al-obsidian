@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - simon stalenhag|Artist - simon stalenhag]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag|Artist - simon stalenhag]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2016|Artist - simon stalenhag 2016]] — named in this note
-- [[knowledge/wiki/images/the mascot by simon stalenhag 2016 4239ae80|the mascot by simon stalenhag 2016]] — shared language: stalenhag, simon
+- [[_archive/auto-generated/images-stale/the mascot by simon stalenhag 2016 4239ae80|the mascot by simon stalenhag 2016]] — shared language: stalenhag, simon
+- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
 - [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
-- [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — shared language: simon
-- [[knowledge/archive/auto-generated/artists-stale/Artist - simon bisley 1990|Artist - simon bisley 1990]] — shared language: simon
+- [[knowledge/wiki/artists/Artist - Simon St lenhag|Artist - Simon St lenhag]] — shared language: simon, robot
 <!-- vault-crosslinks:end -->

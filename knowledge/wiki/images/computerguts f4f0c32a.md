@@ -1,12 +1,12 @@
 ---
 title: "computerguts"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/computerguts.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/computerguts.png"
 source_relpath: "wallpapers/computerguts.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1852x1046"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/computerguts.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/computerguts.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/computerguts.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

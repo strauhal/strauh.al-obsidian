@@ -2,17 +2,18 @@
 title: Library - Media and Technology
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Media and Technology
 
-Books/files: 32
+Books/files: 33
 
 ## Titles
 
 - [[Parasitic AI]]
+- [[Regularity of colour statistics in explaining colo]]
 - [[The Internet’s AI Slop Problem Is Only Going to Get Worse]]
 - [[The Saint And The Slut: Why Men Suffer From The Madonna Complex]]
 - [[ai dating]]

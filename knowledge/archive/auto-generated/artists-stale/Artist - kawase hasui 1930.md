@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1925|Artist - kawase hasui 1925]] — shared language: hasui, kawase, kamakura
 - [[knowledge/wiki/artists/Artist - kawase hasui|Artist - kawase hasui]] — shared language: hasui, kawase, rain
-- [[knowledge/wiki/images/rain at gokokuji temple by kawase hasui 1932 94e1da27|rain at gokokuji temple by kawase hasui 1932]] — shared language: hasui, kawase, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1932|Artist - kawase hasui 1932]] — shared language: hasui, kawase, rain
+- [[knowledge/wiki/images/rain at gokokuji temple by kawase hasui 1932 94e1da27|rain at gokokuji temple by kawase hasui 1932]] — shared language: hasui, kawase, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1921|Artist - kawase hasui 1921]] — shared language: hasui, kawase
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kawase hasui 1927|Artist - kawase hasui 1927]] — shared language: hasui, kawase, temple
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - le corbusier 1932|Artist - le corbusier 1932]] — named in this note
 - [[knowledge/wiki/images/femme et accordeon by le corbusier 1932 a367938d|femme et accordeon by le corbusier 1932]] — shared language: corbusier
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: corbusier
-- [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
-- [[knowledge/wiki/images/black and white arcade perspective drawing with figure 52661389|black and white arcade perspective drawing with figure]] — shared language: perspective
+- [[knowledge/wiki/images/Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012) 36f535b9|Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012)]] — shared language: voisin, plan, paris
+- [[_archive/auto-generated/images-stale/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
 <!-- vault-crosslinks:end -->

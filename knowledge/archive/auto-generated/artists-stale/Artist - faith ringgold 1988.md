@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1972|Artist - faith ringgold 1972]] — shared language: faith, ringgold, quilt
-- [[knowledge/wiki/artists/Artist - faith ringgold|Artist - faith ringgold]] — shared language: faith, ringgold, quilt
-- [[knowledge/wiki/images/the wake by faith ringgold 1972 de374d95|the wake by faith ringgold 1972]] — shared language: faith, ringgold
-- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: faith, ringgold
-- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1973|Artist - faith ringgold 1973]] — shared language: faith, ringgold
-- [[knowledge/wiki/images/the harriet tubman story quilt by faith ringgold 1972 d76903f7|the harriet tubman story quilt by faith ringgold 1972]] — shared language: faith, ringgold, quilt
+- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1972|Artist - faith ringgold 1972]] — shared language: ringgold, faith, quilt
+- [[knowledge/wiki/artists/Artist - faith ringgold|Artist - faith ringgold]] — shared language: ringgold, faith, quilt
+- [[knowledge/wiki/images/the wake by faith ringgold 1972 de374d95|the wake by faith ringgold 1972]] — shared language: ringgold, faith
+- [[knowledge/archive/auto-generated/artists-stale/Artist - faith ringgold 1973|Artist - faith ringgold 1973]] — shared language: ringgold, faith
+- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: ringgold, faith
+- [[knowledge/wiki/images/the harriet tubman story quilt by faith ringgold 1972 d76903f7|the harriet tubman story quilt by faith ringgold 1972]] — shared language: ringgold, faith, quilt
 <!-- vault-crosslinks:end -->

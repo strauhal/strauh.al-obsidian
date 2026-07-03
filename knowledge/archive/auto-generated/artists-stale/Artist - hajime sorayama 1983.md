@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hajime sorayama|Artist - hajime sorayama]] — named in this note
-- [[knowledge/wiki/images/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
-- [[knowledge/wiki/images/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
-- [[knowledge/wiki/images/black and white photograph of a fencer wearing a mask viewed from the back 3173554b|black and white photograph of a fencer wearing a mask viewed from the back]] — shared language: mask
-- [[knowledge/wiki/images/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
-- [[knowledge/wiki/images/person wearing a black monkey mask in a gallery 986a02de|person wearing a black monkey mask in a gallery]] — shared language: mask
+- [[knowledge/wiki/images/Pygmalion by Hajime Sorayama (2018) f275ff19|Pygmalion by Hajime Sorayama (2018)]] — shared language: hajime, sorayama
+- [[_archive/auto-generated/images-stale/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
+- [[_archive/auto-generated/images-stale/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
+- [[_archive/auto-generated/images-stale/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
+- [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: mask
 <!-- vault-crosslinks:end -->

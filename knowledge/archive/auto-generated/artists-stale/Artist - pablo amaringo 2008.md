@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - pablo amaringo|Artist - pablo amaringo]] — named in this note
-- [[knowledge/wiki/images/the ayahuasca visions of pablo amaringo v0 5znvcd7kl4h91 jpg 10ce3fca|the ayahuasca visions of pablo amaringo v0 5znvcd7kl4h91 jpg]] — shared language: amaringo, pablo
-- [[knowledge/wiki/images/pablo amaringo pinturas y visiones de la selva amazonica 02 jpg dac0d228|pablo amaringo pinturas y visiones de la selva amazonica 02 jpg]] — shared language: amaringo, pablo
-- [[knowledge/wiki/images/pablo amaringo pinturas 12 a333316e|pablo amaringo pinturas 12]] — shared language: amaringo, pablo
-- [[knowledge/wiki/images/acagalleries pablo amaringo unai shipash 2006 jpg 51114c03|acagalleries pablo amaringo unai shipash 2006 jpg]] — shared language: amaringo, pablo
-- [[knowledge/wiki/images/acagalleries pablo amaringo allpa manchari 2005 webp f0ddd113|acagalleries pablo amaringo allpa manchari 2005 webp]] — shared language: amaringo, pablo
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo amaringo|Artist - Pablo Amaringo]] — named in this note
+- [[_archive/auto-generated/images-stale/acagalleries pablo amaringo unai shipash 2006 jpg 51114c03|acagalleries pablo amaringo unai shipash 2006 jpg]] — shared language: amaringo, pablo
+- [[_archive/auto-generated/images-stale/acagalleries pablo amaringo allpa manchari 2005 webp f0ddd113|acagalleries pablo amaringo allpa manchari 2005 webp]] — shared language: amaringo, pablo
+- [[knowledge/wiki/images/El Templo de la Sabidur a by Pablo Amaringo (2008) 37b02fc2|El Templo de la Sabidur a by Pablo Amaringo (2008)]] — shared language: amaringo, pablo, templo
+- [[_archive/auto-generated/images-stale/the ayahuasca visions of pablo amaringo v0 5znvcd7kl4h91 jpg 10ce3fca|the ayahuasca visions of pablo amaringo v0 5znvcd7kl4h91 jpg]] — shared language: amaringo, pablo
+- [[knowledge/wiki/images/Concentracion Palistica by Pablo Amaringo (2008) cc41461a|Concentracion Palistica by Pablo Amaringo (2008)]] — shared language: amaringo, pablo
 <!-- vault-crosslinks:end -->

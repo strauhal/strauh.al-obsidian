@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alexander rodchenko 1924|Artist - alexander rodchenko 1924]] — named in this note
 - [[knowledge/wiki/images/portrait of vladimir mayakovsky by alexander rodchenko 1924 eb10057a|portrait of vladimir mayakovsky by alexander rodchenko 1924]] — shared language: rodchenko, alexander
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
+- [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: alexander
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: alexander
-- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
 <!-- vault-crosslinks:end -->

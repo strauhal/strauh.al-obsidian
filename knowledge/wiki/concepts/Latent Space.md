@@ -46,23 +46,11 @@ trained on his life, and warping audio "interpolates between each audio sample."
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (9).** [[abstract generative line art with yellow green gradient and orange highlight 7be64794|abstract generative line art with yellow green gradient and orange highlight]] · [[abstract generative line drawing of intersecting black lines on beige background aa0725f4|abstract generative line drawing of intersecting black lines on beige background]] · [[black and white generative drawing of three vertical swirling forms c639147f|black and white generative drawing of three vertical swirling forms]] · [[black and white generative line drawing of abstract kinetic forms 0f796110|black and white generative line drawing of abstract kinetic forms]] · [[diagram illustrating the ulmfit 3 step neural network approach with accompanying text examples 75cce688|diagram illustrating the ulmfit 3 step neural network approach with accompanying text examples]] · [[generative art butterfly composed of multicolored vertical bars 24aa390c|generative art butterfly composed of multicolored vertical bars]] · [[generative drawing of swirling overlapping forms composed of short black dashes 4da6f687|generative drawing of swirling overlapping forms composed of short black dashes]] · [[generative line art of layered arches and columns a8117a9b|generative line art of layered arches and columns]] · [[stylegan geometry 3858bdb5|stylegan geometry]]
+**Images (16).** [[Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty 4f85736a|Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] · [[Diagram Architecture Diagram Of Convolution And Deconvolution Neural Networks 2c377493|Diagram Architecture Diagram Of Convolution And Deconvolution Neural Networks]] · [[Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen bb4a4e53|Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen]] · [[Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen copy 4f76206c|Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen copy]] · [[Diagram Comparison of Various Neural Network Architectures c93cda2a|Diagram Comparison of Various Neural Network Architectures]] · [[Diagram Cortical Labs Glowing Neural Network Diagram by Cortical Labs 4e62c8d9|Diagram Cortical Labs Glowing Neural Network Diagram by Cortical Labs]] · [[Diagram Diagrams Illustrating Complexity, Order, Disorder, and Generative Art Systems by Philip Galanter 50fd1905|Diagram Diagrams Illustrating Complexity, Order, Disorder, and Generative Art Systems by Philip Galanter]] · [[Diagram Fractal Boundaries of Neural Network Hyperparameters by Sohl Dickstein c20a13ff|Diagram Fractal Boundaries of Neural Network Hyperparameters by Sohl Dickstein]] · [[Diagram Timeline of Generative Adversarial Networks (GANs) Evolution 04e4e1bc|Diagram Timeline of Generative Adversarial Networks (GANs) Evolution]] · [[Diagram UMAP Embedding of LAION Aesthetics Captions 8cfa904e|Diagram UMAP Embedding of LAION Aesthetics Captions]] · [[Illustration Abstract Generative Art With Colorful Pixels And Geometric Patterns 31deacd9|Illustration Abstract Generative Art With Colorful Pixels And Geometric Patterns]] · [[Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines bc3e2f33|Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines]] · [[Illustration Abstract Generative Line Art of Layered Arches and Columns 8d929ca5|Illustration Abstract Generative Line Art of Layered Arches and Columns]] · [[Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight 802c47b1|Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight]] · [[Illustration Surreal DeepDream Image of Dog like Creatures and Fish Patterns by Google DeepDream 92aa0708|Illustration Surreal DeepDream Image of Dog like Creatures and Fish Patterns by Google DeepDream]] · [[Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]]
 
 **Books (1).** [[aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
-- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
-- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -95,3 +83,16 @@ trained on his life, and warping audio "interpolates between each audio sample."
 >
 > "The death of a social machine has never been heralded by a disharmony or a dysfunction; on the contrary, social machines make a habit of feeding on the contradictions they give rise to, on the crises they provoke, on the anxieties they engender, and on the infernal operations they regenerate. Capitalism has learned this, and has ceased doubting itself, while even socialists have abandoned belief in the possibility of capitalism's natural death by attrition. No one has ever died from contradictions. And the more it breaks down, the more it schizophrenizes, the better it works, the American way." - Gilles Deleuze, Anti-Oedipus: Capitalism and Schizophrenia
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
+- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+<!-- vault-crosslinks:end -->

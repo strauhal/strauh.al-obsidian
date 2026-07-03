@@ -41,7 +41,7 @@ Images attributed by filename: 7
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: jenkins, paul
 - [[knowledge/wiki/artists/Artist - ken jenkins|Artist - ken jenkins]] — shared language: jenkins
 - [[knowledge/wiki/images/inside macpaint by ken jenkins 1985 34dd5bb8|inside macpaint by ken jenkins 1985]] — shared language: jenkins
-- [[knowledge/wiki/artists/Artist - debra reid jenkins|Artist - debra reid jenkins]] — shared language: jenkins
 - [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: phenomena
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
 <!-- vault-crosslinks:end -->

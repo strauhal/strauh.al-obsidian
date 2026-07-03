@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1980|Artist - jean giraud 1980]] — shared language: giraud, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1976|Artist - jean giraud 1976]] — shared language: giraud, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1992|Artist - jean giraud 1992]] — shared language: giraud, jean
-- [[knowledge/wiki/artists/Artist - jean giraud|Artist - jean giraud]] — shared language: giraud, jean, incal
+- [[knowledge/wiki/images/the market by jean giraud 1980 0a2c8a6d|the market by jean giraud 1980]] — shared language: giraud, jean
 <!-- vault-crosslinks:end -->

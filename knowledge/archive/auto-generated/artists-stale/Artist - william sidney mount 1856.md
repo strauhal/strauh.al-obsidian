@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - william sidney mount|Artist - william sidney mount]] — named in this note
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/anchors/sidney-cohen|Sidney Cohen]] — shared language: sidney
-- [[knowledge/wiki/images/Sermon on the mount window f0b31e99|Sermon on the mount window]] — shared language: mount
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: sidney
+- [[_archive/auto-generated/images-stale/Sermon on the mount window f0b31e99|Sermon on the mount window]] — shared language: mount
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 <!-- vault-crosslinks:end -->

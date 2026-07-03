@@ -1,12 +1,12 @@
 ---
 title: "Paglen they watch the moon 2010 CourtesyofArtist"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg"
 source_relpath: "photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg"
 collection: "photography"
 inferred_year: "2010"
 artist: ""
-dimensions: "960x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Paglen_they_watch_the_moon_2010_CourtesyofArtist.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: moon
+- [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
+- [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
+- [[knowledge/wiki/pages/baby videos|baby videos]] — shared language: watch
+- [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: moon
 <!-- vault-crosslinks:end -->

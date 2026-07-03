@@ -1,12 +1,12 @@
 ---
 title: "untitled vii"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/untitled vii.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/untitled vii.jpg"
 source_relpath: "photography/untitled vii.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "3200x2173"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/untitled vii.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/untitled vii.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/untitled vii.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/images/gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861 94edab78|gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861]] — shared language: vii
+- [[knowledge/wiki/images/untitled v by andreas gursky 1997 2a0e25dd|untitled v by andreas gursky 1997]] — nearby note in the same source series
+- [[knowledge/wiki/images/untitled xii by willem de kooning 1982 1f8d0547|untitled xii by willem de kooning 1982]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

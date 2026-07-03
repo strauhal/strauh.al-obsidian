@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - david tibet|Artist - david tibet]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - david tibet|Artist - david tibet]] — named in this note
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david mazzucchelli 1987|Artist - david mazzucchelli 1987]] — named in this note
 - [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/archive/auto-generated/artists-stale/Artist - david hockney 1978|Artist - david hockney 1978]] — shared language: david
+- [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
 <!-- vault-crosslinks:end -->

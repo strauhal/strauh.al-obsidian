@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - elyvees|Artist - elyvees]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - elyvees|Artist - Elyvees]] — named in this note
+- [[knowledge/wiki/images/Illustration Anime style Character Holding Sword in Front of Castle by Elyvees 640363ac|Illustration Anime style Character Holding Sword in Front of Castle by Elyvees]] — shared language: elyvees
 - [[_archive/auto-generated/books-stale/knight-stiny-making-grammars|Knight & Stiny-Making Grammars]] — shared language: knight
 - [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — shared language: knight
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nick knight 1998|Artist - nick knight 1998]] — shared language: knight
 - [[knowledge/wiki/books/terry-knight-george-stiny-making-grammars-from-computing-with-shapes-to-computing-with-things|Making Grammars: From Computing with Shapes to Computing with Things]] — shared language: knight
-- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: star
 <!-- vault-crosslinks:end -->

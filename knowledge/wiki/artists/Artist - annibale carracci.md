@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, head, study
-- [[knowledge/wiki/artists/Artist - annibale siconolfi|Artist - annibale siconolfi]] — shared language: annibale
 - [[knowledge/wiki/artists/Artist - agostino carracci|Artist - agostino carracci]] — shared language: carracci
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
-- [[knowledge/wiki/images/the hall of arcana by annibale siconolfi 2020 ce57e8a0|the hall of arcana by annibale siconolfi 2020]] — shared language: annibale
+- [[knowledge/wiki/images/St Francis in Meditation by Lodovico Carracci (c. 1585) 21c8a9d3|St Francis in Meditation by Lodovico Carracci (c. 1585)]] — shared language: carracci
 - [[knowledge/wiki/images/the temptation of saint anthony by agostino carracci 1581 e753995e|the temptation of saint anthony by agostino carracci 1581]] — shared language: carracci
+- [[knowledge/wiki/images/The Hall of Arcana by Annibale Siconolfi (2020) f834df9a|The Hall of Arcana by Annibale Siconolfi (2020)]] — shared language: annibale
 <!-- vault-crosslinks:end -->

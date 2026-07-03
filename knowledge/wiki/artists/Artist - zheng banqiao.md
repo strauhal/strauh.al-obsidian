@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/bamboo rock and bird by hua yan 1737 66709375|bamboo rock and bird by hua yan 1737]] — shared language: rock, bamboo
-- [[knowledge/wiki/images/two women seated under bamboo and rock ink and color on paper by gai qi 23f73e3e|two women seated under bamboo and rock ink and color on paper by gai qi]] — shared language: rock, bamboo
-- [[knowledge/wiki/images/ink painting of bamboo and rocks with calligraphy and seals 771ab005|ink painting of bamboo and rocks with calligraphy and seals]] — shared language: bamboo
-- [[knowledge/wiki/artists/Artist - gai qi|Artist - gai qi]] — shared language: rock, bamboo
-- [[knowledge/wiki/images/ink bamboo for the qingbige by ke jiusi 1338 8947e143|ink bamboo for the qingbige by ke jiusi 1338]] — shared language: bamboo
-- [[knowledge/wiki/images/reproduction of ancient rock art with layered figures and spirals 59af1117|reproduction of ancient rock art with layered figures and spirals]] — shared language: rock
+- [[knowledge/wiki/images/Illustration Two Women Seated Under Bamboo and Rock d68096f0|Illustration Two Women Seated Under Bamboo and Rock]] — shared language: bamboo, rock
+- [[knowledge/wiki/images/bamboo rock and bird by hua yan 1737 66709375|bamboo rock and bird by hua yan 1737]] — shared language: bamboo, rock
+- [[knowledge/wiki/images/Personal Rock by Gramm (1999) 49324258|Personal Rock by Gramm (1999)]] — shared language: rock
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: rock
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Glasses and Bamboo Background c6dcc1ac|Illustration Stylized Portrait of Person with Glasses and Bamboo Background]] — shared language: bamboo
+- [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: rock
 <!-- vault-crosslinks:end -->

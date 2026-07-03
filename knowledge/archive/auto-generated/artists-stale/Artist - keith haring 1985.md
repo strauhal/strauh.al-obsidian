@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/dead birds a war ritual poster by keith haring 1983 8d051df0|dead birds a war ritual poster by keith haring 1983]] — shared language: haring, keith
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: haring
+- [[knowledge/wiki/images/Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
 <!-- vault-crosslinks:end -->

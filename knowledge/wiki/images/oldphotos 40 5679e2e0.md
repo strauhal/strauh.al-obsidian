@@ -1,12 +1,12 @@
 ---
 title: "oldphotos 40"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/oldphotos 40.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/oldphotos 40.png"
 source_relpath: "old_photos/oldphotos 40.png"
 collection: "old_photos"
 inferred_year: ""
 artist: ""
-dimensions: "1204x1770"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/old_photos"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/old_photos/oldphotos 40.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/oldphotos 40.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/oldphotos 40.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

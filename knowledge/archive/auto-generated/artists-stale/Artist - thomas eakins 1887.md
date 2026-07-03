@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - thomas eakins|Artist - thomas eakins]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas eakins 1899|Artist - thomas eakins 1899]] — named in this note
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — named in this note
 - [[knowledge/wiki/images/between rounds by thomas eakins 1899 d3ae4577|between rounds by thomas eakins 1899]] — shared language: eakins, thomas
-- [[knowledge/wiki/images/thomas eakins by david levine 1972 81953310|thomas eakins by david levine 1972]] — shared language: eakins, thomas
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
+- [[knowledge/wiki/images/The Guitar Player by Thomas Eakins (1874) 8c957314|The Guitar Player by Thomas Eakins (1874)]] — shared language: eakins, thomas
+- [[knowledge/wiki/images/The Thinker Portrait of Louis N. Kenton by Thomas Eakins (1900) 92142234|The Thinker Portrait of Louis N. Kenton by Thomas Eakins (1900)]] — shared language: eakins, thomas
 <!-- vault-crosslinks:end -->

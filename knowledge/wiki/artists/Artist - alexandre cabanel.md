@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/alexandre cabanel the fallen angel 1847 2 001ee16b|alexandre cabanel the fallen angel 1847 2]] — shared language: cabanel, alexandre, fallen
 - [[knowledge/wiki/images/alexandre cabanel cleopatra 1887 a7c68948|alexandre cabanel cleopatra 1887]] — shared language: cabanel, alexandre
 - [[knowledge/wiki/images/alexandre cabanel lange dchu the fallen angel 1847 3bf05ae8|alexandre cabanel lange dchu the fallen angel 1847]] — shared language: cabanel, alexandre, fallen
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: cabanel, angel
+- [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — shared language: alexandre
 <!-- vault-crosslinks:end -->

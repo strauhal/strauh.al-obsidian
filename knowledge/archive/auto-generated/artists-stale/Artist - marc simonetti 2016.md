@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - marc simonetti|Artist - marc simonetti]] — named in this note
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: marc
+- [[knowledge/wiki/images/The Golden City by Marc Simonetti (2016) 2e588854|The Golden City by Marc Simonetti (2016)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marc simonetti|Artist - marc simonetti]] — named in this note
+- [[_archive/auto-generated/images-stale/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: marc
 - [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz marc 1913|Artist - franz marc 1913]] — shared language: marc
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean marc nattier 1740|Artist - jean marc nattier 1740]] — shared language: marc
-- [[knowledge/wiki/artists/Artist - jean marc nattier|Artist - jean marc nattier]] — shared language: marc
 <!-- vault-crosslinks:end -->

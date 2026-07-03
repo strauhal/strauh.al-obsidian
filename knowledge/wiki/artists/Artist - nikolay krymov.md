@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/ink drawing of a mountain landscape with trees and calligraphy 2cdce20b|ink drawing of a mountain landscape with trees and calligraphy]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900) e4bff0a9|A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900)]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/Illustration Geometric Mountain Landscape with a House and Conical Trees 38382882|Illustration Geometric Mountain Landscape with a House and Conical Trees]] — shared language: mountain, landscape
 - [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/rocky mountain landscape painting with steep cliffs c5234a34|rocky mountain landscape painting with steep cliffs]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: mountain, landscape
-- [[knowledge/wiki/images/village church in snowy mountain landscape 9462c6e3|village church in snowy mountain landscape]] — shared language: mountain, landscape
+- [[knowledge/wiki/images/Illustration Mountain Landscape With Illuminated Clouds And Silhouetted Trees 85140c15|Illustration Mountain Landscape With Illuminated Clouds And Silhouetted Trees]] — shared language: mountain, landscape
 <!-- vault-crosslinks:end -->

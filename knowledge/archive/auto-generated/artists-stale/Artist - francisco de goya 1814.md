@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - francisco de goya|Artist - francisco de goya]] — named in this note
+- [[knowledge/wiki/images/The Colossus by Francisco de Goya (1808 1812) 91ea0811|The Colossus by Francisco de Goya (1808 1812)]] — shared language: goya, francisco
 - [[knowledge/wiki/images/witches flight by francisco de goya c 17971798 81ee50fc|witches flight by francisco de goya c 17971798]] — shared language: goya, francisco
 - [[knowledge/wiki/images/francisco de goya the temptation of st anthony c 1798 5f3c7b47|francisco de goya the temptation of st anthony c 1798]] — shared language: goya, francisco
 - [[knowledge/wiki/artists/Artist - francisco de goya y lucientes|Artist - francisco de goya y lucientes]] — shared language: goya, francisco
-- [[knowledge/wiki/images/the arrest of christ by francisco de goya y lucientes c 17981800 25b2681c|the arrest of christ by francisco de goya y lucientes c 17981800]] — shared language: goya, francisco
-- [[knowledge/wiki/images/portrait of the marchioness of villafranca by francisco de goya y lucientes c 1804 0b745f1d|portrait of the marchioness of villafranca by francisco de goya y lucientes c 1804]] — shared language: goya, francisco
+- [[knowledge/wiki/images/Witches' Flight by Francisco Goya (c. 1798) c3eba3cf|Witches' Flight by Francisco Goya (c. 1798)]] — shared language: goya, francisco
 <!-- vault-crosslinks:end -->

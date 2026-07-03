@@ -1,0 +1,33 @@
+---
+title: "halftone grayscale image of a landscape with dense foliage and a vertical structure"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/halftone_grayscale_image_of_a_landscape_with_dense_foliage_and_a_vertical_structure.png"
+source_relpath: "unsorted/halftone_grayscale_image_of_a_landscape_with_dense_foliage_and_a_vertical_structure.png"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: "1182x384"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# halftone grayscale image of a landscape with dense foliage and a vertical structure
+
+![[media/strauh.al3.1/unsorted/halftone_grayscale_image_of_a_landscape_with_dense_foliage_and_a_vertical_structure.png]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/halftone_grayscale_image_of_a_landscape_with_dense_foliage_and_a_vertical_structure.png|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unsorted/halftone_grayscale_image_of_a_landscape_with_dense_foliage_and_a_vertical_structure.png`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[_archive/auto-generated/images-stale/black and white halftone portrait of a man with vertical stripes 9d56ea54|black and white halftone portrait of a man with vertical stripes]] — shared language: halftone, vertical
+- [[knowledge/wiki/images/Illustration Grayscale Still Life with Stylized Vases and Foliage fa297f3c|Illustration Grayscale Still Life with Stylized Vases and Foliage]] — shared language: grayscale, foliage
+- [[knowledge/wiki/images/Illustration Impasto Painting of Dense Green and Yellow Foliage 95839914|Illustration Impasto Painting of Dense Green and Yellow Foliage]] — shared language: foliage, dense
+- [[_archive/auto-generated/images-stale/impasto painting of dense green and yellow foliage 53282517|impasto painting of dense green and yellow foliage]] — shared language: foliage, dense
+- [[_archive/auto-generated/images-stale/grayscale still life of four vases with stylized foliage 99de9b7d|grayscale still life of four vases with stylized foliage]] — shared language: grayscale, foliage
+<!-- vault-crosslinks:end -->

@@ -34,8 +34,8 @@ Images attributed by filename: 5
 
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
 - [[knowledge/wiki/images/tomie 1d78e552|tomie]] — named in this note
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, tomie
-- [[knowledge/wiki/images/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: junji, ito, tomie
+- [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, tomie
+- [[_archive/auto-generated/images-stale/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: junji, ito, tomie
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1987|Artist - junji ito 1987]] — shared language: junji, ito, tomie
-- [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — shared language: junji, ito, tomie
+- [[knowledge/wiki/artists/Artist - junji ito|Artist - junji ito]] — shared language: junji, ito, tomie
 <!-- vault-crosslinks:end -->

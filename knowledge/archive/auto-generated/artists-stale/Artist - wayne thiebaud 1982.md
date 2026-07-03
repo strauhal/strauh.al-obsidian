@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1976|Artist - wayne thiebaud 1976]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1980|Artist - wayne thiebaud 1980]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1994|Artist - wayne thiebaud 1994]] — shared language: thiebaud, wayne
+- [[knowledge/wiki/images/man in chair by wayne thiebaud 1995 8221d4e3|man in chair by wayne thiebaud 1995]] — shared language: thiebaud, wayne
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wayne thiebaud 1956|Artist - wayne thiebaud 1956]] — shared language: thiebaud, wayne
-- [[knowledge/wiki/artists/Artist - wayne thiebaud|Artist - wayne thiebaud]] — shared language: thiebaud, wayne, sacramento
 <!-- vault-crosslinks:end -->

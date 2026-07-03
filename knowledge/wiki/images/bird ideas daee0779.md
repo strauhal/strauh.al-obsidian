@@ -1,12 +1,12 @@
 ---
 title: "bird ideas"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/bird_ideas.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/bird_ideas.jpg"
 source_relpath: "diary/bird_ideas.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "886x720"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/bird_ideas.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/bird_ideas.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/bird_ideas.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

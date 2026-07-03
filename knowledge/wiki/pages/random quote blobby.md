@@ -1,10 +1,10 @@
 ---
 title: "random quote blobby"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/random_quote/blobby.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/random_quote/blobby.html"
 source_relpath: "random_quote/blobby.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # random quote blobby
@@ -26,12 +26,12 @@ strauh.al/random_quote/blobby
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: quote, random, none
+- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: random, quote, none
+- [[knowledge/wiki/images/Illustration Painting of a Suicide with an 18th Century Quote Below a78880df|Illustration Painting of a Suicide with an 18th Century Quote Below]] — shared language: quote
+- [[knowledge/wiki/images/Document White Text Quote About Film Frames On Black Background 471b2e16|Document White Text Quote About Film Frames On Black Background]] — shared language: quote
+- [[knowledge/wiki/images/Illustration Brian Eno Quote on Art as Triggers for Experiences fc62d9e9|Illustration Brian Eno Quote on Art as Triggers for Experiences]] — shared language: quote
+- [[knowledge/wiki/images/Screenshot Black And White Photo Of Young Thomas Pynchon With Quote 12afea67|Screenshot Black And White Photo Of Young Thomas Pynchon With Quote]] — shared language: quote
+- [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: quote
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: quote, random, compiled
-- [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: quote, random, compiled
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
-- [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: random
-- [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — shared language: random
 <!-- vault-crosslinks:end -->

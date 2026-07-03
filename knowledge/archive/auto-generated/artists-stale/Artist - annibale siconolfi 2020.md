@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - annibale siconolfi|Artist - annibale siconolfi]] — named in this note
-- [[knowledge/wiki/artists/Artist - annibale carracci|Artist - annibale carracci]] — shared language: annibale
+- [[knowledge/wiki/images/The Hall of Arcana by Annibale Siconolfi (2020) f834df9a|The Hall of Arcana by Annibale Siconolfi (2020)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - annibale siconolfi|Artist - annibale siconolfi]] — named in this note
 - [[knowledge/wiki/images/study of two figures by annibale carracci c 1590 2f6474cb|study of two figures by annibale carracci c 1590]] — shared language: annibale
+- [[knowledge/wiki/artists/Artist - annibale carracci|Artist - annibale carracci]] — shared language: annibale
 - [[knowledge/wiki/images/studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595 1741e0e1|studies of a young man s head an old man s head and hands by annibale carracci c 1590 1595]] — shared language: annibale
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john g hall 1980|Artist - john g hall 1980]] — shared language: hall
 <!-- vault-crosslinks:end -->

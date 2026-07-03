@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1910s"
 source_kind: "date_bucket"
-count: "125"
+count: "167"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,57 +9,57 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1910s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 125
+Files: 167
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/La Prière Sacerdotale by Eugène Burnand (1895–1918).jpg]]
 
 ![[media/strauh.al3.1/1900s/1915_560_a_holiday_jpg.jpg]]
 
 ![[media/strauh.al3.1/1900s/74432_egonschiele_selbstbildnismitpfauenweste_stehend_1911_jpg.jpg]]
 
-![[media/strauh.al3.1/1900s/a_forest_stream_summer_day_by_peder_mrk_mnsted_1910.jpeg]]
+![[media/strauh.al3.1/1900s/A Man Fishing by John Singer Sargent (1912).jpeg]]
 
-![[media/strauh.al3.1/1900s/a_forest_stream_with_a_fisherman_by_peder_mrk_mnsted_1910.jpg]]
+![[media/strauh.al3.1/1900s/A Woman with a Rake in a Mountain Landscape by Hans Andreas Dahl (1919).jpg]]
 
-![[media/strauh.al3.1/1900s/abstract_speed_sound_by_giacomo_balla_1913_1914.jpeg]]
+![[media/strauh.al3.1/1900s/Chronocyclegraph of a Solderer by Frank and Lillian Gilbreth (1914).jpg]]
 
-![[media/strauh.al3.1/1900s/adam_and_eve_by_emil_nolde_1913.jpeg]]
+![[media/strauh.al3.1/1900s/Clyties of the Mist by Herbert James Draper (1912).jpg]]
 
-![[media/strauh.al3.1/1900s/adolf_hitler_karlskirche_vienna_in_winter_c_1910.jpg]]
+![[media/strauh.al3.1/1900s/Coastal Village by Clarence Hobart (c. 1910).jpeg]]
 
-![[media/strauh.al3.1/1900s/adoration_of_the_cross_by_francis_picabia_1917.jpeg]]
+![[media/strauh.al3.1/1900s/Death and Life by Gustav Klimt (1910-1911).jpg]]
 
-![[media/strauh.al3.1/1900s/alexej_von_jawlensky_abstract_head_1919.jpg]]
+![[media/strauh.al3.1/1900s/Death and the Maiden by Egon Schiele (1915).avif]]
 
-![[media/strauh.al3.1/1900s/allerheiligen_i_all_saints_i_by_wassily_kandinsky_1911.jpeg]]
+![[media/strauh.al3.1/1900s/Evocation of Roussel by Odilon Redon (c. 1912).jpg]]
 
-![[media/strauh.al3.1/1900s/april_by_william_wendt_1910.jpeg]]
+![[media/strauh.al3.1/1900s/Head of a Man with a Turban by Henri Matisse (1919).jpeg]]
 
-![[media/strauh.al3.1/1900s/at_the_window_by_konstantin_korovin_1913.jpg]]
+![[media/strauh.al3.1/1900s/Im Maschinenbau by Friedrich G. Martin (c. 1910).jpg]]
 
-![[media/strauh.al3.1/1900s/black_and_white_photograph_of_military_personnel_fleeing_a_large_burning_balloon_1918.jpg]]
+![[media/strauh.al3.1/1900s/Kullervo's Mother by Akseli Gallen-Kallela (1906-1917).jpg]]
 
-![[media/strauh.al3.1/1900s/chimneys_by_frantisek_kupka_1910_1911.jpg]]
+![[media/strauh.al3.1/1900s/Man with a Guitar by Georges Braque (1911-1912).jpeg]]
 
-![[media/strauh.al3.1/1900s/christus_und_die_kinder_christ_and_the_children_by_emil_nolde_1910.jpeg]]
+![[media/strauh.al3.1/1900s/Portrait of Arnold Schönberg by Egon Schiele (1917).jpg]]
 
-![[media/strauh.al3.1/1900s/composition_by_wassily_kandinsky_1910.jpeg]]
+![[media/strauh.al3.1/1900s/Promenade au bord de l'eau by Theodoor Verhas (c. 1900-1910).jpeg]]
 
-![[media/strauh.al3.1/1900s/composition_no_10_pier_and_ocean_by_piet_mondrian_1915.jpg]]
+![[media/strauh.al3.1/1900s/Reclining Nude with Red Hair by Egon Schiele (1910).jpeg]]
 
-![[media/strauh.al3.1/1900s/dalahast_och_tupp_by_sigrid_hjerten_1916.jpeg]]
+![[media/strauh.al3.1/1900s/Seated Nude, Seen from Behind by Egon Schiele (1910).webp]]
 
-![[media/strauh.al3.1/1900s/danish_woman_danin_by_emil_nolde_1913.jpeg]]
+![[media/strauh.al3.1/1900s/Self-Portrait by Eugène Burnand (1915).jpeg]]
 
-![[media/strauh.al3.1/1900s/death_and_life_by_gustav_klimt_1915.jpeg]]
+![[media/strauh.al3.1/1900s/Self-Portrait in Front of the House Wall by Edvard Munch (1918).jpg]]
 
-![[media/strauh.al3.1/1900s/die_u_bahn_by_lyonel_feininger_1912.jpg]]
+![[media/strauh.al3.1/1900s/Self-Portrait with Arm Twisted by Egon Schiele (1910).webp]]
 
-![[media/strauh.al3.1/1900s/edna_by_robert_henri_ca_1910.jpeg]]
+![[media/strauh.al3.1/1900s/Sunday, Women Drying Their Hair by John Sloan (1912).jpeg]]
 
-![[media/strauh.al3.1/1900s/egon_schiele_gustav_klimt_im_blauen_malerkittel_1913_jpeg.jpeg]]
-
-![[media/strauh.al3.1/1900s/egon_schiele_sitzende_frau_mit_hochgezogenem_knie_1917_jpeg.jpeg]]
+![[media/strauh.al3.1/1900s/The Boxer by Edvard Munch (1909-1918).jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

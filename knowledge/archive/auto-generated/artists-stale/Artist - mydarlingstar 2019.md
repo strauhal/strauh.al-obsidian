@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — named in this note
-- [[knowledge/wiki/artists/Artist - mydarlingstar|Artist - mydarlingstar]] — shared language: tears, sunset
-- [[knowledge/wiki/images/photograph of two figures in a canoe on sparkling water at sunset 51b01b09|photograph of two figures in a canoe on sparkling water at sunset]] — shared language: sunset
-- [[knowledge/wiki/images/framed castle landscape at sunset f1e9d4aa|framed castle landscape at sunset]] — shared language: sunset
-- [[knowledge/wiki/images/oil painting of a sunset landscape rendered in square brushstrokes 005e7f33|oil painting of a sunset landscape rendered in square brushstrokes]] — shared language: sunset
-- [[knowledge/wiki/images/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: sunset
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mydarlingstar|Artist - mydarlingstar]] — shared language: tears, sunset
+- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
+- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: sunset
+- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: sunset
+- [[_archive/auto-generated/images-stale/framed castle landscape at sunset f1e9d4aa|framed castle landscape at sunset]] — shared language: sunset
+- [[knowledge/wiki/images/Illustration Mountainous Landscape with Figures and Oxen at Sunset 9133d817|Illustration Mountainous Landscape with Figures and Oxen at Sunset]] — shared language: sunset
 <!-- vault-crosslinks:end -->

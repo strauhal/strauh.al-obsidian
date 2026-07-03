@@ -32,10 +32,10 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/portrait of cardinal melchior de polignac by jean marc nattier 1740 1e090bc4|portrait of cardinal melchior de polignac by jean marc nattier 1740]] — shared language: melchior, polignac, cardinal
+- [[knowledge/wiki/images/portrait of cardinal melchior de polignac by jean marc nattier 1740 1e090bc4|portrait of cardinal melchior de polignac by jean marc nattier 1740]] — shared language: polignac, melchior, cardinal
 - [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: hyacinthe, rigaud, colbert
 - [[knowledge/wiki/images/portrait of jean baptiste colbert by philippe de champaigne c 1655 9b4e1a06|portrait of jean baptiste colbert by philippe de champaigne c 1655]] — shared language: colbert, baptiste, jean
-- [[knowledge/wiki/pages/art|art]] — shared language: hyacinthe, rigaud
-- [[knowledge/wiki/artists/Artist - jean marc nattier|Artist - jean marc nattier]] — shared language: jean, melchior, polignac
+- [[knowledge/wiki/artists/Artist - jean marc nattier|Artist - jean marc nattier]] — shared language: jean, polignac, melchior
+- [[knowledge/wiki/images/portrait of a black man by jean baptiste greuze c 1757 38b1c6b2|portrait of a black man by jean baptiste greuze c 1757]] — shared language: baptiste, jean
 - [[knowledge/wiki/images/jules bastienlepage october the potato gatherers 1878 5fbb7124|jules bastienlepage october the potato gatherers 1878]] — shared language: jules
 <!-- vault-crosslinks:end -->

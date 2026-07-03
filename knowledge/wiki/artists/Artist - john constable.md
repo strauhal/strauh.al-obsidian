@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
 - [[knowledge/wiki/images/study of a woman by john singer sargent c 1900 54f87c3f|study of a woman by john singer sargent c 1900]] — shared language: john, study
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
-- [[knowledge/wiki/images/a classical study by john william godward 1905 d33f157a|a classical study by john william godward 1905]] — shared language: john, study
 <!-- vault-crosslinks:end -->

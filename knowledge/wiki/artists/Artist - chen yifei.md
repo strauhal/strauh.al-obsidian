@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chen shizeng|Artist - chen shizeng]] — shared language: chen
-- [[knowledge/wiki/images/plum blossoms by chen shizeng a2f19917|plum blossoms by chen shizeng]] — shared language: chen
-- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young, woman
-- [[knowledge/wiki/images/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: young, woman
-- [[knowledge/wiki/images/river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]] — shared language: plant
-- [[knowledge/wiki/images/black and white illustration featuring a central cloaked woman a nude horned figure and stylized plant and flame motifs e15cb4a6|black and white illustration featuring a central cloaked woman a nude horned figure and stylized plant and flame motifs]] — shared language: plant, woman
+- [[knowledge/wiki/images/Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng 536f22ca|Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng]] — shared language: chen
+- [[knowledge/wiki/images/Illustration Pixel Art Potted Plant With Red Flowers f156ff4e|Illustration Pixel Art Potted Plant With Red Flowers]] — shared language: plant
+- [[knowledge/wiki/images/Illustration Glowing Blue Stylized Plant With Two Yellow Flowers 0ad35ba2|Illustration Glowing Blue Stylized Plant With Two Yellow Flowers]] — shared language: plant
+- [[knowledge/wiki/images/Illustration Interior Scene With A Window, Plant, And Open Door 2bf8d05f|Illustration Interior Scene With A Window, Plant, And Open Door]] — shared language: plant
+- [[knowledge/wiki/images/Photograph CD R Disc Wall Decor with Plant and Skincare Products b63294f7|Photograph CD R Disc Wall Decor with Plant and Skincare Products]] — shared language: plant
+- [[knowledge/wiki/images/Illustration Painting Window View of Figures, Dogs, and Potted Plant a79e22d2|Illustration Painting Window View of Figures, Dogs, and Potted Plant]] — shared language: plant
 <!-- vault-crosslinks:end -->

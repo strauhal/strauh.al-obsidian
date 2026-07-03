@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mac grea 1984 2|Artist - mac grea 1984 2]] — named in this note
 - [[knowledge/wiki/artists/Artist - mac grea|Artist - mac grea]] — named in this note
 - [[knowledge/wiki/images/futuristic cityscape with flying vehicles and canal by mac grea 1984 2 e1de6ffb|futuristic cityscape with flying vehicles and canal by mac grea 1984 2]] — shared language: grea, mac, vehicles
-- [[_archive/auto-generated/artists-noise/Artist - a canal 1893|Artist - a canal 1893]] — shared language: canal
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-canal-1893|Artist - a canal 1893]] — shared language: canal
-- [[knowledge/wiki/images/ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992 892bafb7|ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992]] — shared language: futuristic, flying
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, futuristic
+- [[knowledge/wiki/artists/Artist - Mac Baconai|Artist - Mac Baconai]] — shared language: mac
+- [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — shared language: mac
 <!-- vault-crosslinks:end -->

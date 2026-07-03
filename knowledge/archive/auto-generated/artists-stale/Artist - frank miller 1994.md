@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/sin city a dame to kill for panel by frank miller 1993 1994 558fd984|sin city a dame to kill for panel by frank miller 1993 1994]] — shared language: miller, frank, kill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1996|Artist - frank miller 1996]] — shared language: miller, frank, kill
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: miller, frank, sin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1991|Artist - frank miller 1991]] — shared language: miller, frank, sin
+- [[knowledge/wiki/artists/Artist - frank miller|Artist - frank miller]] — shared language: miller, frank, sin
 <!-- vault-crosslinks:end -->

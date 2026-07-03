@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: jean
-- [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — shared language: jean
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — shared language: jean
+- [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — shared language: jean
+- [[knowledge/wiki/artists/Artist - jean dufy|Artist - jean dufy]] — shared language: jean
 - [[knowledge/wiki/artists/Artist - jean arp|Artist - jean arp]] — shared language: jean
-- [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — shared language: jean
 <!-- vault-crosslinks:end -->

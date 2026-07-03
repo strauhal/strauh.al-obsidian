@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1923|Artist - pablo picasso 1923]] — shared language: picasso, pablo, assise
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1969|Artist - pablo picasso 1969]] — shared language: picasso, pablo, reclining
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: picasso, pablo, femme
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: picasso, pablo, nude
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1952|Artist - pablo picasso 1952]] — shared language: picasso, pablo, femme
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: picasso, pablo, nude
 <!-- vault-crosslinks:end -->

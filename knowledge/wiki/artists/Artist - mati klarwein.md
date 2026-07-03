@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - mateusz urbanowicz|Artist - mateusz urbanowicz]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - maurice denis|Artist - maurice denis]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - master e s|Artist - master e s]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - maurice denis|Artist - maurice denis]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - massimo vignelli|Artist - massimo vignelli]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

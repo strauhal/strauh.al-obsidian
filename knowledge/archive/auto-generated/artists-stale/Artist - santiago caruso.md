@@ -1,0 +1,29 @@
+---
+title: "Artist - santiago caruso"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - santiago caruso
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/2000s/the_great_adversary_by_santiago_caruso_2012.jpeg]]
+
+## Image Notes
+
+- [[the great adversary by santiago caruso 2012 1f8f3728|the great adversary by santiago caruso 2012]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/archive/auto-generated/artists-stale/Artist - santiago caruso 2012|Artist - santiago caruso 2012]] — named in this note
+- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: santiago
+- [[knowledge/wiki/artists/Artist - santiago ramon y cajal|Artist - santiago ramon y cajal]] — shared language: santiago
+- [[knowledge/wiki/images/Jard n de Aranjuez by Santiago Rusi ol (1907) a30434f2|Jard n de Aranjuez by Santiago Rusi ol (1907)]] — shared language: santiago
+- [[knowledge/wiki/images/different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900 f5f8d019|different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900]] — shared language: santiago
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+<!-- vault-crosslinks:end -->

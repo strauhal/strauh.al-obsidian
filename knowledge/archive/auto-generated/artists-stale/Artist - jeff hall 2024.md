@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jeff hall|Artist - jeff hall]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeff hall|Artist - jeff hall]] — named in this note
+- [[knowledge/wiki/images/Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums bf14c0b5|Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums]] — shared language: ocean, bar, overlooking
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john g hall 1980|Artist - john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
-- [[knowledge/wiki/artists/Artist - sydney prior hall|Artist - sydney prior hall]] — shared language: hall
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sydney prior hall 1868|Artist - sydney prior hall 1868]] — shared language: hall
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
 <!-- vault-crosslinks:end -->

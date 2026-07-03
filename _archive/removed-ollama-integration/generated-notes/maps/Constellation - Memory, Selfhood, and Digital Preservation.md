@@ -32,8 +32,8 @@ The impulse to archive and define selfhood across multiple media—from physical
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: memory, autofiction
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: selfhood, physical
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: selfhood, memory, digital
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: digital, web
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: memory, chatgpt, archives
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: memory, record
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: digital, physical, questions
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: memory, life
 <!-- vault-crosslinks:end -->

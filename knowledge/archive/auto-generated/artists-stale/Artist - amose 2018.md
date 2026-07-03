@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - amose|Artist - amose]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - amose|Artist - amose]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - aminah robinson 1996|Artist - aminah robinson 1996]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andre le donne 1965|Artist - andre le donne 1965]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - american flags and blue curtains|Artist - american flags and blue curtains]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

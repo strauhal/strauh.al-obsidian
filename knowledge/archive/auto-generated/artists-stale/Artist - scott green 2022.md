@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - scott green|Artist - scott green]] — named in this note
-- [[knowledge/wiki/artists/Artist - scott|Artist - scott]] — named in this note
-- [[knowledge/wiki/images/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
+- [[knowledge/archive/auto-generated/artists-stale/Artist - scott green|Artist - scott green]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - scott|Artist - scott]] — named in this note
+- [[_archive/auto-generated/images-stale/the future is now by scott c 2014 e04b827c|the future is now by scott c 2014]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
 - [[knowledge/archive/auto-generated/artists-stale/Artist - david scott 1832|Artist - david scott 1832]] — shared language: scott
-- [[knowledge/wiki/artists/Artist - scott greenwalt|Artist - scott greenwalt]] — shared language: scott
+- [[knowledge/archive/auto-generated/artists-stale/Artist - scott greenwalt|Artist - scott greenwalt]] — shared language: scott
 <!-- vault-crosslinks:end -->

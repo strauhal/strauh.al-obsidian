@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - misha|Artist - misha]] — named in this note
-- [[knowledge/wiki/artists/Artist - misha petrick|Artist - misha petrick]] — shared language: misha
+- [[knowledge/archive/auto-generated/artists-stale/Artist - misha|Artist - misha]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - misha petrick|Artist - misha petrick]] — shared language: misha
 - [[knowledge/archive/auto-generated/artists-stale/Artist - misha petrick 2020|Artist - misha petrick 2020]] — shared language: misha
-- [[knowledge/wiki/images/future by misha petrick 2020 a20ace50|future by misha petrick 2020]] — shared language: misha
+- [[_archive/auto-generated/images-stale/future by misha petrick 2020 a20ace50|future by misha petrick 2020]] — shared language: misha
 - [[knowledge/wiki/books/charles-dickens-a-tale-of-two-cities-barnes-noble-classics-barnes-noble-classics|A Tale of Two Cities (Barnes & Noble Classics) -Barnes & Noble Classics]] — shared language: tale
-- [[knowledge/wiki/images/richard dadd portrait young man fairy painting jpg 06d4e10c|richard dadd portrait young man fairy painting jpg]] — shared language: fairy
+- [[_archive/auto-generated/images-stale/richard dadd portrait young man fairy painting jpg 06d4e10c|richard dadd portrait young man fairy painting jpg]] — shared language: fairy
 <!-- vault-crosslinks:end -->

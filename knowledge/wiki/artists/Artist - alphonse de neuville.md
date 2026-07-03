@@ -27,4 +27,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/la nature by alphonse mucha c 1900 0ead3837|la nature by alphonse mucha c 1900]] — shared language: alphonse
 - [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: alphonse
 - [[knowledge/wiki/artists/Artist - antoine plamondon|Artist - antoine plamondon]] — shared language: alphonse
+- [[knowledge/wiki/pages/even more art|even more art]] — shared language: neuville
 <!-- vault-crosslinks:end -->

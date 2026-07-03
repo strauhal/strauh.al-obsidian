@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chema skandal|Artist - chema skandal]] — named in this note
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
-- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chema skandal|Artist - chema skandal]] — named in this note
+- [[knowledge/wiki/images/Photograph Man Posing With Abstract Drawing At Exhibition af4b949b|Photograph Man Posing With Abstract Drawing At Exhibition]] — shared language: exhibition
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: exhibition
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: exhibition
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition
 - [[knowledge/archive/auto-generated/artists-stale/Artist - neoclassical exhibition halls 1893|Artist - neoclassical exhibition halls 1893]] — shared language: exhibition
-- [[knowledge/wiki/images/44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940 5f6a4c17|44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940]] — shared language: exhibition, poster
 <!-- vault-crosslinks:end -->

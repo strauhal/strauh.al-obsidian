@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kenny scharf|Artist - kenny scharf]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf|Artist - kenny scharf]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf 2022|Artist - kenny scharf 2022]] — named in this note
-- [[knowledge/wiki/images/super bubble by kenny scharf 2022 8c26e87c|super bubble by kenny scharf 2022]] — shared language: scharf, kenny
+- [[_archive/auto-generated/images-stale/super bubble by kenny scharf 2022 8c26e87c|super bubble by kenny scharf 2022]] — shared language: scharf, kenny
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
 - [[knowledge/wiki/culture/music-azimuth|Listening - Azimuth]] — shared language: kenny
 <!-- vault-crosslinks:end -->

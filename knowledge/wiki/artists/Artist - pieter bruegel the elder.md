@@ -41,10 +41,10 @@ Images attributed by filename: 8
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563) c820d007|The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563)]] — named in this note
+- [[knowledge/wiki/images/Tantalus by Pieter Bruegel the Elder (1566) e3d8633b|Tantalus by Pieter Bruegel the Elder (1566)]] — shared language: bruegel, elder, pieter
 - [[knowledge/wiki/images/pieter bruegel the elder the hunters in the snow 1565 e81daedd|pieter bruegel the elder the hunters in the snow 1565]] — shared language: bruegel, elder, pieter
 - [[knowledge/wiki/images/pieter bruegel the elder the hunters in the snow 1565 2 024c1ca5|pieter bruegel the elder the hunters in the snow 1565 2]] — shared language: bruegel, elder, pieter
 - [[knowledge/wiki/images/pieter bruegel the elder the procession to calvary 1564 9c1abba9|pieter bruegel the elder the procession to calvary 1564]] — shared language: bruegel, elder, pieter
-- [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: bruegel, elder, pieter
-- [[knowledge/wiki/images/the fall of the rebel angels by john martin 1824 513f0c10|the fall of the rebel angels by john martin 1824]] — shared language: rebel, angels, fall
-- [[knowledge/wiki/pages/art|art]] — shared language: elder, bruegel, pieter
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: bruegel, elder, pieter
 <!-- vault-crosslinks:end -->

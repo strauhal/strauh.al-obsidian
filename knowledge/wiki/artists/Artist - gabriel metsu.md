@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/john singer sargent gabriel faur 1898 8c6e9e69|john singer sargent gabriel faur 1898]] — shared language: gabriel
 - [[knowledge/wiki/artists/Artist - dante gabriel rossetti 18661868|Artist - dante gabriel rossetti 18661868]] — shared language: gabriel
-- [[knowledge/wiki/artists/Artist - dante gabriel rossetti|Artist - dante gabriel rossetti]] — shared language: gabriel
 - [[knowledge/wiki/artists/Artist - gabriel francois doyen|Artist - gabriel francois doyen]] — shared language: gabriel
+- [[knowledge/wiki/artists/Artist - dante gabriel rossetti|Artist - dante gabriel rossetti]] — shared language: gabriel
 - [[knowledge/wiki/images/the deluge by gabriel francois doyen 1778 41ec3356|the deluge by gabriel francois doyen 1778]] — shared language: gabriel
 - [[knowledge/wiki/images/lady lilith by dante gabriel rossetti 18661868 8c46d65a|lady lilith by dante gabriel rossetti 18661868]] — shared language: gabriel
 <!-- vault-crosslinks:end -->

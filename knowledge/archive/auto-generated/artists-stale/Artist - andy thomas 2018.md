@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — named in this note
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy thomas|Artist - andy thomas]] — named in this note
+- [[knowledge/wiki/images/The Glendearning Getaway by Andy Thomas (2018) a49b5a86|The Glendearning Getaway by Andy Thomas (2018)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1973|Artist - andy warhol 1973]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1958|Artist - andy warhol 1958]] — shared language: andy

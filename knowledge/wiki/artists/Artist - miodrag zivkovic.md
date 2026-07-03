@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: monument
 - [[knowledge/wiki/books/theodore-kaczynski-anti-tech-revolution-why-and-how|Anti-Tech Revolution: Why and How]] — shared language: revolution
+- [[knowledge/wiki/images/Monument Valley by Toshi Yoshida (1972) bb6e353f|Monument Valley by Toshi Yoshida (1972)]] — shared language: monument
 - [[knowledge/wiki/images/edgar payne monument valley early 20th century 47ac96d9|edgar payne monument valley early 20th century]] — shared language: monument
-- [[knowledge/wiki/images/fountain spray in front of a tall monument ef2cb67f|fountain spray in front of a tall monument]] — shared language: monument
-- [[knowledge/wiki/images/black and white photograph of a brutalist concrete staircase monument aefb03f3|black and white photograph of a brutalist concrete staircase monument]] — shared language: monument
-- [[knowledge/wiki/images/monument logan square by the elevated lines 1927 d731895b|monument logan square by the elevated lines 1927]] — shared language: monument
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: monument
+- [[knowledge/wiki/images/Photograph Full Moon Over Monument Valley Desert Landscape 7b31180a|Photograph Full Moon Over Monument Valley Desert Landscape]] — shared language: monument
 <!-- vault-crosslinks:end -->

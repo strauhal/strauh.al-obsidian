@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1990|Artist - alex katz 1990]] — shared language: katz, alex
+- [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1972|Artist - alex katz 1972]] — shared language: katz, alex
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1990|Artist - alex katz 1990]] — shared language: katz, alex
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1980|Artist - alex katz 1980]] — shared language: katz, alex
-- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1962|Artist - alex katz 1962]] — shared language: katz, alex
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1973|Artist - alex katz 1973]] — shared language: katz, alex
-- [[knowledge/wiki/artists/Artist - alex katz|Artist - alex katz]] — shared language: katz, alex, dress
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alex katz 1962|Artist - alex katz 1962]] — shared language: katz, alex
 <!-- vault-crosslinks:end -->

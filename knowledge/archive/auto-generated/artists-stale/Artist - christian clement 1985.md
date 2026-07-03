@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - georges clement 1984|Artist - georges clement 1984]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clement serveau 1930|Artist - clement serveau 1930]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll challenger jpg d933446b|joseph clement coll challenger jpg]] — shared language: clement
+- [[_archive/auto-generated/images-stale/joseph clement coll fu manchu jpg 80546373|joseph clement coll fu manchu jpg]] — shared language: clement
 <!-- vault-crosslinks:end -->

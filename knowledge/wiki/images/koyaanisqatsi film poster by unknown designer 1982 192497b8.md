@@ -1,12 +1,12 @@
 ---
 title: "koyaanisqatsi film poster by unknown designer 1982"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg"
 source_relpath: "1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "unknown designer"
-dimensions: "1000x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - unknown designer]]
 
 Source: [[media/strauh.al3.1/1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: designer
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: film
-- [[knowledge/wiki/images/promotional poster for splat film premiere with pixelated figures 61c167db|promotional poster for splat film premiere with pixelated figures]] — shared language: film, poster
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
+- [[knowledge/wiki/images/Illustration Promotional Poster for 'SPLAT' Film Premiere 7fed9c71|Illustration Promotional Poster for 'SPLAT' Film Premiere]] — shared language: film, poster
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: film
 <!-- vault-crosslinks:end -->

@@ -1,12 +1,12 @@
 ---
 title: "albert bierstadt the wetterhorn 1874"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/albert_bierstadt_the_wetterhorn_1874.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/albert_bierstadt_the_wetterhorn_1874.jpg"
 source_relpath: "1800s/albert_bierstadt_the_wetterhorn_1874.jpg"
 collection: "1800s"
 inferred_year: "1874"
 artist: ""
-dimensions: "4096x2441"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1800s/albert_bierstadt_the_wetterhorn_1874.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/albert_bierstadt_the_wetterhorn_1874.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/albert_bierstadt_the_wetterhorn_1874.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/View of Nassau by Albert Bierstadt (1877) 28025a36|View of Nassau by Albert Bierstadt (1877)]] — shared language: bierstadt, albert
+- [[knowledge/wiki/images/The Buffalo Hunt by Albert Bierstadt (c. 1887 1888) 45790395|The Buffalo Hunt by Albert Bierstadt (c. 1887 1888)]] — shared language: bierstadt, albert
 - [[knowledge/wiki/images/albert bierstadt valley of the yosemite 1864 1386802c|albert bierstadt valley of the yosemite 1864]] — shared language: bierstadt, albert
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: albert
 - [[knowledge/wiki/images/albert bierstadt among the sierra nevada california 1868 dcde439e|albert bierstadt among the sierra nevada california 1868]] — shared language: bierstadt, albert
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: albert
-- [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — shared language: albert
 <!-- vault-crosslinks:end -->

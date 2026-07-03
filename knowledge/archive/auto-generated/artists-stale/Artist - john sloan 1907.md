@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/images/the great pikes peak bus accident by john sloan 1927 44db5098|the great pikes peak bus accident by john sloan 1927]] — shared language: sloan, john
+- [[knowledge/wiki/images/Sunday, Women Drying Their Hair by John Sloan (1912) 28f17b2d|Sunday, Women Drying Their Hair by John Sloan (1912)]] — shared language: sloan, john
 <!-- vault-crosslinks:end -->

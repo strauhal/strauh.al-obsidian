@@ -49,5 +49,5 @@ Images attributed by filename: 9
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
 - [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: martin, feast, john
-- [[knowledge/wiki/images/john martin the great day of his wrath 1853 22ffb5d0|john martin the great day of his wrath 1853]] — shared language: martin, john
+- [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
 <!-- vault-crosslinks:end -->

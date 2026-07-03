@@ -1,12 +1,12 @@
 ---
 title: "1 7K3Oe952MNp6tlEumdo MA"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png"
 source_relpath: "artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2000x1520"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/1*7K3Oe952MNp6tlEumdo_MA.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

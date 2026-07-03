@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - gustave courbet|Artist - gustave courbet]] — named in this note
+- [[knowledge/wiki/images/Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865) d7eaf09c|Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865)]] — shared language: courbet, gustave
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1866 2|Artist - gustave dore 1866 2]] — shared language: gustave
+- [[knowledge/wiki/images/gustave caillebotte the floor scrapers les raboteurs de parquet 1875 51b04916|gustave caillebotte the floor scrapers les raboteurs de parquet 1875]] — shared language: gustave, les
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1867|Artist - gustave dore 1867]] — shared language: gustave
 - [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gustave caillebotte 1880|Artist - gustave caillebotte 1880]] — shared language: gustave
-- [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: gustave
 <!-- vault-crosslinks:end -->

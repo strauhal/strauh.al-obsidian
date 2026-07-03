@@ -1,12 +1,12 @@
 ---
 title: "tumblr o49uwkkxqt1tes8zmo1 540"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif"
 source_relpath: "gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "540x408"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/tumblr_o49uwkkxqt1tes8zmo1_540.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

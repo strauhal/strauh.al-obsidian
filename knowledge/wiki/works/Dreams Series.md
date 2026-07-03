@@ -39,10 +39,10 @@ records the collision of the two states.
 
 - [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
 - [[knowledge/wiki/pages/3d scans|3d scans]] — named in this note
-- [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — named in this note
 - [[knowledge/wiki/pages/dreams|dreams]] — shared language: dream, dreams, reality
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, records, ceremony
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: series, dreams, elegance
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, series
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dreams, dream
+- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dreams, dream
 <!-- vault-crosslinks:end -->

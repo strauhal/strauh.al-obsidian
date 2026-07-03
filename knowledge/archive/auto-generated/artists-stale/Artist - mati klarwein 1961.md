@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - mati klarwein|Artist - mati klarwein]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mateusz urbanowicz 2017|Artist - mateusz urbanowicz 2017]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mateusz urbanowicz|Artist - mateusz urbanowicz]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maurice denis 1905|Artist - maurice denis 1905]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

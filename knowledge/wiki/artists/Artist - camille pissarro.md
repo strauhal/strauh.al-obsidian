@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Bouquet by Camille Pissarro (1898) 09781f4a|Bouquet by Camille Pissarro (1898)]] — shared language: pissarro, camille
+- [[knowledge/wiki/images/La Sainte Chapelle by Camille Pissarro (1901) d36b1638|La Sainte Chapelle by Camille Pissarro (1901)]] — shared language: pissarro, camille
+- [[knowledge/wiki/images/Haystacks, Morning, ragny by Camille Pissarro (1899) e48a3854|Haystacks, Morning, ragny by Camille Pissarro (1899)]] — shared language: pissarro, camille, morning
 - [[knowledge/wiki/artists/Artist - lucien pissarro|Artist - lucien pissarro]] — shared language: pissarro
 - [[knowledge/wiki/artists/Artist - camille claudel|Artist - camille claudel]] — shared language: camille
-- [[knowledge/wiki/anchors/camille-paglia|Camille Paglia]] — shared language: camille
 - [[knowledge/wiki/images/view of auvers sur oise by vincent van gogh 1890 a77ec12f|view of auvers sur oise by vincent van gogh 1890]] — shared language: oise, auvers, sur
-- [[knowledge/wiki/images/the thames at chelsea by lucien pissarro 1902 3974f5a7|the thames at chelsea by lucien pissarro 1902]] — shared language: pissarro
-- [[knowledge/wiki/images/l abandon by camille claudel c 1888 504d0fe2|l abandon by camille claudel c 1888]] — shared language: camille
 <!-- vault-crosslinks:end -->

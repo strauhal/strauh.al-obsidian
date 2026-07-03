@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jeffrey t larson|Artist - jeffrey t larson]] — shared language: larson
 - [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: gary
-- [[knowledge/wiki/images/christmas lights london by jeffrey t larson 2018 f2d24da3|christmas lights london by jeffrey t larson 2018]] — shared language: larson
 - [[knowledge/wiki/images/dellasposa gary hume untitled water painting 1998 jpg 46def95f|dellasposa gary hume untitled water painting 1998 jpg]] — shared language: gary
 - [[knowledge/wiki/pages/comics|comics]] — shared language: larson, gary
-- [[knowledge/wiki/images/oil painting of cows in a polder landscape with windmill f3a712e7|oil painting of cows in a polder landscape with windmill]] — shared language: cows
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Cows Drinking by a Large Tree e9f852bc|Illustration Black and White Drawing of Cows Drinking by a Large Tree]] — shared language: cows
+- [[knowledge/wiki/images/Illustration Pencil Sketch of a Cow or Bull from Above 3012ba9d|Illustration Pencil Sketch of a Cow or Bull from Above]] — shared language: cow
+- [[knowledge/wiki/images/alpine landscape with cows and figures by friedrich voltz c 1860 e69e3289|alpine landscape with cows and figures by friedrich voltz c 1860]] — shared language: cows
 <!-- vault-crosslinks:end -->

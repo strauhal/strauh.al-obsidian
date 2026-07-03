@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - pascal campion|Artist - pascal campion]] — named in this note
+- [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pascal campion|Artist - pascal campion]] — named in this note
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/artists/Artist - pascal adolphe jean dagnan bouveret|Artist - pascal adolphe jean dagnan bouveret]] — shared language: pascal
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pascal adolphe jean dagnan bouveret 1880|Artist - pascal adolphe jean dagnan bouveret 1880]] — shared language: pascal
 - [[knowledge/wiki/images/the wreck le naufrage by pascal adolphe jean dagnan bouveret 1880 fc441bf6|the wreck le naufrage by pascal adolphe jean dagnan bouveret 1880]] — shared language: pascal
-- [[knowledge/wiki/images/rainy day in boston by childe hassam 1885 e437c23c|rainy day in boston by childe hassam 1885]] — shared language: rainy, day
 <!-- vault-crosslinks:end -->

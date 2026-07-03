@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - man ray|Artist - man ray]] — named in this note
-- [[knowledge/wiki/images/mannequin head four views by man ray c 1930 12172264|mannequin head four views by man ray c 1930]] — shared language: ray, man
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
 - [[knowledge/wiki/images/ray harryhausen b1a61e72|ray harryhausen]] — shared language: ray
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
+- [[knowledge/wiki/images/mannequin head four views by man ray c 1930 12172264|mannequin head four views by man ray c 1930]] — shared language: ray
 - [[_archive/auto-generated/books-stale/ray-gene-ed-joseph-beuys-mapping-the-legacy|Ray Gene ed Joseph Beuys Mapping the Legacy]] — shared language: ray
+- [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — shared language: ray
 <!-- vault-crosslinks:end -->

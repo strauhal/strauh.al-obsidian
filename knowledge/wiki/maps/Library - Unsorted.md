@@ -2,13 +2,13 @@
 title: Library - Unsorted
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Unsorted
 
-Books/files: 106
+Books/files: 112
 
 ## Titles
 
@@ -29,22 +29,28 @@ Books/files: 106
 - [[2015.506393.essentials-of]]
 - [[2018thorntonephd]]
 - [[2022-slorktastic]]
+- [[2408.04681v1]]
+- [[2410.01131v1]]
+- [[2509.11391v2]]
 - [[54b7f9bf8681400300255cab original]]
 - [[990ff2a8-737a-4981-8f3f-08a82b17d082]]
 - [[Brian Massumi on Affect - divine curation]]
 - [[CCA PRINTMEDIA BIBLIOGRAPHY]]
 - [[ColorConsultants ColorConsciousness]]
+- [[Consanguinity on the Canvas Studying Inbreeding in the Habsburg]]
 - [[ContentServer.asp]]
 - [[E8585.full.pdf]]
 - [[FULLTEXT01]]
 - [[How taking >900mcg of LSD permanently enhanced my intelligence - HackerNoon]]
 - [[IMG 0346]]
 - [[JPEG image]]
+- [[LASKA Sadie BIO CV 2023]]
 - [[MQ68384]]
 - [[Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]]
 - [[Narrative]]
 - [[PDF document]]
 - [[PDF document 2]]
+- [[Sunvite2021FinalsBriefing1]]
 - [[The Lost Generation - Compact]]
 - [[The Polymath Reading List]]
 - [[The Use of Folk Instruments Alongside Classical Instruments]]

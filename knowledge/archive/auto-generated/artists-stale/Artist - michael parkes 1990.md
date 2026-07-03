@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1988|Artist - michael parkes 1988]] — shared language: parkes, michael
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael parkes 1998|Artist - michael parkes 1998]] — shared language: parkes, michael
 - [[knowledge/wiki/images/the star by michael parkes 1998 c739499c|the star by michael parkes 1998]] — shared language: parkes, michael
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: michael
+- [[knowledge/archive/auto-generated/artists-stale/Artist - michael s smith|Artist - michael s smith]] — shared language: michael
 <!-- vault-crosslinks:end -->

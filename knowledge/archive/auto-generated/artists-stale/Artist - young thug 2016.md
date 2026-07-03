@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - young thug|Artist - young thug]] — named in this note
-- [[knowledge/wiki/images/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young
-- [[knowledge/wiki/images/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young
-- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: young
-- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: young
-- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young
+- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug|Artist - young thug]] — named in this note
+- [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: thug, young
+- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young
+- [[_archive/auto-generated/images-stale/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
 <!-- vault-crosslinks:end -->

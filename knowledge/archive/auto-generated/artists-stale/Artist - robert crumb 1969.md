@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert crumb 1970|Artist - robert crumb 1970]] — shared language: crumb, robert
 - [[knowledge/wiki/artists/Artist - robert crumb|Artist - robert crumb]] — shared language: crumb, robert, cartoons
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert crumb 1967|Artist - robert crumb 1967]] — shared language: crumb, robert

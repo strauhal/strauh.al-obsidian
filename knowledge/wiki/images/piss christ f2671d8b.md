@@ -1,12 +1,12 @@
 ---
 title: "piss christ"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/piss christ.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/piss christ.jpg"
 source_relpath: "photography/piss christ.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "718x1080"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/piss christ.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/piss christ.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/piss christ.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: christ
+- [[knowledge/wiki/images/The Taking of Christ by Caravaggio (c. 1602) bd22729b|The Taking of Christ by Caravaggio (c. 1602)]] — shared language: christ
+- [[knowledge/wiki/images/the flagellation of christ by peter paul rubens c 1614 1617 b337d0bb|the flagellation of christ by peter paul rubens c 1614 1617]] — shared language: christ
+- [[knowledge/wiki/images/The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563) c820d007|The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563)]] — shared language: christ
+- [[knowledge/wiki/images/the resurrection of christ by pieter bruegel the elder c 1563 8a974585|the resurrection of christ by pieter bruegel the elder c 1563]] — shared language: christ
 <!-- vault-crosslinks:end -->

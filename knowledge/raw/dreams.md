@@ -63,11 +63,11 @@ https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/dreams/drea
 ## Discovered Connections
 
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — named in this note
-- [[knowledge/raw/influences|Influences]] — shared language: refs, raw.githubusercontent.com, https
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00006 d47d201e|dream 00006]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

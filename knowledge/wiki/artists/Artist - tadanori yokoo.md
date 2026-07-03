@@ -27,9 +27,9 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice
+- [[knowledge/wiki/images/Photograph Crow With Monster Energy Can In Puddle aeeeac6e|Photograph Crow With Monster Energy Can In Puddle]] — shared language: monster
+- [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster
 - [[knowledge/wiki/images/the monster by bernie wrightson 1973 6de53a6a|the monster by bernie wrightson 1973]] — shared language: monster
-- [[knowledge/wiki/images/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
-- [[knowledge/wiki/images/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: flower
-- [[knowledge/wiki/images/black and white ink drawing of a horned armored mecha monster character b00ddbf7|black and white ink drawing of a horned armored mecha monster character]] — shared language: monster
-- [[knowledge/wiki/images/vintage nasturtium flower card bcd07706|vintage nasturtium flower card]] — shared language: flower
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle fc144e23|Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle]] — shared language: monster
+- [[knowledge/wiki/images/Illustration Pop Art Style Monster And Woman In Bikini Poster 0325341c|Illustration Pop Art Style Monster And Woman In Bikini Poster]] — shared language: monster
 <!-- vault-crosslinks:end -->

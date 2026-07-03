@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: sign, yellow
-- [[knowledge/wiki/images/m4 motorway sign by banksy 2009 26965675|m4 motorway sign by banksy 2009]] — shared language: sign
-- [[knowledge/wiki/images/innocent manga panel by shin ichi sakamoto 2013 108fa087|innocent manga panel by shin ichi sakamoto 2013]] — shared language: innocent
-- [[knowledge/wiki/images/framed small town street scene with stop sign ce2c6373|framed small town street scene with stop sign]] — shared language: sign
-- [[knowledge/wiki/images/photograph of two men standing on a wooden porch in front of a shingled building with a pig sign 44b4a0d1|photograph of two men standing on a wooden porch in front of a shingled building with a pig sign]] — shared language: sign
-- [[knowledge/wiki/images/white robotic arm with lace like forearm texture held by a human hand 21c4bd2a|white robotic arm with lace like forearm texture held by a human hand]] — shared language: held
+- [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: proven, guilty, innocent
+- [[knowledge/wiki/images/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
+- [[knowledge/wiki/images/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
+- [[knowledge/wiki/images/Comic Innocent by Shin'ichi Sakamoto 34da5112|Comic Innocent by Shin'ichi Sakamoto]] — shared language: innocent
+- [[_archive/auto-generated/images-stale/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: sign, yellow
+- [[knowledge/wiki/images/Photograph Protest Signs Against Government Hacking and Elon Musk 31411221|Photograph Protest Signs Against Government Hacking and Elon Musk]] — shared language: protest
 <!-- vault-crosslinks:end -->

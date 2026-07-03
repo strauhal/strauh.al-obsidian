@@ -38,10 +38,10 @@ Images attributed by filename: 7
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Night View of Saruwaka machi by Utagawa Hiroshige (1856) d6e30486|Night View of Saruwaka machi by Utagawa Hiroshige (1856)]] — named in this note
 - [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: utagawa, hiroshige, fuji
 - [[knowledge/wiki/artists/Artist - utagawa toyokuni i|Artist - utagawa toyokuni i]] — shared language: utagawa, bridge
 - [[knowledge/wiki/artists/Artist - utagawa kunisada|Artist - utagawa kunisada]] — shared language: utagawa
 - [[knowledge/wiki/artists/Artist - utagawa kuniyoshi|Artist - utagawa kuniyoshi]] — shared language: utagawa
 - [[knowledge/wiki/images/fuji 33043657|fuji]] — shared language: fuji
-- [[knowledge/wiki/images/evening cool at ryogoku bridge ryogoku yusuzumi no zu by utagawa toyokuni i c 17951800 03faf6b7|evening cool at ryogoku bridge ryogoku yusuzumi no zu by utagawa toyokuni i c 17951800]] — shared language: utagawa, bridge
 <!-- vault-crosslinks:end -->

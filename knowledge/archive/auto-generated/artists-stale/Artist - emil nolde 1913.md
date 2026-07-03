@@ -30,6 +30,6 @@ Images attributed by filename: 3
 - [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1907|Artist - emil nolde 1907]] — shared language: nolde, emil
 - [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1909|Artist - emil nolde 1909]] — shared language: nolde, emil
 - [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1930|Artist - emil nolde 1930]] — shared language: nolde, emil
-- [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1910|Artist - emil nolde 1910]] — shared language: nolde, emil
 - [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1915|Artist - emil nolde 1915]] — shared language: nolde, emil
+- [[knowledge/archive/auto-generated/artists-stale/Artist - emil nolde 1910|Artist - emil nolde 1910]] — shared language: nolde, emil
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - pierre bonnard|Artist - pierre bonnard]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre bonnard 1908|Artist - pierre bonnard 1908]] — named in this note
+- [[knowledge/wiki/images/The Red Table by Pierre Bonnard (1910) 3cb39f31|The Red Table by Pierre Bonnard (1910)]] — shared language: bonnard, pierre
 - [[knowledge/wiki/images/la toilette by pierre bonnard 1908 565a5f58|la toilette by pierre bonnard 1908]] — shared language: bonnard, pierre
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1879|Artist - pierre auguste renoir 1879]] — shared language: pierre
 <!-- vault-crosslinks:end -->

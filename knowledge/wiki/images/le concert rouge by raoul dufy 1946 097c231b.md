@@ -1,12 +1,12 @@
 ---
 title: "le concert rouge by raoul dufy 1946"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg"
 source_relpath: "1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg"
 collection: "1900s"
 inferred_year: "1946"
 artist: "raoul dufy"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - raoul dufy]]
 
 Source: [[media/strauh.al3.1/1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Od on by Raoul Dufy (1920) ce7bf4f0|Od on by Raoul Dufy (1920)]] — named in this note
+- [[knowledge/wiki/images/Le Bal by Raoul Dufy (1906) d7c0fc69|Le Bal by Raoul Dufy (1906)]] — shared language: raoul, dufy
+- [[knowledge/wiki/images/Anemones by Raoul Dufy (1956) be55cbe2|Anemones by Raoul Dufy (1956)]] — shared language: raoul, dufy
+- [[knowledge/wiki/images/The Artist's Studio by Raoul Dufy (1935) 4af52f46|The Artist's Studio by Raoul Dufy (1935)]] — shared language: raoul, dufy
 - [[knowledge/wiki/artists/Artist - jean dufy|Artist - jean dufy]] — shared language: dufy
-- [[knowledge/wiki/images/place vendome by jean dufy 1928 a28fa90f|place vendome by jean dufy 1928]] — shared language: dufy
-- [[knowledge/wiki/images/portrait of madame raoul rochette by jean auguste dominique ingres 1830 f03b6f29|portrait of madame raoul rochette by jean auguste dominique ingres 1830]] — shared language: raoul
-- [[knowledge/wiki/images/river rouge plant by charles sheeler 1932 a74e21cd|river rouge plant by charles sheeler 1932]] — shared language: rouge
-- [[knowledge/wiki/images/the concert by pavel tchelitchew 1930 69117120|the concert by pavel tchelitchew 1930]] — shared language: concert
 <!-- vault-crosslinks:end -->

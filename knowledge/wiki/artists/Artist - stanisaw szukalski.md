@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - stanisaw stachowicz|Artist - stanisaw stachowicz]] — shared language: stanisaw
 - [[knowledge/wiki/images/la liseuse by stanisaw stachowicz 1858 02fc98fb|la liseuse by stanisaw stachowicz 1858]] — shared language: stanisaw
-- [[knowledge/wiki/images/life of pi 171df880|life of pi]] — shared language: life
+- [[knowledge/wiki/artists/Artist - stanton macdonald wright|Artist - stanton macdonald wright]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

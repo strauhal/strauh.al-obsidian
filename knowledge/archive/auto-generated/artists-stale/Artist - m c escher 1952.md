@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
-- [[knowledge/wiki/images/mc escher snakes 1969 186361ca|mc escher snakes 1969]] — shared language: escher
+- [[_archive/auto-generated/images-stale/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1961|Artist - m c escher 1961]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1950|Artist - m c escher 1950]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1958|Artist - m c escher 1958]] — shared language: escher
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1938|Artist - m c escher 1938]] — shared language: escher
+- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
 <!-- vault-crosslinks:end -->

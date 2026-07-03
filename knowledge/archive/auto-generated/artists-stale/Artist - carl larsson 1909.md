@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/solen the sun by carl larsson 1910 bd73fa37|solen the sun by carl larsson 1910]] — shared language: larsson, carl
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: carl
-- [[knowledge/archive/auto-generated/artists-stale/Artist - carl bloch 1879|Artist - carl bloch 1879]] — shared language: carl
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: carl
 <!-- vault-crosslinks:end -->

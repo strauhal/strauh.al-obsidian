@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — shared language: michael
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: michael
 - [[knowledge/wiki/artists/Artist - michael goldberg|Artist - michael goldberg]] — shared language: michael
-- [[knowledge/wiki/artists/Artist - michael borremans|Artist - michael borremans]] — shared language: michael
 - [[knowledge/wiki/artists/Artist - michael dahlen|Artist - michael dahlen]] — shared language: michael
-- [[knowledge/wiki/artists/Artist - michael mikolon|Artist - michael mikolon]] — shared language: michael
+- [[knowledge/wiki/artists/Artist - michael whelan|Artist - michael whelan]] — shared language: michael
+- [[knowledge/wiki/anchors/michael-curtiz|Michael Curtiz]] — shared language: michael
+- [[knowledge/wiki/images/the dragon of the night by michael whelan 1977 43b27832|the dragon of the night by michael whelan 1977]] — shared language: michael
 <!-- vault-crosslinks:end -->

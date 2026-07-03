@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - you si|Artist - you si]] — shared language: beginning, strange, point
+- [[knowledge/archive/auto-generated/artists-stale/Artist - you si|Artist - you si]] — shared language: beginning, strange, point
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: strange
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert strange 1757|Artist - robert strange 1757]] — shared language: strange
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: point
+- [[knowledge/wiki/images/The Beginning of Life by Franti ek Kupka (1900) 7dc777c4|The Beginning of Life by Franti ek Kupka (1900)]] — shared language: beginning
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: strange
-- [[knowledge/wiki/images/belisarius by robert strange 1757 781fa7bc|belisarius by robert strange 1757]] — shared language: strange
 <!-- vault-crosslinks:end -->

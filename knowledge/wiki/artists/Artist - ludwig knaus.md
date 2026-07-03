@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — named in this note
 - [[knowledge/wiki/images/ludwig knaus a monastic siesta late 19th century 736825df|ludwig knaus a monastic siesta late 19th century]] — shared language: knaus, ludwig
+- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
-- [[knowledge/wiki/images/ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg e31f1a9f|ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg]] — shared language: ludwig
-- [[knowledge/wiki/images/self portrait by ernst ludwig kirchner 1914 5cc7bba5|self portrait by ernst ludwig kirchner 1914]] — shared language: ludwig
-- [[knowledge/wiki/artists/Artist - franz ludwig catel|Artist - franz ludwig catel]] — shared language: ludwig
-- [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — named in this note
-- [[knowledge/wiki/artists/Artist - sarah green|Artist - sarah green]] — shared language: sarah
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah green|Artist - sarah green]] — shared language: sarah
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sarah green 2023|Artist - sarah green 2023]] — shared language: sarah
-- [[knowledge/wiki/images/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: sarah
-- [[knowledge/wiki/artists/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
-- [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
+- [[_archive/auto-generated/images-stale/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: sarah
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah bouchard|Artist - sarah bouchard]] — shared language: sarah
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah cain|Artist - sarah cain]] — shared language: sarah
 <!-- vault-crosslinks:end -->

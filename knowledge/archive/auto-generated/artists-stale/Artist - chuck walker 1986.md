@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chuck close 1997|Artist - chuck close 1997]] — shared language: chuck
 - [[knowledge/wiki/images/self portrait by chuck close 1997 6ed2c249|self portrait by chuck close 1997]] — shared language: chuck
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
-- [[knowledge/wiki/artists/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
+- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
 <!-- vault-crosslinks:end -->

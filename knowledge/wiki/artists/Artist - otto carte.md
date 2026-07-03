@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: otto
 - [[knowledge/wiki/artists/Artist - otto dix|Artist - otto dix]] — shared language: otto
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — shared language: otto
+- [[knowledge/wiki/images/The Lovers by Otto Dix (1925) f3c9af5a|The Lovers by Otto Dix (1925)]] — shared language: otto
 - [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — shared language: otto
-- [[knowledge/wiki/artists/Artist - emil otto hoppe|Artist - emil otto hoppe]] — shared language: otto
 - [[knowledge/wiki/images/soldatengrab soldier s grave by otto dix 1924 292c60dc|soldatengrab soldier s grave by otto dix 1924]] — shared language: otto
-- [[knowledge/wiki/images/giacomo puccini by emil otto hoppe c 1910 e3e2064a|giacomo puccini by emil otto hoppe c 1910]] — shared language: otto
 <!-- vault-crosslinks:end -->

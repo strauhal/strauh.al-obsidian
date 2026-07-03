@@ -1,12 +1,12 @@
 ---
 title: "averagemusician"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/averagemusician.JPG"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/averagemusician.JPG"
 source_relpath: "diary/averagemusician.JPG"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1024x759"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/averagemusician.JPG|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/averagemusician.JPG`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/averagemusician.JPG`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

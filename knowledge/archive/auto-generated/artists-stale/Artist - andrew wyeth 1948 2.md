@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/christina s world by andrew wyeth 1948 2412ff1a|christina s world by andrew wyeth 1948]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1948|Artist - andrew wyeth 1948]] — shared language: wyeth, andrew, christina
 - [[knowledge/wiki/artists/Artist - andrew wyeth|Artist - andrew wyeth]] — shared language: wyeth, andrew, christina
+- [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: wyeth, andrew, world
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1981|Artist - andrew wyeth 1981]] — shared language: wyeth, andrew
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1965|Artist - andrew wyeth 1965]] — shared language: wyeth, andrew
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andrew wyeth 1970|Artist - andrew wyeth 1970]] — shared language: wyeth, andrew
 <!-- vault-crosslinks:end -->

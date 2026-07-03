@@ -1,0 +1,33 @@
+---
+title: "oil painting of a rocky landscape with a kneeling figure tomb and skeleton"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/oil_painting_of_a_rocky_landscape_with_a_kneeling_figure_tomb_and_skeleton.jpeg"
+source_relpath: "2000s/oil_painting_of_a_rocky_landscape_with_a_kneeling_figure_tomb_and_skeleton.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "4032x3024"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# oil painting of a rocky landscape with a kneeling figure tomb and skeleton
+
+![[media/strauh.al3.1/2000s/oil_painting_of_a_rocky_landscape_with_a_kneeling_figure_tomb_and_skeleton.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/oil_painting_of_a_rocky_landscape_with_a_kneeling_figure_tomb_and_skeleton.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/oil_painting_of_a_rocky_landscape_with_a_kneeling_figure_tomb_and_skeleton.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Rocky Landscape with Kneeling Figure, Tomb, Skeleton, and Distant City fb635cd6|Illustration Rocky Landscape with Kneeling Figure, Tomb, Skeleton, and Distant City]] — shared language: tomb, rocky, kneeling
+- [[_archive/auto-generated/images-stale/oil painting of a rocky landscape with dense trees and cloudy sky b00e7903|oil painting of a rocky landscape with dense trees and cloudy sky]] — shared language: rocky, oil, landscape
+- [[_archive/auto-generated/images-stale/oil painting of figures horses and goats gathered at a stone well in a rocky landscape 133383dc|oil painting of figures horses and goats gathered at a stone well in a rocky landscape]] — shared language: rocky, oil, landscape
+- [[_archive/auto-generated/images-stale/oil painting of a rocky coastline with a pine tree e97fea42|oil painting of a rocky coastline with a pine tree]] — shared language: rocky, oil
+- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+<!-- vault-crosslinks:end -->

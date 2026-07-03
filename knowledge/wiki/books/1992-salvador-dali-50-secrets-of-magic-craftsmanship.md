@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/1992 - Salvador Dali - 50 Secrets Of Magic Craftsmanship.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Salvador Dali - 50 Secrets Of Magic Craftsmanship
@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
 - [[knowledge/wiki/books/tea-scones-and-socially-responsible-sex-magic-the-egalitarian-occultism-of-dion-fortune|Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
-- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
+- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 <!-- vault-crosslinks:end -->

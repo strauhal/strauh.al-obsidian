@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — shared language: loomis, andrew
+- [[knowledge/wiki/images/Illustration Four Stages Of Painting A Woman's Portrait by Andrew Loomis 03ef7433|Illustration Four Stages Of Painting A Woman's Portrait by Andrew Loomis]] — shared language: loomis, andrew
+- [[knowledge/wiki/images/Some Worlds Have Two Suns by Andrew McConnell (2015 2024) 93b25be4|Some Worlds Have Two Suns by Andrew McConnell (2015 2024)]] — shared language: andrew
+- [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: andrew
 - [[knowledge/wiki/artists/Artist - andrew wyeth|Artist - andrew wyeth]] — shared language: andrew
 - [[knowledge/wiki/images/the lovers by andrew wyeth 1981 245509d0|the lovers by andrew wyeth 1981]] — shared language: andrew
-- [[knowledge/wiki/anchors/andrew-niccol|Andrew Niccol]] — shared language: andrew
-- [[knowledge/wiki/images/siri by andrew wyeth 1970 7d6dc271|siri by andrew wyeth 1970]] — shared language: andrew
-- [[knowledge/wiki/images/weatherside by andrew wyeth 1965 b9ba0671|weatherside by andrew wyeth 1965]] — shared language: andrew
 <!-- vault-crosslinks:end -->

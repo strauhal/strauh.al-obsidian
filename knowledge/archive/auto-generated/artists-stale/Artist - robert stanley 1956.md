@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - robert stanley|Artist - robert stanley]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/anchors/stanley-kubrick|Stanley Kubrick]] — shared language: stanley
+- [[knowledge/wiki/images/Photograph Stanley Kubrick on Set of 2001 A Space Odyssey 6cac81fd|Photograph Stanley Kubrick on Set of 2001 A Space Odyssey]] — shared language: stanley
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: robert
 <!-- vault-crosslinks:end -->

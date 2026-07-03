@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/culture/reading-batman-year-one|Reading - Batman: Year One]] — shared language: batman, one, david
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: one, art
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: one, art
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one, art
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
 <!-- vault-crosslinks:end -->

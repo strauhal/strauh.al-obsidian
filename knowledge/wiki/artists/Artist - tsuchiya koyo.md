@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - koyo kageyama|Artist - koyo kageyama]] — shared language: koyo, snow
 - [[knowledge/wiki/images/monk in the snow by koyo kageyama 1923 67aca098|monk in the snow by koyo kageyama 1923]] — shared language: koyo, snow
 - [[knowledge/wiki/artists/Artist - tsuchiya koitsu|Artist - tsuchiya koitsu]] — shared language: tsuchiya
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple, snow
 - [[knowledge/wiki/images/moonlight at magome by tsuchiya koitsu 1932 b1c44f25|moonlight at magome by tsuchiya koitsu 1932]] — shared language: tsuchiya
 - [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — shared language: snow
-- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: snow
 <!-- vault-crosslinks:end -->

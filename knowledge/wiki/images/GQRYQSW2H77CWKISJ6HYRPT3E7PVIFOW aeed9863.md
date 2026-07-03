@@ -1,12 +1,12 @@
 ---
 title: "GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif"
 source_relpath: "gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "249x160"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/GQRYQSW2H77CWKISJ6HYRPT3E7PVIFOW.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

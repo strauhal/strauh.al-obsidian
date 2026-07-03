@@ -1,12 +1,12 @@
 ---
 title: "uzumaki by junji ito 1998 1999"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg"
 source_relpath: "1900s/uzumaki_by_junji_ito_1998_1999.jpeg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "junji ito"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - junji ito]]
 
 Source: [[media/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/uzumaki_by_junji_ito_1998_1999.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

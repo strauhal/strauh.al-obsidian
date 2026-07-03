@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Tea, Scones and Socially Responsible Sex Magic- The Egalitarian Occultism of Dion Fortune]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Tea, Scones and Socially Responsible Sex Magic- The Egalitarian Occultism of Dion Fortune.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/painting of a couple dancing folklorico in front of a yellow cathedral 897515b6|painting of a couple dancing folklorico in front of a yellow cathedral]] — shared language: dancing
-- [[knowledge/wiki/images/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: dancing
-- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: dancing
-- [[knowledge/wiki/images/framed group scene of people dancing or performing dbae02a2|framed group scene of people dancing or performing]] — shared language: dancing
-- [[knowledge/wiki/images/painting of stylized figures dancing around a central fire on a black background 52a5da15|painting of stylized figures dancing around a central fire on a black background]] — shared language: dancing
-- [[knowledge/wiki/images/expressionistic painting of two figures dancing against a red background with yellow lights 39376a24|expressionistic painting of two figures dancing against a red background with yellow lights]] — shared language: dancing
+- [[knowledge/wiki/images/Illustration Two Anthropomorphic Cats Dancing, Holding Hands 06f8510c|Illustration Two Anthropomorphic Cats Dancing, Holding Hands]] — shared language: dancing
+- [[knowledge/wiki/images/Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers 510a82e6|Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers]] — shared language: dancing
+- [[knowledge/wiki/images/Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric 07b42c57|Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric]] — shared language: dancing
+- [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: dancing
+- [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: dancing
+- [[knowledge/wiki/images/Illustration Stylized Figures Dancing Around a Central Fire 81bd370b|Illustration Stylized Figures Dancing Around a Central Fire]] — shared language: dancing
 <!-- vault-crosslinks:end -->

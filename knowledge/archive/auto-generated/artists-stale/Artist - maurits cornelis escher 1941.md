@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - maurits cornelis escher|Artist - maurits cornelis escher]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1938|Artist - m c escher 1938]] — shared language: escher, regular, division
 - [[knowledge/wiki/images/regular division of the plane vi by m c escher 1938 ea9a0659|regular division of the plane vi by m c escher 1938]] — shared language: escher, regular, division
-- [[knowledge/wiki/images/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
-- [[knowledge/wiki/images/mc escher snakes 1969 186361ca|mc escher snakes 1969]] — shared language: escher
+- [[_archive/auto-generated/images-stale/mc escher metamorphosis ii 19391940 d6c6e046|mc escher metamorphosis ii 19391940]] — shared language: escher
 - [[knowledge/wiki/artists/Artist - m c escher|Artist - m c escher]] — shared language: escher, regular, division
+- [[knowledge/archive/auto-generated/artists-stale/Artist - m c escher 1952|Artist - m c escher 1952]] — shared language: escher
 <!-- vault-crosslinks:end -->

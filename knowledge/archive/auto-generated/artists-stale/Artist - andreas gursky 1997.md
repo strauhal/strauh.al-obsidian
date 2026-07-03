@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 2007|Artist - andreas gursky 2007]] — shared language: gursky, andreas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 2006|Artist - andreas gursky 2006]] — shared language: gursky, andreas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 1994|Artist - andreas gursky 1994]] — shared language: gursky, andreas
 - [[knowledge/wiki/artists/Artist - andreas gursky|Artist - andreas gursky]] — shared language: gursky, andreas
-- [[knowledge/wiki/images/cairo by andreas gursky 2007 32c62197|cairo by andreas gursky 2007]] — shared language: gursky, andreas
-- [[knowledge/wiki/images/subdivision 5000 by andreas gursky 2006 39b210a7|subdivision 5000 by andreas gursky 2006]] — shared language: gursky, andreas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andreas gursky 1994|Artist - andreas gursky 1994]] — shared language: gursky, andreas
+- [[_archive/auto-generated/images-stale/cairo by andreas gursky 2007 32c62197|cairo by andreas gursky 2007]] — shared language: gursky, andreas
+- [[_archive/auto-generated/images-stale/subdivision 5000 by andreas gursky 2006 39b210a7|subdivision 5000 by andreas gursky 2006]] — shared language: gursky, andreas
 <!-- vault-crosslinks:end -->

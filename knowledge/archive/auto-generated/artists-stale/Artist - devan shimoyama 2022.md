@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - devan shimoyama|Artist - devan shimoyama]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - devan shimoyama|Artist - devan shimoyama]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - detroit publishing co 1900 1910|Artist - detroit publishing co 1900 1910]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - diego rivera 1934|Artist - diego rivera 1934]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - desmond paul henry 1962|Artist - desmond paul henry 1962]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

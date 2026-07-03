@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
-- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard, blue
-- [[knowledge/archive/auto-generated/artists-stale/Artist - richard e miller 1910|Artist - richard e miller 1910]] — shared language: richard, blue
-- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: richard
-- [[knowledge/wiki/images/the blue slip by richard e miller 1910 f65e8c7b|the blue slip by richard e miller 1910]] — shared language: richard, blue
-- [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1957|Artist - richard avedon 1957]] — shared language: richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
+- [[knowledge/wiki/images/Man in Space by Richard Anuszkiewicz (1962) cc22252b|Man in Space by Richard Anuszkiewicz (1962)]] — shared language: richard
+- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard
+- [[knowledge/archive/auto-generated/artists-stale/Artist - richard e miller 1910|Artist - richard e miller 1910]] — shared language: richard
+- [[_archive/auto-generated/images-stale/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: richard
 <!-- vault-crosslinks:end -->

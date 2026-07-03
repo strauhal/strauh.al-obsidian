@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - cao fei|Artist - cao fei]] — named in this note
-- [[knowledge/wiki/artists/Artist - fei lihua|Artist - fei lihua]] — shared language: fei
+- [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei|Artist - cao fei]] — named in this note
+- [[knowledge/wiki/images/RMB City A Second Life City Planning 04 by Cao Fei (2007) d83c2da6|RMB City A Second Life City Planning 04 by Cao Fei (2007)]] — shared language: cao, fei, rmb
+- [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fei lihua 2016|Artist - fei lihua 2016]] — shared language: fei
 - [[knowledge/wiki/artists/Artist - cao zhibai|Artist - cao zhibai]] — shared language: cao
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cao zhibai 1351|Artist - cao zhibai 1351]] — shared language: cao
-- [[knowledge/wiki/images/study of hands by fei lihua 2016 ab731c4b|study of hands by fei lihua 2016]] — shared language: fei
 <!-- vault-crosslinks:end -->

@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: peace, war
-- [[knowledge/wiki/images/peace by joe roberts 2018 7bdfb177|peace by joe roberts 2018]] — shared language: peace
+- [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: peace
 - [[knowledge/wiki/images/isaac levitan above eternal peace 1894 b4586498|isaac levitan above eternal peace 1894]] — shared language: peace
-- [[knowledge/wiki/images/vue du champ de mars a l instant du serment 1790 c5d41194|vue du champ de mars a l instant du serment 1790]] — shared language: mars
-- [[knowledge/wiki/images/photograph of detained men on dirt mounds in a war damaged city 54067047|photograph of detained men on dirt mounds in a war damaged city]] — shared language: war
-- [[knowledge/wiki/artists/Artist - joe roberts|Artist - joe roberts]] — shared language: peace
+- [[knowledge/wiki/images/Photograph Young Woman In Kimono Making Peace Sign 89677c28|Photograph Young Woman In Kimono Making Peace Sign]] — shared language: peace
+- [[knowledge/wiki/images/Photograph Two People Hanging Banner With Peace Message On Tall Building f91f3737|Photograph Two People Hanging Banner With Peace Message On Tall Building]] — shared language: peace
+- [[knowledge/wiki/images/Photograph Large Crowd At Peace And Freedom Rally, San Francisco 9b284d05|Photograph Large Crowd At Peace And Freedom Rally, San Francisco]] — shared language: peace
 <!-- vault-crosslinks:end -->

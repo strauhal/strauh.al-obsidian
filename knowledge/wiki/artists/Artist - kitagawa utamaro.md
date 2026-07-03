@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: instruments
-- [[knowledge/wiki/images/messett s musical entertainers 6f76529f|messett s musical entertainers]] — shared language: musical
-- [[knowledge/wiki/images/japanese style drawing of three white monkey like figures playing musical instruments and holding shields standing on tall legs amidst falling pink an bf9123a2|japanese style drawing of three white monkey like figures playing musical instruments and holding shields standing on tall legs amidst falling pink an]] — shared language: instruments, musical, playing
-- [[knowledge/wiki/images/framed collection of four black ink fashion sketches of women s dresses ca56ddaf|framed collection of four black ink fashion sketches of women s dresses]] — shared language: four, women
-- [[knowledge/wiki/images/framed still life with brass instruments and objects 57a3f5dd|framed still life with brass instruments and objects]] — shared language: instruments
-- [[knowledge/wiki/images/black and white abstract drawing on musical staff paper d3e142bf|black and white abstract drawing on musical staff paper]] — shared language: musical
+- [[knowledge/wiki/images/Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin 0d9b1c2e|Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
+- [[knowledge/wiki/images/Photograph Musicians Playing String Instruments In An Anechoic Chamber 4e8a35a5|Photograph Musicians Playing String Instruments In An Anechoic Chamber]] — shared language: instruments, playing
+- [[knowledge/wiki/images/Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals 4c057454|Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals]] — shared language: instruments, playing
+- [[knowledge/wiki/images/Photograph Four Members of The Weavers Folk Group with Instruments 03331e7d|Photograph Four Members of The Weavers Folk Group with Instruments]] — shared language: instruments, four
+- [[knowledge/wiki/images/Screenshot Social Media Post With Four Women In Halloween Costumes 5d9755eb|Screenshot Social Media Post With Four Women In Halloween Costumes]] — shared language: women, four
 <!-- vault-crosslinks:end -->

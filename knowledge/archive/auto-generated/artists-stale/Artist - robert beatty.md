@@ -1,0 +1,29 @@
+---
+title: "Artist - robert beatty"
+source_kind: "artist"
+count: "1"
+compiled: "True"
+tags: ["strauhal", "artist"]
+---
+# Artist - robert beatty
+
+Images attributed by filename: 1
+
+## Sample
+
+![[media/strauh.al3.1/2000s/radial_composition_with_piano_keys_red_hand_and_swallows_by_robert_beatty_2020.jpg]]
+
+## Image Notes
+
+- [[radial composition with piano keys red hand and swallows by robert beatty 2020 4bb34434|radial composition with piano keys red hand and swallows by robert beatty 2020]]
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert beatty 2020|Artist - robert beatty 2020]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/wiki/images/Illustration Radial Composition With Piano Keys, Red Hand, And Swallows 17ffca64|Illustration Radial Composition With Piano Keys, Red Hand, And Swallows]] — shared language: swallows, keys, radial
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+<!-- vault-crosslinks:end -->

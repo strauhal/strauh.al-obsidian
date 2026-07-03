@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - thomas sully|Artist - thomas sully]] — named in this note
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — named in this note
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy thomas 2018|Artist - andy thomas 2018]] — shared language: thomas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1837|Artist - thomas cole 1837]] — shared language: thomas
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: thomas
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-canal-1893|Artist - a canal 1893]] — shared language: canal
-- [[knowledge/wiki/images/framed painting of a canal and stone buildings 6f9078c4|framed painting of a canal and stone buildings]] — shared language: canal, buildings
-- [[knowledge/wiki/images/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: canal, buildings, large
-- [[knowledge/wiki/images/black and white illustration of a bridge and gondolas on a canal at a large exposition eec54d88|black and white illustration of a bridge and gondolas on a canal at a large exposition]] — shared language: canal, large
-- [[knowledge/wiki/images/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: canal, buildings
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, large
+- [[_archive/auto-generated/images-stale/framed painting of a canal and stone buildings 6f9078c4|framed painting of a canal and stone buildings]] — shared language: canal, buildings
+- [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: canal, buildings, large
+- [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: canal
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings e2b4dce0|Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings]] — shared language: canal, buildings
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Gondolas on a Canal at an Exposition 62db731f|Illustration Black and White Illustration of Gondolas on a Canal at an Exposition]] — shared language: canal
 <!-- vault-crosslinks:end -->

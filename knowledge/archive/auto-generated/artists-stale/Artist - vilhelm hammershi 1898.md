@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1907|Artist - vilhelm hammershi 1907]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1901|Artist - vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with a woman standing by vilhelm hammershi 1901 99975224|interior with a woman standing by vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior with piano and cello by vilhelm hammershi 1901 1c5f07b5|interior with piano and cello by vilhelm hammershi 1901]] — shared language: vilhelm, hammershi, interior
-- [[knowledge/wiki/images/interior the music room strandgade 30 by vilhelm hammershi 1907 a7c24b37|interior the music room strandgade 30 by vilhelm hammershi 1907]] — shared language: vilhelm, hammershi, interior
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1901|Artist - vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vilhelm hammershi 1907|Artist - vilhelm hammershi 1907]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/artists/Artist - vilhelm hammershi|Artist - vilhelm hammershi]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with a woman standing by vilhelm hammershi 1901 99975224|interior with a woman standing by vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior with piano and cello by vilhelm hammershi 1901 1c5f07b5|interior with piano and cello by vilhelm hammershi 1901]] — shared language: hammershi, vilhelm, interior
+- [[knowledge/wiki/images/interior the music room strandgade 30 by vilhelm hammershi 1907 a7c24b37|interior the music room strandgade 30 by vilhelm hammershi 1907]] — shared language: hammershi, vilhelm, interior
 <!-- vault-crosslinks:end -->

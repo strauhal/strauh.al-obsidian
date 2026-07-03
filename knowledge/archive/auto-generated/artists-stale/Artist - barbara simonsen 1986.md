@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - barbara simonsen|Artist - barbara simonsen]] — named in this note
-- [[knowledge/wiki/artists/Artist - barbara a wood|Artist - barbara a wood]] — shared language: barbara
-- [[knowledge/wiki/images/woman with cat by barbara a wood 43a2c008|woman with cat by barbara a wood]] — shared language: barbara
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
+- [[knowledge/archive/auto-generated/artists-stale/Artist - barbara a wood|Artist - barbara a wood]] — shared language: barbara
+- [[_archive/auto-generated/images-stale/woman with cat by barbara a wood 43a2c008|woman with cat by barbara a wood]] — shared language: barbara
+- [[knowledge/wiki/artists/Artist - Fireplace|Artist - Fireplace]] — shared language: fireplace
+- [[knowledge/wiki/images/Illustration Woman In Long Dress By Fireplace 9a3142bd|Illustration Woman In Long Dress By Fireplace]] — shared language: fireplace
+- [[knowledge/wiki/images/Illustration Woman Squatting, Unwrapping Gifts, Bottles, and Christmas Tree ad5f8b8d|Illustration Woman Squatting, Unwrapping Gifts, Bottles, and Christmas Tree]] — shared language: christmas, tree
 <!-- vault-crosslinks:end -->

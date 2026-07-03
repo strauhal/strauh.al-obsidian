@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: design
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: design
 - [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: design
-- [[knowledge/wiki/images/multicolored fractal design on black background 634ca6e9|multicolored fractal design on black background]] — shared language: design
+- [[knowledge/wiki/images/Illustration Multicolored Fractal Design on Black Background 03dbff8e|Illustration Multicolored Fractal Design on Black Background]] — shared language: design
 <!-- vault-crosslinks:end -->

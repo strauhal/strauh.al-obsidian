@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - haruo takino|Artist - haruo takino]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - he jiaying|Artist - he jiaying]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - hector garcia|Artist - hector garcia]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - harry clarke|Artist - harry clarke]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

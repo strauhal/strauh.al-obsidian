@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — shared language: roger
-- [[knowledge/wiki/images/asia dragon by roger dean 2003 9493499d|asia dragon by roger dean 2003]] — shared language: roger
 - [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — shared language: roger
 - [[knowledge/wiki/images/wanes on the dance by roger dean 1973 21c904ae|wanes on the dance by roger dean 1973]] — shared language: roger
-- [[knowledge/wiki/artists/Artist - conan gray|Artist - conan gray]] — shared language: gray
-- [[knowledge/wiki/images/gray abstract line drawing of a seated figure 55e4cfe5|gray abstract line drawing of a seated figure]] — shared language: gray
+- [[knowledge/wiki/images/Asia Dragon by Roger Dean (2003) d2daa557|Asia Dragon by Roger Dean (2003)]] — shared language: roger
+- [[knowledge/wiki/images/Maniac by Conan Gray (2019) ed3ffa9f|Maniac by Conan Gray (2019)]] — shared language: gray
+- [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: gray
 <!-- vault-crosslinks:end -->

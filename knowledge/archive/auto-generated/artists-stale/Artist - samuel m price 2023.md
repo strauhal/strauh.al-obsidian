@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - samuel m price|Artist - samuel m price]] — named in this note
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price|Artist - samuel m price]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
+- [[knowledge/wiki/images/Photograph Price List On Letter Board With Reflections 281a99a2|Photograph Price List On Letter Board With Reflections]] — shared language: price
 - [[knowledge/wiki/images/the gallery of the louvre by samuel f b morse 18311833 85e71ca1|the gallery of the louvre by samuel f b morse 18311833]] — shared language: samuel
-- [[knowledge/wiki/artists/Artist - samuel worcester rowse|Artist - samuel worcester rowse]] — shared language: samuel
 <!-- vault-crosslinks:end -->

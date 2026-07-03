@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - pablo echaurren|Artist - pablo echaurren]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1935|Artist - pablo picasso 1935]] — shared language: pablo
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1955|Artist - pablo picasso 1955]] — shared language: pablo
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: pablo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1969|Artist - pablo picasso 1969]] — shared language: pablo
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1955|Artist - pablo picasso 1955]] — shared language: pablo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1930|Artist - pablo picasso 1930]] — shared language: pablo
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pablo picasso 1924|Artist - pablo picasso 1924]] — shared language: pablo
 <!-- vault-crosslinks:end -->

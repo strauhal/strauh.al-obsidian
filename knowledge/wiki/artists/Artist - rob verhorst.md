@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - rob israel|Artist - rob israel]] — shared language: rob
-- [[knowledge/wiki/images/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob
-- [[knowledge/wiki/images/indian miniature painting of a festival scene with figures in balconies 3c4993d9|indian miniature painting of a festival scene with figures in balconies]] — shared language: festival
-- [[knowledge/wiki/images/the harvest festival by william hahn 1870 55751286|the harvest festival by william hahn 1870]] — shared language: festival
-- [[knowledge/wiki/images/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: stage
-- [[knowledge/wiki/images/black and white stage photo of a dancer with fabric c79f9f1d|black and white stage photo of a dancer with fabric]] — shared language: stage
+- [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
+- [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
+- [[knowledge/wiki/images/Hills of Houses by Rob Pointon 53cab778|Hills of Houses by Rob Pointon]] — shared language: rob
+- [[knowledge/wiki/images/The Phenomenon of Light by Rob Gonsalves (2005) 0735e06d|The Phenomenon of Light by Rob Gonsalves (2005)]] — shared language: rob
+- [[knowledge/wiki/images/The Sun Sets Sail by Rob Gonsalves (2001) 86328ead|The Sun Sets Sail by Rob Gonsalves (2001)]] — shared language: rob
+- [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — shared language: rob
 <!-- vault-crosslinks:end -->

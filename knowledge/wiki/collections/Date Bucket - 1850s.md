@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1850s"
 source_kind: "date_bucket"
-count: "51"
+count: "60"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,31 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1850s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 51
+Files: 60
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/Contradiction: Oberon and Titania by Richard Dadd (c. 1854-1858).jpg]]
+
+![[media/strauh.al3.1/1800s/Landscape with River and Cattle by Asher B. Durand (1856).jpeg]]
+
+![[media/strauh.al3.1/1800s/Le Pont-Neuf by Charles Meryon (1853).jpg]]
+
+![[media/strauh.al3.1/1800s/Night View of Saruwaka-machi by Utagawa Hiroshige (1856).jpg]]
+
+![[media/strauh.al3.1/1800s/Portrait of J. Mahon by William-Adolphe Bouguereau (1850).jpg]]
+
+![[media/strauh.al3.1/1800s/Portrait of a Young Man by Richard Dadd (1853).jpg]]
+
+![[media/strauh.al3.1/1800s/Sir Alexander Morison by Richard Dadd (1852).jpg]]
+
+![[media/strauh.al3.1/1800s/The Alchemist by William Fettes Douglas (1855).webp]]
+
+![[media/strauh.al3.1/1800s/The Audience in the Theatre by Adolph Menzel (1856).jpg]]
+
+![[media/strauh.al3.1/1800s/The Muses by Victor Morange (1855).jpg]]
+
+![[media/strauh.al3.1/1800s/View of the Hudson River by Thomas Chambers (c. 1850).jpg]]
 
 ![[media/strauh.al3.1/1800s/actor_ichikawa_danjuro_viii_as_kajiwara_genta_kagesue_by_utagawa_kunisada_1852.jpg]]
 
@@ -38,28 +60,6 @@ Files: 51
 ![[media/strauh.al3.1/1800s/hagar_and_ishmael_by_edward_sheffield_bartholomew_1856.jpeg]]
 
 ![[media/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg]]
-
-![[media/strauh.al3.1/1800s/ivan_aivazovsky_the_ninth_wave_1850.jpg]]
-
-![[media/strauh.al3.1/1800s/jiraiya_goketsu_monogatari_tale_of_the_gallant_jiraiya_by_utagawa_kuniyoshi_c_1852.jpg]]
-
-![[media/strauh.al3.1/1800s/john_linnell_the_summer_sea_1856.jpg]]
-
-![[media/strauh.al3.1/1800s/john_martin_the_destruction_of_sodom_and_gomorrah_1859.jpg]]
-
-![[media/strauh.al3.1/1800s/john_martin_the_great_day_of_his_wrath_1853.jpg]]
-
-![[media/strauh.al3.1/1800s/john_martin_the_great_day_of_his_wrath_1853_2.jpg]]
-
-![[media/strauh.al3.1/1800s/la_liseuse_by_stanisaw_stachowicz_1858.jpg]]
-
-![[media/strauh.al3.1/1800s/le_melodrame_the_melodrama_by_honore_daumier_1852.jpg]]
-
-![[media/strauh.al3.1/1800s/les_demoiselles_de_village_the_young_ladies_of_the_village_by_gustave_courbet_1852.jpeg]]
-
-![[media/strauh.al3.1/1800s/man_seated_wearing_a_cap_by_honore_daumier_1858.jpeg]]
-
-![[media/strauh.al3.1/1800s/night_view_of_saruwaka_machi_by_utagawa_hiroshige_1856.jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

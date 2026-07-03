@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
 - [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: tangerine
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: dream
 - [[knowledge/wiki/images/dream 85b838d2|dream]] — shared language: dream
-- [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream
-- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream
 <!-- vault-crosslinks:end -->

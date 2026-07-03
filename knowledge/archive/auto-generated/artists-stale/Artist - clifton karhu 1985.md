@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - clifton wheeler|Artist - clifton wheeler]] — shared language: clifton
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clifton wheeler 1932|Artist - clifton wheeler 1932]] — shared language: clifton
 - [[knowledge/wiki/images/the mill by clifton wheeler 1932 891dba74|the mill by clifton wheeler 1932]] — shared language: clifton
+- [[knowledge/wiki/images/Photograph Close Up Of A Blue Human Iris And Pupil c7b924b1|Photograph Close Up Of A Blue Human Iris And Pupil]] — shared language: iris
 - [[knowledge/wiki/images/yellow iris by fujio yoshida 1954 8b43eba1|yellow iris by fujio yoshida 1954]] — shared language: iris
-- [[knowledge/wiki/images/garden path painting with arches and people 1267cd3d|garden path painting with arches and people]] — shared language: garden
 <!-- vault-crosslinks:end -->

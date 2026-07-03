@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - pez|Artist - pez]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pez|Artist - pez]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - petrina ryan kleid|Artist - petrina ryan kleid]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - petrina ryan kleid 2012|Artist - petrina ryan kleid 2012]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - philip alexius de laszlo 1913|Artist - philip alexius de laszlo 1913]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

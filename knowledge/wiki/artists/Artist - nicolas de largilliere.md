@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - nicolas sassoon|Artist - nicolas sassoon]] — shared language: nicolas
 - [[knowledge/wiki/artists/Artist - nicolas de launay|Artist - nicolas de launay]] — shared language: nicolas
 - [[knowledge/wiki/images/le serment by nicolas de launay 1780 6e5ef2b5|le serment by nicolas de launay 1780]] — shared language: nicolas
-- [[knowledge/wiki/images/running horses by nicolas sassoon 2012 e824e3e9|running horses by nicolas sassoon 2012]] — shared language: nicolas
 - [[knowledge/wiki/images/le serment d amour by nicolas de launay c 1775 89a8a26c|le serment d amour by nicolas de launay c 1775]] — shared language: nicolas
-- [[knowledge/wiki/images/nicolas lefeuvre monumental baroque fantastical architecture 21st century 8d61067d|nicolas lefeuvre monumental baroque fantastical architecture 21st century]] — shared language: nicolas
+- [[knowledge/wiki/artists/Artist - Nicolas Winding Refn|Artist - Nicolas Winding Refn]] — shared language: nicolas
+- [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: nicolas
+- [[knowledge/wiki/images/portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700 23b1c90b|portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

@@ -1,10 +1,10 @@
 ---
 title: "baby videos"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/baby_videos.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/baby_videos.html"
 source_relpath: "baby_videos.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # baby videos
@@ -56,10 +56,10 @@ https://www.youtube.com/watch?v=IXXShCjOx8c
 
 - [[knowledge/wiki/pages/computers|computers]] — shared language: www.youtube.com, https, watch
 - [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: videos, baby, none
-- [[knowledge/raw/diary|Diary]] — shared language: https, www.youtube.com, watch
 - [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: https, www.youtube.com, watch
-- [[knowledge/wiki/pages/diary|diary]] — shared language: www.youtube.com, https, watch
+- [[knowledge/raw/diary|Diary]] — shared language: https, www.youtube.com, watch
 - [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — shared language: watch
+- [[knowledge/wiki/pages/diary|diary]] — shared language: www.youtube.com, https, watch
 - [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: https, www.youtube.com, watch
-- [[knowledge/wiki/images/still life with flowers and a watch by abraham mignon c 1670 4e9b832d|still life with flowers and a watch by abraham mignon c 1670]] — shared language: watch
+- [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
 <!-- vault-crosslinks:end -->

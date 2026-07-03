@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - charlotte dumas|Artist - charlotte dumas]] — named in this note
-- [[knowledge/wiki/artists/Artist - marlene dumas|Artist - marlene dumas]] — shared language: dumas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charlotte dumas|Artist - charlotte dumas]] — named in this note
+- [[knowledge/wiki/images/Anima by Charlotte Dumas (2006) dded49f5|Anima by Charlotte Dumas (2006)]] — shared language: charlotte, dumas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - marlene dumas|Artist - marlene dumas]] — shared language: dumas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marlene dumas 2002|Artist - marlene dumas 2002]] — shared language: dumas
-- [[knowledge/wiki/images/the woman who died of a broken heart by marlene dumas 2002 87d0707e|the woman who died of a broken heart by marlene dumas 2002]] — shared language: dumas
-- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
-- [[knowledge/wiki/images/colorful illustration of a rider on a white horse 27b26447|colorful illustration of a rider on a white horse]] — shared language: horse
+- [[_archive/auto-generated/images-stale/the woman who died of a broken heart by marlene dumas 2002 87d0707e|the woman who died of a broken heart by marlene dumas 2002]] — shared language: dumas
+- [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/artists/Artist - katsuhiro otomo|Artist - katsuhiro otomo]] — shared language: katsuhiro, otomo, garcons
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuhiro otomo 1989|Artist - katsuhiro otomo 1989]] — shared language: katsuhiro, otomo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuhiro otomo 1982|Artist - katsuhiro otomo 1982]] — shared language: katsuhiro, otomo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuhiro otomo 1981|Artist - katsuhiro otomo 1981]] — shared language: katsuhiro, otomo, cover
-- [[knowledge/wiki/artists/Artist - katsuhiro otomo|Artist - katsuhiro otomo]] — shared language: katsuhiro, otomo, magazine
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuhiro otomo 1983|Artist - katsuhiro otomo 1983]] — shared language: katsuhiro, otomo, magazine
 <!-- vault-crosslinks:end -->

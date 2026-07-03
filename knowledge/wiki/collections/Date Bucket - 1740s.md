@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1740s"
 source_kind: "date_bucket"
-count: "13"
+count: "14"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1740s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 13
+Files: 14
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/Shibai Ukie by Okumura Masanobu (c. 1740-1745).jpg]]
 
 ![[media/strauh.al3.1/1700s/capriccio_of_roman_ruins_with_figures_by_giovanni_paolo_panini_c_1740.jpeg]]
 
@@ -35,9 +37,9 @@ Files: 13
 
 ![[media/strauh.al3.1/1700s/the_triumph_of_venus_by_giovanni_battista_tiepolo_c_1743.jpeg]]
 
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1740.PNG]]
+![[media/strauh.al3.1/2000s/Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740-1745).jpg]]
 
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1741.PNG]]
+![[media/strauh.al3.1/2000s/The Ecstasy of St. Francis by Giovanni Battista Piazzetta (1740-60).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

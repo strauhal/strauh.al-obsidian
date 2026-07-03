@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
-- [[knowledge/wiki/images/large painting of baptism or ritual bathing in a river a9ec2c0c|large painting of baptism or ritual bathing in a river]] — shared language: ritual
-- [[knowledge/wiki/images/gallery wall installation with small white birds and pedestals 0766b545|gallery wall installation with small white birds and pedestals]] — shared language: birds
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
-- [[knowledge/wiki/images/delicate figure drawing with birds and water a0ce5864|delicate figure drawing with birds and water]] — shared language: birds
+- [[knowledge/wiki/images/Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/artists/Artist - Tseng Kwong Chi|Artist - Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/books/mckenzie-wark-capital-is-dead-is-this-something-worse|Capital Is Dead: Is This Something Worse?]] — shared language: dead
+- [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds
 <!-- vault-crosslinks:end -->

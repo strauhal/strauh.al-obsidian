@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jean Baudrillard, Mark Poster, Jacques Mourrain - Jean Baudrillard_ Selected Writings_ Second Edition  (2002, Stanford University Press) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Jean Baudrillard Selected Writings Second Edition

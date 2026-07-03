@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
 - [[knowledge/wiki/artists/Artist - gilbert stuart|Artist - gilbert stuart]] — shared language: gilbert
-- [[knowledge/wiki/artists/Artist - richard williams|Artist - richard williams]] — shared language: williams
-- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — shared language: williams
 - [[knowledge/wiki/images/thomas jefferson by gilbert stuart 1805 e765ec56|thomas jefferson by gilbert stuart 1805]] — shared language: gilbert
-- [[knowledge/wiki/images/the art of the deal by robert williams 2017 2f82c2bc|the art of the deal by robert williams 2017]] — shared language: williams
+- [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — shared language: williams
+- [[knowledge/wiki/images/The Art of the Deal by Robert Williams (2017) 809c3341|The Art of the Deal by Robert Williams (2017)]] — shared language: williams
+- [[knowledge/wiki/images/george washington the lansdowne portrait by gilbert stuart 1796 1f8d2ca4|george washington the lansdowne portrait by gilbert stuart 1796]] — shared language: gilbert
+- [[knowledge/wiki/anchors/hype-williams|Hype Williams]] — shared language: williams
 <!-- vault-crosslinks:end -->

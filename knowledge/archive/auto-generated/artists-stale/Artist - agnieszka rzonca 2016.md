@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - agnieszka rzonca|Artist - agnieszka rzonca]] — named in this note
-- [[knowledge/wiki/images/oil painting of a man and woman holding hands in a green field e9826547|oil painting of a man and woman holding hands in a green field]] — shared language: holding, oil, woman
-- [[knowledge/wiki/images/oil painting of a woman in a white bonnet holding a child in a yellow and white dress 1aeb048d|oil painting of a woman in a white bonnet holding a child in a yellow and white dress]] — shared language: holding, oil, woman
-- [[knowledge/wiki/images/expressive painting of a figure holding a light object in a dark landscape 4760e24d|expressive painting of a figure holding a light object in a dark landscape]] — shared language: light, holding
-- [[knowledge/wiki/images/oil painting of a seated woman with blank face holding a key and ring featuring a large unpainted patch fe2944ec|oil painting of a seated woman with blank face holding a key and ring featuring a large unpainted patch]] — shared language: holding, oil, woman
-- [[knowledge/wiki/images/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: light, woman
+- [[knowledge/archive/auto-generated/artists-stale/Artist - agnieszka rzonca|Artist - agnieszka rzonca]] — named in this note
+- [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: warm, light, holding
+- [[knowledge/wiki/images/Illustration Woman Holding A Source Of Warm Light In Darkness b4242252|Illustration Woman Holding A Source Of Warm Light In Darkness]] — shared language: warm, light, holding
+- [[knowledge/wiki/images/Illustration Bedroom at Night with Warm Interior Light f81e6afb|Illustration Bedroom at Night with Warm Interior Light]] — shared language: warm, light
+- [[knowledge/wiki/images/Illustration Person Sitting in Warm Light with String Lights e4aca378|Illustration Person Sitting in Warm Light with String Lights]] — shared language: warm, light
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

@@ -72,9 +72,9 @@ Images attributed by filename: 18
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: lautrec
-- [[knowledge/wiki/images/le moulin de la galette by vincent van gogh 1886 a9ebccbf|le moulin de la galette by vincent van gogh 1886]] — shared language: moulin, galette, gogh
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri
-- [[knowledge/wiki/collections/Collection - 1800s|Collection - 1800s]] — shared language: toulouse, lautrec, henri
-- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: henri
+- [[knowledge/wiki/images/Le Lit by Henri de Toulouse Lautrec (c. 1892) affdbdfd|Le Lit by Henri de Toulouse Lautrec (c. 1892)]] — shared language: toulouse, lautrec, henri
+- [[knowledge/wiki/images/The Loge by Henri de Toulouse Lautrec (1892) 134f6c34|The Loge by Henri de Toulouse Lautrec (1892)]] — shared language: toulouse, lautrec, henri
+- [[knowledge/wiki/images/The Hangover by Henri de Toulouse Lautrec (1887 1888) 5d91d936|The Hangover by Henri de Toulouse Lautrec (1887 1888)]] — shared language: toulouse, lautrec, henri
+- [[knowledge/wiki/images/The Laundress by Henri de Toulouse Lautrec (1888) 675cb1b4|The Laundress by Henri de Toulouse Lautrec (1888)]] — shared language: toulouse, lautrec, henri
+- [[knowledge/wiki/images/Reine de Joie by Henri de Toulouse Lautrec (1892) 443ee94c|Reine de Joie by Henri de Toulouse Lautrec (1892)]] — shared language: toulouse, lautrec, henri
 <!-- vault-crosslinks:end -->

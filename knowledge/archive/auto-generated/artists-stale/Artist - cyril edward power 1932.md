@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
 - [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: power
 - [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: edward
-- [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1943|Artist - edward hopper 1943]] — shared language: edward
+- [[knowledge/wiki/images/Power by Charles Sheeler (1939) 218a0e62|Power by Charles Sheeler (1939)]] — shared language: power
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1600s"
 source_kind: "image_collection"
-count: "95"
+count: "112"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,9 +9,43 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 95
+Files: 112
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/A Philosopher in Contemplation by Rembrandt van Rijn (1632).jpg]]
+
+![[media/strauh.al3.1/1600s/Bacchus and Ariadne by Charles de La Fosse (c. 1699-1700).png]]
+
+![[media/strauh.al3.1/1600s/Bologna by Giovanni Battista Falda (c. 1670).jpg]]
+
+![[media/strauh.al3.1/1600s/Caritas (Charity) by Peter Paul Rubens (c. 1612-1613).jpeg]]
+
+![[media/strauh.al3.1/1600s/Man in Oriental Costume (The Noble Slav) by Rembrandt van Rijn (1632).jpeg]]
+
+![[media/strauh.al3.1/1600s/Portrait of Catharina van der Voort, Wife of Jacob van der Meer by Michiel van Mierevelt (c. 1620).jpeg]]
+
+![[media/strauh.al3.1/1600s/Portrait of a Man by Cornelis de Vos (c. 1620-1625).jpeg]]
+
+![[media/strauh.al3.1/1600s/Self-Portrait by Peter Paul Rubens (1639).webp]]
+
+![[media/strauh.al3.1/1600s/Semele by Bon Boullogne (1688-1704).jpg]]
+
+![[media/strauh.al3.1/1600s/Still Life with Flowers in a Terracotta Vase by Marie Blancour (c. 1650).jpg]]
+
+![[media/strauh.al3.1/1600s/Still Life with Oysters, Wine, and a Cat by Clara Peeters (c. 1620).jpeg]]
+
+![[media/strauh.al3.1/1600s/The Art of Painting by Johannes Vermeer (c. 1666-1668).jpg]]
+
+![[media/strauh.al3.1/1600s/The Embarkation of the Queen of Sheba by Claude Lorrain (1648).jpg]]
+
+![[media/strauh.al3.1/1600s/The Fall of Phaeton by Peter Paul Rubens (1604–1605).webp]]
+
+![[media/strauh.al3.1/1600s/The Philosopher in Meditation by Rembrandt van Rijn (c. 1632).jpg]]
+
+![[media/strauh.al3.1/1600s/The Taking of Christ by Caravaggio (c. 1602).jpg]]
+
+![[media/strauh.al3.1/1600s/Vanitas Still Life by Jan Davidsz. de Heem (c. 1628).jpg]]
 
 ![[media/strauh.al3.1/1600s/a_hanging_carcass_by_gabriel_metsu_c_1655.jpeg]]
 
@@ -27,42 +61,25 @@ Files: 95
 
 ![[media/strauh.al3.1/1600s/allegory_of_the_cave_antrum_platonicum_by_jan_saenredam_1604.jpg]]
 
-![[media/strauh.al3.1/1600s/allegory_of_vanity_by_simon_vouet_c_1640.jpg]]
-
-![[media/strauh.al3.1/1600s/bathsheba_by_rembrandt_van_rijn_1635.jpeg]]
-
-![[media/strauh.al3.1/1600s/caritas_romana_roman_charity_by_jusepe_de_ribera_c_16201625.jpg]]
-
-![[media/strauh.al3.1/1600s/diogenes_throwing_away_his_bowl_by_salvator_rosa_c_1650.jpg]]
-
-![[media/strauh.al3.1/1600s/dirck_van_baburen_the_lute_player_circa_1622.jpg]]
-
-![[media/strauh.al3.1/1600s/divine_love_triumphs_over_profane_love_by_giovanni_baglione_1602.jpg]]
-
-![[media/strauh.al3.1/1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.jpg]]
-
-![[media/strauh.al3.1/1600s/drunken_silenus_by_peter_paul_rubens_c_16161617.jpg]]
-
-![[media/strauh.al3.1/1600s/elijah_fed_by_the_angel_by_gerard_seghers_c_1640.jpg]]
-
-![[media/strauh.al3.1/1600s/faust_in_his_study_watching_a_magic_disk_by_rembrandt_van_rijn_c_1652.jpg]]
-
-![[media/strauh.al3.1/1600s/giovanni_battista_gaulli_the_triumph_of_the_name_of_jesus_ceiling_fresco_1674_1679.jpeg]]
-
-![[media/strauh.al3.1/1600s/govert_flinck_the_return_of_the_prodigal_son_1642.jpg]]
-
-![[media/strauh.al3.1/1600s/head_of_a_man_with_a_ruff_by_peter_paul_rubens_c_1618_1620.jpg]]
-
-![[media/strauh.al3.1/1600s/head_of_an_old_man_in_profile_to_the_right_wearing_a_fur_cap_by_jan_lievens_c_1630.jpeg]]
-
-![[media/strauh.al3.1/1600s/head_of_an_old_man_with_curly_hair_looking_down_bust_by_rembrandt_van_rijn_1630.jpeg]]
-
-![[media/strauh.al3.1/1600s/interior_dome_and_muqarnas_of_sheikh_lotfollah_mosque_isfahan_c_1619.jpeg]]
-
-![[media/strauh.al3.1/1600s/interior_of_the_grote_kerk_haarlem_by_pieter_saenredam_1636.jpg]]
-
 ## Image Notes
 
+- [[A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]]
+- [[Bacchus and Ariadne by Charles de La Fosse (c. 1699 1700) 102511b7|Bacchus and Ariadne by Charles de La Fosse (c. 1699 1700)]]
+- [[Bologna by Giovanni Battista Falda (c. 1670) 7287b10c|Bologna by Giovanni Battista Falda (c. 1670)]]
+- [[Caritas (Charity) by Peter Paul Rubens (c. 1612 1613) ede3aeb4|Caritas (Charity) by Peter Paul Rubens (c. 1612 1613)]]
+- [[Man in Oriental Costume (The Noble Slav) by Rembrandt van Rijn (1632) eb38e120|Man in Oriental Costume (The Noble Slav) by Rembrandt van Rijn (1632)]]
+- [[Portrait of Catharina van der Voort, Wife of Jacob van der Meer by Michiel van Mierevelt (c. 1620) 01be15b7|Portrait of Catharina van der Voort, Wife of Jacob van der Meer by Michiel van Mierevelt (c. 1620)]]
+- [[Portrait of a Man by Cornelis de Vos (c. 1620 1625) 316b895e|Portrait of a Man by Cornelis de Vos (c. 1620 1625)]]
+- [[Self Portrait by Peter Paul Rubens (1639) 7b705037|Self Portrait by Peter Paul Rubens (1639)]]
+- [[Semele by Bon Boullogne (1688 1704) aabe58f2|Semele by Bon Boullogne (1688 1704)]]
+- [[Still Life with Flowers in a Terracotta Vase by Marie Blancour (c. 1650) d63f23af|Still Life with Flowers in a Terracotta Vase by Marie Blancour (c. 1650)]]
+- [[Still Life with Oysters, Wine, and a Cat by Clara Peeters (c. 1620) d0073055|Still Life with Oysters, Wine, and a Cat by Clara Peeters (c. 1620)]]
+- [[The Art of Painting by Johannes Vermeer (c. 1666 1668) 75172f11|The Art of Painting by Johannes Vermeer (c. 1666 1668)]]
+- [[The Embarkation of the Queen of Sheba by Claude Lorrain (1648) 7b27466f|The Embarkation of the Queen of Sheba by Claude Lorrain (1648)]]
+- [[The Fall of Phaeton by Peter Paul Rubens (1604 1605) 9784f51c|The Fall of Phaeton by Peter Paul Rubens (1604 1605)]]
+- [[The Philosopher in Meditation by Rembrandt van Rijn (c. 1632) 06f5186c|The Philosopher in Meditation by Rembrandt van Rijn (c. 1632)]]
+- [[The Taking of Christ by Caravaggio (c. 1602) bd22729b|The Taking of Christ by Caravaggio (c. 1602)]]
+- [[Vanitas Still Life by Jan Davidsz. de Heem (c. 1628) 44c77ac8|Vanitas Still Life by Jan Davidsz. de Heem (c. 1628)]]
 - [[a hanging carcass by gabriel metsu c 1655 2476ef79|a hanging carcass by gabriel metsu c 1655]]
 - [[a lady holding a flowering branch mid 17th century f10cbb46|a lady holding a flowering branch mid 17th century]]
 - [[a satyr and a nymph with a basket of fruit by jacob jordaens c 1620 1625 0f518e4a|a satyr and a nymph with a basket of fruit by jacob jordaens c 1620 1625]]
@@ -162,6 +179,7 @@ Files: 95
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Fall of the Damned by Peter Paul Rubens (c. 1618 1620) 2ed04fb7|The Fall of the Damned by Peter Paul Rubens (c. 1618 1620)]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/images/guido 52af9147|guido]] — named in this note
@@ -169,5 +187,4 @@ Files: 95
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, baptist
 - [[knowledge/wiki/artists/Artist - peter paul rubens|Artist - peter paul rubens]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

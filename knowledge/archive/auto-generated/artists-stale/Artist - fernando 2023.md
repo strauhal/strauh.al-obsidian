@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - fernando|Artist - fernando]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - fernando|Artist - fernando]] — named in this note
 - [[knowledge/wiki/books/fernando-pessoa-the-book-of-disquiet|The Book of Disquiet]] — shared language: fernando
 - [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — shared language: fernando
 - [[knowledge/wiki/images/miss la la at the cirque fernando by edgar degas 1879 3d78ed34|miss la la at the cirque fernando by edgar degas 1879]] — shared language: fernando

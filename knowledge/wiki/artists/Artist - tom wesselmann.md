@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - tom lovell|Artist - tom lovell]] — shared language: tom
 - [[knowledge/wiki/artists/Artist - tom thomson|Artist - tom thomson]] — shared language: tom
-- [[knowledge/wiki/artists/Artist - tom parker|Artist - tom parker]] — shared language: tom
-- [[knowledge/wiki/images/the morning after by tom lovell 1950 872ce5d4|the morning after by tom lovell 1950]] — shared language: tom
 - [[knowledge/wiki/images/sunset by tom thomson c 1915 8946d207|sunset by tom thomson c 1915]] — shared language: tom
+- [[knowledge/wiki/images/the morning after by tom lovell 1950 872ce5d4|the morning after by tom lovell 1950]] — shared language: tom
 - [[knowledge/wiki/anchors/tom-tykwer|Tom Tykwer]] — shared language: tom
+- [[knowledge/wiki/images/the west wind by tom thomson 1917 b179bc34|the west wind by tom thomson 1917]] — shared language: tom
 <!-- vault-crosslinks:end -->

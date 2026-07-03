@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: roman
+- [[knowledge/wiki/images/The Excavation of Pompeii by Ettore Forti (1880) 72eb0d9e|The Excavation of Pompeii by Ettore Forti (1880)]] — shared language: ettore, forti
 - [[knowledge/wiki/artists/Artist - after polykleitos 2nd century ad roman|Artist - after polykleitos 2nd century ad roman]] — shared language: roman
 - [[knowledge/wiki/images/carl bloch in a roman osteria 1866 4fe3be89|carl bloch in a roman osteria 1866]] — shared language: roman
 - [[knowledge/wiki/images/carl bloch in a roman osteria 1866 2 d5ab0018|carl bloch in a roman osteria 1866 2]] — shared language: roman

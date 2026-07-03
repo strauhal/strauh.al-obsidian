@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - bern porter|Artist - bern porter]] — shared language: porter
 - [[knowledge/wiki/images/the something missing is essentially inexpressible by bern porter 1971 c4b79a59|the something missing is essentially inexpressible by bern porter 1971]] — shared language: porter
-- [[knowledge/wiki/images/close up of knitted sweater with repeating red horizontal figure pattern e42e1adb|close up of knitted sweater with repeating red horizontal figure pattern]] — shared language: sweater
+- [[knowledge/wiki/images/Photograph Close Up of Red and White Knitted Sweater with Stylized Figures fd8cdcea|Photograph Close Up of Red and White Knitted Sweater with Stylized Figures]] — shared language: sweater
+- [[knowledge/wiki/images/Photograph Person with Blonde Pigtails Wearing Sweater with Cross Design 7a5fae31|Photograph Person with Blonde Pigtails Wearing Sweater with Cross Design]] — shared language: sweater
 - [[knowledge/wiki/images/tennis player by harold edgerton 1949 d7b03044|tennis player by harold edgerton 1949]] — shared language: tennis
-- [[knowledge/wiki/images/color photograph of a young man in a blue sweater and paint splattered jeans standing in a studio with arms outstretched e5c29cb5|color photograph of a young man in a blue sweater and paint splattered jeans standing in a studio with arms outstretched]] — shared language: sweater
-- [[knowledge/wiki/images/the tennis court oath le serment du jeu de paume by jacques louis david c 1791 5d82c2bf|the tennis court oath le serment du jeu de paume by jacques louis david c 1791]] — shared language: tennis
+- [[knowledge/wiki/images/Photograph Tennis Serve by Harold Edgerton a9a601f9|Photograph Tennis Serve by Harold Edgerton]] — shared language: tennis
 <!-- vault-crosslinks:end -->

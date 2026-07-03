@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom lovell 1950|Artist - tom lovell 1950]] — shared language: tom
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom thomson 1917|Artist - tom thomson 1917]] — shared language: tom
 - [[knowledge/wiki/artists/Artist - tom thomson|Artist - tom thomson]] — shared language: tom
-- [[knowledge/wiki/artists/Artist - tom parker|Artist - tom parker]] — shared language: tom
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tom parker|Artist - tom parker]] — shared language: tom
 <!-- vault-crosslinks:end -->

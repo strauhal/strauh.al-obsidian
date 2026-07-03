@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-human-hand|Artist - a human hand]] — shared language: hand, human
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human, like
+- [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand, human, held
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human, like
+- [[knowledge/wiki/images/Illustration Red Human Figure with Atomic Orbits Held by Giant Hand 83bd1cfd|Illustration Red Human Figure with Atomic Orbits Held by Giant Hand]] — shared language: hand, human, held
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: human, like
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human
 <!-- vault-crosslinks:end -->

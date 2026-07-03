@@ -1,12 +1,12 @@
 ---
 title: "FDZFcNzVcAkWat"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/FDZFcNzVcAkWat_.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/FDZFcNzVcAkWat_.jpeg"
 source_relpath: "photography/FDZFcNzVcAkWat_.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "828x971"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/FDZFcNzVcAkWat_.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/FDZFcNzVcAkWat_.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/FDZFcNzVcAkWat_.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/images/FC1EAgNVEAIK0Q2 174067bb|FC1EAgNVEAIK0Q2]] — nearby note in the same source series
+- [[knowledge/wiki/images/FEHYpcSVUAUGlR8 92a6af3e|FEHYpcSVUAUGlR8]] — nearby note in the same source series
+- [[knowledge/wiki/images/FB3oemNX0AIzTCf 3b419983|FB3oemNX0AIzTCf]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

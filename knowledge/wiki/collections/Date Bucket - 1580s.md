@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1580s"
 source_kind: "date_bucket"
-count: "14"
+count: "18"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,23 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1580s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 14
+Files: 18
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Hercules by Hendrick Goltzius (1589).jpg]]
+
+![[media/strauh.al3.1/1500s/Marcus Atilius Regulus by Hendrick Goltzius (c. 1586).jpg]]
+
+![[media/strauh.al3.1/1500s/Mucius Scaevola by Hendrick Goltzius (1586).jpg]]
+
+![[media/strauh.al3.1/1500s/St Francis in Meditation by Lodovico Carracci (c. 1585).jpg]]
+
+![[media/strauh.al3.1/1500s/The Artist's Right Hand by Hendrick Goltzius (1588).jpg]]
+
+![[media/strauh.al3.1/1500s/The Fall of Phaeton by Hendrick Goltzius (1588).jpg]]
+
+![[media/strauh.al3.1/1500s/The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588).jpg]]
 
 ![[media/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg]]
 
@@ -31,15 +45,9 @@ Files: 14
 
 ![[media/strauh.al3.1/1500s/virginia_de_medici_with_her_children_by_alessandro_allori_1586.jpeg]]
 
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1581.PNG]]
-
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1582.PNG]]
+![[media/strauh.al3.1/2000s/The Burial of the Count of Orgaz by El Greco (1586-1588).jpg]]
 
 ![[media/strauh.al3.1/computers/tumblr_d633f647f138b3a5ddfa6c6cc1580d70_ab79f538_1280.jpg]]
-
-![[media/strauh.al3.1/unsorted/mucius_scaevola_by_hendrick_goltzius_1586.jpg]]
-
-![[media/strauh.al3.1/unsorted/the_artists_right_hand_by_hendrick_goltzius_1588.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

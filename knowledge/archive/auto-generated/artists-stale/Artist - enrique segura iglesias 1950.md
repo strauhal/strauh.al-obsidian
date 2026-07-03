@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - enrique segura iglesias|Artist - enrique segura iglesias]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrique chagoya 2005|Artist - enrique chagoya 2005]] — shared language: enrique
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrique chagoya 2012|Artist - enrique chagoya 2012]] — shared language: enrique
-- [[knowledge/wiki/artists/Artist - enrique chagoya|Artist - enrique chagoya]] — shared language: enrique
-- [[knowledge/wiki/images/the enlightened savage by enrique chagoya 2005 af9fbe2e|the enlightened savage by enrique chagoya 2005]] — shared language: enrique
-- [[knowledge/wiki/images/the misadventures of the romantic cannibals by enrique chagoya 2012 cd916e11|the misadventures of the romantic cannibals by enrique chagoya 2012]] — shared language: enrique
+- [[knowledge/archive/auto-generated/artists-stale/Artist - enrique chagoya|Artist - enrique chagoya]] — shared language: enrique
+- [[_archive/auto-generated/images-stale/the enlightened savage by enrique chagoya 2005 af9fbe2e|the enlightened savage by enrique chagoya 2005]] — shared language: enrique
+- [[_archive/auto-generated/images-stale/the misadventures of the romantic cannibals by enrique chagoya 2012 cd916e11|the misadventures of the romantic cannibals by enrique chagoya 2012]] — shared language: enrique
 <!-- vault-crosslinks:end -->

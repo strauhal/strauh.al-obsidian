@@ -29,7 +29,7 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: blake, william
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william, great
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
+- [[knowledge/wiki/images/Bad Cameo by James Blake and Lil Yachty (2023) f252eb00|Bad Cameo by James Blake and Lil Yachty (2023)]] — shared language: blake
 - [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
-- [[knowledge/wiki/images/the annunciation by john william waterhouse 1914 f6963c66|the annunciation by john william waterhouse 1914]] — shared language: william
 - [[knowledge/wiki/images/john william waterhouse naiads 1908 dd603bdc|john william waterhouse naiads 1908]] — shared language: william
 <!-- vault-crosslinks:end -->

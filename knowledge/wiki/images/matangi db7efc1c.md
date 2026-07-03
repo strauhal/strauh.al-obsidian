@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Green Skinned Six Armed Goddess Matangi Seated on Throne with Veena 993aec89|Illustration Green Skinned Six Armed Goddess Matangi Seated on Throne with Veena]] — shared language: matangi
 - [[knowledge/wiki/images/masterworks 35 by tom wesselmann 1979 76ceed42|masterworks 35 by tom wesselmann 1979]] — nearby note in the same source series
-- [[knowledge/wiki/images/matisse style colorful cutout portrait with flowers 7730e78a|matisse style colorful cutout portrait with flowers]] — nearby note in the same source series
-- [[knowledge/wiki/images/massive attack 87b63bde|massive attack]] — nearby note in the same source series
+- [[knowledge/wiki/images/matte painting for black narcissus by w percy day 1947 dec7a07f|matte painting for black narcissus by w percy day 1947]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

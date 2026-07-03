@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - maurice denis|Artist - maurice denis]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
+- [[knowledge/wiki/artists/Artist - Denis|Artist - Denis]] — shared language: denis
 - [[knowledge/wiki/artists/Artist - maurice prendergast|Artist - maurice prendergast]] — shared language: maurice
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maurice prendergast 1901|Artist - maurice prendergast 1901]] — shared language: maurice
 - [[knowledge/wiki/images/the east river by maurice prendergast 1901 8d17af3a|the east river by maurice prendergast 1901]] — shared language: maurice
-- [[knowledge/wiki/artists/Artist - maurice pillard verneuil|Artist - maurice pillard verneuil]] — shared language: maurice
 <!-- vault-crosslinks:end -->

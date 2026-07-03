@@ -34,8 +34,8 @@ Images attributed by filename: 5
 
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: structure, music, human
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: internal, human, head
 - [[knowledge/wiki/books/piano|piano]] — shared language: music
 - [[knowledge/wiki/books/basic-notation|basic-notation]] — shared language: music
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: music
-- [[knowledge/wiki/images/medical scan of an obese human figure showing skeleton and internal organs cc335379|medical scan of an obese human figure showing skeleton and internal organs]] — shared language: internal, showing, human
 <!-- vault-crosslinks:end -->

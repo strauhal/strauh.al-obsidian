@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - theobald reinhold von oer|Artist - theobald reinhold von oer]] — named in this note
+- [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: von
 - [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: von
-- [[knowledge/wiki/images/ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg e31f1a9f|ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg]] — shared language: von
-- [[knowledge/wiki/artists/Artist - franz von lenbach|Artist - franz von lenbach]] — shared language: von
-- [[knowledge/wiki/artists/Artist - franz von bayros|Artist - franz von bayros]] — shared language: von
+- [[knowledge/wiki/artists/Artist - Eugene Von Bruenchenhein|Artist - Eugene Von Bruenchenhein]] — shared language: von
+- [[knowledge/wiki/images/Illustration Abstract Geometric Drawing with Lines and Dots by Eugene Von Bruenchenhein 9b190a26|Illustration Abstract Geometric Drawing with Lines and Dots by Eugene Von Bruenchenhein]] — shared language: von
 <!-- vault-crosslinks:end -->

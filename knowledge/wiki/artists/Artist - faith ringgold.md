@@ -32,10 +32,10 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Blue Pixel Art Character, John Ward, From Faith The Unholy Trinity 22b2f865|Illustration Blue Pixel Art Character, John Ward, From Faith The Unholy Trinity]] — shared language: faith
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — shared language: story
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art-phaidon|The Story of Art-Phaidon]] — shared language: story
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: story
 - [[knowledge/wiki/books/will-durant-the-story-of-philosophy-the-lives-and-opinions-of-the-world-s-greatest-philosophers|The Story of Philosophy The Lives and Opinions of the World's Greatest Philosophers]] — shared language: story
 - [[knowledge/wiki/books/ernest-henry-shackleton-south-the-story-of-shackleton-s-last-expedition-1914-1917-duke-classics|South the story of Shackleton's last expedition, 1914-1917-Duke Classics]] — shared language: story
-- [[knowledge/wiki/images/the quilt by john wilde 1974 36699176|the quilt by john wilde 1974]] — shared language: quilt
 <!-- vault-crosslinks:end -->

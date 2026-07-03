@@ -1,13 +1,13 @@
 ---
 title: "Artist - william adolphe bouguereau"
 source_kind: "artist"
-count: "16"
+count: "13"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - william adolphe bouguereau
 
-Images attributed by filename: 16
+Images attributed by filename: 13
 
 ## Sample
 
@@ -37,12 +37,6 @@ Images attributed by filename: 16
 
 ![[media/strauh.al3.1/1900s/the_oreads_by_william_adolphe_bouguereau_1902.jpg]]
 
-![[media/strauh.al3.1/2000s/unfinished_detail_by_william_adolphe_bouguereau.jpg]]
-
-![[media/strauh.al3.1/unsorted/the_birth_of_venus_by_william_adolphe_bouguereau_1879.jpg]]
-
-![[media/strauh.al3.1/unsorted/the_nymphaeum_by_william_adolphe_bouguereau_1878.jpg]]
-
 ## Image Notes
 
 - [[a young woman wearing a cross by william adolphe bouguereau 1874 b2ce03aa|a young woman wearing a cross by william adolphe bouguereau 1874]]
@@ -58,17 +52,14 @@ Images attributed by filename: 16
 - [[the youth of bacchus by william adolphe bouguereau 1884 01747f2c|the youth of bacchus by william adolphe bouguereau 1884]]
 - [[the youth of bacchus by william adolphe bouguereau 1884 a132ad8d|the youth of bacchus by william adolphe bouguereau 1884]]
 - [[the oreads by william adolphe bouguereau 1902 c8162c71|the oreads by william adolphe bouguereau 1902]]
-- [[unfinished detail by william adolphe bouguereau cc2523dd|unfinished detail by william adolphe bouguereau]]
-- [[the birth of venus by william adolphe bouguereau 1879 75e09a92|the birth of venus by william adolphe bouguereau 1879]]
-- [[the nymphaeum by william adolphe bouguereau 1878 cd28a08b|the nymphaeum by william adolphe bouguereau 1878]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 d451d1cf|williamadolphe bouguereau dante and virgil 1850]] — named in this note
 - [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 2 27278792|williamadolphe bouguereau dante and virgil 1850 2]] — named in this note
-- [[knowledge/wiki/images/williamadolphe bouguereau the sleep le sommeil 1873 31c1aa27|williamadolphe bouguereau the sleep le sommeil 1873]] — shared language: bouguereau
-- [[knowledge/wiki/images/williamadolphe bouguereau nymphes des sources 1902 ed0e3352|williamadolphe bouguereau nymphes des sources 1902]] — shared language: bouguereau
-- [[knowledge/wiki/images/hylas and the nymphs by john william waterhouse 1896 c3327fee|hylas and the nymphs by john william waterhouse 1896]] — shared language: william, nymphs
-- [[knowledge/wiki/images/john william waterhouse hylas and the nymphs 1896 0b76d852|john william waterhouse hylas and the nymphs 1896]] — shared language: william, nymphs
+- [[knowledge/wiki/images/Diana by William Adolphe Bouguereau (1882) e0e78e6f|Diana by William Adolphe Bouguereau (1882)]] — shared language: bouguereau, adolphe, william
+- [[knowledge/wiki/images/The First Kiss by William Adolphe Bouguereau (1890) 6f4e9f30|The First Kiss by William Adolphe Bouguereau (1890)]] — shared language: bouguereau, adolphe, william
+- [[knowledge/wiki/images/Unfinished Detail by William Adolphe Bouguereau 54573a8c|Unfinished Detail by William Adolphe Bouguereau]] — shared language: adolphe, bouguereau, william
+- [[knowledge/wiki/images/The Nymphaeum by William Adolphe Bouguereau (1878) 7927dfe6|The Nymphaeum by William Adolphe Bouguereau (1878)]] — shared language: bouguereau, adolphe, william
 <!-- vault-crosslinks:end -->

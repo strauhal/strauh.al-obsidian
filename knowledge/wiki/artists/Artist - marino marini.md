@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - enrico marini|Artist - enrico marini]] — shared language: marini
-- [[knowledge/wiki/images/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: marini
-- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses, two
-- [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses, two
-- [[knowledge/wiki/images/framed battle scene with horsemen and white horses 3cbb34b8|framed battle scene with horsemen and white horses]] — shared language: horses
-- [[knowledge/wiki/images/horses 1 by jessica bohus abdb0801|horses 1 by jessica bohus]] — shared language: horses
+- [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: marini
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
+- [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses
+- [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses
+- [[knowledge/wiki/images/Illustration Two Wire Sculptures of Horses on a White Pedestal 33e4bede|Illustration Two Wire Sculptures of Horses on a White Pedestal]] — shared language: horses
+- [[knowledge/wiki/images/Illustration Mythological Figure Riding Sea Horses Through Turbulent Waves 82fa34d6|Illustration Mythological Figure Riding Sea Horses Through Turbulent Waves]] — shared language: horses
 <!-- vault-crosslinks:end -->

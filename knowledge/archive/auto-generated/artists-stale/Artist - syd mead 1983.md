@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - syd mead 1980|Artist - syd mead 1980]] — shared language: syd, mead
 - [[knowledge/wiki/images/future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]] — shared language: syd, mead, future
 - [[knowledge/wiki/images/blade runner street scene by syd mead 1980 b3e5eee6|blade runner street scene by syd mead 1980]] — shared language: syd, mead
-- [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
+- [[knowledge/wiki/images/Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline ecf6442c|Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: freeway, angeles, los
 <!-- vault-crosslinks:end -->

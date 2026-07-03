@@ -29,7 +29,7 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: arnold, columbian, exposition
 - [[knowledge/wiki/artists/Artist - c d arnold|Artist - c d arnold]] — shared language: arnold, columbian, exposition
 - [[knowledge/wiki/images/palace of mechanic arts world s columbian exposition chicago by c d arnold 1893 0fd25551|palace of mechanic arts world s columbian exposition chicago by c d arnold 1893]] — shared language: arnold, columbian, exposition
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, columbian, building
 - [[knowledge/wiki/images/the electricity building at night world s columbian exposition chicago 1893 by charles graham 1893 36f1cd3f|the electricity building at night world s columbian exposition chicago 1893 by charles graham 1893]] — shared language: charles, columbian, exposition
 - [[knowledge/wiki/images/palace of fine arts and promenade along the lagoon world s columbian exposition by c d arnold 1893 9056c492|palace of fine arts and promenade along the lagoon world s columbian exposition by c d arnold 1893]] — shared language: arnold, columbian, exposition
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: charles, buildings
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1510s"
 source_kind: "date_bucket"
-count: "8"
+count: "11"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1510s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 8
+Files: 11
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Knight, Death and the Devil by Albrecht Dürer (1513).jpg]]
+
+![[media/strauh.al3.1/1500s/The Beheading of Saint John the Baptist by Hans Baldung Grien (c. 1514-1515).jpg]]
+
+![[media/strauh.al3.1/1500s/The Tribute Money by Titian (1516).jpg]]
 
 ![[media/strauh.al3.1/1500s/madonna_and_child_with_saints_pala_di_san_frediano_by_andrea_del_sarto_c_1517.jpeg]]
 
@@ -27,7 +33,7 @@ Files: 8
 
 ![[media/strauh.al3.1/1500s/the_expulsion_of_heliodorus_from_the_temple_by_raphael_1511_1512.jpeg]]
 
-![[media/strauh.al3.1/unsorted/the_tribute_money_by_titian_1516.jpg]]
+![[media/strauh.al3.1/2000s/The School of Athens by Raphael (1509-1511).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

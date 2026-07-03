@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - walton ford|Artist - walton ford]] — named in this note
-- [[knowledge/wiki/anchors/francis-ford-coppola|Francis Ford Coppola]] — shared language: ford
+- [[knowledge/archive/auto-generated/artists-stale/Artist - walton ford|Artist - walton ford]] — named in this note
+- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: ford
 - [[knowledge/wiki/artists/Artist - henry justice ford|Artist - henry justice ford]] — shared language: ford
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henry justice ford 1905|Artist - henry justice ford 1905]] — shared language: ford
-- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: ford
-- [[knowledge/wiki/images/here you shall remain chained up until you die by henry justice ford 1905 a06598aa|here you shall remain chained up until you die by henry justice ford 1905]] — shared language: ford
+- [[knowledge/wiki/anchors/francis-ford-coppola|Francis Ford Coppola]] — shared language: ford
+- [[knowledge/wiki/images/Illustration The Bride and The Lindorm by Henry Justice Ford f6e7d556|Illustration The Bride and The Lindorm by Henry Justice Ford]] — shared language: ford
 <!-- vault-crosslinks:end -->

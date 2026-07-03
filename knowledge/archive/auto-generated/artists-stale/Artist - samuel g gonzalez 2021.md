@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez 2016|Artist - josan gonzalez 2016]] — shared language: gonzalez
+- [[knowledge/wiki/images/This Old Bones Needs Rest by Samuel G. Gonzalez (2021) 34dc86ba|This Old Bones Needs Rest by Samuel G. Gonzalez (2021)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — named in this note
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
-- [[knowledge/wiki/artists/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price 2023|Artist - samuel m price 2023]] — shared language: samuel
-- [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: gonzalez
+- [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez 2016|Artist - josan gonzalez 2016]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

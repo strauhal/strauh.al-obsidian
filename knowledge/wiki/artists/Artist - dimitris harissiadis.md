@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - dieric bouts|Artist - dieric bouts]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - dmitry grebenkov|Artist - dmitry grebenkov]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - don harridge|Artist - don harridge]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - diego velazquez|Artist - diego velazquez]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

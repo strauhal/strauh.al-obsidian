@@ -37,8 +37,8 @@ Images attributed by filename: 6
 
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — shared language: auguste
+- [[knowledge/wiki/images/The Prisoner by Jean Baptiste Auguste Leloir (1837) 1e482354|The Prisoner by Jean Baptiste Auguste Leloir (1837)]] — shared language: auguste, jean
 - [[knowledge/wiki/artists/Artist - auguste renoir|Artist - auguste renoir]] — shared language: auguste
 - [[knowledge/wiki/artists/Artist - auguste lepere|Artist - auguste lepere]] — shared language: auguste
-- [[knowledge/wiki/artists/Artist - auguste rodin|Artist - auguste rodin]] — shared language: auguste
-- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: jean
+- [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: auguste
 <!-- vault-crosslinks:end -->

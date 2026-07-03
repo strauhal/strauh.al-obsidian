@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
+- [[knowledge/wiki/images/Sunday, Women Drying Their Hair by John Sloan (1912) 28f17b2d|Sunday, Women Drying Their Hair by John Sloan (1912)]] — shared language: sloan, john
+- [[knowledge/wiki/images/The School Bus by John Falter (1950) 7a8e8329|The School Bus by John Falter (1950)]] — shared language: john, bus
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
-- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
-- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: john
 <!-- vault-crosslinks:end -->

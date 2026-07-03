@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - georg baselitz|Artist - georg baselitz]] — named in this note
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — shared language: georg
-- [[knowledge/wiki/images/black and white image of georg wilhelm friedrich hegel portrait with humorous text 86b4c97d|black and white image of georg wilhelm friedrich hegel portrait with humorous text]] — shared language: georg
+- [[knowledge/wiki/images/Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel 3cf42ba3|Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel]] — shared language: georg
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg
-- [[knowledge/wiki/images/black and white photograph of an older man seated with both hands raised 27023b77|black and white photograph of an older man seated with both hands raised]] — shared language: raised, man
-- [[knowledge/wiki/culture/reading-phenomenology-of-spirit|Reading - Phenomenology of Spirit]] — shared language: georg
+- [[_archive/auto-generated/images-stale/black and white image of georg wilhelm friedrich hegel portrait with humorous text 86b4c97d|black and white image of georg wilhelm friedrich hegel portrait with humorous text]] — shared language: georg
+- [[knowledge/wiki/images/Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775) dbead3f8|Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775)]] — shared language: georg
 <!-- vault-crosslinks:end -->

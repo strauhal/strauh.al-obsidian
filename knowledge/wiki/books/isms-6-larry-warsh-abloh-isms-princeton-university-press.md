@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(ISMs_ 6) Larry Warsh (editor) - Abloh-isms-Princeton University Press (2021).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Abloh-isms-Princeton University Press
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — same category: unsorted
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — same category: unsorted
 - [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — same category: unsorted
-- [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — same category: unsorted
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1480s"
 source_kind: "date_bucket"
-count: "5"
+count: "4"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1480s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 4
 
 ## Sample
 
@@ -18,8 +18,6 @@ Files: 5
 ![[media/strauh.al3.1/1400s/the_resurrection_by_martin_schongauer_c_1475_1480.jpeg]]
 
 ![[media/strauh.al3.1/1400s/view_of_venice_by_erhard_reuwich_1486.jpeg]]
-
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1487.png]]
 
 ![[media/strauh.al3.1/gif_collection/tumblr_763b3318d1482fa2739751235f23c757_0cf4288f_100.gif]]
 

@@ -1,12 +1,12 @@
 ---
 title: "tokyo japan 2014 train station rush hour"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg"
 source_relpath: "photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg"
 collection: "photography"
 inferred_year: "2014"
 artist: ""
-dimensions: "1024x768"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/moriyama 5fe054a7|moriyama]] — same collection: photography
 - [[knowledge/wiki/anchors/daido-moriyama|daido moriyama]] — named in this note
-- [[knowledge/wiki/images/1619523650404 b47d8568|1619523650404]] — same collection: photography
-- [[knowledge/wiki/images/1619523682056 611541cd|1619523682056]] — same collection: photography
-- [[knowledge/wiki/images/1619523714707 7a95b4de|1619523714707]] — same collection: photography
+- [[knowledge/wiki/images/moriyama 5fe054a7|moriyama]] — named in this note
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, station
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
+- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: japan, station
 <!-- vault-crosslinks:end -->

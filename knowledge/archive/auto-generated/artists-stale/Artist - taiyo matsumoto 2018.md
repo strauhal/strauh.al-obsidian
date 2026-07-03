@@ -20,7 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - taiyo matsumoto|Artist - taiyo matsumoto]] — named in this note
-- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
-- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/archive/auto-generated/artists-stale/Artist - taiyo matsumoto|Artist - Taiyo Matsumoto]] — named in this note
+- [[knowledge/wiki/images/Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto f36342f4|Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto]] — shared language: taiyo, matsumoto, omnibus
+- [[knowledge/wiki/artists/Artist - Taiy Matsumoto|Artist - Taiy Matsumoto]] — shared language: matsumoto
+- [[knowledge/wiki/images/Illustration TEKKONKINKREET by Taiy Matsumoto 1a59c4a2|Illustration TEKKONKINKREET by Taiy Matsumoto]] — shared language: matsumoto
+- [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[_archive/auto-generated/images-stale/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
 <!-- vault-crosslinks:end -->

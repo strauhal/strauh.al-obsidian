@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert beatty|Artist - robert beatty]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert beatty|Artist - robert beatty]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/wiki/images/Illustration Radial Composition With Piano Keys, Red Hand, And Swallows 17ffca64|Illustration Radial Composition With Piano Keys, Red Hand, And Swallows]] — shared language: swallows, keys, radial
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert

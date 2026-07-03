@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kehinde wiley|Artist - kehinde wiley]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kehinde wiley|Artist - kehinde wiley]] — named in this note
 - [[knowledge/wiki/books/lawrence-e-cahoone-from-modernism-to-postmodernism-blackwell-philosophy-anthologies-wiley|From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley]] — shared language: wiley
-- [[knowledge/wiki/images/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young, man
-- [[knowledge/wiki/images/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young, man
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: young, man
+- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young
+- [[_archive/auto-generated/images-stale/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug|Artist - young thug]] — shared language: young
 <!-- vault-crosslinks:end -->

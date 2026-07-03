@@ -1,12 +1,12 @@
 ---
 title: "sparse pines and secluded cliffs by cao zhibai 1351"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg"
 source_relpath: "1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "cao zhibai"
-dimensions: "2268x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---
@@ -20,14 +20,14 @@ Artist: [[Artist - cao zhibai]]
 
 Source: [[media/strauh.al3.1/1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1300s/sparse_pines_and_secluded_cliffs_by_cao_zhibai_1351.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - cao fei|Artist - cao fei]] — shared language: cao
-- [[knowledge/wiki/images/painting of cypress trees on cliffs above water 75aa5267|painting of cypress trees on cliffs above water]] — shared language: cliffs
-- [[knowledge/wiki/images/rmb city city planning by cao fei 2007 ac3167c7|rmb city city planning by cao fei 2007]] — shared language: cao
-- [[knowledge/wiki/images/rocky mountain landscape painting with steep cliffs c5234a34|rocky mountain landscape painting with steep cliffs]] — shared language: cliffs
-- [[knowledge/wiki/images/black and white photograph of a woman standing in ocean waves near cliffs 67002523|black and white photograph of a woman standing in ocean waves near cliffs]] — shared language: cliffs
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs 02def084|Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs]] — shared language: cliffs
+- [[knowledge/wiki/images/RMB City A Second Life City Planning 04 by Cao Fei (2007) d83c2da6|RMB City A Second Life City Planning 04 by Cao Fei (2007)]] — shared language: cao
+- [[knowledge/wiki/images/secluded landscape at sunset by frederick edwin church 1860 b5b86164|secluded landscape at sunset by frederick edwin church 1860]] — shared language: secluded
+- [[knowledge/wiki/images/Diagram Comparison of Sparse Hub and Spoke and Dense Networks 978293e1|Diagram Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: sparse
+- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: pines
 <!-- vault-crosslinks:end -->

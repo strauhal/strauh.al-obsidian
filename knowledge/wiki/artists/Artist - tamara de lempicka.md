@@ -21,6 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/images/Photograph Person Next To Car With Manhattan Bridge In Background e18dc894|Photograph Person Next To Car With Manhattan Bridge In Background]] — shared language: manhattan
+- [[knowledge/wiki/images/Diagram Map of Manhattan Neighborhoods with Labeled Points of Interest a9769374|Diagram Map of Manhattan Neighborhoods with Labeled Points of Interest]] — shared language: manhattan
 - [[knowledge/wiki/images/manhattan bridge construction d 194 by irving underhill 1909 28d82fbb|manhattan bridge construction d 194 by irving underhill 1909]] — shared language: manhattan
-- [[knowledge/wiki/artists/Artist - taku satoh|Artist - taku satoh]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

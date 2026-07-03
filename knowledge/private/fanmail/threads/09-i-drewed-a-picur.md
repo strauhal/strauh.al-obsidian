@@ -33,6 +33,6 @@ For you, my brother
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

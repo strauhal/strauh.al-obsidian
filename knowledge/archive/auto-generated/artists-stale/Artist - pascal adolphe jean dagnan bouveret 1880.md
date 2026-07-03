@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - pascal adolphe jean dagnan bouveret|Artist - pascal adolphe jean dagnan bouveret]] — named in this note
-- [[knowledge/wiki/artists/Artist - pascal campion|Artist - pascal campion]] — shared language: pascal
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pascal campion|Artist - pascal campion]] — shared language: pascal
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pascal campion 2015|Artist - pascal campion 2015]] — shared language: pascal
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
-- [[knowledge/wiki/images/rainy day by pascal campion 2015 2f9111e5|rainy day by pascal campion 2015]] — shared language: pascal
-- [[knowledge/archive/auto-generated/artists-stale/Artist - william adolphe bouguereau 1886|Artist - william adolphe bouguereau 1886]] — shared language: adolphe
+- [[_archive/auto-generated/images-stale/rainy day by pascal campion 2015 2f9111e5|rainy day by pascal campion 2015]] — shared language: pascal
+- [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — shared language: pascal
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - anne louis girodet de roussy trioson|Artist - anne louis girodet de roussy trioson]] — shared language: girodet, anne, louis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - anne louis girodet de roussy trioson 1806|Artist - anne louis girodet de roussy trioson 1806]] — shared language: girodet, anne, louis
 - [[knowledge/wiki/images/portrait of madame de saint morys by anne louis girodet de roussy trioson 1806 1a0bf42a|portrait of madame de saint morys by anne louis girodet de roussy trioson 1806]] — shared language: girodet, anne, louis
-- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/images/Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799) 5811c42a|Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799)]] — shared language: girodet, anne, louis
+- [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: anne
 <!-- vault-crosslinks:end -->

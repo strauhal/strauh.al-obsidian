@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - maxfield parrish|Artist - maxfield parrish]] — shared language: maxfield, parrish, glen
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maxfield parrish 1922|Artist - maxfield parrish 1922]] — shared language: maxfield, parrish
 - [[knowledge/archive/auto-generated/artists-stale/Artist - maxfield parrish 1920|Artist - maxfield parrish 1920]] — shared language: maxfield, parrish
-- [[knowledge/wiki/images/daybreak by maxfield parrish 1922 092cf342|daybreak by maxfield parrish 1922]] — shared language: maxfield, parrish
 - [[knowledge/wiki/images/the archer by maxfield parrish 1920 ce9804e2|the archer by maxfield parrish 1920]] — shared language: maxfield, parrish
+- [[knowledge/wiki/images/daybreak by maxfield parrish 1922 092cf342|daybreak by maxfield parrish 1922]] — shared language: maxfield, parrish
 - [[knowledge/wiki/images/the spirit of the ancient oak by maxfield parrish 1920 891a52f9|the spirit of the ancient oak by maxfield parrish 1920]] — shared language: maxfield, parrish
 <!-- vault-crosslinks:end -->

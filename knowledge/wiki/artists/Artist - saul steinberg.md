@@ -32,7 +32,7 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/images/No Ideas by Saul Steinberg (1970) e2437dd2|No Ideas by Saul Steinberg (1970)]] — shared language: steinberg, saul
 - [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: saul
 - [[knowledge/wiki/images/the new world by peter saul 1991 6bebcfca|the new world by peter saul 1991]] — shared language: saul
 - [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: saul

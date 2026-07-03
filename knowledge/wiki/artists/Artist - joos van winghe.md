@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
-- [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: lot
-- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: van
-- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: van
-- [[knowledge/wiki/images/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: van
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: van
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: van
+- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: van
 <!-- vault-crosslinks:end -->

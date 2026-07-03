@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/her bluebird of happiness by lisa clague 2021 ee5f5a89|her bluebird of happiness by lisa clague 2021]] — named in this note
+- [[_archive/auto-generated/images-stale/her bluebird of happiness by lisa clague 2021 ee5f5a89|her bluebird of happiness by lisa clague 2021]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague 2021|Artist - lisa clague 2021]] — named in this note
-- [[knowledge/wiki/artists/Artist - lisa clague|Artist - lisa clague]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague|Artist - lisa clague]] — named in this note
 - [[knowledge/wiki/artists/Artist - lisa law|Artist - lisa law]] — shared language: lisa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa law 1967|Artist - lisa law 1967]] — shared language: lisa
 - [[knowledge/wiki/images/andy warhol and the velvet underground at the castle by lisa law 1967 fa994c5e|andy warhol and the velvet underground at the castle by lisa law 1967]] — shared language: lisa

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1810s"
 source_kind: "date_bucket"
-count: "15"
+count: "18"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1810s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 15
+Files: 18
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/The Rainbow by Caspar David Friedrich (1810).jpg]]
 
 ![[media/strauh.al3.1/1800s/archers_by_katsushika_hokusai_c_1817.jpeg]]
 
@@ -42,6 +44,10 @@ Files: 15
 ![[media/strauh.al3.1/1800s/the_death_of_germanicus_by_pierre_narcisse_guerin_1810.jpg]]
 
 ![[media/strauh.al3.1/1800s/the_third_of_may_1808_by_francisco_de_goya_1814.jpg]]
+
+![[media/strauh.al3.1/2000s/Aurora and Cephalus by Pierre-Narcisse Guérin (1810).jpg]]
+
+![[media/strauh.al3.1/2000s/The Colossus by Francisco de Goya (1808-1812).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the judgment of solomon by luca giordano c 1680 1685 615704f2|the judgment of solomon by luca giordano c 1680 1685]] — shared language: solomon
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: joseph
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joseph beuys 1980|Artist - joseph beuys 1980]] — shared language: joseph
 <!-- vault-crosslinks:end -->

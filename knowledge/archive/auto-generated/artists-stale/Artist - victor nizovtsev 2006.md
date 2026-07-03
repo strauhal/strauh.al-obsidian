@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - victor nizovtsev|Artist - victor nizovtsev]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - victor nizovtsev|Artist - Victor Nizovtsev]] — named in this note
+- [[knowledge/wiki/images/Illustration Mermaid with Red Hair and Goldfish in Water by Victor Nizovtsev 39797314|Illustration Mermaid with Red Hair and Goldfish in Water by Victor Nizovtsev]] — shared language: nizovtsev, victor, mermaid
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - victor renault 1880|Artist - victor renault 1880]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
-- [[knowledge/wiki/images/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: victor
-- [[knowledge/wiki/images/the doors sparrow fd 50 by victor moscoso 1967 c26faee2|the doors sparrow fd 50 by victor moscoso 1967]] — shared language: victor
+- [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor
 <!-- vault-crosslinks:end -->

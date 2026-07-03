@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - federico moja|Artist - federico moja]] — shared language: federico
 - [[knowledge/archive/auto-generated/artists-stale/Artist - federico moja 1855|Artist - federico moja 1855]] — shared language: federico
 - [[knowledge/wiki/images/the doge s palace venice by federico moja 1855 5dfcf85e|the doge s palace venice by federico moja 1855]] — shared language: federico
-- [[knowledge/wiki/artists/Artist - alberto campo baeza|Artist - alberto campo baeza]] — shared language: campo
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alberto campo baeza|Artist - alberto campo baeza]] — shared language: campo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alberto campo baeza 2010|Artist - alberto campo baeza 2010]] — shared language: campo
 <!-- vault-crosslinks:end -->

@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/collections/Collection - 1100s|Collection - 1100s]] — shared language: ximeng, wang, rivers
 - [[knowledge/wiki/artists/Artist - wang hui|Artist - wang hui]] — shared language: wang, thousand
 - [[knowledge/wiki/artists/Artist - wang meng|Artist - wang meng]] — shared language: wang, mountains
-- [[knowledge/wiki/images/dwelling in the qingbian mountains by wang meng 1366 4c685ee7|dwelling in the qingbian mountains by wang meng 1366]] — shared language: wang, mountains
 - [[knowledge/wiki/images/a thousand peaks and myriad ravines by wang hui 1693 a9213b2e|a thousand peaks and myriad ravines by wang hui 1693]] — shared language: wang, thousand
-- [[knowledge/wiki/artists/Artist - wang meng yuan dynasty|Artist - wang meng yuan dynasty]] — shared language: wang
+- [[knowledge/wiki/images/dwelling in the qingbian mountains by wang meng 1366 4c685ee7|dwelling in the qingbian mountains by wang meng 1366]] — shared language: wang, mountains
+- [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — shared language: thousand
 <!-- vault-crosslinks:end -->

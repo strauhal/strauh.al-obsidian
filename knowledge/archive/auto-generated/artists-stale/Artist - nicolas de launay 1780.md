@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/le serment d amour by nicolas de launay c 1775 89a8a26c|le serment d amour by nicolas de launay c 1775]] — shared language: launay, nicolas, serment
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de largilliere 1715 1720|Artist - nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/wiki/artists/Artist - nicolas de largilliere|Artist - nicolas de largilliere]] — shared language: nicolas
-- [[knowledge/wiki/artists/Artist - nicolas sassoon|Artist - nicolas sassoon]] — shared language: nicolas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas sassoon 2012|Artist - nicolas sassoon 2012]] — shared language: nicolas
+- [[knowledge/wiki/images/portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720 5669ddf8|portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720]] — shared language: nicolas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas sassoon|Artist - nicolas sassoon]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

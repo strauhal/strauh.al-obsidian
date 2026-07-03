@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter stevens ii|Artist - pieter stevens ii]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter stevens|Artist - pieter stevens]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: pieter
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
-- [[knowledge/wiki/artists/Artist - j h williams iii|Artist - j h williams iii]] — shared language: iii
-- [[knowledge/wiki/images/the resurrection of christ by pieter bruegel the elder c 1563 8a974585|the resurrection of christ by pieter bruegel the elder c 1563]] — shared language: pieter
+- [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — shared language: iii
 <!-- vault-crosslinks:end -->

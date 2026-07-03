@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1590s"
 source_kind: "date_bucket"
-count: "11"
+count: "12"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1590s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 11
+Files: 12
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Sol (The Sun) by Hendrick Goltzius (1590).jpg]]
 
 ![[media/strauh.al3.1/1500s/hendrick_goltzius_bacchus_1595_jpg.jpg]]
 

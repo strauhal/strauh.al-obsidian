@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1987|Artist - mark j ferrari 1987]] — shared language: ferrari, mark
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: ferrari, mark, rain
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1990|Artist - mark j ferrari 1990]] — shared language: ferrari, mark
+- [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: ferrari, mark
 - [[knowledge/wiki/images/the painter by mark j ferrari 1987 ae930315|the painter by mark j ferrari 1987]] — shared language: ferrari, mark
-- [[knowledge/wiki/images/black and white dithered illustration of a woman fighting a geometric figure and monsters by mark j ferrari 1990 7d13a864|black and white dithered illustration of a woman fighting a geometric figure and monsters by mark j ferrari 1990]] — shared language: ferrari, mark
 <!-- vault-crosslinks:end -->

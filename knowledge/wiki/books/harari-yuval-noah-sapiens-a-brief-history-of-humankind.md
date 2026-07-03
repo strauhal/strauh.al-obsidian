@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Sapiens _ a brief history of humankind -- Harari, Yuval Noah -- Cloth ed, Toronto, Ontario, 2014 -- Signal Books -- 9780771038501 -- b95ec4dd19dd78efa28a3af7b9c19899 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Sapiens a brief history of humankind
@@ -44,7 +44,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/images/toronto 7e9c3c65|toronto]] — named in this note
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
-- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
-- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
+- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 <!-- vault-crosslinks:end -->

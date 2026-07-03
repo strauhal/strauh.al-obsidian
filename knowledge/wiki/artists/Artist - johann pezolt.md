@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: johann, von
 - [[knowledge/wiki/artists/Artist - johann friedrich bause|Artist - johann friedrich bause]] — shared language: johann
 - [[knowledge/wiki/books/goethe-johann-wolfgang-von-clements-marcelle-krimmer-elisabeth-goethe-johann-wolfgang-von-hutter-catherine-the-sorrows-of-young-werther-and-|The Sorrows of Young Werther and Selected Writings]] — shared language: johann, von
+- [[knowledge/wiki/artists/Artist - Johann Sebastian Bach|Artist - Johann Sebastian Bach]] — shared language: johann
 - [[knowledge/wiki/artists/Artist - johann wilhelm schirmer|Artist - johann wilhelm schirmer]] — shared language: johann
 - [[knowledge/wiki/artists/Artist - johann heinrich lips|Artist - johann heinrich lips]] — shared language: johann
-- [[knowledge/wiki/artists/Artist - johann heinrich wilhelm tischbein|Artist - johann heinrich wilhelm tischbein]] — shared language: johann
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the escalator by gino severini 1915 b2f01bbd|the escalator by gino severini 1915]] — shared language: gino, severini
 - [[knowledge/wiki/images/gino severini lindustrie dans le paysage 1911 3303bcdc|gino severini lindustrie dans le paysage 1911]] — shared language: gino, severini
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
-- [[knowledge/wiki/images/framed cubist still life with fruit and shells 7eb286fd|framed cubist still life with fruit and shells]] — shared language: still, life
+- [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, life
 <!-- vault-crosslinks:end -->

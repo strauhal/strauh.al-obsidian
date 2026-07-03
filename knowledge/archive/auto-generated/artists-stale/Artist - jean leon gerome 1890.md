@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/powers-richard-galatea-2-2|Galatea 2 2]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1872|Artist - jean leon gerome 1872]] — shared language: gerome, leon, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1887|Artist - jean leon gerome 1887]] — shared language: gerome, leon, jean
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1872|Artist - jean leon gerome 1872]] — shared language: gerome, leon, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1861|Artist - jean leon gerome 1861]] — shared language: gerome, leon, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1865|Artist - jean leon gerome 1865]] — shared language: gerome, leon, jean
 - [[knowledge/wiki/artists/Artist - jean leon gerome|Artist - jean leon gerome]] — shared language: gerome, leon, jean

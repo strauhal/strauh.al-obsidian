@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[knowledge/wiki/artists/Artist - floral motifs|Artist - floral motifs]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - flowers|Artist - flowers]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - fernand leger|Artist - fernand leger]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - fra angelico|Artist - fra angelico]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - felix vallotton|Artist - felix vallotton]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

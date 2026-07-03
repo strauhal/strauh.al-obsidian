@@ -1,10 +1,10 @@
 ---
 title: "strauh.al Home"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/index.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/index.html"
 source_relpath: "index.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # strauh.al Home
@@ -110,6 +110,6 @@ strauh.al
 - [[knowledge/wiki/pages/religious texts|religious texts]] — named in this note
 - [[knowledge/wiki/pages/baby videos|baby videos]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — named in this note
 - [[knowledge/wiki/pages/old photos|old photos]] — named in this note
+- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — named in this note
 <!-- vault-crosslinks:end -->

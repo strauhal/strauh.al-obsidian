@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Politics of Self-Determination (Self-Mastery Series) by Timothy Leary (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Politics of Self-Determination (Self-Mastery Series)
@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — same author: timothy leary
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
-- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
-- [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
+- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
 <!-- vault-crosslinks:end -->

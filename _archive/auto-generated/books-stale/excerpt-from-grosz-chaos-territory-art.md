@@ -41,6 +41,6 @@ Status: available in the local iCloud Readings folder.
 - [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
-- [[_archive/auto-generated/books-stale/zen-the-art-of-macintosh1986|Zen the Art of Macintosh1986]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/beuys-on-drawing|beuys on drawing]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

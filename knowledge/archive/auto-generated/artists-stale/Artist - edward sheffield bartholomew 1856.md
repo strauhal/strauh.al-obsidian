@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - edward sheffield bartholomew|Artist - edward sheffield bartholomew]] — named in this note
+- [[_archive/auto-generated/images-stale/sheffield by haidee jo summers 2020 dad5520a|sheffield by haidee jo summers 2020]] — shared language: sheffield
 - [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: edward
-- [[knowledge/wiki/images/sheffield by haidee jo summers 2020 dad5520a|sheffield by haidee jo summers 2020]] — shared language: sheffield
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1943|Artist - edward hopper 1943]] — shared language: edward
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1932|Artist - edward hopper 1932]] — shared language: edward
-- [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1939|Artist - edward hopper 1939]] — shared language: edward
+- [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1953|Artist - edward hopper 1953]] — shared language: edward
 <!-- vault-crosslinks:end -->

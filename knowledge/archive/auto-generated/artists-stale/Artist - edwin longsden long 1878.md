@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - edwin longsden long|Artist - edwin longsden long]] — named in this note
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: long
+- [[knowledge/wiki/images/The Babylonian Marriage Market by Edwin Longsden Long (1875) 778af503|The Babylonian Marriage Market by Edwin Longsden Long (1875)]] — shared language: longsden, edwin, long
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: long
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1855|Artist - frederic edwin church 1855]] — shared language: edwin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1871|Artist - frederic edwin church 1871]] — shared language: edwin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - frederic edwin church 1857|Artist - frederic edwin church 1857]] — shared language: edwin
 <!-- vault-crosslinks:end -->

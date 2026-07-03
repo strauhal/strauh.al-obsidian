@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Red Table by Pierre Bonnard (1910) 3cb39f31|The Red Table by Pierre Bonnard (1910)]] — shared language: bonnard, pierre
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
-- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: pierre
-- [[knowledge/wiki/images/portrait of pierre joseph proudhon 1865 jpg 5a0fb9ed|portrait of pierre joseph proudhon 1865 jpg]] — shared language: pierre
-- [[knowledge/wiki/artists/Artist - pierre mignard|Artist - pierre mignard]] — shared language: pierre
 - [[knowledge/wiki/images/pierre narcisse portrait of a young man ca 1810 20 jpg 9141e18d|pierre narcisse portrait of a young man ca 1810 20 jpg]] — shared language: pierre
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: pierre
+- [[knowledge/wiki/artists/Artist - Pierre Schaeffer|Artist - Pierre Schaeffer]] — shared language: pierre
 <!-- vault-crosslinks:end -->

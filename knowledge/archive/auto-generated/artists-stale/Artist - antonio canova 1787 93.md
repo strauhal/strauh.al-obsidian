@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: canova, antonio
 - [[knowledge/wiki/images/hebe by antonio canova early 19th century 4886d7af|hebe by antonio canova early 19th century]] — shared language: canova, antonio
 - [[knowledge/wiki/artists/Artist - antonio lopez|Artist - antonio lopez]] — shared language: antonio
-- [[knowledge/wiki/artists/Artist - antonio de felipe|Artist - antonio de felipe]] — shared language: antonio
+- [[knowledge/archive/auto-generated/artists-stale/Artist - antonio de felipe|Artist - antonio de felipe]] — shared language: antonio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - antonio de felipe 2015|Artist - antonio de felipe 2015]] — shared language: antonio
 <!-- vault-crosslinks:end -->

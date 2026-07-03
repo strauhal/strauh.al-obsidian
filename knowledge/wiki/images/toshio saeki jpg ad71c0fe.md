@@ -1,12 +1,12 @@
 ---
 title: "toshio saeki jpg"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/toshio_saeki_jpg.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/toshio_saeki_jpg.jpg"
 source_relpath: "2000s/toshio_saeki_jpg.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "700x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -20,14 +20,13 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/toshio_saeki_jpg.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/toshio_saeki_jpg.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/toshio_saeki_jpg.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - toshio iwai|Artist - toshio iwai]] — shared language: toshio
 - [[knowledge/wiki/images/the world of the word by toshio iwai 1990 4feda3ef|the world of the word by toshio iwai 1990]] — shared language: toshio
-- [[knowledge/wiki/images/12 rw r cc ty 3598 original jpg 870ce0d1|12 rw r cc ty 3598 original jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1626488837263 jpg b6cd638a|1626488837263 jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1652503832014 jpg d1d1be32|1652503832014 jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/jacobcollins jpg 58a7e50b|jacobcollins jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

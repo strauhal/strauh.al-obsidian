@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - clare brokens|Artist - clare brokens]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - clare brokens|Artist - clare brokens]] — named in this note
+- [[knowledge/wiki/images/BLAU Stadtbad Mitte James Simon by Clare Brokens (2013) 7faba76c|BLAU Stadtbad Mitte James Simon by Clare Brokens (2013)]] — shared language: clare, brokens, stadtbad
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
-- [[knowledge/wiki/images/van gogh bildnis einer frau in blau jpeg jpeg cd436c50|van gogh bildnis einer frau in blau jpeg jpeg]] — shared language: blau
+- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2016|Artist - simon stalenhag 2016]] — shared language: simon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2014|Artist - simon stalenhag 2014]] — shared language: simon
-- [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 <!-- vault-crosslinks:end -->

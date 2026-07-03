@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jean baptiste van loo|Artist - jean baptiste van loo]] — shared language: loo, van, louis
 - [[knowledge/wiki/images/portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]] — shared language: loo, louis, van
 - [[knowledge/wiki/images/portrait of louis xv king of france and navarre by jean baptiste van loo c 1725 8f055c38|portrait of louis xv king of france and navarre by jean baptiste van loo c 1725]] — shared language: loo, louis, van
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: michel
-- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: michel
 <!-- vault-crosslinks:end -->

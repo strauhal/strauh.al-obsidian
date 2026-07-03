@@ -20,7 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - will cotton|Artist - will cotton]] — named in this note
-- [[knowledge/wiki/images/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: cotton
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wesley stokes 2018|Artist - wesley stokes 2018]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - will cotton|Artist - will cotton]] — named in this note
+- [[knowledge/wiki/images/Illustration Stylized Figure Picking Cotton, Red Sun, and Arrow Sign 53cce79e|Illustration Stylized Figure Picking Cotton, Red Sun, and Arrow Sign]] — shared language: cotton
+- [[_archive/auto-generated/images-stale/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: cotton
+- [[knowledge/wiki/images/The Picnic by Thomas Cole (1846) 1879e9e2|The Picnic by Thomas Cole (1846)]] — shared language: picnic
+- [[knowledge/wiki/images/Picnic in Central Park by Cesar Santos (2013) 24e5e2f3|Picnic in Central Park by Cesar Santos (2013)]] — shared language: picnic
 <!-- vault-crosslinks:end -->

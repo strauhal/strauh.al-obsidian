@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - john moyers|Artist - john moyers]] — named in this note
+- [[knowledge/wiki/images/The Long Ride by John Moyers (2005) cc0ff144|The Long Ride by John Moyers (2005)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john moyers|Artist - john moyers]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/artists/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: moyers
-- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers 2021|Artist - terri kelly moyers 2021]] — shared language: moyers
+- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: moyers
 <!-- vault-crosslinks:end -->

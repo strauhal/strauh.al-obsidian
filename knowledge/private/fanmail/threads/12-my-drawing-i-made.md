@@ -34,5 +34,5 @@ Heres a drawing from me. You can use a username "TriageONE". Its late and I was 
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/09-i-drewed-a-picur|Private Correspondence - 09 - I drewed a picur]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

@@ -19,6 +19,6 @@ Related: [[strauh.al Index]], [[strauh.al Image Archive]]
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: wiki
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: related
 - [[_archive/auto-generated/concept-stubs/strauh.al Image Archive|strauh.al Image Archive]] — shared language: compiled, wiki
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki
 - [[knowledge/raw/_sources|_sources]] — shared language: compiled, wiki, sources
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - yoshiyuki sadamoto|Artist - yoshiyuki sadamoto]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshiyuki sadamoto 1995|Artist - yoshiyuki sadamoto 1995]] — named in this note
+- [[knowledge/wiki/images/Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995) d32c6198|Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995)]] — shared language: yoshiyuki, sadamoto, evangelion
+- [[knowledge/wiki/images/Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997) 3de54487|Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997)]] — shared language: yoshiyuki, sadamoto, evangelion
+- [[knowledge/wiki/images/Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto 07ae0e9f|Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto, evangelion
 - [[knowledge/wiki/images/asuka soryu character study by yoshiyuki sadamoto 1995 3e706f78|asuka soryu character study by yoshiyuki sadamoto 1995]] — shared language: yoshiyuki, sadamoto
-- [[knowledge/wiki/images/neon and rain ba804198|neon and rain]] — shared language: neon
-- [[knowledge/wiki/culture/movie-the-end-of-evangelion|Watchlist - The End of Evangelion]] — shared language: evangelion
-- [[knowledge/wiki/images/page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai 3ae1f6c2|page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai]] — shared language: manga, page
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: friedrich, kant, immanuel
+- [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: friedrich
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: johann
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: friedrich
 - [[knowledge/wiki/artists/Artist - johann pezolt|Artist - johann pezolt]] — shared language: johann
-- [[knowledge/wiki/artists/Artist - friedrich gauermann|Artist - friedrich gauermann]] — shared language: friedrich
+- [[knowledge/wiki/artists/Artist - Johann Sebastian Bach|Artist - Johann Sebastian Bach]] — shared language: johann
 - [[knowledge/wiki/books/immanuel-kant-critique-of-judgment|Critique of Judgment]] — shared language: immanuel, kant
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/franz marc 020 jpg 6709b237|franz marc 020 jpg]] — shared language: franz
-- [[knowledge/wiki/artists/Artist - ludwig knaus|Artist - ludwig knaus]] — shared language: ludwig
+- [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig, florence
+- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
-- [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
-- [[knowledge/wiki/artists/Artist - franz hanfstaengl|Artist - franz hanfstaengl]] — shared language: franz
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/artists/Artist - sonia delaunay|Artist - sonia delaunay]] — shared language: delaunay
 - [[knowledge/wiki/images/rythme couleur by sonia delaunay 1938 f3f8ef7e|rythme couleur by sonia delaunay 1938]] — shared language: delaunay
-- [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: robert, moon
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: robert, moon
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
+- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 <!-- vault-crosslinks:end -->

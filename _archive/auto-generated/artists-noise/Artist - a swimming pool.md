@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-swimming-pool|Artist - a swimming pool]] — shared language: swimming, pool
-- [[knowledge/wiki/images/framed orange abstract painting with swimming figures 40846125|framed orange abstract painting with swimming figures]] — shared language: swimming, figures
-- [[knowledge/wiki/images/swimming by hiroshi nagai 1982 272e8745|swimming by hiroshi nagai 1982]] — shared language: swimming
-- [[knowledge/wiki/images/painting of a swimmer submerged in a blue pool with light refractions e3ccd013|painting of a swimmer submerged in a blue pool with light refractions]] — shared language: pool
-- [[knowledge/wiki/images/the sultan s pool by jim burns 1987 dfcab193|the sultan s pool by jim burns 1987]] — shared language: pool
-- [[knowledge/wiki/images/swimmer entering a pool beneath trees 2b490807|swimmer entering a pool beneath trees]] — shared language: pool
+- [[knowledge/wiki/images/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool
+- [[knowledge/wiki/images/Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections 8eaa733d|Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections]] — shared language: swimming, pool
+- [[_archive/auto-generated/images-stale/framed orange abstract painting with swimming figures 40846125|framed orange abstract painting with swimming figures]] — shared language: swimming
+- [[knowledge/wiki/images/Illustration Stylized Swimming Pool with Palm Trees and Ocean View by Hiroshi Nagai 0eec9113|Illustration Stylized Swimming Pool with Palm Trees and Ocean View by Hiroshi Nagai]] — shared language: swimming, pool
 <!-- vault-crosslinks:end -->

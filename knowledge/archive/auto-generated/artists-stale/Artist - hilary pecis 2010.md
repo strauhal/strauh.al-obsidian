@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - hilary pecis|Artist - hilary pecis]] — named in this note
-- [[knowledge/wiki/images/framed painting of a shop or window display b2dd592b|framed painting of a shop or window display]] — shared language: window
-- [[knowledge/wiki/images/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: window
-- [[knowledge/wiki/images/the window by andrew loomis 1929 d71221c1|the window by andrew loomis 1929]] — shared language: window
-- [[knowledge/wiki/images/open window overlooking a city and balcony 8dc8a6d6|open window overlooking a city and balcony]] — shared language: window
-- [[knowledge/wiki/images/the window by odd nerdrum 1981 50930230|the window by odd nerdrum 1981]] — shared language: window
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hilary pecis|Artist - hilary pecis]] — named in this note
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
+- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
+- [[_archive/auto-generated/images-stale/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: window
+- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: window
+- [[_archive/auto-generated/images-stale/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: window
 <!-- vault-crosslinks:end -->

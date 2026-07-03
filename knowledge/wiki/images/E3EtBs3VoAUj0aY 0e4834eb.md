@@ -1,12 +1,12 @@
 ---
 title: "E3EtBs3VoAUj0aY"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/E3EtBs3VoAUj0aY.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/E3EtBs3VoAUj0aY.jpeg"
 source_relpath: "photography/E3EtBs3VoAUj0aY.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1461"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,12 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/E3EtBs3VoAUj0aY.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/E3EtBs3VoAUj0aY.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/E3EtBs3VoAUj0aY.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/pages/photography|photography]] — shared language: e3etbs3voauj0ay.jpeg
+- [[knowledge/wiki/images/E rEX2TVgAES4RU 32452479|E rEX2TVgAES4RU]] — nearby note in the same source series
+- [[knowledge/wiki/images/E5YNw0uWYAkF q1 f86a097f|E5YNw0uWYAkF q1]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

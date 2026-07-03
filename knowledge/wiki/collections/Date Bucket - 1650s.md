@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1650s"
 source_kind: "date_bucket"
-count: "11"
+count: "12"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1650s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 11
+Files: 12
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/Still Life with Flowers in a Terracotta Vase by Marie Blancour (c. 1650).jpg]]
 
 ![[media/strauh.al3.1/1600s/a_hanging_carcass_by_gabriel_metsu_c_1655.jpeg]]
 

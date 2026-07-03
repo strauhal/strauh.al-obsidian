@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: gustav
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1915|Artist - gustav klimt 1915]] — shared language: gustav
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1898|Artist - gustav klimt 1898]] — shared language: gustav
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
 - [[knowledge/wiki/images/head of a woman by gustav klimt c 1917 40c45e1f|head of a woman by gustav klimt c 1917]] — shared language: gustav
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
 <!-- vault-crosslinks:end -->

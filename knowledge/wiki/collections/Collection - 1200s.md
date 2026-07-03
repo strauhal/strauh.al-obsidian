@@ -27,10 +27,10 @@ Files: 2
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: mengjian, zhao, friends
-- [[knowledge/wiki/images/IMG 0063 f70cdae8|IMG 0063]] — shared language: webp
-- [[knowledge/wiki/images/IMG 2329 d8214e4c|IMG 2329]] — shared language: webp
-- [[knowledge/wiki/images/IMG 2373 b1a8c6e6|IMG 2373]] — shared language: webp
-- [[knowledge/wiki/images/IMG 3093 c438738f|IMG 3093]] — shared language: webp
-- [[knowledge/wiki/images/IMG 3207 dea7f418|IMG 3207]] — shared language: webp
-- [[knowledge/wiki/images/IMG 3290 3880b611|IMG 3290]] — shared language: webp
+- [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: zhao
+- [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — shared language: zhao
+- [[knowledge/wiki/images/webp 6ba8dc4d|webp]] — shared language: webp
+- [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
+- [[knowledge/wiki/images/water village shuicun tu by zhao mengfu 1302 72f5898c|water village shuicun tu by zhao mengfu 1302]] — shared language: zhao
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
 <!-- vault-crosslinks:end -->

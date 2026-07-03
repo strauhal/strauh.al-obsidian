@@ -9,8 +9,8 @@ metadata: curated
 aliases: [arnheim.pdf]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/arnheim.pdf.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Art and Visual Perception
@@ -48,10 +48,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — same author: rudolf arnheim
 - [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — same category: art aesthetics
-- [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — same category: art aesthetics
+- [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — same category: art aesthetics
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/claire-bishop-artificial-hells-participatory-art-and-the-politics-of-spectatorship|Artificial Hells: Participatory Art and the Politics of Spectatorship]] — same category: art aesthetics
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

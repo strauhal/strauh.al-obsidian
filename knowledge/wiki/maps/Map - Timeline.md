@@ -52,11 +52,11 @@ updated: 2026-06-27
 ## Discovered Connections
 
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, color, projects
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: teaching, school, children
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color, work, music
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: gan, work, slop
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: abandoned, failures
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: school, entry, work
 <!-- vault-crosslinks:end -->

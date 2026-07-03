@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["old community", "grief", "teaching", "lateness", "food", "pursuit"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Dream 5 - The Zen Friend and the Windshield Wipers

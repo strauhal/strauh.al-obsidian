@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: strange, robert
 - [[knowledge/wiki/images/belisarius by robert strange 1757 781fa7bc|belisarius by robert strange 1757]] — shared language: strange, robert
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — shared language: robert
+- [[knowledge/wiki/images/Te Deum Laudamus by Robert Strange (1760) 9798cab5|Te Deum Laudamus by Robert Strange (1760)]] — shared language: strange, robert
 - [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — shared language: sir, robert
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: strange
 - [[knowledge/wiki/images/the family of sir robert frankland russell 7th baronet by sir william beechey 1800 30b67388|the family of sir robert frankland russell 7th baronet by sir william beechey 1800]] — shared language: sir, robert

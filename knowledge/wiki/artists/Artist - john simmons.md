@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/images/vetememes rough simmons campaign square 9 2048x2048 jpg webp 3135941e|vetememes rough simmons campaign square 9 2048x2048 jpg webp]] — shared language: simmons
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john, dream
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john

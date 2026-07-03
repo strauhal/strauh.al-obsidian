@@ -30,6 +30,6 @@ Images attributed by filename: 3
 - [[knowledge/wiki/culture/reading-les-fleurs-du-mal|Reading - Les Fleurs du mal]] — shared language: mal, fleurs, les
 - [[knowledge/wiki/images/la tentation de saint antoine by rene magritte 1946 9d625537|la tentation de saint antoine by rene magritte 1946]] — shared language: tentation, antoine, saint
 - [[knowledge/wiki/artists/Artist - antoine plamondon|Artist - antoine plamondon]] — shared language: antoine, saint
+- [[knowledge/wiki/images/le chevalier aux ailes bleues the knight with blue wings by paul serusier 1910 3ed7476e|le chevalier aux ailes bleues the knight with blue wings by paul serusier 1910]] — shared language: ailes, aux
 - [[knowledge/wiki/images/portrait of sister saint alphonse by antoine plamondon 1841 5a7b6b1a|portrait of sister saint alphonse by antoine plamondon 1841]] — shared language: antoine, saint
-- [[knowledge/wiki/images/Les Glaneuses a5bb4d7c|Les Glaneuses]] — shared language: les
 <!-- vault-crosslinks:end -->

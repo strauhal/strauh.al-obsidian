@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 2003|Artist - roger dean 2003]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
-- [[knowledge/wiki/images/asia dragon by roger dean 2003 9493499d|asia dragon by roger dean 2003]] — shared language: roger, dean
+- [[_archive/auto-generated/images-stale/asia dragon by roger dean 2003 9493499d|asia dragon by roger dean 2003]] — shared language: roger, dean
+- [[knowledge/wiki/images/Asia Dragon by Roger Dean (2003) d2daa557|Asia Dragon by Roger Dean (2003)]] — shared language: roger, dean
 - [[knowledge/wiki/artists/Artist - roger bissiere|Artist - roger bissiere]] — shared language: roger
-- [[knowledge/archive/auto-generated/artists-stale/Artist - roger bissiere 1958|Artist - roger bissiere 1958]] — shared language: roger
 <!-- vault-crosslinks:end -->

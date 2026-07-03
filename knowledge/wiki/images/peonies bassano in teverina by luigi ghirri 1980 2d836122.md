@@ -1,12 +1,12 @@
 ---
 title: "peonies bassano in teverina by luigi ghirri 1980"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg"
 source_relpath: "1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "luigi ghirri"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,12 +22,13 @@ Artist: [[Artist - luigi ghirri]]
 
 Source: [[media/strauh.al3.1/1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/peonies_bassano_in_teverina_by_luigi_ghirri_1980.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/sunday news free luigi deny 95899189 jpg d15b9f11|sunday news free luigi deny 95899189 jpg]] — shared language: luigi
-- [[knowledge/wiki/images/chinese ink and color painting of red and yellow peonies with bees 2a7a64b8|chinese ink and color painting of red and yellow peonies with bees]] — shared language: peonies
-- [[knowledge/wiki/images/pencil sketches of twelve different portraits of a young girl f590a073|pencil sketches of twelve different portraits of a young girl]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Luigi Mangione's Arrest 4b9bcd4c|Photograph Luigi Mangione's Arrest]] — shared language: luigi
+- [[knowledge/wiki/images/Illustration Chinese Ink Painting of Red and Yellow Peonies with Bees 9c396685|Illustration Chinese Ink Painting of Red and Yellow Peonies with Bees]] — shared language: peonies
+- [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: luigi
+- [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: luigi
 <!-- vault-crosslinks:end -->

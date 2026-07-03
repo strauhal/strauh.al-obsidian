@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1957|Artist - richard avedon 1957]] — shared language: avedon, richard, monroe
-- [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: avedon, richard, monroe
-- [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: avedon, richard, monroe
+- [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1957|Artist - richard avedon 1957]] — shared language: avedon, richard, marilyn
+- [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: avedon, richard, marilyn
+- [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: avedon, richard, marilyn
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard avedon 1970|Artist - richard avedon 1970]] — shared language: avedon, richard, york
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/l ange dechu the fallen angel by alexandre cabanel 1847 e801463b|l ange dechu the fallen angel by alexandre cabanel 1847]] — shared language: ange, dechu, fallen
 - [[knowledge/wiki/images/saint bartholomew s day massacre by francois dubois c 15721584 21534971|saint bartholomew s day massacre by francois dubois c 15721584]] — shared language: dubois
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
-- [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
 <!-- vault-crosslinks:end -->

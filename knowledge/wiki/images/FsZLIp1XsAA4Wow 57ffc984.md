@@ -1,12 +1,12 @@
 ---
 title: "FsZLIp1XsAA4Wow"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FsZLIp1XsAA4Wow.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FsZLIp1XsAA4Wow.jpeg"
 source_relpath: "computers/FsZLIp1XsAA4Wow.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1019x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/FsZLIp1XsAA4Wow.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FsZLIp1XsAA4Wow.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FsZLIp1XsAA4Wow.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

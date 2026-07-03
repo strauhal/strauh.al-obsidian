@@ -2,7 +2,7 @@
 title: Recent Dreams Before Ayahuasca
 slug: recent-dreams-before-ayahuasca
 type: dream-journal
-ingested: 2026-06-26
+ingested: 2026-07-02
 compiled: true
 temporal_context: after marriage and before an ayahuasca ceremony
 tags: [raw, dreams, marriage, threshold]
@@ -65,6 +65,6 @@ in my dream, I got to see Frederic Chopin play the piano live, and after the con
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — named in this note
 - [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
+- [[knowledge/wiki/images/fallen 84cf3b93|fallen]] — named in this note
 <!-- vault-crosslinks:end -->

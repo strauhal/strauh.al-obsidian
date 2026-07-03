@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - franklin booth|Artist - franklin booth]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — named in this note
-- [[knowledge/wiki/images/franklin booth dream illustration 9706668e|franklin booth dream illustration]] — shared language: franklin, booth
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Man Reading in Library by Franklin Booth 80d2848d|Illustration Black and White Illustration of Man Reading in Library by Franklin Booth]] — shared language: franklin, booth
+- [[_archive/auto-generated/images-stale/franklin booth dream illustration 9706668e|franklin booth dream illustration]] — shared language: franklin, booth
 - [[knowledge/wiki/images/the harvest by franklin booth 1918 0e46ea58|the harvest by franklin booth 1918]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth elks cover a5580f31|franklin booth elks cover]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth elks cover jpg 912030cb|franklin booth elks cover jpg]] — shared language: franklin, booth
+- [[knowledge/wiki/images/The Pool by Franklin Booth (c. 1915) d260613d|The Pool by Franklin Booth (c. 1915)]] — shared language: franklin, booth
 <!-- vault-crosslinks:end -->

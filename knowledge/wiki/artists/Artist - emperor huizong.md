@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/collections/Collection - 1100s|Collection - 1100s]] — shared language: huizong, emperor, qin
-- [[knowledge/wiki/artists/Artist - emperor huizong northern song dynasty|Artist - emperor huizong northern song dynasty]] — shared language: huizong, emperor
-- [[knowledge/wiki/images/lady guoguo s spring outing by emperor huizong northern song dynasty 4b942587|lady guoguo s spring outing by emperor huizong northern song dynasty]] — shared language: huizong, emperor
-- [[knowledge/wiki/images/jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807 56e822c8|jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807]] — shared language: emperor
-- [[knowledge/wiki/images/the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty ae70836e|the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty]] — shared language: emperor, section
-- [[knowledge/wiki/artists/Artist - wang hui and others qing dynasty|Artist - wang hui and others qing dynasty]] — shared language: emperor, section
+- [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: huizong, emperor
+- [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: emperor, section
+- [[knowledge/wiki/images/Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty) 66c0d901|Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty)]] — shared language: emperor
+- [[knowledge/wiki/images/Sunset Cranes by Carolyn Lujan (2022) ff4ef062|Sunset Cranes by Carolyn Lujan (2022)]] — shared language: cranes
+- [[knowledge/wiki/images/Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape 16ce9498|Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape]] — shared language: scroll
 <!-- vault-crosslinks:end -->

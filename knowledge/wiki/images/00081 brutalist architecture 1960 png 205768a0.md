@@ -1,12 +1,12 @@
 ---
 title: "00081 brutalist architecture 1960 png"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/00081_brutalist_architecture_1960_png.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/00081_brutalist_architecture_1960_png.png"
 source_relpath: "1900s/00081_brutalist_architecture_1960_png.png"
 collection: "1900s"
 inferred_year: "1960"
 artist: ""
-dimensions: "512x512"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1900s/00081_brutalist_architecture_1960_png.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/00081_brutalist_architecture_1960_png.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/00081_brutalist_architecture_1960_png.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/black and white photograph of a brutalist concrete staircase monument aefb03f3|black and white photograph of a brutalist concrete staircase monument]] — shared language: brutalist
-- [[knowledge/wiki/images/brutalist silence coworking office interior 1bcec240|brutalist silence coworking office interior]] — shared language: brutalist
-- [[knowledge/wiki/images/brutalist silence co working office interiors annabell kutucu berlin dezeen hero 1 jpg 3c6815b0|brutalist silence co working office interiors annabell kutucu berlin dezeen hero 1 jpg]] — shared language: brutalist
-- [[knowledge/wiki/images/brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg 54098afa|brutalist silence co working office interiors annabell kutucu berlin dezeen 1704 col 7 jpg]] — shared language: brutalist
-- [[knowledge/wiki/images/1701797844500962 png 57ed231b|1701797844500962 png]] — shared language: png.png
+- [[knowledge/wiki/images/Photograph Modern Brutalist Building on a City Street 8143aa56|Photograph Modern Brutalist Building on a City Street]] — shared language: brutalist
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist
+- [[knowledge/wiki/images/Photograph Brutalist Concrete Building with Tall Conifer Trees b827b38a|Photograph Brutalist Concrete Building with Tall Conifer Trees]] — shared language: brutalist
+- [[knowledge/wiki/images/Photograph People on a Staircase and Balcony in a Brutalist Building 078ecec8|Photograph People on a Staircase and Balcony in a Brutalist Building]] — shared language: brutalist
 <!-- vault-crosslinks:end -->

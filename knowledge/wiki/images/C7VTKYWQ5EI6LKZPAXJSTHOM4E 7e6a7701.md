@@ -1,12 +1,12 @@
 ---
 title: "C7VTKYWQ5EI6LKZPAXJSTHOM4E"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg"
 source_relpath: "artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "960x1070"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/degas/C7VTKYWQ5EI6LKZPAXJSTHOM4E.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

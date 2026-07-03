@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - richard diebenkorn|Artist - richard diebenkorn]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — named in this note
+- [[knowledge/wiki/images/Seawall by Richard Diebenkorn (1957) 8f833989|Seawall by Richard Diebenkorn (1957)]] — shared language: diebenkorn, richard
 - [[knowledge/wiki/images/richard diebenkorn potrero hill 1955 a06cf7f8|richard diebenkorn potrero hill 1955]] — shared language: diebenkorn, richard
-- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
-- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
 <!-- vault-crosslinks:end -->

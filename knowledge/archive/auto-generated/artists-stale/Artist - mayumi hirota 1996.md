@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: mayumi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mayumi oda 1972|Artist - mayumi oda 1972]] — shared language: mayumi
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: mayumi
-- [[knowledge/wiki/artists/Artist - ernest strauhal|Artist - ernest strauhal]] — shared language: fire
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ernest strauhal 2017|Artist - ernest strauhal 2017]] — shared language: fire
+- [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: emblem, war
+- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 <!-- vault-crosslinks:end -->

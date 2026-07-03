@@ -23,5 +23,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - fairfield porter|Artist - fairfield porter]] — shared language: porter
 - [[knowledge/wiki/images/the tennis sweater by fairfield porter 1972 108ea2de|the tennis sweater by fairfield porter 1972]] — shared language: porter
 - [[knowledge/wiki/books/mckenzie-wark-capital-is-dead-is-this-something-worse|Capital Is Dead: Is This Something Worse?]] — shared language: something
-- [[knowledge/wiki/images/illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan a52afe28|illustration of a woman standing against a yellow food pattern background with a speech bubble reading i find myself missing chicken parmesan]] — shared language: missing
 <!-- vault-crosslinks:end -->

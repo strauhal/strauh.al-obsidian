@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kelly pringle|Artist - kelly pringle]] — named in this note
-- [[knowledge/wiki/artists/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle|Artist - Kelly Pringle]] — named in this note
+- [[knowledge/wiki/images/Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle 34d16624|Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle]] — shared language: pringle, kelly, wing
+- [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: kelly
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
-- [[knowledge/wiki/artists/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers 2021|Artist - terri kelly moyers 2021]] — shared language: kelly
-- [[knowledge/wiki/images/christ the good shepherd by kelly latimore 2018 759e084e|christ the good shepherd by kelly latimore 2018]] — shared language: kelly
+- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: kelly
 <!-- vault-crosslinks:end -->

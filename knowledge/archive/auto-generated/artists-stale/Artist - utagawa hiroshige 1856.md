@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Night View of Saruwaka machi by Utagawa Hiroshige (1856) d6e30486|Night View of Saruwaka machi by Utagawa Hiroshige (1856)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - utagawa hiroshige 1857|Artist - utagawa hiroshige 1857]] — shared language: hiroshige, utagawa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - utagawa hiroshige 1833 1834|Artist - utagawa hiroshige 1833 1834]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/artists/Artist - utagawa hiroshige|Artist - utagawa hiroshige]] — shared language: hiroshige, utagawa, saruwaka
 - [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857 bb5ea15a|the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857]] — shared language: hiroshige, utagawa
-- [[knowledge/wiki/images/yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834 475f1914|yokkaichi mie river yokkaichi mie gawa by utagawa hiroshige 1833 1834]] — shared language: hiroshige, utagawa
 <!-- vault-crosslinks:end -->

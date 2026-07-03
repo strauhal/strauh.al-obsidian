@@ -1,12 +1,12 @@
 ---
 title: "wedding1"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/portraits/wedding1.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/portraits/wedding1.png"
 source_relpath: "portraits/wedding1.png"
 collection: "portraits"
 inferred_year: ""
 artist: ""
-dimensions: "3096x1940"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/portraits"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/portraits/wedding1.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/portraits/wedding1.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/portraits/wedding1.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

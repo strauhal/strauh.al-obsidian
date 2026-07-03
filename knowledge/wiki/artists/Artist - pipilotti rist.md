@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
-- [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — shared language: self
+- [[knowledge/wiki/images/Photograph Self immolation of Aaron Bushnell 52d2ce78|Photograph Self immolation of Aaron Bushnell]] — shared language: self
+- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: self
 - [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — shared language: self
-- [[knowledge/wiki/images/self portrait by willem de kooning 1947 e62d82ce|self portrait by willem de kooning 1947]] — shared language: self
-- [[knowledge/wiki/images/self portrait by john singer sargent 1892 c0f2323b|self portrait by john singer sargent 1892]] — shared language: self
-- [[knowledge/wiki/images/daisy by tschabalala self 2023 ce1d84a7|daisy by tschabalala self 2023]] — shared language: self
+- [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: self
+- [[knowledge/wiki/images/Self Portrait by Florence Henri (1928) e010e059|Self Portrait by Florence Henri (1928)]] — shared language: self
+- [[knowledge/wiki/images/Self Portrait by Florence Henri (1928) (2) feeeeb99|Self Portrait by Florence Henri (1928) (2)]] — shared language: self
 <!-- vault-crosslinks:end -->

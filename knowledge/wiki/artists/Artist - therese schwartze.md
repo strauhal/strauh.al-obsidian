@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/femme assise pres d une fenetre marie therese by pablo picasso 1932 47911dac|femme assise pres d une fenetre marie therese by pablo picasso 1932]] — shared language: therese
 - [[knowledge/wiki/artists/Artist - pablo picasso|Artist - pablo picasso]] — shared language: therese
-- [[knowledge/wiki/artists/Artist - theophile alexandre steinlen|Artist - theophile alexandre steinlen]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - theodoros ralli|Artist - theodoros ralli]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

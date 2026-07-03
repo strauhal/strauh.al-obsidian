@@ -1,12 +1,12 @@
 ---
 title: "why do they call it oven"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/why_do_they_call_it_oven.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/comics/why_do_they_call_it_oven.jpeg"
 source_relpath: "comics/why_do_they_call_it_oven.jpeg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "1234x678"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/comics/why_do_they_call_it_oven.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/why_do_they_call_it_oven.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/comics/why_do_they_call_it_oven.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

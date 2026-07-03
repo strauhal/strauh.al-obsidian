@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - mark rothko|Artist - mark rothko]] — shared language: rothko, mark
 - [[knowledge/wiki/images/no 16 red brown and black by mark rothko 1958 f7b70864|no 16 red brown and black by mark rothko 1958]] — shared language: rothko, mark
 - [[knowledge/wiki/images/no 1 royal red and blue by mark rothko 1954 303b5da3|no 1 royal red and blue by mark rothko 1954]] — shared language: rothko, mark
-- [[knowledge/wiki/images/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
+- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 <!-- vault-crosslinks:end -->

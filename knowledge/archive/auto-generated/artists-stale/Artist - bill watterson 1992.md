@@ -29,7 +29,7 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/october 29 1993 by bill watterson 1993 b5fdf765|october 29 1993 by bill watterson 1993]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: watterson, bill, calvin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: watterson, bill, calvin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: watterson, bill, october
 - [[knowledge/wiki/artists/Artist - bill watterson|Artist - bill watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: watterson, bill, calvin
 <!-- vault-crosslinks:end -->

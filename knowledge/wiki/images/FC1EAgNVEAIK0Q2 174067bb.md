@@ -1,12 +1,12 @@
 ---
 title: "FC1EAgNVEAIK0Q2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FC1EAgNVEAIK0Q2.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FC1EAgNVEAIK0Q2.jpeg"
 source_relpath: "computers/FC1EAgNVEAIK0Q2.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "800x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/FC1EAgNVEAIK0Q2.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/FC1EAgNVEAIK0Q2.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/FC1EAgNVEAIK0Q2.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

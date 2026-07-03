@@ -1,12 +1,12 @@
 ---
 title: "hologram"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/hologram.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/hologram.jpg"
 source_relpath: "wallpapers/hologram.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1440"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/hologram.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/hologram.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/hologram.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

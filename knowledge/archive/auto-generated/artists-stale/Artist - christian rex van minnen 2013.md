@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - christian rex van minnen|Artist - christian rex van minnen]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - christian rex van minnen|Artist - christian rex van minnen]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christian rex van minnen 2014|Artist - christian rex van minnen 2014]] — named in this note
-- [[knowledge/wiki/images/study for the unblinking eye by christian rex van minnen 2014 051d29dc|study for the unblinking eye by christian rex van minnen 2014]] — shared language: rex, minnen, christian
-- [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
-- [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: christian
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
+- [[_archive/auto-generated/images-stale/study for the unblinking eye by christian rex van minnen 2014 051d29dc|study for the unblinking eye by christian rex van minnen 2014]] — shared language: minnen, rex, christian
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
+- [[knowledge/wiki/images/Mg Rex Sketch 1 by Yoji Shinkawa 878843d7|Mg Rex Sketch 1 by Yoji Shinkawa]] — shared language: rex
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/harry clarke lirreparable illustration for the poems of charles baudelaire c 19191921 510026cb|harry clarke lirreparable illustration for the poems of charles baudelaire c 19191921]] — shared language: clarke, harry
+- [[knowledge/wiki/images/The Man of the Crowd by Harry Clarke (1919) 69c8aea0|The Man of the Crowd by Harry Clarke (1919)]] — shared language: clarke, harry
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — shared language: harry
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: harry
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: harry

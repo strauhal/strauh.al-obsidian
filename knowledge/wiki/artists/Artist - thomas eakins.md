@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — named in this note
+- [[knowledge/wiki/images/The Guitar Player by Thomas Eakins (1874) 8c957314|The Guitar Player by Thomas Eakins (1874)]] — shared language: eakins, thomas
+- [[knowledge/wiki/images/The Thinker Portrait of Louis N. Kenton by Thomas Eakins (1900) 92142234|The Thinker Portrait of Louis N. Kenton by Thomas Eakins (1900)]] — shared language: eakins, thomas
 - [[knowledge/wiki/images/thomas eakins by david levine 1972 81953310|thomas eakins by david levine 1972]] — shared language: eakins, thomas
-- [[knowledge/wiki/images/thomas ewing jpg bb270257|thomas ewing jpg]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - andy thomas|Artist - andy thomas]] — shared language: thomas
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: thomas
-- [[knowledge/wiki/images/thomas couture the vision of john bunyan c 18531854 77f7dc8c|thomas couture the vision of john bunyan c 18531854]] — shared language: thomas
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: thomas
 <!-- vault-crosslinks:end -->

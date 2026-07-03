@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - monica kim garza|Artist - monica kim garza]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - monica kim garza|Artist - monica kim garza]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - monica kim garza 2023|Artist - monica kim garza 2023]] — named in this note
-- [[knowledge/wiki/images/the butterfly effect by monica kim garza 2023 046754d5|the butterfly effect by monica kim garza 2023]] — shared language: monica, garza, kim
-- [[knowledge/wiki/images/fuck kim jung gi is dead by b c komix 2023 5b6475b4|fuck kim jung gi is dead by b c komix 2023]] — shared language: kim
-- [[knowledge/wiki/images/photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building 70829749|photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building]] — shared language: kim
-- [[knowledge/wiki/images/black and white four panel comic strip discussing ai art and the legacy of kim jung gi 872ea9d6|black and white four panel comic strip discussing ai art and the legacy of kim jung gi]] — shared language: kim
+- [[_archive/auto-generated/images-stale/the butterfly effect by monica kim garza 2023 046754d5|the butterfly effect by monica kim garza 2023]] — shared language: monica, garza, kim
+- [[knowledge/wiki/images/The Butterfly Effect by Monica Kim Garza (2023) 092d0944|The Butterfly Effect by Monica Kim Garza (2023)]] — shared language: monica, garza, kim
+- [[knowledge/wiki/artists/Artist - Kim Jung Gi|Artist - Kim Jung Gi]] — shared language: kim
+- [[knowledge/wiki/artists/Artist - Miki Kim|Artist - Miki Kim]] — shared language: kim
 <!-- vault-crosslinks:end -->

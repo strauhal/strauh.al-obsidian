@@ -1,0 +1,35 @@
+---
+title: "War Games by Petrina Ryan Kleid (2012)"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/War Games by Petrina Ryan-Kleid (2012).jpeg"
+source_relpath: "2000s/War Games by Petrina Ryan-Kleid (2012).jpeg"
+collection: "2000s"
+inferred_year: "2012"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# War Games by Petrina Ryan Kleid (2012)
+
+![[media/strauh.al3.1/2000s/War Games by Petrina Ryan-Kleid (2012).jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Date bucket: [[Date Bucket - 2010s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/War Games by Petrina Ryan-Kleid (2012).jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/War Games by Petrina Ryan-Kleid (2012).jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2008) 87f9d01b|War Games by Petrina Ryan Kleid (2008)]] — named in this note
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
+- [[knowledge/wiki/artists/Artist - lucasfilm games|Artist - lucasfilm games]] — shared language: games
+- [[knowledge/wiki/artists/Artist - Ryan Pagelow|Artist - Ryan Pagelow]] — shared language: ryan
+- [[knowledge/wiki/images/Stargazer by Ryan Bliss (2000) a074d7ce|Stargazer by Ryan Bliss (2000)]] — shared language: ryan
+<!-- vault-crosslinks:end -->

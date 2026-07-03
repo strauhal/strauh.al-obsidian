@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: nicholas
 - [[knowledge/wiki/artists/Artist - nicholas roerich|Artist - nicholas roerich]] — shared language: nicholas
-- [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — shared language: nicholas
 - [[knowledge/wiki/images/the face of the world by nicholas roerich 1925 0fd26cfb|the face of the world by nicholas roerich 1925]] — shared language: nicholas
+- [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — shared language: nicholas
 - [[knowledge/wiki/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]] — shared language: nicholas
 - [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: nicholas
 <!-- vault-crosslinks:end -->

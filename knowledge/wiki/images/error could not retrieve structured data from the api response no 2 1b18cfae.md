@@ -1,12 +1,12 @@
 ---
 title: "error could not retrieve structured data from the api response no 2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png"
 source_relpath: "2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: "1196x946"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/error_could_not_retrieve_structured_data_from_the_api_response_no_2.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 0aa0e343|error could not retrieve structured data from the api response no]] — shared language: retrieve, structured, response
-- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 4f2a0923|error could not retrieve structured data from the api response no]] — shared language: retrieve, structured, response
 - [[knowledge/wiki/images/error could not retrieve structured data from the api response no d026d991|error could not retrieve structured data from the api response no]] — shared language: retrieve, structured, response
 - [[knowledge/wiki/images/error could not retrieve structured data from the api response no 2 6d253a45|error could not retrieve structured data from the api response no 2]] — shared language: retrieve, structured, response
-- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 2 aa4336a1|error could not retrieve structured data from the api response no 2]] — shared language: retrieve, structured, response
+- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 2 2 4cbaf2b8|error could not retrieve structured data from the api response no 2 2]] — shared language: retrieve, structured, response
+- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 2 3 0f79b01c|error could not retrieve structured data from the api response no 2 3]] — shared language: retrieve, structured, response
+- [[knowledge/wiki/images/error could not retrieve structured data from the api response no 3 e86a1671|error could not retrieve structured data from the api response no 3]] — shared language: retrieve, structured, response
 <!-- vault-crosslinks:end -->

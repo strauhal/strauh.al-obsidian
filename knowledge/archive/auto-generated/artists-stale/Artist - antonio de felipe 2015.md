@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - antonio de felipe|Artist - antonio de felipe]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - antonio de felipe|Artist - antonio de felipe]] — named in this note
 - [[knowledge/wiki/artists/Artist - antonio canova|Artist - antonio canova]] — shared language: antonio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - antonio canova 1787 93|Artist - antonio canova 1787 93]] — shared language: antonio
 - [[knowledge/wiki/artists/Artist - antonio lopez|Artist - antonio lopez]] — shared language: antonio
-- [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: antonio
-- [[knowledge/wiki/images/cupid and psyche by antonio canova 1787 93 ac853e63|cupid and psyche by antonio canova 1787 93]] — shared language: antonio
+- [[knowledge/wiki/artists/Artist - Antonio Rubino|Artist - Antonio Rubino]] — shared language: antonio
+- [[knowledge/wiki/images/man in trench coat by antonio lopez c 1982 a51ac36f|man in trench coat by antonio lopez c 1982]] — shared language: antonio
 <!-- vault-crosslinks:end -->

@@ -220,11 +220,11 @@ Files: 152
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
-- [[knowledge/wiki/images/img 1245 copy jpg fb3870e0|img 1245 copy jpg]] — shared language: copy
 - [[knowledge/wiki/images/estrauhal 05 967e9f35|estrauhal 05]] — shared language: estrauhal
-- [[knowledge/wiki/images/Captsafdsvdsvure copy c35f1e2c|Captsafdsvdsvure copy]] — shared language: copy
-- [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
 - [[knowledge/wiki/images/estrauhal 05 resized b10d6561|estrauhal 05 resized]] — shared language: estrauhal
-- [[knowledge/wiki/images/image 0068 real B copy a7bc373b|image 0068 real B copy]] — shared language: copy
+- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: copy
+- [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
+- [[knowledge/wiki/images/Photograph Vibrant Green Aurora Borealis Over Dark Landscape 28fafc09|Photograph Vibrant Green Aurora Borealis Over Dark Landscape]] — shared language: aurora
+- [[knowledge/wiki/images/aurora borealis by frederic edwin church 1865 1cf377bb|aurora borealis by frederic edwin church 1865]] — shared language: aurora
+- [[knowledge/wiki/images/the chariot of aurora by herbert james draper c 1900 360caf88|the chariot of aurora by herbert james draper c 1900]] — shared language: aurora
 <!-- vault-crosslinks:end -->

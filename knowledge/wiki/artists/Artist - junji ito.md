@@ -1,13 +1,13 @@
 ---
 title: "Artist - junji ito"
 source_kind: "artist"
-count: "17"
+count: "15"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - junji ito
 
-Images attributed by filename: 17
+Images attributed by filename: 15
 
 ## Sample
 
@@ -41,10 +41,6 @@ Images attributed by filename: 17
 
 ![[media/strauh.al3.1/1900s/uzumaki_panel_from_the_hair_chapter_by_junji_ito_1998.jpeg]]
 
-![[media/strauh.al3.1/2000s/illustration_of_a_young_woman_with_a_long_braid_and_patterned_top_standing_in_front_of_a_building_by_junji_ito.jpeg]]
-
-![[media/strauh.al3.1/2000s/the_long_hair_in_the_attic_by_junji_ito_2002.jpeg]]
-
 ## Image Notes
 
 - [[black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999 35fb517d|black and white illustration of a figure standing above a massive crowd reaching up by junji ito 1998 1999]]
@@ -62,8 +58,6 @@ Images attributed by filename: 17
 - [[uzumaki panel depicting the spiral phenomenon by junji ito 1998 842725ed|uzumaki panel depicting the spiral phenomenon by junji ito 1998]]
 - [[uzumaki panel featuring azami kurotani by junji ito 1998 e766f764|uzumaki panel featuring azami kurotani by junji ito 1998]]
 - [[uzumaki panel from the hair chapter by junji ito 1998 7a9caf99|uzumaki panel from the hair chapter by junji ito 1998]]
-- [[illustration of a young woman with a long braid and patterned top standing in front of a building by junji ito 5bfe8f83|illustration of a young woman with a long braid and patterned top standing in front of a building by junji ito]]
-- [[the long hair in the attic by junji ito 2002 fb55396d|the long hair in the attic by junji ito 2002]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -71,7 +65,7 @@ Images attributed by filename: 17
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
 - [[knowledge/wiki/images/tomie 1d78e552|tomie]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito, tomie
-- [[knowledge/wiki/images/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: junji, ito, tomie
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream, panel
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: ito, junji, tomie
+- [[knowledge/wiki/images/Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito 9d9f7d28|Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito]] — shared language: junji, ito, tomie
+- [[knowledge/wiki/images/Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito 9f3ca7dd|Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito]] — shared language: junji, ito, panel
 <!-- vault-crosslinks:end -->

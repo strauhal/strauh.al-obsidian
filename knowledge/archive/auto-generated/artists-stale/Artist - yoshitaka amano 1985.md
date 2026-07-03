@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1983|Artist - yoshitaka amano 1983]] — shared language: yoshitaka, amano
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1990|Artist - yoshitaka amano 1990]] — shared language: yoshitaka, amano
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitaka amano 1989|Artist - yoshitaka amano 1989]] — shared language: yoshitaka, amano
-- [[knowledge/wiki/artists/Artist - yoshitaka amano|Artist - yoshitaka amano]] — shared language: yoshitaka, amano, dragon
 - [[knowledge/wiki/images/fruit by yoshitaka amano 1989 672beca9|fruit by yoshitaka amano 1989]] — shared language: yoshitaka, amano
+- [[knowledge/wiki/artists/Artist - yoshitaka amano|Artist - yoshitaka amano]] — shared language: yoshitaka, amano, dragon
 <!-- vault-crosslinks:end -->

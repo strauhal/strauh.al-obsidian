@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1440s"
 source_kind: "date_bucket"
-count: "5"
+count: "4"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,19 +9,17 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1440s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 4
 
 ## Sample
+
+![[media/strauh.al3.1/1400s/The Annunciation by Fra Angelico (c. 1440–1445).jpg]]
 
 ![[media/strauh.al3.1/1400s/konrad_witz_the_miraculous_draught_of_fishes_1444.jpg]]
 
 ![[media/strauh.al3.1/1400s/miraflores_altarpiece_detail_of_mary_magdalene_by_rogier_van_der_weyden_c_1440_1445.jpeg]]
 
 ![[media/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg]]
-
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1447.JPG]]
-
-![[media/strauh.al3.1/unsorted/the_annunciation_by_fra_angelico_c_1440_1445.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: watterson, bill, hobbes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: watterson, bill
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1992|Artist - bill watterson 1992]] — shared language: watterson, bill, calvin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1992|Artist - bill watterson 1992]] — shared language: watterson, bill, october
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1987|Artist - bill watterson 1987]] — shared language: watterson, bill, october
 <!-- vault-crosslinks:end -->

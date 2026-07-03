@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - pedro friedeberg|Artist - pedro friedeberg]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peder mrk mnsted 1910|Artist - peder mrk mnsted 1910]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter doig 1995|Artist - peter doig 1995]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - peeling layers on a yellow wall|Artist - peeling layers on a yellow wall]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

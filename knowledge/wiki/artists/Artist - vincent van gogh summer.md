@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
-- [[knowledge/wiki/images/vincent van gogh factories at clichy 1887 9635f512|vincent van gogh factories at clichy 1887]] — shared language: gogh, vincent, van
-- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: gogh, vincent, van
-- [[knowledge/wiki/images/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: gogh, vincent, van
-- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: gogh, vincent, van
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: vincent, gogh, van
+- [[knowledge/wiki/images/vincent van gogh factories at clichy 1887 9635f512|vincent van gogh factories at clichy 1887]] — shared language: vincent, gogh, van
+- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: vincent, gogh, van
+- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: vincent, gogh, van
 <!-- vault-crosslinks:end -->

@@ -50,10 +50,10 @@ Images attributed by filename: 11
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Candle Dancers by Emil Nolde (1912) 7ba9906f|Candle Dancers by Emil Nolde (1912)]] — shared language: nolde, emil
 - [[knowledge/wiki/anchors/emil-gilels|Emil Gilels]] — shared language: emil
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: nolde, emil, der
 - [[knowledge/wiki/artists/Artist - emil otto hoppe|Artist - emil otto hoppe]] — shared language: emil
 - [[knowledge/wiki/images/giacomo puccini by emil otto hoppe c 1910 e3e2064a|giacomo puccini by emil otto hoppe c 1910]] — shared language: emil
 - [[knowledge/wiki/images/1983 1047 adam and eve in paradise jpg c2ec0c5e|1983 1047 adam and eve in paradise jpg]] — shared language: eve, adam
-- [[knowledge/wiki/images/framed park scene with children and women under trees 550956fa|framed park scene with children and women under trees]] — shared language: children, women
+- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden, pink
 <!-- vault-crosslinks:end -->

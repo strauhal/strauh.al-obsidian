@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: strange, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert strange 1757|Artist - robert strange 1757]] — shared language: strange, robert
 - [[knowledge/wiki/images/belisarius by robert strange 1757 781fa7bc|belisarius by robert strange 1757]] — shared language: strange, robert
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — shared language: sir, robert
+- [[knowledge/wiki/images/Te Deum Laudamus by Robert Strange (1760) 9798cab5|Te Deum Laudamus by Robert Strange (1760)]] — shared language: strange, robert
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — shared language: robert
 <!-- vault-crosslinks:end -->

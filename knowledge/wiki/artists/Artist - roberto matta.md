@@ -20,8 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/matta au fond du reflet jpg 3b470f1a|matta au fond du reflet jpg]] — shared language: matta
-- [[knowledge/wiki/images/Matta Earth Is a Man 7910980f|Matta Earth Is a Man]] — shared language: matta
-- [[knowledge/wiki/artists/Artist - roberto ferri|Artist - roberto ferri]] — shared language: roberto
-- [[knowledge/wiki/images/the bull by roberto ferri 2015 fa9fc4b3|the bull by roberto ferri 2015]] — shared language: roberto
+- [[knowledge/wiki/images/Earth Is a Man by Roberto Matta (1941 1942) f381ba40|Earth Is a Man by Roberto Matta (1941 1942)]] — shared language: matta, roberto
+- [[knowledge/wiki/images/Illustration Abstract Painting With Swirling White Lines And Yellow Green Tones by Roberto Matta 839f9b6c|Illustration Abstract Painting With Swirling White Lines And Yellow Green Tones by Roberto Matta]] — shared language: matta, roberto
+- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

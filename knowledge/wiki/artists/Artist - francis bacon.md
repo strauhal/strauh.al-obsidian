@@ -47,10 +47,10 @@ Images attributed by filename: 10
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: bacon, francis
+- [[knowledge/wiki/images/Head VI by Francis Bacon (1949) 56dea298|Head VI by Francis Bacon (1949)]] — shared language: bacon, francis
+- [[knowledge/wiki/images/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: bacon, francis
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: bacon, self, francis
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: bacon
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: bacon
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, studies
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
+- [[knowledge/wiki/books/athlone-contemporary-european-thinkers-gilles-deleuze-francis-bacon-the-logic-of-sensation-continuum|Francis Bacon The Logic of Sensation-Continuum]] — shared language: bacon, francis
 <!-- vault-crosslinks:end -->

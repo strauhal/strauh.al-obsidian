@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - peter lindbergh|Artist - peter lindbergh]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter lindbergh 1986|Artist - peter lindbergh 1986]] — named in this note
 - [[knowledge/wiki/images/photograph of bias cutting spring summer 1986 by peter lindbergh 1986 d06ac267|photograph of bias cutting spring summer 1986 by peter lindbergh 1986]] — shared language: lindbergh, peter
+- [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1991|Artist - peter saul 1991]] — shared language: peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1967|Artist - peter saul 1967]] — shared language: peter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1969|Artist - peter saul 1969]] — shared language: peter
 <!-- vault-crosslinks:end -->

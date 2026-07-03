@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - rob verhorst|Artist - rob verhorst]] — named in this note
-- [[knowledge/wiki/artists/Artist - rob israel|Artist - rob israel]] — shared language: rob
-- [[knowledge/wiki/images/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob
-- [[knowledge/wiki/images/indian miniature painting of a festival scene with figures in balconies 3c4993d9|indian miniature painting of a festival scene with figures in balconies]] — shared language: festival
-- [[knowledge/wiki/images/the harvest festival by william hahn 1870 55751286|the harvest festival by william hahn 1870]] — shared language: festival
-- [[knowledge/wiki/images/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: stage
+- [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
+- [[knowledge/archive/auto-generated/artists-stale/Artist - rob israel|Artist - Rob Israel]] — shared language: rob
+- [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
+- [[_archive/auto-generated/images-stale/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob
+- [[knowledge/wiki/images/Hills of Houses by Rob Pointon 53cab778|Hills of Houses by Rob Pointon]] — shared language: rob
 <!-- vault-crosslinks:end -->

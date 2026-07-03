@@ -27,10 +27,10 @@ Files: 2
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: century, yan, zhao
-- [[knowledge/wiki/images/vadim gerasimov scream early 21st century 53b5989b|vadim gerasimov scream early 21st century]] — shared language: century, early
-- [[knowledge/wiki/images/hassan rizali fantasia early 21st century a623820e|hassan rizali fantasia early 21st century]] — shared language: century, early
+- [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: century, early
 - [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: century, early
 - [[knowledge/wiki/images/edgar payne monument valley early 20th century 47ac96d9|edgar payne monument valley early 20th century]] — shared language: century, early
 - [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century
 - [[knowledge/wiki/images/hebe by antonio canova early 19th century 4886d7af|hebe by antonio canova early 19th century]] — shared language: century, early
+- [[knowledge/wiki/images/blemmyes 15th century 5a4f467c|blemmyes 15th century]] — shared language: century
 <!-- vault-crosslinks:end -->

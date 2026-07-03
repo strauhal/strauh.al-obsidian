@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - bern porter|Artist - bern porter]] — shared language: porter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bern porter 1971|Artist - bern porter 1971]] — shared language: porter
 - [[knowledge/wiki/images/the something missing is essentially inexpressible by bern porter 1971 c4b79a59|the something missing is essentially inexpressible by bern porter 1971]] — shared language: porter
-- [[knowledge/wiki/images/close up of knitted sweater with repeating red horizontal figure pattern e42e1adb|close up of knitted sweater with repeating red horizontal figure pattern]] — shared language: sweater
-- [[knowledge/wiki/images/tennis player by harold edgerton 1949 d7b03044|tennis player by harold edgerton 1949]] — shared language: tennis
+- [[knowledge/wiki/images/Photograph Close Up of Red and White Knitted Sweater with Stylized Figures fd8cdcea|Photograph Close Up of Red and White Knitted Sweater with Stylized Figures]] — shared language: sweater
+- [[_archive/auto-generated/images-stale/close up of knitted sweater with repeating red horizontal figure pattern e42e1adb|close up of knitted sweater with repeating red horizontal figure pattern]] — shared language: sweater
 <!-- vault-crosslinks:end -->

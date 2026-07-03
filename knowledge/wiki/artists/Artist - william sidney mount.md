@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/anchors/sidney-cohen|Sidney Cohen]] — shared language: sidney
-- [[knowledge/wiki/images/Sermon on the mount window f0b31e99|Sermon on the mount window]] — shared language: mount
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: sidney
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
-- [[knowledge/wiki/images/stained glass window depicting the sermon on the mount 263dd81a|stained glass window depicting the sermon on the mount]] — shared language: mount
+- [[knowledge/wiki/images/The Old Banjo by William Keane (1889) 3e294b36|The Old Banjo by William Keane (1889)]] — shared language: william, banjo
 <!-- vault-crosslinks:end -->

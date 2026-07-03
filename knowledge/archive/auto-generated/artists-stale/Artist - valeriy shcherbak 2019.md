@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - valeriy shcherbak|Artist - valeriy shcherbak]] — named in this note
-- [[knowledge/wiki/artists/Artist - valeriy brosin|Artist - valeriy brosin]] — shared language: valeriy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy shcherbak|Artist - valeriy shcherbak]] — named in this note
+- [[knowledge/wiki/images/Man and Cat by Valeriy Kucherenko (2018) db752ad7|Man and Cat by Valeriy Kucherenko (2018)]] — shared language: valeriy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy brosin|Artist - valeriy brosin]] — shared language: valeriy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy brosin 2013|Artist - valeriy brosin 2013]] — shared language: valeriy
-- [[knowledge/wiki/images/the last customer by valeriy brosin 2013 d73dac3a|the last customer by valeriy brosin 2013]] — shared language: valeriy
-- [[knowledge/wiki/images/reproduction of ancient rock art with layered figures and spirals 59af1117|reproduction of ancient rock art with layered figures and spirals]] — shared language: ancient
-- [[knowledge/wiki/images/the spirit of the ancient oak by maxfield parrish 1920 891a52f9|the spirit of the ancient oak by maxfield parrish 1920]] — shared language: ancient
+- [[_archive/auto-generated/images-stale/the last customer by valeriy brosin 2013 d73dac3a|the last customer by valeriy brosin 2013]] — shared language: valeriy
+- [[knowledge/wiki/images/The Last Customer by Valeriy Brosin (2013) c2d96bd6|The Last Customer by Valeriy Brosin (2013)]] — shared language: valeriy
 <!-- vault-crosslinks:end -->

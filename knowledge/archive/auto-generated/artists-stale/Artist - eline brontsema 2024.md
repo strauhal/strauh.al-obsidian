@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - eline brontsema|Artist - eline brontsema]] — named in this note
+- [[knowledge/wiki/images/Nichtschwimmerbecken, Schwimmhalle Anton Saefkow Platz by Eline Brontsema (2024) 8b118388|Nichtschwimmerbecken, Schwimmhalle Anton Saefkow Platz by Eline Brontsema (2024)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - eline brontsema|Artist - eline brontsema]] — named in this note
+- [[knowledge/wiki/artists/Artist - Anton Josef Tr ka|Artist - Anton Josef Tr ka]] — shared language: anton
 - [[knowledge/archive/auto-generated/artists-stale/Artist - anton raphael mengs 1746 49|Artist - anton raphael mengs 1746 49]] — shared language: anton
 - [[knowledge/wiki/artists/Artist - anton raphael mengs|Artist - anton raphael mengs]] — shared language: anton
-- [[knowledge/wiki/images/the allegory of the arts by anton raphael mengs c 1777 c08d18eb|the allegory of the arts by anton raphael mengs c 1777]] — shared language: anton
-- [[knowledge/wiki/images/portrait of ismael mengs by anton raphael mengs 1746 49 df2c5007|portrait of ismael mengs by anton raphael mengs 1746 49]] — shared language: anton
+- [[knowledge/wiki/images/Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: anton
 <!-- vault-crosslinks:end -->

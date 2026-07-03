@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: van, charles
 - [[knowledge/wiki/images/francisco de goya the temptation of st anthony c 1798 5f3c7b47|francisco de goya the temptation of st anthony c 1798]] — shared language: anthony
+- [[knowledge/wiki/images/The Temptation of St. Anthony by Max Ernst (1945) 54cf7763|The Temptation of St. Anthony by Max Ernst (1945)]] — shared language: anthony
 - [[knowledge/wiki/images/saint anthony reading by albrecht durer 1519 6ee10ec8|saint anthony reading by albrecht durer 1519]] — shared language: anthony
-- [[knowledge/wiki/images/salvador dal the temptation of saint anthony 1946 e41fe75c|salvador dal the temptation of saint anthony 1946]] — shared language: anthony
-- [[knowledge/wiki/images/the temptation of saint anthony by jan mandijn c 15301540 4b91112e|the temptation of saint anthony by jan mandijn c 15301540]] — shared language: anthony
 <!-- vault-crosslinks:end -->

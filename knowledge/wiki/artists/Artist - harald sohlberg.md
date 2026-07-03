@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - hao liang|Artist - hao liang]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - harmonia rosales|Artist - harmonia rosales]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - hans schaufelein|Artist - hans schaufelein]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - harold edgerton|Artist - harold edgerton]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - hans namuth|Artist - hans namuth]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

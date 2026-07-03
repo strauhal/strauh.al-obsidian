@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - ken bastian|Artist - ken bastian]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ken bastian|Artist - ken bastian]] — named in this note
 - [[knowledge/wiki/artists/Artist - ken jenkins|Artist - ken jenkins]] — shared language: ken
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ken jenkins 1985|Artist - ken jenkins 1985]] — shared language: ken
 - [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken

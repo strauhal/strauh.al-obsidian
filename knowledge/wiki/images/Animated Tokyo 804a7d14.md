@@ -1,7 +1,7 @@
 ---
 title: "Animated Tokyo"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/Animated Tokyo.heic"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/Animated Tokyo.heic"
 source_relpath: "wallpapers/Animated Tokyo.heic"
 collection: "wallpapers"
 inferred_year: ""
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/Animated Tokyo.heic|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/Animated Tokyo.heic`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/Animated Tokyo.heic`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

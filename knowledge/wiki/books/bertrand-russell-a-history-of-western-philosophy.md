@@ -9,8 +9,8 @@ metadata: curated
 aliases: [History Of Western Philosophy]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/History Of Western Philosophy.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # A History of Western Philosophy
@@ -46,6 +46,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/michel-foucault-madness-and-civilization-a-history-of-insanity-in-the-age-of-reason|Madness and Civilization A History of Insanity in the Age of Reason]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
-- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-political-thought-max-stirner-the-ego-and-its-own|The Ego and its Own]] — same category: philosophy
+- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
 <!-- vault-crosslinks:end -->

@@ -92,7 +92,7 @@ Images attributed by filename: 24
 - [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/artists/Artist - john singer sargent 18851886|Artist - john singer sargent 18851886]] — shared language: sargent, singer, john
+- [[knowledge/wiki/images/A Man Fishing by John Singer Sargent (1912) c80910c9|A Man Fishing by John Singer Sargent (1912)]] — shared language: sargent, singer, john
 - [[knowledge/wiki/images/john singer sargent gabriel faur 1898 8c6e9e69|john singer sargent gabriel faur 1898]] — shared language: sargent, singer, john
-- [[knowledge/wiki/images/john singer sargent the barbers shop the janitor 1893 10ed4e66|john singer sargent the barbers shop the janitor 1893]] — shared language: sargent, singer, john
-- [[knowledge/wiki/images/j s sargent 1 jpg 39db77e4|j s sargent 1 jpg]] — shared language: sargent
+- [[knowledge/wiki/images/Miss Beatrice Townsend by John Singer Sargent (1921) f4b761a7|Miss Beatrice Townsend by John Singer Sargent (1921)]] — shared language: sargent, singer, john
 <!-- vault-crosslinks:end -->

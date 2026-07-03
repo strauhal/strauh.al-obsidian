@@ -32,23 +32,11 @@ and the thing he keeps trying to write his way out of.
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (8).** [[meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device f51eaf13|meme graphic titled the aesthetic brain featuring a wojak style character and a green handheld device]] · [[black and white engraving parodying the flammarion engraving with meme faces 49cf9c45|black and white engraving parodying the flammarion engraving with meme faces]] · [[cat meme about classmates going insane 7d79f898|cat meme about classmates going insane]] · [[deep fried image of a bed with a loose fitted sheet and meme text overlay 2f435597|deep fried image of a bed with a loose fitted sheet and meme text overlay]] · [[ic post the last thing you drew artworkcritique 4chan png e0320b8b|ic post the last thing you drew artworkcritique 4chan png]] · [[meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] · [[meme image of collapsed chair with caption you arent doing it wrong ae8b832c|meme image of collapsed chair with caption you arent doing it wrong]] · [[purple muscle creature meme 6a1e2e20|purple muscle creature meme]]
+**Images (2).** [[Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez 75c84caa|Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez]] · [[Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot 19f4c96c|Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot]]
 
 **Books (1).** [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/the flammarion engraving 1888 4dfca67f|the flammarion engraving 1888]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, archive-links, start
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: quotes, going, thing
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -57,3 +45,16 @@ and the thing he keeps trying to write his way out of.
 
 > I'm just going to warn zoomers, all your slang and memes seem like semi-ironic fun, but one of these days McDonald's is going to call their McRib Based and H&R Block is going to say their competitor's transactions fees are cringe. You'll live to see it commodified and seeing a 64 year old oil executive in a tailored suit talking about their favorite vtubers and say only simps support green energy will make you realize nothing can escape the decrepit reach of capital.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, archive-links, start
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: quotes, going, say
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, can't, you're
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: quotes, archive-links
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: quotes, can't
+<!-- vault-crosslinks:end -->

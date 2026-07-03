@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: carl
+- [[knowledge/wiki/images/the harvest by frederick booth 1918 ae851690|the harvest by frederick booth 1918]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - frederick hollyer|Artist - frederick hollyer]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
-- [[knowledge/wiki/images/the harvest by frederick booth 1918 ae851690|the harvest by frederick booth 1918]] — shared language: frederick
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1600s"
 source_kind: "date_bucket"
-count: "9"
+count: "12"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1600s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 9
+Files: 12
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/The Calling of Saint Matthew by Caravaggio (1599–1600).jpg]]
+
+![[media/strauh.al3.1/1600s/The Fall of Phaeton by Peter Paul Rubens (1604–1605).webp]]
+
+![[media/strauh.al3.1/1600s/The Taking of Christ by Caravaggio (c. 1602).jpg]]
 
 ![[media/strauh.al3.1/1600s/allegory_of_the_cave_antrum_platonicum_by_jan_saenredam_1604.jpg]]
 
@@ -27,9 +33,9 @@ Files: 9
 
 ![[media/strauh.al3.1/1900s/ben_hur_1960_finnish_original_film_art_1600x_jpg.jpg]]
 
-![[media/strauh.al3.1/unsorted/the_calling_of_saint_matthew_by_caravaggio_1599_1600.jpg]]
+![[media/strauh.al3.1/2000s/Saint Jerome Writing by Caravaggio (1605-1606).jpg]]
 
-![[media/strauh.al3.1/unsorted/the_fall_of_phaeton_by_peter_paul_rubens_1604_1605.jpg.webp]]
+![[media/strauh.al3.1/2000s/The Conversion on the Way to Damascus by Caravaggio (1600-1601).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - t lux feininger 1927|Artist - t lux feininger 1927]] — shared language: feininger
 - [[knowledge/wiki/images/three bauhaus students by t lux feininger 1927 9c4f16f9|three bauhaus students by t lux feininger 1927]] — shared language: feininger
 - [[knowledge/wiki/images/a r penck die rothschildgiraffe 1978 87df1674|a r penck die rothschildgiraffe 1978]] — shared language: die
-- [[knowledge/wiki/images/ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg e31f1a9f|ludwig ferdinand schnorr von carolsfeld die versuchung christi 3260 kunsthistorisches museum jpg]] — shared language: die
+- [[knowledge/wiki/images/Photograph Close Up View of a Colorful Microchip Die 5a6b3d0d|Photograph Close Up View of a Colorful Microchip Die]] — shared language: die
 <!-- vault-crosslinks:end -->

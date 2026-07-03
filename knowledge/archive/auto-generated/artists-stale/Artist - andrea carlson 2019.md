@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - andrea carlson|Artist - andrea carlson]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andrea carlson|Artist - andrea carlson]] — named in this note
 - [[knowledge/wiki/artists/Artist - john f carlson|Artist - john f carlson]] — shared language: carlson
 - [[knowledge/wiki/images/the sentinels by john f carlson c 1920 05522448|the sentinels by john f carlson c 1920]] — shared language: carlson
-- [[knowledge/wiki/images/andrea mantegna 036 jpg c3a325ac|andrea mantegna 036 jpg]] — shared language: andrea
-- [[knowledge/wiki/artists/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
-- [[knowledge/wiki/images/the crucifixion by andrea mantegna 1457 1459 e4311b50|the crucifixion by andrea mantegna 1457 1459]] — shared language: andrea
+- [[_archive/auto-generated/images-stale/andrea mantegna 036 jpg c3a325ac|andrea mantegna 036 jpg]] — shared language: andrea
+- [[knowledge/archive/auto-generated/artists-stale/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
+- [[knowledge/wiki/artists/Artist - Andrea Pozzo|Artist - Andrea Pozzo]] — shared language: andrea
 <!-- vault-crosslinks:end -->

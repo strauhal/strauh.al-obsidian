@@ -1,12 +1,12 @@
 ---
 title: "le bal pare by jean michel moreau 1812"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg"
 source_relpath: "1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg"
 collection: "1800s"
 inferred_year: "1812"
 artist: "jean michel moreau"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - jean michel moreau]]
 
 Source: [[media/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/le_bal_pare_by_jean_michel_moreau_1812.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: michel, jean
 - [[knowledge/wiki/images/untitled head by jean michel basquiat 1982 d0caf46a|untitled head by jean michel basquiat 1982]] — shared language: michel, jean
 - [[knowledge/wiki/artists/Artist - jean michel basquiat|Artist - jean michel basquiat]] — shared language: michel, jean
-- [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/images/Untitled (Head) by Jean Michel Basquiat (1982) c1e1e665|Untitled (Head) by Jean Michel Basquiat (1982)]] — shared language: michel, jean
 <!-- vault-crosslinks:end -->

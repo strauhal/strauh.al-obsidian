@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1971|Artist - saul steinberg 1971]] — shared language: steinberg, saul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1965|Artist - saul steinberg 1965]] — shared language: steinberg, saul
-- [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — shared language: steinberg, saul
+- [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1971|Artist - saul steinberg 1971]] — shared language: steinberg, saul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1966|Artist - saul steinberg 1966]] — shared language: steinberg, saul
 - [[knowledge/wiki/artists/Artist - saul steinberg|Artist - saul steinberg]] — shared language: steinberg, saul
 - [[knowledge/wiki/images/the crowd by saul steinberg 1965 e62af0ca|the crowd by saul steinberg 1965]] — shared language: steinberg, saul
+- [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — shared language: steinberg, saul
 <!-- vault-crosslinks:end -->

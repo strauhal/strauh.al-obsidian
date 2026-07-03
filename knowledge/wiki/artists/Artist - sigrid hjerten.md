@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - shusaku arakawa|Artist - shusaku arakawa]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - shen zhou|Artist - shen zhou]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

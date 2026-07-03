@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu xiaodong 1994|Artist - liu xiaodong 1994]] — named in this note
-- [[knowledge/wiki/artists/Artist - liu ye|Artist - liu ye]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye|Artist - liu ye]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - liu ye 2003|Artist - liu ye 2003]] — named in this note
 - [[knowledge/wiki/images/the waitress by liu xiaodong 1994 f0ce6cc5|the waitress by liu xiaodong 1994]] — shared language: xiaodong, liu
-- [[knowledge/wiki/images/the man on the sofa by liu ye 2003 926e1ae3|the man on the sofa by liu ye 2003]] — shared language: liu
+- [[_archive/auto-generated/images-stale/the man on the sofa by liu ye 2003 926e1ae3|the man on the sofa by liu ye 2003]] — shared language: liu
 <!-- vault-crosslinks:end -->

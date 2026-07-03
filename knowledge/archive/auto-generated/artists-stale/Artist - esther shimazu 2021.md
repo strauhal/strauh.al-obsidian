@@ -23,9 +23,9 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - esther shimazu|Artist - esther shimazu]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - esther shimazu|Artist - esther shimazu]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - esther shimazu 2024|Artist - esther shimazu 2024]] — named in this note
-- [[knowledge/wiki/images/kava by esther shimazu 2024 5b9723ab|kava by esther shimazu 2024]] — shared language: shimazu, esther
+- [[_archive/auto-generated/images-stale/kava by esther shimazu 2024 5b9723ab|kava by esther shimazu 2024]] — shared language: shimazu, esther
 - [[knowledge/wiki/images/esther by edwin longsden long 1878 48de1a40|esther by edwin longsden long 1878]] — shared language: esther
 - [[knowledge/wiki/artists/Artist - edwin longsden long|Artist - edwin longsden long]] — shared language: esther
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edwin longsden long 1878|Artist - edwin longsden long 1878]] — shared language: esther

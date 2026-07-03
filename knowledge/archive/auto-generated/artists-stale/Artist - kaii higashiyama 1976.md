@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - kaii higashiyama|Artist - kaii higashiyama]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kaho shishido 2019|Artist - kaho shishido 2019]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kaho shishido|Artist - kaho shishido]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kanye west 2013|Artist - kanye west 2013]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

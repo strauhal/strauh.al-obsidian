@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - enrico donati|Artist - enrico donati]] — named in this note
-- [[knowledge/wiki/artists/Artist - enrico marini|Artist - enrico marini]] — shared language: enrico
+- [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini|Artist - Enrico Marini]] — shared language: enrico
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini 2011|Artist - enrico marini 2011]] — shared language: enrico
-- [[knowledge/wiki/images/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: enrico
-- [[knowledge/wiki/images/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
+- [[knowledge/wiki/artists/Artist - Enrico Robusti|Artist - Enrico Robusti]] — shared language: enrico
+- [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: enrico
+- [[_archive/auto-generated/images-stale/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: enrico
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - humberto calzada|Artist - humberto calzada]] — named in this note
 - [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: del
+- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del
 - [[knowledge/wiki/artists/Artist - piero del pollaiuolo|Artist - piero del pollaiuolo]] — shared language: del
-- [[knowledge/wiki/anchors/guillermo-del-toro|Guillermo del Toro]] — shared language: del
 - [[knowledge/wiki/artists/Artist - andrea del sarto|Artist - andrea del sarto]] — shared language: del
-- [[knowledge/wiki/images/saint agnes by andrea del sarto c 1527 1530 0cc919e5|saint agnes by andrea del sarto c 1527 1530]] — shared language: del
+- [[knowledge/wiki/anchors/guillermo-del-toro|Guillermo del Toro]] — shared language: del
 <!-- vault-crosslinks:end -->

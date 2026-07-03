@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - laura pannack|Artist - laura pannack]] — named in this note
-- [[knowledge/wiki/artists/Artist - laura catherwood|Artist - laura catherwood]] — shared language: laura
+- [[knowledge/archive/auto-generated/artists-stale/Artist - laura pannack|Artist - laura pannack]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - laura catherwood|Artist - laura catherwood]] — shared language: laura
 - [[knowledge/archive/auto-generated/artists-stale/Artist - laura catherwood 2024|Artist - laura catherwood 2024]] — shared language: laura
-- [[knowledge/wiki/images/nameless by laura catherwood 2024 47bf041f|nameless by laura catherwood 2024]] — shared language: laura
+- [[knowledge/wiki/images/Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen d68cc512|Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen]] — shared language: laura
+- [[_archive/auto-generated/images-stale/nameless by laura catherwood 2024 47bf041f|nameless by laura catherwood 2024]] — shared language: laura
 - [[knowledge/wiki/artists/Artist - laura wheeler waring|Artist - laura wheeler waring]] — shared language: laura
-- [[knowledge/wiki/images/pointing at the moon iii by laura catherwood 2024 dfdb821f|pointing at the moon iii by laura catherwood 2024]] — shared language: laura
 <!-- vault-crosslinks:end -->

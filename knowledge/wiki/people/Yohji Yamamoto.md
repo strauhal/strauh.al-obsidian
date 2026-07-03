@@ -29,8 +29,8 @@ Ernest's Japanese avant-garde fashion pole: anti-trend, monochrome, structural.
 - [[knowledge/wiki/images/yohji yamamoto 86e1cd12|yohji yamamoto]] — shared language: yohji, yamamoto, influences
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, yohji, yamamoto
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, listed, ernest's
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, listed, paired
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: influences, listed, ernest's
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, listed, ernest's
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, listed, among
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, listed, among
 <!-- vault-crosslinks:end -->

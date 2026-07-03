@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - lawrence alma tadema|Artist - lawrence alma tadema]] — shared language: tadema, alma, lawrence
 - [[knowledge/wiki/images/the roses of heliogabalus by lawrence alma tadema 1888 d94122b0|the roses of heliogabalus by lawrence alma tadema 1888]] — shared language: tadema, alma, lawrence
 - [[knowledge/wiki/images/the roses of heliogabalus by lawrence alma tadema 1888 2 6b4c6aa1|the roses of heliogabalus by lawrence alma tadema 1888 2]] — shared language: tadema, alma, lawrence
-- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: lawrence, sir
-- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: lawrence, sir
-- [[knowledge/wiki/images/dh lawrence npg 4f6a5828|dh lawrence npg]] — shared language: lawrence
+- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir, lawrence
+- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir, lawrence
+- [[knowledge/wiki/images/portrait of lady blessington by sir thomas lawrence c 1822 84cd5832|portrait of lady blessington by sir thomas lawrence c 1822]] — shared language: sir, lawrence
 <!-- vault-crosslinks:end -->

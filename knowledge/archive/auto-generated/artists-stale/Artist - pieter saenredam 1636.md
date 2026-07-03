@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan saenredam 1604|Artist - jan saenredam 1604]] — shared language: saenredam
 - [[knowledge/wiki/artists/Artist - jan saenredam|Artist - jan saenredam]] — shared language: saenredam
 - [[knowledge/wiki/images/the annunciation to the shepherds by jan saenredam 1599 e626d8a7|the annunciation to the shepherds by jan saenredam 1599]] — shared language: saenredam
-- [[knowledge/wiki/artists/Artist - pieter stevens ii|Artist - pieter stevens ii]] — shared language: pieter
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: pieter
 <!-- vault-crosslinks:end -->

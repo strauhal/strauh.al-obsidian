@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/montague dawson the kings ship mid20th century e2c2eacd|montague dawson the kings ship mid20th century]] — shared language: kings
 - [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - esther shimazu|Artist - esther shimazu]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - ettore forti|Artist - ettore forti]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

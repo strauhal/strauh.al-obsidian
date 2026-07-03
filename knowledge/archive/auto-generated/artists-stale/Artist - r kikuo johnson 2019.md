@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - r kikuo johnson|Artist - r kikuo johnson]] — named in this note
+- [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - r kikuo johnson|Artist - r kikuo johnson]] — shared language: kikuo, johnson, garden
+- [[knowledge/wiki/images/Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson 3298111d|Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson]] — shared language: kikuo, johnson
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
-- [[knowledge/wiki/artists/Artist - jonathan eastman johnson|Artist - jonathan eastman johnson]] — shared language: johnson
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jonathan eastman johnson 1871|Artist - jonathan eastman johnson 1871]] — shared language: johnson
-- [[knowledge/wiki/books/michael-edward-johnson-principia-qualia|Principia Qualia]] — shared language: johnson
-- [[knowledge/wiki/images/the old stagecoach by jonathan eastman johnson 1871 2172da1e|the old stagecoach by jonathan eastman johnson 1871]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - Aaron Johnson|Artist - Aaron Johnson]] — shared language: johnson
 <!-- vault-crosslinks:end -->

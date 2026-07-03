@@ -1,12 +1,12 @@
 ---
 title: "porsche1"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/porsche1.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/porsche1.jpg"
 source_relpath: "wallpapers/porsche1.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1170x780"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/porsche1.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/porsche1.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/porsche1.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

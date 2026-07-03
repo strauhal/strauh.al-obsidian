@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - oskar schlemmer|Artist - oskar schlemmer]] — named in this note
 - [[knowledge/wiki/artists/Artist - oskar kokoschka|Artist - oskar kokoschka]] — shared language: oskar
 - [[knowledge/archive/auto-generated/artists-stale/Artist - oskar kokoschka 1910|Artist - oskar kokoschka 1910]] — shared language: oskar
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: movement, studies, space
 - [[knowledge/wiki/images/reclining woman by oskar kokoschka 1910 196a0e07|reclining woman by oskar kokoschka 1910]] — shared language: oskar
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: movement, space
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: space, movement, studies
 <!-- vault-crosslinks:end -->

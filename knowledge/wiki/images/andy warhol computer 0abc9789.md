@@ -1,12 +1,12 @@
 ---
 title: "andy warhol computer"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/andy warhol computer.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/andy warhol computer.png"
 source_relpath: "computers/andy warhol computer.png"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1200x899"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/andy warhol computer.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/andy warhol computer.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/andy warhol computer.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

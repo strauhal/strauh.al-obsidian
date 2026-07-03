@@ -1,10 +1,10 @@
 ---
 title: "religious texts dhammapada"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/religious_texts/dhammapada.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/religious_texts/dhammapada.html"
 source_relpath: "religious_texts/dhammapada.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # religious texts dhammapada
@@ -66,10 +66,10 @@ Processing Dhammapada Data...
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — named in this note
-- [[knowledge/wiki/images/processing 94d5794d|processing]] — named in this note
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: texts, religious, click
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: texts, religious, click
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: texts, click, chapters
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: religious, wisdom
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: click, drag, theme
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click, drag, zoom
 - [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, highlight

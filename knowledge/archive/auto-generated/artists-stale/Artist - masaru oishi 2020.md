@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - masaru oishi|Artist - masaru oishi]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - masao yamamoto 2008|Artist - masao yamamoto 2008]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mason chamberlin 1767|Artist - mason chamberlin 1767]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - masaru oishi|Artist - Masaru Oishi]] — named in this note
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi 5acf5bf8|Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi]] — shared language: masaru, oishi
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: masaru, oishi
+- [[knowledge/wiki/images/Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower 01713fa5|Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower]] — shared language: sunflower
 <!-- vault-crosslinks:end -->

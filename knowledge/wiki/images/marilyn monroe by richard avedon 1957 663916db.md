@@ -1,12 +1,12 @@
 ---
 title: "marilyn monroe by richard avedon 1957"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/marilyn_monroe_by_richard_avedon_1957.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/marilyn_monroe_by_richard_avedon_1957.jpg"
 source_relpath: "1900s/marilyn_monroe_by_richard_avedon_1957.jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "richard avedon"
-dimensions: "1500x1866"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - richard avedon]]
 
 Source: [[media/strauh.al3.1/1900s/marilyn_monroe_by_richard_avedon_1957.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/marilyn_monroe_by_richard_avedon_1957.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/marilyn_monroe_by_richard_avedon_1957.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

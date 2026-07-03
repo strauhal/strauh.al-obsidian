@@ -1,12 +1,12 @@
 ---
 title: "noshitsherlock"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/noshitsherlock.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/noshitsherlock.jpg"
 source_relpath: "diary/noshitsherlock.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1012x1012"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/noshitsherlock.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/noshitsherlock.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/noshitsherlock.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

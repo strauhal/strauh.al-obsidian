@@ -1,12 +1,12 @@
 ---
 title: "green mountain lake george by georgia o keeffe 1932"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg"
 source_relpath: "1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "georgia o keeffe"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,14 +22,14 @@ Artist: [[Artist - georgia o keeffe]]
 
 Source: [[media/strauh.al3.1/1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/images/abstraction blue and green by georgia o keeffe 1924 29d75fca|abstraction blue and green by georgia o keeffe 1924]] — same artist: georgia keeffe
 - [[knowledge/wiki/images/abstraction white rose no 1 by georgia o keeffe 1927 69302249|abstraction white rose no 1 by georgia o keeffe 1927]] — same artist: georgia keeffe
-- [[knowledge/wiki/images/framed moonlit lake landscape with clouds bbf6b86a|framed moonlit lake landscape with clouds]] — shared language: lake
-- [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: george
-- [[knowledge/wiki/images/mountain range 07fd8e4e|mountain range]] — shared language: mountain
+- [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
+- [[knowledge/wiki/images/New York Street with Moon by Georgia O'Keeffe (1925) 0f6e496b|New York Street with Moon by Georgia O'Keeffe (1925)]] — shared language: georgia
+- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: lake
 <!-- vault-crosslinks:end -->

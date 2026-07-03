@@ -27,9 +27,9 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/images/jacqueslouis david the death of socrates 1787 418eb619|jacqueslouis david the death of socrates 1787]] — named in this note
+- [[knowledge/wiki/images/The Coronation of Napoleon by Jacques Louis David (1805 1807) ce4d6847|The Coronation of Napoleon by Jacques Louis David (1805 1807)]] — shared language: jacques, louis, david
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — shared language: jacques
 - [[knowledge/wiki/images/the interior of the cathedral of st jacques antwerp by louis haghe 1847 3bce2ed3|the interior of the cathedral of st jacques antwerp by louis haghe 1847]] — shared language: jacques, louis
 - [[knowledge/wiki/artists/Artist - louis haghe|Artist - louis haghe]] — shared language: louis, jacques
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jacques
-- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: louis
 <!-- vault-crosslinks:end -->

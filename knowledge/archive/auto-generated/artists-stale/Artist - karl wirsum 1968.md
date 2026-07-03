@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - karl bryullov 1822|Artist - karl bryullov 1822]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: karl
-- [[knowledge/archive/auto-generated/artists-stale/Artist - karl bryullov 1837|Artist - karl bryullov 1837]] — shared language: karl
+- [[knowledge/wiki/images/Document Karl Marx On Religion e195e06e|Document Karl Marx On Religion]] — shared language: karl
 <!-- vault-crosslinks:end -->

@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - wang meng|Artist - wang meng]] — named in this note
-- [[knowledge/wiki/artists/Artist - wang meng yuan dynasty|Artist - wang meng yuan dynasty]] — shared language: meng, wang
-- [[knowledge/wiki/images/landscape by wang meng yuan dynasty 81417cc2|landscape by wang meng yuan dynasty]] — shared language: meng, wang
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wang meng yuan dynasty|Artist - wang meng yuan dynasty]] — shared language: meng, wang
+- [[_archive/auto-generated/images-stale/landscape by wang meng yuan dynasty 81417cc2|landscape by wang meng yuan dynasty]] — shared language: meng, wang
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang ximeng 1113|Artist - wang ximeng 1113]] — shared language: wang, mountains
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang ximeng 1113 2|Artist - wang ximeng 1113 2]] — shared language: wang, mountains
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: meng, wang, dwelling

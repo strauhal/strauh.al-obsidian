@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — named in this note
-- [[knowledge/wiki/artists/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds, four
-- [[knowledge/wiki/images/oil painting of the virgin mary in the clouds with cherubs and a dove a516cfbc|oil painting of the virgin mary in the clouds with cherubs and a dove]] — shared language: cherubs, clouds
-- [[knowledge/wiki/artists/Artist - clouds|Artist - clouds]] — shared language: clouds, surrounded
-- [[knowledge/wiki/images/classical painting of bathers and cherubs f3ec8f4f|classical painting of bathers and cherubs]] — shared language: cherubs
-- [[knowledge/wiki/artists/Artist - radiating light and clouds|Artist - radiating light and clouds]] — shared language: clouds, eye, surrounded
+- [[knowledge/archive/auto-generated/artists-stale/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds, four
+- [[knowledge/wiki/images/Illustration Eye of Providence in Triangle with Four Cherubs on Clouds 26452743|Illustration Eye of Providence in Triangle with Four Cherubs on Clouds]] — shared language: cherubs, clouds, four
+- [[knowledge/archive/auto-generated/anchors-stale/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds, four
+- [[_archive/auto-generated/images-stale/oil painting of the virgin mary in the clouds with cherubs and a dove a516cfbc|oil painting of the virgin mary in the clouds with cherubs and a dove]] — shared language: cherubs, clouds
+- [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds, surrounded
+- [[_archive/auto-generated/images-stale/classical painting of bathers and cherubs f3ec8f4f|classical painting of bathers and cherubs]] — shared language: cherubs
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jock mcfadyen|Artist - jock mcfadyen]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jock mcfadyen|Artist - jock mcfadyen]] — named in this note
+- [[knowledge/wiki/images/Bather by Chaim Soutine (c. 1924) 511efdec|Bather by Chaim Soutine (c. 1924)]] — shared language: bather
+- [[knowledge/wiki/images/Nude Study (The Bather) by John Singer Sargent (c. 1880 1882) d83564fb|Nude Study (The Bather) by John Singer Sargent (c. 1880 1882)]] — shared language: bather
 - [[knowledge/wiki/images/bather reclining on a bank by pierre auguste renoir c 1883 c6d33406|bather reclining on a bank by pierre auguste renoir c 1883]] — shared language: bather
-- [[knowledge/archive/auto-generated/artists-stale/Artist - joaquin sorolla y bastida 1905|Artist - joaquin sorolla y bastida 1905]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

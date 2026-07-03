@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - william holman hunt|Artist - william holman hunt]] — named in this note
 - [[knowledge/wiki/images/the awakening conscience by william holman hunt 1853 78f03563|the awakening conscience by william holman hunt 1853]] — shared language: holman, hunt, william
+- [[knowledge/wiki/images/After the Hunt by William Michael Harnett (1885) b0788d47|After the Hunt by William Michael Harnett (1885)]] — shared language: hunt, william
 - [[knowledge/wiki/images/peter nicolai arbo sgrdsreien the wild hunt of odin 1872 45f64bbe|peter nicolai arbo sgrdsreien the wild hunt of odin 1872]] — shared language: hunt
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
-- [[knowledge/wiki/images/hunt s vase by janet fish 1984 cdee275a|hunt s vase by janet fish 1984]] — shared language: hunt
+- [[knowledge/wiki/images/The Buffalo Hunt by Albert Bierstadt (c. 1887 1888) 45790395|The Buffalo Hunt by Albert Bierstadt (c. 1887 1888)]] — shared language: hunt
 <!-- vault-crosslinks:end -->

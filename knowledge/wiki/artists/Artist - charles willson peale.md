@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - charles gaines 197374|Artist - charles gaines 197374]] — shared language: charles, group
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 - [[knowledge/wiki/books/charles-darwin-the-origin-of-species|The Origin of Species]] — shared language: charles
+- [[knowledge/wiki/images/regression group 4 by charles gaines 197374 cb0e3308|regression group 4 by charles gaines 197374]] — shared language: charles, group
 <!-- vault-crosslinks:end -->

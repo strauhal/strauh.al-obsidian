@@ -1,12 +1,12 @@
 ---
 title: "unrequited"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/unrequited.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/unrequited.jpeg"
 source_relpath: "diary/unrequited.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "639x710"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/unrequited.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/unrequited.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/unrequited.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

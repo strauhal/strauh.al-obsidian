@@ -1,12 +1,12 @@
 ---
 title: "tumblr 36d8bf46ebb39fb6b4dea1e89d82dc2b 5dbc82c4 540"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif"
 source_relpath: "computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "536x383"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/tumblr_36d8bf46ebb39fb6b4dea1e89d82dc2b_5dbc82c4_540.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

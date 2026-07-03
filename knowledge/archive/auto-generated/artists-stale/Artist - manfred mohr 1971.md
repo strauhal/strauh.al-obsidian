@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - manfred mohr|Artist - manfred mohr]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - manami sato 2010|Artist - manami sato 2010]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - manami sato|Artist - manami sato]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marc simonetti 2016|Artist - marc simonetti 2016]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

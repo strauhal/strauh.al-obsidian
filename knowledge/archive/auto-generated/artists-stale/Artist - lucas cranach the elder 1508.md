@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - lucas cranach the elder|Artist - lucas cranach the elder]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lucas cranach the elder 1506|Artist - lucas cranach the elder 1506]] — named in this note
-- [[knowledge/wiki/images/the golden age l age d or by lucas cranach the elder c 1530 b727aad6|the golden age l age d or by lucas cranach the elder c 1530]] — shared language: lucas, cranach, elder
-- [[knowledge/wiki/images/the great tournament by lucas cranach the elder 1506 0dd32bef|the great tournament by lucas cranach the elder 1506]] — shared language: lucas, cranach, elder
-- [[knowledge/wiki/images/the stag hunt by lucas cranach the elder c 1506 91fb9d12|the stag hunt by lucas cranach the elder c 1506]] — shared language: lucas, cranach, elder
+- [[knowledge/wiki/images/the golden age l age d or by lucas cranach the elder c 1530 b727aad6|the golden age l age d or by lucas cranach the elder c 1530]] — shared language: cranach, lucas, elder
+- [[knowledge/wiki/images/the great tournament by lucas cranach the elder 1506 0dd32bef|the great tournament by lucas cranach the elder 1506]] — shared language: cranach, lucas, elder
+- [[knowledge/wiki/images/the stag hunt by lucas cranach the elder c 1506 91fb9d12|the stag hunt by lucas cranach the elder c 1506]] — shared language: cranach, lucas, elder
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: lucas
 <!-- vault-crosslinks:end -->

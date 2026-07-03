@@ -1,12 +1,12 @@
 ---
 title: "FPyA5gDXMAIgeff"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/FPyA5gDXMAIgeff.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/comics/FPyA5gDXMAIgeff.jpeg"
 source_relpath: "comics/FPyA5gDXMAIgeff.jpeg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "2048x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/comics/FPyA5gDXMAIgeff.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/FPyA5gDXMAIgeff.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/comics/FPyA5gDXMAIgeff.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

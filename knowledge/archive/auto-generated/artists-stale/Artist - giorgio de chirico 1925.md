@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - giorgio de chirico|Artist - giorgio de chirico]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio de chirico 1923|Artist - giorgio de chirico 1923]] — named in this note
-- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
 - [[knowledge/wiki/images/self portrait with brother by giorgio de chirico 1923 59b87298|self portrait with brother by giorgio de chirico 1923]] — shared language: chirico, giorgio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1935|Artist - giorgio morandi 1935]] — shared language: giorgio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1940|Artist - giorgio morandi 1940]] — shared language: giorgio
+- [[knowledge/archive/auto-generated/artists-stale/Artist - giorgio morandi 1941|Artist - giorgio morandi 1941]] — shared language: giorgio
 <!-- vault-crosslinks:end -->

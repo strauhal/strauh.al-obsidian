@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Bonsanquent1886-The Introduction to Hegel s Philosophy of Fine Art]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Bonsanquent1886-The_Introduction_to_Hegel_s_Philosophy_of_Fine_Art.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Introduction to Hegel's Philosophy of Fine Art
@@ -44,8 +44,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/g-w-f-hegel-aesthetics-lectures-on-fine-art-volume-1|Aesthetics: Lectures on Fine Art, Volume 1]] — same category: art aesthetics
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — same category: art aesthetics
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

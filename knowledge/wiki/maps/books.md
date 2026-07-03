@@ -24,5 +24,5 @@ Wiki-facing anchor for the raw books folder title list.
 - [[knowledge/wiki/anchors/current-cultural-diet|current-cultural-diet]] — shared language: anchor
 - [[knowledge/wiki/anchors/degas|degas]] — shared language: anchor
 - [[knowledge/wiki/anchors/moebius|moebius]] — shared language: anchor
-- [[knowledge/wiki/anchors/psychology|psychology]] — shared language: anchor
+- [[knowledge/wiki/anchors/museum|museum]] — shared language: anchor
 <!-- vault-crosslinks:end -->

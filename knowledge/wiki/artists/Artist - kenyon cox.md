@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[knowledge/wiki/images/exhibition wall text titled tradition and the self discussing wayne thiebaud 439efd6e|exhibition wall text titled tradition and the self discussing wayne thiebaud]] — shared language: tradition
+- [[knowledge/wiki/images/Photograph Exhibition Wall Text Titled Tradition and The Self e2783fe2|Photograph Exhibition Wall Text Titled Tradition and The Self]] — shared language: tradition
 - [[knowledge/wiki/artists/Artist - kentaro miura|Artist - kentaro miura]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kisho kurokawa|Artist - kisho kurokawa]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -24,7 +24,6 @@ A painting depicting a group of women dressed uniformly in white, flowing dresse
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
 - [[knowledge/wiki/books/narrative|Narrative]] — named in this note
 - [[_archive/removed-ollama-integration/output/image-intelligence-report|image-intelligence-report]] — shared language: rehearsal, pushkin, pastel
@@ -32,4 +31,5 @@ A painting depicting a group of women dressed uniformly in white, flowing dresse
 - [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — shared language: edgar, ballet, degas
 - [[knowledge/wiki/images/the ballet class by edgar degas c 187880 6eb50e26|the ballet class by edgar degas c 187880]] — shared language: edgar, ballet, degas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1874|Artist - edgar degas 1874]] — shared language: edgar, degas, dance
+- [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas, ballet
 <!-- vault-crosslinks:end -->

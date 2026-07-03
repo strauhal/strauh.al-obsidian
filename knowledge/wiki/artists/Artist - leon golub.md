@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Untitled (Head) by Leon Golub (1959) 0039f322|Untitled (Head) by Leon Golub (1959)]] — named in this note
 - [[knowledge/wiki/images/fallen 84cf3b93|fallen]] — named in this note
-- [[knowledge/wiki/images/leon golub untitled head auction image 70f9ed41|leon golub untitled head auction image]] — shared language: golub, leon, head
-- [[knowledge/wiki/images/198 2 post war contemporary art september 2023 leon golub untitled rago auction jpg b2a63c08|198 2 post war contemporary art september 2023 leon golub untitled rago auction jpg]] — shared language: golub, leon
+- [[knowledge/wiki/images/The Policeman by Leon Golub (1981) 7bfd1c51|The Policeman by Leon Golub (1981)]] — shared language: golub, leon
+- [[knowledge/wiki/images/Illustration Five Men in Blue Uniforms on Red Background by Leon Golub 9f84daac|Illustration Five Men in Blue Uniforms on Red Background by Leon Golub]] — shared language: golub, leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
-- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
 <!-- vault-crosslinks:end -->

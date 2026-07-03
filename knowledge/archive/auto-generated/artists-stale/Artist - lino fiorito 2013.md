@@ -20,7 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - lino fiorito|Artist - lino fiorito]] — named in this note
-- [[knowledge/wiki/images/minidisc cartridge with pink cube mix graphics 42876776|minidisc cartridge with pink cube mix graphics]] — shared language: cube
-- [[knowledge/wiki/images/comic panel of a cube shaped planet in space labeled the bizarro world 2c3ca95e|comic panel of a cube shaped planet in space labeled the bizarro world]] — shared language: cube
+- [[knowledge/archive/auto-generated/artists-stale/Artist - lino fiorito|Artist - lino fiorito]] — named in this note
+- [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: cube
+- [[knowledge/wiki/images/Illustration Illustration Comparing Simple Cube to Sci Fi Concept Art Cube 916a1134|Illustration Illustration Comparing Simple Cube to Sci Fi Concept Art Cube]] — shared language: cube
+- [[knowledge/wiki/images/Photograph Black Speaker and Green Translucent Cube with Wire f7514596|Photograph Black Speaker and Green Translucent Cube with Wire]] — shared language: cube
+- [[knowledge/wiki/images/Photograph MiniDisc Cartridge with Pink Cube Graphics 6f855eae|Photograph MiniDisc Cartridge with Pink Cube Graphics]] — shared language: cube
+- [[knowledge/wiki/images/Illustration Geometric Sphere Tapering To A Point With Cube Pattern 938cd17f|Illustration Geometric Sphere Tapering To A Point With Cube Pattern]] — shared language: cube
 <!-- vault-crosslinks:end -->

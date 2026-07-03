@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - alix vernet|Artist - alix vernet]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alix vernet|Artist - alix vernet]] — named in this note
 - [[knowledge/wiki/artists/Artist - horace vernet|Artist - horace vernet]] — shared language: vernet
 - [[knowledge/archive/auto-generated/artists-stale/Artist - horace vernet 1843|Artist - horace vernet 1843]] — shared language: vernet
 - [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: vernet

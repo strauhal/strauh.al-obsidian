@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1770s"
 source_kind: "date_bucket"
-count: "17"
+count: "21"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,15 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1770s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 17
+Files: 21
 
 ## Sample
+
+![[media/strauh.al3.1/1700s/John Coasts Esq. by Joseph Wright of Derby (1770s).jpeg]]
+
+![[media/strauh.al3.1/1700s/Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770).jpg]]
+
+![[media/strauh.al3.1/1700s/Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775).jpg]]
 
 ![[media/strauh.al3.1/1700s/bernardo_bellotto_view_of_warsaw_from_praga_c_1770.jpg]]
 
@@ -46,6 +52,8 @@ Files: 17
 ![[media/strauh.al3.1/1700s/the_sick_woman_by_jean_honore_fragonard_c_1770_1775.jpeg]]
 
 ![[media/strauh.al3.1/1700s/watson_and_the_shark_by_john_singleton_copley_1778.jpeg]]
+
+![[media/strauh.al3.1/2000s/Portrait of Mariana de Silva y Sarmiento, Duchess of Huescar (Unfinished) by Anton Raphael Mengs (c. 1775).jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

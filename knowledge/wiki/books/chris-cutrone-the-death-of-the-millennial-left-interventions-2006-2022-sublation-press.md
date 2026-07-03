@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Chris Cutrone - The Death of the Millennial Left_ Interventions 2006-2022-Sublation Press (2023).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Death of the Millennial Left Interventions 2006-2022-Sublation Press
@@ -40,8 +40,8 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — same category: unsorted
-- [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — same category: unsorted
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — same category: unsorted
 - [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — same category: unsorted
 - [[knowledge/wiki/books/richard-dawkins-the-selfish-gene-volume-2-oxford-university-press-usa|The Selfish Gene . Volume 2-Oxford University Press, USA]] — same category: unsorted
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — same category: unsorted

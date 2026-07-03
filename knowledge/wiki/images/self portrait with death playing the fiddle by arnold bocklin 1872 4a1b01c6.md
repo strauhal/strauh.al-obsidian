@@ -1,12 +1,12 @@
 ---
 title: "self portrait with death playing the fiddle by arnold bocklin 1872"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg"
 source_relpath: "1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg"
 collection: "1800s"
 inferred_year: "1872"
 artist: "arnold bocklin"
-dimensions: "3543x4389"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - arnold bocklin]]
 
 Source: [[media/strauh.al3.1/1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/self_portrait_with_death_playing_the_fiddle_by_arnold_bocklin_1872.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

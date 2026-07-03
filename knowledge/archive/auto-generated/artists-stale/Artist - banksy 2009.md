@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - banksy|Artist - banksy]] — named in this note
-- [[knowledge/wiki/images/framed small town street scene with stop sign ce2c6373|framed small town street scene with stop sign]] — shared language: sign
-- [[knowledge/wiki/images/photograph of two men standing on a wooden porch in front of a shingled building with a pig sign 44b4a0d1|photograph of two men standing on a wooden porch in front of a shingled building with a pig sign]] — shared language: sign
-- [[knowledge/wiki/images/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: sign
-- [[knowledge/wiki/images/oil painting of a winding road through autumn trees with a curve sign 1bd5b033|oil painting of a winding road through autumn trees with a curve sign]] — shared language: sign
-- [[knowledge/wiki/images/photograph of a red brick hotel with a hotel sign next to a green grain elevator 1af1b488|photograph of a red brick hotel with a hotel sign next to a green grain elevator]] — shared language: sign
+- [[knowledge/archive/auto-generated/artists-stale/Artist - banksy|Artist - banksy]] — named in this note
+- [[knowledge/wiki/images/Photograph Irwin Schiff Holding Books in Front of Freedom Books Sign 7fd0821a|Photograph Irwin Schiff Holding Books in Front of Freedom Books Sign]] — shared language: sign
+- [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: sign
+- [[knowledge/wiki/images/Photograph Protestor Holding Sign About Palestine at a Rally 17fe6441|Photograph Protestor Holding Sign About Palestine at a Rally]] — shared language: sign
+- [[knowledge/wiki/images/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: sign
+- [[knowledge/wiki/images/Document Workbook Page with Alphabetical Sign Familiarization Exercise 982a8e3e|Document Workbook Page with Alphabetical Sign Familiarization Exercise]] — shared language: sign
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - michael s smith|Artist - michael s smith]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - michael s smith|Artist - michael s smith]] — named in this note
 - [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rodney smith 1991|Artist - rodney smith 1991]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
+- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: smith
 - [[knowledge/wiki/images/the architect s dream by rodney smith 1991 c3d56977|the architect s dream by rodney smith 1991]] — shared language: smith
-- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: smith
 <!-- vault-crosslinks:end -->

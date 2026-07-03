@@ -80,6 +80,9 @@ KEYWORDS: dict[str, list[str]] = {
     "Reading Like a Computer": ["attention span", "distracted", "deep work", "shallows", "amusing ourselves", "scattered minds", "adhd", "attention deficit", "focus"],
     "Rebuilding from the Bottom": ["ruin", "rebuild", "phoenix", "ashes", "reconstruct*", "debris", "wreck", "rebirth", "resurrect*", "fractured", "broken"],
     "Atomization": ["atomis*", "atomiz*", "lonel*", "isolat*", "alienat*", "solitude", "alone", "houellebecq", "capitalist realism", "crowd"],
+    "Decadence Is Beautiful": ["decaden*", "schiele", "baudelaire", "fin de si", "van dongen", "otto dix", "symbolist", "femme fatale", "belle epoque", "gilded age", "salome", "opulen*"],
+    "The Panel as Canvas": ["manga", "anime", "shinkawa", "otomo", "junji ito", "tomie", "akira", "graphic novel", "comic", "shonen", "seinen", "ghibli", "evangelion"],
+    "The Weather in the Ink": ["hasui", "kawase", "josetsu", "ukiyo-e", "ukiyoe", "woodblock", "shin-hanga", "shin hanga", "rain at", "snow at", "evening at", "twilight over", "moonlight over"],
 }
 
 

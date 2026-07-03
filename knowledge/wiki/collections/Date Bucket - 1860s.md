@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1860s"
 source_kind: "date_bucket"
-count: "64"
+count: "77"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,27 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1860s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 64
+Files: 77
 
 ## Sample
+
+![[media/strauh.al3.1/1800s/Bungaku Bandai no Takara: Terakoya School by Issunshi Hanasato (1860).png]]
+
+![[media/strauh.al3.1/1800s/From the Mountain by Worthington Whittredge (c. 1863).jpeg]]
+
+![[media/strauh.al3.1/1800s/Rainy Season in the Tropics by Frederic Edwin Church (1866).jpeg]]
+
+![[media/strauh.al3.1/1800s/Singing Beach, Manchester by Martin Johnson Heade (1863).jpeg]]
+
+![[media/strauh.al3.1/1800s/Still Life with Fish by Pierre-Auguste Renoir (c. 1869).avif]]
+
+![[media/strauh.al3.1/1800s/The Bright Side by Winslow Homer (1865).jpeg]]
+
+![[media/strauh.al3.1/1800s/The Pearl and the Wave by Paul Baudry (1862).jpg]]
+
+![[media/strauh.al3.1/1800s/The Prayer of Jacob by Gustave Doré (1866).jpg]]
+
+![[media/strauh.al3.1/1800s/The Vision of the Valley of Dry Bones by Gustave Doré (1866).jpg]]
 
 ![[media/strauh.al3.1/1800s/a_midsummer_night_s_dream_by_john_simmons_1860.jpg]]
 
@@ -42,24 +60,6 @@ Files: 64
 ![[media/strauh.al3.1/1800s/carl_bloch_in_a_roman_osteria_1866_2.jpg]]
 
 ![[media/strauh.al3.1/1800s/david_johnson_the_haymakers_1867.jpg]]
-
-![[media/strauh.al3.1/1800s/der_grottenschmied_by_carl_spitzweg_c_1855_1860.jpeg]]
-
-![[media/strauh.al3.1/1800s/deux_jeunes_filles_lisant_by_jean_baptiste_camille_corot_c_1855_1860.jpeg]]
-
-![[media/strauh.al3.1/1800s/douard_manet_le_djeuner_sur_lherbe_the_luncheon_on_the_grass_1863.jpg]]
-
-![[media/strauh.al3.1/1800s/douard_manet_olympia_1863.jpg]]
-
-![[media/strauh.al3.1/1800s/fazio_s_mistress_by_dante_gabriel_rossetti_1863.jpg]]
-
-![[media/strauh.al3.1/1800s/ford_madox_brown_saul_and_david_1864.jpg]]
-
-![[media/strauh.al3.1/1800s/frederic_edwin_church_cotopaxi_1862.jpg]]
-
-![[media/strauh.al3.1/1800s/gustave_dor_dante_and_virgil_among_the_wrathful_and_the_sullen_inferno_canto_vii_1861.png]]
-
-![[media/strauh.al3.1/1800s/herodiade_by_gustave_dore_1868.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

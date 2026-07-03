@@ -1,12 +1,12 @@
 ---
 title: "wolf rehfeldt ruth overall 02 jpg 1440 jpeg"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg"
 source_relpath: "1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg"
 collection: "1400s"
 inferred_year: "1440"
 artist: ""
-dimensions: "1069x1500"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---
@@ -22,14 +22,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/wolf_rehfeldt_ruth_overall_02_jpg_1440_jpeg.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Ruth Wolf Rehfeldt|Artist - Ruth Wolf Rehfeldt]] — shared language: rehfeldt, ruth, wolf
+- [[knowledge/wiki/images/Illustration Abstract Typewriter Drawing Of Characters And Symbols by Ruth Wolf Rehfeldt d60433ef|Illustration Abstract Typewriter Drawing Of Characters And Symbols by Ruth Wolf Rehfeldt]] — shared language: rehfeldt, ruth, wolf
+- [[knowledge/wiki/artists/Artist - Ruth Robbins|Artist - Ruth Robbins]] — shared language: ruth
 - [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — shared language: wolf
-- [[knowledge/wiki/artists/Artist - wolf kahn|Artist - wolf kahn]] — shared language: wolf
-- [[knowledge/wiki/images/one for the road documentation of a happening by wolf vostell 1964 86ae7e6a|one for the road documentation of a happening by wolf vostell 1964]] — shared language: wolf
-- [[knowledge/wiki/images/pink and orange cloud over blue water by wolf kahn 2007 be2dccf0|pink and orange cloud over blue water by wolf kahn 2007]] — shared language: wolf
-- [[knowledge/wiki/images/the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]] — shared language: wolf
+- [[knowledge/wiki/images/Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins 12fe5e3b|Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins]] — shared language: ruth
 <!-- vault-crosslinks:end -->

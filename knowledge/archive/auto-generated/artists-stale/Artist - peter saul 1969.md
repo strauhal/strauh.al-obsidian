@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1967|Artist - peter saul 1967]] — shared language: saul, peter
 - [[knowledge/wiki/images/the new world by peter saul 1991 6bebcfca|the new world by peter saul 1991]] — shared language: saul, peter
 - [[knowledge/wiki/images/tangerine by peter saul 1967 841e0694|tangerine by peter saul 1967]] — shared language: saul, peter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - saul steinberg 1948|Artist - saul steinberg 1948]] — shared language: saul
+- [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 <!-- vault-crosslinks:end -->

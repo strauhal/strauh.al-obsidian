@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/die u bahn by lyonel feininger 1912 9ddc3d9b|die u bahn by lyonel feininger 1912]] — shared language: feininger
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: students
 - [[knowledge/wiki/images/students by ilya repin 1899 48041fd5|students by ilya repin 1899]] — shared language: students
-- [[knowledge/wiki/images/photograph of a large crowd of students painting on easels in an indoor venue 26514348|photograph of a large crowd of students painting on easels in an indoor venue]] — shared language: students
-- [[knowledge/wiki/images/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: students
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
+- [[knowledge/wiki/images/Photograph Art Students Sketching Outdoors by Studio 2B (1960s) a8362982|Photograph Art Students Sketching Outdoors by Studio 2B (1960s)]] — shared language: students
 <!-- vault-crosslinks:end -->

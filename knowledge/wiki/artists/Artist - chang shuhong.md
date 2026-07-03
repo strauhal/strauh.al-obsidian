@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — shared language: scholar
-- [[knowledge/wiki/artists/Artist - chance the rapper|Artist - chance the rapper]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - chao ding|Artist - chao ding]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - chan ky yut|Artist - chan ky yut]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - chara|Artist - chara]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

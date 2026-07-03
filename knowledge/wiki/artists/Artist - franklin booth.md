@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/franklin booth dream illustration 9706668e|franklin booth dream illustration]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth elks cover a5580f31|franklin booth elks cover]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth elks cover jpg 912030cb|franklin booth elks cover jpg]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth valley silence illustration 05795cc8|franklin booth valley silence illustration]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth flying islands illustration 1913 jpg a6080d4a|franklin booth flying islands illustration 1913 jpg]] — shared language: franklin, booth
-- [[knowledge/wiki/images/franklin booth heavenly hills illustration b17a6882|franklin booth heavenly hills illustration]] — shared language: franklin, booth
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Man Reading in Library by Franklin Booth 80d2848d|Illustration Black and White Illustration of Man Reading in Library by Franklin Booth]] — shared language: franklin, booth
+- [[knowledge/wiki/images/The Pool by Franklin Booth (c. 1915) d260613d|The Pool by Franklin Booth (c. 1915)]] — shared language: franklin, booth
+- [[knowledge/wiki/images/New York by Franklin Booth (1920) ddc53aaa|New York by Franklin Booth (1920)]] — shared language: franklin, booth
+- [[knowledge/wiki/images/Illustration A Remembered Dream by Franklin Booth 2d3c51d6|Illustration A Remembered Dream by Franklin Booth]] — shared language: franklin, booth
+- [[knowledge/wiki/images/The Dream of the Architect by Franklin Booth (1912) 7f0567f8|The Dream of the Architect by Franklin Booth (1912)]] — shared language: franklin, booth
+- [[knowledge/wiki/images/Valley of Silence by Franklin Booth (1919) 15082c83|Valley of Silence by Franklin Booth (1919)]] — shared language: franklin, booth
 <!-- vault-crosslinks:end -->

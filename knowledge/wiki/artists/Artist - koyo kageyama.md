@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - tsuchiya koyo|Artist - tsuchiya koyo]] — shared language: koyo, snow
 - [[knowledge/wiki/images/snow at kiyomizu temple by tsuchiya koyo 1936 e87b63cb|snow at kiyomizu temple by tsuchiya koyo 1936]] — shared language: koyo, snow
 - [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — shared language: snow
-- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: snow
-- [[knowledge/wiki/images/snow scene by jonas wood 2020 59cf88ea|snow scene by jonas wood 2020]] — shared language: snow
-- [[knowledge/wiki/images/pieter bruegel the elder the hunters in the snow 1565 e81daedd|pieter bruegel the elder the hunters in the snow 1565]] — shared language: snow
+- [[knowledge/wiki/artists/Artist - Thelonious Monk|Artist - Thelonious Monk]] — shared language: monk
+- [[knowledge/wiki/images/Photograph The Burning Monk by Malcolm Browne a048d147|Photograph The Burning Monk by Malcolm Browne]] — shared language: monk
+- [[knowledge/wiki/images/Photograph Smiling Monk Holds Phone With Translated Quote d3b08fb3|Photograph Smiling Monk Holds Phone With Translated Quote]] — shared language: monk
 <!-- vault-crosslinks:end -->

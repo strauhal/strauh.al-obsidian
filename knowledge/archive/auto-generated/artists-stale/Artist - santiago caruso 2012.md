@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - santiago caruso|Artist - santiago caruso]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - santiago caruso|Artist - santiago caruso]] — named in this note
+- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: santiago
 - [[knowledge/wiki/artists/Artist - santiago ramon y cajal|Artist - santiago ramon y cajal]] — shared language: santiago
+- [[knowledge/wiki/images/Jard n de Aranjuez by Santiago Rusi ol (1907) a30434f2|Jard n de Aranjuez by Santiago Rusi ol (1907)]] — shared language: santiago
 - [[knowledge/wiki/images/different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900 f5f8d019|different types of neurons in the cerebral cortex by santiago ramon y cajal c 1900]] — shared language: santiago
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
 <!-- vault-crosslinks:end -->

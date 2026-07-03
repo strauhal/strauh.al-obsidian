@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - m s corley|Artist - m s corley]] — named in this note
-- [[knowledge/wiki/books/paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] — shared language: city
-- [[knowledge/wiki/images/dense city alley with parked motorcycles 563b5338|dense city alley with parked motorcycles]] — shared language: city
-- [[knowledge/wiki/images/misty city painting of st pauls cathedral 042feb9f|misty city painting of st pauls cathedral]] — shared language: city
-- [[knowledge/wiki/images/aerial photograph of a city grid at night dd14d761|aerial photograph of a city grid at night]] — shared language: city
-- [[knowledge/wiki/images/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: city
+- [[knowledge/archive/auto-generated/artists-stale/Artist - m s corley|Artist - m s corley]] — named in this note
+- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
+- [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: city
+- [[_archive/auto-generated/images-stale/black ink sketch of people at a city intersection with a lamppost and crosswalk 4fb88d73|black ink sketch of people at a city intersection with a lamppost and crosswalk]] — shared language: city
+- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: city
+- [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: city
 <!-- vault-crosslinks:end -->

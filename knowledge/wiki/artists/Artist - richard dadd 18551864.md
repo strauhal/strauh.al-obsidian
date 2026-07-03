@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - richard dadd|Artist - richard dadd]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
-- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: dadd, richard
-- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: dadd, richard
-- [[knowledge/wiki/images/richard dadd portrait young man fairy painting jpg 06d4e10c|richard dadd portrait young man fairy painting jpg]] — shared language: dadd, richard, fairy
-- [[knowledge/wiki/images/richard dadd detailed pencil drawing 5045a6c7|richard dadd detailed pencil drawing]] — shared language: dadd, richard
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: dadd, richard
+- [[knowledge/wiki/images/Sir Alexander Morison by Richard Dadd (1852) 4fed3e61|Sir Alexander Morison by Richard Dadd (1852)]] — shared language: dadd, richard
+- [[knowledge/wiki/images/Contradiction Oberon and Titania by Richard Dadd (c. 1854 1858) a8074241|Contradiction Oberon and Titania by Richard Dadd (c. 1854 1858)]] — shared language: dadd, richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
 <!-- vault-crosslinks:end -->

@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/luca giordano the archangel michael c 1680 35423279|luca giordano the archangel michael c 1680]] — shared language: luca, giordano, archangel
-- [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: luca, giordano, archangel
-- [[knowledge/wiki/pages/art|art]] — shared language: luca, giordano, saint
-- [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — shared language: saints
-- [[knowledge/wiki/books/immanuel-kant-critique-of-judgment|Critique of Judgment]] — shared language: judgment
-- [[knowledge/wiki/images/saint michael the archangel by guido reni c 1635 a6f70e14|saint michael the archangel by guido reni c 1635]] — shared language: archangel, michael, saint
+- [[knowledge/wiki/images/luca giordano the archangel michael c 1680 35423279|luca giordano the archangel michael c 1680]] — shared language: giordano, luca, archangel
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, saint, child
+- [[knowledge/wiki/artists/Artist - Luca Ricci|Artist - Luca Ricci]] — shared language: luca
+- [[knowledge/wiki/images/Flower Block by Luca Ricci (2020) 78fcb631|Flower Block by Luca Ricci (2020)]] — shared language: luca
+- [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: giordano, luca, archangel
+- [[knowledge/wiki/images/Illustration Two Clear Rectangular Boxes with Red Flowers Inside by Luca Ricci 7c5facfc|Illustration Two Clear Rectangular Boxes with Red Flowers Inside by Luca Ricci]] — shared language: luca
 <!-- vault-crosslinks:end -->

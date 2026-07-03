@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: moreau
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave moreau 1855|Artist - gustave moreau 1855]] — shared language: moreau
 - [[knowledge/wiki/images/untitled head by jean michel basquiat 1982 d0caf46a|untitled head by jean michel basquiat 1982]] — shared language: michel, jean
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jean michel basquiat 1983|Artist - jean michel basquiat 1983]] — shared language: michel, jean
+- [[knowledge/wiki/images/Untitled (Head) by Jean Michel Basquiat (1982) c1e1e665|Untitled (Head) by Jean Michel Basquiat (1982)]] — shared language: michel, jean
 <!-- vault-crosslinks:end -->

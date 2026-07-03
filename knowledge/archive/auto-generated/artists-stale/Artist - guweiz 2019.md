@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - guweiz|Artist - guweiz]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - guweiz|Artist - guweiz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - guweiz 2020|Artist - guweiz 2020]] — named in this note
-- [[knowledge/wiki/images/rings by guweiz 2020 5282eb96|rings by guweiz 2020]] — shared language: guweiz
+- [[_archive/auto-generated/images-stale/rings by guweiz 2020 5282eb96|rings by guweiz 2020]] — shared language: guweiz
 <!-- vault-crosslinks:end -->

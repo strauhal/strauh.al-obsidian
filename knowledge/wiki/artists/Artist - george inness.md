@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Coming Storm by George Inness (1878) 5cd0fcff|The Coming Storm by George Inness (1878)]] — named in this note
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
+- [[knowledge/wiki/images/The Waiting Room by George Tooker (1959) 984b1075|The Waiting Room by George Tooker (1959)]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george ault|Artist - george ault]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george romney|Artist - george romney]] — shared language: george
-- [[knowledge/wiki/images/the struggle by george bellows 1907 c4f5b8a6|the struggle by george bellows 1907]] — shared language: george
 <!-- vault-crosslinks:end -->

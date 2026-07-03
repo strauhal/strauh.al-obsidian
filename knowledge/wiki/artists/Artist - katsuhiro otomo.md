@@ -1,13 +1,13 @@
 ---
 title: "Artist - katsuhiro otomo"
 source_kind: "artist"
-count: "9"
+count: "8"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - katsuhiro otomo
 
-Images attributed by filename: 9
+Images attributed by filename: 8
 
 ## Sample
 
@@ -27,8 +27,6 @@ Images attributed by filename: 9
 
 ![[media/strauh.al3.1/1900s/sayonara_nippon_cover_illustration_by_katsuhiro_otomo_1981.jpg]]
 
-![[media/strauh.al3.1/2000s/black_and_white_illustration_of_a_young_man_in_a_fur_collared_jacket_and_jeans_by_katsuhiro_otomo.jpeg]]
-
 ## Image Notes
 
 - [[akira by katsuhiro otomo 1989 28f648f8|akira by katsuhiro otomo 1989]]
@@ -39,15 +37,14 @@ Images attributed by filename: 9
 - [[black panther by katsuhiro otomo 1987 0b5e3f76|black panther by katsuhiro otomo 1987]]
 - [[cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988 74dcb9fe|cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988]]
 - [[sayonara nippon cover illustration by katsuhiro otomo 1981 ee7d4f00|sayonara nippon cover illustration by katsuhiro otomo 1981]]
-- [[black and white illustration of a young man in a fur collared jacket and jeans by katsuhiro otomo cb6314e1|black and white illustration of a young man in a fur collared jacket and jeans by katsuhiro otomo]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: katsuhiro, otomo, akira
+- [[knowledge/wiki/images/Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo 6f955bff|Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo]] — shared language: katsuhiro, otomo
 - [[knowledge/wiki/culture/reading-akira|Reading - Akira]] — shared language: akira, katsuhiro, otomo
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page, comme, des
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: akira, katsuhiro, otomo
-- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: akira
-- [[knowledge/wiki/collections/Collection - 1900s|Collection - 1900s]] — shared language: katsuhiro, otomo, akira
 <!-- vault-crosslinks:end -->

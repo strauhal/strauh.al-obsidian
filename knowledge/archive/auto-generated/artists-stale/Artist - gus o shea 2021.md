@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - gus o shea|Artist - gus o shea]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gus o shea|Artist - gus o shea]] — named in this note
+- [[knowledge/wiki/images/Illustration Woman With Blue Facial Markings And Stylized Earrings 2f29815c|Illustration Woman With Blue Facial Markings And Stylized Earrings]] — named in this note
 - [[knowledge/wiki/anchors/gus-van-sant|Gus Van Sant]] — shared language: gus
-- [[knowledge/wiki/images/marker and ink sketch of a woman s head with blue eyes and brown hair 84201029|marker and ink sketch of a woman s head with blue eyes and brown hair]] — shared language: marker, ink, blue
-- [[knowledge/wiki/images/drawing of two expressive facial studies in black marker and color accents 9a07260b|drawing of two expressive facial studies in black marker and color accents]] — shared language: facial, marker
-- [[knowledge/wiki/images/two sketches of a woman s head in blue ink and reddish brown marker on brown paper 33271e4f|two sketches of a woman s head in blue ink and reddish brown marker on brown paper]] — shared language: marker, ink, blue
-- [[knowledge/wiki/images/stylized marker drawing of a character jumping with a spray can a96ffc77|stylized marker drawing of a character jumping with a spray can]] — shared language: marker, stylized
+- [[_archive/auto-generated/images-stale/drawing of two expressive facial studies in black marker and color accents 9a07260b|drawing of two expressive facial studies in black marker and color accents]] — shared language: facial, marker
+- [[knowledge/wiki/images/Illustration Two Expressive Facial Studies in Black Marker and Color Accents 32fff11a|Illustration Two Expressive Facial Studies in Black Marker and Color Accents]] — shared language: facial, marker
+- [[knowledge/wiki/images/Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes e6cc8dbb|Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes]] — shared language: marker, ink
 <!-- vault-crosslinks:end -->

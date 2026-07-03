@@ -39,9 +39,9 @@ Images attributed by filename: 7
 ## Discovered Connections
 
 - [[knowledge/wiki/images/ren magritte les amants 1928 a9a9dec1|ren magritte les amants 1928]] — shared language: magritte, amants, les
-- [[knowledge/wiki/artists/Artist - rene gruau|Artist - rene gruau]] — shared language: rene, red
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-rene-hague-toward-the-future-mariner-books|Toward The Future-Mariner Books]] — shared language: rene
-- [[knowledge/wiki/images/fashion illustration of a woman crouching in a red and white striped turtleneck by rene gruau e1cef27c|fashion illustration of a woman crouching in a red and white striped turtleneck by rene gruau]] — shared language: rene, red
+- [[knowledge/wiki/images/Time Transfixed by Ren Magritte (1938) dd5a4750|Time Transfixed by Ren Magritte (1938)]] — shared language: magritte
 - [[knowledge/wiki/books/oxford-world-s-classics-rene-descartes-michael-moriarty-meditations-first-philosophy-oxford-university-press-usa|Meditations First Philosophy-Oxford University Press, USA]] — shared language: rene
 - [[knowledge/wiki/images/la tentation de saint antoine by felicien rops 1878 a7adc816|la tentation de saint antoine by felicien rops 1878]] — shared language: tentation, antoine, saint
+- [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — shared language: arnheim
 <!-- vault-crosslinks:end -->

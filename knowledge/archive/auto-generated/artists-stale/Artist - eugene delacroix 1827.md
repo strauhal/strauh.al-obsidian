@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - eugene delacroix|Artist - eugene delacroix]] — named in this note
+- [[knowledge/wiki/images/The Death of Sardanapalus by Eug ne Delacroix (1827) 96eb4805|The Death of Sardanapalus by Eug ne Delacroix (1827)]] — shared language: delacroix, death
 - [[knowledge/wiki/images/eugne delacroix faust and mephistopheles 1828 dea113a2|eugne delacroix faust and mephistopheles 1828]] — shared language: delacroix
-- [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: eugene
-- [[knowledge/wiki/images/le paysan by eugene burnand 1894 d25ad84d|le paysan by eugene burnand 1894]] — shared language: eugene
-- [[knowledge/wiki/images/pieta after delacroix by vincent van gogh 1889 3abdf0a1|pieta after delacroix by vincent van gogh 1889]] — shared language: delacroix
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: eugene
+- [[knowledge/wiki/artists/Artist - eugene burnand|Artist - eugene burnand]] — shared language: eugene
+- [[knowledge/wiki/artists/Artist - Eugene Von Bruenchenhein|Artist - Eugene Von Bruenchenhein]] — shared language: eugene
+- [[_archive/auto-generated/images-stale/la priere sacerdotale by eugene burnand 1895 1918 c7be7fd0|la priere sacerdotale by eugene burnand 1895 1918]] — shared language: eugene
 <!-- vault-crosslinks:end -->

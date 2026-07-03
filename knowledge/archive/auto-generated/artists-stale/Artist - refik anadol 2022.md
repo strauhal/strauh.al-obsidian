@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - refik anadol|Artist - refik anadol]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol|Artist - refik anadol]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2019|Artist - refik anadol 2019]] — named in this note
-- [[knowledge/wiki/images/infinity by refik anadol 2019 3f199f63|infinity by refik anadol 2019]] — shared language: refik, anadol
+- [[_archive/auto-generated/images-stale/infinity by refik anadol 2019 3f199f63|infinity by refik anadol 2019]] — shared language: anadol, refik
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: moma
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: moma
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: moma
 <!-- vault-crosslinks:end -->

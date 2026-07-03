@@ -1,12 +1,12 @@
 ---
 title: "horace vernet prise de la tour de malakoff 1858"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
 source_relpath: "1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg"
 collection: "1800s"
 inferred_year: "1858"
 artist: ""
-dimensions: "1961x1312"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/horace_vernet_prise_de_la_tour_de_malakoff_1858.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/images/the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]] — shared language: horace, vernet
 - [[knowledge/wiki/artists/Artist - horace pippin|Artist - horace pippin]] — shared language: horace
 - [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: vernet
-- [[knowledge/wiki/artists/Artist - alix vernet|Artist - alix vernet]] — shared language: vernet
+- [[knowledge/wiki/images/la cite tour by moebius 1981 de26fd67|la cite tour by moebius 1981]] — shared language: tour
 <!-- vault-crosslinks:end -->

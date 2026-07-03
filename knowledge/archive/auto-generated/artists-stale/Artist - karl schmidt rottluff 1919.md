@@ -24,8 +24,8 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - karl schmidt rottluff|Artist - karl schmidt rottluff]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ben schmidt|Artist - Ben Schmidt]] — shared language: schmidt
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
-- [[knowledge/wiki/artists/Artist - ben schmidt|Artist - ben schmidt]] — shared language: schmidt
 - [[knowledge/archive/auto-generated/artists-stale/Artist - karl bryullov 1822|Artist - karl bryullov 1822]] — shared language: karl
 - [[knowledge/wiki/artists/Artist - karl wirsum|Artist - karl wirsum]] — shared language: karl
 - [[knowledge/archive/auto-generated/artists-stale/Artist - karl wirsum 1968|Artist - karl wirsum 1968]] — shared language: karl

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - steve dillon|Artist - steve dillon]] — shared language: steve
 - [[knowledge/wiki/images/the art robot by steve dillon 1986 f6be644b|the art robot by steve dillon 1986]] — shared language: steve
-- [[knowledge/wiki/culture/reading-becoming-steve-jobs|Reading - Becoming Steve Jobs]] — shared language: steve
-- [[knowledge/wiki/images/steve jobs with macintosh by norman seeff 1984 bd1ca521|steve jobs with macintosh by norman seeff 1984]] — shared language: steve
-- [[knowledge/wiki/culture/movie-taxi-driver|Watchlist - Taxi Driver]] — shared language: taxi, driver
-- [[knowledge/wiki/images/quicksilver messenger service the steve miller blues band the daily flash fd 51 by victor moscoso 1967 2d156ff7|quicksilver messenger service the steve miller blues band the daily flash fd 51 by victor moscoso 1967]] — shared language: steve
+- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: steve
+- [[knowledge/wiki/images/Steve Reich Terry Riley (2019) e75b1ec2|Steve Reich Terry Riley (2019)]] — shared language: steve
+- [[knowledge/wiki/images/Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page d4b44a3b|Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: steve
+- [[knowledge/wiki/images/Photograph Young Steve Jobs Posing in a Tuxedo d2842eea|Photograph Young Steve Jobs Posing in a Tuxedo]] — shared language: steve
 <!-- vault-crosslinks:end -->

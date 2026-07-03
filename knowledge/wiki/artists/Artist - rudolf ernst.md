@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - rudolf arnheim|Artist - rudolf arnheim]] — shared language: rudolf
+- [[knowledge/wiki/images/The Water Sprite by Ernst Josephson (1882) bf48de7a|The Water Sprite by Ernst Josephson (1882)]] — shared language: ernst
 - [[knowledge/wiki/images/self portrait by ernst ludwig kirchner 1914 5cc7bba5|self portrait by ernst ludwig kirchner 1914]] — shared language: ernst
+- [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — shared language: rudolf
 - [[knowledge/wiki/artists/Artist - rudolf ruller|Artist - rudolf ruller]] — shared language: rudolf
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: rudolf
-- [[knowledge/wiki/books/rudolf-arnheim-arnheim-rudolf-visual-thinking-35th-anniversary-printing|Visual thinking 35th anniversary printing]] — shared language: rudolf
-- [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — shared language: ernst
 <!-- vault-crosslinks:end -->

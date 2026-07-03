@@ -40,10 +40,10 @@ Thank you kindly,
 
 - [[knowledge/private/fanmail/threads/21-website-bugs|Private Correspondence - 21 - Website Bugs]] — same category: site-feedback
 - [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — same category: site-feedback
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: website, like, internet
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: like, internet, that's
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: changes, like, can't
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: art, like, that's
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, changes, incoming
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say, like, even
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: say, can't, see
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: like, that's, even
 <!-- vault-crosslinks:end -->

@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1570s"
 source_kind: "date_bucket"
-count: "5"
+count: "6"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1570s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 6
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Portrait of a Man by Giovanni Battista Moroni (c. 1570).jpg]]
 
 ![[media/strauh.al3.1/1500s/saint_thomas_and_saint_simon_by_jost_amman_1573.jpg]]
 

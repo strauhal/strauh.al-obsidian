@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
 - [[knowledge/wiki/artists/Artist - otto dix|Artist - otto dix]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - otto dix 1924|Artist - otto dix 1924]] — named in this note
+- [[knowledge/wiki/images/The Lovers by Otto Dix (1925) f3c9af5a|The Lovers by Otto Dix (1925)]] — shared language: dix, otto
 - [[knowledge/wiki/images/soldatengrab soldier s grave by otto dix 1924 292c60dc|soldatengrab soldier s grave by otto dix 1924]] — shared language: dix, otto
-- [[knowledge/wiki/images/la source by otto carte 1907 a9f28e1b|la source by otto carte 1907]] — shared language: otto
-- [[knowledge/wiki/artists/Artist - otto carte|Artist - otto carte]] — shared language: otto
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto, self
 <!-- vault-crosslinks:end -->

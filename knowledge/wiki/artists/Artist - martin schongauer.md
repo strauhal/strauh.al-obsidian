@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
+- [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
+- [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: martin
 - [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — shared language: martin
-- [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: martin
 - [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — shared language: martin
-- [[knowledge/wiki/artists/Artist - martin mellin|Artist - martin mellin]] — shared language: martin
-- [[knowledge/wiki/images/john martin pandemonium 1841 cb7eaa34|john martin pandemonium 1841]] — shared language: martin
 <!-- vault-crosslinks:end -->

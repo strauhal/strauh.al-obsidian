@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tschabalala self|Artist - tschabalala self]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tschabalala self|Artist - tschabalala self]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: self
-- [[knowledge/wiki/images/self awareness b06279e4|self awareness]] — shared language: self
-- [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — shared language: self
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
+- [[_archive/auto-generated/images-stale/self awareness b06279e4|self awareness]] — shared language: self
+- [[knowledge/wiki/images/Photograph Self immolation of Aaron Bushnell 52d2ce78|Photograph Self immolation of Aaron Bushnell]] — shared language: self
 <!-- vault-crosslinks:end -->

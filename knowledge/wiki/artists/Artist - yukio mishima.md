@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]] — shared language: yukio, mishima
-- [[knowledge/wiki/artists/Artist - young thug|Artist - young thug]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - yoshiyuki sadamoto|Artist - yoshiyuki sadamoto]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - yumi matsutoya|Artist - yumi matsutoya]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

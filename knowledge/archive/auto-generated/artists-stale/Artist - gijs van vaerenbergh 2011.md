@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - gijs van vaerenbergh|Artist - gijs van vaerenbergh]] — named in this note
+- [[knowledge/wiki/images/Reading Between the Lines by Gijs Van Vaerenbergh (2011) 4c825a80|Reading Between the Lines by Gijs Van Vaerenbergh (2011)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gijs van vaerenbergh|Artist - gijs van vaerenbergh]] — named in this note
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1885|Artist - vincent van gogh 1885]] — shared language: van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1886|Artist - vincent van gogh 1886]] — shared language: van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1659|Artist - rembrandt van rijn 1659]] — shared language: van
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: van
 <!-- vault-crosslinks:end -->

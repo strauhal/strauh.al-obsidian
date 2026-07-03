@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865) d7eaf09c|Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865)]] — shared language: courbet, gustave
+- [[knowledge/wiki/images/gustave caillebotte the floor scrapers les raboteurs de parquet 1875 51b04916|gustave caillebotte the floor scrapers les raboteurs de parquet 1875]] — shared language: gustave, les
 - [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
 - [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: gustave
+- [[knowledge/wiki/artists/Artist - Gustave Dor|Artist - Gustave Dor]] — shared language: gustave
 - [[knowledge/wiki/images/the deluge by gustave dore 1866 ab921780|the deluge by gustave dore 1866]] — shared language: gustave
-- [[knowledge/wiki/images/the deluge by gustave dore 1866 2 2c86e9ec|the deluge by gustave dore 1866 2]] — shared language: gustave
-- [[knowledge/wiki/images/herodiade by gustave dore 1868 9180f266|herodiade by gustave dore 1868]] — shared language: gustave
-- [[knowledge/wiki/images/man on a balcony by gustave caillebotte 1880 87b11d90|man on a balcony by gustave caillebotte 1880]] — shared language: gustave
 <!-- vault-crosslinks:end -->

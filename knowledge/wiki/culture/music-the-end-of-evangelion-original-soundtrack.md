@@ -7,8 +7,8 @@ status: queued
 queue_order: 30
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The End of Evangelion: Original Soundtrack
@@ -30,12 +30,12 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
+- [[knowledge/wiki/images/The End of Evangelion (1997) a066c24b|The End of Evangelion (1997)]] — shared language: evangelion, end
 - [[knowledge/wiki/culture/movie-the-end-of-evangelion|Watchlist - The End of Evangelion]] — shared language: evangelion, end, current
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: end, active
 - [[knowledge/wiki/culture/music-computer-world|Listening - Computer World]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-consumed|Listening - Consumed]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-elseq|Listening - elseq]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-mutant|Listening - Mutant]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-anoyo|Listening - Anoyo]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-musik|Listening - Musik]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-madvillainy|Listening - Madvillainy]] — shared language: listening, current, performer
+- [[knowledge/wiki/culture/music-elseq|Listening - elseq]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

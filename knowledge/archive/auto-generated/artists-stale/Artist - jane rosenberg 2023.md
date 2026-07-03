@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jane rosenberg|Artist - jane rosenberg]] — named in this note
-- [[knowledge/wiki/artists/Artist - jane trueblood|Artist - jane trueblood]] — shared language: jane
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jane rosenberg|Artist - jane rosenberg]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jane trueblood|Artist - jane trueblood]] — shared language: jane
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jane trueblood 2019|Artist - jane trueblood 2019]] — shared language: jane
-- [[knowledge/wiki/images/daffodils 2 by jane trueblood 2019 5d3fa54f|daffodils 2 by jane trueblood 2019]] — shared language: jane
+- [[_archive/auto-generated/images-stale/daffodils 2 by jane trueblood 2019 5d3fa54f|daffodils 2 by jane trueblood 2019]] — shared language: jane
+- [[knowledge/wiki/images/Illustration Courtroom Sketch of Two Men Viewing Video Evidence 04ac98ce|Illustration Courtroom Sketch of Two Men Viewing Video Evidence]] — shared language: evidence, viewing, video
 - [[knowledge/wiki/images/jane avril dancing by henri de toulouse lautrec 1892 17857063|jane avril dancing by henri de toulouse lautrec 1892]] — shared language: jane
-- [[knowledge/wiki/images/jane birkin with paul mccartney mask and portrait by tony frank 1969 46f938ad|jane birkin with paul mccartney mask and portrait by tony frank 1969]] — shared language: jane
 <!-- vault-crosslinks:end -->

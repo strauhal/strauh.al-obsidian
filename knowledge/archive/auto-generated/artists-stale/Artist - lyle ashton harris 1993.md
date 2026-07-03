@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: harris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john harris 1986|Artist - john harris 1986]] — shared language: harris
 - [[knowledge/wiki/images/pyramid by john harris 1986 72dec726|pyramid by john harris 1986]] — shared language: harris
-- [[knowledge/wiki/artists/Artist - mike harris|Artist - mike harris]] — shared language: harris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mike harris|Artist - Mike Harris]] — shared language: harris
 <!-- vault-crosslinks:end -->

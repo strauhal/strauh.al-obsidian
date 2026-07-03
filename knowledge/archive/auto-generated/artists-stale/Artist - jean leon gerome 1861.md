@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1890|Artist - jean leon gerome 1890]] — shared language: gerome, leon, jean
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1872|Artist - jean leon gerome 1872]] — shared language: gerome, leon, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1887|Artist - jean leon gerome 1887]] — shared language: gerome, leon, jean
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1872|Artist - jean leon gerome 1872]] — shared language: gerome, leon, jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean leon gerome 1865|Artist - jean leon gerome 1865]] — shared language: gerome, leon, jean
 - [[knowledge/wiki/artists/Artist - jean leon gerome|Artist - jean leon gerome]] — shared language: gerome, leon, jean
 - [[knowledge/wiki/images/le baiser the kiss by jean leon gerome c 1890 ffa59cd0|le baiser the kiss by jean leon gerome c 1890]] — shared language: gerome, leon, jean

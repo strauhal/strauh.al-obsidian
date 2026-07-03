@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - d angelo lovell williams|Artist - d angelo lovell williams]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - d angelo lovell williams|Artist - d angelo lovell williams]] — named in this note
 - [[knowledge/wiki/artists/Artist - tom lovell|Artist - tom lovell]] — shared language: lovell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom lovell 1950|Artist - tom lovell 1950]] — shared language: lovell
 - [[knowledge/wiki/images/the morning after by tom lovell 1950 872ce5d4|the morning after by tom lovell 1950]] — shared language: lovell
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: williams
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams|Artist - robert williams]] — shared language: williams
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams 2017|Artist - robert williams 2017]] — shared language: williams
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - hugo simberg|Artist - hugo simberg]] — shared language: hugo
 - [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: hugo
+- [[knowledge/wiki/images/Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event f4b4ed7f|Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
-- [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: van
-- [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: van
-- [[knowledge/wiki/images/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: van
 <!-- vault-crosslinks:end -->

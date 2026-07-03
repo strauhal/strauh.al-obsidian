@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frederic leighton|Artist - frederic leighton]] — named in this note
-- [[knowledge/wiki/images/mother and child by frederic leighton 1862 2868296e|mother and child by frederic leighton 1862]] — shared language: leighton, frederic
 - [[knowledge/wiki/images/study of a girl s head by frederic leighton c 1885 1cfc3a88|study of a girl s head by frederic leighton c 1885]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/mother and child by frederic leighton 1862 2868296e|mother and child by frederic leighton 1862]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] — shared language: leighton, frederic
+- [[knowledge/wiki/images/Landscape at Chailly by Frederic Bazille (1865) 3b327819|Landscape at Chailly by Frederic Bazille (1865)]] — shared language: frederic
 - [[knowledge/wiki/images/frederic chopin 48920806|frederic chopin]] — shared language: frederic
-- [[knowledge/wiki/artists/Artist - edmund blair leighton|Artist - edmund blair leighton]] — shared language: leighton
-- [[knowledge/wiki/artists/Artist - george frederic watts|Artist - george frederic watts]] — shared language: frederic
 <!-- vault-crosslinks:end -->

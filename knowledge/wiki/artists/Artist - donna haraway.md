@@ -20,10 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 0bwa2t363npg1 d47073fa|where math meets art and craftsmanship iranian v0 0bwa2t363npg1]] — shared language: meets
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 9ewn1ph53npg1 3391e131|where math meets art and craftsmanship iranian v0 9ewn1ph53npg1]] — shared language: meets
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 lsfvso563npg1 1f8bd7e1|where math meets art and craftsmanship iranian v0 lsfvso563npg1]] — shared language: meets
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 pi5cu7y53npg1 422beeb1|where math meets art and craftsmanship iranian v0 pi5cu7y53npg1]] — shared language: meets
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 rcd8jds53npg1 f74cf7d3|where math meets art and craftsmanship iranian v0 rcd8jds53npg1]] — shared language: meets
-- [[knowledge/wiki/images/where math meets art and craftsmanship iranian v0 uukoksq53npg1 26ee0870|where math meets art and craftsmanship iranian v0 uukoksq53npg1]] — shared language: meets
+- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
+- [[knowledge/wiki/images/the second coming by peter saul 1969 75bb7b97|the second coming by peter saul 1969]] — shared language: second
+- [[knowledge/wiki/artists/Artist - don harridge|Artist - don harridge]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

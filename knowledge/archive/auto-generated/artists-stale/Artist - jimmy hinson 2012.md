@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jimmy hinson|Artist - jimmy hinson]] — named in this note
+- [[knowledge/wiki/images/PXL CON by Jimmy Hinson (2012) 86231716|PXL CON by Jimmy Hinson (2012)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jimmy hinson|Artist - jimmy hinson]] — named in this note
 - [[knowledge/wiki/images/jimmy cliff by annie leibovitz 1992 9580f2ef|jimmy cliff by annie leibovitz 1992]] — shared language: jimmy
-- [[knowledge/wiki/images/digital chart titled conflict in literature featuring characters from jimmy neutron and conan o brien 404813e5|digital chart titled conflict in literature featuring characters from jimmy neutron and conan o brien]] — shared language: jimmy
+- [[knowledge/wiki/images/Image Chart Explaining Literary Conflict with Jimmy Neutron and Conan O'Brien 99f707ce|Image Chart Explaining Literary Conflict with Jimmy Neutron and Conan O'Brien]] — shared language: jimmy
+- [[_archive/auto-generated/images-stale/digital chart titled conflict in literature featuring characters from jimmy neutron and conan o brien 404813e5|digital chart titled conflict in literature featuring characters from jimmy neutron and conan o brien]] — shared language: jimmy
 - [[knowledge/wiki/artists/Artist - annie leibovitz|Artist - annie leibovitz]] — shared language: jimmy
-- [[knowledge/archive/auto-generated/artists-stale/Artist - annie leibovitz 1992|Artist - annie leibovitz 1992]] — shared language: jimmy
-- [[knowledge/wiki/pages/arcades project|arcades project]] — shared language: jimmy
 <!-- vault-crosslinks:end -->

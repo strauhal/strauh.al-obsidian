@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Cows Drinking by a Large Tree e9f852bc|Illustration Black and White Drawing of Cows Drinking by a Large Tree]] — shared language: tree, large, cows
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-large-tree|Artist - a large tree]] — shared language: tree, large
-- [[knowledge/wiki/images/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: tree, large, landscape
-- [[knowledge/wiki/images/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: large
-- [[knowledge/wiki/artists/Artist - tree foliage|Artist - tree foliage]] — shared language: tree
-- [[knowledge/wiki/artists/Artist - tree branches|Artist - tree branches]] — shared language: tree
+- [[_archive/auto-generated/images-stale/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: tree, large, landscape
+- [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree, landscape
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
 <!-- vault-crosslinks:end -->

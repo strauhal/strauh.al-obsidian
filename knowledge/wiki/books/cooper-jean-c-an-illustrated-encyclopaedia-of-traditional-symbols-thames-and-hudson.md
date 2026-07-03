@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Cooper, Jean C - An illustrated encyclopaedia of traditional symbols-Thames and Hudson (1978).epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # An illustrated encyclopaedia of traditional symbols-Thames and Hudson

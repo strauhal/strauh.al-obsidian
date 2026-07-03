@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - richard dadd 18551864|Artist - richard dadd 18551864]] — named in this note
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — named in this note
-- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: dadd, richard
-- [[knowledge/wiki/images/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: dadd, richard
+- [[_archive/auto-generated/images-stale/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: dadd, richard
+- [[_archive/auto-generated/images-stale/portrait of a young man by richard dadd 1853 f95d6f58|portrait of a young man by richard dadd 1853]] — shared language: dadd, richard
 <!-- vault-crosslinks:end -->

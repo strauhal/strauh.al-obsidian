@@ -1,12 +1,12 @@
 ---
 title: "the dead horse by paulus potter 1652"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg"
 source_relpath: "1600s/the_dead_horse_by_paulus_potter_1652.jpeg"
 collection: "1600s"
 inferred_year: "1652"
 artist: "paulus potter"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - paulus potter]]
 
 Source: [[media/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_dead_horse_by_paulus_potter_1652.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

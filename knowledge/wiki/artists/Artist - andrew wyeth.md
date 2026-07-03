@@ -33,9 +33,9 @@ Images attributed by filename: 5
 ## Discovered Connections
 
 - [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: wyeth, andrew, world
+- [[knowledge/wiki/images/Light Wash by Andrew Wyeth (1985) 7427d627|Light Wash by Andrew Wyeth (1985)]] — shared language: wyeth, andrew
 - [[knowledge/wiki/artists/Artist - n c wyeth|Artist - n c wyeth]] — shared language: wyeth
 - [[knowledge/wiki/images/the camp by n c wyeth 1910 a27266b0|the camp by n c wyeth 1910]] — shared language: wyeth
+- [[knowledge/wiki/images/Some Worlds Have Two Suns by Andrew McConnell (2015 2024) 93b25be4|Some Worlds Have Two Suns by Andrew McConnell (2015 2024)]] — shared language: andrew
 - [[knowledge/wiki/artists/Artist - andrew loomis|Artist - andrew loomis]] — shared language: andrew
-- [[knowledge/wiki/images/the window by andrew loomis 1929 d71221c1|the window by andrew loomis 1929]] — shared language: andrew
-- [[knowledge/wiki/anchors/andrew-niccol|Andrew Niccol]] — shared language: andrew
 <!-- vault-crosslinks:end -->

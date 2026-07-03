@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - r kikuo johnson|Artist - r kikuo johnson]] — shared language: johnson
-- [[knowledge/wiki/images/the garden by r kikuo johnson 2019 d2714fa1|the garden by r kikuo johnson 2019]] — shared language: johnson
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
-- [[knowledge/wiki/books/michael-edward-johnson-principia-qualia|Principia Qualia]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - Aaron Johnson|Artist - Aaron Johnson]] — shared language: johnson
 - [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — shared language: jonathan
 - [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: jonathan
 <!-- vault-crosslinks:end -->

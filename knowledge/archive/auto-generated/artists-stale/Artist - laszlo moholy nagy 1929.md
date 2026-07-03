@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - philip alexius de laszlo|Artist - philip alexius de laszlo]] — shared language: laszlo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - philip alexius de laszlo 1913|Artist - philip alexius de laszlo 1913]] — shared language: laszlo
 - [[knowledge/wiki/images/portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913 1eca5363|portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913]] — shared language: laszlo
+- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/studies in composition after goya 1899 59ba8b76|studies in composition after goya 1899]] — shared language: composition
-- [[knowledge/wiki/images/composition by wassily kandinsky 1910 018f415a|composition by wassily kandinsky 1910]] — shared language: composition
 <!-- vault-crosslinks:end -->

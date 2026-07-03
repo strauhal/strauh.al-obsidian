@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - norman rockwell|Artist - norman rockwell]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1959|Artist - norman rockwell 1959]] — named in this note
 - [[knowledge/wiki/images/the lifesaver by norman rockwell 1959 d22630e8|the lifesaver by norman rockwell 1959]] — shared language: rockwell, norman
+- [[knowledge/wiki/images/Picasso vs Sargent by Norman Rockwell (1966) 5a89c0fa|Picasso vs Sargent by Norman Rockwell (1966)]] — shared language: rockwell, norman
 - [[knowledge/wiki/artists/Artist - rockwell kent|Artist - rockwell kent]] — shared language: rockwell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rockwell kent 1909|Artist - rockwell kent 1909]] — shared language: rockwell
-- [[knowledge/wiki/artists/Artist - norman seeff|Artist - norman seeff]] — shared language: norman
 <!-- vault-crosslinks:end -->

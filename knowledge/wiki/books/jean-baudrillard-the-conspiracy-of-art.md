@@ -9,8 +9,8 @@ metadata: curated
 aliases: [jean-baudrillard-the-conspiracy-of-art]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/jean-baudrillard-the-conspiracy-of-art.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Conspiracy of Art
@@ -51,7 +51,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception|Art and Visual Perception]] — same category: art aesthetics
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — same category: art aesthetics
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/claire-bishop-artificial-hells-participatory-art-and-the-politics-of-spectatorship|Artificial Hells: Participatory Art and the Politics of Spectatorship]] — same category: art aesthetics
-- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — same category: art aesthetics
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

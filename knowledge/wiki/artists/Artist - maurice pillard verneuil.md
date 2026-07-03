@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - maurice prendergast|Artist - maurice prendergast]] — shared language: maurice
 - [[knowledge/wiki/images/the east river by maurice prendergast 1901 8d17af3a|the east river by maurice prendergast 1901]] — shared language: maurice
 - [[knowledge/wiki/images/la danse the dance by maurice denis 1905 b381d6e9|la danse the dance by maurice denis 1905]] — shared language: maurice
-- [[knowledge/wiki/images/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate
-- [[knowledge/wiki/images/black and white photograph of a young man in a plaid scarf reading documents 4aa9cc07|black and white photograph of a young man in a plaid scarf reading documents]] — shared language: documents
+- [[knowledge/wiki/images/Logging in Winter, Quebec by Maurice Cullen (1906) 867f9eaa|Logging in Winter, Quebec by Maurice Cullen (1906)]] — shared language: maurice
+- [[knowledge/wiki/images/Photograph Young Man in Plaid Scarf Reading Documents 4420ca8d|Photograph Young Man in Plaid Scarf Reading Documents]] — shared language: documents
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — named in this note
 - [[knowledge/wiki/images/grant wood fall plowing 1931 6448691f|grant wood fall plowing 1931]] — shared language: grant, wood
-- [[knowledge/wiki/images/cary grant 1980s 2 e53d87ab|cary grant 1980s 2]] — shared language: grant
-- [[knowledge/wiki/images/cary grant 1980s cad26847|cary grant 1980s]] — shared language: grant
+- [[_archive/auto-generated/images-stale/cary grant 1980s 2 e53d87ab|cary grant 1980s 2]] — shared language: grant
+- [[_archive/auto-generated/images-stale/cary grant 1980s cad26847|cary grant 1980s]] — shared language: grant
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: wood
 <!-- vault-crosslinks:end -->

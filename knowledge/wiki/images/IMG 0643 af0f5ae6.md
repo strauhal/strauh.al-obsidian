@@ -1,12 +1,12 @@
 ---
 title: "IMG 0643"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/IMG_0643.JPG"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/comics/IMG_0643.JPG"
 source_relpath: "comics/IMG_0643.JPG"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: "800x1009"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/comics/IMG_0643.JPG|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/comics/IMG_0643.JPG`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/comics/IMG_0643.JPG`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

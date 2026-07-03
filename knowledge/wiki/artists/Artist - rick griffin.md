@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - rick guidice|Artist - rick guidice]] — shared language: rick
 - [[knowledge/wiki/anchors/rick-tetzeli|Rick Tetzeli]] — shared language: rick
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: rick
-- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: rick
 - [[knowledge/wiki/images/interior of the o neill cylinder by rick guidice 1975 e261b2df|interior of the o neill cylinder by rick guidice 1975]] — shared language: rick
-- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: rick
+- [[knowledge/wiki/images/Screenshot Screenshot of Apple Music album cover with abstract geometric art 10c2d77e|Screenshot Screenshot of Apple Music album cover with abstract geometric art]] — shared language: album, cover
 <!-- vault-crosslinks:end -->

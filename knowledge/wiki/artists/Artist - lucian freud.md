@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/images/portrait of lucian freud by francis bacon 1951 60a87d39|portrait of lucian freud by francis bacon 1951]] — shared language: lucian, freud
+- [[knowledge/wiki/artists/Artist - Sigmund Freud|Artist - Sigmund Freud]] — shared language: freud
+- [[knowledge/wiki/artists/Artist - Lucian Prun|Artist - Lucian Prun]] — shared language: lucian
+- [[knowledge/wiki/images/Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun 0bc79c07|Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun]] — shared language: lucian
+- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche by Sigmund Freud 6e17f9c2|Diagram Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: freud
 - [[knowledge/wiki/artists/Artist - francis bacon|Artist - francis bacon]] — shared language: lucian, freud
-- [[knowledge/wiki/artists/Artist - sue miller|Artist - sue miller]] — shared language: sue
-- [[knowledge/wiki/images/the dragon s lair by sue miller 1997 631b8583|the dragon s lair by sue miller 1997]] — shared language: sue
-- [[knowledge/wiki/images/girl 3142bd12|girl]] — shared language: girl
-- [[knowledge/wiki/images/valentin serov girl with peaches 1887 3ce012a3|valentin serov girl with peaches 1887]] — shared language: girl
 <!-- vault-crosslinks:end -->

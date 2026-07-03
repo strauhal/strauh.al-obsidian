@@ -1,13 +1,13 @@
 ---
 title: "Artist - bill watterson"
 source_kind: "artist"
-count: "12"
+count: "11"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - bill watterson
 
-Images attributed by filename: 12
+Images attributed by filename: 11
 
 ## Sample
 
@@ -33,8 +33,6 @@ Images attributed by filename: 12
 
 ![[media/strauh.al3.1/1900s/when_i_grow_up_i_want_to_be_a_radical_terrorist_calvin_and_hobbes_strip_panel_by_bill_watterson_1986.jpg]]
 
-![[media/strauh.al3.1/2000s/watercolor_of_calvin_and_hobbes_with_a_globe_and_raft_by_bill_watterson.jpg]]
-
 ## Image Notes
 
 - [[calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]]
@@ -48,15 +46,14 @@ Images attributed by filename: 12
 - [[tracer bullet who did this by bill watterson 1987 b72a754d|tracer bullet who did this by bill watterson 1987]]
 - [[when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986 ab03e280|when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986]]
 - [[when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986 3d7fb5ce|when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986]]
-- [[watercolor of calvin and hobbes with a globe and raft by bill watterson e1a6378f|watercolor of calvin and hobbes with a globe and raft by bill watterson]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/images/comic strip parody of calvin and hobbes featuring adult characters and a rabbit 14fbdec1|comic strip parody of calvin and hobbes featuring adult characters and a rabbit]] — shared language: calvin, hobbes, strip
-- [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
-- [[knowledge/wiki/artists/Artist - bill owens|Artist - bill owens]] — shared language: bill
-- [[knowledge/wiki/artists/Artist - bill willingham|Artist - bill willingham]] — shared language: bill
+- [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
+- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/wiki/images/Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson c431e9ad|Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/wiki/images/Comic Noir style Comic Panels of Calvin as Tracer Bullet with Gun. by Bill Watterson e37238a3|Comic Noir style Comic Panels of Calvin as Tracer Bullet with Gun. by Bill Watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/wiki/images/Comic Calvin as Film Noir Private Eye Tracer Bullet by Bill Watterson eb039f0f|Comic Calvin as Film Noir Private Eye Tracer Bullet by Bill Watterson]] — shared language: watterson, bill, calvin
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/black and white photograph of a woman half dressed in a white suit and half in knight armor 95838e9e|black and white photograph of a woman half dressed in a white suit and half in knight armor]] — shared language: half
+- [[knowledge/wiki/images/Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face 1bf392d3|Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face]] — shared language: half
+- [[knowledge/wiki/images/Photograph Woman Half Dressed In White Suit And Half In Knight Armor 8e70c66a|Photograph Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
+- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
+- [[knowledge/wiki/images/Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background 4687f6b4|Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background]] — shared language: half
 - [[knowledge/wiki/images/la fenetre de l atelier by henri fantin latour 1873 88f971c1|la fenetre de l atelier by henri fantin latour 1873]] — shared language: fenetre
-- [[knowledge/wiki/images/black and white pixel art of a half human half circuit face surrounded by early macintosh icons 7d5f6bdc|black and white pixel art of a half human half circuit face surrounded by early macintosh icons]] — shared language: half
-- [[knowledge/wiki/images/framed painting of a shop or window display b2dd592b|framed painting of a shop or window display]] — shared language: window
-- [[knowledge/wiki/images/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: window
-- [[knowledge/wiki/images/the window by andrew loomis 1929 d71221c1|the window by andrew loomis 1929]] — shared language: window
 <!-- vault-crosslinks:end -->

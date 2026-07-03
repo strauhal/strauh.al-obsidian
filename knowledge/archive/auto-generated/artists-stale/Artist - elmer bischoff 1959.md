@@ -21,9 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - elmer bischoff|Artist - elmer bischoff]] — named in this note
-- [[knowledge/wiki/images/painting of still life with dandelions torn playing card elmer s glue and billie eilish album title b0bde21c|painting of still life with dandelions torn playing card elmer s glue and billie eilish album title]] — shared language: elmer
-- [[knowledge/wiki/images/photograph of two figures in a canoe on sparkling water at sunset 51b01b09|photograph of two figures in a canoe on sparkling water at sunset]] — shared language: figures, two
-- [[knowledge/wiki/images/black and white drawing of stylized figures in two scenes 2023 01ccf91e|black and white drawing of stylized figures in two scenes 2023]] — shared language: figures, two
-- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: figures, two
-- [[knowledge/wiki/images/black and white print of two figures in an interior setting 719393e6|black and white print of two figures in an interior setting]] — shared language: figures, two
+- [[knowledge/wiki/images/Yellow Lampshade by Elmer Bischoff (1970) d94385d6|Yellow Lampshade by Elmer Bischoff (1970)]] — shared language: bischoff, elmer
+- [[_archive/auto-generated/images-stale/painting of still life with dandelions torn playing card elmer s glue and billie eilish album title b0bde21c|painting of still life with dandelions torn playing card elmer s glue and billie eilish album title]] — shared language: elmer
 <!-- vault-crosslinks:end -->

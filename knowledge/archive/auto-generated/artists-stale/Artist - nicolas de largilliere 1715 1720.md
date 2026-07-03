@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/portrait of the artist s family by nicolas de largilliere c 1704 fbaafd94|portrait of the artist s family by nicolas de largilliere c 1704]] — shared language: largilliere, nicolas
 - [[knowledge/wiki/images/portrait of the family of the artist by nicolas de largilliere c 1715 76794547|portrait of the family of the artist by nicolas de largilliere c 1715]] — shared language: largilliere, nicolas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de launay 1780|Artist - nicolas de launay 1780]] — shared language: nicolas
-- [[knowledge/wiki/artists/Artist - nicolas sassoon|Artist - nicolas sassoon]] — shared language: nicolas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas sassoon|Artist - nicolas sassoon]] — shared language: nicolas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas sassoon 2012|Artist - nicolas sassoon 2012]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

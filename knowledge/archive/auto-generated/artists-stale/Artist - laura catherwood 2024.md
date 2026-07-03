@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - laura catherwood|Artist - laura catherwood]] — named in this note
-- [[knowledge/wiki/artists/Artist - laura pannack|Artist - laura pannack]] — shared language: laura
+- [[knowledge/archive/auto-generated/artists-stale/Artist - laura catherwood|Artist - laura catherwood]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - laura pannack|Artist - laura pannack]] — shared language: laura
 - [[knowledge/archive/auto-generated/artists-stale/Artist - laura pannack 2014|Artist - laura pannack 2014]] — shared language: laura
-- [[knowledge/wiki/images/swinging by laura pannack 2014 d3c43a45|swinging by laura pannack 2014]] — shared language: laura
+- [[knowledge/wiki/images/Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen d68cc512|Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen]] — shared language: laura
+- [[_archive/auto-generated/images-stale/swinging by laura pannack 2014 d3c43a45|swinging by laura pannack 2014]] — shared language: laura
 - [[knowledge/wiki/artists/Artist - laura wheeler waring|Artist - laura wheeler waring]] — shared language: laura
-- [[knowledge/wiki/images/the pink dress by laura wheeler waring c 1927 71e85211|the pink dress by laura wheeler waring c 1927]] — shared language: laura
 <!-- vault-crosslinks:end -->

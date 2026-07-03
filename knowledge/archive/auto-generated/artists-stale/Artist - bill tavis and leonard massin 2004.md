@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - bill tavis and leonard massin|Artist - bill tavis and leonard massin]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill tavis and leonard massin|Artist - Bill Tavis and Leonard Massin]] — named in this note
+- [[knowledge/wiki/images/Diagram Detailed Diagram of the Mandelbrot Set and Related Fractals by Bill Tavis and Leonard Massin 9790f39a|Diagram Detailed Diagram of the Mandelbrot Set and Related Fractals by Bill Tavis and Leonard Massin]] — shared language: tavis, massin, leonard
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: bill
-- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: leonard
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: bill
+- [[knowledge/wiki/images/Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski 1f31d055|Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski]] — shared language: leonard
 <!-- vault-crosslinks:end -->

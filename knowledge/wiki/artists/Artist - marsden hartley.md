@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/living room by patrick hughes 2007 217c1b36|living room by patrick hughes 2007]] — shared language: living, room
-- [[knowledge/wiki/images/digital illustration of a sunlit plant filled living room viewed from above cd2f569e|digital illustration of a sunlit plant filled living room viewed from above]] — shared language: living, room
-- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
-- [[knowledge/wiki/images/red room 676d93b8|red room]] — shared language: room
-- [[knowledge/wiki/images/interior photograph of a cluttered sparsely furnished room 795f1273|interior photograph of a cluttered sparsely furnished room]] — shared language: room
-- [[knowledge/wiki/images/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: room
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living, room
+- [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: living, room
+- [[knowledge/wiki/images/Photograph Modern Living Room with Dog and Desert View f87dd0aa|Photograph Modern Living Room with Dog and Desert View]] — shared language: living, room
+- [[knowledge/wiki/images/Photograph Messy Living Room With Toys And Furniture 15c1ae83|Photograph Messy Living Room With Toys And Furniture]] — shared language: living, room
+- [[knowledge/wiki/images/Photograph Dimly Lit Modern Living Room with TV and Speakers 6fb318f4|Photograph Dimly Lit Modern Living Room with TV and Speakers]] — shared language: living, room
+- [[knowledge/wiki/images/Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet c2f9fc89|Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: living, room
 <!-- vault-crosslinks:end -->

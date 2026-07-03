@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1670s"
 source_kind: "date_bucket"
-count: "4"
+count: "6"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1670s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 4
+Files: 6
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/Bologna by Giovanni Battista Falda (c. 1670).jpg]]
 
 ![[media/strauh.al3.1/1600s/giovanni_battista_gaulli_the_triumph_of_the_name_of_jesus_ceiling_fresco_1674_1679.jpeg]]
 
@@ -20,6 +22,8 @@ Files: 4
 ![[media/strauh.al3.1/1600s/still_life_with_flowers_and_a_watch_by_abraham_mignon_c_1670.jpeg]]
 
 ![[media/strauh.al3.1/1600s/the_triumph_of_louis_xiv_over_the_heresy_by_charles_le_brun_c_1672.jpg]]
+
+![[media/strauh.al3.1/2000s/The Immaculate Conception by Bartolomé Esteban Murillo (1678).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

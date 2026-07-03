@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chara|Artist - chara]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chang shuhong 1940|Artist - chang shuhong 1940]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles burchfield 1933|Artist - charles burchfield 1933]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

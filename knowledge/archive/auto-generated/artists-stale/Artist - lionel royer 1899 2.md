@@ -22,6 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lionel royer 1899|Artist - lionel royer 1899]] — named in this note
 - [[knowledge/wiki/artists/Artist - lionel royer|Artist - lionel royer]] — named in this note
-- [[knowledge/wiki/images/vercingetorix jette ses armes aux pieds de cesar by lionel royer 1899 d459b80f|vercingetorix jette ses armes aux pieds de cesar by lionel royer 1899]] — shared language: lionel, royer, cesar
+- [[knowledge/wiki/images/vercingetorix jette ses armes aux pieds de cesar by lionel royer 1899 d459b80f|vercingetorix jette ses armes aux pieds de cesar by lionel royer 1899]] — shared language: lionel, royer, jette
+- [[knowledge/wiki/images/Picnic in Central Park by Cesar Santos (2013) 24e5e2f3|Picnic in Central Park by Cesar Santos (2013)]] — shared language: cesar
 - [[knowledge/wiki/images/jeune femme aux bouquets de roses by jean dupas 1922 5c98ff7b|jeune femme aux bouquets de roses by jean dupas 1922]] — shared language: aux
 <!-- vault-crosslinks:end -->

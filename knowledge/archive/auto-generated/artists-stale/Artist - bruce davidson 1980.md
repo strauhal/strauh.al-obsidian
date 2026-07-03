@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — named in this note
+- [[knowledge/wiki/images/bruce nauman suspended fortitude c 1968 3f7a9fd0|bruce nauman suspended fortitude c 1968]] — shared language: bruce
 - [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: davidson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert davidson 1977|Artist - robert davidson 1977]] — shared language: davidson
 - [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian oliver davidson 1890|Artist - julian oliver davidson 1890]] — shared language: davidson
-- [[knowledge/wiki/images/raven stealing the moon by robert davidson 1977 613032a4|raven stealing the moon by robert davidson 1977]] — shared language: davidson
 <!-- vault-crosslinks:end -->

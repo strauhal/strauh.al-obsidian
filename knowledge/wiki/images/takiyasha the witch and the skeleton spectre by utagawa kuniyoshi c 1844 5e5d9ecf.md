@@ -1,12 +1,12 @@
 ---
 title: "takiyasha the witch and the skeleton spectre by utagawa kuniyoshi c 1844"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg"
 source_relpath: "1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg"
 collection: "1800s"
 inferred_year: "1844"
 artist: "utagawa kuniyoshi"
-dimensions: "3235x1820"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - utagawa kuniyoshi]]
 
 Source: [[media/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/takiyasha_the_witch_and_the_skeleton_spectre_by_utagawa_kuniyoshi_c_1844.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1800
 - [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: kuniyoshi, utagawa
 - [[knowledge/wiki/artists/Artist - utagawa toyokuni i|Artist - utagawa toyokuni i]] — shared language: utagawa
 - [[knowledge/wiki/artists/Artist - utagawa kunisada|Artist - utagawa kunisada]] — shared language: utagawa
-- [[knowledge/wiki/images/macintosh witch by fenris 2019 4ee5c3c2|macintosh witch by fenris 2019]] — shared language: witch
+- [[knowledge/wiki/images/Illustration Abstract Purple and Black Skeleton Figure Dissolving 06bcd2cd|Illustration Abstract Purple and Black Skeleton Figure Dissolving]] — shared language: skeleton
 <!-- vault-crosslinks:end -->

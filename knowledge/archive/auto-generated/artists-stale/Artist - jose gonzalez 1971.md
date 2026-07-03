@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — named in this note
 - [[_archive/auto-generated/artists-noise/Artist - a fireplace by jose gonzalez|Artist - a fireplace by jose gonzalez]] — shared language: jose, gonzalez
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-fireplace-by-jose-gonzalez|Artist - a fireplace by jose gonzalez]] — shared language: jose, gonzalez
-- [[knowledge/wiki/images/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: jose, gonzalez
+- [[_archive/auto-generated/images-stale/ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez 0f5e2952|ink drawing of a woman in a long dress sitting by a fireplace by jose gonzalez]] — shared language: jose, gonzalez
 - [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez 2016|Artist - josan gonzalez 2016]] — shared language: gonzalez
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

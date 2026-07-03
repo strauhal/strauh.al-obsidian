@@ -23,6 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - gerry phibbs|Artist - gerry phibbs]] — shared language: gerry
 - [[knowledge/wiki/images/the hands of the artist by gerry phibbs 1986 e1c45446|the hands of the artist by gerry phibbs 1986]] — shared language: gerry
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
-- [[knowledge/wiki/images/illustration of three fantasy warriors fighting a large black feline beast by yutaka izubuchi 2964b25b|illustration of three fantasy warriors fighting a large black feline beast by yutaka izubuchi]] — shared language: beast
+- [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: great
+- [[knowledge/wiki/images/Illustration Three Fantasy Warriors Fighting a Large Black Feline Beast 9140a8d6|Illustration Three Fantasy Warriors Fighting a Large Black Feline Beast]] — shared language: beast
+- [[knowledge/wiki/images/Screenshot Screenshot of Magibook Ad Simplifying The Great Gatsby Text 7ab4b24e|Screenshot Screenshot of Magibook Ad Simplifying The Great Gatsby Text]] — shared language: great
 <!-- vault-crosslinks:end -->

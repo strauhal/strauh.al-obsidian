@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — shared language: beksinski, zdzisaw
+- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — shared language: beksinski, zdzisaw
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1980|Artist - zdzisaw beksinski 1980]] — shared language: beksinski, zdzisaw
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1984|Artist - zdzisaw beksinski 1984]] — shared language: beksinski, zdzisaw
 - [[knowledge/wiki/images/untitled by zdzisaw beksinski 1980 4494e1de|untitled by zdzisaw beksinski 1980]] — shared language: beksinski, zdzisaw

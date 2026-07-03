@@ -1,12 +1,12 @@
 ---
 title: "audrey hepburn new york by richard avedon 1953"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg"
 source_relpath: "1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg"
 collection: "1900s"
 inferred_year: "1953"
 artist: "richard avedon"
-dimensions: "3024x4032"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - richard avedon]]
 
 Source: [[media/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/audrey_hepburn_new_york_by_richard_avedon_1953.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

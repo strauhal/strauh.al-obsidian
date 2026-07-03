@@ -9,8 +9,8 @@ metadata: curated
 aliases: [intelligent investor]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/intelligent investor.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Intelligent Investor
@@ -43,9 +43,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
-- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
+- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — same category: politics society
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — same category: politics society
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - wade guyton|Artist - wade guyton]] — named in this note
-- [[knowledge/wiki/images/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: sculpture
-- [[knowledge/wiki/images/glass bottle sculpture installation with branch 6edf09c0|glass bottle sculpture installation with branch]] — shared language: sculpture
-- [[knowledge/wiki/images/egon schiele in his studio with sculpture 1102d053|egon schiele in his studio with sculpture]] — shared language: sculpture
-- [[knowledge/wiki/images/line drawing of a heavily armored mecha figure in action 8273f61e|line drawing of a heavily armored mecha figure in action]] — shared language: action
-- [[knowledge/wiki/images/glitch art digital image of a classical sculpture face af38e394|glitch art digital image of a classical sculpture face]] — shared language: sculpture
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wade guyton|Artist - wade guyton]] — named in this note
+- [[knowledge/wiki/images/Illustration Dynamic Sketch of Men and Bulls in Action bd65eb9a|Illustration Dynamic Sketch of Men and Bulls in Action]] — shared language: action
+- [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: action
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: sculpture
+- [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: sculpture
+- [[_archive/auto-generated/images-stale/line drawing of a heavily armored mecha figure in action 8273f61e|line drawing of a heavily armored mecha figure in action]] — shared language: action
 <!-- vault-crosslinks:end -->

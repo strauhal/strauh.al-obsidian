@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/john martin the great day of his wrath 1853 22ffb5d0|john martin the great day of his wrath 1853]] — shared language: day, great
 - [[knowledge/wiki/images/john martin the great day of his wrath 1853 2 d640377e|john martin the great day of his wrath 1853 2]] — shared language: day, great
 - [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: day
-- [[knowledge/wiki/artists/Artist - w percy day|Artist - w percy day]] — shared language: day
+- [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: great
 <!-- vault-crosslinks:end -->

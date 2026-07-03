@@ -1,12 +1,12 @@
 ---
 title: "zwon"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/zwon.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/zwon.jpg"
 source_relpath: "diary/zwon.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "1536x2048"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/zwon.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/zwon.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/zwon.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

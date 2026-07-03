@@ -1,0 +1,31 @@
+---
+title: "FQ1JOWSVcAAjqsq"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/FQ1JOWSVcAAjqsq.jpeg"
+source_relpath: "2023_downloadsfolder/FQ1JOWSVcAAjqsq.jpeg"
+collection: "2023_downloadsfolder"
+inferred_year: ""
+artist: ""
+dimensions: "1280x943"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2023_downloadsfolder"]
+---
+# FQ1JOWSVcAAjqsq
+
+![[media/strauh.al3.1/2023_downloadsfolder/FQ1JOWSVcAAjqsq.jpeg]]
+
+Collection: [[Collection - 2023 downloadsfolder]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2023_downloadsfolder/FQ1JOWSVcAAjqsq.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023_downloadsfolder/FQ1JOWSVcAAjqsq.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[_archive/auto-generated/images-stale/FQ1I6lsVIAEGJZF 0e27c472|FQ1I6lsVIAEGJZF]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FQq14dzUYAI6mf4 63bb635e|FQq14dzUYAI6mf4]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FPb2NL0XoAEpgJP e208ffcf|FPb2NL0XoAEpgJP]] — nearby note in the same source series
+<!-- vault-crosslinks:end -->

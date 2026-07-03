@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — named in this note
+- [[knowledge/wiki/artists/Artist - Bob Thompson|Artist - Bob Thompson]] — shared language: thompson
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: butler
-- [[knowledge/wiki/artists/Artist - bisa butler|Artist - bisa butler]] — shared language: butler
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bisa butler|Artist - bisa butler]] — shared language: butler
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bisa butler 2019|Artist - bisa butler 2019]] — shared language: butler
-- [[knowledge/wiki/images/the safety of the flock by bisa butler 2019 7bc2ae2d|the safety of the flock by bisa butler 2019]] — shared language: butler
-- [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: elizabeth
+- [[_archive/auto-generated/images-stale/the safety of the flock by bisa butler 2019 7bc2ae2d|the safety of the flock by bisa butler 2019]] — shared language: butler
 <!-- vault-crosslinks:end -->

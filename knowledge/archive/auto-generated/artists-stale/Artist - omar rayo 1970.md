@@ -21,7 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - omar rayo|Artist - omar rayo]] — named in this note
-- [[knowledge/wiki/artists/Artist - omar hassan|Artist - omar hassan]] — shared language: omar
+- [[knowledge/archive/auto-generated/artists-stale/Artist - omar hassan|Artist - omar hassan]] — shared language: omar
 - [[knowledge/archive/auto-generated/artists-stale/Artist - omar hassan 2021|Artist - omar hassan 2021]] — shared language: omar
-- [[knowledge/wiki/images/the last supper by omar hassan 2021 d1063f2f|the last supper by omar hassan 2021]] — shared language: omar
+- [[_archive/auto-generated/images-stale/the last supper by omar hassan 2021 d1063f2f|the last supper by omar hassan 2021]] — shared language: omar
+- [[knowledge/wiki/images/Illustration Illustration from The Rubaiyat of Omar Khayyam by Ronald Balfour 0788ffd1|Illustration Illustration from The Rubaiyat of Omar Khayyam by Ronald Balfour]] — shared language: omar
+- [[knowledge/wiki/artists/Artist - Ronald Balfour|Artist - Ronald Balfour]] — shared language: omar
 <!-- vault-crosslinks:end -->

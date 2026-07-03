@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: terrain
 - [[knowledge/wiki/artists/Artist - donna haraway|Artist - donna haraway]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - drought|Artist - drought]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - eadweard muybridge|Artist - eadweard muybridge]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - don harridge|Artist - don harridge]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

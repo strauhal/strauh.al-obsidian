@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nikolaos gyzis|Artist - nikolaos gyzis]] — named in this note
+- [[knowledge/wiki/images/Photograph Four Members of The Weavers Folk Group with Instruments 03331e7d|Photograph Four Members of The Weavers Folk Group with Instruments]] — shared language: weavers
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nikolai kalmakov 1910|Artist - nikolai kalmakov 1910]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nikolay krymov 1908|Artist - nikolay krymov 1908]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

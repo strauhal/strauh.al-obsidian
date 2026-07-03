@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken
 - [[knowledge/wiki/artists/Artist - ken waterstreet|Artist - ken waterstreet]] — shared language: ken
 - [[knowledge/wiki/images/the dragon by ken feingold 1987 999a5de0|the dragon by ken feingold 1987]] — shared language: ken
-- [[knowledge/wiki/artists/Artist - ken bastian|Artist - ken bastian]] — shared language: ken
 - [[knowledge/wiki/images/phenomena phenomena by paul jenkins 1967 c3cab692|phenomena phenomena by paul jenkins 1967]] — shared language: jenkins
 - [[knowledge/wiki/images/phenomena near the source by paul jenkins 1960 f5cab13b|phenomena near the source by paul jenkins 1960]] — shared language: jenkins
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: jenkins
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: zhao
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: mengfu, zhao, shuicun
 - [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
 - [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: zhao
-- [[knowledge/wiki/collections/Collection - 1200s|Collection - 1200s]] — shared language: zhao
 <!-- vault-crosslinks:end -->

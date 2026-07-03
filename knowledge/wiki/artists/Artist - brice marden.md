@@ -26,9 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/line drawing diagram of nine architectural crown molding styles 437eb0d8|line drawing diagram of nine architectural crown molding styles]] — shared language: nine
-- [[knowledge/wiki/images/grid of nine black and white drawings of a man in profile wearing glasses 44d8916f|grid of nine black and white drawings of a man in profile wearing glasses]] — shared language: nine
-- [[knowledge/wiki/images/studies in composition after goya 1899 59ba8b76|studies in composition after goya 1899]] — shared language: studies
-- [[knowledge/wiki/images/nine framed black and white prints depicting draped fabric folds in a grid installation 10472a72|nine framed black and white prints depicting draped fabric folds in a grid installation]] — shared language: nine
-- [[knowledge/wiki/images/black and white ink drawing of nine urban and suburban scenes in a grid format 701f360c|black and white ink drawing of nine urban and suburban scenes in a grid format]] — shared language: nine
+- [[knowledge/wiki/images/The Muses by Victor Morange (1855) aecfbbb8|The Muses by Victor Morange (1855)]] — shared language: muses
+- [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies
+- [[knowledge/wiki/images/Illustration Pixel Art Collage of Nine Album Covers and Other Images 4c7ddd67|Illustration Pixel Art Collage of Nine Album Covers and Other Images]] — shared language: nine
+- [[knowledge/wiki/images/Illustration Grid of Nine Black and White Drawings of a Man's Profile 036c08c6|Illustration Grid of Nine Black and White Drawings of a Man's Profile]] — shared language: nine
+- [[knowledge/wiki/images/Photograph Haesley Nine Bridges Golf Club House 9808fc0f|Photograph Haesley Nine Bridges Golf Club House]] — shared language: nine
+- [[knowledge/wiki/images/Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes 88cef3ee|Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes]] — shared language: nine
 <!-- vault-crosslinks:end -->

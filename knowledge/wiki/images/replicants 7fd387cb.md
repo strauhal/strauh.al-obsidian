@@ -1,12 +1,12 @@
 ---
 title: "replicants"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/replicants.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/replicants.png"
 source_relpath: "wallpapers/replicants.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2560x1065"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/replicants.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/replicants.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/replicants.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

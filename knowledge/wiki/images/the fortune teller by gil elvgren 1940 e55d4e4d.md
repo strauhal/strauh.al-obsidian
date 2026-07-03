@@ -1,12 +1,12 @@
 ---
 title: "the fortune teller by gil elvgren 1940"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_fortune_teller_by_gil_elvgren_1940.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_fortune_teller_by_gil_elvgren_1940.jpg"
 source_relpath: "1900s/the_fortune_teller_by_gil_elvgren_1940.jpg"
 collection: "1900s"
 inferred_year: "1940"
 artist: "gil elvgren"
-dimensions: "921x1046"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - gil elvgren]]
 
 Source: [[media/strauh.al3.1/1900s/the_fortune_teller_by_gil_elvgren_1940.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_fortune_teller_by_gil_elvgren_1940.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_fortune_teller_by_gil_elvgren_1940.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

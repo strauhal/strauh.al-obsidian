@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[Semiotext(e) Foreign Agents] Gilles Deleuze - Two Regimes of Madness_ Texts and Interviews 1975-1995 (2006, Semiotext(e)) - libgen.li.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Two Regimes of Madness Texts and Interviews 1975-1995)

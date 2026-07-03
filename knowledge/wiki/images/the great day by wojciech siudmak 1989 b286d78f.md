@@ -1,12 +1,12 @@
 ---
 title: "the great day by wojciech siudmak 1989"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_great_day_by_wojciech_siudmak_1989.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_great_day_by_wojciech_siudmak_1989.jpg"
 source_relpath: "1900s/the_great_day_by_wojciech_siudmak_1989.jpg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "wojciech siudmak"
-dimensions: "3000x1654"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - wojciech siudmak]]
 
 Source: [[media/strauh.al3.1/1900s/the_great_day_by_wojciech_siudmak_1989.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_great_day_by_wojciech_siudmak_1989.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_great_day_by_wojciech_siudmak_1989.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

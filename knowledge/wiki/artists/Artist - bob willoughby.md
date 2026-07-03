@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/oil painting of a girl with green eyes and bob hair against a red background c078053f|oil painting of a girl with green eyes and bob hair against a red background]] — shared language: bob
+- [[knowledge/wiki/artists/Artist - Bob Thompson|Artist - Bob Thompson]] — shared language: bob
+- [[knowledge/wiki/images/Illustration Girl with Green Eyes and Bob Hair Against Red Background 5b263e9a|Illustration Girl with Green Eyes and Bob Hair Against Red Background]] — shared language: bob
+- [[knowledge/wiki/images/Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson 766f6715|Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson]] — shared language: bob
 - [[knowledge/wiki/images/bob dylan poster by milton glaser 1967 536b34b1|bob dylan poster by milton glaser 1967]] — shared language: bob
 - [[knowledge/wiki/artists/Artist - massimo vignelli and bob noorda|Artist - massimo vignelli and bob noorda]] — shared language: bob
 - [[knowledge/wiki/images/bob dylan at breakfast paris by barry feinstein 1966 7ac1b356|bob dylan at breakfast paris by barry feinstein 1966]] — shared language: bob
-- [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — shared language: angeles, los
-- [[knowledge/wiki/images/diagram illustrating alice and bob s nested models of each other s minds featuring two profile outlines and concentric blue and purple circles 50cb8f75|diagram illustrating alice and bob s nested models of each other s minds featuring two profile outlines and concentric blue and purple circles]] — shared language: bob
 <!-- vault-crosslinks:end -->

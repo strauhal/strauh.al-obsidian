@@ -160,11 +160,11 @@ Files: 92
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
-- [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — shared language: edgar, degas, ballet
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: hasui, kawase, rain
 - [[knowledge/wiki/images/two dancers by edgar degas c 1890 1895 9a3d0914|two dancers by edgar degas c 1890 1895]] — shared language: edgar, degas, dancers
 - [[knowledge/wiki/images/two dancers by edgar degas c 1898 b3004a2b|two dancers by edgar degas c 1898]] — shared language: edgar, degas, dancers
+- [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — shared language: edgar, ballet, degas
+- [[knowledge/wiki/pages/artists degas|artists degas]] — shared language: degas, edgar, artists
+- [[knowledge/wiki/images/the ballet class by edgar degas c 187880 6eb50e26|the ballet class by edgar degas c 187880]] — shared language: edgar, ballet, degas
 - [[knowledge/wiki/images/three dancers by edgar degas c 1898 e27b7efe|three dancers by edgar degas c 1898]] — shared language: edgar, degas, dancers
-- [[knowledge/wiki/images/the ballet class by edgar degas c 187880 6eb50e26|the ballet class by edgar degas c 187880]] — shared language: edgar, degas, ballet
-- [[knowledge/wiki/images/four dancers by edgar degas ca 1899 2a78180e|four dancers by edgar degas ca 1899]] — shared language: edgar, degas, dancers
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - agnes packard|Artist - agnes packard]] — named in this note
-- [[knowledge/wiki/images/hewlett packard spaceball 3d input device 1b5815e9|hewlett packard spaceball 3d input device]] — shared language: packard
+- [[knowledge/wiki/artists/Artist - Packard|Artist - Packard]] — shared language: packard
+- [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: agnes
+- [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: agnes
+- [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: packard
 - [[knowledge/wiki/artists/Artist - emmy lou packard|Artist - emmy lou packard]] — shared language: packard, strawberry
-- [[knowledge/archive/auto-generated/artists-stale/Artist - emmy lou packard 1945|Artist - emmy lou packard 1945]] — shared language: packard, strawberry
-- [[knowledge/wiki/artists/Artist - agnes denes|Artist - agnes denes]] — shared language: agnes
-- [[knowledge/archive/auto-generated/artists-stale/Artist - agnes denes 1982|Artist - agnes denes 1982]] — shared language: agnes
 <!-- vault-crosslinks:end -->

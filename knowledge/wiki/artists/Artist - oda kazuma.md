@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: oda
+- [[knowledge/wiki/artists/Artist - Eiichiro Oda|Artist - Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: oda
-- [[knowledge/wiki/artists/Artist - trees|Artist - trees]] — shared language: trees
+- [[knowledge/wiki/images/Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda 481af4d9|Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: moonlight
 - [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: moonlight
-- [[knowledge/wiki/images/jens juel frederiksborg castle by moonlight c 1799 68aa317d|jens juel frederiksborg castle by moonlight c 1799]] — shared language: moonlight
 <!-- vault-crosslinks:end -->

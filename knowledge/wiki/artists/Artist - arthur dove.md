@@ -24,9 +24,9 @@ Images attributed by filename: 2
 ## Discovered Connections
 
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: arthur
+- [[knowledge/wiki/images/Illustration Line Drawing of Figure with Staff and Dove 81d9af6d|Illustration Line Drawing of Figure with Staff and Dove]] — shared language: dove
 - [[knowledge/wiki/artists/Artist - arthur rothstein|Artist - arthur rothstein]] — shared language: arthur
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: arthur
-- [[knowledge/wiki/images/the bat and the dove by walton ford 2009 d87e318e|the bat and the dove by walton ford 2009]] — shared language: dove
+- [[knowledge/wiki/images/Illustration White Dove and Bat Flying Against Dark Background 74eaf8c4|Illustration White Dove and Bat Flying Against Dark Background]] — shared language: dove
 - [[knowledge/wiki/images/arthur streeton pastoral 1889 1043429e|arthur streeton pastoral 1889]] — shared language: arthur
-- [[knowledge/wiki/images/oil painting of the virgin mary in the clouds with cherubs and a dove a516cfbc|oil painting of the virgin mary in the clouds with cherubs and a dove]] — shared language: dove
 <!-- vault-crosslinks:end -->

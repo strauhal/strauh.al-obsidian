@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - adele morse|Artist - adele morse]] — shared language: morse
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
-- [[knowledge/wiki/artists/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
-- [[knowledge/wiki/images/the stoned fox by adele morse 2012 c5cc261b|the stoned fox by adele morse 2012]] — shared language: morse
+- [[knowledge/wiki/images/The Stoned Fox by Adele Morse (2012) 8ba0c816|The Stoned Fox by Adele Morse (2012)]] — shared language: morse
 - [[knowledge/wiki/artists/Artist - samuel worcester rowse|Artist - samuel worcester rowse]] — shared language: samuel
-- [[knowledge/wiki/images/lea seydoux by samuel m price 2023 a1468bc3|lea seydoux by samuel m price 2023]] — shared language: samuel
+- [[knowledge/wiki/images/head of a young woman by samuel worcester rowse 1874 7b7fe886|head of a young woman by samuel worcester rowse 1874]] — shared language: samuel
+- [[knowledge/wiki/images/This Old Bones Needs Rest by Samuel G. Gonzalez (2021) 34dc86ba|This Old Bones Needs Rest by Samuel G. Gonzalez (2021)]] — shared language: samuel
+- [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: gallery
+- [[knowledge/wiki/images/Photograph Art Installation Of Red Bricks In A White Gallery d540bc7f|Photograph Art Installation Of Red Bricks In A White Gallery]] — shared language: gallery
 <!-- vault-crosslinks:end -->

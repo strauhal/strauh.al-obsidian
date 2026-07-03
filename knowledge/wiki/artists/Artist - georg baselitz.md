@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — shared language: georg
-- [[knowledge/wiki/images/black and white image of georg wilhelm friedrich hegel portrait with humorous text 86b4c97d|black and white image of georg wilhelm friedrich hegel portrait with humorous text]] — shared language: georg
+- [[knowledge/wiki/images/Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel 3cf42ba3|Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel]] — shared language: georg
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg
-- [[knowledge/wiki/images/black and white photograph of an older man seated with both hands raised 27023b77|black and white photograph of an older man seated with both hands raised]] — shared language: raised, man
+- [[knowledge/wiki/images/Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775) dbead3f8|Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775)]] — shared language: georg
 - [[knowledge/wiki/culture/reading-phenomenology-of-spirit|Reading - Phenomenology of Spirit]] — shared language: georg
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
+- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
 <!-- vault-crosslinks:end -->

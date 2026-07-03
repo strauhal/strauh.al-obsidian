@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — shared language: dean
 - [[knowledge/wiki/images/dean blunt 469c96bf|dean blunt]] — shared language: dean
-- [[knowledge/wiki/images/asia dragon by roger dean 2003 9493499d|asia dragon by roger dean 2003]] — shared language: dean
+- [[knowledge/wiki/images/Photograph Black and White Portrait of James Dean Smoking a Cigarette 5e796a09|Photograph Black and White Portrait of James Dean Smoking a Cigarette]] — shared language: dean
 - [[knowledge/wiki/images/wanes on the dance by roger dean 1973 21c904ae|wanes on the dance by roger dean 1973]] — shared language: dean
-- [[knowledge/wiki/images/dean blunt soul on fire 1537369258 jpg 6ccf4ad9|dean blunt soul on fire 1537369258 jpg]] — shared language: dean
-- [[knowledge/wiki/images/dean blunt soul on fire silhouette d699df0e|dean blunt soul on fire silhouette]] — shared language: dean
+- [[knowledge/wiki/images/Soul on Fire by Dean Blunt (2018) bdbd3ac8|Soul on Fire by Dean Blunt (2018)]] — shared language: dean
+- [[knowledge/wiki/images/Asia Dragon by Roger Dean (2003) d2daa557|Asia Dragon by Roger Dean (2003)]] — shared language: dean
 <!-- vault-crosslinks:end -->

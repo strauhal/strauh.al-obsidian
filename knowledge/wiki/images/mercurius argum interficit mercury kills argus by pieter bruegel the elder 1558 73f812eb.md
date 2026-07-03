@@ -1,12 +1,12 @@
 ---
 title: "mercurius argum interficit mercury kills argus by pieter bruegel the elder 1558"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg"
 source_relpath: "1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg"
 collection: "1500s"
 inferred_year: "1558"
 artist: "pieter bruegel the elder"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - pieter bruegel the elder]]
 
 Source: [[media/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

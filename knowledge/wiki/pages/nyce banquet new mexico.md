@@ -1,10 +1,10 @@
 ---
 title: "nyce banquet new mexico"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/nyce/banquet/new_mexico.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/new_mexico.html"
 source_relpath: "nyce/banquet/new_mexico.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet new mexico
@@ -39,5 +39,5 @@ strauh.al/nyce/banquet/new_mexico
 - [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, portraits
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
 - [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
-- [[knowledge/wiki/pages/donate|donate]] — shared language: referenced, preserved, none
+- [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: new
 <!-- vault-crosslinks:end -->

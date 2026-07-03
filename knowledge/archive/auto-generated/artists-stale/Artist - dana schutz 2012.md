@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dana schutz 2018|Artist - dana schutz 2018]] — named in this note
 - [[knowledge/wiki/images/the visible world by dana schutz 2018 5497000d|the visible world by dana schutz 2018]] — shared language: schutz, dana
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles dana gibson 1903|Artist - charles dana gibson 1903]] — shared language: dana
+- [[knowledge/wiki/images/Dana d by Auguste Rodin (1890) 962dc0e8|Dana d by Auguste Rodin (1890)]] — shared language: dana
 - [[knowledge/wiki/artists/Artist - charles dana gibson|Artist - charles dana gibson]] — shared language: dana
-- [[knowledge/wiki/images/at a comedy by charles dana gibson 1903 9b1d5e87|at a comedy by charles dana gibson 1903]] — shared language: dana
 <!-- vault-crosslinks:end -->

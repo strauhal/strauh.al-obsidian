@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sean adair|Artist - sean adair]] — named in this note
-- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair|Artist - Sean Adair]] — named in this note
+- [[knowledge/wiki/images/Photograph Explosion at World Trade Center South Tower, September 11, 2001 by Sean Adair 106129fb|Photograph Explosion at World Trade Center South Tower, September 11, 2001 by Sean Adair]] — shared language: adair, sean, september
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — shared language: sean
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — shared language: sean
-- [[knowledge/wiki/images/drift by sean henry 2023 6548b692|drift by sean henry 2023]] — shared language: sean
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry|Artist - sean henry]] — shared language: sean
+- [[_archive/auto-generated/images-stale/drift by sean henry 2023 6548b692|drift by sean henry 2023]] — shared language: sean
 <!-- vault-crosslinks:end -->

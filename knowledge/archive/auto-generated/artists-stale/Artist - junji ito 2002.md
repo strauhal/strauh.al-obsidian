@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1987|Artist - junji ito 1987]] — shared language: junji, ito
-- [[knowledge/wiki/artists/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito
+- [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 19872000|Artist - junji ito 19872000]] — shared language: junji, ito
 - [[knowledge/wiki/images/the long dream by junji ito 1997 9be646fc|the long dream by junji ito 1997]] — shared language: junji, ito, long
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1998 1999|Artist - junji ito 1998 1999]] — shared language: junji, ito
 - [[knowledge/archive/auto-generated/artists-stale/Artist - junji ito 1988|Artist - junji ito 1988]] — shared language: junji, ito

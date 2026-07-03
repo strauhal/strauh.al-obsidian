@@ -25,18 +25,6 @@ come to him in dreams" — to argue that "elegance is a virtue."
 
 ## Sources
 - [[diary]]
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, really
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, you're, can't
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, diary
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: quotes, try
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: quotes, though, patron
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -45,3 +33,16 @@ come to him in dreams" — to argue that "elegance is a virtue."
 
 > "What's reality? I don't know. When my bird was looking at my computer monitor I thought "That bird has no idea what he's looking at." And yet what does the bird do? Does he panic? No, he can't really panic, he just does the best he can. Is he able to live in a world where he's so ignorant? Well, he doesn't really have a choice. The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, I can figure this out. Maybe you have some bird ideas. Maybe that's the best you can do. Terry Davis
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, really
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, you're, can't
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, you're, that's
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, monitor, maybe
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, diary
+<!-- vault-crosslinks:end -->

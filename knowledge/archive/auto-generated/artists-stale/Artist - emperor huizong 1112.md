@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - emperor huizong|Artist - emperor huizong]] — named in this note
 - [[knowledge/wiki/images/listening to the qin ting qin tu by emperor huizong c 1110 edd35d92|listening to the qin ting qin tu by emperor huizong c 1110]] — shared language: huizong, emperor
 - [[knowledge/wiki/collections/Collection - 1100s|Collection - 1100s]] — shared language: huizong, emperor, section
-- [[knowledge/wiki/artists/Artist - emperor huizong northern song dynasty|Artist - emperor huizong northern song dynasty]] — shared language: huizong, emperor
-- [[knowledge/wiki/images/lady guoguo s spring outing by emperor huizong northern song dynasty 4b942587|lady guoguo s spring outing by emperor huizong northern song dynasty]] — shared language: huizong, emperor
-- [[knowledge/wiki/images/jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807 56e822c8|jacqueslouis david the consecration of the emperor napoleon and the coronation of empress josphine 18051807]] — shared language: emperor
+- [[knowledge/archive/auto-generated/artists-stale/Artist - emperor huizong northern song dynasty|Artist - emperor huizong northern song dynasty]] — shared language: huizong, emperor
+- [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: huizong, emperor
+- [[_archive/auto-generated/images-stale/lady guoguo s spring outing by emperor huizong northern song dynasty 4b942587|lady guoguo s spring outing by emperor huizong northern song dynasty]] — shared language: huizong, emperor
 <!-- vault-crosslinks:end -->

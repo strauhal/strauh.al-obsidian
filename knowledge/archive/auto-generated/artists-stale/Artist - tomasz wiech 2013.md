@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tomasz wiech|Artist - tomasz wiech]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz wiech|Artist - tomasz wiech]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz alen kopera 2008|Artist - tomasz alen kopera 2008]] — shared language: tomasz
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz alen kopera 2018|Artist - tomasz alen kopera 2018]] — shared language: tomasz
-- [[knowledge/wiki/artists/Artist - tomasz alen kopera|Artist - tomasz alen kopera]] — shared language: tomasz
-- [[knowledge/wiki/images/the dinner by tomasz alen kopera 2008 b01152f9|the dinner by tomasz alen kopera 2008]] — shared language: tomasz
-- [[knowledge/wiki/images/the city of the clouds by tomasz alen kopera 2018 af012d5e|the city of the clouds by tomasz alen kopera 2018]] — shared language: tomasz
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz alen kopera|Artist - tomasz alen kopera]] — shared language: tomasz
+- [[_archive/auto-generated/images-stale/the dinner by tomasz alen kopera 2008 b01152f9|the dinner by tomasz alen kopera 2008]] — shared language: tomasz
+- [[_archive/auto-generated/images-stale/the city of the clouds by tomasz alen kopera 2018 af012d5e|the city of the clouds by tomasz alen kopera 2018]] — shared language: tomasz
 <!-- vault-crosslinks:end -->

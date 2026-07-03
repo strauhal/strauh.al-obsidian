@@ -33,9 +33,9 @@ hollowed out the audience for sustained creative work.
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: label, record, economy
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: economy, attention, feed
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative, attention, summary
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: diary, summary, sources
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: got, diary, summary
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative, attention, summary
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: economy, attention, diary
-- [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: diary, summary, sources
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: diary, summary, sources
 <!-- vault-crosslinks:end -->

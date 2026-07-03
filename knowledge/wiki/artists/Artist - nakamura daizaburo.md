@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794 b41d2741|the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794]] — shared language: nakamura
-- [[knowledge/wiki/images/pink illustration of three women smoking 3494a2cf|pink illustration of three women smoking]] — shared language: women
-- [[knowledge/wiki/images/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: women
-- [[knowledge/wiki/images/painting of women on a balcony above a crowd 749aeaea|painting of women on a balcony above a crowd]] — shared language: women
+- [[knowledge/wiki/images/Two Women by David Park (1958) 97230ea6|Two Women by David Park (1958)]] — shared language: women
+- [[knowledge/wiki/images/Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background b936b744|Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background]] — shared language: women
+- [[knowledge/wiki/images/Illustration Two Women Seated Under Bamboo and Rock d68096f0|Illustration Two Women Seated Under Bamboo and Rock]] — shared language: women
 - [[knowledge/wiki/images/two women by willem de kooning 1954 f413895c|two women by willem de kooning 1954]] — shared language: women
-- [[knowledge/wiki/images/oil painting of women reclining in a lush orientalist conservatory 07dd1565|oil painting of women reclining in a lush orientalist conservatory]] — shared language: women
+- [[knowledge/wiki/images/two women seated reading by edgar degas c 1878 30164653|two women seated reading by edgar degas c 1878]] — shared language: women
 <!-- vault-crosslinks:end -->

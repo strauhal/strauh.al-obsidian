@@ -40,21 +40,9 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (6).** [[joseph beuys blackboard lecture photo c127ddad|joseph beuys blackboard lecture photo]] · [[Joseph Beuys deer blackboard drawing 0899b01f|Joseph Beuys deer blackboard drawing]] · [[black and white photograph of three people seated at a table in front of a chalkboard b269e3a2|black and white photograph of three people seated at a table in front of a chalkboard]] · [[four panel digital drawing tutorial of a stylized male head 4f23d939|four panel digital drawing tutorial of a stylized male head]] · [[joseph beuys drawing on blackboard b1eb30f6|joseph beuys drawing on blackboard]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
+**Images (6).** [[Diagram Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys ac614cfb|Diagram Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys]] · [[Diagram How To Draw Text In Any Shape Tutorial 3eb41749|Diagram How To Draw Text In Any Shape Tutorial]] · [[Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head 5ace7c9a|Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head]] · [[Photograph Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys 54a413d9|Photograph Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys]] · [[The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/piano|piano]] — named in this note
-- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-- [[knowledge/wiki/images/Beuys cdb67c14|Beuys]] — named in this note
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, likely, school
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: unnecessary, render, authorship
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -67,3 +55,16 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 >
 > A FATHER'S IMPACT Education and neuroscience researchers report a father's engagement impacts a child's social and emotional competencies such as personal awareness, self-esteem, social skills, relationship building, decision-making, self-control and good behavior. A child's achievement in school is positively impacted when fathers take an active role in school-related events. Fathers who attend school meetings, participate in parent-teacher conferences, show support by attending school events or serve as school volunteers positively impact their child's academic achievement. Where in-school behavior is a concern, fathers can also effectively advocate for individualized discipline procedures and alternatives instead of accepting blanket punitive policies. However, when fathers are absent it produces disturbing outcomes. Fatherless children are: twice as likely to drop out of school, twice as likely to go to jail, and four times more likely to need help with emotional or behavioral problems. Children who have a poor relationship with their father who lives in the household are 68% more likely to smoke, drink, or use drugs compared to teens living in emotionally healthy two-parent families. Adolescent boys living in single-parent families experience a higher risk of delinquency as well. Those raised without a father in their lives are twice as likely to end up in jail. Children whose fathers are not present are twice as likely to repeat a grade. 71% percent of all high school dropouts were raised in fatherless homes (nine times the national average). 85% of children who exhibit behavioral disorders reside in fatherless homes. 63% of youth suicide are from fatherless homes. 70% of juveniles in state-operated institutions are from father-absent homes. The balance between a mother's focus on nurturing and a father's emphasis on achievement works in tandem to foster the healthy growth and development of children. Whether a biological adoptive or stepfather, children whose fathers have been in their lives since infancy are more prone to be independent and emotionally secure. They are less likely to suffer from depression and are open to experiences outside of their comfort zone. Fathers who spend quality time at play with their children help reduce the incidence of behavioral problems among their sons and influence a healthy self-esteem among their daughters. Fathers' personal time with children enables young boys and girls to better manage their emotions and regulate their behavior. Fathers have significant influence over the development and health of their children. A child's identity is also enhanced, which bodes well for their attaining academic and career success. Adolescents whose fathers were involved during high school years were more likely to graduate from college.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Photograph Joseph Beuys Lecturing with Chalkboard Diagrams 1f5c3b6f|Photograph Joseph Beuys Lecturing with Chalkboard Diagrams]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, likely, school
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: knot, wisdom, quotes
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: unnecessary, render, authorship
+<!-- vault-crosslinks:end -->

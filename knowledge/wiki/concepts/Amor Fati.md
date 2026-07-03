@@ -39,23 +39,11 @@ reignited" and he reframes the despair as what gave the year its meaning.
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (2).** [[vanitas by david kassan 2019 cdd41f1d|vanitas by david kassan 2019]] · [[vanitas still life with skull violin and books 5602dc95|vanitas still life with skull violin and books]]
+**Images (4).** [[Nietzsche and the Horse by J zef Che mo ski (1898) 8a38c72c|Nietzsche and the Horse by J zef Che mo ski (1898)]] · [[Portrait of Friedrich Nietzsche by Edvard Munch (1906) 77c942e2|Portrait of Friedrich Nietzsche by Edvard Munch (1906)]] · [[Portrait of Friedrich Nietzsche by Edvard Munch (1906) (2) d9a21ce2|Portrait of Friedrich Nietzsche by Edvard Munch (1906) (2)]] · [[Vanitas Still Life by Jan Davidsz. de Heem (c. 1628) 44c77ac8|Vanitas Still Life by Jan Davidsz. de Heem (c. 1628)]]
 
 **Books (6).** [[friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] · [[friedrich-nietzsche-basic-writings-of-nietzsche|Basic Writings of Nietzsche]] · [[cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] · [[friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] · [[friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] · [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — named in this note
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -114,3 +102,16 @@ reignited" and he reframes the despair as what gave the year its meaning.
 
 *…and 13 more on [[knowledge base quotes]].*
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+<!-- vault-crosslinks:end -->

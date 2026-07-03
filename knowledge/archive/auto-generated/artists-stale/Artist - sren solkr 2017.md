@@ -20,8 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - sren solkr|Artist - sren solkr]] — named in this note
-- [[knowledge/wiki/images/black and white photograph of a starling murmuration forming abstract shapes by sren solkr 9c35e060|black and white photograph of a starling murmuration forming abstract shapes by sren solkr]] — shared language: sren, solkr, murmuration
-- [[knowledge/wiki/images/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: murmuration
-- [[knowledge/wiki/images/sepia photograph of a starling murmuration forming a wave shape 6d03746e|sepia photograph of a starling murmuration forming a wave shape]] — shared language: murmuration
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sren solkr|Artist - sren solkr]] — named in this note
+- [[_archive/auto-generated/images-stale/black and white photograph of a starling murmuration forming abstract shapes by sren solkr 9c35e060|black and white photograph of a starling murmuration forming abstract shapes by sren solkr]] — shared language: sren, solkr, murmuration
+- [[knowledge/wiki/images/Photograph Murmuration of Starlings Over Water Forming Abstract Shape bb2fd6e3|Photograph Murmuration of Starlings Over Water Forming Abstract Shape]] — shared language: murmuration
+- [[knowledge/wiki/images/Photograph Black and White Starling Murmuration Forming Abstract Shapes f147f24d|Photograph Black and White Starling Murmuration Forming Abstract Shapes]] — shared language: murmuration
+- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: murmuration
+- [[_archive/auto-generated/images-stale/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: murmuration
 <!-- vault-crosslinks:end -->

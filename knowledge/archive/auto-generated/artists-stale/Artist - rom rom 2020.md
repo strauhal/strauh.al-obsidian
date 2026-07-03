@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - rom rom|Artist - rom rom]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 2003|Artist - roger dean 2003]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ron galella 1973|Artist - ron galella 1973]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - rom rom|Artist - rom rom]] — named in this note
+- [[knowledge/wiki/images/Autobahn by Rom Rom (2020) 9e09bd41|Autobahn by Rom Rom (2020)]] — shared language: rom
+- [[knowledge/wiki/collections/Collection - 2000s|Collection - 2000s]] — shared language: rom
 <!-- vault-crosslinks:end -->

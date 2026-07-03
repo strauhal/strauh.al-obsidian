@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean dupas 1927|Artist - jean dupas 1927]] — named in this note
 - [[knowledge/wiki/images/le plongeur by jean dupas 1927 8c43c1b5|le plongeur by jean dupas 1927]] — shared language: dupas, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: jean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1979|Artist - jean giraud 1979]] — shared language: jean
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jean giraud 1981|Artist - jean giraud 1981]] — shared language: jean
 <!-- vault-crosslinks:end -->

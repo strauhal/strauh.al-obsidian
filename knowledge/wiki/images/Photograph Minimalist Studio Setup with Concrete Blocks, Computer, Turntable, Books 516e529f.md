@@ -1,0 +1,33 @@
+---
+title: "Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books.jpeg"
+source_relpath: "2000s/Photograph - Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books
+
+![[media/strauh.al3.1/2000s/Photograph - Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Photograph - Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
+- [[knowledge/wiki/images/Photograph Music Studio Setup with Mountain View 5820d20b|Photograph Music Studio Setup with Mountain View]] — shared language: setup, studio
+- [[knowledge/wiki/images/Photograph Professional Music Studio Setup with Instruments and Dog 39427ff8|Photograph Professional Music Studio Setup with Instruments and Dog]] — shared language: setup, studio
+- [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Modern Furniture and Plant e836ee66|Photograph Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: minimalist, concrete
+<!-- vault-crosslinks:end -->

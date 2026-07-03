@@ -1,10 +1,10 @@
 ---
 title: "gif collection"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/gif_collection.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/gif_collection.html"
 source_relpath: "gif_collection.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # gif collection
@@ -382,12 +382,12 @@ strauh.al/gif_collection
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/gif image 2 gif b2103b40|gif image 2 gif]] — named in this note
-- [[knowledge/wiki/images/gif image 3 gif 72d9592b|gif image 3 gif]] — named in this note
-- [[knowledge/wiki/images/gif image gif 9178d3b3|gif image gif]] — named in this note
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — named in this note
 - [[knowledge/wiki/images/tumblr 12b9e7b8597d5107d99b019a75876787 70002bfc 540 cab77089|tumblr 12b9e7b8597d5107d99b019a75876787 70002bfc 540]] — named in this note
 - [[knowledge/wiki/images/tumblr 1e363c274caa3c06e1f5698f82b1896e 490e5de2 400 e0dc0b76|tumblr 1e363c274caa3c06e1f5698f82b1896e 490e5de2 400]] — named in this note
 - [[knowledge/wiki/images/tumblr 24b182e962ab0df5f3900551bca963cf 227dc3d6 250 52abb110|tumblr 24b182e962ab0df5f3900551bca963cf 227dc3d6 250]] — named in this note
 - [[knowledge/wiki/images/tumblr 56b4b96b06cdcef5419129d760d84c86 2628ad61 100 1bf73cce|tumblr 56b4b96b06cdcef5419129d760d84c86 2628ad61 100]] — named in this note
+- [[knowledge/wiki/images/tumblr 821c89e0c48aba9a26324af35e09cb59 27af2a55 75 1dc3f15a|tumblr 821c89e0c48aba9a26324af35e09cb59 27af2a55 75]] — named in this note
+- [[knowledge/wiki/images/tumblr a50b01630d1f71a9169d9995a5feff9b 44364dc0 540 2ef2cde5|tumblr a50b01630d1f71a9169d9995a5feff9b 44364dc0 540]] — named in this note
+- [[knowledge/wiki/images/tumblr ac232a06b9eef8366e3a25b81b6e1bb4 89e2e77d 640 1cd6fccb|tumblr ac232a06b9eef8366e3a25b81b6e1bb4 89e2e77d 640]] — named in this note
 <!-- vault-crosslinks:end -->

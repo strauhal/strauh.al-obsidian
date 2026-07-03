@@ -8,8 +8,8 @@ status: available-local
 metadata: curated
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Camus Albert - The Stranger  - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Stranger
@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same author: albert camus
 - [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — same author: albert camus
-- [[knowledge/wiki/books/albert-camus-exile-and-the-kingdom|Exile and the Kingdom]] — same author: albert camus
 - [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same author: albert camus
+- [[knowledge/wiki/books/albert-camus-exile-and-the-kingdom|Exile and the Kingdom]] — same author: albert camus
 - [[knowledge/wiki/books/albert-camus-the-myth-of-sisyphus-and-other-essays|The Myth of Sisyphus And Other Essays]] — same author: albert camus
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature

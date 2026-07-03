@@ -1,0 +1,33 @@
+---
+title: "Illustration Impasto Painting of Red and Orange Trees in a Landscape"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Impasto Painting of Red and Orange Trees in a Landscape.jpeg"
+source_relpath: "2000s/Illustration - Impasto Painting of Red and Orange Trees in a Landscape.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Illustration Impasto Painting of Red and Orange Trees in a Landscape
+
+![[media/strauh.al3.1/2000s/Illustration - Impasto Painting of Red and Orange Trees in a Landscape.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/Illustration - Impasto Painting of Red and Orange Trees in a Landscape.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Impasto Painting of Red and Orange Trees in a Landscape.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Impasto Oil Painting of a Southwestern Mesa Landscape b14a539f|Illustration Impasto Oil Painting of a Southwestern Mesa Landscape]] — shared language: impasto, landscape, landscape.jpeg
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
+- [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: impasto
+- [[knowledge/wiki/images/Illustration Black and White Print of Buildings and Dense Trees in Landscape 3e0dbe4a|Illustration Black and White Print of Buildings and Dense Trees in Landscape]] — shared language: trees, landscape, landscape.jpeg
+- [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: trees, landscape
+<!-- vault-crosslinks:end -->

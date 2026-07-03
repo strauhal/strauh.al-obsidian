@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: lipking, jeremy, letter
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: lipking, jeremy, letter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: lipking, jeremy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2014|Artist - jeremy lipking 2014]] — shared language: lipking, jeremy
-- [[knowledge/wiki/images/the couple by jeremy lipking 2018 eba5eb85|the couple by jeremy lipking 2018]] — shared language: lipking, jeremy
-- [[knowledge/wiki/images/antinous by jeremy lipking 2014 c36d38bc|antinous by jeremy lipking 2014]] — shared language: lipking, jeremy
-- [[knowledge/wiki/artists/Artist - jeremy geddes|Artist - jeremy geddes]] — shared language: jeremy
+- [[_archive/auto-generated/images-stale/the couple by jeremy lipking 2018 eba5eb85|the couple by jeremy lipking 2018]] — shared language: lipking, jeremy
+- [[_archive/auto-generated/images-stale/antinous by jeremy lipking 2014 c36d38bc|antinous by jeremy lipking 2014]] — shared language: lipking, jeremy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy geddes|Artist - jeremy geddes]] — shared language: jeremy
 <!-- vault-crosslinks:end -->

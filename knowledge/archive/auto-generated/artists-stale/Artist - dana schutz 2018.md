@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - dana schutz|Artist - dana schutz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dana schutz 2012|Artist - dana schutz 2012]] — named in this note
-- [[knowledge/wiki/images/civilian by dana schutz 2012 bfdea8bf|civilian by dana schutz 2012]] — shared language: schutz, dana
+- [[_archive/auto-generated/images-stale/civilian by dana schutz 2012 bfdea8bf|civilian by dana schutz 2012]] — shared language: schutz, dana
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles dana gibson 1903|Artist - charles dana gibson 1903]] — shared language: dana
+- [[knowledge/wiki/images/Dana d by Auguste Rodin (1890) 962dc0e8|Dana d by Auguste Rodin (1890)]] — shared language: dana
 - [[knowledge/wiki/artists/Artist - charles dana gibson|Artist - charles dana gibson]] — shared language: dana
-- [[knowledge/wiki/images/at a comedy by charles dana gibson 1903 9b1d5e87|at a comedy by charles dana gibson 1903]] — shared language: dana
 <!-- vault-crosslinks:end -->

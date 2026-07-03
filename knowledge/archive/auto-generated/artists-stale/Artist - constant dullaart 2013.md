@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - constant dullaart|Artist - constant dullaart]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - constant dullaart|Artist - constant dullaart]] — named in this note
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: internet, end
 - [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: end
 - [[knowledge/wiki/books/the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] — shared language: internet

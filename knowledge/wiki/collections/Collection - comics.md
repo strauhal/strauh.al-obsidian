@@ -200,11 +200,11 @@ Files: 132
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panel, calvin
 - [[knowledge/wiki/pages/comics|comics]] — shared language: comics, eto, screenshots
-- [[knowledge/wiki/images/when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986 3d7fb5ce|when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986]] — shared language: calvin, panel
-- [[knowledge/wiki/images/black and white manga panel featuring three figures faces cd3e84ab|black and white manga panel featuring three figures faces]] — shared language: panel
-- [[knowledge/wiki/images/panel from l incal by jean giraud 1981 2317579f|panel from l incal by jean giraud 1981]] — shared language: panel
-- [[knowledge/wiki/images/three panel digital collage featuring a man from a movie and a collection of plush toys ae8059fb|three panel digital collage featuring a man from a movie and a collection of plush toys]] — shared language: panel
-- [[knowledge/wiki/images/tomie manga panel by junji ito 19872000 bae2293a|tomie manga panel by junji ito 19872000]] — shared language: panel
-- [[knowledge/wiki/images/framed painting of potted white flowers on a tall panel ff1e9889|framed painting of potted white flowers on a tall panel]] — shared language: panel
+- [[knowledge/wiki/artists/Artist - Momlife Comics|Artist - Momlife Comics]] — shared language: comics
+- [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: panel
+- [[knowledge/wiki/images/Comic One Of The Many Differences Between Me and My Husband by Momlife Comics bfa308b9|Comic One Of The Many Differences Between Me and My Husband by Momlife Comics]] — shared language: comics
+- [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: panel
+- [[knowledge/wiki/images/when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986 3d7fb5ce|when i grow up i want to be a radical terrorist calvin and hobbes strip panel by bill watterson 1986]] — shared language: panel, calvin
 <!-- vault-crosslinks:end -->

@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph White Cat Tangled In Black Yarn On Carpet 6fc6af3d|Photograph White Cat Tangled In Black Yarn On Carpet]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph Interior of a Brutalist style building with red carpet and offices 5f430014|Photograph Interior of a Brutalist style building with red carpet and offices]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph White Bust Sculpture With AR Overlay on Carpet 8baa790d|Photograph White Bust Sculpture With AR Overlay on Carpet]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph Laptop On Carpet In Empty Room With Curtains d73bca90|Photograph Laptop On Carpet In Empty Room With Curtains]] — shared language: carpet
 - [[knowledge/wiki/images/the carpet merchant by jean leon gerome 1887 8a86d8b1|the carpet merchant by jean leon gerome 1887]] — shared language: carpet
-- [[knowledge/wiki/images/franklin booth flying islands illustration 1913 jpg a6080d4a|franklin booth flying islands illustration 1913 jpg]] — shared language: flying
-- [[knowledge/wiki/images/photograph of a black u s air force reconnaissance jet flying above clouds 7e1783d9|photograph of a black u s air force reconnaissance jet flying above clouds]] — shared language: flying
-- [[knowledge/wiki/images/flying vehicle over forest landscape by jean giraud moebius b915eb72|flying vehicle over forest landscape by jean giraud moebius]] — shared language: flying
-- [[knowledge/wiki/images/photographic grid of small birds flying against a cloudy blue sky f799a926|photographic grid of small birds flying against a cloudy blue sky]] — shared language: flying
 <!-- vault-crosslinks:end -->

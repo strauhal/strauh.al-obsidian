@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/andrew wyeth christinas world 1948 a660c63d|andrew wyeth christinas world 1948]] — shared language: wyeth
 - [[knowledge/wiki/artists/Artist - andrew wyeth|Artist - andrew wyeth]] — shared language: wyeth
 - [[knowledge/wiki/images/the lovers by andrew wyeth 1981 245509d0|the lovers by andrew wyeth 1981]] — shared language: wyeth
 - [[knowledge/wiki/images/siri by andrew wyeth 1970 7d6dc271|siri by andrew wyeth 1970]] — shared language: wyeth
 - [[knowledge/wiki/images/weatherside by andrew wyeth 1965 b9ba0671|weatherside by andrew wyeth 1965]] — shared language: wyeth
 - [[knowledge/wiki/images/christina s world by andrew wyeth 1948 2412ff1a|christina s world by andrew wyeth 1948]] — shared language: wyeth
-- [[knowledge/wiki/images/christina s world by andrew wyeth 1948 2 22427535|christina s world by andrew wyeth 1948 2]] — shared language: wyeth
 <!-- vault-crosslinks:end -->

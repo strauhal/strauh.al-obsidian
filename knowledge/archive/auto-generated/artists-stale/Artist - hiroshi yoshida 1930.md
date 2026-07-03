@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hiroshi yoshida|Artist - hiroshi yoshida]] — named in this note
-- [[knowledge/wiki/images/hiroshi jpg ec0fcc13|hiroshi jpg]] — shared language: hiroshi
+- [[_archive/auto-generated/images-stale/hiroshi jpg ec0fcc13|hiroshi jpg]] — shared language: hiroshi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1982|Artist - hiroshi nagai 1982]] — shared language: hiroshi
-- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1985|Artist - hiroshi nagai 1985]] — shared language: hiroshi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1981|Artist - hiroshi nagai 1981]] — shared language: hiroshi
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 1985|Artist - hiroshi nagai 1985]] — shared language: hiroshi
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hiroshi nagai 2020|Artist - hiroshi nagai 2020]] — shared language: hiroshi
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Crying of Lot 49 -- Pynchon, Thomas -- Penguin Random House LLC, [Place of publication not -- Penguin Group US -- 9781101594605 -- 50e597e7aa27b4c9539e74ce04e1d06b -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # The Crying of Lot 49
@@ -38,8 +38,8 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — same category: literature
-- [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — same category: literature
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — same category: literature
+- [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — same category: literature
 - [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — same category: literature
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — same category: literature
 - [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature

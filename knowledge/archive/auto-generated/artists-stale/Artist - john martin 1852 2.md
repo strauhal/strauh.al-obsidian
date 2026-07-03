@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1852|Artist - john martin 1852]] — shared language: martin, john, gomorrah
-- [[knowledge/wiki/images/john martin the destruction of sodom and gomorrah 1859 30217c25|john martin the destruction of sodom and gomorrah 1859]] — shared language: martin, gomorrah, destruction
+- [[knowledge/wiki/images/john martin the destruction of sodom and gomorrah 1859 30217c25|john martin the destruction of sodom and gomorrah 1859]] — shared language: martin, gomorrah, sodom
 <!-- vault-crosslinks:end -->

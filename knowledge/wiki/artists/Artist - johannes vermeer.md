@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Art of Painting by Johannes Vermeer (c. 1666 1668) 75172f11|The Art of Painting by Johannes Vermeer (c. 1666 1668)]] — shared language: johannes, vermeer
 - [[knowledge/wiki/images/johannes vermeer view of delft c 1660 1661 bd05bd82|johannes vermeer view of delft c 1660 1661]] — shared language: johannes, vermeer
-- [[knowledge/wiki/images/Jan Vermeer The Art of Painting Google Art Project 5469cdbd|Jan Vermeer The Art of Painting Google Art Project]] — shared language: vermeer
 - [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: johannes
 - [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: johannes, vermeer
-- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young, woman
-- [[knowledge/wiki/images/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: young, woman
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
 <!-- vault-crosslinks:end -->

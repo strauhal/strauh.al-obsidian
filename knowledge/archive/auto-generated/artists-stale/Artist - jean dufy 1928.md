@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jean dufy|Artist - jean dufy]] — named in this note
+- [[knowledge/wiki/images/Od on by Raoul Dufy (1920) ce7bf4f0|Od on by Raoul Dufy (1920)]] — shared language: dufy
 - [[knowledge/wiki/artists/Artist - raoul dufy|Artist - raoul dufy]] — shared language: dufy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - raoul dufy 1946|Artist - raoul dufy 1946]] — shared language: dufy
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
-- [[knowledge/wiki/images/le concert rouge by raoul dufy 1946 097c231b|le concert rouge by raoul dufy 1946]] — shared language: dufy
-- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: jean
+- [[knowledge/wiki/images/Le Bal by Raoul Dufy (1906) d7c0fc69|Le Bal by Raoul Dufy (1906)]] — shared language: dufy
 <!-- vault-crosslinks:end -->

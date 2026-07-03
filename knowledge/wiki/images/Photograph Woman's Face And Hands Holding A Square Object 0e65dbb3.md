@@ -1,0 +1,33 @@
+---
+title: "Photograph Woman's Face And Hands Holding A Square Object"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Woman's Face And Hands Holding A Square Object.jpg"
+source_relpath: "photography/Photograph - Woman's Face And Hands Holding A Square Object.jpg"
+collection: "photography"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/photography"]
+---
+# Photograph Woman's Face And Hands Holding A Square Object
+
+![[media/strauh.al3.1/photography/Photograph - Woman's Face And Hands Holding A Square Object.jpg]]
+
+Collection: [[Collection - photography]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/photography/Photograph - Woman's Face And Hands Holding A Square Object.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Woman's Face And Hands Holding A Square Object.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: woman's
+- [[knowledge/wiki/images/Photograph Person Holding Blank White Square Covering Face 919f2387|Photograph Person Holding Blank White Square Covering Face]] — shared language: square, face, holding
+- [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Obscured Face And Hands 03312e8f|Illustration Abstract Black And White Figure With Obscured Face And Hands]] — shared language: hands, face
+- [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: hands, holding
+- [[knowledge/wiki/images/Illustration Abstract Line Drawing of a Woman's Face with Pixelated Colors 7454949d|Illustration Abstract Line Drawing of a Woman's Face with Pixelated Colors]] — shared language: woman's, face
+<!-- vault-crosslinks:end -->

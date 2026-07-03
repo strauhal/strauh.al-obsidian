@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/detroit aerial vjp 6710 jpg a150ad7d|detroit aerial vjp 6710 jpg]] — shared language: detroit
 - [[knowledge/wiki/books/timothy-leary-start-your-own-religion-ronin-publishing|Start Your Own Religion-Ronin Publishing]] — shared language: publishing
-- [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: detroit
 - [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: publishing
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: publishing
+- [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: detroit
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: publishing
+- [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: publishing
 <!-- vault-crosslinks:end -->

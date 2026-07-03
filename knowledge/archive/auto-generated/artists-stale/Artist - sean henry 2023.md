@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — named in this note
-- [[knowledge/wiki/artists/Artist - sean henry|Artist - sean henry]] — named in this note
-- [[knowledge/wiki/images/drift by sean henry 2023 3 97e9fe04|drift by sean henry 2023 3]] — named in this note
-- [[knowledge/wiki/artists/Artist - sean adair|Artist - sean adair]] — shared language: sean
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry|Artist - sean henry]] — named in this note
+- [[_archive/auto-generated/images-stale/drift by sean henry 2023 3 97e9fe04|drift by sean henry 2023 3]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair|Artist - Sean Adair]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair 2001|Artist - sean adair 2001]] — shared language: sean
-- [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
+- [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
 <!-- vault-crosslinks:end -->

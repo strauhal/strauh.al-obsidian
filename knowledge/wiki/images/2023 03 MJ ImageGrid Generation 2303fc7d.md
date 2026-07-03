@@ -1,12 +1,12 @@
 ---
 title: "2023 03 MJ ImageGrid Generation"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif"
 source_relpath: "gif_collection/2023_03_MJ_ImageGrid_Generation.gif"
 collection: "gif_collection"
 inferred_year: "2023"
 artist: ""
-dimensions: "400x400"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/2023_03_MJ_ImageGrid_Generation.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Asia Dragon by Roger Dean (2003) d2daa557|Asia Dragon by Roger Dean (2003)]] — named in this note
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roger dean 1973|Artist - roger dean 1973]] — named in this note
 - [[knowledge/wiki/images/wanes on the dance by roger dean 1973 21c904ae|wanes on the dance by roger dean 1973]] — shared language: roger, dean
 - [[knowledge/wiki/artists/Artist - roger bissiere|Artist - roger bissiere]] — shared language: roger
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roger bissiere 1958|Artist - roger bissiere 1958]] — shared language: roger
-- [[knowledge/wiki/images/gray by roger bissiere 1958 b6836e61|gray by roger bissiere 1958]] — shared language: roger
 <!-- vault-crosslinks:end -->

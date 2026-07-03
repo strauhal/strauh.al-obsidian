@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1885|Artist - childe hassam 1885]] — shared language: childe, hassam
 - [[knowledge/wiki/artists/Artist - childe hassam|Artist - childe hassam]] — shared language: childe, hassam, bookstalls
+- [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1885|Artist - childe hassam 1885]] — shared language: childe, hassam
 - [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1892|Artist - childe hassam 1892]] — shared language: childe, hassam
 - [[knowledge/archive/auto-generated/artists-stale/Artist - childe hassam 1890|Artist - childe hassam 1890]] — shared language: childe, hassam
 - [[knowledge/wiki/images/dandelions by childe hassam 1890 1fbd5501|dandelions by childe hassam 1890]] — shared language: childe, hassam
-- [[knowledge/wiki/images/rainy night new york by childe hassam 1890 f303feef|rainy night new york by childe hassam 1890]] — shared language: childe, hassam
+- [[knowledge/wiki/images/broad street and wall street by childe hassam 1892 345b35f2|broad street and wall street by childe hassam 1892]] — shared language: childe, hassam
 <!-- vault-crosslinks:end -->

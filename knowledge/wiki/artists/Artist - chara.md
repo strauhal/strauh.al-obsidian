@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - chang shuhong|Artist - chang shuhong]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - charles burchfield|Artist - charles burchfield]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - chao ding|Artist - chao ding]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - chan ky yut|Artist - chan ky yut]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

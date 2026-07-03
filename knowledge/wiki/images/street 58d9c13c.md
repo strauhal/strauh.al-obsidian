@@ -1,12 +1,12 @@
 ---
 title: "street"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/street.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/street.jpg"
 source_relpath: "wallpapers/street.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1365"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/street.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/street.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/street.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

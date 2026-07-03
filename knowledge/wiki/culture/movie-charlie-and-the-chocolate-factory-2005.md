@@ -7,8 +7,8 @@ status: queued
 queue_order: 39
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-01
-updated: 2026-07-01
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Charlie and the Chocolate Factory (2005)
@@ -35,7 +35,7 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/movie-edward-scissorhands|Watchlist - Edward Scissorhands]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: watchlist, film, current
-- [[knowledge/wiki/books/charlie-kirk-nyt|charlie kirk nyt]] — shared language: charlie
 - [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current
-- [[knowledge/wiki/culture/movie-watchmen|Watchlist - Watchmen]] — shared language: watchlist, film, current
+- [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: watchlist, film, current
+- [[knowledge/wiki/culture/movie-man-of-steel|Watchlist - Man of Steel]] — shared language: watchlist, film, current
 <!-- vault-crosslinks:end -->

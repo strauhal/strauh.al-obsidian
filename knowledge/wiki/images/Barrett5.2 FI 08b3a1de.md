@@ -1,12 +1,12 @@
 ---
 title: "Barrett5.2 FI"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/hieronymous_cock/Barrett5.2-FI.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/artists/hieronymous_cock/Barrett5.2-FI.jpg"
 source_relpath: "artists/hieronymous_cock/Barrett5.2-FI.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1640"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/artists/hieronymous_cock/Barrett5.2-FI.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/artists/hieronymous_cock/Barrett5.2-FI.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/artists/hieronymous_cock/Barrett5.2-FI.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -24,18 +24,6 @@ move — a memory milked from a single sensory detail — is everywhere in Ernes
 
 ## Sources
 - [[influences]]
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — named in this note
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, never, people
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, know, people
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: quotes, train, people
-<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -46,3 +34,16 @@ move — a memory milked from a single sensory detail — is everywhere in Ernes
 >
 > The document was not consulted for practical advice; the departure time of the Saint-Lazare train was of no immediate importance to a man who found no reason to leave Paris in the last eight years of his life. Rather, this timetable was read and enjoyed as though it were a gripping novel about country life, because the mere names of provincial train stations provided Proust's imagination with enough material to elaborate entire worlds, to picture domestic dramas in rural villages, shenanigans in local government, and life out in the fields.
 <!-- quotes:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — named in this note
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, never, read
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, know, see
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, know, people
+<!-- vault-crosslinks:end -->

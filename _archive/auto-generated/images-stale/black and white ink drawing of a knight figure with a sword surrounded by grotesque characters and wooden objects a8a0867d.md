@@ -1,0 +1,33 @@
+---
+title: "black and white ink drawing of a knight figure with a sword surrounded by grotesque characters and wooden objects"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/black_and_white_ink_drawing_of_a_knight_figure_with_a_sword_surrounded_by_grotesque_characters_and_wooden_objects.jpeg"
+source_relpath: "2000s/black_and_white_ink_drawing_of_a_knight_figure_with_a_sword_surrounded_by_grotesque_characters_and_wooden_objects.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: "grotesque characters and wooden objects"
+dimensions: "3024x4032"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# black and white ink drawing of a knight figure with a sword surrounded by grotesque characters and wooden objects
+
+![[media/strauh.al3.1/2000s/black_and_white_ink_drawing_of_a_knight_figure_with_a_sword_surrounded_by_grotesque_characters_and_wooden_objects.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: [[Artist - grotesque characters and wooden objects]]
+
+Source: [[media/strauh.al3.1/2000s/black_and_white_ink_drawing_of_a_knight_figure_with_a_sword_surrounded_by_grotesque_characters_and_wooden_objects.jpeg|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/black_and_white_ink_drawing_of_a_knight_figure_with_a_sword_surrounded_by_grotesque_characters_and_wooden_objects.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, knight, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque, ink
+- [[_archive/auto-generated/images-stale/black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter 1290b3cd|black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter]] — shared language: grotesque, surrounded, ink
+- [[knowledge/wiki/images/Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects 0faccd21|Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects]] — shared language: objects, characters, objects.jpeg
+- [[knowledge/wiki/images/Illustration Still Life Painting Of Diverse Objects On Wooden Shelves 6f4c4913|Illustration Still Life Painting Of Diverse Objects On Wooden Shelves]] — shared language: objects, wooden
+<!-- vault-crosslinks:end -->

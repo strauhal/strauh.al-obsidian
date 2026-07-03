@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - rockwell kent|Artist - rockwell kent]] — named in this note
-- [[knowledge/wiki/artists/Artist - kent williams|Artist - kent williams]] — shared language: kent
+- [[knowledge/wiki/images/Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent 7839d79b|Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent]] — shared language: kent, rockwell
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kent williams|Artist - kent williams]] — shared language: kent
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kent williams 2009|Artist - kent williams 2009]] — shared language: kent
 - [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1959|Artist - norman rockwell 1959]] — shared language: rockwell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1943|Artist - norman rockwell 1943]] — shared language: rockwell
-- [[knowledge/wiki/artists/Artist - norman rockwell|Artist - norman rockwell]] — shared language: rockwell
 <!-- vault-crosslinks:end -->

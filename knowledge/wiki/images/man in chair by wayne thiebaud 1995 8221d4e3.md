@@ -1,12 +1,12 @@
 ---
 title: "man in chair by wayne thiebaud 1995"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg"
 source_relpath: "1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "wayne thiebaud"
-dimensions: "4032x3024"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - wayne thiebaud]]
 
 Source: [[media/strauh.al3.1/1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/man_in_chair_by_wayne_thiebaud_1995.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/buffet by wayne thiebaud 1976 da1402e9|buffet by wayne thiebaud 1976]] — same artist: wayne thiebaud
 - [[knowledge/wiki/images/steep street by wayne thiebaud 1980 3ecf45dc|steep street by wayne thiebaud 1980]] — same artist: wayne thiebaud
 - [[knowledge/wiki/images/candy sticks by wayne thiebaud 1994 34bc0527|candy sticks by wayne thiebaud 1994]] — same artist: wayne thiebaud
-- [[knowledge/wiki/images/drawing of multiple studies of human heads faces and body parts by wayne thiebaud 1956 40cd1ad5|drawing of multiple studies of human heads faces and body parts by wayne thiebaud 1956]] — same artist: wayne thiebaud
+- [[knowledge/wiki/images/Illustration Colorful Segmented Landscape with Fields and Trees by Wayne Thiebaud bea72eb0|Illustration Colorful Segmented Landscape with Fields and Trees by Wayne Thiebaud]] — same artist: wayne thiebaud
 <!-- vault-crosslinks:end -->

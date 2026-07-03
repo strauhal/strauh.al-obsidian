@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/le baiser the kiss by jean delville 1898 b847c299|le baiser the kiss by jean delville 1898]] — shared language: jean, baiser, kiss
 - [[knowledge/wiki/images/the print collector by honore daumier c 1860 1865 7d3725a8|the print collector by honore daumier c 1860 1865]] — shared language: honore
 - [[knowledge/wiki/artists/Artist - honore victorin daumier|Artist - honore victorin daumier]] — shared language: honore
-- [[knowledge/wiki/images/le baiser the kiss by jean leon gerome c 1890 ffa59cd0|le baiser the kiss by jean leon gerome c 1890]] — shared language: jean, baiser, kiss
+- [[knowledge/wiki/images/man seated wearing a cap by honore daumier 1858 40d0bf67|man seated wearing a cap by honore daumier 1858]] — shared language: honore
 <!-- vault-crosslinks:end -->

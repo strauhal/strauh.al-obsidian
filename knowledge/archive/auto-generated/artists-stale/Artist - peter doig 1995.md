@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - peter doig|Artist - peter doig]] — shared language: doig, peter, gun
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter doig 2011|Artist - peter doig 2011]] — shared language: doig, peter
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter doig 2002|Artist - peter doig 2002]] — shared language: doig, peter
-- [[knowledge/wiki/images/pink landscape by peter doig 2011 d7df5991|pink landscape by peter doig 2011]] — shared language: doig, peter
-- [[knowledge/wiki/images/the policeman by peter doig 2002 254abe18|the policeman by peter doig 2002]] — shared language: doig, peter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1991|Artist - peter saul 1991]] — shared language: peter
+- [[_archive/auto-generated/images-stale/pink landscape by peter doig 2011 d7df5991|pink landscape by peter doig 2011]] — shared language: doig, peter
+- [[_archive/auto-generated/images-stale/the policeman by peter doig 2002 254abe18|the policeman by peter doig 2002]] — shared language: doig, peter
+- [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 <!-- vault-crosslinks:end -->

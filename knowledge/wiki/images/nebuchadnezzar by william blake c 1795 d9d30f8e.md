@@ -1,12 +1,12 @@
 ---
 title: "nebuchadnezzar by william blake c 1795"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/nebuchadnezzar_by_william_blake_c_1795.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/nebuchadnezzar_by_william_blake_c_1795.jpg"
 source_relpath: "1700s/nebuchadnezzar_by_william_blake_c_1795.jpg"
 collection: "1700s"
 inferred_year: "1795"
 artist: "william blake"
-dimensions: "1536x1099"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - william blake]]
 
 Source: [[media/strauh.al3.1/1700s/nebuchadnezzar_by_william_blake_c_1795.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/nebuchadnezzar_by_william_blake_c_1795.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/nebuchadnezzar_by_william_blake_c_1795.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

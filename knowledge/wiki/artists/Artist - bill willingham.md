@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/october 25 1992 by bill watterson 1992 7eefe760|october 25 1992 by bill watterson 1992]] — shared language: bill
 - [[knowledge/wiki/images/october 29 1993 by bill watterson 1993 b5fdf765|october 29 1993 by bill watterson 1993]] — shared language: bill
 - [[knowledge/wiki/images/november 26 1991 by bill watterson 1991 14b3131b|november 26 1991 by bill watterson 1991]] — shared language: bill
-- [[knowledge/wiki/images/continuous line by max bill 1947 f881a1e8|continuous line by max bill 1947]] — shared language: bill
+- [[knowledge/wiki/artists/Artist - Bill Bernstein|Artist - Bill Bernstein]] — shared language: bill
 <!-- vault-crosslinks:end -->

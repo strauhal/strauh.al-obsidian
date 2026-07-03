@@ -23,8 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/framed painting of a white swan on dark water d2b2bf06|framed painting of a white swan on dark water]] — shared language: swan
-- [[knowledge/wiki/images/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate
+- [[knowledge/wiki/images/The Swan by Adelle H. Fiske (c. 1920) 2f378ba1|The Swan by Adelle H. Fiske (c. 1920)]] — shared language: swan
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
-- [[knowledge/wiki/images/white oval plate with blue and white transferware pattern 2bb95f8b|white oval plate with blue and white transferware pattern]] — shared language: plate
+- [[knowledge/wiki/images/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: plate
+- [[knowledge/wiki/images/Photograph White Oval Plate With Blue And White Willow Pattern c6f86516|Photograph White Oval Plate With Blue And White Willow Pattern]] — shared language: plate
+- [[knowledge/wiki/images/The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588) d15139f1|The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588)]] — shared language: plate
+- [[knowledge/wiki/images/Photograph Concrete with 'SACARMNETO' Inscription and Utility Plate e68c77dd|Photograph Concrete with 'SACARMNETO' Inscription and Utility Plate]] — shared language: plate
 <!-- vault-crosslinks:end -->

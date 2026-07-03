@@ -31,5 +31,5 @@ if you have questions or comments about the site, email me at  mailto:ernest@str
 - [[knowledge/wiki/pages/about|about]] — shared language: site, donations, enjoy
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
 - [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: using, python
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site
+- [[knowledge/wiki/images/Photograph Purple And Green Excavator On A Construction Site dc2f864b|Photograph Purple And Green Excavator On A Construction Site]] — shared language: site
 <!-- vault-crosslinks:end -->

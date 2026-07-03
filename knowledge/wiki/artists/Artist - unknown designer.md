@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: designer
-- [[knowledge/wiki/images/black and white line drawing of a stylized designer with a macintosh computer and drafting table 1ce1431a|black and white line drawing of a stylized designer with a macintosh computer and drafting table]] — shared language: designer
+- [[knowledge/wiki/images/Illustration Stylized Designer with Macintosh Computer and Drafting Table by John Johnson b0b0f4a7|Illustration Stylized Designer with Macintosh Computer and Drafting Table by John Johnson]] — shared language: designer
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film
-- [[knowledge/wiki/images/promotional poster for splat film premiere with pixelated figures 61c167db|promotional poster for splat film premiere with pixelated figures]] — shared language: film, poster
-- [[knowledge/wiki/images/suffocation poster with white dog 96348b03|suffocation poster with white dog]] — shared language: poster
-- [[knowledge/wiki/images/lautrec la troupe de mlle eglantine poster 1895 6 jpg 3825ddfc|lautrec la troupe de mlle eglantine poster 1895 6 jpg]] — shared language: poster
+- [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: designer
+- [[knowledge/wiki/images/Illustration Promotional Poster for 'SPLAT' Film Premiere 7fed9c71|Illustration Promotional Poster for 'SPLAT' Film Premiere]] — shared language: film, poster
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: film
 <!-- vault-crosslinks:end -->

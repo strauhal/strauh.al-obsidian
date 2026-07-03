@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: vladimir
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: vladimir
 - [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — shared language: vladimir
 - [[knowledge/wiki/books/perennial-bestseller-collection-vladimir-vladimirovich-nabokov-lolita-perennial-bestseller-collection|Lolita (Perennial Bestseller Collection)]] — shared language: vladimir
 - [[knowledge/wiki/images/portrait of vladimir mayakovsky by alexander rodchenko 1924 eb10057a|portrait of vladimir mayakovsky by alexander rodchenko 1924]] — shared language: vladimir
 - [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: vladimir
-- [[knowledge/wiki/artists/Artist - henri edmond cross|Artist - henri edmond cross]] — shared language: cross
 <!-- vault-crosslinks:end -->

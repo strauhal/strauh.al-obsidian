@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - philip alexius de laszlo|Artist - philip alexius de laszlo]] — shared language: laszlo
 - [[knowledge/wiki/images/portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913 1eca5363|portrait of johnny with a goldfish bowl by philip alexius de laszlo 1913]] — shared language: laszlo
+- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/studies in composition after goya 1899 59ba8b76|studies in composition after goya 1899]] — shared language: composition
-- [[knowledge/wiki/images/composition by wassily kandinsky 1910 018f415a|composition by wassily kandinsky 1910]] — shared language: composition
-- [[knowledge/wiki/images/piet mondrian composition no iv 1914 9c7d7b19|piet mondrian composition no iv 1914]] — shared language: composition
-- [[knowledge/wiki/images/composition by stuart davis 1930 5aefd485|composition by stuart davis 1930]] — shared language: composition
+- [[knowledge/wiki/images/Illustration Abstract Black And White Brushstroke Composition On White Background f73c3098|Illustration Abstract Black And White Brushstroke Composition On White Background]] — shared language: composition
+- [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: composition
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - wu hufan|Artist - wu hufan]] — named in this note
+- [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, men
+- [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
-- [[knowledge/wiki/images/photograph of five men one in a wheelchair standing against a tiled wall 4e8b7643|photograph of five men one in a wheelchair standing against a tiled wall]] — shared language: five, men
-- [[knowledge/wiki/artists/Artist - william sidney mount|Artist - william sidney mount]] — shared language: mount
-- [[knowledge/archive/auto-generated/artists-stale/Artist - william sidney mount 1856|Artist - william sidney mount 1856]] — shared language: mount
-- [[knowledge/wiki/images/Sermon on the mount window f0b31e99|Sermon on the mount window]] — shared language: mount
+- [[knowledge/wiki/images/Illustration Five Men in Blue Uniforms on Red Background by Leon Golub 9f84daac|Illustration Five Men in Blue Uniforms on Red Background by Leon Golub]] — shared language: five, men
+- [[knowledge/wiki/images/Photograph Five Men, One in Wheelchair, Against Tiled Wall 6751ddbe|Photograph Five Men, One in Wheelchair, Against Tiled Wall]] — shared language: five, men
 <!-- vault-crosslinks:end -->

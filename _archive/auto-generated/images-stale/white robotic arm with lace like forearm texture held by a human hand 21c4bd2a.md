@@ -1,0 +1,33 @@
+---
+title: "white robotic arm with lace like forearm texture held by a human hand"
+source_kind: "image"
+source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/white_robotic_arm_with_lace_like_forearm_texture_held_by_a_human_hand.webp"
+source_relpath: "2000s/white_robotic_arm_with_lace_like_forearm_texture_held_by_a_human_hand.webp"
+collection: "2000s"
+inferred_year: "2000s"
+artist: ""
+dimensions: "1080x1147"
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# white robotic arm with lace like forearm texture held by a human hand
+
+![[media/strauh.al3.1/2000s/white_robotic_arm_with_lace_like_forearm_texture_held_by_a_human_hand.webp]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/2000s/white_robotic_arm_with_lace_like_forearm_texture_held_by_a_human_hand.webp|source file]]
+
+Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000s/white_robotic_arm_with_lace_like_forearm_texture_held_by_a_human_hand.webp`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[_archive/auto-generated/artists-noise/Artist - a human hand|Artist - a human hand]] — shared language: hand, human, forearm
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human, like
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like, human
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: like, human
+- [[knowledge/archive/auto-generated/anchors-stale/artist-a-human-hand|Artist - a human hand]] — shared language: hand, human
+<!-- vault-crosslinks:end -->

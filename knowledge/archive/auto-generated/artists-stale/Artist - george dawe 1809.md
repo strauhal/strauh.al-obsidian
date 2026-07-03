@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george bellows 1917|Artist - george bellows 1917]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
 - [[knowledge/archive/auto-generated/artists-stale/Artist - george ault 1926|Artist - george ault 1926]] — shared language: george
-- [[knowledge/archive/auto-generated/artists-stale/Artist - george ault 1922|Artist - george ault 1922]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
 <!-- vault-crosslinks:end -->

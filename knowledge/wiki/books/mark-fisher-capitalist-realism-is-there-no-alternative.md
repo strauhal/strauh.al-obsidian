@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Mark Fisher Capitalist Realism Is There no Alte(BookZZ.org)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[Mark_Fisher]_Capitalist_Realism_Is_There_no_Alte(BookZZ.org).pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Capitalist Realism: Is There No Alternative?
@@ -51,8 +51,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/theodore-kaczynski-anti-tech-revolution-why-and-how|Anti-Tech Revolution: Why and How]] — same category: politics society
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — same category: politics society
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — same category: politics society
-- [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — same category: politics society
 <!-- vault-crosslinks:end -->

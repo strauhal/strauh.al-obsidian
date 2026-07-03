@@ -20,10 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - flowers|Artist - flowers]] — shared language: flowers
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
-- [[knowledge/wiki/artists/Artist - red flowers|Artist - red flowers]] — shared language: flowers
-- [[knowledge/wiki/images/continuous line drawing of flowers 2023 f6c5a747|continuous line drawing of flowers 2023]] — shared language: flowers
-- [[knowledge/wiki/images/impressionistic painting of a field of flowers by the sea e049bc94|impressionistic painting of a field of flowers by the sea]] — shared language: flowers
-- [[knowledge/wiki/images/framed painting of white flowers in a yellow vase 1f344c95|framed painting of white flowers in a yellow vase]] — shared language: flowers
+- [[knowledge/wiki/images/Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers 07304629|Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers]] — shared language: flowers
+- [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: flowers
+- [[knowledge/wiki/images/Illustration Framed Black and White Line Drawing of Flowers and Leaves 230cefc4|Illustration Framed Black and White Line Drawing of Flowers and Leaves]] — shared language: flowers
+- [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: flowers
 <!-- vault-crosslinks:end -->

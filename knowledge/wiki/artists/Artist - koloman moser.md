@@ -23,7 +23,7 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kollmann|Artist - kollmann]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - konrad magi|Artist - konrad magi]] — nearby note in the same source series
+- [[knowledge/wiki/images/The Piano Player by Koloman Moser (1915) 4f5820d3|The Piano Player by Koloman Moser (1915)]] — shared language: koloman, moser
 - [[knowledge/wiki/artists/Artist - koji|Artist - koji]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - konrad magi|Artist - konrad magi]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

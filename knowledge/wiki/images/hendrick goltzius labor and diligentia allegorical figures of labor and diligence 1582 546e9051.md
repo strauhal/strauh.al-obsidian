@@ -1,12 +1,12 @@
 ---
 title: "hendrick goltzius labor and diligentia allegorical figures of labor and diligence 1582"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg"
 source_relpath: "1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg"
 collection: "1500s"
 inferred_year: "1582"
 artist: ""
-dimensions: "2919x3999"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

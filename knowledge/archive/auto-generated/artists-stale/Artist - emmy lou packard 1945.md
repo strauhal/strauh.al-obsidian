@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - emmy lou packard|Artist - emmy lou packard]] — named in this note
+- [[knowledge/wiki/artists/Artist - Packard|Artist - Packard]] — shared language: packard
 - [[knowledge/wiki/artists/Artist - agnes packard|Artist - agnes packard]] — shared language: packard, strawberry
 - [[knowledge/archive/auto-generated/artists-stale/Artist - agnes packard 1970|Artist - agnes packard 1970]] — shared language: packard, strawberry
+- [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: packard
 - [[knowledge/wiki/images/strawberry picker by agnes packard 1970 2569c788|strawberry picker by agnes packard 1970]] — shared language: packard, strawberry
-- [[knowledge/wiki/artists/Artist - mary lou boulanger|Artist - mary lou boulanger]] — shared language: lou
-- [[knowledge/wiki/images/hewlett packard spaceball 3d input device 1b5815e9|hewlett packard spaceball 3d input device]] — shared language: packard
 <!-- vault-crosslinks:end -->

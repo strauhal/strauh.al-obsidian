@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: bill
-- [[knowledge/wiki/artists/Artist - bill owens|Artist - bill owens]] — shared language: bill
+- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: bill
 <!-- vault-crosslinks:end -->

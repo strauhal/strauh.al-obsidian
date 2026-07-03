@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: rand
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: paul
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: rand
-- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 <!-- vault-crosslinks:end -->

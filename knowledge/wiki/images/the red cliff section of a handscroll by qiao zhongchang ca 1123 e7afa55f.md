@@ -1,12 +1,12 @@
 ---
 title: "the red cliff section of a handscroll by qiao zhongchang ca 1123"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg"
 source_relpath: "1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg"
 collection: "1100s"
 inferred_year: "1100s"
 artist: "qiao zhongchang"
-dimensions: "4032x2268"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---
@@ -20,14 +20,14 @@ Artist: [[Artist - qiao zhongchang]]
 
 Source: [[media/strauh.al3.1/1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1100s/the_red_cliff_section_of_a_handscroll_by_qiao_zhongchang_ca_1123.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty ae70836e|the kangxi emperor on his southern inspection tour section of a handscroll by wang hui and others qing dynasty]] — shared language: handscroll, section
-- [[knowledge/wiki/images/labeled cross section illustration of a medieval castle keep 72187097|labeled cross section illustration of a medieval castle keep]] — shared language: section
-- [[knowledge/wiki/images/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: cliff
-- [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — shared language: red
-- [[knowledge/wiki/images/digital painting of two figures on a desert cliff at sunset b32955cd|digital painting of two figures on a desert cliff at sunset]] — shared language: cliff
+- [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: handscroll, section
+- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: cliff
+- [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: cliff
+- [[knowledge/wiki/images/Photograph Gallery Interior with Wooden Artwork, Mirrored Section, and Hand Photo 43e3a5a6|Photograph Gallery Interior with Wooden Artwork, Mirrored Section, and Hand Photo]] — shared language: section
+- [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: cliff
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
-- [[knowledge/wiki/images/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
-- [[knowledge/wiki/images/black and white photograph of a fencer wearing a mask viewed from the back 3173554b|black and white photograph of a fencer wearing a mask viewed from the back]] — shared language: mask
-- [[knowledge/wiki/images/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
-- [[knowledge/wiki/images/person wearing a black monkey mask in a gallery 986a02de|person wearing a black monkey mask in a gallery]] — shared language: mask
-- [[knowledge/wiki/images/animated drawing of a soldier in a gas mask using a computer 408f87cc|animated drawing of a soldier in a gas mask using a computer]] — shared language: mask
+- [[knowledge/wiki/images/Pygmalion by Hajime Sorayama (2018) f275ff19|Pygmalion by Hajime Sorayama (2018)]] — shared language: hajime, sorayama
+- [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: mask
+- [[knowledge/wiki/images/Photograph Figure In White Robe And Metallic Mask Raising A Hand f8b6501c|Photograph Figure In White Robe And Metallic Mask Raising A Hand]] — shared language: mask
+- [[knowledge/wiki/images/Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants 5fd82a75|Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants]] — shared language: mask
+- [[knowledge/wiki/images/Illustration Animated Soldier In Gas Mask Using Computer 8ef6b57d|Illustration Animated Soldier In Gas Mask Using Computer]] — shared language: mask
+- [[knowledge/wiki/images/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: mask
 <!-- vault-crosslinks:end -->

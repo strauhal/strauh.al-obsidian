@@ -1,13 +1,13 @@
 ---
 title: "Artist - katsushika hokusai"
 source_kind: "artist"
-count: "3"
+count: "2"
 compiled: "True"
 tags: ["strauhal", "artist"]
 ---
 # Artist - katsushika hokusai
 
-Images attributed by filename: 3
+Images attributed by filename: 2
 
 ## Sample
 
@@ -15,21 +15,18 @@ Images attributed by filename: 3
 
 ![[media/strauh.al3.1/1800s/the_great_wave_off_kanagawa_by_katsushika_hokusai_c_18301832.jpg]]
 
-![[media/strauh.al3.1/2000s/page_from_hokusai_manga_perspective_study_and_studies_of_muscular_figures_by_katsushika_hokusai.jpeg]]
-
 ## Image Notes
 
 - [[archers by katsushika hokusai c 1817 35e942c0|archers by katsushika hokusai c 1817]]
 - [[the great wave off kanagawa by katsushika hokusai c 18301832 b805207f|the great wave off kanagawa by katsushika hokusai c 18301832]]
-- [[page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai 3ae1f6c2|page from hokusai manga perspective study and studies of muscular figures by katsushika hokusai]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
+- [[knowledge/wiki/images/Illustration Page from Hokusai Manga showing perspective study and muscular figures. by Katsushika Hokusai a5ee8d5b|Illustration Page from Hokusai Manga showing perspective study and muscular figures. by Katsushika Hokusai]] — shared language: hokusai, katsushika
+- [[knowledge/wiki/images/Illustration Japanese Man Scattering Beans Over Crouching Demon by Katsushika Hokusai f12dd79b|Illustration Japanese Man Scattering Beans Over Crouching Demon by Katsushika Hokusai]] — shared language: katsushika, hokusai
 - [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: hokusai, katsushika
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
-- [[knowledge/wiki/images/black and white manga panel featuring three figures faces cd3e84ab|black and white manga panel featuring three figures faces]] — shared language: manga, figures
-- [[knowledge/wiki/images/black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]] — shared language: wave
 - [[knowledge/wiki/images/wave copy 9ca902b4|wave copy]] — shared language: wave
 <!-- vault-crosslinks:end -->

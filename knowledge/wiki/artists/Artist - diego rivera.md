@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Ni a con Fruta by Diego Rivera (1943) 98d56567|Ni a con Fruta by Diego Rivera (1943)]] — shared language: rivera, diego
+- [[knowledge/wiki/images/Dos Mujeres (Two Women) by Diego Rivera (1926) e5bcb188|Dos Mujeres (Two Women) by Diego Rivera (1926)]] — shared language: rivera, diego
 - [[knowledge/wiki/artists/Artist - diego velazquez|Artist - diego velazquez]] — shared language: diego
 - [[knowledge/wiki/images/portrait of juan de pareja by diego velazquez 1650 1731b75f|portrait of juan de pareja by diego velazquez 1650]] — shared language: diego
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/stylized illustration of a room with a blowing curtain window and a video game controller on a table bc841529|stylized illustration of a room with a blowing curtain window and a video game controller on a table]] — shared language: controller
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: man
+- [[knowledge/wiki/images/Photograph Room with Mattress, Crucifix, Books, Rifle, DJ Controller on Floor a6dc566c|Photograph Room with Mattress, Crucifix, Books, Rifle, DJ Controller on Floor]] — shared language: controller
+- [[knowledge/wiki/images/Illustration Stylized Room With Blowing Curtain, Window, And Game Controller 8dd73421|Illustration Stylized Room With Blowing Curtain, Window, And Game Controller]] — shared language: controller
 <!-- vault-crosslinks:end -->

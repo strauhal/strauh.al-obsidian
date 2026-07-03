@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: renoir, auguste
 - [[knowledge/wiki/images/woman sewing by pierre auguste renoir 1879 28a15c0d|woman sewing by pierre auguste renoir 1879]] — shared language: renoir, auguste
 - [[knowledge/wiki/images/roses in a vase by pierre auguste renoir c 1890 b958cbd0|roses in a vase by pierre auguste renoir c 1890]] — shared language: renoir, auguste
-- [[knowledge/wiki/images/la seine a argenteuil by pierre auguste renoir c 1888 fbf185a9|la seine a argenteuil by pierre auguste renoir c 1888]] — shared language: renoir, auguste
-- [[knowledge/wiki/images/la loge the box by pierre auguste renoir 1874 fde3d82d|la loge the box by pierre auguste renoir 1874]] — shared language: renoir, auguste
 - [[knowledge/wiki/artists/Artist - pierre auguste renoir|Artist - pierre auguste renoir]] — shared language: renoir, auguste
-- [[knowledge/wiki/images/portrait of jeanne samary by pierre auguste renoir 1877 2a1af3c9|portrait of jeanne samary by pierre auguste renoir 1877]] — shared language: renoir, auguste
+- [[knowledge/wiki/images/la loge the box by pierre auguste renoir 1874 fde3d82d|la loge the box by pierre auguste renoir 1874]] — shared language: renoir, auguste
+- [[knowledge/wiki/images/la seine a argenteuil by pierre auguste renoir c 1888 fbf185a9|la seine a argenteuil by pierre auguste renoir c 1888]] — shared language: renoir, auguste
 <!-- vault-crosslinks:end -->

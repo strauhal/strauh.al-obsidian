@@ -1,12 +1,12 @@
 ---
 title: "FTC7wVhWUAEzB3C"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg"
 source_relpath: "pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: "2048x1576"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/FTC7wVhWUAEzB3C.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - augustus john|Artist - augustus john]] — shared language: augustus
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: vincent
-- [[knowledge/wiki/images/line drawing of a reclining female nude by augustus john f24af68e|line drawing of a reclining female nude by augustus john]] — shared language: augustus
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: vincent
 - [[knowledge/wiki/images/portrait of augustus ii the strong by louis de silvestre 1715 c2077d67|portrait of augustus ii the strong by louis de silvestre 1715]] — shared language: augustus
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: vincent
+- [[knowledge/wiki/images/head of a woman by vincent van gogh 1885 08ae27db|head of a woman by vincent van gogh 1885]] — shared language: vincent
 - [[knowledge/wiki/images/self portrait by vincent van gogh 1887 2287aac2|self portrait by vincent van gogh 1887]] — shared language: vincent
+- [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — shared language: vincent
 <!-- vault-crosslinks:end -->

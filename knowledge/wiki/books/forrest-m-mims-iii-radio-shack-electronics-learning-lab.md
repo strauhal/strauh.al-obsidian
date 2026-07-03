@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Radio Shack Electronics Learning Lab 01]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Radio_Shack_Electronics_Learning_Lab_01.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Radio Shack Electronics Learning Lab

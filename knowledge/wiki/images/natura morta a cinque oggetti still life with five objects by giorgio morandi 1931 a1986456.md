@@ -1,12 +1,12 @@
 ---
 title: "natura morta a cinque oggetti still life with five objects by giorgio morandi 1931"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg"
 source_relpath: "1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg"
 collection: "1900s"
 inferred_year: "1931"
 artist: "giorgio morandi"
-dimensions: "1200x901"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - giorgio morandi]]
 
 Source: [[media/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/natura_morta_a_cinque_oggetti_still_life_with_five_objects_by_giorgio_morandi_1931.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/natura morta still life by giorgio morandi 1940 40134fd6|natura morta still life by giorgio morandi 1940]] — same artist: giorgio morandi
 - [[knowledge/wiki/images/natura morta still life by giorgio morandi 1941 8172fb23|natura morta still life by giorgio morandi 1941]] — same artist: giorgio morandi
 - [[knowledge/wiki/images/natura morta con sei oggetti still life with six objects by giorgio morandi 1930 85a95d4e|natura morta con sei oggetti still life with six objects by giorgio morandi 1930]] — same artist: giorgio morandi
-- [[knowledge/wiki/images/still life drawing of three objects by giorgio morandi 9e877ec3|still life drawing of three objects by giorgio morandi]] — same artist: giorgio morandi
+- [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — same artist: giorgio morandi
 <!-- vault-crosslinks:end -->

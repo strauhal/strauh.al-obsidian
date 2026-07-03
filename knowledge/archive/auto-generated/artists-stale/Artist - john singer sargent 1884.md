@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1884 2|Artist - john singer sargent 1884 2]] — shared language: sargent, singer, madame
-- [[knowledge/wiki/images/portrait of madame x madame pierre gautreau by john singer sargent 1884 2 841f3756|portrait of madame x madame pierre gautreau by john singer sargent 1884 2]] — shared language: sargent, singer, madame
+- [[knowledge/wiki/images/portrait of madame x madame pierre gautreau by john singer sargent 1884 2 841f3756|portrait of madame x madame pierre gautreau by john singer sargent 1884 2]] — shared language: madame, sargent, singer
 <!-- vault-crosslinks:end -->

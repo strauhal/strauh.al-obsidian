@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll challenger jpg d933446b|joseph clement coll challenger jpg]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll fu manchu jpg 80546373|joseph clement coll fu manchu jpg]] — shared language: clement
 - [[knowledge/wiki/images/lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]] — shared language: clement
+- [[knowledge/wiki/images/Challenger by Joseph Clement Coll f4fc0846|Challenger by Joseph Clement Coll]] — shared language: clement
+- [[knowledge/wiki/artists/Artist - Joseph Clement Coll|Artist - Joseph Clement Coll]] — shared language: clement
 <!-- vault-crosslinks:end -->

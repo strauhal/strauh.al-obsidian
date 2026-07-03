@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/artists/Artist - lee krasner|Artist - lee krasner]] — shared language: lee
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
+- [[knowledge/wiki/images/Illustration Untitled by Lee Bontecou 5adc429c|Illustration Untitled by Lee Bontecou]] — shared language: lee
 <!-- vault-crosslinks:end -->

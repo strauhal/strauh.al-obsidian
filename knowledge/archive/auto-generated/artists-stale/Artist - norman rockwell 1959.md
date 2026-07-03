@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - norman rockwell|Artist - norman rockwell]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1943|Artist - norman rockwell 1943]] — named in this note
+- [[knowledge/wiki/images/Picasso vs Sargent by Norman Rockwell (1966) 5a89c0fa|Picasso vs Sargent by Norman Rockwell (1966)]] — shared language: rockwell, norman
 - [[knowledge/wiki/images/freedom of speech by norman rockwell 1943 75140841|freedom of speech by norman rockwell 1943]] — shared language: rockwell, norman
 - [[knowledge/wiki/artists/Artist - rockwell kent|Artist - rockwell kent]] — shared language: rockwell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rockwell kent 1909|Artist - rockwell kent 1909]] — shared language: rockwell
-- [[knowledge/wiki/artists/Artist - norman seeff|Artist - norman seeff]] — shared language: norman
 <!-- vault-crosslinks:end -->

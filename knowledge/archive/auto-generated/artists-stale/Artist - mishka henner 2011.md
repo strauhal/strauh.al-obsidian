@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - mishka henner|Artist - mishka henner]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mishka henner|Artist - mishka henner]] — named in this note
 - [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — shared language: fall
 - [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
-- [[knowledge/wiki/images/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: roman
+- [[_archive/auto-generated/images-stale/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: roman
 - [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: edward
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edward hopper 1943|Artist - edward hopper 1943]] — shared language: edward
 <!-- vault-crosslinks:end -->

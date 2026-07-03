@@ -1,7 +1,7 @@
 ---
 title: "New Ipad 2018"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/New Ipad 2018.heic"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/New Ipad 2018.heic"
 source_relpath: "wallpapers/New Ipad 2018.heic"
 collection: "wallpapers"
 inferred_year: "2018"
@@ -22,7 +22,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/New Ipad 2018.heic|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/New Ipad 2018.heic`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/New Ipad 2018.heic`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

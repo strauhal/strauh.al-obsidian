@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Gold Scab Eruption in Filthy Lucre (The Creditor) by James McNeill Whistler (1879) 0c933702|The Gold Scab Eruption in Filthy Lucre (The Creditor) by James McNeill Whistler (1879)]] — shared language: mcneill, whistler, james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: james
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: james
-- [[knowledge/wiki/artists/Artist - james fletcher|Artist - james fletcher]] — shared language: james
-- [[knowledge/wiki/images/f 111 by james rosenquist 196465 2ba838ca|f 111 by james rosenquist 196465]] — shared language: james
+- [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: james
 <!-- vault-crosslinks:end -->

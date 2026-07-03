@@ -1,12 +1,12 @@
 ---
 title: "october 25 1992 by bill watterson 1992"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/october_25_1992_by_bill_watterson_1992.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/october_25_1992_by_bill_watterson_1992.jpg"
 source_relpath: "1900s/october_25_1992_by_bill_watterson_1992.jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "bill watterson"
-dimensions: "525x704"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - bill watterson]]
 
 Source: [[media/strauh.al3.1/1900s/october_25_1992_by_bill_watterson_1992.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/october_25_1992_by_bill_watterson_1992.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/october_25_1992_by_bill_watterson_1992.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

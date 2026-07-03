@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/images/1075 Moebius 5 3933f50e|1075 Moebius 5]] — shared language: moebius
-- [[knowledge/wiki/images/Moebius d e10e1915|Moebius d]] — shared language: moebius
+- [[knowledge/wiki/images/Art of Moebius 51eaa0f5|Art of Moebius]] — shared language: moebius
 <!-- vault-crosslinks:end -->

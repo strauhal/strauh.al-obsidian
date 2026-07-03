@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tadanori yokoo 1966|Artist - tadanori yokoo 1966]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the voice of one by tadanori yokoo 1975 f0bd36d5|the voice of one by tadanori yokoo 1975]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the flower hana by tadanori yokoo 1966 5f00d0c1|the flower hana by tadanori yokoo 1966]] — shared language: tadanori, yokoo
-- [[knowledge/wiki/images/the monster by bernie wrightson 1973 6de53a6a|the monster by bernie wrightson 1973]] — shared language: monster
+- [[knowledge/wiki/images/Photograph Crow With Monster Energy Can In Puddle aeeeac6e|Photograph Crow With Monster Energy Can In Puddle]] — shared language: monster
 <!-- vault-crosslinks:end -->

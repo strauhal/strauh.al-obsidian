@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - valentin jeck|Artist - valentin jeck]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - valentin jeck|Artist - valentin jeck]] — named in this note
 - [[knowledge/wiki/images/valentin serov girl with peaches 1887 3ce012a3|valentin serov girl with peaches 1887]] — shared language: valentin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vahram muratyan 2015|Artist - vahram muratyan 2015]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vahram muratyan|Artist - vahram muratyan]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

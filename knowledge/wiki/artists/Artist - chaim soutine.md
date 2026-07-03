@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Bather by Chaim Soutine (c. 1924) 511efdec|Bather by Chaim Soutine (c. 1924)]] — shared language: chaim, soutine
 - [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
-- [[knowledge/wiki/images/painting of a woman carried through stormy air by a bird 9ebe504c|painting of a woman carried through stormy air by a bird]] — shared language: bird, woman
 - [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
-- [[knowledge/wiki/images/framed painting of a small bird against a blue field 717ec88f|framed painting of a small bird against a blue field]] — shared language: bird
-- [[knowledge/wiki/images/ink and wash painting of a stylized dark figure or bird 661de875|ink and wash painting of a stylized dark figure or bird]] — shared language: bird
-- [[knowledge/wiki/images/stylized painting of a teal bird in a tropical landscape at night 2d2c3cbe|stylized painting of a teal bird in a tropical landscape at night]] — shared language: bird
+- [[knowledge/wiki/images/Illustration Line Drawing of Person and Bird at Table with Music Notes 334c9b0c|Illustration Line Drawing of Person and Bird at Table with Music Notes]] — shared language: bird
+- [[knowledge/wiki/images/Photograph Photograph of M.C. Escher's Gravestone with Tessellating Bird Design b663841e|Photograph Photograph of M.C. Escher's Gravestone with Tessellating Bird Design]] — shared language: bird
+- [[knowledge/wiki/images/Illustration Ceramic Bust of Woman Holding Blue Bird 1f245921|Illustration Ceramic Bust of Woman Holding Blue Bird]] — shared language: bird
 <!-- vault-crosslinks:end -->

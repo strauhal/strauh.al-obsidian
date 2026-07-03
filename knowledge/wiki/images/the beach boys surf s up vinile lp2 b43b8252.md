@@ -1,12 +1,12 @@
 ---
 title: "the beach boys surf s up vinile lp2"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg"
 source_relpath: "album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: "600x600"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/album_covers/the-beach-boys-surf-s-up-vinile-lp2.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

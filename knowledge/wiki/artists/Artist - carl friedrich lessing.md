@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: friedrich
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: carl
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: friedrich
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: carl
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: friedrich
-- [[knowledge/wiki/artists/Artist - carl bloch|Artist - carl bloch]] — shared language: carl
+- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: carl
 <!-- vault-crosslinks:end -->

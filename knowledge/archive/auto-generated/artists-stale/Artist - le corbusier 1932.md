@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/perspective of the voisin plan for paris by le corbusier 1925 5f2aa886|perspective of the voisin plan for paris by le corbusier 1925]] — shared language: corbusier
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: corbusier
 - [[knowledge/wiki/images/pablo picasso femme dans un fauteuil woman in an armchair 1938 0b88bc86|pablo picasso femme dans un fauteuil woman in an armchair 1938]] — shared language: femme
-- [[knowledge/wiki/images/femme a la guitare by pablo picasso 1924 745ba072|femme a la guitare by pablo picasso 1924]] — shared language: femme
+- [[knowledge/wiki/images/T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953) 9666a4d3|T u00eate de femme (Head of a Woman) by Pablo Picasso (1952 1953)]] — shared language: femme
 <!-- vault-crosslinks:end -->

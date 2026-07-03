@@ -32,7 +32,7 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/screenshot of a digital avatar profile with a farewell message 9b6bc982|screenshot of a digital avatar profile with a farewell message]] — shared language: avatar
-- [[knowledge/wiki/artists/Artist - radiating light and clouds|Artist - radiating light and clouds]] — nearby note in the same source series
+- [[knowledge/wiki/images/Illustration Yantra Illustration of Rahu, Garuda, and a Four Armed Deity 764c2a09|Illustration Yantra Illustration of Rahu, Garuda, and a Four Armed Deity]] — shared language: garuda
+- [[knowledge/wiki/artists/Artist - rachel ruysch after|Artist - rachel ruysch after]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - ralph mcquarrie|Artist - ralph mcquarrie]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

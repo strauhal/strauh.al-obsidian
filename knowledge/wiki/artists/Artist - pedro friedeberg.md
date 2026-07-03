@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - peder mrk mnsted|Artist - peder mrk mnsted]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - peeling layers on a yellow wall|Artist - peeling layers on a yellow wall]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - pepe salot|Artist - pepe salot]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - pavel tchelitchew|Artist - pavel tchelitchew]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

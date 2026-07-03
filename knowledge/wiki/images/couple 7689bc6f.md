@@ -1,12 +1,12 @@
 ---
 title: "couple"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/couple.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/couple.jpg"
 source_relpath: "photography/couple.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1320x2004"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/couple.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/couple.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/couple.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: couple
+- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
+- [[knowledge/wiki/images/Photograph Couple Walking On Busy Street At Night 1f305f0b|Photograph Couple Walking On Busy Street At Night]] — shared language: couple
+- [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: couple
+- [[knowledge/wiki/images/embracing couple by gustav klimt c 19071908 9cb33325|embracing couple by gustav klimt c 19071908]] — shared language: couple
 <!-- vault-crosslinks:end -->

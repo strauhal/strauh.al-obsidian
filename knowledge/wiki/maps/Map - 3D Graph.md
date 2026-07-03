@@ -61,10 +61,10 @@ python3 tools/wiki_refresh.py     # full vault refresh (includes it)
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: mind, vault, literal
-- [[Welcome|strauh.al Knowledge Base]] — shared language: graph, ideas, vault
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: graph, ideas, vault
-- [[knowledge/wiki/images/red ink abstract biomorphic drawing on graph paper bc6ed6cd|red ink abstract biomorphic drawing on graph paper]] — shared language: graph
-- [[knowledge/wiki/images/black and white graph showing a single line splitting repeatedly into a dense chaotic region 034260fb|black and white graph showing a single line splitting repeatedly into a dense chaotic region]] — shared language: graph, single
-- [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: click, drag, theme
-- [[knowledge/wiki/images/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, built
+- [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, graph, vault
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, graph, vault
+- [[knowledge/wiki/images/Diagram Digital Mind Map Graph View with Interconnected Nodes 834b78a8|Diagram Digital Mind Map Graph View with Interconnected Nodes]] — shared language: graph, mind, view
+- [[knowledge/wiki/images/And Stay Down by Charles Keegan (1998) bfad2c1b|And Stay Down by Charles Keegan (1998)]] — shared language: down, stay
+- [[knowledge/wiki/images/Fly Day Chinatown by Yasuha (1981) e3e2bb94|Fly Day Chinatown by Yasuha (1981)]] — shared language: fly
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - maurice denis|Artist - maurice denis]] — shared language: maurice
 - [[knowledge/wiki/images/la danse the dance by maurice denis 1905 b381d6e9|la danse the dance by maurice denis 1905]] — shared language: maurice
 - [[knowledge/wiki/artists/Artist - maurice pillard verneuil|Artist - maurice pillard verneuil]] — shared language: maurice
+- [[knowledge/wiki/images/Logging in Winter, Quebec by Maurice Cullen (1906) 867f9eaa|Logging in Winter, Quebec by Maurice Cullen (1906)]] — shared language: maurice
 - [[knowledge/wiki/images/documents decoratifs plate 87 by maurice pillard verneuil 1898 e860676f|documents decoratifs plate 87 by maurice pillard verneuil 1898]] — shared language: maurice
 - [[knowledge/wiki/images/east river by george ault 1926 bfa6e7ea|east river by george ault 1926]] — shared language: east, river
-- [[knowledge/wiki/images/oil painting portrait of an east asian woman against a red floral background 657d802b|oil painting portrait of an east asian woman against a red floral background]] — shared language: east
 <!-- vault-crosslinks:end -->

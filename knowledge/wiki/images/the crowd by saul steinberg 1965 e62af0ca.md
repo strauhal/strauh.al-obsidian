@@ -1,12 +1,12 @@
 ---
 title: "the crowd by saul steinberg 1965"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_crowd_by_saul_steinberg_1965.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_crowd_by_saul_steinberg_1965.jpg"
 source_relpath: "1900s/the_crowd_by_saul_steinberg_1965.jpg"
 collection: "1900s"
 inferred_year: "1965"
 artist: "saul steinberg"
-dimensions: "1000x607"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - saul steinberg]]
 
 Source: [[media/strauh.al3.1/1900s/the_crowd_by_saul_steinberg_1965.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_crowd_by_saul_steinberg_1965.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_crowd_by_saul_steinberg_1965.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — same artist: saul steinberg
 - [[knowledge/wiki/images/the eye of the observer by saul steinberg 1966 dc3e97c2|the eye of the observer by saul steinberg 1966]] — same artist: saul steinberg
 - [[knowledge/wiki/images/man in chair with drink and cigarette by saul steinberg 1966 d630b2e6|man in chair with drink and cigarette by saul steinberg 1966]] — same artist: saul steinberg
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/images/No Ideas by Saul Steinberg (1970) e2437dd2|No Ideas by Saul Steinberg (1970)]] — shared language: steinberg, saul
 <!-- vault-crosslinks:end -->

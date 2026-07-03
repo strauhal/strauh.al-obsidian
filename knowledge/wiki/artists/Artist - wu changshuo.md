@@ -21,6 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/tea-scones-and-socially-responsible-sex-magic-the-egalitarian-occultism-of-dion-fortune|Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune]] — shared language: tea
+- [[knowledge/wiki/images/Comic Two Panel Comic About Videoconference And Coffee Tea Preference by VOST 1ea5c8e8|Comic Two Panel Comic About Videoconference And Coffee Tea Preference by VOST]] — shared language: tea
 - [[knowledge/wiki/images/stephen j card the great tea clipper fiery cross late 20th century a3ad5211|stephen j card the great tea clipper fiery cross late 20th century]] — shared language: tea
-- [[knowledge/wiki/artists/Artist - woshibai|Artist - woshibai]] — nearby note in the same source series
+- [[knowledge/wiki/images/Illustration Men Dressed as Native Americans Destroying Tea Crates on Ship 25b4383a|Illustration Men Dressed as Native Americans Destroying Tea Crates on Ship]] — shared language: tea
 <!-- vault-crosslinks:end -->

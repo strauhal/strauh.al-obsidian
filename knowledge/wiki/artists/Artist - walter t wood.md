@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
-- [[knowledge/wiki/artists/Artist - barbara a wood|Artist - barbara a wood]] — shared language: wood
 - [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
 - [[knowledge/wiki/images/interior of the artist s library by walter gay 1909 13 00c7b8f8|interior of the artist s library by walter gay 1909 13]] — shared language: walter
-- [[knowledge/wiki/images/the click by jonas wood 2019 e253761a|the click by jonas wood 2019]] — shared language: wood
 - [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 <!-- vault-crosslinks:end -->

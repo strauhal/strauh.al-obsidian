@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - robert delaunay|Artist - robert delaunay]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/artists/Artist - sonia delaunay|Artist - sonia delaunay]] — shared language: delaunay
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sonia delaunay 1938|Artist - sonia delaunay 1938]] — shared language: delaunay
 - [[knowledge/wiki/images/rythme couleur by sonia delaunay 1938 f3f8ef7e|rythme couleur by sonia delaunay 1938]] — shared language: delaunay

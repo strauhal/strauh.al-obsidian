@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1550s"
 source_kind: "date_bucket"
-count: "5"
+count: "6"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1550s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 6
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550-1552).jpg]]
 
 ![[media/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg]]
 

@@ -56,7 +56,7 @@ Images attributed by filename: 12
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/images/satan f19b348b|satan]] — named in this note
 - [[knowledge/wiki/images/gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861 94edab78|gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861]] — shared language: gustave, canto, inferno
+- [[knowledge/wiki/images/The Vision of the Valley of Dry Bones by Gustave Dor (1866) 61a0db39|The Vision of the Valley of Dry Bones by Gustave Dor (1866)]] — shared language: gustave, dry, bones
 - [[knowledge/wiki/images/illustration for dante alighieri s paradiso canto ii 1544 5719abad|illustration for dante alighieri s paradiso canto ii 1544]] — shared language: canto, dante, paradiso
 - [[knowledge/wiki/artists/Artist - gustave caillebotte|Artist - gustave caillebotte]] — shared language: gustave
-- [[knowledge/wiki/artists/Artist - gustave moreau|Artist - gustave moreau]] — shared language: gustave
 <!-- vault-crosslinks:end -->

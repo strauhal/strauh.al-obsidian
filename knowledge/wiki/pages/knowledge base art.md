@@ -1,10 +1,10 @@
 ---
 title: "knowledge base art"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/knowledge_base/art.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/art.html"
 source_relpath: "knowledge_base/art.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base art
@@ -507,13 +507,17 @@ strauh.al/knowledge_base/art
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 92 of 438 links connected (47 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 103 of 438 links connected (52 nodes).*
 
 **[[The Internet as Confidant]]** — [Wang Kelly 王佳怡 - 25 Artworks, Bio & Shows on Artsy](https://www.artsy.net/artist/wang-kelly-wang-jia-yi) · [Andy Warhol's Marilyn Monroe 31197 / Art / Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/andy-warhols-marilyn-monroe-31197?icmp=LP-SHSB-XL-Art_Warhol_Sidekick_XL_Monroe_31197-TH-NO-SKIXQ63RLD) · [Rafael Lozano-Hemmer / Volute, Au Clair de la Lune (2016) / Available for Sale / Artsy](https://www.artsy.net/artwork/rafael-lozano-hemmer-volute-au-clair-de-la-lune) · [what it takes to live as an artist in new york](https://www.artsy.net/article/artsy-editorial-takes-live-artist-new-york) · [i'm an artist moving to nyc soon. i have questions.](https://www.reddit.com/r/AskNYC/comments/6gjj58/im_an_artist_moving_to_nyc_soon_i_have_questions/) · [10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois) · [yale art dept website "officially cemented trolling"](https://hyperallergic.com/12252/reddit-yale-art-dept/) · [exams that decide the futures of chinese art students](https://www.artsy.net/article/artsy-editorial-grueling-hyper-competitive-exams-decide-futures-chinese-art-students) · [entrance exam for an art school in china](https://www.reddit.com/r/pics/comments/81pj3w/entrance_exam_for_an_art_school_in_china/) · [is art school only for the young?](https://www.artsy.net/article/artsy-editorial-art-school-young) · [too young for mfa?](https://forum.thegradcafe.com/topic/48388-too-young-for-mfa/) · [end of eva question](https://www.reddit.com/r/evangelion/comments/5kscu3/end_of_eva_question/) · [alicia mccarthy artworks](https://www.artsy.net/artist/alicia-mccarthy) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson) · [matthew barney, river of fundament discussion](https://www.reddit.com/r/TrueFilm/comments/krfyuf/matthew_barney_river_of_fundament_and_the/) · [history of polish movie posters](https://sabukaru.online/articles/the-insane-history-of-polish-movie-posters) · [clog](https://www.clog-online.com/) · [b12: 1st (framed) page](http://music.hyperreal.org/artists/b12/1st-frame.html)
+
+**[[The Panel as Canvas]]** — [30 best anime movies of all time](https://jw-webmagazine.com/best-anime-movies/) · [100 best anime movies of all time](https://www.pastemagazine.com/movies/best-anime-movies/the-100-best-anime-movies-of-all-time/#100-the-boy-and-the-beast) · [neon genesis evangelion (wikipedia)](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion) · [this fucked me up: 'neon genesis evangelion'](https://www.gq.com/story/neon-genesis-evangelion-gq-is-an-anime-blog-now) · [a deep dive into hideaki anno’s evangelion](https://opuszine.us/posts/neon-genesis-evangelion-hideaki-anno-deep-dive) · [how hideaki anno grappled with depression in anime](https://www.polygon.com/2019/6/19/18683634/neon-genesis-evangelion-hideaki-anno-depression-shinji-anime-characters-movies) · [can you explain the meaning of evangelion?](http://www.evamonkey.com/ask-john/can-you-explain-the-meaning-of-evangelion.php) · [the end of the end of evangelion explained](https://filmcolossus.com/end-of-evangelion-explained/) · [end of evangelion production trivia](https://www.cbr.com/end-of-evangelion-production-trivia/) · [meaning of the crayon painting in end of evangelion](https://anime.stackexchange.com/questions/42383/whats-the-meaning-of-the-crayon-painting-that-appear-in-end-of-evangelion) · [end of eva question](https://www.reddit.com/r/evangelion/comments/5kscu3/end_of_eva_question/) · [psychoanalysis of shinji ikari](https://medium.com/@ronnakritoathenglertrattana/neon-genesis-evangelion-main-character-psychoanalysis-why-shinji-ikari-is-so-weird-51b05b8b347d) · ["i wanted to erase evangelion"](https://sailorbrazil.tumblr.com/post/178219059317/i-wanted-to-erase-evangelion-about-yuko) · [evangelion 超•現實 (behance)](https://www.behance.net/gallery/99648687/EVANGELION-)
 
 **[[Artist - joseph beuys]]** — [JOSEPH BEUYS: I LIKE AMERICA AND AMERICA LIKES ME / Kids of Dada](https://www.kidsofdada.com/blogs/magazine/35963521-joseph-beuys-i-like-america-and-america-likes-me) · [Stories of Iconic Artworks: Joseph Beuys’ I Like America and America Likes Me / Artland Magazine](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/) · [Fat, felt and a fall to Earth: the making and myths of Joseph Beuys / Art and design / The Guardian](https://www.theguardian.com/artanddesign/2016/jan/30/fat-felt-fall-earth-making-and-myths-joseph-beuys) · [Felt Suit: The Fabric of Joseph Beuys’s Life – SAMBlog](http://samblog.seattleartmuseum.org/2016/12/felt-suit-joseph-beuys/) · [joseph beuys 100 years](http://artasiapacific.com/Blog/WhatToSeeAtJosephBeuys100Years) · [‘conzert coyote iii’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-conzert-coyote-iii-konzertkasse-heinersdorff-ar00973) · [‘coyote’, joseph beuys](https://www.tate.org.uk/art/artworks/beuys-coyote-ar00733) · [coyote iii : joseph beuys, nam june paik](https://www.si.edu/object/siris_sil_698006) · [art: joseph beuys at the feldman gallery](https://www.nytimes.com/1986/10/31/arts/art-joseph-beuys-at-the-feldman-gallery.html) · [the shaman artist (joseph beuys)](https://www.nytimes.com/1979/10/28/archives/article-4-no-title-beuys.html) · [joseph beuys - i like america and america likes me](https://magazine.artland.com/stories-of-iconic-artworks-joseph-beuys-i-like-america-and-america-likes-me/) · [joseph beuys (artic)](https://www.artic.edu/artists/33630/joseph-beuys)
 
 **[[The Spatial Web]]** — [Wang Kelly 王佳怡 - 25 Artworks, Bio & Shows on Artsy](https://www.artsy.net/artist/wang-kelly-wang-jia-yi) · [Rafael Lozano-Hemmer / Volute, Au Clair de la Lune (2016) / Available for Sale / Artsy](https://www.artsy.net/artwork/rafael-lozano-hemmer-volute-au-clair-de-la-lune) · [what it takes to live as an artist in new york](https://www.artsy.net/article/artsy-editorial-takes-live-artist-new-york) · [10 morning routines of highly creative people](https://www.artsy.net/article/artsy-editorial-morning-routines-famous-artists-andy-warhol-louise-bourgeois) · [exams that decide the futures of chinese art students](https://www.artsy.net/article/artsy-editorial-grueling-hyper-competitive-exams-decide-futures-chinese-art-students) · [is art school only for the young?](https://www.artsy.net/article/artsy-editorial-art-school-young) · [alicia mccarthy artworks](https://www.artsy.net/artist/alicia-mccarthy) · [steve jobs and andy warhol](https://www.artsy.net/article/artsy-editorial-steve-jobs-andy-warhol-computer-lesson)
+
+**[[Artist - Barry McGee]]** — [Barry McGee - Wikipedia](https://en.wikipedia.org/wiki/Barry_McGee) · [Barry McGee - Interactive Feature - T Magazine](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/09/t-magazine/09face-collage.html?_r=0) · [barry mcgee show at ica boston](https://www.nytimes.com/2013/03/31/arts/design/barry-mcgee-show-at-institute-of-contemporary-art-in-boston.html) · [market index: barry mcgee](https://www.artforum.com/print/200804/market-index-barry-mcgee-19755) · [barry mcgee (hypebeast)](https://hypebeast.com/tags/barry-mcgee) · [barry mcgee in the studio](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html) · [barry mcgee’s tag murals](https://publicdelivery.org/barry-mcgee-tag-mural/)
 
 **[[Barry McGee]]** — [Barry McGee - Wikipedia](https://en.wikipedia.org/wiki/Barry_McGee) · [Barry McGee - Interactive Feature - T Magazine](https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/09/t-magazine/09face-collage.html?_r=0) · [barry mcgee show at ica boston](https://www.nytimes.com/2013/03/31/arts/design/barry-mcgee-show-at-institute-of-contemporary-art-in-boston.html) · [market index: barry mcgee](https://www.artforum.com/print/200804/market-index-barry-mcgee-19755) · [barry mcgee (hypebeast)](https://hypebeast.com/tags/barry-mcgee) · [barry mcgee in the studio](https://rvca.com/blog/art/barry-mcgee-in-the-studio.html) · [barry mcgee’s tag murals](https://publicdelivery.org/barry-mcgee-tag-mural/)
 
@@ -529,7 +533,7 @@ strauh.al/knowledge_base/art
 
 **[[Art Fills the God-Shaped Hole]]** — [jahra wasasala - god-house](https://jahra.xyz/godhouse) · [jerry hall and mick jagger had a “terrible” experience after eating a 'psychedelic' omelette](https://www.music-news.com/news/UK/37088/Read)
 
-**[[Artist - kanye west]]** — [kanye west calls matthew barney jesus](https://news.artnet.com/art-world/kanye-west-called-his-life-walking-performance-art-527441) · [kanye west: "matthew barney is my jesus"](https://www.stereogum.com/1884763/kanye-west-explains-his-shocking-famous-video-matthew-barney-is-my-jesus/news/)
+**[[Artist - Hideaki Anno]]** — [a deep dive into hideaki anno’s evangelion](https://opuszine.us/posts/neon-genesis-evangelion-hideaki-anno-deep-dive) · [how hideaki anno grappled with depression in anime](https://www.polygon.com/2019/6/19/18683634/neon-genesis-evangelion-hideaki-anno-depression-shinji-anime-characters-movies)
 
 **[[Artist - pipilotti rist]]** — [Pipilotti Rist - Wikipedia](https://en.wikipedia.org/wiki/Pipilotti_Rist) · [pipilotti rist: big heartedness, be my neighbor](https://www.moca.org/exhibition/pipilotti-rist)
 
@@ -537,19 +541,23 @@ strauh.al/knowledge_base/art
 
 **[[Memory and Preservation]]** — [The Persistence of Memory - Wikipedia](https://en.wikipedia.org/wiki/The_Persistence_of_Memory) · [jasper johns: how a gray painting can break your heart](https://www.nytimes.com/interactive/2022/01/16/arts/design/jasper-johns-memory-of-my-feelings.html)
 
+**[[Artist - Patrick Nagel]]** — [Patrick Nagel - Wikipedia](https://en.wikipedia.org/wiki/Patrick_Nagel)
+
+**[[Artist - Shel Silverstein]]** — [shel silverstein, gary larson and albert einstein](https://www.mentalfloss.com/article/18545/shel-silverstein-gary-larson-and-albert-einstein-their-first-29-years)
+
+**[[Artist - Stefan Burnett]]** — [STEFAN BURNETT](https://stefanburnett.com/)
+
+**[[Artist - Unomoralez]]** — [unomoralez :: supernature!](http://unomoralez.com/)
+
+**[[Artist - Vija Celmins]]** — [vija celmins](https://www.tate.org.uk/art/artists/vija-celmins-2731/explore-art-vija-celmins)
+
 **[[Artist - andrew wyeth]]** — [An In-Depth Look at 'Christina's World' by Andrew Wyeth](https://www.thoughtco.com/christinas-world-by-andrew-wyeth-183007)
 
-**[[Artist - cam collins]]** — [cam collins](https://camcollins.neocities.org/)
-
 **[[Artist - egon schiele]]** — [Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
-
-**[[Artist - fernando]]** — [Fernando Ciancolini, l’ultimo scalpellino eccellenza vitorchianese / TusciaUp](https://www.tusciaup.com/fernando-ciancolini-lultimo-scalpellino-eccellenza-vitorchianese/110729)
 
 **[[Artist - gary larson]]** — [shel silverstein, gary larson and albert einstein](https://www.mentalfloss.com/article/18545/shel-silverstein-gary-larson-and-albert-einstein-their-first-29-years)
 
 **[[Artist - hilma af klint]]** — [Hilma af Klint - Wikipedia](https://en.wikipedia.org/wiki/Hilma_af_Klint)
-
-**[[Artist - julie mehretu]]** — [Julie Mehretu - Wikipedia](https://en.wikipedia.org/wiki/Julie_Mehretu)
 
 **[[Artist - le corbusier]]** — [Le Corbusier Lamps — ICR - ICC](https://www.icr-icc.com/le-corbusier-lamps)
 
@@ -578,6 +586,8 @@ strauh.al/knowledge_base/art
 **[[Artist - rudolf arnheim]]** — [Rudolf Arnheim - Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Arnheim)
 
 **[[Dead Architecture]]** — [“Radical Nature: Art and Architecture for a Changing Planet, 1969–2009” at Barbican Art Gallery - Artforum International](https://www.artforum.com/print/previews/200905/radical-nature-art-and-architecture-for-a-changing-planet-1969-2009-22688)
+
+**[[Decadence Is Beautiful]]** — [Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
 
 **[[Egon Schiele]]** — [Egon Schiele - Wikipedia](https://en.wikipedia.org/wiki/Egon_Schiele)
 
@@ -608,12 +618,12 @@ strauh.al/knowledge_base/art
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
+- [[knowledge/wiki/anchors/hideaki-anno|Hideaki Anno]] — named in this note
+- [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 - [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/anchors/hideaki-anno|Hideaki Anno]] — named in this note
-- [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — named in this note
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
+- [[knowledge/wiki/images/Coyote by Joseph Beuys (1974) 6ca766fe|Coyote by Joseph Beuys (1974)]] — named in this note
+- [[knowledge/wiki/images/Illustration Untitled by Zdzis aw Beksi ski 726ae928|Illustration Untitled by Zdzis aw Beksi ski]] — named in this note
+- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
 <!-- vault-crosslinks:end -->

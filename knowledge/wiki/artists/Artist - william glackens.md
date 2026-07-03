@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Maypole, Central Park by William Glackens (c. 1905) 27046058|Maypole, Central Park by William Glackens (c. 1905)]] — shared language: glackens, william
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 - [[knowledge/wiki/images/the fountain of youth by john william waterhouse 1909 7367a6e4|the fountain of youth by john william waterhouse 1909]] — shared language: william, fountain
 - [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
 - [[knowledge/wiki/images/nebuchadnezzar by william blake c 1795 d9d30f8e|nebuchadnezzar by william blake c 1795]] — shared language: william
-- [[knowledge/wiki/images/the annunciation by john william waterhouse 1914 f6963c66|the annunciation by john william waterhouse 1914]] — shared language: william
 <!-- vault-crosslinks:end -->

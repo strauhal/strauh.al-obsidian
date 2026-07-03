@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - d angelo lovell williams|Artist - d angelo lovell williams]] — shared language: lovell
 - [[knowledge/wiki/artists/Artist - tom wesselmann|Artist - tom wesselmann]] — shared language: tom
 - [[knowledge/wiki/artists/Artist - tom thomson|Artist - tom thomson]] — shared language: tom
-- [[knowledge/wiki/artists/Artist - tom parker|Artist - tom parker]] — shared language: tom
-- [[knowledge/wiki/images/nah by d angelo lovell williams 2018 26d3d519|nah by d angelo lovell williams 2018]] — shared language: lovell
 - [[knowledge/wiki/images/sunset by tom thomson c 1915 8946d207|sunset by tom thomson c 1915]] — shared language: tom
+- [[knowledge/wiki/anchors/tom-tykwer|Tom Tykwer]] — shared language: tom
+- [[knowledge/wiki/images/masterworks 35 by tom wesselmann 1979 76ceed42|masterworks 35 by tom wesselmann 1979]] — shared language: tom
+- [[knowledge/wiki/images/the west wind by tom thomson 1917 b179bc34|the west wind by tom thomson 1917]] — shared language: tom
 <!-- vault-crosslinks:end -->

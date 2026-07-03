@@ -1,12 +1,12 @@
 ---
 title: "sinbad3"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/sinbad3.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/sinbad3.jpg"
 source_relpath: "wallpapers/sinbad3.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "1540x1200"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/sinbad3.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/sinbad3.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/sinbad3.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

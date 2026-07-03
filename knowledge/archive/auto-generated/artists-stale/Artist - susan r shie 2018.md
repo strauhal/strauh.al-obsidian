@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - susan r shie|Artist - susan r shie]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - susan r shie|Artist - susan r shie]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - susan kare 1984|Artist - susan kare 1984]] — shared language: susan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - susan kare 1983|Artist - susan kare 1983]] — shared language: susan
 - [[knowledge/wiki/artists/Artist - susan kare|Artist - susan kare]] — shared language: susan

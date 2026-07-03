@@ -21,9 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - kenyon cox|Artist - kenyon cox]] — named in this note
-- [[knowledge/wiki/books/art-reading|art reading]] — shared language: art
-- [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — shared language: art
-- [[_archive/auto-generated/books-stale/arnheim-pdf|arnheim.pdf]] — shared language: art
-- [[_archive/auto-generated/books-stale/bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship|bishop-claire-artificial-hells-participatory-art-and-politics-spectatorship]] — shared language: art
-- [[_archive/auto-generated/books-stale/zen-the-art-of-macintosh1986|Zen the Art of Macintosh1986]] — shared language: art
+- [[knowledge/wiki/images/Photograph Exhibition Wall Text Titled Tradition and The Self e2783fe2|Photograph Exhibition Wall Text Titled Tradition and The Self]] — shared language: tradition
+- [[_archive/auto-generated/images-stale/exhibition wall text titled tradition and the self discussing wayne thiebaud 439efd6e|exhibition wall text titled tradition and the self discussing wayne thiebaud]] — shared language: tradition
 <!-- vault-crosslinks:end -->

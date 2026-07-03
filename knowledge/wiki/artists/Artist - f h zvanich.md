@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - frank zvanich|Artist - frank zvanich]] — shared language: zvanich
 - [[knowledge/wiki/images/landscape with yellow fields and snow capped mountains by frank zvanich 1949 bcc2aac2|landscape with yellow fields and snow capped mountains by frank zvanich 1949]] — shared language: zvanich
-- [[knowledge/wiki/images/framed western scene with cowboys and horses 15c0b7b9|framed western scene with cowboys and horses]] — shared language: cowboys, horses
 - [[knowledge/wiki/books/ray-kurzweil-the-singularity-is-near-when-humans-transcend-biology-viking-adult|The Singularity Is Near When Humans Transcend Biology-Viking Adult]] — shared language: near
-- [[knowledge/wiki/images/framed battle scene with horsemen and white horses 3cbb34b8|framed battle scene with horsemen and white horses]] — shared language: horses
 - [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
+- [[knowledge/wiki/images/Photograph Black and Orange Cats Near a Laptop ed290698|Photograph Black and Orange Cats Near a Laptop]] — shared language: near
+- [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses
 <!-- vault-crosslinks:end -->

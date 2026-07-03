@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - the hon john collier 1887|Artist - the hon john collier 1887]] — named in this note
-- [[knowledge/wiki/images/lilith by the hon john collier 1887 77dba19a|lilith by the hon john collier 1887]] — shared language: collier, hon, john
+- [[knowledge/wiki/images/lilith by the hon john collier 1887 77dba19a|lilith by the hon john collier 1887]] — shared language: hon, collier, john
+- [[knowledge/wiki/images/Eve by John Collier (1900) 2d8171d8|Eve by John Collier (1900)]] — shared language: collier, john
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
+- [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

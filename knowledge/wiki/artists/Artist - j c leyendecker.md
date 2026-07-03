@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/colorized photograph of a grand library interior with spiral staircase and checkered floor 78b7b76d|colorized photograph of a grand library interior with spiral staircase and checkered floor]] — shared language: staircase, grand
 - [[knowledge/wiki/images/the grand staircase eaton hall by joseph nash 1849 d3fec459|the grand staircase eaton hall by joseph nash 1849]] — shared language: staircase, grand
 - [[knowledge/wiki/images/design for a stage set with a grand staircase by giuseppe galli bibiena c 1740 1f491d39|design for a stage set with a grand staircase by giuseppe galli bibiena c 1740]] — shared language: staircase, grand
-- [[knowledge/wiki/images/black and white photograph of a glass spiral staircase from above e45ac679|black and white photograph of a glass spiral staircase from above]] — shared language: staircase
-- [[knowledge/wiki/images/black and white line drawing of a woman s profile roses and a staircase c8656d81|black and white line drawing of a woman s profile roses and a staircase]] — shared language: staircase
-- [[knowledge/wiki/images/framed painting of a modernist staircase and city buildings da63bc24|framed painting of a modernist staircase and city buildings]] — shared language: staircase
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: grand
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: staircase
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Crowds f9257c1a|Photograph Black and White Photograph of Grand Neoclassical Building with Crowds]] — shared language: grand
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: staircase
 <!-- vault-crosslinks:end -->

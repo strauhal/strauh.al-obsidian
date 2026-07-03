@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares
 - [[knowledge/wiki/images/tete d homme et tete de femme by pablo picasso 1951 02149920|tete d homme et tete de femme by pablo picasso 1951]] — shared language: tete
-- [[knowledge/wiki/images/square white canvas on a wall d5591b81|square white canvas on a wall]] — shared language: square
+- [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: squares
+- [[knowledge/wiki/images/Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares 6486d66f|Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares]] — shared language: squares
 - [[knowledge/wiki/images/tete de femme head of a woman by pablo picasso 1952 6914c4c5|tete de femme head of a woman by pablo picasso 1952]] — shared language: tete
-- [[knowledge/wiki/images/tete de femme head of a woman by salvador dali 1937 b1ef89d2|tete de femme head of a woman by salvador dali 1937]] — shared language: tete
-- [[knowledge/wiki/images/oil painting of a sunset landscape rendered in square brushstrokes 005e7f33|oil painting of a sunset landscape rendered in square brushstrokes]] — shared language: square
-- [[knowledge/wiki/images/black and white abstract digital wireframe structure c711bd2f|black and white abstract digital wireframe structure]] — shared language: structure
+- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
 <!-- vault-crosslinks:end -->

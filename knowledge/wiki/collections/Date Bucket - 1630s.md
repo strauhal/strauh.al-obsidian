@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1630s"
 source_kind: "date_bucket"
-count: "25"
+count: "30"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,17 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1630s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 25
+Files: 30
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/A Philosopher in Contemplation by Rembrandt van Rijn (1632).jpg]]
+
+![[media/strauh.al3.1/1600s/Man in Oriental Costume (The Noble Slav) by Rembrandt van Rijn (1632).jpeg]]
+
+![[media/strauh.al3.1/1600s/Self-Portrait by Peter Paul Rubens (1639).webp]]
+
+![[media/strauh.al3.1/1600s/The Philosopher in Meditation by Rembrandt van Rijn (c. 1632).jpg]]
 
 ![[media/strauh.al3.1/1600s/bathsheba_by_rembrandt_van_rijn_1635.jpeg]]
 
@@ -52,14 +60,6 @@ Files: 25
 ![[media/strauh.al3.1/1600s/the_repentance_of_saint_peter_by_jusepe_de_ribera_c_1630.jpg]]
 
 ![[media/strauh.al3.1/1600s/the_smokers_by_adriaen_brouwer_c_1636.jpg]]
-
-![[media/strauh.al3.1/1600s/the_three_eldest_children_of_charles_i_by_anthony_van_dyck_1635.jpeg]]
-
-![[media/strauh.al3.1/1600s/the_three_graces_by_peter_paul_rubens_c_1635.jpeg]]
-
-![[media/strauh.al3.1/1600s/the_virgin_and_child_with_the_infant_saint_john_the_baptist_and_angels_in_a_landscape_by_peter_paul_rubens_c_1633.jpeg]]
-
-![[media/strauh.al3.1/1600s/triumph_of_the_barberini_by_pietro_da_cortona_1632_39.jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

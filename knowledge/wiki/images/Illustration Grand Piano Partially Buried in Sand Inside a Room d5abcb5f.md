@@ -1,0 +1,33 @@
+---
+title: "Illustration Grand Piano Partially Buried in Sand Inside a Room"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Grand Piano Partially Buried in Sand Inside a Room.webp"
+source_relpath: "unsorted/Illustration - Grand Piano Partially Buried in Sand Inside a Room.webp"
+collection: "unsorted"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/unsorted"]
+---
+# Illustration Grand Piano Partially Buried in Sand Inside a Room
+
+![[media/strauh.al3.1/unsorted/Illustration - Grand Piano Partially Buried in Sand Inside a Room.webp]]
+
+Collection: [[Collection - unsorted]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/unsorted/Illustration - Grand Piano Partially Buried in Sand Inside a Room.webp|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration - Grand Piano Partially Buried in Sand Inside a Room.webp`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: partially
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Man with Partially Shaved Head 9d985665|Photograph Black and White Photograph of Man with Partially Shaved Head]] — shared language: partially
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
+<!-- vault-crosslinks:end -->

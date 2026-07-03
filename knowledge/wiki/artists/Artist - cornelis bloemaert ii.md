@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - abraham bloemaert|Artist - abraham bloemaert]] — shared language: bloemaert
 - [[knowledge/wiki/images/the annunciation to the shepherds by abraham bloemaert 1599 49e202ad|the annunciation to the shepherds by abraham bloemaert 1599]] — shared language: bloemaert
+- [[knowledge/wiki/images/Portrait of a Man by Cornelis de Vos (c. 1620 1625) 316b895e|Portrait of a Man by Cornelis de Vos (c. 1620 1625)]] — shared language: cornelis
 - [[knowledge/wiki/artists/Artist - maurits cornelis escher|Artist - maurits cornelis escher]] — shared language: cornelis
 - [[knowledge/wiki/artists/Artist - barend cornelis koekkoek|Artist - barend cornelis koekkoek]] — shared language: cornelis
-- [[knowledge/wiki/images/regular division of the plane v by maurits cornelis escher 1941 5415dc80|regular division of the plane v by maurits cornelis escher 1941]] — shared language: cornelis
-- [[knowledge/wiki/images/mucius scaevola by hendrick goltzius 1586 d957ad5d|mucius scaevola by hendrick goltzius 1586]] — shared language: mucius, scaevola
+- [[knowledge/wiki/images/Mucius Scaevola by Hendrick Goltzius (1586) 28933592|Mucius Scaevola by Hendrick Goltzius (1586)]] — shared language: mucius, scaevola
 <!-- vault-crosslinks:end -->

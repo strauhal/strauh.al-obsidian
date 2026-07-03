@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - valeriy brosin|Artist - valeriy brosin]] — named in this note
-- [[knowledge/wiki/artists/Artist - valeriy shcherbak|Artist - valeriy shcherbak]] — shared language: valeriy
+- [[knowledge/wiki/images/The Last Customer by Valeriy Brosin (2013) c2d96bd6|The Last Customer by Valeriy Brosin (2013)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy brosin|Artist - valeriy brosin]] — named in this note
+- [[knowledge/wiki/images/Man and Cat by Valeriy Kucherenko (2018) db752ad7|Man and Cat by Valeriy Kucherenko (2018)]] — shared language: valeriy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy shcherbak|Artist - valeriy shcherbak]] — shared language: valeriy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - valeriy shcherbak 2019|Artist - valeriy shcherbak 2019]] — shared language: valeriy
-- [[knowledge/wiki/images/ancient undead by valeriy shcherbak 2019 78032cb2|ancient undead by valeriy shcherbak 2019]] — shared language: valeriy
-- [[knowledge/wiki/books/francis-fukuyama-the-end-of-history-and-the-last-man|The End of History and the Last Man]] — shared language: last
-- [[knowledge/wiki/images/the last judgment by michelangelo buonarroti 15361541 375de414|the last judgment by michelangelo buonarroti 15361541]] — shared language: last
+- [[_archive/auto-generated/images-stale/ancient undead by valeriy shcherbak 2019 78032cb2|ancient undead by valeriy shcherbak 2019]] — shared language: valeriy
 <!-- vault-crosslinks:end -->

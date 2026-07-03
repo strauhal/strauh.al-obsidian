@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - mark markov grinberg|Artist - mark markov grinberg]] — named in this note
-- [[knowledge/wiki/images/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark francis|Artist - mark francis]] — shared language: mark
+- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis|Artist - mark francis]] — shared language: mark
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis 2008|Artist - mark francis 2008]] — shared language: mark
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1987|Artist - mark j ferrari 1987]] — shared language: mark
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark rothko 1950|Artist - mark rothko 1950]] — shared language: mark
-- [[knowledge/wiki/images/no 10 by mark rothko 1950 36d47fad|no 10 by mark rothko 1950]] — shared language: mark
 <!-- vault-crosslinks:end -->

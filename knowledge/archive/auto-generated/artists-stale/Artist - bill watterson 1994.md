@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
+- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, hobbes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: watterson, bill, hobbes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: watterson, bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1987|Artist - bill watterson 1987]] — shared language: watterson, bill, strip
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1992|Artist - bill watterson 1992]] — shared language: watterson, bill, calvin
-- [[knowledge/wiki/images/calvin and hobbes january 31 1993 by bill watterson 1993 489d0d26|calvin and hobbes january 31 1993 by bill watterson 1993]] — shared language: watterson, bill, hobbes
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - ron galella|Artist - ron galella]] — named in this note
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: ron
-- [[knowledge/wiki/images/lennon jpg 48304f57|lennon jpg]] — shared language: lennon
-- [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — shared language: angeles, los
-- [[knowledge/wiki/images/map showing city and suburban lines in and about los angeles and connections with surrounding towns 5c23a492|map showing city and suburban lines in and about los angeles and connections with surrounding towns]] — shared language: angeles, los
-- [[knowledge/wiki/culture/movie-a-beautiful-mind|Watchlist - A Beautiful Mind]] — shared language: ron
+- [[knowledge/wiki/images/Skybox by Ron Cobb (1990) b8ea567f|Skybox by Ron Cobb (1990)]] — shared language: ron
+- [[knowledge/wiki/artists/Artist - John Lennon|Artist - John Lennon]] — shared language: lennon, john
+- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: yoko, ono
+- [[_archive/auto-generated/images-stale/lennon jpg 48304f57|lennon jpg]] — shared language: lennon
 <!-- vault-crosslinks:end -->

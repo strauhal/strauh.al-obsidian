@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - carlos bueno|Artist - carlos bueno]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - carlos bueno|Artist - carlos bueno]] — named in this note
+- [[knowledge/wiki/images/Illustration Woman Preparing Tortillas In Traditional Kitchen 3bd3b583|Illustration Woman Preparing Tortillas In Traditional Kitchen]] — named in this note
+- [[knowledge/wiki/artists/Artist - Carlos Torres|Artist - Carlos Torres]] — shared language: carlos
+- [[knowledge/wiki/images/Casadores by Carlos Torres c3441b02|Casadores by Carlos Torres]] — shared language: carlos
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: traditional
-- [[knowledge/wiki/images/photograph of a woman resembling hillary clinton standing in a narrow kitchen being filmed 62e86b7d|photograph of a woman resembling hillary clinton standing in a narrow kitchen being filmed]] — shared language: kitchen, woman
-- [[knowledge/wiki/images/sunset painting of a kitchen sink and window 986c9524|sunset painting of a kitchen sink and window]] — shared language: kitchen
-- [[knowledge/wiki/images/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, woman
-- [[knowledge/wiki/images/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: oil, woman
+- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
 <!-- vault-crosslinks:end -->

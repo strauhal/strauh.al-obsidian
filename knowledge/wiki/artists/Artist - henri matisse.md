@@ -44,10 +44,10 @@ Images attributed by filename: 9
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Dance by Henri Matisse 96446318|The Dance by Henri Matisse]] — named in this note
+- [[knowledge/wiki/images/The Red Studio by Henri Matisse (1911) 24cf6c5d|The Red Studio by Henri Matisse (1911)]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
-- [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: henri
-- [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: henri
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri
-- [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — shared language: henri
-- [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: henri
+- [[knowledge/wiki/images/Visage by Henri Matisse (1951) e96fda8e|Visage by Henri Matisse (1951)]] — shared language: matisse, henri
+- [[knowledge/wiki/images/Head of a Man with a Turban by Henri Matisse (1919) b76c221f|Head of a Man with a Turban by Henri Matisse (1919)]] — shared language: matisse, henri
+- [[knowledge/wiki/images/L'Atelier de l'artiste is a very common artwork by Henri Matisse called by Henri Matisse (1952) 7b2e7a20|L'Atelier de l'artiste is a very common artwork by Henri Matisse called by Henri Matisse (1952)]] — shared language: matisse, henri
 <!-- vault-crosslinks:end -->

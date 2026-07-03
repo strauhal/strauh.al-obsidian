@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - sol lewitt|Artist - sol lewitt]] — named in this note
-- [[knowledge/wiki/pages/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: sol, lewitt
-- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — shared language: sol, lewitt
-- [[knowledge/wiki/images/textured abstract painting of a distorted black grid 0632fdd8|textured abstract painting of a distorted black grid]] — shared language: distorted
-- [[knowledge/wiki/images/digital abstract composition with fragmented figures and distorted text 649bb9bb|digital abstract composition with fragmented figures and distorted text]] — shared language: distorted
-- [[knowledge/wiki/images/abstract painting with distorted red grid colored squares and white amorphous shapes 756bd6cb|abstract painting with distorted red grid colored squares and white amorphous shapes]] — shared language: distorted
+- [[knowledge/wiki/images/Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]] — shared language: sol
+- [[knowledge/wiki/pages/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: lewitt, sol
+- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — shared language: lewitt, sol
+- [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: distorted
+- [[_archive/auto-generated/images-stale/textured abstract painting of a distorted black grid 0632fdd8|textured abstract painting of a distorted black grid]] — shared language: distorted
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/bernardo bellotto view of warsaw from praga c 1770 d38850a7|bernardo bellotto view of warsaw from praga c 1770]] — shared language: bernardo
-- [[knowledge/wiki/images/pencil drawing of a woman laughing with hair in a ponytail 37755ad0|pencil drawing of a woman laughing with hair in a ponytail]] — shared language: laughing
 - [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
-- [[knowledge/wiki/images/framed portrait of a boy in a red coat e78bc46b|framed portrait of a boy in a red coat]] — shared language: boy
-- [[knowledge/wiki/images/framed painting of a small bird against a blue field 717ec88f|framed painting of a small bird against a blue field]] — shared language: bird
-- [[knowledge/wiki/images/ink and wash painting of a stylized dark figure or bird 661de875|ink and wash painting of a stylized dark figure or bird]] — shared language: bird
+- [[knowledge/wiki/images/Illustration Pencil Drawing of a Laughing Woman with Ponytail 49e77128|Illustration Pencil Drawing of a Laughing Woman with Ponytail]] — shared language: laughing
+- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Laughing Character in Military Uniform 971fe245|Illustration Black and White Sketch of Laughing Character in Military Uniform]] — shared language: laughing
+- [[knowledge/wiki/images/Illustration Grid of Stylized Smiling and Laughing Faces with Text 71cb65ce|Illustration Grid of Stylized Smiling and Laughing Faces with Text]] — shared language: laughing
 <!-- vault-crosslinks:end -->

@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - ara guler|Artist - ara guler]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - antonio de felipe 2015|Artist - antonio de felipe 2015]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - antonio de felipe|Artist - antonio de felipe]] — nearby note in the same source series
 - [[knowledge/archive/auto-generated/artists-stale/Artist - archibald j motley jr 1948|Artist - archibald j motley jr 1948]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

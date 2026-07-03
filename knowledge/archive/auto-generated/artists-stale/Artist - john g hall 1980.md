@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/artists/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jeff hall 2024|Artist - jeff hall 2024]] — shared language: hall
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
 <!-- vault-crosslinks:end -->

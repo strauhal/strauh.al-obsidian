@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nina leen|Artist - nina leen]] — named in this note
-- [[knowledge/wiki/images/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: sharing
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nikolay krymov 1908|Artist - nikolay krymov 1908]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: sharing
+- [[knowledge/wiki/images/Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2 8465e1eb|Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2]] — shared language: sharing
 <!-- vault-crosslinks:end -->

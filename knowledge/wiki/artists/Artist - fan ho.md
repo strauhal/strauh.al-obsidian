@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/fan-ho|fan ho]] — shared language: fan
-- [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: fan
-- [[knowledge/wiki/images/framed closeup of a hand holding a fan 3ebb07e7|framed closeup of a hand holding a fan]] — shared language: fan
-- [[knowledge/wiki/images/woodblock print of a moonlit landscape with bushes in a fan shape 1543f616|woodblock print of a moonlit landscape with bushes in a fan shape]] — shared language: fan
-- [[knowledge/wiki/images/scroll painting of a standing woman in elaborate red and green robes holding a fan 3ce1ac9f|scroll painting of a standing woman in elaborate red and green robes holding a fan]] — shared language: fan
-- [[knowledge/wiki/images/photograph of an elaborate perpendicular gothic fan vault ceiling and stained glass windows e5e83c1d|photograph of an elaborate perpendicular gothic fan vault ceiling and stained glass windows]] — shared language: fan
+- [[knowledge/wiki/images/03 w1959 e4579efc|03 w1959]] — shared language: fan
+- [[knowledge/wiki/images/06 private1960 f530a3cb|06 private1960]] — shared language: fan
+- [[knowledge/wiki/images/09 the search1960 68ca79ca|09 the search1960]] — shared language: fan
+- [[knowledge/wiki/images/14 danger1965 5e7e9a80|14 danger1965]] — shared language: fan
+- [[knowledge/wiki/images/fanho a8a0a3aa|fanho]] — shared language: fan
 <!-- vault-crosslinks:end -->

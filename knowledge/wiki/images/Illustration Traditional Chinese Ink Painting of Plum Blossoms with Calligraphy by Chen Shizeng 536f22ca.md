@@ -1,0 +1,33 @@
+---
+title: "Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng.jpeg"
+source_relpath: "2000s/Illustration - Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng.jpeg"
+collection: "2000s"
+inferred_year: "2000s"
+artist: "Chen Shizeng"
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/2000s"]
+---
+# Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng
+
+![[media/strauh.al3.1/2000s/Illustration - Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng.jpeg]]
+
+Collection: [[Collection - 2000s]]
+
+Artist: [[Artist - Chen Shizeng]]
+
+Source: [[media/strauh.al3.1/2000s/Illustration - Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, chinese
+- [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: calligraphy, chinese, ink
+- [[knowledge/wiki/images/Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms 7f454778|Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms]] — shared language: blossoms, traditional, chinese
+- [[knowledge/wiki/artists/Artist - chen yifei|Artist - chen yifei]] — shared language: chen
+- [[knowledge/wiki/images/Illustration Dynamic Abstract Black Ink Calligraphy on White Paper dce31969|Illustration Dynamic Abstract Black Ink Calligraphy on White Paper]] — shared language: calligraphy, ink
+<!-- vault-crosslinks:end -->

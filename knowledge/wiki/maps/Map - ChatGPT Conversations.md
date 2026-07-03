@@ -15,11 +15,11 @@ Awaiting a ChatGPT account export. This note will become the chronological conve
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: chatgpt, import, awaiting
-- [[knowledge/wiki/chatgpt/Memory Candidates|ChatGPT Memory Candidates]] — shared language: chatgpt, awaiting, export
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt
+- [[knowledge/wiki/chatgpt/Memory Candidates|ChatGPT Memory Candidates]] — shared language: chatgpt, awaiting, export
 - [[knowledge/wiki/maps/chatgpt suicide.rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt, import
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt
-- [[knowledge/wiki/images/05roose chatgpt superJumbo 6c19865a|05roose chatgpt superJumbo]] — shared language: chatgpt
+- [[knowledge/wiki/images/Photograph Three Robed Figures Protesting ChatGPT at a Convention 05fd4a1c|Photograph Three Robed Figures Protesting ChatGPT at a Convention]] — shared language: chatgpt
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: become
 - [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: chatgpt
 <!-- vault-crosslinks:end -->

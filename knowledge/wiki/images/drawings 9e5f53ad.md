@@ -1,12 +1,12 @@
 ---
 title: "drawings"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/drawings.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/drawings.png"
 source_relpath: "diary/drawings.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "810x620"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/drawings.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/drawings.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/drawings.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

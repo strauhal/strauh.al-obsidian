@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1730s"
 source_kind: "date_bucket"
-count: "8"
+count: "7"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1730s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 8
+Files: 7
 
 ## Sample
 
@@ -25,9 +25,7 @@ Files: 8
 
 ![[media/strauh.al3.1/1700s/st_peters_basilica_interior_pannini_1735_jpg.jpg]]
 
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1738.JPG]]
-
-![[media/strauh.al3.1/2024_downloadsfolder/IMG_1739.JPG]]
+![[media/strauh.al3.1/2000s/Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c. 1730-1735).jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

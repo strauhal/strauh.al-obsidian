@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - auguste renoir 1883|Artist - auguste renoir 1883]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1879|Artist - pierre auguste renoir 1879]] — shared language: renoir, auguste
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1874|Artist - pierre auguste renoir 1874]] — shared language: renoir, auguste
+- [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: renoir, auguste
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1875|Artist - pierre auguste renoir 1875]] — shared language: renoir, auguste
-- [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: renoir, auguste
 <!-- vault-crosslinks:end -->

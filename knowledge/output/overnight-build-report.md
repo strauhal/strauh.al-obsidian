@@ -1,6 +1,6 @@
 # Overnight Build Report
 
-Generated: 2026-07-01T18:04:02
+Generated: 2026-07-02T22:03:53
 
 ## Completed
 
@@ -16,8 +16,8 @@ Generated: 2026-07-01T18:04:02
 - People notes: 19
 - Concept notes: 25
 - Work notes: 11
-- Image notes: 8116
-- HTML page notes: 74
+- Image notes: 12864
+- HTML page notes: 75
 
 ## Morning Entry Point
 
@@ -26,12 +26,12 @@ Open [[Home]] or [[Map - Maintenance]].
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: people, work
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: added, page, influence
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: influence, page, home
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people, influence
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: archives, influence, media
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people, influence
 - [[Welcome|strauh.al Knowledge Base]] — shared language: people, counts
 - [[knowledge/wiki/books/t-stevens-michael-the-art-of-psychological-warfare-how-to-skillfully-influence-people-undetected-and-how-to-mentally-subdue-your-enemies-in-|The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal]] — shared language: people, influence
-- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
+- [[knowledge/output/library-build-report|library-build-report]] — shared language: t22, build, report
+- [[knowledge/output/lint-report|lint-report]] — shared language: curated, missing, people
+- [[knowledge/wiki/images/The Morning Visitor by Dino Buzzati (1963) 1c418e93|The Morning Visitor by Dino Buzzati (1963)]] — shared language: morning
 <!-- vault-crosslinks:end -->

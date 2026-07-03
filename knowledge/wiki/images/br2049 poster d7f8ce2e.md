@@ -1,12 +1,12 @@
 ---
 title: "br2049 poster"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/br2049_poster.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/br2049_poster.jpeg"
 source_relpath: "wallpapers/br2049_poster.jpeg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: "2160x3240"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/wallpapers/br2049_poster.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/wallpapers/br2049_poster.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/wallpapers/br2049_poster.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

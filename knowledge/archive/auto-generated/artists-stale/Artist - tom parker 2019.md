@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tom parker|Artist - tom parker]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tom parker|Artist - tom parker]] — named in this note
 - [[knowledge/wiki/artists/Artist - tom lovell|Artist - tom lovell]] — shared language: tom
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom lovell 1950|Artist - tom lovell 1950]] — shared language: tom
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom thomson 1917|Artist - tom thomson 1917]] — shared language: tom

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - anton raphael mengs|Artist - anton raphael mengs]] — named in this note
 - [[knowledge/wiki/images/the allegory of the arts by anton raphael mengs c 1777 c08d18eb|the allegory of the arts by anton raphael mengs c 1777]] — shared language: mengs, anton, raphael
+- [[knowledge/wiki/images/Portrait of Mariana de Silva y Sarmiento, Duchess of Huescar (Unfinished) by Anton Raphael Mengs (c. 1775) a93807c7|Portrait of Mariana de Silva y Sarmiento, Duchess of Huescar (Unfinished) by Anton Raphael Mengs (c. 1775)]] — shared language: mengs, anton, raphael
 - [[knowledge/archive/auto-generated/artists-stale/Artist - raphael 1511 1512|Artist - raphael 1511 1512]] — shared language: raphael
+- [[knowledge/wiki/artists/Artist - Joseph Raphael|Artist - Joseph Raphael]] — shared language: raphael
 - [[knowledge/wiki/artists/Artist - raphael|Artist - raphael]] — shared language: raphael
-- [[knowledge/wiki/images/raphael the school of athens 15091511 077ebfc7|raphael the school of athens 15091511]] — shared language: raphael
-- [[knowledge/wiki/images/the expulsion of heliodorus from the temple by raphael 1511 1512 4f2587f6|the expulsion of heliodorus from the temple by raphael 1511 1512]] — shared language: raphael
 <!-- vault-crosslinks:end -->

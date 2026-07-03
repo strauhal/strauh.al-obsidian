@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - adrian ghenie|Artist - adrian ghenie]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - adrian ghenie|Artist - adrian ghenie]] — named in this note
 - [[knowledge/wiki/books/adrian-parr-ed-the-deleuze-dictionary|The Deleuze Dictionary]] — shared language: adrian
-- [[knowledge/wiki/images/surreal skeleton scene on a white bed with dark posts 122f0030|surreal skeleton scene on a white bed with dark posts]] — shared language: bed
-- [[knowledge/wiki/images/painting of an unmade bed with a laptop mug and pink framed picture ecef02e4|painting of an unmade bed with a laptop mug and pink framed picture]] — shared language: bed
-- [[knowledge/wiki/images/photograph of a cluttered attic room with a computer desk and bed fac90992|photograph of a cluttered attic room with a computer desk and bed]] — shared language: bed
-- [[knowledge/wiki/images/black and white cross hatching illustration of a muscular figure looming over a person in bed 1944cec1|black and white cross hatching illustration of a muscular figure looming over a person in bed]] — shared language: bed
+- [[knowledge/wiki/images/Illustration Three Nude Figures On A Bed With Landscape Background 275c607c|Illustration Three Nude Figures On A Bed With Landscape Background]] — shared language: bed
+- [[knowledge/wiki/images/Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing 0ce4c58d|Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing]] — shared language: bed
+- [[knowledge/wiki/images/Illustration Young Woman Smoking on Bed in Cluttered Room 2ac094b2|Illustration Young Woman Smoking on Bed in Cluttered Room]] — shared language: bed
+- [[knowledge/wiki/images/Photograph Man In Sunglasses Sits In Yellow Room With Bed 4904b155|Photograph Man In Sunglasses Sits In Yellow Room With Bed]] — shared language: bed
 <!-- vault-crosslinks:end -->

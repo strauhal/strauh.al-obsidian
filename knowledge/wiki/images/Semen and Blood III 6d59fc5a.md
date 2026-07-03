@@ -1,12 +1,12 @@
 ---
 title: "Semen and Blood III"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Semen_and_Blood_III.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Semen_and_Blood_III.jpg"
 source_relpath: "photography/Semen_and_Blood_III.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: "1080x723"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/photography/Semen_and_Blood_III.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/photography/Semen_and_Blood_III.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Semen_and_Blood_III.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1608049386365 9d577fa7|1608049386365]] — same collection: photography
-- [[knowledge/wiki/images/1608050187498 9eb6b1a9|1608050187498]] — same collection: photography
-- [[knowledge/wiki/images/1608050657450 9d54839f|1608050657450]] — same collection: photography
-- [[knowledge/wiki/images/1614993502766 f10dcb9e|1614993502766]] — same collection: photography
-- [[knowledge/wiki/images/1615242020717 95c28b9d|1615242020717]] — same collection: photography
+- [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — shared language: blood
+- [[knowledge/wiki/images/Fish Blood by Gustav Klimt (1898) d91744d0|Fish Blood by Gustav Klimt (1898)]] — shared language: blood
+- [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
+- [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — shared language: iii
+- [[knowledge/wiki/artists/Artist - J.H. Williams III|Artist - J.H. Williams III]] — shared language: iii
 <!-- vault-crosslinks:end -->

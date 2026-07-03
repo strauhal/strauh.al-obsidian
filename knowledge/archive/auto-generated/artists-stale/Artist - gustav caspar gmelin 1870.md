@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - gustav caspar gmelin|Artist - gustav caspar gmelin]] — named in this note
+- [[_archive/auto-generated/images-stale/woman at a window by caspar david friedrich 1822 178e827c|woman at a window by caspar david friedrich 1822]] — shared language: caspar
+- [[knowledge/wiki/images/Woman at a Window by Caspar David Friedrich (1822) 003cf6f5|Woman at a Window by Caspar David Friedrich (1822)]] — shared language: caspar
 - [[knowledge/wiki/artists/Artist - caspar david friedrich|Artist - caspar david friedrich]] — shared language: caspar
-- [[knowledge/wiki/images/woman at a window by caspar david friedrich 1822 178e827c|woman at a window by caspar david friedrich 1822]] — shared language: caspar
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
-- [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: gustav
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gustav klimt 1915|Artist - gustav klimt 1915]] — shared language: gustav
+- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: caspar
 <!-- vault-crosslinks:end -->

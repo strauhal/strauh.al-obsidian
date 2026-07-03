@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kouhei nakama|Artist - kouhei nakama]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kouhei nakama|Artist - kouhei nakama]] — named in this note
 - [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — shared language: center
-- [[knowledge/wiki/images/shopping cart with blue stained glass sides 9909a4f9|shopping cart with blue stained glass sides]] — shared language: shopping
-- [[knowledge/wiki/images/reusable shopping bag with photographic print of green vegetables and balenciaga logo 568b14f4|reusable shopping bag with photographic print of green vegetables and balenciaga logo]] — shared language: shopping
-- [[knowledge/wiki/images/t art center by zhu pei 2019 a00f369c|t art center by zhu pei 2019]] — shared language: center
-- [[knowledge/wiki/images/photograph of the world trade center towers smoking behind the woolworth building 02795743|photograph of the world trade center towers smoking behind the woolworth building]] — shared language: center
+- [[knowledge/wiki/images/Shopping Carts by Ben Shahn (1957) 414ee588|Shopping Carts by Ben Shahn (1957)]] — shared language: shopping
+- [[knowledge/wiki/images/Illustration Shopping Cart With Blue Stained Glass Panels 1c456d23|Illustration Shopping Cart With Blue Stained Glass Panels]] — shared language: shopping
+- [[knowledge/wiki/images/Photograph Interior of a shopping mall with pink lighting and fountain e971238c|Photograph Interior of a shopping mall with pink lighting and fountain]] — shared language: shopping
+- [[_archive/auto-generated/images-stale/shopping cart with blue stained glass sides 9909a4f9|shopping cart with blue stained glass sides]] — shared language: shopping
 <!-- vault-crosslinks:end -->

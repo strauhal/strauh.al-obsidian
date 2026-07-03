@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - trees|Artist - trees]] — named in this note
-- [[knowledge/wiki/images/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale, trees, framed
-- [[knowledge/wiki/images/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: pale, sky, against
-- [[knowledge/wiki/artists/Artist - snowy pine trees and mountains at dusk|Artist - snowy pine trees and mountains at dusk]] — shared language: dusk, trees
-- [[knowledge/wiki/images/photograph of a dense urban skyline at dusk under a hazy sky 1a3d3b78|photograph of a dense urban skyline at dusk under a hazy sky]] — shared language: dusk, sky
-- [[knowledge/wiki/images/photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk acd3f0a5|photograph of a large historic hotel surrounded by snowy pine trees and mountains at dusk]] — shared language: dusk, trees
+- [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — named in this note
+- [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, trees, lamp
+- [[knowledge/wiki/images/Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]] — shared language: dusk, trees, lamp
+- [[_archive/auto-generated/images-stale/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale, trees, framed
+- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: pale, sky, against
+- [[_archive/auto-generated/images-stale/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: pale, sky, against
 <!-- vault-crosslinks:end -->

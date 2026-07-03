@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1974|Artist - bernie wrightson 1974]] — shared language: bernie, wrightson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1976|Artist - bernie wrightson 1976]] — shared language: bernie, wrightson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bernie wrightson 1983|Artist - bernie wrightson 1983]] — shared language: bernie, wrightson
-- [[knowledge/wiki/artists/Artist - bernie wrightson|Artist - bernie wrightson]] — shared language: bernie, wrightson, monster
 - [[knowledge/wiki/images/illustration for the black cat by bernie wrightson 1974 b1f572d3|illustration for the black cat by bernie wrightson 1974]] — shared language: bernie, wrightson
+- [[knowledge/wiki/artists/Artist - bernie wrightson|Artist - bernie wrightson]] — shared language: bernie, wrightson, monster
 - [[knowledge/wiki/images/victor frankenstein in his laboratory by bernie wrightson 1976 d87e454e|victor frankenstein in his laboratory by bernie wrightson 1976]] — shared language: bernie, wrightson
 <!-- vault-crosslinks:end -->

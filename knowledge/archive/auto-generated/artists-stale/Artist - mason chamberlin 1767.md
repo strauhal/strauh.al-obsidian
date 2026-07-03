@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - mason chamberlin|Artist - mason chamberlin]] — named in this note
-- [[knowledge/wiki/artists/Artist - mason london|Artist - mason london]] — shared language: mason
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mason london|Artist - mason london]] — shared language: mason
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mason london 2020|Artist - mason london 2020]] — shared language: mason
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: mason
 - [[knowledge/archive/auto-generated/artists-stale/Artist - james mason 1744|Artist - james mason 1744]] — shared language: mason
-- [[knowledge/wiki/images/flock ii album art by mason london 2020 98a62e36|flock ii album art by mason london 2020]] — shared language: mason
+- [[_archive/auto-generated/images-stale/flock ii album art by mason london 2020 98a62e36|flock ii album art by mason london 2020]] — shared language: mason
 <!-- vault-crosslinks:end -->

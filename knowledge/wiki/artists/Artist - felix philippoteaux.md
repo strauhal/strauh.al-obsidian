@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/la vague verte by felix vallotton 1907 97cd56dd|la vague verte by felix vallotton 1907]] — shared language: felix
 - [[knowledge/wiki/books/gilles-deleuze-felix-guattari-a-thousand-plateaus-capitalism-and-schizophrenia|A Thousand Plateaus Capitalism and Schizophrenia]] — shared language: felix
 - [[knowledge/wiki/images/1920px vincent van gogh portrait of doctor felix rey f500 jpg b9a004d5|1920px vincent van gogh portrait of doctor felix rey f500 jpg]] — shared language: felix
-- [[knowledge/wiki/images/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
+- [[knowledge/wiki/images/16th February 2021, More Flowers in a Glass Vase by David Hockney (2021) b7774369|16th February 2021, More Flowers in a Glass Vase by David Hockney (2021)]] — shared language: february
 <!-- vault-crosslinks:end -->

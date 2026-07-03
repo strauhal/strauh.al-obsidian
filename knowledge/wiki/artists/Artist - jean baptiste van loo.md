@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/artists/Artist - louis michel van loo|Artist - louis michel van loo]] — shared language: loo, van, louis
 - [[knowledge/wiki/images/portrait of denis diderot by louis michel van loo 1767 175ef7b2|portrait of denis diderot by louis michel van loo 1767]] — shared language: loo, van, louis
-- [[knowledge/wiki/artists/Artist - jean baptiste greuze|Artist - jean baptiste greuze]] — shared language: baptiste, jean
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/images/portrait of a black man by jean baptiste greuze c 1757 38b1c6b2|portrait of a black man by jean baptiste greuze c 1757]] — shared language: baptiste, jean
-- [[knowledge/wiki/artists/Artist - jean baptiste pillement|Artist - jean baptiste pillement]] — shared language: baptiste, jean
+- [[knowledge/wiki/artists/Artist - jean baptiste greuze|Artist - jean baptiste greuze]] — shared language: baptiste, jean
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 <!-- vault-crosslinks:end -->

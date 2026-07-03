@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — named in this note
 - [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — named in this note
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: henri, robert, girl
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: henri, robert, girl
 - [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: henri, robert, girl

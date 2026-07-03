@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard, blue
-- [[knowledge/wiki/images/richard dadd 6 jpg 9754a5dc|richard dadd 6 jpg]] — shared language: richard
-- [[knowledge/wiki/images/the blue slip by richard e miller 1910 f65e8c7b|the blue slip by richard e miller 1910]] — shared language: richard, blue
-- [[knowledge/wiki/artists/Artist - richard williams|Artist - richard williams]] — shared language: richard
+- [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
+- [[knowledge/wiki/images/Man in Space by Richard Anuszkiewicz (1962) cc22252b|Man in Space by Richard Anuszkiewicz (1962)]] — shared language: richard
+- [[knowledge/wiki/artists/Artist - richard e miller|Artist - richard e miller]] — shared language: richard
 - [[knowledge/wiki/artists/Artist - richard m powers|Artist - richard m powers]] — shared language: richard
+- [[knowledge/wiki/artists/Artist - Richard M. Powers|Artist - Richard M. Powers]] — shared language: richard
 - [[knowledge/wiki/artists/Artist - richard diebenkorn|Artist - richard diebenkorn]] — shared language: richard
 <!-- vault-crosslinks:end -->

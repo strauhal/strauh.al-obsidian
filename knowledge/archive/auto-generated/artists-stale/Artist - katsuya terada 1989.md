@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - katsuya terada|Artist - katsuya terada]] — shared language: katsuya, terada, comptiq
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuya terada 1999|Artist - katsuya terada 1999]] — shared language: katsuya, terada
 - [[knowledge/archive/auto-generated/artists-stale/Artist - katsuya terada 2000|Artist - katsuya terada 2000]] — shared language: katsuya, terada
-- [[knowledge/wiki/images/the rider by katsuya terada 2000 0ef160c0|the rider by katsuya terada 2000]] — shared language: katsuya, terada
-- [[knowledge/wiki/images/detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada ea718cb0|detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada]] — shared language: katsuya, terada
+- [[_archive/auto-generated/images-stale/the rider by katsuya terada 2000 0ef160c0|the rider by katsuya terada 2000]] — shared language: katsuya, terada
+- [[_archive/auto-generated/images-stale/detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada ea718cb0|detailed black and white illustration of a girl drawing in a cluttered office by katsuya terada]] — shared language: katsuya, terada
 <!-- vault-crosslinks:end -->

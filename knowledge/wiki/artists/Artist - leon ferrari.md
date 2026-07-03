@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: ferrari
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: ferrari
 - [[knowledge/wiki/images/the painter by mark j ferrari 1987 ae930315|the painter by mark j ferrari 1987]] — shared language: ferrari
 - [[knowledge/wiki/images/summer rain by mark j ferrari 1989 dcc6f0b8|summer rain by mark j ferrari 1989]] — shared language: ferrari
+- [[knowledge/wiki/images/two figures by leon golub 1960 cf93f1d3|two figures by leon golub 1960]] — shared language: leon
 - [[knowledge/wiki/images/head by leon golub 1975 0fa24ca1|head by leon golub 1975]] — shared language: leon
-- [[knowledge/wiki/artists/Artist - leon golub|Artist - leon golub]] — shared language: leon
-- [[knowledge/wiki/artists/Artist - leon spilliaert|Artist - leon spilliaert]] — shared language: leon
 <!-- vault-crosslinks:end -->

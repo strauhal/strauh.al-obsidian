@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/images/vetememes rough simmons campaign square 9 2048x2048 jpg webp 3135941e|vetememes rough simmons campaign square 9 2048x2048 jpg webp]] — shared language: simmons
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1837|Artist - john martin 1837]] — shared language: john
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john, dream
+- [[_archive/auto-generated/images-stale/vetememes rough simmons campaign square 9 2048x2048 jpg webp 3135941e|vetememes rough simmons campaign square 9 2048x2048 jpg webp]] — shared language: simmons
 <!-- vault-crosslinks:end -->

@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/images/black panther by katsuhiro otomo 1987 0b5e3f76|black panther by katsuhiro otomo 1987]] — shared language: katsuhiro, otomo
 - [[knowledge/wiki/images/akira title page illustration by katsuhiro otomo 1982 49b17bfc|akira title page illustration by katsuhiro otomo 1982]] — shared language: katsuhiro, otomo
 - [[knowledge/wiki/images/akira volume 5 by katsuhiro otomo 1987 4f82ab62|akira volume 5 by katsuhiro otomo 1987]] — shared language: katsuhiro, otomo
-- [[knowledge/wiki/images/sayonara nippon cover illustration by katsuhiro otomo 1981 ee7d4f00|sayonara nippon cover illustration by katsuhiro otomo 1981]] — shared language: katsuhiro, otomo
+- [[knowledge/wiki/artists/Artist - katsuhiro otomo|Artist - katsuhiro otomo]] — shared language: katsuhiro, otomo
 <!-- vault-crosslinks:end -->

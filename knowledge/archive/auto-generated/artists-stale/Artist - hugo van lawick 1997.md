@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hugo van lawick|Artist - hugo van lawick]] — named in this note
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - hugo simberg|Artist - hugo simberg]] — shared language: hugo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hugo simberg 1895|Artist - hugo simberg 1895]] — shared language: hugo
 - [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: hugo
-- [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - vincent van gogh 1885|Artist - vincent van gogh 1885]] — shared language: van
 <!-- vault-crosslinks:end -->

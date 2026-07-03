@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: marcel
 - [[knowledge/wiki/images/marcel proust 53d13fd9|marcel proust]] — shared language: marcel
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: marcel
-- [[knowledge/wiki/books/marcel-proust-in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — shared language: marcel
+- [[knowledge/wiki/artists/Artist - Marcel Proust|Artist - Marcel Proust]] — shared language: marcel
 <!-- vault-crosslinks:end -->

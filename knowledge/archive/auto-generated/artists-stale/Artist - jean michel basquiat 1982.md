@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Untitled (Head) by Jean Michel Basquiat (1982) c1e1e665|Untitled (Head) by Jean Michel Basquiat (1982)]] — named in this note
 - [[knowledge/wiki/artists/Artist - jean michel basquiat|Artist - jean michel basquiat]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jean michel basquiat 1983|Artist - jean michel basquiat 1983]] — named in this note
+- [[knowledge/wiki/images/An Uncontrollable Fury by Jean Michel Basquiat (1982) 17c5acb5|An Uncontrollable Fury by Jean Michel Basquiat (1982)]] — shared language: basquiat, michel, jean
 - [[knowledge/wiki/images/luciano pavarotti by jean michel basquiat 1983 d82ca78f|luciano pavarotti by jean michel basquiat 1983]] — shared language: basquiat, michel, jean
 - [[knowledge/wiki/images/vincent van gogh in a wax museum in amsterdam by jean michel basquiat 1983 b37d25c7|vincent van gogh in a wax museum in amsterdam by jean michel basquiat 1983]] — shared language: basquiat, michel, jean
-- [[knowledge/wiki/artists/Artist - jean michel moreau|Artist - jean michel moreau]] — shared language: michel, jean
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jean michel moreau 1812|Artist - jean michel moreau 1812]] — shared language: michel, jean
 <!-- vault-crosslinks:end -->

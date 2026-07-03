@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john singleton copley 1771|Artist - john singleton copley 1771]] — shared language: singleton, copley, john
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john singleton copley 1783|Artist - john singleton copley 1783]] — shared language: singleton, copley, john
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john singleton copley 1765|Artist - john singleton copley 1765]] — shared language: singleton, copley, john
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john singleton copley 1783|Artist - john singleton copley 1783]] — shared language: singleton, copley, john
 <!-- vault-crosslinks:end -->

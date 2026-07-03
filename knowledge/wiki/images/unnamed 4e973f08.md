@@ -1,12 +1,12 @@
 ---
 title: "unnamed"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/unnamed.gif"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/unnamed.gif"
 source_relpath: "gif_collection/unnamed.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: "256x256"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---
@@ -20,14 +20,14 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/gif_collection/unnamed.gif|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/gif_collection/unnamed.gif`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/unnamed.gif`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1762395576258045 5c6f25ed|1762395576258045]] — shared language: unnamed
-- [[knowledge/wiki/images/1765857620560889 8803a0f5|1765857620560889]] — shared language: unnamed
-- [[knowledge/wiki/images/1766122255992527 b5720dd2|1766122255992527]] — shared language: unnamed
-- [[knowledge/wiki/images/1766900782883980 bd2c3b39|1766900782883980]] — shared language: unnamed
-- [[knowledge/wiki/images/1767033957638213 a81275fb|1767033957638213]] — shared language: unnamed
+- [[knowledge/wiki/images/1495393481842 3737ec4a|1495393481842]] — shared language: gif
+- [[knowledge/wiki/images/1575092763780 f5180021|1575092763780]] — shared language: gif
+- [[knowledge/wiki/images/1577606301673 e2decef5|1577606301673]] — shared language: gif
+- [[knowledge/wiki/images/1597875701165 354e806a|1597875701165]] — shared language: gif
+- [[knowledge/wiki/images/1600315763302 8a0df992|1600315763302]] — shared language: gif
 <!-- vault-crosslinks:end -->

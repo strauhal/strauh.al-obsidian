@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - samuel worcester rowse|Artist - samuel worcester rowse]] — named in this note
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
-- [[knowledge/wiki/artists/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
+- [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price|Artist - samuel m price]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel m price 2023|Artist - samuel m price 2023]] — shared language: samuel
 <!-- vault-crosslinks:end -->

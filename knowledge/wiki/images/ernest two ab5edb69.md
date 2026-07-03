@@ -1,12 +1,12 @@
 ---
 title: "ernest two"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/ernest_two.png"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/ernest_two.png"
 source_relpath: "old_photos/ernest_two.png"
 collection: "old_photos"
 inferred_year: ""
 artist: ""
-dimensions: "4716x6006"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/old_photos"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/old_photos/ernest_two.png|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/old_photos/ernest_two.png`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/old_photos/ernest_two.png`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

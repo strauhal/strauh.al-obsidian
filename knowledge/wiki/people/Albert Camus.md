@@ -37,6 +37,6 @@ with them as humans."
 - [[knowledge/wiki/images/albert camus 509478c6|albert camus]] — shared language: camus, albert, influences
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like, attention, instead
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, camus, albert
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, diary
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, among
+- [[knowledge/wiki/artists/Artist - Albert Camus|Artist - Albert Camus]] — shared language: camus, albert
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, diary, listed
 <!-- vault-crosslinks:end -->

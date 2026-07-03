@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: hood
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
 <!-- vault-crosslinks:end -->

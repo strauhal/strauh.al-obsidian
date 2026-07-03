@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - pieter stevens|Artist - pieter stevens]] — named in this note
 - [[knowledge/wiki/images/landscape with a farmhouse and a bridge by pieter stevens c 1600 98bbae39|landscape with a farmhouse and a bridge by pieter stevens c 1600]] — shared language: stevens, pieter, landscape
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: pieter
 - [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: pieter
 - [[knowledge/wiki/images/the resurrection of christ by pieter bruegel the elder c 1563 8a974585|the resurrection of christ by pieter bruegel the elder c 1563]] — shared language: pieter
-- [[knowledge/wiki/artists/Artist - pieter casteels iii|Artist - pieter casteels iii]] — shared language: pieter
-- [[knowledge/wiki/images/the triumph of death by pieter bruegel the elder c 1562 b94feaad|the triumph of death by pieter bruegel the elder c 1562]] — shared language: pieter
+- [[knowledge/wiki/images/The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563) c820d007|The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563)]] — shared language: pieter
 <!-- vault-crosslinks:end -->

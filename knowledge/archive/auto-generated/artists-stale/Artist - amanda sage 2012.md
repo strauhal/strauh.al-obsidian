@@ -20,8 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - amanda sage|Artist - amanda sage]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - amanda sage|Artist - amanda sage]] — named in this note
+- [[knowledge/wiki/images/The Oracle by Amanda Sage (2012) e2eeda72|The Oracle by Amanda Sage (2012)]] — named in this note
+- [[knowledge/wiki/artists/Artist - Sage|Artist - Sage]] — shared language: sage
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: sage
-- [[knowledge/wiki/culture/music-faure-nocturnes|Listening - Faure: Nocturnes]] — shared language: sage
-- [[knowledge/wiki/images/the oracle by monica kim garza 2020 1463d919|the oracle by monica kim garza 2020]] — shared language: oracle
+- [[knowledge/wiki/images/Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage e3a89bee|Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage]] — shared language: sage
+- [[_archive/auto-generated/images-stale/the oracle by monica kim garza 2020 1463d919|the oracle by monica kim garza 2020]] — shared language: oracle
 <!-- vault-crosslinks:end -->

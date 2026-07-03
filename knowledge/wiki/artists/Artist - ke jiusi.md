@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/collections/Collection - 1300s|Collection - 1300s]] — shared language: jiusi, qingbige, bamboo
-- [[knowledge/wiki/images/ink painting of bamboo and rocks with calligraphy and seals 771ab005|ink painting of bamboo and rocks with calligraphy and seals]] — shared language: bamboo, ink
-- [[knowledge/wiki/images/black and gray ink drawing of bamboo and maple leaves under a moon be16114c|black and gray ink drawing of bamboo and maple leaves under a moon]] — shared language: bamboo, ink
-- [[knowledge/wiki/images/two women seated under bamboo and rock ink and color on paper by gai qi 23f73e3e|two women seated under bamboo and rock ink and color on paper by gai qi]] — shared language: bamboo, ink
-- [[knowledge/wiki/images/bamboo and rock by zheng banqiao 1753 ddb83cca|bamboo and rock by zheng banqiao 1753]] — shared language: bamboo
-- [[knowledge/wiki/images/bamboo rock and bird by hua yan 1737 66709375|bamboo rock and bird by hua yan 1737]] — shared language: bamboo
+- [[knowledge/wiki/images/Illustration Ink Painting of Bamboo and Rocks with Calligraphy and Seals 1b32182e|Illustration Ink Painting of Bamboo and Rocks with Calligraphy and Seals]] — shared language: bamboo, ink
+- [[knowledge/wiki/images/Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon 8b42390d|Illustration Black And Gray Ink Drawing Of Bamboo, Maple Leaves, And Moon]] — shared language: bamboo, ink
+- [[knowledge/wiki/images/Illustration Two Women Seated Under Bamboo and Rock d68096f0|Illustration Two Women Seated Under Bamboo and Rock]] — shared language: bamboo
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Glasses and Bamboo Background c6dcc1ac|Illustration Stylized Portrait of Person with Glasses and Bamboo Background]] — shared language: bamboo
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Landscape with a Path 593f0069|Illustration Black and White Ink Drawing of a Landscape with a Path]] — shared language: ink
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - edouard manet 18681869|Artist - edouard manet 18681869]] — shared language: manet, edouard
 - [[knowledge/wiki/artists/Artist - edouard manet|Artist - edouard manet]] — shared language: manet, edouard, olympia
+- [[knowledge/wiki/artists/Artist - edouard manet 18681869|Artist - edouard manet 18681869]] — shared language: manet, edouard
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edouard manet 1881|Artist - edouard manet 1881]] — shared language: manet, edouard
-- [[knowledge/wiki/images/the balcony by edouard manet 18681869 3df73757|the balcony by edouard manet 18681869]] — shared language: manet, edouard
 - [[knowledge/wiki/images/portrait of a woman in a black hat by edouard manet c 1880 cd817736|portrait of a woman in a black hat by edouard manet c 1880]] — shared language: manet, edouard
+- [[knowledge/wiki/images/the balcony by edouard manet 18681869 3df73757|the balcony by edouard manet 18681869]] — shared language: manet, edouard
 - [[knowledge/wiki/images/the lion hunter by edouard manet 1881 efb92fbf|the lion hunter by edouard manet 1881]] — shared language: manet, edouard
 <!-- vault-crosslinks:end -->

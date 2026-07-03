@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Hideaki Anno|Artist - Hideaki Anno]] — shared language: hideaki, anno
+- [[knowledge/wiki/images/Illustration Purple Robot Emerging From Giant Eye by Hideaki Anno e4e32619|Illustration Purple Robot Emerging From Giant Eye by Hideaki Anno]] — shared language: hideaki, anno
+- [[knowledge/wiki/images/Screenshot Glowing Esoteric Diagram Projected Onto Blue Sky by Hideaki Anno 8f3467dc|Screenshot Glowing Esoteric Diagram Projected Onto Blue Sky by Hideaki Anno]] — shared language: hideaki, anno
+- [[knowledge/wiki/images/Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign 8af30509|Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign]] — shared language: hideaki, anno
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Untitled (Head) by Jean Michel Basquiat (1982) c1e1e665|Untitled (Head) by Jean Michel Basquiat (1982)]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
-- [[knowledge/wiki/anchors/museum|museum]] — named in this note
+- [[knowledge/wiki/images/An Uncontrollable Fury by Jean Michel Basquiat (1982) 17c5acb5|An Uncontrollable Fury by Jean Michel Basquiat (1982)]] — shared language: basquiat, michel, jean
 - [[knowledge/wiki/artists/Artist - jean michel moreau|Artist - jean michel moreau]] — shared language: michel, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: michel, jean
-- [[knowledge/wiki/images/le bal pare by jean michel moreau 1812 4a7556db|le bal pare by jean michel moreau 1812]] — shared language: michel, jean
 <!-- vault-crosslinks:end -->

@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - rinko kawauchi|Artist - rinko kawauchi]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi 2012|Artist - rinko kawauchi 2012]] — named in this note
-- [[knowledge/wiki/images/untitled from the series ametsuchi by rinko kawauchi 2012 68973bc4|untitled from the series ametsuchi by rinko kawauchi 2012]] — shared language: rinko, kawauchi, series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi|Artist - Rinko Kawauchi]] — named in this note
+- [[_archive/auto-generated/images-stale/untitled from the series ametsuchi by rinko kawauchi 2012 68973bc4|untitled from the series ametsuchi by rinko kawauchi 2012]] — shared language: rinko, kawauchi, series
+- [[knowledge/wiki/images/Photograph People Walking on Patterned Pavement at Night by Rinko Kawauchi 8cfaf0f5|Photograph People Walking on Patterned Pavement at Night by Rinko Kawauchi]] — shared language: rinko, kawauchi
 - [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — shared language: series
 - [[_archive/auto-generated/concept-stubs/Dreams Series|Dreams Series]] — shared language: series
 <!-- vault-crosslinks:end -->

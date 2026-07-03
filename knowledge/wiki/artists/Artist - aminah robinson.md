@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - theodore robinson about|Artist - theodore robinson about]] — shared language: robinson
 - [[knowledge/wiki/images/the valley of arconville by theodore robinson about 1887 2239a4f6|the valley of arconville by theodore robinson about 1887]] — shared language: robinson
 - [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: robinson
+- [[knowledge/wiki/images/Photograph Martin Luther King Jr. Speaking at March on Washington 7e2935e8|Photograph Martin Luther King Jr. Speaking at March on Washington]] — shared language: luther, king, martin
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: martin
-- [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream
-- [[knowledge/wiki/images/dream 85b838d2|dream]] — shared language: dream
+- [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
 <!-- vault-crosslinks:end -->

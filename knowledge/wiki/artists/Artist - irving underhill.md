@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - irving penn|Artist - irving penn]] — shared language: irving
 - [[knowledge/wiki/images/issey miyake white and black new york by irving penn 1990 514361ff|issey miyake white and black new york by irving penn 1990]] — shared language: irving
 - [[knowledge/wiki/images/pleats please issey miyake new york by irving penn 1995 98328768|pleats please issey miyake new york by irving penn 1995]] — shared language: irving
-- [[knowledge/wiki/images/manhattan by tamara de lempicka 1929 d0afc316|manhattan by tamara de lempicka 1929]] — shared language: manhattan
-- [[knowledge/wiki/images/framed city river scene with bridge and smoky sky b0eb6ac7|framed city river scene with bridge and smoky sky]] — shared language: bridge
+- [[knowledge/wiki/images/Photograph Person Next To Car With Manhattan Bridge In Background e18dc894|Photograph Person Next To Car With Manhattan Bridge In Background]] — shared language: manhattan, bridge
+- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: bridge
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - juck juck grunzie|Artist - juck juck grunzie]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jost amman 1573|Artist - jost amman 1573]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - juergen teller 1994|Artist - juergen teller 1994]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - juck juck grunzie|Artist - Juck Juck Grunzie]] — named in this note
+- [[knowledge/wiki/images/Illustration Woman Playing Synthesizer Connected to Radio Tower by Juck Juck Grunzie f39295dc|Illustration Woman Playing Synthesizer Connected to Radio Tower by Juck Juck Grunzie]] — shared language: juck, grunzie
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: juck
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: juck
 <!-- vault-crosslinks:end -->

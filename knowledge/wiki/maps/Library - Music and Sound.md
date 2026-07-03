@@ -2,8 +2,8 @@
 title: Library - Music and Sound
 type: map
 tags: [map, library, books]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Library - Music and Sound
@@ -36,6 +36,6 @@ Books/files: 14
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music, hecker
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: music, hecker
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: music, sound, spectral
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music, hecker
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: music, sound
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music
 <!-- vault-crosslinks:end -->

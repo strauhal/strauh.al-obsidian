@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tenmyouya hisashi|Artist - tenmyouya hisashi]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tangerine dream 1975|Artist - tangerine dream 1975]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers 2021|Artist - terri kelly moyers 2021]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tenmyouya hisashi|Artist - tenmyouya hisashi]] — named in this note
+- [[knowledge/wiki/images/Rasetsu by Tenmyouya Hisashi (2010) 22d188e7|Rasetsu by Tenmyouya Hisashi (2010)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tatsuki fujimoto|Artist - Tatsuki Fujimoto]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

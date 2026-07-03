@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: chris
-- [[knowledge/wiki/artists/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — shared language: chris
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: chris
-- [[knowledge/wiki/images/the great divide by chris hood 2020 3f3c271d|the great divide by chris hood 2020]] — shared language: chris
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: chris
+- [[knowledge/wiki/images/Cuts by Chris Knox (1980) 7b4f0e36|Cuts by Chris Knox (1980)]] — shared language: chris
+- [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: chris
+- [[knowledge/wiki/images/gardens of the moon book cover by chris moore 1999 75334ee1|gardens of the moon book cover by chris moore 1999]] — shared language: chris
 <!-- vault-crosslinks:end -->

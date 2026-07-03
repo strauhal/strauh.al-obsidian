@@ -1,12 +1,12 @@
 ---
 title: "cindy sherman by keith haring 1985"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg"
 source_relpath: "1900s/cindy_sherman_by_keith_haring_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "keith haring"
-dimensions: "907x1000"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - keith haring]]
 
 Source: [[media/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cindy_sherman_by_keith_haring_1985.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -30,4 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900
 - [[knowledge/wiki/images/dead birds a war ritual poster by keith haring 1983 8d051df0|dead birds a war ritual poster by keith haring 1983]] — same artist: keith haring
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
+- [[knowledge/wiki/images/Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/artists/Artist - Tseng Kwong Chi|Artist - Tseng Kwong Chi]] — shared language: haring, keith
 <!-- vault-crosslinks:end -->

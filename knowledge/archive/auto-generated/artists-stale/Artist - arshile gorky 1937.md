@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - arshile gorky 1933|Artist - arshile gorky 1933]] — shared language: arshile, gorky
-- [[knowledge/wiki/images/death of a man by arshile gorky ca 1932 cc101be0|death of a man by arshile gorky ca 1932]] — shared language: arshile, gorky, man
+- [[knowledge/wiki/images/death of a man by arshile gorky ca 1932 cc101be0|death of a man by arshile gorky ca 1932]] — shared language: arshile, gorky
 - [[knowledge/archive/auto-generated/artists-stale/Artist - arshile gorky 1944|Artist - arshile gorky 1944]] — shared language: arshile, gorky
-- [[knowledge/wiki/artists/Artist - arshile gorky|Artist - arshile gorky]] — shared language: arshile, gorky, man
+- [[knowledge/wiki/artists/Artist - arshile gorky|Artist - arshile gorky]] — shared language: arshile, gorky, young
 - [[knowledge/wiki/images/portrait of vartoosh by arshile gorky 1933 83992339|portrait of vartoosh by arshile gorky 1933]] — shared language: arshile, gorky
 - [[knowledge/wiki/images/elegy by arshile gorky ca 1939 a6cef91d|elegy by arshile gorky ca 1939]] — shared language: arshile, gorky
 <!-- vault-crosslinks:end -->

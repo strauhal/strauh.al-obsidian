@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - eliran kantor|Artist - eliran kantor]] — named in this note
+- [[knowledge/wiki/images/V by Eliran Kantor (2020) 7e016cbf|V by Eliran Kantor (2020)]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - eliran kantor|Artist - eliran kantor]] — named in this note
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/images/framed psychedelic abstract painting with swirl pattern 1059a538|framed psychedelic abstract painting with swirl pattern]] — shared language: swirl
-- [[knowledge/wiki/images/drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks 1d7b7870|drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks]] — shared language: swirl
-- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: great
-- [[knowledge/wiki/images/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: great
+- [[_archive/auto-generated/images-stale/framed psychedelic abstract painting with swirl pattern 1059a538|framed psychedelic abstract painting with swirl pattern]] — shared language: swirl
+- [[knowledge/wiki/images/Illustration Two Cartoon Ladybugs Kissing on a Green Swirl cfca5902|Illustration Two Cartoon Ladybugs Kissing on a Green Swirl]] — shared language: swirl
+- [[_archive/auto-generated/images-stale/drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks 1d7b7870|drawing of a woman with floral dress against a black and white swirl background on staggered wooden planks]] — shared language: swirl
 <!-- vault-crosslinks:end -->

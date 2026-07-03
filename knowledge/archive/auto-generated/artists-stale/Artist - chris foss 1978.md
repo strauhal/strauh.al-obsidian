@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chris foss|Artist - chris foss]] — named in this note
-- [[knowledge/wiki/artists/Artist - chris hood|Artist - chris hood]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — shared language: chris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood 2020|Artist - chris hood 2020]] — shared language: chris
-- [[knowledge/wiki/artists/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili 2017|Artist - chris ofili 2017]] — shared language: chris
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris moore 1999|Artist - chris moore 1999]] — shared language: chris
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
 <!-- vault-crosslinks:end -->

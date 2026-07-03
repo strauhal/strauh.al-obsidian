@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - gianfranco meggiato|Artist - gianfranco meggiato]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gianfranco meggiato|Artist - gianfranco meggiato]] — named in this note
+- [[knowledge/wiki/images/L'Uomo Che Lavora by Gianfranco Meggiato (2019) 417effe7|L'Uomo Che Lavora by Gianfranco Meggiato (2019)]] — shared language: gianfranco, meggiato, lavora
 - [[knowledge/wiki/images/ritratto di giovane uomo che legge alla finestra by edoardo tofano c 1880 509ba422|ritratto di giovane uomo che legge alla finestra by edoardo tofano c 1880]] — shared language: uomo, che
 - [[knowledge/wiki/images/ChE BvTWgAADxQm 9894aa07|ChE BvTWgAADxQm]] — shared language: che
+- [[knowledge/wiki/images/Nietzsche and the Horse by J zef Che mo ski (1898) 8a38c72c|Nietzsche and the Horse by J zef Che mo ski (1898)]] — shared language: che
 - [[knowledge/wiki/artists/Artist - edoardo tofano|Artist - edoardo tofano]] — shared language: uomo, che
-- [[knowledge/wiki/images/el che guevara de la mirada by hector garcia 1968 8c2f80e1|el che guevara de la mirada by hector garcia 1968]] — shared language: che
 <!-- vault-crosslinks:end -->

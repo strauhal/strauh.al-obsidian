@@ -1,12 +1,12 @@
 ---
 title: "jens juel frederiksborg castle by moonlight c 1799"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg"
 source_relpath: "1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg"
 collection: "1700s"
 inferred_year: "1799"
 artist: "moonlight"
-dimensions: "2560x1618"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - moonlight]]
 
 Source: [[media/strauh.al3.1/1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1700
 - [[knowledge/wiki/images/frederiksborg castle by moonlight by johan christian dahl 1817 41bab9b0|frederiksborg castle by moonlight by johan christian dahl 1817]] — shared language: moonlight, castle
 - [[knowledge/wiki/artists/Artist - moonlight by johan christian dahl|Artist - moonlight by johan christian dahl]] — shared language: moonlight, castle
 - [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: moonlight
-- [[knowledge/wiki/images/framed castle landscape at sunset f1e9d4aa|framed castle landscape at sunset]] — shared language: castle
+- [[knowledge/wiki/images/florence from the cascine by moonlight by thomas cole 1837 d2976f3e|florence from the cascine by moonlight by thomas cole 1837]] — shared language: moonlight
 <!-- vault-crosslinks:end -->

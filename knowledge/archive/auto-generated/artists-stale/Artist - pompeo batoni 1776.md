@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pompeo batoni 1770 1775|Artist - pompeo batoni 1770 1775]] — named in this note
 - [[knowledge/wiki/images/mars and peace by pompeo batoni 1770 1775 29e030fc|mars and peace by pompeo batoni 1770 1775]] — shared language: pompeo, batoni, peace
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: peace, war
-- [[knowledge/wiki/images/peace by joe roberts 2018 7bdfb177|peace by joe roberts 2018]] — shared language: peace
-- [[knowledge/wiki/images/isaac levitan above eternal peace 1894 b4586498|isaac levitan above eternal peace 1894]] — shared language: peace
+- [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: peace
+- [[_archive/auto-generated/images-stale/peace by joe roberts 2018 7bdfb177|peace by joe roberts 2018]] — shared language: peace
 <!-- vault-crosslinks:end -->

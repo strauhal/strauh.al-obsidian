@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lawrence alma tadema 1888|Artist - lawrence alma tadema 1888]] — shared language: tadema, alma, lawrence
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lawrence alma tadema 1888 2|Artist - lawrence alma tadema 1888 2]] — shared language: tadema, alma, lawrence
 - [[knowledge/wiki/artists/Artist - lawrence alma tadema|Artist - lawrence alma tadema]] — shared language: tadema, alma, lawrence
-- [[knowledge/wiki/images/the triumph of titus by sir lawrence alma tadema 1885 2b1a1895|the triumph of titus by sir lawrence alma tadema 1885]] — shared language: tadema, alma, lawrence
+- [[knowledge/wiki/images/the triumph of titus by sir lawrence alma tadema 1885 2b1a1895|the triumph of titus by sir lawrence alma tadema 1885]] — shared language: tadema, alma, sir
 <!-- vault-crosslinks:end -->

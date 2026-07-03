@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - enrique chagoya|Artist - enrique chagoya]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - enrique chagoya|Artist - enrique chagoya]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrique chagoya 2005|Artist - enrique chagoya 2005]] — named in this note
-- [[knowledge/wiki/images/the enlightened savage by enrique chagoya 2005 af9fbe2e|the enlightened savage by enrique chagoya 2005]] — shared language: chagoya, enrique
+- [[_archive/auto-generated/images-stale/the enlightened savage by enrique chagoya 2005 af9fbe2e|the enlightened savage by enrique chagoya 2005]] — shared language: chagoya, enrique
 - [[knowledge/wiki/artists/Artist - enrique segura iglesias|Artist - enrique segura iglesias]] — shared language: enrique
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrique segura iglesias 1950|Artist - enrique segura iglesias 1950]] — shared language: enrique
 - [[knowledge/wiki/images/apoteosis de franco by enrique segura iglesias 1950 585d962c|apoteosis de franco by enrique segura iglesias 1950]] — shared language: enrique

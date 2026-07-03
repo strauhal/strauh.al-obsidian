@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Wark McKenzie Capital Is Dead Is This Something Worse 2019]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Wark_McKenzie_Capital_Is_Dead_Is_This_Something_Worse_2019.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Capital Is Dead: Is This Something Worse?
@@ -46,6 +46,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/karl-marx-capital-volume-iv-theories-of-surplus-value|Capital, Volume IV (Theories of Surplus Value)]] — same category: politics society
 - [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — same category: politics society
 - [[knowledge/wiki/books/enunciations-of-desire|enunciations-of-desire]] — same category: politics society
-- [[knowledge/wiki/books/formalist-manifesto|formalist manifesto]] — same category: politics society
+- [[knowledge/wiki/books/cia-rdp96-00788r001700210016-5|CIA-RDP96-00788R001700210016-5]] — same category: politics society
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — same category: politics society
 <!-- vault-crosslinks:end -->

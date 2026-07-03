@@ -29,11 +29,11 @@ Files: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, diagram
 - [[knowledge/wiki/images/adam and eve by emil nolde 1913 db507d33|adam and eve by emil nolde 1913]] — shared language: eve, adam
+- [[knowledge/wiki/images/Paradise Cove 39cc66d1|Paradise Cove]] — shared language: paradise
 - [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — shared language: short
-- [[knowledge/wiki/artists/Artist - charles meryon|Artist - charles meryon]] — shared language: meryon
-- [[knowledge/wiki/images/black and white print of a woman s head in profile b8887c17|black and white print of a woman s head in profile]] — shared language: profile, head
+- [[knowledge/wiki/images/Photograph Man With Beard And Glasses Holding A Drawing 5d8c7f64|Photograph Man With Beard And Glasses Holding A Drawing]] — shared language: beard
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: left
-- [[knowledge/wiki/images/black and white line drawing of a woman s head in front and profile view 8b441203|black and white line drawing of a woman s head in front and profile view]] — shared language: profile, head
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
 <!-- vault-crosslinks:end -->

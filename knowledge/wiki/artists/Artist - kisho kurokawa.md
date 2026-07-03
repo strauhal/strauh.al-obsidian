@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/tower a810b293|tower]] — named in this note
-- [[knowledge/wiki/artists/Artist - kurokawa toru|Artist - kurokawa toru]] — shared language: kurokawa
-- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 e4f40622|aggregate a by kurokawa toru 2016]] — shared language: kurokawa
-- [[knowledge/wiki/images/aggregate a by kurokawa toru 2016 2 b522e426|aggregate a by kurokawa toru 2016 2]] — shared language: kurokawa
-- [[knowledge/wiki/images/administration building d797c4c3|administration building]] — shared language: building
-- [[knowledge/wiki/images/geometric depiction of an industrial building with a water tower and smokestack 4e0d2c21|geometric depiction of an industrial building with a water tower and smokestack]] — shared language: tower, building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: kisho, kurokawa, tower
+- [[knowledge/wiki/images/Aggregate A by Toru Kurokawa (2016) d82ec5f1|Aggregate A by Toru Kurokawa (2016)]] — shared language: kurokawa
+- [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
+- [[knowledge/wiki/images/Illustration Digital Collage of Diverse Figures and Text in Capsule Shape 059d471f|Illustration Digital Collage of Diverse Figures and Text in Capsule Shape]] — shared language: capsule
+- [[knowledge/wiki/images/Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack 7090aa53|Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack]] — shared language: tower, building
+- [[knowledge/wiki/images/Photograph Stone Building with Tall Tower and Ivy on Green Lawn 91d6f156|Photograph Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: tower, building
 <!-- vault-crosslinks:end -->

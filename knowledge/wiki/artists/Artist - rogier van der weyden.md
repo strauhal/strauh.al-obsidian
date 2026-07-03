@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - adriaen van der werff|Artist - adriaen van der werff]] — shared language: der, van
 - [[knowledge/wiki/images/portrait of jacob cats 1651 1718 by adriaen van der werff c 1700 21e7376f|portrait of jacob cats 1651 1718 by adriaen van der werff c 1700]] — shared language: der, van
 - [[knowledge/wiki/images/the gallery of cornelis van der geest by willem van haecht 1628 3da96314|the gallery of cornelis van der geest by willem van haecht 1628]] — shared language: der, van
+- [[knowledge/wiki/images/Portrait of Catharina van der Voort, Wife of Jacob van der Meer by Michiel van Mierevelt (c. 1620) 01be15b7|Portrait of Catharina van der Voort, Wife of Jacob van der Meer by Michiel van Mierevelt (c. 1620)]] — shared language: der, van
 - [[knowledge/wiki/images/aert van der neer winter landscape mid17th century 796a621a|aert van der neer winter landscape mid17th century]] — shared language: der, van
-- [[knowledge/wiki/artists/Artist - willem van haecht|Artist - willem van haecht]] — shared language: van, der
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — named in this note
+- [[knowledge/wiki/images/Mezzanine by Nick Knight (1998) 944080b8|Mezzanine by Nick Knight (1998)]] — shared language: nick, knight
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: nick
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: knight
+- [[knowledge/wiki/artists/Artist - Nick Carver|Artist - Nick Carver]] — shared language: nick
 - [[_archive/auto-generated/books-stale/knight-stiny-making-grammars|Knight & Stiny-Making Grammars]] — shared language: knight
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
-- [[knowledge/wiki/images/the knight of the star by elyvees 2023 d2e1e6dc|the knight of the star by elyvees 2023]] — shared language: knight
-- [[knowledge/wiki/images/variation of a knight digital artwork b377e0e8|variation of a knight digital artwork]] — shared language: knight
 <!-- vault-crosslinks:end -->

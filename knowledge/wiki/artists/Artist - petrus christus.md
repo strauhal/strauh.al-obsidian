@@ -21,9 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/christus und die kinder christ and the children by emil nolde 1910 2ad077ac|christus und die kinder christ and the children by emil nolde 1910]] — shared language: christus
-- [[knowledge/wiki/images/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: young, woman
-- [[knowledge/wiki/images/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: young, woman
-- [[knowledge/wiki/images/black and white line drawing of a young woman s face with cross hatching 258489c9|black and white line drawing of a young woman s face with cross hatching]] — shared language: young, woman
-- [[knowledge/wiki/images/oil painting of a young woman in profile with a dark headscarf 39ef8f0b|oil painting of a young woman in profile with a dark headscarf]] — shared language: young, woman
-- [[knowledge/wiki/artists/Artist - emil nolde|Artist - emil nolde]] — shared language: christus, woman
+- [[knowledge/wiki/artists/Artist - emil nolde|Artist - emil nolde]] — shared language: christus
+- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
+- [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: young
 <!-- vault-crosslinks:end -->

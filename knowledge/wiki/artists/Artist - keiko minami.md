@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the shepherdess by jean honore fragonard c 1750 1752 3179d7f5|the shepherdess by jean honore fragonard c 1750 1752]] — shared language: shepherdess
-- [[knowledge/wiki/artists/Artist - kehinde wiley|Artist - kehinde wiley]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - keisuke itagaki|Artist - keisuke itagaki]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kees van dongen|Artist - kees van dongen]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - keith haring|Artist - keith haring]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

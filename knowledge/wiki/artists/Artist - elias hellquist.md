@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - gustaf hellquist|Artist - gustaf hellquist]] — shared language: hellquist
 - [[knowledge/wiki/images/valdemar atterdag holding visby to ransom 1361 by gustaf hellquist 1882 43afbec5|valdemar atterdag holding visby to ransom 1361 by gustaf hellquist 1882]] — shared language: hellquist
-- [[knowledge/wiki/artists/Artist - eko bintang|Artist - eko bintang]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - egon sendler|Artist - egon sendler]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

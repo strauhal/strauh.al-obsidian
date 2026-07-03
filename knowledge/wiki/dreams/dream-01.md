@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["exposure", "evaluation", "work", "graphic design", "voice"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Dream 1 - The Palantir Panel Outside Target

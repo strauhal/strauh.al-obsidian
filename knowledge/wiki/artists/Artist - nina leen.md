@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: sharing
+- [[knowledge/wiki/images/Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2 8465e1eb|Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2]] — shared language: sharing
 - [[knowledge/wiki/artists/Artist - nikolay krymov|Artist - nikolay krymov]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - noriyoshi ohrai|Artist - noriyoshi ohrai]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

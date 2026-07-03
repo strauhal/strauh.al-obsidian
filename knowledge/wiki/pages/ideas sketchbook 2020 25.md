@@ -1,10 +1,10 @@
 ---
 title: "ideas sketchbook 2020 25"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/ideas_sketchbook_2020-25.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ideas_sketchbook_2020-25.html"
 source_relpath: "ideas_sketchbook_2020-25.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # ideas sketchbook 2020 25
@@ -2043,9 +2043,9 @@ strauh.al/ideas_sketchbook_2020-25
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — named in this note
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — named in this note
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — named in this note
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — named in this note
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 <!-- vault-crosslinks:end -->

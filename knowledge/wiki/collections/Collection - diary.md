@@ -146,10 +146,10 @@ Files: 77
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: scaruffi, diary
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: coke, diary
-- [[knowledge/wiki/images/laion clusters e094424a|laion clusters]] — shared language: laion, clusters
+- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: diary, coke
 - [[knowledge/wiki/artists/Artist - balthus|Artist - balthus]] — shared language: balthus
 - [[knowledge/wiki/artists/Artist - robert ryman|Artist - robert ryman]] — shared language: ryman
-- [[knowledge/wiki/images/beethoven on his deathbed jpg e9c5b821|beethoven on his deathbed jpg]] — shared language: deathbed
+- [[knowledge/wiki/images/The Dive by Joshua Budich (2022) e4a3ae5b|The Dive by Joshua Budich (2022)]] — shared language: dive
 - [[knowledge/wiki/images/twin by robert ryman 1966 8fc7c210|twin by robert ryman 1966]] — shared language: ryman
+- [[knowledge/wiki/images/portrait of a young girl with a cat by balthus 1937 f27543dc|portrait of a young girl with a cat by balthus 1937]] — shared language: balthus
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - shin ichi sakamoto|Artist - shin ichi sakamoto]] — shared language: shin, ichi, sakamoto
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: sakamoto
+- [[knowledge/wiki/images/Ichi by Bandit9 (2022) 5c456ff4|Ichi by Bandit9 (2022)]] — shared language: ichi
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: sakamoto
-- [[knowledge/wiki/images/ichi by bandit9 2022 f968add2|ichi by bandit9 2022]] — shared language: ichi
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: sakamoto
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: sakamoto
+- [[_archive/auto-generated/images-stale/ichi by bandit9 2022 f968add2|ichi by bandit9 2022]] — shared language: ichi
+- [[knowledge/wiki/artists/Artist - Shin'ichi Sakamoto|Artist - Shin'ichi Sakamoto]] — shared language: sakamoto, innocent
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: glitch, texture, green
 - [[knowledge/archive/auto-generated/anchors-stale/artist-green-and-blue-with-glitch-texture|Artist - green and blue with glitch texture]] — shared language: glitch, texture, green
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: blue, digital, abstract
-- [[knowledge/wiki/images/glitch slide original jpg cf6b854a|glitch slide original jpg]] — shared language: glitch
-- [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: green, blue
-- [[knowledge/wiki/images/glitch art digital image of a classical sculpture face af38e394|glitch art digital image of a classical sculpture face]] — shared language: glitch, digital
-- [[knowledge/wiki/images/abstract digital art with magenta and red background and dark glitch effect 756ca372|abstract digital art with magenta and red background and dark glitch effect]] — shared language: glitch, digital, abstract
+- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: glitch, green, digital
+- [[knowledge/wiki/images/Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape c2d3f531|Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape]] — shared language: glitch, green
+- [[_archive/auto-generated/images-stale/glitch slide original jpg cf6b854a|glitch slide original jpg]] — shared language: glitch
+- [[_archive/auto-generated/images-stale/glitch art digital image of a classical sculpture face af38e394|glitch art digital image of a classical sculpture face]] — shared language: glitch, digital
 <!-- vault-crosslinks:end -->

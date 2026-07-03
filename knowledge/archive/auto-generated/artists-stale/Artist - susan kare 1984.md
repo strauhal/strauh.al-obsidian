@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - susan kare|Artist - susan kare]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - susan kare 1983|Artist - susan kare 1983]] — named in this note
-- [[knowledge/wiki/images/faces edb813cb|faces]] — named in this note
 - [[knowledge/wiki/images/the rest of us by susan kare 1983 f7f8ac9a|the rest of us by susan kare 1983]] — shared language: kare, susan
-- [[knowledge/wiki/artists/Artist - susan r shie|Artist - susan r shie]] — shared language: susan
-- [[knowledge/archive/auto-generated/artists-stale/Artist - susan r shie 2018|Artist - susan r shie 2018]] — shared language: susan
+- [[knowledge/wiki/images/About MacPaint by Susan Kare (1984) 2d086a0d|About MacPaint by Susan Kare (1984)]] — shared language: kare, susan
+- [[knowledge/wiki/images/Woman Combing Hair by Susan Kare (1984) 944ab1cb|Woman Combing Hair by Susan Kare (1984)]] — shared language: kare, susan
+- [[knowledge/wiki/images/Illustration Black and White Pixel Art Dog Cow Character by Susan Kare dd3f428c|Illustration Black and White Pixel Art Dog Cow Character by Susan Kare]] — shared language: kare, susan
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - james fletcher|Artist - james fletcher]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher|Artist - james fletcher]] — named in this note
+- [[knowledge/wiki/images/Fishing for Escher by James Fletcher (2018) b7e7a917|Fishing for Escher by James Fletcher (2018)]] — shared language: fletcher, james
 - [[knowledge/wiki/artists/Artist - frank morley fletcher|Artist - frank morley fletcher]] — shared language: fletcher
 - [[knowledge/wiki/images/white peacocks by frank morley fletcher c 1920 86d32da0|white peacocks by frank morley fletcher c 1920]] — shared language: fletcher
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
-- [[knowledge/wiki/images/f 111 by james rosenquist 196465 2ba838ca|f 111 by james rosenquist 196465]] — shared language: james
 <!-- vault-crosslinks:end -->

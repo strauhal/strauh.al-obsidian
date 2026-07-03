@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - paul cezanne|Artist - paul cezanne]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1973|Artist - paul jenkins 1973]] — shared language: paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1968|Artist - paul jenkins 1968]] — shared language: paul
+- [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul signac 1887|Artist - paul signac 1887]] — shared language: paul
-- [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1966|Artist - paul jenkins 1966]] — shared language: paul
-- [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
 <!-- vault-crosslinks:end -->

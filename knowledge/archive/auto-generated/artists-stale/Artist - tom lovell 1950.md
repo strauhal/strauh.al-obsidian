@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tom lovell|Artist - tom lovell]] — named in this note
-- [[knowledge/wiki/artists/Artist - d angelo lovell williams|Artist - d angelo lovell williams]] — shared language: lovell
+- [[knowledge/archive/auto-generated/artists-stale/Artist - d angelo lovell williams|Artist - d angelo lovell williams]] — shared language: lovell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - d angelo lovell williams 2018|Artist - d angelo lovell williams 2018]] — shared language: lovell
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tom thomson 1917|Artist - tom thomson 1917]] — shared language: tom
+- [[_archive/auto-generated/images-stale/nah by d angelo lovell williams 2018 26d3d519|nah by d angelo lovell williams 2018]] — shared language: lovell
 - [[knowledge/wiki/artists/Artist - tom wesselmann|Artist - tom wesselmann]] — shared language: tom
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tom wesselmann 1979|Artist - tom wesselmann 1979]] — shared language: tom
 <!-- vault-crosslinks:end -->

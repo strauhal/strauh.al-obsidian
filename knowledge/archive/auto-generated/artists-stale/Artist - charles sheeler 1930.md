@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Industrial Landscape by Charles Sheeler (1929) 91b00b84|Industrial Landscape by Charles Sheeler (1929)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922 2|Artist - charles sheeler 1922 2]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1947|Artist - charles sheeler 1947]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1929|Artist - charles sheeler 1929]] — shared language: sheeler, charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1932|Artist - charles sheeler 1932]] — shared language: sheeler, charles
-- [[knowledge/wiki/artists/Artist - charles sheeler|Artist - charles sheeler]] — shared language: sheeler, charles, industrial
 <!-- vault-crosslinks:end -->

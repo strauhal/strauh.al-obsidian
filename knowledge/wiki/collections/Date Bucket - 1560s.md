@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1560s"
 source_kind: "date_bucket"
-count: "9"
+count: "11"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1560s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 9
+Files: 11
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Tantalus by Pieter Bruegel the Elder (1566).jpg]]
 
 ![[media/strauh.al3.1/1500s/pieter_bruegel_the_elder_the_hunters_in_the_snow_1565.jpg]]
 
@@ -30,6 +32,8 @@ Files: 9
 ![[media/strauh.al3.1/1500s/the_return_of_the_herd_by_pieter_bruegel_the_elder_1566.jpg]]
 
 ![[media/strauh.al3.1/1500s/the_triumph_of_death_by_pieter_bruegel_the_elder_c_1562.jpg]]
+
+![[media/strauh.al3.1/2000s/The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563).jpeg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

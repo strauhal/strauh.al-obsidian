@@ -1,10 +1,10 @@
 ---
 title: "nyce banquet california"
 source_kind: "html"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al4/nyce/banquet/california.html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/california.html"
 source_relpath: "nyce/banquet/california.html"
 compiled: "True"
-compiled_at: "2026-07-01T18:01:48"
+compiled_at: "2026-07-02T22:03:46"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet california

@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/unsupervised by refik anadol 2022 897aeede|unsupervised by refik anadol 2022]] — named in this note
-- [[knowledge/wiki/artists/Artist - refik anadol|Artist - refik anadol]] — named in this note
+- [[_archive/auto-generated/images-stale/unsupervised by refik anadol 2022 897aeede|unsupervised by refik anadol 2022]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol|Artist - refik anadol]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2022|Artist - refik anadol 2022]] — named in this note
-- [[knowledge/wiki/images/unsupervised machine hallucinations moma 2022 by refik anadol 2022 1d1d947a|unsupervised machine hallucinations moma 2022 by refik anadol 2022]] — shared language: refik, anadol
-- [[knowledge/wiki/images/painting of three nude female figures against a blue background centered around a dark star filled infinity shape 03f874ad|painting of three nude female figures against a blue background centered around a dark star filled infinity shape]] — shared language: infinity
+- [[_archive/auto-generated/images-stale/unsupervised machine hallucinations moma 2022 by refik anadol 2022 1d1d947a|unsupervised machine hallucinations moma 2022 by refik anadol 2022]] — shared language: anadol, refik
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
+- [[knowledge/wiki/images/Illustration Three Nude Female Figures with Dark Infinity Shape on Blue Background 1570f3c2|Illustration Three Nude Female Figures with Dark Infinity Shape on Blue Background]] — shared language: infinity
 <!-- vault-crosslinks:end -->

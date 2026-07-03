@@ -1,12 +1,12 @@
 ---
 title: "rei"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/rei.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/diary/rei.jpg"
 source_relpath: "diary/rei.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: "981x794"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/diary/rei.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/diary/rei.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diary/rei.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

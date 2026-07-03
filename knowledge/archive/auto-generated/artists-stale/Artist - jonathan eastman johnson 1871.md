@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jonathan eastman johnson|Artist - jonathan eastman johnson]] — named in this note
-- [[knowledge/wiki/artists/Artist - r kikuo johnson|Artist - r kikuo johnson]] — shared language: johnson
-- [[knowledge/archive/auto-generated/artists-stale/Artist - r kikuo johnson 2019|Artist - r kikuo johnson 2019]] — shared language: johnson
-- [[knowledge/wiki/images/the garden by r kikuo johnson 2019 d2714fa1|the garden by r kikuo johnson 2019]] — shared language: johnson
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
-- [[knowledge/wiki/books/michael-edward-johnson-principia-qualia|Principia Qualia]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - r kikuo johnson|Artist - r kikuo johnson]] — shared language: johnson
+- [[knowledge/archive/auto-generated/artists-stale/Artist - r kikuo johnson 2019|Artist - r kikuo johnson 2019]] — shared language: johnson
+- [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — shared language: johnson
 <!-- vault-crosslinks:end -->

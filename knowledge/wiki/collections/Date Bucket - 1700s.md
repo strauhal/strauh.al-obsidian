@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1700s"
 source_kind: "date_bucket"
-count: "6"
+count: "8"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,9 +9,13 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1700s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 6
+Files: 8
 
 ## Sample
+
+![[media/strauh.al3.1/1600s/Bacchus and Ariadne by Charles de La Fosse (c. 1699-1700).png]]
+
+![[media/strauh.al3.1/1600s/Semele by Bon Boullogne (1688-1704).jpg]]
 
 ![[media/strauh.al3.1/1700s/flower_still_life_by_rachel_ruysch_after_1700.jpeg]]
 

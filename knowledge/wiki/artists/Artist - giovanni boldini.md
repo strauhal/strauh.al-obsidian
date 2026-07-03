@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Cafe scene by Giovanni Boldini (c. 1879) 9c69d4d8|Cafe scene by Giovanni Boldini (c. 1879)]] — shared language: boldini, giovanni
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni baglione|Artist - giovanni baglione]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: giovanni
-- [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: giovanni
+- [[knowledge/wiki/images/Portrait of a Man by Giovanni Battista Moroni (c. 1570) 1d471918|Portrait of a Man by Giovanni Battista Moroni (c. 1570)]] — shared language: giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi|Artist - giovanni battista salvi]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

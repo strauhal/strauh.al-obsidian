@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Hawk Pierced by an Arrow 3d9e5ef2|Photograph Black and White Photograph of a Hawk Pierced by an Arrow]] — shared language: arrow, pierced, hawk
 - [[knowledge/archive/auto-generated/anchors-stale/artist-an-arrow|Artist - an arrow]] — shared language: arrow
-- [[knowledge/wiki/images/thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure fd44aef0|thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure]] — shared language: arrow
-- [[knowledge/wiki/images/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: wire
-- [[knowledge/wiki/images/black and white ink drawing featuring a muscular figure a grotesque head pierced by nails and role playing game text d618858e|black and white ink drawing featuring a muscular figure a grotesque head pierced by nails and role playing game text]] — shared language: pierced
-- [[knowledge/wiki/images/first flight 120 feet in 12 seconds 10 35 a m kitty hawk north carolina by john t daniels 1903 96eacd86|first flight 120 feet in 12 seconds 10 35 a m kitty hawk north carolina by john t daniels 1903]] — shared language: hawk
+- [[knowledge/wiki/images/Illustration Stylized Figure Picking Cotton, Red Sun, and Arrow Sign 53cce79e|Illustration Stylized Figure Picking Cotton, Red Sun, and Arrow Sign]] — shared language: arrow
+- [[knowledge/wiki/images/Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow 48de15db|Illustration Red Multi Armed Wrathful Deity Drawing Bow And Arrow]] — shared language: arrow
+- [[_archive/auto-generated/images-stale/thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure fd44aef0|thangka painting of a red multi armed wrathful deity drawing a bow and arrow standing on a prostrate figure]] — shared language: arrow
+- [[_archive/auto-generated/images-stale/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: wire
 <!-- vault-crosslinks:end -->

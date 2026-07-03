@@ -18,6 +18,6 @@ Generated: 2026-06-22T12:40:02
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, fanmail
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — shared language: import
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: import
-- [[knowledge/wiki/images/black and white photograph of bicycles parked outside a building caa8ff83|black and white photograph of bicycles parked outside a building]] — shared language: outside
-- [[knowledge/wiki/images/photo of a man outside family express gas station 260ac7a8|photo of a man outside family express gas station]] — shared language: outside
+- [[knowledge/wiki/images/Photograph Cracked Storefront Window with Handwritten Messages and Reflections 00db0fe2|Photograph Cracked Storefront Window with Handwritten Messages and Reflections]] — shared language: messages
+- [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: messages
 <!-- vault-crosslinks:end -->

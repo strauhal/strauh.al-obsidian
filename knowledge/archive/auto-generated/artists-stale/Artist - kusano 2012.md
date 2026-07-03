@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - kusano|Artist - kusano]] — named in this note
-- [[knowledge/wiki/images/cover genfill f84d2fd6|cover genfill]] — shared language: cover
-- [[knowledge/wiki/images/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kusano|Artist - kusano]] — named in this note
+- [[knowledge/wiki/images/Quarantine by Makoto Kusano (2012) 05e2aef9|Quarantine by Makoto Kusano (2012)]] — shared language: kusano, quarantine
+- [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
+- [[_archive/auto-generated/images-stale/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/Screenshot Screenshot of Apple Music album cover with abstract geometric art 10c2d77e|Screenshot Screenshot of Apple Music album cover with abstract geometric art]] — shared language: album, cover
 - [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — shared language: album
-- [[knowledge/wiki/images/1597424260214 2bcf978e|1597424260214]] — shared language: album
-- [[knowledge/wiki/images/1613015135325 42554d2b|1613015135325]] — shared language: album
 <!-- vault-crosslinks:end -->

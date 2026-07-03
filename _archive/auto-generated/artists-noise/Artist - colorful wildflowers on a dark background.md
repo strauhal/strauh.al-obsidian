@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/artist-colorful-wildflowers-on-a-dark-background|Artist - colorful wildflowers on a dark background]] — named in this note
-- [[knowledge/wiki/artists/Artist - colorful wildflowers on a dark background|Artist - colorful wildflowers on a dark background]] — shared language: wildflowers, colorful, dark
-- [[knowledge/wiki/images/oil painting of a dark figure in motion on a white background 87e86dde|oil painting of a dark figure in motion on a white background]] — shared language: dark, background, figure
-- [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
-- [[knowledge/wiki/images/abstract blue glowing figure on dark background 9c5f8da8|abstract blue glowing figure on dark background]] — shared language: dark, background, figure
-- [[knowledge/wiki/images/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: dark, background
+- [[knowledge/wiki/artists/Artist - Colorful Wildflowers on Dark Background|Artist - Colorful Wildflowers on Dark Background]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - colorful wildflowers on a dark background|Artist - colorful wildflowers on a dark background]] — shared language: wildflowers, colorful, dark
+- [[knowledge/wiki/images/Illustration Silhouette of a Figure Formed by Colorful Wildflowers on Dark Background 6f63cd82|Illustration Silhouette of a Figure Formed by Colorful Wildflowers on Dark Background]] — shared language: wildflowers, colorful, dark
+- [[knowledge/archive/auto-generated/anchors-stale/artist-colorful-wildflowers-on-a-dark-background|Artist - colorful wildflowers on a dark background]] — shared language: wildflowers, colorful, dark
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
+- [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: colorful, background
 <!-- vault-crosslinks:end -->

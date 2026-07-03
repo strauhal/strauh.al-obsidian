@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - vdnk|Artist - vdnk]] — named in this note
-- [[knowledge/wiki/images/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
-- [[knowledge/wiki/images/tiny house island with falling fireball b828ab88|tiny house island with falling fireball]] — shared language: house
-- [[knowledge/wiki/pages/grandmas house|grandmas house]] — shared language: house
-- [[knowledge/wiki/images/the house of the good by nicholas roerich 1922 3a56b389|the house of the good by nicholas roerich 1922]] — shared language: house
-- [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: house
+- [[knowledge/archive/auto-generated/artists-stale/Artist - vdnk|Artist - vdnk]] — named in this note
+- [[knowledge/wiki/images/Neco raid by Vodnik (2024) 7222e829|Neco raid by Vodnik (2024)]] — shared language: raid
+- [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/The Raid by Josan Gonzalez and Laurie Greasley 67421a4b|The Raid by Josan Gonzalez and Laurie Greasley]] — shared language: raid
+- [[_archive/auto-generated/images-stale/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
+- [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: house
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - manami sato|Artist - manami sato]] — named in this note
-- [[knowledge/wiki/images/pixelated black and white exploded diagram of a computer mouse mechanism d7d3dacf|pixelated black and white exploded diagram of a computer mouse mechanism]] — shared language: mechanism
-- [[knowledge/archive/auto-generated/artists-stale/Artist - man ray 1916|Artist - man ray 1916]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - manami sato|Artist - manami sato]] — named in this note
+- [[knowledge/wiki/images/Illustration Surreal Deconstructed Geisha Figure with Mechanical and Biological Elements 368ea043|Illustration Surreal Deconstructed Geisha Figure with Mechanical and Biological Elements]] — shared language: geisha
+- [[_archive/auto-generated/images-stale/pixelated black and white exploded diagram of a computer mouse mechanism d7d3dacf|pixelated black and white exploded diagram of a computer mouse mechanism]] — shared language: mechanism
+- [[knowledge/wiki/images/Diagram Pixelated Exploded Diagram of a Computer Mouse Mechanism 62718fd5|Diagram Pixelated Exploded Diagram of a Computer Mouse Mechanism]] — shared language: mechanism
 <!-- vault-crosslinks:end -->

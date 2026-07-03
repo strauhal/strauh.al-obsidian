@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — named in this note
-- [[knowledge/wiki/artists/Artist - jan van haasteren|Artist - jan van haasteren]] — shared language: jan, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan van haasteren 2008|Artist - jan van haasteren 2008]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
-- [[knowledge/wiki/images/the art market by jan van haasteren 2008 3e62068f|the art market by jan van haasteren 2008]] — shared language: jan, van
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jan van haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
+- [[_archive/auto-generated/images-stale/the art market by jan van haasteren 2008 3e62068f|the art market by jan van haasteren 2008]] — shared language: jan, van
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 <!-- vault-crosslinks:end -->

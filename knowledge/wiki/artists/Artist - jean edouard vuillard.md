@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - edouard vuillard|Artist - edouard vuillard]] — shared language: vuillard, edouard
-- [[knowledge/wiki/images/jardins publics by edouard vuillard 1894 ef6d31c7|jardins publics by edouard vuillard 1894]] — shared language: vuillard, edouard
 - [[knowledge/wiki/images/square vintimille la nuit by edouard vuillard 1914 7825cef6|square vintimille la nuit by edouard vuillard 1914]] — shared language: vuillard, edouard
 - [[knowledge/wiki/images/studio model helene vary by edouard vuillard 1897 12335fa5|studio model helene vary by edouard vuillard 1897]] — shared language: vuillard, edouard
-- [[knowledge/wiki/images/edouard vuillard public gardens google art project jpg 09dc205a|edouard vuillard public gardens google art project jpg]] — shared language: vuillard, edouard
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/images/Woman in an Interior by douard Vuillard (1893) d7a6cf61|Woman in an Interior by douard Vuillard (1893)]] — shared language: vuillard
+- [[knowledge/wiki/artists/Artist - edouard manet 18681869|Artist - edouard manet 18681869]] — shared language: edouard
 <!-- vault-crosslinks:end -->

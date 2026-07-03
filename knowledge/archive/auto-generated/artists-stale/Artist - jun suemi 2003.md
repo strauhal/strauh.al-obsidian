@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - jun suemi|Artist - jun suemi]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jun suemi 1989|Artist - jun suemi 1989]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/images/dragon slayer the legend of heroes cover illustration by jun suemi 1989 ae8eb6b5|dragon slayer the legend of heroes cover illustration by jun suemi 1989]] — shared language: suemi, jun
-- [[knowledge/wiki/images/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
-- [[knowledge/wiki/images/louis toussaint the battle of balaclava c 18551856 f2de19fb|louis toussaint the battle of balaclava c 18551856]] — shared language: battle
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
+- [[_archive/auto-generated/images-stale/the battle of the goddesses and the demons devi mahatmya 6fa353ec|the battle of the goddesses and the demons devi mahatmya]] — shared language: battle
+- [[knowledge/wiki/images/Illustration Drawing of Figures in a Celestial Battle or Allegory 0f824e6b|Illustration Drawing of Figures in a Celestial Battle or Allegory]] — shared language: battle
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - max loffler|Artist - max loffler]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - max loffler|Artist - max loffler]] — named in this note
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: max
 - [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: max
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
-- [[knowledge/wiki/images/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
+- [[_archive/auto-generated/images-stale/LandMap Max patcher 9a423c9e|LandMap Max patcher]] — shared language: max
 - [[knowledge/wiki/images/continuous line by max bill 1947 f881a1e8|continuous line by max bill 1947]] — shared language: max
 <!-- vault-crosslinks:end -->

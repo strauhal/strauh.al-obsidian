@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - william sharp|Artist - william sharp]] — named in this note
+- [[knowledge/wiki/images/Explosion by Martin Sharp (1968) 8b1505fc|Explosion by Martin Sharp (1968)]] — shared language: sharp
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john william waterhouse 1886|Artist - john william waterhouse 1886]] — shared language: william, rome
 - [[knowledge/wiki/images/a flower market rome by john william waterhouse 1886 00e10d9a|a flower market rome by john william waterhouse 1886]] — shared language: william, rome
-- [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
 <!-- vault-crosslinks:end -->

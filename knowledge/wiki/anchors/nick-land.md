@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/images/Document A Course in the Philosophy of Nick Land Or, 'So you want to Understand Accelerationism ' c7f289c6|Document A Course in the Philosophy of Nick Land Or, 'So you want to Understand Accelerationism ']] — shared language: land, nick
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land, nick
-- [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — shared language: land, nick
 <!-- vault-crosslinks:end -->

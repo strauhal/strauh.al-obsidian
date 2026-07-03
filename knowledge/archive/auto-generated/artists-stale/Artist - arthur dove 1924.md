@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — named in this note
 - [[knowledge/wiki/images/composition by arthur dove c 1927 d2562e3b|composition by arthur dove c 1927]] — shared language: dove, arthur
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: arthur
+- [[knowledge/wiki/images/Illustration Line Drawing of Figure with Staff and Dove 81d9af6d|Illustration Line Drawing of Figure with Staff and Dove]] — shared language: dove
 - [[knowledge/wiki/artists/Artist - arthur rothstein|Artist - arthur rothstein]] — shared language: arthur
 - [[knowledge/archive/auto-generated/artists-stale/Artist - arthur rothstein 1936|Artist - arthur rothstein 1936]] — shared language: arthur
-- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: arthur
 <!-- vault-crosslinks:end -->

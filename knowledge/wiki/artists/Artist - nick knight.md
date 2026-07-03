@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Mezzanine by Nick Knight (1998) 944080b8|Mezzanine by Nick Knight (1998)]] — shared language: nick, knight
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: nick
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: knight
+- [[knowledge/wiki/artists/Artist - Nick Carver|Artist - Nick Carver]] — shared language: nick
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
-- [[knowledge/wiki/images/the knight of the star by elyvees 2023 d2e1e6dc|the knight of the star by elyvees 2023]] — shared language: knight
-- [[knowledge/wiki/images/variation of a knight digital artwork b377e0e8|variation of a knight digital artwork]] — shared language: knight
-- [[knowledge/wiki/images/may julia nick 4 by joan brown 1976 eb245347|may julia nick 4 by joan brown 1976]] — shared language: nick
-- [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — shared language: nick
+- [[knowledge/wiki/images/Illustration Pixelated Knight in Retro Computer Window 057d6713|Illustration Pixelated Knight in Retro Computer Window]] — shared language: knight
 <!-- vault-crosslinks:end -->

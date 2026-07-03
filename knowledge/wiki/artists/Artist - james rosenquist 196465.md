@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
-- [[knowledge/wiki/artists/Artist - james fletcher|Artist - james fletcher]] — shared language: james
-- [[knowledge/wiki/images/james tissot the jewish people taken into captivity c 18961902 d7af3cdb|james tissot the jewish people taken into captivity c 18961902]] — shared language: james
 - [[knowledge/wiki/anchors/james-bridle|James Bridle]] — shared language: james
 - [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james
+- [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: james
+- [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: james
 <!-- vault-crosslinks:end -->

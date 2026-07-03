@@ -20,9 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - hao liang|Artist - hao liang]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - hao liang|Artist - hao liang]] — named in this note
 - [[knowledge/wiki/images/john martin belshazzars feast 1821 011bcb64|john martin belshazzars feast 1821]] — shared language: feast
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2bd9914e|belshazzar s feast by john martin 1821]] — shared language: feast
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2 9c833927|belshazzar s feast by john martin 1821 2]] — shared language: feast
-- [[knowledge/wiki/images/belshazzar s feast by odd nerdrum 2005 68759adc|belshazzar s feast by odd nerdrum 2005]] — shared language: feast
+- [[_archive/auto-generated/images-stale/belshazzar s feast by odd nerdrum 2005 68759adc|belshazzar s feast by odd nerdrum 2005]] — shared language: feast
+- [[knowledge/wiki/images/Illustration Surreal Feast of Nude Figures on a Food Laden Table c823411d|Illustration Surreal Feast of Nude Figures on a Food Laden Table]] — shared language: feast
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/block 13 by josan gonzalez 2017 e11346f7|block 13 by josan gonzalez 2017]] — named in this note
-- [[knowledge/wiki/artists/Artist - josan gonzalez|Artist - josan gonzalez]] — named in this note
+- [[_archive/auto-generated/images-stale/block 13 by josan gonzalez 2017 e11346f7|block 13 by josan gonzalez 2017]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez|Artist - josan gonzalez]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - josan gonzalez 2017|Artist - josan gonzalez 2017]] — named in this note
-- [[knowledge/wiki/images/motoko kusanagi by josan gonzalez 2017 32301614|motoko kusanagi by josan gonzalez 2017]] — shared language: josan, gonzalez
-- [[knowledge/wiki/images/the future is now neo city riot by josan gonzalez 2017 3b266cc7|the future is now neo city riot by josan gonzalez 2017]] — shared language: josan, gonzalez
-- [[knowledge/wiki/artists/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/images/The Future Is Now by Josan Gonzalez (2017) 227e430a|The Future Is Now by Josan Gonzalez (2017)]] — shared language: josan, gonzalez
+- [[_archive/auto-generated/images-stale/motoko kusanagi by josan gonzalez 2017 32301614|motoko kusanagi by josan gonzalez 2017]] — shared language: josan, gonzalez
+- [[_archive/auto-generated/images-stale/the future is now neo city riot by josan gonzalez 2017 3b266cc7|the future is now neo city riot by josan gonzalez 2017]] — shared language: josan, gonzalez
 <!-- vault-crosslinks:end -->

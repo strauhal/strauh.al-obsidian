@@ -1,12 +1,12 @@
 ---
 title: "the workshop of jerry cornelius by moebius 1981"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg"
 source_relpath: "1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "moebius"
-dimensions: "1500x2100"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -22,7 +22,7 @@ Artist: [[Artist - moebius]]
 
 Source: [[media/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_workshop_of_jerry_cornelius_by_moebius_1981.jpg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

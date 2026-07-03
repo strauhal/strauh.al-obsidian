@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kilian eng|Artist - Kilian Eng]] — shared language: kilian, eng
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kilian eng 2013|Artist - kilian eng 2013]] — shared language: kilian, eng
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kilian eng 2019|Artist - kilian eng 2019]] — shared language: kilian, eng
-- [[knowledge/wiki/artists/Artist - kilian eng|Artist - kilian eng]] — shared language: kilian, eng, city
-- [[knowledge/wiki/images/the great fall by kilian eng 2013 c34b40a8|the great fall by kilian eng 2013]] — shared language: kilian, eng
-- [[knowledge/wiki/images/neo tokyo 2019 by kilian eng 2019 e3e080d2|neo tokyo 2019 by kilian eng 2019]] — shared language: kilian, eng
-- [[_archive/auto-generated/books-stale/gb-site-1-peli-grietzer-eng|GB Site-1 Peli-Grietzer Eng]] — shared language: eng
+- [[_archive/auto-generated/images-stale/the great fall by kilian eng 2013 c34b40a8|the great fall by kilian eng 2013]] — shared language: kilian, eng
+- [[knowledge/wiki/images/Illustration The Great Fall by Kilian Eng 85c57914|Illustration The Great Fall by Kilian Eng]] — shared language: kilian, eng
+- [[_archive/auto-generated/images-stale/neo tokyo 2019 by kilian eng 2019 e3e080d2|neo tokyo 2019 by kilian eng 2019]] — shared language: kilian, eng
 <!-- vault-crosslinks:end -->

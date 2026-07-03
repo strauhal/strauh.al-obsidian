@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tadanori yokoo 1975|Artist - tadanori yokoo 1975]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the monster by tadanori yokoo 1970 8e507a42|the monster by tadanori yokoo 1970]] — shared language: tadanori, yokoo
 - [[knowledge/wiki/images/the voice of one by tadanori yokoo 1975 f0bd36d5|the voice of one by tadanori yokoo 1975]] — shared language: tadanori, yokoo
-- [[knowledge/wiki/images/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
+- [[_archive/auto-generated/images-stale/illustration of an orange and red chrysanthemum flower f09465f9|illustration of an orange and red chrysanthemum flower]] — shared language: flower
 <!-- vault-crosslinks:end -->

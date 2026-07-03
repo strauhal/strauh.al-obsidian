@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1976|Artist - francis bacon 1976]] — shared language: bacon, francis, self
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1973|Artist - francis bacon 1973]] — shared language: bacon, francis, self
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1979|Artist - francis bacon 1979]] — shared language: bacon, francis, study
-- [[knowledge/wiki/images/study for a portrait by francis bacon 1979 59dd3b0f|study for a portrait by francis bacon 1979]] — shared language: bacon, francis, study
+- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1975|Artist - francis bacon 1975]] — shared language: bacon, francis
 <!-- vault-crosslinks:end -->

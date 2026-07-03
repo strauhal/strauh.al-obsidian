@@ -1,7 +1,7 @@
 ---
 title: "Collection - 1500s"
 source_kind: "image_collection"
-count: "93"
+count: "110"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,9 +9,43 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 93
+Files: 110
 
 ## Sample
+
+![[media/strauh.al3.1/1500s/Hercules by Hendrick Goltzius (1589).jpg]]
+
+![[media/strauh.al3.1/1500s/Knight, Death and the Devil by Albrecht Dürer (1513).jpg]]
+
+![[media/strauh.al3.1/1500s/Marcus Atilius Regulus by Hendrick Goltzius (c. 1586).jpg]]
+
+![[media/strauh.al3.1/1500s/Mucius Scaevola by Hendrick Goltzius (1586).jpg]]
+
+![[media/strauh.al3.1/1500s/Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550-1552).jpg]]
+
+![[media/strauh.al3.1/1500s/Portrait of a Man by Giovanni Battista Moroni (c. 1570).jpg]]
+
+![[media/strauh.al3.1/1500s/Rabbits between the staves (c. 1540-50).jpg]]
+
+![[media/strauh.al3.1/1500s/Sol (The Sun) by Hendrick Goltzius (1590).jpg]]
+
+![[media/strauh.al3.1/1500s/St Francis in Meditation by Lodovico Carracci (c. 1585).jpg]]
+
+![[media/strauh.al3.1/1500s/Tantalus by Pieter Bruegel the Elder (1566).jpg]]
+
+![[media/strauh.al3.1/1500s/The Artist's Right Hand by Hendrick Goltzius (1588).jpg]]
+
+![[media/strauh.al3.1/1500s/The Beheading of Saint John the Baptist by Hans Baldung Grien (c. 1514-1515).jpg]]
+
+![[media/strauh.al3.1/1500s/The Calling of Saint Matthew by Caravaggio (1599–1600).jpg]]
+
+![[media/strauh.al3.1/1500s/The Fall of Phaeton by Hendrick Goltzius (1588).jpg]]
+
+![[media/strauh.al3.1/1500s/The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588).jpg]]
+
+![[media/strauh.al3.1/1500s/The Lamentation over the Dead Christ by Giovanni Bellini (c. 1500).jpg]]
+
+![[media/strauh.al3.1/1500s/The Tribute Money by Titian (1516).jpg]]
 
 ![[media/strauh.al3.1/1500s/apollo_playing_the_violin_by_michelangelo_buonarroti_c_15301535.jpeg]]
 
@@ -27,42 +61,25 @@ Files: 93
 
 ![[media/strauh.al3.1/1500s/head_of_a_woman_la_scapigliata_by_leonardo_da_vinci_c_1508.jpg]]
 
-![[media/strauh.al3.1/1500s/head_of_a_youth_looking_upwards_by_andrea_del_sarto_c_1523_1525.jpeg]]
-
-![[media/strauh.al3.1/1500s/hendrick_goltzius_bacchus_1595_jpg.jpg]]
-
-![[media/strauh.al3.1/1500s/hendrick_goltzius_labor_and_diligentia_allegorical_figures_of_labor_and_diligence_1582.jpg]]
-
-![[media/strauh.al3.1/1500s/hendrick_goltzius_venus_bacchus_and_cupid_c_1590.jpg]]
-
-![[media/strauh.al3.1/1500s/illustration_for_dante_alighieri_s_paradiso_canto_ii_1544.jpeg]]
-
-![[media/strauh.al3.1/1500s/ira_wrath_by_hendrick_goltzius_c_1587.jpeg]]
-
-![[media/strauh.al3.1/1500s/kayumars_and_his_court_by_sultan_muhammad_c_15241525.jpg]]
-
-![[media/strauh.al3.1/1500s/lot_and_his_daughters_lothi_filiae_by_joos_van_winghe_c_1590.jpeg]]
-
-![[media/strauh.al3.1/1500s/madonna_and_child_with_saints_pala_di_san_frediano_by_andrea_del_sarto_c_1517.jpeg]]
-
-![[media/strauh.al3.1/1500s/madonna_with_the_pear_by_albrecht_durer_1512.jpeg]]
-
-![[media/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_1586.jpeg]]
-
-![[media/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_1586_2.jpeg]]
-
-![[media/strauh.al3.1/1500s/marcus_curtius_by_hendrick_goltzius_c_1586.jpeg]]
-
-![[media/strauh.al3.1/1500s/marcus_curtius_on_horseback_from_the_roman_heroes_by_hendrick_goltzius_1586.jpeg]]
-
-![[media/strauh.al3.1/1500s/mary_magdalene_by_moretto_da_brescia_1540_50.jpeg]]
-
-![[media/strauh.al3.1/1500s/medusa_by_michelangelo_merisi_da_caravaggio_1597_1598.jpg]]
-
-![[media/strauh.al3.1/1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_bruegel_the_elder_1558.jpeg]]
-
 ## Image Notes
 
+- [[Hercules by Hendrick Goltzius (1589) 3845c5eb|Hercules by Hendrick Goltzius (1589)]]
+- [[Knight, Death and the Devil by Albrecht D rer (1513) 871fb4bd|Knight, Death and the Devil by Albrecht D rer (1513)]]
+- [[Marcus Atilius Regulus by Hendrick Goltzius (c. 1586) d224bf2a|Marcus Atilius Regulus by Hendrick Goltzius (c. 1586)]]
+- [[Mucius Scaevola by Hendrick Goltzius (1586) 28933592|Mucius Scaevola by Hendrick Goltzius (1586)]]
+- [[Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552) 8437ddde|Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552)]]
+- [[Portrait of a Man by Giovanni Battista Moroni (c. 1570) 1d471918|Portrait of a Man by Giovanni Battista Moroni (c. 1570)]]
+- [[Rabbits between the staves (c. 1540 50) 0cf0173c|Rabbits between the staves (c. 1540 50)]]
+- [[Sol (The Sun) by Hendrick Goltzius (1590) 55c5296f|Sol (The Sun) by Hendrick Goltzius (1590)]]
+- [[St Francis in Meditation by Lodovico Carracci (c. 1585) 21c8a9d3|St Francis in Meditation by Lodovico Carracci (c. 1585)]]
+- [[Tantalus by Pieter Bruegel the Elder (1566) e3d8633b|Tantalus by Pieter Bruegel the Elder (1566)]]
+- [[The Artist's Right Hand by Hendrick Goltzius (1588) 278890f4|The Artist's Right Hand by Hendrick Goltzius (1588)]]
+- [[The Beheading of Saint John the Baptist by Hans Baldung Grien (c. 1514 1515) 6fc3aa1c|The Beheading of Saint John the Baptist by Hans Baldung Grien (c. 1514 1515)]]
+- [[The Calling of Saint Matthew by Caravaggio (1599 1600) 90c3706e|The Calling of Saint Matthew by Caravaggio (1599 1600)]]
+- [[The Fall of Phaeton by Hendrick Goltzius (1588) 391b7354|The Fall of Phaeton by Hendrick Goltzius (1588)]]
+- [[The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588) d15139f1|The Fall of Phaeton, plate 3 by Hendrick Goltzius (1588)]]
+- [[The Lamentation over the Dead Christ by Giovanni Bellini (c. 1500) 5b28046b|The Lamentation over the Dead Christ by Giovanni Bellini (c. 1500)]]
+- [[The Tribute Money by Titian (1516) 731153ae|The Tribute Money by Titian (1516)]]
 - [[apollo playing the violin by michelangelo buonarroti c 15301535 7f8f4d1a|apollo playing the violin by michelangelo buonarroti c 15301535]]
 - [[assumption of the virgin by correggio c 1526 1530 98fe2416|assumption of the virgin by correggio c 1526 1530]]
 - [[atlas by michelangelo buonarroti 1530 1534 27fc9388|atlas by michelangelo buonarroti 1530 1534]]
@@ -160,12 +177,12 @@ Files: 93
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563) c820d007|The Resurrection of Christ by Pieter Bruegel the Elder (c. 1563)]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — named in this note
 - [[knowledge/wiki/images/perseus cc022ab3|perseus]] — named in this note
 - [[knowledge/wiki/images/violin 4a3d688a|violin]] — named in this note
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, leonardo, vinci
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, christ
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study, studies
-- [[knowledge/wiki/artists/Artist - leonardo da vinci|Artist - leonardo da vinci]] — shared language: leonardo, vinci, shoulder
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: bruegel, elder, pieter
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, virgin, baptist
+- [[knowledge/wiki/artists/Artist - hendrick goltzius|Artist - hendrick goltzius]] — shared language: hendrick, goltzius, marcus
+- [[knowledge/wiki/artists/Artist - pieter bruegel the elder|Artist - pieter bruegel the elder]] — shared language: bruegel, elder, pieter
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: law
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: law
-- [[knowledge/wiki/artists/Artist - lisa clague|Artist - lisa clague]] — shared language: lisa
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: andy, warhol
-- [[knowledge/wiki/images/her bluebird of happiness by lisa clague 2021 ee5f5a89|her bluebird of happiness by lisa clague 2021]] — shared language: lisa
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: law
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: warhol, andy
+- [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

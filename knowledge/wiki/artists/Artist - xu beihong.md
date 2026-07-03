@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
-- [[knowledge/wiki/images/colorful illustration of a rider on a white horse 27b26447|colorful illustration of a rider on a white horse]] — shared language: horse
-- [[knowledge/wiki/images/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: horse
-- [[knowledge/wiki/images/abstract painting of a figure riding a horse and pointing 544988c3|abstract painting of a figure riding a horse and pointing]] — shared language: horse
-- [[knowledge/wiki/images/line drawing of a horse chewing grass 1d319589|line drawing of a horse chewing grass]] — shared language: horse
-- [[knowledge/wiki/images/framed ink drawing of a horse head with motion lines 712198cb|framed ink drawing of a horse head with motion lines]] — shared language: horse
+- [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
+- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: horse
+- [[knowledge/wiki/images/Illustration Abstract Painting of Figure Riding Horse and Pointing dbf31a5d|Illustration Abstract Painting of Figure Riding Horse and Pointing]] — shared language: horse
+- [[knowledge/wiki/images/Illustration Brown Horse Grazing in a Field 8ad84393|Illustration Brown Horse Grazing in a Field]] — shared language: horse
+- [[knowledge/wiki/images/The Prince and the Princess on the White Horse by John Bauer (1913) f41f6bcb|The Prince and the Princess on the White Horse by John Bauer (1913)]] — shared language: horse
+- [[knowledge/wiki/images/Illustration Line Drawing Of A Horse Chewing Grass 5a5cca0d|Illustration Line Drawing Of A Horse Chewing Grass]] — shared language: horse
 <!-- vault-crosslinks:end -->

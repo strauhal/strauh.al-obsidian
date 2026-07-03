@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - waneella|Artist - waneella]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - waneella|Artist - waneella]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - waneella 2019|Artist - waneella 2019]] — named in this note
-- [[knowledge/wiki/images/the brinmansta by waneella 2019 0e89c52e|the brinmansta by waneella 2019]] — shared language: waneella
-- [[knowledge/wiki/images/baron town by waneella 2019 ef4c7cb5|baron town by waneella 2019]] — shared language: waneella
-- [[knowledge/wiki/images/gu hongzhong s night revels 1 edit jpg 7c8c4ef3|gu hongzhong s night revels 1 edit jpg]] — shared language: night
+- [[_archive/auto-generated/images-stale/the brinmansta by waneella 2019 0e89c52e|the brinmansta by waneella 2019]] — shared language: waneella
+- [[_archive/auto-generated/images-stale/baron town by waneella 2019 ef4c7cb5|baron town by waneella 2019]] — shared language: waneella
+- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
 - [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: night
 <!-- vault-crosslinks:end -->

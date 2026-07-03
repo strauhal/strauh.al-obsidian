@@ -1,12 +1,12 @@
 ---
 title: "E96kiEnVgAAxXh"
 source_kind: "image"
-source_file: "/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/E96kiEnVgAAxXh-.jpeg"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/computers/E96kiEnVgAAxXh-.jpeg"
 source_relpath: "computers/E96kiEnVgAAxXh-.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: "1280x960"
+dimensions: ""
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---
@@ -20,7 +20,7 @@ Artist: Unknown
 
 Source: [[media/strauh.al3.1/computers/E96kiEnVgAAxXh-.jpeg|source file]]
 
-Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/computers/E96kiEnVgAAxXh-.jpeg`
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/computers/E96kiEnVgAAxXh-.jpeg`
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

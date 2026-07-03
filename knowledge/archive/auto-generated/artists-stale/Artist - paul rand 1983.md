@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/ayn-rand|Ayn Rand]] — shared language: rand
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: rand
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: paul
-- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1973|Artist - paul jenkins 1973]] — shared language: paul
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
 <!-- vault-crosslinks:end -->

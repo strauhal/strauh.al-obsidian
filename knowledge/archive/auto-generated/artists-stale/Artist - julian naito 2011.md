@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - julian naito|Artist - julian naito]] — named in this note
-- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
+- [[knowledge/archive/auto-generated/artists-stale/Artist - julian naito|Artist - julian naito]] — named in this note
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian story 1904|Artist - julian story 1904]] — shared language: julian
+- [[knowledge/wiki/images/Match Made in Wolf Heaven by John Nieto (2011) f4a78011|Match Made in Wolf Heaven by John Nieto (2011)]] — shared language: heaven, match, wolf
 - [[knowledge/wiki/artists/Artist - julian schnabel|Artist - julian schnabel]] — shared language: julian
 - [[knowledge/archive/auto-generated/artists-stale/Artist - julian schnabel 1991|Artist - julian schnabel 1991]] — shared language: julian
 <!-- vault-crosslinks:end -->

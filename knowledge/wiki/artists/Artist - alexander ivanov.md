@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - vsevolod ivanov|Artist - vsevolod ivanov]] — shared language: ivanov
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
-- [[knowledge/wiki/images/the heavenly host by vsevolod ivanov 2007 73a6dc80|the heavenly host by vsevolod ivanov 2007]] — shared language: ivanov
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander, people
+- [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: alexander
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: alexander
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander, people
 - [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: alexander
 <!-- vault-crosslinks:end -->

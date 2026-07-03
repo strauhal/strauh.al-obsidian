@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[The Body, In Theory_ Histories of Cultural Materialism] Jean Baudrillard, Sheila Faria Glaser - Simulacra and Simulation  (1995, University of Michigan Press) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-02
+updated: 2026-07-02
 ---
 
 # Simulacra and Simulation

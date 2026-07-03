@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - tiffanie anderson|Artist - tiffanie anderson]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas sully 1818|Artist - thomas sully 1818]] — nearby note in the same source series
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tiffany sia 2020|Artist - tiffany sia 2020]] — nearby note in the same source series
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tiffanie anderson|Artist - tiffanie anderson]] — named in this note
+- [[knowledge/wiki/images/Tambourine by Tiffanie Anderson (2022) 03b16ea4|Tambourine by Tiffanie Anderson (2022)]] — named in this note
+- [[knowledge/wiki/images/Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson dcbd7802|Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson]] — shared language: tambourine
 <!-- vault-crosslinks:end -->

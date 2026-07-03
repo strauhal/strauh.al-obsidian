@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/evil png 213b94fc|evil png]] — shared language: evil
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: evil, idea
-- [[knowledge/wiki/images/idea for communications bay 2010 6bf54032|idea for communications bay 2010]] — shared language: idea
+- [[knowledge/wiki/artists/Artist - kenneth noland|Artist - kenneth noland]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - kenyon cox|Artist - kenyon cox]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

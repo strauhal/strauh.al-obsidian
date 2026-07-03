@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - diego rivera|Artist - diego rivera]] — named in this note
+- [[knowledge/wiki/images/Ni a con Fruta by Diego Rivera (1943) 98d56567|Ni a con Fruta by Diego Rivera (1943)]] — shared language: rivera, diego
+- [[knowledge/wiki/images/Dos Mujeres (Two Women) by Diego Rivera (1926) e5bcb188|Dos Mujeres (Two Women) by Diego Rivera (1926)]] — shared language: rivera, diego
 - [[knowledge/wiki/artists/Artist - diego velazquez|Artist - diego velazquez]] — shared language: diego
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diego velazquez 1650|Artist - diego velazquez 1650]] — shared language: diego
 - [[knowledge/wiki/images/portrait of juan de pareja by diego velazquez 1650 1731b75f|portrait of juan de pareja by diego velazquez 1650]] — shared language: diego
-- [[knowledge/wiki/images/1924 575 portrait of a man jpg f3b0a576|1924 575 portrait of a man jpg]] — shared language: man
-- [[knowledge/wiki/images/stylized illustration of a room with a blowing curtain window and a video game controller on a table bc841529|stylized illustration of a room with a blowing curtain window and a video game controller on a table]] — shared language: controller
 <!-- vault-crosslinks:end -->

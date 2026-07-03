@@ -12,11 +12,11 @@ Stub concept created to keep the Obsidian graph connected. Expand this when the 
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
-- [[_archive/auto-generated/concept-stubs/degas|degas]] — shared language: stub, obsidian, graph
-- [[_archive/auto-generated/concept-stubs/moebius|moebius]] — shared language: stub, obsidian, graph
-- [[_archive/auto-generated/concept-stubs/museum|museum]] — shared language: stub, obsidian, graph
-- [[_archive/auto-generated/concept-stubs/quotes|quotes]] — shared language: stub, obsidian, graph
-- [[_archive/auto-generated/concept-stubs/phenomenology of spirit|phenomenology of spirit]] — shared language: stub, obsidian, graph
+- [[_archive/auto-generated/concept-stubs/degas|degas]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/moebius|moebius]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/museum|museum]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/web art|web art]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/phenomenology of spirit|phenomenology of spirit]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/quotes|quotes]] — shared language: stub, obsidian, created
 <!-- vault-crosslinks:end -->

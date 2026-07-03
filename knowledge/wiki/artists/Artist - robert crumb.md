@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - robert|Artist - robert]] — named in this note
-- [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: crumb
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert williams|Artist - robert williams]] — shared language: robert
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
+- [[knowledge/wiki/images/Comic Man Arguing With An Eye About Drawing by Robert Crumb 48e2b1fe|Comic Man Arguing With An Eye About Drawing by Robert Crumb]] — shared language: crumb, robert
+- [[knowledge/wiki/images/Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb a249b5d7|Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb]] — shared language: crumb, robert
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: crumb
+- [[knowledge/wiki/images/Too Much Information by R. Crumb (2022) 87b5953f|Too Much Information by R. Crumb (2022)]] — shared language: crumb
+- [[knowledge/wiki/images/Comic Cartoon Man Sits on Crate in Trash Filled Urban Landscape by Robert Crumb d2421329|Comic Cartoon Man Sits on Crate in Trash Filled Urban Landscape by Robert Crumb]] — shared language: crumb, robert
+- [[knowledge/wiki/artists/Artist - Maxon Crumb|Artist - Maxon Crumb]] — shared language: crumb
 <!-- vault-crosslinks:end -->

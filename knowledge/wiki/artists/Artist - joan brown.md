@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - joan mitchell|Artist - joan mitchell]] — shared language: joan
 - [[knowledge/wiki/images/the tree by joan mitchell 1980 c493b0f2|the tree by joan mitchell 1980]] — shared language: joan
-- [[knowledge/wiki/images/joan mitchell in her studio 1956 9aae0df7|joan mitchell in her studio 1956]] — shared language: joan
-- [[knowledge/wiki/images/21 portrait of joan mitchell in her studio 1956 jpg 9cecff11|21 portrait of joan mitchell in her studio 1956 jpg]] — shared language: joan
-- [[knowledge/wiki/images/joan mitchell musee giverny 2 jpg 4174f538|joan mitchell musee giverny 2 jpg]] — shared language: joan
+- [[knowledge/wiki/images/Photograph Joan Mitchell In Her Studio 8ac2a42c|Photograph Joan Mitchell In Her Studio]] — shared language: joan
 - [[knowledge/wiki/images/frank e schoonover joan of arc 1911 e62f0b11|frank e schoonover joan of arc 1911]] — shared language: joan
+- [[knowledge/wiki/images/Illustration Abstract Painting of Architectural Forms and a Brown Box aa8b5b85|Illustration Abstract Painting of Architectural Forms and a Brown Box]] — shared language: brown
+- [[knowledge/wiki/artists/Artist - Cecily Brown|Artist - Cecily Brown]] — shared language: brown
 <!-- vault-crosslinks:end -->

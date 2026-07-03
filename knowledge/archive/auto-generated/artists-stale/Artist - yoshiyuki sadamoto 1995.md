@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - yoshiyuki sadamoto|Artist - yoshiyuki sadamoto]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshiyuki sadamoto 1997|Artist - yoshiyuki sadamoto 1997]] — named in this note
-- [[knowledge/wiki/images/misato katsuragi neon genesis evangelion manga chapter 23 splash page by yoshiyuki sadamoto 1997 a1f143a6|misato katsuragi neon genesis evangelion manga chapter 23 splash page by yoshiyuki sadamoto 1997]] — shared language: yoshiyuki, sadamoto
-- [[knowledge/wiki/images/illustration of a character with flowing purple hair and heterochromia cd2870e0|illustration of a character with flowing purple hair and heterochromia]] — shared language: character
-- [[knowledge/wiki/images/digital drawing of a character transitioning appearance over five years 8c85533f|digital drawing of a character transitioning appearance over five years]] — shared language: character
-- [[knowledge/wiki/images/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: character
+- [[knowledge/wiki/images/Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto 90a714f8|Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto, asuka
+- [[knowledge/wiki/images/Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995) d32c6198|Evangelion Unit 01 by Yoshiyuki Sadamoto (c. 1995)]] — shared language: yoshiyuki, sadamoto
+- [[knowledge/wiki/images/Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto 07ae0e9f|Illustration Watercolor and Ink Character Design Sketches for Evangelion by Yoshiyuki Sadamoto]] — shared language: yoshiyuki, sadamoto, character
+- [[knowledge/wiki/images/Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997) 3de54487|Evangelion Unit 01 vs. Evangelion Unit 02 by Yoshiyuki Sadamoto (1997)]] — shared language: yoshiyuki, sadamoto
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll challenger jpg d933446b|joseph clement coll challenger jpg]] — shared language: clement
-- [[knowledge/wiki/images/joseph clement coll fu manchu jpg 80546373|joseph clement coll fu manchu jpg]] — shared language: clement
 - [[knowledge/wiki/images/lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]] — shared language: clement
+- [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: christian
+- [[knowledge/wiki/images/Challenger by Joseph Clement Coll f4fc0846|Challenger by Joseph Clement Coll]] — shared language: clement
 - [[knowledge/wiki/images/portrait de jeune femme by clement serveau 1930 aece1019|portrait de jeune femme by clement serveau 1930]] — shared language: clement
 <!-- vault-crosslinks:end -->

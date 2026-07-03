@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: racer, speed
-- [[knowledge/wiki/culture/movie-speed-racer-2008|Watchlist - Speed Racer (2008)]] — shared language: racer, speed
-- [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/images/Illustration Impasto Painting of Speed Racer and Mach 5 a1bd195d|Illustration Impasto Painting of Speed Racer and Mach 5]] — shared language: racer, speed
+- [[knowledge/wiki/images/Speed Racer by Tatsuo Yoshida (1967 1968) ce7dec63|Speed Racer by Tatsuo Yoshida (1967 1968)]] — shared language: racer, speed
+- [[knowledge/wiki/images/Speed Racer by Tatsunoko Production (1967 1968) 7bfb1e29|Speed Racer by Tatsunoko Production (1967 1968)]] — shared language: racer, speed
+- [[knowledge/wiki/images/Photograph Woman Sits in Cafe with Large Speed Racer Wall Art f9bd5a6e|Photograph Woman Sits in Cafe with Large Speed Racer Wall Art]] — shared language: racer, speed
 <!-- vault-crosslinks:end -->

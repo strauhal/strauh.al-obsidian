@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - janet fish|Artist - janet fish]] — named in this note
 - [[knowledge/wiki/images/john george brown a fish cleaning station 1877 00e7336d|john george brown a fish cleaning station 1877]] — shared language: fish
-- [[knowledge/wiki/images/framed still life with vegetables and fish 0545ad2a|framed still life with vegetables and fish]] — shared language: fish
-- [[knowledge/wiki/images/color photograph of a woman in a black veil holding a small fish to her neck b173ce62|color photograph of a woman in a black veil holding a small fish to her neck]] — shared language: fish
-- [[knowledge/wiki/images/display featuring a super sonico figurine and a fish fossil c608dcfe|display featuring a super sonico figurine and a fish fossil]] — shared language: fish
-- [[knowledge/wiki/images/en route pour la peche setting out to fish by john singer sargent 1878 86bd51ae|en route pour la peche setting out to fish by john singer sargent 1878]] — shared language: fish
+- [[knowledge/wiki/images/Fish Blood by Gustav Klimt (1898) d91744d0|Fish Blood by Gustav Klimt (1898)]] — shared language: fish
+- [[_archive/auto-generated/images-stale/framed still life with vegetables and fish 0545ad2a|framed still life with vegetables and fish]] — shared language: fish
+- [[knowledge/wiki/images/Photograph Woman in Black Veil Holding Small Fish to Neck 8640c07f|Photograph Woman in Black Veil Holding Small Fish to Neck]] — shared language: fish
+- [[knowledge/wiki/images/Still Life with Fish by Pierre Auguste Renoir (c. 1869) cb2fd1be|Still Life with Fish by Pierre Auguste Renoir (c. 1869)]] — shared language: fish
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two White Egrets Building Nest With Twig 59ea5abf|Photograph Two White Egrets Building Nest With Twig]] — shared language: egrets, twig, nest
+- [[_archive/auto-generated/images-stale/Photograph Two White Egrets Building Nest With Twig 59ea5abf|Photograph Two White Egrets Building Nest With Twig]] — shared language: egrets, twig, nest
+- [[knowledge/wiki/images/Two White Egrets Building Nest With Twig 698cbd9e|Two White Egrets Building Nest With Twig]] — shared language: egrets, twig, nest
 - [[knowledge/wiki/images/The Wasps Nest by William Adolphe Bouguereau (1892) 6ac5dbe1|The Wasps Nest by William Adolphe Bouguereau (1892)]] — shared language: nest
-- [[knowledge/wiki/images/Photograph Man Standing in Front of Garage with Flowering Bush b56e4b6c|Photograph Man Standing in Front of Garage with Flowering Bush]] — shared language: bush
-- [[knowledge/wiki/images/Photograph Dirt Road Leading To Bush In Field Under Blue Sky c1ca03a3|Photograph Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: bush
-- [[_archive/auto-generated/images-stale/color photograph of a dirt road leading to a bush in a field under a blue sky 1724eb65|color photograph of a dirt road leading to a bush in a field under a blue sky]] — shared language: bush
+- [[knowledge/wiki/images/Man Standing in Front of Garage with Flowering Bush 45377dcf|Man Standing in Front of Garage with Flowering Bush]] — shared language: bush
+- [[_archive/auto-generated/images-stale/Photograph Man Standing in Front of Garage with Flowering Bush b56e4b6c|Photograph Man Standing in Front of Garage with Flowering Bush]] — shared language: bush
 <!-- vault-crosslinks:end -->

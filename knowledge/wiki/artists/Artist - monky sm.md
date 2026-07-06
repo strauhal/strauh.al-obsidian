@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: rei
-- [[knowledge/wiki/images/rei 5f3aa874|rei]] — shared language: rei
 - [[knowledge/wiki/images/Document Rolling Stone Japan Magazine Cover Featuring Rei Ayanami 3f24e507|Document Rolling Stone Japan Magazine Cover Featuring Rei Ayanami]] — shared language: ayanami, rei
+- [[knowledge/wiki/images/rei 5f3aa874|rei]] — shared language: rei
 - [[knowledge/wiki/images/rei smile 1bf5d8bc|rei smile]] — shared language: rei
 - [[knowledge/wiki/images/rei kawakubo 10a189ab|rei kawakubo]] — shared language: rei
 - [[knowledge/wiki/images/Diagram Colorful Network Diagram of Interconnected Psycho Symbolic Concepts 2fd50ec1|Diagram Colorful Network Diagram of Interconnected Psycho Symbolic Concepts]] — shared language: psycho

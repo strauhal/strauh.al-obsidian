@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Screenshot Screenshot of Yale University School of Art Website with Cookie Monster 0f70527a|Screenshot Screenshot of Yale University School of Art Website with Cookie Monster]] — shared language: cookie
 - [[knowledge/wiki/images/Illustration Bust of Aeschylus With Quote 'Everyone's Quick To Blame The Foreigner' a9aeb190|Illustration Bust of Aeschylus With Quote 'Everyone's Quick To Blame The Foreigner']] — shared language: foreigner
-- [[knowledge/wiki/images/Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth 7047fab1|Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: worker
+- [[knowledge/wiki/images/Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth a8dc8553|Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: worker
 - [[knowledge/wiki/images/Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building 01b03424|Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building]] — shared language: worker
 - [[knowledge/wiki/images/washington d c a worker in the bureau of engraving and printing operating a machine which rounds the corners of the cards on which war savings stamps 35cd2e51|washington d c a worker in the bureau of engraving and printing operating a machine which rounds the corners of the cards on which war savings stamps]] — shared language: worker
 <!-- vault-crosslinks:end -->

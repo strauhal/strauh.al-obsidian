@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - alfred kubin|Artist - alfred kubin]] — shared language: alfred
 - [[knowledge/wiki/artists/Artist - alfred edward chalon|Artist - alfred edward chalon]] — shared language: alfred
 - [[knowledge/wiki/images/The City of Ambition by Alfred Stieglitz (1910) 35676065|The City of Ambition by Alfred Stieglitz (1910)]] — shared language: alfred
-- [[knowledge/wiki/books/taoist-master-alfred-huang-the-complete-i-ching-10th-anniversary-edition-the-definitive-translation-by-taoist-master-alfred-huang-inner-trad|The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions]] — shared language: alfred
 - [[knowledge/wiki/images/The Flat iron by Alfred Stieglitz (1903) 55e9e13e|The Flat iron by Alfred Stieglitz (1903)]] — shared language: alfred
+- [[knowledge/wiki/books/taoist-master-alfred-huang-the-complete-i-ching-10th-anniversary-edition-the-definitive-translation-by-taoist-master-alfred-huang-inner-trad|The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions]] — shared language: alfred
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Woman in White Fringed Showgirl Costume and Blue Feather Headdress 16d514ea|Illustration Woman in White Fringed Showgirl Costume and Blue Feather Headdress]] — shared language: headdress, headdress.jpeg
-- [[knowledge/wiki/images/Illustration Intricately Beaded Doll with Feathered Headdress and Horns dd1d977b|Illustration Intricately Beaded Doll with Feathered Headdress and Horns]] — shared language: headdress
 <!-- vault-crosslinks:end -->

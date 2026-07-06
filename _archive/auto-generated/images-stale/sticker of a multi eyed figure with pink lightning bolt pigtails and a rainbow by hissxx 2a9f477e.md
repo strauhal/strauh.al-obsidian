@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Multi Eyed Figure with Pink Lightning Pigtails and Rainbow 491e99aa|Illustration Multi Eyed Figure with Pink Lightning Pigtails and Rainbow]] — shared language: lightning, pigtails, eyed
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: pigtails
 - [[knowledge/wiki/books/thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] — shared language: rainbow
-- [[knowledge/wiki/images/Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] — shared language: eyed, multi
 - [[knowledge/wiki/images/Illustration Surreal Landscape with Figures, Mountains, Lightning, and Portrait Inset 21cdb91b|Illustration Surreal Landscape with Figures, Mountains, Lightning, and Portrait Inset]] — shared language: lightning
+- [[knowledge/wiki/images/Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] — shared language: eyed, multi
 <!-- vault-crosslinks:end -->

@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: military, uniform, uniform.jpeg
-- [[knowledge/wiki/images/Illustration Black And White Anime Character In Military Uniform With Iron Cross 2d40e62f|Illustration Black And White Anime Character In Military Uniform With Iron Cross]] — shared language: military, uniform, character
+- [[knowledge/wiki/images/Illustration Black And White Anime Character In Military Uniform With Iron Cross 2d40e62f|Illustration Black And White Anime Character In Military Uniform With Iron Cross]] — shared language: uniform, military, character
 - [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: military, uniform
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Anime style Drawing of George Washington in Blue Military Uniform 4562a5c4|Illustration Anime style Drawing of George Washington in Blue Military Uniform]] — shared language: military, uniform, uniform.jpeg

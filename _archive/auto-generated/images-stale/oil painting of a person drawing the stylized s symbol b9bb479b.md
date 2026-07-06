@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/oil painting of a person drawing the cool s symbol 3fc85914|oil painting of a person drawing the cool s symbol]] — shared language: symbol, oil, person
-- [[knowledge/wiki/images/Illustration Person Drawing Stylized 'S' Symbol on Whiteboard f2470d09|Illustration Person Drawing Stylized 'S' Symbol on Whiteboard]] — shared language: symbol, person, stylized
+- [[knowledge/wiki/images/Illustration Person Drawing Stylized 'S' Symbol on Whiteboard f2470d09|Illustration Person Drawing Stylized 'S' Symbol on Whiteboard]] — shared language: symbol, stylized, person
 - [[knowledge/wiki/images/Illustration Person Drawing The Cool S Symbol 53c81af9|Illustration Person Drawing The Cool S Symbol]] — shared language: symbol, person, symbol.jpeg
 - [[knowledge/wiki/images/Illustration Stylized Black And White Abstract Symbol by Sleep Token fbcc4fbf|Illustration Stylized Black And White Abstract Symbol by Sleep Token]] — shared language: symbol, stylized
 - [[knowledge/wiki/images/Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol 55f1bfb8|Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol]] — shared language: symbol, stylized, symbol.jpeg

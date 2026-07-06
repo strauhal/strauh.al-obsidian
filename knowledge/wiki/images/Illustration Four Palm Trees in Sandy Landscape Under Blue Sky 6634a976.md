@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky 8df70443|Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky]] — shared language: trees, sky, landscape
 - [[knowledge/wiki/images/Illustration Vibrant Sunset Over Road, Houses, and Palm Trees 6d79bef5|Illustration Vibrant Sunset Over Road, Houses, and Palm Trees]] — shared language: palm, trees
 - [[knowledge/wiki/images/Illustration Pixel Art Tropical Beach with Palm Trees and Ocean 0cf813e1|Illustration Pixel Art Tropical Beach with Palm Trees and Ocean]] — shared language: palm, trees
-- [[knowledge/wiki/images/Document Amtrak Train and Station with Palm Trees 4c1c5cd1|Document Amtrak Train and Station with Palm Trees]] — shared language: palm, trees
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

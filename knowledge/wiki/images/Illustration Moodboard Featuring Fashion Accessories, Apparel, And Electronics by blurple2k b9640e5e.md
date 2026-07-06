@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: fashion
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: electronics
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion
 - [[knowledge/wiki/images/Illustration Two Stylized Figures In Alternative Fashion 421666db|Illustration Two Stylized Figures In Alternative Fashion]] — shared language: fashion
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: peak, snowy, landscape
 - [[_archive/auto-generated/images-stale/alpine landscape with a seated woman in red 3e746c83|alpine landscape with a seated woman in red]] — shared language: alpine, landscape
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
-- [[knowledge/wiki/images/alpine landscape with cows and figures by friedrich voltz c 1860 e69e3289|alpine landscape with cows and figures by friedrich voltz c 1860]] — shared language: alpine, landscape
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[_archive/auto-generated/images-stale/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
 <!-- vault-crosslinks:end -->

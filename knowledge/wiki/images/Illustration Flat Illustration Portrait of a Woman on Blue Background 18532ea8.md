@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Typographic Portrait of a Person with a Flat Top Haircut 3d12047b|Illustration Typographic Portrait of a Person with a Flat Top Haircut]] — shared language: flat
 - [[knowledge/wiki/images/The Flat iron by Alfred Stieglitz (1903) 55e9e13e|The Flat iron by Alfred Stieglitz (1903)]] — shared language: flat
-- [[knowledge/wiki/images/Photograph Flat Lay of Various Textile and Material Samples and Color Swatches fa5b5c5f|Photograph Flat Lay of Various Textile and Material Samples and Color Swatches]] — shared language: flat
 - [[knowledge/wiki/images/Illustration Two Abstract Red And White Organic Figures On Black Background 161d994c|Illustration Two Abstract Red And White Organic Figures On Black Background]] — shared language: background, background.jpg
+- [[knowledge/wiki/images/Flat Lay of Various Textile and Material Samples and Color Swatches 2fd9efa0|Flat Lay of Various Textile and Material Samples and Color Swatches]] — shared language: flat
 - [[knowledge/wiki/images/Illustration Abstract Black Scribbles On White Background bf477ae7|Illustration Abstract Black Scribbles On White Background]] — shared language: background, background.jpg
 <!-- vault-crosslinks:end -->

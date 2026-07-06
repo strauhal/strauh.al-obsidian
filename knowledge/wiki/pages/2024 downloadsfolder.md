@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2024_downloadsfolder.html"
 source_relpath: "2024_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # 2024 downloadsfolder
@@ -485,10 +485,10 @@ strauh.al/2024_downloadsfolder
 
 - [[knowledge/wiki/books/laska-sadie-bio-cv-2023|LASKA Sadie BIO CV 2023]] — named in this note
 - [[knowledge/wiki/images/ghost cd521222|ghost]] — named in this note
-- [[knowledge/wiki/images/Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]] — shared language: shot, screen, pm.png
 - [[knowledge/wiki/images/Screen Shot 2020 10 10 at 6.36.47 PM 507cb295|Screen Shot 2020 10 10 at 6.36.47 PM]] — shared language: shot, screen, pm.png
 - [[knowledge/wiki/pages/culture society|culture society]] — shared language: n.jpg, pm.png, shot
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: n.jpg, shot, pm.png
-- [[knowledge/wiki/images/13312890 1364959343517951 9080943046825273669 n a7dd21a0|13312890 1364959343517951 9080943046825273669 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/180913581 127556412765709 1144180134642286206 n d4b2bdd7|180913581 127556412765709 1144180134642286206 n]] — shared language: n.jpg
+- [[knowledge/wiki/books/2408-04681v1|2408.04681v1]] — shared language: v1.pdf
+- [[knowledge/wiki/books/2410-01131v1|2410.01131v1]] — shared language: v1.pdf
+- [[knowledge/wiki/images/Screenshot Man in Lifeboat on Green Screen Water with Grid Sky 304a8726|Screenshot Man in Lifeboat on Green Screen Water with Grid Sky]] — shared language: screen, screenshot
 <!-- vault-crosslinks:end -->

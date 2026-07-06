@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: attic, cluttered, desk
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, desk, computer
+- [[knowledge/wiki/images/Cluttered Attic Room With Computer Desk And Bed 57dafd01|Cluttered Attic Room With Computer Desk And Bed]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: attic, cluttered, bed
+- [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, desk, computer
+- [[_archive/auto-generated/images-stale/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, desk, computer
 - [[_archive/auto-generated/images-stale/photograph of a highly cluttered room with a computer desk and trash on the floor da3d6818|photograph of a highly cluttered room with a computer desk and trash on the floor]] — shared language: cluttered, desk, computer
-- [[knowledge/wiki/images/Illustration Young Woman Smoking on Bed in Cluttered Room 2ac094b2|Illustration Young Woman Smoking on Bed in Cluttered Room]] — shared language: cluttered, bed, room
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk
 <!-- vault-crosslinks:end -->

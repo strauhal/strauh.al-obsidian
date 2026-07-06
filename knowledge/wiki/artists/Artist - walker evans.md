@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/walker evans alabama tenant farmer wife 1936 5a2913df|walker evans alabama tenant farmer wife 1936]] — shared language: evans, walker, alabama
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
-- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: evans
 - [[knowledge/wiki/artists/Artist - Diana Walker|Artist - Diana Walker]] — shared language: walker
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: evans
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: evans
 <!-- vault-crosslinks:end -->

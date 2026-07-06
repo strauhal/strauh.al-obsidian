@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/head of a young woman by samuel worcester rowse 1874 7b7fe886|head of a young woman by samuel worcester rowse 1874]] — shared language: samuel
 - [[knowledge/wiki/images/This Old Bones Needs Rest by Samuel G. Gonzalez (2021) 34dc86ba|This Old Bones Needs Rest by Samuel G. Gonzalez (2021)]] — shared language: samuel
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: gallery
-- [[knowledge/wiki/images/Photograph Art Installation Of Red Bricks In A White Gallery d540bc7f|Photograph Art Installation Of Red Bricks In A White Gallery]] — shared language: gallery
+- [[knowledge/wiki/images/A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757) 85501861|A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757)]] — shared language: louvre
 <!-- vault-crosslinks:end -->

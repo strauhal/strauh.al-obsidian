@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Mai Dang Lao (Mc
 - [[knowledge/wiki/anchors/lao-tzu|Lao Tzu]] — shared language: lao
 - [[knowledge/wiki/images/Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words 0391875d|Screenshot Screenshot of Bing Chat Analyzing a CAPTCHA with Words]] — shared language: bing
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: lao
-- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: mcdonald's
+- [[knowledge/wiki/images/Illustration Repeating Pattern of Blue Faces with Pink Hair on McDonald's 'M' Logos 4e8015e4|Illustration Repeating Pattern of Blue Faces with Pink Hair on McDonald's 'M' Logos]] — shared language: mcdonald's
 <!-- vault-crosslinks:end -->

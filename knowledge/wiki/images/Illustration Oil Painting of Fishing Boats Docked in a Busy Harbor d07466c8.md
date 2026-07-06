@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy
 - [[knowledge/wiki/images/boats in the harbor by egon schiele 1907 afc3ed24|boats in the harbor by egon schiele 1907]] — shared language: harbor, boats
 - [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Fishing Boat Drawing and Real Boats 1e878427|Photograph Hand Holding Sketchbook with Fishing Boat Drawing and Real Boats]] — shared language: fishing, boats
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: boats
 - [[knowledge/wiki/images/A Man Fishing by John Singer Sargent (1912) c80910c9|A Man Fishing by John Singer Sargent (1912)]] — shared language: fishing
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: docked
 <!-- vault-crosslinks:end -->

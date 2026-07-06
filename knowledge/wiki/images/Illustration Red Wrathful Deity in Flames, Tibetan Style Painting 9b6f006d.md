@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script 255379dc|Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script]] — shared language: wrathful, flames, deity
+- [[knowledge/wiki/images/Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script 255379dc|Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script]] — shared language: wrathful, deity, flames
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Wrathful Deity on Clouds 8d57e96d|Illustration Black and White Line Drawing of Wrathful Deity on Clouds]] — shared language: wrathful, deity
 - [[knowledge/wiki/images/Illustration Tibetan Style Painting of a Green Deity Seated on a Lotus b06ab27d|Illustration Tibetan Style Painting of a Green Deity Seated on a Lotus]] — shared language: deity, tibetan, style
 - [[knowledge/wiki/images/Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background 4e4ff64d|Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background]] — shared language: wrathful, deity

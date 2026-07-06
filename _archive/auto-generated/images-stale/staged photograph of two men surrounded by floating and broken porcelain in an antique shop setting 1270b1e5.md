@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: broken
 - [[_archive/auto-generated/books-stale/shop-class-as-soulcraft-copy|shop class as soulcraft copy]] — shared language: shop
+- [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — shared language: shop
 <!-- vault-crosslinks:end -->

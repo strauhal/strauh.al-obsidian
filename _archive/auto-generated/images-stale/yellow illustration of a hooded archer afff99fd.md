@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
-- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: hooded, yellow
 - [[knowledge/wiki/artists/Artist - Kai Archer|Artist - Kai Archer]] — shared language: archer
+- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: hooded, yellow
 - [[knowledge/wiki/images/Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures d06cdfe1|Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures]] — shared language: hooded
 - [[knowledge/wiki/images/the archer by maxfield parrish 1920 ce9804e2|the archer by maxfield parrish 1920]] — shared language: archer
 <!-- vault-crosslinks:end -->

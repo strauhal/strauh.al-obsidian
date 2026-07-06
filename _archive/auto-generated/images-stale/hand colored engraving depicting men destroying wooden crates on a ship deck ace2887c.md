@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
-- [[knowledge/wiki/images/Photograph Two Framed Hand Colored Woodcuts on a Textured Wall e6a3ed38|Photograph Two Framed Hand Colored Woodcuts on a Textured Wall]] — shared language: colored, hand
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: deck, deck.jpg
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/44th_annual_exhi
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
+- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: chicago
 - [[knowledge/wiki/artists/Artist - fred gambino|Artist - fred gambino]] — shared language: fred
-- [[knowledge/wiki/images/Diagram Colorful Map of Chicago Neighborhoods a376e21d|Diagram Colorful Map of Chicago Neighborhoods]] — shared language: chicago
 - [[knowledge/wiki/images/IMG 2748 5f740c79|IMG 2748]] — shared language: artists
 - [[knowledge/wiki/images/IMG 2749 1ececdea|IMG 2749]] — shared language: artists
 <!-- vault-crosslinks:end -->

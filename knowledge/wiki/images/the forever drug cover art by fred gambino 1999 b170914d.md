@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_forever_drug
 - [[knowledge/wiki/images/cityscape by fred gambino 1984 ec7f3156|cityscape by fred gambino 1984]] — same artist: fred gambino
 - [[knowledge/wiki/images/the city and the stars by fred gambino 1988 8337dee2|the city and the stars by fred gambino 1988]] — same artist: fred gambino
 - [[knowledge/wiki/images/the ship who searched by fred gambino 1992 1f79f6a4|the ship who searched by fred gambino 1992]] — same artist: fred gambino
-- [[knowledge/wiki/images/Photograph Man Sitting On Floor With Drug Paraphernalia 7f8d6f3f|Photograph Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
+- [[knowledge/wiki/images/Man Sitting On Floor With Drug Paraphernalia 4f953f8e|Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
 - [[knowledge/wiki/images/the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922 c81ecaf0|the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922]] — shared language: drug, cover
 <!-- vault-crosslinks:end -->

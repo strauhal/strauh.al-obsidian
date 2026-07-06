@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/figures_on_a_bea
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
-- [[knowledge/wiki/images/the beach by david hockney 1978 7bd352a3|the beach by david hockney 1978]] — shared language: beach
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: beach
+- [[knowledge/wiki/images/the beach by david hockney 1978 7bd352a3|the beach by david hockney 1978]] — shared language: beach
 - [[knowledge/wiki/images/Illustration Two Stylized Figures Relaxing On A Beach fccde37e|Illustration Two Stylized Figures Relaxing On A Beach]] — shared language: beach
 <!-- vault-crosslinks:end -->

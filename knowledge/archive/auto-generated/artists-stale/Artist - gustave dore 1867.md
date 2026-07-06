@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1866 2|Artist - gustave dore 1866 2]] — shared language: dore, gustave
 - [[knowledge/wiki/images/the deluge by gustave dore 1866 ab921780|the deluge by gustave dore 1866]] — shared language: dore, gustave
 - [[knowledge/wiki/images/the deluge by gustave dore 1866 2 2c86e9ec|the deluge by gustave dore 1866 2]] — shared language: dore, gustave
-- [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1868|Artist - gustave dore 1868]] — shared language: dore, gustave
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1866|Artist - gustave dore 1866]] — shared language: dore, gustave
+- [[knowledge/archive/auto-generated/artists-stale/Artist - gustave dore 1868|Artist - gustave dore 1868]] — shared language: dore, gustave
 - [[knowledge/wiki/images/herodiade by gustave dore 1868 9180f266|herodiade by gustave dore 1868]] — shared language: dore, gustave
 <!-- vault-crosslinks:end -->

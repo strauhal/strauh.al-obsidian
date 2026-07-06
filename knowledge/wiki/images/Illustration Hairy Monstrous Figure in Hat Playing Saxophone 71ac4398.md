@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - H
 
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: hat
 - [[knowledge/wiki/images/Illustration Cracked Doll Face Revealing Monstrous Mouth and Tendrils ccfcebe6|Illustration Cracked Doll Face Revealing Monstrous Mouth and Tendrils]] — shared language: monstrous
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: playing
 - [[knowledge/wiki/images/Illustration Cosmic Scene with Mesoamerican Pyramid, Blood, and Monstrous Deity by Tukaaria 478940c3|Illustration Cosmic Scene with Mesoamerican Pyramid, Blood, and Monstrous Deity by Tukaaria]] — shared language: monstrous
-- [[knowledge/wiki/images/Illustration Two Figures Sitting By a River, One With Red Hat 82df3ccf|Illustration Two Figures Sitting By a River, One With Red Hat]] — shared language: hat
 - [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: hat
 <!-- vault-crosslinks:end -->

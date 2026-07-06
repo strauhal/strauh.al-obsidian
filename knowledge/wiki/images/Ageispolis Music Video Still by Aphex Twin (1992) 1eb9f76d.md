@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Ageispolis Music
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of Aphex Twin With Reflections 277034f4|Photograph Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
+- [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still, twin
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still, twin
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 <!-- vault-crosslinks:end -->

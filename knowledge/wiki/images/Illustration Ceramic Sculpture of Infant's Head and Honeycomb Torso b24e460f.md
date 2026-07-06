@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black Wire Mesh Sculpture of Female Torso 679b5129|Illustration Black Wire Mesh Sculpture of Female Torso]] — shared language: torso, sculpture, torso.jpeg
-- [[knowledge/wiki/images/Illustration Fragmented Marble Sculpture of a Nude Male Torso 640dace3|Illustration Fragmented Marble Sculpture of a Nude Male Torso]] — shared language: torso, sculpture, torso.jpeg
 - [[knowledge/wiki/images/Photograph Marble Sculpture of a Male Torso on Display 504a0ace|Photograph Marble Sculpture of a Male Torso on Display]] — shared language: torso, sculpture
+- [[knowledge/wiki/images/Illustration Fragmented Marble Sculpture of a Nude Male Torso 640dace3|Illustration Fragmented Marble Sculpture of a Nude Male Torso]] — shared language: torso, sculpture, torso.jpeg
 - [[knowledge/wiki/images/Illustration Collage of a Woman's Head with Anatomical Torso and Text Background 0eb6a4db|Illustration Collage of a Woman's Head with Anatomical Torso and Text Background]] — shared language: torso, head
-- [[knowledge/wiki/images/Illustration Ceramic Bust of Woman Holding Blue Bird 1f245921|Illustration Ceramic Bust of Woman Holding Blue Bird]] — shared language: ceramic
+- [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: sculpture, head
 <!-- vault-crosslinks:end -->

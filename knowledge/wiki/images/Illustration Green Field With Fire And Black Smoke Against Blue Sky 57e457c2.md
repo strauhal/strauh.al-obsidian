@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke' 5aa384ff|Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke']] — shared language: smoke, fire
+- [[knowledge/wiki/images/Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke' 5aa384ff|Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke']] — shared language: fire, smoke
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: smoke, fire
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: field, sky
 - [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: field, green

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Drawing of a Central Figure in a Crowded Scene a93acf89|Illustration Black and White Drawing of a Central Figure in a Crowded Scene]] — shared language: crowded, scene
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, scene
 - [[_archive/auto-generated/images-stale/small black and white drawing of a central figure in a crowded scene 0151be40|small black and white drawing of a central figure in a crowded scene]] — shared language: crowded, scene
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
-- [[knowledge/wiki/images/Photograph Crowded Street Scene in Paris with Flags Overhead 45a314fc|Photograph Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, scene
+- [[knowledge/wiki/images/Crowded Street Scene in Paris with Flags Overhead e0aef96a|Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, scene
 <!-- vault-crosslinks:end -->

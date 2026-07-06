@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/the flute player and the reclining nude by pablo picasso 1932 a200fc8e|the flute player and the reclining nude by pablo picasso 1932]] — shared language: flute, player
 - [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: dancing, forest
-- [[knowledge/wiki/images/Illustration Masked Figure With Green Eyes And Dark Creature 5057007d|Illustration Masked Figure With Green Eyes And Dark Creature]] — shared language: masked
+- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 <!-- vault-crosslinks:end -->

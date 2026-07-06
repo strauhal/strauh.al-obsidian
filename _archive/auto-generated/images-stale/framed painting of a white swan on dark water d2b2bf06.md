@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/The Swan by Adelle H. Fiske (c. 1920) 2f378ba1|The Swan by Adelle H. Fiske (c. 1920)]] — shared language: swan
 - [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: framed, dark
 - [[_archive/auto-generated/images-stale/framed landscape painting of sunlit trees by water 99b9c7f0|framed landscape painting of sunlit trees by water]] — shared language: water, framed, water.jpeg
-- [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: water, dark, water.jpeg
 - [[_archive/auto-generated/images-stale/framed beach scene with reclining figure and water 3de79b10|framed beach scene with reclining figure and water]] — shared language: framed, water, water.jpeg
+- [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: water, dark, water.jpeg
 <!-- vault-crosslinks:end -->

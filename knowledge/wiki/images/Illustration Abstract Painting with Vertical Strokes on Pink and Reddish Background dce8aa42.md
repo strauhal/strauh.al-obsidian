@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Painting of Large Green and Reddish Leaves with Patterned Background 5c3929f2|Illustration Painting of Large Green and Reddish Leaves with Patterned Background]] — shared language: reddish, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red 2643a7f3|Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red]] — shared language: vertical, pink
 - [[knowledge/wiki/images/Illustration Abstract White Streaks Forming a Vertical Structure on a Blue Background 605e1f35|Illustration Abstract White Streaks Forming a Vertical Structure on a Blue Background]] — shared language: vertical, background, background.jpeg
-- [[knowledge/wiki/images/Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background 714f06b1|Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background]] — shared language: reddish, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Abstract Painting Blue Looping Strokes Over Orange Shapes 63d71b5d|Illustration Abstract Painting Blue Looping Strokes Over Orange Shapes]] — shared language: strokes
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Caiman With Butterflies On Its Head By A River 23155b53|Photograph Caiman With Butterflies On Its Head By A River]] — shared language: butterflies
-- [[knowledge/wiki/images/Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass eba00fd5|Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass]] — shared language: grass, field
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: grass, golden
 - [[knowledge/wiki/images/Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky 31ffa0e1|Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky]] — shared language: grass, golden
-- [[knowledge/wiki/images/Photograph Man Standing in Front of Garage with Flowering Bush b56e4b6c|Photograph Man Standing in Front of Garage with Flowering Bush]] — shared language: flowering
-- [[knowledge/wiki/images/The Golden Gate (1879) 2dde8620|The Golden Gate (1879)]] — shared language: golden
+- [[knowledge/wiki/images/Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass eba00fd5|Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass]] — shared language: grass, field
+- [[knowledge/wiki/images/Caiman With Butterflies On Its Head By A River bef7d530|Caiman With Butterflies On Its Head By A River]] — shared language: butterflies
+- [[knowledge/wiki/images/Man Standing in Front of Garage with Flowering Bush 45377dcf|Man Standing in Front of Garage with Flowering Bush]] — shared language: flowering
 <!-- vault-crosslinks:end -->

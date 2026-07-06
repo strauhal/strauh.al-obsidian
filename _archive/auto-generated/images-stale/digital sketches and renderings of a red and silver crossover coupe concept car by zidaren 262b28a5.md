@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Zidaren|Artist - Zidaren]] — named in this note
 - [[knowledge/wiki/images/Illustration Digital Sketches and Renderings of Red and Silver Concept Cars by Zidaren 985c8242|Illustration Digital Sketches and Renderings of Red and Silver Concept Cars by Zidaren]] — same artist: zidaren
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: concept
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches, concept
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: car, concept
 <!-- vault-crosslinks:end -->

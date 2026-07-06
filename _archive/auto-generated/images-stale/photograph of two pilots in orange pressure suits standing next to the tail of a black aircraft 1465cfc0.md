@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft bb357723|Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft]] — shared language: pressure, pilots, aircraft
+- [[knowledge/wiki/images/Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft bb357723|Photograph Two Pilots in Orange Pressure Suits Next to Black Aircraft]] — shared language: pressure, pilots, suits
 - [[_archive/auto-generated/images-stale/photograph of two black sr 71 aircraft and crew in yellow pressure suits c6c6f92c|photograph of two black sr 71 aircraft and crew in yellow pressure suits]] — shared language: pressure, aircraft, suits
 - [[knowledge/wiki/images/Photograph SR 71 Blackbird Aircraft and Crew in Yellow Pressure Suits 61c8cba0|Photograph SR 71 Blackbird Aircraft and Crew in Yellow Pressure Suits]] — shared language: pressure, aircraft, suits
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing

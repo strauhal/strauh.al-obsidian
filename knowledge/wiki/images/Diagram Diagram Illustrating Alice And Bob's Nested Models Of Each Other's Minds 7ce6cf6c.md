@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Diagra
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, models
-- [[knowledge/wiki/artists/Artist - alice neel|Artist - alice neel]] — shared language: alice
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: nested
-- [[knowledge/wiki/anchors/alice-rohrwacher|Alice Rohrwacher]] — shared language: alice
+- [[knowledge/wiki/artists/Artist - alice neel|Artist - alice neel]] — shared language: alice
 - [[knowledge/wiki/books/gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]] — shared language: minds
+- [[knowledge/wiki/anchors/alice-rohrwacher|Alice Rohrwacher]] — shared language: alice
 <!-- vault-crosslinks:end -->

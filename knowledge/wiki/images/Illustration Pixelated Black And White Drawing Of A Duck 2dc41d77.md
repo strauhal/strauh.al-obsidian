@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern 1b372088|Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern]] — shared language: pixelated
-- [[knowledge/wiki/images/Illustration Still Life with Hanging Hare, Duck, Pie, Bottles, and Fruit 0b1c3f6c|Illustration Still Life with Hanging Hare, Duck, Pie, Bottles, and Fruit]] — shared language: duck
+- [[knowledge/wiki/images/Illustration Pixelated Painting of a Vintage Red and White Car d54ea966|Illustration Pixelated Painting of a Vintage Red and White Car]] — shared language: pixelated
 <!-- vault-crosslinks:end -->

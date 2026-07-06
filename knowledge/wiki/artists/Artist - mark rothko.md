@@ -26,10 +26,10 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - mark lombardi|Artist - mark lombardi]] — shared language: mark
 - [[knowledge/wiki/images/the painter by mark j ferrari 1987 ae930315|the painter by mark j ferrari 1987]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - mark haddon|Artist - mark haddon]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - Mark Belan|Artist - Mark Belan]] — shared language: mark
 <!-- vault-crosslinks:end -->

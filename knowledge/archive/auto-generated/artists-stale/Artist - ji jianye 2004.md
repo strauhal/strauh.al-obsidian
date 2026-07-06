@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ji jianye|Artist - Ji Jianye]] — named in this note
+- [[knowledge/wiki/artists/Artist - Ji Jianye|Artist - Ji Jianye]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ji jianye|Artist - Ji Jianye]] — shared language: jianye, flesh, musculature
 - [[knowledge/wiki/images/Illustration Four Panel Drawing of Figures with Flesh and Musculature by Ji Jianye ca598974|Illustration Four Panel Drawing of Figures with Flesh and Musculature by Ji Jianye]] — shared language: jianye, flesh, musculature
 - [[_archive/auto-generated/images-stale/split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head 9e0c3207|split image showing an oil painting portrait of a young man next to a black and white drawing of an abstract head]] — shared language: split, showing
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: four, panel
 - [[_archive/auto-generated/images-stale/four panel study of a woman s portrait in pencil and grayscale paint f822d35f|four panel study of a woman s portrait in pencil and grayscale paint]] — shared language: four, panel
-- [[knowledge/wiki/images/panel 1 ed4f0fcd|panel 1]] — shared language: panel
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_loui
 
 - [[knowledge/wiki/images/portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]] — same artist: jean baptiste van loo
 - [[knowledge/wiki/artists/Artist - louis michel van loo|Artist - louis michel van loo]] — shared language: loo, louis, van
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: france
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: france
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: france
 - [[knowledge/wiki/images/portrait of denis diderot by louis michel van loo 1767 175ef7b2|portrait of denis diderot by louis michel van loo 1767]] — shared language: loo, louis, van
 <!-- vault-crosslinks:end -->

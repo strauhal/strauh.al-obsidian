@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Four Geometric Patterns Lattices, Cobwebs, Funnels, Spirals dfa54e66|Four Geometric Patterns Lattices, Cobwebs, Funnels, Spirals]] — shared language: four, geometric
 - [[knowledge/wiki/images/Illustration Geometric Abstract Painting With Red, Green, Blue, And Orange c3f7d2ef|Illustration Geometric Abstract Painting With Red, Green, Blue, And Orange]] — shared language: geometric
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: geometric
-- [[knowledge/wiki/images/Diagram Four Geometric Patterns Lattices, Cobwebs, Funnels, Spirals 1f9563ea|Diagram Four Geometric Patterns Lattices, Cobwebs, Funnels, Spirals]] — shared language: four, geometric
-- [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: geometric
+- [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: geometric
 <!-- vault-crosslinks:end -->

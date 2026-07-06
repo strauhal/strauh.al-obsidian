@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - steve dillon|Artist - steve dillon]] — named in this note
 - [[knowledge/wiki/artists/Artist - frank dillon|Artist - frank dillon]] — shared language: dillon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank dillon 1854|Artist - frank dillon 1854]] — shared language: dillon
-- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: steve
+- [[knowledge/wiki/images/the house of the mufti sheikh el mahadi in cairo by frank dillon 1854 1a75b0da|the house of the mufti sheikh el mahadi in cairo by frank dillon 1854]] — shared language: dillon
+- [[_archive/auto-generated/images-stale/the house of the mufti sheikh el mahadi in cairo by frank dillon 951f86af|the house of the mufti sheikh el mahadi in cairo by frank dillon]] — shared language: dillon
 - [[knowledge/wiki/artists/Artist - steve schapiro|Artist - steve schapiro]] — shared language: steve
-- [[knowledge/archive/auto-generated/artists-stale/Artist - steve schapiro 1975|Artist - steve schapiro 1975]] — shared language: steve
 <!-- vault-crosslinks:end -->

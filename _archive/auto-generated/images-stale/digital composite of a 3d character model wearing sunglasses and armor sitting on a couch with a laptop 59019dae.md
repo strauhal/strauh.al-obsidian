@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital composite of a red sedan and a woman s eyes 2a447679|digital composite of a red sedan and a woman s eyes]] — shared language: composite, digital
 - [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: sunglasses, wearing
-- [[knowledge/wiki/images/Photograph Mick Jagger Wearing Sunglasses At A Computer 9166c3a3|Photograph Mick Jagger Wearing Sunglasses At A Computer]] — shared language: sunglasses, wearing
+- [[knowledge/wiki/images/Mick Jagger Wearing Sunglasses At A Computer 5a8ab2e6|Mick Jagger Wearing Sunglasses At A Computer]] — shared language: sunglasses, wearing
 <!-- vault-crosslinks:end -->

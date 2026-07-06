@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Stylized Black And White Drawing Of Figures In Two Scenes 3006c273|Illustration Stylized Black And White Drawing Of Figures In Two Scenes]] — shared language: scenes
-- [[knowledge/wiki/images/Illustration Abstract Painting of Three Orange Persimmons on a Green Background 669fc1f9|Illustration Abstract Painting of Three Orange Persimmons on a Green Background]] — shared language: green, background
+- [[knowledge/wiki/images/Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2) d5606f86|Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2)]] — shared language: buddha, seated
 <!-- vault-crosslinks:end -->

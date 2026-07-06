@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Illustration Abstract Black Scribbles On White Background bf477ae7|Illustration Abstract Black Scribbles On White Background]] — shared language: scribbles, background, background.jpg
 - [[knowledge/wiki/images/Illustration Abstract White Scribbles on Black Background b4de029f|Illustration Abstract White Scribbles on Black Background]] — shared language: scribbles, background, background.jpg
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: dense, background
 - [[knowledge/wiki/images/Screenshot Woman in Large Hat With Black Scribbles Over Her Face 38f9f537|Screenshot Woman in Large Hat With Black Scribbles Over Her Face]] — shared language: scribbles
-- [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, background
 <!-- vault-crosslinks:end -->

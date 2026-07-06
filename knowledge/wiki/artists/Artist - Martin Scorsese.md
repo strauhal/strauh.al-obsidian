@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/martin-scorsese|Martin Scorsese]] — named in this note
+- [[knowledge/wiki/images/Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro a337797b|Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro]] — shared language: scorsese, martin, taxi
 - [[knowledge/wiki/culture/movie-taxi-driver|Watchlist - Taxi Driver]] — shared language: scorsese, taxi, driver
 - [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
 - [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
-- [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: martin
 <!-- vault-crosslinks:end -->

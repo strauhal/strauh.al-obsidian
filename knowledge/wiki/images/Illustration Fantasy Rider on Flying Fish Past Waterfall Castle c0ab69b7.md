@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/The Waterfall by Octavio Ocampo (1995) 221e4c36|The Waterfall by Octavio Ocampo (1995)]] — shared language: waterfall
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
-- [[knowledge/wiki/images/Photograph Two Blue And Yellow Jets Flying Past A Modern Skyscraper 82650683|Photograph Two Blue And Yellow Jets Flying Past A Modern Skyscraper]] — shared language: past, flying
 - [[knowledge/wiki/images/Illustration Pencil Drawing of a Fantasy Castle and Bridge on a Hill 8dae315e|Illustration Pencil Drawing of a Fantasy Castle and Bridge on a Hill]] — shared language: fantasy, castle
+- [[knowledge/wiki/images/waterfall by m c escher 1961 9bc736fe|waterfall by m c escher 1961]] — shared language: waterfall
 <!-- vault-crosslinks:end -->

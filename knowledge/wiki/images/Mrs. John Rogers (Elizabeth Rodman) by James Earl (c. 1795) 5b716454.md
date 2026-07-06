@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/Mrs. John Rogers
 - [[knowledge/wiki/artists/Artist - earl norem|Artist - earl norem]] — shared language: earl
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: james, earl
 - [[knowledge/wiki/artists/Artist - william mcgregor paxton|Artist - william mcgregor paxton]] — shared language: rodman, mrs, elizabeth
-- [[knowledge/wiki/images/landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744 ff285a8d|landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744]] — shared language: earl, james
+- [[knowledge/wiki/artists/Artist - john james audubon|Artist - john james audubon]] — shared language: james, john
 <!-- vault-crosslinks:end -->

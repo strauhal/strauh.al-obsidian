@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: updated
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Illustration Golden Stylized Human Head in Geometric Wireframe 145b43f8|Illustration Golden Stylized Human Head in Geometric Wireframe]] — shared language: human, head, stylized
-- [[knowledge/wiki/images/Photograph Abstract Grid Painting in Progress on an Easel 606c0489|Photograph Abstract Grid Painting in Progress on an Easel]] — shared language: progress
+- [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: human, head, stylized
 <!-- vault-crosslinks:end -->

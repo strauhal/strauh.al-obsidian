@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Five Young Men in Varsity Jackets Posing Outdoors 4ce0ecb2|Photograph Five Young Men in Varsity Jackets Posing Outdoors]] — shared language: varsity, jackets, outdoors
-- [[knowledge/wiki/images/Photograph Group of Young People Posing Outdoors at Night a3c20dff|Photograph Group of Young People Posing Outdoors at Night]] — shared language: outdoors, posing, young
-- [[_archive/auto-generated/images-stale/black and white photograph of five young people posing on an urban street cda072a3|black and white photograph of five young people posing on an urban street]] — shared language: posing, five, young
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Five Young People Posing On Urban Street 5761ca69|Photograph Black And White Photograph Of Five Young People Posing On Urban Street]] — shared language: posing, five, young
-- [[knowledge/wiki/images/Photograph Two Men Posing In Front Of Kojima Productions Logo 0bd605d0|Photograph Two Men Posing In Front Of Kojima Productions Logo]] — shared language: logo, posing, men
+- [[knowledge/wiki/images/Group of Young People Posing Outdoors at Night ad97072b|Group of Young People Posing Outdoors at Night]] — shared language: outdoors, posing, young
+- [[_archive/auto-generated/images-stale/Photograph Group of Young People Posing Outdoors at Night a3c20dff|Photograph Group of Young People Posing Outdoors at Night]] — shared language: outdoors, posing, young
+- [[_archive/auto-generated/images-stale/black and white photograph of five young people posing on an urban street cda072a3|black and white photograph of five young people posing on an urban street]] — shared language: five, posing, young
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Five Young People Posing On Urban Street 5761ca69|Photograph Black And White Photograph Of Five Young People Posing On Urban Street]] — shared language: five, posing, young
 <!-- vault-crosslinks:end -->

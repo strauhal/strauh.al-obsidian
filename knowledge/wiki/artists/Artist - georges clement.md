@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - georges de feure|Artist - georges de feure]] — shared language: georges
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[knowledge/wiki/artists/Artist - georges barbier|Artist - georges barbier]] — shared language: georges
-- [[knowledge/wiki/artists/Artist - jean georges vibert|Artist - jean georges vibert]] — shared language: georges
 <!-- vault-crosslinks:end -->

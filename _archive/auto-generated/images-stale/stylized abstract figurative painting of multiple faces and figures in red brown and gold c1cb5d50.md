@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Stylized Abstract Figurative Painting of Multiple Faces and Figures 0dafb259|Illustration Stylized Abstract Figurative Painting of Multiple Faces and Figures]] — shared language: figurative, faces, multiple
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: figurative
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: faces
 - [[_archive/auto-generated/images-stale/abstract figurative painting of two reclining figures 2 1a128e67|abstract figurative painting of two reclining figures 2]] — shared language: figurative
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: faces
 <!-- vault-crosslinks:end -->

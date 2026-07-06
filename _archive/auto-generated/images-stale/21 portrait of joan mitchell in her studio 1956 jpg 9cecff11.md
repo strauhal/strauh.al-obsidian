@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/21_portrait_o
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/joan mitchell in her studio 1956 9aae0df7|joan mitchell in her studio 1956]] — named in this note
-- [[knowledge/wiki/images/Photograph Joan Mitchell In Her Studio 8ac2a42c|Photograph Joan Mitchell In Her Studio]] — shared language: mitchell, joan, studio
+- [[knowledge/wiki/images/Joan Mitchell In Her Studio de07b6b9|Joan Mitchell In Her Studio]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Joan Mitchell In Her Studio 8ac2a42c|Photograph Joan Mitchell In Her Studio]] — shared language: mitchell, joan, studio
 - [[knowledge/wiki/artists/Artist - joan mitchell|Artist - joan mitchell]] — shared language: mitchell, joan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joan mitchell 1980|Artist - joan mitchell 1980]] — shared language: mitchell, joan
-- [[knowledge/wiki/images/the tree by joan mitchell 1980 c493b0f2|the tree by joan mitchell 1980]] — shared language: mitchell, joan
 <!-- vault-crosslinks:end -->

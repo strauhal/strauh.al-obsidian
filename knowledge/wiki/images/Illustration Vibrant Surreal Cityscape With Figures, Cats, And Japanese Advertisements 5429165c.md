@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, vibrant
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
 - [[knowledge/wiki/images/Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs 018288aa|Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs]] — shared language: vibrant, japanese, cityscape
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky ee47461f|Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky]] — shared language: vibrant, cityscape

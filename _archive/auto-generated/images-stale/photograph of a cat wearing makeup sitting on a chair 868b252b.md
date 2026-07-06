@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cat Wearing Makeup Sitting On A Chair 15771ad5|Photograph Cat Wearing Makeup Sitting On A Chair]] — named in this note
-- [[knowledge/wiki/images/Photograph Young Man Sitting in Wicker Chair Indoors 8d5e5542|Photograph Young Man Sitting in Wicker Chair Indoors]] — shared language: chair, sitting
+- [[_archive/auto-generated/images-stale/Photograph Cat Wearing Makeup Sitting On A Chair 15771ad5|Photograph Cat Wearing Makeup Sitting On A Chair]] — named in this note
+- [[knowledge/wiki/images/Cat Wearing Makeup Sitting On A Chair 749321ef|Cat Wearing Makeup Sitting On A Chair]] — named in this note
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/Photograph Person in Dark Makeup and Clothing in Tractor Cab 74eb6e7b|Photograph Person in Dark Makeup and Clothing in Tractor Cab]] — shared language: makeup
-- [[knowledge/wiki/images/Photograph White Cat Sitting Among Flowers Under Cloudy Sky bc1cbc76|Photograph White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: sitting, cat
+- [[knowledge/wiki/images/Man Sitting On Chair Underwater In Swimming Pool 7ddb39c8|Man Sitting On Chair Underwater In Swimming Pool]] — shared language: chair, sitting
+- [[_archive/auto-generated/images-stale/Photograph Young Man Sitting in Wicker Chair Indoors 8d5e5542|Photograph Young Man Sitting in Wicker Chair Indoors]] — shared language: chair, sitting
 <!-- vault-crosslinks:end -->

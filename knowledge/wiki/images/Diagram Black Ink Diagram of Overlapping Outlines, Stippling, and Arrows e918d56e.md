@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Black 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, arrows
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols 68a3af5b|Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols]] — shared language: arrows, ink
 - [[knowledge/wiki/images/Illustration Abstract Floral Outlines on Blue Background 73a87d23|Illustration Abstract Floral Outlines on Blue Background]] — shared language: outlines
-- [[knowledge/wiki/images/Diagram Complex Diagram of Nodes and Arrows on Grid Paper a49bc36b|Diagram Complex Diagram of Nodes and Arrows on Grid Paper]] — shared language: arrows, diagram
-- [[knowledge/wiki/images/Diagram Diagram of a central point with radiating and converging arrows d31c729e|Diagram Diagram of a central point with radiating and converging arrows]] — shared language: arrows, diagram
+- [[knowledge/wiki/images/Complex Diagram of Nodes and Arrows on Grid Paper 5e521ede|Complex Diagram of Nodes and Arrows on Grid Paper]] — shared language: arrows, diagram
 <!-- vault-crosslinks:end -->

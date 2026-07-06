@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated
-- [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue b5c60d34|Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue]] — shared language: grounds, exposition
+- [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds 4cfdb83a|Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds]] — shared language: grounds, exposition
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

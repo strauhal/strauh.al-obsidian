@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
+- [[knowledge/wiki/images/Black and White Close Up of an Eye with Finger 579c387f|Black and White Close Up of an Eye with Finger]] — shared language: eye, close, close-up
 - [[knowledge/wiki/images/Illustration Pixelated Hand With Red And Yellow Highlights On Dark Background 11f64adf|Illustration Pixelated Hand With Red And Yellow Highlights On Dark Background]] — shared language: pixelated, dark, background
-- [[knowledge/wiki/images/Photograph Extreme Close Up Of A Blue Green Human Eye b96ffe0a|Photograph Extreme Close Up Of A Blue Green Human Eye]] — shared language: eye, close, close-up
+- [[knowledge/wiki/images/Extreme Close Up Of A Blue Green Human Eye a61a73b7|Extreme Close Up Of A Blue Green Human Eye]] — shared language: eye, close, close-up
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing of a Woman's Face with Pixelated Colors 7454949d|Illustration Abstract Line Drawing of a Woman's Face with Pixelated Colors]] — shared language: pixelated, face
-- [[knowledge/wiki/images/Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head 6bbfee73|Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: pixelated, close, close-up
+- [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: dark, background, background.jpeg
 <!-- vault-crosslinks:end -->

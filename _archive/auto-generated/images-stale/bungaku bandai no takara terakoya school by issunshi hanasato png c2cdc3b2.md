@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/bungaku_banda
 - [[knowledge/archive/auto-generated/artists-stale/Artist - issunshi hanasato|Artist - issunshi hanasato]] — named in this note
 - [[_archive/auto-generated/images-stale/bungaku bandai no takara terakoya school by issunshi hanasato 1e7b8c0a|bungaku bandai no takara terakoya school by issunshi hanasato]] — shared language: issunshi, hanasato, bungaku
 - [[knowledge/wiki/images/Bungaku Bandai no Takara Terakoya School by Issunshi Hanasato (1860) 20011706|Bungaku Bandai no Takara Terakoya School by Issunshi Hanasato (1860)]] — shared language: issunshi, hanasato, bungaku
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
 - [[knowledge/wiki/images/Middle School Breakup (2018) 96b5504b|Middle School Breakup (2018)]] — shared language: school
+- [[knowledge/wiki/images/The School Bus by John Falter (1950) 7a8e8329|The School Bus by John Falter (1950)]] — shared language: school
 <!-- vault-crosslinks:end -->

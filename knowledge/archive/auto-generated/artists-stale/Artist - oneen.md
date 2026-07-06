@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Oneen|Artist - Oneen]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - oneen 2020|Artist - oneen 2020]] — named in this note
 - [[_archive/auto-generated/images-stale/open by oneen 2020 a2aba985|open by oneen 2020]] — shared language: oneen
-- [[knowledge/wiki/images/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
+- [[knowledge/wiki/images/Man Eating And Wearing Headphones In Cafe 420d0bb8|Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
+- [[_archive/auto-generated/images-stale/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
 - [[_archive/auto-generated/artists-noise/Artist - a coiled cable to a woman wearing headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: headphones, wearing
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-coiled-cable-to-a-woman-wearing-headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: headphones, wearing
-- [[_archive/auto-generated/images-stale/black and white photograph of a man wearing headphones and dark clothes in a room with a textured stone ceiling 667dc139|black and white photograph of a man wearing headphones and dark clothes in a room with a textured stone ceiling]] — shared language: headphones, wearing
 <!-- vault-crosslinks:end -->

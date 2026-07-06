@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/black and white photograph of a person covering their face with hands af63db01|black and white photograph of a person covering their face with hands]] — shared language: covering, hands, face
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Covering Face With Hands a1b907d2|Photograph Black And White Photograph Of Person Covering Face With Hands]] — shared language: covering, hands, face
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Person with Halo Covering Face 652b26b1|Illustration Black and White Ink Drawing of Person with Halo Covering Face]] — shared language: covering, face, person
-- [[knowledge/wiki/images/Photograph Person Holding Blank White Square Covering Face 919f2387|Photograph Person Holding Blank White Square Covering Face]] — shared language: covering, face, person
+- [[knowledge/wiki/images/Person Holding Blank White Square Covering Face cb47370e|Person Holding Blank White Square Covering Face]] — shared language: covering, face, person
 <!-- vault-crosslinks:end -->

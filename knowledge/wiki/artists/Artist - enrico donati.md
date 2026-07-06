@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Enrico Marini|Artist - Enrico Marini]] — shared language: enrico
 - [[knowledge/wiki/artists/Artist - Enrico Robusti|Artist - Enrico Robusti]] — shared language: enrico
 - [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: enrico
 - [[knowledge/wiki/images/Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti ec855063|Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti]] — shared language: enrico
 - [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
 - [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: cat
 <!-- vault-crosslinks:end -->

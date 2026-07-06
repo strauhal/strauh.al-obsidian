@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/sanguine drawing of two nude male figures 4e30dd56|sanguine drawing of two nude male figures]] — shared language: sanguine, male, nude
-- [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude, standing
+- [[knowledge/wiki/images/Three Costumed Figures, One Kneeling, One Standing, One Seated 0c031df4|Three Costumed Figures, One Kneeling, One Standing, One Seated]] — shared language: one, standing, seated
 - [[knowledge/wiki/images/Illustration Sanguine Drawing of Two Male Nude Figures by Iliya Mirochnik a4a3aec7|Illustration Sanguine Drawing of Two Male Nude Figures by Iliya Mirochnik]] — shared language: sanguine, male, nude
 - [[knowledge/wiki/images/Illustration Sanguine Drawing of Two Nude Male Figures by Iliya Mirochnik 0c79947e|Illustration Sanguine Drawing of Two Nude Male Figures by Iliya Mirochnik]] — shared language: sanguine, male, nude
-- [[knowledge/wiki/images/Illustration Charcoal Drawing of Standing Male Nude Figure From Back edcc625f|Illustration Charcoal Drawing of Standing Male Nude Figure From Back]] — shared language: male, nude, standing
+- [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude, standing
 <!-- vault-crosslinks:end -->

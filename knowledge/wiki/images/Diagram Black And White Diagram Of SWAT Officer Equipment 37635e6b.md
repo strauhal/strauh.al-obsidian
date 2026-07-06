@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Black 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building de0c620f|Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: officer
-- [[knowledge/wiki/images/Photograph Two Men Operating DJ Equipment At An Event f9b7c3fd|Photograph Two Men Operating DJ Equipment At An Event]] — shared language: equipment
-- [[knowledge/wiki/images/Photograph Person In Maid Outfit Operating DJ Equipment 854b4cde|Photograph Person In Maid Outfit Operating DJ Equipment]] — shared language: equipment, equipment.png
-- [[knowledge/wiki/images/Photograph Man Using Music Production Equipment In A Room 1e15071c|Photograph Man Using Music Production Equipment In A Room]] — shared language: equipment
+- [[knowledge/wiki/images/Two Men Operating DJ Equipment At An Event 55c1c328|Two Men Operating DJ Equipment At An Event]] — shared language: equipment
+- [[knowledge/wiki/images/Person In Maid Outfit Operating DJ Equipment 0c9455fc|Person In Maid Outfit Operating DJ Equipment]] — shared language: equipment, equipment.png
+- [[knowledge/wiki/images/Man Using Music Production Equipment In A Room 867cdc04|Man Using Music Production Equipment In A Room]] — shared language: equipment
+- [[knowledge/wiki/images/Room Cluttered With Synthesizers And Electronic Music Equipment 77bf9207|Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: equipment
 <!-- vault-crosslinks:end -->

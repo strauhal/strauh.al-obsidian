@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head 6bbfee73|Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: highly, pixelated, close
+- [[knowledge/wiki/images/Highly Pixelated Close Up Of A Blue And White Bird's Head eea39657|Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: highly, pixelated, close
+- [[_archive/auto-generated/images-stale/Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head 6bbfee73|Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: highly, pixelated, close
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: likely
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: likely
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated, head
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 <!-- vault-crosslinks:end -->

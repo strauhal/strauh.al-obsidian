@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: cabinets
 - [[knowledge/wiki/images/Illustration Abstract Dark Gray Assemblage of Geometric Wood Shapes 228762c5|Illustration Abstract Dark Gray Assemblage of Geometric Wood Shapes]] — shared language: wood, geometric, dark
-- [[knowledge/wiki/images/Photograph Modern Kitchen Interior with Dark Cabinets and Breakfast Bar d48f0be7|Photograph Modern Kitchen Interior with Dark Cabinets and Breakfast Bar]] — shared language: cabinets, dark
-- [[knowledge/wiki/images/Photograph Geometric Sculptures on Display in a Modern Art Gallery bca7de4e|Photograph Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: display, geometric
-- [[knowledge/wiki/images/Photograph Modern Interior Room with Dark Shelves, Window, and Garden View e48cd78e|Photograph Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: shelves, dark
+- [[knowledge/wiki/images/Modern Kitchen Interior with Dark Cabinets and Breakfast Bar df62a4a9|Modern Kitchen Interior with Dark Cabinets and Breakfast Bar]] — shared language: cabinets, dark
+- [[knowledge/wiki/images/Geometric Sculptures on Display in a Modern Art Gallery a48bebe1|Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: display, geometric
+- [[knowledge/wiki/images/Modern Interior Room with Dark Shelves, Window, and Garden View 21ea89fa|Modern Interior Room with Dark Shelves, Window, and Garden View]] — shared language: shelves, dark
 <!-- vault-crosslinks:end -->

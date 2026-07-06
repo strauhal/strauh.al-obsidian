@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Shopping Cart With Blue Stained Glass Panels 1c456d23|Illustration Shopping Cart With Blue Stained Glass Panels]] — shared language: cart, stained, shopping
-- [[knowledge/wiki/images/Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store 9a3c606d|Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store]] — shared language: cart, shopping
 - [[knowledge/wiki/images/Illustration Burning Shopping Cart In Foggy Parking Lot At Night ad9cddf5|Illustration Burning Shopping Cart In Foggy Parking Lot At Night]] — shared language: cart, shopping
-- [[knowledge/wiki/images/Photograph Colorful Light Reflections From Stained Glass Window On Wall 974dfda7|Photograph Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: stained, glass
-- [[_archive/auto-generated/images-stale/stained glass window depicting the sermon on the mount 263dd81a|stained glass window depicting the sermon on the mount]] — shared language: stained, glass
+- [[_archive/auto-generated/images-stale/Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store 9a3c606d|Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store]] — shared language: cart, shopping
+- [[knowledge/wiki/images/Woman Pushing Shopping Cart With Old Monitor In Apple Store c5caa47c|Woman Pushing Shopping Cart With Old Monitor In Apple Store]] — shared language: cart, shopping
+- [[knowledge/wiki/images/Colorful Light Reflections From Stained Glass Window On Wall cfb27618|Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: stained, glass
 <!-- vault-crosslinks:end -->

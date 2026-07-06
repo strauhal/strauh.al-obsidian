@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/saint_michael_th
 - [[knowledge/wiki/images/saint michael the archangel by luca giordano c 1663 4c409db2|saint michael the archangel by luca giordano c 1663]] — shared language: archangel, michael, saint
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint
 - [[knowledge/wiki/images/luca giordano the archangel michael c 1680 35423279|luca giordano the archangel michael c 1680]] — shared language: archangel, michael
-- [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: saint
 <!-- vault-crosslinks:end -->

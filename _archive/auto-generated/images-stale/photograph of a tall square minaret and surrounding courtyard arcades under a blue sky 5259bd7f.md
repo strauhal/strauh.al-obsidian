@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: arcades, sky
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: arcades, tall
 - [[knowledge/wiki/images/Photograph Great Mosque, Minaret and Courtyard 2bac4274|Photograph Great Mosque, Minaret and Courtyard]] — shared language: minaret, courtyard
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: arcades
 - [[_archive/auto-generated/books-stale/the-arcades-project|THE ARCADES PROJECT]] — shared language: arcades

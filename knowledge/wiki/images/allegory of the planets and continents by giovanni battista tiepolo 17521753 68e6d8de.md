@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/allegory_of_the_
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — named in this note
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — same artist: giovanni battista tiepolo
 - [[knowledge/wiki/images/the virgin and child with saints by giovanni battista tiepolo c 17351740 fd452b29|the virgin and child with saints by giovanni battista tiepolo c 17351740]] — same artist: giovanni battista tiepolo
-- [[knowledge/wiki/images/Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745) e19f8d53|Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745)]] — shared language: tiepolo, battista, allegory
+- [[knowledge/wiki/images/Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745) e19f8d53|Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745)]] — shared language: tiepolo, battista, giovanni
 <!-- vault-crosslinks:end -->

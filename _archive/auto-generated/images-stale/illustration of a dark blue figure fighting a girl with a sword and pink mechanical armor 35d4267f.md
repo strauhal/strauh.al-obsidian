@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/pixelated figure in dark hooded armor holding a sword on a pink striped background 94dc5460|pixelated figure in dark hooded armor holding a sword on a pink striped background]] — shared language: armor, sword, pink
 - [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: armor, sword, dark
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
+- [[knowledge/wiki/images/Person in Dark Armor Holding Massive Gray Sword Outdoors at Night c11f7860|Person in Dark Armor Holding Massive Gray Sword Outdoors at Night]] — shared language: armor, sword, dark
 - [[_archive/auto-generated/images-stale/photograph of a person in dark armor holding a massive gray sword outdoors at night 91eea838|photograph of a person in dark armor holding a massive gray sword outdoors at night]] — shared language: armor, sword, dark
-- [[knowledge/wiki/images/Photograph Person in Dark Armor Holding Massive Gray Sword Outdoors at Night 7f8f5ae8|Photograph Person in Dark Armor Holding Massive Gray Sword Outdoors at Night]] — shared language: armor, sword, dark
 <!-- vault-crosslinks:end -->

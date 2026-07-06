@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/chimpanzee congo painting jpg 0ccc9973|chimpanzee congo painting jpg]] — shared language: congo, chimpanzee
 - [[knowledge/wiki/artists/Artist - Congo|Artist - Congo]] — shared language: congo
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo 7f77a1c1|Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo]] — shared language: congo
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
+- [[_archive/auto-generated/images-stale/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
 <!-- vault-crosslinks:end -->

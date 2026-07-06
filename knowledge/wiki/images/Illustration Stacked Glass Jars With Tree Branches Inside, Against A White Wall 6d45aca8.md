@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: wall, against, wall.jpg
+- [[knowledge/wiki/images/Portrait Photo of Two People Against a Wall 1590b907|Portrait Photo of Two People Against a Wall]] — shared language: wall, against, wall.jpg
 - [[knowledge/wiki/images/Illustration White Mossy Tree Branches Over Layered Brown Strata 7cc4b8c7|Illustration White Mossy Tree Branches Over Layered Brown Strata]] — shared language: branches, tree
-- [[knowledge/wiki/images/Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 065caf42|Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: branches, tree
-- [[knowledge/wiki/images/Photograph Colorful Light Reflections From Stained Glass Window On Wall 974dfda7|Photograph Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: glass, wall, wall.jpg
-- [[knowledge/wiki/images/Photograph Person Looking Up Against Wall With Shadows 132dcf26|Photograph Person Looking Up Against Wall With Shadows]] — shared language: wall, against
+- [[knowledge/wiki/images/Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 48c16123|Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: branches, tree
+- [[knowledge/wiki/images/Tree Growing Inside Abandoned Building in Chernobyl Exclusion Zone 9ba84534|Tree Growing Inside Abandoned Building in Chernobyl Exclusion Zone]] — shared language: inside, tree
+- [[knowledge/wiki/images/Colorful Light Reflections From Stained Glass Window On Wall cfb27618|Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: glass, wall, wall.jpg
 <!-- vault-crosslinks:end -->

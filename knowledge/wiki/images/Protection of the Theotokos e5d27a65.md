@@ -26,6 +26,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Protection of th
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Prometheus Bound by Thomas Cole (1847) 394a573a|Prometheus Bound by Thomas Cole (1847)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Pt. Defiance Steps by Cecilia Blomberg 19f4b8d9|Pt. Defiance Steps by Cecilia Blomberg]] — nearby note in the same source series
+- [[knowledge/wiki/images/Protest Signs Against Government Hacking and Elon Musk 289043b2|Protest Signs Against Government Hacking and Elon Musk]] — nearby note in the same source series
 - [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/hyatt_regency_sa
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

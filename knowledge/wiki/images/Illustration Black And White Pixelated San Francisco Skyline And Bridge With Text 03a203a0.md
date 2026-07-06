@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph San Francisco Skyline From A Hilltop Viewpoint 506f2f98|Photograph San Francisco Skyline From A Hilltop Viewpoint]] — shared language: skyline, san, francisco
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge, San Francisco Skyline, Boats on Bay 8dd3d006|Photograph Golden Gate Bridge, San Francisco Skyline, Boats on Bay]] — shared language: skyline, san, francisco
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/images/Golden Gate Bridge, San Francisco Skyline, Boats on Bay 9d2fb8bd|Golden Gate Bridge, San Francisco Skyline, Boats on Bay]] — shared language: skyline, san, francisco
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/images/San Francisco Skyline From A Hilltop Viewpoint 19ab7196|San Francisco Skyline From A Hilltop Viewpoint]] — shared language: skyline, san, francisco
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

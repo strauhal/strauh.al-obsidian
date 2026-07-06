@@ -38,6 +38,6 @@ _Scope: 37 curated notes (people/concepts/works + hubs). Links resolved against 
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: clean, curated, vault
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken, links
 - [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: full
-- [[knowledge/output/overnight-build-report|overnight-build-report]] — shared language: curated, missing, people
-- [[knowledge/wiki/images/Comic Something's just not right our air is clean, our water is pure, we all get plenty of exercise, everything we eat is organic and free range, and 851f069d|Comic Something's just not right our air is clean, our water is pure, we all get plenty of exercise, everything we eat is organic and free range, and]] — shared language: clean
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: orphan, frontmatter, missing
+- [[knowledge/output/overnight-build-report|overnight-build-report]] — shared language: curated, missing, report
 <!-- vault-crosslinks:end -->

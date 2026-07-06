@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/l_attente_by_yve
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
+- [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
+- [[knowledge/wiki/images/Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
 - [[knowledge/wiki/artists/Artist - Jeanloup Sieff|Artist - Jeanloup Sieff]] — shared language: yves
 <!-- vault-crosslinks:end -->

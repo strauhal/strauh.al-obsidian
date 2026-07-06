@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 6a319bea|PHOTO 2024 03 02 20 46 54]] — shared language: photo
 - [[knowledge/wiki/images/photo 3270 96ff2ef1|photo 3270]] — shared language: photo
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo
+- [[_archive/auto-generated/images-stale/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo
 <!-- vault-crosslinks:end -->

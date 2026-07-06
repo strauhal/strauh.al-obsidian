@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Leopold Aschenbrenner|Artist - Leopold Aschenbrenner]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leopold aschenbrenner 2024|Artist - leopold aschenbrenner 2024]] — named in this note
 - [[_archive/auto-generated/images-stale/base scaleup of effective compute by leopold aschenbrenner 2024 b924a5bd|base scaleup of effective compute by leopold aschenbrenner 2024]] — shared language: leopold, effective, compute
 - [[knowledge/wiki/artists/Artist - Leopold Schmutzler|Artist - Leopold Schmutzler]] — shared language: leopold
 - [[knowledge/wiki/images/Siren by Leopold Schmutzler 806a2fba|Siren by Leopold Schmutzler]] — shared language: leopold
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, graph
-- [[knowledge/wiki/artists/Artist - louis leopold boilly|Artist - louis leopold boilly]] — shared language: leopold
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, diagram
 <!-- vault-crosslinks:end -->

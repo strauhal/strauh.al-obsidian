@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/images/Illustration Close Up Of Soldier Wearing Advanced Military Helmet With AR Device 9e85db3b|Illustration Close Up Of Soldier Wearing Advanced Military Helmet With AR Device]] — shared language: helmet, wearing
-- [[knowledge/wiki/images/Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise 5a99ed4e|Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: helmet, wearing
-- [[knowledge/wiki/images/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: profile, wearing
+- [[knowledge/wiki/images/Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise d8e63519|Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: helmet, wearing
 - [[knowledge/wiki/images/head of an old man in profile to the right wearing a fur cap by jan lievens c 1630 15d97814|head of an old man in profile to the right wearing a fur cap by jan lievens c 1630]] — shared language: profile, wearing, old
+- [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — shared language: profile, wearing
 <!-- vault-crosslinks:end -->

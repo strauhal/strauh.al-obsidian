@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Among the Flower
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: among, paul
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: among

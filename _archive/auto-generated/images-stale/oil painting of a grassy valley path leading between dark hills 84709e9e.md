@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay 07fc9c60|Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay]] — shared language: grassy, hills
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil, dark
 - [[_archive/auto-generated/images-stale/oil painting portrait of a man in a dark suit d0e4ae5b|oil painting portrait of a man in a dark suit]] — shared language: oil, dark
-- [[knowledge/wiki/images/Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge 2a72bf3e|Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge]] — shared language: grassy, oil
+- [[knowledge/wiki/images/Illustration Oil Painting of a Vineyard Landscape with Distant Hills 9c10d1f8|Illustration Oil Painting of a Vineyard Landscape with Distant Hills]] — shared language: hills, oil, hills.jpeg
 <!-- vault-crosslinks:end -->

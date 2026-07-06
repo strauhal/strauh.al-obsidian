@@ -29,6 +29,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/bonham_moren_the
 
 - [[knowledge/wiki/images/Obliterate by Glenn Ligon (2004) 5a9c2399|Obliterate by Glenn Ligon (2004)]] — shared language: ligon, glenn
 - [[knowledge/wiki/images/The Audience in the Theatre by Adolph Menzel (1856) c4facf1a|The Audience in the Theatre by Adolph Menzel (1856)]] — shared language: theatre
-- [[knowledge/wiki/images/Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set 6d0a3f88|Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: bonham
+- [[knowledge/wiki/images/Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set bd3789d2|Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: bonham
 - [[knowledge/wiki/images/The Ancient Theatre at Taormina with Mount Etna by Jean Baptiste Camille Corot (c. 1870) 054cb31a|The Ancient Theatre at Taormina with Mount Etna by Jean Baptiste Camille Corot (c. 1870)]] — shared language: theatre
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Tambourine by Ti
 
 - [[knowledge/wiki/images/Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson dcbd7802|Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson]] — shared language: tambourine
 - [[knowledge/wiki/artists/Artist - Wes Wilson|Artist - Wes Wilson]] — shared language: tambourine
-- [[knowledge/wiki/images/Taima Temple Mandala Amida Welcomes Ch j hime to the Western Paradise (c. 763) 3de62b77|Taima Temple Mandala Amida Welcomes Ch j hime to the Western Paradise (c. 763)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

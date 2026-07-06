@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, various
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: states
 - [[_archive/auto-generated/images-stale/grid of thirty black ink line drawings depicting various architectural and landscape scenes cee5ec0b|grid of thirty black ink line drawings depicting various architectural and landscape scenes]] — shared language: various, depicting, grid
-- [[knowledge/wiki/images/Illustration Grid of Black Ink Line Drawings Depicting Various Suburban and Rural Scenes f889a883|Illustration Grid of Black Ink Line Drawings Depicting Various Suburban and Rural Scenes]] — shared language: various, depicting, grid
+- [[_archive/auto-generated/images-stale/illustration of a reclining woman drinking a cocktail 0bf2a51d|illustration of a reclining woman drinking a cocktail]] — shared language: cocktail
 - [[knowledge/wiki/images/Diagram Grid of Male Faces Showing Progressive AI Distortion 28867952|Diagram Grid of Male Faces Showing Progressive AI Distortion]] — shared language: distortion, grid, distortion.jpg
 <!-- vault-crosslinks:end -->

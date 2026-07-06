@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - cecil beaton|Artist - cecil beaton]] — named in this note
-- [[knowledge/wiki/images/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: bacon, francis, studio
+- [[_archive/auto-generated/images-stale/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: bacon, francis, studio
+- [[knowledge/wiki/images/Portrait of Francis Bacon in his studio f806513e|Portrait of Francis Bacon in his studio]] — shared language: bacon, francis, studio
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1975|Artist - francis bacon 1975]] — shared language: bacon, francis
 - [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: bacon, francis
 - [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: bacon, francis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1968|Artist - francis bacon 1968]] — shared language: bacon, francis
 <!-- vault-crosslinks:end -->

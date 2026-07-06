@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, comic
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many, comic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, comic
 - [[knowledge/wiki/images/Illustration Illustration of Many Red, White, and Blue Kittens 6a2e3a18|Illustration Illustration of Many Red, White, and Blue Kittens]] — shared language: many
 - [[knowledge/wiki/images/Illustration Illustration of Person with Grey Hair and Many Rings 9d957f97|Illustration Illustration of Person with Grey Hair and Many Rings]] — shared language: many, person
 - [[knowledge/wiki/images/Illustration Ink And Wash Drawing Of Two Stylized Heads a9a28fca|Illustration Ink And Wash Drawing Of Two Stylized Heads]] — shared language: heads

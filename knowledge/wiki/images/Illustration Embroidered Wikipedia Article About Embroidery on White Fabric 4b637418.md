@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Photograph Black Baseball Cap With White Embroidered Text f99a8c91|Photograph Black Baseball Cap With White Embroidered Text]] — shared language: embroidered
 - [[knowledge/wiki/anchors/wikipedia-articles|wikipedia articles]] — shared language: wikipedia
 - [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: embroidery
-- [[knowledge/wiki/images/Photograph Black Baseball Cap with Embroidered Humorous Text ebbff4e7|Photograph Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered
+- [[knowledge/wiki/images/Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing 0d973c9d|Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing]] — shared language: wikipedia
 <!-- vault-crosslinks:end -->

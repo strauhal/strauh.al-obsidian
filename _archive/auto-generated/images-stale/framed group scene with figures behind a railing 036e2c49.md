@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed group scene of people dancing or performing dbae02a2|framed group scene of people dancing or performing]] — shared language: group, scene, framed
 - [[_archive/auto-generated/images-stale/framed dark group portrait with multiple figures 0ae8b3c7|framed dark group portrait with multiple figures]] — shared language: group, framed
 - [[_archive/auto-generated/images-stale/classical engraving of a group scene with tent b0ecdd92|classical engraving of a group scene with tent]] — shared language: group, scene
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[_archive/auto-generated/images-stale/framed black and white group portrait of men in suits 478bf54d|framed black and white group portrait of men in suits]] — shared language: group, framed
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 <!-- vault-crosslinks:end -->

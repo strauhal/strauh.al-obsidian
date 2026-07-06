@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - alson clark|Artist - alson clark]] — named in this note
+- [[knowledge/wiki/artists/Artist - Larry Clark|Artist - Larry Clark]] — shared language: clark
+- [[knowledge/wiki/images/Person Aiming Revolver, American Flag In Background by Larry Clark 2c98fca8|Person Aiming Revolver, American Flag In Background by Larry Clark]] — shared language: clark
 - [[_archive/auto-generated/books-stale/unknown-the-camp-of-the-saints|The Camp Of The Saints]] — shared language: camp
 - [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — shared language: camp
 - [[knowledge/wiki/images/the camp by n c wyeth 1910 a27266b0|the camp by n c wyeth 1910]] — shared language: camp
-- [[knowledge/wiki/images/Illustration Man in Military Uniform Standing in a Camp Setting e7b91c51|Illustration Man in Military Uniform Standing in a Camp Setting]] — shared language: camp
-- [[knowledge/wiki/artists/Artist - n c wyeth|Artist - n c wyeth]] — shared language: camp
 <!-- vault-crosslinks:end -->

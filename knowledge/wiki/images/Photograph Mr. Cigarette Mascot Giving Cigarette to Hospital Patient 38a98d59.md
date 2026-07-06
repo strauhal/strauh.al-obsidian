@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mr.
 ## Discovered Connections
 
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: giving
-- [[knowledge/wiki/images/Photograph Woman Cosplaying Firefox Mascot Hugging Globe 63fd80ec|Photograph Woman Cosplaying Firefox Mascot Hugging Globe]] — shared language: mascot
-- [[knowledge/wiki/images/Photograph Young Woman With Bottles And Cigarette Packs On Floor e91fc69c|Photograph Young Woman With Bottles And Cigarette Packs On Floor]] — shared language: cigarette
-- [[knowledge/wiki/images/Photograph Noam Chomsky Giving Presentation at University of Arizona 14b51545|Photograph Noam Chomsky Giving Presentation at University of Arizona]] — shared language: giving
 - [[knowledge/wiki/images/Photograph Close up of Jollibee Mascot Head Next to Child c9a227fa|Photograph Close up of Jollibee Mascot Head Next to Child]] — shared language: mascot
+- [[knowledge/wiki/images/Illustration Two Figures Lighting Cigarette At Sunset By Lake fc5de742|Illustration Two Figures Lighting Cigarette At Sunset By Lake]] — shared language: cigarette
+- [[knowledge/wiki/images/Photograph Black and White Portrait of James Dean Smoking a Cigarette 5e796a09|Photograph Black and White Portrait of James Dean Smoking a Cigarette]] — shared language: cigarette
+- [[knowledge/wiki/images/Blurry Photo of Blonde Woman with Cigarette in Red Light 3841cca1|Blurry Photo of Blonde Woman with Cigarette in Red Light]] — shared language: cigarette
 <!-- vault-crosslinks:end -->

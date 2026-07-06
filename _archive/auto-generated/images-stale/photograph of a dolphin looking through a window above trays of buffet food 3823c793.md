@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Dolphin Looking Through Window Above Trays Of Buffet Food 7c89f7b7|Photograph Dolphin Looking Through Window Above Trays Of Buffet Food]] — shared language: trays, dolphin, buffet
+- [[knowledge/wiki/images/Dolphin Looking Through Window Above Trays Of Buffet Food cc6225f1|Dolphin Looking Through Window Above Trays Of Buffet Food]] — shared language: trays, dolphin, buffet
+- [[_archive/auto-generated/images-stale/Photograph Dolphin Looking Through Window Above Trays Of Buffet Food 7c89f7b7|Photograph Dolphin Looking Through Window Above Trays Of Buffet Food]] — shared language: trays, dolphin, buffet
 - [[knowledge/wiki/images/Illustration Blue Illustration of Person and Cat Looking Out Window at Beach 15a7a410|Illustration Blue Illustration of Person and Cat Looking Out Window at Beach]] — shared language: looking, window
 - [[knowledge/wiki/images/buffet by wayne thiebaud 1976 da1402e9|buffet by wayne thiebaud 1976]] — shared language: buffet
 - [[knowledge/wiki/images/Illustration Blue Dolphin And Pink Legs With Text 'We Swam Together' b4a47b10|Illustration Blue Dolphin And Pink Legs With Text 'We Swam Together']] — shared language: dolphin
-- [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: looking
 <!-- vault-crosslinks:end -->

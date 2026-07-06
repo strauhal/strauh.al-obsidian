@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Screenshot Figure Aiming Pistol at Man on Star Patterned Sidewalk f76e41c2|Screenshot Figure Aiming Pistol at Man on Star Patterned Sidewalk]] — shared language: pistol, aiming, sidewalk
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Woman Aiming Pistol 7ebad22b|Illustration Black and White Line Drawing of Woman Aiming Pistol]] — shared language: aiming, pistol
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars
-- [[_archive/auto-generated/images-stale/black and white line drawing of a woman in a trench coat aiming a pistol d185017f|black and white line drawing of a woman in a trench coat aiming a pistol]] — shared language: aiming, pistol
 - [[knowledge/wiki/artists/Artist - Pistol|Artist - Pistol]] — shared language: pistol
+- [[_archive/auto-generated/images-stale/black and white line drawing of a woman in a trench coat aiming a pistol d185017f|black and white line drawing of a woman in a trench coat aiming a pistol]] — shared language: aiming, pistol
 <!-- vault-crosslinks:end -->

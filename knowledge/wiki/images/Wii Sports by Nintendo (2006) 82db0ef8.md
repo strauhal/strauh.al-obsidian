@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Wii Sports by Ni
 
 - [[knowledge/wiki/artists/Artist - Nintendo|Artist - Nintendo]] — shared language: nintendo
 - [[knowledge/wiki/images/Illustration Stylized Figures in Yellow and White Around Black Sports Car c57cbf53|Illustration Stylized Figures in Yellow and White Around Black Sports Car]] — shared language: sports
-- [[knowledge/wiki/images/Photograph Blue Nintendo DS Carrying Bag With Strap 641b8f15|Photograph Blue Nintendo DS Carrying Bag With Strap]] — shared language: nintendo
-- [[knowledge/wiki/images/Photograph Nintendo 3DS Console Displaying Digital Painting Application d53d2185|Photograph Nintendo 3DS Console Displaying Digital Painting Application]] — shared language: nintendo
-- [[knowledge/wiki/images/Image Nintendo 3DS with 'KONY 2012' written in white powder on a lap c3522573|Image Nintendo 3DS with 'KONY 2012' written in white powder on a lap]] — shared language: nintendo
+- [[knowledge/wiki/images/Blue Nintendo DS Carrying Bag With Strap f8518568|Blue Nintendo DS Carrying Bag With Strap]] — shared language: nintendo
+- [[knowledge/wiki/images/Nintendo 3DS Console Displaying Digital Painting Application 4377208a|Nintendo 3DS Console Displaying Digital Painting Application]] — shared language: nintendo
+- [[knowledge/wiki/images/Image Wii Game Case Featuring John Coltrane's A Love Supreme Album Cover 5327024d|Image Wii Game Case Featuring John Coltrane's A Love Supreme Album Cover]] — shared language: wii
 <!-- vault-crosslinks:end -->

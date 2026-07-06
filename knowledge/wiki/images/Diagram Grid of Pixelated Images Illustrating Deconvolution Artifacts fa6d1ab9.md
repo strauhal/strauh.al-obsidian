@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Grid o
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: artifacts, diagram, artifacts.png
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, grid
-- [[knowledge/wiki/images/Diagram Generated Images Illustrating Deconvolution Layer Artifacts 016d1244|Diagram Generated Images Illustrating Deconvolution Layer Artifacts]] — shared language: artifacts, diagram, artifacts.png
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, diagram
+- [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: artifacts, artifacts.png
+- [[knowledge/wiki/images/Generated Images Illustrating Deconvolution Layer Artifacts 6eb495a7|Generated Images Illustrating Deconvolution Layer Artifacts]] — shared language: artifacts, artifacts.png
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: pixelated
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Fool (Rider-
 - [[knowledge/wiki/images/the fool by pamela colman smith 1909 8dcd0825|the fool by pamela colman smith 1909]] — shared language: pamela, colman, smith
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
-- [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
+- [[knowledge/wiki/books/liphas-l-vi-trans-a-e-waite-the-history-of-magic|The History of Magic]] — shared language: waite
 <!-- vault-crosslinks:end -->

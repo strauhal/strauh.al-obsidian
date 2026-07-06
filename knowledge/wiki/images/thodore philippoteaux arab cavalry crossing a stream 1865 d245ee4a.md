@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/thodore_philippo
 - [[knowledge/wiki/images/Illustration Stylized Painting of a Stream with Autumn Foliage cbeae40a|Illustration Stylized Painting of a Stream with Autumn Foliage]] — shared language: stream
 - [[knowledge/wiki/images/Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains 30462e12|Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains]] — shared language: crossing
 - [[knowledge/wiki/images/Illustration Nude Woman Sitting By Stream, Touching Her Foot e6eedde7|Illustration Nude Woman Sitting By Stream, Touching Her Foot]] — shared language: stream
-- [[knowledge/wiki/images/Photograph Bison Jumping Over Stream In Field Of Yellow Flowers d888cdac|Photograph Bison Jumping Over Stream In Field Of Yellow Flowers]] — shared language: stream
+- [[knowledge/wiki/images/Bison Jumping Over Stream In Field Of Yellow Flowers 8f283e18|Bison Jumping Over Stream In Field Of Yellow Flowers]] — shared language: stream
 <!-- vault-crosslinks:end -->

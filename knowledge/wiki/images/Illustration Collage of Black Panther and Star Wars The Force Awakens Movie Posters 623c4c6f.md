@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
-- [[knowledge/wiki/images/Photograph Two Actors In Hooded Robes From Star Wars f184c73c|Photograph Two Actors In Hooded Robes From Star Wars]] — shared language: wars, star
+- [[knowledge/wiki/images/Two Actors In Hooded Robes From Star Wars b97c6acb|Two Actors In Hooded Robes From Star Wars]] — shared language: wars, star
 - [[knowledge/wiki/images/black panther by katsuhiro otomo 1987 0b5e3f76|black panther by katsuhiro otomo 1987]] — shared language: panther
 - [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: panther
 - [[knowledge/wiki/images/Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall fce00647|Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall]] — shared language: posters

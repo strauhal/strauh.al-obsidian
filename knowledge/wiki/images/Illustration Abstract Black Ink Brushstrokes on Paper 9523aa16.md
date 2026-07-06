@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper 45c8b400|Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper]] — shared language: paper, ink, paper.jpeg
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: paper, ink
 - [[knowledge/wiki/images/Illustration Dynamic Black Ink Brushwork on Paper d750c927|Illustration Dynamic Black Ink Brushwork on Paper]] — shared language: paper, ink, paper.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Black Ink Figures on White Paper by Henri Michaux a3f0a89a|Illustration Abstract Black Ink Figures on White Paper by Henri Michaux]] — shared language: paper, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/images/Illustration Abstract Black And White Brushstroke Figure Holding A Weapon d9f7a457|Illustration Abstract Black And White Brushstroke Figure Holding A Weapon]] — shared language: weapon
 - [[knowledge/wiki/images/Illustration Skull like Sun Setting Over Dark Forest 0d2f90b8|Illustration Skull like Sun Setting Over Dark Forest]] — shared language: setting, dark
-- [[knowledge/wiki/images/Photograph Portrait of a Person with Short Dark Hair in Urban Setting 6be6e57b|Photograph Portrait of a Person with Short Dark Hair in Urban Setting]] — shared language: setting, dark
+- [[_archive/auto-generated/images-stale/Photograph Portrait of a Person with Short Dark Hair in Urban Setting 6be6e57b|Photograph Portrait of a Person with Short Dark Hair in Urban Setting]] — shared language: setting, dark
 <!-- vault-crosslinks:end -->

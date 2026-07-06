@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: illuminated, trees
 - [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: mountain, trees, landscape
 - [[knowledge/wiki/images/Illustration Geometric Mountain Landscape with a House and Conical Trees 38382882|Illustration Geometric Mountain Landscape with a House and Conical Trees]] — shared language: mountain, trees, landscape
-- [[knowledge/wiki/images/Photograph Panoramic Sunset Sky with Silhouetted Trees 671204c5|Photograph Panoramic Sunset Sky with Silhouetted Trees]] — shared language: silhouetted, trees
-- [[knowledge/wiki/images/Photograph House Engulfed In Flames During Wildfire, Silhouetted Trees cc2b7c7c|Photograph House Engulfed In Flames During Wildfire, Silhouetted Trees]] — shared language: silhouetted, trees
+- [[knowledge/wiki/images/Panoramic Sunset Sky with Silhouetted Trees 4812a63d|Panoramic Sunset Sky with Silhouetted Trees]] — shared language: silhouetted, trees
+- [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: mountain, landscape
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

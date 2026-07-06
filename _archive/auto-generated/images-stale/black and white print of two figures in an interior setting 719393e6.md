@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: print
 - [[_archive/auto-generated/images-stale/black and white print of a seated man reading e36f252b|black and white print of a seated man reading]] — shared language: print
-- [[knowledge/wiki/images/Illustration Eyes Over Water With Setting Sun And Tear b3458669|Illustration Eyes Over Water With Setting Sun And Tear]] — shared language: setting
+- [[_archive/auto-generated/images-stale/black and white print of a woman s head in profile b8887c17|black and white print of a woman s head in profile]] — shared language: print
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: water, against, splashed
-- [[knowledge/wiki/images/Photograph Person With Green Skin And Red Sunglasses Splashed By Water d74e4a2d|Photograph Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: splashed, skin, sunglasses
+- [[knowledge/wiki/images/Person With Green Skin And Red Sunglasses Splashed By Water 41963806|Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: splashed, skin, sunglasses
+- [[_archive/auto-generated/images-stale/Photograph Person With Green Skin And Red Sunglasses Splashed By Water d74e4a2d|Photograph Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: splashed, skin, sunglasses
 - [[knowledge/archive/auto-generated/artists-stale/Artist - water|Artist - Water]] — shared language: water, splashed, skin
-- [[knowledge/archive/auto-generated/anchors-stale/artist-water-against-a-blue-background|Artist - water against a blue background]] — shared language: water, against, background
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — shared language: water, splashed, skin
 <!-- vault-crosslinks:end -->

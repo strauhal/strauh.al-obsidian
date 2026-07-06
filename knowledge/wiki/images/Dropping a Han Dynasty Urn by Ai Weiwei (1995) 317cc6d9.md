@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Dropping a Han D
 
 - [[knowledge/wiki/books/stanford-briefs-byung-chul-han-the-burnout-society-stanford-university-press|The Burnout Society-Stanford University Press]] — shared language: han
 - [[knowledge/wiki/images/The Night Revels of Han Xizai by Gu Hongzhong (c. 970) d86246d0|The Night Revels of Han Xizai by Gu Hongzhong (c. 970)]] — shared language: han
+- [[knowledge/wiki/images/Soldier Dropping Grenade Down Stairwell by Danfung Dennis edaccc43|Soldier Dropping Grenade Down Stairwell by Danfung Dennis]] — shared language: dropping
 - [[knowledge/wiki/images/Self Portrait by Ren Xiong (Qing dynasty) d3a7ee42|Self Portrait by Ren Xiong (Qing dynasty)]] — shared language: dynasty
 - [[knowledge/wiki/images/Pine Cliff and Clear Spring by Hongren (Qing dynasty) 360ec409|Pine Cliff and Clear Spring by Hongren (Qing dynasty)]] — shared language: dynasty
-- [[knowledge/wiki/images/The Tanzhi Pavilion by Gao Xiang (Qing dynasty) 1770ee5b|The Tanzhi Pavilion by Gao Xiang (Qing dynasty)]] — shared language: dynasty
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: playground
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: structure
+- [[knowledge/wiki/images/Sign on Chain Link Fence at Seravalli Playground fa3b9b4b|Sign on Chain Link Fence at Seravalli Playground]] — shared language: playground
 - [[knowledge/wiki/images/Illustration Two Anime Style Characters Playing Guitars With Cats by Sel 73b5395e|Illustration Two Anime Style Characters Playing Guitars With Cats by Sel]] — shared language: characters, playing
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: playing
 - [[knowledge/wiki/images/Illustration Abstract Black And White Digital Wireframe Structure e3c61436|Illustration Abstract Black And White Digital Wireframe Structure]] — shared language: structure
-- [[knowledge/wiki/images/Illustration White Block Structure Against Red Background 3df3532e|Illustration White Block Structure Against Red Background]] — shared language: structure
 <!-- vault-crosslinks:end -->

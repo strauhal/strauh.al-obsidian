@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Image Digital Collage of Limousine Carrying Boy's Portrait in Military Parade a37ebafb|Image Digital Collage of Limousine Carrying Boy's Portrait in Military Parade]] — shared language: limousine, parade, carrying
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5ae00f83|Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: parade, military
+- [[knowledge/wiki/images/Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5fc8da6b|Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: parade, military
+- [[_archive/auto-generated/images-stale/Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5ae00f83|Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: parade, military
 - [[_archive/auto-generated/images-stale/photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building 70829749|photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building]] — shared language: parade, military
-- [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: military
 <!-- vault-crosslinks:end -->

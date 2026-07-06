@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - hugo simberg|Artist - hugo simberg]] — shared language: hugo
 - [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: hugo
-- [[knowledge/wiki/images/Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event f4b4ed7f|Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
+- [[knowledge/wiki/images/Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event 9cb3c729|Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
 <!-- vault-crosslinks:end -->

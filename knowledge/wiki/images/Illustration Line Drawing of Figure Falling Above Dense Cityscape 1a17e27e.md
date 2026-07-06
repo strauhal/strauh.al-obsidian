@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, above
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, dense
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: falling
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/Photograph Dense Cityscape with Traditional and Modern Buildings 5f18df01|Photograph Dense Cityscape with Traditional and Modern Buildings]] — shared language: dense, cityscape
-- [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, line
-- [[knowledge/wiki/images/Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains 3aa16299|Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains]] — shared language: dense, cityscape
+- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: dense, cityscape
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 <!-- vault-crosslinks:end -->

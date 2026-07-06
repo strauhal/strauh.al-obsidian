@@ -33,5 +33,5 @@ i'd love to hear from you!  shoot me an email at  mailto:ernest@strauh.al ______
 - [[knowledge/private/fanmail/threads/17-saw-your-ads-clicked-the-about-page|Private Correspondence - 17 - saw your ads, clicked the about page]] — shared language: i'm, enjoy, email
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, area
 - [[knowledge/wiki/images/Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers 73b5243b|Illustration Ethnolinguistic Map of Africa with People and Languages by Richard M. Powers]] — shared language: languages, people
-- [[knowledge/wiki/pages/diary|diary]] — shared language: i'm, https, i've
+- [[knowledge/raw/about|About strauh.al]] — shared language: https, enjoy, mailto
 <!-- vault-crosslinks:end -->

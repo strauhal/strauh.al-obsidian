@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Illustration Abstract Glitchy Figure Against Digital Static Background 5cd58d02|Illustration Abstract Glitchy Figure Against Digital Static Background]] — shared language: glitchy, digital
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: interface, screenshot, digital
 - [[knowledge/wiki/images/Illustration Stylized Glitchy Head on Blue Background 7dd543cb|Illustration Stylized Glitchy Head on Blue Background]] — shared language: glitchy
-- [[knowledge/wiki/images/Screenshot Blue Computer Desktop Interface with Multiple Overlapping Windows and Icons by IBM 33fbbafa|Screenshot Blue Computer Desktop Interface with Multiple Overlapping Windows and Icons by IBM]] — shared language: interface, windows, screenshot
+- [[knowledge/wiki/images/Screenshot Digital Screenshot of Computer Interface with Parisian Landmarks and Maps 49212ddf|Screenshot Digital Screenshot of Computer Interface with Parisian Landmarks and Maps]] — shared language: interface, screenshot, digital
 <!-- vault-crosslinks:end -->

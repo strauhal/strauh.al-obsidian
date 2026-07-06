@@ -2,15 +2,15 @@
 title: Map - Library
 type: map
 tags: [map, library, books]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - Library
 
 A linked map of the iCloud Readings folder. It knows titles, likely authors, source paths, and broad themes, but it does not pretend to summarize unread books.
 
-Total entries: 418
+Total entries: 419
 
 [Open the iCloud Readings folder](file:///Users/erneststrauhal/Library/Mobile%20Documents/com~apple~CloudDocs/Readings)
 
@@ -25,7 +25,7 @@ Total entries: 418
 - [[Library - Politics and Society]] (33)
 - [[Library - Psychoanalysis and Psychology]] (26)
 - [[Library - Spirituality and Esoterica]] (28)
-- [[Library - Unsorted]] (112)
+- [[Library - Unsorted]] (113)
 
 ## Strong Bridges Into The Wiki
 
@@ -48,8 +48,8 @@ Total entries: 418
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, media, aesthetics
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: entries, confidant, read
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: confidant, latent, internet
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amor, fati
 - [[knowledge/output/library-build-report|library-build-report]] — shared language: technology, esoterica, media
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, philosophy, total
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: elegance, spontaneity, latent
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, read
 <!-- vault-crosslinks:end -->

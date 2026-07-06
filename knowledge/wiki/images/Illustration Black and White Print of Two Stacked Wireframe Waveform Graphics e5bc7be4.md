@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Photograph Multiple Vintage Computer Monitors Displaying Abstract Geometric Wireframe Graphics 219e752d|Photograph Multiple Vintage Computer Monitors Displaying Abstract Geometric Wireframe Graphics]] — shared language: wireframe, graphics, graphics.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Black And White Digital Wireframe Structure e3c61436|Illustration Abstract Black And White Digital Wireframe Structure]] — shared language: wireframe
 - [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: wireframe
-- [[knowledge/wiki/images/Photograph Man Holding Surfboard In Front Of Stacked Surfboards 23451289|Photograph Man Holding Surfboard In Front Of Stacked Surfboards]] — shared language: stacked
+- [[knowledge/wiki/images/Illustration Golden Stylized Human Head in Geometric Wireframe 145b43f8|Illustration Golden Stylized Human Head in Geometric Wireframe]] — shared language: wireframe
 <!-- vault-crosslinks:end -->

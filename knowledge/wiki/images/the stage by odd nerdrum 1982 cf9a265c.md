@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_stage_by_odd
 - [[knowledge/wiki/images/the window by odd nerdrum 1981 50930230|the window by odd nerdrum 1981]] — same artist: odd nerdrum
 - [[knowledge/wiki/images/the boat by odd nerdrum 1985 f9aa9d90|the boat by odd nerdrum 1985]] — same artist: odd nerdrum
 - [[knowledge/wiki/images/the slumber party by odd nerdrum 1983 1de9f00c|the slumber party by odd nerdrum 1983]] — same artist: odd nerdrum
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Trumpet Player On Stage a8bb6960|Photograph Black And White Photograph Of A Trumpet Player On Stage]] — shared language: stage
-- [[knowledge/wiki/images/Diagram Diagram Illustrating A Three Stage Geometric Transformation Process ca4c805e|Diagram Diagram Illustrating A Three Stage Geometric Transformation Process]] — shared language: stage
+- [[knowledge/wiki/images/Black And White Photograph Of A Trumpet Player On Stage 26065ae5|Black And White Photograph Of A Trumpet Player On Stage]] — shared language: stage
+- [[knowledge/wiki/images/Diagram Illustrating A Three Stage Geometric Transformation Process f6f943d3|Diagram Illustrating A Three Stage Geometric Transformation Process]] — shared language: stage
 <!-- vault-crosslinks:end -->

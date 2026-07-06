@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Diagra
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, showing
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — shared language: modernity
-- [[knowledge/wiki/images/Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective 0287d748|Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: diagram, showing
-- [[knowledge/wiki/images/Diagram World Map Showing Teal Lines Representing Networks d873dbf1|Diagram World Map Showing Teal Lines Representing Networks]] — shared language: showing, diagram
-- [[knowledge/wiki/images/Diagram Architectural Lineage Diagram Showing Mentor Prot g Relationships Over Time a3bc0af7|Diagram Architectural Lineage Diagram Showing Mentor Prot g Relationships Over Time]] — shared language: diagram, showing
+- [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: showing, diagram
+- [[knowledge/wiki/images/Architectural Lineage Diagram Showing Mentor Prot g Relationships Over Time 34ff8ac9|Architectural Lineage Diagram Showing Mentor Prot g Relationships Over Time]] — shared language: showing, diagram
+- [[knowledge/wiki/images/Diagram Grid of Male Faces Showing Progressive AI Distortion 28867952|Diagram Grid of Male Faces Showing Progressive AI Distortion]] — shared language: showing, diagram
 <!-- vault-crosslinks:end -->

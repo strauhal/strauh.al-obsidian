@@ -39,6 +39,8 @@ machine logic he critiques as [[AI Slop]].
 
 *Images and books connected to this idea by filename (auto-generated).*
 
+**Images (1).** [[Soft Focus Black And White Portrait Of A Person 8ca53a39|Soft Focus Black And White Portrait Of A Person]]
+
 **Books (4).** [[cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] · [[gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]] · [[neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 
 <!-- archive-links:end -->

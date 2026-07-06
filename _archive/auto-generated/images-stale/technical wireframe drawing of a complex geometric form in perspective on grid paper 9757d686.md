@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Complex Wireframe Geometric Form Drawn on Grid Paper 150c7dca|Diagram Complex Wireframe Geometric Form Drawn on Grid Paper]] — shared language: wireframe, form, complex
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe, grid, complex
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe, complex, grid
 - [[knowledge/wiki/images/Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots 2feae159|Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots]] — shared language: complex, paper, grid
 - [[_archive/auto-generated/images-stale/framed wireframe drawing of a circular form bf61e11f|framed wireframe drawing of a circular form]] — shared language: wireframe, form
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: form
+- [[knowledge/wiki/images/Grid of Abstract Visualizations with Technical Labels 0f6e56a4|Grid of Abstract Visualizations with Technical Labels]] — shared language: technical, grid
 <!-- vault-crosslinks:end -->

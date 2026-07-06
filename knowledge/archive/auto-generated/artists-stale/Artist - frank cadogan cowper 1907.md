@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/The Awakening of Psyche by Frank Cadogan Cowper (1903) f6e5e467|The Awakening of Psyche by Frank Cadogan Cowper (1903)]] — shared language: cadogan, cowper, frank
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
 - [[_archive/auto-generated/images-stale/39272 Frank Gilbreth 2ed2af6f|39272 Frank Gilbreth]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 <!-- vault-crosslinks:end -->

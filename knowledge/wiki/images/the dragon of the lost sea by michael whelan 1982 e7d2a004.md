@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_dragon_of_th
 - [[knowledge/wiki/images/the dragon s bride by michael whelan 1980 1480faff|the dragon s bride by michael whelan 1980]] — same artist: michael whelan
 - [[knowledge/wiki/images/the wolfen book cover by michael whelan 1978 c6e6cb40|the wolfen book cover by michael whelan 1978]] — same artist: michael whelan
 - [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
-- [[knowledge/wiki/artists/Artist - Sea|Artist - Sea]] — shared language: sea
+- [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: lost
 <!-- vault-crosslinks:end -->

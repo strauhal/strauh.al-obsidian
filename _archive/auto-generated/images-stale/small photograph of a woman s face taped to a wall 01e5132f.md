@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/black and white photograph of a woman s face taped to a wall d0682ebc|black and white photograph of a woman s face taped to a wall]] — shared language: taped, wall, face
-- [[knowledge/wiki/images/Photograph Small Photograph of Woman's Face Taped to Wall Above Bed 7756fc87|Photograph Small Photograph of Woman's Face Taped to Wall Above Bed]] — shared language: taped, small, wall
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Sade Adu Taped To A Wall f8d6fbbf|Photograph Black And White Photograph Of Sade Adu Taped To A Wall]] — shared language: taped, wall, wall.jpg
-- [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: small
+- [[_archive/auto-generated/images-stale/black and white photograph of a woman s face taped to a wall d0682ebc|black and white photograph of a woman s face taped to a wall]] — shared language: taped, face, wall
+- [[_archive/auto-generated/images-stale/Photograph Small Photograph of Woman's Face Taped to Wall Above Bed 7756fc87|Photograph Small Photograph of Woman's Face Taped to Wall Above Bed]] — shared language: taped, small, wall
+- [[knowledge/wiki/images/Small Photograph of Woman's Face Taped to Wall Above Bed 3f2a3477|Small Photograph of Woman's Face Taped to Wall Above Bed]] — shared language: taped, small, wall
+- [[knowledge/wiki/images/Black And White Photograph Of Sade Adu Taped To A Wall 97ef198a|Black And White Photograph Of Sade Adu Taped To A Wall]] — shared language: taped, wall, wall.jpg
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Sade Adu Taped To A Wall f8d6fbbf|Photograph Black And White Photograph Of Sade Adu Taped To A Wall]] — shared language: taped, wall, wall.jpg
 <!-- vault-crosslinks:end -->

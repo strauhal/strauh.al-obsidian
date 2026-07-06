@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, ink
 - [[knowledge/wiki/images/Illustration Pen And Ink Sketch Of Three Figures In Conversation 24e6f821|Illustration Pen And Ink Sketch Of Three Figures In Conversation]] — shared language: pen, ink
 - [[_archive/auto-generated/images-stale/pen and ink sketch of three figures in conversation c58d12cc|pen and ink sketch of three figures in conversation]] — shared language: pen, ink
-- [[_archive/auto-generated/images-stale/pen and ink drawing of a warrior with a topknot holding a raised katana 79495a12|pen and ink drawing of a warrior with a topknot holding a raised katana]] — shared language: pen, holding, ink
+- [[_archive/auto-generated/images-stale/pen and ink drawing of a warrior with a topknot holding a raised katana 79495a12|pen and ink drawing of a warrior with a topknot holding a raised katana]] — shared language: pen, ink, holding
 <!-- vault-crosslinks:end -->

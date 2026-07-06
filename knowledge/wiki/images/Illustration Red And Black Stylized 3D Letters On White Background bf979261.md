@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: stylized, background
-- [[knowledge/wiki/images/Photograph Man Posing With Pink Balloon Letters On Blue Wall 45235ac8|Photograph Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: letters
+- [[knowledge/wiki/images/Man Posing With Pink Balloon Letters On Blue Wall 56cc195c|Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: letters
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: stylized, background
 - [[knowledge/wiki/culture/reading-the-letters-of-vincent-van-gogh|Reading - The Letters of Vincent van Gogh]] — shared language: letters
 <!-- vault-crosslinks:end -->

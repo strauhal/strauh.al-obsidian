@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: six, pencil
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: six
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: six
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: six
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: female, stylized
 <!-- vault-crosslinks:end -->

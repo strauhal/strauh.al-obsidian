@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/music.html"
 source_relpath: "knowledge_base/music.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base music
@@ -507,7 +507,7 @@ strauh.al/knowledge_base/music
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 59 of 437 links connected (19 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 59 of 437 links connected (20 nodes).*
 
 **[[Tim Hecker]]** — [Tim Hecker - Biography - Amoeba Music](https://www.amoeba.com/tim-hecker/artist/59948/bio) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61) · [PRIMER: Tim Hecker - self-titled](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Florian Hecker - Wikipedia](https://en.wikipedia.org/wiki/Florian_Hecker) · [primer: tim hecker](https://www.self-titledmag.com/disco-from-reckless-record-execs-to-diamond-dave-samples-tim-hecker-tells-the-stories-behind-all-that-snap-crackle-pop-business/) · [Tim Hecker Lyrics, Songs, and Albums / Genius](https://genius.com/artists/Tim-hecker) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [Tim Hecker: Anoyo Album Review / Pitchfork](https://pitchfork.com/reviews/albums/tim-hecker-anoyo/) · [KRANK 102 - Tim Hecker, "Harmony in Ultraviolet"](http://www.brainwashed.com/common/htdocs/discog/krank102.html) · [Tim Hecker Albums From Worst To Best](https://www.stereogum.com/1873977/tim-hecker-albums-from-worst-to-best/lists/) · [take cover: tim hecker: ravedeath, 1972](https://pitchfork.com/news/41245-take-cover-tim-hecker-ravedeath-1972/) · [Tim Hecker / Red Bull Music Academy](https://www.redbullmusicacademy.com/lectures/tim-hecker-lecture) · [Tim Hecker: ‘I make pagan music that dances on the ashes of a burnt church’ / Electronic music / The Guardian](https://www.theguardian.com/music/2016/apr/05/tim-hecker-sacred-music-ambient-electronica-4ad) · [Tim Hecker Talks <i>Ravedeath, 1972</i>](https://exclaim.ca/music/article/tim_hecker_talks_ravedeath_1972) · [Daniel Lopatin & Tim Hecker / Dazed](https://www.dazeddigital.com/music/article/15182/1/daniel-lopatin-tim-hecker) · [Tim Hecker 'Anoyo' Interview / SPIN](https://www.spin.com/2019/05/tim-hecker-anoyo-interview-left-field/) · [Tim Hecker: Mirages Album Review / Pitchfork](https://pitchfork.com/reviews/albums/3799-mirages/) · [Tim Hecker on his first score for The North Water — Composer Magazine](https://composer.spitfireaudio.com/en/articles/tim-hecker-on-his-first-score-for-the-north-water) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Tim Hecker interview by Simon Hampson](https://www.cyclicdefrost.com/2007/03/tim-hecker-interview-by-simon-hampson/) · [Artist: Tim Hecker. Tim Hecker is strongly associated with... / by Nicholas Dunkley / Medium](https://nicholasdunkley.medium.com/artist-tim-hecker-11d006227b61)
 
@@ -526,6 +526,8 @@ strauh.al/knowledge_base/music
 **[[Artist - Kazumoto Endo]]** — [While You Were Out by Kazumoto Endo (Album, Harsh Noise): Reviews, Ratings, Credits, Song list - Rate Your Music](https://rateyourmusic.com/release/album/kazumoto_endo/while_you_were_out/)
 
 **[[Artist - Pierre Schaeffer]]** — [Pierre Schaeffer - Wikipedia](https://en.wikipedia.org/wiki/Pierre_Schaeffer)
+
+**[[Artist - Security]]** — [the slow sublime and 9/11: william basinski](https://quod.lib.umich.edu/m/mp/9460447.0008.101/--slow-sublime-and-911-insecurity-and-fear-in-william?rgn=main;view=fulltext)
 
 **[[Artist - sol lewitt]]** — [sol lewitt philip glass - Google Search](https://www.google.com/search?q=sol+lewitt+philip+glass&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbxq39-uzuAhX3CTQIHa3CAd4Q_AUoAXoECBAQAw&biw=1440&bih=900)
 

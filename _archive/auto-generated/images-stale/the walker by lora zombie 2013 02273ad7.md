@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lora zombie 2013|Artist - lora zombie 2013]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
-- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker 2020|Artist - caroline walker 2020]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chuck walker 1986|Artist - chuck walker 1986]] — shared language: walker
+- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
+- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker 2020|Artist - caroline walker 2020]] — shared language: walker
 <!-- vault-crosslinks:end -->

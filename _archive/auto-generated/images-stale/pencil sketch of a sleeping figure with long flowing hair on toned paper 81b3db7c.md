@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: sleeping, flowing, pencil
 - [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: flowing, long, hair
 - [[_archive/auto-generated/images-stale/loose pencil sketch of a standing woman with long wavy hair on tan paper c6eedbd6|loose pencil sketch of a standing woman with long wavy hair on tan paper]] — shared language: long, pencil, paper
-- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: pencil, hair, sketch
+- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: pencil, sketch, hair
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: long, pencil, sketch
 <!-- vault-crosslinks:end -->

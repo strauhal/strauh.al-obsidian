@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
 - [[knowledge/wiki/images/Illustration Black Line Drawing of Stylized Profile Head on Beige Beam cb1168dc|Illustration Black Line Drawing of Stylized Profile Head on Beige Beam]] — shared language: beige, profile
 - [[knowledge/wiki/images/Illustration Black and Beige Geometric Print of Interlocking Parallelograms a9eb011b|Illustration Black and Beige Geometric Print of Interlocking Parallelograms]] — shared language: beige
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment
-- [[knowledge/wiki/images/Illustration Stylized Woman in Black and Gold Striped Garment e870827d|Illustration Stylized Woman in Black and Gold Striped Garment]] — shared language: garment
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment
+- [[knowledge/wiki/images/Illustration Stylized Figure in Circuit Board Garment on Blue Background e8567bc9|Illustration Stylized Figure in Circuit Board Garment on Blue Background]] — shared language: garment
 <!-- vault-crosslinks:end -->

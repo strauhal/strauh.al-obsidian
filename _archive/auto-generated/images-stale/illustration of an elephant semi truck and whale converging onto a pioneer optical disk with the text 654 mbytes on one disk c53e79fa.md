@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Semi truck, Elephant, Whale Converging On Pioneer Optical Disk With Text 33ab44f9|Illustration Semi truck, Elephant, Whale Converging On Pioneer Optical Disk With Text]] — shared language: semi, pioneer, converging
+- [[knowledge/wiki/images/Illustration Semi truck, Elephant, Whale Converging On Pioneer Optical Disk With Text 33ab44f9|Illustration Semi truck, Elephant, Whale Converging On Pioneer Optical Disk With Text]] — shared language: semi, pioneer, whale
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: onto, one
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: optical
 - [[_archive/auto-generated/books-stale/moby-dick-or-the-whale|Moby-Dick or, The whale]] — shared language: whale

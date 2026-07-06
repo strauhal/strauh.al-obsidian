@@ -45,12 +45,12 @@ Compiled notes pseudonymize correspondents and redact addresses and phone number
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: attachments, messages, club
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: attachments, messages, threads
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, website
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, attachments, fanmail
 - [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: attachments, messages, fanmail
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — shared language: drawing-submission, private, club
-- [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — shared language: drawing-submission, private, club
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: drawing-submission, private
+- [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — shared language: drawing-submission, private, club
 - [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — shared language: drawing-submission, private, draw
 <!-- vault-crosslinks:end -->

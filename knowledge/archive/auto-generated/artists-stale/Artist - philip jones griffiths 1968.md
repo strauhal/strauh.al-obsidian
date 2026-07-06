@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - philip jones griffiths|Artist - philip jones griffiths]] — named in this note
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip

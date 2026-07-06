@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Screenshot Screenshot of Chat Interface with Informational and Abusive Messages 2ae37dca|Screenshot Screenshot of Chat Interface with Informational and Abusive Messages]] — shared language: chat, screenshot
 - [[knowledge/wiki/images/Screenshot In Game Chat Log with Korean and English Text 49aaad4e|Screenshot In Game Chat Log with Korean and English Text]] — shared language: chat, screenshot
 - [[knowledge/wiki/images/Screenshot Chat Interface Showing Service Discontinuation and Server Shutdown Messages aeda7a7b|Screenshot Chat Interface Showing Service Discontinuation and Server Shutdown Messages]] — shared language: chat, screenshot
-- [[knowledge/wiki/images/Photograph Close Up Of A Small Display Module Showing App Icons e6fef9ad|Photograph Close Up Of A Small Display Module Showing App Icons]] — shared language: app
+- [[knowledge/wiki/images/Comic Two Characters In A Vehicle With Speech Bubbles 5c9c591b|Comic Two Characters In A Vehicle With Speech Bubbles]] — shared language: bubbles
 <!-- vault-crosslinks:end -->

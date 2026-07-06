@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Yo Mama by Wange
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Yellow Red Blue by Wassily Kandinsky (1925) 39dc2dc0|Yellow Red Blue by Wassily Kandinsky (1925)]] — nearby note in the same source series
-- [[knowledge/wiki/images/You Can't Use an Old Map to Explore New Worlds by Michael Armitage (2020) a4c38349|You Can't Use an Old Map to Explore New Worlds by Michael Armitage (2020)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Yellow Lampshade by Elmer Bischoff (1970) d94385d6|Yellow Lampshade by Elmer Bischoff (1970)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Yoko Ono by Annie Leibovitz 52b8d4df|Yoko Ono by Annie Leibovitz]] — nearby note in the same source series
+- [[knowledge/wiki/images/Yellow Network Cables Braided and Hanging in a Server Rack 4d899771|Yellow Network Cables Braided and Hanging in a Server Rack]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

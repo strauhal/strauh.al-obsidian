@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Was
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: floating, water
-- [[knowledge/wiki/images/Photograph Man Painting On Floating Easel In Water Near City 1813972e|Photograph Man Painting On Floating Easel In Water Near City]] — shared language: floating, water
+- [[knowledge/wiki/images/Man Painting On Floating Easel In Water Near City ff2eaf60|Man Painting On Floating Easel In Water Near City]] — shared language: floating, water
 - [[knowledge/wiki/images/Illustration Man in Hat Sitting on Bench in Shadow 1730a348|Illustration Man in Hat Sitting on Bench in Shadow]] — shared language: shadow, shadow.jpg
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
-- [[knowledge/wiki/images/water cd9d9b2f|water]] — shared language: water
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
+- [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: shadow
 <!-- vault-crosslinks:end -->

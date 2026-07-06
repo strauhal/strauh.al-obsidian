@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jonathan Haidt - The Anxious Generation_ How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group (2024).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group

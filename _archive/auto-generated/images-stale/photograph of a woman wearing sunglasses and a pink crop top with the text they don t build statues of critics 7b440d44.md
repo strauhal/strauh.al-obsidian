@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
-- [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: crop, sunglasses, top
+- [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: crop, top, sunglasses
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: build
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: build
 - [[_archive/auto-generated/images-stale/45419 koyaanisqatsi 0 1000 0 1500 crop e9fa8d67|45419 koyaanisqatsi 0 1000 0 1500 crop]] — shared language: crop

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
 - [[knowledge/wiki/images/Illustration Two Seated Women, One In Polka Dots, One In Blue b9a012c8|Illustration Two Seated Women, One In Polka Dots, One In Blue]] — shared language: polka, dots
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music
+- [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Dancer in the Wi
 ## Discovered Connections
 
 - [[knowledge/wiki/images/dancer with a bouquet bowing by edgar degas 1877 e8dd25e7|dancer with a bouquet bowing by edgar degas 1877]] — shared language: dancer, edgar, degas
-- [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas
 - [[knowledge/wiki/images/edgar degas dancer adjusting her strap c 1883 e1b1f86a|edgar degas dancer adjusting her strap c 1883]] — shared language: dancer, edgar, degas
-- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: edgar, degas
+- [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: edgar, degas
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: edgar, degas
 <!-- vault-crosslinks:end -->

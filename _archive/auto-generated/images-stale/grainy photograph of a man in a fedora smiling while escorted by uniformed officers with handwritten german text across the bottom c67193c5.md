@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: bottom
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Photograph Man in Handcuffs Escorted by Officers Past Photographers bf42cdbc|Photograph Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Photograph Man In A Fedora With A Red Rose In A Vase f9514828|Photograph Man In A Fedora With A Red Rose In A Vase]] — shared language: fedora
+- [[knowledge/wiki/images/Man in Handcuffs Escorted by Officers Past Photographers 2aac9b02|Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
+- [[_archive/auto-generated/images-stale/Photograph Man in Handcuffs Escorted by Officers Past Photographers bf42cdbc|Photograph Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
 - [[_archive/auto-generated/images-stale/photograph of a young man in an orange jumpsuit being escorted by police officers near a helicopter 4d4d3a88|photograph of a young man in an orange jumpsuit being escorted by police officers near a helicopter]] — shared language: officers, escorted
 <!-- vault-crosslinks:end -->

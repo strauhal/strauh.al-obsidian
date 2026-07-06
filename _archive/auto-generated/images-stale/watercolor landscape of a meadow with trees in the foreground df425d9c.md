@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky 8df70443|Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky]] — shared language: meadow, watercolor, trees
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
-- [[knowledge/wiki/images/Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground f7d870f0|Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground]] — shared language: foreground, landscape
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field 440b52a5|Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field]] — shared language: watercolor, trees, landscape
+- [[knowledge/wiki/images/Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground f7d870f0|Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground]] — shared language: foreground, landscape
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

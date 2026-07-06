@@ -26,6 +26,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Miyamoto Musa
 ## Discovered Connections
 
 - [[knowledge/wiki/images/godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995 2fa0b529|godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995]] — same artist: noriyoshi ohrai
-- [[knowledge/wiki/images/Mission Bay Lights by Adam Forfang (2024) a2487117|Mission Bay Lights by Adam Forfang (2024)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Moebius d e10e1915|Moebius d]] — nearby note in the same source series
+- [[knowledge/wiki/images/Misty Canal Scene with Illuminated Building and Outdoor Seating 7deda6d5|Misty Canal Scene with Illuminated Building and Outdoor Seating]] — nearby note in the same source series
+- [[knowledge/wiki/images/Modern Apartment Interior with Kitchen, Dining, and Living Areas 40d39ab1|Modern Apartment Interior with Kitchen, Dining, and Living Areas]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

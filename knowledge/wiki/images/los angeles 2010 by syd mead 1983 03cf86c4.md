@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/los_angeles_2010
 - [[knowledge/wiki/images/future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]] — same artist: syd mead
 - [[knowledge/wiki/images/future freeway by syd mead 1983 34f91b3d|future freeway by syd mead 1983]] — same artist: syd mead
 - [[knowledge/wiki/images/blade runner street scene by syd mead 1980 b3e5eee6|blade runner street scene by syd mead 1980]] — same artist: syd mead
-- [[knowledge/wiki/images/Diagram Map of Los Angeles City and Suburban Lines b2e35e77|Diagram Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los
+- [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los
 - [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los
 <!-- vault-crosslinks:end -->

@@ -28,7 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - masaru oishi 2020|Artist - masaru oishi 2020]] — named in this note
+- [[knowledge/wiki/artists/Artist - Masaru Oishi|Artist - Masaru Oishi]] — named in this note
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi 5acf5bf8|Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi]] — same artist: masaru oishi
+- [[knowledge/wiki/images/Military Tank in Sunflower Field Under Blue Sky 1eb2fd5f|Military Tank in Sunflower Field Under Blue Sky]] — shared language: sunflower
 - [[knowledge/wiki/images/Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower 01713fa5|Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower]] — shared language: sunflower
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: masaru, oishi
 <!-- vault-crosslinks:end -->

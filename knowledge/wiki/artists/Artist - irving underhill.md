@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - irving penn|Artist - irving penn]] — shared language: irving
 - [[knowledge/wiki/images/issey miyake white and black new york by irving penn 1990 514361ff|issey miyake white and black new york by irving penn 1990]] — shared language: irving
 - [[knowledge/wiki/images/pleats please issey miyake new york by irving penn 1995 98328768|pleats please issey miyake new york by irving penn 1995]] — shared language: irving
-- [[knowledge/wiki/images/Photograph Person Next To Car With Manhattan Bridge In Background e18dc894|Photograph Person Next To Car With Manhattan Bridge In Background]] — shared language: manhattan, bridge
-- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: bridge
+- [[knowledge/wiki/images/Person Next To Car With Manhattan Bridge In Background 5254d0a8|Person Next To Car With Manhattan Bridge In Background]] — shared language: manhattan, bridge
+- [[knowledge/wiki/images/Map of Manhattan Neighborhoods with Labeled Points of Interest a72c9b2d|Map of Manhattan Neighborhoods with Labeled Points of Interest]] — shared language: manhattan
 <!-- vault-crosslinks:end -->

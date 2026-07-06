@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Whi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: willow, plate, pattern
+- [[knowledge/wiki/images/White Plate With Blue Willow Pattern Design ed444a6b|White Plate With Blue Willow Pattern Design]] — shared language: willow, plate, pattern
 - [[knowledge/wiki/images/Illustration Abstract Pattern of Vertical Lines and Central Oval Shape b267d167|Illustration Abstract Pattern of Vertical Lines and Central Oval Shape]] — shared language: oval, pattern
 - [[knowledge/wiki/images/Illustration Green Willow Branches Reflected in Water 1865aaeb|Illustration Green Willow Branches Reflected in Water]] — shared language: willow
 - [[knowledge/wiki/images/black and white oval by robert motherwell 1974 bd48e119|black and white oval by robert motherwell 1974]] — shared language: oval

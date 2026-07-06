@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Col
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: graffiti, large, water
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: tags, graffiti
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water, large
 - [[knowledge/wiki/images/Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall fce00647|Photograph Yellow and Purple Graffiti Tags Over Posters on a Wall]] — shared language: tags, graffiti
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: tags, graffiti
-- [[knowledge/wiki/images/Photograph Colorful Water Droplets On A Textured Surface cb7b1503|Photograph Colorful Water Droplets On A Textured Surface]] — shared language: colorful, water
+- [[knowledge/wiki/images/Illustration Colorful Houses and Water in Expressive Illustration Style b3b5c50f|Illustration Colorful Houses and Water in Expressive Illustration Style]] — shared language: colorful, water
 <!-- vault-crosslinks:end -->

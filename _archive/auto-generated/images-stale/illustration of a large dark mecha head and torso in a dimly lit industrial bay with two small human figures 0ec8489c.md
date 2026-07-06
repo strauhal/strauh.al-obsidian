@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
-- [[knowledge/wiki/images/Photograph Dimly Lit Modern Living Room with TV and Speakers 6fb318f4|Photograph Dimly Lit Modern Living Room with TV and Speakers]] — shared language: dimly, lit
+- [[knowledge/wiki/images/Dimly Lit Modern Living Room with TV and Speakers a06a8fad|Dimly Lit Modern Living Room with TV and Speakers]] — shared language: dimly, lit
+- [[_archive/auto-generated/images-stale/Photograph Dimly Lit Modern Living Room with TV and Speakers 6fb318f4|Photograph Dimly Lit Modern Living Room with TV and Speakers]] — shared language: dimly, lit
 - [[_archive/auto-generated/images-stale/photograph of a cluttered dimly lit kitchen interior with beige walls and a dark green chair afa855a4|photograph of a cluttered dimly lit kitchen interior with beige walls and a dark green chair]] — shared language: dimly, lit, dark
-- [[_archive/auto-generated/images-stale/line drawing of a large quadrupedal industrial machine with a saw blade and a small human figure 989d54dd|line drawing of a large quadrupedal industrial machine with a saw blade and a small human figure]] — shared language: industrial, small, human
 <!-- vault-crosslinks:end -->

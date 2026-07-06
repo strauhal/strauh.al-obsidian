@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/images/Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing 0d973c9d|Screenshot Screenshot of Wikipedia Page Featuring 'This Man' Drawing]] — shared language: wikipedia, featuring
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: themes
 - [[knowledge/wiki/anchors/wikipedia-articles|wikipedia articles]] — shared language: wikipedia
+- [[knowledge/wiki/images/Diagram of the Book of Revelation's Structure and Themes c088b27f|Diagram of the Book of Revelation's Structure and Themes]] — shared language: themes
 - [[knowledge/wiki/images/Illustration Vaporwave Illustration with Statues, Windows Paint, Sunset, and Grid Floor b4b35627|Illustration Vaporwave Illustration with Statues, Windows Paint, Sunset, and Grid Floor]] — shared language: vaporwave
-- [[knowledge/wiki/images/Diagram Diagram of the Book of Revelation's Structure and Themes d4633d3d|Diagram Diagram of the Book of Revelation's Structure and Themes]] — shared language: themes
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Medica
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, showing
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human, diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, diagram
 - [[knowledge/wiki/images/Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan d276ff6e|Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan]] — shared language: medical, scan
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
+- [[knowledge/wiki/books/jasbir-k-puar-bodies-with-new-organs|Bodies with New Organs]] — shared language: organs
+- [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: showing, human, diagram
+- [[knowledge/wiki/images/Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton 99c06aeb|Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton]] — shared language: skeleton, human, diagram
 <!-- vault-crosslinks:end -->

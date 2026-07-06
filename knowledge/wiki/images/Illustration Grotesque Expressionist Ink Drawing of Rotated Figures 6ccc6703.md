@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, grotesque
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
-- [[knowledge/wiki/images/Photograph Person Holding Rotated Collage of Hands and Faces fc606ec2|Photograph Person Holding Rotated Collage of Hands and Faces]] — shared language: rotated
+- [[knowledge/wiki/images/Illustration Woman and Grotesque Creature with Ink Splatters d44ed11e|Illustration Woman and Grotesque Creature with Ink Splatters]] — shared language: grotesque, ink
+- [[knowledge/wiki/images/Person Holding Rotated Collage of Hands and Faces 733172e5|Person Holding Rotated Collage of Hands and Faces]] — shared language: rotated
 <!-- vault-crosslinks:end -->

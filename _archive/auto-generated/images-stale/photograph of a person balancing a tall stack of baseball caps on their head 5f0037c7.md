@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Balancing Tall Stack Of Baseball Caps On Head 4dc74b21|Photograph Person Balancing Tall Stack Of Baseball Caps On Head]] — shared language: stack, caps, balancing
+- [[knowledge/wiki/images/Person Balancing Tall Stack Of Baseball Caps On Head d46173dd|Person Balancing Tall Stack Of Baseball Caps On Head]] — shared language: caps, stack, balancing
+- [[_archive/auto-generated/images-stale/Photograph Person Balancing Tall Stack Of Baseball Caps On Head 4dc74b21|Photograph Person Balancing Tall Stack Of Baseball Caps On Head]] — shared language: caps, stack, balancing
 - [[_archive/auto-generated/images-stale/black and white photograph of a woman standing next to a tall stack of computer printouts f5abef5d|black and white photograph of a woman standing next to a tall stack of computer printouts]] — shared language: stack, tall
-- [[knowledge/wiki/images/Photograph Woman Standing Next To Tall Stack Of Computer Printouts 2636026c|Photograph Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: stack, tall
-- [[_archive/auto-generated/images-stale/gray photo of a person balancing on a scooter near water acfaedee|gray photo of a person balancing on a scooter near water]] — shared language: balancing, person
-- [[knowledge/wiki/images/Photograph Blue Parakeet Balancing on a Toy Skateboard f6f8f6f3|Photograph Blue Parakeet Balancing on a Toy Skateboard]] — shared language: balancing
+- [[_archive/auto-generated/images-stale/Photograph Woman Standing Next To Tall Stack Of Computer Printouts 2636026c|Photograph Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: stack, tall
+- [[knowledge/wiki/images/Woman Standing Next To Tall Stack Of Computer Printouts 0d0601d5|Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: stack, tall
 <!-- vault-crosslinks:end -->

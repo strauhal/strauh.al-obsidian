@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/images/Illustration Pixelated Dogs with Pink Abstract Shapes 371929d9|Illustration Pixelated Dogs with Pink Abstract Shapes]] — shared language: dogs
 - [[knowledge/wiki/images/Illustration Two Dogs Made of Text on a Beach 951d6a07|Illustration Two Dogs Made of Text on a Beach]] — shared language: dogs
-- [[knowledge/wiki/images/Photograph Seagull Drinking From 'Dogs Only' Water Bowl 09c70e5a|Photograph Seagull Drinking From 'Dogs Only' Water Bowl]] — shared language: dogs
 - [[knowledge/wiki/images/Illustration Black Ink Sketch of a Bearded Man with Glasses 608e2426|Illustration Black Ink Sketch of a Bearded Man with Glasses]] — shared language: bearded
-- [[knowledge/wiki/images/Illustration Painting Window View of Figures, Dogs, and Potted Plant a79e22d2|Illustration Painting Window View of Figures, Dogs, and Potted Plant]] — shared language: dogs
+- [[knowledge/wiki/images/Photograph Seagull Drinking From 'Dogs Only' Water Bowl 09c70e5a|Photograph Seagull Drinking From 'Dogs Only' Water Bowl]] — shared language: dogs
+- [[knowledge/wiki/images/Illustration Anime Style Character with Green Hair, Clown Makeup, and Bleeding Nose acaaa0d6|Illustration Anime Style Character with Green Hair, Clown Makeup, and Bleeding Nose]] — shared language: bleeding
 <!-- vault-crosslinks:end -->

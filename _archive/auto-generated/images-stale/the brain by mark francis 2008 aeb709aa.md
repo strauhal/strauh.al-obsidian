@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis 2008|Artist - mark francis 2008]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: francis
+- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 <!-- vault-crosslinks:end -->

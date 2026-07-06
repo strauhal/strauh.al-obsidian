@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 - [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: large
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-large-tree|Artist - a large tree]] — shared language: large
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: large
+- [[_archive/auto-generated/images-stale/black and white photograph of a figure with large dark wings db8c7c5e|black and white photograph of a figure with large dark wings]] — shared language: large
 <!-- vault-crosslinks:end -->

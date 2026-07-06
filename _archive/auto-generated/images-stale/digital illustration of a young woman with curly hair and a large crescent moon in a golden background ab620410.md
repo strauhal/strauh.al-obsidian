@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background 98c00cdf|Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background]] — shared language: crescent, curly, golden
+- [[knowledge/wiki/images/Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background 98c00cdf|Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background]] — shared language: crescent, curly, moon
 - [[knowledge/wiki/images/Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon 2a8c4293|Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon]] — shared language: crescent, moon
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
+- [[_archive/auto-generated/images-stale/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below e829048b|Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below]] — shared language: crescent, moon
 <!-- vault-crosslinks:end -->

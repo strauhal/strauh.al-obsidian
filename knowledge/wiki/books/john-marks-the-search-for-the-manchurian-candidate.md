@@ -9,8 +9,8 @@ metadata: curated
 aliases: [129E144131F2E093FB1E441C737ACF92 SearchForTheManchurianCandidate.rtf]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Search for the Manchurian Candidate

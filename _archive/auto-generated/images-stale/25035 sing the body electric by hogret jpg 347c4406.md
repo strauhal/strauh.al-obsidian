@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
-- [[knowledge/wiki/images/Photograph Electric Scooters Submerged In Murky Water bb9d5933|Photograph Electric Scooters Submerged In Murky Water]] — shared language: electric
 - [[knowledge/wiki/images/Electric Avenue by Seth Armstrong 05bdf962|Electric Avenue by Seth Armstrong]] — shared language: electric
-- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: body
+- [[knowledge/wiki/images/Electric Scooters Submerged In Murky Water 71faf698|Electric Scooters Submerged In Murky Water]] — shared language: electric
+- [[_archive/auto-generated/images-stale/Photograph Electric Scooters Submerged In Murky Water bb9d5933|Photograph Electric Scooters Submerged In Murky Water]] — shared language: electric
 - [[_archive/auto-generated/images-stale/movements of the body fe7ea923|movements of the body]] — shared language: body
 <!-- vault-crosslinks:end -->

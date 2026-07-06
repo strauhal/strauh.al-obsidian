@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Person In Conical Hat Mending Green Fishing Nets 78909987|Photograph Person In Conical Hat Mending Green Fishing Nets]] — shared language: conical, hat, person
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 - [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: hat, person
 - [[knowledge/wiki/images/Illustration Abstract Painting of Figure Riding Horse and Pointing dbf31a5d|Illustration Abstract Painting of Figure Riding Horse and Pointing]] — shared language: riding
-- [[knowledge/wiki/images/Illustration Mural of Person in Traditional Attire Holding Corn 7de22128|Illustration Mural of Person in Traditional Attire Holding Corn]] — shared language: mural, person
+- [[knowledge/wiki/images/Illustration Geometric Mountain Landscape with a House and Conical Trees 38382882|Illustration Geometric Mountain Landscape with a House and Conical Trees]] — shared language: conical
 <!-- vault-crosslinks:end -->

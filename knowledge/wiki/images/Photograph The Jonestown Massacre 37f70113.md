@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - The
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Soldier Standing Amidst Bodies and Boat, Nanjing Massacre 9ce93290|Soldier Standing Amidst Bodies and Boat, Nanjing Massacre]] — shared language: massacre
 - [[knowledge/wiki/images/saint bartholomew s day massacre by francois dubois c 15721584 21534971|saint bartholomew s day massacre by francois dubois c 15721584]] — shared language: massacre
 - [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: massacre
-- [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

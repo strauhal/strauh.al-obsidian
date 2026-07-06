@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress, dress.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: green, digital
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
+- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: digital, green
 - [[knowledge/wiki/images/Illustration Woman in Green Dress, White Hat, and Striped Leggings 750aa17b|Illustration Woman in Green Dress, White Hat, and Striped Leggings]] — shared language: dress, green
-- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: green, digital
+- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: digital, green
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trenton doyle hancock 2019|Artist - trenton doyle hancock 2019]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a multi armed figure holding swords on a mound 39325d20|black and white ink drawing of a multi armed figure holding swords on a mound]] — shared language: mound
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
+- [[_archive/auto-generated/images-stale/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
 - [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: shadow
-- [[knowledge/wiki/images/Illustration Man in Hat Sitting on Bench in Shadow 1730a348|Illustration Man in Hat Sitting on Bench in Shadow]] — shared language: shadow
 <!-- vault-crosslinks:end -->

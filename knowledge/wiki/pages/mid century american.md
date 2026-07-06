@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/mid_century_american.html"
 source_relpath: "mid_century_american.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # mid century american
@@ -64,11 +64,11 @@ strauh.al/mid_century_american
 ## Discovered Connections
 
 - [[knowledge/wiki/images/a lady holding a flowering branch mid 17th century f10cbb46|a lady holding a flowering branch mid 17th century]] — shared language: mid, century
-- [[knowledge/wiki/images/Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet c2f9fc89|Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century
-- [[knowledge/wiki/images/Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions ab8f188f|Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: mid, century
+- [[knowledge/wiki/images/Mid Century Modern Living Room with Wood Paneling and Red Carpet ffdcfe7f|Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century
+- [[knowledge/wiki/images/Mid Century Modern Office Interior with Multiple Levels and Glass Partitions 62dd5fd9|Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: mid, century
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: american
 - [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century
-- [[knowledge/wiki/images/The American by Bo Bartlett (2016) 8e550ea6|The American by Bo Bartlett (2016)]] — shared language: american
 - [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: century
-- [[knowledge/wiki/images/American Landscape by Charles Sheeler (1930) 5ff20d76|American Landscape by Charles Sheeler (1930)]] — shared language: american
+- [[knowledge/wiki/images/The American by Bo Bartlett (2016) 8e550ea6|The American by Bo Bartlett (2016)]] — shared language: american
+- [[knowledge/wiki/images/blemmyes 15th century 5a4f467c|blemmyes 15th century]] — shared language: century
 <!-- vault-crosslinks:end -->

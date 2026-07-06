@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Tadeusz Pruszkowski|Artist - Tadeusz Pruszkowski]] — named in this note
 - [[_archive/auto-generated/images-stale/melancholia by tadeusz pruszkowski 7cc30255|melancholia by tadeusz pruszkowski]] — shared language: tadeusz, pruszkowski, melancholia
 - [[_archive/auto-generated/images-stale/pruszkowski melancholia jpg 3a5f7058|pruszkowski melancholia jpg]] — shared language: pruszkowski, melancholia
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tadanori yokoo 1975|Artist - tadanori yokoo 1975]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: phone
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: highway
 - [[knowledge/wiki/images/Illustration Collage of Dark, Surreal Digital Art and Performance Stills 3fe2f6ec|Illustration Collage of Dark, Surreal Digital Art and Performance Stills]] — shared language: surreal, collage
 - [[knowledge/wiki/images/Illustration Digital Illustration of a Face Overlaid with Urban Structures and Highway 6662e996|Illustration Digital Illustration of a Face Overlaid with Urban Structures and Highway]] — shared language: highway, face
+- [[knowledge/wiki/images/Illustration Surreal Collage of Masked and Headless Women by Water b86cea51|Illustration Surreal Collage of Masked and Headless Women by Water]] — shared language: surreal, collage
 <!-- vault-crosslinks:end -->

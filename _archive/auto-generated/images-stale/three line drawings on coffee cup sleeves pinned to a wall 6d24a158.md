@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Three Line Drawings on Coffee Cup Sleeves Pinned to Wall 74e9092a|Photograph Three Line Drawings on Coffee Cup Sleeves Pinned to Wall]] — shared language: sleeves, pinned, cup
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
-- [[knowledge/wiki/images/Photograph Coffee Cup With Man's Face On Foam 0aa17151|Photograph Coffee Cup With Man's Face On Foam]] — shared language: cup, coffee
+- [[knowledge/wiki/images/Coffee Cup With Man's Face On Foam 735d29f4|Coffee Cup With Man's Face On Foam]] — shared language: cup, coffee
+- [[_archive/auto-generated/images-stale/Photograph Coffee Cup With Man's Face On Foam 0aa17151|Photograph Coffee Cup With Man's Face On Foam]] — shared language: cup, coffee
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
-- [[knowledge/wiki/images/Photograph Art Studies Pinned to a Board 8f314dba|Photograph Art Studies Pinned to a Board]] — shared language: pinned
 <!-- vault-crosslinks:end -->

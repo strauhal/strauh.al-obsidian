@@ -58,8 +58,8 @@ landscape as a study of held atmosphere and empty space, not a record of place.
 - [[knowledge/wiki/images/empty 42051b21|empty]] — named in this note
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink, elegance, spontaneity
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: space, web, spatial
-- [[knowledge/wiki/collections/Collection - artists|Collection - artists]] — shared language: hasui, kawase, rain
+- [[knowledge/wiki/collections/Collection - artists|Collection - artists]] — shared language: hasui, kawase, evening
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Landscape with a Path 593f0069|Illustration Black and White Ink Drawing of a Landscape with a Path]] — shared language: ink, landscape
-- [[knowledge/wiki/pages/ukiyo e|ukiyo e]] — shared language: hasui, kawase, rain
 - [[knowledge/wiki/images/49 1 front 1 3f06754e|49 1 front 1]] — shared language: kawase, husui
+- [[knowledge/wiki/images/90 0add3cc5|90]] — shared language: kawase, husui
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/christen dalsgaard two girls at a boat pier 1859 bc3086d0|christen dalsgaard two girls at a boat pier 1859]] — shared language: pier
-- [[knowledge/wiki/images/Photograph Two Men Flanking Figure in White Futuristic Armored Suit 6435c521|Photograph Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: suit, men
+- [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: pier
+- [[knowledge/wiki/images/Two Men Flanking Figure in White Futuristic Armored Suit f89345e1|Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: suit, men
 - [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — shared language: swimming
 - [[knowledge/wiki/images/Nymphs Bathing by Fernand Le Quesne (1890) 4625559c|Nymphs Bathing by Fernand Le Quesne (1890)]] — shared language: bathing
-- [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: pier
 <!-- vault-crosslinks:end -->

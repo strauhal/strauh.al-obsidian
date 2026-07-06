@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Man in Red Robe Holding Wavy Dagger 9fd98f3f|Illustration Man in Red Robe Holding Wavy Dagger]] — shared language: robe, holding
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: hat, cat, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/Photograph Woman In Red Robe And Man In Black Jacket Sitting Together dd2fe6ec|Photograph Woman In Red Robe And Man In Black Jacket Sitting Together]] — shared language: robe
+- [[knowledge/wiki/images/Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 616ecd4e|Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: hat, cat, holding
+- [[knowledge/wiki/images/Woman In Red Robe And Man In Black Jacket Sitting Together fc17558d|Woman In Red Robe And Man In Black Jacket Sitting Together]] — shared language: robe
 - [[knowledge/wiki/images/Illustration Seated Young Man in Pink Shirt Holding Hat cfaa5ae8|Illustration Seated Young Man in Pink Shirt Holding Hat]] — shared language: hat, holding
 <!-- vault-crosslinks:end -->

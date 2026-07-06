@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/red_and_pink_hig
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high
-- [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: contrast, high
+- [[knowledge/wiki/images/High Contrast Black And White Close Up Of Face With Flowing Hair e38a9631|High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high
 - [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: flyer
+- [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: contrast, high
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
-- [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: high
+- [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: promotional
 <!-- vault-crosslinks:end -->

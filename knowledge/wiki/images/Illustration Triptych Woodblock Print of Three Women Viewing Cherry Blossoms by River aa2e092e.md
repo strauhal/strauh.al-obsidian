@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/images/Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms 7f454778|Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms]] — shared language: blossoms, river
 - [[knowledge/wiki/images/Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon fb0259f1|Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon]] — shared language: woodblock, print
 - [[knowledge/wiki/images/Illustration Black and White Woodblock Print of a Lungta Wind Horse Prayer Flag c22bf112|Illustration Black and White Woodblock Print of a Lungta Wind Horse Prayer Flag]] — shared language: woodblock, print
-- [[knowledge/wiki/images/Photograph Person Viewing Framed Photograph In Gallery 38eb2c8f|Photograph Person Viewing Framed Photograph In Gallery]] — shared language: viewing
+- [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: viewing
 <!-- vault-crosslinks:end -->

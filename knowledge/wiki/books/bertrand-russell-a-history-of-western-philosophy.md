@@ -9,8 +9,8 @@ metadata: curated
 aliases: [History Of Western Philosophy]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/History Of Western Philosophy.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # A History of Western Philosophy

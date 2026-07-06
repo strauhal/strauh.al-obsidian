@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Crowded Street Scene in Paris with Flags Overhead 45a314fc|Photograph Crowded Street Scene in Paris with Flags Overhead]] — shared language: flags, overhead, crowded
+- [[knowledge/wiki/images/Crowded Street Scene in Paris with Flags Overhead e0aef96a|Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, flags, overhead
+- [[_archive/auto-generated/images-stale/Photograph Crowded Street Scene in Paris with Flags Overhead 45a314fc|Photograph Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, flags, overhead
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
-- [[knowledge/wiki/images/Photograph Busy City Street with Prudential Building and Flags 7e8f21b4|Photograph Busy City Street with Prudential Building and Flags]] — shared language: flags, street
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Building with Flags and Street Lamps eaf406d2|Photograph Grand Neoclassical Building with Flags and Street Lamps]] — shared language: flags, street
 - [[_archive/auto-generated/images-stale/black and white photograph of a crowded lagoon area in front of neoclassical exhibition halls flying flags 8e76b07f|black and white photograph of a crowded lagoon area in front of neoclassical exhibition halls flying flags]] — shared language: crowded, flags
 <!-- vault-crosslinks:end -->

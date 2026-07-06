@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Timbre as a Structural Device in Compositions.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Timbre as a Structural Device in Compositions
@@ -43,6 +43,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — same category: music sound
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — same category: music sound
 - [[knowledge/wiki/books/tim-hecker-tim-hecker-thesis|Tim Hecker — Thesis]] — same category: music sound
-- [[knowledge/wiki/books/imslp768707-pmlp3267-j-s-bach-15-inventions-contrapunctus-press|15 Inventions - Contrapunctus Press]] — same category: music sound
 - [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — same category: music sound
+- [[knowledge/wiki/books/imslp768707-pmlp3267-j-s-bach-15-inventions-contrapunctus-press|15 Inventions - Contrapunctus Press]] — same category: music sound
 <!-- vault-crosslinks:end -->

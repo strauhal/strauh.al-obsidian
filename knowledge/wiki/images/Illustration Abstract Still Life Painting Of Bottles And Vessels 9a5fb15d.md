@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Still Life Painting of Bottles and a Bowl 816df707|Illustration Still Life Painting of Bottles and a Bowl]] — shared language: bottles, still, life
 - [[knowledge/wiki/images/Illustration Pixel Art Still Life with Two Blue Bottles and Red Apple 16ac9f51|Illustration Pixel Art Still Life with Two Blue Bottles and Red Apple]] — shared language: bottles, still, life
 - [[knowledge/wiki/images/Illustration Colorful Still Life Sketch of Bottles and Glasses 4e13e3f4|Illustration Colorful Still Life Sketch of Bottles and Glasses]] — shared language: bottles, still, life
-- [[knowledge/wiki/images/still life with bottles by stuart davis 1948 829b332f|still life with bottles by stuart davis 1948]] — shared language: bottles, still, life
+- [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: vessels, still, life
 <!-- vault-crosslinks:end -->

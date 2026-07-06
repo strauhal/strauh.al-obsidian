@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dystopian, ink, comic
 - [[knowledge/wiki/images/Comic Multi Panel Comic Page of Figures in a Desolate Forest 6901bede|Comic Multi Panel Comic Page of Figures in a Desolate Forest]] — shared language: multi, comic, panel
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: comic, panel, ink
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel
 - [[knowledge/wiki/images/Illustration Multi Panel Painting with Symbolic Figures and Text 949a6c9c|Illustration Multi Panel Painting with Symbolic Figures and Text]] — shared language: multi, panel
+- [[knowledge/wiki/images/Comic Black And White Comic Panel Of Young Woman In Dark Uniform b99f0bee|Comic Black And White Comic Panel Of Young Woman In Dark Uniform]] — shared language: comic, panel
 <!-- vault-crosslinks:end -->

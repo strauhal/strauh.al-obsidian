@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene, comic
 - [[knowledge/wiki/artists/Artist - eduardo paolozzi|Artist - eduardo paolozzi]] — shared language: eduardo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - eduardo paolozzi 1971|Artist - eduardo paolozzi 1971]] — shared language: eduardo
-- [[knowledge/wiki/images/Comic Black and White Comic Page of Noir Street Confrontation 05943c8b|Comic Black and White Comic Page of Noir Street Confrontation]] — shared language: noir, comic, street
+- [[knowledge/wiki/images/Comic Black and White Comic Page of Noir Street Confrontation 05943c8b|Comic Black and White Comic Page of Noir Street Confrontation]] — shared language: noir, comic, page
 - [[knowledge/wiki/images/forever for old lady sally by eduardo paolozzi 1971 19c9df63|forever for old lady sally by eduardo paolozzi 1971]] — shared language: eduardo
 - [[knowledge/wiki/images/Peine del Viento XV by Eduardo Chillida (1976) db3fe765|Peine del Viento XV by Eduardo Chillida (1976)]] — shared language: eduardo
-- [[_archive/auto-generated/images-stale/black and white comic book page original art depicting a chaotic scene of falling figures and debris 5a47d303|black and white comic book page original art depicting a chaotic scene of falling figures and debris]] — shared language: depicting, scene, comic
 <!-- vault-crosslinks:end -->

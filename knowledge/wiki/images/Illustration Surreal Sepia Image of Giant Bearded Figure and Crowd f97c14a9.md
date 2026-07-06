@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: giant
 - [[knowledge/wiki/images/Illustration Black Ink Sketch of a Bearded Man with Glasses 608e2426|Illustration Black Ink Sketch of a Bearded Man with Glasses]] — shared language: bearded
-- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: surreal
 <!-- vault-crosslinks:end -->

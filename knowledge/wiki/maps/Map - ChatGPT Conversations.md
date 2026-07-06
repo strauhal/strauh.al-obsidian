@@ -19,7 +19,7 @@ Awaiting a ChatGPT account export. This note will become the chronological conve
 - [[knowledge/wiki/chatgpt/Memory Candidates|ChatGPT Memory Candidates]] — shared language: chatgpt, awaiting, export
 - [[knowledge/wiki/maps/chatgpt suicide.rtfd|chatgpt suicide.rtfd]] — shared language: chatgpt, import
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: chatgpt
-- [[knowledge/wiki/images/Photograph Three Robed Figures Protesting ChatGPT at a Convention 05fd4a1c|Photograph Three Robed Figures Protesting ChatGPT at a Convention]] — shared language: chatgpt
+- [[knowledge/wiki/images/Three Robed Figures Protesting ChatGPT at a Convention fc1d1fc1|Three Robed Figures Protesting ChatGPT at a Convention]] — shared language: chatgpt
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: become
 - [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: chatgpt
 <!-- vault-crosslinks:end -->

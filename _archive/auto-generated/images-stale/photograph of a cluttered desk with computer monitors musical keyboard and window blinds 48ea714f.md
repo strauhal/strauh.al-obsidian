@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds 0dd692f8|Photograph Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds]] — shared language: monitors, blinds, keyboard
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, desk, computer
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, desk, computer
-- [[knowledge/wiki/images/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
+- [[knowledge/wiki/images/Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds a0f97a60|Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds]] — shared language: monitors, blinds, keyboard
+- [[_archive/auto-generated/images-stale/Photograph Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds 0dd692f8|Photograph Cluttered Desk with Computer Monitors, Musical Keyboard, and Window Blinds]] — shared language: monitors, blinds, keyboard
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk, keyboard
+- [[_archive/auto-generated/images-stale/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, desk, computer
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, desk, computer
 <!-- vault-crosslinks:end -->

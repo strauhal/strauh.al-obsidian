@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Red Haired Woman With Tattoo In Water Looking Up f67df98c|Illustration Red Haired Woman With Tattoo In Water Looking Up]] — shared language: haired, looking, red-haired
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently df08ba96|Illustration Line Drawing Of Person With Glasses Holding Clipboard, Looking Intently]] — shared language: glasses, looking
-- [[knowledge/wiki/images/Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot 19f4c96c|Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot]] — shared language: glasses, haired, red-haired
+- [[knowledge/wiki/images/Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot 19f4c96c|Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot]] — shared language: haired, glasses, red-haired
 <!-- vault-crosslinks:end -->

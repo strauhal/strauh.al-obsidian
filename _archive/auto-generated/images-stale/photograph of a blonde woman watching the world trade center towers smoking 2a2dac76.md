@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: towers, watching, trade
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers During 9 11 Attacks ba7bdc7d|Photograph Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: towers, watching, trade
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: watching, towers, trade
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: watching, towers, trade
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers During 9 11 Attacks ba7bdc7d|Photograph Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: watching, towers, trade
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers During 9 11 Attacks 075517fe|Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: watching, towers, trade
 - [[_archive/auto-generated/images-stale/photograph of the world trade center towers smoking behind the woolworth building 02795743|photograph of the world trade center towers smoking behind the woolworth building]] — shared language: towers, trade, center
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Smoking Behind Woolworth Building 68892cef|Photograph World Trade Center Towers Smoking Behind Woolworth Building]] — shared language: towers, trade, center
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: towers, trade, center
 <!-- vault-crosslinks:end -->

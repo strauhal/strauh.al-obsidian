@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, pixel
 - [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: john
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[knowledge/wiki/images/Illustration Pixelated Knight in Retro Computer Window 057d6713|Illustration Pixelated Knight in Retro Computer Window]] — shared language: knight, window, computer
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
+- [[knowledge/wiki/images/Illustration Pixelated Knight in Retro Computer Window 057d6713|Illustration Pixelated Knight in Retro Computer Window]] — shared language: knight, window, computer
 <!-- vault-crosslinks:end -->

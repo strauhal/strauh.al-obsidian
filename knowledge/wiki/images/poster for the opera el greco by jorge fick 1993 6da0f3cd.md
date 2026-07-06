@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/poster_for_the_o
 - [[knowledge/wiki/images/The Burial of the Count of Orgaz by El Greco (1586 1588) bc203003|The Burial of the Count of Orgaz by El Greco (1586 1588)]] — shared language: greco
 - [[knowledge/wiki/images/snow leopard poster for the minnesota opera new music theater ensemble by thien keel 1989 c2866e9c|snow leopard poster for the minnesota opera new music theater ensemble by thien keel 1989]] — shared language: opera, poster
 - [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — shared language: poster
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
+- [[knowledge/wiki/images/Black Trash Can In Front Of Rainbow Poster In Library c7edb02d|Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: poster
 <!-- vault-crosslinks:end -->

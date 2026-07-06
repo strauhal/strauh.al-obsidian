@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black Canvas with Swirling White Dashes 76f7ae58|Illustration Black Canvas with Swirling White Dashes]] — shared language: dashes
 - [[knowledge/wiki/images/1947 112 a turn in the road jpg b2b94a86|1947 112 a turn in the road jpg]] — shared language: road
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
-- [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: road
 - [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: road
+- [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: road
 <!-- vault-crosslinks:end -->

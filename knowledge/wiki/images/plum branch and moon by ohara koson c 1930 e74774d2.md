@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/plum_branch_and_
 - [[knowledge/wiki/images/Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon fb0259f1|Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon]] — shared language: branch, moon
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
-- [[knowledge/wiki/images/Photograph White Cat Perched on Tree Branch with Fruit 1c3251f2|Photograph White Cat Perched on Tree Branch with Fruit]] — shared language: branch
+- [[knowledge/wiki/images/White Cat Perched on Tree Branch with Fruit cb7e5668|White Cat Perched on Tree Branch with Fruit]] — shared language: branch
 <!-- vault-crosslinks:end -->

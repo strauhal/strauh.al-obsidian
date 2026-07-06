@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Long Hallway With Orange And White Geometric Wall Panels f0b2a7d9|Photograph Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway, long
+- [[knowledge/wiki/images/Long Hallway With Orange And White Geometric Wall Panels 26467d69|Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway, long
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: strong
 - [[knowledge/wiki/images/Illustration Stylized Figures In Room With Arched Window c94eecb8|Illustration Stylized Figures In Room With Arched Window]] — shared language: arched
-- [[knowledge/wiki/images/Photograph Modern Minimalist Hallway with Mailboxes and Glass Door 675742f7|Photograph Modern Minimalist Hallway with Mailboxes and Glass Door]] — shared language: hallway
 - [[knowledge/wiki/images/Illustration Pixel Art Of Figure In Tunnel And Arched View ae9c36ff|Illustration Pixel Art Of Figure In Tunnel And Arched View]] — shared language: arched
+- [[knowledge/wiki/images/Screenshot MI6 Underground Headquarters in a Large Arched Space 8d7ec53c|Screenshot MI6 Underground Headquarters in a Large Arched Space]] — shared language: arched
 <!-- vault-crosslinks:end -->

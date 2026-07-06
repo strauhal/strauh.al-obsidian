@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/two_figures_by_f
 - [[knowledge/wiki/images/two figures in a room by francis bacon 1968 6576d12e|two figures in a room by francis bacon 1968]] — same artist: francis bacon
 - [[knowledge/wiki/images/study for a portrait by francis bacon 1979 59dd3b0f|study for a portrait by francis bacon 1979]] — same artist: francis bacon
 - [[knowledge/wiki/images/self portrait by francis bacon 1973 9cfc4c9c|self portrait by francis bacon 1973]] — same artist: francis bacon
-- [[knowledge/wiki/images/reclining figure by francis bacon 1963 22aa8d41|reclining figure by francis bacon 1963]] — same artist: francis bacon
 - [[knowledge/wiki/images/dog by francis bacon 1952 b3d1e96a|dog by francis bacon 1952]] — same artist: francis bacon
+- [[knowledge/wiki/images/reclining figure by francis bacon 1963 22aa8d41|reclining figure by francis bacon 1963]] — same artist: francis bacon
 <!-- vault-crosslinks:end -->

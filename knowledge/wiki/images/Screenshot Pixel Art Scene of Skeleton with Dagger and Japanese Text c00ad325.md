@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Pix
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Screenshot Computer Screenshot Displaying Paris Landmarks, Maps, and Japanese Text 0af85f33|Screenshot Computer Screenshot Displaying Paris Landmarks, Maps, and Japanese Text]] — shared language: japanese, screenshot, text
 - [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: pixel, screenshot
-- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: screenshot, text
+- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: screenshot, text, text.png
 <!-- vault-crosslinks:end -->

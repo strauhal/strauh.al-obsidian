@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Painting of a Couple Dancing Folklorico in Front of a Yellow Cathedral d83874e0|Illustration Painting of a Couple Dancing Folklorico in Front of a Yellow Cathedral]] — named in this note
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/images/Photograph Cologne Cathedral 7aed0b7d|Photograph Cologne Cathedral]] — shared language: cathedral, cathedral.jpeg
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
 - [[_archive/auto-generated/images-stale/expressionistic painting of two figures dancing against a red background with yellow lights 39376a24|expressionistic painting of two figures dancing against a red background with yellow lights]] — shared language: dancing, yellow

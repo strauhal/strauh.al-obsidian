@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings e2b4dce0|Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings]] — shared language: gondolas, canal
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition
 - [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: canal
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition 31303f2f|Photograph World's Columbian Exposition]] — shared language: exposition, exposition.jpg
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: canal
+- [[knowledge/wiki/images/Photograph Black and White Photograph of World's Columbian Exposition, 1893 5eedd249|Photograph Black and White Photograph of World's Columbian Exposition, 1893]] — shared language: exposition
 <!-- vault-crosslinks:end -->

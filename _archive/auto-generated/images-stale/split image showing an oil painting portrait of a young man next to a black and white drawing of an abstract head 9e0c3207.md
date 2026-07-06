@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young, oil
+- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: oil, young
 - [[knowledge/wiki/images/Illustration Abstract Head with Split Face, One Side Wireframe, Red Eye 5c50b8e5|Illustration Abstract Head with Split Face, One Side Wireframe, Red Eye]] — shared language: split, head
-- [[_archive/auto-generated/images-stale/four panel drawing showing figures split between flesh tone and red musculature by ji jianye 2004 b09b8f1d|four panel drawing showing figures split between flesh tone and red musculature by ji jianye 2004]] — shared language: split, showing
 - [[_archive/auto-generated/images-stale/oil painting of a valencia club building and cars under a split day night sky e12fa690|oil painting of a valencia club building and cars under a split day night sky]] — shared language: split, oil
-- [[knowledge/wiki/images/Illustration Twelve Pencil Sketches of a Young Girl's Head f335092b|Illustration Twelve Pencil Sketches of a Young Girl's Head]] — shared language: young, head, head.jpg
+- [[_archive/auto-generated/images-stale/four panel drawing showing figures split between flesh tone and red musculature by ji jianye 2004 b09b8f1d|four panel drawing showing figures split between flesh tone and red musculature by ji jianye 2004]] — shared language: split, showing
+- [[_archive/auto-generated/images-stale/digital visualization of orange and yellow lines on a dark blue background split horizontally 759de7db|digital visualization of orange and yellow lines on a dark blue background split horizontally]] — shared language: split
 <!-- vault-crosslinks:end -->

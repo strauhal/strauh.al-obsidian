@@ -32,5 +32,5 @@ The Great Bear asterism forms a recognizable plow shape.
 - [[knowledge/wiki/images/Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape e3d47bf2|Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape]] — shared language: shape, animal
 - [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: shape
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stars|Artist - Stars]] — shared language: stars
-- [[knowledge/wiki/images/Illustration Abstract Painting With Colorful Shapes, Stars, And Curvilinear Forms 5c15b490|Illustration Abstract Painting With Colorful Shapes, Stars, And Curvilinear Forms]] — shared language: stars, forms
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars
 <!-- vault-crosslinks:end -->

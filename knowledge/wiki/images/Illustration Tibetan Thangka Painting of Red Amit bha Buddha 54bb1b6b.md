@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha
-- [[knowledge/wiki/images/Illustration Seated Buddha on Lotus Throne with Tibetan Script d836495a|Illustration Seated Buddha on Lotus Throne with Tibetan Script]] — shared language: tibetan, buddha
 - [[knowledge/wiki/images/Illustration Colorful Thangka Style Painting of Seated Buddha on Lotus Throne with Script 87256af3|Illustration Colorful Thangka Style Painting of Seated Buddha on Lotus Throne with Script]] — shared language: thangka, buddha
+- [[knowledge/wiki/images/Illustration Seated Buddha on Lotus Throne with Tibetan Script d836495a|Illustration Seated Buddha on Lotus Throne with Tibetan Script]] — shared language: tibetan, buddha
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: tibetan
 - [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: tibetan
 <!-- vault-crosslinks:end -->

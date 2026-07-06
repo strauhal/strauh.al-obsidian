@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/joseph clement coll fu manchu jpg 80546373|joseph clement coll fu manchu jpg]] — shared language: coll, jpg.jpg
-- [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — shared language: story
 - [[_archive/auto-generated/images-stale/coll king of the khybor rifles jpg 16c5fa84|coll king of the khybor rifles jpg]] — shared language: coll, jpg.jpg
+- [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — shared language: story
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art-phaidon|The Story of Art-Phaidon]] — shared language: story
 - [[knowledge/wiki/artists/Artist - julian story|Artist - julian story]] — shared language: story
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window c510f766|Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window]] — shared language: sink, kitchen, sunset
 - [[knowledge/wiki/images/The Cat and the Kitchen Sink by David Hockney (1990) b7991454|The Cat and the Kitchen Sink by David Hockney (1990)]] — shared language: sink, kitchen
-- [[knowledge/wiki/images/Photograph Modern Kitchen Interior with Panoramic Window View 560b9ad4|Photograph Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen, window
-- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: sunset, window
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
+- [[_archive/auto-generated/images-stale/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: sunset, window
+- [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: sunset, window
+- [[knowledge/wiki/images/Modern Kitchen Interior with Panoramic Window View 2b45032c|Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen, window
 <!-- vault-crosslinks:end -->

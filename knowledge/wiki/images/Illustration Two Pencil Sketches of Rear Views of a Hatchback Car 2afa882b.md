@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Marker And Ink Drawing Of A Grey Hatchback Car 8c5bc718|Illustration Marker And Ink Drawing Of A Grey Hatchback Car]] — shared language: hatchback, car, car.jpg
-- [[knowledge/wiki/images/Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights 8c903117|Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights]] — shared language: rear, car
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views 746ece0d|Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views]] — shared language: rear, views
-- [[knowledge/wiki/images/Photograph Rear View of Black Honda Saloon Concept Car 5057eede|Photograph Rear View of Black Honda Saloon Concept Car]] — shared language: rear, car
+- [[knowledge/wiki/images/Illustration Four Pencil Sketches of a Cartoon Skunk Character 5af40d26|Illustration Four Pencil Sketches of a Cartoon Skunk Character]] — shared language: sketches, pencil
+- [[knowledge/wiki/images/Illustration Pencil Sketches of Figures in Military Uniforms 1bffd224|Illustration Pencil Sketches of Figures in Military Uniforms]] — shared language: sketches, pencil
 <!-- vault-crosslinks:end -->

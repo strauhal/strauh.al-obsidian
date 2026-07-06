@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/line drawing of a woman s bust in profile on toned paper 85880982|line drawing of a woman s bust in profile on toned paper]] — shared language: toned, paper, paper.jpeg
 - [[knowledge/wiki/images/Illustration Celestial Battle Scene with Armored Angels and Joan of Arc c62cd93a|Illustration Celestial Battle Scene with Armored Angels and Joan of Arc]] — shared language: celestial, battle
 - [[_archive/auto-generated/images-stale/pencil sketch of a sleeping figure with long flowing hair on toned paper 81b3db7c|pencil sketch of a sleeping figure with long flowing hair on toned paper]] — shared language: toned, paper, paper.jpeg
-- [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
+- [[knowledge/wiki/images/black and white pixel art of three celestial bodies in space 1989 8cb058d7|black and white pixel art of three celestial bodies in space 1989]] — shared language: celestial
 <!-- vault-crosslinks:end -->

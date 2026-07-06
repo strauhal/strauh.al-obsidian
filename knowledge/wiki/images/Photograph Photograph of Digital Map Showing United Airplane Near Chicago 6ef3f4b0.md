@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: chicago
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
 - [[knowledge/wiki/artists/Artist - County In The United States|Artist - County In The United States]] — shared language: united
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
-- [[knowledge/wiki/images/Diagram Colorful Map of Chicago Neighborhoods a376e21d|Diagram Colorful Map of Chicago Neighborhoods]] — shared language: chicago
+- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: chicago
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
 <!-- vault-crosslinks:end -->

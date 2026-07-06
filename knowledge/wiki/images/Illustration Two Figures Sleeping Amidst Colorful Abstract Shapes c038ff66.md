@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: colorful, shapes, shapes.jpeg
-- [[knowledge/wiki/images/Illustration Painting of a Sleeping Figure Under a Floral Blanket f9d7b0fb|Illustration Painting of a Sleeping Figure Under a Floral Blanket]] — shared language: sleeping
+- [[knowledge/wiki/images/Yellow Circle Amidst Scattered Dark Shapes on Grey Background 78560b83|Yellow Circle Amidst Scattered Dark Shapes on Grey Background]] — shared language: amidst, shapes
 <!-- vault-crosslinks:end -->

@@ -23,5 +23,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Luigi Mangione's Arrest 4b9bcd4c|Photograph Luigi Mangione's Arrest]] — shared language: luigi
 - [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: luigi
 - [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: luigi
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — shared language: luigi
 - [[knowledge/wiki/images/Illustration Chinese Ink Painting of Red and Yellow Peonies with Bees 9c396685|Illustration Chinese Ink Painting of Red and Yellow Peonies with Bees]] — shared language: peonies
 <!-- vault-crosslinks:end -->

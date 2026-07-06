@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Charcoal and Pastel Drawing of a Young Woman bc68a6f2|Illustration Charcoal and Pastel Drawing of a Young Woman]] — shared language: pastel
 - [[_archive/auto-generated/images-stale/abstract painting of dense orange marks on black background d88acdef|abstract painting of dense orange marks on black background]] — shared language: marks
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: marks
+- [[_archive/auto-generated/images-stale/colorful abstract field drawing with small black marks e669e973|colorful abstract field drawing with small black marks]] — shared language: marks
 - [[_archive/auto-generated/images-stale/abstract painting with black spray marks on light background 3a0b1f35|abstract painting with black spray marks on light background]] — shared language: marks
-- [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: marks
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Two Figures in Canoe on Sparkling Water at Sunset c92619ad|Photograph Two Figures in Canoe on Sparkling Water at Sunset]] — shared language: canoe, sparkling, sunset
-- [[knowledge/wiki/images/Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 0f3fd889|Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: sparkling, water
-- [[knowledge/wiki/images/Photograph Red Sony Sparkling Recordable MiniDisc 11320401|Photograph Red Sony Sparkling Recordable MiniDisc]] — shared language: sparkling
-- [[_archive/auto-generated/images-stale/painting of a sunset over water with a small island and palm trees ff517eb0|painting of a sunset over water with a small island and palm trees]] — shared language: sunset, water
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
+- [[_archive/auto-generated/images-stale/Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 0f3fd889|Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: sparkling, water
+- [[knowledge/wiki/images/Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 65bb120f|Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: sparkling, water
+- [[_archive/auto-generated/images-stale/Photograph Red Sony Sparkling Recordable MiniDisc 11320401|Photograph Red Sony Sparkling Recordable MiniDisc]] — shared language: sparkling
+- [[knowledge/wiki/images/Red Sony Sparkling Recordable MiniDisc 1e6daece|Red Sony Sparkling Recordable MiniDisc]] — shared language: sparkling
 <!-- vault-crosslinks:end -->

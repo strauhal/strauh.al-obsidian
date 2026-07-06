@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Meditation by Seo Young Deok 1abd15ee|Meditation by Seo Young Deok]] — same artist: seo young deok
+- [[knowledge/wiki/artists/Artist - Seo Young Deok|Artist - Seo Young Deok]] — named in this note
 - [[knowledge/wiki/images/the meditation by moebius 1979 5920a0cc|the meditation by moebius 1979]] — shared language: meditation
 - [[knowledge/wiki/images/St Francis in Meditation by Lodovico Carracci (c. 1585) 21c8a9d3|St Francis in Meditation by Lodovico Carracci (c. 1585)]] — shared language: meditation
 - [[knowledge/wiki/images/The Philosopher in Meditation by Rembrandt van Rijn (c. 1632) 06f5186c|The Philosopher in Meditation by Rembrandt van Rijn (c. 1632)]] — shared language: meditation
-- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug|Artist - young thug]] — shared language: young
 <!-- vault-crosslinks:end -->

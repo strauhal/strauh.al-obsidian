@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — named in this note
 - [[knowledge/wiki/images/Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton 89f862ef|Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton]] — same artist: greg overton
 - [[knowledge/archive/auto-generated/artists-stale/Artist - greg cagle|Artist - greg cagle]] — shared language: greg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - greg cagle 2018|Artist - greg cagle 2018]] — shared language: greg
 - [[knowledge/wiki/artists/Artist - Greg Girard|Artist - Greg Girard]] — shared language: greg
-- [[_archive/auto-generated/images-stale/the centaur by greg cagle 2018 11b911ef|the centaur by greg cagle 2018]] — shared language: greg
 <!-- vault-crosslinks:end -->

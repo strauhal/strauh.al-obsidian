@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: family
 - [[knowledge/wiki/images/Photograph Older Person Looking at Laptop Displaying Family Photos d4ecd53e|Photograph Older Person Looking at Laptop Displaying Family Photos]] — shared language: family, looking
 - [[knowledge/wiki/images/the dragon s bride by michael whelan 1980 1480faff|the dragon s bride by michael whelan 1980]] — shared language: bride
-- [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: looking
+- [[knowledge/wiki/images/The Marriage Register by Edmund Blair Leighton (1899) b15ee963|The Marriage Register by Edmund Blair Leighton (1899)]] — shared language: register
+- [[knowledge/wiki/images/Illustration The Bride and The Lindorm by Henry Justice Ford f6e7d556|Illustration The Bride and The Lindorm by Henry Justice Ford]] — shared language: bride
 <!-- vault-crosslinks:end -->

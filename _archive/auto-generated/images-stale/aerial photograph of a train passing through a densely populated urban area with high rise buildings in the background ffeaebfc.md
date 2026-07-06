@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: populated, passing, densely
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: populated, urban, densely
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, aerial, buildings
 - [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: populated, densely, aerial
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: area, urban, aerial

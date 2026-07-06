@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: lines, background, background.png
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: screenshot, background, background.png
+- [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: lines, background, background.png
 - [[knowledge/wiki/images/Illustration Abstract Digital Shapes and Lines on Pink Background 40cd0107|Illustration Abstract Digital Shapes and Lines on Pink Background]] — shared language: lines, background, background.png
 - [[knowledge/wiki/images/Illustration Abstract Wavy Black Lines On Grey Background cd77ee55|Illustration Abstract Wavy Black Lines On Grey Background]] — shared language: lines, background, background.png
 - [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: lines, background

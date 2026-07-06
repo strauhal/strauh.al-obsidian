@@ -7,8 +7,8 @@ status: queued
 queue_order: 33
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Taxi Driver
@@ -33,8 +33,8 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/images/Screenshot Taxi Driver by Martin Scorsese 99d24767|Screenshot Taxi Driver by Martin Scorsese]] — shared language: taxi, driver, scorsese
 - [[knowledge/wiki/culture/movie-trainspotting|Watchlist - Trainspotting]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-koyaanisqatsi|Watchlist - Koyaanisqatsi]] — shared language: watchlist, film, current
-- [[knowledge/wiki/artists/Artist - Martin Scorsese|Artist - Martin Scorsese]] — shared language: scorsese, taxi, driver
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current
+- [[knowledge/wiki/artists/Artist - Martin Scorsese|Artist - Martin Scorsese]] — shared language: scorsese, taxi, driver
 - [[knowledge/wiki/culture/movie-edward-scissorhands|Watchlist - Edward Scissorhands]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-akira|Watchlist - Akira]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-crumb|Watchlist - Crumb]] — shared language: watchlist, film, current

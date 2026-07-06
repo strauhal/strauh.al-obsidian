@@ -29,6 +29,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/erik_werenskiold
 
 - [[knowledge/wiki/artists/Artist - Erik|Artist - Erik]] — shared language: erik
 - [[knowledge/wiki/images/The Library by Erik Desmazi res (1984) bceff546|The Library by Erik Desmazi res (1984)]] — shared language: erik
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: funeral
 - [[knowledge/wiki/images/Illustration Impasto Painting of Speed Racer's Mach 5 and a Black Car by Erik 83e09d53|Illustration Impasto Painting of Speed Racer's Mach 5 and a Black Car by Erik]] — shared language: erik
+- [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — shared language: funeral
 <!-- vault-crosslinks:end -->

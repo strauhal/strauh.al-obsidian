@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — named in this note
-- [[knowledge/wiki/images/Photograph Motion Blurred Black And White Photo Of A Reclining Figure 379120c5|Photograph Motion Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred, motion, reclining
-- [[knowledge/wiki/images/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred, reclining, photo
-- [[_archive/auto-generated/images-stale/black and white motion blur photo of a dancer 033719db|black and white motion blur photo of a dancer]] — shared language: motion, photo
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: motion
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — named in this note
+- [[knowledge/wiki/images/Motion Blurred Black And White Photo Of A Reclining Figure fbbb186f|Motion Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred, motion, reclining
+- [[_archive/auto-generated/images-stale/Photograph Motion Blurred Black And White Photo Of A Reclining Figure 379120c5|Photograph Motion Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred, motion, reclining
+- [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — shared language: blurred, reclining, photo
+- [[_archive/auto-generated/images-stale/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred, reclining, photo
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot 19f4c96c|Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot]] — shared language: haired, vintage, desk
+- [[knowledge/wiki/images/Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot 19f4c96c|Illustration Red Haired Girl With Glasses At Vintage Computer Desk by pepe salot]] — shared language: haired, vintage, glasses
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
-- [[knowledge/wiki/artists/Artist - pepe salot|Artist - pepe salot]] — shared language: haired, vintage, desk
-- [[_archive/auto-generated/images-stale/black and white pixel art of a man and a cat at a computer desk fec6ea12|black and white pixel art of a man and a cat at a computer desk]] — shared language: desk, computer, desk.png
+- [[knowledge/wiki/artists/Artist - pepe salot|Artist - pepe salot]] — shared language: haired, vintage, glasses
+- [[knowledge/wiki/images/Illustration Portrait of a Red Haired Woman With Glasses Looking Over Shoulder 09e58a6d|Illustration Portrait of a Red Haired Woman With Glasses Looking Over Shoulder]] — shared language: haired, glasses
 <!-- vault-crosslinks:end -->

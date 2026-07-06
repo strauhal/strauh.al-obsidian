@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Sergei Rachmaninoff in a Formal Portrait 4f13cb68|Photograph Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: sergei
+- [[_archive/auto-generated/images-stale/Photograph Young Sergei Rachmaninoff in a Formal Portrait 4f13cb68|Photograph Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: sergei
+- [[knowledge/wiki/images/Young Sergei Rachmaninoff in a Formal Portrait 2a0291ec|Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: sergei
 - [[_archive/auto-generated/images-stale/portrait of robert walser f6c2ee33|portrait of robert walser]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

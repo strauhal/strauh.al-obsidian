@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols 68a3af5b|Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols]] — shared language: symbols, ink, symbols.jpeg
-- [[knowledge/wiki/images/Illustration Figure in Pointed Hat Gazing at Smoking Orange Orb 5c87b101|Illustration Figure in Pointed Hat Gazing at Smoking Orange Orb]] — shared language: pointed
+- [[knowledge/wiki/images/Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall 028ea1a7|Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall]] — shared language: detailed, ink
+- [[knowledge/wiki/images/Illustration Detailed Ink Drawing of a Japanese Residential Street 55a186e0|Illustration Detailed Ink Drawing of a Japanese Residential Street]] — shared language: detailed, ink
 <!-- vault-crosslinks:end -->

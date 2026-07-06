@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/space_station_v_
 
 - [[knowledge/wiki/images/interior of discovery one by robert mccall 1968 504bb933|interior of discovery one by robert mccall 1968]] — same artist: robert mccall
 - [[knowledge/wiki/images/The Future World by Robert McCall (1982) 90e90c47|The Future World by Robert McCall (1982)]] — shared language: mccall, robert
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: space
 <!-- vault-crosslinks:end -->

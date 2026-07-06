@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Black an
 - [[knowledge/wiki/images/Comic Black And White Manga Panel Of Large Robots Fighting 940b87b8|Comic Black And White Manga Panel Of Large Robots Fighting]] — shared language: manga, panel, comic
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel
-- [[knowledge/wiki/images/Photograph Orange And White Cat Lying Down Looking At Camera ae6e7fa0|Photograph Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down
+- [[knowledge/wiki/images/Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito 9d9f7d28|Comic Manga Panel Featuring Tomie Scaring a Man by Junji Ito]] — shared language: manga, panel, comic
 <!-- vault-crosslinks:end -->

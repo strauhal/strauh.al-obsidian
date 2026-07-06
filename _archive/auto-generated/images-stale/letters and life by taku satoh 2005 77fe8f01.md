@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Red And Black Stylized 3D Letters On White Background bf979261|Illustration Red And Black Stylized 3D Letters On White Background]] — shared language: letters
 - [[_archive/auto-generated/images-stale/life of pi 171df880|life of pi]] — shared language: life
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
-- [[knowledge/wiki/images/Photograph Man Posing With Pink Balloon Letters On Blue Wall 45235ac8|Photograph Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: letters
+- [[knowledge/wiki/images/Man Posing With Pink Balloon Letters On Blue Wall 56cc195c|Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: letters
 <!-- vault-crosslinks:end -->

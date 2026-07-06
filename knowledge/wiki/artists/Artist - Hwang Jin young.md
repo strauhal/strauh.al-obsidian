@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: vol
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: vol
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: vol
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
-- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 - [[knowledge/wiki/collections/Collection - unsorted|Collection - unsorted]] — shared language: hwang, jin
+- [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — shared language: vol
 <!-- vault-crosslinks:end -->

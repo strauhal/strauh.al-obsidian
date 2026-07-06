@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Rya
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Line Drawing of Self Driving Car Trolley Problem Scenario 72b001bc|Illustration Line Drawing of Self Driving Car Trolley Problem Scenario]] — shared language: driving, car
 - [[knowledge/wiki/artists/Artist - nicolas de largilliere|Artist - nicolas de largilliere]] — shared language: nicolas
+- [[knowledge/wiki/images/Illustration Line Drawing of Self Driving Car Trolley Problem Scenario 72b001bc|Illustration Line Drawing of Self Driving Car Trolley Problem Scenario]] — shared language: driving, car
 - [[knowledge/wiki/artists/Artist - nicolas de launay|Artist - nicolas de launay]] — shared language: nicolas
 - [[knowledge/wiki/images/portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720 5669ddf8|portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: nicolas

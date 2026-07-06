@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, ink, grotesque
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: creatures, surreal, detailed
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed, many, ink
 - [[knowledge/wiki/images/Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster 61ade3f0|Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster]] — shared language: grotesque, pen, ink
+- [[knowledge/wiki/images/detailed black and white surreal composition with figures and eyes 1988 9c364d0a|detailed black and white surreal composition with figures and eyes 1988]] — shared language: surreal, detailed
 - [[knowledge/wiki/images/Illustration Surreal Pen And Ink Drawing Of Female Figure With Two Heads by L. Mayus f8dea830|Illustration Surreal Pen And Ink Drawing Of Female Figure With Two Heads by L. Mayus]] — shared language: pen, surreal, ink
 <!-- vault-crosslinks:end -->

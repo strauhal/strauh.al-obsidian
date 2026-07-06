@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Mg Rex Sketch 1 
 - [[knowledge/wiki/images/Illustration Concept Sketches of The Boss by Yoji Shinkawa 11f02624|Illustration Concept Sketches of The Boss by Yoji Shinkawa]] — same artist: yoji shinkawa
 - [[knowledge/wiki/images/Illustration Stylized Illustration of Man in Lab Coat and Sunglasses by Yoji Shinkawa f2ed8e28|Illustration Stylized Illustration of Man in Lab Coat and Sunglasses by Yoji Shinkawa]] — same artist: yoji shinkawa
 - [[knowledge/wiki/images/Illustration Stylized Character Art for Death Stranding 2 On the Beach by Yoji Shinkawa efa3d356|Illustration Stylized Character Art for Death Stranding 2 On the Beach by Yoji Shinkawa]] — same artist: yoji shinkawa
-- [[knowledge/wiki/images/Illustration Red Armored Character Crouching with Glowing Sword by Yoji Shinkawa 960bfded|Illustration Red Armored Character Crouching with Glowing Sword by Yoji Shinkawa]] — same artist: yoji shinkawa
+- [[knowledge/wiki/images/Illustration Concept Art of Fragile from Death Stranding 2 by Yoji Shinkawa bd6d59ca|Illustration Concept Art of Fragile from Death Stranding 2 by Yoji Shinkawa]] — same artist: yoji shinkawa
 <!-- vault-crosslinks:end -->

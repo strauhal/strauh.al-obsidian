@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/A Woman with a R
 
 - [[knowledge/wiki/images/A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900) e4bff0a9|A Young Woman in a Mountain Landscape by Hans Dahl (c. 1900)]] — shared language: dahl, hans, mountain
 - [[knowledge/wiki/images/Fjordlandskap med b t og jente by Hans A. Dahl (c. 1900) 39708abe|Fjordlandskap med b t og jente by Hans A. Dahl (c. 1900)]] — shared language: dahl, hans
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: dahl
 - [[knowledge/wiki/books/roald-dahl-the-twits|The Twits]] — shared language: dahl
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: dahl
 - [[knowledge/wiki/books/roald-dahl-matilda-viking|Matilda-Viking]] — shared language: dahl
 <!-- vault-crosslinks:end -->

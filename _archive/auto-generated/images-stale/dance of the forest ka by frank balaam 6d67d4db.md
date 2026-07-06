@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/impasto oil painting of an aspen birch forest with yellow and green foliage by frank balaam 9884446d|impasto oil painting of an aspen birch forest with yellow and green foliage by frank balaam]] — same artist: frank balaam
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/archive/auto-generated/artists-stale/Artist - frank miller 1994|Artist - frank miller 1994]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 <!-- vault-crosslinks:end -->

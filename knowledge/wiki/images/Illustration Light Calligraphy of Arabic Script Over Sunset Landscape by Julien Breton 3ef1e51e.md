@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/images/Illustration Abstract Black Arabic Calligraphy on Off White Background 070ac168|Illustration Abstract Black Arabic Calligraphy on Off White Background]] — shared language: arabic, calligraphy
 - [[knowledge/wiki/images/Illustration Modern Black Arabic Calligraphy on Beige Background bdd7ce45|Illustration Modern Black Arabic Calligraphy on Beige Background]] — shared language: arabic, calligraphy
 - [[knowledge/wiki/images/Photograph Red Arabic Calligraphy Mural On A Gray Wall bddcba61|Photograph Red Arabic Calligraphy Mural On A Gray Wall]] — shared language: arabic, calligraphy
+- [[knowledge/wiki/images/Historical Map of North and South America with Arabic Script f7e6ea03|Historical Map of North and South America with Arabic Script]] — shared language: arabic, script
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: breton
-- [[knowledge/wiki/images/Diagram Historical Map of North and South America with Arabic Script 38f07f11|Diagram Historical Map of North and South America with Arabic Script]] — shared language: arabic, script
 <!-- vault-crosslinks:end -->

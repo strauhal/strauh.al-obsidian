@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, sketch, digital
 - [[_archive/auto-generated/images-stale/blue ballpoint pen drawing of a woman s portrait with braided hair c9ff77f0|blue ballpoint pen drawing of a woman s portrait with braided hair]] — shared language: braided, hair
 - [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: face, sketch, digital
 - [[knowledge/wiki/images/Illustration Blue Ballpoint Pen Drawing of a Woman's Portrait with Braided Hair adc7ff5a|Illustration Blue Ballpoint Pen Drawing of a Woman's Portrait with Braided Hair]] — shared language: braided, hair
-- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, sketch, digital
 <!-- vault-crosslinks:end -->

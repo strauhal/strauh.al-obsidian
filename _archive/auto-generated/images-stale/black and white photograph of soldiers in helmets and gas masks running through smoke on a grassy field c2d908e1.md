@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Soldiers Running Through Smoke a2fa9512|Photograph Black and White Photograph of Soldiers Running Through Smoke]] — shared language: soldiers, smoke, running
-- [[knowledge/wiki/images/Photograph Two Soldiers In Helmets In A Field, One Raising A Stick Grenade 83a8a9f0|Photograph Two Soldiers In Helmets In A Field, One Raising A Stick Grenade]] — shared language: helmets, soldiers, field
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Soldiers Running Through Smoke a2fa9512|Photograph Black and White Photograph of Soldiers Running Through Smoke]] — shared language: soldiers, running, smoke
+- [[_archive/auto-generated/images-stale/Photograph Two Soldiers In Helmets In A Field, One Raising A Stick Grenade 83a8a9f0|Photograph Two Soldiers In Helmets In A Field, One Raising A Stick Grenade]] — shared language: helmets, soldiers, field
+- [[knowledge/wiki/images/Two Soldiers In Helmets In A Field, One Raising A Stick Grenade 22ccde01|Two Soldiers In Helmets In A Field, One Raising A Stick Grenade]] — shared language: helmets, soldiers, field
 - [[_archive/auto-generated/images-stale/black and white photograph of two soldiers in helmets lying in a field one raising a stick grenade 010f7e6f|black and white photograph of two soldiers in helmets lying in a field one raising a stick grenade]] — shared language: helmets, soldiers, field
-- [[knowledge/wiki/images/Photograph Man with Eyepatch Covering Ears in Grassy Field 2ce47366|Photograph Man with Eyepatch Covering Ears in Grassy Field]] — shared language: grassy, field, field.jpg
-- [[knowledge/wiki/images/Illustration Green Field With Fire And Black Smoke Against Blue Sky 57e457c2|Illustration Green Field With Fire And Black Smoke Against Blue Sky]] — shared language: smoke, field
+- [[knowledge/wiki/images/Soldiers Running Across Field with Helicopter and Washington Monument 8be6452c|Soldiers Running Across Field with Helicopter and Washington Monument]] — shared language: soldiers, running, field
 <!-- vault-crosslinks:end -->

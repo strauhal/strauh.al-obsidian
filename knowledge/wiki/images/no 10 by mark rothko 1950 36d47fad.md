@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/no_10_by_mark_ro
 
 - [[knowledge/wiki/images/no 16 red brown and black by mark rothko 1958 f7b70864|no 16 red brown and black by mark rothko 1958]] — same artist: mark rothko
 - [[knowledge/wiki/images/no 1 royal red and blue by mark rothko 1954 303b5da3|no 1 royal red and blue by mark rothko 1954]] — same artist: mark rothko
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark lombardi|Artist - mark lombardi]] — shared language: mark
 <!-- vault-crosslinks:end -->

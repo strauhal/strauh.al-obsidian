@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs
 - [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: jobs
-- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs
-- [[knowledge/wiki/images/Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page d4b44a3b|Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: jobs
 - [[knowledge/wiki/books/open-letter|open letter]] — shared language: letter
+- [[knowledge/wiki/images/Black and White Portrait of Steve Jobs on Apple Memorial Page 46f19871|Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: jobs
+- [[knowledge/wiki/images/Photograph Young Steve Jobs Posing in a Tuxedo d2842eea|Photograph Young Steve Jobs Posing in a Tuxedo]] — shared language: jobs
 <!-- vault-crosslinks:end -->

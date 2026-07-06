@@ -20,8 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security a2ff99ac|Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security]] — shared language: tetsuya
+- [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: tetsuya
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light
-- [[knowledge/wiki/images/Photograph Photograph of a Book Page with an Illustration of Light and Color cdea9c1a|Photograph Photograph of a Book Page with an Illustration of Light and Color]] — shared language: light
+- [[knowledge/wiki/images/Photograph of a Book Page with an Illustration of Light and Color 755352db|Photograph of a Book Page with an Illustration of Light and Color]] — shared language: light
 - [[knowledge/wiki/images/Illustration Abstract Tiled Map of Light Blue Water and Light Green Land c9bba04e|Illustration Abstract Tiled Map of Light Blue Water and Light Green Land]] — shared language: light
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: light
 <!-- vault-crosslinks:end -->

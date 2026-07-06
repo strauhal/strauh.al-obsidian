@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/queen_henrietta_
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the three eldest children of charles i by anthony van dyck 1635 5cb09635|the three eldest children of charles i by anthony van dyck 1635]] — same artist: anthony van dyck
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: van, charles
 - [[knowledge/wiki/artists/Artist - maria postel|Artist - maria postel]] — shared language: maria
-- [[knowledge/wiki/images/The Prince and the Princess on the White Horse by John Bauer (1913) f41f6bcb|The Prince and the Princess on the White Horse by John Bauer (1913)]] — shared language: prince
 <!-- vault-crosslinks:end -->

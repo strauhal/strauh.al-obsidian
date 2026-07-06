@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ralph mcquarrie|Artist - ralph mcquarrie]] — named in this note
 - [[knowledge/wiki/books/ralph-waldo-emerson-self-reliance-the-domino-project|Self-Reliance -The Domino Project]] — shared language: ralph
 - [[knowledge/wiki/books/timothy-francis-leary-ralph-metzner-richard-alpert-the-psychedelic-experience-a-manual-based-on-the-tibetan-book-of-the-dead|The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead]] — shared language: ralph
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: station
+- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: station
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: station
 - [[knowledge/wiki/images/john george brown a fish cleaning station 1877 00e7336d|john george brown a fish cleaning station 1877]] — shared language: station
-- [[_archive/auto-generated/images-stale/black and white photograph of a gas station canopy at night 60b993bb|black and white photograph of a gas station canopy at night]] — shared language: station
 <!-- vault-crosslinks:end -->

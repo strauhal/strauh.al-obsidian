@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/notes_on_interio
 - [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: show
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — shared language: show
-- [[knowledge/wiki/culture/movie-the-truman-show|Watchlist - The Truman Show]] — shared language: show
+- [[knowledge/wiki/images/Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions f08e5f8c|Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions]] — shared language: interiors
 <!-- vault-crosslinks:end -->

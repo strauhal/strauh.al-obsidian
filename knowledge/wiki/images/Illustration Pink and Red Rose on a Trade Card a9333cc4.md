@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 
 - [[knowledge/wiki/artists/Artist - guy rose|Artist - guy rose]] — shared language: rose
 - [[knowledge/wiki/images/Illustration Illustration of a Person in Brace Position on Airplane Safety Card f5f3b8b9|Illustration Illustration of a Person in Brace Position on Airplane Safety Card]] — shared language: card, card.jpg
+- [[knowledge/wiki/images/Man In A Fedora With A Red Rose In A Vase 68e6166a|Man In A Fedora With A Red Rose In A Vase]] — shared language: rose
 - [[knowledge/wiki/images/cy twombly analysis of the rose 1985 1ac42e40|cy twombly analysis of the rose 1985]] — shared language: rose
-- [[knowledge/wiki/images/Photograph Man In A Fedora With A Red Rose In A Vase f9514828|Photograph Man In A Fedora With A Red Rose In A Vase]] — shared language: rose
-- [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: trade
+- [[knowledge/wiki/images/Illustration Person Playing Online Card Game at Night b0b118f6|Illustration Person Playing Online Card Game at Night]] — shared language: card
 <!-- vault-crosslinks:end -->

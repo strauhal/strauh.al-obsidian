@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cityscape_by_fre
 - [[knowledge/wiki/images/the ship who searched by fred gambino 1992 1f79f6a4|the ship who searched by fred gambino 1992]] — same artist: fred gambino
 - [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — same artist: fred gambino
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
-- [[knowledge/wiki/images/Photograph Photograph of an abstract painting depicting a cityscape with a red star 38627cc2|Photograph Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: cityscape
+- [[knowledge/wiki/images/Photograph of an abstract painting depicting a cityscape with a red star 73ec5f3b|Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: cityscape
 <!-- vault-crosslinks:end -->

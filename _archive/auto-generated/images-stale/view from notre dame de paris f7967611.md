@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/charles meryon the apse of notre dame paris 1854 ii jpg ecab51fd|charles meryon the apse of notre dame paris 1854 ii jpg]] — shared language: notre, dame, paris
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
 - [[_archive/auto-generated/images-stale/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris
-- [[knowledge/wiki/images/Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape b57eaf8c|Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, view
+- [[knowledge/wiki/images/Panoramic View of Paris with Sacr C ur Basilica and Cityscape 26dce0ee|Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, view
 <!-- vault-crosslinks:end -->

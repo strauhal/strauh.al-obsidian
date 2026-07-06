@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Curved Sculpture Covered In Iridescent Square Tiles 598fd53c|Illustration Curved Sculpture Covered In Iridescent Square Tiles]] — shared language: iridescent, tiles, curved
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved
+- [[knowledge/wiki/images/Photograph Four Blue and White Ceramic Tiles in a Wooden Frame 40df4fc6|Photograph Four Blue and White Ceramic Tiles in a Wooden Frame]] — shared language: tiles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - radiating and curved lines|Artist - radiating and curved lines]] — shared language: curved
-- [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: curved
 - [[_archive/auto-generated/images-stale/square white canvas on a wall d5591b81|square white canvas on a wall]] — shared language: square
 <!-- vault-crosslinks:end -->

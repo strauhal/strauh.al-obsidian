@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/italian_movie_po
 
 - [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: movie, poster
 - [[knowledge/wiki/artists/Artist - salvator rosa|Artist - salvator rosa]] — shared language: rosa
-- [[knowledge/wiki/images/Photograph Portrait of Rosa Luxemburg eb7f7544|Photograph Portrait of Rosa Luxemburg]] — shared language: rosa
+- [[knowledge/wiki/images/Portrait of Rosa Luxemburg 7a9921ac|Portrait of Rosa Luxemburg]] — shared language: rosa
 - [[knowledge/wiki/images/la pantera negra by remedios varo 1955 1529dd83|la pantera negra by remedios varo 1955]] — shared language: pantera
-- [[knowledge/wiki/images/An Eagle by Rosa Bonheur (1870) 15d83cf0|An Eagle by Rosa Bonheur (1870)]] — shared language: rosa
+- [[knowledge/wiki/images/Italian Landscape by Arnold B cklin (1879) 0712d608|Italian Landscape by Arnold B cklin (1879)]] — shared language: italian
 <!-- vault-crosslinks:end -->

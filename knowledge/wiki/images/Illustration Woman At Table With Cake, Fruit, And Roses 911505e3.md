@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: roses
-- [[knowledge/wiki/images/fruit by yoshitaka amano 1989 672beca9|fruit by yoshitaka amano 1989]] — shared language: fruit
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses
-- [[knowledge/wiki/images/Still Life with Flowers and Fruit by David Hockney (1984) c044cd3f|Still Life with Flowers and Fruit by David Hockney (1984)]] — shared language: fruit
+- [[knowledge/wiki/images/fruit by yoshitaka amano 1989 672beca9|fruit by yoshitaka amano 1989]] — shared language: fruit
+- [[knowledge/wiki/images/Illustration Two Stylized Figures With Pink Pig Toy And Cake 7cb49e74|Illustration Two Stylized Figures With Pink Pig Toy And Cake]] — shared language: cake
 <!-- vault-crosslinks:end -->

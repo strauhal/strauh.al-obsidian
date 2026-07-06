@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[_archive/auto-generated/images-stale/charcoal and pastel drawing of a young woman in a light dress 4c273f07|charcoal and pastel drawing of a young woman in a light dress]] — shared language: dress, young
-- [[knowledge/wiki/images/Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow 636793f7|Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow]] — shared language: dress, young
+- [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress acce577c|framed portrait of a woman in a white dress]] — shared language: dress
 <!-- vault-crosslinks:end -->

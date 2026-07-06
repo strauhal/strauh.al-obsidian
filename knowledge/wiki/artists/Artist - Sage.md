@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Fiery Human Figure Against Dark Background e2338cf6|Illustration Abstract Painting of a Fiery Human Figure Against Dark Background]] — shared language: fiery, against, background
 - [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: armor, sword, holding
 - [[knowledge/wiki/images/Illustration Stylized Man With Large Mustache Holding Sword Against Red Background 49acfe2c|Illustration Stylized Man With Large Mustache Holding Sword Against Red Background]] — shared language: sword, against, holding
-- [[knowledge/wiki/images/Photograph Person in Dark Armor Holding Massive Gray Sword Outdoors at Night 7f8f5ae8|Photograph Person in Dark Armor Holding Massive Gray Sword Outdoors at Night]] — shared language: armor, sword, holding
+- [[knowledge/wiki/images/Person in Dark Armor Holding Massive Gray Sword Outdoors at Night c11f7860|Person in Dark Armor Holding Massive Gray Sword Outdoors at Night]] — shared language: armor, sword, holding
 <!-- vault-crosslinks:end -->

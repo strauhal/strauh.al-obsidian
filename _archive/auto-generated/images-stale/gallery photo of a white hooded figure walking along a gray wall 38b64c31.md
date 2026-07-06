@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/gallery photo of wall label for artwork 1a2386ce|gallery photo of wall label for artwork]] — shared language: gallery, photo, wall
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
+- [[knowledge/wiki/images/Large Crowd Of People Walking Along A Road b64eda4f|Large Crowd Of People Walking Along A Road]] — shared language: along, walking
+- [[_archive/auto-generated/images-stale/Photograph Large Crowd Of People Walking Along A Road 01e93acd|Photograph Large Crowd Of People Walking Along A Road]] — shared language: along, walking
 - [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: gallery, photo
-- [[_archive/auto-generated/images-stale/gallery photo of colorful childlike portrait with red scribbles c2b40dd5|gallery photo of colorful childlike portrait with red scribbles]] — shared language: gallery, photo
-- [[_archive/auto-generated/images-stale/gallery photo of a pale crouching figure beneath a red wall hanging 5258f69c|gallery photo of a pale crouching figure beneath a red wall hanging]] — shared language: gallery, photo, wall
 <!-- vault-crosslinks:end -->

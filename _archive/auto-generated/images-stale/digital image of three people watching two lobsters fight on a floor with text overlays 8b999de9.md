@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Three People Watching Two Lobsters Fight With Text Overlays e02b3129|Image Three People Watching Two Lobsters Fight With Text Overlays]] — shared language: lobsters, fight, overlays
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital image of a man in 1980s style neon grid background with text overlays 4ac88a2a|digital image of a man in 1980s style neon grid background with text overlays]] — shared language: overlays, text, digital
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 <!-- vault-crosslinks:end -->

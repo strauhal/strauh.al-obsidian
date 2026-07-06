@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1984 and 1987|Artist - john m kohlenberger 1984 and 1987]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john m kohlenberger 1986|Artist - john m kohlenberger 1986]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, exposition, columbian
-- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, chicago, exposition
+- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, exposition, chicago
+- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, exposition, chicago
 <!-- vault-crosslinks:end -->

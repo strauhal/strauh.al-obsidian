@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/boy_with_glove_t
 - [[knowledge/wiki/images/james dean times square new york by dennis stock 1955 4e88b2b1|james dean times square new york by dennis stock 1955]] — shared language: times, square, york
 - [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: davidson
 - [[knowledge/wiki/images/bruce nauman suspended fortitude c 1968 3f7a9fd0|bruce nauman suspended fortitude c 1968]] — shared language: bruce
-- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
+- [[knowledge/wiki/artists/Artist - Bruce Weber|Artist - Bruce Weber]] — shared language: bruce
 <!-- vault-crosslinks:end -->

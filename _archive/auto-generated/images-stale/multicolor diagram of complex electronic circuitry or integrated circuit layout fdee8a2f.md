@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Multicolor Diagram of Complex Electronic Circuitry Layout 7c2298c4|Diagram Multicolor Diagram of Complex Electronic Circuitry Layout]] — shared language: circuitry, multicolor, layout
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[knowledge/wiki/images/Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems ea0751e4|Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems]] — shared language: integrated, electronic, complex
 - [[_archive/auto-generated/images-stale/technical diagram of integrated military and civilian electronic systems 64f4928e|technical diagram of integrated military and civilian electronic systems]] — shared language: integrated, electronic, diagram
-- [[knowledge/wiki/images/Photograph Microscopic View Of A Colorful Integrated Circuit Chip 54ffa243|Photograph Microscopic View Of A Colorful Integrated Circuit Chip]] — shared language: integrated, circuit
+- [[knowledge/wiki/images/Microscopic View Of A Colorful Integrated Circuit Chip eb600f7a|Microscopic View Of A Colorful Integrated Circuit Chip]] — shared language: integrated, circuit
 <!-- vault-crosslinks:end -->

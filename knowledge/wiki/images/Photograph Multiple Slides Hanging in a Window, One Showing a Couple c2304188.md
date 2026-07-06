@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mul
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple, one
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: couple
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: showing, window
 - [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
 <!-- vault-crosslinks:end -->

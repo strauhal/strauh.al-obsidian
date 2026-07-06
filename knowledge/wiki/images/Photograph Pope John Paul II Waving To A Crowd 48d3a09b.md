@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pop
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[knowledge/wiki/images/Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] — shared language: crowd
 <!-- vault-crosslinks:end -->

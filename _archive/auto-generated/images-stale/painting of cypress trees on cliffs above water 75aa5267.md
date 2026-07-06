@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, water
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: trees, water
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[_archive/auto-generated/images-stale/framed landscape painting of sunlit trees by water 99b9c7f0|framed landscape painting of sunlit trees by water]] — shared language: trees, water
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs 02def084|Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs]] — shared language: cliffs
 <!-- vault-crosslinks:end -->

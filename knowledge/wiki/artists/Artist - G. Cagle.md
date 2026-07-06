@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: naked
 - [[knowledge/wiki/images/The Creature Confronts Victor Frankenstein by Berni Wrightson (1983) 446b7916|The Creature Confronts Victor Frankenstein by Berni Wrightson (1983)]] — shared language: confronts
 - [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: forest, dark
-- [[knowledge/wiki/images/Illustration Dark Forest Landscape with River and Figures by Firelight 41df4579|Illustration Dark Forest Landscape with River and Figures by Firelight]] — shared language: forest, dark
+- [[knowledge/wiki/images/Naked Person Lying On Dirty Floor With White Object 64506848|Naked Person Lying On Dirty Floor With White Object]] — shared language: naked
 <!-- vault-crosslinks:end -->

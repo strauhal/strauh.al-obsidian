@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: log
 - [[knowledge/wiki/images/Illustration Black And White Etching Of A Building Surrounded By Trees 49bb7d57|Illustration Black And White Etching Of A Building Surrounded By Trees]] — shared language: etching
-- [[knowledge/wiki/images/Diagram Log Log Plot of Validation Loss Versus Compute 91ab785d|Diagram Log Log Plot of Validation Loss Versus Compute]] — shared language: log
 - [[knowledge/wiki/images/Illustration Tall, Dilapidated Building Towers Over Rustic Village with Birch Trees bd098e6d|Illustration Tall, Dilapidated Building Towers Over Rustic Village with Birch Trees]] — shared language: rustic
+- [[knowledge/wiki/images/Log Log Plot of Validation Loss Versus Compute 6b45100b|Log Log Plot of Validation Loss Versus Compute]] — shared language: log
 - [[knowledge/wiki/images/Screenshot In Game Chat Log with Korean and English Text 49aaad4e|Screenshot In Game Chat Log with Korean and English Text]] — shared language: log
 <!-- vault-crosslinks:end -->

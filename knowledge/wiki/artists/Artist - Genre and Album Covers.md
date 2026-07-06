@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Music Recommendation Chart by Genre and Album Covers.jpg]]
+![[media/strauh.al3.1/diagrams/Music_Recommendation_Chart_by_Genre_and_Album_Covers.jpg]]
 
 ## Image Notes
 
-- [[Diagram Music Recommendation Chart by Genre and Album Covers f1a11b3e|Diagram Music Recommendation Chart by Genre and Album Covers]]
+- [[Music Recommendation Chart by Genre and Album Covers 06e15bbd|Music Recommendation Chart by Genre and Album Covers]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

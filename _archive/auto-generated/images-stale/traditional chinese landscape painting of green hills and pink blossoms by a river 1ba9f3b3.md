@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms 7f454778|Illustration Traditional Chinese Landscape Painting of Green Hills, River, and Pink Blossoms]] — shared language: blossoms, hills, traditional
 - [[_archive/auto-generated/artists-noise/Artist - a river|Artist - a river]] — shared language: river, blossoms, hills
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: chinese, landscape
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape, chinese
 - [[_archive/auto-generated/images-stale/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: hills, river, landscape
 - [[_archive/auto-generated/images-stale/tonalist river landscape with boat and low hills 3af493a1|tonalist river landscape with boat and low hills]] — shared language: hills, river, landscape
 <!-- vault-crosslinks:end -->

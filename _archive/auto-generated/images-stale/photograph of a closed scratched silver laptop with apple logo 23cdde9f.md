@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Scratched Silver Apple Laptop on White Background bf8239d3|Photograph Scratched Silver Apple Laptop on White Background]] — shared language: scratched, silver, laptop
 - [[knowledge/wiki/images/Illustration Drawing of a Laptop, Microphone, and Apple Charger abaefda4|Illustration Drawing of a Laptop, Microphone, and Apple Charger]] — shared language: laptop, apple
-- [[knowledge/wiki/images/Photograph Cat Biting Scratched Human Hand 7485f1bf|Photograph Cat Biting Scratched Human Hand]] — shared language: scratched
-- [[knowledge/wiki/images/Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script 979be1df|Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, apple
+- [[knowledge/wiki/images/Photograph of a Stone Tablet with Apple Logo and Tibetan Script 9faee5a6|Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, apple
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script 979be1df|Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, apple
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting with Multicolored Crisscrossing Lines and Gradient Edges 6ecc1ef6|Illustration Abstract Painting with Multicolored Crisscrossing Lines and Gradient Edges]] — shared language: gradient, edges, lines
-- [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: edges
+- [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines
 - [[knowledge/wiki/images/Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight 802c47b1|Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight]] — shared language: gradient, lines, yellow
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: edges
 <!-- vault-crosslinks:end -->

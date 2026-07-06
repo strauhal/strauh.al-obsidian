@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Color Density Chart with Blue and Magenta Gradients and Percentage Labels 8bc1ffbc|Diagram Color Density Chart with Blue and Magenta Gradients and Percentage Labels]] — shared language: percentage, gradients, density
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels, density, chart
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels, chart
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color
 <!-- vault-crosslinks:end -->

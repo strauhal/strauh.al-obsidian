@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
 - [[_archive/auto-generated/images-stale/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: tree, framed, landscape
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: people
+- [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people, framed
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree, landscape
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy, many, scene
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van kessel the elder|Artist - jan van kessel the elder]] — shared language: jan, van
 - [[knowledge/wiki/images/the arnolfini portrait by jan van eyck 1434 41e839d4|the arnolfini portrait by jan van eyck 1434]] — shared language: jan, van
-- [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: busy, many
 <!-- vault-crosslinks:end -->

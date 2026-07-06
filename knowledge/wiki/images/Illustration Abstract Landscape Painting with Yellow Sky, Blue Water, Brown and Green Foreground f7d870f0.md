@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 
 - [[knowledge/wiki/images/Screenshot Man in Lifeboat on Green Screen Water with Grid Sky 304a8726|Screenshot Man in Lifeboat on Green Screen Water with Grid Sky]] — shared language: water, sky, green
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: water, landscape
+- [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — shared language: water, green, landscape
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: sky, green
-- [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: sky, water
-- [[knowledge/wiki/images/Illustration Abstract Mountains Reflected in Water Under a Gradient Sky e6b3366e|Illustration Abstract Mountains Reflected in Water Under a Gradient Sky]] — shared language: water, sky
+- [[knowledge/wiki/images/Illustration Abstract Landscape with Red and Blue Mountains and Green Fields 34daa5a4|Illustration Abstract Landscape with Red and Blue Mountains and Green Fields]] — shared language: green, landscape
 <!-- vault-crosslinks:end -->

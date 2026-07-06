@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Gal
 - [[knowledge/wiki/images/Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture 9c824eed|Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture]] — shared language: minimalist, gallery
 - [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: ten, framed
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: gallery, view
-- [[knowledge/wiki/images/Photograph Person Viewing Framed Photograph In Gallery 38eb2c8f|Photograph Person Viewing Framed Photograph In Gallery]] — shared language: gallery, framed
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
+- [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: gallery, framed
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 <!-- vault-crosslinks:end -->

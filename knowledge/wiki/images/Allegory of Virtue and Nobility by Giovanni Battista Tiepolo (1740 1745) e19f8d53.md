@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Allegory of Virt
 
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — shared language: tiepolo, battista, giovanni
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo|Artist - giovanni battista tiepolo]] — shared language: tiepolo, battista, giovanni
-- [[knowledge/wiki/images/allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]] — shared language: tiepolo, battista, allegory
+- [[knowledge/wiki/images/allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]] — shared language: tiepolo, battista, giovanni
 - [[knowledge/wiki/images/Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752) 432f8d55|Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752)]] — shared language: tiepolo, battista, allegory
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — shared language: tiepolo, battista, giovanni
 <!-- vault-crosslinks:end -->

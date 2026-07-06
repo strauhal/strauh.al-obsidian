@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/pyramid_by_john_
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — shared language: harris
-- [[knowledge/wiki/images/Diagram Hierarchy of Disagreement Pyramid with Explanations 8f143d32|Diagram Hierarchy of Disagreement Pyramid with Explanations]] — shared language: pyramid
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: harris
+- [[knowledge/wiki/images/Hierarchy of Disagreement Pyramid with Explanations 6d6f72ac|Hierarchy of Disagreement Pyramid with Explanations]] — shared language: pyramid
 - [[knowledge/wiki/artists/Artist - lyle ashton harris|Artist - lyle ashton harris]] — shared language: harris
-- [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: harris
 <!-- vault-crosslinks:end -->

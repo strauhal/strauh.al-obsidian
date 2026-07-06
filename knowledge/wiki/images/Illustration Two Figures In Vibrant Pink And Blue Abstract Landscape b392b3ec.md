@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps b02d5396|Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps]] — shared language: vibrant, landscape
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: vibrant
 - [[knowledge/wiki/images/Illustration Vibrant Flower Garden With Pink And Yellow Blooms 99b837fc|Illustration Vibrant Flower Garden With Pink And Yellow Blooms]] — shared language: vibrant, pink
-- [[knowledge/wiki/images/Photograph Vibrant Green Aurora Borealis Over Dark Landscape 28fafc09|Photograph Vibrant Green Aurora Borealis Over Dark Landscape]] — shared language: vibrant, landscape, landscape.jpeg
+- [[knowledge/wiki/images/Vibrant Green Aurora Borealis Over Dark Landscape 350e610d|Vibrant Green Aurora Borealis Over Dark Landscape]] — shared language: vibrant, landscape, landscape.jpeg
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape
+- [[knowledge/wiki/images/Illustration Translucent Pink Figure Adorned with Vibrant Pink Flowers and Green Leaves 34452eff|Illustration Translucent Pink Figure Adorned with Vibrant Pink Flowers and Green Leaves]] — shared language: vibrant, pink
 <!-- vault-crosslinks:end -->

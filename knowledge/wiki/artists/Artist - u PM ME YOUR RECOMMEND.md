@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: wife
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
-- [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: wife
 - [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: screenshot, media
-- [[knowledge/wiki/images/Photograph Red Heart Balloon Inside Blue Dumpster At Night 55e457d0|Photograph Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: heart
-- [[knowledge/wiki/images/walker evans alabama tenant farmer wife 1936 5a2913df|walker evans alabama tenant farmer wife 1936]] — shared language: wife
+- [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: wife
+- [[knowledge/wiki/images/City Buildings at Night with Heart Shape in Windows d1d0ba49|City Buildings at Night with Heart Shape in Windows]] — shared language: heart
+- [[knowledge/wiki/images/Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt ce8a742e|Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt]] — shared language: wife
 <!-- vault-crosslinks:end -->

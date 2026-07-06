@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses, garden, pink
-- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden, pink, oil
+- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses, garden, oil
+- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden, oil, pink
 - [[_archive/auto-generated/images-stale/roses gaeta 2004 e6740a3b|roses gaeta 2004]] — shared language: roses
 - [[_archive/auto-generated/images-stale/oil painting of interlocking abstract shapes in peach blue and gray tones e31ef166|oil painting of interlocking abstract shapes in peach blue and gray tones]] — shared language: peach, oil
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roses|Artist - roses]] — shared language: roses

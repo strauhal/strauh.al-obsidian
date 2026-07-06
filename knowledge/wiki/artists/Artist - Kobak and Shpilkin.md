@@ -11,19 +11,19 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Scatter Plot of Russian Federal Election Results and Voter Turnout by Kobak and Shpilkin.jpeg]]
+![[media/strauh.al3.1/diagrams/Scatter_Plot_of_Russian_Federal_Election_Results_and_Voter_Turnout_by_Kobak_and_Shpilkin.jpeg]]
 
 ## Image Notes
 
-- [[Diagram Scatter Plot of Russian Federal Election Results and Voter Turnout by Kobak and Shpilkin 15317d57|Diagram Scatter Plot of Russian Federal Election Results and Voter Turnout by Kobak and Shpilkin]]
+- [[Scatter Plot of Russian Federal Election Results and Voter Turnout by Kobak and Shpilkin 198d193f|Scatter Plot of Russian Federal Election Results and Voter Turnout by Kobak and Shpilkin]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
 - [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: results
-- [[knowledge/wiki/images/Diagram Colorful Radial Plot of the j invariant Function a503e653|Diagram Colorful Radial Plot of the j invariant Function]] — shared language: plot, diagram
-- [[knowledge/wiki/images/Diagram 3D Plot of Borderline Personality Disorder Model 6e7f98ca|Diagram 3D Plot of Borderline Personality Disorder Model]] — shared language: plot, diagram
-- [[knowledge/wiki/images/Diagram 3D Plot Of Swirling Colored Streamlines And Vectors On A Grid 909d70f1|Diagram 3D Plot Of Swirling Colored Streamlines And Vectors On A Grid]] — shared language: plot, diagram
-- [[knowledge/wiki/images/Diagram Ternary Plot with Icarus, Narcissus, and Sisyphus 54fd225a|Diagram Ternary Plot with Icarus, Narcissus, and Sisyphus]] — shared language: plot, diagram
-- [[knowledge/wiki/images/Diagram 3D Mesh Plot Of Sinc Function With X, Y, And Sinc(R) Axes 4cdd8657|Diagram 3D Mesh Plot Of Sinc Function With X, Y, And Sinc(R) Axes]] — shared language: plot, diagram
+- [[knowledge/wiki/images/the county election by george caleb bingham 1852 9af6bd67|the county election by george caleb bingham 1852]] — shared language: election
+- [[knowledge/wiki/images/Screenshot Academic Article Search Results Page 2f086f75|Screenshot Academic Article Search Results Page]] — shared language: results
+- [[knowledge/wiki/images/portrait of the russian prisoner of war grigory khristoforovich by egon schiele 1916 c88fd6a5|portrait of the russian prisoner of war grigory khristoforovich by egon schiele 1916]] — shared language: russian
+- [[knowledge/wiki/images/Diagram Colorful Radial Plot of the j invariant Function a503e653|Diagram Colorful Radial Plot of the j invariant Function]] — shared language: plot
+- [[knowledge/wiki/images/3D Plot of Borderline Personality Disorder Model a0cf5e17|3D Plot of Borderline Personality Disorder Model]] — shared language: plot
 <!-- vault-crosslinks:end -->

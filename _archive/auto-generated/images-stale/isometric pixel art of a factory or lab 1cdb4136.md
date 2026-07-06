@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, pixel
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, pixel
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen a34c85e0|Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen]] — shared language: isometric, pixel
+- [[_archive/auto-generated/images-stale/isometric pixel art drawing of a kitchen with robots and food d1bf0bdb|isometric pixel art drawing of a kitchen with robots and food]] — shared language: isometric, pixel
+- [[knowledge/wiki/images/Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure 416df990|Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure]] — shared language: isometric, pixel
 <!-- vault-crosslinks:end -->

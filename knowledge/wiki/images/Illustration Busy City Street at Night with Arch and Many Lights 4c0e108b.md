@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, many
-- [[knowledge/wiki/images/Photograph Busy City Street with Prudential Building and Flags 7e8f21b4|Photograph Busy City Street with Prudential Building and Flags]] — shared language: busy, street, city
-- [[knowledge/wiki/images/Photograph Couple Walking On Busy Street At Night 1f305f0b|Photograph Couple Walking On Busy Street At Night]] — shared language: busy, street, night
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: street, night, city
-- [[knowledge/wiki/images/Photograph Cat Looking Right With Bokeh City Lights At Night f4539539|Photograph Cat Looking Right With Bokeh City Lights At Night]] — shared language: lights, night, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy, street, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
+- [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: busy, night, street
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: night, street, city
+- [[knowledge/wiki/images/Busy City Street with Prudential Building and Flags 67c124a0|Busy City Street with Prudential Building and Flags]] — shared language: busy, street, city
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Screenshot Blue Computer Desktop Interface with Multiple Overlapping Windows and Icons by IBM 33fbbafa|Screenshot Blue Computer Desktop Interface with Multiple Overlapping Windows and Icons by IBM]] — shared language: ibm, desktop, overlapping
 - [[knowledge/wiki/artists/Artist - IBM|Artist - IBM]] — shared language: ibm, desktop, overlapping
 - [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: desktop, displaying, screenshot
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desktop
-- [[knowledge/wiki/images/Photograph Outdoor LED Screens Displaying Windows Desktop Interface At Night 753b585a|Photograph Outdoor LED Screens Displaying Windows Desktop Interface At Night]] — shared language: desktop, windows, interface
+- [[knowledge/wiki/images/Outdoor LED Screens Displaying Windows Desktop Interface At Night 4065ec5e|Outdoor LED Screens Displaying Windows Desktop Interface At Night]] — shared language: desktop, interface, windows
+- [[_archive/auto-generated/images-stale/Photograph Outdoor LED Screens Displaying Windows Desktop Interface At Night 753b585a|Photograph Outdoor LED Screens Displaying Windows Desktop Interface At Night]] — shared language: desktop, interface, windows
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/images/Illustration Black Line Sketch of Stylized Feline on Brown Paper 42b21323|Illustration Black Line Sketch of Stylized Feline on Brown Paper]] — shared language: feline, brown
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vertical Strokes on Pink and Reddish Background dce8aa42|Illustration Abstract Painting with Vertical Strokes on Pink and Reddish Background]] — shared language: reddish, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Painting of Large Green and Reddish Leaves with Patterned Background 5c3929f2|Illustration Painting of Large Green and Reddish Leaves with Patterned Background]] — shared language: reddish, background, background.jpeg
+- [[knowledge/wiki/images/Dense Aerial View of Reddish Brown Buildings with Lit Windows 240138d5|Dense Aerial View of Reddish Brown Buildings with Lit Windows]] — shared language: reddish, brown, reddish-brown
 - [[knowledge/wiki/images/Photograph Art Installation with Framed Drawings and Smaller Pieces b0d50e31|Photograph Art Installation with Framed Drawings and Smaller Pieces]] — shared language: smaller
-- [[knowledge/wiki/images/Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline ea11657d|Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline]] — shared language: outline
 <!-- vault-crosslinks:end -->

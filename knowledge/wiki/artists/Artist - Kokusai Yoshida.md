@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida.png]]
+![[media/strauh.al3.1/photography/Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida.png]]
 
 ## Image Notes
 
-- [[Photograph Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida af36b3af|Photograph Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida]]
+- [[Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida 7d086d24|Man In Fishing Attire With A Cigarette And Cap by Kokusai Yoshida]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns 7d303ebb|Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns]] — shared language: patterns, patterns.jpeg
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Distorted Black Grid on White 70b7ca84|Illustration Textured Abstract Painting of Distorted Black Grid on White]] — shared language: textured
-- [[knowledge/wiki/images/Image Digital Composite of an Elephant Textured Like a Strawberry in a Field 37383100|Image Digital Composite of an Elephant Textured Like a Strawberry in a Field]] — shared language: textured, digital
+- [[knowledge/wiki/images/Illustration Textured Walking Head Figure on White Background 5a0afdbd|Illustration Textured Walking Head Figure on White Background]] — shared language: textured
 <!-- vault-crosslinks:end -->

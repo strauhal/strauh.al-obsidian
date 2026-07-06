@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/artists-noise/Artist - a demonstrator|Artist - a demonstrator]] — shared language: proven, guilty, protest
+- [[_archive/auto-generated/artists-noise/Artist - a demonstrator|Artist - a demonstrator]] — shared language: proven, guilty, innocent
 - [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: proven, guilty, innocent
-- [[knowledge/wiki/images/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
-- [[knowledge/wiki/images/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
+- [[knowledge/wiki/images/Photograph of a Billboard with AI Artist Protest Message 578f8d9b|Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
 - [[knowledge/wiki/images/Comic Innocent by Shin'ichi Sakamoto 34da5112|Comic Innocent by Shin'ichi Sakamoto]] — shared language: innocent
 <!-- vault-crosslinks:end -->

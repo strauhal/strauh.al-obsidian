@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Ronald Reagan Meeting With Desmond Tutu 6f8fe64b|Photograph Ronald Reagan Meeting With Desmond Tutu]] — shared language: desmond
 - [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
+- [[knowledge/wiki/images/Ronald Reagan Meeting With Desmond Tutu fa75ac45|Ronald Reagan Meeting With Desmond Tutu]] — shared language: desmond
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 - [[knowledge/wiki/artists/Artist - henry fuseli|Artist - henry fuseli]] — shared language: henry
 - [[knowledge/wiki/images/Vase of Flowers by George Henry Hall (1879) cd735ae4|Vase of Flowers by George Henry Hall (1879)]] — shared language: henry

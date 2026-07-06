@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: face, sketch, digital
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Diagram Infographic on Painting Tips and Recurring Shapes by Yuming Li e084bcf1|Diagram Infographic on Painting Tips and Recurring Shapes by Yuming Li]] — shared language: tips, diagrams
 - [[knowledge/wiki/images/Screenshot Screenshot of a Digital Line Drawing of a Female Face 9f41c2e2|Screenshot Screenshot of a Digital Line Drawing of a Female Face]] — shared language: face, digital
 - [[knowledge/wiki/images/Illustration Colored Sketch of a Woman's Face with Teal Eyes faa24b99|Illustration Colored Sketch of a Woman's Face with Teal Eyes]] — shared language: face, sketch
+- [[knowledge/wiki/images/Illustration Digital Painting of a Woman's Face Surrounded by White Material f0aba2d0|Illustration Digital Painting of a Woman's Face Surrounded by White Material]] — shared language: face, digital
 <!-- vault-crosslinks:end -->

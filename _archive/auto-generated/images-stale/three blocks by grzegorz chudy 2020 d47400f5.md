@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - grzegorz chudy 2020|Artist - grzegorz chudy 2020]] — named in this note
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[knowledge/archive/auto-generated/anchors-stale/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
-- [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
 - [[_archive/auto-generated/artists-noise/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
+- [[knowledge/archive/auto-generated/artists-stale/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: blocks
 <!-- vault-crosslinks:end -->

@@ -42,9 +42,9 @@ Images attributed by filename: 8
 ## Discovered Connections
 
 - [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: zdzisaw
-- [[knowledge/wiki/images/Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace afa35642|Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: necklace, wearing
 - [[knowledge/wiki/images/Illustration Figure with Cross in Desolate Landscape with Falling Meteors 44bb3a0f|Illustration Figure with Cross in Desolate Landscape with Falling Meteors]] — shared language: desolate, landscape
 - [[knowledge/wiki/images/Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring 525f4811|Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring]] — shared language: pearl, wearing
+- [[knowledge/wiki/images/Man With Dreadlocks And Cap Wearing Black Jacket And Necklace daae99a3|Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: necklace, wearing
 - [[knowledge/wiki/images/the citadel by jean giraud 1979 402216a8|the citadel by jean giraud 1979]] — shared language: citadel
 - [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: orange, oil, landscape
 <!-- vault-crosslinks:end -->

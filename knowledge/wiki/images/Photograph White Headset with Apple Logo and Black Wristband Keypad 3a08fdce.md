@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Whi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script 979be1df|Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, apple
 - [[knowledge/wiki/images/Photograph Red Digital Display With Motion Blur And Keypad 70244867|Photograph Red Digital Display With Motion Blur And Keypad]] — shared language: keypad, keypad.jpeg
+- [[knowledge/wiki/images/Photograph of a Stone Tablet with Apple Logo and Tibetan Script 9faee5a6|Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, apple
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
 - [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: apple
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset And Smoking Hookah In Restaurant b73124cb|Photograph Man Wearing VR Headset And Smoking Hookah In Restaurant]] — shared language: headset
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset
 <!-- vault-crosslinks:end -->

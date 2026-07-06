@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Two Children Playing in Water from a Fire Hydrant 707d5de5|Photograph Two Children Playing in Water from a Fire Hydrant]] — shared language: hydrant, children, fire
-- [[knowledge/wiki/images/Illustration Children Playing In Shallow Water On A Beach f03d08b7|Illustration Children Playing In Shallow Water On A Beach]] — shared language: children, playing, water
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
+- [[knowledge/wiki/images/Illustration Children Playing In Shallow Water On A Beach f03d08b7|Illustration Children Playing In Shallow Water On A Beach]] — shared language: children, playing, water
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: children
 <!-- vault-crosslinks:end -->

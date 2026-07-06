@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, cars
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
-- [[knowledge/wiki/images/Photograph City Street After Flood With Piled Up Cars 1c1a9d7d|Photograph City Street After Flood With Piled Up Cars]] — shared language: cars, street, city
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: street, night, city
-- [[knowledge/wiki/images/Photograph Burning Self Driving Cars on City Street with Onlookers 20c8f5ab|Photograph Burning Self Driving Cars on City Street with Onlookers]] — shared language: cars, street, city
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: night, street, city
+- [[knowledge/wiki/images/City Street After Flood With Piled Up Cars 338a4db9|City Street After Flood With Piled Up Cars]] — shared language: cars, street, city
 <!-- vault-crosslinks:end -->

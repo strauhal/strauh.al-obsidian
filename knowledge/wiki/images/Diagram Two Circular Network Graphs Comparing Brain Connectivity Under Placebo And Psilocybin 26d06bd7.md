@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Two Ci
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-- [[knowledge/wiki/images/Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects f709219d|Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — shared language: placebo, psilocybin, comparing
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, placebo, diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, network, diagram
-- [[knowledge/wiki/images/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: network, diagram
+- [[knowledge/wiki/images/Brain Network Diagrams Comparing Placebo and Psilocybin Effects b8e99b65|Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — shared language: placebo, psilocybin, comparing
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, placebo, psilocybin
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, network
+- [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: network, diagram
+- [[knowledge/wiki/images/Diagram Eight Numbered Graphs Illustrating Harmonic Curves a68f2c9d|Diagram Eight Numbered Graphs Illustrating Harmonic Curves]] — shared language: graphs, diagram
 <!-- vault-crosslinks:end -->

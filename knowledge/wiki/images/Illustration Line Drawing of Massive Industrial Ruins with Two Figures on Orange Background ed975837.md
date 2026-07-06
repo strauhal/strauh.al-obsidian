@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Illustration Abstract Painting of Three Orange Persimmons on a Green Background 669fc1f9|Illustration Abstract Painting of Three Orange Persimmons on a Green Background]] — shared language: orange, background, background.jpeg
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[knowledge/wiki/images/massive attack 87b63bde|massive attack]] — shared language: massive
-- [[knowledge/wiki/images/Comic Three Figures In Ruins Under Dark Sky 80e5d8e8|Comic Three Figures In Ruins Under Dark Sky]] — shared language: ruins
 <!-- vault-crosslinks:end -->

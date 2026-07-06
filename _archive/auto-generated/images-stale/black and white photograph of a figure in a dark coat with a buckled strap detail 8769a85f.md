@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Figure in Dark Coat with Buckled Strap 52741447|Photograph Black and White Photograph of Figure in Dark Coat with Buckled Strap]] — shared language: buckled, strap, coat
-- [[_archive/auto-generated/images-stale/framed portrait of a dark haired man in a black coat 1c9a469d|framed portrait of a dark haired man in a black coat]] — shared language: coat, dark
 - [[_archive/auto-generated/images-stale/framed portrait of an older man in a dark coat 31ef846c|framed portrait of an older man in a dark coat]] — shared language: coat, dark
+- [[_archive/auto-generated/images-stale/framed portrait of a dark haired man in a black coat 1c9a469d|framed portrait of a dark haired man in a black coat]] — shared language: coat, dark
 - [[_archive/auto-generated/images-stale/black and white portrait of a young man in a dark coat and turtleneck with a cigarette a50aa8b6|black and white portrait of a young man in a dark coat and turtleneck with a cigarette]] — shared language: coat, dark
 - [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 <!-- vault-crosslinks:end -->

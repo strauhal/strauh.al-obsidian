@@ -25,7 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Morton Subotnick Operating a Buchla Modular Synthesizer 0f6b7335|Photograph Morton Subotnick Operating a Buchla Modular Synthesizer]] — shared language: subotnick, morton
+- [[knowledge/wiki/images/Morton Subotnick Operating a Buchla Modular Synthesizer 624c26f8|Morton Subotnick Operating a Buchla Modular Synthesizer]] — shared language: subotnick, morton
+- [[_archive/auto-generated/images-stale/Photograph Morton Subotnick Operating a Buchla Modular Synthesizer 0f6b7335|Photograph Morton Subotnick Operating a Buchla Modular Synthesizer]] — shared language: subotnick, morton
 - [[knowledge/wiki/images/mrs perez morton by gilbert stuart c 1802 c2a7d752|mrs perez morton by gilbert stuart c 1802]] — shared language: morton
 - [[knowledge/wiki/artists/Artist - gilbert stuart|Artist - gilbert stuart]] — shared language: morton
 <!-- vault-crosslinks:end -->

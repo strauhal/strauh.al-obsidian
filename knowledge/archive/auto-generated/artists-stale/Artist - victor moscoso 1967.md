@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/images/The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967) ba171366|The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967)]] — shared language: moscoso, victor, flash
 - [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: moscoso, victor
 - [[_archive/auto-generated/images-stale/victor moscoso pink panther jpg 5f9f60e4|victor moscoso pink panther jpg]] — shared language: moscoso, victor
-- [[_archive/auto-generated/images-stale/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, doors, band
+- [[_archive/auto-generated/images-stale/the yardbirds the doors james cotton blues band web jpg cabfbb94|the yardbirds the doors james cotton blues band web jpg]] — shared language: blues, band, doors
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: miller
 <!-- vault-crosslinks:end -->

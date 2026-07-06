@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
 - [[knowledge/wiki/images/Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers 07304629|Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers]] — shared language: hair, flowers
 - [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: long, hair
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Woman Offering Flowers To Incense Burner In Classical Setting 4883d430|Illustration Woman Offering Flowers To Incense Burner In Classical Setting]] — shared language: setting, flowers, setting.jpg
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

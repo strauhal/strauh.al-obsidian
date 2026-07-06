@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: spray, marks, light
+- [[knowledge/wiki/images/Illustration Grid Of Repeated Curved Marks On Light Background c2c4c35c|Illustration Grid Of Repeated Curved Marks On Light Background]] — shared language: marks, light, background
 - [[_archive/auto-generated/images-stale/abstract painting of dense orange marks on black background d88acdef|abstract painting of dense orange marks on black background]] — shared language: marks, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: marks, background, background.jpeg
-- [[knowledge/wiki/images/Illustration Grid Of Repeated Curved Marks On Light Background c2c4c35c|Illustration Grid Of Repeated Curved Marks On Light Background]] — shared language: marks, light, background
 - [[_archive/auto-generated/images-stale/abstract pastel painting with red and blue marks 4afc662e|abstract pastel painting with red and blue marks]] — shared language: marks
 <!-- vault-crosslinks:end -->

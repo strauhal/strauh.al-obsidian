@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Dog Lick
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: plot, colorful
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: dog, colorful
+- [[knowledge/wiki/images/Black and White Photo of Woman Licking Man in Balaclava 7b84f081|Black and White Photo of Woman Licking Man in Balaclava]] — shared language: licking
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
-- [[knowledge/wiki/images/Diagram Colorful Radial Plot of the j invariant Function a503e653|Diagram Colorful Radial Plot of the j invariant Function]] — shared language: plot, colorful
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
 <!-- vault-crosslinks:end -->

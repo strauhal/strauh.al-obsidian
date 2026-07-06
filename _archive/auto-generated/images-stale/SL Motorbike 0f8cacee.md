@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/Rosa Luxemburg 09142379|Rosa Luxemburg]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Screen Shot 2020 10 25 at 11.56.51 PM 2048x1147 d05672ed|Screen Shot 2020 10 25 at 11.56.51 PM 2048x1147]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260706165156|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/Racknitz The Turk 3 5715a628|Racknitz The Turk 3]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Han
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: bow, girl
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/images/Photograph Two Framed Hand Colored Woodcuts on a Textured Wall e6a3ed38|Photograph Two Framed Hand Colored Woodcuts on a Textured Wall]] — shared language: colored, hand, hand-colored
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
+- [[knowledge/wiki/images/Photograph Two Framed Hand Colored Woodcuts on a Textured Wall e6a3ed38|Photograph Two Framed Hand Colored Woodcuts on a Textured Wall]] — shared language: colored, hand, hand-colored
 <!-- vault-crosslinks:end -->

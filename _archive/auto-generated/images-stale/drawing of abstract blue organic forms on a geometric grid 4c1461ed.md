@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Abstract Blue Organic Forms On Geometric Grid eddf9ac2|Illustration Abstract Blue Organic Forms On Geometric Grid]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - branching organic forms|Artist - Branching Organic Forms]] — shared language: organic, forms
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: organic, forms
 - [[_archive/auto-generated/images-stale/continuous line drawing of organic forms 2023 c6ec5dca|continuous line drawing of organic forms 2023]] — shared language: organic, forms
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: organic, forms
-- [[knowledge/wiki/images/Illustration Continuous Line Drawing of Abstract Organic Forms on Paper c89e4e81|Illustration Continuous Line Drawing of Abstract Organic Forms on Paper]] — shared language: organic, forms
 <!-- vault-crosslinks:end -->

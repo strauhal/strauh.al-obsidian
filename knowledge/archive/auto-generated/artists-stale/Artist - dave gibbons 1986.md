@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — named in this note
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
-- [[knowledge/wiki/images/Photograph Sarcastic Letter From Dave About Treefort Complaint db763ed6|Photograph Sarcastic Letter From Dave About Treefort Complaint]] — shared language: dave
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: dave
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: dave
-- [[knowledge/wiki/images/maniac mansion dave s room scene by lucasfilm games 1987 a5ffa292|maniac mansion dave s room scene by lucasfilm games 1987]] — shared language: dave
+- [[_archive/auto-generated/images-stale/Photograph Sarcastic Letter From Dave About Treefort Complaint db763ed6|Photograph Sarcastic Letter From Dave About Treefort Complaint]] — shared language: dave
+- [[knowledge/wiki/images/Sarcastic Letter From Dave About Treefort Complaint 6ef6ca22|Sarcastic Letter From Dave About Treefort Complaint]] — shared language: dave
 <!-- vault-crosslinks:end -->

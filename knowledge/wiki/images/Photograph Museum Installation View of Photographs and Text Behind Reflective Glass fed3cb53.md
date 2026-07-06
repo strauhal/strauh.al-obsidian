@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mus
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[knowledge/wiki/images/Illustration Document with Text and Grid of Black and White Photographs of a Coyote dcedb82c|Illustration Document with Text and Grid of Black and White Photographs of a Coyote]] — shared language: photographs, text
 - [[knowledge/wiki/anchors/museum|museum]] — shared language: museum
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface ac3f5e52|Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: reflective
+- [[knowledge/wiki/images/Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface 88017b08|Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: reflective
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 <!-- vault-crosslinks:end -->

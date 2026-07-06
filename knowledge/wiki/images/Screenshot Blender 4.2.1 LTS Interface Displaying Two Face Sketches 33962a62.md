@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Blender Software Interface Displaying Wireframe Sketch of a Face 598a4331|Screenshot Blender Software Interface Displaying Wireframe Sketch of a Face]] — shared language: blender, interface, displaying
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: interface, screenshot, face
+- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993 a25792c4|screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993]] — shared language: interface, displaying, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Adobe Dimensions 3.0 Interface Displaying Wireframe 3D Models 3827123a|Screenshot Screenshot of Adobe Dimensions 3.0 Interface Displaying Wireframe 3D Models]] — shared language: interface, displaying, screenshot
 <!-- vault-crosslinks:end -->

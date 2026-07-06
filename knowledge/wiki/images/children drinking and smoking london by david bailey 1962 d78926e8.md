@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/children_drinkin
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/images/Illustration Painterly Portrait of Person Drinking and Smoking a3bf8957|Illustration Painterly Portrait of Person Drinking and Smoking]] — shared language: drinking, smoking
-- [[knowledge/wiki/images/Screenshot Mads Mikkelsen Thinking, Smoking, and Drinking Wine 301a3e24|Screenshot Mads Mikkelsen Thinking, Smoking, and Drinking Wine]] — shared language: drinking, smoking
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 <!-- vault-crosslinks:end -->

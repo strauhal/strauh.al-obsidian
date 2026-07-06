@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Derrida Jacques - Of Grammatology.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Of Grammatology
@@ -37,8 +37,8 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/jean-baudrillard-mark-poster-jacques-mourrain-jean-baudrillard-selected-writings-second-edition|Jean Baudrillard Selected Writings Second Edition]] — same category: philosophy
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy

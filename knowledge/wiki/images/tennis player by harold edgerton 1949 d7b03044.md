@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/tennis_player_by
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Tennis Serve by Harold Edgerton a9a601f9|Photograph Tennis Serve by Harold Edgerton]] — same artist: harold edgerton
+- [[knowledge/wiki/images/Tennis Serve by Harold Edgerton 9c7ad146|Tennis Serve by Harold Edgerton]] — same artist: harold edgerton
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Diver by Harold Edgerton (1955) 81f5f771|Diver by Harold Edgerton (1955)]] — shared language: edgerton, harold
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: harold

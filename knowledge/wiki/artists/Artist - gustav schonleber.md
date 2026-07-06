@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/head of a woman by gustav klimt c 1917 40c45e1f|head of a woman by gustav klimt c 1917]] — shared language: gustav
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
 - [[knowledge/wiki/images/On Lake Attersee by Gustav Klimt 80d2aa4e|On Lake Attersee by Gustav Klimt]] — shared language: gustav
+- [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: gustav
 - [[knowledge/wiki/images/death and life by gustav klimt 19101915 31900ead|death and life by gustav klimt 19101915]] — shared language: gustav
-- [[knowledge/wiki/images/death and life by gustav klimt 1915 01db768d|death and life by gustav klimt 1915]] — shared language: gustav
 <!-- vault-crosslinks:end -->

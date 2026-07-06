@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_dragon_s_lai
 - [[knowledge/wiki/images/dragon rider by larry elmore 1983 abf151ad|dragon rider by larry elmore 1983]] — same artist: larry elmore
 - [[knowledge/wiki/images/the dragon s lair by sue miller 1997 631b8583|the dragon s lair by sue miller 1997]] — shared language: lair, dragon
 - [[knowledge/wiki/images/wolfgang paalen the lair 1939 917614e9|wolfgang paalen the lair 1939]] — shared language: lair
+- [[knowledge/wiki/artists/Artist - Larry Clark|Artist - Larry Clark]] — shared language: larry
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — shared language: larry
-- [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: dragon
 <!-- vault-crosslinks:end -->

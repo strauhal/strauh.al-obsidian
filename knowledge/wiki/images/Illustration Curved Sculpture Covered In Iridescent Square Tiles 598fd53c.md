@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved
-- [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: curved
 - [[knowledge/wiki/images/Photograph Four Blue and White Ceramic Tiles in a Wooden Frame 40df4fc6|Photograph Four Blue and White Ceramic Tiles in a Wooden Frame]] — shared language: tiles
-- [[knowledge/wiki/images/Photograph Modern White Building with Curved Architecture and Large Windows d9a56800|Photograph Modern White Building with Curved Architecture and Large Windows]] — shared language: curved
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
+- [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: curved
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: sculpture
 <!-- vault-crosslinks:end -->

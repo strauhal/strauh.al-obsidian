@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Vintage Car Driving Past Chicago Skyscrapers 88c9bd77|Photograph Vintage Car Driving Past Chicago Skyscrapers]] — shared language: skyscrapers, driving, past
+- [[_archive/auto-generated/images-stale/Photograph Vintage Car Driving Past Chicago Skyscrapers 88c9bd77|Photograph Vintage Car Driving Past Chicago Skyscrapers]] — shared language: skyscrapers, driving, past
+- [[knowledge/wiki/images/Vintage Car Driving Past Chicago Skyscrapers b25e17e9|Vintage Car Driving Past Chicago Skyscrapers]] — shared language: skyscrapers, driving, past
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage, past
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
 <!-- vault-crosslinks:end -->

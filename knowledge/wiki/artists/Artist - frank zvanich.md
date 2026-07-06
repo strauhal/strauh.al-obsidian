@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - f h zvanich|Artist - f h zvanich]] — shared language: zvanich
 - [[knowledge/wiki/images/cowboys and horses checking a map near a u s mailbox by f h zvanich 1971 ca762a2f|cowboys and horses checking a map near a u s mailbox by f h zvanich 1971]] — shared language: zvanich
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: frank
 <!-- vault-crosslinks:end -->

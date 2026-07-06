@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/jacobcollins_jpg
 - [[knowledge/wiki/images/1924 127 woman at her toilette jpg ac25da2f|1924 127 woman at her toilette jpg]] — shared language: jpg.jpg
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: jpg.jpg
 - [[knowledge/wiki/images/toshio saeki jpg ad71c0fe|toshio saeki jpg]] — shared language: jpg.jpg
-- [[knowledge/wiki/images/1943 580 woman elevation jpg 3e045101|1943 580 woman elevation jpg]] — shared language: jpg.jpg
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

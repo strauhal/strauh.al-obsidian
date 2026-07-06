@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application 37b699a4|Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: sequences, pose, guitar
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, models, showing
+- [[_archive/auto-generated/images-stale/Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application 37b699a4|Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: sequences, pose, guitar
+- [[knowledge/wiki/images/3D Hand Models, Pose Sequences, and Guitar Playing Application 7701e011|3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: sequences, pose, guitar
 - [[_archive/auto-generated/images-stale/framed painting of an older man playing guitar a8003995|framed painting of an older man playing guitar]] — shared language: guitar, playing
 - [[knowledge/wiki/images/Illustration Two Stylized Figures in Dynamic Pose from a Book bfe74b12|Illustration Two Stylized Figures in Dynamic Pose from a Book]] — shared language: pose
 - [[knowledge/wiki/images/Photograph Photograph of a Display Case Showing a Clenched Hand Image 76568dcf|Photograph Photograph of a Display Case Showing a Clenched Hand Image]] — shared language: hand, showing

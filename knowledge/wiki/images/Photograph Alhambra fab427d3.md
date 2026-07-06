@@ -27,5 +27,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Alh
 
 - [[knowledge/wiki/images/interior of the torre de los infantes alhambra by john singer sargent 1881 23898425|interior of the torre de los infantes alhambra by john singer sargent 1881]] — shared language: alhambra
 - [[knowledge/wiki/artists/Artist - john singer sargent|Artist - john singer sargent]] — shared language: alhambra
-- [[knowledge/wiki/images/Photograph Alex Karp Doing Handstand At New York Times DealBook Summit 79b4dfa6|Photograph Alex Karp Doing Handstand At New York Times DealBook Summit]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Airplane Approaching Smoking World Trade Center Tower 03634adb|Photograph Airplane Approaching Smoking World Trade Center Tower]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

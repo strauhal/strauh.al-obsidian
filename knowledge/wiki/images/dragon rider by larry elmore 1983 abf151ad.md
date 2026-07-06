@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/dragon_rider_by_
 
 - [[knowledge/wiki/images/the dragon s lair by larry elmore 1990 449f1440|the dragon s lair by larry elmore 1990]] — same artist: larry elmore
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
+- [[knowledge/wiki/artists/Artist - Larry Clark|Artist - Larry Clark]] — shared language: larry
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — shared language: larry
 - [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: dragon
-- [[knowledge/wiki/images/Illustration Oil Painting of Rider on Horseback in Desert Canyon e2a1a40a|Illustration Oil Painting of Rider on Horseback in Desert Canyon]] — shared language: rider
 <!-- vault-crosslinks:end -->

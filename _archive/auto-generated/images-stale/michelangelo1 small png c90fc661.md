@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: small
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
 - [[_archive/auto-generated/images-stale/framed small portrait of a woman in white against gray 66b0d3a4|framed small portrait of a woman in white against gray]] — shared language: small
 - [[knowledge/wiki/images/Illustration Abstract Curvilinear Architectural Sketch with Small Figures 7d027290|Illustration Abstract Curvilinear Architectural Sketch with Small Figures]] — shared language: small
-- [[_archive/auto-generated/images-stale/pink geometric abstraction with small figures 8dde5110|pink geometric abstraction with small figures]] — shared language: small
+- [[_archive/auto-generated/images-stale/small etched cat portrait 34dec11b|small etched cat portrait]] — shared language: small
 <!-- vault-crosslinks:end -->

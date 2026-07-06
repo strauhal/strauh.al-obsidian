@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 - [[knowledge/wiki/images/Photograph Photograph of an Open Book Page with Illustrations 4016926f|Photograph Photograph of an Open Book Page with Illustrations]] — shared language: book, page
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/images/Document Open Book Showing Black and White Tibetan Prayer Flag Illustration 85cb029a|Document Open Book Showing Black and White Tibetan Prayer Flag Illustration]] — shared language: tibetan, book, illustration.jpeg
-- [[knowledge/wiki/images/Photograph Photograph of a Book Page with an Illustration of Light and Color cdea9c1a|Photograph Photograph of a Book Page with an Illustration of Light and Color]] — shared language: book, page
+- [[knowledge/wiki/images/Photograph of a Book Page with an Illustration of Light and Color 755352db|Photograph of a Book Page with an Illustration of Light and Color]] — shared language: book, page
 <!-- vault-crosslinks:end -->

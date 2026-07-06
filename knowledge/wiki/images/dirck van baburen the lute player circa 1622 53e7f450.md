@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/dirck_van_babure
 - [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: circa
 - [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: circa
 - [[knowledge/wiki/images/theodor von hrmann der calvarienberg bei linz circa 1885 3e4bf952|theodor von hrmann der calvarienberg bei linz circa 1885]] — shared language: circa
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Trumpet Player On Stage a8bb6960|Photograph Black And White Photograph Of A Trumpet Player On Stage]] — shared language: player
+- [[knowledge/wiki/images/Black And White Photograph Of A Trumpet Player On Stage 26065ae5|Black And White Photograph Of A Trumpet Player On Stage]] — shared language: player
 <!-- vault-crosslinks:end -->

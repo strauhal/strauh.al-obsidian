@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Sheep Among Computer Servers And Wires 652748c9|Photograph Sheep Among Computer Servers And Wires]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Sheep Among Computer Servers And Wires 652748c9|Photograph Sheep Among Computer Servers And Wires]] — named in this note
+- [[knowledge/wiki/images/Sheep Among Computer Servers And Wires c1467168|Sheep Among Computer Servers And Wires]] — named in this note
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
 <!-- vault-crosslinks:end -->

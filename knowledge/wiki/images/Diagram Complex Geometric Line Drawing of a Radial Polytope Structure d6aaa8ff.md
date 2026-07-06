@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Comple
 
 - [[knowledge/wiki/images/Diagram Complex Geometric Diagram of a Six Dimensional Polytope a46a5020|Diagram Complex Geometric Diagram of a Six Dimensional Polytope]] — shared language: polytope, complex, diagram
 - [[knowledge/wiki/images/Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection 962101aa|Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection]] — shared language: polytope, complex, diagram
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[knowledge/wiki/images/Document Document Page With A Complex Geometric Line Diagram 2c888ac0|Document Document Page With A Complex Geometric Line Diagram]] — shared language: complex, geometric, line
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, structure
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 <!-- vault-crosslinks:end -->

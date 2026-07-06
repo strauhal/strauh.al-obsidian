@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1530s"
 source_kind: "date_bucket"
-count: "9"
+count: "8"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1530s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 9
+Files: 8
 
 ## Sample
 
@@ -28,8 +28,6 @@ Files: 9
 ![[media/strauh.al3.1/1500s/saint_agnes_by_andrea_del_sarto_c_1527_1530.jpeg]]
 
 ![[media/strauh.al3.1/1500s/the_golden_age_l_age_d_or_by_lucas_cranach_the_elder_c_1530.jpeg]]
-
-![[media/strauh.al3.1/photography/IMG_1531.JPG]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

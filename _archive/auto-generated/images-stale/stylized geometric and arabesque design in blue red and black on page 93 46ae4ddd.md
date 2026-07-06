@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Stylized Geometric And Arabesque Design On Page 93 8a7d20cd|Illustration Stylized Geometric And Arabesque Design On Page 93]] — shared language: arabesque, design, page
 - [[knowledge/wiki/images/Illustration Stylized Geometric Design with Red and Blue Central Motif 3a8be611|Illustration Stylized Geometric Design with Red and Blue Central Motif]] — shared language: design, geometric, stylized
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/images/Photograph Circular Islamic Geometric and Arabesque Tile Mosaic cb82b8ef|Photograph Circular Islamic Geometric and Arabesque Tile Mosaic]] — shared language: arabesque, geometric
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 <!-- vault-crosslinks:end -->

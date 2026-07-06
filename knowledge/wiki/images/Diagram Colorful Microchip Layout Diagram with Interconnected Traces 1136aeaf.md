@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Colorf
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, colorful
 - [[knowledge/wiki/images/Photograph Close Up View of a Colorful Microchip Die 5a6b3d0d|Photograph Close Up View of a Colorful Microchip Die]] — shared language: microchip, colorful
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: traces
-- [[knowledge/wiki/images/Diagram Colorful Map of Chicago Neighborhoods a376e21d|Diagram Colorful Map of Chicago Neighborhoods]] — shared language: colorful, diagram
 - [[knowledge/wiki/images/Diagram Multicolor Diagram of Complex Electronic Circuitry Layout 7c2298c4|Diagram Multicolor Diagram of Complex Electronic Circuitry Layout]] — shared language: layout, diagram
+- [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: layout
+- [[knowledge/wiki/images/Colorful QR Code Structure Diagram With Legend a9f2ddc7|Colorful QR Code Structure Diagram With Legend]] — shared language: colorful, diagram
 <!-- vault-crosslinks:end -->

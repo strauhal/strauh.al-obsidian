@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-swimming-pool|Artist - a swimming pool]] — shared language: swimming
 - [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — shared language: swimming
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
-- [[_archive/auto-generated/images-stale/oil painting of figures and a dog by a swimming pool fb148c03|oil painting of figures and a dog by a swimming pool]] — shared language: swimming
+- [[_archive/auto-generated/images-stale/framed expressionist painting with red and yellow figures 0a69c0d0|framed expressionist painting with red and yellow figures]] — shared language: framed, figures.jpeg
 <!-- vault-crosslinks:end -->

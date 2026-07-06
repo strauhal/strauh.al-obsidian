@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
-- [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition, large
 - [[knowledge/wiki/images/Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings ac49cb4a|Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings]] — shared language: exhibition, interior
-- [[knowledge/wiki/images/Photograph Man Posing With Abstract Drawing At Exhibition af4b949b|Photograph Man Posing With Abstract Drawing At Exhibition]] — shared language: exhibition
+- [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition, large
+- [[knowledge/wiki/images/Man Posing With Abstract Drawing At Exhibition e3ad2e14|Man Posing With Abstract Drawing At Exhibition]] — shared language: exhibition
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
 <!-- vault-crosslinks:end -->

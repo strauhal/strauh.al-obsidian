@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Per
 - [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: shoulders, head
 - [[knowledge/wiki/images/Illustration Black and White Halftone Profile of a Person's Head 3fdc0aff|Illustration Black and White Halftone Profile of a Person's Head]] — shared language: person's, head
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: bright
-- [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: silhouetted, against
+- [[knowledge/wiki/images/Silhouetted Person Sitting in Dark, Empty Room with Bright Window 9a654a41|Silhouetted Person Sitting in Dark, Empty Room with Bright Window]] — shared language: silhouetted, bright
 <!-- vault-crosslinks:end -->

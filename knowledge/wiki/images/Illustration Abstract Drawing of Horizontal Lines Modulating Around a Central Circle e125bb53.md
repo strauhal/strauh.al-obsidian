@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 - [[knowledge/wiki/images/Illustration Stylized Figures Dancing Around a Central Fire 81bd370b|Illustration Stylized Figures Dancing Around a Central Fire]] — shared language: around, central
 - [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, lines
-- [[knowledge/wiki/images/Photograph Person Painting Horizontal Colored Lines on a Brick Wall 3162d328|Photograph Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: horizontal, lines
+- [[knowledge/wiki/images/Person Painting Horizontal Colored Lines on a Brick Wall bbf9f2c6|Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: horizontal, lines
 <!-- vault-crosslinks:end -->

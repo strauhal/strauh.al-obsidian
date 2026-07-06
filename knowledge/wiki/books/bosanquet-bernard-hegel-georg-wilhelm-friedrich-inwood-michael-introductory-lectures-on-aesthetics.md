@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Bosanquet, Bernard_Hegel,Georg,Wilhelm Friedrich_Inwood, Michael - Introductory Lectures on Aesthetics (2010_2004, Penguin Group USA, Inc.) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Introductory Lectures on Aesthetics

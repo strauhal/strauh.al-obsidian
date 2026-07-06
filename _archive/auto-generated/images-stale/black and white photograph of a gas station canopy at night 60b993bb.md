@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station, night
-- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: gas, station, night
-- [[knowledge/wiki/images/Photograph Man Pumping Gas At Family Express Station At Night 656a7443|Photograph Man Pumping Gas At Family Express Station At Night]] — shared language: gas, station, night
-- [[knowledge/wiki/images/Photograph Military Vehicles And Civilian Cars At A Gas Station At Night e1f6e3a5|Photograph Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: gas, station, night
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station
+- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station, night
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station, night
+- [[knowledge/wiki/images/Man Pumping Gas At Family Express Station At Night c7a2a92c|Man Pumping Gas At Family Express Station At Night]] — shared language: gas, station, night
+- [[_archive/auto-generated/images-stale/Photograph Man Pumping Gas At Family Express Station At Night 656a7443|Photograph Man Pumping Gas At Family Express Station At Night]] — shared language: gas, station, night
+- [[knowledge/wiki/images/Military Vehicles And Civilian Cars At A Gas Station At Night 2a2a088f|Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: gas, station, night
 <!-- vault-crosslinks:end -->

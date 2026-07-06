@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/egon_schiele_sit
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon
 - [[knowledge/wiki/books/egon-schiele-schiele-drawings-dover-publications|Schiele Drawings-Dover Publications]] — shared language: schiele, egon
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon
 <!-- vault-crosslinks:end -->

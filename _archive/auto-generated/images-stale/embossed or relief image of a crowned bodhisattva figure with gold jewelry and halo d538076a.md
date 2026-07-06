@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Close Up of Embossed Buddhist Deity with Gold Jewelry and Halo c780b84e|Illustration Close Up of Embossed Buddhist Deity with Gold Jewelry and Halo]] — shared language: embossed, jewelry, halo
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: halo, gold
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: halo
 - [[knowledge/wiki/images/Illustration Religious Painting of Woman with Halo, Angels, and Gold Background 26604247|Illustration Religious Painting of Woman with Halo, Angels, and Gold Background]] — shared language: halo, gold
 - [[knowledge/wiki/images/Illustration Black And White Line Drawing Of A Crowned Figure With Outstretched Arm d7529ad8|Illustration Black And White Line Drawing Of A Crowned Figure With Outstretched Arm]] — shared language: crowned
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry cc101935|Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry]] — shared language: jewelry

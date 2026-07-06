@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
 - [[knowledge/wiki/artists/Artist - Kim Jung Gi|Artist - Kim Jung Gi]] — shared language: kim
-- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close, close-up
-- [[knowledge/wiki/images/Photograph Man With Bloody Mouth Holding Clear Sheet 577021e2|Photograph Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
-- [[knowledge/wiki/images/Photograph Close up Photograph of Circuit Board with Cat Shaped Traces a55798ba|Photograph Close up Photograph of Circuit Board with Cat Shaped Traces]] — shared language: close, cat, close-up
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
+- [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: bloody
+- [[knowledge/wiki/images/Illustration Purple Line Sketch of Armored Winged Creature with Horns and Claws 6f6dc577|Illustration Purple Line Sketch of Armored Winged Creature with Horns and Claws]] — shared language: claws
+- [[knowledge/wiki/images/Close up Photograph of Circuit Board with Cat Shaped Traces 32f2bbdc|Close up Photograph of Circuit Board with Cat Shaped Traces]] — shared language: close, cat, close-up
 <!-- vault-crosslinks:end -->

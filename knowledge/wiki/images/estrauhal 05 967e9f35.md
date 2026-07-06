@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/estrauhal_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/estrauhal 05 resized b10d6561|estrauhal 05 resized]] — shared language: estrauhal
 - [[knowledge/wiki/images/estrauhal 03 1cfddd17|estrauhal 03]] — shared language: estrauhal
 - [[knowledge/wiki/images/estrauhal 29 8498da0e|estrauhal 29]] — shared language: estrauhal
 - [[knowledge/wiki/collections/Collection - wallpapers|Collection - wallpapers]] — shared language: estrauhal
-- [[knowledge/wiki/pages/photography|photography]] — shared language: estrauhal
+- [[knowledge/wiki/pages/wallpapers|wallpapers]] — shared language: estrauhal
+- [[knowledge/wiki/pages/donate|donate]] — shared language: estrauhal
 <!-- vault-crosslinks:end -->

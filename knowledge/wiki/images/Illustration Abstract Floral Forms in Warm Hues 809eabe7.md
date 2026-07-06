@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Geometric Forms in Red and Brown Hues 6ac1d4ff|Illustration Abstract Geometric Forms in Red and Brown Hues]] — shared language: hues, forms, hues.jpeg
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/images/Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors 138237a2|Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors]] — shared language: warm, forms
-- [[knowledge/wiki/images/Illustration Stylized Portrait with Topographic Lines and Golden Hues 02c70165|Illustration Stylized Portrait with Topographic Lines and Golden Hues]] — shared language: hues
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral
+- [[knowledge/wiki/images/False Color Thermal Map with Red and Green Hues f5611f66|False Color Thermal Map with Red and Green Hues]] — shared language: hues, hues.jpeg
 <!-- vault-crosslinks:end -->

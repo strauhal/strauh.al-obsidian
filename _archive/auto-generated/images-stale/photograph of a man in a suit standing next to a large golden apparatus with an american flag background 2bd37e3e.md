@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american, suit
-- [[knowledge/wiki/images/Photograph President Joe Biden Next To Quantum Computer With American Flag Background 9fa36fd0|Photograph President Joe Biden Next To Quantum Computer With American Flag Background]] — shared language: flag, american, next
+- [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american, suit
+- [[_archive/auto-generated/images-stale/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american, suit
+- [[_archive/auto-generated/images-stale/Photograph President Joe Biden Next To Quantum Computer With American Flag Background 9fa36fd0|Photograph President Joe Biden Next To Quantum Computer With American Flag Background]] — shared language: flag, american, next
+- [[knowledge/wiki/images/President Joe Biden Next To Quantum Computer With American Flag Background df038ca2|President Joe Biden Next To Quantum Computer With American Flag Background]] — shared language: flag, american, next
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
-- [[knowledge/wiki/images/Photograph Man in Suit Standing by Large Rocket Engines 24d7fe6d|Photograph Man in Suit Standing by Large Rocket Engines]] — shared language: suit, standing, large
-- [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: suit, background
 <!-- vault-crosslinks:end -->

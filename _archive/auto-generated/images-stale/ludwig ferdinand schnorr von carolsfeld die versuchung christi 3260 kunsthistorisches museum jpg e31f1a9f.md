@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/a r penck die rothschildgiraffe 1978 87df1674|a r penck die rothschildgiraffe 1978]] — shared language: die
 - [[knowledge/wiki/images/The Sleepers by Ferdinand Hodler (1907) 0728bb9c|The Sleepers by Ferdinand Hodler (1907)]] — shared language: ferdinand
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
 <!-- vault-crosslinks:end -->

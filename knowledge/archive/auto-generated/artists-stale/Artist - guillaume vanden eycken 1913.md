@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - georges vanden eycken 1913|Artist - georges vanden eycken 1913]] — shared language: vanden, eycken, quill
 - [[knowledge/wiki/images/kitten playing with a quill by georges vanden eycken 1913 565f62f2|kitten playing with a quill by georges vanden eycken 1913]] — shared language: vanden, eycken, quill
 - [[knowledge/wiki/images/sir frank dicksee the sick kitten 1879 52939458|sir frank dicksee the sick kitten 1879]] — shared language: kitten
-- [[knowledge/wiki/images/Photograph Kitten on Desk with Computer Monitor and Personal Items 9fa4427b|Photograph Kitten on Desk with Computer Monitor and Personal Items]] — shared language: kitten
+- [[knowledge/wiki/images/Kitten on Desk with Computer Monitor and Personal Items 7e7c60c6|Kitten on Desk with Computer Monitor and Personal Items]] — shared language: kitten
 <!-- vault-crosslinks:end -->

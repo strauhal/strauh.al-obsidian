@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - waneella 2019|Artist - waneella 2019]] — named in this note
 - [[_archive/auto-generated/images-stale/the brinmansta by waneella 2019 0e89c52e|the brinmansta by waneella 2019]] — same artist: waneella
 - [[_archive/auto-generated/images-stale/baron town by waneella 2019 ef4c7cb5|baron town by waneella 2019]] — same artist: waneella
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
 <!-- vault-crosslinks:end -->

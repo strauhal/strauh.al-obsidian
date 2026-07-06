@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — named in this note
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining, nude, line
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude, reclining
+- [[_archive/auto-generated/images-stale/blue line drawing print of an overlapping nude female figure f05c994e|blue line drawing print of an overlapping nude female figure]] — shared language: female, nude, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/line drawing of a reclining nude woman by pablo picasso 1969 8142483f|line drawing of a reclining nude woman by pablo picasso 1969]] — shared language: reclining, nude, line
 <!-- vault-crosslinks:end -->

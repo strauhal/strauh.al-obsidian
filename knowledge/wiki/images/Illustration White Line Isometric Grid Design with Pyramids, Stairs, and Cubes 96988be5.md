@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/images/the stairs by the dark 1989 71958ceb|the stairs by the dark 1989]] — shared language: stairs
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
+- [[knowledge/wiki/images/the stairs by the dark 1989 71958ceb|the stairs by the dark 1989]] — shared language: stairs
+- [[knowledge/wiki/images/Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun f60e153d|Illustration Two Green Crocodiles Walk Past Pyramids Under Red Sun]] — shared language: pyramids
+- [[knowledge/wiki/images/Illustration Black and White Graphic Design with Wavy Grid Pattern and Text 5c33a8d6|Illustration Black and White Graphic Design with Wavy Grid Pattern and Text]] — shared language: design, grid
 <!-- vault-crosslinks:end -->

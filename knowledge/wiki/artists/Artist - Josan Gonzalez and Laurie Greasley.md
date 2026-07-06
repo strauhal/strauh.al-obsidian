@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Pepe Gonzalez|Artist - Pepe Gonzalez]] — shared language: gonzalez
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: gonzalez
 - [[knowledge/wiki/images/Marlon Brando by J. Gonzalez (1980) ed277ed0|Marlon Brando by J. Gonzalez (1980)]] — shared language: gonzalez
-- [[knowledge/wiki/images/Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez 75c84caa|Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez]] — shared language: gonzalez
 - [[knowledge/wiki/images/illustration of a man protecting a youth in an orange forest by jose gonzalez 1971 a1bb2f97|illustration of a man protecting a youth in an orange forest by jose gonzalez 1971]] — shared language: gonzalez
+- [[knowledge/wiki/images/Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez 75c84caa|Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

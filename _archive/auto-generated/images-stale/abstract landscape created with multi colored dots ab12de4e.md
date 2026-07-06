@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Artwork Composed of Multi Colored Dots on Paper 43ef3b1e|Illustration Abstract Artwork Composed of Multi Colored Dots on Paper]] — shared language: dots, multi, colored
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colored
 - [[knowledge/wiki/images/Illustration Multi Colored Pen Sketches of Three Faces 5588ce5b|Illustration Multi Colored Pen Sketches of Three Faces]] — shared language: multi, colored
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: created
 - [[_archive/auto-generated/images-stale/multi colored pen sketches of three faces on tan paper 7e8d73e3|multi colored pen sketches of three faces on tan paper]] — shared language: multi, colored
+- [[knowledge/wiki/images/North American Map Showing Multi Colored Network Lines and Cities 68fcbb81|North American Map Showing Multi Colored Network Lines and Cities]] — shared language: multi, colored
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Fo
 
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Photograph Young Sergei Rachmaninoff in a Formal Portrait 4f13cb68|Photograph Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: formal
+- [[knowledge/wiki/images/Young Sergei Rachmaninoff in a Formal Portrait 2a0291ec|Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: formal
 - [[knowledge/wiki/images/Photograph The ceiling of Shah Mosque in Isfahan, Iran 9f89b015|Photograph The ceiling of Shah Mosque in Isfahan, Iran]] — shared language: iran
 - [[knowledge/wiki/images/Document Galathee a37e5486|Document Galathee]] — shared language: document
 <!-- vault-crosslinks:end -->

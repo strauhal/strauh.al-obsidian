@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: north, star, great
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-great-north-star-2020|Artist - the great north star 2020]] — shared language: north, star, great
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: north
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: great
 - [[knowledge/archive/auto-generated/artists-stale/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: star
+- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: star
 <!-- vault-crosslinks:end -->

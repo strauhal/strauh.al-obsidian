@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Donald Trump and Man Examine Trump Merchandise Display ef9f44bc|Photograph Donald Trump and Man Examine Trump Merchandise Display]] — shared language: merchandise, trump, donald
 - [[knowledge/wiki/images/Photograph Donald Trump and Official View Trump Mugshot T Shirt Display 039ce2ab|Photograph Donald Trump and Official View Trump Mugshot T Shirt Display]] — shared language: trump, donald, display
 - [[_archive/auto-generated/images-stale/photo of donald trump with a man in a gallery 2a0d7b4c|photo of donald trump with a man in a gallery]] — shared language: donald, trump
-- [[knowledge/wiki/images/Photograph Donald Trump Backlit Against Bright Blue Sky 9f9c7c55|Photograph Donald Trump Backlit Against Bright Blue Sky]] — shared language: donald, trump
-- [[knowledge/wiki/images/Photograph Donald Trump and Christian Bale Posing Indoors 89fcbcfb|Photograph Donald Trump and Christian Bale Posing Indoors]] — shared language: donald, trump
+- [[knowledge/wiki/images/Donald Trump Watches Boy Play With Fingerboard 37773606|Donald Trump Watches Boy Play With Fingerboard]] — shared language: donald, trump
+- [[knowledge/wiki/images/Photograph Donald Trump And Kim Jong Un At DMZ, Photographers Present b7a2a2d8|Photograph Donald Trump And Kim Jong Un At DMZ, Photographers Present]] — shared language: donald, trump
 <!-- vault-crosslinks:end -->

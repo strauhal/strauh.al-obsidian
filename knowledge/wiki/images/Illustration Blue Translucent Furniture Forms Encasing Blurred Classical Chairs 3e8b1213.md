@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Layered Blue and Purple Translucent Forms 0c81b77e|Illustration Abstract Layered Blue and Purple Translucent Forms]] — shared language: translucent, forms
-- [[knowledge/wiki/images/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 - [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: classical
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 - [[knowledge/wiki/books/thomas-g-wong-introduction-to-classical-and-quantum-computing|Introduction to Classical and Quantum Computing]] — shared language: classical
-- [[knowledge/wiki/images/Photograph Blurred Figures on a Wet Street in Black and White 4af3442a|Photograph Blurred Figures on a Wet Street in Black and White]] — shared language: blurred
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical
 <!-- vault-crosslinks:end -->

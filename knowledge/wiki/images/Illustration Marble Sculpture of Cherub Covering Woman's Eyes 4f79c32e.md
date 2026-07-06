@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: woman's
+- [[knowledge/wiki/images/People Posing With A Large Marble Sculpture In A Museum 5a44c5ed|People Posing With A Large Marble Sculpture In A Museum]] — shared language: marble, sculpture
 - [[knowledge/wiki/images/Photograph Marble Sculpture of a Male Torso on Display 504a0ace|Photograph Marble Sculpture of a Male Torso on Display]] — shared language: marble, sculpture
 - [[knowledge/wiki/images/Illustration Fragmented Marble Sculpture of a Nude Male Torso 640dace3|Illustration Fragmented Marble Sculpture of a Nude Male Torso]] — shared language: marble, sculpture
 - [[knowledge/wiki/images/Illustration Woman Covering Boy's Eyes in a Garden 2843bc6d|Illustration Woman Covering Boy's Eyes in a Garden]] — shared language: covering, eyes
-- [[knowledge/wiki/images/Illustration Red Car Drifting with Woman's Eyes in Background e58fae25|Illustration Red Car Drifting with Woman's Eyes in Background]] — shared language: woman's, eyes
 <!-- vault-crosslinks:end -->

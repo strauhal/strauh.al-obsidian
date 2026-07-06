@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_march_of_the
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - Scott McCloud|Artist - Scott McCloud]] — shared language: scott
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: march
+- [[knowledge/wiki/artists/Artist - J. Scott Applewhite|Artist - J. Scott Applewhite]] — shared language: scott
 <!-- vault-crosslinks:end -->

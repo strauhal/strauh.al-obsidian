@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/screen door png 19aa7855|screen door png]] — shared language: door, screen
-- [[knowledge/wiki/images/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: door, screen, trees
+- [[_archive/auto-generated/images-stale/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: door, screen, trees
+- [[knowledge/wiki/images/Trees Seen Through A Screen Door 5e2666be|Trees Seen Through A Screen Door]] — shared language: door, screen, trees
 - [[_archive/auto-generated/images-stale/photo of two black cats by a glass door 2 c84476a3|photo of two black cats by a glass door 2]] — shared language: door, photo
-- [[_archive/auto-generated/images-stale/photo of two black cats by a glass door c5051b95|photo of two black cats by a glass door]] — shared language: door, photo
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — named in this note
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — named in this note
 - [[knowledge/wiki/images/Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter d54e918c|Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter]] — shared language: helicopter, officers, police
+- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — shared language: police, jumpsuit, escorted
 - [[_archive/auto-generated/images-stale/photograph of a handcuffed man in an orange jumpsuit escorted by police ffe04127|photograph of a handcuffed man in an orange jumpsuit escorted by police]] — shared language: police, jumpsuit, escorted
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: police, jumpsuit, escorted
 <!-- vault-crosslinks:end -->

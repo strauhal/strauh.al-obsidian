@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, crowd
-- [[knowledge/wiki/images/Photograph Crowd Carrying Coffin Clashes With Police During Street Protest 621c8f57|Photograph Crowd Carrying Coffin Clashes With Police During Street Protest]] — shared language: police, crowd, street
-- [[_archive/auto-generated/images-stale/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: crowd, aerial
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, aerial, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, street
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
-- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
+- [[_archive/auto-generated/images-stale/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: crowd, aerial
+- [[knowledge/wiki/images/Crowd Carrying Coffin Clashes With Police During Street Protest 3d4a686d|Crowd Carrying Coffin Clashes With Police During Street Protest]] — shared language: police, crowd, street
 <!-- vault-crosslinks:end -->

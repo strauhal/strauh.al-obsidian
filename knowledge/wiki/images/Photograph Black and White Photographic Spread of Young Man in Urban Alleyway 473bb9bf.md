@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Five Young People Posing On Urban Street 5761ca69|Photograph Black And White Photograph Of Five Young People Posing On Urban Street]] — shared language: urban, young
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi 5acf5bf8|Illustration Black and White Illustration of Alleyway with Person, Sunflowers, and Cats by Masaru Oishi]] — shared language: alleyway
-- [[knowledge/wiki/images/Photograph Black and White Urban Landscape with Buildings and Rooftops 2e18e4fa|Photograph Black and White Urban Landscape with Buildings and Rooftops]] — shared language: urban
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: spread
 - [[knowledge/wiki/images/Urban by Ben Tolman (2015) 0a14e5a2|Urban by Ben Tolman (2015)]] — shared language: urban
 <!-- vault-crosslinks:end -->

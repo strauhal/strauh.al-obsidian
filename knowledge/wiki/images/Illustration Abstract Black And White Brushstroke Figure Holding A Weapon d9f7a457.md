@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/artists/Artist - Weapon Icons In Dark Street|Artist - Weapon Icons In Dark Street]] — shared language: weapon
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Chibi Character Surrounded By Weapon Icons In Dark Street a386ebd7|Illustration Chibi Character Surrounded By Weapon Icons In Dark Street]] — shared language: weapon
-- [[knowledge/wiki/images/Photograph ASML EUV Lithography Machine by ASML Holding f4b7fce2|Photograph ASML EUV Lithography Machine by ASML Holding]] — shared language: holding
+- [[knowledge/wiki/images/A Trumpet Modified With Tactical Weapon Parts And Scope df8f812c|A Trumpet Modified With Tactical Weapon Parts And Scope]] — shared language: weapon
 <!-- vault-crosslinks:end -->

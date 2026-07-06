@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: brian
 - [[knowledge/wiki/books/brian-massumi-on-affect-divine-curation|Brian Massumi on Affect - divine curation]] — shared language: brian
 - [[knowledge/wiki/anchors/brian-de-palma|Brian De Palma]] — shared language: brian
 - [[knowledge/wiki/images/Illustration Brian Eno Quote on Art as Triggers for Experiences fc62d9e9|Illustration Brian Eno Quote on Art as Triggers for Experiences]] — shared language: brian
 - [[knowledge/wiki/images/Document Abstract Graphic Score on Musical Staff Paper with Text 545ca683|Document Abstract Graphic Score on Musical Staff Paper with Text]] — shared language: score, musical, document
-- [[knowledge/wiki/images/Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen 89010eb0|Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen]] — shared language: score, musical, complex
 <!-- vault-crosslinks:end -->

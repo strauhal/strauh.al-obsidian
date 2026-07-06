@@ -21,7 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - joachim beuckelaer|Artist - joachim beuckelaer]] — named in this note
-- [[knowledge/wiki/images/Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums dd9170c1|Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: stall
-- [[knowledge/wiki/images/Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall c9633e89|Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: stall
+- [[knowledge/wiki/images/Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums 6282091e|Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: stall
+- [[_archive/auto-generated/images-stale/Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums dd9170c1|Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: stall
+- [[knowledge/wiki/images/Painting of a Market Fruit Stall Displayed on Gallery Wall 8ae0c6f8|Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: stall
+- [[_archive/auto-generated/images-stale/Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall c9633e89|Photograph Painting of a Market Fruit Stall Displayed on Gallery Wall]] — shared language: stall
 - [[_archive/auto-generated/images-stale/film photograph of various flowers including yellow and red tulips roses and white chrysanthemums at an outdoor stall 7a72c73c|film photograph of various flowers including yellow and red tulips roses and white chrysanthemums at an outdoor stall]] — shared language: stall
 <!-- vault-crosslinks:end -->

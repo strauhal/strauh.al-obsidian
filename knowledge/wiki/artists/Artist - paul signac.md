@@ -26,8 +26,8 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
 - [[knowledge/wiki/artists/Artist - paul klee|Artist - paul klee]] — shared language: paul

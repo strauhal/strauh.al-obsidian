@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Men Installing Road Signs For Fucking And Fugging 4f498970|Photograph Two Men Installing Road Signs For Fucking And Fugging]] — shared language: installing, fugging, fucking
+- [[_archive/auto-generated/images-stale/Photograph Two Men Installing Road Signs For Fucking And Fugging 4f498970|Photograph Two Men Installing Road Signs For Fucking And Fugging]] — shared language: installing, fugging, fucking
+- [[knowledge/wiki/images/Two Men Installing Road Signs For Fucking And Fugging 4b75ae6f|Two Men Installing Road Signs For Fucking And Fugging]] — shared language: installing, fugging, fucking
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: fucking
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
 - [[knowledge/wiki/images/1947 112 a turn in the road jpg b2b94a86|1947 112 a turn in the road jpg]] — shared language: road
-- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
 <!-- vault-crosslinks:end -->

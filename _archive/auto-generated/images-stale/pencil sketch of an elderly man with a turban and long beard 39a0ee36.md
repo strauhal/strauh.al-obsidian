@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: long, pencil, sketch
 - [[_archive/auto-generated/images-stale/pencil sketch of a standing woman in a long coat 189771a7|pencil sketch of a standing woman in a long coat]] — shared language: long, pencil, sketch
-- [[knowledge/wiki/images/Photograph Man With Long Hair And Beard Playing Electronic Keyboard 126743ff|Photograph Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard, long
+- [[knowledge/wiki/images/Man With Long Hair And Beard Playing Electronic Keyboard 6599ec0c|Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard, long
 <!-- vault-crosslinks:end -->

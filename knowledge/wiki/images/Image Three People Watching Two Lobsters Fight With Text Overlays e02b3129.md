@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Three Pe
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 - [[knowledge/wiki/images/Photograph Three People Planking on a Wall Next to Stairs 2349d587|Photograph Three People Planking on a Wall Next to Stairs]] — shared language: people, three
-- [[knowledge/wiki/images/Diagram Man with Face and Hand Tracking Overlays edac8233|Diagram Man with Face and Hand Tracking Overlays]] — shared language: overlays
+- [[knowledge/wiki/images/Man with Face and Hand Tracking Overlays 8a608621|Man with Face and Hand Tracking Overlays]] — shared language: overlays
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
+- [[knowledge/wiki/images/Three Young People at Night, Two Kissing, One Alone c5cc7d6b|Three Young People at Night, Two Kissing, One Alone]] — shared language: people, three
 <!-- vault-crosslinks:end -->

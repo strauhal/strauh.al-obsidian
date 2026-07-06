@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/kali_by_raja_rav
 - [[knowledge/wiki/images/kalki avatar by raja ravi varma c 1894 228221d6|kalki avatar by raja ravi varma c 1894]] — same artist: raja ravi varma
 - [[knowledge/wiki/images/jatayu vadham by raja ravi varma c 1900 8188d2ff|jatayu vadham by raja ravi varma c 1900]] — same artist: raja ravi varma
 - [[knowledge/wiki/images/vishnu on garuda with consorts by raja ravi varma c 1895 510362bc|vishnu on garuda with consorts by raja ravi varma c 1895]] — same artist: raja ravi varma
-- [[knowledge/wiki/images/Photograph Custom Barbie Doll Dressed as Hindu Goddess Kali in Box aa9ac3ea|Photograph Custom Barbie Doll Dressed as Hindu Goddess Kali in Box]] — shared language: kali
+- [[knowledge/wiki/images/Custom Barbie Doll Dressed as Hindu Goddess Kali in Box 548068eb|Custom Barbie Doll Dressed as Hindu Goddess Kali in Box]] — shared language: kali
 <!-- vault-crosslinks:end -->

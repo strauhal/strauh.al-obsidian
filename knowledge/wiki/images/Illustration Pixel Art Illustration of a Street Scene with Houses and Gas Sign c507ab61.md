@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas
 - [[knowledge/wiki/images/Gas by Edward Hopper (1940) 4fa45e02|Gas by Edward Hopper (1940)]] — shared language: gas
 - [[knowledge/wiki/images/Gas by Edward Hopper (1940) 896e6ae4|Gas by Edward Hopper (1940)]] — shared language: gas
-- [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: scene, street
 <!-- vault-crosslinks:end -->

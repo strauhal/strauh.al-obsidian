@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/the_nativity_by_
 - [[knowledge/wiki/artists/Artist - jan saenredam|Artist - jan saenredam]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan weenix|Artist - jan weenix]] — shared language: jan
 - [[knowledge/wiki/images/jan matejko staczyk 1862 995481af|jan matejko staczyk 1862]] — shared language: jan
-- [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan
+- [[knowledge/wiki/artists/Artist - jan lievens|Artist - jan lievens]] — shared language: jan
 <!-- vault-crosslinks:end -->

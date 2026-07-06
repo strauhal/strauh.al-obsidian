@@ -26,6 +26,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Melancholia by T
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Meditation by Seo Young Deok 1abd15ee|Meditation by Seo Young Deok]] — nearby note in the same source series
-- [[knowledge/wiki/images/Meryon Head of a Maori in profile to left, with face markings and a short beard, 1890,1013 5d5b32c1|Meryon Head of a Maori in profile to left, with face markings and a short beard, 1890,1013]] — nearby note in the same source series
+- [[knowledge/wiki/images/Melted And Burnt White Power Strip With Multiple Outlets 5f495e24|Melted And Burnt White Power Strip With Multiple Outlets]] — nearby note in the same source series
 - [[knowledge/wiki/images/Meadows Ridge by Gordon Mortensen 6d5142f2|Meadows Ridge by Gordon Mortensen]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

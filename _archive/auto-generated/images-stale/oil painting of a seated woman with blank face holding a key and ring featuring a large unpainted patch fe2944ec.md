@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Holding Blank White Square Covering Face 919f2387|Photograph Person Holding Blank White Square Covering Face]] — shared language: blank, face, holding
+- [[knowledge/wiki/images/Person Holding Blank White Square Covering Face cb47370e|Person Holding Blank White Square Covering Face]] — shared language: blank, face, holding
+- [[_archive/auto-generated/images-stale/Photograph Person Holding Blank White Square Covering Face 919f2387|Photograph Person Holding Blank White Square Covering Face]] — shared language: blank, face, holding
 - [[_archive/auto-generated/images-stale/oil painting of a seated figure with blurred face holding a cigarette and drink 5a8265cd|oil painting of a seated figure with blurred face holding a cigarette and drink]] — shared language: seated, face, oil
 - [[_archive/auto-generated/images-stale/photograph of an artist s studio featuring a large blank canvas on an easel surrounded by hyperrealistic paintings of nude figures b93a17d4|photograph of an artist s studio featuring a large blank canvas on an easel surrounded by hyperrealistic paintings of nude figures]] — shared language: blank, featuring, large
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
-- [[_archive/auto-generated/images-stale/oil painting of a seated young man in a pink shirt holding a hat 8c653e67|oil painting of a seated young man in a pink shirt holding a hat]] — shared language: seated, oil, holding
 <!-- vault-crosslinks:end -->

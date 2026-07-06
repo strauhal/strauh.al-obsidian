@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: smokestacks, pig, device
+- [[knowledge/wiki/images/Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell b6b7b89d|Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: smokestacks, pig, device
+- [[_archive/auto-generated/images-stale/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: smokestacks, pig, device
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: smokestacks, pig, device
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: device
-- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 <!-- vault-crosslinks:end -->

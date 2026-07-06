@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/Puzzle 1 1176b82a|Puzzle 1]] — named in this note
 - [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: puzzle, displays, isometric
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: displays
+- [[_archive/auto-generated/images-stale/screenshot of a sailor moon digital dress up game interface 6f2b7945|screenshot of a sailor moon digital dress up game interface]] — shared language: game, interface, screenshot
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: smiling
 - [[knowledge/wiki/images/Illustration Woman with Purple Flowers and Bird on Shoulder, Patterned Background 9aea0c60|Illustration Woman with Purple Flowers and Bird on Shoulder, Patterned Background]] — shared language: shoulder
-- [[knowledge/wiki/images/Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s 127db820|Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s]] — shared language: smiling
+- [[knowledge/wiki/images/Smiling Woman Holding Large Yellow and White Python f8da8ebe|Smiling Woman Holding Large Yellow and White Python]] — shared language: smiling
 <!-- vault-crosslinks:end -->

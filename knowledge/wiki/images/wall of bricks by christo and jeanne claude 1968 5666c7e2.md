@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/wall_of_bricks_b
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Art Installation Of Red Bricks In A White Gallery d540bc7f|Photograph Art Installation Of Red Bricks In A White Gallery]] — shared language: bricks
+- [[knowledge/wiki/images/Art Installation Of Red Bricks In A White Gallery 3972391f|Art Installation Of Red Bricks In A White Gallery]] — shared language: bricks
 - [[knowledge/wiki/artists/Artist - claude joseph vernet|Artist - claude joseph vernet]] — shared language: claude
 - [[knowledge/wiki/images/portrait of jeanne samary by pierre auguste renoir 1877 2a1af3c9|portrait of jeanne samary by pierre auguste renoir 1877]] — shared language: jeanne
 - [[knowledge/wiki/images/portrait of jeanne samary by pierre auguste renoir 1877 373189cf|portrait of jeanne samary by pierre auguste renoir 1877]] — shared language: jeanne

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig, florence
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
-- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
+- [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

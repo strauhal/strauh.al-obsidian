@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Richard G. Smith - The Baudrillard Dictionary (2010) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Baudrillard Dictionary
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
+- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 <!-- vault-crosslinks:end -->

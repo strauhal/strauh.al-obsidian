@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: fashion
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
-- [[knowledge/wiki/images/Photograph Four Women Posing In Patterned Jackets And Pants 957c743f|Photograph Four Women Posing In Patterned Jackets And Pants]] — shared language: jackets, four
+- [[knowledge/wiki/images/Four Women Posing In Patterned Jackets And Pants d6fb351b|Four Women Posing In Patterned Jackets And Pants]] — shared language: jackets, four
 <!-- vault-crosslinks:end -->

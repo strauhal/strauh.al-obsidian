@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/superman 339413ee|superman]] — named in this note
-- [[knowledge/wiki/images/Photograph Orange And White Cat Lying Down Looking At Camera ae6e7fa0|Photograph Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down
+- [[knowledge/wiki/images/Orange And White Cat Lying Down Looking At Camera 8a710d85|Orange And White Cat Lying Down Looking At Camera]] — shared language: lying, down
 - [[knowledge/wiki/images/Illustration Illustration of a Woman Lying Down With Men Struggling Around Her 4379a8b8|Illustration Illustration of a Woman Lying Down With Men Struggling Around Her]] — shared language: lying, down
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: down
 - [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: impasto

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/at_the_rat_mort_
 
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
-- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — shared language: walter
 <!-- vault-crosslinks:end -->

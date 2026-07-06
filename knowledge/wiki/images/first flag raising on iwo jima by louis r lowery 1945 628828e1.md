@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/first_flag_raisi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man with Red Marks on Face, Raising Fist, American Flag 55ff7ece|Photograph Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: raising, flag
+- [[knowledge/wiki/images/Man with Red Marks on Face, Raising Fist, American Flag 8cb1a488|Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: raising, flag
 - [[knowledge/wiki/books/my-first-book-honor-levy|Honor Levy]] — shared language: first
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

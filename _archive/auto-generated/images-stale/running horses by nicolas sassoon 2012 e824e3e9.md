@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas sassoon 2012|Artist - nicolas sassoon 2012]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de largilliere 1715 1720|Artist - nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses, running
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de largilliere 1715 1720|Artist - nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de launay 1780|Artist - nicolas de launay 1780]] — shared language: nicolas
 - [[knowledge/wiki/artists/Artist - nicolas de largilliere|Artist - nicolas de largilliere]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

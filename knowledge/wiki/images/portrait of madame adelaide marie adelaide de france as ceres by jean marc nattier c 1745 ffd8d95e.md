@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_mada
 
 - [[knowledge/wiki/images/portrait of the musician jean baptiste forqueray by jean marc nattier c 1739 77a41232|portrait of the musician jean baptiste forqueray by jean marc nattier c 1739]] — same artist: jean marc nattier
 - [[knowledge/wiki/images/portrait of cardinal melchior de polignac by jean marc nattier 1740 1e090bc4|portrait of cardinal melchior de polignac by jean marc nattier 1740]] — same artist: jean marc nattier
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: france
 - [[knowledge/wiki/artists/Artist - jean baptiste marie pierre|Artist - jean baptiste marie pierre]] — shared language: marie, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc
 <!-- vault-crosslinks:end -->

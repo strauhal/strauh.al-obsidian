@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: processed
 - [[knowledge/wiki/images/Image Processed Image of a Cat's Head with Limited Color Palette f8f26073|Image Processed Image of a Cat's Head with Limited Color Palette]] — shared language: processed
-- [[knowledge/wiki/images/Photograph Night Sky with Numerous Satellite Trails and Milky Way 58c0e764|Photograph Night Sky with Numerous Satellite Trails and Milky Way]] — shared language: satellite
+- [[knowledge/wiki/images/Night Sky with Numerous Satellite Trails and Milky Way 89aa8a71|Night Sky with Numerous Satellite Trails and Milky Way]] — shared language: satellite
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: geographic
-- [[knowledge/wiki/images/Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes 44e1ae2f|Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes]] — shared language: satellite
+- [[knowledge/wiki/images/Illustration Digital Collage of Glitched Screens, Data Displays, Medical Imagery, Crosshair 97342063|Illustration Digital Collage of Glitched Screens, Data Displays, Medical Imagery, Crosshair]] — shared language: collage, data
 <!-- vault-crosslinks:end -->

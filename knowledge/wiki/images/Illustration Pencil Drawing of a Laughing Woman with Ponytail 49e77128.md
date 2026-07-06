@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Laughing Character in Military Uniform 971fe245|Illustration Black and White Sketch of Laughing Character in Military Uniform]] — shared language: laughing
 - [[knowledge/wiki/images/Illustration Grid of Stylized Smiling and Laughing Faces with Text 71cb65ce|Illustration Grid of Stylized Smiling and Laughing Faces with Text]] — shared language: laughing
 - [[knowledge/wiki/images/the laughing boy with a bird by bernardo strozzi c 1620 1625 1ebb3b08|the laughing boy with a bird by bernardo strozzi c 1620 1625]] — shared language: laughing

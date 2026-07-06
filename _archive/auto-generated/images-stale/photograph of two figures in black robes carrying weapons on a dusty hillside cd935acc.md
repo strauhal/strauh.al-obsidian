@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Figures In Black Robes Carrying Weapons On Hillside e508c751|Photograph Two Figures In Black Robes Carrying Weapons On Hillside]] — shared language: weapons, carrying, hillside
+- [[_archive/auto-generated/images-stale/Photograph Two Figures In Black Robes Carrying Weapons On Hillside e508c751|Photograph Two Figures In Black Robes Carrying Weapons On Hillside]] — shared language: weapons, carrying, hillside
+- [[knowledge/wiki/images/Two Figures In Black Robes Carrying Weapons On Hillside 4672f204|Two Figures In Black Robes Carrying Weapons On Hillside]] — shared language: weapons, carrying, hillside
 - [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: weapons
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
-- [[knowledge/wiki/images/Photograph Arrangement of Clothing, Weapons, and Objects on a Floor 7e07476f|Photograph Arrangement of Clothing, Weapons, and Objects on a Floor]] — shared language: weapons
-- [[knowledge/wiki/images/Illustration Figures in Robes Demonstrating Esoteric Elemental, L.V.X., and N.O.X. Signs 105c62a8|Illustration Figures in Robes Demonstrating Esoteric Elemental, L.V.X., and N.O.X. Signs]] — shared language: robes
+- [[knowledge/wiki/images/Arrangement of Clothing, Weapons, and Objects on a Floor dc54bbfd|Arrangement of Clothing, Weapons, and Objects on a Floor]] — shared language: weapons
 <!-- vault-crosslinks:end -->

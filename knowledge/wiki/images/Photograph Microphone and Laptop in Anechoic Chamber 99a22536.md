@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mic
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Musicians Playing String Instruments In An Anechoic Chamber 4e8a35a5|Photograph Musicians Playing String Instruments In An Anechoic Chamber]] — shared language: anechoic, chamber
+- [[knowledge/wiki/images/Musicians Playing String Instruments In An Anechoic Chamber 35388ec6|Musicians Playing String Instruments In An Anechoic Chamber]] — shared language: anechoic, chamber
 - [[knowledge/wiki/images/Illustration Drawing of a Laptop, Microphone, and Apple Charger abaefda4|Illustration Drawing of a Laptop, Microphone, and Apple Charger]] — shared language: microphone, laptop
-- [[knowledge/wiki/images/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
-- [[knowledge/wiki/images/Photograph Bubble Chamber Photograph Showing Particle Tracks and Collisions 2e7d1db1|Photograph Bubble Chamber Photograph Showing Particle Tracks and Collisions]] — shared language: chamber
-- [[knowledge/wiki/images/Photograph Silhouetted Performer On Stage With Microphone In Green Light 5e5db158|Photograph Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: microphone
+- [[knowledge/wiki/images/Person On Stage Holding Microphone Under Blue Lights f1e7a11c|Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
+- [[knowledge/wiki/images/Silhouetted Performer On Stage With Microphone In Green Light d0947b4d|Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: microphone
+- [[knowledge/wiki/images/Man Singing Into Microphone At Concert With Goat In Audience 1c252d8e|Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: microphone
 <!-- vault-crosslinks:end -->

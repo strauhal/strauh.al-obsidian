@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Busy Black And White City Intersection With Streetcars And Sunkist Billboard 91affd3d|Photograph Busy Black And White City Intersection With Streetcars And Sunkist Billboard]] — shared language: streetcars, sunkist, billboard
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/images/Photograph Busy City Street with Prudential Building and Flags 7e8f21b4|Photograph Busy City Street with Prudential Building and Flags]] — shared language: busy, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy, city
+- [[knowledge/wiki/images/Busy City Street with Prudential Building and Flags 67c124a0|Busy City Street with Prudential Building and Flags]] — shared language: busy, city
+- [[_archive/auto-generated/images-stale/Photograph Busy City Street with Prudential Building and Flags 7e8f21b4|Photograph Busy City Street with Prudential Building and Flags]] — shared language: busy, city
 - [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: busy, city
-- [[knowledge/wiki/images/Photograph Busy Street Scene with Numerous Signs in an Asian City 32f1e5e0|Photograph Busy Street Scene with Numerous Signs in an Asian City]] — shared language: busy, city
 <!-- vault-crosslinks:end -->

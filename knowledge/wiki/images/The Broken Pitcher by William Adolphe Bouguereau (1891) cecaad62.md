@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Broken Pitch
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diana by William Adolphe Bouguereau (1882) e0e78e6f|Diana by William Adolphe Bouguereau (1882)]] — shared language: bouguereau, adolphe, william
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, adolphe
 - [[knowledge/wiki/images/le gouter by william adolphe bouguereau 1886 431fa659|le gouter by william adolphe bouguereau 1886]] — shared language: bouguereau, adolphe, william
 - [[knowledge/wiki/images/the oreads by william adolphe bouguereau 1902 c8162c71|the oreads by william adolphe bouguereau 1902]] — shared language: bouguereau, adolphe, william
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, adolphe
 - [[knowledge/wiki/images/The Nymphaeum by William Adolphe Bouguereau (1878) 7927dfe6|The Nymphaeum by William Adolphe Bouguereau (1878)]] — shared language: bouguereau, adolphe, william
 <!-- vault-crosslinks:end -->

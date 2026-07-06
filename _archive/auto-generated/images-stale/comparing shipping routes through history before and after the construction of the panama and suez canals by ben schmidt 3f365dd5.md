@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt 830da5c1|Diagram World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt]] — same artist: ben schmidt
+- [[knowledge/wiki/artists/Artist - Ben Schmidt|Artist - Ben Schmidt]] — named in this note
+- [[knowledge/wiki/images/World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt 46faf3ee|World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt]] — same artist: ben schmidt
+- [[_archive/auto-generated/images-stale/Diagram World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt 830da5c1|Diagram World Map Comparing Historical Shipping Routes Before And After Canals by Ben Schmidt]] — same artist: ben schmidt
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
 - [[_archive/auto-generated/books-stale/history-of-western-philosophy|History Of Western Philosophy]] — shared language: history
-- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
-- [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — shared language: ben
 <!-- vault-crosslinks:end -->

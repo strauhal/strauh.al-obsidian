@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[knowledge/wiki/images/Fly Day Chinatown by Yasuha (1981) e3e2bb94|Fly Day Chinatown by Yasuha (1981)]] — shared language: chinatown
 - [[knowledge/wiki/life/Family|Family]] — shared language: chinatown
-- [[_archive/auto-generated/images-stale/Fl6pF6xaMAEmkQ5 e24f0d80|Fl6pF6xaMAEmkQ5]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FlyH6gDWAAAfFGe 13a8f353|FlyH6gDWAAAfFGe]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

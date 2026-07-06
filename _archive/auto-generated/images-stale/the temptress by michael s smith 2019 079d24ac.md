@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rodney smith 1991|Artist - rodney smith 1991]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
-- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: smith
+- [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
 <!-- vault-crosslinks:end -->

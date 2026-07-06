@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/round engraving of a mythological scene with figures 0352842d|round engraving of a mythological scene with figures]] — shared language: round, engraving
 - [[_archive/auto-generated/images-stale/round engraving of a falling figure 119a3b56|round engraving of a falling figure]] — shared language: round, engraving, figure.jpg
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
-- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
 <!-- vault-crosslinks:end -->

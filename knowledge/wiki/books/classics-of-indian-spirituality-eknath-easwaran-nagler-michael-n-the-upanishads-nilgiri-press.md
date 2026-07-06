@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(Classics of Indian spirituality) Eknath, Easwaran_ Nagler, Michael N - The Upanishads-Nilgiri Press (2007).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Upanishads-Nilgiri Press

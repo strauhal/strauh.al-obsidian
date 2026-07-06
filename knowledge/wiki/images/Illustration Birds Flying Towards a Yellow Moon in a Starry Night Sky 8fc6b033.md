@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night, sky
 - [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: birds, flying, sky
+- [[knowledge/wiki/images/Black and White Photograph of a Bridge, Water, and Birds Flying 3d5e0ef6|Black and White Photograph of a Bridge, Water, and Birds Flying]] — shared language: birds, flying
 - [[knowledge/wiki/images/the starry night by vincent van gogh 1889 7c3e2cf3|the starry night by vincent van gogh 1889]] — shared language: starry, night
-- [[knowledge/wiki/images/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards
 - [[knowledge/wiki/images/Illustration Merman like Figure Blowing Horn Under Starry Sky e057b7aa|Illustration Merman like Figure Blowing Horn Under Starry Sky]] — shared language: starry, sky
+- [[knowledge/wiki/images/Illustration Person Reveals Glowing Heart To Skeleton Under Starry Sky 9a63b79e|Illustration Person Reveals Glowing Heart To Skeleton Under Starry Sky]] — shared language: starry, sky, sky.jpeg
 <!-- vault-crosslinks:end -->

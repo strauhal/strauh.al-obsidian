@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls 6ca2969e|Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls]] — shared language: soundscape, workstation, editor
 - [[_archive/auto-generated/images-stale/screenshot of a digital audio workstation daw interface c4cdd500|screenshot of a digital audio workstation daw interface]] — shared language: workstation, audio, interface
 - [[knowledge/wiki/images/Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls 79635fbc|Screenshot Digital Audio Workstation Interface with Tracks, Effects, and Mixer Controls]] — shared language: workstation, audio, interface
-- [[knowledge/wiki/images/Photograph Hands on Laptop with Digital Audio Workstation Software 4f16cc48|Photograph Hands on Laptop with Digital Audio Workstation Software]] — shared language: workstation, audio, digital
-- [[_archive/auto-generated/images-stale/screenshot of a digital audio synthesizer interface labeled serum 98 091169b5|screenshot of a digital audio synthesizer interface labeled serum 98]] — shared language: audio, interface, screenshot
+- [[knowledge/wiki/images/Hands on Laptop with Digital Audio Workstation Software ca4720db|Hands on Laptop with Digital Audio Workstation Software]] — shared language: workstation, audio, digital
+- [[_archive/auto-generated/images-stale/Photograph Hands on Laptop with Digital Audio Workstation Software 4f16cc48|Photograph Hands on Laptop with Digital Audio Workstation Software]] — shared language: workstation, audio, digital
 <!-- vault-crosslinks:end -->

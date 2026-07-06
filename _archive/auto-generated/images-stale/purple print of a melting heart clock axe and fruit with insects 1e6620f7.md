@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Purple Print of Melting Heart Clock, Axe, Fruit, and Insects 5d94f63d|Illustration Purple Print of Melting Heart Clock, Axe, Fruit, and Insects]] — shared language: axe, melting, insects
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
 - [[_archive/auto-generated/images-stale/black and white print of a seated man reading e36f252b|black and white print of a seated man reading]] — shared language: print
+- [[knowledge/wiki/images/Man With Backpack And Ice Axe Overlooking A Mountain Range c6014d01|Man With Backpack And Ice Axe Overlooking A Mountain Range]] — shared language: axe
 - [[_archive/auto-generated/images-stale/bitcoin spiral clock e6fb2865|bitcoin spiral clock]] — shared language: clock
-- [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — shared language: purple
 <!-- vault-crosslinks:end -->

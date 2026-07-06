@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Reverberant Chec
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Reply of the Zaporozhian Cossacks by Ilya Repin (1880 1891) fe097a61|Reply of the Zaporozhian Cossacks by Ilya Repin (1880 1891)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Retro Transparent Electronic Devices and Storage Media on Pink Background 5ce31032|Retro Transparent Electronic Devices and Storage Media on Pink Background]] — nearby note in the same source series
 - [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Residential Street with Houses, Cars, and Overhead Power Lines fdd615d8|Residential Street with Houses, Cars, and Overhead Power Lines]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

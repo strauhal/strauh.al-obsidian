@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Image Stick Figures Comparing Artistic Ceilings of Photography Versus Other Arts 6430c025|Image Stick Figures Comparing Artistic Ceilings of Photography Versus Other Arts]] — shared language: stick, artistic, comparing
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: artistic, writing
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — shared language: writing
-- [[knowledge/wiki/images/Illustration Impossible Architectural Scene with Multiple Staircases, Arches, and Buildings 487b02b9|Illustration Impossible Architectural Scene with Multiple Staircases, Arches, and Buildings]] — shared language: staircases
+- [[knowledge/wiki/images/The Pencil As A Measuring Stick e111e7d8|The Pencil As A Measuring Stick]] — shared language: stick
 <!-- vault-crosslinks:end -->

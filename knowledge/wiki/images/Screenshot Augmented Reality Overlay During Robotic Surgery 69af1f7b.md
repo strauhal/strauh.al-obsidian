@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: robotic
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: robotic
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robotic
-- [[knowledge/wiki/images/Screenshot Blue Overlay Box with Stats on Corrupted Text fcc0055e|Screenshot Blue Overlay Box with Stats on Corrupted Text]] — shared language: overlay, screenshot
+- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: overlay
 <!-- vault-crosslinks:end -->

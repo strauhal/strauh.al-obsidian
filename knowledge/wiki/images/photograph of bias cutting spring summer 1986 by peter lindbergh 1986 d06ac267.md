@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/photograph_of_bi
 - [[knowledge/wiki/images/toshiyoshida birdsseasons summer 05b9d029|toshiyoshida birdsseasons summer]] — named in this note
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/wiki/images/The Red Summer (2017) 1cf9af1d|The Red Summer (2017)]] — shared language: summer
-- [[knowledge/wiki/images/Photograph Watermelon Slices With White Candies On Blue Cutting Board 19eb3b92|Photograph Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: cutting
+- [[knowledge/wiki/images/Book Page Showing Photograph and Painting of Man Cutting Hair 475fd06f|Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: cutting
 <!-- vault-crosslinks:end -->

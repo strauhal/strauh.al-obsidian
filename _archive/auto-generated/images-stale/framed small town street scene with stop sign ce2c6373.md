@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[_archive/auto-generated/images-stale/framed western town scene with horses and carts 63975399|framed western town scene with horses and carts]] — shared language: town, scene, framed
 - [[knowledge/wiki/images/Illustration Pixel Art Illustration of a Street Scene with Houses and Gas Sign c507ab61|Illustration Pixel Art Illustration of a Street Scene with Houses and Gas Sign]] — shared language: sign, scene, street
-- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, street, framed
+- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, framed, street
 - [[_archive/auto-generated/images-stale/framed small portrait of a woman in white against gray 66b0d3a4|framed small portrait of a woman in white against gray]] — shared language: small, framed
 <!-- vault-crosslinks:end -->

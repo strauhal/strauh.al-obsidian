@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cozy Bedroom with Plants and Open Industrial Windows at Dusk 0befb407|Photograph Cozy Bedroom with Plants and Open Industrial Windows at Dusk]] — shared language: cozy, plants, bedroom
+- [[knowledge/wiki/images/Cozy Bedroom with Plants and Open Industrial Windows at Dusk 40a1dfb7|Cozy Bedroom with Plants and Open Industrial Windows at Dusk]] — shared language: cozy, bedroom, plants
 - [[knowledge/wiki/images/Illustration Sunlit Bedroom with Large Window and Pink Bedspread a337b1d4|Illustration Sunlit Bedroom with Large Window and Pink Bedspread]] — shared language: bedroom, window, large
 - [[knowledge/wiki/images/Illustration Line Drawing of Succulent Plants on Textured Paper 64a93c3d|Illustration Line Drawing of Succulent Plants on Textured Paper]] — shared language: plants
-- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/images/Illustration Modern Bedroom With City And River View 30e069a5|Illustration Modern Bedroom With City And River View]] — shared language: bedroom
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 <!-- vault-crosslinks:end -->

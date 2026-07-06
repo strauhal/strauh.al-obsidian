@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Le Folli Notti d
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del
 - [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: del
 - [[knowledge/wiki/artists/Artist - piero del pollaiuolo|Artist - piero del pollaiuolo]] — shared language: del
 - [[knowledge/wiki/artists/Artist - andrea del sarto|Artist - andrea del sarto]] — shared language: del
+- [[knowledge/wiki/images/Photograph of An s del Mono Poster in a Book 394b3a03|Photograph of An s del Mono Poster in a Book]] — shared language: del
 - [[knowledge/wiki/anchors/guillermo-del-toro|Guillermo del Toro]] — shared language: del
 <!-- vault-crosslinks:end -->

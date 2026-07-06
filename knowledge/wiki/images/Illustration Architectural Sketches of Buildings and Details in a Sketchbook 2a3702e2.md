@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook
 - [[knowledge/wiki/images/Illustration Charcoal Portrait of a Man in a Sketchbook 287a4226|Illustration Charcoal Portrait of a Man in a Sketchbook]] — shared language: sketchbook, sketchbook.jpg
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: sketchbook
 <!-- vault-crosslinks:end -->

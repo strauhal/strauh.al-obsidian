@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/gio_swaby.html"
 source_relpath: "artists/gio_swaby.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # artists gio swaby

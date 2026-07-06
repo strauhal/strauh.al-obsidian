@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/William S. Burroughs - Naked lunch (2001, Grove Press) - libgen.lc.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Naked lunch
@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — same category: unsorted
+- [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — same category: unsorted
+- [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
-- [[knowledge/wiki/books/1622209317013|1622209317013]] — same category: unsorted
-- [[knowledge/wiki/books/1625220285333|1625220285333]] — same category: unsorted
-- [[knowledge/wiki/books/1629045844123|1629045844123]] — same category: unsorted
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway 7998d266|Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway]] — shared language: waterway, along, exhibition
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway 7998d266|Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway]] — shared language: waterway, exhibition, along
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: waterway, along, classical
 - [[_archive/auto-generated/images-stale/black and white photograph of large classical exposition buildings along a waterway with bridges and crowds 1fcb6bab|black and white photograph of large classical exposition buildings along a waterway with bridges and crowds]] — shared language: waterway, along, classical
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground db4489b0|Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground]] — shared language: waterway, along, buildings

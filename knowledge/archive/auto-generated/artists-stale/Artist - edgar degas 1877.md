@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1874|Artist - edgar degas 1874]] — shared language: edgar, degas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edgar degas 1879|Artist - edgar degas 1879]] — shared language: edgar, degas
 - [[knowledge/wiki/artists/Artist - edgar degas 18711874|Artist - edgar degas 18711874]] — shared language: edgar, degas
-- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: edgar, degas
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — shared language: edgar, degas
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: edgar, degas
 - [[knowledge/wiki/images/two dancers by edgar degas c 1890 1895 9a3d0914|two dancers by edgar degas c 1890 1895]] — shared language: edgar, degas
 <!-- vault-crosslinks:end -->

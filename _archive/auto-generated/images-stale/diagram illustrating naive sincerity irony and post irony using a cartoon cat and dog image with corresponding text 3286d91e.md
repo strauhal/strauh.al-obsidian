@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Diagram Illustrating Naive Sincerity, Irony, and Post irony f2ab6a94|Diagram Diagram Illustrating Naive Sincerity, Irony, and Post irony]] — shared language: irony, naive, sincerity
+- [[knowledge/wiki/images/Diagram Illustrating Naive Sincerity, Irony, and Post irony 0c28d413|Diagram Illustrating Naive Sincerity, Irony, and Post irony]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Diagram Illustrating Naive Sincerity, Irony, and Post irony f2ab6a94|Diagram Diagram Illustrating Naive Sincerity, Irony, and Post irony]] — shared language: irony, naive, sincerity
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: irony
 - [[knowledge/wiki/images/Screenshot Twitter Post with Cartoon of Man Writing 46e9af27|Screenshot Twitter Post with Cartoon of Man Writing]] — shared language: post, cartoon
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: post, text
 <!-- vault-crosslinks:end -->

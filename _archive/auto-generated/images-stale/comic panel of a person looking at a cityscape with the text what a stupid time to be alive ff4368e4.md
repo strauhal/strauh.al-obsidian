@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, comic
 - [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: cityscape, looking, comic
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel

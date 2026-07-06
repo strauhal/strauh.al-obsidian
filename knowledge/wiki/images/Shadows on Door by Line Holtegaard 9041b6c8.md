@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Shadows on Do
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: shadows, line
-- [[knowledge/wiki/images/Photograph Person Looking Up Against Wall With Shadows 132dcf26|Photograph Person Looking Up Against Wall With Shadows]] — shared language: shadows
+- [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: door
 <!-- vault-crosslinks:end -->

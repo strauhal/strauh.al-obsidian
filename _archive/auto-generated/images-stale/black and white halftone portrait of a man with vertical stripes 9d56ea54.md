@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Abstract Pattern of Vertical Wavy Stripes in Gray, Blue, and White 45e3360d|Illustration Abstract Pattern of Vertical Wavy Stripes in Gray, Blue, and White]] — shared language: stripes, vertical
 - [[_archive/auto-generated/images-stale/abstract pattern of vertical wavy stripes in gray blue and white tones 1bc32fd3|abstract pattern of vertical wavy stripes in gray blue and white tones]] — shared language: stripes, vertical
 - [[_archive/auto-generated/images-stale/halftone grayscale image of a landscape with dense foliage and a vertical structure aaee0777|halftone grayscale image of a landscape with dense foliage and a vertical structure]] — shared language: halftone, vertical
-- [[knowledge/wiki/images/Photograph Halftone Portrait Of A Man Looking Right 44889f19|Photograph Halftone Portrait Of A Man Looking Right]] — shared language: halftone
+- [[knowledge/wiki/images/Halftone Portrait Of A Man Looking Right f7d963ba|Halftone Portrait Of A Man Looking Right]] — shared language: halftone
 <!-- vault-crosslinks:end -->

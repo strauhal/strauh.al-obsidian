@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Fig
 
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Woman Aiming Pistol 7ebad22b|Illustration Black and White Line Drawing of Woman Aiming Pistol]] — shared language: aiming, pistol
 - [[knowledge/wiki/artists/Artist - Pistol|Artist - Pistol]] — shared language: pistol
-- [[knowledge/wiki/images/Photograph South Korean Athlete Aiming Pistol in Shooting Competition b1f28599|Photograph South Korean Athlete Aiming Pistol in Shooting Competition]] — shared language: pistol, aiming
+- [[knowledge/wiki/images/South Korean Athlete Aiming Pistol in Shooting Competition 1e24600a|South Korean Athlete Aiming Pistol in Shooting Competition]] — shared language: pistol, aiming
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: patterned
-- [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: sidewalk
+- [[knowledge/wiki/images/Bulletproof Vest Demonstration, Man Shot by Pistol c45b6d2c|Bulletproof Vest Demonstration, Man Shot by Pistol]] — shared language: pistol
 <!-- vault-crosslinks:end -->

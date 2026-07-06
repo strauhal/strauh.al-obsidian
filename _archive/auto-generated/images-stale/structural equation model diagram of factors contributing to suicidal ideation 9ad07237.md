@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Structural Equation Model Diagram of Factors Contributing to Suicidal Ideation 46dd7562|Diagram Structural Equation Model Diagram of Factors Contributing to Suicidal Ideation]] — shared language: factors, equation, suicidal
-- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche Diagram 27fa7e8e|Diagram Freud's Structural Model of the Psyche Diagram]] — shared language: structural, model, diagram
+- [[_archive/auto-generated/images-stale/Diagram Freud's Structural Model of the Psyche Diagram 27fa7e8e|Diagram Freud's Structural Model of the Psyche Diagram]] — shared language: structural, model, diagram
+- [[knowledge/wiki/images/Freud's Structural Model of the Psyche Diagram e32970e8|Freud's Structural Model of the Psyche Diagram]] — shared language: structural, model, diagram
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: structural
 - [[knowledge/wiki/books/clancy-martin-how-not-to-kill-yourself-a-portrait-of-the-suicidal-mind-pantheon|How Not to Kill Yourself A Portrait of the Suicidal Mind-Pantheon]] — shared language: suicidal
-- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche by Sigmund Freud 6e17f9c2|Diagram Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: structural, model, diagram
 <!-- vault-crosslinks:end -->

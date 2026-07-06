@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, cityscape, scene
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
-- [[knowledge/wiki/images/Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline ecf6442c|Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: freeway, angeles, los
 - [[knowledge/wiki/images/Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails 2b7c8253|Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails]] — shared language: freeway, angeles, los
+- [[knowledge/wiki/images/Waymo Self Driving Car on Los Angeles Freeway with City Skyline 9321590a|Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: freeway, angeles, los
 - [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
 - [[knowledge/wiki/images/Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper 34767dff|Illustration City Street with Los Angeles City Hall and Futuristic Skyscraper]] — shared language: angeles, los, street
-- [[knowledge/wiki/books/alexander-c-karp-nicholas-w-zamiska-the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west|The Technological Republic: Hard Power, Soft Belief, and the Future of the West]] — shared language: future
 <!-- vault-crosslinks:end -->

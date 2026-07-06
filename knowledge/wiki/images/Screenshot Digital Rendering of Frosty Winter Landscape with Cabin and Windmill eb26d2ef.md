@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints ad1d2af9|Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints]] — shared language: cabin, landscape
 - [[knowledge/wiki/artists/Artist - FRAGILETEMPORARY|Artist - FRAGILETEMPORARY]] — shared language: rendering, digital
 - [[knowledge/wiki/images/Illustration Cows in a polder landscape with a windmill and cloudy sky c9f44ea9|Illustration Cows in a polder landscape with a windmill and cloudy sky]] — shared language: windmill, landscape
-- [[knowledge/wiki/images/Photograph Man Standing Next To A Brown Cabin In A Forest cadf0dc3|Photograph Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
+- [[knowledge/wiki/images/Man Standing Next To A Brown Cabin In A Forest 7a06523c|Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
 - [[knowledge/wiki/images/Illustration Digital Rendering of a Flooded Tiled Room with Sunlight by FRAGILETEMPORARY d7f93b15|Illustration Digital Rendering of a Flooded Tiled Room with Sunlight by FRAGILETEMPORARY]] — shared language: rendering, digital
 <!-- vault-crosslinks:end -->

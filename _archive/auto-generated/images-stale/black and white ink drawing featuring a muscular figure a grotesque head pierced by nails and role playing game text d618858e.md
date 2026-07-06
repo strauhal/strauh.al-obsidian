@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, grotesque
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of RPG Character and Grotesque Head 5f784133|Illustration Black and White Ink Drawing of RPG Character and Grotesque Head]] — shared language: grotesque, head, ink
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of RPG Character and Grotesque Head 5f784133|Illustration Black and White Ink Drawing of RPG Character and Grotesque Head]] — shared language: grotesque, ink, head
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque, ink
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: game, playing
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: game, playing
 <!-- vault-crosslinks:end -->

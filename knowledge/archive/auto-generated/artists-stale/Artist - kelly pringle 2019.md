@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle|Artist - Kelly Pringle]] — named in this note
+- [[knowledge/wiki/artists/Artist - Kelly Pringle|Artist - Kelly Pringle]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle|Artist - Kelly Pringle]] — shared language: pringle, kelly, wing
 - [[knowledge/wiki/images/Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle 34d16624|Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle]] — shared language: pringle, kelly, wing
 - [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: kelly
 <!-- vault-crosslinks:end -->

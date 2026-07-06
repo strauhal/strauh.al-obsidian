@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/classical scene of women gathered around a well bcd4ab7b|classical scene of women gathered around a well]] — shared language: gathered, classical
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: tree, classical
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree, classical
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree branches|Artist - tree branches]] — shared language: tree, classical
-- [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical
 <!-- vault-crosslinks:end -->

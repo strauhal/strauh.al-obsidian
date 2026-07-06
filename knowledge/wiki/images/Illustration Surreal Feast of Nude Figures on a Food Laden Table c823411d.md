@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape f890115b|Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape]] — shared language: surreal, nude
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2bd9914e|belshazzar s feast by john martin 1821]] — shared language: feast
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2 9c833927|belshazzar s feast by john martin 1821 2]] — shared language: feast
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: surreal
 <!-- vault-crosslinks:end -->

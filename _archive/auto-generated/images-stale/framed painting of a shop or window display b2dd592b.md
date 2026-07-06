@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/night photo of a shop window with white interior 13db62c2|night photo of a shop window with white interior]] — shared language: shop, window
-- [[knowledge/wiki/images/Photograph Night Photo of a Shop Window with White Interior 1abda67b|Photograph Night Photo of a Shop Window with White Interior]] — shared language: shop, window
+- [[knowledge/wiki/images/Night Photo of a Shop Window with White Interior 59560dcb|Night Photo of a Shop Window with White Interior]] — shared language: shop, window
+- [[_archive/auto-generated/images-stale/Photograph Night Photo of a Shop Window with White Interior 1abda67b|Photograph Night Photo of a Shop Window with White Interior]] — shared language: shop, window
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display
-- [[_archive/auto-generated/books-stale/shop-class-as-soulcraft-copy|shop class as soulcraft copy]] — shared language: shop
 <!-- vault-crosslinks:end -->

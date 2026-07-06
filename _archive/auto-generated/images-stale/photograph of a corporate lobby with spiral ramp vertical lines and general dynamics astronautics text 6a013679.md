@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph General Dynamics Astronautics Lobby with Spiral Ramp and People 36233f98|Photograph General Dynamics Astronautics Lobby with Spiral Ramp and People]] — shared language: lobby, ramp, dynamics
+- [[knowledge/wiki/images/General Dynamics Astronautics Lobby with Spiral Ramp and People 51512091|General Dynamics Astronautics Lobby with Spiral Ramp and People]] — shared language: lobby, ramp, dynamics
+- [[_archive/auto-generated/images-stale/Photograph General Dynamics Astronautics Lobby with Spiral Ramp and People 36233f98|Photograph General Dynamics Astronautics Lobby with Spiral Ramp and People]] — shared language: lobby, ramp, dynamics
 - [[knowledge/wiki/images/Illustration Abstract Sketch of Deconstructed Form with Vertical Lines 942643f1|Illustration Abstract Sketch of Deconstructed Form with Vertical Lines]] — shared language: vertical, lines
 - [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: vertical, lines
 - [[_archive/auto-generated/books-stale/the-essays-of-warren-buffett-lessons-for-corporate-america-third-edition|The Essays of Warren Buffett Lessons for Corporate America Third Edition]] — shared language: corporate
-- [[knowledge/wiki/books/warren-buffett-lawrence-a-cunningham-the-essays-of-warren-buffett-lessons-for-corporate-america|The Essays of Warren Buffett: Lessons for Corporate America]] — shared language: corporate
 <!-- vault-crosslinks:end -->

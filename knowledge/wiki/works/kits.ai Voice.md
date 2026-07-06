@@ -37,6 +37,6 @@ losing control of one's own image/output to the machine.
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: it's, online, diary
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: it's, latent, literal
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: it's, control, slop
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: output, model, slop
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: output, slop, model
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: kits.ai, voice, slop
 <!-- vault-crosslinks:end -->

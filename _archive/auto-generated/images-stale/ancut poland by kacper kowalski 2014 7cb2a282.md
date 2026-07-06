@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kacper kowalski 2014|Artist - kacper kowalski 2014]] — named in this note
+- [[knowledge/wiki/artists/Artist - Kacper Kowalski|Artist - Kacper Kowalski]] — named in this note
 - [[knowledge/wiki/images/Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski bb6228ef|Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski]] — same artist: kacper kowalski
 - [[_archive/auto-generated/images-stale/krakow poland by tomasz wiech 2013 ef40212d|krakow poland by tomasz wiech 2013]] — shared language: poland
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz wiech|Artist - tomasz wiech]] — shared language: poland
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tomasz wiech 2013|Artist - tomasz wiech 2013]] — shared language: poland
 <!-- vault-crosslinks:end -->

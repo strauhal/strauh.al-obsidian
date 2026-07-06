@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: movie, poster
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: movie, poster
 - [[knowledge/wiki/images/godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995 2fa0b529|godzilla vs destoroyah japanese movie poster by noriyoshi ohrai 1995]] — shared language: movie, poster
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
+- [[knowledge/wiki/images/new york movie by edward hopper 1939 d2826b3e|new york movie by edward hopper 1939]] — shared language: movie
 <!-- vault-crosslinks:end -->

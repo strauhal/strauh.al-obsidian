@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel ea6e4a83|Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel]] — shared language: carved, needlepoint, wood
-- [[knowledge/wiki/images/Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame 62a099df|Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame]] — shared language: needlepoint, ornate, floral
-- [[_archive/auto-generated/images-stale/needlepoint tapestry of a large floral bouquet in an ornate wooden frame ee2fc1c5|needlepoint tapestry of a large floral bouquet in an ornate wooden frame]] — shared language: needlepoint, ornate, floral
+- [[knowledge/wiki/images/Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame 62a099df|Illustration Needlepoint Tapestry of Floral Bouquet in Ornate Frame]] — shared language: needlepoint, floral, ornate
+- [[_archive/auto-generated/images-stale/needlepoint tapestry of a large floral bouquet in an ornate wooden frame ee2fc1c5|needlepoint tapestry of a large floral bouquet in an ornate wooden frame]] — shared language: needlepoint, floral, ornate
 - [[_archive/auto-generated/images-stale/ornate carved skull with figures of skeletons 78b7e38e|ornate carved skull with figures of skeletons]] — shared language: carved, ornate
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
 <!-- vault-crosslinks:end -->

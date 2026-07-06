@@ -9,8 +9,8 @@ metadata: curated
 aliases: [THE ARCADES PROJECT]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/THE ARCADES PROJECT.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Arcades Project
@@ -54,5 +54,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — same category: philosophy
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — same category: philosophy
 - [[knowledge/wiki/books/gilles-deleuze-difference-and-repetition-excerpt|Difference and Repetition (excerpt)]] — same category: philosophy
-- [[knowledge/wiki/books/gilles-deleuze-cinema-2-the-time-image-excerpt|Cinema 2: The Time-Image (excerpt)]] — same category: philosophy
+- [[knowledge/wiki/books/friedrich-nietzsche-thus-spoke-zarathustra|Thus Spoke Zarathustra]] — same category: philosophy
 <!-- vault-crosslinks:end -->

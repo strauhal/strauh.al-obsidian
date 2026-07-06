@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue fc7f5f2f|Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: lines, orange, yellow
+- [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue fc7f5f2f|Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, lines, yellow
 - [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: lines, yellow, background
 - [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: lines, dark, background
-- [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background
-- [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background
+- [[knowledge/wiki/images/Illustration Abstract Digital Shapes and Lines on Pink Background 40cd0107|Illustration Abstract Digital Shapes and Lines on Pink Background]] — shared language: lines, digital, background
 <!-- vault-crosslinks:end -->

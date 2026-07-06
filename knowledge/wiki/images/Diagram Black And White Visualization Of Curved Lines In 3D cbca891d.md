@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Black 
 
 - [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: curved, lines
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: diagram
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: curved
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: lines, diagram
+- [[knowledge/wiki/images/Diagram of Curved Screen Array Inside Dashed Box 0e9a9c74|Diagram of Curved Screen Array Inside Dashed Box]] — shared language: curved, diagram
 <!-- vault-crosslinks:end -->

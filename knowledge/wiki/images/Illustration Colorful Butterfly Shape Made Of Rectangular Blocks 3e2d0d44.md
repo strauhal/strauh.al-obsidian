@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Colorful Abstract Drawing With A Pink Boat Like Shape 63947203|Illustration Colorful Abstract Drawing With A Pink Boat Like Shape]] — shared language: shape, colorful
 - [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape
+- [[knowledge/wiki/images/Colorful 3D Geometric Shape with Multiple Lobes and Facets 70c6b7ee|Colorful 3D Geometric Shape with Multiple Lobes and Facets]] — shared language: shape, colorful
 - [[knowledge/wiki/images/Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape e3d47bf2|Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape]] — shared language: shape, colorful
-- [[knowledge/wiki/images/Diagram Colorful 3D Geometric Shape with Multiple Lobes and Facets 48e8296c|Diagram Colorful 3D Geometric Shape with Multiple Lobes and Facets]] — shared language: shape, colorful
-- [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: shape
+- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks 30608ec4|Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks]] — shared language: blocks, blocks.jpg
 <!-- vault-crosslinks:end -->

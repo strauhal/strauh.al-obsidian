@@ -24,5 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: child's
 - [[knowledge/wiki/images/Illustration Child's Drawing of Negative Thoughts and Social Media 70a205f7|Illustration Child's Drawing of Negative Thoughts and Social Media]] — shared language: child's
 - [[knowledge/wiki/images/Document Child's Drawing Of A Robot With A Haiku Poem ee56ac8f|Document Child's Drawing Of A Robot With A Haiku Poem]] — shared language: child's
-- [[knowledge/wiki/images/Photograph Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo acc4a089|Photograph Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo]] — shared language: child's
+- [[knowledge/wiki/images/Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo 55c9e642|Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo]] — shared language: child's
+- [[knowledge/wiki/images/Timeline of Modern Philosophers and Their Influences 26ec9142|Timeline of Modern Philosophers and Their Influences]] — shared language: modern
 <!-- vault-crosslinks:end -->

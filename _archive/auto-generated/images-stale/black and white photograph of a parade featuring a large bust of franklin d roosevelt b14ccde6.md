@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt a5ab657a|Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt]] — shared language: parade, roosevelt, franklin
+- [[knowledge/wiki/images/Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt 8ba3b1a6|Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt]] — shared language: parade, roosevelt, franklin
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt a5ab657a|Photograph Black And White Photograph Of A Parade With A Large Bust Of Franklin D. Roosevelt]] — shared language: parade, roosevelt, franklin
 - [[knowledge/wiki/images/franklin d roosevelt shaking hands with a farmer 1932 d5e060ba|franklin d roosevelt shaking hands with a farmer 1932]] — shared language: roosevelt, franklin
 - [[knowledge/wiki/images/Illustration Engraved Portrait of Theodore Roosevelt with Pince Nez Glasses by Franklin Booth a800b07c|Illustration Engraved Portrait of Theodore Roosevelt with Pince Nez Glasses by Franklin Booth]] — shared language: roosevelt, franklin
 - [[_archive/auto-generated/images-stale/photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building 70829749|photograph of a military parade featuring soldiers red flags and a large portrait of kim il sung in front of a building]] — shared language: parade, featuring, large
-- [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — shared language: franklin
 <!-- vault-crosslinks:end -->

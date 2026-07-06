@@ -43,5 +43,5 @@ Images attributed by filename: 7
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, street, night
 - [[knowledge/wiki/images/Rainy Day by Pascal Campion (2015) 309b08a0|Rainy Day by Pascal Campion (2015)]] — shared language: rainy, day
 - [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: rainy, street, night
-- [[knowledge/wiki/images/Photograph City Skyline Behind Lotus Pond on a Rainy Day 0a54955b|Photograph City Skyline Behind Lotus Pond on a Rainy Day]] — shared language: rainy, day
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

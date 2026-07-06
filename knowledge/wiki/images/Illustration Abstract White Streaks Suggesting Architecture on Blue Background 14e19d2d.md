@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Black Scribble Drawing Suggesting a Face on White Paper 08a4da29|Illustration Black Scribble Drawing Suggesting a Face on White Paper]] — shared language: suggesting
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid 196f48f0|Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid]] — shared language: streaks
 - [[knowledge/wiki/images/Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red 2643a7f3|Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red]] — shared language: streaks
-- [[knowledge/wiki/images/Photograph Black And White Photo Of Musician With Light Streaks 27657aa7|Photograph Black And White Photo Of Musician With Light Streaks]] — shared language: streaks
+- [[knowledge/wiki/images/Black And White Photo Of Musician With Light Streaks 06c2dc85|Black And White Photo Of Musician With Light Streaks]] — shared language: streaks
 <!-- vault-crosslinks:end -->

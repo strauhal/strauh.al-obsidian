@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/images/Photograph Photograph of a Bible Page With 'The Old Testament' Title e38d1ae5|Photograph Photograph of a Bible Page With 'The Old Testament' Title]] — shared language: bible
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/images/Photograph of a Bible Page With 'The Old Testament' Title d8b7d015|Photograph of a Bible Page With 'The Old Testament' Title]] — shared language: bible
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings ac49cb4a|Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings]] — shared language: sculptures, exhibition, paintings
 - [[_archive/auto-generated/images-stale/black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models be747d3a|black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models]] — shared language: sculptures, exhibition, paintings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: numerous, view
 - [[knowledge/wiki/images/Photograph Art Exhibition Featuring Various Ceramic Sculptures on White Walls 4792d850|Photograph Art Exhibition Featuring Various Ceramic Sculptures on White Walls]] — shared language: sculptures, exhibition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: exhibition, interior
-- [[_archive/auto-generated/images-stale/interior photograph of a museum gallery displaying multiple framed paintings and visitors 90ddb16d|interior photograph of a museum gallery displaying multiple framed paintings and visitors]] — shared language: displaying, paintings, interior
 <!-- vault-crosslinks:end -->

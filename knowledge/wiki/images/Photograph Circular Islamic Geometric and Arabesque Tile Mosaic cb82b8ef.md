@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cir
 
 - [[knowledge/wiki/images/Illustration Stylized Geometric And Arabesque Design On Page 93 8a7d20cd|Illustration Stylized Geometric And Arabesque Design On Page 93]] — shared language: arabesque, geometric
 - [[knowledge/wiki/images/Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape e3d47bf2|Illustration Abstract Mosaic of Colorful Images Forming Animal Like Shape]] — shared language: mosaic
-- [[knowledge/wiki/images/Photograph Ceramic Glaze Test Tile And Vase With Green And Brown Glaze 990356e0|Photograph Ceramic Glaze Test Tile And Vase With Green And Brown Glaze]] — shared language: tile
-- [[knowledge/wiki/images/Photograph Interior View of Archway with Muqarnas and Colorful Tile Decoration a853504a|Photograph Interior View of Archway with Muqarnas and Colorful Tile Decoration]] — shared language: tile
 - [[knowledge/wiki/images/Photograph Intricately Tiled Islamic Dome And Archway Interior With Blue And Yellow Patterns 94f55f36|Photograph Intricately Tiled Islamic Dome And Archway Interior With Blue And Yellow Patterns]] — shared language: islamic
+- [[knowledge/wiki/images/Photograph Photograph of Islamic Tilework with Scalloped Medallion and Hexagonal Tiles 84c2dea9|Photograph Photograph of Islamic Tilework with Scalloped Medallion and Hexagonal Tiles]] — shared language: islamic
+- [[knowledge/wiki/images/Photograph Interior View of Archway with Muqarnas and Colorful Tile Decoration a853504a|Photograph Interior View of Archway with Muqarnas and Colorful Tile Decoration]] — shared language: tile
 <!-- vault-crosslinks:end -->

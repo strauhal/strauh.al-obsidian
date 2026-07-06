@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wal
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: paintings, wall, framed
-- [[knowledge/wiki/books/1611354422128|1611354422128]] — shared language: shelf
-- [[knowledge/wiki/books/1619646949926|1619646949926]] — shared language: shelf
-- [[knowledge/wiki/books/1619925797187|1619925797187]] — shared language: shelf
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — shared language: shelf
+- [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: paintings, framed
+- [[knowledge/wiki/images/Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots da1e21ac|Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots]] — shared language: paintings, multiple
+- [[knowledge/wiki/images/Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches 1cc1c4f4|Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches]] — shared language: multiple, framed
+- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: paintings, framed
 <!-- vault-crosslinks:end -->

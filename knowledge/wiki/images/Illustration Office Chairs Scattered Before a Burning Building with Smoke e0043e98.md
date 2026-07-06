@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
-- [[knowledge/wiki/images/Photograph Multiple Cars Burning on a Street with Thick Smoke daaec58c|Photograph Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, smoke, smoke.jpeg
-- [[knowledge/wiki/images/Photograph Multiple Cars Burning on Street with Thick Black Smoke 1bccbd24|Photograph Multiple Cars Burning on Street with Thick Black Smoke]] — shared language: burning, smoke
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, burning
+- [[knowledge/wiki/images/Multiple Cars Burning on a Street with Thick Smoke ff3e1d14|Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, smoke, smoke.jpeg
+- [[knowledge/wiki/images/Office Chairs Lined Up in Ocean Surf on Beach 5bfe4d01|Office Chairs Lined Up in Ocean Surf on Beach]] — shared language: chairs, office
+- [[knowledge/wiki/images/Multiple Cars Burning on Street with Thick Black Smoke 270b946a|Multiple Cars Burning on Street with Thick Black Smoke]] — shared language: burning, smoke
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: smoke, building
-- [[knowledge/wiki/images/Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building 3c6b2d32|Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building]] — shared language: burning, building
 <!-- vault-crosslinks:end -->

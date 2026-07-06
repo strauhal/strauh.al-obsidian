@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Migration Se
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: series
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: found
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: jacob, lawrence
+- [[knowledge/wiki/images/the wedding by jacob lawrence 1948 fc3f1517|the wedding by jacob lawrence 1948]] — shared language: jacob, lawrence
 <!-- vault-crosslinks:end -->

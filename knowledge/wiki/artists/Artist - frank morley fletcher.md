@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Fishing for Escher by James Fletcher (2018) b7e7a917|Fishing for Escher by James Fletcher (2018)]] — shared language: fletcher
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: frank
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
 <!-- vault-crosslinks:end -->

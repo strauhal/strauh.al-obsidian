@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/102127 a1m3mxqxxxxdms7 custom e233cbf9|102127 a1m3mxqxxxxdms7 custom]] — named in this note
-- [[knowledge/wiki/images/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: socs, pro, max
+- [[_archive/auto-generated/images-stale/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: socs, pro, max
+- [[knowledge/wiki/images/Three Apple M2 Pro and M2 Max SOCs 1763dace|Three Apple M2 Pro and M2 Max SOCs]] — shared language: socs, pro, max
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple, pro, max
 - [[knowledge/wiki/images/Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple 3ceb4c4a|Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple]] — shared language: pro, apple, max
-- [[knowledge/wiki/images/Photograph DECtalk DTC01 with Cat for Scale 09a20f16|Photograph DECtalk DTC01 with Cat for Scale]] — shared language: scale
 <!-- vault-crosslinks:end -->

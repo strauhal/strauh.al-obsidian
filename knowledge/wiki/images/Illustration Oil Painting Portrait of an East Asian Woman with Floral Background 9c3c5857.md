@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: asian, east
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: asian, east
 - [[knowledge/wiki/images/Illustration Abstract Floral Outlines on Blue Background 73a87d23|Illustration Abstract Floral Outlines on Blue Background]] — shared language: floral, background, background.jpeg
+- [[knowledge/wiki/images/Colorful Network Diagram Connecting East Asian Locations 213e3df1|Colorful Network Diagram Connecting East Asian Locations]] — shared language: asian, east
 - [[knowledge/wiki/images/Illustration Ancient East Asian Pagoda Amidst Mountains and Trees f7c3a95c|Illustration Ancient East Asian Pagoda Amidst Mountains and Trees]] — shared language: asian, east
-- [[knowledge/wiki/images/Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings 8d5f32de|Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings]] — shared language: asian, east
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Modern Building Entrance with Parking Sign 86b5dd75|Illustration Pencil Sketch of Modern Building Entrance with Parking Sign]] — shared language: entrance, parking, sign
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
-- [[knowledge/wiki/images/Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot 336e5420|Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot]] — shared language: parking, building
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
+- [[_archive/auto-generated/images-stale/pencil sketch of two figures embracing 2d8602db|pencil sketch of two figures embracing]] — shared language: pencil, sketch
 - [[_archive/auto-generated/images-stale/black and white sketch of perspective cubes and abstract arrows 73a6be20|black and white sketch of perspective cubes and abstract arrows]] — shared language: perspective, sketch
-- [[knowledge/wiki/images/Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows 8b01490f|Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows]] — shared language: perspective, sketch
 <!-- vault-crosslinks:end -->

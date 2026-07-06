@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Rai
 
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, signs, night
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, street, night
-- [[knowledge/wiki/images/Photograph Night Street Scene with Numerous Bright Neon Signs 485b33af|Photograph Night Street Scene with Numerous Bright Neon Signs]] — shared language: neon, signs, night
-- [[knowledge/wiki/images/Photograph Night Street Scene with Numerous Bright Neon Signs and Traffic 63b4ed30|Photograph Night Street Scene with Numerous Bright Neon Signs and Traffic]] — shared language: signs, neon, night
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, night, street
+- [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs 5ea1b2ad|Night Street Scene with Numerous Bright Neon Signs]] — shared language: neon, signs, night
+- [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs and Traffic 13c00b4d|Night Street Scene with Numerous Bright Neon Signs and Traffic]] — shared language: neon, signs, night
 <!-- vault-crosslinks:end -->

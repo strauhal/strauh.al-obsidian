@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/Taima Mandala (1615 1868) 432454a4|Taima Mandala (1615 1868)]] — shared language: mandala
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
 - [[knowledge/wiki/images/drawing of multiple studies of human heads faces and body parts by wayne thiebaud 1956 40cd1ad5|drawing of multiple studies of human heads faces and body parts by wayne thiebaud 1956]] — shared language: heads, faces
-- [[knowledge/wiki/images/Illustration Ancient Rock Art with Numerous White and Red Hand Stencils 9e9f0e4d|Illustration Ancient Rock Art with Numerous White and Red Hand Stencils]] — shared language: numerous
+- [[knowledge/wiki/images/Illustration Three Figures With Obscured Faces in a Painting de85553b|Illustration Three Figures With Obscured Faces in a Painting]] — shared language: faces
 <!-- vault-crosslinks:end -->

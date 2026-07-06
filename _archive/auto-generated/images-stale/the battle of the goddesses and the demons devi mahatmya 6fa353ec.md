@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Mythological Battle of Deities and Demons on Animals b60a7643|Illustration Mythological Battle of Deities and Demons on Animals]] — shared language: demons, battle
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[knowledge/wiki/images/Illustration Drawing of Figures in a Celestial Battle or Allegory 0f824e6b|Illustration Drawing of Figures in a Celestial Battle or Allegory]] — shared language: battle
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: battle
 - [[knowledge/wiki/images/Illustration Buddha Meditating as Earth Goddess Wrings Water to Drown Demons 5137bb4b|Illustration Buddha Meditating as Earth Goddess Wrings Water to Drown Demons]] — shared language: demons
-- [[knowledge/wiki/images/vasily vereshchagin requiem after the battle 1878 b329d66e|vasily vereshchagin requiem after the battle 1878]] — shared language: battle
 <!-- vault-crosslinks:end -->

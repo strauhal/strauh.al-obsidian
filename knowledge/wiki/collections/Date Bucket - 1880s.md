@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1880s"
 source_kind: "date_bucket"
-count: "178"
+count: "177"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1880s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 178
+Files: 177
 
 ## Sample
 

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/shakyamuni_buddh
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha
 - [[knowledge/wiki/artists/Artist - Orbital Assembly Corporation|Artist - Orbital Assembly Corporation]] — shared language: assembly
 - [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century, century.jpg
-- [[knowledge/wiki/images/Photograph Men in Suits Raising Hands in a Large Assembly Hall 2883973e|Photograph Men in Suits Raising Hands in a Large Assembly Hall]] — shared language: assembly
 - [[knowledge/wiki/books/gautama-buddha-translated-by-john-richards-buddhism-gautama-buddha-the-dhammapada-buddha-dharma-education-association-inc|Buddhism Gautama Buddha - The Dhammapada-Buddha Dharma Education Association Inc.]] — shared language: buddha
+- [[knowledge/wiki/images/Men in Suits Raising Hands in a Large Assembly Hall c1fbeaa4|Men in Suits Raising Hands in a Large Assembly Hall]] — shared language: assembly
 <!-- vault-crosslinks:end -->

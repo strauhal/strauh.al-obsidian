@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - You
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — named in this note
 - [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: jumpsuit, escorted, police
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Photograph Man in Handcuffs Escorted by Officers Past Photographers bf42cdbc|Photograph Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
-- [[knowledge/wiki/images/Photograph Police Officers in Riot Gear Outside Donut Shop at Night 8c314321|Photograph Police Officers in Riot Gear Outside Donut Shop at Night]] — shared language: officers, police
-- [[knowledge/wiki/images/Photograph Police Officers Confronting Man Holding Objects In Residential Area 456cd2f2|Photograph Police Officers Confronting Man Holding Objects In Residential Area]] — shared language: officers, police
+- [[knowledge/wiki/images/Man in Handcuffs Escorted by Officers Past Photographers 2aac9b02|Man in Handcuffs Escorted by Officers Past Photographers]] — shared language: officers, escorted
+- [[knowledge/wiki/images/Police Officers Confronting Man Holding Objects In Residential Area 08702ffd|Police Officers Confronting Man Holding Objects In Residential Area]] — shared language: officers, police
 <!-- vault-crosslinks:end -->

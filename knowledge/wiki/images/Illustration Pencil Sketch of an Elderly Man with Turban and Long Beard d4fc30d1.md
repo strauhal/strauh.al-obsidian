@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: long, pencil, sketch
-- [[knowledge/wiki/images/Photograph Man With Long Hair And Beard Playing Electronic Keyboard 126743ff|Photograph Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard, long
-- [[knowledge/wiki/images/Photograph Man With Beard And Glasses Holding A Drawing 5d8c7f64|Photograph Man With Beard And Glasses Holding A Drawing]] — shared language: beard
+- [[knowledge/wiki/images/Man With Long Hair And Beard Playing Electronic Keyboard 6599ec0c|Man With Long Hair And Beard Playing Electronic Keyboard]] — shared language: beard, long
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
+- [[knowledge/wiki/images/Head of a Man with a Turban by Henri Matisse (1919) b76c221f|Head of a Man with a Turban by Henri Matisse (1919)]] — shared language: turban
 <!-- vault-crosslinks:end -->

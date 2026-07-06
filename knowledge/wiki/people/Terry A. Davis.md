@@ -43,6 +43,6 @@ come to him in dreams" — to argue that "elegance is a virtue."
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, really
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, you're, can't
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, you're, that's
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, monitor, maybe
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, diary
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, maybe, monitor
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: quotes, you're, able
 <!-- vault-crosslinks:end -->

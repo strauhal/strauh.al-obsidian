@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - harold edgerton|Artist - harold edgerton]] — named in this note
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
-- [[knowledge/wiki/images/Photograph Tennis Serve by Harold Edgerton a9a601f9|Photograph Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold, tennis
+- [[_archive/auto-generated/images-stale/Photograph Tennis Serve by Harold Edgerton a9a601f9|Photograph Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold, tennis
+- [[knowledge/wiki/images/Tennis Serve by Harold Edgerton 9c7ad146|Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold, tennis
 - [[knowledge/wiki/images/Diver by Harold Edgerton (1955) 81f5f771|Diver by Harold Edgerton (1955)]] — shared language: edgerton, harold
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: harold
-- [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: harold
 <!-- vault-crosslinks:end -->

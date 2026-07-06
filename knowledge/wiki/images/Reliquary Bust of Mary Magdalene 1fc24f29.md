@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Reliquary Bus
 
 - [[knowledge/wiki/images/Reliquary of Mary Magdalene 26312310|Reliquary of Mary Magdalene]] — shared language: reliquary, magdalene, mary
 - [[knowledge/wiki/images/mary magdalene by moretto da brescia 1540 50 21639dd7|mary magdalene by moretto da brescia 1540 50]] — shared language: magdalene, mary
-- [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 - [[knowledge/wiki/images/mary magdalene in the cave by hugues merle 1868 ab6f6988|mary magdalene in the cave by hugues merle 1868]] — shared language: magdalene, mary
+- [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 - [[knowledge/wiki/images/miraflores altarpiece detail of mary magdalene by rogier van der weyden c 1440 1445 14ac8f35|miraflores altarpiece detail of mary magdalene by rogier van der weyden c 1440 1445]] — shared language: magdalene, mary
 <!-- vault-crosslinks:end -->

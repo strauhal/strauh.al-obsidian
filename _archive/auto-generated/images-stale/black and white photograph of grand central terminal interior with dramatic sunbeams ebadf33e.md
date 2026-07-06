@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Dramatic Sunbeams Inside Grand Central Terminal, Black and White 5e95ec91|Photograph Dramatic Sunbeams Inside Grand Central Terminal, Black and White]] — shared language: sunbeams, terminal, dramatic
+- [[knowledge/wiki/images/Black And White Photo Of Soldiers Climbing Rocky Path With Sunbeams 6f4a72bd|Black And White Photo Of Soldiers Climbing Rocky Path With Sunbeams]] — shared language: sunbeams, sunbeams.jpg
 - [[_archive/auto-generated/images-stale/black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues 9026a7c6|black and white photograph of a grand exposition featuring white neoclassical buildings a central canal and statues]] — shared language: grand, central
-- [[knowledge/wiki/images/Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture bfe57cb8|Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: grand, interior
-- [[_archive/auto-generated/images-stale/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: dramatic
-- [[knowledge/wiki/images/Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting f392c91e|Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting]] — shared language: dramatic
+- [[knowledge/wiki/images/Modern Concert Hall Interior with Grand Piano and Wooden Architecture fb385756|Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: grand, interior
+- [[_archive/auto-generated/images-stale/Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture bfe57cb8|Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: grand, interior
 <!-- vault-crosslinks:end -->

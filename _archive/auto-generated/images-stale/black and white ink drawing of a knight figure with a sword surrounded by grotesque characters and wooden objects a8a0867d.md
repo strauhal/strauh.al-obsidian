@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque, ink
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter 1290b3cd|black and white ink drawing of a woman in uniform surrounded by a grotesque creature and splatter]] — shared language: grotesque, surrounded, ink
 - [[knowledge/wiki/images/Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects 0faccd21|Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects]] — shared language: objects, characters, objects.jpeg
-- [[knowledge/wiki/images/Illustration Still Life Painting Of Diverse Objects On Wooden Shelves 6f4c4913|Illustration Still Life Painting Of Diverse Objects On Wooden Shelves]] — shared language: objects, wooden
+- [[knowledge/wiki/images/Illustration Grotesque Expressionist Ink Drawing of Rotated Figures 6ccc6703|Illustration Grotesque Expressionist Ink Drawing of Rotated Figures]] — shared language: grotesque, ink
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Woven Textile Depicting Green and Yellow Circuit Board Pattern with Fringed Edges 9442deda|Illustration Woven Textile Depicting Green and Yellow Circuit Board Pattern with Fringed Edges]] — shared language: fringed, woven, textile
 - [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board, yellow
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, yellow
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, yellow
+- [[_archive/auto-generated/images-stale/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, yellow
 - [[knowledge/wiki/images/Illustration Blue Circuit Board Pattern Forming a Crucifix on Black Background cfbe5097|Illustration Blue Circuit Board Pattern Forming a Crucifix on Black Background]] — shared language: circuit, board, pattern
-- [[_archive/auto-generated/images-stale/woven textile depicting steps and railing submerged in blue water 774d67c2|woven textile depicting steps and railing submerged in blue water]] — shared language: woven, textile, depicting
 <!-- vault-crosslinks:end -->

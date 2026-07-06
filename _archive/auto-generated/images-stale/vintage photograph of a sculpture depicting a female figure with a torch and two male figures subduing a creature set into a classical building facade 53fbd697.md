@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: facade, vintage, sculpture
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage, people
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
 <!-- vault-crosslinks:end -->

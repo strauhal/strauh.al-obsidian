@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: diamond, radiating, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes 3a5aa82c|Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes]] — shared language: diamond, radiating, lines
 - [[_archive/auto-generated/images-stale/black and white op art diamond shape with wavy vertical lines e13a1dd0|black and white op art diamond shape with wavy vertical lines]] — shared language: diamond, shape, lines
-- [[knowledge/wiki/images/Illustration Black And White Op Art Diamond With Wavy Lines c8fc98d8|Illustration Black And White Op Art Diamond With Wavy Lines]] — shared language: diamond, lines, lines.jpeg
 - [[knowledge/wiki/images/Illustration Black and White Symmetrical Geometric Design with Radiating Lines 050a3c74|Illustration Black and White Symmetrical Geometric Design with Radiating Lines]] — shared language: radiating, geometric, lines
+- [[knowledge/wiki/images/Illustration Black And White Op Art Diamond With Wavy Lines c8fc98d8|Illustration Black And White Op Art Diamond With Wavy Lines]] — shared language: diamond, lines, lines.jpeg
 <!-- vault-crosslinks:end -->

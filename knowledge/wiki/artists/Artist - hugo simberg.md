@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - hugo van lawick|Artist - hugo van lawick]] — shared language: hugo
-- [[knowledge/wiki/images/Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event f4b4ed7f|Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
 - [[knowledge/wiki/images/jane goodall with a chimpanzee apple think different campaign by hugo van lawick 1997 4c117222|jane goodall with a chimpanzee apple think different campaign by hugo van lawick 1997]] — shared language: hugo
+- [[knowledge/wiki/images/Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event 9cb3c729|Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: hugo
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/images/the angel of death by evelyn de morgan 1881 1dbbcb78|the angel of death by evelyn de morgan 1881]] — shared language: angel, death
 - [[knowledge/wiki/images/alexandre cabanel the fallen angel 1847 e4b7fbe6|alexandre cabanel the fallen angel 1847]] — shared language: angel

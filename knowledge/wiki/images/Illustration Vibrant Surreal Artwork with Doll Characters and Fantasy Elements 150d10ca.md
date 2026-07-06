@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle 21bf8ca0|Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle]] — shared language: fantasy, vibrant, surreal
 - [[knowledge/wiki/images/Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects 2fcf7b39|Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects]] — shared language: artwork, vibrant, characters
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Cityscape With Figures, Cats, And Japanese Advertisements 5429165c|Illustration Vibrant Surreal Cityscape With Figures, Cats, And Japanese Advertisements]] — shared language: vibrant, surreal
-- [[knowledge/wiki/images/Illustration Abstract Artwork With Vibrant Colors And Contour Lines 73c090e6|Illustration Abstract Artwork With Vibrant Colors And Contour Lines]] — shared language: artwork, vibrant
 - [[knowledge/wiki/images/Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon 44576e4a|Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon]] — shared language: fantasy, characters
+- [[knowledge/wiki/images/Illustration Abstract Artwork With Vibrant Colors And Contour Lines 73c090e6|Illustration Abstract Artwork With Vibrant Colors And Contour Lines]] — shared language: artwork, vibrant
 <!-- vault-crosslinks:end -->

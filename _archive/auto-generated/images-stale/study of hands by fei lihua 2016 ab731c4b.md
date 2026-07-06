@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fei lihua 2016|Artist - fei lihua 2016]] — named in this note
+- [[knowledge/wiki/artists/Artist - Fei Lihua|Artist - Fei Lihua]] — named in this note
 - [[knowledge/wiki/images/Illustration Close up Painting of Two Hands Clasped Together by Fei Lihua 5e9608d3|Illustration Close up Painting of Two Hands Clasped Together by Fei Lihua]] — same artist: fei lihua
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
 <!-- vault-crosslinks:end -->

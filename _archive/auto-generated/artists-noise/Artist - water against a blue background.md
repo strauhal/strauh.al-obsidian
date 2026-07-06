@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - water|Artist - Water]] — named in this note
+- [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-water-against-a-blue-background|Artist - water against a blue background]] — shared language: water, against, background
-- [[knowledge/wiki/images/Photograph Person With Green Skin And Red Sunglasses Splashed By Water d74e4a2d|Photograph Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: water, splashed, skin
+- [[knowledge/wiki/images/Person With Green Skin And Red Sunglasses Splashed By Water 41963806|Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: water, splashed, skin
+- [[_archive/auto-generated/images-stale/Photograph Person With Green Skin And Red Sunglasses Splashed By Water d74e4a2d|Photograph Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: water, splashed, skin
+- [[knowledge/archive/auto-generated/artists-stale/Artist - water|Artist - Water]] — shared language: water, splashed, skin
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: against, background
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 <!-- vault-crosslinks:end -->

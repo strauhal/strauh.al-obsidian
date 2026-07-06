@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_misses_paine
 - [[knowledge/wiki/images/The Dive by Joshua Budich (2022) e4a3ae5b|The Dive by Joshua Budich (2022)]] — shared language: joshua
 - [[knowledge/wiki/artists/Artist - charles joshua chaplin|Artist - charles joshua chaplin]] — shared language: joshua
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
-- [[knowledge/wiki/images/Dream Library by Malene Reynolds Laugesen (2013) 9c5dcf57|Dream Library by Malene Reynolds Laugesen (2013)]] — shared language: reynolds
+- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Receding Red And Orange Neon Squares On Dark Background 1e6c7ff9|Illustration Receding Red And Orange Neon Squares On Dark Background]] — shared language: squares, orange
 - [[knowledge/wiki/images/Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares 9199a264|Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares]] — shared language: squares, squares.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares
-- [[knowledge/wiki/images/Illustration Abstract Woven Textile with Colorful Organic Shapes 4033a7d2|Illustration Abstract Woven Textile with Colorful Organic Shapes]] — shared language: woven
+- [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: squares
 <!-- vault-crosslinks:end -->

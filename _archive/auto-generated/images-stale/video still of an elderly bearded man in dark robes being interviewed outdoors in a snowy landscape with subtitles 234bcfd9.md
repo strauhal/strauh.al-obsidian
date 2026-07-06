@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles e87bc1f8|Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles]] — shared language: interviewed, subtitles, outdoors
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
-- [[knowledge/wiki/images/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
-- [[_archive/auto-generated/images-stale/black and white photograph of an elderly man in white robes waving to a crowd 9004dca9|black and white photograph of an elderly man in white robes waving to a crowd]] — shared language: elderly, robes
+- [[knowledge/wiki/images/Elderly Man in Robes with Two Women on Subway 0ed1dc9f|Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
+- [[_archive/auto-generated/images-stale/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
 - [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game
-- [[knowledge/wiki/images/Photograph Human Chess Game in Palace Square, Petrograd e8125690|Photograph Human Chess Game in Palace Square, Petrograd]] — shared language: game
-- [[knowledge/wiki/images/Photograph Night Baseball Game with Japanese Castle in Background 6dd8ea8b|Photograph Night Baseball Game with Japanese Castle in Background]] — shared language: game
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: game
+- [[knowledge/wiki/images/Night Baseball Game with Japanese Castle in Background 349bfe49|Night Baseball Game with Japanese Castle in Background]] — shared language: game
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: game
+- [[knowledge/wiki/images/Illustration Person Playing Online Card Game at Night b0b118f6|Illustration Person Playing Online Card Game at Night]] — shared language: game
 - [[knowledge/wiki/images/Still Life with Game and Vegetables by Thomas Hill (c. 1880) 4c7fbb68|Still Life with Game and Vegetables by Thomas Hill (c. 1880)]] — shared language: game
 <!-- vault-crosslinks:end -->

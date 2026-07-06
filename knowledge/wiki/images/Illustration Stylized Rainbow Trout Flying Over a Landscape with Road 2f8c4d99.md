@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Stylized Flying Creatures and Objects bb4db2f9|Illustration Abstract Drawing of Stylized Flying Creatures and Objects]] — shared language: flying, stylized
 - [[knowledge/wiki/images/Illustration Abstract Vertical Rainbow Lines Over Textured Wavy Landscape 84766e4b|Illustration Abstract Vertical Rainbow Lines Over Textured Wavy Landscape]] — shared language: rainbow, landscape
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Fields, Trees, Road, and Purple Sky by Hiroshi Nagai 06fe0704|Illustration Stylized Landscape with Fields, Trees, Road, and Purple Sky by Hiroshi Nagai]] — shared language: road, stylized, landscape
-- [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: rainbow
+- [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 <!-- vault-crosslinks:end -->

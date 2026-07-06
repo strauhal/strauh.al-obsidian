@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/a_man_sitting_at
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: san, francisco
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: san, francisco
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

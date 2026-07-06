@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Uphill Glow by Ross Moore 8bad1ffb|Uphill Glow by Ross Moore]] — same artist: ross moore
+- [[knowledge/wiki/artists/Artist - Ross Moore|Artist - Ross Moore]] — named in this note
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — shared language: moore
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris moore 1999|Artist - chris moore 1999]] — shared language: moore
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: ross
-- [[knowledge/wiki/images/gardens of the moon book cover by chris moore 1999 75334ee1|gardens of the moon book cover by chris moore 1999]] — shared language: moore
 <!-- vault-crosslinks:end -->

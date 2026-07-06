@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Photograph Person Viewing Art Installation in a Modern Gallery ef4623a0|Photograph Person Viewing Art Installation in a Modern Gallery]] — shared language: gallery, person, gallery.jpeg
 - [[_archive/auto-generated/images-stale/black and white photograph of a fencer wearing a mask viewed from the back 3173554b|black and white photograph of a fencer wearing a mask viewed from the back]] — shared language: mask, wearing
 - [[_archive/auto-generated/images-stale/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
-- [[knowledge/wiki/images/Photograph Person Viewing Framed Photograph In Gallery 38eb2c8f|Photograph Person Viewing Framed Photograph In Gallery]] — shared language: gallery, person
-- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: wearing, person
+- [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: gallery, person
+- [[_archive/auto-generated/images-stale/Photograph Person Viewing Framed Photograph In Gallery 38eb2c8f|Photograph Person Viewing Framed Photograph In Gallery]] — shared language: gallery, person
 <!-- vault-crosslinks:end -->

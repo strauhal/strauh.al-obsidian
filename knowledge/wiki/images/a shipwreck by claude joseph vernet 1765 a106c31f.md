@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/a_shipwreck_by_c
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - horace vernet|Artist - horace vernet]] — shared language: vernet
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/images/The Werewolf by the Shipwreck by Satty (1927) 274adb59|The Werewolf by the Shipwreck by Satty (1927)]] — shared language: shipwreck
 - [[knowledge/wiki/images/horace vernet prise de la tour de malakoff 1858 e4251de6|horace vernet prise de la tour de malakoff 1858]] — shared language: vernet
-- [[knowledge/wiki/images/the well in the desert by horace vernet 1843 2982d2a3|the well in the desert by horace vernet 1843]] — shared language: vernet
 <!-- vault-crosslinks:end -->

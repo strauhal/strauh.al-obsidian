@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/menier_chocolate
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/french pavilion world s columbian exposition chicago 1893 14b26905|french pavilion world s columbian exposition chicago 1893]] — shared language: pavilion, columbian, chicago
-- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, chicago, exposition
-- [[knowledge/wiki/images/World's Columbian Exposition, Chicago (1893) 054ec074|World's Columbian Exposition, Chicago (1893)]] — shared language: columbian, chicago, exposition
-- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, chicago, exposition
-- [[knowledge/wiki/images/the administration building world s columbian exposition chicago by john moran 1894 e8e4331c|the administration building world s columbian exposition chicago by john moran 1894]] — shared language: columbian, chicago, exposition
+- [[knowledge/wiki/images/french pavilion world s columbian exposition chicago 1893 14b26905|french pavilion world s columbian exposition chicago 1893]] — shared language: pavilion, columbian, exposition
+- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, exposition, chicago
+- [[knowledge/wiki/images/World's Columbian Exposition, Chicago (1893) 054ec074|World's Columbian Exposition, Chicago (1893)]] — shared language: columbian, exposition, chicago
+- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, exposition, chicago
+- [[knowledge/wiki/images/the administration building world s columbian exposition chicago by john moran 1894 e8e4331c|the administration building world s columbian exposition chicago by john moran 1894]] — shared language: columbian, exposition, chicago
 <!-- vault-crosslinks:end -->

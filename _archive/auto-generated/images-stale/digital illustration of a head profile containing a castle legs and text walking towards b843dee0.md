@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Surreal Digital Illustration of Head Profile, Castle, Legs, and Text b19300de|Illustration Surreal Digital Illustration of Head Profile, Castle, Legs, and Text]] — shared language: legs, castle, profile
-- [[knowledge/wiki/images/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards, walking
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/images/Man Walking Towards Atomium Under Construction fa4e7faa|Man Walking Towards Atomium Under Construction]] — shared language: towards, walking
+- [[_archive/auto-generated/images-stale/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards, walking
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
-- [[knowledge/wiki/images/Illustration Woman And Cat Walking Towards White House In Colorful Garden 10d37711|Illustration Woman And Cat Walking Towards White House In Colorful Garden]] — shared language: towards, walking
 <!-- vault-crosslinks:end -->

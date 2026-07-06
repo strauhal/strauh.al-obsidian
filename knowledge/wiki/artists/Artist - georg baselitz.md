@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg
 - [[knowledge/wiki/images/Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775) dbead3f8|Portrait of Johann Wolfgang von Goethe by Georg Melchior Kraus (c. 1775)]] — shared language: georg
 - [[knowledge/wiki/culture/reading-phenomenology-of-spirit|Reading - Phenomenology of Spirit]] — shared language: georg
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
 <!-- vault-crosslinks:end -->

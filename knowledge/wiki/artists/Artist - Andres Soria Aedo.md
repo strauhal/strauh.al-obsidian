@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Andres Serrano|Artist - Andres Serrano]] — shared language: andres
+- [[knowledge/wiki/images/Piss Christ by Andres Serrano 61010b94|Piss Christ by Andres Serrano]] — shared language: andres
+- [[knowledge/wiki/images/Semen and Blood III by Andres Serrano (1990) 08f38102|Semen and Blood III by Andres Serrano (1990)]] — shared language: andres
+- [[knowledge/wiki/images/Untitled VII (Ejaculate in Trajectory) by Andres Serrano 5c3f7929|Untitled VII (Ejaculate in Trajectory) by Andres Serrano]] — shared language: andres
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining, nude
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: reclining, nude
-- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
-- [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: reclining, nude
-- [[knowledge/wiki/images/Reclining Nude by Edgar Degas (c. 1896) 1a3c4b25|Reclining Nude by Edgar Degas (c. 1896)]] — shared language: reclining, nude
-- [[knowledge/wiki/images/reclining nude by egon schiele 1910 153773d0|reclining nude by egon schiele 1910]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

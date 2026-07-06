@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori 2015|Artist - mark maggiori 2015]] — named in this note
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — named in this note
 - [[knowledge/wiki/images/Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori 52455f1d|Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori]] — same artist: mark maggiori
 - [[knowledge/wiki/images/Mesmerized by Mark Maggiori 22c69996|Mesmerized by Mark Maggiori]] — same artist: mark maggiori
 - [[_archive/auto-generated/images-stale/mark maggiori out where the big clouds are 2022 cd9a2f6c|mark maggiori out where the big clouds are 2022]] — shared language: maggiori, mark
-- [[knowledge/wiki/images/The Vermillion Trail by Mark Maggiori (2021) 1fb0958d|The Vermillion Trail by Mark Maggiori (2021)]] — shared language: maggiori, mark
 <!-- vault-crosslinks:end -->

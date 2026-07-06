@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Me
 
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Diagram Black and White Grid of Adversarial Examples 4681dabf|Diagram Black and White Grid of Adversarial Examples]] — shared language: examples
+- [[knowledge/wiki/images/Black and White Grid of Adversarial Examples 7d052f86|Black and White Grid of Adversarial Examples]] — shared language: examples
 - [[knowledge/wiki/images/Illustration Cartoon Man Pointing to Shirt with Digital Image Examples a24d65e5|Illustration Cartoon Man Pointing to Shirt with Digital Image Examples]] — shared language: examples
-- [[knowledge/wiki/images/Diagram Two Examples Of Line Based Shading Techniques 75de70d2|Diagram Two Examples Of Line Based Shading Techniques]] — shared language: examples
+- [[knowledge/wiki/images/Two Examples Of Line Based Shading Techniques d6a44913|Two Examples Of Line Based Shading Techniques]] — shared language: examples
 <!-- vault-crosslinks:end -->

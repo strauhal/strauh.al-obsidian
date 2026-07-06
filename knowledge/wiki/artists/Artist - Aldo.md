@@ -21,6 +21,6 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/grace jones by jean paul goude 1978 653bbf86|grace jones by jean paul goude 1978]] — shared language: grace
-- [[knowledge/wiki/images/Photograph Grace Jones, New York by Jean Paul Goude 57aba063|Photograph Grace Jones, New York by Jean Paul Goude]] — shared language: grace
+- [[knowledge/wiki/images/Grace Jones, New York by Jean Paul Goude eefa828e|Grace Jones, New York by Jean Paul Goude]] — shared language: grace
 - [[knowledge/wiki/artists/Artist - jean paul goude|Artist - jean paul goude]] — shared language: grace
 <!-- vault-crosslinks:end -->

@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joseph beuys 1974|Artist - joseph beuys 1974]] — named in this note
-- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: beuys, joseph
+- [[_archive/auto-generated/images-stale/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
 - [[_archive/auto-generated/images-stale/beuys teaching1 534f4597|beuys teaching1]] — shared language: beuys

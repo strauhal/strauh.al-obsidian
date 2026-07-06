@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/abstract geometric painting of a red diamond shape with radiating lines 04af108e|abstract geometric painting of a red diamond shape with radiating lines]] — shared language: diamond, shape, lines
 - [[knowledge/wiki/images/Illustration Abstract Vertical Rainbow Lines Over Textured Wavy Landscape 84766e4b|Illustration Abstract Vertical Rainbow Lines Over Textured Wavy Landscape]] — shared language: vertical, wavy, lines
 - [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape, lines, lines.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: diamond, lines, lines.jpeg
+- [[knowledge/wiki/images/Illustration Abstract Pattern of Vertical Lines and Central Oval Shape b267d167|Illustration Abstract Pattern of Vertical Lines and Central Oval Shape]] — shared language: vertical, shape, lines
 <!-- vault-crosslinks:end -->

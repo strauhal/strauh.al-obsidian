@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Tropical Beach With Palm Trees And Distant Islands At Sunset 074554b0|Photograph Tropical Beach With Palm Trees And Distant Islands At Sunset]] — shared language: palm, sunset, trees
+- [[knowledge/wiki/images/Tropical Beach With Palm Trees And Distant Islands At Sunset af14185b|Tropical Beach With Palm Trees And Distant Islands At Sunset]] — shared language: palm, sunset, trees
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Trees with Colorful Foliage 1fae8830|Illustration Vibrant Abstract Trees with Colorful Foliage]] — shared language: vibrant, trees
 - [[knowledge/wiki/images/The Houses of Parliament, Sunset by Claude Monet (1903) e58ff7ba|The Houses of Parliament, Sunset by Claude Monet (1903)]] — shared language: houses, sunset
 - [[knowledge/wiki/images/Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds b18bbe23|Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds]] — shared language: vibrant, sunset

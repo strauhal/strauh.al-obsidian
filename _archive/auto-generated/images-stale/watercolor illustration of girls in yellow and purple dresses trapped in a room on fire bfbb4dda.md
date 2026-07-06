@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/watercolor and ink drawing of a figure in a purple dress holding red ribbons framed by a yellow background with confetti 12b67301|watercolor and ink drawing of a figure in a purple dress holding red ribbons framed by a yellow background with confetti]] — shared language: watercolor, purple, yellow
 - [[knowledge/wiki/images/Illustration Detailed Purple and Blue Futuristic Computer Room Illustration 43d5416b|Illustration Detailed Purple and Blue Futuristic Computer Room Illustration]] — shared language: purple, room
 - [[_archive/auto-generated/artists-noise/Artist - a yellow background with confetti|Artist - a yellow background with confetti]] — shared language: yellow, watercolor, purple
-- [[knowledge/wiki/images/Photograph Man Trapped Inside Rebar Cage At Construction Site 6ed0a3ba|Photograph Man Trapped Inside Rebar Cage At Construction Site]] — shared language: trapped
+- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 <!-- vault-crosslinks:end -->

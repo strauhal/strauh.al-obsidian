@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[_archive/auto-generated/images-stale/abstract painting with dynamic swirls of dark blue pink and yellow 45125e6a|abstract painting with dynamic swirls of dark blue pink and yellow]] — shared language: swirls, yellow
 - [[knowledge/wiki/images/Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow a6da445d|Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow]] — shared language: swirls, yellow
-- [[knowledge/wiki/images/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
+- [[knowledge/wiki/images/Blue and Purple Vase with Swirls 25a7d806|Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: swirls
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
 <!-- vault-crosslinks:end -->

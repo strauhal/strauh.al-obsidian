@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Symmetrical Geometric Design with Radiating Lines 050a3c74|Illustration Black and White Symmetrical Geometric Design with Radiating Lines]] — shared language: radiating, symmetrical, design
-- [[knowledge/archive/auto-generated/artists-stale/Artist - radiating and curved lines|Artist - radiating and curved lines]] — shared language: radiating, curved, lines
 - [[knowledge/wiki/images/Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes 3a5aa82c|Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes]] — shared language: radiating, design, lines
+- [[knowledge/archive/auto-generated/artists-stale/Artist - radiating and curved lines|Artist - radiating and curved lines]] — shared language: radiating, curved, lines
 - [[_archive/auto-generated/images-stale/abstract drawing of interlocking geometric shapes composed of horizontal black lines d0ba27db|abstract drawing of interlocking geometric shapes composed of horizontal black lines]] — shared language: composed, shapes, lines
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: radiating, lines, geometric
 <!-- vault-crosslinks:end -->

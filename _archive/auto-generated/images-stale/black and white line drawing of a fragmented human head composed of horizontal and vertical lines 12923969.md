@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/abstract drawing of interlocking geometric shapes composed of horizontal black lines d0ba27db|abstract drawing of interlocking geometric shapes composed of horizontal black lines]] — shared language: composed, horizontal, lines
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
 - [[_archive/auto-generated/images-stale/black ink drawing of two vertical abstract forms composed of fine lines 8ff72f74|black ink drawing of two vertical abstract forms composed of fine lines]] — shared language: composed, vertical, lines
-- [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines, lines.jpeg
+- [[knowledge/wiki/images/Broken Smartphone Screen with Colorful Vertical and Horizontal Lines 7ee17a3e|Broken Smartphone Screen with Colorful Vertical and Horizontal Lines]] — shared language: horizontal, vertical, lines
 <!-- vault-crosslinks:end -->

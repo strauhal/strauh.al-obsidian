@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: yard, sign, text
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
+- [[knowledge/wiki/images/Yard Sign with Text About Complex Issues bc4c2246|Yard Sign with Text About Complex Issues]] — shared language: yard, sign, text
 - [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — shared language: spinoza
 - [[knowledge/wiki/images/Steve Reich Terry Riley (2019) e75b1ec2|Steve Reich Terry Riley (2019)]] — shared language: reich
-- [[knowledge/wiki/books/thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] — shared language: rainbow
+- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 <!-- vault-crosslinks:end -->

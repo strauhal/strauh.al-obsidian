@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - GOATHE|Artist - GOATHE]] — named in this note
 - [[knowledge/wiki/images/Illustration Digital Illustration of Kaneda from Akira in Streetwear by GOATHE 132c847c|Illustration Digital Illustration of Kaneda from Akira in Streetwear by GOATHE]] — same artist: goathe
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man 12158df6|Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man]] — shared language: orange, digital
-- [[_archive/auto-generated/images-stale/red figure wearing yellow goggles against a blue background 66556983|red figure wearing yellow goggles against a blue background]] — shared language: goggles
-- [[_archive/auto-generated/images-stale/red orange kaleidoscopic pattern 69c4dd8c|red orange kaleidoscopic pattern]] — shared language: orange
+- [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, digital
 <!-- vault-crosslinks:end -->

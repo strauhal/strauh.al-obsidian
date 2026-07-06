@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Fis
 - [[knowledge/wiki/images/Illustration Two Stylized Figures In Alternative Fashion 421666db|Illustration Two Stylized Figures In Alternative Fashion]] — shared language: alternative, fashion, fashion.png
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: fashion
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: people, young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: people, young
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 <!-- vault-crosslinks:end -->

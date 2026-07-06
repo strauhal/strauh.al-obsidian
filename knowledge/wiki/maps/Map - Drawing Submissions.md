@@ -42,7 +42,7 @@ Threads: 12
 
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: attachments, messages, incoming
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: messages, attachments, submissions
-- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, club
+- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, threads
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: submissions, site
 - [[knowledge/private/fanmail/threads/11-my-aw3some-drawing-for-the-computer-drawing-dot-club|Private Correspondence - 11 - my aw3some drawing for the computer drawing dot club]] — shared language: club, aw3some, incoming
 - [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — shared language: club, draw, incoming

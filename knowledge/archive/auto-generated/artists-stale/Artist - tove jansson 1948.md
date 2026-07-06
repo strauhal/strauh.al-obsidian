@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tove jansson|Artist - tove jansson]] — named in this note
+- [[knowledge/wiki/images/Tove Jansson Looking Through a Telescope Outdoors 78c50026|Tove Jansson Looking Through a Telescope Outdoors]] — shared language: tove, jansson
 - [[knowledge/wiki/images/Photograph Alpine Ibex Leaping Across a Deep Chasm fcf11853|Photograph Alpine Ibex Leaping Across a Deep Chasm]] — shared language: chasm
 - [[_archive/auto-generated/images-stale/icon of christ in a chasm with saints on rocky terrain 070a36ba|icon of christ in a chasm with saints on rocky terrain]] — shared language: chasm
 - [[knowledge/wiki/images/thodore philippoteaux arab cavalry crossing a stream 1865 d245ee4a|thodore philippoteaux arab cavalry crossing a stream 1865]] — shared language: crossing
 - [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
-- [[knowledge/wiki/images/Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains 30462e12|Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains]] — shared language: crossing
 <!-- vault-crosslinks:end -->

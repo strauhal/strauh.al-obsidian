@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Ink And Wash Landscape With Mountains, Trees, Pavilions, And Calligraphy 2819e078|Illustration Ink And Wash Landscape With Mountains, Trees, Pavilions, And Calligraphy]] — shared language: wash, mountains, trees
 - [[_archive/auto-generated/images-stale/ink and wash landscape painting of mountains trees and pavilions with extensive calligraphy 68569036|ink and wash landscape painting of mountains trees and pavilions with extensive calligraphy]] — shared language: wash, mountains, trees
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: wash, ink
-- [[knowledge/wiki/images/Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall 028ea1a7|Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall]] — shared language: mountains, trees, ink
 - [[knowledge/wiki/images/Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings 8d5f32de|Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings]] — shared language: scroll, wash, ink
+- [[knowledge/wiki/images/Illustration Ink and Wash Painting of Stylized Dark Figure baa287ef|Illustration Ink and Wash Painting of Stylized Dark Figure]] — shared language: wash, ink
+- [[knowledge/wiki/images/Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall 028ea1a7|Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall]] — shared language: mountains, trees, ink
 <!-- vault-crosslinks:end -->

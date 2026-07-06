@@ -80,5 +80,5 @@ Question: when does texture become structure, and when does sound become a model
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, distance, implicit
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: question, latent, internet
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: repetition, difference, human
-- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: economy, attention, death
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy, death
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Roo
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
-- [[knowledge/wiki/images/Photograph Sparsely Furnished Room With Air Mattress And Fan f9b5b109|Photograph Sparsely Furnished Room With Air Mattress And Fan]] — shared language: mattress, room
 - [[knowledge/wiki/images/Illustration Stylized Room With Blowing Curtain, Window, And Game Controller 8dd73421|Illustration Stylized Room With Blowing Curtain, Window, And Game Controller]] — shared language: controller, room
-- [[knowledge/wiki/images/Photograph Empty Room With Laptop And Water Bottle On Floor d73e8421|Photograph Empty Room With Laptop And Water Bottle On Floor]] — shared language: floor, room, floor.jpeg
+- [[knowledge/wiki/images/Sparsely Furnished Room With Air Mattress And Fan 1cb520b1|Sparsely Furnished Room With Air Mattress And Fan]] — shared language: mattress, room
+- [[knowledge/wiki/images/Empty Room With Laptop And Water Bottle On Floor 224a8082|Empty Room With Laptop And Water Bottle On Floor]] — shared language: floor, room, floor.jpeg
 - [[knowledge/wiki/images/the mattress by eric fischl 1991 c6f0df14|the mattress by eric fischl 1991]] — shared language: mattress
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
 - [[knowledge/wiki/images/soldatengrab soldier s grave by otto dix 1924 292c60dc|soldatengrab soldier s grave by otto dix 1924]] — same artist: otto dix
 - [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — same artist: otto dix
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto, soldier
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto
 - [[knowledge/wiki/images/The Lovers by Otto Dix (1925) f3c9af5a|The Lovers by Otto Dix (1925)]] — shared language: dix, otto
 <!-- vault-crosslinks:end -->

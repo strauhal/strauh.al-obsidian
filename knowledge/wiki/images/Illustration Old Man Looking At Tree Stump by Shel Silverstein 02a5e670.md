@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: looking
-- [[knowledge/wiki/images/Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 065caf42|Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: tree, looking
+- [[knowledge/wiki/images/Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 48c16123|Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: tree, looking
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree
-- [[knowledge/wiki/images/IMG 0836 f43977e7|IMG 0836]] — shared language: old
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed dark group portrait with multiple figures 0ae8b3c7|framed dark group portrait with multiple figures]] — shared language: group, framed
 - [[_archive/auto-generated/images-stale/color photograph of four men in dark suits pointing at the viewer 1dae4994|color photograph of four men in dark suits pointing at the viewer]] — shared language: suits, men
-- [[knowledge/wiki/images/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: suits, men
-- [[knowledge/wiki/images/Photograph Men in Suits Raising Hands in a Large Assembly Hall 2883973e|Photograph Men in Suits Raising Hands in a Large Assembly Hall]] — shared language: suits, men
+- [[knowledge/wiki/images/Four Men in Dark Suits Pointing Towards Viewer f314da73|Four Men in Dark Suits Pointing Towards Viewer]] — shared language: suits, men
+- [[_archive/auto-generated/images-stale/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: suits, men
 - [[_archive/auto-generated/images-stale/framed group scene with figures behind a railing 036e2c49|framed group scene with figures behind a railing]] — shared language: group, framed
 <!-- vault-crosslinks:end -->

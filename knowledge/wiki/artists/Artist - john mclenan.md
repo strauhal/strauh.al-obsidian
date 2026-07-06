@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
-- [[knowledge/wiki/images/the great white heron by john singer sargent 1891 294c68f7|the great white heron by john singer sargent 1891]] — shared language: john, great
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
 <!-- vault-crosslinks:end -->

@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/my_life_is_small
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883 bff3e777|mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883]] — shared language: margaret
-- [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: life
+- [[knowledge/wiki/images/Black and White Photograph of Margaret Kilgallen on Skateboard 333a7d98|Black and White Photograph of Margaret Kilgallen on Skateboard]] — shared language: kilgallen, margaret
 - [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: big
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
-- [[knowledge/wiki/books/max-tegmark-life-3-0-being-human-in-the-age-of-artificial-intelligence-alfred-a-knopf|Life 3.0 Being Human in the Age of Artificial Intelligence-Alfred A. Knopf]] — shared language: life
+- [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: life
+- [[knowledge/wiki/images/mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883 bff3e777|mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883]] — shared language: margaret
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
 <!-- vault-crosslinks:end -->

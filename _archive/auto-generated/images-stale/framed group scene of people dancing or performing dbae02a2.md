@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed group scene with figures behind a railing 036e2c49|framed group scene with figures behind a railing]] — shared language: group, scene, framed
-- [[_archive/auto-generated/images-stale/framed river scene with people in a boat c7c2829d|framed river scene with people in a boat]] — shared language: people, scene, framed
+- [[_archive/auto-generated/images-stale/framed river scene with people in a boat c7c2829d|framed river scene with people in a boat]] — shared language: scene, people, framed
 - [[_archive/auto-generated/images-stale/framed dark group portrait with multiple figures 0ae8b3c7|framed dark group portrait with multiple figures]] — shared language: group, framed
 - [[_archive/auto-generated/images-stale/classical engraving of a group scene with tent b0ecdd92|classical engraving of a group scene with tent]] — shared language: group, scene
 - [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people, framed

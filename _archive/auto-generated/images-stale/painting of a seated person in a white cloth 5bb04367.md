@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
-- [[knowledge/wiki/images/Illustration Still Life with Pears, Apples, and Walnuts on White Cloth 7baac1eb|Illustration Still Life with Pears, Apples, and Walnuts on White Cloth]] — shared language: cloth, cloth.jpg
 - [[_archive/auto-generated/images-stale/black and white print of a seated man reading e36f252b|black and white print of a seated man reading]] — shared language: seated
+- [[knowledge/wiki/images/Illustration Still Life with Pears, Apples, and Walnuts on White Cloth 7baac1eb|Illustration Still Life with Pears, Apples, and Walnuts on White Cloth]] — shared language: cloth, cloth.jpg
 - [[_archive/auto-generated/images-stale/pale blue still life with cups cloth and bottle b2e59ce0|pale blue still life with cups cloth and bottle]] — shared language: cloth
-- [[knowledge/wiki/images/Photograph Framed Expressionist Nude Sketch with Yellow Cloth on Gallery Wall 6935b97b|Photograph Framed Expressionist Nude Sketch with Yellow Cloth on Gallery Wall]] — shared language: cloth
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Neal Stephenson - Snow Crash-Bantam Books (2003).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Snow Crash-Bantam Books
@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — same category: media technology
 - [[knowledge/wiki/books/nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]] — same category: media technology
 - [[knowledge/wiki/books/william-gibson-neuromancer-ace-hardcover|Neuromancer -Ace Hardcover]] — same category: media technology
-- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 - [[knowledge/wiki/books/alain-de-botton-how-proust-can-change-your-life-vintage|How Proust Can Change Your Life-Vintage]] — same category: media technology
+- [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mut
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, houses
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: suburban
-- [[knowledge/wiki/images/Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead c607ee45|Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead]] — shared language: suburban, houses
+- [[knowledge/wiki/images/Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead 01dc4a53|Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead]] — shared language: suburban, houses
 - [[knowledge/wiki/images/Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame c2346fb3|Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame]] — shared language: muted
 - [[knowledge/wiki/images/Illustration Still Life Painting of Bottle and Glass with Muted Colors 52841813|Illustration Still Life Painting of Bottle and Glass with Muted Colors]] — shared language: muted
+- [[knowledge/wiki/images/Illustration Gaunt Figure Confronting Person in Glasses, Muted Tones 7b412b93|Illustration Gaunt Figure Confronting Person in Glasses, Muted Tones]] — shared language: muted
 <!-- vault-crosslinks:end -->

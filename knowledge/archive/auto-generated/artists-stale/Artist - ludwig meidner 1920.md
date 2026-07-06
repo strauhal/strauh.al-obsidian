@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - ludwig meidner|Artist - ludwig meidner]] — named in this note
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — named in this note
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[_archive/auto-generated/images-stale/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
-- [[knowledge/archive/auto-generated/artists-stale/Artist - ludwig knaus 1871|Artist - ludwig knaus 1871]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

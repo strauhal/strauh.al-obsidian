@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/raven_stealing_t
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: davidson
-- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
 - [[knowledge/wiki/images/subway by bruce davidson 1980 cdf59370|subway by bruce davidson 1980]] — shared language: davidson
+- [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
 - [[knowledge/wiki/artists/Artist - robert delaunay|Artist - robert delaunay]] — shared language: robert, moon
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 <!-- vault-crosslinks:end -->

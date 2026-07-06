@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Elaborate Gothic Fan Vault Ceiling and Stained Glass Windows 8235301f|Photograph Elaborate Gothic Fan Vault Ceiling and Stained Glass Windows]] — shared language: stained, elaborate, gothic
+- [[knowledge/wiki/images/Photograph Elaborate Gothic Fan Vault Ceiling and Stained Glass Windows 8235301f|Photograph Elaborate Gothic Fan Vault Ceiling and Stained Glass Windows]] — shared language: stained, gothic, elaborate
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: vault
 - [[knowledge/wiki/artists/Artist - fan ho|Artist - fan ho]] — shared language: fan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fan ho 1956|Artist - fan ho 1956]] — shared language: fan

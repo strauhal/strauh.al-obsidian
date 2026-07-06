@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: machine, human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: machine, human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: machine, human
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: machine, human
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 <!-- vault-crosslinks:end -->

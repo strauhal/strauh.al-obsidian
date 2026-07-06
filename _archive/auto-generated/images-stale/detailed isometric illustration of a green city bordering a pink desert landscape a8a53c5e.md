@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Isometric Illustration of a Green City Bordering a Pink Desert 60c019b6|Illustration Isometric Illustration of a Green City Bordering a Pink Desert]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric, detailed, city
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, detailed, city
 - [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: isometric, detailed, city
 <!-- vault-crosslinks:end -->

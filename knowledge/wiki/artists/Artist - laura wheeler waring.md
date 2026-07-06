@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen d68cc512|Screenshot Riddles of the Sphinx by Laura Mulvey, Peter Wollen]] — shared language: laura
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
-- [[knowledge/wiki/images/Illustration Portrait of a Woman in Black Dress and White Shawl 4e0dc87e|Illustration Portrait of a Woman in Black Dress and White Shawl]] — shared language: dress
+- [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: dress
 <!-- vault-crosslinks:end -->

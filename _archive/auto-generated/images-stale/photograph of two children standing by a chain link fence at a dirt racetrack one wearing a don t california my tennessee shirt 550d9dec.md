@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/images/Photograph Two Children by Racetrack Fence, One Wearing 'Don't California My Tennessee' Shirt 8101d5e6|Photograph Two Children by Racetrack Fence, One Wearing 'Don't California My Tennessee' Shirt]] — shared language: racetrack, tennessee, fence
-- [[knowledge/wiki/images/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: fence, chain, link
 - [[_archive/auto-generated/images-stale/drawing of colorful flowers and vines on a chain link fence 60414b45|drawing of colorful flowers and vines on a chain link fence]] — shared language: chain, fence, link
 - [[knowledge/wiki/images/Illustration Colorful Flowers and Vines on a Chain Link Fence c825f6ae|Illustration Colorful Flowers and Vines on a Chain Link Fence]] — shared language: chain, fence, link
+- [[_archive/auto-generated/images-stale/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: chain, fence, link
 <!-- vault-crosslinks:end -->

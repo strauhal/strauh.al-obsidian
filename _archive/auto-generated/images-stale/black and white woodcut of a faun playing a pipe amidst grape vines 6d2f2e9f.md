@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Faun Playing Pipe Amidst Grape Vines 22fabf43|Illustration Faun Playing Pipe Amidst Grape Vines]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white woodcut or ink landscape 6adbf372|black and white woodcut or ink landscape]] — shared language: woodcut
 - [[knowledge/wiki/images/faun and nude woman by pablo picasso 1930 d88463f2|faun and nude woman by pablo picasso 1930]] — shared language: faun
-- [[knowledge/wiki/images/Image Graphic Design of Pipe and Text 'I Can't Believe It's Not une pipe ' 4764abfb|Image Graphic Design of Pipe and Text 'I Can't Believe It's Not une pipe ']] — shared language: pipe
-- [[_archive/auto-generated/images-stale/graphic design of a pipe and text i can t believe it s not une pipe on a yellow and red oval background 2f160cf4|graphic design of a pipe and text i can t believe it s not une pipe on a yellow and red oval background]] — shared language: pipe
+- [[knowledge/wiki/images/Person in Bra with Laptop and Bottles in Concrete Pipe aebb8800|Person in Bra with Laptop and Bottles in Concrete Pipe]] — shared language: pipe
+- [[knowledge/wiki/images/Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames f7b75581|Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames]] — shared language: vines
 <!-- vault-crosslinks:end -->

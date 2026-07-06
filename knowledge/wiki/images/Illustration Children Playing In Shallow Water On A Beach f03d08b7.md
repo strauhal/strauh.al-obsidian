@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Children Playing in Water from a Fire Hydrant 707d5de5|Photograph Two Children Playing in Water from a Fire Hydrant]] — shared language: children, playing, water
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
+- [[knowledge/wiki/images/Photograph Two Children Playing in Water from a Fire Hydrant 707d5de5|Photograph Two Children Playing in Water from a Fire Hydrant]] — shared language: children, playing, water
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: children
 <!-- vault-crosslinks:end -->

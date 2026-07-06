@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cindy_sherman_by
 - [[knowledge/wiki/images/dead birds a war ritual poster by keith haring 1983 8d051df0|dead birds a war ritual poster by keith haring 1983]] — same artist: keith haring
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
-- [[knowledge/wiki/images/Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/images/Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi 8c1270cd|Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
 - [[knowledge/wiki/artists/Artist - Tseng Kwong Chi|Artist - Tseng Kwong Chi]] — shared language: haring, keith
 <!-- vault-crosslinks:end -->

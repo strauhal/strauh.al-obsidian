@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/images/Illustration Still Life of Red and Yellow Roses in Glass Vase 1961a58a|Illustration Still Life of Red and Yellow Roses in Glass Vase]] — shared language: roses, vase, glass
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses, oil
 - [[knowledge/wiki/images/roses in a vase by pierre auguste renoir c 1890 b958cbd0|roses in a vase by pierre auguste renoir c 1890]] — shared language: roses, vase
+- [[knowledge/wiki/images/Floral Arrangement with Pink Roses in a Decorative Vase 19ead0fb|Floral Arrangement with Pink Roses in a Decorative Vase]] — shared language: roses, vase
 - [[knowledge/wiki/images/Illustration Colorful Floral Bouquet in Glass Vase on Table 06a276e5|Illustration Colorful Floral Bouquet in Glass Vase on Table]] — shared language: vase, glass
-- [[knowledge/wiki/images/Photograph Floral Arrangement with Pink Roses in a Decorative Vase 606d2964|Photograph Floral Arrangement with Pink Roses in a Decorative Vase]] — shared language: roses, vase
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure 2d830078|Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure]] — shared language: detailed, sketch
 - [[knowledge/wiki/images/Illustration Detailed Pencil Sketch Depicting Multiple Figures in Chaotic Operating Room 34f6f600|Illustration Detailed Pencil Sketch Depicting Multiple Figures in Chaotic Operating Room]] — shared language: detailed, sketch
 - [[knowledge/wiki/images/Screenshot Orange Glowing Psychographic Display for EVA 02 Pilot S.A. Langley 8933f77e|Screenshot Orange Glowing Psychographic Display for EVA 02 Pilot S.A. Langley]] — shared language: pilot
+- [[knowledge/wiki/images/Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto a9ffb605|Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto]] — shared language: pilot
 <!-- vault-crosslinks:end -->

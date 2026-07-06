@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Artwork With Vibrant Colors And Contour Lines 73c090e6|Illustration Abstract Artwork With Vibrant Colors And Contour Lines]] — shared language: vibrant, colors, lines
 - [[knowledge/wiki/images/Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines d0e9d337|Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines]] — shared language: vibrant, colors, lines
 - [[knowledge/wiki/images/Illustration Abstract Painting with Grid Texture and Vibrant Red, Orange, and Blue Colors eea4bc1e|Illustration Abstract Painting with Grid Texture and Vibrant Red, Orange, and Blue Colors]] — shared language: vibrant, colors
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: vibrant
 - [[knowledge/wiki/images/Illustration Abstract Organic Painting with Swirling Lines and Earthy Tones b63f81e4|Illustration Abstract Organic Painting with Swirling Lines and Earthy Tones]] — shared language: swirling, lines
+- [[knowledge/wiki/images/Illustration Abstract Composition of Swirling Overlapping Lines 5dc56316|Illustration Abstract Composition of Swirling Overlapping Lines]] — shared language: swirling, lines
 <!-- vault-crosslinks:end -->

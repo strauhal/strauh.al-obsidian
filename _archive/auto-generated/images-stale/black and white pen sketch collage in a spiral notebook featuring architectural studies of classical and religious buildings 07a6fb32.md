@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
-- [[knowledge/wiki/images/Photograph Red Pen On Notebook With Abstract Line Drawing 522ebc79|Photograph Red Pen On Notebook With Abstract Line Drawing]] — shared language: notebook, pen
+- [[_archive/auto-generated/images-stale/Photograph Red Pen On Notebook With Abstract Line Drawing 522ebc79|Photograph Red Pen On Notebook With Abstract Line Drawing]] — shared language: notebook, pen
+- [[knowledge/wiki/images/Red Pen On Notebook With Abstract Line Drawing ce8d2662|Red Pen On Notebook With Abstract Line Drawing]] — shared language: notebook, pen
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies
-- [[knowledge/wiki/images/Illustration Pen And Ink Sketch Of Three Figures In Conversation 24e6f821|Illustration Pen And Ink Sketch Of Three Figures In Conversation]] — shared language: pen, sketch
 <!-- vault-crosslinks:end -->

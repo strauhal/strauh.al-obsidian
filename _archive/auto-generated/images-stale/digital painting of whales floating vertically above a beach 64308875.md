@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Whales Floating Vertically Above Beach With Person And Dog 92467f9f|Illustration Whales Floating Vertically Above Beach With Person And Dog]] — shared language: whales, vertically, floating
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital illustration of a headless meditating figure with floating geometric head 33a5d459|digital illustration of a headless meditating figure with floating geometric head]] — shared language: floating, digital
-- [[_archive/auto-generated/images-stale/sepia photograph of a large victorian building on a rocky cliff above a beach 6fa487e1|sepia photograph of a large victorian building on a rocky cliff above a beach]] — shared language: above, beach, beach.jpg
 - [[knowledge/wiki/images/Screenshot North American Smoke Forecast Map with Vertically Integrated Smoke Data 46df9d54|Screenshot North American Smoke Forecast Map with Vertically Integrated Smoke Data]] — shared language: vertically
+- [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: floating
 <!-- vault-crosslinks:end -->

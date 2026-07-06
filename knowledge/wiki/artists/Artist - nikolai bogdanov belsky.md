@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - nikolai kalmakov|Artist - nikolai kalmakov]] — shared language: nikolai
 - [[knowledge/wiki/images/the tree of life by nikolai kalmakov 1910 4721d29c|the tree of life by nikolai kalmakov 1910]] — shared language: nikolai
-- [[knowledge/wiki/images/Photograph Human Chess Game in Palace Square, Petrograd e8125690|Photograph Human Chess Game in Palace Square, Petrograd]] — shared language: chess
 - [[knowledge/wiki/images/Screenshot Text Describing Vostok Station Chess Incident e61f42ed|Screenshot Text Describing Vostok Station Chess Incident]] — shared language: chess
+- [[knowledge/wiki/images/Illustration Charcoal and Pastel Drawing of Three Football Players 34a7ccba|Illustration Charcoal and Pastel Drawing of Three Football Players]] — shared language: players
+- [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess
 - [[knowledge/wiki/images/Illustration Two Girls Playing Chess Outdoors With Red Drops 8347629b|Illustration Two Girls Playing Chess Outdoors With Red Drops]] — shared language: chess
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess
 <!-- vault-crosslinks:end -->

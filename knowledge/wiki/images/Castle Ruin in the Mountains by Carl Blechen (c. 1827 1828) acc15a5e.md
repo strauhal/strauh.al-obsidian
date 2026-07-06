@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Castle Ruin in t
 
 - [[knowledge/wiki/artists/Artist - carl blechen|Artist - carl blechen]] — shared language: blechen, carl
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruin, castle
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ruin, castle
 - [[knowledge/wiki/images/the villa falconieri by carl blechen c 1830 5921d065|the villa falconieri by carl blechen c 1830]] — shared language: blechen, carl
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ruin
 - [[knowledge/wiki/images/The Interior of the Palm House on the Pfaueninsel Near Potsdam by Carl Blechen (1832 1833) 55e941b6|The Interior of the Palm House on the Pfaueninsel Near Potsdam by Carl Blechen (1832 1833)]] — shared language: blechen, carl
 <!-- vault-crosslinks:end -->

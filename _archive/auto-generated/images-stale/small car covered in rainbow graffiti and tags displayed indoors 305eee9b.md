@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: tags, covered, graffiti
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: tags, graffiti
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
-- [[knowledge/wiki/images/Photograph Graffiti Covered Car Exploding in Flames on a Street 437061ec|Photograph Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
+- [[knowledge/wiki/images/Graffiti Covered Car Exploding in Flames on a Street 6f361e0d|Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
 <!-- vault-crosslinks:end -->

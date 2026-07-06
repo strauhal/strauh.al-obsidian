@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sep
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway 7998d266|Photograph Black and White Photograph of Classical Exhibition Buildings Along a Waterway]] — shared language: waterway, along, buildings
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues 9c8e899b|Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues]] — shared language: waterway, along, buildings
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
-- [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: waterway, sepia
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 <!-- vault-crosslinks:end -->

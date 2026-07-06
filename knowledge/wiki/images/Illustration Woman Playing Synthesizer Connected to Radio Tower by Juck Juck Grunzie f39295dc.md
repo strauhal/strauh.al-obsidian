@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: juck, tower
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: synthesizer
 - [[knowledge/wiki/images/Mortis by Bad Radio (2020) 3c4b673e|Mortis by Bad Radio (2020)]] — shared language: radio
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: radio

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/images/Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley 52a5617c|Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley]] — shared language: alley
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, dense
 - [[knowledge/wiki/images/Comic Collage of Manga Panels Featuring Screaming Man and Motorcycles 54a0d280|Comic Collage of Manga Panels Featuring Screaming Man and Motorcycles]] — shared language: motorcycles, motorcycles.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley 52a5617c|Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley]] — shared language: alley
+- [[knowledge/wiki/images/Young Woman In Dark Suit Holding Cigarette In Dim Alley 66a13472|Young Woman In Dark Suit Holding Cigarette In Dim Alley]] — shared language: alley
 - [[_archive/auto-generated/images-stale/aerial photograph of a dense city surrounding a large hill ad739689|aerial photograph of a dense city surrounding a large hill]] — shared language: dense, city
-- [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
 <!-- vault-crosslinks:end -->

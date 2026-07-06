@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines 79d7ed7c|Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines]] — shared language: wavy, lines, orange
+- [[knowledge/wiki/images/Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines 79d7ed7c|Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines]] — shared language: wavy, orange, lines
 - [[knowledge/wiki/images/Illustration Abstract Composition of Concentric Wavy Lines on Dark Background 14055193|Illustration Abstract Composition of Concentric Wavy Lines on Dark Background]] — shared language: wavy, composition, lines
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors 7a392a42|Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors]] — shared language: wavy, lines, orange

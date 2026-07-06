@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - aminah robinson 1996|Artist - aminah robinson 1996]] — shared language: robinson
 - [[knowledge/wiki/artists/Artist - theodore ralli|Artist - theodore ralli]] — shared language: theodore
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodore ralli 1884|Artist - theodore ralli 1884]] — shared language: theodore
-- [[knowledge/wiki/artists/Artist - theodore chasseriau|Artist - theodore chasseriau]] — shared language: theodore
+- [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: robinson
 <!-- vault-crosslinks:end -->

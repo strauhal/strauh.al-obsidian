@@ -51,6 +51,6 @@ Images attributed by filename: 10
 - [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, self
 - [[knowledge/wiki/images/Reclining Nude with Red Hair by Egon Schiele (1910) 90f9ed47|Reclining Nude with Red Hair by Egon Schiele (1910)]] — shared language: schiele, egon, reclining
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon, self
 - [[knowledge/wiki/images/egon schiele 15e6f3ec|egon schiele]] — shared language: egon, schiele
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon, self
 <!-- vault-crosslinks:end -->

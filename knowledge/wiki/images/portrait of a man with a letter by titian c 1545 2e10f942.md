@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/portrait_of_a_ma
 - [[knowledge/wiki/books/open-letter|open letter]] — shared language: letter
 - [[knowledge/wiki/images/The Tribute Money by Titian (1516) 731153ae|The Tribute Money by Titian (1516)]] — shared language: titian
 - [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: letter
-- [[knowledge/wiki/images/Photograph Sarcastic Letter From Dave About Treefort Complaint db763ed6|Photograph Sarcastic Letter From Dave About Treefort Complaint]] — shared language: letter
+- [[knowledge/wiki/images/Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD) 47041d67|Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD)]] — shared language: letter
 <!-- vault-crosslinks:end -->

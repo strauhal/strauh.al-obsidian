@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: street, city, view
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig f0a0d4a8|Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig]] — shared language: poly, low, screenshot
 - [[knowledge/wiki/images/Illustration Low Poly Torso Against Hot Pink Background by Gao Hang e02b7458|Illustration Low Poly Torso Against Hot Pink Background by Gao Hang]] — shared language: poly, low, pink
 - [[knowledge/wiki/images/Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern e8f40279|Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern]] — shared language: poly, low, low-poly
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: street, city
 <!-- vault-crosslinks:end -->

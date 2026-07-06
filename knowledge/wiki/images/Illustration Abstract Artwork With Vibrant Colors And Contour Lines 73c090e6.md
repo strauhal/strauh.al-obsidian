@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines d0e9d337|Illustration Abstract Composition with Vibrant Colors, Organic Shapes, and Wavy Lines]] — shared language: vibrant, colors, lines
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: contour
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: colors
-- [[knowledge/wiki/images/Illustration Abstract Painting with Grid Texture and Vibrant Red, Orange, and Blue Colors eea4bc1e|Illustration Abstract Painting with Grid Texture and Vibrant Red, Orange, and Blue Colors]] — shared language: vibrant, colors
+- [[knowledge/wiki/images/Illustration Contour Line Drawing of Kneeling Figure 4d15b5bc|Illustration Contour Line Drawing of Kneeling Figure]] — shared language: contour
 <!-- vault-crosslinks:end -->

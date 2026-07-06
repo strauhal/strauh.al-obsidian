@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Screenshot Screenshot of a Digital Line Drawing of a Female Face 9f41c2e2|Screenshot Screenshot of a Digital Line Drawing of a Female Face]] — shared language: female, face, line
 - [[_archive/auto-generated/images-stale/black and white line drawing of a stylized female face and organic forms bca7462c|black and white line drawing of a stylized female face and organic forms]] — shared language: female, face, line
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint, line
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line, paint
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: female, line
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: paint
 <!-- vault-crosslinks:end -->

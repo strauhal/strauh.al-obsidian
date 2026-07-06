@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors 138237a2|Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors]] — shared language: fractal, rendering, warm
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[knowledge/wiki/images/Illustration Abstract Floral Forms in Warm Hues 809eabe7|Illustration Abstract Floral Forms in Warm Hues]] — shared language: warm, forms
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling Lines and Vibrant Colors 4fe07463|Illustration Abstract Painting with Swirling Lines and Vibrant Colors]] — shared language: swirling, colors
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: colors, forms
-- [[knowledge/wiki/images/Illustration Multicolored Fractal Design on Black Background 03dbff8e|Illustration Multicolored Fractal Design on Black Background]] — shared language: fractal
 <!-- vault-crosslinks:end -->

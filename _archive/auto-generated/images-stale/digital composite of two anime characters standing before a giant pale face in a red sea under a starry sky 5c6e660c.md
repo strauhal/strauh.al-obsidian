@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Image Two Anime Characters Before Giant Baby Face in Red Sea e780e50f|Image Two Anime Characters Before Giant Baby Face in Red Sea]] — shared language: giant, sea, characters
 - [[_archive/auto-generated/images-stale/anime illustration of a boy and girl observing a giant pale head rising from a red body of water under a starry sky 02147162|anime illustration of a boy and girl observing a giant pale head rising from a red body of water under a starry sky]] — shared language: starry, giant, pale
 - [[knowledge/wiki/images/Illustration Boy and Girl Observe Giant Head in Red Water Under Starry Sky 7337bc81|Illustration Boy and Girl Observe Giant Head in Red Water Under Starry Sky]] — shared language: starry, giant, sky
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
-- [[_archive/auto-generated/artists-noise/Artist - the sea|Artist - the sea]] — shared language: sea
 <!-- vault-crosslinks:end -->

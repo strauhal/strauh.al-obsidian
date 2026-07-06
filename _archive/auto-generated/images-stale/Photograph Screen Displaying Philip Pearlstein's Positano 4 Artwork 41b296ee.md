@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
+- [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4-20260706165156|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — named in this note
+- [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: pearlstein's, positano, philip
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
+- [[_archive/auto-generated/images-stale/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
-- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: displaying, screen
-- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 <!-- vault-crosslinks:end -->

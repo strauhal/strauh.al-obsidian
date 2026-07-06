@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Compa
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
 - [[knowledge/wiki/artists/Artist - mike kelley|Artist - mike kelley]] — shared language: mike
-- [[knowledge/wiki/images/Comic Black And White Comic Panel Of Young Woman In Dark Uniform b99f0bee|Comic Black And White Comic Panel Of Young Woman In Dark Uniform]] — shared language: comic, young
-- [[knowledge/wiki/images/shack by mike kelley 1991 1f22059c|shack by mike kelley 1991]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Kelly Pringle|Artist - Kelly Pringle]] — shared language: kelly
 <!-- vault-crosslinks:end -->

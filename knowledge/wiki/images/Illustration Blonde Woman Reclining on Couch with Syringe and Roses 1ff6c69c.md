@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: reclining
 - [[knowledge/wiki/images/illustration of a distressed blonde woman and a man in a suit 1966 db86914a|illustration of a distressed blonde woman and a man in a suit 1966]] — shared language: blonde
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of a Reclining Figure 34f5b84a|Illustration Charcoal Drawing of a Reclining Figure]] — shared language: reclining
-- [[knowledge/wiki/images/Illustration Person on Couch Reading Tablet by Window at Night 60bf43bc|Illustration Person on Couch Reading Tablet by Window at Night]] — shared language: couch
+- [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining
 <!-- vault-crosslinks:end -->

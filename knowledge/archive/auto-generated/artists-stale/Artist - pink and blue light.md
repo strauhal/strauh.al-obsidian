@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Escalators In Subway Station With Pink And Blue Lighting f1e22323|Photograph Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: pink, escalators, subway
-- [[knowledge/wiki/images/Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light 76206e5a|Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light]] — shared language: light, pink
+- [[_archive/auto-generated/images-stale/Photograph Two Escalators In Subway Station With Pink And Blue Lighting f1e22323|Photograph Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: pink, escalators, subway
+- [[knowledge/wiki/images/Two Escalators In Subway Station With Pink And Blue Lighting e11c533b|Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: pink, escalators, subway
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: subway, station
+- [[knowledge/wiki/images/Grainy Shadows of Figures on Wall with Pink and Blue Light d6c3661a|Grainy Shadows of Figures on Wall with Pink and Blue Light]] — shared language: light, pink
+- [[_archive/auto-generated/images-stale/Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light 76206e5a|Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light]] — shared language: light, pink
 - [[knowledge/wiki/images/pink 2cc6822c|pink]] — shared language: pink
-- [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: light, illuminated
-- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light
-- [[knowledge/wiki/images/Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water 5ae95de7|Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water]] — shared language: pink
 <!-- vault-crosslinks:end -->

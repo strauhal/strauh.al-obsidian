@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/images/Woman with a Parasol by Berthe Morisot (c. 1879) bec8c992|Woman with a Parasol by Berthe Morisot (c. 1879)]] — shared language: parasol
 - [[knowledge/wiki/images/Illustration Charcoal Portraits of an Elderly Man and Woman e814e9e5|Illustration Charcoal Portraits of an Elderly Man and Woman]] — shared language: elderly
-- [[knowledge/wiki/images/Photograph Close Up Of Elderly Man With Facial Injuries In Car e198e18f|Photograph Close Up Of Elderly Man With Facial Injuries In Car]] — shared language: elderly
-- [[knowledge/wiki/images/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: elderly
-- [[knowledge/wiki/images/Photograph Figure in Elaborate Ruffled Dress Holding White Parasol 441e0dd5|Photograph Figure in Elaborate Ruffled Dress Holding White Parasol]] — shared language: parasol
+- [[knowledge/wiki/images/Elderly Man in Robes with Two Women on Subway 0ed1dc9f|Elderly Man in Robes with Two Women on Subway]] — shared language: elderly
+- [[knowledge/wiki/images/Figure in Elaborate Ruffled Dress Holding White Parasol de30e9e0|Figure in Elaborate Ruffled Dress Holding White Parasol]] — shared language: parasol
+- [[knowledge/wiki/images/Elderly Woman Presented With Pink Numbers 121 642fa698|Elderly Woman Presented With Pink Numbers 121]] — shared language: elderly
 <!-- vault-crosslinks:end -->

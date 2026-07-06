@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: falling
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: falling, person
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: falling, person
 - [[knowledge/wiki/images/illustration of a distressed blonde woman and a man in a suit 1966 db86914a|illustration of a distressed blonde woman and a man in a suit 1966]] — shared language: distressed
-- [[knowledge/wiki/images/Photograph Naked Person Lying On Dirty Floor With White Object e5b2a721|Photograph Naked Person Lying On Dirty Floor With White Object]] — shared language: object, person
-- [[knowledge/wiki/images/Comic Black And White Comic Page Of Falling Figures And Debris a7f182fe|Comic Black And White Comic Page Of Falling Figures And Debris]] — shared language: falling
+- [[knowledge/wiki/images/Silhouette of Person Falling From Broken Window With Shattered Glass d20a484e|Silhouette of Person Falling From Broken Window With Shattered Glass]] — shared language: falling, person
 <!-- vault-crosslinks:end -->

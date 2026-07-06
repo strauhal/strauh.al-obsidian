@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith.jpg]]
+![[media/strauh.al3.1/diagrams/Diagram_Illustrating_Bureaucracy_Lifecycle_with_Program_Budget_and_Administrative_Costs._by_Charles_Hugh_Smith.jpg]]
 
 ## Image Notes
 
-- [[Diagram Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith 3b41f633|Diagram Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith]]
+- [[Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith bff65149|Diagram Illustrating Bureaucracy Lifecycle with Program Budget and Administrative Costs. by Charles Hugh Smith]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

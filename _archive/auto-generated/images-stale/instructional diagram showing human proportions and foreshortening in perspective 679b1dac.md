@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective 0287d748|Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: proportions, perspective, showing
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, showing
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human, diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, diagram
+- [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective 0287d748|Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: proportions, perspective, showing
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 <!-- vault-crosslinks:end -->

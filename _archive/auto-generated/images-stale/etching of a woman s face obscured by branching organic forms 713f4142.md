@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — named in this note
 - [[knowledge/wiki/images/Illustration Etching of a Woman's Face Obscured by Branching Organic Forms 48264eac|Illustration Etching of a Woman's Face Obscured by Branching Organic Forms]] — same artist: branching organic forms
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: organic, forms, face
 - [[_archive/auto-generated/images-stale/black and white line drawing of a stylized female face and organic forms bca7462c|black and white line drawing of a stylized female face and organic forms]] — shared language: organic, forms, face
-- [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Obscured Face And Hands 03312e8f|Illustration Abstract Black And White Figure With Obscured Face And Hands]] — shared language: obscured, face
 - [[_archive/auto-generated/images-stale/drawing of abstract blue organic forms on a geometric grid 4c1461ed|drawing of abstract blue organic forms on a geometric grid]] — shared language: organic, forms
 <!-- vault-crosslinks:end -->

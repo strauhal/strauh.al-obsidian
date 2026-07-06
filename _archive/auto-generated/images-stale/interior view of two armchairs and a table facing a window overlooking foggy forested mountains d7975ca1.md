@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Cozy Room With Armchairs Facing Foggy Forested Mountains 51acb5ea|Photograph Cozy Room With Armchairs Facing Foggy Forested Mountains]] — shared language: armchairs, forested, foggy
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view, mountains
 - [[_archive/auto-generated/images-stale/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: table, interior, view
-- [[knowledge/wiki/images/Photograph View From Under Beach Umbrella Overlooking Lake With Mountains 3749fec5|Photograph View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: overlooking, mountains, view
-- [[_archive/auto-generated/images-stale/open window overlooking a city and balcony 8dc8a6d6|open window overlooking a city and balcony]] — shared language: overlooking, window
-- [[_archive/auto-generated/images-stale/black and white photograph of people sitting on the floor facing a window aa461b7c|black and white photograph of people sitting on the floor facing a window]] — shared language: facing, window
+- [[_archive/auto-generated/images-stale/Photograph View From Under Beach Umbrella Overlooking Lake With Mountains 3749fec5|Photograph View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: overlooking, mountains, view
+- [[knowledge/wiki/images/View From Under Beach Umbrella Overlooking Lake With Mountains 9e9663ea|View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: overlooking, mountains, view
 <!-- vault-crosslinks:end -->

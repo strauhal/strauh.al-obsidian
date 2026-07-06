@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/the death of socrates by jacques louis david 1787 1fcb6c1c|the death of socrates by jacques louis david 1787]] — shared language: louis, jacques
 - [[knowledge/wiki/artists/Artist - jacques louis david|Artist - jacques louis david]] — shared language: louis, jacques
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 - [[knowledge/wiki/images/The Coronation of Napoleon by Jacques Louis David (1805 1807) ce4d6847|The Coronation of Napoleon by Jacques Louis David (1805 1807)]] — shared language: louis, jacques
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

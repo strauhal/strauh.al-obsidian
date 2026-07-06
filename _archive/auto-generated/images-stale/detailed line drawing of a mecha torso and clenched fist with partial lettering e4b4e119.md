@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Detailed Line Drawing of Mecha Torso, Clenched Fist, and Partial Lettering 5a79342d|Illustration Detailed Line Drawing of Mecha Torso, Clenched Fist, and Partial Lettering]] — shared language: partial, clenched, lettering
+- [[knowledge/wiki/images/Illustration Detailed Line Drawing of Mecha Torso, Clenched Fist, and Partial Lettering 5a79342d|Illustration Detailed Line Drawing of Mecha Torso, Clenched Fist, and Partial Lettering]] — shared language: clenched, lettering, partial
 - [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: mecha, line
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: mecha
 - [[_archive/auto-generated/images-stale/line drawing of a heavily armored mecha figure in action 8273f61e|line drawing of a heavily armored mecha figure in action]] — shared language: mecha, line

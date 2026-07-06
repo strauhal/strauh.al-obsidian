@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: technology, media
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, media
+- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
 <!-- vault-crosslinks:end -->

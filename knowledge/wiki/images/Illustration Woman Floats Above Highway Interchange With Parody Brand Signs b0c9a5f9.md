@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: highway, signs, above
 - [[knowledge/wiki/artists/Artist - Brand|Artist - Brand]] — shared language: brand
-- [[knowledge/wiki/images/Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange 608686be|Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: interchange, highway
+- [[knowledge/wiki/images/Aerial Comparison of Siena City Center and Houston Highway Interchange be855b27|Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: interchange, highway
+- [[knowledge/wiki/images/Person Wearing Black T Shirt With Anti Brand List On Back ab21d6a0|Person Wearing Black T Shirt With Anti Brand List On Back]] — shared language: brand
 - [[knowledge/wiki/images/Illustration Side Profiles of White Crossover SUVs by Brand 242dc90c|Illustration Side Profiles of White Crossover SUVs by Brand]] — shared language: brand
-- [[knowledge/wiki/images/Photograph Young Boy Holding 'The Book of Bionicles' Parody a3052d53|Photograph Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: parody
+- [[knowledge/wiki/images/Young Boy Holding 'The Book of Bionicles' Parody 3e3c2415|Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: parody
 <!-- vault-crosslinks:end -->

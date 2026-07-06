@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building 3c6b2d32|Photograph Digitally Manipulated Photograph Of A Burning White Wooden Building]] — shared language: manipulated, digitally, wooden
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: wooden, structure
-- [[knowledge/wiki/images/Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers 5f049167|Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers]] — shared language: wooden, wavy
+- [[knowledge/wiki/images/Digitally Manipulated Photograph Of A Burning White Wooden Building 88077396|Digitally Manipulated Photograph Of A Burning White Wooden Building]] — shared language: manipulated, digitally, wooden
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: wooden, structure
+- [[knowledge/wiki/images/Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers 5f049167|Illustration Dark Wavy Sculptural Wooden Cabinet with Drawers]] — shared language: wavy, wooden
 - [[knowledge/wiki/images/Photograph Ornate Stone Archway with Wooden Door Covered in Red Graffiti 5ae7cd60|Photograph Ornate Stone Archway with Wooden Door Covered in Red Graffiti]] — shared language: ornate, wooden
 - [[knowledge/wiki/images/Image Digitally Altered Photograph of a Crying Cat Disintegrating fe0faa63|Image Digitally Altered Photograph of a Crying Cat Disintegrating]] — shared language: digitally
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair 2001|Artist - sean adair 2001]] — named in this note
+- [[knowledge/wiki/artists/Artist - Sean Adair|Artist - Sean Adair]] — named in this note
 - [[knowledge/wiki/images/Photograph Explosion at World Trade Center South Tower, September 11, 2001 by Sean Adair 106129fb|Photograph Explosion at World Trade Center South Tower, September 11, 2001 by Sean Adair]] — same artist: sean adair
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
-- [[knowledge/wiki/images/Photograph Explosion at World Trade Center During September 11 Attacks 63fe93b2|Photograph Explosion at World Trade Center During September 11 Attacks]] — shared language: september, trade, center
-- [[knowledge/wiki/images/Photograph Airplane Approaching Smoking World Trade Center Tower 03634adb|Photograph Airplane Approaching Smoking World Trade Center Tower]] — shared language: trade, center, tower
+- [[knowledge/wiki/images/Explosion at World Trade Center During September 11 Attacks d28920f1|Explosion at World Trade Center During September 11 Attacks]] — shared language: september, trade, center
+- [[_archive/auto-generated/images-stale/Photograph Explosion at World Trade Center During September 11 Attacks 63fe93b2|Photograph Explosion at World Trade Center During September 11 Attacks]] — shared language: september, trade, center
 <!-- vault-crosslinks:end -->

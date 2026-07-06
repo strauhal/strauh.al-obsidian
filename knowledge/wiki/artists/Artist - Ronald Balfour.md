@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Ronald Reagan Meeting With Desmond Tutu 6f8fe64b|Photograph Ronald Reagan Meeting With Desmond Tutu]] — shared language: ronald
+- [[knowledge/wiki/images/Ronald Reagan Meeting With Desmond Tutu fa75ac45|Ronald Reagan Meeting With Desmond Tutu]] — shared language: ronald
 - [[knowledge/wiki/artists/Artist - omar rayo|Artist - omar rayo]] — shared language: omar
 - [[knowledge/wiki/images/el jardin de la vida by omar rayo 1970 0616a153|el jardin de la vida by omar rayo 1970]] — shared language: omar
 <!-- vault-crosslinks:end -->

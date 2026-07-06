@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Portrait of Rosa Luxemburg eb7f7544|Photograph Portrait of Rosa Luxemburg]] — shared language: luxemburg, rosa, luxemburg.jpg
+- [[_archive/auto-generated/images-stale/Photograph Portrait of Rosa Luxemburg eb7f7544|Photograph Portrait of Rosa Luxemburg]] — shared language: luxemburg, rosa, luxemburg.jpg
+- [[knowledge/wiki/images/Portrait of Rosa Luxemburg 7a9921ac|Portrait of Rosa Luxemburg]] — shared language: luxemburg, rosa, luxemburg.jpg
 - [[knowledge/wiki/artists/Artist - salvator rosa|Artist - salvator rosa]] — shared language: rosa
 - [[knowledge/wiki/images/An Eagle by Rosa Bonheur (1870) 15d83cf0|An Eagle by Rosa Bonheur (1870)]] — shared language: rosa
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: rosa
-- [[knowledge/wiki/images/diogenes throwing away his bowl by salvator rosa c 1650 e46f1d87|diogenes throwing away his bowl by salvator rosa c 1650]] — shared language: rosa
 <!-- vault-crosslinks:end -->

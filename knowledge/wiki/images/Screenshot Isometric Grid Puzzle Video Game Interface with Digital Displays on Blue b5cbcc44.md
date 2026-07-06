@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: displays
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: interface, screenshot, digital
 - [[knowledge/wiki/images/Screenshot Glitchy Digital Interface With Abstract Figures And Text Windows aea78e3d|Screenshot Glitchy Digital Interface With Abstract Figures And Text Windows]] — shared language: interface, screenshot, digital
+- [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: game, video, screenshot
 <!-- vault-crosslinks:end -->

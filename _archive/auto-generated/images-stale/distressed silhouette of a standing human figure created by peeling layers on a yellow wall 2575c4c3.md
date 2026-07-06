@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall d885d785|Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: distressed, silhouette, wall
+- [[knowledge/wiki/images/Distressed Silhouette Of A Standing Human Figure On A Yellow Wall c98bbe73|Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: distressed, silhouette, wall
+- [[_archive/auto-generated/images-stale/Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall d885d785|Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: distressed, silhouette, wall
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: layers
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/images/Screenshot Screenshot of a Pixelated Human Silhouette in a Window 1c78cf06|Screenshot Screenshot of a Pixelated Human Silhouette in a Window]] — shared language: silhouette, human
-- [[knowledge/wiki/images/Photograph Large Sheet of Dried Ivy Peeling Off Brick Building 54beb1bf|Photograph Large Sheet of Dried Ivy Peeling Off Brick Building]] — shared language: peeling
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Col
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: south, colorful
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, multi
 - [[knowledge/wiki/books/classics-of-indian-spirituality-eknath-easwaran-nagler-michael-n-the-upanishads-nilgiri-press|The Upanishads-Nilgiri Press]] — shared language: indian
 - [[knowledge/wiki/books/ernest-henry-shackleton-south-the-story-of-shackleton-s-last-expedition-1914-1917-duke-classics|South the story of Shackleton's last expedition, 1914-1917-Duke Classics]] — shared language: south
 - [[knowledge/wiki/images/Document Colorful Hell Bank Note with Imperial Figure and Flanking Deities 5b31459d|Document Colorful Hell Bank Note with Imperial Figure and Flanking Deities]] — shared language: deities, colorful
+- [[knowledge/wiki/images/Illustration Dancing Red Deity Adorned With Garland of Heads 4811e25d|Illustration Dancing Red Deity Adorned With Garland of Heads]] — shared language: adorned
 <!-- vault-crosslinks:end -->

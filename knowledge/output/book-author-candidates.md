@@ -2,8 +2,8 @@
 title: Book Author Candidates
 type: report
 tags: [report, books, candidates]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Book Author Candidates

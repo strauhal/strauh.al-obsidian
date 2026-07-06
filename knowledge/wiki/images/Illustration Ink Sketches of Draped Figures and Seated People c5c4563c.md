@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
-- [[knowledge/wiki/images/Illustration Nude Woman Seated on Draped Fabric, Looking Down b97d2f24|Illustration Nude Woman Seated on Draped Fabric, Looking Down]] — shared language: draped, seated
 <!-- vault-crosslinks:end -->

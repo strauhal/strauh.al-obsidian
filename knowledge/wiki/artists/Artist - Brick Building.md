@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Black Custom Car with Whitewall Tires Parked by Brick Building.jpeg]]
+![[media/strauh.al3.1/photography/Black Custom Car with Whitewall Tires Parked by Brick Building.jpeg]]
 
 ## Image Notes
 
-- [[Photograph Black Custom Car with Whitewall Tires Parked by Brick Building d94a3cbd|Photograph Black Custom Car with Whitewall Tires Parked by Brick Building]]
+- [[Black Custom Car with Whitewall Tires Parked by Brick Building 25b16326|Black Custom Car with Whitewall Tires Parked by Brick Building]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky 6a762a20|Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: hills, sky, green
+- [[knowledge/wiki/images/Paved Road and Sidewalk with Green Hills Under Blue Sky aa92c13c|Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: hills, sky, green
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: hills, sky, green
 - [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: hills, sky, green
-- [[knowledge/wiki/images/Photograph Donald Trump Backlit Against Bright Blue Sky 9f9c7c55|Photograph Donald Trump Backlit Against Bright Blue Sky]] — shared language: bright, sky, sky.jpeg
-- [[knowledge/wiki/images/Photograph Bright Explosion With Debris Against Blue Sky 5e1f53d1|Photograph Bright Explosion With Debris Against Blue Sky]] — shared language: bright, sky
+- [[knowledge/wiki/images/Bright Explosion With Debris Against Blue Sky 11e9c51b|Bright Explosion With Debris Against Blue Sky]] — shared language: bright, sky
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Bright Geometric Shapes 7db191c0|Illustration Abstract Painting of Interlocking Bright Geometric Shapes]] — shared language: bright
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/philippe_mohlitz
 - [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: late, century
 - [[knowledge/wiki/images/serhiy vasylkivsky on the pond late 19th century b63cf075|serhiy vasylkivsky on the pond late 19th century]] — shared language: late, century, century.jpg
 - [[knowledge/wiki/images/henry sissons the assault late 19th century 92466db6|henry sissons the assault late 19th century]] — shared language: late, century, century.jpg
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: late
+- [[knowledge/wiki/images/francisco toledo black dog perro negro late 20th century c728b16f|francisco toledo black dog perro negro late 20th century]] — shared language: late, century, century.jpg
 <!-- vault-crosslinks:end -->

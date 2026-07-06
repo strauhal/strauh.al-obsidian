@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Comic Black And White Comic Page Of Falling Figures And Debris a7f182fe|Comic Black And White Comic Page Of Falling Figures And Debris]] — shared language: debris, falling, comic
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, comic
+- [[knowledge/wiki/images/Comic Black And White Comic Page Of Falling Figures And Debris a7f182fe|Comic Black And White Comic Page Of Falling Figures And Debris]] — shared language: falling, debris, comic
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, falling, comic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: scene, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — shared language: debris, chaotic
-- [[knowledge/wiki/images/Photograph Photograph of an Open Book Page with Illustrations 4016926f|Photograph Photograph of an Open Book Page with Illustrations]] — shared language: book, page
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — shared language: chaotic, debris
 <!-- vault-crosslinks:end -->

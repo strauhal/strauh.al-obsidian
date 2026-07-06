@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards, walking
+- [[knowledge/wiki/images/Man Walking Towards Atomium Under Construction fa4e7faa|Man Walking Towards Atomium Under Construction]] — shared language: towards, walking
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: walking
+- [[knowledge/wiki/images/Silhouette Of A Cat Against A Colorful Sunset Sky 08bfb852|Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: cat, colorful
 - [[knowledge/wiki/images/Cat in the Garden by Anastasia Trusova (2024) 025a9bfa|Cat in the Garden by Anastasia Trusova (2024)]] — shared language: garden, cat
-- [[knowledge/wiki/images/Photograph Silhouette Of A Cat Against A Colorful Sunset Sky 22fa7b40|Photograph Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: cat, colorful
 - [[knowledge/wiki/images/Illustration Person Walking Up Stairs Towards Large Cloud in Blue Sky by Seong Ryul e854f6a2|Illustration Person Walking Up Stairs Towards Large Cloud in Blue Sky by Seong Ryul]] — shared language: towards, walking
 <!-- vault-crosslinks:end -->

@@ -26,6 +26,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Porsche 356 Spee
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton 89f862ef|Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton]] — shared language: porsche
-- [[knowledge/wiki/images/Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD) 47041d67|Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Portrait of Alexander Pushkin by Orest Kiprensky (1827) 0e122e0b|Portrait of Alexander Pushkin by Orest Kiprensky (1827)]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — shared language: porsche
+- [[knowledge/wiki/images/Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy 290ed887|Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

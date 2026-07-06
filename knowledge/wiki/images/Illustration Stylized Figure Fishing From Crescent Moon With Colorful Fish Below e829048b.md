@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon, colorful
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon, colorful
 - [[knowledge/wiki/images/Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon 2a8c4293|Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon]] — shared language: crescent, moon
 - [[knowledge/wiki/images/Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background 98c00cdf|Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background]] — shared language: crescent, moon
 - [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: fishing, stylized

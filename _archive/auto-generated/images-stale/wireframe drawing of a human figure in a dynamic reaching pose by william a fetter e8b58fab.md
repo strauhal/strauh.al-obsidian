@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Wireframe Human Figure In Dynamic Reaching Pose a1148e66|Illustration Wireframe Human Figure In Dynamic Reaching Pose]] — shared language: pose, reaching, wireframe
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic, human
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
 - [[knowledge/wiki/images/Illustration Two Stylized Figures in Dynamic Pose from a Book bfe74b12|Illustration Two Stylized Figures in Dynamic Pose from a Book]] — shared language: pose, dynamic
 - [[_archive/auto-generated/images-stale/pencil sketch of two figures in a dynamic pose in a notebook 9b11f45f|pencil sketch of two figures in a dynamic pose in a notebook]] — shared language: pose, dynamic
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dynamic, human
 <!-- vault-crosslinks:end -->

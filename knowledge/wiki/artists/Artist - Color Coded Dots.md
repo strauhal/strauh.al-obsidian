@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Map of Detroit Showing Demographic Distribution by Color-Coded Dots.png]]
+![[media/strauh.al3.1/diagrams/Map_of_Detroit_Showing_Demographic_Distribution_by_Color-Coded_Dots.png]]
 
 ## Image Notes
 
-- [[Diagram Map of Detroit Showing Demographic Distribution by Color Coded Dots 1efe62fe|Diagram Map of Detroit Showing Demographic Distribution by Color Coded Dots]]
+- [[Map of Detroit Showing Demographic Distribution by Color Coded Dots b1bae770|Map of Detroit Showing Demographic Distribution by Color Coded Dots]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

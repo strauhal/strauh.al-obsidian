@@ -35,7 +35,7 @@ Images attributed by filename: 5
 - [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — named in this note
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri, robert
 - [[knowledge/wiki/images/The Gypsy with the Green Shawl by Robert Henri (1912) 134d208b|The Gypsy with the Green Shawl by Robert Henri (1912)]] — shared language: henri, robert
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: henri
 - [[knowledge/wiki/images/Visage by Henri Matisse (1951) e96fda8e|Visage by Henri Matisse (1951)]] — shared language: henri
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Illustration Untitled by Henri Michaux 7080318d|Illustration Untitled by Henri Michaux]] — shared language: henri
 <!-- vault-crosslinks:end -->

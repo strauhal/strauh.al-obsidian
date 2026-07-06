@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Silver Teapot On Post With Snow Capped Mountains In Background 2352752e|Photograph Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/images/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/images/Photograph Horses Grazing in a Green Field with Snow Capped Mountains 7113fa12|Photograph Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: capped, snow, mountains
-- [[_archive/auto-generated/images-stale/aerial photograph of a dense cityscape with a central avenue and snow capped mountains 079ee9d9|aerial photograph of a dense cityscape with a central avenue and snow capped mountains]] — shared language: capped, snow, mountains
-- [[knowledge/wiki/images/landscape with yellow fields and snow capped mountains by frank zvanich 1949 bcc2aac2|landscape with yellow fields and snow capped mountains by frank zvanich 1949]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, large
+- [[_archive/auto-generated/images-stale/Photograph Silver Teapot On Post With Snow Capped Mountains In Background 2352752e|Photograph Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/images/Silver Teapot On Post With Snow Capped Mountains In Background c57d95c6|Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/images/Aerial View of City, Water, and Snow Capped Mountains f2eb6868|Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
+- [[_archive/auto-generated/images-stale/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
 <!-- vault-crosslinks:end -->

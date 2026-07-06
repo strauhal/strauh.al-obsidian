@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Blue 
 
 - [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, ink, paper.jpeg
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: gridded
 <!-- vault-crosslinks:end -->

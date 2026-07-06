@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Histor
 - [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — shared language: meridian
 - [[knowledge/wiki/images/Illustration Montage of Chinese Historical Figures and Naval Battle ae4caa77|Illustration Montage of Chinese Historical Figures and Naval Battle]] — shared language: historical, chinese
 - [[knowledge/wiki/images/Illustration Historical Chinese Illustrations of Traditional Medicine and Martial Arts 4c58faa6|Illustration Historical Chinese Illustrations of Traditional Medicine and Martial Arts]] — shared language: historical, chinese
-- [[knowledge/wiki/images/Diagram Historical Map of North and South America with Arabic Script 38f07f11|Diagram Historical Map of North and South America with Arabic Script]] — shared language: historical, diagram
+- [[knowledge/wiki/images/Diagram of Five Elements (Wuxing) Matrix in Chinese Characters c63a4f3d|Diagram of Five Elements (Wuxing) Matrix in Chinese Characters]] — shared language: chinese, diagram
 <!-- vault-crosslinks:end -->

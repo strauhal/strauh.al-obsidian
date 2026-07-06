@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach, one
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: signed
-- [[knowledge/wiki/images/Photograph View From Under Beach Umbrella Overlooking Lake With Mountains 3749fec5|Photograph View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: umbrella, beach
+- [[knowledge/wiki/images/View From Under Beach Umbrella Overlooking Lake With Mountains 9e9663ea|View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: umbrella, beach
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: feet
 - [[knowledge/wiki/images/Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric a34f4445|Illustration Stylized House, Figures, And Framed Mechanical Drawings On Fabric]] — shared language: fabric, drawings
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: drawings
 - [[knowledge/wiki/images/drawings 9e5f53ad|drawings]] — shared language: drawings
+- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: drawings
 <!-- vault-crosslinks:end -->

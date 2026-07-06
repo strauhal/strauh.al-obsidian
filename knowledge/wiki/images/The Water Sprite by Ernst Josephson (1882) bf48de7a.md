@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Water Sprite
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - rudolf ernst|Artist - rudolf ernst]] — shared language: ernst
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
 - [[knowledge/wiki/images/on the terrace by rudolf ernst 1880 ae52486c|on the terrace by rudolf ernst 1880]] — shared language: ernst
 - [[knowledge/wiki/artists/Artist - ernst ludwig kirchner|Artist - ernst ludwig kirchner]] — shared language: ernst
 - [[knowledge/wiki/images/self portrait by ernst ludwig kirchner 1914 5cc7bba5|self portrait by ernst ludwig kirchner 1914]] — shared language: ernst
+- [[knowledge/wiki/images/The Temptation of St. Anthony by Max Ernst (1945) 54cf7763|The Temptation of St. Anthony by Max Ernst (1945)]] — shared language: ernst
 <!-- vault-crosslinks:end -->

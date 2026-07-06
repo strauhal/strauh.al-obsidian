@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/books/jessica-bruder-nomadland-surviving-america-in-the-twenty-first-century-w-w-norton-company|Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company]] — shared language: jessica
 - [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
+- [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses
 - [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses
 - [[knowledge/wiki/images/two horses by marino marini 1951 67243ea1|two horses by marino marini 1951]] — shared language: horses
-- [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses
 <!-- vault-crosslinks:end -->

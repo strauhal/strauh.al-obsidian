@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas 0932adc5|Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas]] — shared language: classic, cars
 - [[knowledge/wiki/books/charles-dickens-david-copperfield-bantam-classic-bantam-books|David Copperfield (Bantam Classic) -Bantam Books]] — shared language: classic
 - [[knowledge/wiki/images/Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape b392b3ec|Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape]] — shared language: vibrant
-- [[knowledge/wiki/images/Photograph City Street After Flood With Piled Up Cars 1c1a9d7d|Photograph City Street After Flood With Piled Up Cars]] — shared language: cars, cars.jpeg
+- [[knowledge/wiki/images/Screenshot AI Chatbot Displaying Classic And Jailbreak Responses 9314991c|Screenshot AI Chatbot Displaying Classic And Jailbreak Responses]] — shared language: classic
 <!-- vault-crosslinks:end -->

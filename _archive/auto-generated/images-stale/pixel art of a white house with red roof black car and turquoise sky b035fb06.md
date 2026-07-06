@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: turquoise, roof, house
+- [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: turquoise, roof, pixel
 - [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, house
 - [[_archive/auto-generated/images-stale/view of a small white house with red roof in a green field through a circular frame 1b8f07f3|view of a small white house with red roof in a green field through a circular frame]] — shared language: roof, house
-- [[knowledge/wiki/images/Illustration Pixel Art House with Bare Tree and Red Door ce9be94d|Illustration Pixel Art House with Bare Tree and Red Door]] — shared language: house, pixel
+- [[knowledge/wiki/images/Illustration Pixel Art House with Bare Tree and Red Door ce9be94d|Illustration Pixel Art House with Bare Tree and Red Door]] — shared language: pixel, house
 - [[_archive/auto-generated/images-stale/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: roof
 <!-- vault-crosslinks:end -->

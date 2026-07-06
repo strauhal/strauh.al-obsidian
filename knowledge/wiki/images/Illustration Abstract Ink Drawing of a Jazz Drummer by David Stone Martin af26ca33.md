@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin
 - [[knowledge/wiki/images/jazz 52131f14|jazz]] — shared language: jazz
 - [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
-- [[knowledge/wiki/images/Illustration Sketch Studies of Figures, Including Drummer and Seated Man ea2855fc|Illustration Sketch Studies of Figures, Including Drummer and Seated Man]] — shared language: drummer
 <!-- vault-crosslinks:end -->

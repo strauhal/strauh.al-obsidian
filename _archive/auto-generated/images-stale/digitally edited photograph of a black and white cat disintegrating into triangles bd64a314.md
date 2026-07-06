@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Image Digitally Altered Photograph of a Crying Cat Disintegrating fe0faa63|Image Digitally Altered Photograph of a Crying Cat Disintegrating]] — shared language: digitally, cat
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: edited
+- [[knowledge/wiki/images/Image Digitally Altered Photograph of a Crying Cat Disintegrating fe0faa63|Image Digitally Altered Photograph of a Crying Cat Disintegrating]] — shared language: digitally, cat
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: edited
 - [[_archive/auto-generated/images-stale/digitally altered photograph of a cat with muscular human arms standing on a patio 5ff2deba|digitally altered photograph of a cat with muscular human arms standing on a patio]] — shared language: digitally, cat

@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/four_women_playi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin 0d9b1c2e|Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
+- [[knowledge/wiki/images/Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin e147d6ba|Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
 - [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: instruments
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: instruments
-- [[knowledge/wiki/images/Photograph Musicians Playing String Instruments In An Anechoic Chamber 4e8a35a5|Photograph Musicians Playing String Instruments In An Anechoic Chamber]] — shared language: instruments, playing
+- [[knowledge/wiki/images/Musicians Playing String Instruments In An Anechoic Chamber 35388ec6|Musicians Playing String Instruments In An Anechoic Chamber]] — shared language: instruments, playing
 - [[knowledge/wiki/images/Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals 4c057454|Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals]] — shared language: instruments, playing
+- [[knowledge/wiki/images/Photograph Four Members of The Weavers Folk Group with Instruments 03331e7d|Photograph Four Members of The Weavers Folk Group with Instruments]] — shared language: instruments, four
 <!-- vault-crosslinks:end -->

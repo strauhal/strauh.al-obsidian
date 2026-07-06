@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Japanese style Scroll Painting of Temple Complex and Pilgrimage Scene 9c9dd2e7|Illustration Detailed Japanese style Scroll Painting of Temple Complex and Pilgrimage Scene]] — shared language: pilgrimage, scroll, temple
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, large
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/images/Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll c3856a4a|Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll]] — shared language: scroll, japanese
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
-- [[knowledge/wiki/images/Photograph Five Dancers in Black Leotards on a Wooden Floor 0f6297a8|Photograph Five Dancers in Black Leotards on a Wooden Floor]] — shared language: wooden, floor, floor.jpeg
-- [[knowledge/wiki/images/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: wooden, floor, floor.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Black Metal Sculpture with Curving Forms and Shadow 9f8d73c5|Illustration Abstract Black Metal Sculpture with Curving Forms and Shadow]] — shared language: metal, sculpture
 - [[knowledge/wiki/images/Illustration Simple Line Drawing of Bent Over Figure 8be25f58|Illustration Simple Line Drawing of Bent Over Figure]] — shared language: bent
+- [[knowledge/wiki/images/Five Dancers in Black Leotards on a Wooden Floor 354512f3|Five Dancers in Black Leotards on a Wooden Floor]] — shared language: wooden, floor, floor.jpeg
+- [[knowledge/wiki/images/Photograph Welded Metal Frame Structure on Workshop Floor d1b56fc8|Photograph Welded Metal Frame Structure on Workshop Floor]] — shared language: metal, floor, floor.jpeg
+- [[knowledge/wiki/images/Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou 8943a3c5|Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou]] — shared language: metal, sculpture
 <!-- vault-crosslinks:end -->

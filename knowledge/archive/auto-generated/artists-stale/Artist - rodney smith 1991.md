@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael s smith 2019|Artist - michael s smith 2019]] — shared language: smith
 - [[_archive/auto-generated/images-stale/the temptress by michael s smith 2019 079d24ac|the temptress by michael s smith 2019]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
-- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: smith
+- [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
 <!-- vault-crosslinks:end -->

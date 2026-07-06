@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes 831bc36f|Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes]] — shared language: brightly, colored, geometric
-- [[knowledge/wiki/images/Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks 8c343ad7|Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks]] — shared language: brightly, colored
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors ce57a9f5|Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors]] — shared language: polygons, geometric
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colored
+- [[knowledge/wiki/images/Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks 8c343ad7|Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks]] — shared language: brightly, colored
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Various Colored Shapes 530e7213|Illustration Abstract Geometric Painting With Various Colored Shapes]] — shared language: colored, geometric
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern With Overlapping Colored Lines 5d16a30b|Illustration Abstract Geometric Pattern With Overlapping Colored Lines]] — shared language: colored, geometric
 <!-- vault-crosslinks:end -->

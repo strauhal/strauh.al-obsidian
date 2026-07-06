@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Imp
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Vibrant Solarpunk Cityscape with Elevated Transport and Lush Greenery 1c748e42|Illustration Vibrant Solarpunk Cityscape with Elevated Transport and Lush Greenery]] — shared language: greenery
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: flowers, against
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: flowers, against
 - [[knowledge/wiki/images/Illustration Basketball Hoop On Court Against Blue Sky 4cdc3cf0|Illustration Basketball Hoop On Court Against Blue Sky]] — shared language: against, sky, sky.jpeg
-- [[knowledge/wiki/images/Photograph Donald Trump Backlit Against Bright Blue Sky 9f9c7c55|Photograph Donald Trump Backlit Against Bright Blue Sky]] — shared language: against, sky, sky.jpeg
-- [[knowledge/wiki/images/Photograph Silhouetted Train Station Infrastructure Against a Pink Sky 98414f0a|Photograph Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: against, sky, sky.jpeg
+- [[knowledge/wiki/images/Silhouetted Train Station Infrastructure Against a Pink Sky 63802bff|Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: against, sky, sky.jpeg
+- [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1000s/Meryon_-_Head_of
 ## Discovered Connections
 
 - [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — shared language: short
-- [[knowledge/wiki/images/Photograph Man With Beard And Glasses Holding A Drawing 5d8c7f64|Photograph Man With Beard And Glasses Holding A Drawing]] — shared language: beard
+- [[knowledge/wiki/images/Man With Beard And Glasses Holding A Drawing a95a1501|Man With Beard And Glasses Holding A Drawing]] — shared language: beard
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: left
 - [[knowledge/wiki/images/Illustration Black and White Print of Woman's Head in Profile 76352d99|Illustration Black and White Print of Woman's Head in Profile]] — shared language: profile, head
-- [[knowledge/wiki/images/Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings 15e51211|Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings]] — shared language: markings
+- [[knowledge/wiki/images/Illustration Black and White Halftone Profile of a Person's Head 3fdc0aff|Illustration Black and White Halftone Profile of a Person's Head]] — shared language: profile, head
 <!-- vault-crosslinks:end -->

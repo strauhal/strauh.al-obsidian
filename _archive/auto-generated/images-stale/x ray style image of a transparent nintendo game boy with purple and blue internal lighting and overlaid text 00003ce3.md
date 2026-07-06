@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear 25f81b43|Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear]] — shared language: nintendo, boy, game
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
+- [[knowledge/wiki/images/Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear 25f81b43|Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear]] — shared language: nintendo, boy, game
 - [[knowledge/wiki/artists/Artist - Nintendo|Artist - Nintendo]] — shared language: nintendo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - man ray 1916|Artist - man ray 1916]] — shared language: ray
-- [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
+- [[knowledge/wiki/artists/Artist - man ray|Artist - man ray]] — shared language: ray
 <!-- vault-crosslinks:end -->

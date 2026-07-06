@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - H
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Nude Woman Seated on Draped Fabric, Looking Down b97d2f24|Illustration Nude Woman Seated on Draped Fabric, Looking Down]] — shared language: draped, fabric
 - [[knowledge/wiki/images/Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric 07b42c57|Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric]] — shared language: fabric, pink, fabric.jpeg
-- [[knowledge/wiki/images/Photograph Millau Viaduct Cable Stayed Bridge Emerging From Clouds d81106db|Photograph Millau Viaduct Cable Stayed Bridge Emerging From Clouds]] — shared language: emerging
+- [[knowledge/wiki/images/study of two standing figures a draped man and a nude man by michelangelo c 15041505 45830ff2|study of two standing figures a draped man and a nude man by michelangelo c 15041505]] — shared language: draped
+- [[knowledge/wiki/images/Illustration Painting of Multiple Figures in Colorful Draped Robes 7e770e18|Illustration Painting of Multiple Figures in Colorful Draped Robes]] — shared language: draped
 <!-- vault-crosslinks:end -->

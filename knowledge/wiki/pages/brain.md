@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/brain.html"
 source_relpath: "brain.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # brain
@@ -56,6 +56,7 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: brain, force, node
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, pages
@@ -63,5 +64,4 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: drag, click, highlight
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: drag, click, highlight
-- [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: drag, click, highlight
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_virgin_and_c
 - [[knowledge/wiki/artists/Artist - giovanni battista tiepolo 17521753|Artist - giovanni battista tiepolo 17521753]] — named in this note
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — same artist: giovanni battista tiepolo
 - [[knowledge/wiki/images/allegory of the planets and continents by giovanni battista tiepolo 17521753 68e6d8de|allegory of the planets and continents by giovanni battista tiepolo 17521753]] — same artist: giovanni battista tiepolo
-- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: battista, giovanni, virgin
 - [[knowledge/wiki/images/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757) 072a67b8|The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757)]] — shared language: tiepolo, battista, giovanni
+- [[knowledge/wiki/artists/Artist - giovanni battista salvi da sassoferrato|Artist - giovanni battista salvi da sassoferrato]] — shared language: battista, giovanni, virgin
 <!-- vault-crosslinks:end -->

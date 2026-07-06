@@ -6,8 +6,8 @@ subject: Ernest Strauhal
 status: compiled
 tags: [criticism, ai-art, gan, authorship]
 sources: []
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # No More Human Art
@@ -56,7 +56,7 @@ The complete supplied text is preserved at `knowledge/raw/no-more-human-art.md`,
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, tug, human-machine
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: tug, color, gan
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, practice, study
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, study, practice
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: tug, works, knowledge
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: voice, control
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: navigable, knowledge

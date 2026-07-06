@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Laniak
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: diagram
-- [[knowledge/wiki/images/Diagram Diagram Illustrating The Hierarchy Of Disagreement 53ff87b6|Diagram Diagram Illustrating The Hierarchy Of Disagreement]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Illustrating The Hierarchy Of Disagreement 600c9109|Diagram Illustrating The Hierarchy Of Disagreement]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Dense Network Diagram of Interconnected Text Labels cc9db1cc|Diagram Dense Network Diagram of Interconnected Text Labels]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Geometric Pattern Diagram with Red, Black, and Stippled Shapes d10d838f|Diagram Geometric Pattern Diagram with Red, Black, and Stippled Shapes]] — shared language: diagram
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vdnk 2024|Artist - vdnk 2024]] — named in this note
 - [[knowledge/wiki/images/Neco raid by Vodnik (2024) 7222e829|Neco raid by Vodnik (2024)]] — shared language: raid
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/Ready for the House by Jandek (1978) 833bc59b|Ready for the House by Jandek (1978)]] — shared language: house
 - [[knowledge/wiki/images/The Raid by Josan Gonzalez and Laurie Greasley 67421a4b|The Raid by Josan Gonzalez and Laurie Greasley]] — shared language: raid
-- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
 <!-- vault-crosslinks:end -->

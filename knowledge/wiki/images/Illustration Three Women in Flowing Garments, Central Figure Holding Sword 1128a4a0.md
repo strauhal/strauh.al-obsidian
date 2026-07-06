@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Abstract Painting With Flowing Red, Yellow, And Blue Forms 2c267d69|Illustration Abstract Painting With Flowing Red, Yellow, And Blue Forms]] — shared language: flowing
 - [[knowledge/wiki/images/Illustration Stylized Man With Large Mustache Holding Sword Against Red Background 49acfe2c|Illustration Stylized Man With Large Mustache Holding Sword Against Red Background]] — shared language: sword, holding
-- [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: sword, holding
 - [[knowledge/wiki/images/Illustration Three Women With Black Hair And Red Lips In Pink Frame 11e41fc1|Illustration Three Women With Black Hair And Red Lips In Pink Frame]] — shared language: women, three
+- [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: sword, holding
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Woman's Eyes and Drifting White Sedan Composite d602e77d|Illustration Woman's Eyes and Drifting White Sedan Composite]] — shared language: drifting, composite, woman's
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: woman's
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: drifting
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: drifting
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: keffiyeh
 <!-- vault-crosslinks:end -->

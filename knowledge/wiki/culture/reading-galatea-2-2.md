@@ -7,8 +7,8 @@ status: queued
 queue_order: 18
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Galatea 2.2

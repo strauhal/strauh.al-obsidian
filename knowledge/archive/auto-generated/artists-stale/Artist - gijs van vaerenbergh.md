@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
-- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: van
+- [[_archive/auto-generated/images-stale/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: van
 <!-- vault-crosslinks:end -->

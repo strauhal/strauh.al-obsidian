@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
-- [[knowledge/wiki/images/john william waterhouse naiads 1908 dd603bdc|john william waterhouse naiads 1908]] — shared language: john
+- [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: john
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/thangka painting of a multi armed blue wrathful deity standing on figures against a red background e980217f|thangka painting of a multi armed blue wrathful deity standing on figures against a red background]] — shared language: wrathful, thangka, armed
 - [[knowledge/wiki/images/Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background 4e4ff64d|Illustration Multi Armed Blue Wrathful Deity Standing on Figures, Red Background]] — shared language: wrathful, armed, deity
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Wrathful Deity on Clouds 8d57e96d|Illustration Black and White Line Drawing of Wrathful Deity on Clouds]] — shared language: wrathful, deity
-- [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: multi, armed, deity
+- [[_archive/auto-generated/images-stale/black and white line drawing of a wrathful deity seated on clouds 0fabd33c|black and white line drawing of a wrathful deity seated on clouds]] — shared language: wrathful, deity
 <!-- vault-crosslinks:end -->

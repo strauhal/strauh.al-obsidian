@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: fluffy, wizard, staff
+- [[knowledge/wiki/images/Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 616ecd4e|Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: fluffy, wizard, staff
+- [[_archive/auto-generated/images-stale/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: fluffy, wizard, staff
 - [[knowledge/wiki/images/Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak 664712e4|Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak]] — shared language: wizard, hat, wearing
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, cat, orange
-- [[_archive/auto-generated/images-stale/photograph of a fluffy orange cat sitting next to a laptop on a wooden desk de94230d|photograph of a fluffy orange cat sitting next to a laptop on a wooden desk]] — shared language: fluffy, cat, orange
-- [[knowledge/wiki/images/Illustration Woman In Red Hat And Robe Holding Black Cat 2929450d|Illustration Woman In Red Hat And Robe Holding Black Cat]] — shared language: hat, cat, holding
+- [[knowledge/wiki/images/Fluffy Orange Cat Next To Laptop On Wooden Desk ffe94cb4|Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, cat, orange
+- [[_archive/auto-generated/images-stale/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, cat, orange
 <!-- vault-crosslinks:end -->

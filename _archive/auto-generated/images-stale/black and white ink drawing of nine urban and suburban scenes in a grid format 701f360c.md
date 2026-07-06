@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Grid of Nine Black Ink Sketches of Urban and Rural Scenes edc8a5c6|Illustration Grid of Nine Black Ink Sketches of Urban and Rural Scenes]] — shared language: nine, urban, scenes
 - [[_archive/auto-generated/images-stale/grid of nine black ink sketches depicting urban and rural scenes 1762a36b|grid of nine black ink sketches depicting urban and rural scenes]] — shared language: nine, urban, scenes
 - [[_archive/auto-generated/images-stale/grid of 30 black ink sketches depicting suburban and rural scenes storyboard format c429eae6|grid of 30 black ink sketches depicting suburban and rural scenes storyboard format]] — shared language: format, suburban, scenes
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, suburban, ink
+- [[_archive/auto-generated/images-stale/grid of 25 black and white ink sketches depicting suburban and rural scenes 6adb54a0|grid of 25 black and white ink sketches depicting suburban and rural scenes]] — shared language: suburban, scenes, grid
 <!-- vault-crosslinks:end -->

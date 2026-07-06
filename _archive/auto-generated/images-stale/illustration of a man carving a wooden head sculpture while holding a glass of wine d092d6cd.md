@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass e584db74|Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: wine, glass, holding
+- [[knowledge/wiki/images/Man in Dark Coat and Green Turtleneck Holding Wine Glass 5e62c469|Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: wine, glass, holding
+- [[_archive/auto-generated/images-stale/Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass e584db74|Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: wine, glass, holding
 - [[_archive/auto-generated/images-stale/photograph of a man in a dark coat and turtleneck holding a wine glass with red liquid 55a06c4e|photograph of a man in a dark coat and turtleneck holding a wine glass with red liquid]] — shared language: wine, glass, holding
 - [[_archive/auto-generated/images-stale/glass bottle sculpture installation with branch 6edf09c0|glass bottle sculpture installation with branch]] — shared language: glass, sculpture
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[_archive/auto-generated/images-stale/3d pixelated portrait relief sculpture made of colored wooden cubes 2cdfa3bb|3d pixelated portrait relief sculpture made of colored wooden cubes]] — shared language: wooden, sculpture
 <!-- vault-crosslinks:end -->

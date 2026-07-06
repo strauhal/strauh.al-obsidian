@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Three Nude Figures On A Bed With Landscape Background 275c607c|Illustration Three Nude Figures On A Bed With Landscape Background]] — shared language: bed
 - [[knowledge/wiki/images/Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing 0ce4c58d|Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing]] — shared language: bed
 - [[knowledge/wiki/images/Illustration Young Woman Smoking on Bed in Cluttered Room 2ac094b2|Illustration Young Woman Smoking on Bed in Cluttered Room]] — shared language: bed
-- [[knowledge/wiki/images/Photograph Man In Sunglasses Sits In Yellow Room With Bed 4904b155|Photograph Man In Sunglasses Sits In Yellow Room With Bed]] — shared language: bed
+- [[knowledge/wiki/images/Man In Sunglasses Sits In Yellow Room With Bed 7ed7c478|Man In Sunglasses Sits In Yellow Room With Bed]] — shared language: bed
 <!-- vault-crosslinks:end -->

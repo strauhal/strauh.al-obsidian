@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 - [[knowledge/wiki/images/portrait of pierre joseph proudhon 1865 jpg 5a0fb9ed|portrait of pierre joseph proudhon 1865 jpg]] — shared language: joseph, pierre
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
-- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: joseph
 - [[knowledge/wiki/books/bueys-joseph-harlan-volker-what-is-art-conversation-with-joseph-beuys-clairview-books|What is Art Conversation with Joseph Beuys-Clairview Books]] — shared language: joseph
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
-- [[knowledge/wiki/images/the arnolfini portrait by jan van eyck 1434 41e839d4|the arnolfini portrait by jan van eyck 1434]] — shared language: jan, van
+- [[knowledge/wiki/artists/Artist - Jan Van Haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
 <!-- vault-crosslinks:end -->

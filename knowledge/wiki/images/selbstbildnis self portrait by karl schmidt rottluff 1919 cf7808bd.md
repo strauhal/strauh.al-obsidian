@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/selbstbildnis_se
 - [[knowledge/wiki/images/kopf eines mannes head of a man by karl schmidt rottluff 1919 9a3df16b|kopf eines mannes head of a man by karl schmidt rottluff 1919]] — same artist: karl schmidt rottluff
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
+- [[knowledge/wiki/artists/Artist - Ben Schmidt|Artist - Ben Schmidt]] — shared language: schmidt
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
-- [[knowledge/wiki/artists/Artist - karl wirsum|Artist - karl wirsum]] — shared language: karl
 <!-- vault-crosslinks:end -->

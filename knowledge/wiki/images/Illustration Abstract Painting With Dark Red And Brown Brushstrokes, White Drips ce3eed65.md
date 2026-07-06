@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — shared language: brown
 - [[knowledge/wiki/artists/Artist - Cecily Brown|Artist - Cecily Brown]] — shared language: brown
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: dark
-- [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: dark
+- [[knowledge/wiki/images/Illustration Abstract Painting of Architectural Forms and a Brown Box aa8b5b85|Illustration Abstract Painting of Architectural Forms and a Brown Box]] — shared language: brown
 <!-- vault-crosslinks:end -->

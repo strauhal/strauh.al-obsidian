@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/william mcgregor paxton the chariot of pegasus 1904 545301ff|william mcgregor paxton the chariot of pegasus 1904]] — shared language: paxton, mcgregor, william
 - [[knowledge/wiki/images/Nausicaa by William McGregor Paxton (c. 1941) 2657b39a|Nausicaa by William McGregor Paxton (c. 1941)]] — shared language: paxton, mcgregor, william
-- [[knowledge/wiki/images/Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting 9970d625|Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]] — shared language: mcgregor
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
+- [[knowledge/wiki/images/Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting e26ecfca|Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]] — shared language: mcgregor
 - [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
 - [[knowledge/wiki/images/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795) 5b716454|Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795)]] — shared language: rodman, mrs, elizabeth
-- [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: william
 <!-- vault-crosslinks:end -->

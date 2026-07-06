@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Brown Sofa With Pillows Designed Like Battery Labels 2f26774e|Photograph Brown Sofa With Pillows Designed Like Battery Labels]] — shared language: pillows, battery, sofa
+- [[knowledge/wiki/images/Brown Sofa With Pillows Designed Like Battery Labels b4c5aee4|Brown Sofa With Pillows Designed Like Battery Labels]] — shared language: pillows, battery, sofa
+- [[_archive/auto-generated/images-stale/Photograph Brown Sofa With Pillows Designed Like Battery Labels 2f26774e|Photograph Brown Sofa With Pillows Designed Like Battery Labels]] — shared language: pillows, battery, sofa
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: look, like
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels
 - [[knowledge/wiki/images/Woman on a Sofa by Hirokin (1970) 0e12e7ea|Woman on a Sofa by Hirokin (1970)]] — shared language: sofa
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: look
 <!-- vault-crosslinks:end -->

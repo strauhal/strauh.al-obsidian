@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Tattooed Man MC Ride and Young Girl Sitting on Stage f65b2562|Photograph Tattooed Man MC Ride and Young Girl Sitting on Stage]] — shared language: tattooed, stage, sitting
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Photograph Young Man Sitting in Wicker Chair Indoors 8d5e5542|Photograph Young Man Sitting in Wicker Chair Indoors]] — shared language: sitting, young
 - [[knowledge/wiki/images/Young Girl on a Red Carpet by Felice Casorati (circa 1912) 907c7f8e|Young Girl on a Red Carpet by Felice Casorati (circa 1912)]] — shared language: girl, young
 - [[knowledge/wiki/images/portrait of a young girl with a cat by balthus 1937 f27543dc|portrait of a young girl with a cat by balthus 1937]] — shared language: girl, young
+- [[knowledge/wiki/images/Heavily Tattooed Man Posing With Garfield Mascot 15a421b0|Heavily Tattooed Man Posing With Garfield Mascot]] — shared language: tattooed
 <!-- vault-crosslinks:end -->

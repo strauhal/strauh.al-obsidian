@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Five L
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/images/Equilibrium b8438ef3|Equilibrium]] — named in this note
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: changes
 - [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: changes

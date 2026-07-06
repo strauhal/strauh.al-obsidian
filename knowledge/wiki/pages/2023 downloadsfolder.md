@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2023_downloadsfolder.html"
 source_relpath: "2023_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # 2023 downloadsfolder
@@ -607,11 +607,11 @@ strauh.al/2023_downloadsfolder
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/2024 downloadsfolder|2024 downloadsfolder]] — shared language: n.jpg, shot, pm.png
-- [[knowledge/wiki/images/Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]] — shared language: shot, screen, pm.png
-- [[knowledge/wiki/images/13312890 1364959343517951 9080943046825273669 n a7dd21a0|13312890 1364959343517951 9080943046825273669 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/180913581 127556412765709 1144180134642286206 n d4b2bdd7|180913581 127556412765709 1144180134642286206 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/226192348 10220277890637972 2382098757685824163 n f18de750|226192348 10220277890637972 2382098757685824163 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/254972528 283287463806100 3463202423831714690 n 0cbe9586|254972528 283287463806100 3463202423831714690 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/255726861 10161484858398128 271362541008171646 n adc7b51a|255726861 10161484858398128 271362541008171646 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/257778344 10158210713927401 68173542825849642 n d1a742f1|257778344 10158210713927401 68173542825849642 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/Screen Shot 2020 10 10 at 6.36.47 PM 507cb295|Screen Shot 2020 10 10 at 6.36.47 PM]] — shared language: shot, screen, pm.png
+- [[knowledge/wiki/pages/culture society|culture society]] — shared language: n.jpg, shot, pm.png
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen, music
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/books/piano|piano]] — shared language: music
+- [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: making, screen
+- [[knowledge/wiki/books/basic-notation|basic-notation]] — shared language: music
 <!-- vault-crosslinks:end -->

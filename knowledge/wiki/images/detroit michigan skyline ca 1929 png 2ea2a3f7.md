@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/detroit_michigan
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph Aerial View of Detroit Skyline and River 5cbaf2c2|Photograph Aerial View of Detroit Skyline and River]] — shared language: detroit, skyline
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: skyline
+- [[knowledge/wiki/images/Aerial View of Detroit Skyline and River 4883ecb4|Aerial View of Detroit Skyline and River]] — shared language: detroit, skyline
+- [[knowledge/wiki/images/Aerial View of Snowy Chicago Skyline and Frozen Lake Michigan ac8822ee|Aerial View of Snowy Chicago Skyline and Frozen Lake Michigan]] — shared language: michigan, skyline
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — shared language: skyline
 - [[knowledge/wiki/artists/Artist - detroit publishing co|Artist - detroit publishing co]] — shared language: detroit
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: skyline
 <!-- vault-crosslinks:end -->

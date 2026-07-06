@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Moon Phases over the Dolomites by Giorgia Hofer 9b33c813|Moon Phases over the Dolomites by Giorgia Hofer]] — same artist: giorgia hofer
+- [[knowledge/wiki/artists/Artist - Giorgia Hofer|Artist - Giorgia Hofer]] — named in this note
 - [[knowledge/wiki/images/Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021) 94a17fa2|Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021)]] — shared language: giorgia
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
-- [[knowledge/archive/auto-generated/artists-stale/Artist - sarah moon 1995|Artist - sarah moon 1995]] — shared language: moon
 <!-- vault-crosslinks:end -->

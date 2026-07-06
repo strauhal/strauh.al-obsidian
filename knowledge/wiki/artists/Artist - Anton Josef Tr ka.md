@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Egon Schiele in his Studio with Sculpture by Anton Josef Trčka.jpg]]
+![[media/strauh.al3.1/photography/Egon Schiele in his Studio with Sculpture by Anton Josef Trčka.jpg]]
 
 ## Image Notes
 
-- [[Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]]
+- [[Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 3119ee5a|Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

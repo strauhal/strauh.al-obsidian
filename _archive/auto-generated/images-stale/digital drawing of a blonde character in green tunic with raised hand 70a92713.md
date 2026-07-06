@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/oil painting of a woman in a lime green tunic white hat and striped leggings bebd11ae|oil painting of a woman in a lime green tunic white hat and striped leggings]] — shared language: tunic, green
+- [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: digital, green
 - [[knowledge/wiki/images/Illustration Blonde Woman Spears Green Dinosaur In Jungle e47ebffb|Illustration Blonde Woman Spears Green Dinosaur In Jungle]] — shared language: blonde, green
-- [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: green, digital
 <!-- vault-crosslinks:end -->

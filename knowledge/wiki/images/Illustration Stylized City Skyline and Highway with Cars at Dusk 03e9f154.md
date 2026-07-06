@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline, highway
-- [[knowledge/wiki/images/Photograph Graffiti Covered Rooftops And City Skyline At Dusk 07b41dd0|Photograph Graffiti Covered Rooftops And City Skyline At Dusk]] — shared language: dusk, skyline, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, cars
+- [[knowledge/wiki/images/Graffiti Covered Rooftops And City Skyline At Dusk a3e094fd|Graffiti Covered Rooftops And City Skyline At Dusk]] — shared language: dusk, skyline, city
 - [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, city, stylized
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
+- [[knowledge/wiki/images/Photograph Dense Urban Skyline at Dusk Under Hazy Sky 2b7bf112|Photograph Dense Urban Skyline at Dusk Under Hazy Sky]] — shared language: dusk, skyline
+- [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk
 <!-- vault-crosslinks:end -->

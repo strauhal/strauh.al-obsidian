@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/crimson cowboy by tison keel 1984 6c7ea0e8|crimson cowboy by tison keel 1984]] — shared language: keel
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/books/piano|piano]] — shared language: music
-- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — shared language: snow
+- [[knowledge/wiki/books/basic-notation|basic-notation]] — shared language: music
 <!-- vault-crosslinks:end -->

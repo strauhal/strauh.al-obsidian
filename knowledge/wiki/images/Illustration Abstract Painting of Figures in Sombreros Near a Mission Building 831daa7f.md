@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
-- [[knowledge/wiki/images/Photograph Two Men In Sombreros With Mexican Flag Screenshot 705f5eee|Photograph Two Men In Sombreros With Mexican Flag Screenshot]] — shared language: sombreros
+- [[knowledge/wiki/images/Two Men In Sombreros With Mexican Flag Screenshot fa3633fa|Two Men In Sombreros With Mexican Flag Screenshot]] — shared language: sombreros
 - [[knowledge/wiki/images/Mission Bay Lights by Adam Forfang (2024) a2487117|Mission Bay Lights by Adam Forfang (2024)]] — shared language: mission
 - [[knowledge/wiki/images/illustration of a red haired youth crouching on a pier near a red building 1970 79005a0e|illustration of a red haired youth crouching on a pier near a red building 1970]] — shared language: near, building
 - [[knowledge/wiki/images/Screenshot Black And White Macintosh Screenshot Showing Moon And Apollo Mission Summary d9a977f9|Screenshot Black And White Macintosh Screenshot Showing Moon And Apollo Mission Summary]] — shared language: mission

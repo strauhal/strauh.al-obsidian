@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Colorful Water Droplets On A Textured Surface cb7b1503|Photograph Colorful Water Droplets On A Textured Surface]] — shared language: surface, textured
-- [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: surface
+- [[knowledge/wiki/images/Colorful Water Droplets On A Textured Surface bff02129|Colorful Water Droplets On A Textured Surface]] — shared language: surface, textured
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured
+- [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: surface
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Distorted Black Grid on White 70b7ca84|Illustration Textured Abstract Painting of Distorted Black Grid on White]] — shared language: textured
 - [[knowledge/wiki/images/Illustration Textured Walking Head Figure on White Background 5a0afdbd|Illustration Textured Walking Head Figure on White Background]] — shared language: textured
-- [[knowledge/wiki/images/rippled surface by m c escher 1950 9cf2d1c4|rippled surface by m c escher 1950]] — shared language: surface
+- [[knowledge/wiki/images/Illustration Red Rope Like Figure Merging With Textured Painting 864c9fbc|Illustration Red Rope Like Figure Merging With Textured Painting]] — shared language: textured
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Child On Bicycle With Large, Multi Faced Orange Figure Another Child 384ef18b|Photograph Child On Bicycle With Large, Multi Faced Orange Figure Another Child]] — shared language: bicycle, child, large
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: beneath
+- [[knowledge/wiki/images/Child On Bicycle With Large, Multi Faced Orange Figure Another Child 6606166b|Child On Bicycle With Large, Multi Faced Orange Figure Another Child]] — shared language: bicycle, child, large
+- [[_archive/auto-generated/images-stale/Photograph Child On Bicycle With Large, Multi Faced Orange Figure Another Child 384ef18b|Photograph Child On Bicycle With Large, Multi Faced Orange Figure Another Child]] — shared language: bicycle, child, large
 - [[_archive/auto-generated/images-stale/crab nebula jpg a9af0fa9|crab nebula jpg]] — shared language: crab
 - [[knowledge/wiki/images/woman and bicycle by willem de kooning 1952 1953 dbc5be26|woman and bicycle by willem de kooning 1952 1953]] — shared language: bicycle
-- [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 <!-- vault-crosslinks:end -->

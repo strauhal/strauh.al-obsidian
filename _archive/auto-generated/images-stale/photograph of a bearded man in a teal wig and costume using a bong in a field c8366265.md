@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Bearded Man in Teal Wig and Costume Using Bong in Field d0f93369|Photograph Bearded Man in Teal Wig and Costume Using Bong in Field]] — shared language: bong, wig, costume
+- [[knowledge/wiki/images/Bearded Man in Teal Wig and Costume Using Bong in Field 67310a2a|Bearded Man in Teal Wig and Costume Using Bong in Field]] — shared language: bong, wig, bearded
+- [[_archive/auto-generated/images-stale/Photograph Bearded Man in Teal Wig and Costume Using Bong in Field d0f93369|Photograph Bearded Man in Teal Wig and Costume Using Bong in Field]] — shared language: bong, wig, bearded
 - [[knowledge/wiki/images/Illustration Portrait Painting Of A Man With White Wig And Blue Coat 63d12906|Illustration Portrait Painting Of A Man With White Wig And Blue Coat]] — shared language: wig
 - [[knowledge/wiki/images/Illustration Portrait of a Man in Brown Coat and White Wig 700bface|Illustration Portrait of a Man in Brown Coat and White Wig]] — shared language: wig
-- [[knowledge/wiki/images/Photograph Woman In Green Wig At A Science Themed Display 202bc2cc|Photograph Woman In Green Wig At A Science Themed Display]] — shared language: wig
-- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: costume
+- [[_archive/auto-generated/images-stale/Photograph Woman In Green Wig At A Science Themed Display 202bc2cc|Photograph Woman In Green Wig At A Science Themed Display]] — shared language: wig
 <!-- vault-crosslinks:end -->

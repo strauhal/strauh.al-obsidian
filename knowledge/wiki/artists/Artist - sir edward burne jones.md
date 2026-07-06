@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
-- [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
 - [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: edward
+- [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
 <!-- vault-crosslinks:end -->

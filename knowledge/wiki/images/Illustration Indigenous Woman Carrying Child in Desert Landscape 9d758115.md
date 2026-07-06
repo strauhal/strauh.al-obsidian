@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 - [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert, landscape, landscape.jpeg
-- [[knowledge/wiki/images/Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits 05c0d472|Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: indigenous
+- [[knowledge/wiki/images/Open Book Rock Art Reproduction and Four Indigenous Portraits 5a82bf93|Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: indigenous
 - [[knowledge/wiki/images/Illustration Abstract Geometric Desert Landscape with House and Sun d40a7db6|Illustration Abstract Geometric Desert Landscape with House and Sun]] — shared language: desert, landscape
 - [[knowledge/wiki/images/Photograph Minimalist Photograph of a Single Tree in a Desert Landscape 4be5d872|Photograph Minimalist Photograph of a Single Tree in a Desert Landscape]] — shared language: desert, landscape, landscape.jpeg
-- [[knowledge/wiki/images/Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape 2e28f5bd|Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape]] — shared language: desert, landscape, landscape.jpeg
 <!-- vault-crosslinks:end -->

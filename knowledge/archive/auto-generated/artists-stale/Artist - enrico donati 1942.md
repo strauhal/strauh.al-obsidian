@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - enrico donati|Artist - enrico donati]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini|Artist - Enrico Marini]] — shared language: enrico
+- [[knowledge/wiki/artists/Artist - Enrico Marini|Artist - Enrico Marini]] — shared language: enrico
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini 2011|Artist - enrico marini 2011]] — shared language: enrico
 - [[knowledge/wiki/artists/Artist - Enrico Robusti|Artist - Enrico Robusti]] — shared language: enrico
 - [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: enrico
-- [[_archive/auto-generated/images-stale/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — shared language: enrico
 <!-- vault-crosslinks:end -->

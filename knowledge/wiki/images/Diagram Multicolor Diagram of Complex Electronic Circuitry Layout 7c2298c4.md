@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Multic
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
-- [[knowledge/wiki/images/Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems ea0751e4|Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems]] — shared language: electronic, complex, diagram
 - [[knowledge/wiki/images/Diagram Colorful Microchip Layout Diagram with Interconnected Traces 1136aeaf|Diagram Colorful Microchip Layout Diagram with Interconnected Traces]] — shared language: layout, diagram
-- [[knowledge/wiki/images/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: complex, diagram
-- [[knowledge/wiki/images/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: complex, diagram
+- [[knowledge/wiki/images/Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems ea0751e4|Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems]] — shared language: electronic, complex, diagram
+- [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: complex, diagram
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: complex, diagram
 <!-- vault-crosslinks:end -->

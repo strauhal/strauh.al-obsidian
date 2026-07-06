@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi.jpg]]
+![[media/strauh.al3.1/photography/Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi.jpg]]
 
 ## Image Notes
 
-- [[Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]]
+- [[Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi 8c1270cd|Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 
 - [[knowledge/wiki/images/Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard 29cd68eb|Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard]] — same artist: laurent gapaillard
 - [[knowledge/wiki/images/Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard 42cc2cb0|Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard]] — same artist: laurent gapaillard
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent, intricate
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent, ornate
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
 - [[knowledge/wiki/images/Illustration Intricate Fantasy Labyrinth Illustration with Diverse Architectural and Mythical Elements 544dcae7|Illustration Intricate Fantasy Labyrinth Illustration with Diverse Architectural and Mythical Elements]] — shared language: fantasy, intricate
 <!-- vault-crosslinks:end -->

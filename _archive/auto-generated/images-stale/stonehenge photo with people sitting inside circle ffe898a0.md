@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting f6f636e3|Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting]] — shared language: stonehenge, sitting, people
+- [[_archive/auto-generated/images-stale/Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting f6f636e3|Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting]] — shared language: stonehenge, sitting, people
+- [[knowledge/wiki/images/Stonehenge Stones Sprayed With Orange Powder, Two People Sitting f14e8353|Stonehenge Stones Sprayed With Orange Powder, Two People Sitting]] — shared language: stonehenge, sitting, people
 - [[knowledge/wiki/images/Photograph Black and White Photograph of People Sitting on Floor 5d26b5dd|Photograph Black and White Photograph of People Sitting on Floor]] — shared language: sitting, people
-- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo, people
+- [[_archive/auto-generated/images-stale/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo, people
 - [[_archive/auto-generated/images-stale/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — shared language: photo, people
 <!-- vault-crosslinks:end -->

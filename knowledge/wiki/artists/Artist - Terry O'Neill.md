@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill.jpg]]
+![[media/strauh.al3.1/photography/David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill.jpg]]
 
 ## Image Notes
 
-- [[Photograph David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill abf9ee91|Photograph David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill]]
+- [[David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill 52ad99cc|David Bowie on the set of The Dinah Shore Show, Los Angeles by Terry O'Neill]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

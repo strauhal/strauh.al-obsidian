@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Two Silhouetted Performers on Foggy Stage, One Hanging Upside Down 31678f95|Photograph Two Silhouetted Performers on Foggy Stage, One Hanging Upside Down]] — shared language: performers, upside, foggy
-- [[knowledge/wiki/images/Photograph Silhouettes of Two Performers on Stage with Microphones Raised 270569db|Photograph Silhouettes of Two Performers on Stage with Microphones Raised]] — shared language: performers, stage
 - [[_archive/auto-generated/images-stale/framed upside down landscape or interior study 24906eaa|framed upside down landscape or interior study]] — shared language: upside, down
 - [[knowledge/wiki/images/Illustration Standing Figure And Upside Down Nude In Abstract Setting 33af6c48|Illustration Standing Figure And Upside Down Nude In Abstract Setting]] — shared language: upside, down
-- [[knowledge/wiki/images/Photograph Silhouetted Performer On Stage With Microphone In Green Light 5e5db158|Photograph Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: silhouetted, stage
+- [[_archive/auto-generated/images-stale/Photograph Silhouettes of Two Performers on Stage with Microphones Raised 270569db|Photograph Silhouettes of Two Performers on Stage with Microphones Raised]] — shared language: performers, stage
+- [[knowledge/wiki/images/Silhouettes of Two Performers on Stage with Microphones Raised 4778bafe|Silhouettes of Two Performers on Stage with Microphones Raised]] — shared language: performers, stage
 <!-- vault-crosslinks:end -->

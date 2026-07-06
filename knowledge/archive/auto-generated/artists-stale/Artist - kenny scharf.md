@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
 - [[knowledge/wiki/culture/music-azimuth|Listening - Azimuth]] — shared language: kenny
 - [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
-- [[knowledge/wiki/images/Photograph Bubble Chamber Photograph Showing Particle Tracks and Collisions 2e7d1db1|Photograph Bubble Chamber Photograph Showing Particle Tracks and Collisions]] — shared language: bubble
+- [[_archive/auto-generated/images-stale/display featuring a super sonico figurine and a fish fossil c608dcfe|display featuring a super sonico figurine and a fish fossil]] — shared language: super
 <!-- vault-crosslinks:end -->

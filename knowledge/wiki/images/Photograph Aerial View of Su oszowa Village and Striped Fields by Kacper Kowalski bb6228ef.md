@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, striped, aerial
+- [[knowledge/wiki/images/Aerial View Of Colorful Striped Agricultural Fields ccc6a845|Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, striped, aerial
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, aerial, view
 - [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: fields, aerial, view
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

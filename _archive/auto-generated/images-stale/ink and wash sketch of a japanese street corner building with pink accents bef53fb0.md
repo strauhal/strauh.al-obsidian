@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, wash, ink
-- [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch 3a572936|Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch]] — shared language: wash, street, pink
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
+- [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch 3a572936|Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch]] — shared language: wash, pink, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink, japanese
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 <!-- vault-crosslinks:end -->

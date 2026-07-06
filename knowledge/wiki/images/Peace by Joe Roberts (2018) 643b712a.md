@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Peace by Joe Rob
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Joe Madureira|Artist - Joe Madureira]] — shared language: joe
+- [[knowledge/wiki/artists/Artist - Michael James Roberts|Artist - Michael James Roberts]] — shared language: roberts
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: peace
 - [[knowledge/wiki/images/Yeezus by Joe Perez (2013) fba37486|Yeezus by Joe Perez (2013)]] — shared language: joe
 - [[knowledge/wiki/images/Screenshot Text Describing Artworks by Michael James Roberts d3b31c16|Screenshot Text Describing Artworks by Michael James Roberts]] — shared language: roberts
-- [[knowledge/wiki/images/Document Text Describing Artworks by Michael James Roberts 2b50dc93|Document Text Describing Artworks by Michael James Roberts]] — shared language: roberts
-- [[knowledge/wiki/images/isaac levitan above eternal peace 1894 b4586498|isaac levitan above eternal peace 1894]] — shared language: peace
 <!-- vault-crosslinks:end -->

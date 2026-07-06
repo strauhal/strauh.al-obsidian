@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 - [[knowledge/wiki/images/Illustration Simple Line Drawing of Winged Figure with Clasped Hands 2fc4beff|Illustration Simple Line Drawing of Winged Figure with Clasped Hands]] — shared language: clasped, hands
 - [[knowledge/wiki/artists/Artist - Fei Danxu|Artist - Fei Danxu]] — shared language: fei
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
 - [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
+- [[knowledge/wiki/images/Screenshot The Joker Sitting With Hands Clasped From Batman The Animated Series 6905ed00|Screenshot The Joker Sitting With Hands Clasped From Batman The Animated Series]] — shared language: clasped, hands
 <!-- vault-crosslinks:end -->

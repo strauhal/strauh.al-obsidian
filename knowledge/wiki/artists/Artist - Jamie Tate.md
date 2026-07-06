@@ -11,19 +11,19 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Modern Recording Equipment Cost Flowchart by Jamie Tate.jpg]]
+![[media/strauh.al3.1/diagrams/Modern_Recording_Equipment_Cost_Flowchart_by_Jamie_Tate.jpg]]
 
 ## Image Notes
 
-- [[Diagram Modern Recording Equipment Cost Flowchart by Jamie Tate 64072518|Diagram Modern Recording Equipment Cost Flowchart by Jamie Tate]]
+- [[Modern Recording Equipment Cost Flowchart by Jamie Tate 8a878ac7|Modern Recording Equipment Cost Flowchart by Jamie Tate]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Black And White Diagram Of SWAT Officer Equipment 37635e6b|Diagram Black And White Diagram Of SWAT Officer Equipment]] — shared language: equipment, diagram
-- [[knowledge/wiki/images/Diagram Flowchart for reading Carl Jung's books, with introductory and advanced sections 913352c4|Diagram Flowchart for reading Carl Jung's books, with introductory and advanced sections]] — shared language: flowchart, diagram
 - [[knowledge/wiki/pages/knowledge base 2024 misc bookmarks|knowledge base 2024 misc bookmarks]] — shared language: tate
-- [[knowledge/wiki/images/Diagram Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality 1541bbd6|Diagram Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality]] — shared language: flowchart, diagram
-- [[knowledge/wiki/images/Diagram Flowchart of Non Sectarian Buddhist Texts and Study Paths 19fff48a|Diagram Flowchart of Non Sectarian Buddhist Texts and Study Paths]] — shared language: flowchart, diagram
-- [[knowledge/wiki/images/Diagram Timeline of Modern Philosophers and Their Influences 283323b6|Diagram Timeline of Modern Philosophers and Their Influences]] — shared language: modern, diagram
+- [[knowledge/wiki/images/Two Men Operating DJ Equipment At An Event 55c1c328|Two Men Operating DJ Equipment At An Event]] — shared language: equipment
+- [[knowledge/wiki/images/Man Using Music Production Equipment In A Room 867cdc04|Man Using Music Production Equipment In A Room]] — shared language: equipment
+- [[knowledge/wiki/images/Cumulus Mood Twang by Flowchart (1995) d18c7d54|Cumulus Mood Twang by Flowchart (1995)]] — shared language: flowchart
+- [[knowledge/wiki/images/Room Cluttered With Synthesizers And Electronic Music Equipment 77bf9207|Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: equipment
+- [[knowledge/wiki/images/Flowchart for reading Carl Jung's books, with introductory and advanced sections bbe106d1|Flowchart for reading Carl Jung's books, with introductory and advanced sections]] — shared language: flowchart
 <!-- vault-crosslinks:end -->

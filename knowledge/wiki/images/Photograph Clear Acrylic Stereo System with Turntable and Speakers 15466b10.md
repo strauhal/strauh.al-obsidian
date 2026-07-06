@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cle
 ## Discovered Connections
 
 - [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
-- [[knowledge/wiki/images/Photograph Man With Headphones And Portable Turntable At Outdoor Cafe 6f66b3af|Photograph Man With Headphones And Portable Turntable At Outdoor Cafe]] — shared language: turntable
+- [[knowledge/wiki/images/Man With Headphones And Portable Turntable At Outdoor Cafe 6f52a7d7|Man With Headphones And Portable Turntable At Outdoor Cafe]] — shared language: turntable
 - [[knowledge/wiki/images/Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books 516e529f|Photograph Minimalist Studio Setup with Concrete Blocks, Computer, Turntable, Books]] — shared language: turntable
-- [[knowledge/wiki/images/Photograph Dimly Lit Modern Living Room with TV and Speakers 6fb318f4|Photograph Dimly Lit Modern Living Room with TV and Speakers]] — shared language: speakers
-- [[knowledge/wiki/images/Photograph Man Working On Intricate Wiring System ad975fef|Photograph Man Working On Intricate Wiring System]] — shared language: system
+- [[knowledge/wiki/images/Dimly Lit Modern Living Room with TV and Speakers a06a8fad|Dimly Lit Modern Living Room with TV and Speakers]] — shared language: speakers
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: clear
 <!-- vault-crosslinks:end -->

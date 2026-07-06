@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Woman with Long Hair Holding Flowers in Blue Green Setting 4ac1d8f7|Illustration Woman with Long Hair Holding Flowers in Blue Green Setting]] — shared language: long, hair
 - [[knowledge/wiki/images/Illustration Ink Sketch of Four Figures in Long Robes 37704dd6|Illustration Ink Sketch of Four Figures in Long Robes]] — shared language: long, ink
 - [[knowledge/wiki/images/Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background 52b43191|Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background]] — shared language: long, hair
-- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: large, ink
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: ink, large
 <!-- vault-crosslinks:end -->

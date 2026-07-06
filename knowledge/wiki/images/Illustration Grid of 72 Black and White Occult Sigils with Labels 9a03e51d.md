@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels, grid
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, labels
 - [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: sigils, occult
-- [[knowledge/wiki/images/Diagram Grid of Abstract Visualizations with Technical Labels c22df3ab|Diagram Grid of Abstract Visualizations with Technical Labels]] — shared language: labels, grid
+- [[knowledge/wiki/images/Grid of Abstract Visualizations with Technical Labels 0f6e56a4|Grid of Abstract Visualizations with Technical Labels]] — shared language: labels, grid
 - [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — shared language: occult
 - [[knowledge/wiki/books/benebell-wen-the-tao-of-craft-fu-talismans-and-casting-sigils-in-the-eastern-esoteric-tradition-north-atlantic-books|The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books]] — shared language: sigils
 <!-- vault-crosslinks:end -->

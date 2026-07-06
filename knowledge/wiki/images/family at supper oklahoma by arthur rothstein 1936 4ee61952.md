@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/family_at_supper
 ## Discovered Connections
 
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: arthur
-- [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — shared language: arthur
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: arthur
+- [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — shared language: arthur
 - [[knowledge/wiki/images/composition by arthur dove c 1927 d2562e3b|composition by arthur dove c 1927]] — shared language: arthur
 - [[knowledge/wiki/images/Illustration Stylized Green and White Pictogram of The Last Supper 5568c78c|Illustration Stylized Green and White Pictogram of The Last Supper]] — shared language: supper
 <!-- vault-crosslinks:end -->

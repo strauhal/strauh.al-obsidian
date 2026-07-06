@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Reliquary Bust of Mary Magdalene 1fc24f29|Reliquary Bust of Mary Magdalene]] — shared language: magdalene, mary
 - [[knowledge/wiki/images/mary magdalene by moretto da brescia 1540 50 21639dd7|mary magdalene by moretto da brescia 1540 50]] — shared language: magdalene, mary
 - [[knowledge/wiki/images/miraflores altarpiece detail of mary magdalene by rogier van der weyden c 1440 1445 14ac8f35|miraflores altarpiece detail of mary magdalene by rogier van der weyden c 1440 1445]] — shared language: magdalene, mary
-- [[knowledge/wiki/images/Photograph Side by Side Comparison of Hongya Cave, Chongqing, China, 1998 vs. Now 66714424|Photograph Side by Side Comparison of Hongya Cave, Chongqing, China, 1998 vs. Now]] — shared language: cave
-- [[knowledge/wiki/images/buddha in the cave by nicholas roerich 1925 89792310|buddha in the cave by nicholas roerich 1925]] — shared language: cave
+- [[knowledge/wiki/images/at the opera by mary cassatt 1880 766087e1|at the opera by mary cassatt 1880]] — shared language: mary
+- [[knowledge/wiki/artists/Artist - mary cassatt|Artist - mary cassatt]] — shared language: mary
 <!-- vault-crosslinks:end -->

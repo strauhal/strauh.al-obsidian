@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - earl norem|Artist - earl norem]] — named in this note
-- [[knowledge/wiki/images/Photograph Paul McCartney and Earl Sweatshirt Posing Together 68e3af67|Photograph Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: earl
+- [[knowledge/wiki/images/Paul McCartney and Earl Sweatshirt Posing Together c80d34c1|Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: earl
+- [[_archive/auto-generated/images-stale/Photograph Paul McCartney and Earl Sweatshirt Posing Together 68e3af67|Photograph Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: earl
 - [[knowledge/wiki/images/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795) 5b716454|Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 1795)]] — shared language: earl
 - [[knowledge/wiki/images/landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744 ff285a8d|landscape after gaspard poussin in the collection of the rt honble the earl of waldegrave by james mason 1744]] — shared language: earl
 - [[knowledge/wiki/artists/Artist - james mason|Artist - james mason]] — shared language: earl
-- [[knowledge/archive/auto-generated/artists-stale/Artist - james mason 1744|Artist - james mason 1744]] — shared language: earl
 <!-- vault-crosslinks:end -->

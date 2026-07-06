@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Line Drawing of Green Tara with Tibetan Script c19349c9|Illustration Line Drawing of Green Tara with Tibetan Script]] — shared language: tara, tibetan, script
-- [[knowledge/wiki/images/Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script 255379dc|Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script]] — shared language: tibetan, script, deity
+- [[knowledge/wiki/images/Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script 255379dc|Illustration Wrathful Red Deity Surrounded by Flames with Tibetan Script]] — shared language: tibetan, deity, script
 - [[_archive/auto-generated/artists-noise/Artist - flames with tibetan script below|Artist - flames with tibetan script below]] — shared language: tibetan, script, deity
 - [[_archive/auto-generated/images-stale/miniature painting of a wrathful red deity surrounded by flames with tibetan script below 129a6cf6|miniature painting of a wrathful red deity surrounded by flames with tibetan script below]] — shared language: tibetan, script, deity
 - [[_archive/auto-generated/images-stale/tibetan style painting of a green deity seated on a lotus ab215e20|tibetan style painting of a green deity seated on a lotus]] — shared language: tibetan, deity, seated

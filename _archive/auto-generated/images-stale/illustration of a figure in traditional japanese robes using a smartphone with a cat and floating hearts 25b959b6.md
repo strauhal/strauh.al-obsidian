@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers 88a1d0b3|Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers]] — shared language: smartphone, floating, japanese
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[_archive/auto-generated/images-stale/illustration of a futuristic floating ring structure and spaceships in a traditional japanese landscape f74adb44|illustration of a futuristic floating ring structure and spaceships in a traditional japanese landscape]] — shared language: floating, traditional, japanese
-- [[knowledge/wiki/images/Photograph Man Wearing Headset And Using Smartphone At Tech Event 8e25039a|Photograph Man Wearing Headset And Using Smartphone At Tech Event]] — shared language: smartphone, using
-- [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
+- [[knowledge/wiki/images/Man Wearing Headset And Using Smartphone At Tech Event 01b27849|Man Wearing Headset And Using Smartphone At Tech Event]] — shared language: smartphone, using
+- [[_archive/auto-generated/images-stale/Photograph Man Wearing Headset And Using Smartphone At Tech Event 8e25039a|Photograph Man Wearing Headset And Using Smartphone At Tech Event]] — shared language: smartphone, using
 <!-- vault-crosslinks:end -->

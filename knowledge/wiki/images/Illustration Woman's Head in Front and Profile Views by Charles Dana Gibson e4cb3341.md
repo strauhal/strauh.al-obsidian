@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/at a comedy by charles dana gibson 1903 9b1d5e87|at a comedy by charles dana gibson 1903]] — same artist: charles dana gibson
 - [[knowledge/wiki/images/the eternal question by charles dana gibson c 1905 581f789e|the eternal question by charles dana gibson c 1905]] — same artist: charles dana gibson
 - [[knowledge/wiki/images/Illustration Black and White Print of Woman's Head in Profile 76352d99|Illustration Black and White Print of Woman's Head in Profile]] — shared language: woman's, profile, head
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: woman's
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: gibson
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, framed, life
 - [[_archive/auto-generated/images-stale/framed still life with mandolin hat and paper e14c4d44|framed still life with mandolin hat and paper]] — shared language: still, framed, life
 - [[_archive/auto-generated/images-stale/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: still, framed, life
-- [[_archive/auto-generated/images-stale/still life drawing of three objects by giorgio morandi 9e877ec3|still life drawing of three objects by giorgio morandi]] — shared language: objects, still, life
+- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: still, framed, life
 <!-- vault-crosslinks:end -->

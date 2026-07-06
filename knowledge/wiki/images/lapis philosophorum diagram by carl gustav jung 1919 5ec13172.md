@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/lapis_philosopho
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: jung, carl
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: jung, gustav, carl
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung, carl, gustav
-- [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — shared language: jung, gustav, carl
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: jung, carl
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Lar
 - [[knowledge/wiki/images/Photograph Large Vaulted Brick and Concrete Interior Converted into Office Space d3b50450|Photograph Large Vaulted Brick and Concrete Interior Converted into Office Space]] — shared language: vaulted, brick, office
 - [[knowledge/wiki/images/Photograph Vaulted Brick Interior Repurposed as Office Space d39c662d|Photograph Vaulted Brick Interior Repurposed as Office Space]] — shared language: vaulted, brick, office
 - [[knowledge/wiki/images/Photograph Vaulted Brick Room Converted Into Modern Office Space fbcfa894|Photograph Vaulted Brick Room Converted Into Modern Office Space]] — shared language: vaulted, brick, office
-- [[knowledge/wiki/images/Photograph Open Plan Office In Vaulted Brick Archway With Desks And Person 1cb6743e|Photograph Open Plan Office In Vaulted Brick Archway With Desks And Person]] — shared language: vaulted, brick, office
+- [[knowledge/wiki/images/Open Plan Office In Vaulted Brick Archway With Desks And Person 1d7daf10|Open Plan Office In Vaulted Brick Archway With Desks And Person]] — shared language: vaulted, brick, office
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 <!-- vault-crosslinks:end -->

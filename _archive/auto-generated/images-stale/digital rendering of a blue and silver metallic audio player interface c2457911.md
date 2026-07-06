@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Screenshot Blue and Silver Metallic Winamp Audio Player Interface 8fe22321|Screenshot Blue and Silver Metallic Winamp Audio Player Interface]] — shared language: metallic, silver, audio
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: audio
 - [[_archive/auto-generated/images-stale/screenshot of a digital audio synthesizer interface labeled serum 98 091169b5|screenshot of a digital audio synthesizer interface labeled serum 98]] — shared language: audio, interface, digital
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: interface, digital
+- [[_archive/auto-generated/images-stale/screenshot of a digital audio workstation daw interface c4cdd500|screenshot of a digital audio workstation daw interface]] — shared language: audio, interface, digital
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: halo
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes 3d0ba505|Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes]] — shared language: silhouette, eyes
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Person with Halo Covering Face 652b26b1|Illustration Black and White Ink Drawing of Person with Halo Covering Face]] — shared language: halo
-- [[knowledge/wiki/images/Illustration Silhouette Pulling Light Cord Under Glitchy Cone With Red Eyes 7d5fd99a|Illustration Silhouette Pulling Light Cord Under Glitchy Cone With Red Eyes]] — shared language: silhouette, eyes
+- [[knowledge/wiki/images/Illustration Religious Painting of Woman with Halo, Angels, and Gold Background 26604247|Illustration Religious Painting of Woman with Halo, Angels, and Gold Background]] — shared language: halo
 <!-- vault-crosslinks:end -->

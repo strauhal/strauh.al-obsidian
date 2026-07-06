@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Multi Story Glass And Metal House With Classic Car f8868613|Photograph Multi Story Glass And Metal House With Classic Car]] — shared language: classic, story, metal
+- [[knowledge/wiki/images/Multi Story Glass And Metal House With Classic Car 4afe5b6e|Multi Story Glass And Metal House With Classic Car]] — shared language: classic, story, metal
+- [[_archive/auto-generated/images-stale/Photograph Multi Story Glass And Metal House With Classic Car f8868613|Photograph Multi Story Glass And Metal House With Classic Car]] — shared language: classic, story, metal
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: story
-- [[knowledge/wiki/images/Photograph Orange Lamborghini Parked In Front Of Dilapidated House c8b56f8c|Photograph Orange Lamborghini Parked In Front Of Dilapidated House]] — shared language: parked, house
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — shared language: story
-- [[knowledge/wiki/images/Photograph Interior View Of A Multi Story Atrium With Balconies 352c1011|Photograph Interior View Of A Multi Story Atrium With Balconies]] — shared language: story, multi
+- [[knowledge/wiki/books/e-h-gombrich-the-story-of-art-phaidon|The Story of Art-Phaidon]] — shared language: story
 <!-- vault-crosslinks:end -->

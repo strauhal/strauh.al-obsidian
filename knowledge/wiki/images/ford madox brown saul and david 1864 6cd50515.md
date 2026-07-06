@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/ford_madox_brown
 - [[knowledge/wiki/images/the artist by saul steinberg 1948 6c138962|the artist by saul steinberg 1948]] — shared language: saul
 - [[knowledge/wiki/artists/Artist - saul steinberg|Artist - saul steinberg]] — shared language: saul
 - [[knowledge/wiki/artists/Artist - henry justice ford|Artist - henry justice ford]] — shared language: ford
-- [[knowledge/wiki/anchors/francis-ford-coppola|Francis Ford Coppola]] — shared language: ford
+- [[knowledge/wiki/images/the new world by peter saul 1991 6bebcfca|the new world by peter saul 1991]] — shared language: saul
 <!-- vault-crosslinks:end -->

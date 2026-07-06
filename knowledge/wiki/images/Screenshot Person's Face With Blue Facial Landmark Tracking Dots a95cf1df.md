@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Man with Face and Hand Tracking Overlays 8a608621|Man with Face and Hand Tracking Overlays]] — shared language: tracking, face
 - [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's, face
-- [[knowledge/wiki/images/Diagram Man with Face and Hand Tracking Overlays edac8233|Diagram Man with Face and Hand Tracking Overlays]] — shared language: tracking, face
 - [[knowledge/wiki/images/Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face 9e1427d8|Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face]] — shared language: person's, face
 - [[knowledge/wiki/images/Illustration Stylized Sketch of Person's Face With Hand Covering Eye f18dce98|Illustration Stylized Sketch of Person's Face With Hand Covering Eye]] — shared language: person's, face
 - [[knowledge/wiki/images/Screenshot Screenshot of a Digital Line Drawing of a Female Face 9f41c2e2|Screenshot Screenshot of a Digital Line Drawing of a Female Face]] — shared language: screenshot, face

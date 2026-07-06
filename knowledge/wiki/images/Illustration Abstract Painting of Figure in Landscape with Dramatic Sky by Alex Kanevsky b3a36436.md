@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
-- [[knowledge/wiki/images/Photograph Dramatic Red Sky Over Dark Garden at Dusk b5024496|Photograph Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dramatic, sky
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: alex
+- [[knowledge/wiki/images/Dramatic Red Sky Over Dark Garden at Dusk 620412ac|Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dramatic, sky
 - [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: alex
 - [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: alex
 <!-- vault-crosslinks:end -->

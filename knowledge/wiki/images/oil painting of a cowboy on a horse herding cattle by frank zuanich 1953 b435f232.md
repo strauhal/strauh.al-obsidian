@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/oil_painting_of_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding, cattle
+- [[knowledge/wiki/images/Rider On Horseback Herding Cattle In Deep Snow 86458c0c|Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding, cattle
 - [[knowledge/wiki/images/Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape f4ad718e|Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape]] — shared language: herding, cowboy
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
-- [[knowledge/wiki/images/herding buffalo by li keran 1947 ae46a70c|herding buffalo by li keran 1947]] — shared language: herding
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_battle_of_th
 - [[knowledge/wiki/images/the moon of the enemy s retreat teki no nigete yuku tsuki by tsukioka yoshitoshi 1886 8ab589e6|the moon of the enemy s retreat teki no nigete yuku tsuki by tsukioka yoshitoshi 1886]] — same artist: tsukioka yoshitoshi
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[knowledge/wiki/images/Illustration Drawing of Figures in a Celestial Battle or Allegory 0f824e6b|Illustration Drawing of Figures in a Celestial Battle or Allegory]] — shared language: battle
-- [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: battle
 <!-- vault-crosslinks:end -->

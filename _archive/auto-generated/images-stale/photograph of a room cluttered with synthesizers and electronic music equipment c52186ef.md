@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Room Cluttered With Synthesizers And Electronic Music Equipment cb243c5d|Photograph Room Cluttered With Synthesizers And Electronic Music Equipment]] — named in this note
-- [[knowledge/wiki/images/Photograph Man Using Music Production Equipment In A Room 1e15071c|Photograph Man Using Music Production Equipment In A Room]] — shared language: equipment, music, room
+- [[_archive/auto-generated/images-stale/Photograph Room Cluttered With Synthesizers And Electronic Music Equipment cb243c5d|Photograph Room Cluttered With Synthesizers And Electronic Music Equipment]] — named in this note
+- [[knowledge/wiki/images/Room Cluttered With Synthesizers And Electronic Music Equipment 77bf9207|Room Cluttered With Synthesizers And Electronic Music Equipment]] — named in this note
+- [[knowledge/wiki/images/Man Using Music Production Equipment In A Room 867cdc04|Man Using Music Production Equipment In A Room]] — shared language: equipment, music, room
+- [[_archive/auto-generated/images-stale/Photograph Man Using Music Production Equipment In A Room 1e15071c|Photograph Man Using Music Production Equipment In A Room]] — shared language: equipment, music, room
 - [[_archive/auto-generated/images-stale/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: cluttered, room
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music
 <!-- vault-crosslinks:end -->

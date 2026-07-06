@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: branching
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/wiki/images/Illustration Abstract Sketch of a Person Playing a Grand Piano 15326c2f|Illustration Abstract Sketch of a Person Playing a Grand Piano]] — shared language: piano, person, piano.jpeg
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano
 <!-- vault-crosslinks:end -->

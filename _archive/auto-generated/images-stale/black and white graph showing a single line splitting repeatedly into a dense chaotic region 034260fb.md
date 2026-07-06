@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, showing
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph, single
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
 - [[knowledge/wiki/images/Illustration Red Abstract Looping Line Drawing On Graph Paper ab7a839e|Illustration Red Abstract Looping Line Drawing On Graph Paper]] — shared language: graph, line
 - [[_archive/auto-generated/images-stale/red abstract looping line drawing on graph paper 83281a52|red abstract looping line drawing on graph paper]] — shared language: graph, line
+- [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, line
 <!-- vault-crosslinks:end -->

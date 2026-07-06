@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Douglas Rushkoff|Artist - Douglas Rushkoff]] — shared language: douglas
 - [[knowledge/wiki/artists/Artist - hugh douglas hamilton|Artist - hugh douglas hamilton]] — shared language: douglas
 - [[knowledge/wiki/images/douglas gordon scribbled portrait of woman in hat mid1990s f3dcbe23|douglas gordon scribbled portrait of woman in hat mid1990s]] — shared language: douglas
-- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/images/The Alchemist by William Fettes Douglas (1855) 38c02775|The Alchemist by William Fettes Douglas (1855)]] — shared language: douglas
 <!-- vault-crosslinks:end -->

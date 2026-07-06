@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/hunter_s_thompso
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Bob Thompson|Artist - Bob Thompson]] — shared language: thompson
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: typewriter
 - [[knowledge/wiki/artists/Artist - Hunter Biden|Artist - Hunter Biden]] — shared language: hunter
 - [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: thompson
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson 766f6715|Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson]] — shared language: thompson
+- [[knowledge/wiki/images/Chimpanzee Seated At Typewriter On Wooden Table 86535bd0|Chimpanzee Seated At Typewriter On Wooden Table]] — shared language: typewriter
 <!-- vault-crosslinks:end -->

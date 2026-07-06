@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comic Cartoon Dreamcast Console With Speech Bubbles On Table 628c8d6f|Comic Cartoon Dreamcast Console With Speech Bubbles On Table]] — shared language: dreamcast, bubbles, speech
-- [[knowledge/wiki/images/Comic Two Characters In A Vehicle With Speech Bubbles 5c9c591b|Comic Two Characters In A Vehicle With Speech Bubbles]] — shared language: bubbles, speech, bubbles.jpg
 - [[knowledge/wiki/images/Illustration Cartoon Child With Ball Among Silhouettes And Speech Bubbles 59352a7c|Illustration Cartoon Child With Ball Among Silhouettes And Speech Bubbles]] — shared language: bubbles, speech, cartoon
+- [[knowledge/wiki/images/Comic Two Characters In A Vehicle With Speech Bubbles 5c9c591b|Comic Two Characters In A Vehicle With Speech Bubbles]] — shared language: bubbles, speech, bubbles.jpg
 - [[_archive/auto-generated/images-stale/crazy taxi 2 dreamcast box art 2001 aaa36312|crazy taxi 2 dreamcast box art 2001]] — shared language: dreamcast
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
 <!-- vault-crosslinks:end -->

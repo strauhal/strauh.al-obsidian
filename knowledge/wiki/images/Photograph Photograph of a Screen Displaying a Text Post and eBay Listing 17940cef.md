@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Screenshot Screenshot of Reddit Post Displaying Abstract Generative Art f4a134e0|Screenshot Screenshot of Reddit Post Displaying Abstract Generative Art]] — shared language: post, displaying
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: displaying, screen
-- [[knowledge/wiki/images/Photograph Close up of a digital screen displaying abstract green and dark shapes 115b6199|Photograph Close up of a digital screen displaying abstract green and dark shapes]] — shared language: displaying, screen
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: displaying, screen
+- [[knowledge/wiki/images/Close up of a digital screen displaying abstract green and dark shapes 63df1a82|Close up of a digital screen displaying abstract green and dark shapes]] — shared language: displaying, screen
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
 <!-- vault-crosslinks:end -->

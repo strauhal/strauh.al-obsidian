@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, mountains
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
+- [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: train, skyline
 <!-- vault-crosslinks:end -->

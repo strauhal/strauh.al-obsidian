@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Figurine of Super Sonico and a Fish Fossil Displayed Together 7ef54614|Photograph Figurine of Super Sonico and a Fish Fossil Displayed Together]] — shared language: sonico, fossil, figurine
+- [[knowledge/wiki/images/Figurine of Super Sonico and a Fish Fossil Displayed Together 41d4369f|Figurine of Super Sonico and a Fish Fossil Displayed Together]] — shared language: sonico, fossil, figurine
+- [[_archive/auto-generated/images-stale/Photograph Figurine of Super Sonico and a Fish Fossil Displayed Together 7ef54614|Photograph Figurine of Super Sonico and a Fish Fossil Displayed Together]] — shared language: sonico, fossil, figurine
 - [[knowledge/wiki/artists/Artist - janet fish|Artist - janet fish]] — shared language: fish
 - [[knowledge/archive/auto-generated/artists-stale/Artist - janet fish 1984|Artist - janet fish 1984]] — shared language: fish
-- [[knowledge/wiki/images/Image Diptych Comparing Ancient Figurine to Modern Anime Figure b2529a50|Image Diptych Comparing Ancient Figurine to Modern Anime Figure]] — shared language: figurine
-- [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
+- [[knowledge/wiki/images/Close Up of Ornate Dragon Figurine with Glowing Red Eyes d1b9beac|Close Up of Ornate Dragon Figurine with Glowing Red Eyes]] — shared language: figurine
 <!-- vault-crosslinks:end -->

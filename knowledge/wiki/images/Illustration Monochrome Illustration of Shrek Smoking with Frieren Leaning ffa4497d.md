@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: monochrome
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
 - [[knowledge/wiki/images/Monochrome by Xi Huang 70336c6e|Monochrome by Xi Huang]] — shared language: monochrome
 - [[knowledge/wiki/images/Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair 8289f537|Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair]] — shared language: monochrome
 - [[knowledge/wiki/images/Image Anime Character Frieren Holding Anti Oedipus Book c37c56a9|Image Anime Character Frieren Holding Anti Oedipus Book]] — shared language: frieren

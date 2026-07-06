@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: still, life
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: life
+- [[knowledge/wiki/images/Illustration Framed Black and White Line Drawing of Flowers and Leaves 230cefc4|Illustration Framed Black and White Line Drawing of Flowers and Leaves]] — shared language: framed, line
 <!-- vault-crosslinks:end -->

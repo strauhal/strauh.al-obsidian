@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Oil Painting of Fishing Boats Docked in a Busy Harbor d07466c8|Illustration Oil Painting of Fishing Boats Docked in a Busy Harbor]] — shared language: docked, boats, fishing
 - [[_archive/auto-generated/images-stale/oil painting of fishing boats docked in a busy harbor 2b9bb4a9|oil painting of fishing boats docked in a busy harbor]] — shared language: docked, boats, fishing
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Fishing Boat Drawing and Real Boats 1e878427|Photograph Hand Holding Sketchbook with Fishing Boat Drawing and Real Boats]] — shared language: fishing, boats
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: boats
 <!-- vault-crosslinks:end -->

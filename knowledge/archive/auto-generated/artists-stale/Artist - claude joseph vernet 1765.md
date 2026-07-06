@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - horace vernet 1843|Artist - horace vernet 1843]] — shared language: vernet
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alix vernet|Artist - alix vernet]] — shared language: vernet
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alix vernet 2019|Artist - alix vernet 2019]] — shared language: vernet
-- [[knowledge/wiki/images/horace vernet prise de la tour de malakoff 1858 e4251de6|horace vernet prise de la tour de malakoff 1858]] — shared language: vernet
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 <!-- vault-crosslinks:end -->

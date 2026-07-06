@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wil
 - [[knowledge/wiki/images/Photograph Willem Dafoe Posing Beside Norman Osborn Portrait 45da891e|Photograph Willem Dafoe Posing Beside Norman Osborn Portrait]] — shared language: dafoe, willem, posing
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of Willem Dafoe Looking Up at a Cat 4fccdaef|Illustration Charcoal Drawing of Willem Dafoe Looking Up at a Cat]] — shared language: dafoe, willem
 - [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: willem
-- [[knowledge/wiki/artists/Artist - willem van haecht|Artist - willem van haecht]] — shared language: willem, gallery
 - [[knowledge/wiki/artists/Artist - willem de kooning 194346|Artist - willem de kooning 194346]] — shared language: willem
+- [[knowledge/wiki/artists/Artist - willem van haecht|Artist - willem van haecht]] — shared language: willem, gallery
 <!-- vault-crosslinks:end -->

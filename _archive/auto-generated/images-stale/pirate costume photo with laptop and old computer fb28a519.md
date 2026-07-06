@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: pirate, costume, computer
+- [[knowledge/wiki/images/Man in Pirate Costume Holding Floppy Disk Next to Computer 495c275d|Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: pirate, costume, computer
+- [[_archive/auto-generated/images-stale/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: pirate, costume, computer
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
+- [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 <!-- vault-crosslinks:end -->

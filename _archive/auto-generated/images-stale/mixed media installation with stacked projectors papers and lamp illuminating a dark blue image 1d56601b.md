@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
-- [[knowledge/wiki/images/Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares 9199a264|Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares]] — shared language: mixed, media
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
 <!-- vault-crosslinks:end -->

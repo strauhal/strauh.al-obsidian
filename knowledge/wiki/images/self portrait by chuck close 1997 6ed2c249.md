@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by
 
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: chuck
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
+- [[knowledge/wiki/images/macintosh family by chuck walker 1986 b7fc587d|macintosh family by chuck walker 1986]] — shared language: chuck
 <!-- vault-crosslinks:end -->

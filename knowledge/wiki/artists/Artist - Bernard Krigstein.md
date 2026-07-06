@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: bernard
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: bernard
 - [[knowledge/wiki/images/Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers 510a82e6|Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers]] — shared language: onlookers
-- [[knowledge/wiki/images/Photograph Burning Self Driving Cars on City Street with Onlookers 20c8f5ab|Photograph Burning Self Driving Cars on City Street with Onlookers]] — shared language: onlookers
+- [[knowledge/wiki/images/Burning Self Driving Cars on City Street with Onlookers ceccd11b|Burning Self Driving Cars on City Street with Onlookers]] — shared language: onlookers
 <!-- vault-crosslinks:end -->

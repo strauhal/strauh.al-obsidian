@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Illustration Of Woman With Short Orange Hair And Yellow Shirt 5b8a2842|Illustration Illustration Of Woman With Short Orange Hair And Yellow Shirt]] — shared language: shirt, orange, yellow
+- [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, yellow
 - [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: warm
-- [[knowledge/wiki/images/Warm Up by Mel Blue bcb3bde4|Warm Up by Mel Blue]] — shared language: warm
 - [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: orange, yellow
-- [[knowledge/wiki/images/Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue fc7f5f2f|Diagram Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, yellow
+- [[knowledge/wiki/images/Warm Up by Mel Blue bcb3bde4|Warm Up by Mel Blue]] — shared language: warm
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Two Figures Sleeping Amidst Colorful Abstract Shapes c038ff66|Illustration Two Figures Sleeping Amidst Colorful Abstract Shapes]] — shared language: sleeping
 - [[knowledge/wiki/images/Illustration Abstract Floral Outlines on Blue Background 73a87d23|Illustration Abstract Floral Outlines on Blue Background]] — shared language: floral
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: sleeping
-- [[knowledge/wiki/images/Photograph Indoor Scene with Blanket, Books, Gun, and Mannequin c49a12ae|Photograph Indoor Scene with Blanket, Books, Gun, and Mannequin]] — shared language: blanket
+- [[knowledge/wiki/images/Indoor Scene with Blanket, Books, Gun, and Mannequin 01a448fc|Indoor Scene with Blanket, Books, Gun, and Mannequin]] — shared language: blanket
 <!-- vault-crosslinks:end -->

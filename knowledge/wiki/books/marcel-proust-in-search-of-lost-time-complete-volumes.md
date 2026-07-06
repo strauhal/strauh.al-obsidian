@@ -8,8 +8,8 @@ status: available-local
 metadata: curated
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/In Search of Lost Time (Complete Volumes).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # In Search of Lost Time (Complete Volumes)

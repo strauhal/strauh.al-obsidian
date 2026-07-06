@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps b02d5396|Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps]] — shared language: steps, steps.jpeg
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson 3298111d|Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson]] — shared language: steps, flowers
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 - [[knowledge/wiki/images/Illustration Massive Battle Scene with Walled City and Many Figures by Martin Handford 9b858a50|Illustration Massive Battle Scene with Walled City and Many Figures by Martin Handford]] — shared language: walled, city
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 - [[knowledge/wiki/images/jacqueslouis david apollo and diana attacking the niobids 1772 ec1fb58e|jacqueslouis david apollo and diana attacking the niobids 1772]] — shared language: attacking
-- [[knowledge/wiki/images/Illustration Giant Bloody Caterpillar Attacking People In A Field ed3a3635|Illustration Giant Bloody Caterpillar Attacking People In A Field]] — shared language: attacking
+- [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — shared language: viking
 <!-- vault-crosslinks:end -->

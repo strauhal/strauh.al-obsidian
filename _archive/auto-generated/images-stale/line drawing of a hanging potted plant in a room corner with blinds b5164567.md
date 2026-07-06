@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds da981ed0|Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds]] — shared language: potted, blinds, corner
+- [[knowledge/wiki/images/Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds da981ed0|Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds]] — shared language: potted, corner, blinds
 - [[knowledge/wiki/images/Illustration Pixel Art Potted Plant With Red Flowers f156ff4e|Illustration Pixel Art Potted Plant With Red Flowers]] — shared language: potted, plant
 - [[knowledge/wiki/images/Illustration Painting Window View of Figures, Dogs, and Potted Plant a79e22d2|Illustration Painting Window View of Figures, Dogs, and Potted Plant]] — shared language: potted, plant
 - [[knowledge/wiki/images/Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element a714b01a|Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element]] — shared language: potted, plant

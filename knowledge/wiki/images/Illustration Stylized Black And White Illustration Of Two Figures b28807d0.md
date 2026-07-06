@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: stylized, figures.png
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Stylized Black And White Drawing Of Figures In Two Scenes 3006c273|Illustration Stylized Black And White Drawing Of Figures In Two Scenes]] — shared language: stylized
-- [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: stylized
+- [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: stylized
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky, sky.jpeg
-- [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: cloudy, sky
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: cloudy, sky, green
 - [[knowledge/wiki/images/Illustration Impasto Painting of Dense Green and Yellow Foliage 95839914|Illustration Impasto Painting of Dense Green and Yellow Foliage]] — shared language: impasto, green
-- [[knowledge/wiki/images/Photograph White Cat Sitting Among Flowers Under Cloudy Sky bc1cbc76|Photograph White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky
-- [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: cloudy, sky, sky.jpeg
+- [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: cloudy, sky
+- [[knowledge/wiki/images/White Cat Sitting Among Flowers Under Cloudy Sky 5b045cc4|White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/kopf_eines_manne
 - [[knowledge/wiki/images/kopf eines jungen mannes head of a young man by arno breker 1934 06c6fbff|kopf eines jungen mannes head of a young man by arno breker 1934]] — shared language: kopf, eines, mannes
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
 - [[knowledge/wiki/artists/Artist - arno breker|Artist - arno breker]] — shared language: kopf, eines, mannes
-- [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
+- [[knowledge/wiki/artists/Artist - Ben Schmidt|Artist - Ben Schmidt]] — shared language: schmidt
 <!-- vault-crosslinks:end -->

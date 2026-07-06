@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Group of People, Some in Vests, Walking on Dirt Path 3cf0b552|Photograph Group of People, Some in Vests, Walking on Dirt Path]] — shared language: vests, dirt, walking
+- [[knowledge/wiki/images/Photograph Group of People, Some in Vests, Walking on Dirt Path 3cf0b552|Photograph Group of People, Some in Vests, Walking on Dirt Path]] — shared language: vests, dirt, group
 - [[knowledge/wiki/artists/Artist - Musical Era|Artist - Musical Era]] — shared language: era
-- [[knowledge/wiki/images/Photograph Dense Urban Landscape with Many Apartment Buildings, Winter ae2015e8|Photograph Dense Urban Landscape with Many Apartment Buildings, Winter]] — shared language: apartment, buildings
-- [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: apartment, buildings
+- [[knowledge/wiki/images/Dense Urban Landscape with Many Apartment Buildings, Winter f6580ab4|Dense Urban Landscape with Many Apartment Buildings, Winter]] — shared language: apartment, buildings
+- [[_archive/auto-generated/images-stale/Photograph Dense Urban Landscape with Many Apartment Buildings, Winter ae2015e8|Photograph Dense Urban Landscape with Many Apartment Buildings, Winter]] — shared language: apartment, buildings
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: group
 <!-- vault-crosslinks:end -->

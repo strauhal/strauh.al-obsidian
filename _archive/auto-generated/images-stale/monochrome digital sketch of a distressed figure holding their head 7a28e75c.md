@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: monochrome
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
 <!-- vault-crosslinks:end -->

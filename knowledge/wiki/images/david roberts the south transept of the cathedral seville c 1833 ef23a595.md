@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/david_roberts_th
 
 - [[knowledge/wiki/images/Photograph Cologne Cathedral 7aed0b7d|Photograph Cologne Cathedral]] — shared language: cathedral
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
+- [[knowledge/wiki/artists/Artist - Michael James Roberts|Artist - Michael James Roberts]] — shared language: roberts
 - [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: roberts
-- [[knowledge/wiki/books/ernest-henry-shackleton-south-the-story-of-shackleton-s-last-expedition-1914-1917-duke-classics|South the story of Shackleton's last expedition, 1914-1917-Duke Classics]] — shared language: south
 - [[knowledge/wiki/images/alexey bogolyubov a street in seville spain 1860 1deb7b6a|alexey bogolyubov a street in seville spain 1860]] — shared language: seville
 <!-- vault-crosslinks:end -->

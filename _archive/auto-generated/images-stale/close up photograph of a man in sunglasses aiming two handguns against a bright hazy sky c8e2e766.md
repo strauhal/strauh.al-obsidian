@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Sunglasses Aiming Two Handguns Against Hazy Sky 562d60fc|Photograph Man in Sunglasses Aiming Two Handguns Against Hazy Sky]] — shared language: handguns, hazy, aiming
-- [[knowledge/wiki/images/Photograph Bright Explosion With Debris Against Blue Sky 5e1f53d1|Photograph Bright Explosion With Debris Against Blue Sky]] — shared language: bright, against, sky
-- [[knowledge/wiki/images/Photograph Donald Trump Backlit Against Bright Blue Sky 9f9c7c55|Photograph Donald Trump Backlit Against Bright Blue Sky]] — shared language: bright, against, sky
+- [[knowledge/wiki/images/Man in Sunglasses Aiming Two Handguns Against Hazy Sky ed8cd663|Man in Sunglasses Aiming Two Handguns Against Hazy Sky]] — shared language: handguns, hazy, aiming
+- [[_archive/auto-generated/images-stale/Photograph Man in Sunglasses Aiming Two Handguns Against Hazy Sky 562d60fc|Photograph Man in Sunglasses Aiming Two Handguns Against Hazy Sky]] — shared language: handguns, hazy, aiming
+- [[knowledge/wiki/images/Bright Explosion With Debris Against Blue Sky 11e9c51b|Bright Explosion With Debris Against Blue Sky]] — shared language: bright, against, sky
+- [[_archive/auto-generated/images-stale/Photograph Bright Explosion With Debris Against Blue Sky 5e1f53d1|Photograph Bright Explosion With Debris Against Blue Sky]] — shared language: bright, against, sky
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: bright
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: bright
 <!-- vault-crosslinks:end -->

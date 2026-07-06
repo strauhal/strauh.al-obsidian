@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: surfer, above, comic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: surfer, comic
 - [[knowledge/wiki/books/eugene-thacker-in-the-dust-of-this-planet|In the Dust of This Planet]] — shared language: planet
 - [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: board, above
-- [[knowledge/wiki/images/Photograph Watermelon Slices With White Candies On Blue Cutting Board 19eb3b92|Photograph Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: board
 - [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: planet
 - [[knowledge/wiki/images/Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares decd2476|Illustration Abstract Woven Painting with Red, Orange, Blue, and Silver Squares]] — shared language: silver
+- [[knowledge/wiki/images/Illustration Art Installation with Painting, Standing Figure on Board, and Slumped Figure 3c02f36d|Illustration Art Installation with Painting, Standing Figure on Board, and Slumped Figure]] — shared language: board
 <!-- vault-crosslinks:end -->

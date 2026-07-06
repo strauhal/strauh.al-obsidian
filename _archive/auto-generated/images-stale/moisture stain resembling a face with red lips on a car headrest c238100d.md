@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Moisture Stain Resembling a Face with Red Lips on Car Headrest 817d0294|Photograph Moisture Stain Resembling a Face with Red Lips on Car Headrest]] — shared language: moisture, stain, headrest
+- [[knowledge/wiki/images/Moisture Stain Resembling a Face with Red Lips on Car Headrest 4d6e050b|Moisture Stain Resembling a Face with Red Lips on Car Headrest]] — shared language: moisture, stain, headrest
+- [[_archive/auto-generated/images-stale/Photograph Moisture Stain Resembling a Face with Red Lips on Car Headrest 817d0294|Photograph Moisture Stain Resembling a Face with Red Lips on Car Headrest]] — shared language: moisture, stain, headrest
 - [[_archive/auto-generated/images-stale/sketch of a woman s face in teal hatching with red lips f1abb210|sketch of a woman s face in teal hatching with red lips]] — shared language: lips, face
 - [[knowledge/wiki/images/Illustration Teal Hatching Illustration of a Woman's Face with Red Lips c2e28bf5|Illustration Teal Hatching Illustration of a Woman's Face with Red Lips]] — shared language: lips, face
 - [[knowledge/wiki/artists/Artist - johann heinrich lips|Artist - johann heinrich lips]] — shared language: lips
-- [[knowledge/archive/auto-generated/artists-stale/Artist - johann heinrich lips 1793|Artist - johann heinrich lips 1793]] — shared language: lips
 <!-- vault-crosslinks:end -->

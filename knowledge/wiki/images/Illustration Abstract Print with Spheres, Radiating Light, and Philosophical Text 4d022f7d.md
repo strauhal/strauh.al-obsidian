@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light, text
 - [[knowledge/wiki/images/Illustration Halftone Print of Two Figures Kissing with Text e0d30119|Illustration Halftone Print of Two Figures Kissing with Text]] — shared language: print, text, text.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: radiating
+- [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: spheres
 <!-- vault-crosslinks:end -->

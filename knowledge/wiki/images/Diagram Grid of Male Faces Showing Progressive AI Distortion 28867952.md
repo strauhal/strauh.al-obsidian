@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Grid o
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, grid, showing
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, diagram
 - [[knowledge/wiki/images/Illustration Black And White Photomontage Of Overlapping Male Faces In Profile 06a0216e|Illustration Black And White Photomontage Of Overlapping Male Faces In Profile]] — shared language: faces, male
 - [[knowledge/wiki/images/Illustration Grid of Stylized Smiling and Laughing Faces with Text 71cb65ce|Illustration Grid of Stylized Smiling and Laughing Faces with Text]] — shared language: faces, grid
-- [[knowledge/wiki/images/Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain 1987a45b|Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain]] — shared language: progressive, showing
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
+- [[knowledge/wiki/images/Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain 1987a45b|Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain]] — shared language: progressive, showing
 <!-- vault-crosslinks:end -->

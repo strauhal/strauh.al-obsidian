@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/Shibai Ukie by O
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Nightcap by Shigeo Okumura (1970) 7de20bce|Nightcap by Shigeo Okumura (1970)]] — shared language: okumura
-- [[knowledge/wiki/images/Sheeple by David Dees (2017) 2cb79f6f|Sheeple by David Dees (2017)]] — nearby note in the same source series
-- [[knowledge/wiki/images/ShirahamaEngetsuIsland KawaseHasui JapaneseWoodblockUkiyo eArtPaintingPrint 8729b7ab e41f 4441 ad30 5db93e3026ee cb13d99d|ShirahamaEngetsuIsland KawaseHasui JapaneseWoodblockUkiyo eArtPaintingPrint 8729b7ab e41f 4441 ad30 5db93e3026ee]] — nearby note in the same source series
+- [[knowledge/wiki/images/Shell Esso Brent C Oil Platform in Rough Seas 0719750a|Shell Esso Brent C Oil Platform in Rough Seas]] — nearby note in the same source series
+- [[knowledge/wiki/images/Shinto Blessing Ceremony for a Fighter Jet in a Hangar f9ac516b|Shinto Blessing Ceremony for a Fighter Jet in a Hangar]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

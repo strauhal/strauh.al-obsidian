@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers f234afe1|Illustration Abstract Still Life With Two Vases And Flowers]] — shared language: vases, flowers, flowers.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers (2) 0b134958|Illustration Abstract Still Life With Two Vases And Flowers (2)]] — shared language: vases, flowers
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, colorful
-- [[knowledge/wiki/images/Photograph Colorful Water Droplets On A Textured Surface cb7b1503|Photograph Colorful Water Droplets On A Textured Surface]] — shared language: textured, colorful
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 <!-- vault-crosslinks:end -->

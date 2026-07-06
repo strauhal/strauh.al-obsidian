@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Loc
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Live Performance With Red Stage Lighting And Audience 7f31268a|Photograph Live Performance With Red Stage Lighting And Audience]] — nearby note in the same source series
-- [[knowledge/wiki/images/Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling ae08c57c|Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling]] — nearby note in the same source series
 - [[knowledge/wiki/images/Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver 2793474c|Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling ae08c57c|Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling]] — nearby note in the same source series
+- [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

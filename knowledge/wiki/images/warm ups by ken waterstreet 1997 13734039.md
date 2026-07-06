@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/warm_ups_by_ken_
 - [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken
 - [[knowledge/wiki/images/the dragon by ken feingold 1987 999a5de0|the dragon by ken feingold 1987]] — shared language: ken
 - [[knowledge/wiki/images/inside macpaint by ken jenkins 1985 34dd5bb8|inside macpaint by ken jenkins 1985]] — shared language: ken
-- [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: warm
+- [[knowledge/wiki/images/UPS Truck Under Apocalyptic Red Sky From Wildfires d023d3cd|UPS Truck Under Apocalyptic Red Sky From Wildfires]] — shared language: ups
 <!-- vault-crosslinks:end -->

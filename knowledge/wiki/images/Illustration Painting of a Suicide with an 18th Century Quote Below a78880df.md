@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
 - [[knowledge/wiki/maps/suicide note|suicide note]] — shared language: suicide
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: below
 - [[knowledge/wiki/pages/random quote|random quote]] — shared language: quote
 - [[knowledge/wiki/pages/random quote blobby|random quote blobby]] — shared language: quote
+- [[knowledge/wiki/images/lon comerre the wink late 19th century 14163808|lon comerre the wink late 19th century]] — shared language: century
 <!-- vault-crosslinks:end -->

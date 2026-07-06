@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
 - [[knowledge/wiki/images/Illustration Stylized Figures In Room With Arched Window c94eecb8|Illustration Stylized Figures In Room With Arched Window]] — shared language: window, stylized
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
-- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: window
+- [[knowledge/wiki/images/Malcolm X Peering Out Window With Rifle 55a4b664|Malcolm X Peering Out Window With Rifle]] — shared language: window
+- [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: window
 - [[knowledge/wiki/images/Illustration Sketch of a Cafe Interior with Two Figures by a Window c4166d56|Illustration Sketch of a Cafe Interior with Two Figures by a Window]] — shared language: window
-- [[knowledge/wiki/images/Woman at a Window by Caspar David Friedrich (1822) 003cf6f5|Woman at a Window by Caspar David Friedrich (1822)]] — shared language: window
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
-- [[knowledge/wiki/images/Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot 336e5420|Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot]] — shared language: parking, building
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
-- [[knowledge/wiki/images/Photograph Modern Brutalist Building on a City Street 8143aa56|Photograph Modern Brutalist Building on a City Street]] — shared language: modern, building
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch
+- [[knowledge/wiki/images/CVS Pharmacy Building with Ornate Architecture and Parking Lot c22dbd1c|CVS Pharmacy Building with Ornate Architecture and Parking Lot]] — shared language: parking, building
 <!-- vault-crosslinks:end -->

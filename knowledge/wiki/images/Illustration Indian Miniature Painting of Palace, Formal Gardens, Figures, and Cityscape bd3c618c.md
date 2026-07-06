@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: formal, indian, gardens
-- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, palace, miniature
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
+- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, miniature, palace
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting Festival Scene with Figures in Balconies bacc3b25|Illustration Indian Miniature Painting Festival Scene with Figures in Balconies]] — shared language: indian, miniature
-- [[knowledge/wiki/images/Photograph Young Sergei Rachmaninoff in a Formal Portrait 4f13cb68|Photograph Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: formal
+- [[knowledge/wiki/images/Young Sergei Rachmaninoff in a Formal Portrait 2a0291ec|Young Sergei Rachmaninoff in a Formal Portrait]] — shared language: formal
+- [[knowledge/wiki/books/classics-of-indian-spirituality-eknath-easwaran-nagler-michael-n-the-upanishads-nilgiri-press|The Upanishads-Nilgiri Press]] — shared language: indian
 <!-- vault-crosslinks:end -->

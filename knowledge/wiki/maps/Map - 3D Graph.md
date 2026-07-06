@@ -64,7 +64,7 @@ python3 tools/wiki_refresh.py     # full vault refresh (includes it)
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, built
 - [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, graph, vault
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, graph, vault
-- [[knowledge/wiki/images/Diagram Digital Mind Map Graph View with Interconnected Nodes 834b78a8|Diagram Digital Mind Map Graph View with Interconnected Nodes]] — shared language: graph, mind, view
-- [[knowledge/wiki/images/And Stay Down by Charles Keegan (1998) bfad2c1b|And Stay Down by Charles Keegan (1998)]] — shared language: down, stay
+- [[knowledge/wiki/images/Digital Mind Map Graph View with Interconnected Nodes 07a3bf5a|Digital Mind Map Graph View with Interconnected Nodes]] — shared language: graph, mind, view
 - [[knowledge/wiki/images/Fly Day Chinatown by Yasuha (1981) e3e2bb94|Fly Day Chinatown by Yasuha (1981)]] — shared language: fly
+- [[knowledge/wiki/images/And Stay Down by Charles Keegan (1998) bfad2c1b|And Stay Down by Charles Keegan (1998)]] — shared language: down, stay
 <!-- vault-crosslinks:end -->

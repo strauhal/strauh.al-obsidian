@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: selfie, taking, hand
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: selfie, taking
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/images/Photograph Three People Taking a Selfie in Intense Orange Light by Thomas Wu 737ce2fa|Photograph Three People Taking a Selfie in Intense Orange Light by Thomas Wu]] — shared language: selfie, taking
 - [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: hand, holding
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — shared language: selfie, taking
 <!-- vault-crosslinks:end -->

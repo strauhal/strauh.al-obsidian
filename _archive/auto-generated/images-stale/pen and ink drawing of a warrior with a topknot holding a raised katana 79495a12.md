@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, ink
-- [[knowledge/wiki/images/Illustration Pen and Ink Drawing of Woman Holding Mirror and Serpent 6e6e989d|Illustration Pen and Ink Drawing of Woman Holding Mirror and Serpent]] — shared language: pen, holding, ink
-- [[_archive/auto-generated/images-stale/pen and ink drawing of a woman holding a mirror and a serpent fb4f6e41|pen and ink drawing of a woman holding a mirror and a serpent]] — shared language: pen, holding, ink
+- [[knowledge/wiki/images/Illustration Pen and Ink Drawing of Woman Holding Mirror and Serpent 6e6e989d|Illustration Pen and Ink Drawing of Woman Holding Mirror and Serpent]] — shared language: pen, ink, holding
+- [[_archive/auto-generated/images-stale/pen and ink drawing of a woman holding a mirror and a serpent fb4f6e41|pen and ink drawing of a woman holding a mirror and a serpent]] — shared language: pen, ink, holding
 - [[knowledge/wiki/images/Illustration Pen And Ink Sketch Of Three Figures In Conversation 24e6f821|Illustration Pen And Ink Sketch Of Three Figures In Conversation]] — shared language: pen, ink
 - [[_archive/auto-generated/images-stale/pen and ink sketch of three figures in conversation c58d12cc|pen and ink sketch of three figures in conversation]] — shared language: pen, ink
 <!-- vault-crosslinks:end -->

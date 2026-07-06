@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/geometric_print_
 - [[knowledge/wiki/images/Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes 7a1cd769|Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes]] — shared language: forming, horizontal, print
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: horizontal, lines, geometric
 - [[knowledge/wiki/images/Illustration Dense Geometric Grid Pattern of Black Lines Forming Triangles 8f0d250a|Illustration Dense Geometric Grid Pattern of Black Lines Forming Triangles]] — shared language: forming, lines, geometric
-- [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, lines
 - [[knowledge/wiki/images/Illustration Black and Beige Geometric Print of Interlocking Parallelograms a9eb011b|Illustration Black and Beige Geometric Print of Interlocking Parallelograms]] — shared language: print, geometric
+- [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, lines
 <!-- vault-crosslinks:end -->

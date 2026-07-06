@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: using, computer
-- [[knowledge/wiki/images/Photograph David Bowie Using a Computer at a Desk f4959950|Photograph David Bowie Using a Computer at a Desk]] — shared language: using, computer
-- [[knowledge/wiki/images/Photograph Woman Using Conceptual Apple Computer System 4f8f60b4|Photograph Woman Using Conceptual Apple Computer System]] — shared language: using, computer
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: using, computer
+- [[knowledge/wiki/images/David Bowie Using a Computer at a Desk 9e153b15|David Bowie Using a Computer at a Desk]] — shared language: using, computer
+- [[knowledge/wiki/images/Animated Tokyo 804a7d14|Animated Tokyo]] — shared language: animated
 <!-- vault-crosslinks:end -->

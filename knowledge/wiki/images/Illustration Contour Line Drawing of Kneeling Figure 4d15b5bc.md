@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: contour, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 - [[knowledge/wiki/images/Illustration Abstract Artwork With Vibrant Colors And Contour Lines 73c090e6|Illustration Abstract Artwork With Vibrant Colors And Contour Lines]] — shared language: contour
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 <!-- vault-crosslinks:end -->

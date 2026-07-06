@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings 2605579c|Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings]] — shared language: watercolor, modern
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor
+- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — shared language: modern
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: modern
 <!-- vault-crosslinks:end -->

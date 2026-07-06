@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of A Dirty Eyeglass Lens With Smudges 74c21ff6|Photograph Close Up Of A Dirty Eyeglass Lens With Smudges]] — shared language: eyeglass, dirty, lens
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
-- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close
-- [[knowledge/wiki/images/Photograph Naked Person Lying On Dirty Floor With White Object e5b2a721|Photograph Naked Person Lying On Dirty Floor With White Object]] — shared language: dirty
+- [[knowledge/wiki/images/Photograph Close Up Of A Dirty Eyeglass Lens With Smudges 74c21ff6|Photograph Close Up Of A Dirty Eyeglass Lens With Smudges]] — shared language: eyeglass, lens, dirty
+- [[knowledge/wiki/images/Naked Person Lying On Dirty Floor With White Object 64506848|Naked Person Lying On Dirty Floor With White Object]] — shared language: dirty
+- [[_archive/auto-generated/images-stale/Photograph Naked Person Lying On Dirty Floor With White Object e5b2a721|Photograph Naked Person Lying On Dirty Floor With White Object]] — shared language: dirty
 - [[knowledge/wiki/artists/Artist - chuck close|Artist - chuck close]] — shared language: close
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chuck close 1997|Artist - chuck close 1997]] — shared language: close
 <!-- vault-crosslinks:end -->

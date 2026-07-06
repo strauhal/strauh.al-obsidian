@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 
 - [[knowledge/wiki/images/Illustration Abstract Purple and Black Skeleton Figure Dissolving 06bcd2cd|Illustration Abstract Purple and Black Skeleton Figure Dissolving]] — shared language: dissolving
 - [[knowledge/wiki/images/Illustration Man and Woman Embracing Against Pink Background, Oil Painting 1ef0482d|Illustration Man and Woman Embracing Against Pink Background, Oil Painting]] — shared language: pink, against, background
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Illustration Person with Pink Hair and Striped Shirt Against Patterned Background b1791a4f|Illustration Person with Pink Hair and Striped Shirt Against Patterned Background]] — shared language: pink, against, background
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: against, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: fragmented
 <!-- vault-crosslinks:end -->

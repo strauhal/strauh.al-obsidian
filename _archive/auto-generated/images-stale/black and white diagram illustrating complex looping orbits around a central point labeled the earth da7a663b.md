@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth e159f9f8|Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth]] — shared language: orbits, earth, around
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
+- [[_archive/auto-generated/images-stale/Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth e159f9f8|Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth]] — shared language: orbits, earth, around
+- [[knowledge/wiki/images/Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth 029d9f64|Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth]] — shared language: orbits, earth, around
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: looping
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: point, complex
 <!-- vault-crosslinks:end -->

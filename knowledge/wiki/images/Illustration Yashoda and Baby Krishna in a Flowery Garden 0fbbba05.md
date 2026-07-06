@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Y
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: garden, garden.jpg
 - [[knowledge/wiki/images/The Garden by Julie Curtiss (2020) b6ee5599|The Garden by Julie Curtiss (2020)]] — shared language: garden
-- [[knowledge/wiki/images/Photograph Close up Of A Baby Lying On A Quilted Surface d1691700|Photograph Close up Of A Baby Lying On A Quilted Surface]] — shared language: baby
+- [[knowledge/wiki/images/Close up Of A Baby Lying On A Quilted Surface 2bdb8a31|Close up Of A Baby Lying On A Quilted Surface]] — shared language: baby
 <!-- vault-crosslinks:end -->

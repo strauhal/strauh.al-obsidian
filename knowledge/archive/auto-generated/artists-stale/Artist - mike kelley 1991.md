@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - mike kelley|Artist - mike kelley]] — named in this note
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mike harris|Artist - Mike Harris]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: mike
 - [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: mike
 - [[knowledge/wiki/images/Busted (BG 59) by Stanley Mouse and Alton Kelley (1967) d4d99a55|Busted (BG 59) by Stanley Mouse and Alton Kelley (1967)]] — shared language: kelley
-- [[knowledge/wiki/images/Comic Comparison of Young and Experienced Cartoonists by Mike Kelly 8a4bc504|Comic Comparison of Young and Experienced Cartoonists by Mike Kelly]] — shared language: mike
 <!-- vault-crosslinks:end -->

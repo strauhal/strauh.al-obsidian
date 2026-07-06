@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, illuminated
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
+- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, illuminated
+- [[_archive/auto-generated/images-stale/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, trails, illuminated
 - [[knowledge/wiki/images/Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees 0e2923aa|Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees]] — shared language: nighttime, cityscape
-- [[knowledge/wiki/images/Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View 21b21488|Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers, cityscape
-- [[knowledge/wiki/images/Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 065caf42|Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: skyscrapers, illuminated
+- [[_archive/auto-generated/images-stale/Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View 21b21488|Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers, cityscape
+- [[knowledge/wiki/images/Skyscrapers and Contrails in Blue Sky, Cityscape View c9821d7c|Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers, cityscape
 <!-- vault-crosslinks:end -->

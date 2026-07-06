@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Landscape with River and Cattle by Asher B. Durand (1856) 54b70ac0|Landscape with River and Cattle by Asher B. Durand (1856)]] — shared language: durand
 - [[knowledge/wiki/images/asher b durand a home in the wilderness 1845 80069db1|asher b durand a home in the wilderness 1845]] — shared language: durand
 - [[knowledge/wiki/images/Illustration Jesus Carrying Cross With Crown of Thorns, Expressive Painting a8e7c45f|Illustration Jesus Carrying Cross With Crown of Thorns, Expressive Painting]] — shared language: jesus
-- [[knowledge/wiki/images/Photograph Robert F. Kennedy Looking Down Beneath A Picture Of Jesus Christ 99c946a0|Photograph Robert F. Kennedy Looking Down Beneath A Picture Of Jesus Christ]] — shared language: jesus
+- [[knowledge/wiki/images/Robert F. Kennedy Looking Down Beneath A Picture Of Jesus Christ 33231d98|Robert F. Kennedy Looking Down Beneath A Picture Of Jesus Christ]] — shared language: jesus
 - [[knowledge/wiki/images/giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679 936100f2|giovanni battista gaulli the triumph of the name of jesus ceiling fresco 1674 1679]] — shared language: jesus
 - [[knowledge/wiki/images/triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679 95a634b9|triumph of the name of jesus fresco in the church of the gesu by giovanni battista gaulli 16741679]] — shared language: jesus
 <!-- vault-crosslinks:end -->

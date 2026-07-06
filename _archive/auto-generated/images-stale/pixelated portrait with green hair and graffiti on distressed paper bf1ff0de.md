@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster 96593810|Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster]] — shared language: distressed, graffiti, pixelated
 - [[knowledge/wiki/images/Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck b55b3e3c|Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck]] — shared language: graffiti, hair
+- [[knowledge/wiki/images/illustration of a distressed blonde woman and a man in a suit 1966 db86914a|illustration of a distressed blonde woman and a man in a suit 1966]] — shared language: distressed
 - [[knowledge/wiki/images/Screenshot Green Pixelated Portrait of Lain in MEKA Emulator 6531cae7|Screenshot Green Pixelated Portrait of Lain in MEKA Emulator]] — shared language: pixelated, green
 - [[_archive/auto-generated/images-stale/abstract black ink brushstrokes on paper 3dd6bc32|abstract black ink brushstrokes on paper]] — shared language: paper, paper.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, paper.jpeg
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/images/Illustration Vibrant Fauvist Interior with Black Cat by Open Door 258b6fc5|Illustration Vibrant Fauvist Interior with Black Cat by Open Door]] — shared language: door, interior, door.jpg
 - [[knowledge/wiki/images/Illustration Painting Window View of Figures, Dogs, and Potted Plant a79e22d2|Illustration Painting Window View of Figures, Dogs, and Potted Plant]] — shared language: plant, window
 - [[knowledge/wiki/images/the window next door by junji ito 1998 71bf9b58|the window next door by junji ito 1998]] — shared language: door, window
-- [[knowledge/wiki/images/Illustration Sketch of a Cafe Interior with Two Figures by a Window c4166d56|Illustration Sketch of a Cafe Interior with Two Figures by a Window]] — shared language: window, interior
+- [[knowledge/wiki/images/Dark Room With Bright Window And Door Overlooking Water c2eb47a1|Dark Room With Bright Window And Door Overlooking Water]] — shared language: door, window
 <!-- vault-crosslinks:end -->

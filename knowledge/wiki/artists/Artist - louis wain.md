@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Psychedelic Cat with Blue Eyes and Wavy Background by Louis Wain b1788d1d|Illustration Psychedelic Cat with Blue Eyes and Wavy Background by Louis Wain]] — shared language: wain, louis
 - [[knowledge/wiki/images/Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain 1987a45b|Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain]] — shared language: wain, louis
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: every, one
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 <!-- vault-crosslinks:end -->

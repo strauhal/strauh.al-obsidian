@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — named in this note
 - [[knowledge/wiki/images/Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter d54e918c|Photograph Young Man In Orange Jumpsuit Escorted By Police Officers Near Helicopter]] — same artist: police officers near helicopter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — named in this note
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — shared language: police, jumpsuit, escorted
 - [[_archive/auto-generated/images-stale/photograph of a handcuffed man in an orange jumpsuit escorted by police ffe04127|photograph of a handcuffed man in an orange jumpsuit escorted by police]] — shared language: jumpsuit, escorted, police
-- [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: jumpsuit, escorted, police
 <!-- vault-crosslinks:end -->

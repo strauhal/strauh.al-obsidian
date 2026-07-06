@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/images/Photograph Interior of Amoeba Music Store, San Francisco 29b9e8c1|Photograph Interior of Amoeba Music Store, San Francisco]] — shared language: amoeba, san, francisco
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
-- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: san, francisco, francisco.jpg
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
+- [[knowledge/wiki/images/Interior of Amoeba Music Store, San Francisco 2d857a3f|Interior of Amoeba Music Store, San Francisco]] — shared language: amoeba, san, francisco
+- [[_archive/auto-generated/images-stale/Photograph Interior of Amoeba Music Store, San Francisco 29b9e8c1|Photograph Interior of Amoeba Music Store, San Francisco]] — shared language: amoeba, san, francisco
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[_archive/auto-generated/images-stale/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

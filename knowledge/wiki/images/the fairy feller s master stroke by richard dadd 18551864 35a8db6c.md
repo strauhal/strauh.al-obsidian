@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_fairy_feller
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/wiki/images/sketch to illustrate the passions ambition vaulting ambition mocking the meat it feeds on by richard dadd 1854 14e6d42d|sketch to illustrate the passions ambition vaulting ambition mocking the meat it feeds on by richard dadd 1854]] — same artist: richard dadd
 - [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: dadd, richard
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: master
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: master
 <!-- vault-crosslinks:end -->

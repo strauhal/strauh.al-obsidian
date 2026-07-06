@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Tor
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Mixed Media with Fabric Strips and Wavy Checkered Drawing 9ab4ce56|Illustration Abstract Mixed Media with Fabric Strips and Wavy Checkered Drawing]] — shared language: strips, fabric
-- [[knowledge/wiki/images/Photograph Close up of a colorful woven textile with fabric strips 3e3253ae|Photograph Close up of a colorful woven textile with fabric strips]] — shared language: strips, fabric
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: torn
+- [[knowledge/wiki/images/Illustration Abstract Mixed Media with Fabric Strips and Wavy Checkered Drawing 9ab4ce56|Illustration Abstract Mixed Media with Fabric Strips and Wavy Checkered Drawing]] — shared language: strips, fabric
+- [[knowledge/wiki/images/Close up of a colorful woven textile with fabric strips 496c4ba4|Close up of a colorful woven textile with fabric strips]] — shared language: strips, fabric
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: strips
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: purple, background
 <!-- vault-crosslinks:end -->

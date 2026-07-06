@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Person in Dark Clothing and Red Beret Pointing at 'EMO TRANS' Sign b3fe4c7c|Photograph Person in Dark Clothing and Red Beret Pointing at 'EMO TRANS' Sign]] — shared language: beret, emo, trans
-- [[knowledge/wiki/images/Photograph Person in Dark Makeup and Clothing in Tractor Cab 74eb6e7b|Photograph Person in Dark Makeup and Clothing in Tractor Cab]] — shared language: clothing, person, dark
 - [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: trans
 - [[knowledge/wiki/books/liphas-l-vi-trans-a-e-waite-the-history-of-magic|The History of Magic]] — shared language: trans
+- [[knowledge/wiki/books/confucius-trans-robert-eno-the-analects-of-confucius|The Analects of Confucius]] — shared language: trans
 - [[knowledge/wiki/images/Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing e6a7614c|Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing]] — shared language: clothing, dark
 <!-- vault-crosslinks:end -->

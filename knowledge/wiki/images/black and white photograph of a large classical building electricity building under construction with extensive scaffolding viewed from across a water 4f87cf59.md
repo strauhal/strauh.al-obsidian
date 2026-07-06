@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/black_and_white_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, across, water
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large, water
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: across, classical, building
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Classical Building Reflected In Water 8da6b944|Photograph Black And White Photograph Of Classical Building Reflected In Water]] — shared language: classical, building, water
-- [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: classical, building, large
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: across, classical, building
 <!-- vault-crosslinks:end -->

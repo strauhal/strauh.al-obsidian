@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, street
-- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: urban, paintings, street
+- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: urban, paintings, oil
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: reclining, oil
 - [[_archive/auto-generated/images-stale/oil painting of two female figures one crouching and one reclining against a yellow background 36e16294|oil painting of two female figures one crouching and one reclining against a yellow background]] — shared language: one, reclining, oil

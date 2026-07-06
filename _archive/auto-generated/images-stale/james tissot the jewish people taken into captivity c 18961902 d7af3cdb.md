@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Flight of the Prisoners by James Tissot (1896 1902) 28f77d95|The Flight of the Prisoners by James Tissot (1896 1902)]] — shared language: tissot, james
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
-- [[Welcome|strauh.al Knowledge Base]] — shared language: people
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: people
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
+- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher|Artist - james fletcher]] — shared language: james
 <!-- vault-crosslinks:end -->

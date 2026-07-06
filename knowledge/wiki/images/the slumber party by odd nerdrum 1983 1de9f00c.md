@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_slumber_part
 - [[knowledge/wiki/images/the stage by odd nerdrum 1982 cf9a265c|the stage by odd nerdrum 1982]] — same artist: odd nerdrum
 - [[knowledge/wiki/images/the boat by odd nerdrum 1985 f9aa9d90|the boat by odd nerdrum 1985]] — same artist: odd nerdrum
 - [[knowledge/wiki/images/kanye party cd913a48|kanye party]] — shared language: party
-- [[knowledge/wiki/images/Photograph Overhead View of a Large Computer LAN Party Event cad901dd|Photograph Overhead View of a Large Computer LAN Party Event]] — shared language: party
+- [[knowledge/wiki/images/the boating party by mary cassatt 1893 1894 cd784d07|the boating party by mary cassatt 1893 1894]] — shared language: party
 <!-- vault-crosslinks:end -->

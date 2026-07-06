@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph White Oval Plate With Blue And White Willow Pattern c6f86516|Photograph White Oval Plate With Blue And White Willow Pattern]] — shared language: oval, plate, pattern
-- [[knowledge/wiki/images/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: plate, pattern
 - [[knowledge/wiki/images/Illustration Abstract Pattern of Vertical Lines and Central Oval Shape b267d167|Illustration Abstract Pattern of Vertical Lines and Central Oval Shape]] — shared language: oval, pattern
+- [[_archive/auto-generated/images-stale/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: plate, pattern
+- [[knowledge/wiki/images/White Plate With Blue Willow Pattern Design ed444a6b|White Plate With Blue Willow Pattern Design]] — shared language: plate, pattern
 - [[_archive/auto-generated/images-stale/framed black and white abstract painting with large oval forms f9980788|framed black and white abstract painting with large oval forms]] — shared language: oval
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: pattern
 <!-- vault-crosslinks:end -->

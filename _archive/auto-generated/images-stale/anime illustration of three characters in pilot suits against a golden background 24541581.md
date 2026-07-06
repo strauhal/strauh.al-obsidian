@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto a9ffb605|Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto]] — shared language: pilot, suits, golden
+- [[knowledge/wiki/images/Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto a9ffb605|Illustration Three Anime Characters In Pilot Suits Against Golden Background by Yoshiyuki Sadamoto]] — shared language: pilot, suits, characters
 - [[knowledge/wiki/images/Illustration Two Headless Figures In Suits Against Gradient Background 28665850|Illustration Two Headless Figures In Suits Against Gradient Background]] — shared language: suits, against, background
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: pilot

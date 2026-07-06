@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical, diagram
 - [[knowledge/wiki/images/Illustration Nude Figure Touching Glass Separating Her from Anatomical Figures d101e6c0|Illustration Nude Figure Touching Glass Separating Her from Anatomical Figures]] — shared language: anatomical, nude
 - [[knowledge/wiki/images/Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views 746ece0d|Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views]] — shared language: anatomical, diagram
 - [[knowledge/wiki/images/Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels 4040d86d|Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels]] — shared language: anatomical, diagram

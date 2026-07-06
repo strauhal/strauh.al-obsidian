@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/artists/Artist - Microsoft|Artist - Microsoft]] — shared language: microsoft
 - [[knowledge/wiki/images/Screenshot Social Media Post About OpenAI Whistleblower News a264621e|Screenshot Social Media Post About OpenAI Whistleblower News]] — shared language: openai
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: microsoft
-- [[knowledge/wiki/images/Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint 3069550b|Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint]] — shared language: microsoft
+- [[knowledge/wiki/images/Screenshot Complex Black And White Abstract Art In Microsoft Paint bdb8af90|Screenshot Complex Black And White Abstract Art In Microsoft Paint]] — shared language: microsoft
 <!-- vault-crosslinks:end -->

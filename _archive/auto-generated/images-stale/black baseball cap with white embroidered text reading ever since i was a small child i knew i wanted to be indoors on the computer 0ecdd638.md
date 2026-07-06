@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black Baseball Cap With White Embroidered Text f99a8c91|Photograph Black Baseball Cap With White Embroidered Text]] — shared language: embroidered, baseball, cap
-- [[knowledge/wiki/images/Photograph Black Baseball Cap with Embroidered Humorous Text ebbff4e7|Photograph Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered, baseball, cap
+- [[knowledge/wiki/images/Black Baseball Cap with Embroidered Humorous Text 794505df|Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered, baseball, cap
+- [[_archive/auto-generated/images-stale/Photograph Black Baseball Cap with Embroidered Humorous Text ebbff4e7|Photograph Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered, baseball, cap
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 - [[knowledge/wiki/images/Image Close Up Of Man's Face With 'Same As It Ever Was' Text f470019c|Image Close Up Of Man's Face With 'Same As It Ever Was' Text]] — shared language: ever, text
-- [[knowledge/wiki/images/Photograph Small Car Covered in Rainbow Graffiti Displayed Indoors at Night 470bdbfd|Photograph Small Car Covered in Rainbow Graffiti Displayed Indoors at Night]] — shared language: indoors, small
 <!-- vault-crosslinks:end -->

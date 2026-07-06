@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: glowing, eyes
 - [[knowledge/wiki/images/Illustration Scribbled Line Drawing Of A Distorted Face e09a4c05|Illustration Scribbled Line Drawing Of A Distorted Face]] — shared language: distorted, face
 - [[knowledge/wiki/images/Illustration Distorted Painting of Hands and Face with Swirling Lines 500f21af|Illustration Distorted Painting of Hands and Face with Swirling Lines]] — shared language: distorted, face
-- [[knowledge/wiki/images/Photograph Black And White Photo Of Sheep With Glowing Eyes At Night 058c4ad3|Photograph Black And White Photo Of Sheep With Glowing Eyes At Night]] — shared language: glowing, eyes
+- [[knowledge/wiki/images/Black And White Photo Of Sheep With Glowing Eyes At Night 4baa14a9|Black And White Photo Of Sheep With Glowing Eyes At Night]] — shared language: glowing, eyes
 - [[knowledge/wiki/images/Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol 55f1bfb8|Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol]] — shared language: glowing, symbol
 <!-- vault-crosslinks:end -->

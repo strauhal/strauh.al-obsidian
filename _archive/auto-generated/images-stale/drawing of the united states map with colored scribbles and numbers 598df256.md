@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - County In The United States|Artist - County In The United States]] — shared language: united, states
 - [[knowledge/wiki/images/Image US Map With Scribbles, Numbers, And Overlaid Text 4fd4a4ae|Image US Map With Scribbles, Numbers, And Overlaid Text]] — shared language: scribbles, numbers
+- [[knowledge/wiki/images/1 Bedroom Rent By County In The United States f2937e7b|1 Bedroom Rent By County In The United States]] — shared language: united, states
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: states
-- [[knowledge/wiki/images/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — shared language: united, states
-- [[knowledge/wiki/images/Illustration Abstract Black Scribbles On White Background bf477ae7|Illustration Abstract Black Scribbles On White Background]] — shared language: scribbles
+- [[_archive/auto-generated/images-stale/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — shared language: united, states
 <!-- vault-crosslinks:end -->

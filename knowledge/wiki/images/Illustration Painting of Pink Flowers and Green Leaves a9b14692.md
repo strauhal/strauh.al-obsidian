@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Framed Black and White Line Drawing of Flowers and Leaves 230cefc4|Illustration Framed Black and White Line Drawing of Flowers and Leaves]] — shared language: leaves, flowers, leaves.jpeg
 - [[knowledge/wiki/images/Illustration Watercolor Painting of Orange and Yellow Flowers with Green Leaves by ACAMA c4218ac6|Illustration Watercolor Painting of Orange and Yellow Flowers with Green Leaves by ACAMA]] — shared language: leaves, flowers, green
 - [[knowledge/wiki/images/Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers 7f575245|Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers]] — shared language: leaves, flowers
-- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: flowers, pink, green
+- [[knowledge/wiki/images/Two Cluster Flowers Among Long Leaves 45f88fe6|Two Cluster Flowers Among Long Leaves]] — shared language: leaves, flowers
 <!-- vault-crosslinks:end -->

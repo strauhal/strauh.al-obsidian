@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Seamless Pattern of Waterfalls and Turbulent Water df3f17e3|Illustration Seamless Pattern of Waterfalls and Turbulent Water]] — named in this note
 - [[knowledge/wiki/images/Illustration Seamless Pattern of Green Spotted Frogs and Lizards on Black c9ee0bda|Illustration Seamless Pattern of Green Spotted Frogs and Lizards on Black]] — shared language: seamless, pattern, green
 - [[_archive/auto-generated/images-stale/abstract pattern of vertical wavy stripes in gray blue and white tones 1bc32fd3|abstract pattern of vertical wavy stripes in gray blue and white tones]] — shared language: tones, pattern, tones.jpeg
-- [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: pattern, green
 - [[knowledge/wiki/images/Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] — shared language: tones, tones.jpeg
+- [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: pattern, green
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Blu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, night
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, lights, night
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Photograph Purple Toned Street Scene with Buildings and Streaking Lights 10fb4e50|Photograph Purple Toned Street Scene with Buildings and Streaking Lights]] — shared language: lights, buildings
-- [[knowledge/wiki/images/Photograph Cat Looking Right With Bokeh City Lights At Night f4539539|Photograph Cat Looking Right With Bokeh City Lights At Night]] — shared language: lights, night
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: blurry
+- [[knowledge/wiki/images/City Buildings at Night with Heart Shape in Windows d1d0ba49|City Buildings at Night with Heart Shape in Windows]] — shared language: buildings, night
+- [[knowledge/wiki/images/Cat Looking Right With Bokeh City Lights At Night c564d9e2|Cat Looking Right With Bokeh City Lights At Night]] — shared language: lights, night
 <!-- vault-crosslinks:end -->

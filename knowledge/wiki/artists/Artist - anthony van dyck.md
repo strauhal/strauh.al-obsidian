@@ -23,7 +23,7 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van, charles
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: van, charles
 - [[knowledge/wiki/images/francisco de goya the temptation of st anthony c 1798 5f3c7b47|francisco de goya the temptation of st anthony c 1798]] — shared language: anthony

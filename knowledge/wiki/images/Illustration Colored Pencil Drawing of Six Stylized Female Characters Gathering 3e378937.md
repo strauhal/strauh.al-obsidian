@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: six, pencil
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: six
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: six
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: six
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: female, stylized
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Three Stylized Characters with Large Eyes and Annotations 9162a830|Illustration Pencil Sketch of Three Stylized Characters with Large Eyes and Annotations]] — shared language: characters, pencil, stylized
 <!-- vault-crosslinks:end -->

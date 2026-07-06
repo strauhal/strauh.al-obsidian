@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/the_prophet_abra
 - [[knowledge/wiki/artists/Artist - abraham bloemaert|Artist - abraham bloemaert]] — shared language: abraham
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: prophet
 - [[knowledge/wiki/artists/Artist - abraham mignon|Artist - abraham mignon]] — shared language: abraham
-- [[knowledge/wiki/culture/reading-the-prophet|Reading - The Prophet]] — shared language: prophet
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: prophet
+- [[knowledge/wiki/culture/reading-the-prophet|Reading - The Prophet]] — shared language: prophet
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Diagram - Dia
 - [[knowledge/wiki/images/Diagram Diagram Of Two Spider Webs From Drug Experiment cff60bbc|Diagram Diagram Of Two Spider Webs From Drug Experiment]] — shared language: webs, spider, diagram
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, various
 - [[knowledge/wiki/images/Diagram Two Spider Webs, One Regular, One Irregular f36da985|Diagram Two Spider Webs, One Regular, One Irregular]] — shared language: webs, spider, diagram
-- [[knowledge/wiki/images/Diagram Evolutionary Tree of Various Animals Over Time 7852f6c0|Diagram Evolutionary Tree of Various Animals Over Time]] — shared language: various, diagram
-- [[knowledge/wiki/images/Diagram Comparison of Various Neural Network Architectures c93cda2a|Diagram Comparison of Various Neural Network Architectures]] — shared language: various, diagram
+- [[knowledge/wiki/images/Diagram Two Diagrams Comparing Normal Spider Web to Drug Affected Web d9e8b1ed|Diagram Two Diagrams Comparing Normal Spider Web to Drug Affected Web]] — shared language: spider, diagram
+- [[knowledge/wiki/books/t-stevens-michael-the-art-of-psychological-warfare-how-to-skillfully-influence-people-undetected-and-how-to-mentally-subdue-your-enemies-in-|The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal]] — shared language: influence
 <!-- vault-crosslinks:end -->

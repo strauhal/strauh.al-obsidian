@@ -7,8 +7,8 @@ status: queued
 queue_order: 31
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Stranger
@@ -31,7 +31,7 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 ## Discovered Connections
 
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — named in this note
-- [[knowledge/wiki/images/Photograph Person in Niqab Reading 'The Stranger' by Albert Camus 3b055a7a|Photograph Person in Niqab Reading 'The Stranger' by Albert Camus]] — shared language: stranger, camus, albert
+- [[knowledge/wiki/images/Person in Niqab Reading 'The Stranger' by Albert Camus 3535ce3d|Person in Niqab Reading 'The Stranger' by Albert Camus]] — shared language: stranger, camus, albert
 - [[knowledge/wiki/artists/Artist - Albert Camus|Artist - Albert Camus]] — shared language: stranger, camus, albert
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger

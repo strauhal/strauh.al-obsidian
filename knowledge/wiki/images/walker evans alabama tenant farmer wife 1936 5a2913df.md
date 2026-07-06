@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/walker_evans_ala
 - [[knowledge/wiki/artists/Artist - walker evans|Artist - walker evans]] — shared language: evans, walker, alabama
 - [[knowledge/wiki/images/allie mae burroughs wife of a sharecropper hale county alabama by walker evans 1936 dbe97dce|allie mae burroughs wife of a sharecropper hale county alabama by walker evans 1936]] — shared language: evans, alabama, walker
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: evans
-- [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: evans
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
+- [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: evans
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: village
 - [[knowledge/wiki/images/arthur streeton pastoral 1889 1043429e|arthur streeton pastoral 1889]] — shared language: pastoral
-- [[_archive/auto-generated/images-stale/photograph of a village and grazing cows in rolling green hills under a blue sky 7a222d5c|photograph of a village and grazing cows in rolling green hills under a blue sky]] — shared language: hills, village
-- [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: hills, village
+- [[_archive/auto-generated/images-stale/photograph of a village and grazing cows in rolling green hills under a blue sky 7a222d5c|photograph of a village and grazing cows in rolling green hills under a blue sky]] — shared language: village, hills
+- [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: village, hills
+- [[_archive/auto-generated/images-stale/village church in snowy mountain landscape 9462c6e3|village church in snowy mountain landscape]] — shared language: village, landscape
 - [[_archive/auto-generated/images-stale/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: hills, landscape
 <!-- vault-crosslinks:end -->

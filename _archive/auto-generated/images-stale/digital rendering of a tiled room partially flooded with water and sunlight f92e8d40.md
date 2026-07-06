@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/artists/Artist - FRAGILETEMPORARY|Artist - FRAGILETEMPORARY]] — shared language: flooded, rendering, tiled
 - [[knowledge/wiki/images/Illustration Digital Rendering of a Flooded Tiled Room with Sunlight by FRAGILETEMPORARY d7f93b15|Illustration Digital Rendering of a Flooded Tiled Room with Sunlight by FRAGILETEMPORARY]] — shared language: flooded, rendering, tiled
 - [[_archive/auto-generated/images-stale/digital rendering of a view from a car window over water and a railing 5096e2e1|digital rendering of a view from a car window over water and a railing]] — shared language: rendering, water, digital
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Man with Partially Shaved Head 9d985665|Photograph Black and White Photograph of Man with Partially Shaved Head]] — shared language: partially
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/images/Illustration Abstract Tiled Map of Light Blue Water and Light Green Land c9bba04e|Illustration Abstract Tiled Map of Light Blue Water and Light Green Land]] — shared language: tiled, water
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/black_and_white_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: domed, building, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, domed, large
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: domed, exhibition, large
 - [[knowledge/wiki/images/Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls 3173df70|Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls]] — shared language: halls, exhibition

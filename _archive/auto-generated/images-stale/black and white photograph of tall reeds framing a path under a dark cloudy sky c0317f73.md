@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky ca730963|Photograph Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky]] — shared language: reeds, framing, tall
+- [[knowledge/wiki/images/Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky 7c346e71|Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky]] — shared language: reeds, framing, tall
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky ca730963|Photograph Black And White Photograph Of Tall Reeds Framing A Path Under Dark Sky]] — shared language: reeds, framing, tall
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a landscape with a path tall grass and a tree against a cloudy sky 3909e468|black and white ink drawing of a landscape with a path tall grass and a tree against a cloudy sky]] — shared language: cloudy, tall, sky
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: framing
-- [[knowledge/wiki/images/Photograph White Cat Sitting Among Flowers Under Cloudy Sky bc1cbc76|Photograph White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky, sky.jpg
 <!-- vault-crosslinks:end -->

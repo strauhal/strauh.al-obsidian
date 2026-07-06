@@ -32,7 +32,7 @@ Images attributed by filename: 4
 - [[knowledge/wiki/images/The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967) ba171366|The Chambers Brothers, The Daily Flash, The Other Half by Victor Moscoso (1967)]] — shared language: moscoso, victor, flash
 - [[knowledge/wiki/images/The Pink Panther by Victor Moscoso (1967) 8a7e9e56|The Pink Panther by Victor Moscoso (1967)]] — shared language: moscoso, victor
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: miller
+- [[knowledge/wiki/artists/Artist - Victor Nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
-- [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor
 <!-- vault-crosslinks:end -->

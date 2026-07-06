@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer
-- [[knowledge/wiki/images/Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD 4fbcaaa4|Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD]] — shared language: monitor, game, displaying
+- [[knowledge/wiki/images/Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD 149aaf9e|Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD]] — shared language: monitor, game, displaying
 - [[knowledge/wiki/artists/Artist - lucian freud|Artist - lucian freud]] — shared language: lucian
 - [[knowledge/wiki/images/girl reading by lucian freud 1947 1948 5d2c6d95|girl reading by lucian freud 1947 1948]] — shared language: lucian
 - [[knowledge/wiki/images/Illustration Digital Files Bursting From Computer Monitor And Keyboard 15174844|Illustration Digital Files Bursting From Computer Monitor And Keyboard]] — shared language: monitor, computer

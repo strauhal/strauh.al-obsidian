@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper 45c8b400|Illustration Abstract Red Ink Biomorphic Drawing on Graph Paper]] — shared language: biomorphic
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/images/Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape f890115b|Illustration Surreal Reclining Nude Figure with Emerging Forms in Dark Landscape]] — shared language: surreal, forms
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
-- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: window, view
+- [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: window, view
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 <!-- vault-crosslinks:end -->

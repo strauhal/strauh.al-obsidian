@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Facebook
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: facebook
 - [[knowledge/wiki/images/Document Flyer Announcing Art Burning Event In Front Yard efb9519a|Document Flyer Announcing Art Burning Event In Front Yard]] — shared language: announcing
 - [[knowledge/wiki/images/Screenshot Two Facebook Profiles With Matching Kissing Photos e18ff721|Screenshot Two Facebook Profiles With Matching Kissing Photos]] — shared language: facebook
 - [[knowledge/wiki/images/Portrait of a Dog by Jonah Yano (2023) 4171a898|Portrait of a Dog by Jonah Yano (2023)]] — shared language: dog
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: dog
+- [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — shared language: dog
 <!-- vault-crosslinks:end -->

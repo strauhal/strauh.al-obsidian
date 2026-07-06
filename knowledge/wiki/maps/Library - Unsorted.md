@@ -2,13 +2,13 @@
 title: Library - Unsorted
 type: map
 tags: [map, library, books]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Library - Unsorted
 
-Books/files: 112
+Books/files: 113
 
 ## Titles
 
@@ -61,6 +61,7 @@ Books/files: 112
 - [[essays]]
 - [[flatline-constructs]]
 - [[handwriting]]
+- [[hanon pianist]]
 - [[how dawkins got pwned]]
 - [[humphries paper copy]]
 - [[id-card]]

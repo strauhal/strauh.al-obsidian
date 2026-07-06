@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto 2006|Artist - takato yamamoto 2006]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - takato yamamoto 2002|Artist - takato yamamoto 2002]] — named in this note
+- [[knowledge/wiki/artists/Artist - Takato Yamamoto|Artist - Takato Yamamoto]] — named in this note
 - [[_archive/auto-generated/images-stale/kuchi zuke kiss by takato yamamoto 2002 5f83b719|kuchi zuke kiss by takato yamamoto 2002]] — same artist: takato yamamoto
 - [[knowledge/wiki/images/Illustration Two Women Kissing Amidst Ornate Patterns And Red Moon by Takato Yamamoto d605a2de|Illustration Two Women Kissing Amidst Ornate Patterns And Red Moon by Takato Yamamoto]] — same artist: takato yamamoto
-- [[knowledge/wiki/images/The Shimabara Rebellion of 1637 by Takato Yamamoto (2006) ab645d1a|The Shimabara Rebellion of 1637 by Takato Yamamoto (2006)]] — shared language: takato, yamamoto
 <!-- vault-crosslinks:end -->

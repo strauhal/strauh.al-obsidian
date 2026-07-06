@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — named in this note
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: purple, background
 - [[knowledge/wiki/images/Illustration Abstract Swirling Lines And Dots On Light Background fa07b355|Illustration Abstract Swirling Lines And Dots On Light Background]] — shared language: swirling, background
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, background, background.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Flowing Shapes With Purple Glow On Black Background fd11cdff|Illustration Abstract Flowing Shapes With Purple Glow On Black Background]] — shared language: purple, background, background.jpeg
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, background, background.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, background, background.jpeg
 <!-- vault-crosslinks:end -->

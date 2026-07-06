@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Str
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: across, trees
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: above, sky
-- [[knowledge/wiki/images/Photograph Panoramic Sunset Sky with Silhouetted Trees 671204c5|Photograph Panoramic Sunset Sky with Silhouetted Trees]] — shared language: silhouetted, sky, trees
+- [[knowledge/wiki/images/Panoramic Sunset Sky with Silhouetted Trees 4812a63d|Panoramic Sunset Sky with Silhouetted Trees]] — shared language: silhouetted, sky, trees
 - [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: silhouetted, sky, dark
-- [[knowledge/wiki/images/Photograph Black And White Photo Of Musician With Light Streaks 27657aa7|Photograph Black And White Photo Of Musician With Light Streaks]] — shared language: streaks, light
+- [[knowledge/wiki/images/Black And White Photo Of Musician With Light Streaks 06c2dc85|Black And White Photo Of Musician With Light Streaks]] — shared language: streaks, light
+- [[knowledge/wiki/images/Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid 196f48f0|Illustration Abstract Digital Art with Blue Streaks, Dark Shapes, Grid]] — shared language: streaks, dark
+- [[knowledge/wiki/images/Silhouetted Train Station Infrastructure Against a Pink Sky 63802bff|Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: silhouetted, sky
 <!-- vault-crosslinks:end -->

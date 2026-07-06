@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
-- [[knowledge/wiki/images/Photograph Man Standing Next To A Brown Cabin In A Forest cadf0dc3|Photograph Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Man Standing Next To A Brown Cabin In A Forest 7a06523c|Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
 - [[knowledge/wiki/images/Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road 10b73046|Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road]] — shared language: snowy, landscape
 - [[knowledge/wiki/images/Screenshot Digital Rendering of Frosty Winter Landscape with Cabin and Windmill eb26d2ef|Screenshot Digital Rendering of Frosty Winter Landscape with Cabin and Windmill]] — shared language: cabin, landscape
 - [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: snowy, landscape

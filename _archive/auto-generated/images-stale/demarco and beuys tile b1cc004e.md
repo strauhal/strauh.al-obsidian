@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Joseph Beuys And Richard Demarco Lecturing With Blackboards f7ac2621|Photograph Joseph Beuys And Richard Demarco Lecturing With Blackboards]] — shared language: demarco, beuys
 - [[_archive/auto-generated/books-stale/beuys-on-drawing|beuys on drawing]] — shared language: beuys
+- [[knowledge/wiki/images/Joseph Beuys And Richard Demarco Lecturing With Blackboards 2ca23cd1|Joseph Beuys And Richard Demarco Lecturing With Blackboards]] — shared language: demarco, beuys
+- [[_archive/auto-generated/images-stale/Photograph Joseph Beuys And Richard Demarco Lecturing With Blackboards f7ac2621|Photograph Joseph Beuys And Richard Demarco Lecturing With Blackboards]] — shared language: demarco, beuys
 - [[_archive/auto-generated/images-stale/beuys teaching1 534f4597|beuys teaching1]] — shared language: beuys
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys
-- [[_archive/auto-generated/images-stale/Beuys cdb67c14|Beuys]] — shared language: beuys
 <!-- vault-crosslinks:end -->

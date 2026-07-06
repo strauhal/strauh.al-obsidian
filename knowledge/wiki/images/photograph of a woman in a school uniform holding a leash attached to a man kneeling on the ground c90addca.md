@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/photograph
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
-- [[knowledge/wiki/images/Photograph Young Man In Baseball Uniform Kneeling With Bat On Field c277e44b|Photograph Young Man In Baseball Uniform Kneeling With Bat On Field]] — shared language: kneeling, uniform
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[knowledge/wiki/images/Young Man In Baseball Uniform Kneeling With Bat On Field c7106298|Young Man In Baseball Uniform Kneeling With Bat On Field]] — shared language: kneeling, uniform
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol fdd7edd3|Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: vajra, concentric, circles
-- [[knowledge/wiki/images/Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles ec7bc797|Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, central
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tibetan script|Artist - tibetan script]] — shared language: script, tibetan
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol 55f1bfb8|Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol]] — shared language: concentric, circles, symbol
+- [[knowledge/wiki/images/Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol 610bd17b|Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: vajra, concentric, circles
+- [[_archive/auto-generated/images-stale/Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol fdd7edd3|Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: vajra, concentric, circles
+- [[_archive/auto-generated/images-stale/Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles ec7bc797|Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, central
+- [[knowledge/wiki/images/Intricate Alchemical Diagram with Central Figure and Concentric Circles 06999cb7|Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, central
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, circles
 <!-- vault-crosslinks:end -->

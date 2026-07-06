@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - Man K
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Black and White Portrait of Hegel with Humorous Text 9f12b49d|Image Black and White Portrait of Hegel with Humorous Text]] — shared language: humorous, text
-- [[knowledge/wiki/images/Photograph Woman Speaking On Stage With Humorous Text On Screen 776787f4|Photograph Woman Speaking On Stage With Humorous Text On Screen]] — shared language: humorous, text
-- [[knowledge/wiki/images/Photograph Black Baseball Cap with Embroidered Humorous Text ebbff4e7|Photograph Black Baseball Cap with Embroidered Humorous Text]] — shared language: humorous, text
-- [[knowledge/wiki/images/Photograph Concrete Pillar with Grey Paint and Humorous Graffiti Text 5e3f476d|Photograph Concrete Pillar with Grey Paint and Humorous Graffiti Text]] — shared language: humorous, text, text.jpg
-- [[knowledge/wiki/images/Photograph Mural on Pink Building with Disco Ball and Humorous Text 810ac878|Photograph Mural on Pink Building with Disco Ball and Humorous Text]] — shared language: humorous, text, text.jpg
+- [[knowledge/wiki/images/Woman Speaking On Stage With Humorous Text On Screen 9a8dc3dd|Woman Speaking On Stage With Humorous Text On Screen]] — shared language: humorous, text
+- [[knowledge/wiki/images/Black Baseball Cap with Embroidered Humorous Text 794505df|Black Baseball Cap with Embroidered Humorous Text]] — shared language: humorous, text
+- [[knowledge/wiki/images/Concrete Pillar with Grey Paint and Humorous Graffiti Text e5a13174|Concrete Pillar with Grey Paint and Humorous Graffiti Text]] — shared language: humorous, text, text.jpg
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

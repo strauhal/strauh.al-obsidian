@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Bearded Man In Yellow Shirt Holding Skull Against Floral Background 011cb5bc|Illustration Bearded Man In Yellow Shirt Holding Skull Against Floral Background]] — shared language: skull, holding
 - [[knowledge/wiki/images/Illustration Pixel Art House with Bare Tree and Red Door ce9be94d|Illustration Pixel Art House with Bare Tree and Red Door]] — shared language: bare
-- [[knowledge/wiki/images/Illustration Line Drawing of a Bare Tree with Small Objects Hanging 7686b399|Illustration Line Drawing of a Bare Tree with Small Objects Hanging]] — shared language: bare
+- [[knowledge/wiki/images/Illustration Red Haired Woman With Tattoo In Water Looking Up f67df98c|Illustration Red Haired Woman With Tattoo In Water Looking Up]] — shared language: haired, red-haired
 <!-- vault-crosslinks:end -->

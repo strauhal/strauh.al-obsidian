@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Stippled Illustration of Stylized Person with Stars and Circles c5f6a528|Illustration Stippled Illustration of Stylized Person with Stars and Circles]] — shared language: stars, circles, stylized
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stars|Artist - Stars]] — shared language: stars, stylized
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars, stylized
 - [[knowledge/wiki/images/Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol 55f1bfb8|Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol]] — shared language: concentric, circles, stylized
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars
-- [[knowledge/wiki/images/Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles ec7bc797|Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, circles.jpg
 <!-- vault-crosslinks:end -->

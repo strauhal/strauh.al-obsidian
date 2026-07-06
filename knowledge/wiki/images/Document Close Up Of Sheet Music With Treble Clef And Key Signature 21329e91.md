@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Cl
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Musical Notation of a Six Note Chord in Treble Clef 5db97720|Diagram Musical Notation of a Six Note Chord in Treble Clef]] — shared language: treble, clef
+- [[knowledge/wiki/images/Musical Notation of a Six Note Chord in Treble Clef f099dca3|Musical Notation of a Six Note Chord in Treble Clef]] — shared language: treble, clef
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
+- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

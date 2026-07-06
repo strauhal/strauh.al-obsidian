@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: calligraphy, trees, ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: wash, ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, landscape
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall 028ea1a7|Photograph Detailed Ink Painting of Mountains, Trees, and Waterfall]] — shared language: mountains, trees, ink
-- [[knowledge/wiki/images/Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep 2b2f295d|Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep]] — shared language: mountains, trees, landscape
+- [[knowledge/wiki/images/Illustration Ink and Wash Painting of Stylized Dark Figure baa287ef|Illustration Ink and Wash Painting of Stylized Dark Figure]] — shared language: wash, ink
 <!-- vault-crosslinks:end -->

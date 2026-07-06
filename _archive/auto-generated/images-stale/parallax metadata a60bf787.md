@@ -25,7 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Diagram Illustrating Production of Adaptive Parallax Metadata 86bc162e|Diagram Diagram Illustrating Production of Adaptive Parallax Metadata]] — shared language: parallax, metadata, metadata.png
+- [[knowledge/wiki/images/Diagram Illustrating Production of Adaptive Parallax Metadata f2d9a22b|Diagram Illustrating Production of Adaptive Parallax Metadata]] — shared language: parallax, metadata, metadata.png
+- [[_archive/auto-generated/images-stale/Diagram Diagram Illustrating Production of Adaptive Parallax Metadata 86bc162e|Diagram Diagram Illustrating Production of Adaptive Parallax Metadata]] — shared language: parallax, metadata, metadata.png
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: metadata
 - [[knowledge/README|README]] — shared language: metadata
 <!-- vault-crosslinks:end -->

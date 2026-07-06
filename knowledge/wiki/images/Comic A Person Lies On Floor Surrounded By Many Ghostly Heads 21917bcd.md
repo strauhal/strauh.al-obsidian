@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - A Person
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, comic
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many, comic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 - [[knowledge/wiki/images/Illustration Illustration of Person with Grey Hair and Many Rings 9d957f97|Illustration Illustration of Person with Grey Hair and Many Rings]] — shared language: many, person

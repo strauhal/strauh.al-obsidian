@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Chronocyclegraph
 
 - [[knowledge/wiki/artists/Artist - Frank and Lillian Gilbreth|Artist - Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: gilbreth, frank
-- [[knowledge/wiki/images/Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth 7047fab1|Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
-- [[knowledge/wiki/images/Photograph Chronocyclegraph of Human Motion Against Grid Background by Frank and Lillian Gilbreth 9a7d8e8c|Photograph Chronocyclegraph of Human Motion Against Grid Background by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
-- [[knowledge/wiki/images/Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth a4cca1bb|Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: gilbreth, frank
+- [[knowledge/wiki/images/Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth a8dc8553|Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
+- [[knowledge/wiki/images/Chronocyclegraph of Human Motion Against Grid Background by Frank and Lillian Gilbreth 6b9a6618|Chronocyclegraph of Human Motion Against Grid Background by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
+- [[knowledge/wiki/images/Chronocyclegraph of a Person's Movement by Frank Gilbreth bf1a37f8|Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: gilbreth, frank
 <!-- vault-crosslinks:end -->

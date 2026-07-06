@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city
 - [[_archive/auto-generated/images-stale/aerial photograph of a city grid at night dd14d761|aerial photograph of a city grid at night]] — shared language: aerial, city
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, city
 - [[_archive/auto-generated/images-stale/abstract pastel painting with red and blue marks 4afc662e|abstract pastel painting with red and blue marks]] — shared language: marks
-- [[_archive/auto-generated/images-stale/abstract portrait made of small colored marks 12f57a00|abstract portrait made of small colored marks]] — shared language: marks, marks.jpeg
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, city
 <!-- vault-crosslinks:end -->

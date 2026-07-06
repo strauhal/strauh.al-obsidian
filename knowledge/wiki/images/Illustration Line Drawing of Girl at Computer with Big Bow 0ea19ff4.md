@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: big
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: big
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: big
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 <!-- vault-crosslinks:end -->

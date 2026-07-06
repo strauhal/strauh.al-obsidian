@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/stylized illustration of a blue skinned figure with dark hair and red polka dot background displayed in a slide mount d3b8ba0b|stylized illustration of a blue skinned figure with dark hair and red polka dot background displayed in a slide mount]] — shared language: slide, displayed, mount
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/images/Illustration Pixel Art Illustration of Woman with Hair in Bun 31b1d995|Illustration Pixel Art Illustration of Woman with Hair in Bun]] — shared language: bun, hair
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 <!-- vault-crosslinks:end -->

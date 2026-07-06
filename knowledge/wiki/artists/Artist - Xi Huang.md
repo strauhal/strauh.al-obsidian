@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/taoist-master-alfred-huang-the-complete-i-ching-10th-anniversary-edition-the-definitive-translation-by-taoist-master-alfred-huang-inner-trad|The Complete I Ching - 10th Anniversary Edition The Definitive Translation by Taoist Master Alfred Huang-Inner Traditions]] — shared language: huang
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: monochrome
 - [[knowledge/wiki/images/Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair 8289f537|Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair]] — shared language: monochrome
 - [[knowledge/wiki/images/Screenshot Monochrome Graphics Software Interface with Abstract Drawing and Menus eaa51870|Screenshot Monochrome Graphics Software Interface with Abstract Drawing and Menus]] — shared language: monochrome
 - [[knowledge/wiki/images/Illustration Monochrome Illustration of Shrek Smoking with Frieren Leaning ffa4497d|Illustration Monochrome Illustration of Shrek Smoking with Frieren Leaning]] — shared language: monochrome

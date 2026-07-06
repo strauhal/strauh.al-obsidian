@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - victor nizovtsev 2006|Artist - victor nizovtsev 2006]] — shared language: victor
 - [[knowledge/archive/auto-generated/artists-stale/Artist - victor nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
+- [[knowledge/wiki/artists/Artist - Victor Nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor
-- [[_archive/auto-generated/images-stale/mermaid by victor nizovtsev 2006 b02e95b8|mermaid by victor nizovtsev 2006]] — shared language: victor
 <!-- vault-crosslinks:end -->

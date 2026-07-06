@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, pixel, desk
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: desk, cat, computer
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: pixel
-- [[knowledge/wiki/images/Photograph David Bowie Using a Computer at a Desk f4959950|Photograph David Bowie Using a Computer at a Desk]] — shared language: desk, computer
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: desk, computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk, pixel
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: desk, cat, computer
+- [[knowledge/wiki/images/David Bowie Using a Computer at a Desk 9e153b15|David Bowie Using a Computer at a Desk]] — shared language: desk, computer
+- [[knowledge/wiki/images/Illustration Black And White Pixel Art Compilation Of Early Computer Graphics 5ba9e946|Illustration Black And White Pixel Art Compilation Of Early Computer Graphics]] — shared language: pixel, computer
+- [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — shared language: desk, computer
 <!-- vault-crosslinks:end -->

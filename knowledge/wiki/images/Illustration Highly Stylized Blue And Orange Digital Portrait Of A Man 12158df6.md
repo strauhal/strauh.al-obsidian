@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: highly, orange, stylized
 - [[knowledge/wiki/images/Illustration Abstract Green And Orange Digital Interface With Stylized Hands 9bae8d60|Illustration Abstract Green And Orange Digital Interface With Stylized Hands]] — shared language: orange, stylized, digital
 - [[knowledge/wiki/images/Illustration Stylized Portrait of a Man with Glasses and Orange Jacket fff37f41|Illustration Stylized Portrait of a Man with Glasses and Orange Jacket]] — shared language: orange, stylized
-- [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
+- [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: orange, digital
 <!-- vault-crosslinks:end -->

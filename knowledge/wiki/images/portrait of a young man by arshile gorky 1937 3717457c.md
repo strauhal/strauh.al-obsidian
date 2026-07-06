@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/portrait_of_a_yo
 - [[knowledge/wiki/images/portrait of vartoosh by arshile gorky 1933 83992339|portrait of vartoosh by arshile gorky 1933]] — same artist: arshile gorky
 - [[knowledge/wiki/images/elegy by arshile gorky ca 1939 a6cef91d|elegy by arshile gorky ca 1939]] — same artist: arshile gorky
 - [[knowledge/wiki/images/the liver is the cock s comb by arshile gorky 1944 1efe2be6|the liver is the cock s comb by arshile gorky 1944]] — same artist: arshile gorky
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 <!-- vault-crosslinks:end -->

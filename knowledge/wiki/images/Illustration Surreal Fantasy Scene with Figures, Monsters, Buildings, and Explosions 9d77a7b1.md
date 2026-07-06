@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, scene
 - [[knowledge/wiki/images/Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon 44576e4a|Illustration Stylized Fantasy Characters and Monsters Under an Orange Dragon]] — shared language: monsters, fantasy
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle 21bf8ca0|Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle]] — shared language: fantasy, surreal
-- [[knowledge/wiki/images/Photograph Soldiers Advancing Under Fire With Explosions In Background 45c9fb8d|Photograph Soldiers Advancing Under Fire With Explosions In Background]] — shared language: explosions
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements 150d10ca|Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements]] — shared language: fantasy, surreal
 <!-- vault-crosslinks:end -->

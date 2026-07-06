@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/kitten_playing_w
 - [[knowledge/wiki/images/kitten playing with a quill by georges vanden eycken 1913 565f62f2|kitten playing with a quill by georges vanden eycken 1913]] — shared language: vanden, eycken, quill
 - [[knowledge/wiki/artists/Artist - georges vanden eycken|Artist - georges vanden eycken]] — shared language: vanden, eycken, quill
 - [[knowledge/wiki/images/sir frank dicksee the sick kitten 1879 52939458|sir frank dicksee the sick kitten 1879]] — shared language: kitten
-- [[knowledge/wiki/images/Photograph Kitten on Desk with Computer Monitor and Personal Items 9fa4427b|Photograph Kitten on Desk with Computer Monitor and Personal Items]] — shared language: kitten
-- [[knowledge/wiki/images/Illustration Abstract Sketch of a Person Playing a Grand Piano 15326c2f|Illustration Abstract Sketch of a Person Playing a Grand Piano]] — shared language: playing
+- [[knowledge/wiki/images/Kitten on Desk with Computer Monitor and Personal Items 7e7c60c6|Kitten on Desk with Computer Monitor and Personal Items]] — shared language: kitten
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: playing
 <!-- vault-crosslinks:end -->

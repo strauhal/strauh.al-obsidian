@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - rodney smith|Artist - rodney smith]] — shared language: smith
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rodney smith 1991|Artist - rodney smith 1991]] — shared language: smith
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
-- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: smith
+- [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
 - [[knowledge/wiki/images/the architect s dream by rodney smith 1991 c3d56977|the architect s dream by rodney smith 1991]] — shared language: smith
 <!-- vault-crosslinks:end -->

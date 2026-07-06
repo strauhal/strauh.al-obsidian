@@ -37,8 +37,8 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — same category: art aesthetics
-- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — same category: art aesthetics
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
+- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — same category: art aesthetics
 - [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/2015-29158-the-story-of-art|2015.29158.The-Story-Of-Art]] — same category: art aesthetics

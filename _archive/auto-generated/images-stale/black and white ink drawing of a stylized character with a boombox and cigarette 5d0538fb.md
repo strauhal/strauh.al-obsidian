@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Stylized Character with Boombox, Cigarette, and Hat 0cba3c92|Illustration Stylized Character with Boombox, Cigarette, and Hat]] — shared language: boombox, cigarette, character
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[_archive/auto-generated/images-stale/black and white ink drawing of a person with a halo covering their face at a table with a bottle and cigarette e11e0ae0|black and white ink drawing of a person with a halo covering their face at a table with a bottle and cigarette]] — shared language: cigarette, ink, cigarette.jpg
 - [[knowledge/wiki/images/Illustration Ink and Wash Painting of Stylized Dark Figure baa287ef|Illustration Ink and Wash Painting of Stylized Dark Figure]] — shared language: stylized, ink
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
+- [[_archive/auto-generated/images-stale/black and white ink drawing of a person with a halo covering their face at a table with a bottle and cigarette e11e0ae0|black and white ink drawing of a person with a halo covering their face at a table with a bottle and cigarette]] — shared language: cigarette, ink, cigarette.jpg
 <!-- vault-crosslinks:end -->

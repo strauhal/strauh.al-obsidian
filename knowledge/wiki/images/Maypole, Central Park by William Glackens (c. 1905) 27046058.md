@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Maypole, Central
 - [[knowledge/wiki/images/the soda fountain by william glackens 1935 19b80d08|the soda fountain by william glackens 1935]] — shared language: glackens, william
 - [[knowledge/wiki/images/Picnic in Central Park by Cesar Santos (2013) 24e5e2f3|Picnic in Central Park by Cesar Santos (2013)]] — shared language: park, central
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park
-- [[knowledge/wiki/images/Photograph Person at desk overlooking Central Park and New York City skyline 74f91637|Photograph Person at desk overlooking Central Park and New York City skyline]] — shared language: park, central
+- [[knowledge/wiki/images/Person at desk overlooking Central Park and New York City skyline af2d49c1|Person at desk overlooking Central Park and New York City skyline]] — shared language: park, central
 <!-- vault-crosslinks:end -->

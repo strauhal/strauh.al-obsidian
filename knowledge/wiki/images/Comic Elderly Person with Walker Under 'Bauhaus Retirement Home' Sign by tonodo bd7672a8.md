@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Elderly 
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - Diana Walker|Artist - Diana Walker]] — shared language: walker
-- [[knowledge/wiki/images/Photograph Person Playing Keyboard in a Home Studio with Headphones 4e4ff4ed|Photograph Person Playing Keyboard in a Home Studio with Headphones]] — shared language: home, person
-- [[knowledge/wiki/images/Illustration Charcoal Portraits of an Elderly Man and Woman e814e9e5|Illustration Charcoal Portraits of an Elderly Man and Woman]] — shared language: elderly
+- [[knowledge/wiki/artists/Artist - walker evans|Artist - walker evans]] — shared language: walker
+- [[knowledge/wiki/images/Person Playing Keyboard in a Home Studio with Headphones 3c7e30c0|Person Playing Keyboard in a Home Studio with Headphones]] — shared language: home, person
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: sexual
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train, graffiti
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: acts
-- [[knowledge/wiki/images/Photograph Train with Headlights Inside Another Train Car d14bb878|Photograph Train with Headlights Inside Another Train Car]] — shared language: train, car, car.jpg
+- [[knowledge/wiki/images/Train with Headlights Inside Another Train Car 2d35357c|Train with Headlights Inside Another Train Car]] — shared language: train, car, car.jpg
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/NAKE-ERGE-ZB+ by
 
 - [[knowledge/wiki/images/black and white photograph of frieder nake holding two computer generated drawings 1966 eb41bc14|black and white photograph of frieder nake holding two computer generated drawings 1966]] — shared language: nake, frieder
 - [[knowledge/wiki/images/My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969) eb2088aa|My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Nativity by Kost' Markovych cd6236af|Nativity by Kost' Markovych]] — nearby note in the same source series
+- [[knowledge/wiki/images/NYPD Officer Rappelling Past Window With Tiger Inside Building c00bb6ed|NYPD Officer Rappelling Past Window With Tiger Inside Building]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

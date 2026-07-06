@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: sigils, occult, circuit
-- [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board, green
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, green
 - [[_archive/auto-generated/images-stale/grid of 72 black and white occult sigils with labels 5eaae102|grid of 72 black and white occult sigils with labels]] — shared language: sigils, occult
 - [[knowledge/wiki/images/Illustration Grid of 72 Black and White Occult Sigils with Labels 9a03e51d|Illustration Grid of 72 Black and White Occult Sigils with Labels]] — shared language: sigils, occult
+- [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board, green
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board, green
 <!-- vault-crosslinks:end -->

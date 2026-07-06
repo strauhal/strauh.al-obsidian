@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed vertical painting of people in a cafe or restaurant 70e453a1|framed vertical painting of people in a cafe or restaurant]] — shared language: cafe, people, framed
+- [[_archive/auto-generated/images-stale/framed vertical painting of people in a cafe or restaurant 70e453a1|framed vertical painting of people in a cafe or restaurant]] — shared language: cafe, framed, people
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/images/Illustration Sketch of a Cafe Interior with Two Figures by a Window c4166d56|Illustration Sketch of a Cafe Interior with Two Figures by a Window]] — shared language: cafe, interior
 - [[knowledge/wiki/images/Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers 2a300ad4|Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers]] — shared language: cafe, interior

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
 - [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds, background
-- [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: birds, small
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Sketch of a Small Garden with Rocks 43decec8|Illustration Watercolor and Ink Sketch of a Small Garden with Rocks]] — shared language: watercolor, small
+- [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: birds, small
+- [[knowledge/wiki/images/Illustration Watercolor Painting of a Small Town with Church Steeple d45837cd|Illustration Watercolor Painting of a Small Town with Church Steeple]] — shared language: watercolor, small
 <!-- vault-crosslinks:end -->

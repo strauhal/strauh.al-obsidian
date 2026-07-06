@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ha
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes ad5323cb|Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes]] — shared language: handwritten, document
-- [[knowledge/wiki/images/monk in the snow by koyo kageyama 1923 67aca098|monk in the snow by koyo kageyama 1923]] — shared language: monk
-- [[knowledge/wiki/images/Photograph The Burning Monk by Malcolm Browne a048d147|Photograph The Burning Monk by Malcolm Browne]] — shared language: monk
+- [[knowledge/wiki/images/Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text 12185c76|Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text]] — shared language: handwritten
+- [[knowledge/wiki/images/Document Open Book with Handwritten Musical Score by Wolfgang Amadeus Mozart 49f01eca|Document Open Book with Handwritten Musical Score by Wolfgang Amadeus Mozart]] — shared language: handwritten, document
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Boy G
 
 - [[knowledge/wiki/images/Comic Two Panel Comic About Videoconference And Coffee Tea Preference by VOST 1ea5c8e8|Comic Two Panel Comic About Videoconference And Coffee Tea Preference by VOST]] — same artist: vost
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
-- [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: phone
+- [[knowledge/wiki/images/Black And White Photo Of Boy Looking Into Mirror a25b261a|Black And White Photo Of Boy Looking Into Mirror]] — shared language: boy
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic
+- [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: phone
 <!-- vault-crosslinks:end -->

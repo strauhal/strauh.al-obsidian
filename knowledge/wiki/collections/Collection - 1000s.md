@@ -29,11 +29,11 @@ Files: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, diagram
 - [[knowledge/wiki/images/adam and eve by emil nolde 1913 db507d33|adam and eve by emil nolde 1913]] — shared language: eve, adam
 - [[knowledge/wiki/images/Paradise Cove 39cc66d1|Paradise Cove]] — shared language: paradise
 - [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — shared language: short
-- [[knowledge/wiki/images/Photograph Man With Beard And Glasses Holding A Drawing 5d8c7f64|Photograph Man With Beard And Glasses Holding A Drawing]] — shared language: beard
+- [[knowledge/wiki/images/Man With Beard And Glasses Holding A Drawing a95a1501|Man With Beard And Glasses Holding A Drawing]] — shared language: beard
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: left
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+- [[knowledge/wiki/images/Eve by John Collier (1900) 2d8171d8|Eve by John Collier (1900)]] — shared language: eve
 <!-- vault-crosslinks:end -->

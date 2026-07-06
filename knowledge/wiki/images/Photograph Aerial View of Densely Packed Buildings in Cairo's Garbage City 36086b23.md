@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Cairo Cityscape d55e687b|Photograph Aerial View of Densely Packed Cairo Cityscape]] — shared language: packed, densely, aerial
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, city, buildings
 - [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: densely, aerial, buildings
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, densely, buildings
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view, city
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: packed, densely, buildings
-- [[knowledge/wiki/images/Photograph Densely Packed Apartment Buildings With Bamboo Scaffolding, Looking Up 4bb77877|Photograph Densely Packed Apartment Buildings With Bamboo Scaffolding, Looking Up]] — shared language: packed, densely, buildings
 <!-- vault-crosslinks:end -->

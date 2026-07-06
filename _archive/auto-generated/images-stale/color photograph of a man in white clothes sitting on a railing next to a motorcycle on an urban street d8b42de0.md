@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man In White Clothes Sitting On Railing Next To Motorcycle fa4ea67c|Photograph Man In White Clothes Sitting On Railing Next To Motorcycle]] — shared language: clothes, motorcycle, railing
+- [[knowledge/wiki/images/Man In White Clothes Sitting On Railing Next To Motorcycle b4391678|Man In White Clothes Sitting On Railing Next To Motorcycle]] — shared language: clothes, motorcycle, railing
+- [[_archive/auto-generated/images-stale/Photograph Man In White Clothes Sitting On Railing Next To Motorcycle fa4ea67c|Photograph Man In White Clothes Sitting On Railing Next To Motorcycle]] — shared language: clothes, motorcycle, railing
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, street
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
 <!-- vault-crosslinks:end -->

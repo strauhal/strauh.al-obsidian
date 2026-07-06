@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - D.H. Lawrence by Edward Weston.jpg]]
+![[media/strauh.al3.1/photography/D.H. Lawrence by Edward Weston.jpg]]
 
 ## Image Notes
 
-- [[Photograph D.H. Lawrence by Edward Weston f2ad2ddd|Photograph D.H. Lawrence by Edward Weston]]
+- [[D.H. Lawrence by Edward Weston 6ed0b232|D.H. Lawrence by Edward Weston]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

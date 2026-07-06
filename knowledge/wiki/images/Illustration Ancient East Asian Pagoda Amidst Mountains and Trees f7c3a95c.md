@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of an East Asian Woman with Floral Background 9c3c5857|Illustration Oil Painting Portrait of an East Asian Woman with Floral Background]] — shared language: asian, east
 - [[knowledge/wiki/images/Illustration Detailed Ink And Wash Painting Of An East Asian City 0ec4adfa|Illustration Detailed Ink And Wash Painting Of An East Asian City]] — shared language: asian, east
 - [[knowledge/wiki/images/Illustration Chinese Landscape Painting with Red Mountains, Water, Boats, and Pagoda 2ce223a8|Illustration Chinese Landscape Painting with Red Mountains, Water, Boats, and Pagoda]] — shared language: pagoda, mountains
+- [[knowledge/wiki/images/Colorful Network Diagram Connecting East Asian Locations 213e3df1|Colorful Network Diagram Connecting East Asian Locations]] — shared language: asian, east
 - [[knowledge/wiki/images/Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings 8d5f32de|Photograph Photograph of Traditional East Asian Ink Wash Mountain Scroll Paintings]] — shared language: asian, east
-- [[knowledge/wiki/images/Diagram Colorful Network Diagram Connecting East Asian Locations 8fbc2ce3|Diagram Colorful Network Diagram Connecting East Asian Locations]] — shared language: asian, east
 <!-- vault-crosslinks:end -->

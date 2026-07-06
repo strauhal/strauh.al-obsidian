@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Gondolas on a Canal at an Exposition 62db731f|Illustration Black and White Illustration of Gondolas on a Canal at an Exposition]] — shared language: gondolas, canal
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: canal, buildings
 - [[knowledge/wiki/images/The Grand Canal, Venice, with Santa Maria della Salute by F (c. 1880 1890) 68e23dfa|The Grand Canal, Venice, with Santa Maria della Salute by F (c. 1880 1890)]] — shared language: canal, grand
 - [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: canal
-- [[knowledge/wiki/images/Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues 9c8e899b|Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues]] — shared language: grand, buildings
 <!-- vault-crosslinks:end -->

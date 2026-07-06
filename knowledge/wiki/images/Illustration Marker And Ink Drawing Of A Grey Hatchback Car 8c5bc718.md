@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Pencil Sketches of Rear Views of a Hatchback Car 2afa882b|Illustration Two Pencil Sketches of Rear Views of a Hatchback Car]] — shared language: hatchback, car, car.jpg
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/images/Illustration Two Pencil Sketches of Rear Views of a Hatchback Car 2afa882b|Illustration Two Pencil Sketches of Rear Views of a Hatchback Car]] — shared language: hatchback, car, car.jpg
 - [[knowledge/wiki/images/Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes e6cc8dbb|Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes]] — shared language: marker, ink
 - [[knowledge/wiki/images/Illustration Ink and Marker Sketch of Interior Room with Orange Chair 1909bb5c|Illustration Ink and Marker Sketch of Interior Room with Orange Chair]] — shared language: marker, ink
-- [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
+- [[knowledge/wiki/images/Illustration Ink and Marker Sketch of a Busy Restaurant Interior e3b10591|Illustration Ink and Marker Sketch of a Busy Restaurant Interior]] — shared language: marker, ink
 <!-- vault-crosslinks:end -->

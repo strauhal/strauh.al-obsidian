@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
 - [[knowledge/wiki/artists/Artist - bill watterson|Artist - bill watterson]] — shared language: watterson, bill, calvin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: watterson, bill, hobbes
-- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, hobbes
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, hobbes
+- [[_archive/auto-generated/images-stale/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, hobbes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: watterson, bill, hobbes
-- [[knowledge/wiki/images/calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]] — shared language: watterson, bill, hobbes
 <!-- vault-crosslinks:end -->

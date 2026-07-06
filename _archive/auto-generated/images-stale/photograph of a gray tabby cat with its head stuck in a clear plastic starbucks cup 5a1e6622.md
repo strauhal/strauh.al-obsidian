@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup 5839e5e9|Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup]] — shared language: starbucks, tabby, stuck
-- [[knowledge/wiki/images/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: tabby, cat
+- [[knowledge/wiki/images/Gray Tabby Cat With Head Stuck In Starbucks Cup ce916c15|Gray Tabby Cat With Head Stuck In Starbucks Cup]] — shared language: starbucks, tabby, stuck
+- [[_archive/auto-generated/images-stale/Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup 5839e5e9|Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup]] — shared language: starbucks, tabby, stuck
 - [[knowledge/wiki/images/Illustration Still Life with Open Book, Dark Cup, and Clear Glass e743edea|Illustration Still Life with Open Book, Dark Cup, and Clear Glass]] — shared language: cup, clear
 - [[_archive/auto-generated/images-stale/oil painting of a green drink in a plastic cup with a purple logo deaa5567|oil painting of a green drink in a plastic cup with a purple logo]] — shared language: cup, plastic
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franz stuck 1891|Artist - franz stuck 1891]] — shared language: stuck

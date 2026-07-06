@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Bronze Statue of Standing Buddhist Figure Holding Staff on Pedestal 79fc1e86|Illustration Bronze Statue of Standing Buddhist Figure Holding Staff on Pedestal]] — shared language: bronze, pedestal, buddhist
+- [[knowledge/wiki/images/Illustration Bronze Statue of Standing Buddhist Figure Holding Staff on Pedestal 79fc1e86|Illustration Bronze Statue of Standing Buddhist Figure Holding Staff on Pedestal]] — shared language: bronze, pedestal, staff
 - [[_archive/auto-generated/images-stale/group of patinated bronze vessels and utensils 7c88e127|group of patinated bronze vessels and utensils]] — shared language: bronze
 - [[knowledge/wiki/images/Illustration Two Wire Sculptures of Horses on a White Pedestal 33e4bede|Illustration Two Wire Sculptures of Horses on a White Pedestal]] — shared language: pedestal, pedestal.jpeg
 - [[knowledge/wiki/books/watson-burton-the-lotus-sutra-columbia-university-press|The Lotus Sutra-Columbia University Press]] — shared language: lotus

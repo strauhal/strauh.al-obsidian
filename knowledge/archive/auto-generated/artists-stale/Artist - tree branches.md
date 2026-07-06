@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: tree, across, classical
 - [[knowledge/wiki/images/Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall 6d45aca8|Illustration Stacked Glass Jars With Tree Branches Inside, Against A White Wall]] — shared language: branches, tree
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
-- [[knowledge/wiki/images/Illustration White Mossy Tree Branches Over Layered Brown Strata 7cc4b8c7|Illustration White Mossy Tree Branches Over Layered Brown Strata]] — shared language: branches, tree
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
 - [[_archive/auto-generated/images-stale/line drawing of a bare tree with small objects hanging from branches db010ebb|line drawing of a bare tree with small objects hanging from branches]] — shared language: branches, tree
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [the-great-gatsby]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/the-great-gatsby.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Great Gatsby

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - A 
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: want
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: want
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land, nick
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick, land
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: philosophy, want
 <!-- vault-crosslinks:end -->

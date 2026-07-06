@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/landscape_with_y
 
 - [[knowledge/wiki/images/Illustration Abstract Landscape with Red and Blue Mountains and Green Fields 34daa5a4|Illustration Abstract Landscape with Red and Blue Mountains and Green Fields]] — shared language: fields, mountains, landscape
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: snow, landscape
-- [[knowledge/wiki/images/Photograph Silver Teapot On Post With Snow Capped Mountains In Background 2352752e|Photograph Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, mountains
 - [[knowledge/wiki/artists/Artist - f h zvanich|Artist - f h zvanich]] — shared language: zvanich
-- [[knowledge/wiki/images/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/images/Aerial View of City, Water, and Snow Capped Mountains f2eb6868|Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, mountains
+- [[knowledge/wiki/images/Horses Grazing in a Green Field with Snow Capped Mountains bccaac19|Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: capped, snow, mountains
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Blu
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
-- [[knowledge/wiki/images/Photograph Blurry Monochrome Portrait Of A Person cde85ba2|Photograph Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Illustration Glitched Image of Pink Azalea Flower with Vertical Streaks c805ed33|Illustration Glitched Image of Pink Azalea Flower with Vertical Streaks]] — shared language: streaks, flower
 - [[knowledge/wiki/images/Illustration Still Life with Yellow Heel, Martini, Purse, Glove, Lily f0f41b67|Illustration Still Life with Yellow Heel, Martini, Purse, Glove, Lily]] — shared language: lily, yellow
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Photograph Blurry Night Photograph of Buildings with Red and Blue Lights 4dc72be0|Photograph Blurry Night Photograph of Buildings with Red and Blue Lights]] — shared language: blurry
 <!-- vault-crosslinks:end -->

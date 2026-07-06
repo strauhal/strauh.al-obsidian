@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Black Ink Sketch of a Bearded Man with Glasses 608e2426|Illustration Black Ink Sketch of a Bearded Man with Glasses]] — shared language: glasses, ink, glasses.jpg
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
+- [[knowledge/wiki/images/Comic Black And White Comic Panels Of An Older Man In Glasses by Alberto Breccia 0875db82|Comic Black And White Comic Panels Of An Older Man In Glasses by Alberto Breccia]] — shared language: older, glasses
 <!-- vault-crosslinks:end -->

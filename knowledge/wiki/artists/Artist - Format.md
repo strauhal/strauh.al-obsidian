@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - U.S. Recorded Music Revenues by Format.png]]
+![[media/strauh.al3.1/diagrams/U.S._Recorded_Music_Revenues_by_Format.png]]
 
 ## Image Notes
 
-- [[Diagram U.S. Recorded Music Revenues by Format 65219746|Diagram U.S. Recorded Music Revenues by Format]]
+- [[U.S. Recorded Music Revenues by Format 601d8572|U.S. Recorded Music Revenues by Format]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

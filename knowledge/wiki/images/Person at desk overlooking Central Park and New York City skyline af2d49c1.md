@@ -1,0 +1,33 @@
+---
+title: "Person at desk overlooking Central Park and New York City skyline"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Person at desk overlooking Central Park and New York City skyline.jpg"
+source_relpath: "photography/Person at desk overlooking Central Park and New York City skyline.jpg"
+collection: "photography"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/photography"]
+---
+# Person at desk overlooking Central Park and New York City skyline
+
+![[media/strauh.al3.1/photography/Person at desk overlooking Central Park and New York City skyline.jpg]]
+
+Collection: [[Collection - photography]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/photography/Person at desk overlooking Central Park and New York City skyline.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Person at desk overlooking Central Park and New York City skyline.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Person Standing on Tall Pole Above New York City Skyline b74071ae|Person Standing on Tall Pole Above New York City Skyline]] — shared language: skyline, york, new
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: desk
+- [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — shared language: york, new, city
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — shared language: skyline, skyline.jpg
+<!-- vault-crosslinks:end -->

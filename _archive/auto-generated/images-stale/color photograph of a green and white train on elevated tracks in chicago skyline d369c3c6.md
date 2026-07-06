@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph Green And White Train On Elevated Tracks In Chicago Skyline 76c51897|Photograph Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated, skyline
+- [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
+- [[_archive/auto-generated/images-stale/Photograph Green And White Train On Elevated Tracks In Chicago Skyline 76c51897|Photograph Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
 - [[knowledge/wiki/images/Photograph Elevated Train and Buildings at 1893 Chicago World's Fair 411f257c|Photograph Elevated Train and Buildings at 1893 Chicago World's Fair]] — shared language: elevated, train, chicago
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 <!-- vault-crosslinks:end -->

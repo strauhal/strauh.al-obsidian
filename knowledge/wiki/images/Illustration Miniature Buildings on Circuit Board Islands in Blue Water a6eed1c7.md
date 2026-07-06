@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 - [[knowledge/wiki/images/Illustration Stylized Figure in Circuit Board Garment on Blue Background e8567bc9|Illustration Stylized Figure in Circuit Board Garment on Blue Background]] — shared language: circuit, board
-- [[knowledge/wiki/images/Photograph Close Up Of The Back Of A Dark Blue Circuit Board 42b3deaa|Photograph Close Up Of The Back Of A Dark Blue Circuit Board]] — shared language: circuit, board
-- [[knowledge/wiki/images/Photograph Close up Photograph of Circuit Board with Cat Shaped Traces a55798ba|Photograph Close up Photograph of Circuit Board with Cat Shaped Traces]] — shared language: circuit, board
-- [[knowledge/wiki/images/Photograph Hand Holding An Old Apple Computer Circuit Board 2bbada83|Photograph Hand Holding An Old Apple Computer Circuit Board]] — shared language: circuit, board
+- [[knowledge/wiki/images/Close Up Of The Back Of A Dark Blue Circuit Board 82df335e|Close Up Of The Back Of A Dark Blue Circuit Board]] — shared language: circuit, board
+- [[knowledge/wiki/images/Hand Holding An Old Apple Computer Circuit Board dbba7549|Hand Holding An Old Apple Computer Circuit Board]] — shared language: circuit, board
 <!-- vault-crosslinks:end -->

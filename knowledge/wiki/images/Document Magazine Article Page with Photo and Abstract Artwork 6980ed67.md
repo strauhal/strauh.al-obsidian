@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ma
 
 - [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: article, document
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
-- [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
 - [[knowledge/wiki/images/Document Newspaper Article About Computer Art With Abstract Geometric Image 2d3e2b57|Document Newspaper Article About Computer Art With Abstract Geometric Image]] — shared language: article, document
 <!-- vault-crosslinks:end -->

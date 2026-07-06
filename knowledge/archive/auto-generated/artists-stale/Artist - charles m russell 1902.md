@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles marion russell 1916|Artist - charles marion russell 1916]] — shared language: russell, charles
 - [[knowledge/wiki/images/loops and swift horses are surer than lead by charles marion russell 1916 20ab1eac|loops and swift horses are surer than lead by charles marion russell 1916]] — shared language: russell, charles
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
-- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — shared language: russell
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: charles
 <!-- vault-crosslinks:end -->

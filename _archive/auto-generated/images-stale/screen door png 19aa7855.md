@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/screen_door_p
 
 - [[_archive/auto-generated/images-stale/photo through a screen door of trees bbe51fd4|photo through a screen door of trees]] — shared language: door, screen
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
-- [[knowledge/wiki/images/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: door, screen
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
+- [[_archive/auto-generated/images-stale/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: door, screen
+- [[knowledge/wiki/images/Trees Seen Through A Screen Door 5e2666be|Trees Seen Through A Screen Door]] — shared language: door, screen
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 <!-- vault-crosslinks:end -->

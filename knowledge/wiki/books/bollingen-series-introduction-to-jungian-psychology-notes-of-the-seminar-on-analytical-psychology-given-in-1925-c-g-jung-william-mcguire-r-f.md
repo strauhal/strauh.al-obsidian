@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(Bollingen Series) Introduction to Jungian Psychology_ Notes of the Seminar on Analytical Psychology Given in 1925 - C. G. Jung & William McGuire & R. F. C. Hull & Sonu Shamdasani.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # C. G. Jung & William McGuire & R. F. C. Hull & Sonu Shamdasani

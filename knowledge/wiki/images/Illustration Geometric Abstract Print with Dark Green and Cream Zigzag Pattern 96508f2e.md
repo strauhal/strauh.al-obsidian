@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: pattern, geometric, green
 - [[knowledge/wiki/images/Illustration Textured Abstract Geometric Art with Zigzag and Parallel Lines 7c07207c|Illustration Textured Abstract Geometric Art with Zigzag and Parallel Lines]] — shared language: zigzag, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Print with Concave Gray Line Pattern 16d9d254|Illustration Abstract Geometric Print with Concave Gray Line Pattern]] — shared language: print, pattern, geometric
-- [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pattern, geometric
 - [[knowledge/wiki/images/Illustration Black and Beige Geometric Print of Interlocking Parallelograms a9eb011b|Illustration Black and Beige Geometric Print of Interlocking Parallelograms]] — shared language: print, geometric
+- [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pattern, geometric
 <!-- vault-crosslinks:end -->

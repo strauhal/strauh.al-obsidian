@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - fei lihua|Artist - Fei Lihua]] — named in this note
+- [[knowledge/wiki/artists/Artist - Fei Lihua|Artist - Fei Lihua]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - fei lihua|Artist - Fei Lihua]] — shared language: lihua, fei, hands
 - [[knowledge/wiki/images/Illustration Close up Painting of Two Hands Clasped Together by Fei Lihua 5e9608d3|Illustration Close up Painting of Two Hands Clasped Together by Fei Lihua]] — shared language: lihua, fei, hands
 - [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
 - [[knowledge/wiki/artists/Artist - Fei Danxu|Artist - Fei Danxu]] — shared language: fei
 - [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei|Artist - cao fei]] — shared language: fei
-- [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei 2007|Artist - cao fei 2007]] — shared language: fei
 <!-- vault-crosslinks:end -->

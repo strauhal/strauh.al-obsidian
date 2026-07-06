@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: oda
 - [[knowledge/wiki/images/Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda 481af4d9|Comic Manga Panel of Luffy Fighting Kaido in Dragon Form by Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: moonlight
-- [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: moonlight
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

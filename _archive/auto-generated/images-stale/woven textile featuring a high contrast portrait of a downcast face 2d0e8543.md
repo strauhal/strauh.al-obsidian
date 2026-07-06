@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: downcast, woven, textile
 - [[_archive/auto-generated/images-stale/high contrast black and white pixelated portrait of a woman 6aaefc34|high contrast black and white pixelated portrait of a woman]] — shared language: contrast, high
 - [[_archive/auto-generated/images-stale/high contrast black and white close up of a face with flowing hair 4c611fca|high contrast black and white close up of a face with flowing hair]] — shared language: contrast, high, face
-- [[knowledge/wiki/images/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high, face
-- [[knowledge/wiki/images/Illustration Abstract Woven Textile with Colorful Organic Shapes 4033a7d2|Illustration Abstract Woven Textile with Colorful Organic Shapes]] — shared language: woven, textile
+- [[knowledge/wiki/images/High Contrast Black And White Close Up Of Face With Flowing Hair e38a9631|High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high, face
+- [[_archive/auto-generated/images-stale/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high, face
 <!-- vault-crosslinks:end -->

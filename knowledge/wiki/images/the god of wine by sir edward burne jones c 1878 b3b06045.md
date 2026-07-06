@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_god_of_wine_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: god
 - [[knowledge/wiki/images/god ec3a662d|god]] — shared language: god
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
-- [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
+- [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: edward
+- [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: edward
 <!-- vault-crosslinks:end -->

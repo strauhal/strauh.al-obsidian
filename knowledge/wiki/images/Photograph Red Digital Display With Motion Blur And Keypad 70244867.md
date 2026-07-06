@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Red
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
+- [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display
 - [[knowledge/wiki/images/Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights 90596a6b|Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights]] — shared language: blur, motion
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Running Cheetah with Motion Blur 59d3c158|Illustration Pencil Sketch of Running Cheetah with Motion Blur]] — shared language: blur, motion
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: blur, motion
-- [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: motion
+- [[knowledge/wiki/images/Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur f5972813|Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: blur, motion
 <!-- vault-crosslinks:end -->

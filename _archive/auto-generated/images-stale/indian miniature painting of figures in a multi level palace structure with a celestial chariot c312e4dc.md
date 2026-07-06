@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: chariot, indian, level
-- [[_archive/auto-generated/images-stale/indian miniature painting of a multi tiered palace and garden complex with cityscape fa138d8e|indian miniature painting of a multi tiered palace and garden complex with cityscape]] — shared language: indian, palace, miniature
-- [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: indian, palace, miniature
-- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape bd3c618c|Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape]] — shared language: indian, palace, miniature
-- [[_archive/auto-generated/images-stale/indian miniature painting of a palace and formal gardens with a cityscape beyond 26483544|indian miniature painting of a palace and formal gardens with a cityscape beyond]] — shared language: indian, palace, miniature
+- [[_archive/auto-generated/images-stale/indian miniature painting of a multi tiered palace and garden complex with cityscape fa138d8e|indian miniature painting of a multi tiered palace and garden complex with cityscape]] — shared language: indian, miniature, palace
+- [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: indian, miniature, palace
+- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape bd3c618c|Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape]] — shared language: indian, miniature, palace
+- [[_archive/auto-generated/images-stale/indian miniature painting of a palace and formal gardens with a cityscape beyond 26483544|indian miniature painting of a palace and formal gardens with a cityscape beyond]] — shared language: indian, miniature, palace
 <!-- vault-crosslinks:end -->

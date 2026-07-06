@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/soldatengrab_sol
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
 - [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — same artist: otto dix
 - [[knowledge/wiki/images/Illustration Distressed Soldier Lying in Trench, Eyes Wide Open by Otto Dix 0b27bf0f|Illustration Distressed Soldier Lying in Trench, Eyes Wide Open by Otto Dix]] — same artist: otto dix
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto, soldier
 - [[knowledge/wiki/images/The Lovers by Otto Dix (1925) f3c9af5a|The Lovers by Otto Dix (1925)]] — shared language: dix, otto
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto
 <!-- vault-crosslinks:end -->

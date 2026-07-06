@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Oil Painting of a Vineyard Landscape with Distant Hills 9c10d1f8|Illustration Oil Painting of a Vineyard Landscape with Distant Hills]] — shared language: distant, hills, landscape
 - [[_archive/auto-generated/images-stale/oil painting of a vineyard landscape with distant hills d58354c4|oil painting of a vineyard landscape with distant hills]] — shared language: distant, hills, landscape
 - [[_archive/auto-generated/images-stale/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: hills, framed, landscape
+- [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
 - [[knowledge/wiki/images/Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay 07fc9c60|Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay]] — shared language: coastal, hills, landscape
-- [[_archive/auto-generated/images-stale/framed coastal landscape with red hill and small boat 9ce393b9|framed coastal landscape with red hill and small boat]] — shared language: coastal, framed, landscape
 <!-- vault-crosslinks:end -->

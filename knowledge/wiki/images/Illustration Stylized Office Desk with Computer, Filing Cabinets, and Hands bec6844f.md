@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: filing, cabinets
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: desk, office, computer
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: office, desk, computer
 - [[knowledge/wiki/images/Illustration Black And White Pixel Art Of Man And Cat At Computer Desk e7ba67b5|Illustration Black And White Pixel Art Of Man And Cat At Computer Desk]] — shared language: desk, computer
-- [[knowledge/wiki/images/Photograph Modern Office Interior with Chair, Desk, and City View 2f13a114|Photograph Modern Office Interior with Chair, Desk, and City View]] — shared language: desk, office
+- [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: office, desk
 <!-- vault-crosslinks:end -->

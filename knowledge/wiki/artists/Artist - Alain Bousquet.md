@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/alain-de-botton-how-proust-can-change-your-life-vintage|How Proust Can Change Your Life-Vintage]] — shared language: alain
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 - [[knowledge/wiki/images/Illustration Stylized Figure in Circuit Board Garment on Blue Background e8567bc9|Illustration Stylized Figure in Circuit Board Garment on Blue Background]] — shared language: circuit, board
-- [[knowledge/wiki/images/Photograph Close Up Of The Back Of A Dark Blue Circuit Board 42b3deaa|Photograph Close Up Of The Back Of A Dark Blue Circuit Board]] — shared language: circuit, board
-- [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: circuit, board, digital
+- [[knowledge/wiki/images/Close Up Of The Back Of A Dark Blue Circuit Board 82df335e|Close Up Of The Back Of A Dark Blue Circuit Board]] — shared language: circuit, board
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
+- [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: circuit, board, digital
 <!-- vault-crosslinks:end -->

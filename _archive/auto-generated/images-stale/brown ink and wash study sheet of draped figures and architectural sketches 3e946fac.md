@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches 1cc1c4f4|Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches]] — shared language: sheet, sketches, ink
 - [[knowledge/wiki/images/Illustration Ink Sketches of Draped Figures and Seated People c5c4563c|Illustration Ink Sketches of Draped Figures and Seated People]] — shared language: draped, sketches, ink
 - [[_archive/auto-generated/images-stale/ink sketches of draped figures and two seated people f959532a|ink sketches of draped figures and two seated people]] — shared language: draped, sketches, ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: wash, ink
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 <!-- vault-crosslinks:end -->

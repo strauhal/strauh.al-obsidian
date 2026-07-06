@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Wall Text 'Who Is Your Muse ' With Sticky Notes 845e1380|Photograph Wall Text 'Who Is Your Muse ' With Sticky Notes]] — shared language: muse, sticky, wall
 - [[knowledge/wiki/images/Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes ad5323cb|Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes]] — shared language: sticky, handwritten, text
-- [[knowledge/wiki/images/Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text 12185c76|Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text]] — shared language: handwritten, text
 - [[knowledge/wiki/images/la muse by pablo picasso 1935 ead13956|la muse by pablo picasso 1935]] — shared language: muse
+- [[knowledge/wiki/images/Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text 12185c76|Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text]] — shared language: handwritten, text
 - [[knowledge/wiki/images/Illustration Stylized Black Hands Enclosing Green Shape With Text Below 35ad07ea|Illustration Stylized Black Hands Enclosing Green Shape With Text Below]] — shared language: below, text
 <!-- vault-crosslinks:end -->

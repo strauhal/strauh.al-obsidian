@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the dead horse by paulus potter 1652 34b48453|the dead horse by paulus potter 1652]] — shared language: paulus
 - [[knowledge/wiki/images/the capture of field marshal paulus by boris efimovich efimov 1943 5b681d4b|the capture of field marshal paulus by boris efimovich efimov 1943]] — shared language: paulus
 - [[knowledge/wiki/artists/Artist - boris efimovich efimov|Artist - boris efimovich efimov]] — shared language: paulus
-- [[knowledge/wiki/images/Photograph Figure In White Robe And Metallic Mask Raising A Hand f8b6501c|Photograph Figure In White Robe And Metallic Mask Raising A Hand]] — shared language: raising
-- [[knowledge/wiki/images/Photograph Man with Red Marks on Face, Raising Fist, American Flag 55ff7ece|Photograph Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: raising
+- [[knowledge/wiki/images/Figure In White Robe And Metallic Mask Raising A Hand 5a93bb61|Figure In White Robe And Metallic Mask Raising A Hand]] — shared language: raising
+- [[knowledge/wiki/images/Man with Red Marks on Face, Raising Fist, American Flag 8cb1a488|Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: raising
 <!-- vault-crosslinks:end -->

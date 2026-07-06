@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground f7d870f0|Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground]] — shared language: water, sky, green
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
-- [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: sky, green
+- [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: screenshot, sky, sky.png
 <!-- vault-crosslinks:end -->

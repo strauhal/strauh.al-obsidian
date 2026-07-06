@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop, narrow
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display, long
 - [[knowledge/wiki/images/Photograph Modern Blue Tinted Interior with Display Cases and Strip Lighting 94ceab6d|Photograph Modern Blue Tinted Interior with Display Cases and Strip Lighting]] — shared language: cases, display, interior
-- [[knowledge/wiki/images/Photograph Night Photo of a Shop Window with White Interior 1abda67b|Photograph Night Photo of a Shop Window with White Interior]] — shared language: shop, interior
+- [[knowledge/wiki/images/Night Photo of a Shop Window with White Interior 59560dcb|Night Photo of a Shop Window with White Interior]] — shared language: shop, interior
 - [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — shared language: shop
+- [[knowledge/wiki/images/Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight cda45386|Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight]] — shared language: skylight, interior
 <!-- vault-crosslinks:end -->

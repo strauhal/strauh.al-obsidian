@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - White Material|Artist - White Material]] — named in this note
 - [[knowledge/wiki/images/Illustration Digital Painting of a Woman's Face Surrounded by White Material f0aba2d0|Illustration Digital Painting of a Woman's Face Surrounded by White Material]] — same artist: white material
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: material
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: material, digital
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: face, digital
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Rob Israel|Artist - Rob Israel]] — named in this note
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — same artist: rob israel
-- [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: concerning
+- [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
 - [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
-- [[knowledge/wiki/artists/Artist - rob verhorst|Artist - rob verhorst]] — shared language: rob
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/summer rain by mark j ferrari 1989 dcc6f0b8|summer rain by mark j ferrari 1989]] — same artist: mark ferrari
 - [[knowledge/wiki/images/black and white dithered illustration of a woman fighting a geometric figure and monsters by mark j ferrari 1990 7d13a864|black and white dithered illustration of a woman fighting a geometric figure and monsters by mark j ferrari 1990]] — same artist: mark ferrari
 - [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: ferrari, mark
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, pixel
+- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: ferrari
 <!-- vault-crosslinks:end -->

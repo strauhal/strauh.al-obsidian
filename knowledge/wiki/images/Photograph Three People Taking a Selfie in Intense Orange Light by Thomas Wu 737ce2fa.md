@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Thr
 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: selfie, taking
 - [[knowledge/wiki/images/Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin 047f0795|Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin]] — shared language: selfie, taking
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: selfie, people
+- [[knowledge/wiki/images/Large Group Of People Posing For A Selfie 08232790|Large Group Of People Posing For A Selfie]] — shared language: selfie, people
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
+- [[knowledge/wiki/images/Illustration Abstract Painting of Three Orange Persimmons on a Green Background 669fc1f9|Illustration Abstract Painting of Three Orange Persimmons on a Green Background]] — shared language: orange, three
 <!-- vault-crosslinks:end -->

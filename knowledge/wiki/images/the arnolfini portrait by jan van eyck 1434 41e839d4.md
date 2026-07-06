@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/the_arnolfini_po
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
+- [[knowledge/wiki/artists/Artist - Jan Van Haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van kessel the elder|Artist - jan van kessel the elder]] — shared language: jan, van
-- [[knowledge/wiki/images/still life with flowers and fruit by jan van huysum c 1715 3e9fa2de|still life with flowers and fruit by jan van huysum c 1715]] — shared language: jan, van
 <!-- vault-crosslinks:end -->

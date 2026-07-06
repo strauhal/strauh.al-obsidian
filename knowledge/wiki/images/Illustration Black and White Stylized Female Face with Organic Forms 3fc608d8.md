@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: organic, forms, face
 - [[knowledge/wiki/images/Illustration Abstract Blue Organic Forms On Geometric Grid eddf9ac2|Illustration Abstract Blue Organic Forms On Geometric Grid]] — shared language: organic, forms
 - [[knowledge/wiki/images/Illustration Etching of a Woman's Face Obscured by Branching Organic Forms 48264eac|Illustration Etching of a Woman's Face Obscured by Branching Organic Forms]] — shared language: organic, forms, face
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: female, stylized
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Abstract Organic Forms on Paper c89e4e81|Illustration Continuous Line Drawing of Abstract Organic Forms on Paper]] — shared language: organic, forms
-- [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: female, face, stylized
 <!-- vault-crosslinks:end -->

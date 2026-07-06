@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Sea by Gotta
 
 - [[knowledge/wiki/artists/Artist - Sea|Artist - Sea]] — shared language: sea
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: sea
-- [[knowledge/wiki/images/Photograph Street Leading To Sea Between Two Old Buildings With Shops 2fa030ad|Photograph Street Leading To Sea Between Two Old Buildings With Shops]] — shared language: sea
 - [[knowledge/wiki/images/edward hopper rooms by the sea 1951 d62a2fb9|edward hopper rooms by the sea 1951]] — shared language: sea
 - [[knowledge/wiki/images/Illustration Heavy Set Woman Sitting On Rocks By Sea 200157d5|Illustration Heavy Set Woman Sitting On Rocks By Sea]] — shared language: sea
+- [[knowledge/wiki/images/the eye of the sea by salvador dali 1942 34802201|the eye of the sea by salvador dali 1942]] — shared language: sea
 <!-- vault-crosslinks:end -->

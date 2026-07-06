@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/books-stale/kant-a-very-short-introduction-very-short-introductions|Kant A Very Short Introduction (Very Short Introductions)]] — shared language: short
 - [[knowledge/wiki/images/Illustration Figure in Red Shirt in Warm Orange and Yellow Room b7593c05|Illustration Figure in Red Shirt in Warm Orange and Yellow Room]] — shared language: shirt, orange, yellow
 - [[knowledge/wiki/images/Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket 4923a93f|Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket]] — shared language: graphic, hair
-- [[knowledge/wiki/images/Photograph White T Shirt with 'Astral Projection' Graphic Design e3d940e2|Photograph White T Shirt with 'Astral Projection' Graphic Design]] — shared language: graphic, shirt
+- [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — shared language: short
 <!-- vault-crosslinks:end -->

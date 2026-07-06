@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/digital drawing of a woman combing her hair in macpaint 98d64d7d|digital drawing of a woman combing her hair in macpaint]] — shared language: combing, hair
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: partially
 - [[knowledge/wiki/images/Woman Combing Hair by Susan Kare (1984) 944ab1cb|Woman Combing Hair by Susan Kare (1984)]] — shared language: combing, hair
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Man with Partially Shaved Head 9d985665|Photograph Black and White Photograph of Man with Partially Shaved Head]] — shared language: partially
 - [[knowledge/wiki/images/Document Open Book Showing Two Paintings of a Man Combing Hair 86001deb|Document Open Book Showing Two Paintings of a Man Combing Hair]] — shared language: combing, hair
+- [[knowledge/wiki/images/Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers 07304629|Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers]] — shared language: nude, hair
+- [[_archive/auto-generated/images-stale/expressionistic painting of a nude woman with red hair surrounded by red flowers bacb9d7f|expressionistic painting of a nude woman with red hair surrounded by red flowers]] — shared language: nude, hair
 <!-- vault-crosslinks:end -->

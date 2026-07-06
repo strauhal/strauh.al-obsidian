@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: forest, large, ink
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall, trees, large
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: forest, ink, large
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: tall, scene
 - [[knowledge/wiki/images/Illustration Birch Trees and Tall Grass in a Forest Landscape 96c8c178|Illustration Birch Trees and Tall Grass in a Forest Landscape]] — shared language: tall, forest, trees
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, large
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
 <!-- vault-crosslinks:end -->

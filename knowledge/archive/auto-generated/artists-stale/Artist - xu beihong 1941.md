@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - xu beihong|Artist - xu beihong]] — named in this note
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 - [[_archive/auto-generated/images-stale/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: horse
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: horse
+- [[_archive/auto-generated/images-stale/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: horse
 - [[_archive/auto-generated/images-stale/colorful illustration of a rider on a white horse 27b26447|colorful illustration of a rider on a white horse]] — shared language: horse
-- [[_archive/auto-generated/images-stale/abstract painting of a figure riding a horse and pointing 544988c3|abstract painting of a figure riding a horse and pointing]] — shared language: horse
 <!-- vault-crosslinks:end -->

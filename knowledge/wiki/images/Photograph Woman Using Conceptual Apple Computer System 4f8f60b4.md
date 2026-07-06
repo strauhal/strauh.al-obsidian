@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wom
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: using, apple, computer
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: using, apple, computer
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: system
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: apple, computer

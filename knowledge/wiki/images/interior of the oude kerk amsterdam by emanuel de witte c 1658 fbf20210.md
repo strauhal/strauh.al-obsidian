@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/interior_of_the_
 - [[knowledge/wiki/artists/Artist - emanuel leutze|Artist - emanuel leutze]] — shared language: emanuel
 - [[knowledge/wiki/images/interior of the grote kerk haarlem by pieter saenredam 1636 11264646|interior of the grote kerk haarlem by pieter saenredam 1636]] — shared language: kerk, interior
 - [[knowledge/wiki/images/westward the course of empire takes its way by emanuel leutze 1861 7605b5cd|westward the course of empire takes its way by emanuel leutze 1861]] — shared language: emanuel
-- [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: kerk, interior
 - [[knowledge/wiki/images/vincent van gogh in a wax museum in amsterdam by jean michel basquiat 1983 b37d25c7|vincent van gogh in a wax museum in amsterdam by jean michel basquiat 1983]] — shared language: amsterdam
+- [[knowledge/wiki/artists/Artist - pieter saenredam|Artist - pieter saenredam]] — shared language: kerk, interior
 <!-- vault-crosslinks:end -->

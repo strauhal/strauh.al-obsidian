@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti 7b6b1747|Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti]] — shared language: masked, soldier, urban
-- [[knowledge/wiki/images/Photograph Hooded Figure on Box with Wires and Soldier b9526a3a|Photograph Hooded Figure on Box with Wires and Soldier]] — shared language: soldier, box
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
+- [[knowledge/wiki/images/Photograph Hooded Figure on Box with Wires and Soldier b9526a3a|Photograph Hooded Figure on Box with Wires and Soldier]] — shared language: box, soldier
 - [[_archive/auto-generated/images-stale/painting depicting a complex urban scene with graffiti figures in balaclavas a person sitting in a box with a white cloth over their head a pink alien 60921283|painting depicting a complex urban scene with graffiti figures in balaclavas a person sitting in a box with a white cloth over their head a pink alien]] — shared language: box, graffiti, urban
-- [[knowledge/wiki/images/Photograph Portrait of a Person with Short Dark Hair in Urban Setting 6be6e57b|Photograph Portrait of a Person with Short Dark Hair in Urban Setting]] — shared language: setting, urban
-- [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
+- [[_archive/auto-generated/images-stale/Photograph Portrait of a Person with Short Dark Hair in Urban Setting 6be6e57b|Photograph Portrait of a Person with Short Dark Hair in Urban Setting]] — shared language: setting, urban
 <!-- vault-crosslinks:end -->

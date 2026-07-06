@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed black and white abstract collage with figures 32ca4ae5|framed black and white abstract collage with figures]] — shared language: collage, figures.jpeg
 - [[_archive/auto-generated/images-stale/framed wireframe drawing of a circular form bf61e11f|framed wireframe drawing of a circular form]] — shared language: circular
 - [[knowledge/wiki/images/Illustration Stylized Nude Figures in Circular and Mirrored Arrangement 5829db9a|Illustration Stylized Nude Figures in Circular and Mirrored Arrangement]] — shared language: circular
-- [[_archive/auto-generated/images-stale/circular icon depicting the nativity scene in red and blue f6bd885b|circular icon depicting the nativity scene in red and blue]] — shared language: circular
 - [[_archive/auto-generated/images-stale/old webcam collage of two people at computers ca5224ff|old webcam collage of two people at computers]] — shared language: collage
+- [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: collage
 <!-- vault-crosslinks:end -->

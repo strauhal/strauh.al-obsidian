@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Woman's Eyes and Drifting White Sedan Composite d602e77d|Illustration Woman's Eyes and Drifting White Sedan Composite]] — shared language: sedan, composite, eyes
 - [[_archive/auto-generated/images-stale/digital composite of woman s eyes in keffiyeh over a driving gray sedan f39050fd|digital composite of woman s eyes in keffiyeh over a driving gray sedan]] — shared language: sedan, composite, eyes
+- [[knowledge/wiki/images/Illustration Woman's Eyes and Drifting White Sedan Composite d602e77d|Illustration Woman's Eyes and Drifting White Sedan Composite]] — shared language: sedan, composite, eyes
 - [[_archive/auto-generated/images-stale/digital composite of large eyes covered by plaid fabric and a white sedan drifting 28f765f4|digital composite of large eyes covered by plaid fabric and a white sedan drifting]] — shared language: sedan, composite, eyes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - plaid fabric and a white sedan drifting|Artist - plaid fabric and a white sedan drifting]] — shared language: sedan, composite, eyes
 - [[_archive/auto-generated/images-stale/digital collage of a woman smoking above a gray sedan driving d1506949|digital collage of a woman smoking above a gray sedan driving]] — shared language: sedan, digital

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/allegory_of_abun
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: elder
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
+- [[knowledge/wiki/artists/Artist - Jan Van Haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan saenredam|Artist - jan saenredam]] — shared language: jan, allegory
-- [[knowledge/wiki/images/the arnolfini portrait by jan van eyck 1434 41e839d4|the arnolfini portrait by jan van eyck 1434]] — shared language: jan, van
 <!-- vault-crosslinks:end -->

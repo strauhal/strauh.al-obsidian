@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Officials Facing Crowd at Stadium with Mexican Flag Colors f0008fd1|Photograph Officials Facing Crowd at Stadium with Mexican Flag Colors]] — shared language: mexican, stadium, facing
+- [[knowledge/wiki/images/Officials Facing Crowd at Stadium with Mexican Flag Colors 08a52aad|Officials Facing Crowd at Stadium with Mexican Flag Colors]] — shared language: mexican, stadium, facing
+- [[_archive/auto-generated/images-stale/Photograph Officials Facing Crowd at Stadium with Mexican Flag Colors f0008fd1|Photograph Officials Facing Crowd at Stadium with Mexican Flag Colors]] — shared language: mexican, stadium, facing
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: facade, modern, large
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd, people
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: six, people
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: six, people
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, large
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/continuous_line_
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: continuous, line
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of a Woman's Portrait a6fa823f|Illustration Continuous Line Drawing of a Woman's Portrait]] — shared language: continuous, line
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Three Flowers 923caf9b|Illustration Continuous Line Drawing of Three Flowers]] — shared language: continuous, line
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: bill
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Abstract Organic Forms on Paper c89e4e81|Illustration Continuous Line Drawing of Abstract Organic Forms on Paper]] — shared language: continuous, line
-- [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
 <!-- vault-crosslinks:end -->

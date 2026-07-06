@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Diagram Psychoanalytic Relational Map with colored nodes and connecting arrows a1cd7917|Diagram Psychoanalytic Relational Map with colored nodes and connecting arrows]] — shared language: relational
 - [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: march
+- [[knowledge/wiki/images/Logical Map of the ARPANET Network in March 1977 f634812a|Logical Map of the ARPANET Network in March 1977]] — shared language: march
 - [[knowledge/wiki/images/the march of the israelites by david scott 1832 aa3d7f3c|the march of the israelites by david scott 1832]] — shared language: march
-- [[knowledge/wiki/images/Diagram Logical Map of the ARPANET Network in March 1977 90bc9a67|Diagram Logical Map of the ARPANET Network in March 1977]] — shared language: march
-- [[knowledge/wiki/images/Photograph Martin Luther King Jr. Speaking at March on Washington 7e2935e8|Photograph Martin Luther King Jr. Speaking at March on Washington]] — shared language: march
+- [[_archive/auto-generated/images-stale/Diagram Logical Map of the ARPANET Network in March 1977 90bc9a67|Diagram Logical Map of the ARPANET Network in March 1977]] — shared language: march
 <!-- vault-crosslinks:end -->

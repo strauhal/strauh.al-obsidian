@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/franois_schuiten
 - [[knowledge/wiki/images/franois bossuet view of granada 1876 949cd46b|franois bossuet view of granada 1876]] — shared language: franois
 - [[knowledge/wiki/images/the vortex by michael goldberg 1960 d21cf930|the vortex by michael goldberg 1960]] — shared language: vortex
 - [[knowledge/wiki/images/the starship and the vortex by chris foss 1978 f44fed65|the starship and the vortex by chris foss 1978]] — shared language: vortex
-- [[knowledge/wiki/images/1922 434 the place du havre paris jpg de2bd35e|1922 434 the place du havre paris jpg]] — shared language: paris
 - [[knowledge/wiki/images/Illustration Two Figures Gaze Up at a Swirling Vortex of Angels and Light by Gustave Dor ee02e7d7|Illustration Two Figures Gaze Up at a Swirling Vortex of Angels and Light by Gustave Dor]] — shared language: vortex
+- [[knowledge/wiki/images/1922 434 the place du havre paris jpg de2bd35e|1922 434 the place du havre paris jpg]] — shared language: paris
 <!-- vault-crosslinks:end -->

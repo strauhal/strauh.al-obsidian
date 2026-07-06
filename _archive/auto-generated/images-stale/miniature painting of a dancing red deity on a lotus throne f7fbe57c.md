@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 420624e7|miniature painting of a red seated buddha figure on a lotus throne]] — shared language: miniature, throne, lotus
 - [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 2 807f8e7e|miniature painting of a red seated buddha figure on a lotus throne 2]] — shared language: throne, miniature, lotus
 - [[_archive/auto-generated/images-stale/miniature painting of a seated buddha on a lotus throne with tibetan script b718dc00|miniature painting of a seated buddha on a lotus throne with tibetan script]] — shared language: throne, miniature, lotus
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: throne, lotus
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: lotus
 <!-- vault-crosslinks:end -->

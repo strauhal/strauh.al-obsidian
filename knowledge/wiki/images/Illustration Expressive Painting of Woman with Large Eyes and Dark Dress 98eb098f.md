@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - E
 
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress, dress.jpeg
 - [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: expressive, dark
-- [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: dress, dark
 - [[knowledge/wiki/images/Illustration Expressive Painting of Nude Figure in Landscape da18a7de|Illustration Expressive Painting of Nude Figure in Landscape]] — shared language: expressive
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Figure With Large Dark Wings 438266ca|Photograph Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: large, dark
+- [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: dress, dark
+- [[knowledge/wiki/images/Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon 48461781|Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon]] — shared language: expressive
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman Standing Next To Tall Stack Of Computer Printouts 2636026c|Photograph Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: printouts, stack, tall
+- [[_archive/auto-generated/images-stale/Photograph Woman Standing Next To Tall Stack Of Computer Printouts 2636026c|Photograph Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: printouts, stack, tall
+- [[knowledge/wiki/images/Woman Standing Next To Tall Stack Of Computer Printouts 0d0601d5|Woman Standing Next To Tall Stack Of Computer Printouts]] — shared language: printouts, stack, tall
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
-- [[_archive/auto-generated/images-stale/photograph of a person balancing a tall stack of baseball caps on their head 5f0037c7|photograph of a person balancing a tall stack of baseball caps on their head]] — shared language: stack, tall
-- [[knowledge/wiki/images/Photograph Person Balancing Tall Stack Of Baseball Caps On Head 4dc74b21|Photograph Person Balancing Tall Stack Of Baseball Caps On Head]] — shared language: stack, tall
+- [[knowledge/wiki/images/Person Balancing Tall Stack Of Baseball Caps On Head d46173dd|Person Balancing Tall Stack Of Baseball Caps On Head]] — shared language: stack, tall
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Image Black And White Vin Diesel Meme About AI Art e5246fb8|Image Black And White Vin Diesel Meme About AI Art]] — shared language: meme
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: wrong
 - [[_archive/auto-generated/images-stale/meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] — shared language: meme
-- [[knowledge/wiki/images/Photograph Young Boy 'Little Ice' With Gang Caption On TV Screen 2a539299|Photograph Young Boy 'Little Ice' With Gang Caption On TV Screen]] — shared language: caption
+- [[_archive/auto-generated/images-stale/Photograph Young Boy 'Little Ice' With Gang Caption On TV Screen 2a539299|Photograph Young Boy 'Little Ice' With Gang Caption On TV Screen]] — shared language: caption
 <!-- vault-crosslinks:end -->

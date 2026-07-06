@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape c7c2eac4|oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape]] — shared language: cloud, oil, dark
 - [[knowledge/wiki/images/Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting f858ebf5|Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting]] — shared language: dramatic, oil, dark
 - [[_archive/auto-generated/images-stale/oil painting of a waterfall in a dark landscape c6590f91|oil painting of a waterfall in a dark landscape]] — shared language: oil, dark, landscape
-- [[knowledge/wiki/images/Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape 2e28f5bd|Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape]] — shared language: cloud, dark, landscape
+- [[_archive/auto-generated/images-stale/framed landscape painting with trees and storm clouds c393de45|framed landscape painting with trees and storm clouds]] — shared language: storm, landscape
 <!-- vault-crosslinks:end -->

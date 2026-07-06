@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/tobias_and_the_a
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: piero
 - [[knowledge/wiki/artists/Artist - piero di cosimo|Artist - piero di cosimo]] — shared language: piero
 - [[knowledge/wiki/artists/Artist - piero della francesca|Artist - piero della francesca]] — shared language: piero
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del
+- [[knowledge/wiki/images/the annunciation by piero della francesca c 14501455 920f0618|the annunciation by piero della francesca c 14501455]] — shared language: piero
 <!-- vault-crosslinks:end -->

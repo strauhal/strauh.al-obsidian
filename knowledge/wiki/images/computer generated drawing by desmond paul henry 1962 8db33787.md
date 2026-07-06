@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/computer_generat
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
-- [[knowledge/wiki/images/Photograph Ronald Reagan Meeting With Desmond Tutu 6f8fe64b|Photograph Ronald Reagan Meeting With Desmond Tutu]] — shared language: desmond
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 - [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
+- [[knowledge/wiki/images/Ronald Reagan Meeting With Desmond Tutu fa75ac45|Ronald Reagan Meeting With Desmond Tutu]] — shared language: desmond
 - [[knowledge/wiki/artists/Artist - henry fuseli|Artist - henry fuseli]] — shared language: henry
 <!-- vault-crosslinks:end -->

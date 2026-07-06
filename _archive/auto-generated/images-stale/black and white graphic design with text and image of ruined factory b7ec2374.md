@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black and White Illustration of Ruined Factory with Bold Text f40ee22c|Illustration Black and White Illustration of Ruined Factory with Bold Text]] — shared language: factory, ruined, text
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Ruined Factory with Bold Text f40ee22c|Illustration Black and White Illustration of Ruined Factory with Bold Text]] — shared language: ruined, factory, text
 - [[knowledge/wiki/images/Illustration Black and White Graphic Design with Wavy Grid Pattern and Text 5c33a8d6|Illustration Black and White Graphic Design with Wavy Grid Pattern and Text]] — shared language: graphic, design, text
 - [[knowledge/wiki/images/Illustration Black And White Ink Illustration Of Two Figures In Ruined Landscape f1d4179e|Illustration Black And White Ink Illustration Of Two Figures In Ruined Landscape]] — shared language: ruined
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design

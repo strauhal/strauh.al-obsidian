@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ab
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, text
-- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: music
+- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 <!-- vault-crosslinks:end -->

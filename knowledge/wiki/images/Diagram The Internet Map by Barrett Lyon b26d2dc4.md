@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - The In
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: internet
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: internet
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mod
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, concrete, modern
-- [[knowledge/wiki/images/Photograph Aerial View of Large Building Complex Amidst Green Landscape e2cda203|Photograph Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: amidst, building, green
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, building, modern
+- [[knowledge/wiki/images/Aerial View of Large Building Complex Amidst Green Landscape 6ae5aab7|Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: amidst, building, green
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
-- [[knowledge/wiki/images/Photograph Modern Concrete Building With Angular Design 51a69817|Photograph Modern Concrete Building With Angular Design]] — shared language: concrete, modern, building
+- [[knowledge/wiki/images/Modern Concrete Building With Angular Design 6ff6e4a2|Modern Concrete Building With Angular Design]] — shared language: concrete, modern, building
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: modern, book
 <!-- vault-crosslinks:end -->

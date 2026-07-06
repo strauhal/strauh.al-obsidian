@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/lune_de_miel_hon
 
 - [[knowledge/wiki/images/frank e schoonover joan of arc 1911 e62f0b11|frank e schoonover joan of arc 1911]] — shared language: schoonover, frank
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — shared language: frank
 <!-- vault-crosslinks:end -->

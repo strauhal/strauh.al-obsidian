@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christophe dessaigne 2008|Artist - christophe dessaigne 2008]] — named in this note
 - [[knowledge/wiki/images/woman killed in car crash by weegee 1940 bd06a11b|woman killed in car crash by weegee 1940]] — shared language: crash
-- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
 - [[_archive/auto-generated/images-stale/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: plane
+- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
 - [[_archive/auto-generated/images-stale/that woman is back on the plane by fernando 2023 bbf379e6|that woman is back on the plane by fernando 2023]] — shared language: plane
 <!-- vault-crosslinks:end -->

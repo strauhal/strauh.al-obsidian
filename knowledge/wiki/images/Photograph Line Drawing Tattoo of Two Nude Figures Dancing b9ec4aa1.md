@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Lin
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: nude, line
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude
 - [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: dancing, nude
 - [[knowledge/wiki/images/Illustration Line Drawing of Nude Figures and a Bull cffb420d|Illustration Line Drawing of Nude Figures and a Bull]] — shared language: nude, line

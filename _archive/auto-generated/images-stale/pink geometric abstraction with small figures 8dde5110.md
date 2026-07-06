@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed geometric interior abstraction with red and black shapes eab2c56c|framed geometric interior abstraction with red and black shapes]] — shared language: abstraction, geometric
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small, geometric
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small, geometric
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small, geometric
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 - [[_archive/auto-generated/images-stale/framed geometric abstraction with neon triangle and patterns 728a7b72|framed geometric abstraction with neon triangle and patterns]] — shared language: abstraction, geometric
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: small
 <!-- vault-crosslinks:end -->

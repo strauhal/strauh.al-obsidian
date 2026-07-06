@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Paths 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — shared language: fall
-- [[knowledge/wiki/images/Diagram Venn Diagrams Illustrating Paths of Self and God Relationship bf3d4e25|Diagram Venn Diagrams Illustrating Paths of Self and God Relationship]] — shared language: paths, diagram
 - [[knowledge/wiki/images/Illustration Two Cartoon Figures on Winding Paths with Text 301283fd|Illustration Two Cartoon Figures on Winding Paths with Text]] — shared language: paths
-- [[knowledge/wiki/images/Diagram Different Paths in World Space and Parameter Domain U d651aa43|Diagram Different Paths in World Space and Parameter Domain U]] — shared language: paths, diagram
+- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: fall
+- [[knowledge/wiki/images/Diagram of Life Paths Past, Present, and Future Choices by Wait But Why 7b02d06a|Diagram of Life Paths Past, Present, and Future Choices by Wait But Why]] — shared language: paths, diagram
+- [[knowledge/wiki/images/Venn Diagrams Illustrating Paths of Self and God Relationship 19dda284|Venn Diagrams Illustrating Paths of Self and God Relationship]] — shared language: paths
 <!-- vault-crosslinks:end -->

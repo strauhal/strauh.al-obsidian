@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/fire_emblem_gene
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: mayumi
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 - [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: mayumi
-- [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: holy
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: fire
 <!-- vault-crosslinks:end -->

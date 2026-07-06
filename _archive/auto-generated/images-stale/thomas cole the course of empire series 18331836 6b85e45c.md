@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur 9e570b90|Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur]] — shared language: course, empire, cole
 - [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire, cole, thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1837|Artist - thomas cole 1837]] — shared language: cole, thomas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1840|Artist - thomas cole 1840]] — shared language: cole, thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1833|Artist - thomas cole 1833]] — shared language: cole, thomas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1840|Artist - thomas cole 1840]] — shared language: cole, thomas
 <!-- vault-crosslinks:end -->

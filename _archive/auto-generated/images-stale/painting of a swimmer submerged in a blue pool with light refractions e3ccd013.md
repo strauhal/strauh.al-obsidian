@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Overhead View of Swimmer Submerged in Blue Pool by David Hockney f9db5d7b|Illustration Overhead View of Swimmer Submerged in Blue Pool by David Hockney]] — shared language: swimmer, submerged, pool
 - [[_archive/auto-generated/images-stale/swimmer entering a pool beneath trees 2b490807|swimmer entering a pool beneath trees]] — shared language: swimmer, pool
+- [[knowledge/wiki/images/Black And White Photograph Of Person Submerged In Water f59fbb2a|Black And White Photograph Of Person Submerged In Water]] — shared language: submerged
 - [[_archive/auto-generated/artists-noise/Artist - a swimming pool|Artist - a swimming pool]] — shared language: pool
-- [[knowledge/wiki/images/Photograph Person Submerged in Water, Seen From Above 42080cfe|Photograph Person Submerged in Water, Seen From Above]] — shared language: submerged
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-swimming-pool|Artist - a swimming pool]] — shared language: pool
 <!-- vault-crosslinks:end -->

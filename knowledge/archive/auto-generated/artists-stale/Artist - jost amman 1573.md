@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint
 - [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — shared language: thomas
 - [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
-- [[knowledge/wiki/artists/Artist - parmigianino|Artist - parmigianino]] — shared language: saint
+- [[knowledge/archive/auto-generated/artists-stale/Artist - simon stalenhag 2016|Artist - simon stalenhag 2016]] — shared language: simon
 <!-- vault-crosslinks:end -->

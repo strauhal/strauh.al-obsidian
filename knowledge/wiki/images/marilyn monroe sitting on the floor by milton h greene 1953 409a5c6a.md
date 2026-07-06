@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/marilyn_monroe_s
 
 - [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: marilyn, monroe
 - [[knowledge/wiki/images/Photograph Black and White Photograph of People Sitting on Floor 5d26b5dd|Photograph Black and White Photograph of People Sitting on Floor]] — shared language: sitting, floor
-- [[knowledge/wiki/images/Photograph Man Sitting On Floor With Drug Paraphernalia 7f8d6f3f|Photograph Man Sitting On Floor With Drug Paraphernalia]] — shared language: floor, sitting
 - [[knowledge/wiki/images/marilyn monroe new york by richard avedon 1954 6d2da2e5|marilyn monroe new york by richard avedon 1954]] — shared language: marilyn, monroe
 - [[knowledge/wiki/images/marilyn monroe with apples by richard avedon 1954 c2f5d17b|marilyn monroe with apples by richard avedon 1954]] — shared language: marilyn, monroe
+- [[knowledge/wiki/artists/Artist - milton avery|Artist - milton avery]] — shared language: milton
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/kino_wild_west_b
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — named in this note
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
 - [[knowledge/wiki/artists/Artist - ludwig knaus|Artist - ludwig knaus]] — shared language: ludwig
+- [[knowledge/wiki/books/itzhak-bentov-stalking-the-wild-pendulum-on-the-mechanics-of-consciousness|Stalking the Wild Pendulum: On the Mechanics of Consciousness]] — shared language: wild
 <!-- vault-crosslinks:end -->

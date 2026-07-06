@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell.jpg]]
+![[media/strauh.al3.1/photography/Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell.jpg]]
 
 ## Image Notes
 
-- [[Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]]
+- [[Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell b6b7b89d|Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

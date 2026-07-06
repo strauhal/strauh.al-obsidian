@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Sepia Toned Photograph of Starling Murmuration Forming Wave Shape d50bcd1e|Photograph Sepia Toned Photograph of Starling Murmuration Forming Wave Shape]] — shared language: starling, murmuration, forming
 - [[knowledge/wiki/images/Photograph Black and White Starling Murmuration Forming Abstract Shapes f147f24d|Photograph Black and White Starling Murmuration Forming Abstract Shapes]] — shared language: starling, murmuration, forming
-- [[knowledge/wiki/images/Photograph Murmuration of Starlings Over Water Forming Abstract Shape bb2fd6e3|Photograph Murmuration of Starlings Over Water Forming Abstract Shape]] — shared language: murmuration, forming, shape
 - [[_archive/auto-generated/images-stale/black and white photograph of a starling murmuration forming abstract shapes by sren solkr 9c35e060|black and white photograph of a starling murmuration forming abstract shapes by sren solkr]] — shared language: starling, murmuration, forming
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
+- [[knowledge/wiki/images/Murmuration of Starlings Over Water Forming Abstract Shape e5e4ef23|Murmuration of Starlings Over Water Forming Abstract Shape]] — shared language: murmuration, forming, shape
+- [[_archive/auto-generated/images-stale/Photograph Murmuration of Starlings Over Water Forming Abstract Shape bb2fd6e3|Photograph Murmuration of Starlings Over Water Forming Abstract Shape]] — shared language: murmuration, forming, shape
 <!-- vault-crosslinks:end -->

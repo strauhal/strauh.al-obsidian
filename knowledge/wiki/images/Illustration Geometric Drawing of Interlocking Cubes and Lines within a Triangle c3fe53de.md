@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: within
 - [[knowledge/wiki/images/Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines 3896cd1d|Illustration Abstract Drawing of Interlocking Geometric Shapes with Horizontal Lines]] — shared language: lines, geometric
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows 8b01490f|Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows]] — shared language: cubes
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: lines, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: lines, geometric
-- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern With Overlapping Colored Lines 5d16a30b|Illustration Abstract Geometric Pattern With Overlapping Colored Lines]] — shared language: lines, geometric
 <!-- vault-crosslinks:end -->

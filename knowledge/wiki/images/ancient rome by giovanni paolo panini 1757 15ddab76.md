@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/ancient_rome_by_
 
 - [[knowledge/wiki/images/capriccio of roman ruins with figures by giovanni paolo panini c 1740 62380bcf|capriccio of roman ruins with figures by giovanni paolo panini c 1740]] — same artist: giovanni paolo panini
 - [[knowledge/wiki/images/Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757) c0fb8b9d|Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757)]] — shared language: paolo, rome, ancient
-- [[knowledge/wiki/images/Saint George and the Dragon by Paolo Uccello (c. 1470) 5bc7a366|Saint George and the Dragon by Paolo Uccello (c. 1470)]] — shared language: paolo
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
+- [[knowledge/wiki/images/Saint George and the Dragon by Paolo Uccello (c. 1470) 5bc7a366|Saint George and the Dragon by Paolo Uccello (c. 1470)]] — shared language: paolo
 - [[knowledge/wiki/artists/Artist - giovanni boldini|Artist - giovanni boldini]] — shared language: giovanni
 <!-- vault-crosslinks:end -->

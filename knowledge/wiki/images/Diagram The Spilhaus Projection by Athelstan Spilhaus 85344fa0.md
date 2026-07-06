@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - The Sp
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection 962101aa|Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection]] — shared language: projection, diagram
-- [[knowledge/wiki/images/Photograph White T Shirt with 'Astral Projection' Graphic Design e3d940e2|Photograph White T Shirt with 'Astral Projection' Graphic Design]] — shared language: projection
-- [[knowledge/wiki/images/Diagram Diagram Illustrating The Hierarchy Of Disagreement 53ff87b6|Diagram Diagram Illustrating The Hierarchy Of Disagreement]] — shared language: diagram
+- [[knowledge/wiki/images/White T Shirt with 'Astral Projection' Graphic Design e3cc6bef|White T Shirt with 'Astral Projection' Graphic Design]] — shared language: projection
 - [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Illustrating The Hierarchy Of Disagreement 600c9109|Diagram Illustrating The Hierarchy Of Disagreement]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Laniakea Supercluster 228ee576|Diagram Laniakea Supercluster]] — shared language: diagram
 <!-- vault-crosslinks:end -->

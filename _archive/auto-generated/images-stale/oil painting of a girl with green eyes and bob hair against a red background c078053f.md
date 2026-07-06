@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Girl with Green Eyes and Bob Hair Against Red Background 5b263e9a|Illustration Girl with Green Eyes and Bob Hair Against Red Background]] — shared language: bob, eyes, girl
 - [[_archive/auto-generated/images-stale/graphic portrait of a woman with blue hair and a green jacket against a pink background 154e4962|graphic portrait of a woman with blue hair and a green jacket against a pink background]] — shared language: hair, against, green
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: oil, against, background
-- [[_archive/auto-generated/images-stale/oil painting of a close up portrait of a person with blue eyes and pale hair 7958b6e1|oil painting of a close up portrait of a person with blue eyes and pale hair]] — shared language: eyes, hair, oil
-- [[_archive/auto-generated/images-stale/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, against, background
+- [[_archive/auto-generated/images-stale/oil painting of a close up portrait of a person with blue eyes and pale hair 7958b6e1|oil painting of a close up portrait of a person with blue eyes and pale hair]] — shared language: eyes, oil, hair
+- [[_archive/auto-generated/images-stale/oil painting style portrait of a man in a suit against a black background d0277148|oil painting style portrait of a man in a suit against a black background]] — shared language: oil, against, background
 <!-- vault-crosslinks:end -->

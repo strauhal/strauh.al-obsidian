@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple 3ceb4c4a|Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple]] — shared language: dies, pro, max
-- [[knowledge/wiki/images/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, max, three
+- [[_archive/auto-generated/images-stale/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, max, three
+- [[knowledge/wiki/images/Three Apple M2 Pro and M2 Max SOCs 1763dace|Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, max, three
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: dies, pro, max
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: movement, space
 - [[knowledge/wiki/images/Man in Space by Richard Anuszkiewicz (1962) cc22252b|Man in Space by Richard Anuszkiewicz (1962)]] — shared language: space
 - [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies
-- [[knowledge/wiki/images/Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth a4cca1bb|Photograph Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: movement
+- [[knowledge/wiki/images/Chronocyclegraph of a Person's Movement by Frank Gilbreth bf1a37f8|Chronocyclegraph of a Person's Movement by Frank Gilbreth]] — shared language: movement
 <!-- vault-crosslinks:end -->

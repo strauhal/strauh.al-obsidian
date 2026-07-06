@@ -25,7 +25,7 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: corbusier
 - [[knowledge/wiki/images/Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012) 36f535b9|Hyper Paris (Plan Voisin) by Jean Fran ois Rauzier (2012)]] — shared language: voisin, plan, paris
-- [[knowledge/wiki/images/Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior 026a54e5|Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: plan
+- [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: plan
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows 8b01490f|Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows]] — shared language: perspective
 - [[knowledge/wiki/images/pablo picasso femme dans un fauteuil woman in an armchair 1938 0b88bc86|pablo picasso femme dans un fauteuil woman in an armchair 1938]] — shared language: femme
 - [[knowledge/wiki/images/1922 434 the place du havre paris jpg de2bd35e|1922 434 the place du havre paris jpg]] — shared language: paris

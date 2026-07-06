@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_house_of_the
 - [[knowledge/wiki/images/the art robot by steve dillon 1986 f6be644b|the art robot by steve dillon 1986]] — shared language: dillon
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
 - [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — named in this note
+- [[knowledge/wiki/artists/Artist - Victor Nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/wiki/images/Illustration Pixel Art Illustration of a Standing Lion with a Mane f931dfb1|Illustration Pixel Art Illustration of a Standing Lion with a Mane]] — shared language: lion
 - [[knowledge/wiki/images/lion by edward kemeys 1893 c38579ba|lion by edward kemeys 1893]] — shared language: lion
-- [[knowledge/wiki/images/Portrait of Dorothy Spreckels Munn by Salvador Dal (1942) e62c9067|Portrait of Dorothy Spreckels Munn by Salvador Dal (1942)]] — shared language: dorothy
 <!-- vault-crosslinks:end -->

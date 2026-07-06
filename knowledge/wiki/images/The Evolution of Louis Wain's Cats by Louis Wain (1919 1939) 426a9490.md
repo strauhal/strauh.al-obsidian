@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Evolution of
 - [[knowledge/wiki/images/Illustration Psychedelic Cat with Blue Eyes and Wavy Background by Louis Wain b1788d1d|Illustration Psychedelic Cat with Blue Eyes and Wavy Background by Louis Wain]] — shared language: wain, louis
 - [[knowledge/wiki/images/i am happy because every one loves me by louis wain c 1900 9382a08b|i am happy because every one loves me by louis wain c 1900]] — shared language: wain, louis
 - [[knowledge/wiki/images/Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain 1987a45b|Illustration Six Cat Artworks Showing Progressive Stylistic Changes by Louis Wain]] — shared language: wain, louis
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 <!-- vault-crosslinks:end -->

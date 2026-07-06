@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/detroit_aeria
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/detroit aerial view from above the river bf0c74ec|detroit aerial view from above the river]] — shared language: detroit, aerial
-- [[knowledge/wiki/images/Photograph Aerial View of Detroit Skyline and River 5cbaf2c2|Photograph Aerial View of Detroit Skyline and River]] — shared language: detroit, aerial
+- [[knowledge/wiki/images/Aerial View of Detroit Skyline and River 4883ecb4|Aerial View of Detroit Skyline and River]] — shared language: detroit, aerial
+- [[_archive/auto-generated/images-stale/Photograph Aerial View of Detroit Skyline and River 5cbaf2c2|Photograph Aerial View of Detroit Skyline and River]] — shared language: detroit, aerial
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial
 - [[knowledge/wiki/artists/Artist - detroit publishing co|Artist - detroit publishing co]] — shared language: detroit
-- [[knowledge/archive/auto-generated/artists-stale/Artist - detroit publishing co 1900 1910|Artist - detroit publishing co 1900 1910]] — shared language: detroit
-- [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: detroit
 <!-- vault-crosslinks:end -->

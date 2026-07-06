@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1971_430_liberat
 
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
-- [[knowledge/wiki/books/michel-foucault-alan-sheridan-discipline-punish-the-birth-of-the-prison|Discipline Punish The Birth of the Prison]] — shared language: prison
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: saint, jpg.jpg
+- [[knowledge/wiki/books/michel-foucault-alan-sheridan-discipline-punish-the-birth-of-the-prison|Discipline Punish The Birth of the Prison]] — shared language: prison
 - [[knowledge/wiki/images/the holy family with saint elizabeth and saint john the baptist by peter paul rubens c 1614 1615 c2d199d3|the holy family with saint elizabeth and saint john the baptist by peter paul rubens c 1614 1615]] — shared language: saint, peter
 <!-- vault-crosslinks:end -->

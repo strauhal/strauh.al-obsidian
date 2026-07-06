@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: john
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
-- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — shared language: john
+- [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: john
 <!-- vault-crosslinks:end -->

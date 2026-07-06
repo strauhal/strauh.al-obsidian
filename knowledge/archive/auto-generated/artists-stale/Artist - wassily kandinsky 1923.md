@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1910|Artist - wassily kandinsky 1910]] — shared language: kandinsky, wassily, composition
 - [[knowledge/wiki/artists/Artist - wassily kandinsky|Artist - wassily kandinsky]] — shared language: kandinsky, wassily, komposition
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1930|Artist - wassily kandinsky 1930]] — shared language: kandinsky, wassily
 - [[knowledge/wiki/images/black and white by wassily kandinsky 1930 755642e0|black and white by wassily kandinsky 1930]] — shared language: kandinsky, wassily
+- [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1930|Artist - wassily kandinsky 1930]] — shared language: kandinsky, wassily
 - [[knowledge/wiki/images/composition by wassily kandinsky 1910 018f415a|composition by wassily kandinsky 1910]] — shared language: kandinsky, wassily, composition
 <!-- vault-crosslinks:end -->

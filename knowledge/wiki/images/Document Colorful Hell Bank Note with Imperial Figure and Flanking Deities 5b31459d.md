@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Co
 
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Photograph Two Men Flanking Figure in White Futuristic Armored Suit 6435c521|Photograph Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking
+- [[knowledge/wiki/images/Two Men Flanking Figure in White Futuristic Armored Suit f89345e1|Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking
 - [[knowledge/wiki/images/Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities c70f3184|Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities]] — shared language: deities, colorful
 - [[knowledge/wiki/images/Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc 87068a38|Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc]] — shared language: hell, document
 <!-- vault-crosslinks:end -->

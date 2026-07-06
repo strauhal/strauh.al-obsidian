@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Soldiers Sitting in a Mountainous Landscape a58b549a|Photograph Two Soldiers Sitting in a Mountainous Landscape]] — shared language: soldiers
-- [[knowledge/wiki/images/Photograph Soldiers Advancing Under Fire With Explosions In Background 45c9fb8d|Photograph Soldiers Advancing Under Fire With Explosions In Background]] — shared language: soldiers
+- [[knowledge/wiki/images/Soldiers in Snowy Landscape with Explosions and Smoke During Battle a8a0f3e4|Soldiers in Snowy Landscape with Explosions and Smoke During Battle]] — shared language: soldiers, smoke
+- [[knowledge/wiki/images/Soldiers Running Across Field with Helicopter and Washington Monument 8be6452c|Soldiers Running Across Field with Helicopter and Washington Monument]] — shared language: soldiers, running
+- [[knowledge/wiki/images/Two Soldiers Sitting in a Mountainous Landscape 35fdaaef|Two Soldiers Sitting in a Mountainous Landscape]] — shared language: soldiers
 - [[knowledge/wiki/images/Illustration Portrait of Hooded Figure Smoking with Swirling Smoke 0268f050|Illustration Portrait of Hooded Figure Smoking with Swirling Smoke]] — shared language: smoke, smoke.jpg
 - [[knowledge/wiki/images/Illustration Volcano Erupting With Large Plume Of Smoke And Ash a4f798d5|Illustration Volcano Erupting With Large Plume Of Smoke And Ash]] — shared language: smoke
-- [[knowledge/wiki/images/smoke by nick knight 1998 fc8af2e3|smoke by nick knight 1998]] — shared language: smoke
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/actor_ichikawa_d
 - [[knowledge/wiki/artists/Artist - utagawa toyokuni i|Artist - utagawa toyokuni i]] — shared language: utagawa
 - [[knowledge/wiki/artists/Artist - utagawa kuniyoshi|Artist - utagawa kuniyoshi]] — shared language: utagawa
 - [[knowledge/wiki/images/composition 8 komposition viii by wassily kandinsky 1923 16c6e044|composition 8 komposition viii by wassily kandinsky 1923]] — shared language: viii
-- [[knowledge/wiki/artists/Artist - onoe matsusuke i by utagawa toyokuni i|Artist - onoe matsusuke i by utagawa toyokuni i]] — shared language: utagawa
 - [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — shared language: utagawa
+- [[knowledge/wiki/artists/Artist - onoe matsusuke i by utagawa toyokuni i|Artist - onoe matsusuke i by utagawa toyokuni i]] — shared language: utagawa
 <!-- vault-crosslinks:end -->

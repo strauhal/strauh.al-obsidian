@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated, head
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/images/Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape c2d3f531|Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape]] — shared language: glitch, pixelated
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 <!-- vault-crosslinks:end -->

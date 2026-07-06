@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_laughing_boy
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
-- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
 - [[knowledge/wiki/images/bernardo bellotto view of warsaw from praga c 1770 d38850a7|bernardo bellotto view of warsaw from praga c 1770]] — shared language: bernardo
+- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
 - [[knowledge/wiki/images/Illustration Pencil Drawing of a Laughing Woman with Ponytail 49e77128|Illustration Pencil Drawing of a Laughing Woman with Ponytail]] — shared language: laughing
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
 <!-- vault-crosslinks:end -->

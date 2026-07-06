@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - solomon joseph solomon|Artist - solomon joseph solomon]] — named in this note
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/images/the judgment of solomon by luca giordano c 1680 1685 615704f2|the judgment of solomon by luca giordano c 1680 1685]] — shared language: solomon
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
+- [[_archive/auto-generated/images-stale/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
-- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
-- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: joseph
 <!-- vault-crosslinks:end -->

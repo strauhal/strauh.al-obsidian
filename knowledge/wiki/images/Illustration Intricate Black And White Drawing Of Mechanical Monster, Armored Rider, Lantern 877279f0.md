@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: armored
-- [[knowledge/wiki/images/Photograph Crow With Monster Energy Can In Puddle aeeeac6e|Photograph Crow With Monster Energy Can In Puddle]] — shared language: monster
+- [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster
 <!-- vault-crosslinks:end -->

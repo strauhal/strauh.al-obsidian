@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels.jpg]]
+![[media/strauh.al3.1/photography/Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels.jpg]]
 
 ## Image Notes
 
-- [[Photograph Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels 25d31846|Photograph Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels]]
+- [[Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels 748ab181|Reading Room with Jan Fabre's The Last Judgment Mural by Dirk Pauwels]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

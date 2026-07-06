@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: shadows, road, aerial
-- [[knowledge/wiki/images/Photograph Aerial View Of People's Shadows Playing Beach Volleyball 74fc815f|Photograph Aerial View Of People's Shadows Playing Beach Volleyball]] — shared language: shadows, aerial, view
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
-- [[knowledge/wiki/images/Illustration Stylized Figures of Horse Riders with Long Shadows ee2a2a8e|Illustration Stylized Figures of Horse Riders with Long Shadows]] — shared language: shadows, long, shadows.jpeg
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
+- [[knowledge/wiki/images/Aerial View Of People's Shadows Playing Beach Volleyball 0dea2355|Aerial View Of People's Shadows Playing Beach Volleyball]] — shared language: shadows, aerial, view
+- [[_archive/auto-generated/images-stale/Photograph Aerial View Of People's Shadows Playing Beach Volleyball 74fc815f|Photograph Aerial View Of People's Shadows Playing Beach Volleyball]] — shared language: shadows, aerial, view
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, paper.jpeg
 - [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
 - [[knowledge/wiki/images/Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery 64d7c25f|Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery]] — shared language: sad, surrounded
-- [[knowledge/wiki/images/Diagram Comparison Chart of Philosophical Terms with Meanings and Examples a202ec92|Diagram Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: terms
+- [[knowledge/wiki/images/Comparison Chart of Philosophical Terms with Meanings and Examples e9b0a953|Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: terms
 - [[knowledge/wiki/images/Illustration Normal Map Of A Winged Robot Figure 0b5a45cd|Illustration Normal Map Of A Winged Robot Figure]] — shared language: robot
 <!-- vault-crosslinks:end -->

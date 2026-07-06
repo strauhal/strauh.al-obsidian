@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Stoned Fox b
 - [[knowledge/wiki/images/gustav klimt portrait of adele blochbauer i 1907 c9a9210a|gustav klimt portrait of adele blochbauer i 1907]] — shared language: adele
 - [[knowledge/wiki/books/aesop-aesop-s-fables-the-fox-and-the-grapes|Aesop's Fables: The Fox and the Grapes]] — shared language: fox
 - [[knowledge/wiki/images/the gallery of the louvre by samuel f b morse 18311833 85e71ca1|the gallery of the louvre by samuel f b morse 18311833]] — shared language: morse
-- [[knowledge/wiki/images/the wolf and fox hunt by peter paul rubens c 1616 2907b2e9|the wolf and fox hunt by peter paul rubens c 1616]] — shared language: fox
+- [[knowledge/wiki/images/portrait of the artist s mother countess adele de toulouse lautrec by henri de toulouse lautrec 1886 cb662752|portrait of the artist s mother countess adele de toulouse lautrec by henri de toulouse lautrec 1886]] — shared language: adele
 <!-- vault-crosslinks:end -->

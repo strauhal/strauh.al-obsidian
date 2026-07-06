@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/index.html"
 source_relpath: "index.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # strauh.al Home
@@ -51,6 +51,8 @@ strauh.al
 
 ## [/photography](https://strauh.al/photography)
 
+## [/diagrams](https://strauh.al/diagrams)
+
 ## [/artists](https://strauh.al/artists)
 
 ## [/scripts](https://strauh.al/scripts)
@@ -68,10 +70,6 @@ strauh.al
 ## [/ukiyo_e](https://strauh.al/ukiyo_e)
 
 ## [/pictures_of_musicians](https://strauh.al/pictures_of_musicians)
-
-## [/2024_downloadsfolder](https://strauh.al/2024_downloadsfolder)
-
-## [/2023_downloadsfolder](https://strauh.al/2023_downloadsfolder)
 
 ## [/old_photos](https://strauh.al/old_photos)
 

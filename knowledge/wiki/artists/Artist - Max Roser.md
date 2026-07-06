@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser.jpg]]
+![[media/strauh.al3.1/diagrams/Hourglass_Visualization_of_Humanity's_Past_and_Present_Population_Data_by_Max_Roser.jpg]]
 
 ## Image Notes
 
-- [[Diagram Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser bfeb0211|Diagram Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser]]
+- [[Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser 9424b3c9|Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

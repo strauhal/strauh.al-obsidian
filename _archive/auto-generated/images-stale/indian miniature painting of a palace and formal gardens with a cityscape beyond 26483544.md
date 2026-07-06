@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape bd3c618c|Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape]] — shared language: formal, indian, gardens
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: formal, indian, gardens
-- [[_archive/auto-generated/images-stale/indian miniature painting of a multi tiered palace and garden complex with cityscape fa138d8e|indian miniature painting of a multi tiered palace and garden complex with cityscape]] — shared language: indian, palace, miniature
-- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, palace, miniature
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
+- [[_archive/auto-generated/images-stale/indian miniature painting of a multi tiered palace and garden complex with cityscape fa138d8e|indian miniature painting of a multi tiered palace and garden complex with cityscape]] — shared language: indian, miniature, palace
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, beyond
+- [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, miniature, palace
 <!-- vault-crosslinks:end -->

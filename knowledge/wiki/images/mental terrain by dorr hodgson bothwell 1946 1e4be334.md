@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/mental_terrain_b
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mental
 - [[knowledge/wiki/books/jonathan-haidt-the-anxious-generation-how-the-great-rewiring-of-childhood-is-causing-an-epidemic-of-mental-illness-penguin-publishing-group|The Anxious Generation How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness-Penguin Publishing Group]] — shared language: mental
-- [[knowledge/wiki/images/Diagram Graph Comparing Mental Hospital And Prison Populations 4907f973|Diagram Graph Comparing Mental Hospital And Prison Populations]] — shared language: mental
+- [[knowledge/wiki/images/Graph Comparing Mental Hospital And Prison Populations 5ef5971e|Graph Comparing Mental Hospital And Prison Populations]] — shared language: mental
 <!-- vault-crosslinks:end -->

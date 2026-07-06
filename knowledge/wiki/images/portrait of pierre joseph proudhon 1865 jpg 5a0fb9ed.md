@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/portrait_of_pier
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865) d7eaf09c|Pierre Joseph Proudhon and his children in 1853 by Gustave Courbet (1865)]] — shared language: proudhon, pierre, joseph
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
-- [[knowledge/wiki/images/portrait of the violinist pierre gavinies by joseph ducreux c 1765 604b9f47|portrait of the violinist pierre gavinies by joseph ducreux c 1765]] — shared language: joseph, pierre
-- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
+- [[knowledge/wiki/images/portrait of the violinist pierre gavinies by joseph ducreux c 1765 604b9f47|portrait of the violinist pierre gavinies by joseph ducreux c 1765]] — shared language: pierre, joseph
 <!-- vault-crosslinks:end -->

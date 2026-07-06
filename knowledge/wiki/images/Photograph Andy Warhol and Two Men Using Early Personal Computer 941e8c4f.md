@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - And
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: warhol, andy, computer
 - [[knowledge/wiki/images/Photograph Black and White Photo of Andy Warhol and Three Men 8229510a|Photograph Black and White Photo of Andy Warhol and Three Men]] — shared language: warhol, andy, men
-- [[knowledge/wiki/images/Photograph Andy Warhol and Two Others Looking at a Computer 52d6b0fe|Photograph Andy Warhol and Two Others Looking at a Computer]] — shared language: warhol, andy, computer
+- [[knowledge/wiki/images/Andy Warhol and Two Others Looking at a Computer 873530c9|Andy Warhol and Two Others Looking at a Computer]] — shared language: warhol, andy, computer
 - [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

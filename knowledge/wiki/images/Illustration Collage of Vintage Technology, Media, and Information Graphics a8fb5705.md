@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — shared language: technology, media
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: technology, media
 <!-- vault-crosslinks:end -->

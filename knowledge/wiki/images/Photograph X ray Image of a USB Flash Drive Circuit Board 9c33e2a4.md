@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - X-r
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: drive
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: drive
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: drive
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 <!-- vault-crosslinks:end -->

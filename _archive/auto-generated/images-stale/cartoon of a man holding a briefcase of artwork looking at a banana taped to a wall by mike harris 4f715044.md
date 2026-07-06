@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — named in this note
 - [[knowledge/wiki/images/Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris 1ee3a07f|Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris]] — same artist: mike harris
-- [[_archive/auto-generated/images-stale/black and white photograph of a woman s face taped to a wall d0682ebc|black and white photograph of a woman s face taped to a wall]] — shared language: taped, wall
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — shared language: harris
-- [[_archive/auto-generated/images-stale/small photograph of a woman s face taped to a wall 01e5132f|small photograph of a woman s face taped to a wall]] — shared language: taped, wall
+- [[_archive/auto-generated/images-stale/black and white photograph of a woman s face taped to a wall d0682ebc|black and white photograph of a woman s face taped to a wall]] — shared language: taped, wall
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
 <!-- vault-crosslinks:end -->

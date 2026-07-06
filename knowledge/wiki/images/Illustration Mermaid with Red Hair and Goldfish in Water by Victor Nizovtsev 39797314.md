@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, hair
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, hair
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor

@@ -35,7 +35,7 @@ and anonymous at once.
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: mcgee, barry, influences
 - [[knowledge/wiki/artists/Artist - Barry McGee|Artist - Barry McGee]] — shared language: mcgee, barry, train
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, internet, listed
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, whose, diary
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, diary, whose
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant, whose
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: mcgee, influences, barry
 <!-- vault-crosslinks:end -->

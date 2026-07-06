@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: hand
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Surreal Sepia Image of Giant Bearded Figure and Crowd f97c14a9|Illustration Surreal Sepia Image of Giant Bearded Figure and Crowd]] — shared language: giant
+- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
+- [[knowledge/wiki/images/Image Two Anime Characters Before Giant Baby Face in Red Sea e780e50f|Image Two Anime Characters Before Giant Baby Face in Red Sea]] — shared language: giant
 - [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: hand
 <!-- vault-crosslinks:end -->

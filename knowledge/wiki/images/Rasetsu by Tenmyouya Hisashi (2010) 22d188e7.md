@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Rasetsu by Tenmy
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Rainy Season in the Tropics by Frederic Edwin Church (1866) 10545741|Rainy Season in the Tropics by Frederic Edwin Church (1866)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Raspberry Pi Board Inside Empty Computer Case With Notebook 1b7d5d84|Raspberry Pi Board Inside Empty Computer Case With Notebook]] — nearby note in the same source series
 - [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

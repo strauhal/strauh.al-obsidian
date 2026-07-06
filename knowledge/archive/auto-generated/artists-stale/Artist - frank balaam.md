@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
 - [[knowledge/wiki/images/Illustration Vibrant Impasto Painting of a Birch Forest with Green, Yellow Leaves 14b89e08|Illustration Vibrant Impasto Painting of a Birch Forest with Green, Yellow Leaves]] — shared language: birch, forest, impasto
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
+- [[_archive/auto-generated/images-stale/39272 Frank Gilbreth 2ed2af6f|39272 Frank Gilbreth]] — shared language: frank
 - [[knowledge/wiki/images/Illustration Impasto Painting of Dense Green and Yellow Foliage 95839914|Illustration Impasto Painting of Dense Green and Yellow Foliage]] — shared language: impasto, foliage, yellow
 - [[_archive/auto-generated/images-stale/impasto painting of dense green and yellow foliage 53282517|impasto painting of dense green and yellow foliage]] — shared language: impasto, foliage, yellow
-- [[_archive/auto-generated/images-stale/39272 Frank Gilbreth 2ed2af6f|39272 Frank Gilbreth]] — shared language: frank
 <!-- vault-crosslinks:end -->

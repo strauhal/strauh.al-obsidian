@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Co
 
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Diagram Compilation of Psychedelic Folk Album Covers and Information e56a1303|Diagram Compilation of Psychedelic Folk Album Covers and Information]] — shared language: compilation, information
+- [[knowledge/wiki/images/Compilation of Psychedelic Folk Album Covers and Information cada33d6|Compilation of Psychedelic Folk Album Covers and Information]] — shared language: compilation, information
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Document Framed Museum Information Panel About Renoir and Contemporaries a05ec507|Document Framed Museum Information Panel About Renoir and Contemporaries]] — shared language: information, document
 <!-- vault-crosslinks:end -->

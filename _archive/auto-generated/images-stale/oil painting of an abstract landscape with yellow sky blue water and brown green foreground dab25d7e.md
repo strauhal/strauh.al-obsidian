@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground f7d870f0|Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground]] — shared language: foreground, brown, sky
+- [[knowledge/wiki/images/Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground f7d870f0|Illustration Abstract Landscape Painting with Yellow Sky, Blue Water, Brown and Green Foreground]] — shared language: foreground, brown, water
 - [[knowledge/wiki/images/Screenshot Man in Lifeboat on Green Screen Water with Grid Sky 304a8726|Screenshot Man in Lifeboat on Green Screen Water with Grid Sky]] — shared language: water, sky, green
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: water, landscape
 - [[_archive/auto-generated/images-stale/watercolor landscape of a meadow with trees in the foreground df425d9c|watercolor landscape of a meadow with trees in the foreground]] — shared language: foreground, landscape
-- [[_archive/auto-generated/images-stale/oil painting of dark mountains under blue sky 88fefb4d|oil painting of dark mountains under blue sky]] — shared language: sky, oil
+- [[_archive/auto-generated/images-stale/oil painting of dark mountains under blue sky 88fefb4d|oil painting of dark mountains under blue sky]] — shared language: oil, sky
 <!-- vault-crosslinks:end -->

@@ -2,8 +2,8 @@
 title: Map - ChatGPT Memory
 type: map
 tags: [map, chatgpt, memory, conversations]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - ChatGPT Memory

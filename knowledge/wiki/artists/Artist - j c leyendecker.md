@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: grand
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: staircase
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Crowds f9257c1a|Photograph Black and White Photograph of Grand Neoclassical Building with Crowds]] — shared language: grand
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: staircase
+- [[knowledge/wiki/images/Black And White Photograph Of Brutalist Concrete Staircase Monument 3b1f75cc|Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: staircase
 <!-- vault-crosslinks:end -->

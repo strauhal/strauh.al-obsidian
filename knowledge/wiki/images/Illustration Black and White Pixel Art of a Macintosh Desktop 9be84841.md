@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, desktop, pixel
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, pixel
 - [[knowledge/wiki/images/Illustration Pixel Graphic of Figure Exposing Themselves to Macintosh Computer 81452625|Illustration Pixel Graphic of Figure Exposing Themselves to Macintosh Computer]] — shared language: macintosh, pixel
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: pixel
 - [[knowledge/wiki/images/Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon b18eb4cb|Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon]] — shared language: macintosh, pixel
 - [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: macintosh
+- [[knowledge/wiki/images/black and white pixel graphic of a macintosh computer displaying a christmas greeting signed jk 85 1985 08bb7838|black and white pixel graphic of a macintosh computer displaying a christmas greeting signed jk 85 1985]] — shared language: macintosh, pixel
 <!-- vault-crosslinks:end -->

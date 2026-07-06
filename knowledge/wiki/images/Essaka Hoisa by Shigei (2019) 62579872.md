@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Essaka Hoisa by 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Es3wUJjUYAEwFo 3e3b8631|Es3wUJjUYAEwFo]] — nearby note in the same source series
+- [[knowledge/wiki/images/Escalator Structure on a Steep Overgrown Hillside 471760c9|Escalator Structure on a Steep Overgrown Hillside]] — nearby note in the same source series
 - [[knowledge/wiki/images/EtO CfsXYAAsOH6 8abf4c73|EtO CfsXYAAsOH6]] — nearby note in the same source series
-- [[knowledge/wiki/images/Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty) 66c0d901|Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Ergonomic Mousepad With Man's Head On Woman's Bikini Body 322f1e49|Ergonomic Mousepad With Man's Head On Woman's Bikini Body]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

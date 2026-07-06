@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/williamadolphe_b
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: sleep
 - [[knowledge/wiki/images/Illustration Stylized Black And White Abstract Symbol by Sleep Token fbcc4fbf|Illustration Stylized Black And White Abstract Symbol by Sleep Token]] — shared language: sleep
 - [[knowledge/wiki/images/williamadolphe bouguereau nymphes des sources 1902 ed0e3352|williamadolphe bouguereau nymphes des sources 1902]] — shared language: bouguereau
-- [[knowledge/wiki/images/williamadolphe bouguereau dante and virgil 1850 d451d1cf|williamadolphe bouguereau dante and virgil 1850]] — shared language: bouguereau
+- [[knowledge/wiki/images/Cycle of Wake Up and Sleep Represented by Abstract Shapes 70b72934|Cycle of Wake Up and Sleep Represented by Abstract Shapes]] — shared language: sleep
 <!-- vault-crosslinks:end -->

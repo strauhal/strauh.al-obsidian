@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, burning
 - [[_archive/auto-generated/images-stale/black and white woodcut or ink landscape 6adbf372|black and white woodcut or ink landscape]] — shared language: woodcut
 - [[knowledge/wiki/images/Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak 4d2c26b9|Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak]] — shared language: cloak, armor
 - [[_archive/auto-generated/images-stale/line drawing of a female character in cybernetic armor and cloak c9b75cde|line drawing of a female character in cybernetic armor and cloak]] — shared language: cloak, armor

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/the cliff etretat sunset by claude monet 1885 633f1402|the cliff etretat sunset by claude monet 1885]] — shared language: cliff, sunset
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital illustration of a dark gothic castle on a snowy mountain cliff ff6459d8|digital illustration of a dark gothic castle on a snowy mountain cliff]] — shared language: cliff, digital
-- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: cliff
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert
 <!-- vault-crosslinks:end -->

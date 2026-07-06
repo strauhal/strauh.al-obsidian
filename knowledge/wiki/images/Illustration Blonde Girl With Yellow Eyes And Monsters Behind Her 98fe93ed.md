@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Photograph Blonde Woman From Behind Looking At Four Paintings On Wall 22006a1c|Photograph Blonde Woman From Behind Looking At Four Paintings On Wall]] — shared language: blonde, behind
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: blonde, eyes
 - [[Welcome|strauh.al Knowledge Base]] — shared language: behind
+- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: behind
 <!-- vault-crosslinks:end -->

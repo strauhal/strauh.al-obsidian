@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman In Military Uniform Standing Among Pink Flowers With Mountains b0b86c93|Photograph Woman In Military Uniform Standing Among Pink Flowers With Mountains]] — shared language: uniform, military, among
-- [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: military, uniform
-- [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: military, uniform
-- [[knowledge/wiki/images/Illustration Black and White Sketch of Laughing Character in Military Uniform 971fe245|Illustration Black and White Sketch of Laughing Character in Military Uniform]] — shared language: military, uniform
+- [[knowledge/wiki/images/Woman In Military Uniform Standing Among Pink Flowers With Mountains 7605e96e|Woman In Military Uniform Standing Among Pink Flowers With Mountains]] — shared language: uniform, military, among
+- [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: uniform, military
+- [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: uniform, military
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Laughing Character in Military Uniform 971fe245|Illustration Black and White Sketch of Laughing Character in Military Uniform]] — shared language: uniform, military
 <!-- vault-crosslinks:end -->

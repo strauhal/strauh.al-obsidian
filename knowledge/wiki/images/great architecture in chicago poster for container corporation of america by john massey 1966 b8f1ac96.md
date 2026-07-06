@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/great_architectu
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
 - [[knowledge/wiki/artists/Artist - Orbital Assembly Corporation|Artist - Orbital Assembly Corporation]] — shared language: corporation
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: great
-- [[knowledge/wiki/books/warren-buffett-lawrence-a-cunningham-the-essays-of-warren-buffett-lessons-for-corporate-america|The Essays of Warren Buffett: Lessons for Corporate America]] — shared language: america
+- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: chicago
 <!-- vault-crosslinks:end -->

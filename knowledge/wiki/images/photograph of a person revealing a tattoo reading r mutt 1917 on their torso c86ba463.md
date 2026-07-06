@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/photograph_of_a_
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: tattoo
-- [[knowledge/wiki/images/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
-- [[knowledge/wiki/images/Illustration Red Haired Woman With Tattoo In Water Looking Up f67df98c|Illustration Red Haired Woman With Tattoo In Water Looking Up]] — shared language: tattoo
-- [[knowledge/wiki/images/Photograph Photograph of a Tattoo Depicting a Broken Image File Icon d179dee7|Photograph Photograph of a Tattoo Depicting a Broken Image File Icon]] — shared language: tattoo
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
 - [[knowledge/wiki/images/Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E' 42d43431|Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E']] — shared language: revealing
+- [[knowledge/wiki/images/Nymph by Torso Solutions (2022) ee1d3301|Nymph by Torso Solutions (2022)]] — shared language: torso
+- [[knowledge/wiki/images/Illustration Cracked Doll Face Revealing Monstrous Mouth and Tendrils ccfcebe6|Illustration Cracked Doll Face Revealing Monstrous Mouth and Tendrils]] — shared language: revealing
 <!-- vault-crosslinks:end -->

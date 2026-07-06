@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
 - [[knowledge/wiki/images/Illustration Detailed Black and White Cosmic Creatures and Abstract Forms 07d2f369|Illustration Detailed Black and White Cosmic Creatures and Abstract Forms]] — shared language: creatures, forms
 - [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
-- [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: creatures, grotesque
+- [[knowledge/wiki/artists/Artist - Pablo Amaringo|Artist - Pablo Amaringo]] — shared language: mythical, creatures, vibrant
 <!-- vault-crosslinks:end -->

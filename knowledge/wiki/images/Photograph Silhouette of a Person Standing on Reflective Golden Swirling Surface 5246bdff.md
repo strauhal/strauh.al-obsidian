@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sil
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface ac3f5e52|Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: reflective, surface, surface.jpg
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/images/Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall d885d785|Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: silhouette, standing
-- [[knowledge/wiki/images/Illustration Silhouette of Person in Forest Looking at Spiral Pattern 45d5cd75|Illustration Silhouette of Person in Forest Looking at Spiral Pattern]] — shared language: silhouette, person
+- [[knowledge/wiki/images/Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface 88017b08|Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: reflective, surface, surface.jpg
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Distressed Silhouette Of A Standing Human Figure On A Yellow Wall c98bbe73|Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: silhouette, standing
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — shared language: swirling
+- [[knowledge/wiki/images/Illustration Silhouette of Person in Forest Looking at Spiral Pattern 45d5cd75|Illustration Silhouette of Person in Forest Looking at Spiral Pattern]] — shared language: silhouette, person
 <!-- vault-crosslinks:end -->

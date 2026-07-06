@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, isometric, detailed
-- [[knowledge/wiki/images/Photograph Foggy Cityscape with Tall Buildings and Neon Signs in Japan 7dcf5a4f|Photograph Foggy Cityscape with Tall Buildings and Neon Signs in Japan]] — shared language: neon, signs, cityscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, buildings, signs
+- [[knowledge/wiki/images/Foggy Cityscape with Tall Buildings and Neon Signs in Japan aa98259c|Foggy Cityscape with Tall Buildings and Neon Signs in Japan]] — shared language: neon, signs, cityscape
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: tram
-- [[knowledge/wiki/images/Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo 6f955bff|Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo]] — shared language: cityscape, buildings, detailed
+- [[knowledge/wiki/images/Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo 6f955bff|Comic Detailed Black And White Cityscape With Tall Buildings by Katsuhiro Otomo]] — shared language: cityscape, detailed, buildings
+- [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, detailed
 <!-- vault-crosslinks:end -->

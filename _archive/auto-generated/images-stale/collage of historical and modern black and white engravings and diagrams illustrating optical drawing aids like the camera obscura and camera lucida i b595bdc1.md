@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Collage of historical and modern optical drawing aid illustrations 60b63088|Illustration Collage of historical and modern optical drawing aid illustrations]] — shared language: optical, historical, collage
-- [[knowledge/wiki/images/Diagram Diagram of a Camera Obscura with Artist Tracing Image 99216190|Diagram Diagram of a Camera Obscura with Artist Tracing Image]] — shared language: obscura, camera, diagrams
+- [[knowledge/wiki/images/Diagram of a Camera Obscura with Artist Tracing Image 86ccb0a1|Diagram of a Camera Obscura with Artist Tracing Image]] — shared language: obscura, camera
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: optical
-- [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: collage, diagrams, text
-- [[knowledge/wiki/images/Photograph Close Up Portrait Of Two Men With Beards Looking At Camera cfabb6c1|Photograph Close Up Portrait Of Two Men With Beards Looking At Camera]] — shared language: camera
+- [[_archive/auto-generated/images-stale/Diagram Diagram of a Camera Obscura with Artist Tracing Image 99216190|Diagram Diagram of a Camera Obscura with Artist Tracing Image]] — shared language: obscura, camera
+- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 <!-- vault-crosslinks:end -->

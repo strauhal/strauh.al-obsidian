@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/Portrait of a Yo
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - charles le brun|Artist - charles le brun]] — shared language: brun
-- [[knowledge/wiki/images/Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait ad61f95b|Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait]] — shared language: feathered, hat
+- [[knowledge/wiki/images/Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait 624ca5e8|Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait]] — shared language: feathered, hat
 - [[knowledge/wiki/images/Illustration Seated Young Man in Pink Shirt Holding Hat cfaa5ae8|Illustration Seated Young Man in Pink Shirt Holding Hat]] — shared language: hat, young
 - [[knowledge/wiki/images/the triumph of louis xiv over the heresy by charles le brun c 1672 04a81b18|the triumph of louis xiv over the heresy by charles le brun c 1672]] — shared language: brun
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: hat

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Sean Adair|Artist - Sean Adair]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair 2001|Artist - sean adair 2001]] — named in this note
 - [[_archive/auto-generated/images-stale/photograph of the world trade center south tower impact on september 11 2001 by sean adair 2001 1f05c94c|photograph of the world trade center south tower impact on september 11 2001 by sean adair 2001]] — shared language: adair, sean, september
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry|Artist - sean henry]] — shared language: sean
-- [[_archive/auto-generated/images-stale/drift by sean henry 2023 6548b692|drift by sean henry 2023]] — shared language: sean
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/charles_meryo
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles meryon|Artist - charles meryon]] — shared language: meryon, charles
 - [[knowledge/wiki/images/charles meryon the apse of notre dame paris 1854 ii jpg ecab51fd|charles meryon the apse of notre dame paris 1854 ii jpg]] — shared language: meryon, paris, charles
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 - [[_archive/auto-generated/images-stale/le pont neuf by charles meryon 1853 30f6b52f|le pont neuf by charles meryon 1853]] — shared language: meryon, charles
 - [[knowledge/wiki/images/Le Pont Neuf by Charles Meryon (1853) dbe6ef6e|Le Pont Neuf by Charles Meryon (1853)]] — shared language: meryon, charles
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 <!-- vault-crosslinks:end -->

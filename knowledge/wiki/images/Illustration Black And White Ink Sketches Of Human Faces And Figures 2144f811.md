@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
+- [[knowledge/wiki/images/Illustration Two Sketches of a Woman's Head in Blue Ink 1c8043a3|Illustration Two Sketches of a Woman's Head in Blue Ink]] — shared language: sketches, ink
 <!-- vault-crosslinks:end -->

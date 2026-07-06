@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/high contrast black and white close up of a face with flowing hair 4c611fca|high contrast black and white close up of a face with flowing hair]] — shared language: contrast, high
-- [[knowledge/wiki/images/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high
+- [[knowledge/wiki/images/High Contrast Black And White Close Up Of Face With Flowing Hair e38a9631|High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high
+- [[_archive/auto-generated/images-stale/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, high
 - [[_archive/auto-generated/images-stale/high contrast color separated image of a figure jumping c174871b|high contrast color separated image of a figure jumping]] — shared language: contrast, high
 - [[knowledge/wiki/images/red and pink high contrast promotional flyer for seiko matsuda s second album 1981 e6935883|red and pink high contrast promotional flyer for seiko matsuda s second album 1981]] — shared language: contrast, high
-- [[_archive/auto-generated/images-stale/woven textile featuring a high contrast portrait of a downcast face 2d0e8543|woven textile featuring a high contrast portrait of a downcast face]] — shared language: contrast, high
 <!-- vault-crosslinks:end -->

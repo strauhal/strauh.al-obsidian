@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/images/Illustration Woman With A Sword In An Ornate Room fe703b09|Illustration Woman With A Sword In An Ornate Room]] — shared language: ornate, room
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 <!-- vault-crosslinks:end -->

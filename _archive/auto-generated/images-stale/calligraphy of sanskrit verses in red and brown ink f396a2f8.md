@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Sanskrit Calligraphy In Red And Brown Ink 13aafec0|Illustration Sanskrit Calligraphy In Red And Brown Ink]] — shared language: sanskrit, calligraphy, brown
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: calligraphy, ink
 - [[knowledge/wiki/images/Illustration Dynamic Abstract Black Ink Calligraphy on White Paper dce31969|Illustration Dynamic Abstract Black Ink Calligraphy on White Paper]] — shared language: calligraphy, ink
 - [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: calligraphy, ink
-- [[_archive/auto-generated/images-stale/ink drawing of a mountain landscape with trees and calligraphy 2cdce20b|ink drawing of a mountain landscape with trees and calligraphy]] — shared language: calligraphy, ink
 <!-- vault-crosslinks:end -->

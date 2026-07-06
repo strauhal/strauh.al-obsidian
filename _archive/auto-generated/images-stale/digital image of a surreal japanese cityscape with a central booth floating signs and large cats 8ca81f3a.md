@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, signs
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs 018288aa|Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs]] — shared language: signs, japanese, cityscape
+- [[knowledge/wiki/images/Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers 88a1d0b3|Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers]] — shared language: floating, japanese
 <!-- vault-crosslinks:end -->

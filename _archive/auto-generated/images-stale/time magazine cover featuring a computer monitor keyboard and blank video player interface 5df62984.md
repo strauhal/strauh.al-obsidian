@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/images/Document TIME Magazine Cover with Computer Monitor and Video Player 9a68f45c|Document TIME Magazine Cover with Computer Monitor and Video Player]] — shared language: monitor, magazine, player
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer, time
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer, keyboard
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video, time
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 <!-- vault-crosslinks:end -->

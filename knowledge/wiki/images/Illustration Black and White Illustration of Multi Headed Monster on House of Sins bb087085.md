@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: headed, multi, multi-headed
 - [[knowledge/wiki/images/Illustration Glitch Art Profile of Head with Repeating 'Future Sins' Text 4e9ec3db|Illustration Glitch Art Profile of Head with Repeating 'Future Sins' Text]] — shared language: sins
-- [[knowledge/wiki/images/Photograph Multi Story Glass And Metal House With Classic Car f8868613|Photograph Multi Story Glass And Metal House With Classic Car]] — shared language: multi, house
-- [[knowledge/wiki/images/Photograph Crow With Monster Energy Can In Puddle aeeeac6e|Photograph Crow With Monster Energy Can In Puddle]] — shared language: monster
+- [[knowledge/wiki/images/Multi Story Glass And Metal House With Classic Car 4afe5b6e|Multi Story Glass And Metal House With Classic Car]] — shared language: multi, house
 - [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster
+- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle fc144e23|Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle]] — shared language: monster
 <!-- vault-crosslinks:end -->

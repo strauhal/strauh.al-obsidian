@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines 79d7ed7c|Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines]] — shared language: wavy, orange
 - [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: wavy, orange
 - [[knowledge/wiki/images/Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors 7a392a42|Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors]] — shared language: wavy, orange
-- [[knowledge/wiki/images/Photograph Modern Interior With Curved Ceiling, Angled Pillars, And Mannequin 8a14dec3|Photograph Modern Interior With Curved Ceiling, Angled Pillars, And Mannequin]] — shared language: pillars
+- [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy
 <!-- vault-crosslinks:end -->

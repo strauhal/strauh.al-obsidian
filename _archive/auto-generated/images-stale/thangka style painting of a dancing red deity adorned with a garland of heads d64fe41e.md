@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Dancing Red Deity Adorned With Garland of Heads 4811e25d|Illustration Dancing Red Deity Adorned With Garland of Heads]] — named in this note
 - [[knowledge/wiki/images/Illustration Traditional Thangka Painting of Green Deity on Lotus f8feeadf|Illustration Traditional Thangka Painting of Green Deity on Lotus]] — shared language: thangka, deity
 - [[knowledge/wiki/images/Illustration Miniature Painting of Dancing Red Deity on Lotus 7736e538|Illustration Miniature Painting of Dancing Red Deity on Lotus]] — shared language: deity, dancing
-- [[_archive/auto-generated/images-stale/miniature painting of a dancing red deity on a lotus throne f7fbe57c|miniature painting of a dancing red deity on a lotus throne]] — shared language: deity, dancing
 - [[_archive/auto-generated/images-stale/thangka painting of a multi armed blue wrathful deity standing on figures against a red background e980217f|thangka painting of a multi armed blue wrathful deity standing on figures against a red background]] — shared language: thangka, deity
+- [[_archive/auto-generated/images-stale/miniature painting of a dancing red deity on a lotus throne f7fbe57c|miniature painting of a dancing red deity on a lotus throne]] — shared language: deity, dancing
 <!-- vault-crosslinks:end -->

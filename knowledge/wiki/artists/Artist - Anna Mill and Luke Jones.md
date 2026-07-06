@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, populated, signs
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: mill
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — shared language: luke
 - [[knowledge/wiki/artists/Artist - sir luke fildes|Artist - sir luke fildes]] — shared language: luke
 - [[knowledge/wiki/images/The Sun roars into View by Anna Loginova (2024) e271a490|The Sun roars into View by Anna Loginova (2024)]] — shared language: anna
 - [[knowledge/wiki/images/the doctor by sir luke fildes 1891 f5374361|the doctor by sir luke fildes 1891]] — shared language: luke
+- [[knowledge/wiki/images/the mill by clifton wheeler 1932 891dba74|the mill by clifton wheeler 1932]] — shared language: mill
 <!-- vault-crosslinks:end -->

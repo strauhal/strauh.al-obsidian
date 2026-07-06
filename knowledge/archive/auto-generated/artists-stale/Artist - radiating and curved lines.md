@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/black and white symmetrical geometric design composed of radiating lines forming six curved petal shapes f9210e71|black and white symmetrical geometric design composed of radiating lines forming six curved petal shapes]] — shared language: radiating, curved, lines
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines 010095ba|Illustration Abstract Geometric Painting of Red Diamond with Radiating Lines]] — shared language: radiating, lines
 - [[knowledge/wiki/images/Illustration Black and White Symmetrical Geometric Design with Radiating Lines 050a3c74|Illustration Black and White Symmetrical Geometric Design with Radiating Lines]] — shared language: radiating, lines
-- [[_archive/auto-generated/images-stale/black and white visualization of curved lines in a 3d coordinate system df9ab957|black and white visualization of curved lines in a 3d coordinate system]] — shared language: curved, lines
+- [[_archive/auto-generated/images-stale/abstract geometric painting of a red diamond shape with radiating lines 04af108e|abstract geometric painting of a red diamond shape with radiating lines]] — shared language: radiating, lines
 <!-- vault-crosslinks:end -->

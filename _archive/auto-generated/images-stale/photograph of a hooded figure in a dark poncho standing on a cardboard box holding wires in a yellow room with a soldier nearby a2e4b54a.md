@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Hooded Figure on Box with Wires and Soldier b9526a3a|Photograph Hooded Figure on Box with Wires and Soldier]] — shared language: wires, hooded, box
-- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: hooded, yellow, holding
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
+- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: hooded, yellow, holding
 - [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: hooded, holding, dark
 - [[_archive/auto-generated/images-stale/yellow illustration of a hooded archer afff99fd|yellow illustration of a hooded archer]] — shared language: hooded, yellow
 <!-- vault-crosslinks:end -->

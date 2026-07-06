@@ -52,8 +52,8 @@ Images attributed by filename: 11
 
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
-- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: watterson, bill, calvin
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: watterson, bill, calvin
 - [[knowledge/wiki/images/Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson c431e9ad|Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson]] — shared language: watterson, bill, calvin
 - [[knowledge/wiki/images/Comic Noir style Comic Panels of Calvin as Tracer Bullet with Gun. by Bill Watterson e37238a3|Comic Noir style Comic Panels of Calvin as Tracer Bullet with Gun. by Bill Watterson]] — shared language: watterson, bill, calvin
-- [[knowledge/wiki/images/Comic Calvin as Film Noir Private Eye Tracer Bullet by Bill Watterson eb039f0f|Comic Calvin as Film Noir Private Eye Tracer Bullet by Bill Watterson]] — shared language: watterson, bill, calvin
 <!-- vault-crosslinks:end -->

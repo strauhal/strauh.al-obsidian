@@ -2,8 +2,8 @@
 title: Map - Influences
 type: map
 tags: [map, influences, people]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - Influences
@@ -35,7 +35,7 @@ People from the influence wall and the diary-linked constellation.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, people, wassily
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily, people
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, baudelaire
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, schiele, egon
 - [[knowledge/wiki/images/yohji yamamoto 86e1cd12|yohji yamamoto]] — shared language: influences, yohji, yamamoto

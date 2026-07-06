@@ -22,6 +22,6 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zhu pei|Artist - zhu pei]] — named in this note
 - [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — shared language: center
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: center
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: center
 <!-- vault-crosslinks:end -->

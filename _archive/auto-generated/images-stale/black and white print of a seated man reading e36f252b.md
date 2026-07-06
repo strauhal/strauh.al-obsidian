@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
 - [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: print, seated
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: print
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
 <!-- vault-crosslinks:end -->

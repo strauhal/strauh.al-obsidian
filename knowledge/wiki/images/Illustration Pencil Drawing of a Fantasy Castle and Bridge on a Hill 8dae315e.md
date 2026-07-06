@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: castle
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, castle
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: castle
 - [[knowledge/wiki/images/Illustration Castle on Hill Overlooking River at Sunset b17972f8|Illustration Castle on Hill Overlooking River at Sunset]] — shared language: hill, castle
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle 21bf8ca0|Illustration Vibrant Surreal Fantasy Landscape with Elaborate Castle]] — shared language: fantasy, castle
 <!-- vault-crosslinks:end -->

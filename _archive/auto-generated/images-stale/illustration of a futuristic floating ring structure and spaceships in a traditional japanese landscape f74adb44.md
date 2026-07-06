@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Futuristic Floating Ring Structure with Spaceships in Japanese Landscape 44d7484c|Illustration Futuristic Floating Ring Structure with Spaceships in Japanese Landscape]] — shared language: spaceships, ring, floating
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[_archive/auto-generated/images-stale/illustration of a figure in traditional japanese robes using a smartphone with a cat and floating hearts 25b959b6|illustration of a figure in traditional japanese robes using a smartphone with a cat and floating hearts]] — shared language: floating, traditional, japanese
-- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic, landscape
 - [[knowledge/wiki/images/Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers 88a1d0b3|Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers]] — shared language: floating, japanese
+- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic, landscape
 <!-- vault-crosslinks:end -->

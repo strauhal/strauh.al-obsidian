@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Chart Classifying Everyday Tastes from High-Brow to Low-Brow by Tom Funk.webp]]
+![[media/strauh.al3.1/diagrams/Chart_Classifying_Everyday_Tastes_from_High-Brow_to_Low-Brow_by_Tom_Funk.webp]]
 
 ## Image Notes
 
-- [[Diagram Chart Classifying Everyday Tastes from High Brow to Low Brow by Tom Funk d2e7f24e|Diagram Chart Classifying Everyday Tastes from High Brow to Low Brow by Tom Funk]]
+- [[Chart Classifying Everyday Tastes from High Brow to Low Brow by Tom Funk 5da99fa8|Chart Classifying Everyday Tastes from High Brow to Low Brow by Tom Funk]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

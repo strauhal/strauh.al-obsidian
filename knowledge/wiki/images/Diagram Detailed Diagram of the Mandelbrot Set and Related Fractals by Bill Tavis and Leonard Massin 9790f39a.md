@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Detail
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: leonard
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: bill
+- [[knowledge/wiki/images/Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski 1f31d055|Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski]] — shared language: leonard
 <!-- vault-crosslinks:end -->

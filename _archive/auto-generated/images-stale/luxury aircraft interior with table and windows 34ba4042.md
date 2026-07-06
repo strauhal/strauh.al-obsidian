@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: table, interior
+- [[knowledge/wiki/images/Photograph Interior of a Luxury Retail Store with Checkered Floor and Handbags ed5ed89a|Photograph Interior of a Luxury Retail Store with Checkered Floor and Handbags]] — shared language: luxury, interior
 - [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, interior
 - [[_archive/auto-generated/images-stale/Img26 (Windows 7) 255d58cc|Img26 (Windows 7)]] — shared language: windows
-- [[knowledge/wiki/images/Photograph Interior of a Luxury Retail Store with Checkered Floor and Handbags ed5ed89a|Photograph Interior of a Luxury Retail Store with Checkered Floor and Handbags]] — shared language: luxury, interior
 - [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, interior
 <!-- vault-crosslinks:end -->

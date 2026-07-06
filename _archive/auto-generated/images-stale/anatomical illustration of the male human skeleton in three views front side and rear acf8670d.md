@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Anatomical Illustration of Male Human Skeleton in Three Views 96ba65a3|Illustration Anatomical Illustration of Male Human Skeleton in Three Views]] — named in this note
-- [[_archive/auto-generated/images-stale/three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165 f4f71363|three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165]] — shared language: views, anatomical, male
-- [[_archive/auto-generated/images-stale/three anatomical line drawings of the female skeleton back side and front views 765a300b|three anatomical line drawings of the female skeleton back side and front views]] — shared language: skeleton, anatomical, side
+- [[_archive/auto-generated/images-stale/three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165 f4f71363|three anatomical illustrations of the male human musculature anterior posterior and lateral views figures 163 164 and 165]] — shared language: anatomical, views, male
+- [[_archive/auto-generated/images-stale/three anatomical line drawings of the female skeleton back side and front views 765a300b|three anatomical line drawings of the female skeleton back side and front views]] — shared language: anatomical, skeleton, side
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: side
-- [[_archive/auto-generated/images-stale/two anatomical illustrations of a female figure showing fat distribution front and rear views figures 150 and 151 6ca9120f|two anatomical illustrations of a female figure showing fat distribution front and rear views figures 150 and 151]] — shared language: rear, views, anatomical
+- [[knowledge/wiki/images/Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler 7a051cec|Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler]] — shared language: anatomical, views, side
 <!-- vault-crosslinks:end -->

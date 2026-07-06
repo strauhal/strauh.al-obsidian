@@ -34,8 +34,8 @@ Images attributed by filename: 5
 
 - [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig, self
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig, self
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig, self
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig, self
 - [[knowledge/wiki/artists/Artist - rudolf ernst|Artist - rudolf ernst]] — shared language: ernst
 - [[knowledge/wiki/images/The Water Sprite by Ernst Josephson (1882) bf48de7a|The Water Sprite by Ernst Josephson (1882)]] — shared language: ernst
 <!-- vault-crosslinks:end -->

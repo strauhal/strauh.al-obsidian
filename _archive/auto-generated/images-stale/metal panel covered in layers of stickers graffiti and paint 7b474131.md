@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: stickers, covered, graffiti
 - [[_archive/auto-generated/images-stale/accumulation of graffiti tags paint and stickers on a black surface d78c29ba|accumulation of graffiti tags paint and stickers on a black surface]] — shared language: stickers, graffiti, paint
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: layers
-- [[knowledge/wiki/images/Photograph Graffiti Covered Car Exploding in Flames on a Street 437061ec|Photograph Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti
+- [[knowledge/wiki/images/Illustration Graffiti covered Casio Digital Watch with Paint Splatters by Cranio D bbdf22a4|Illustration Graffiti covered Casio Digital Watch with Paint Splatters by Cranio D]] — shared language: covered, graffiti, paint
 <!-- vault-crosslinks:end -->

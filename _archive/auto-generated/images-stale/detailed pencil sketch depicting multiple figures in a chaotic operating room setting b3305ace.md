@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Pencil Sketch Depicting Multiple Figures in Chaotic Operating Room 34f6f600|Illustration Detailed Pencil Sketch Depicting Multiple Figures in Chaotic Operating Room]] — shared language: chaotic, operating, depicting
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/Illustration Pencil Sketch of an Interior Room with Balcony View abc7ea25|Illustration Pencil Sketch of an Interior Room with Balcony View]] — shared language: pencil, room, sketch
 - [[knowledge/wiki/images/Illustration Chaotic Pencil Drawing of Abstract Figures and Forms by Joseph Beuys 3906f08b|Illustration Chaotic Pencil Drawing of Abstract Figures and Forms by Joseph Beuys]] — shared language: chaotic, pencil
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: detailed, sketch
+- [[knowledge/wiki/artists/Artist - Chaotic Grotesque Imagery|Artist - Chaotic Grotesque Imagery]] — shared language: chaotic, pencil
 <!-- vault-crosslinks:end -->

@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/portrait_of_a_yo
 ## Discovered Connections
 
 - [[knowledge/wiki/images/christus und die kinder christ and the children by emil nolde 1910 2ad077ac|christus und die kinder christ and the children by emil nolde 1910]] — shared language: christus
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 - [[knowledge/wiki/books/goethe-johann-wolfgang-von-clements-marcelle-krimmer-elisabeth-goethe-johann-wolfgang-von-hutter-catherine-the-sorrows-of-young-werther-and-|The Sorrows of Young Werther and Selected Writings]] — shared language: young
 - [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
 - [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: young

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Figures on White Paper by Henri Michaux a3f0a89a|Illustration Abstract Black Ink Figures on White Paper by Henri Michaux]] — same artist: henri michaux
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: henri
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri
 - [[knowledge/wiki/images/Visage by Henri Matisse (1951) e96fda8e|Visage by Henri Matisse (1951)]] — shared language: henri
 - [[knowledge/wiki/anchors/robert-henri|Robert Henri]] — shared language: henri
-- [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: henri
 <!-- vault-crosslinks:end -->

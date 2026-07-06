@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Nick Land - Fanged Noumena_ Collected Writings 1987-2007-Urbanomic_Sequence Press (2013).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press
@@ -41,10 +41,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — same category: unsorted
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — same category: unsorted
-- [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — same category: unsorted
 - [[knowledge/wiki/books/goethe-johann-wolfgang-von-clements-marcelle-krimmer-elisabeth-goethe-johann-wolfgang-von-hutter-catherine-the-sorrows-of-young-werther-and-|The Sorrows of Young Werther and Selected Writings]] — same category: unsorted
-- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — same category: unsorted
 - [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — same category: unsorted
 - [[knowledge/wiki/books/richard-dawkins-the-selfish-gene-volume-2-oxford-university-press-usa|The Selfish Gene . Volume 2-Oxford University Press, USA]] — same category: unsorted
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — same category: unsorted
+- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
 <!-- vault-crosslinks:end -->

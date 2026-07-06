@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Black An
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: comic, ink
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel
+- [[knowledge/wiki/images/Comic Four Panel Comic Comparing Stone Age Figure to Modern Woman d518459a|Comic Four Panel Comic Comparing Stone Age Figure to Modern Woman]] — shared language: comic, four, panel
 <!-- vault-crosslinks:end -->

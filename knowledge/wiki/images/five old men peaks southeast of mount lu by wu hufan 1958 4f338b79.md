@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/five_old_men_pea
 - [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, men
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/artists/Artist - william sidney mount|Artist - william sidney mount]] — shared language: mount
-- [[knowledge/wiki/images/Illustration Five Men in Blue Uniforms on Red Background by Leon Golub 9f84daac|Illustration Five Men in Blue Uniforms on Red Background by Leon Golub]] — shared language: five, men
 - [[knowledge/wiki/images/Photograph Five Men, One in Wheelchair, Against Tiled Wall 6751ddbe|Photograph Five Men, One in Wheelchair, Against Tiled Wall]] — shared language: five, men
+- [[knowledge/wiki/images/Illustration Five Men in Blue Uniforms on Red Background by Leon Golub 9f84daac|Illustration Five Men in Blue Uniforms on Red Background by Leon Golub]] — shared language: five, men
 <!-- vault-crosslinks:end -->

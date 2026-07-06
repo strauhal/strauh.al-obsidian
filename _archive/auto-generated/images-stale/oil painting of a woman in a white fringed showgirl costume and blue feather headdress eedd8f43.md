@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress, headdress.jpeg
 - [[_archive/auto-generated/images-stale/colorful expressionist portrait of a figure in a large white headdress e0643a97|colorful expressionist portrait of a figure in a large white headdress]] — shared language: headdress, headdress.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: fringed
-- [[_archive/auto-generated/images-stale/portrait of a face with large radial headdress 36f43376|portrait of a face with large radial headdress]] — shared language: headdress
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress
 <!-- vault-crosslinks:end -->

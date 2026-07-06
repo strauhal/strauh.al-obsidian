@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
-- [[knowledge/wiki/images/Photograph Price List On Letter Board With Reflections 281a99a2|Photograph Price List On Letter Board With Reflections]] — shared language: price
-- [[knowledge/wiki/images/the gallery of the louvre by samuel f b morse 18311833 85e71ca1|the gallery of the louvre by samuel f b morse 18311833]] — shared language: samuel
+- [[_archive/auto-generated/images-stale/Photograph Price List On Letter Board With Reflections 281a99a2|Photograph Price List On Letter Board With Reflections]] — shared language: price
+- [[knowledge/wiki/images/Price List On Letter Board With Reflections 360d56b2|Price List On Letter Board With Reflections]] — shared language: price
 <!-- vault-crosslinks:end -->

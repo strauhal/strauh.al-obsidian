@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Bhikkhu Bodhi - In the Buddha's Words_ An Anthology of Discourses From the Pali Canon-Wisdom Publications (2005).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # In the Buddha's Words An Anthology of Discourses From the Pali Canon-Wisdom Publications
@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
-- [[knowledge/wiki/books/marcus-aurelius-meditations|Meditations]] — same category: esoterica
 - [[knowledge/wiki/books/liphas-l-vi-trans-a-e-waite-the-history-of-magic|The History of Magic]] — same category: esoterica
+- [[knowledge/wiki/books/marcus-aurelius-meditations|Meditations]] — same category: esoterica
 <!-- vault-crosslinks:end -->

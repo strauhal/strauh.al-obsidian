@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Person Stretching At Desk In Sunlit Room 9677e863|Illustration Person Stretching At Desk In Sunlit Room]] — shared language: sunlit, room, room.jpeg
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
 - [[knowledge/wiki/images/Illustration Sunlit Plant Filled Living Room Viewed From Above 5ad3d243|Illustration Sunlit Plant Filled Living Room Viewed From Above]] — shared language: sunlit, room
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6 4ef44638|Illustration Close Up Digital Illustration of Woman Wiping Face With Tissue by avogado6]] — same artist: avogado6
 - [[_archive/auto-generated/images-stale/escalator by avogado6 2020 78e43a96|escalator by avogado6 2020]] — same artist: avogado6
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
+- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, digital
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Photograph of Digital Map Showing United Airplane Near Chicago 6ef3f4b0|Photograph Photograph of Digital Map Showing United Airplane Near Chicago]] — shared language: united, airplane, chicago
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: icon
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: chicago
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
 <!-- vault-crosslinks:end -->

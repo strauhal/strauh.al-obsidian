@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - weegee|Artist - weegee]] — named in this note
 - [[_archive/auto-generated/images-stale/plane crash on bridge by christophe dessaigne 2008 75bee310|plane crash on bridge by christophe dessaigne 2008]] — shared language: crash
 - [[_archive/auto-generated/images-stale/black concept car on a blue stage 8e13574b|black concept car on a blue stage]] — shared language: car
-- [[_archive/auto-generated/images-stale/advertisement graphic of a white car in a green landscape 2010 20235e54|advertisement graphic of a white car in a green landscape 2010]] — shared language: car
-- [[knowledge/wiki/images/Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic 7e9ae20b|Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic]] — shared language: killed
-- [[knowledge/wiki/images/Illustration Pixelated Painting of a Vintage Red and White Car d54ea966|Illustration Pixelated Painting of a Vintage Red and White Car]] — shared language: car
+- [[knowledge/wiki/images/Car Colors By Year 5d8c6a27|Car Colors By Year]] — shared language: car
+- [[knowledge/wiki/images/Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic e9c73c1e|Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic]] — shared language: killed
+- [[_archive/auto-generated/images-stale/Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic 7e9ae20b|Diagram Bar Chart Comparing Journalists Killed In Wars by The Muslim Skeptic]] — shared language: killed
 <!-- vault-crosslinks:end -->

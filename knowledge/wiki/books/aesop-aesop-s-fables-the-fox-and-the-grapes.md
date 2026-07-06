@@ -9,8 +9,8 @@ metadata: curated
 aliases: [aesops-fables-030--the-fox-and-the-grapes]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/aesops-fables-030--the-fox-and-the-grapes.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Aesop's Fables: The Fox and the Grapes
@@ -38,8 +38,8 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — same category: literature
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 - [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — same category: literature
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — same category: literature

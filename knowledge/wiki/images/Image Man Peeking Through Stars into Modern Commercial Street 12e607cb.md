@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Man Peek
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Modern Brutalist Building on a City Street 8143aa56|Photograph Modern Brutalist Building on a City Street]] — shared language: modern, street, street.jpeg
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars
 - [[knowledge/wiki/images/Illustration Black Cat Peeking From Behind Screen on Checkered Floor 7d8e27da|Illustration Black Cat Peeking From Behind Screen on Checkered Floor]] — shared language: peeking
-- [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: stars
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
-- [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — shared language: modern
+- [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: modern, street, street.jpeg
 <!-- vault-crosslinks:end -->

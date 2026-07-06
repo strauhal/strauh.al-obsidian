@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mishka henner 2011|Artist - mishka henner 2011]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: decline, empire
 - [[knowledge/wiki/books/albert-camus-the-fall-v223|The Fall V223]] — shared language: fall
-- [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
 - [[_archive/auto-generated/images-stale/cy twombly roman note 2003 72574191|cy twombly roman note 2003]] — shared language: roman
+- [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
 <!-- vault-crosslinks:end -->

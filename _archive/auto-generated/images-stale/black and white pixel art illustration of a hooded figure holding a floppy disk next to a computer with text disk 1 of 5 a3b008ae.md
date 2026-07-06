@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk 252982b7|Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk]] — shared language: disk, floppy, hooded
-- [[knowledge/wiki/images/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: disk, floppy, next
+- [[knowledge/wiki/images/Man in Pirate Costume Holding Floppy Disk Next to Computer 495c275d|Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: disk, floppy, next
+- [[_archive/auto-generated/images-stale/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: disk, floppy, next
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, pixel
 - [[_archive/auto-generated/images-stale/black and white pixel art drawing of a macintosh computer desktop with floppy disks and the text the librarian s desktop b5f86a0e|black and white pixel art drawing of a macintosh computer desktop with floppy disks and the text the librarian s desktop]] — shared language: floppy, pixel, computer
-- [[_archive/auto-generated/images-stale/black and white pixel art compilation of early computer graphics including floppy disks a macintosh computer and text labels feedb737|black and white pixel art compilation of early computer graphics including floppy disks a macintosh computer and text labels]] — shared language: floppy, computer, pixel
 <!-- vault-crosslinks:end -->

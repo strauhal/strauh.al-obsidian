@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/napoleon_by_henr
 - [[knowledge/wiki/images/la toilette by henri de toulouse lautrec 1896 5f3a1d00|la toilette by henri de toulouse lautrec 1896]] — same artist: henri toulouse lautrec
 - [[knowledge/wiki/images/portrait of m fourcade by henri de toulouse lautrec 1889 982fac1b|portrait of m fourcade by henri de toulouse lautrec 1889]] — same artist: henri toulouse lautrec
 - [[knowledge/wiki/images/woman in a black boa by henri de toulouse lautrec 1892 747cedef|woman in a black boa by henri de toulouse lautrec 1892]] — same artist: henri toulouse lautrec
-- [[knowledge/wiki/images/portrait of vincent van gogh by henri de toulouse lautrec 1887 e6d05fcf|portrait of vincent van gogh by henri de toulouse lautrec 1887]] — same artist: henri toulouse lautrec
+- [[knowledge/wiki/images/woman reading at a table la liseuse by henri de toulouse lautrec 1897 f2c6f57e|woman reading at a table la liseuse by henri de toulouse lautrec 1897]] — same artist: henri toulouse lautrec
 <!-- vault-crosslinks:end -->

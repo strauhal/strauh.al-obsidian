@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Hunter Biden Posing In His Art Studio With Paintings 0c41ae75|Photograph Hunter Biden Posing In His Art Studio With Paintings]] — shared language: biden, hunter
+- [[knowledge/wiki/images/Hunter Biden Posing In His Art Studio With Paintings d3e9b452|Hunter Biden Posing In His Art Studio With Paintings]] — shared language: biden, hunter
 - [[knowledge/wiki/images/Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares 9199a264|Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares]] — shared language: mixed, media, text
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
 <!-- vault-crosslinks:end -->

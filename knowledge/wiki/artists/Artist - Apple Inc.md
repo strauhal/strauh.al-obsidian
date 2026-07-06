@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: apple
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: inc
 - [[knowledge/wiki/books/peter-hollins-the-science-of-rapid-skill-acquisition-pkcs-media-inc|The Science of Rapid Skill Acquisition-Pkcs Media, Inc.]] — shared language: inc
-- [[knowledge/wiki/images/Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: apple, tagline
+- [[knowledge/wiki/images/Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline d76016df|Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: apple, tagline
 <!-- vault-crosslinks:end -->

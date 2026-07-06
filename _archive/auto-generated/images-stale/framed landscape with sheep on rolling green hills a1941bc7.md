@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: rolling, hills, green
 - [[_archive/auto-generated/images-stale/framed landscape painting of a winding river and hills 049a8150|framed landscape painting of a winding river and hills]] — shared language: hills, framed, landscape
 - [[_archive/auto-generated/images-stale/photograph of a village and grazing cows in rolling green hills under a blue sky 7a222d5c|photograph of a village and grazing cows in rolling green hills under a blue sky]] — shared language: rolling, hills, green
 - [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: rolling, hills, green
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
-- [[_archive/auto-generated/images-stale/framed coastal landscape with blue water and distant hills 369bed35|framed coastal landscape with blue water and distant hills]] — shared language: hills, framed, landscape
 <!-- vault-crosslinks:end -->

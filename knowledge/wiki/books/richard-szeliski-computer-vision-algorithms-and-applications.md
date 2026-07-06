@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Szeliski CVAABook 2ndEd]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Szeliski_CVAABook_2ndEd.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Computer Vision: Algorithms and Applications
@@ -48,8 +48,8 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — same category: media technology
+- [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — same category: media technology
 - [[knowledge/wiki/books/aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]] — same category: media technology

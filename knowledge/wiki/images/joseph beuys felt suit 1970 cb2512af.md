@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/joseph_beuys_fel
 ## Discovered Connections
 
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: beuys, joseph
 - [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/Coyote by Joseph Beuys (1974) 6ca766fe|Coyote by Joseph Beuys (1974)]] — shared language: beuys, joseph
+- [[knowledge/wiki/images/Joseph Beuys Drawing on a Blackboard 9eec7e3d|Joseph Beuys Drawing on a Blackboard]] — shared language: beuys, joseph
 <!-- vault-crosslinks:end -->

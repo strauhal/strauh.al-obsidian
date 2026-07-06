@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 - [[knowledge/wiki/images/Photograph Modern Lounge with Floor to Ceiling Windows and Terrazzo Floor b246569f|Photograph Modern Lounge with Floor to Ceiling Windows and Terrazzo Floor]] — shared language: floor, windows
+- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
 <!-- vault-crosslinks:end -->

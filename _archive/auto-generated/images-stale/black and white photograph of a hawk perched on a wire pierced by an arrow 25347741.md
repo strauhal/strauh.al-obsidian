@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Hawk Pierced by an Arrow 3d9e5ef2|Photograph Black and White Photograph of a Hawk Pierced by an Arrow]] — shared language: pierced, hawk, arrow
 - [[knowledge/archive/auto-generated/anchors-stale/artist-an-arrow|Artist - an arrow]] — shared language: arrow
 - [[_archive/auto-generated/images-stale/wire sculpture of a horse 45503c41|wire sculpture of a horse]] — shared language: wire
-- [[knowledge/wiki/images/Photograph White Cat Perched on Tree Branch with Fruit 1c3251f2|Photograph White Cat Perched on Tree Branch with Fruit]] — shared language: perched
+- [[knowledge/wiki/images/Illustration Wire Sculpture of a Horse in a Store Window 7fb1ff7a|Illustration Wire Sculpture of a Horse in a Store Window]] — shared language: wire
 <!-- vault-crosslinks:end -->

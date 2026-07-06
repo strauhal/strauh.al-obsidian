@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/abstract image of layered blue and purple translucent forms d2014ce6|abstract image of layered blue and purple translucent forms]] — shared language: translucent, forms
 - [[knowledge/wiki/images/Illustration Abstract Layered Blue and Purple Translucent Forms 0c81b77e|Illustration Abstract Layered Blue and Purple Translucent Forms]] — shared language: translucent, forms
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
-- [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — shared language: blurred
+- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: classical
 <!-- vault-crosslinks:end -->

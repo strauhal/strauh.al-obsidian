@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
 - [[knowledge/wiki/images/twilight by paul haller jones 1956 14e63886|twilight by paul haller jones 1956]] — shared language: jones
 - [[knowledge/wiki/artists/Artist - lois mailou jones|Artist - lois mailou jones]] — shared language: jones
-- [[knowledge/wiki/artists/Artist - sir edward burne jones|Artist - sir edward burne jones]] — shared language: jones
-- [[knowledge/wiki/artists/Artist - philip jones griffiths|Artist - philip jones griffiths]] — shared language: jones
+- [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: elizabeth
+- [[knowledge/wiki/books/elizabeth-grosz-chaos-territory-art-deleuze-and-the-framing-of-the-earth-excerpt|Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt)]] — shared language: elizabeth
 <!-- vault-crosslinks:end -->

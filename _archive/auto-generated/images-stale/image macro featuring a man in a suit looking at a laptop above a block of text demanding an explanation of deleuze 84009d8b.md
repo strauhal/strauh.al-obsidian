@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Man In Suit Looking At Laptop Above Demanding Text 98086b6c|Screenshot Man In Suit Looking At Laptop Above Demanding Text]] — shared language: demanding, laptop, suit
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: explanation
 - [[_archive/auto-generated/books-stale/deleuze-on-ethics|Deleuze on-Ethics]] — shared language: deleuze
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: explanation
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: deleuze
 - [[knowledge/wiki/books/gilles-deleuze-deleuze-on-ethics|Deleuze on Ethics]] — shared language: deleuze
 <!-- vault-crosslinks:end -->

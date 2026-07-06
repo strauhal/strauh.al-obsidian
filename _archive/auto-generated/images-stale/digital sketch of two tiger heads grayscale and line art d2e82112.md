@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, line
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/Screenshot Complex Grayscale Abstract Digital Drawing Displayed in MS Paint 9c5b1c05|Screenshot Complex Grayscale Abstract Digital Drawing Displayed in MS Paint]] — shared language: grayscale, digital
-- [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: sketch, digital
+- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: sketch, digital
 <!-- vault-crosslinks:end -->

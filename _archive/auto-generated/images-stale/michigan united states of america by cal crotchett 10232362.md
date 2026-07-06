@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - County In The United States|Artist - County In The United States]] — shared language: united, states
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: states
 - [[_archive/auto-generated/images-stale/drawing of the united states map with colored scribbles and numbers 598df256|drawing of the united states map with colored scribbles and numbers]] — shared language: united, states
-- [[knowledge/wiki/images/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — shared language: united, states
-- [[knowledge/wiki/books/cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] — shared language: cal
+- [[knowledge/wiki/images/1 Bedroom Rent By County In The United States f2937e7b|1 Bedroom Rent By County In The United States]] — shared language: united, states
+- [[_archive/auto-generated/images-stale/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — shared language: united, states
 <!-- vault-crosslinks:end -->

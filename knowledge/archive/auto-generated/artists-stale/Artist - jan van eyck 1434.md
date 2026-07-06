@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan van haasteren 2008|Artist - jan van haasteren 2008]] — shared language: jan, van
 - [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan van haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
+- [[knowledge/wiki/artists/Artist - Jan Van Haasteren|Artist - Jan Van Haasteren]] — shared language: jan, van
 - [[_archive/auto-generated/images-stale/the art market by jan van haasteren 2008 3e62068f|the art market by jan van haasteren 2008]] — shared language: jan, van
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 <!-- vault-crosslinks:end -->

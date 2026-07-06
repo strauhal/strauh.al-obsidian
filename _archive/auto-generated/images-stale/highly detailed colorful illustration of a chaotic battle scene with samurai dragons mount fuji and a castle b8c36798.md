@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Colorful, Chaotic Japanese Battle Scene with Samurai, Dragons, and Castle 88acd7ee|Illustration Colorful, Chaotic Japanese Battle Scene with Samurai, Dragons, and Castle]] — shared language: dragons, samurai, chaotic
-- [[knowledge/wiki/images/fuji 33043657|fuji]] — shared language: fuji
+- [[knowledge/wiki/images/Lawson Convenience Store with Mount Fuji in Background b1ce77e5|Lawson Convenience Store with Mount Fuji in Background]] — shared language: fuji, mount
 - [[knowledge/wiki/images/Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose 7b6ab8a6|Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose]] — shared language: chaotic, colorful
+- [[knowledge/wiki/images/fuji 33043657|fuji]] — shared language: fuji
 - [[knowledge/wiki/images/Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements 13d469de|Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements]] — shared language: chaotic, colorful
-- [[_archive/auto-generated/images-stale/screenshot of a highly detailed abstract monochromatic digital drawing in microsoft paint 72093172|screenshot of a highly detailed abstract monochromatic digital drawing in microsoft paint]] — shared language: highly, detailed
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Three Fi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: comic, sky
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: comic
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Young Woman In Dark Uniform b99f0bee|Comic Black And White Comic Panel Of Young Woman In Dark Uniform]] — shared language: comic, dark
-- [[knowledge/wiki/images/Illustration Two Figures on Horseback Lead a Crowd Under Dark Sky 99543c65|Illustration Two Figures on Horseback Lead a Crowd Under Dark Sky]] — shared language: sky, dark, sky.jpeg
+- [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: ruins
 <!-- vault-crosslinks:end -->

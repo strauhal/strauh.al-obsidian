@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Woman In Long Dress By Fireplace 9a3142bd|Illustration Woman In Long Dress By Fireplace]] — shared language: dress, long
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/Illustration Line Drawing of Standing Female Figure in Long Dress ad8d9efa|Illustration Line Drawing of Standing Female Figure in Long Dress]] — shared language: dress, long
 - [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: clouds, landscape, landscape.jpeg
 <!-- vault-crosslinks:end -->

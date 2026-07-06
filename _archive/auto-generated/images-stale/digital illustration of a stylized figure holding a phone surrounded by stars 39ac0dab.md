@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — same artist: stars
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — named in this note
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: phone
-- [[knowledge/wiki/images/Illustration Stylized Black and White Feline Head with Chains and Stars bf4c90de|Illustration Stylized Black and White Feline Head with Chains and Stars]] — shared language: stars, stylized, stars.jpeg
 <!-- vault-crosslinks:end -->

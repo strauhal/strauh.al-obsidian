@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline, sky
 - [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, sky, city
 - [[knowledge/wiki/images/Illustration Pixel Art Hand Reaching Out Against Starry Black Background 975ece8a|Illustration Pixel Art Hand Reaching Out Against Starry Black Background]] — shared language: starry, pixel
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
+- [[knowledge/wiki/artists/Artist - luis ricardo falero|Artist - luis ricardo falero]] — shared language: luis
+- [[knowledge/wiki/images/Illustration Merman like Figure Blowing Horn Under Starry Sky e057b7aa|Illustration Merman like Figure Blowing Horn Under Starry Sky]] — shared language: starry, sky
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — shared language: skyline
 <!-- vault-crosslinks:end -->

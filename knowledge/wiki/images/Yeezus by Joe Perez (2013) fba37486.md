@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Yeezus by Joe Pe
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Joe Madureira|Artist - Joe Madureira]] — shared language: joe
 - [[knowledge/wiki/images/Peace by Joe Roberts (2018) 643b712a|Peace by Joe Roberts (2018)]] — shared language: joe
 - [[knowledge/wiki/images/mrs perez morton by gilbert stuart c 1802 c2a7d752|mrs perez morton by gilbert stuart c 1802]] — shared language: perez
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Armored Figure on Rearing Horse in Ruins by Joe Madureira b9c192ae|Illustration Pencil Sketch of Armored Figure on Rearing Horse in Ruins by Joe Madureira]] — shared language: joe
-- [[knowledge/wiki/images/Photograph President Joe Biden Next To Quantum Computer With American Flag Background 9fa36fd0|Photograph President Joe Biden Next To Quantum Computer With American Flag Background]] — shared language: joe
-- [[knowledge/wiki/artists/Artist - gilbert stuart|Artist - gilbert stuart]] — shared language: perez
+- [[knowledge/wiki/images/President Joe Biden Next To Quantum Computer With American Flag Background df038ca2|President Joe Biden Next To Quantum Computer With American Flag Background]] — shared language: joe
 <!-- vault-crosslinks:end -->

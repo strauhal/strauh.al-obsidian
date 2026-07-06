@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting With Black Shapes And White Background by Robert Motherwell 31f24bb3|Illustration Abstract Painting With Black Shapes And White Background by Robert Motherwell]] — shared language: motherwell, robert
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
 - [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 - [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: robert
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert

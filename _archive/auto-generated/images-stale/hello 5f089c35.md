@@ -27,6 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[_archive/auto-generated/images-stale/anime girl with hello kitty background 5464da76|anime girl with hello kitty background]] — shared language: hello
 - [[knowledge/wiki/artists/Artist - Hello Kitty Characters by Junji Ito|Artist - Hello Kitty Characters by Junji Ito]] — shared language: hello
+- [[knowledge/wiki/images/Diagram of a Generative Adversarial Network (GAN) with Hello Kitty be131da7|Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] — shared language: hello
+- [[_archive/auto-generated/images-stale/Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty 4f85736a|Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] — shared language: hello
 - [[knowledge/wiki/images/Illustration Stylized Girl As Tomie Surrounded By Hello Kitty Characters by Junji Ito a5da9fdc|Illustration Stylized Girl As Tomie Surrounded By Hello Kitty Characters by Junji Ito]] — shared language: hello
-- [[knowledge/wiki/images/Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty 4f85736a|Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] — shared language: hello
 <!-- vault-crosslinks:end -->

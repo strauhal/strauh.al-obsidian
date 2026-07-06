@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds b18bbe23|Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds]] — shared language: clouds, sunset, purple
-- [[knowledge/wiki/images/Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays 5d42b171|Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays]] — shared language: clouds, sunset, sky
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: sunset, oil, landscape
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: sunset, oil, landscape
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: sunset, sky, dark
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: sunset, sky, dark
+- [[knowledge/wiki/images/Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing e6a7614c|Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing]] — shared language: purple, oil, dark
+- [[knowledge/wiki/images/Vibrant Sunset Sky with Clouds and Crepuscular Rays 11d9ccea|Vibrant Sunset Sky with Clouds and Crepuscular Rays]] — shared language: clouds, sunset, sky
 <!-- vault-crosslinks:end -->

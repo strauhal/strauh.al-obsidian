@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/colorful painting of a falling robed figure 609205f1|colorful painting of a falling robed figure]] — shared language: robed
-- [[knowledge/wiki/images/Photograph Long Hallway With Orange And White Geometric Wall Panels f0b2a7d9|Photograph Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
-- [[knowledge/wiki/images/Photograph Modern Minimalist Hallway with Mailboxes and Glass Door 675742f7|Photograph Modern Minimalist Hallway with Mailboxes and Glass Door]] — shared language: hallway
-- [[_archive/auto-generated/images-stale/oil painting of a girl in white offering a red apple to a robed figure f589ff2e|oil painting of a girl in white offering a red apple to a robed figure]] — shared language: robed
+- [[knowledge/wiki/images/Long Hallway With Orange And White Geometric Wall Panels 26467d69|Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
+- [[_archive/auto-generated/images-stale/Photograph Long Hallway With Orange And White Geometric Wall Panels f0b2a7d9|Photograph Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
 - [[knowledge/wiki/images/Illustration Young Girl in White Offering Red Apple to Robed Figure 3b5cd2de|Illustration Young Girl in White Offering Red Apple to Robed Figure]] — shared language: robed
+- [[_archive/auto-generated/images-stale/oil painting of a girl in white offering a red apple to a robed figure f589ff2e|oil painting of a girl in white offering a red apple to a robed figure]] — shared language: robed
 <!-- vault-crosslinks:end -->

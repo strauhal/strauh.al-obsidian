@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: orange, stylized
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man 12158df6|Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man]] — shared language: orange, stylized
 - [[knowledge/wiki/images/Illustration Anime Woman in Orange Beret and Jacket Holding Gun 0120e80d|Illustration Anime Woman in Orange Beret and Jacket Holding Gun]] — shared language: jacket, orange
-- [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: jacket
+- [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: orange, stylized
 <!-- vault-crosslinks:end -->

@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/books/karl-marx-friedrich-engels-ed-robert-c-tucker-the-marx-engels-reader|The Marx-Engels Reader]] — shared language: reader
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — shared language: reader
 - [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: reader
-- [[knowledge/wiki/images/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: subway
+- [[knowledge/wiki/images/Elderly Man in Robes with Two Women on Subway 0ed1dc9f|Elderly Man in Robes with Two Women on Subway]] — shared language: subway
 <!-- vault-crosslinks:end -->

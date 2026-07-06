@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Cooking by Jerem
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — nearby note in the same source series
+- [[knowledge/wiki/images/Convolution and Deconvolution Network Architecture Diagram d47630d5|Convolution and Deconvolution Network Architecture Diagram]] — nearby note in the same source series
 - [[knowledge/wiki/images/Corpse Decomposition Meditation by Blair Landis fd8d919e|Corpse Decomposition Meditation by Blair Landis]] — nearby note in the same source series
-- [[knowledge/wiki/images/Contradiction Oberon and Titania by Richard Dadd (c. 1854 1858) a8074241|Contradiction Oberon and Titania by Richard Dadd (c. 1854 1858)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

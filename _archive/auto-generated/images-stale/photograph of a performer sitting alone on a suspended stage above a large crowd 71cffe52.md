@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Performer On Suspended Stage Above Crowd At Concert e91f3354|Photograph Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended, stage, performer
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, above
+- [[knowledge/wiki/images/Performer On Suspended Stage Above Crowd At Concert 99525c2c|Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended, performer, stage
+- [[_archive/auto-generated/images-stale/Photograph Performer On Suspended Stage Above Crowd At Concert e91f3354|Photograph Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended, performer, stage
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/images/bruce nauman suspended fortitude c 1968 3f7a9fd0|bruce nauman suspended fortitude c 1968]] — shared language: suspended
-- [[_archive/auto-generated/images-stale/painting of women on a balcony above a crowd 749aeaea|painting of women on a balcony above a crowd]] — shared language: crowd, above
 <!-- vault-crosslinks:end -->

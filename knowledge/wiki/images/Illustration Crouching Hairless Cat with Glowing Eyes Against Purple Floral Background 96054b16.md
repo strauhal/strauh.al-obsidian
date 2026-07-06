@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing, background
 - [[knowledge/wiki/images/Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background 52b43191|Illustration Seated Figure With Long Dark Hair Against Abstract Glowing Background]] — shared language: glowing, against, background
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, background
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, background
 <!-- vault-crosslinks:end -->

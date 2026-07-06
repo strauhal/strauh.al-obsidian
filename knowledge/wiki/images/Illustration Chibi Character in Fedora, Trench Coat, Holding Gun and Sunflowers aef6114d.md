@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/man in trench coat by antonio lopez c 1982 a51ac36f|man in trench coat by antonio lopez c 1982]] — shared language: trench, coat
-- [[knowledge/wiki/images/Photograph Man In A Fedora With A Red Rose In A Vase f9514828|Photograph Man In A Fedora With A Red Rose In A Vase]] — shared language: fedora
+- [[knowledge/wiki/images/Close up Portrait of Man in Fedora Hat 62654011|Close up Portrait of Man in Fedora Hat]] — shared language: fedora
 - [[knowledge/wiki/images/Illustration Chibi Character Surrounded By Weapon Icons In Dark Street a386ebd7|Illustration Chibi Character Surrounded By Weapon Icons In Dark Street]] — shared language: chibi, character
-- [[knowledge/wiki/images/Illustration Portrait of a Young Man in Brown Coat Holding Papers 5a1f0569|Illustration Portrait of a Young Man in Brown Coat Holding Papers]] — shared language: coat, holding
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Man in Fedora Hat and Vest 50dc4942|Man in Fedora Hat and Vest]] — shared language: fedora
+- [[knowledge/wiki/images/Man In A Fedora With A Red Rose In A Vase 68e6166a|Man In A Fedora With A Red Rose In A Vase]] — shared language: fedora
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/the battle of the teutoburg forest by enrico marini 2011 a36e4318|the battle of the teutoburg forest by enrico marini 2011]] — named in this note
+- [[knowledge/wiki/artists/Artist - Enrico Marini|Artist - Enrico Marini]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini 2011|Artist - enrico marini 2011]] — named in this note
 - [[knowledge/wiki/artists/Artist - marino marini|Artist - marino marini]] — shared language: marini
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marino marini 1951|Artist - marino marini 1951]] — shared language: marini
 - [[knowledge/wiki/artists/Artist - enrico donati|Artist - enrico donati]] — shared language: enrico
-- [[knowledge/archive/auto-generated/artists-stale/Artist - enrico donati 1942|Artist - enrico donati 1942]] — shared language: enrico
 <!-- vault-crosslinks:end -->

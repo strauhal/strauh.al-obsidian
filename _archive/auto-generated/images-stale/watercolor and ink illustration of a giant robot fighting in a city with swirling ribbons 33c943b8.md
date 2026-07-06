@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Giant Robot In Destroyed City With Swirling Ribbons 80749d2f|Illustration Giant Robot In Destroyed City With Swirling Ribbons]] — shared language: ribbons, giant, robot
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, ink
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: fighting, robot
 - [[_archive/auto-generated/images-stale/watercolor and ink drawing of a figure in a purple dress holding red ribbons framed by a yellow background with confetti 12b67301|watercolor and ink drawing of a figure in a purple dress holding red ribbons framed by a yellow background with confetti]] — shared language: ribbons, watercolor, ink
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink

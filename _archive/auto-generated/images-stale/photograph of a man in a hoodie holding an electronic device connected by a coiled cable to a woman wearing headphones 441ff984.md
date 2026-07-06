@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/artists-noise/Artist - a coiled cable to a woman wearing headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: coiled, cable, headphones
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-coiled-cable-to-a-woman-wearing-headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: coiled, cable, headphones
-- [[knowledge/wiki/images/Photograph Man in Hoodie with Device Connected to Woman with Headphones 2e377543|Photograph Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: hoodie, headphones, device
+- [[knowledge/wiki/images/Man in Hoodie with Device Connected to Woman with Headphones 0e29ec36|Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: hoodie, device, headphones
+- [[_archive/auto-generated/images-stale/Photograph Man in Hoodie with Device Connected to Woman with Headphones 2e377543|Photograph Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: hoodie, device, headphones
 - [[knowledge/wiki/images/pixelated black and white drawing of a low profile mechanical device with a cable by john m kohlenberger 1986 00a13173|pixelated black and white drawing of a low profile mechanical device with a cable by john m kohlenberger 1986]] — shared language: cable, device
-- [[knowledge/wiki/images/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
 <!-- vault-crosslinks:end -->

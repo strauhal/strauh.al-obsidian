@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/white bust sculpture of a figure wearing glasses and a ruffled collar eb0eacc3|white bust sculpture of a figure wearing glasses and a ruffled collar]] — shared language: ruffled, collar, wearing
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Three Stylized Characters with Large Eyes and Annotations 9162a830|Illustration Pencil Sketch of Three Stylized Characters with Large Eyes and Annotations]] — shared language: eyes, pencil, sketch
 - [[_archive/auto-generated/images-stale/pencil sketch of three stylized characters with large eyes and annotations 22bb01e1|pencil sketch of three stylized characters with large eyes and annotations]] — shared language: eyes, pencil, sketch
-- [[knowledge/wiki/images/Illustration Abstract Figure with Ruffled Collar and Segmented Body by Francoise Gamma 0e4d65c1|Illustration Abstract Figure with Ruffled Collar and Segmented Body by Francoise Gamma]] — shared language: ruffled, collar
+- [[_archive/auto-generated/images-stale/pencil and colored sketch of a woman s face with teal eyes 4d445a60|pencil and colored sketch of a woman s face with teal eyes]] — shared language: pencil, eyes, sketch
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human
+- [[knowledge/wiki/images/Screenshot Pixelated Cloaked Figure Holding Sword in Window Frame 4ab0bd3b|Screenshot Pixelated Cloaked Figure Holding Sword in Window Frame]] — shared language: pixelated, screenshot, window
 <!-- vault-crosslinks:end -->

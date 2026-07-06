@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/artists-noise/Artist - a yellow background with confetti|Artist - a yellow background with confetti]] — shared language: confetti, yellow, ribbons
+- [[_archive/auto-generated/artists-noise/Artist - a yellow background with confetti|Artist - a yellow background with confetti]] — shared language: confetti, ribbons, yellow
 - [[knowledge/wiki/images/Illustration Figure In Purple Dress Holding Red Ribbons With Confetti d2c76385|Illustration Figure In Purple Dress Holding Red Ribbons With Confetti]] — shared language: ribbons, confetti, dress
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-yellow-background-with-confetti|Artist - a yellow background with confetti]] — shared language: confetti, yellow, background
 - [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: dress, framed, background

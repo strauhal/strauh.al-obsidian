@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mod
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Modern Wooden L Shaped Desk with Laptop and Chair 4762927b|Photograph Modern Wooden L Shaped Desk with Laptop and Chair]] — shared language: chair, wooden, modern
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: wooden, modern
-- [[knowledge/wiki/images/Photograph Photograph of an Abstract Architectural Model with Transparent Panels 7ecaba44|Photograph Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: transparent
-- [[knowledge/wiki/images/Photograph Modern Office Interior with Chair, Desk, and City View 2f13a114|Photograph Modern Office Interior with Chair, Desk, and City View]] — shared language: chair, modern
-- [[knowledge/wiki/images/Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture bfe57cb8|Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: wooden, modern
+- [[knowledge/wiki/images/Modern Wooden L Shaped Desk with Laptop and Chair 8366fcfb|Modern Wooden L Shaped Desk with Laptop and Chair]] — shared language: chair, wooden, modern
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: wooden, modern
+- [[knowledge/wiki/images/Photograph of an Abstract Architectural Model with Transparent Panels 674ee24a|Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: transparent
+- [[knowledge/wiki/images/Modern Office Interior with Chair, Desk, and City View 6d0b4ad5|Modern Office Interior with Chair, Desk, and City View]] — shared language: chair, modern
+- [[knowledge/wiki/images/Modern Concert Hall Interior with Grand Piano and Wooden Architecture fb385756|Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: wooden, modern
 <!-- vault-crosslinks:end -->

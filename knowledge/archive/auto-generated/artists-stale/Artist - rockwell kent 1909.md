@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kent williams|Artist - kent williams]] — shared language: kent
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kent williams 2009|Artist - kent williams 2009]] — shared language: kent
 - [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1959|Artist - norman rockwell 1959]] — shared language: rockwell
-- [[knowledge/archive/auto-generated/artists-stale/Artist - norman rockwell 1943|Artist - norman rockwell 1943]] — shared language: rockwell
+- [[_archive/auto-generated/images-stale/the bar by kent williams 2009 6c4d939c|the bar by kent williams 2009]] — shared language: kent
 <!-- vault-crosslinks:end -->

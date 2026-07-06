@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
-- [[_archive/auto-generated/images-stale/graphic design featuring four stylized portraits in orange black and magenta for a record box set cover 59c67670|graphic design featuring four stylized portraits in orange black and magenta for a record box set cover]] — shared language: set, portraits, four
+- [[_archive/auto-generated/images-stale/graphic design featuring four stylized portraits in orange black and magenta for a record box set cover 59c67670|graphic design featuring four stylized portraits in orange black and magenta for a record box set cover]] — shared language: portraits, set, four
 <!-- vault-crosslinks:end -->

@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Log Log Plot of Validation Loss Versus Compute 91ab785d|Diagram Log Log Plot of Validation Loss Versus Compute]] — shared language: log, versus, loss
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: plot, showing
+- [[knowledge/wiki/images/Log Log Plot of Validation Loss Versus Compute 6b45100b|Log Log Plot of Validation Loss Versus Compute]] — shared language: log, versus, validation
+- [[_archive/auto-generated/images-stale/Diagram Log Log Plot of Validation Loss Versus Compute 91ab785d|Diagram Log Log Plot of Validation Loss Versus Compute]] — shared language: log, versus, validation
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: log

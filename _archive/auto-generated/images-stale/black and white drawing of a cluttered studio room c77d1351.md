@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Young Woman Smoking on Bed in Cluttered Room 2ac094b2|Illustration Young Woman Smoking on Bed in Cluttered Room]] — shared language: cluttered, room, room.jpg
 - [[_archive/auto-generated/images-stale/photograph of a room cluttered with synthesizers and electronic music equipment c52186ef|photograph of a room cluttered with synthesizers and electronic music equipment]] — shared language: cluttered, room
-- [[knowledge/wiki/images/Photograph Room Cluttered With Synthesizers And Electronic Music Equipment cb243c5d|Photograph Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: cluttered, room
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, room
-- [[knowledge/wiki/images/Illustration Person in Red Beanie Sits at Desk in Cluttered Room 8fb5b104|Illustration Person in Red Beanie Sits at Desk in Cluttered Room]] — shared language: cluttered, room, room.jpg
+- [[_archive/auto-generated/images-stale/Photograph Room Cluttered With Synthesizers And Electronic Music Equipment cb243c5d|Photograph Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: cluttered, room
+- [[knowledge/wiki/images/Room Cluttered With Synthesizers And Electronic Music Equipment 77bf9207|Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: cluttered, room
+- [[_archive/auto-generated/images-stale/studio room with monitors on a table 7e50df3a|studio room with monitors on a table]] — shared language: studio, room
 <!-- vault-crosslinks:end -->

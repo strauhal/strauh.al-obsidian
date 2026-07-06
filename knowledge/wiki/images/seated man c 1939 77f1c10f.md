@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/seated_man_c_193
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Two Pencil Figure Studies of Seated Nude Figures 12ca1dba|Illustration Two Pencil Figure Studies of Seated Nude Figures]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: seated
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Two Women Seated Under Bamboo and Rock d68096f0|Illustration Two Women Seated Under Bamboo and Rock]] — shared language: seated
+- [[knowledge/wiki/images/Illustration Ornate Interior With Figure Seated In Sunlight b66c58e5|Illustration Ornate Interior With Figure Seated In Sunlight]] — shared language: seated
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/artists-noise/Artist - exposition buildings with smoke rising from a chimney|Artist - exposition buildings with smoke rising from a chimney]] — shared language: chimney, rising, smoke
 - [[knowledge/archive/auto-generated/anchors-stale/artist-exposition-buildings-with-smoke-rising-from-a-chimney|Artist - exposition buildings with smoke rising from a chimney]] — shared language: chimney, rising, smoke
 - [[knowledge/wiki/images/Photograph Ferris Wheel at the World's Columbian Exposition 45c0fb8a|Photograph Ferris Wheel at the World's Columbian Exposition]] — shared language: ferris, wheel, exposition
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, large
 - [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: exposition, buildings, large
+- [[knowledge/wiki/images/Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp af1f3240|Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp]] — shared language: metal, large
 <!-- vault-crosslinks:end -->

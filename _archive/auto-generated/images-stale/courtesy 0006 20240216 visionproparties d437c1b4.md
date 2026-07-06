@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/continuous line drawing of organic forms 2023 c6ec5dca|continuous line drawing of organic forms 2023]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/continuous line drawing of flowers 2023 f6c5a747|continuous line drawing of flowers 2023]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/continuous line drawing of organic forms 2023 c6ec5dca|continuous line drawing of organic forms 2023]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/cha u kao by henri de toulouse lautrec 1893 88ab447d|cha u kao by henri de toulouse lautrec 1893]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1889|Artist - henri de toulouse lautrec 1889]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1893|Artist - henri de toulouse lautrec 1893]] — shared language: toulouse, lautrec, henri
-- [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1887|Artist - henri de toulouse lautrec 1887]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1897|Artist - henri de toulouse lautrec 1897]] — shared language: toulouse, lautrec, henri
+- [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1887|Artist - henri de toulouse lautrec 1887]] — shared language: toulouse, lautrec, henri
 - [[knowledge/archive/auto-generated/artists-stale/Artist - henri de toulouse lautrec 1896|Artist - henri de toulouse lautrec 1896]] — shared language: toulouse, lautrec, henri
 <!-- vault-crosslinks:end -->

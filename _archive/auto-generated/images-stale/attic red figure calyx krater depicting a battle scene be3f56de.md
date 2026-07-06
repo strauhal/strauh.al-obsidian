@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[_archive/auto-generated/images-stale/framed battle scene with horsemen and white horses 3cbb34b8|framed battle scene with horsemen and white horses]] — shared language: battle, scene
 - [[_archive/auto-generated/images-stale/the long hair in the attic by junji ito 2002 fb55396d|the long hair in the attic by junji ito 2002]] — shared language: attic
-- [[knowledge/wiki/images/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: attic
+- [[_archive/auto-generated/images-stale/circular icon depicting the nativity scene in red and blue f6bd885b|circular icon depicting the nativity scene in red and blue]] — shared language: depicting, scene
 <!-- vault-crosslinks:end -->

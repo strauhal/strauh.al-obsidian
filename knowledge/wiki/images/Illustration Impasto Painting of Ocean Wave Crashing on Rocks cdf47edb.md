@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Large Ocean Wave Breaking in Blue Water 922e7c36|Photograph Large Ocean Wave Breaking in Blue Water]] — shared language: ocean, wave
+- [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — shared language: ocean, wave
 - [[knowledge/wiki/images/Illustration Graphic Print of Rippling Ocean Water and Coastal Rocks 44d1ebc1|Illustration Graphic Print of Rippling Ocean Water and Coastal Rocks]] — shared language: rocks, ocean
-- [[knowledge/wiki/images/Photograph Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne b8c6e6a4|Photograph Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne]] — shared language: ocean, wave
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
 - [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: impasto
+- [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: impasto
 <!-- vault-crosslinks:end -->

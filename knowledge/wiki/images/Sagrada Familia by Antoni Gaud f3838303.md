@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Sagrada Familia 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea 71caaf7c|Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea]] — shared language: sagrada, familia
-- [[knowledge/wiki/images/Rosen by Gerhard Richter (1994) 898842cd|Rosen by Gerhard Richter (1994)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea 7e230456|Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea]] — shared language: sagrada, familia
+- [[knowledge/wiki/images/SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range 0e5a7cf9|SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — nearby note in the same source series
 - [[knowledge/wiki/images/Saint Francis Expelling the Devils 01fd1f73|Saint Francis Expelling the Devils]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

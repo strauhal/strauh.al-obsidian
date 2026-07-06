@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/bamboo_rock_and_
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/bamboo and rock by zheng banqiao 1753 ddb83cca|bamboo and rock by zheng banqiao 1753]] — shared language: bamboo, rock
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: yan
-- [[knowledge/wiki/images/Personal Rock by Gramm (1999) 49324258|Personal Rock by Gramm (1999)]] — shared language: rock
+- [[knowledge/wiki/images/Tired by Yan Blanco (2020) 73ca17f1|Tired by Yan Blanco (2020)]] — shared language: yan
 <!-- vault-crosslinks:end -->

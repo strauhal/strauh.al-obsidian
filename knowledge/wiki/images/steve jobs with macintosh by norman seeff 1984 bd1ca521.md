@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/steve_jobs_with_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs, steve, macintosh
-- [[knowledge/wiki/images/Photograph Steve Jobs Posing with Macintosh Computers at Event 1167a7b0|Photograph Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, steve, macintosh
+- [[knowledge/wiki/images/Steve Jobs Posing with Macintosh Computers at Event dbdea80b|Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, macintosh, steve
+- [[knowledge/wiki/images/Steve Jobs and John Sculley with the Macintosh b5c3b516|Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs, steve, macintosh
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs

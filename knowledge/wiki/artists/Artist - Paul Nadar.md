@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Full-Length Portrait of Henri de Toulouse-Lautrec with Cane by Paul Nadar.jpg]]
+![[media/strauh.al3.1/photography/Full-Length Portrait of Henri de Toulouse-Lautrec with Cane by Paul Nadar.jpg]]
 
 ## Image Notes
 
-- [[Photograph Full Length Portrait of Henri de Toulouse Lautrec with Cane by Paul Nadar 11788211|Photograph Full Length Portrait of Henri de Toulouse Lautrec with Cane by Paul Nadar]]
+- [[Full Length Portrait of Henri de Toulouse Lautrec with Cane by Paul Nadar 7efc094d|Full Length Portrait of Henri de Toulouse Lautrec with Cane by Paul Nadar]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Kasse II by Flep
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Joseph Beuys Plastische Theorie 1972 Photo by J Blanc 5d6672a8|Joseph Beuys Plastische Theorie 1972 Photo by J Blanc]] — nearby note in the same source series
-- [[knowledge/wiki/images/Kawase Hasui Benten Pond at Shiba mia 39674a 1163x800 ab2ebe10|Kawase Hasui Benten Pond at Shiba mia 39674a 1163x800]] — nearby note in the same source series
-- [[knowledge/wiki/images/John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Kanye West Exiting Car, Looking At Phone b118f26f|Kanye West Exiting Car, Looking At Phone]] — nearby note in the same source series
+- [[knowledge/wiki/images/Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience 18a51846|Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — nearby note in the same source series
+- [[knowledge/wiki/images/Jupiter's North Polar Region with Swirling Blue and Tan Clouds 48a4e82d|Jupiter's North Polar Region with Swirling Blue and Tan Clouds]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

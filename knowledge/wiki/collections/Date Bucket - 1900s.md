@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1900s"
 source_kind: "date_bucket"
-count: "151"
+count: "152"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1900s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 151
+Files: 152
 
 ## Sample
 

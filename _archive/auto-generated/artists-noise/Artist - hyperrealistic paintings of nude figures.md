@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
-- [[knowledge/wiki/images/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
+- [[knowledge/wiki/images/Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings e04b182c|Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
+- [[_archive/auto-generated/images-stale/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, nude, blank
 - [[knowledge/archive/auto-generated/anchors-stale/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude
 - [[knowledge/wiki/images/Photograph Photograph of two paintings featuring figures in red rooms e53637cd|Photograph Photograph of two paintings featuring figures in red rooms]] — shared language: paintings, featuring
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude
-- [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude
 <!-- vault-crosslinks:end -->

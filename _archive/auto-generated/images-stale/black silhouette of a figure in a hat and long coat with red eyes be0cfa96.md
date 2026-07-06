@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes 3d0ba505|Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes]] — shared language: silhouette, coat, hat
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Screenshot Person In Long Coat And Hat Walking Through Barren Landscape e362b727|Screenshot Person In Long Coat And Hat Walking Through Barren Landscape]] — shared language: coat, hat, long
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: long
-- [[knowledge/wiki/images/Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat c5f25588|Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat]] — shared language: coat, eyes
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 <!-- vault-crosslinks:end -->

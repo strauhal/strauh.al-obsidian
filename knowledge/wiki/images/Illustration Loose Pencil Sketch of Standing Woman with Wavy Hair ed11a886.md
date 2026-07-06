@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 
 - [[knowledge/wiki/images/Illustration Loose Sketch of a Figure in Profile b4ed6d70|Illustration Loose Sketch of a Figure in Profile]] — shared language: loose, sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: pencil, standing, sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: pencil, sketch, hair
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch, hair
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Sleeping Figure with Flowing Hair 77b1aabd|Illustration Pencil Sketch of Sleeping Figure with Flowing Hair]] — shared language: pencil, sketch, hair
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 <!-- vault-crosslinks:end -->

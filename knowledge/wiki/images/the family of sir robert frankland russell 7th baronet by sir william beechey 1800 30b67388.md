@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_family_of_si
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir, robert
 - [[knowledge/wiki/images/Master James Hatch by William Beechey (1799) 5a7b79af|Master James Hatch by William Beechey (1799)]] — shared language: beechey, william
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: russell
-- [[knowledge/wiki/images/the death of dido by sir robert strange 1762 2c3ce4fe|the death of dido by sir robert strange 1762]] — shared language: sir, robert
+- [[knowledge/wiki/images/sir william quiller orchardson napoleon on st helena 1892 8d009129|sir william quiller orchardson napoleon on st helena 1892]] — shared language: sir, william
 <!-- vault-crosslinks:end -->

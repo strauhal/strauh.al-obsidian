@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky, sky.jpeg
 - [[knowledge/wiki/images/Illustration Grid of Silhouetted Birds Against a Cloudy Sky by Edouard Taufenbach and Bastien Pourtout feb886ce|Illustration Grid of Silhouetted Birds Against a Cloudy Sky by Edouard Taufenbach and Bastien Pourtout]] — shared language: cloudy, birds, grid
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/images/Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky 8fc6b033|Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky]] — shared language: birds, flying, sky
+- [[knowledge/wiki/images/Black and White Photograph of a Bridge, Water, and Birds Flying 3d5e0ef6|Black and White Photograph of a Bridge, Water, and Birds Flying]] — shared language: birds, flying
 <!-- vault-crosslinks:end -->

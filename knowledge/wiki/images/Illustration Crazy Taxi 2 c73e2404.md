@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/culture/movie-taxi-driver|Watchlist - Taxi Driver]] — shared language: taxi
 - [[knowledge/wiki/images/Screenshot Taxi Driver by Martin Scorsese 99d24767|Screenshot Taxi Driver by Martin Scorsese]] — shared language: taxi
 - [[knowledge/wiki/images/robert de niro as travis bickle taxi driver by steve schapiro 1975 b514e446|robert de niro as travis bickle taxi driver by steve schapiro 1975]] — shared language: taxi
+- [[knowledge/wiki/images/Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro a337797b|Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro]] — shared language: taxi
 - [[knowledge/wiki/artists/Artist - Martin Scorsese|Artist - Martin Scorsese]] — shared language: taxi
-- [[knowledge/wiki/artists/Artist - steve schapiro|Artist - steve schapiro]] — shared language: taxi
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Taiyo Matsumoto|Artist - Taiyo Matsumoto]] — shared language: matsumoto
 - [[knowledge/wiki/images/Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto f36342f4|Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto]] — shared language: matsumoto
-- [[knowledge/wiki/artists/Artist - T. Str mndahl|Artist - T. Str mndahl]] — nearby note in the same source series
-- [[knowledge/wiki/artists/Artist - Tatsunoko Production|Artist - Tatsunoko Production]] — nearby note in the same source series
+- [[knowledge/wiki/artists/Artist - Tadeusz Pruszkowski|Artist - Tadeusz Pruszkowski]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Portrait of Young Person Looking Down in Hoodie 99c7f9af|Illustration Portrait of Young Person Looking Down in Hoodie]] — shared language: hoodie, person
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — shared language: police
+- [[knowledge/wiki/images/Man and Woman Reflected in Glass Partition at Cafe ea028963|Man and Woman Reflected in Glass Partition at Cafe]] — shared language: partition
 - [[knowledge/wiki/images/Illustration Stylized Person In PlayStation Shirt Looks Into Refrigerator, Kitchen Fire 912ec15d|Illustration Stylized Person In PlayStation Shirt Looks Into Refrigerator, Kitchen Fire]] — shared language: looks, person
-- [[knowledge/wiki/images/Photograph Man in Hoodie with Device Connected to Woman with Headphones 2e377543|Photograph Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: hoodie
-- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: screenshot, person
-- [[knowledge/wiki/images/Screenshot Screenshot of Sketchbook with Two Male Portrait Drawings and Person 9af5af30|Screenshot Screenshot of Sketchbook with Two Male Portrait Drawings and Person]] — shared language: screenshot, person
+- [[knowledge/wiki/images/Man in Hoodie with Device Connected to Woman with Headphones 0e29ec36|Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: hoodie
 <!-- vault-crosslinks:end -->

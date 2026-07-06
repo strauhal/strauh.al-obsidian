@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Calvary by Stephen Sawyer (2001) 5a2bf24a|Calvary by Stephen Sawyer (2001)]] — shared language: calvary
 - [[knowledge/wiki/images/pieter bruegel the elder the procession to calvary 1564 9c1abba9|pieter bruegel the elder the procession to calvary 1564]] — shared language: calvary
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: studio, studio.jpg
-- [[knowledge/wiki/images/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: studio, studio.jpg
+- [[_archive/auto-generated/images-stale/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: studio, studio.jpg
 <!-- vault-crosslinks:end -->

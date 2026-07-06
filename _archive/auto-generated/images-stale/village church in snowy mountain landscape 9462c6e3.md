@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: snowy, mountain, landscape
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, mountain, landscape
 - [[knowledge/wiki/images/Illustration Stylized Village Scene With Church And Mountains 33c70dca|Illustration Stylized Village Scene With Church And Mountains]] — shared language: village, church
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: village
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, mountain, landscape
+- [[_archive/auto-generated/images-stale/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, mountain, landscape
 - [[_archive/auto-generated/images-stale/photograph of a person standing on an icy road in a snowy mountain landscape under a blue sky b1574c56|photograph of a person standing on an icy road in a snowy mountain landscape under a blue sky]] — shared language: snowy, mountain, landscape
 <!-- vault-crosslinks:end -->

@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - 1 Bedroom Rent By County In The United States.jpg]]
+![[media/strauh.al3.1/diagrams/1_Bedroom_Rent_By_County_In_The_United_States.jpg]]
 
 ## Image Notes
 
-- [[Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]]
+- [[1 Bedroom Rent By County In The United States f2937e7b|1 Bedroom Rent By County In The United States]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

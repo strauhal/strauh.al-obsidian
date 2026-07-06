@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_angel_of_dea
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: morgan
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel
 - [[knowledge/wiki/images/the gleaners by frederick morgan 1890 a9a1dc0c|the gleaners by frederick morgan 1890]] — shared language: morgan
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: death
-- [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: angel, death
 <!-- vault-crosslinks:end -->

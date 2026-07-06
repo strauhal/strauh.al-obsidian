@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Kacper Kowalski|Artist - Kacper Kowalski]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kacper kowalski 2014|Artist - kacper kowalski 2014]] — named in this note
 - [[_archive/auto-generated/images-stale/ancut poland by kacper kowalski 2014 7cb2a282|ancut poland by kacper kowalski 2014]] — shared language: kacper, kowalski
-- [[knowledge/wiki/images/Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, striped, aerial
+- [[knowledge/wiki/images/Aerial View Of Colorful Striped Agricultural Fields ccc6a845|Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, striped, aerial
+- [[_archive/auto-generated/images-stale/Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, striped, aerial
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, aerial, view
-- [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: fields, aerial, view
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

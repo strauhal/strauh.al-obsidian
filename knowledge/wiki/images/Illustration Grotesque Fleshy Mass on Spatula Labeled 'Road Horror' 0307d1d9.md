@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/books/michelle-alexander-the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness|The New Jim Crow: Mass Incarceration in the Age of Colorblindness]] — shared language: mass
 - [[knowledge/wiki/books/reuben-jonathan-miller-halfway-home-race-punishment-and-the-afterlife-of-mass-incarceration-little-brown-and-company|Halfway Home Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company]] — shared language: mass
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
-- [[knowledge/wiki/images/1947 112 a turn in the road jpg b2b94a86|1947 112 a turn in the road jpg]] — shared language: road
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Knight with Grotesque Figures da68a3ba|Illustration Black and White Ink Drawing of Knight with Grotesque Figures]] — shared language: grotesque
 <!-- vault-crosslinks:end -->

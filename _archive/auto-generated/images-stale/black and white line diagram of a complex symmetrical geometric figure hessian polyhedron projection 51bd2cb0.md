@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection 962101aa|Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection]] — shared language: projection, symmetrical, complex
 - [[_archive/auto-generated/images-stale/symmetrical geometric diagram of a complex polytope projection 068b1b57|symmetrical geometric diagram of a complex polytope projection]] — shared language: projection, symmetrical, complex
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[_archive/auto-generated/images-stale/ten different projections of the hessian polyhedron 3 3 3 3 3 69d8aebc|ten different projections of the hessian polyhedron 3 3 3 3 3]] — shared language: hessian, polyhedron
 - [[knowledge/wiki/images/Document Document Page With A Complex Geometric Line Diagram 2c888ac0|Document Document Page With A Complex Geometric Line Diagram]] — shared language: complex, geometric, line
 <!-- vault-crosslinks:end -->

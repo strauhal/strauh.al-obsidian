@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
 - [[knowledge/wiki/images/Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape b392b3ec|Illustration Two Figures In Vibrant Pink And Blue Abstract Landscape]] — shared language: vibrant, landscape
 - [[knowledge/wiki/images/Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo 907dcc40|Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo]] — shared language: jungle, vibrant
 - [[knowledge/wiki/images/Illustration Vibrant Spring Meadow with Rabbits, Birds, and Flowers b2061b5e|Illustration Vibrant Spring Meadow with Rabbits, Birds, and Flowers]] — shared language: birds, vibrant
 - [[knowledge/wiki/images/Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps b02d5396|Illustration Two Nude Figures In Vibrant Stylized Landscape With Steps]] — shared language: vibrant, landscape
+- [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: patterned
 <!-- vault-crosslinks:end -->

@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: squares
 - [[knowledge/wiki/images/Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares 6486d66f|Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares]] — shared language: squares
 - [[knowledge/wiki/images/tete de femme head of a woman by pablo picasso 1952 6914c4c5|tete de femme head of a woman by pablo picasso 1952]] — shared language: tete
-- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
+- [[knowledge/wiki/images/Illustration Abstract Painting with Distorted Red Grid, Colored Squares, and White Shapes 954cb6b5|Illustration Abstract Painting with Distorted Red Grid, Colored Squares, and White Shapes]] — shared language: squares
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, keyboard
 - [[knowledge/wiki/images/Illustration Digital Composition Two Figures, Large Fire, Grassy Hill, White Background a2c40f91|Illustration Digital Composition Two Figures, Large Fire, Grassy Hill, White Background]] — shared language: grassy, hill
 - [[knowledge/wiki/images/Image Rosetta Stone Connected To A Belkin Computer Keyboard c7d30837|Image Rosetta Stone Connected To A Belkin Computer Keyboard]] — shared language: keyboard, computer
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: giant
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
 <!-- vault-crosslinks:end -->

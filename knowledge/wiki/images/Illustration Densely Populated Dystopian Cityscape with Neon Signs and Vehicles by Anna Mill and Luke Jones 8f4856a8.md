@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, populated, signs
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, signs
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: mill
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — shared language: luke
-- [[knowledge/wiki/images/Photograph Foggy Cityscape with Tall Buildings and Neon Signs in Japan 7dcf5a4f|Photograph Foggy Cityscape with Tall Buildings and Neon Signs in Japan]] — shared language: signs, neon, cityscape
 - [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: populated, densely
+- [[knowledge/wiki/images/Foggy Cityscape with Tall Buildings and Neon Signs in Japan aa98259c|Foggy Cityscape with Tall Buildings and Neon Signs in Japan]] — shared language: neon, signs, cityscape
 <!-- vault-crosslinks:end -->

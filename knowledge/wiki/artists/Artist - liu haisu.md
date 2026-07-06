@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - liu xiaodong|Artist - liu xiaodong]] — shared language: liu
 - [[knowledge/wiki/images/the waitress by liu xiaodong 1994 f0ce6cc5|the waitress by liu xiaodong 1994]] — shared language: liu
 - [[knowledge/wiki/images/the son of the earth by liu xiaodong 1999 0847c546|the son of the earth by liu xiaodong 1999]] — shared language: liu
+- [[knowledge/wiki/artists/Artist - Liu Heung Shing|Artist - Liu Heung Shing]] — shared language: liu
 - [[knowledge/wiki/images/six gentlemen liu junzi tu by ni zan 1345 0d154007|six gentlemen liu junzi tu by ni zan 1345]] — shared language: liu
-- [[knowledge/wiki/artists/Artist - ni zan|Artist - ni zan]] — shared language: liu
 <!-- vault-crosslinks:end -->

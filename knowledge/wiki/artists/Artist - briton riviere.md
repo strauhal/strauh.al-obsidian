@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
 - [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: daniel
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
-- [[knowledge/wiki/images/king crimson abad7a5c|king crimson]] — shared language: king
+- [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — shared language: daniel
 <!-- vault-crosslinks:end -->

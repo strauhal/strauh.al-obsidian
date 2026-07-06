@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black And White Abstract Pattern Of Wavy Horizontal Bands 76d5e797|Illustration Black And White Abstract Pattern Of Wavy Horizontal Bands]] — shared language: bands, horizontal, wavy
-- [[_archive/auto-generated/images-stale/stacked prints of a face with horizontal bands ca96b134|stacked prints of a face with horizontal bands]] — shared language: stacked, bands, horizontal
+- [[_archive/auto-generated/images-stale/stacked prints of a face with horizontal bands ca96b134|stacked prints of a face with horizontal bands]] — shared language: bands, stacked, horizontal
 - [[_archive/auto-generated/images-stale/op art pattern of horizontal wavy lines in dark gray and white e7755905|op art pattern of horizontal wavy lines in dark gray and white]] — shared language: horizontal, wavy, pattern
 - [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, wavy
 - [[knowledge/wiki/images/Illustration Abstract Composition with Wavy Black Horizontal Stripes 41a8127c|Illustration Abstract Composition with Wavy Black Horizontal Stripes]] — shared language: horizontal, wavy

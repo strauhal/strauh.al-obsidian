@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, buildings
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, city
 - [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: buildings, framed, city
 - [[knowledge/wiki/images/Illustration Two Tone Graphic Print of Modernist Buildings in Red and Blue ffb78b87|Illustration Two Tone Graphic Print of Modernist Buildings in Red and Blue]] — shared language: modernist, buildings
 - [[_archive/auto-generated/images-stale/two tone graphic print of modernist buildings red and blue 3b4ae73e|two tone graphic print of modernist buildings red and blue]] — shared language: modernist, buildings
-- [[_archive/auto-generated/images-stale/framed modernist harbor painting with boats and figures e23af236|framed modernist harbor painting with boats and figures]] — shared language: modernist, framed
 <!-- vault-crosslinks:end -->

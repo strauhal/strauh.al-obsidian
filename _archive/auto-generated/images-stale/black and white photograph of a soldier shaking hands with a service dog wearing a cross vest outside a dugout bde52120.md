@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Soldier Shaking Hands With Service Dog Outside Dugout 4cf09d69|Photograph Soldier Shaking Hands With Service Dog Outside Dugout]] — shared language: shaking, dugout, service
+- [[_archive/auto-generated/images-stale/Photograph Soldier Shaking Hands With Service Dog Outside Dugout 4cf09d69|Photograph Soldier Shaking Hands With Service Dog Outside Dugout]] — shared language: shaking, dugout, service
+- [[knowledge/wiki/images/Soldier Shaking Hands With Service Dog Outside Dugout 30bcbd5a|Soldier Shaking Hands With Service Dog Outside Dugout]] — shared language: shaking, dugout, service
 - [[knowledge/wiki/images/franklin d roosevelt shaking hands with a farmer 1932 d5e060ba|franklin d roosevelt shaking hands with a farmer 1932]] — shared language: shaking, hands
+- [[knowledge/wiki/images/Keanu Reeves Shaking Hands On Set With Fake Wound 3653675d|Keanu Reeves Shaking Hands On Set With Fake Wound]] — shared language: shaking, hands
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
-- [[knowledge/wiki/images/Illustration Stylized Artwork People, Dog, Snow Outside Brick Building 7069372e|Illustration Stylized Artwork People, Dog, Snow Outside Brick Building]] — shared language: outside, dog
-- [[knowledge/wiki/images/a young woman wearing a cross by william adolphe bouguereau 1874 b2ce03aa|a young woman wearing a cross by william adolphe bouguereau 1874]] — shared language: cross, wearing
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/stylized painting of a reclining woman on a couch with drinks against a black background 2 9880d9e9|stylized painting of a reclining woman on a couch with drinks against a black background 2]] — shared language: drinks, couch, reclining
-- [[knowledge/wiki/images/Illustration Two Figures Embracing on a Couch, Stylized Painting 9e3bdb95|Illustration Two Figures Embracing on a Couch, Stylized Painting]] — shared language: couch, stylized
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: against, stylized, background
+- [[knowledge/wiki/images/Illustration Two Figures Embracing on a Couch, Stylized Painting 9e3bdb95|Illustration Two Figures Embracing on a Couch, Stylized Painting]] — shared language: couch, stylized
 - [[knowledge/wiki/images/Illustration Blonde Woman Reclining on Couch with Syringe and Roses 1ff6c69c|Illustration Blonde Woman Reclining on Couch with Syringe and Roses]] — shared language: couch, reclining
 - [[_archive/auto-generated/images-stale/oil painting of two female figures one crouching and one reclining against a yellow background 36e16294|oil painting of two female figures one crouching and one reclining against a yellow background]] — shared language: reclining, against, background
 <!-- vault-crosslinks:end -->

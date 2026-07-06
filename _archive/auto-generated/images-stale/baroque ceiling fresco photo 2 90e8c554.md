@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — named in this note
 - [[knowledge/wiki/images/sistine ceiling fresco in the sistine chapel by michelangelo 15081512 bd85329e|sistine ceiling fresco in the sistine chapel by michelangelo 15081512]] — shared language: fresco, ceiling
 - [[knowledge/wiki/artists/Artist - michelangelo 15081512|Artist - michelangelo 15081512]] — shared language: fresco, ceiling
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
+- [[_archive/auto-generated/images-stale/framed baroque painting of figures with a child 4b0b7a67|framed baroque painting of figures with a child]] — shared language: baroque
 <!-- vault-crosslinks:end -->

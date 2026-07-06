@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
-- [[knowledge/wiki/images/Illustration Pencil Sketch of an Interior Room with Balcony View abc7ea25|Illustration Pencil Sketch of an Interior Room with Balcony View]] — shared language: pencil, room, sketch
+- [[knowledge/wiki/images/Illustration Pencil Sketch of an Interior Room with Balcony View abc7ea25|Illustration Pencil Sketch of an Interior Room with Balcony View]] — shared language: pencil, sketch, room
 - [[knowledge/wiki/images/Illustration Chaotic Pencil Drawing of Abstract Figures and Forms by Joseph Beuys 3906f08b|Illustration Chaotic Pencil Drawing of Abstract Figures and Forms by Joseph Beuys]] — shared language: chaotic, pencil
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: detailed, sketch
 - [[knowledge/wiki/artists/Artist - Chaotic Grotesque Imagery|Artist - Chaotic Grotesque Imagery]] — shared language: chaotic, pencil
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 6a319bea|PHOTO 2024 03 02 20 46 54]] — shared language: photo
-- [[knowledge/wiki/images/Photograph Syrup Bottles, Funnel, and Handgun on Wooden Table cb439334|Photograph Syrup Bottles, Funnel, and Handgun on Wooden Table]] — shared language: bottles, table
+- [[knowledge/wiki/artists/Artist - Plastic Bottles|Artist - Plastic Bottles]] — shared language: bottles
 <!-- vault-crosslinks:end -->

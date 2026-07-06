@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Peter Hollins - The Science of Rapid Skill Acquisition-Pkcs Media, Inc. (2019).pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Science of Rapid Skill Acquisition-Pkcs Media, Inc.

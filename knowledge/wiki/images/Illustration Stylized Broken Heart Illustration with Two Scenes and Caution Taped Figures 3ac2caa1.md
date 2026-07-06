@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, caution
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
 - [[knowledge/wiki/images/Illustration Stylized Black And White Drawing Of Figures In Two Scenes 3006c273|Illustration Stylized Black And White Drawing Of Figures In Two Scenes]] — shared language: scenes, stylized
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: broken
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Sade Adu Taped To A Wall f8d6fbbf|Photograph Black And White Photograph Of Sade Adu Taped To A Wall]] — shared language: taped
+- [[knowledge/wiki/images/Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background a2a89723|Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background]] — shared language: broken, stylized
 <!-- vault-crosslinks:end -->

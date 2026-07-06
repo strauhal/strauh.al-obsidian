@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Per
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Viewing Framed Photograph In Gallery 38eb2c8f|Photograph Person Viewing Framed Photograph In Gallery]] — shared language: viewing, gallery, person
+- [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: viewing, gallery, person
 - [[knowledge/wiki/images/Photograph People Viewing Landscape Paintings In A Gallery ab1096c2|Photograph People Viewing Landscape Paintings In A Gallery]] — shared language: viewing, gallery, gallery.jpeg
 - [[knowledge/wiki/images/Photograph Museum Gallery With Visitors Viewing Artworks b1b28849|Photograph Museum Gallery With Visitors Viewing Artworks]] — shared language: viewing, gallery
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: stream
 - [[knowledge/wiki/images/Illustration Grayscale Still Life with Stylized Vases and Foliage fa297f3c|Illustration Grayscale Still Life with Stylized Vases and Foliage]] — shared language: foliage, stylized, foliage.jpeg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: foliage
-- [[_archive/auto-generated/images-stale/grayscale still life of four vases with stylized foliage 99de9b7d|grayscale still life of four vases with stylized foliage]] — shared language: foliage, stylized, foliage.jpeg
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: foliage
 <!-- vault-crosslinks:end -->

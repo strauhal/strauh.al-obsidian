@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern With Overlapping Colored Lines 5d16a30b|Illustration Abstract Geometric Pattern With Overlapping Colored Lines]] — shared language: overlapping, pattern, geometric
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: circles, geometric
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pattern, geometric
-- [[knowledge/wiki/images/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: circles, geometric
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: pattern
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: circles
 - [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: pattern, geometric
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Danfung Dennis|Artist - Danfung Dennis]] — shared language: dennis
+- [[knowledge/wiki/images/Soldier Dropping Grenade Down Stairwell by Danfung Dennis edaccc43|Soldier Dropping Grenade Down Stairwell by Danfung Dennis]] — shared language: dennis
 - [[knowledge/wiki/images/boy with glove times square new york by bruce davidson 1980 8427f886|boy with glove times square new york by bruce davidson 1980]] — shared language: times, square, york
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: james, new
 - [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: james, new
 - [[knowledge/wiki/images/Photograph Black and White Portrait of James Dean Smoking a Cigarette 5e796a09|Photograph Black and White Portrait of James Dean Smoking a Cigarette]] — shared language: dean, james
-- [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — shared language: york, new
-- [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 <!-- vault-crosslinks:end -->

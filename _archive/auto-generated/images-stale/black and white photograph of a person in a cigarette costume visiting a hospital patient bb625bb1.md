@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Mr. Cigarette Mascot Giving Cigarette to Hospital Patient 38a98d59|Photograph Mr. Cigarette Mascot Giving Cigarette to Hospital Patient]] — shared language: patient, cigarette, hospital
-- [[knowledge/wiki/images/Photograph Two Surgeons Operating On Patient, One Wearing Headset 056bb676|Photograph Two Surgeons Operating On Patient, One Wearing Headset]] — shared language: patient
-- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: costume
 - [[knowledge/wiki/images/Illustration Pixel Art Cityscape with St. Jerome Hospital by D 35dd349b|Illustration Pixel Art Cityscape with St. Jerome Hospital by D]] — shared language: hospital
-- [[knowledge/wiki/images/Photograph Young Woman With Bottles And Cigarette Packs On Floor e91fc69c|Photograph Young Woman With Bottles And Cigarette Packs On Floor]] — shared language: cigarette
+- [[_archive/auto-generated/images-stale/photograph of a black cigarette vending machine 7021dbc1|photograph of a black cigarette vending machine]] — shared language: cigarette
+- [[_archive/auto-generated/images-stale/Photograph Two Surgeons Operating On Patient, One Wearing Headset 056bb676|Photograph Two Surgeons Operating On Patient, One Wearing Headset]] — shared language: patient
+- [[knowledge/wiki/images/Two Surgeons Operating On Patient, One Wearing Headset ab061b1b|Two Surgeons Operating On Patient, One Wearing Headset]] — shared language: patient
 <!-- vault-crosslinks:end -->

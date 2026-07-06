@@ -7,8 +7,8 @@ status: queued
 queue_order: 17
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Andy Warhol Diaries
@@ -36,6 +36,6 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: warhol, andy
 - [[knowledge/wiki/images/woman s head with purple hair by andy warhol c 1957 512a622b|woman s head with purple hair by andy warhol c 1957]] — shared language: warhol, andy
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol
-- [[knowledge/wiki/images/woman with tie and flowers on head by andy warhol 1958 ade73834|woman with tie and flowers on head by andy warhol 1958]] — shared language: warhol, andy
 - [[knowledge/wiki/images/Photograph Black and White Photo of Andy Warhol and Three Men 8229510a|Photograph Black and White Photo of Andy Warhol and Three Men]] — shared language: warhol, andy
+- [[knowledge/wiki/images/woman with tie and flowers on head by andy warhol 1958 ade73834|woman with tie and flowers on head by andy warhol 1958]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

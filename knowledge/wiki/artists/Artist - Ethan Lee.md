@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Untitled by Lee Bontecou 5adc429c|Illustration Untitled by Lee Bontecou]] — shared language: lee
 - [[knowledge/wiki/artists/Artist - lee krasner|Artist - lee krasner]] — shared language: lee
-- [[knowledge/wiki/images/Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture 8eba43c8|Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture]] — shared language: sunlit, arched, cafe
 - [[knowledge/wiki/artists/Artist - Lee Bontecou|Artist - Lee Bontecou]] — shared language: lee
+- [[knowledge/wiki/images/Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture 8eba43c8|Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture]] — shared language: sunlit, arched, cafe
 - [[knowledge/wiki/anchors/ang-lee|Ang Lee]] — shared language: lee
 - [[knowledge/wiki/images/net by lee krasner 1959 36bb8541|net by lee krasner 1959]] — shared language: lee
 <!-- vault-crosslinks:end -->

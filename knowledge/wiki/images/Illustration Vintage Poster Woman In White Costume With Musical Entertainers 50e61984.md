@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/images/Illustration Vintage Illustration of Two Red Poppies 5586e7b8|Illustration Vintage Illustration of Two Red Poppies]] — shared language: vintage
-- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: costume
 - [[knowledge/wiki/artists/Artist - Musical Era|Artist - Musical Era]] — shared language: musical
 - [[knowledge/wiki/images/Illustration Pixelated Painting of a Vintage Red and White Car d54ea966|Illustration Pixelated Painting of a Vintage Red and White Car]] — shared language: vintage
+- [[knowledge/wiki/images/The Doors and The Yardbirds Vintage Music Poster by Bonnie MacLean (1967) b53ece7e|The Doors and The Yardbirds Vintage Music Poster by Bonnie MacLean (1967)]] — shared language: vintage, poster
 <!-- vault-crosslinks:end -->

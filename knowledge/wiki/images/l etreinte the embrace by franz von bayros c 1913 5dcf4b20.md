@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/l_etreinte_the_e
 - [[knowledge/wiki/artists/Artist - franz von defregger|Artist - franz von defregger]] — shared language: franz, von
 - [[knowledge/wiki/images/richard wagner by franz von lenbach c 1882 2f89a5cb|richard wagner by franz von lenbach c 1882]] — shared language: franz, von
 - [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
-- [[knowledge/wiki/images/the spinner die spinnerin by franz von defregger c 1873 b5587569|the spinner die spinnerin by franz von defregger c 1873]] — shared language: franz, von
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: von
 <!-- vault-crosslinks:end -->

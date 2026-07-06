@@ -1,0 +1,67 @@
+---
+title: "brain(wip)"
+source_kind: "html"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al4/brain(wip).html"
+source_relpath: "brain(wip).html"
+compiled: "True"
+compiled_at: "2026-07-06T16:51:07"
+tags: ["strauhal", "source/html"]
+---
+# brain(wip)
+
+Source: [[media/strauh.al4/brain(wip).html|source file]]
+
+Concepts: [[HTML Source]], [[brain(wip)]], [[strauh.al Archive]]
+
+## Compiled Page
+
+strauh.al/brain
+
+# [strauh.al](https://strauh.al)/brain
+
+settings
+
+reset
+
+search
+
+### Forces
+
+Center force
+
+Repel force
+
+Link force
+
+Link distance
+
+### Display
+
+Node size
+
+Text fade
+
+Show arrows
+
+### Groups
+
+×
+
+scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hover = highlight · click = open note
+
+## Related Local Pages
+
+- None yet
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, node
+- [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, pages
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
+- [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: drag, click, highlight
+- [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: drag, click, highlight
+- [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: drag, click, highlight
+<!-- vault-crosslinks:end -->

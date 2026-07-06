@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/superman 339413ee|superman]] — named in this note
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: plain
-- [[knowledge/wiki/images/Photograph Two People Posing Against A Plain Background 95b5a4d9|Photograph Two People Posing Against A Plain Background]] — shared language: plain, background
+- [[_archive/auto-generated/images-stale/Photograph Two People Posing Against A Plain Background 95b5a4d9|Photograph Two People Posing Against A Plain Background]] — shared language: plain, background
+- [[knowledge/wiki/images/Two People Posing Against A Plain Background c35bbd2a|Two People Posing Against A Plain Background]] — shared language: plain, background
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: plain
-- [[_archive/auto-generated/images-stale/framed painting of mont saint michel on a sandy plain 5284da2d|framed painting of mont saint michel on a sandy plain]] — shared language: plain, framed
 <!-- vault-crosslinks:end -->

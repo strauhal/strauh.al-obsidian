@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black Yard Sign With Rainbow Text Quoting Spinoza And Reich c9a55cc8|Photograph Black Yard Sign With Rainbow Text Quoting Spinoza And Reich]] — shared language: quoting, yard, spinoza
-- [[knowledge/wiki/images/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: yard, sign, text
+- [[knowledge/wiki/images/Photograph Black Yard Sign With Rainbow Text Quoting Spinoza And Reich c9a55cc8|Photograph Black Yard Sign With Rainbow Text Quoting Spinoza And Reich]] — shared language: quoting, spinoza, reich
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
+- [[_archive/auto-generated/images-stale/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: yard, sign, text
+- [[knowledge/wiki/images/Yard Sign with Text About Complex Issues bc4c2246|Yard Sign with Text About Complex Issues]] — shared language: yard, sign, text
 - [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — shared language: spinoza
-- [[knowledge/wiki/images/Steve Reich Terry Riley (2019) e75b1ec2|Steve Reich Terry Riley (2019)]] — shared language: reich
 <!-- vault-crosslinks:end -->

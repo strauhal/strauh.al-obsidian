@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1890s"
 source_kind: "date_bucket"
-count: "203"
+count: "202"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1890s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 203
+Files: 202
 
 ## Sample
 

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
-- [[knowledge/wiki/images/Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set 6d0a3f88|Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: actresses, screen, green
+- [[knowledge/wiki/images/Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set bd3789d2|Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: actresses, screen, green
+- [[_archive/auto-generated/images-stale/Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set 6d0a3f88|Photograph Actresses Mia Wasikowska And Helena Bonham Carter On Green Screen Set]] — shared language: actresses, screen, green
 - [[knowledge/wiki/images/Photograph Tattooed Man MC Ride and Young Girl Sitting on Stage f65b2562|Photograph Tattooed Man MC Ride and Young Girl Sitting on Stage]] — shared language: stage, sitting, stage.jpg
-- [[_archive/auto-generated/images-stale/scroll painting of a standing woman in elaborate red and green robes holding a fan 3ce1ac9f|scroll painting of a standing woman in elaborate red and green robes holding a fan]] — shared language: elaborate, green
-- [[knowledge/wiki/images/Photograph Woman Speaking On Stage With Humorous Text On Screen 776787f4|Photograph Woman Speaking On Stage With Humorous Text On Screen]] — shared language: stage, screen
+- [[_archive/auto-generated/images-stale/Photograph Woman Speaking On Stage With Humorous Text On Screen 776787f4|Photograph Woman Speaking On Stage With Humorous Text On Screen]] — shared language: stage, screen
 <!-- vault-crosslinks:end -->

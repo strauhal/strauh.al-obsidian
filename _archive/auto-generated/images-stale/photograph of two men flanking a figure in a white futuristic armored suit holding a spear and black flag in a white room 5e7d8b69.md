@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Men Flanking Figure in White Futuristic Armored Suit 6435c521|Photograph Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking, futuristic, armored
+- [[_archive/auto-generated/images-stale/Photograph Two Men Flanking Figure in White Futuristic Armored Suit 6435c521|Photograph Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking, armored, futuristic
+- [[knowledge/wiki/images/Two Men Flanking Figure in White Futuristic Armored Suit f89345e1|Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking, armored, futuristic
 - [[_archive/auto-generated/images-stale/futuristic figure in white armor holding a spear and black flag in a white room 080ac5c8|futuristic figure in white armor holding a spear and black flag in a white room]] — shared language: spear, futuristic, flag
 - [[knowledge/wiki/images/Screenshot Pixelated Armored Figure With Spear And Shield In Computer Window face1ead|Screenshot Pixelated Armored Figure With Spear And Shield In Computer Window]] — shared language: spear, armored
 - [[_archive/auto-generated/images-stale/pixelated armored figure with spear and shield on a diagonal striped background e3fb17f2|pixelated armored figure with spear and shield on a diagonal striped background]] — shared language: spear, armored
-- [[knowledge/wiki/images/Illustration Detailed Purple and Blue Futuristic Computer Room Illustration 43d5416b|Illustration Detailed Purple and Blue Futuristic Computer Room Illustration]] — shared language: futuristic, room
 <!-- vault-crosslinks:end -->

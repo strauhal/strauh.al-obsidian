@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket f50f650f|Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket]] — shared language: flag, jacket, american
-- [[knowledge/wiki/images/Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace afa35642|Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: jacket, wearing
-- [[knowledge/wiki/images/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american
+- [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american
+- [[_archive/auto-generated/images-stale/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, american
 - [[knowledge/wiki/images/Illustration Abstract Graphic Design with Warped American Flag Elements cbdc758e|Illustration Abstract Graphic Design with Warped American Flag Elements]] — shared language: flag, american
-- [[knowledge/wiki/images/Photograph Man with Red Marks on Face, Raising Fist, American Flag 55ff7ece|Photograph Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: flag, american
+- [[knowledge/wiki/images/Man with Red Marks on Face, Raising Fist, American Flag 8cb1a488|Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: flag, american
 <!-- vault-crosslinks:end -->

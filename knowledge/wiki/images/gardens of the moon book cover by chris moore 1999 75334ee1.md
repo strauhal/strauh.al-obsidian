@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/gardens_of_the_m
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Ross Moore|Artist - Ross Moore]] — shared language: moore
 - [[knowledge/wiki/artists/Artist - chris foss|Artist - chris foss]] — shared language: chris
 - [[knowledge/wiki/images/Uphill Glow by Ross Moore 8bad1ffb|Uphill Glow by Ross Moore]] — shared language: moore
 - [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: chris
 - [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: chris
-- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — shared language: chris
 <!-- vault-crosslinks:end -->

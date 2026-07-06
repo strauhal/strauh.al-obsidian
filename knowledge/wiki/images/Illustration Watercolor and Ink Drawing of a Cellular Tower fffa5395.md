@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower, tower.jpg
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: tower
 <!-- vault-crosslinks:end -->

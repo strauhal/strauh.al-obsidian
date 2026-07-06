@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed, futuristic
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Detailed Purple and Blue Futuristic Computer Room Illustration 43d5416b|Illustration Detailed Purple and Blue Futuristic Computer Room Illustration]] — shared language: futuristic, detailed
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: detailed, sketch
-- [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: interior, sketch
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: sketch, interior
 <!-- vault-crosslinks:end -->

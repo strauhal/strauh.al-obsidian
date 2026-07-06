@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Fog
 
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: field, flowers
 - [[knowledge/wiki/images/Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge 2a72bf3e|Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge]] — shared language: edge, forest
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, flowers
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, flowers
 - [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 - [[knowledge/wiki/images/Illustration Woman with Purple Flowers and Bird on Shoulder, Patterned Background 9aea0c60|Illustration Woman with Purple Flowers and Bird on Shoulder, Patterned Background]] — shared language: purple, flowers
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Portrait of a Dog by Jonah Yano (2023) 4171a898|Portrait of a Dog by Jonah Yano (2023)]] — shared language: dog
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: horse
 - [[knowledge/wiki/images/Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text 2e75c4da|Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text]] — shared language: dog, colorful
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: horse
-- [[knowledge/wiki/images/Illustration Oil Painting of a White and Brown Whippet Dog 57e87276|Illustration Oil Painting of a White and Brown Whippet Dog]] — shared language: dog, dog.jpg
+- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: colorful
 <!-- vault-crosslinks:end -->

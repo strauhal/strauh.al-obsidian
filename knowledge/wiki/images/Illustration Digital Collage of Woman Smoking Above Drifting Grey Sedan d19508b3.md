@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Woman's Eyes and Drifting White Sedan Composite d602e77d|Illustration Woman's Eyes and Drifting White Sedan Composite]] — shared language: drifting, sedan
+- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: drifting
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: drifting
 - [[knowledge/wiki/images/Illustration Digital Collage of Occult Sigils Above a Green Circuit Board 0f07acb9|Illustration Digital Collage of Occult Sigils Above a Green Circuit Board]] — shared language: above, collage, digital
-- [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
 - [[knowledge/wiki/images/Illustration Red Car Drifting with Woman's Eyes in Background e58fae25|Illustration Red Car Drifting with Woman's Eyes in Background]] — shared language: drifting
 <!-- vault-crosslinks:end -->

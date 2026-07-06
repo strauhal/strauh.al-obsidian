@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jean Baudrillard, Mark Poster, Jacques Mourrain - Jean Baudrillard_ Selected Writings_ Second Edition  (2002, Stanford University Press) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Jean Baudrillard Selected Writings Second Edition
@@ -39,8 +39,8 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — same category: philosophy
 - [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — same category: philosophy
+- [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — same category: philosophy
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — same category: philosophy
 - [[knowledge/wiki/books/derrida-jacques-of-grammatology|Of Grammatology]] — same category: philosophy
 - [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — same category: philosophy

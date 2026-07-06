@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Five People In Eclectic Clothing In A Wooded Hillside 12946036|Photograph Five People In Eclectic Clothing In A Wooded Hillside]] — shared language: eclectic, wooded, clothing
+- [[knowledge/wiki/images/Photograph Five People In Eclectic Clothing In A Wooded Hillside 12946036|Photograph Five People In Eclectic Clothing In A Wooded Hillside]] — shared language: eclectic, wooded, hillside
 - [[_archive/auto-generated/images-stale/black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure dd4ef4dd|black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure]] — shared language: wooded, standing
 - [[_archive/auto-generated/images-stale/black and white photograph of five young people posing on an urban street cda072a3|black and white photograph of five young people posing on an urban street]] — shared language: five, people
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Five Young People Posing On Urban Street 5761ca69|Photograph Black And White Photograph Of Five Young People Posing On Urban Street]] — shared language: five, people

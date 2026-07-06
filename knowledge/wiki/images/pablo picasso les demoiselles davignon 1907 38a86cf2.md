@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/pablo_picasso_le
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/study for les demoiselles d avignon by pablo picasso 1907 baca8186|study for les demoiselles d avignon by pablo picasso 1907]] — shared language: demoiselles, picasso, les
+- [[knowledge/wiki/images/study for les demoiselles d avignon by pablo picasso 1907 baca8186|study for les demoiselles d avignon by pablo picasso 1907]] — shared language: demoiselles, picasso, pablo
 - [[knowledge/wiki/images/head of a woman by pablo picasso 1926 2d377890|head of a woman by pablo picasso 1926]] — shared language: picasso, pablo
 - [[knowledge/wiki/images/two brothers by pablo picasso 1905 ed4cea42|two brothers by pablo picasso 1905]] — shared language: picasso, pablo
 - [[knowledge/wiki/images/la muse by pablo picasso 1935 ead13956|la muse by pablo picasso 1935]] — shared language: picasso, pablo

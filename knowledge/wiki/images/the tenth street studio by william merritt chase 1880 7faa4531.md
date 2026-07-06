@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_tenth_street
 - [[knowledge/wiki/images/a friendly visit by william merritt chase 1895 66ff92c7|a friendly visit by william merritt chase 1895]] — same artist: william merritt chase
 - [[knowledge/wiki/images/A Corner of My Studio by William Merritt Chase (1877) 177d9613|A Corner of My Studio by William Merritt Chase (1877)]] — shared language: merritt, chase, studio
 - [[knowledge/wiki/images/william merritt chase a daisy field 1906 41678409|william merritt chase a daisy field 1906]] — shared language: merritt, chase, william
-- [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: william
-- [[knowledge/wiki/books/william-zinsser-on-writing-well|On Writing Well]] — shared language: william
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

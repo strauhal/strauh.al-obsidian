@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/black_and_white_
 - [[knowledge/wiki/images/tomie by junji ito 1987 b700ed28|tomie by junji ito 1987]] — same artist: junji ito
 - [[knowledge/wiki/images/the long dream by junji ito 1997 9be646fc|the long dream by junji ito 1997]] — same artist: junji ito
 - [[knowledge/wiki/images/uzumaki by junji ito 1998 1999 386ecb02|uzumaki by junji ito 1998 1999]] — same artist: junji ito
-- [[knowledge/wiki/images/snail girl by junji ito 1998 e0fada93|snail girl by junji ito 1998]] — same artist: junji ito
+- [[knowledge/wiki/images/the window next door by junji ito 1998 71bf9b58|the window next door by junji ito 1998]] — same artist: junji ito
 <!-- vault-crosslinks:end -->

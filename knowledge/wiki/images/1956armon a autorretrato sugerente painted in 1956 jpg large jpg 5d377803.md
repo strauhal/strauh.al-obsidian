@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1956armon_a_auto
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Armon a (Autorretrato Sugerente) by Remedios Varo (1956) 5457a3fe|Armon a (Autorretrato Sugerente) by Remedios Varo (1956)]] — shared language: armon, sugerente
-- [[knowledge/wiki/images/Photograph Orange Cat Lying on Street with Painted Intersection Mural b142ad5d|Photograph Orange Cat Lying on Street with Painted Intersection Mural]] — shared language: painted
+- [[knowledge/wiki/images/Orange Cat Lying on Street with Painted Intersection Mural 3281c288|Orange Cat Lying on Street with Painted Intersection Mural]] — shared language: painted
 - [[knowledge/wiki/images/Illustration Abstract Collage with Blue Halftone Flowers and Pink Painted Roses 26ff9bc9|Illustration Abstract Collage with Blue Halftone Flowers and Pink Painted Roses]] — shared language: painted
 - [[knowledge/wiki/images/Illustration Halftone Blue Flowers on Geometric Background with Pink Painted Element f0ecf5ff|Illustration Halftone Blue Flowers on Geometric Background with Pink Painted Element]] — shared language: painted
 - [[knowledge/wiki/images/Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling 5f3d8f84|Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling]] — shared language: painted

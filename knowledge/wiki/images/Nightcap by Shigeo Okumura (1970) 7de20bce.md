@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Nightcap by Shig
 
 - [[knowledge/wiki/images/Shibai Ukie by Okumura Masanobu (c. 1740 1745) 65b0b9aa|Shibai Ukie by Okumura Masanobu (c. 1740 1745)]] — shared language: okumura
 - [[knowledge/wiki/images/Night View of Saruwaka machi by Utagawa Hiroshige (1856) d6e30486|Night View of Saruwaka machi by Utagawa Hiroshige (1856)]] — nearby note in the same source series
-- [[knowledge/wiki/images/No Ideas by Saul Steinberg (1970) e2437dd2|No Ideas by Saul Steinberg (1970)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

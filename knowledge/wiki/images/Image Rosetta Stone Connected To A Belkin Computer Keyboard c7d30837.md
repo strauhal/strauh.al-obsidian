@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Rosetta 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, keyboard
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
 - [[knowledge/wiki/images/Illustration Digital Files Bursting From Computer Monitor And Keyboard 15174844|Illustration Digital Files Bursting From Computer Monitor And Keyboard]] — shared language: keyboard, computer
 - [[knowledge/wiki/images/Photograph Vintage Macintosh Computer with MIDI Keyboard and Mouse 39e3d5dd|Photograph Vintage Macintosh Computer with MIDI Keyboard and Mouse]] — shared language: keyboard, computer
 - [[knowledge/wiki/artists/Artist - David Stone Martin|Artist - David Stone Martin]] — shared language: stone

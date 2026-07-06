@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery 19b76ef3|Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery]] — shared language: dotted, sculptures, polka
-- [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: dotted, sculptures, polka
+- [[knowledge/wiki/images/Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery 19b76ef3|Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery]] — shared language: dotted, polka, sculptures
+- [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: dotted, polka, sculptures
 - [[_archive/auto-generated/images-stale/two large polka dotted flower sculptures by yayoi kusama 655952cd|two large polka dotted flower sculptures by yayoi kusama]] — shared language: dotted, polka, sculptures
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: displayed, gallery, colorful
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yayoi kusama|Artist - yayoi kusama]] — shared language: dotted, polka, sculptures

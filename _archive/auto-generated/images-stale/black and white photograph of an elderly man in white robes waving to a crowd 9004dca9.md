@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Pope John Paul II Waving To A Crowd 48d3a09b|Photograph Pope John Paul II Waving To A Crowd]] — shared language: waving, crowd, crowd.jpg
-- [[knowledge/wiki/images/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
+- [[knowledge/wiki/images/Elderly Man in Robes with Two Women on Subway 0ed1dc9f|Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
+- [[_archive/auto-generated/images-stale/Photograph Elderly Man in Robes with Two Women on Subway 3e8fcbed|Photograph Elderly Man in Robes with Two Women on Subway]] — shared language: elderly, robes
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
-- [[_archive/auto-generated/images-stale/photograph of an elderly man in religious robes sitting next to two young women using smartphones on a subway 86a3c97e|photograph of an elderly man in religious robes sitting next to two young women using smartphones on a subway]] — shared language: elderly, robes
-- [[_archive/auto-generated/images-stale/charcoal portraits of an elderly man and an elderly woman f938c0f4|charcoal portraits of an elderly man and an elderly woman]] — shared language: elderly
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 <!-- vault-crosslinks:end -->

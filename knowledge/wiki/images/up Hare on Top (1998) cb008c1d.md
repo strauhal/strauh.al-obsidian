@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/up Hare on Top (
 - [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: top
 - [[knowledge/wiki/images/Illustration Still Life with Hanging Hare, Duck, Pie, Bottles, and Fruit 0b1c3f6c|Illustration Still Life with Hanging Hare, Duck, Pie, Bottles, and Fruit]] — shared language: hare
 - [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: top
-- [[knowledge/wiki/images/Photograph Person In Dark Hooded Top And Goggles On Couch 8dca3785|Photograph Person In Dark Hooded Top And Goggles On Couch]] — shared language: top
+- [[knowledge/wiki/images/Person In Dark Hooded Top And Goggles On Couch 32044991|Person In Dark Hooded Top And Goggles On Couch]] — shared language: top
 <!-- vault-crosslinks:end -->

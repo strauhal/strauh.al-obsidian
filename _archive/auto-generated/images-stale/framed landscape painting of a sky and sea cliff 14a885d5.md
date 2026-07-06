@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
 - [[_archive/auto-generated/artists-noise/Artist - the sea|Artist - the sea]] — shared language: sea
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
-- [[_archive/auto-generated/images-stale/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: sky, framed, landscape
+- [[_archive/auto-generated/images-stale/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: framed, sky, landscape
 <!-- vault-crosslinks:end -->

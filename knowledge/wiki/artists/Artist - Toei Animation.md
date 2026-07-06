@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: animation
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: animation
 - [[knowledge/wiki/pages/Flapping Animation Grid|Flapping Animation Grid]] — shared language: animation
 - [[knowledge/wiki/images/Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower 01713fa5|Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower]] — shared language: animated, screenshot
 - [[knowledge/wiki/images/Illustration Basketball Hoop On Court Against Blue Sky 4cdc3cf0|Illustration Basketball Hoop On Court Against Blue Sky]] — shared language: basketball
 - [[knowledge/wiki/images/Illustration Textured Portrait Of A Person Smoking A Cigar c55c1864|Illustration Textured Portrait Of A Person Smoking A Cigar]] — shared language: cigar
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

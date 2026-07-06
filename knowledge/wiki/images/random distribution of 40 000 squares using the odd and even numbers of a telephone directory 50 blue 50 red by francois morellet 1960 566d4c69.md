@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/random_distribut
 
 - [[knowledge/wiki/images/Illustration Abstract Grid of Red Squares Over Binary Numbers and Blue Contours a94b0567|Illustration Abstract Grid of Red Squares Over Binary Numbers and Blue Contours]] — shared language: squares, numbers
 - [[knowledge/wiki/artists/Artist - francois dubois|Artist - francois dubois]] — shared language: francois
-- [[knowledge/wiki/images/Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background e918d167|Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background]] — shared language: numbers, using
 - [[knowledge/wiki/artists/Artist - francois boucher|Artist - francois boucher]] — shared language: francois
+- [[knowledge/wiki/images/Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background e918d167|Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background]] — shared language: numbers, using
 - [[knowledge/wiki/artists/Artist - odd nerdrum|Artist - odd nerdrum]] — shared language: odd
 <!-- vault-crosslinks:end -->

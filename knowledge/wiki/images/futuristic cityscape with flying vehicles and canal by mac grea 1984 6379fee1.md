@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/futuristic_citys
 ## Discovered Connections
 
 - [[knowledge/wiki/images/futuristic cityscape with flying vehicles and canal by mac grea 1984 2 e1de6ffb|futuristic cityscape with flying vehicles and canal by mac grea 1984 2]] — same artist: mac grea
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, futuristic
 - [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: vehicles, futuristic
 - [[knowledge/wiki/artists/Artist - Mac Baconai|Artist - Mac Baconai]] — shared language: mac
 - [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: futuristic, cityscape
+- [[knowledge/wiki/images/Illustration Impasto Painting of a Venetian Canal Scene with Gondola 19202ffc|Illustration Impasto Painting of a Venetian Canal Scene with Gondola]] — shared language: canal
 <!-- vault-crosslinks:end -->

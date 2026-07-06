@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/V by Eliran Kant
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Utility Pole Densely Covered In Staples And Nails On City Street 7cfb1d6c|Utility Pole Densely Covered In Staples And Nails On City Street]] — nearby note in the same source series
+- [[knowledge/wiki/images/Valley by MVRDV 4ac5439a|Valley by MVRDV]] — nearby note in the same source series
 - [[knowledge/wiki/images/Urban by Ben Tolman (2015) 0a14e5a2|Urban by Ben Tolman (2015)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Valley of Silence by Franklin Booth (1919) 15082c83|Valley of Silence by Franklin Booth (1919)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Uphill Glow by Ross Moore 8bad1ffb|Uphill Glow by Ross Moore]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

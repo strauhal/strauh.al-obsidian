@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Watson, Burton - The Lotus Sutra-Columbia University Press.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Lotus Sutra-Columbia University Press
@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/classics-of-indian-spirituality-eknath-easwaran-nagler-michael-n-the-upanishads-nilgiri-press|The Upanishads-Nilgiri Press]] — same category: esoterica
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
-- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/eknath-easwaran-the-bhagavad-gita|The Bhagavad Gita]] — same category: esoterica
+- [[knowledge/wiki/books/epictetus-the-enchiridion|The Enchiridion,]] — same category: esoterica
 - [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
 <!-- vault-crosslinks:end -->

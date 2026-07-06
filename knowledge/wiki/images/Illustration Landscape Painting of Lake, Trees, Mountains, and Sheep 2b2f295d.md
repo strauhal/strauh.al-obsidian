@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Infrared Style Photograph of Mountains, Lake, and Purple Trees d5224c4d|Photograph Infrared Style Photograph of Mountains, Lake, and Purple Trees]] — shared language: lake, mountains, trees
+- [[knowledge/wiki/images/Infrared Style Photograph of Mountains, Lake, and Purple Trees 087706c8|Infrared Style Photograph of Mountains, Lake, and Purple Trees]] — shared language: lake, mountains, trees
 - [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle b9d4031d|Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle]] — shared language: lake, mountains, landscape
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: lake, landscape
+- [[knowledge/wiki/images/Illustration Stylized Landscape Painting of Bay, Beach, Trees, and Mountains 37c94e8e|Illustration Stylized Landscape Painting of Bay, Beach, Trees, and Mountains]] — shared language: mountains, trees, landscape
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 <!-- vault-crosslinks:end -->

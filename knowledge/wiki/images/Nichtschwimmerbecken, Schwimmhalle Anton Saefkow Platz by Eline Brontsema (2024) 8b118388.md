@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Nichtschwimmerbe
 
 - [[knowledge/wiki/artists/Artist - Anton Josef Tr ka|Artist - Anton Josef Tr ka]] — shared language: anton
 - [[knowledge/wiki/artists/Artist - anton raphael mengs|Artist - anton raphael mengs]] — shared language: anton
-- [[knowledge/wiki/images/Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: anton
+- [[knowledge/wiki/images/Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 3119ee5a|Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: anton
 - [[knowledge/wiki/images/the allegory of the arts by anton raphael mengs c 1777 c08d18eb|the allegory of the arts by anton raphael mengs c 1777]] — shared language: anton
 - [[knowledge/wiki/images/portrait of ismael mengs by anton raphael mengs 1746 49 df2c5007|portrait of ismael mengs by anton raphael mengs 1746 49]] — shared language: anton
 <!-- vault-crosslinks:end -->

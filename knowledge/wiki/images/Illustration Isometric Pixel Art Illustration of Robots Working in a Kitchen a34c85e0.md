@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, pixel
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, pixel
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: working
 - [[knowledge/wiki/images/Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure 416df990|Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure]] — shared language: isometric, pixel
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: working
 <!-- vault-crosslinks:end -->

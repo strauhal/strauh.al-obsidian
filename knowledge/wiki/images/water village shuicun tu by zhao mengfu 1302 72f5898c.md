@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1300s/water_village_sh
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: village, water
 - [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: zhao
 - [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: village, water
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
+- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — shared language: zhao
 <!-- vault-crosslinks:end -->

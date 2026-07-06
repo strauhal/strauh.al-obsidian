@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Self-Portrait by
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Self Portrait by Florence Henri (1928) e010e059|Self Portrait by Florence Henri (1928)]] — named in this note
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self, florence
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self, florence, henri
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: henri

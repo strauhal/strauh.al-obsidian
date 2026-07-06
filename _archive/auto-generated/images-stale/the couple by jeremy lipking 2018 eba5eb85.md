@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[_archive/auto-generated/images-stale/the letter by jeremy lipking 2019 20c05f0a|the letter by jeremy lipking 2019]] — same artist: jeremy lipking
 - [[_archive/auto-generated/images-stale/antinous by jeremy lipking 2014 c36d38bc|antinous by jeremy lipking 2014]] — same artist: jeremy lipking
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: lipking, jeremy, couple
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2019|Artist - jeremy lipking 2019]] — shared language: lipking, jeremy
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/World's Columbia
 - [[knowledge/wiki/images/Photograph Black and White Photograph of World's Columbian Exposition, 1893 5eedd249|Photograph Black and White Photograph of World's Columbian Exposition, 1893]] — shared language: world's, columbian, exposition
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition 31303f2f|Photograph World's Columbian Exposition]] — shared language: world's, columbian, exposition
 - [[knowledge/wiki/images/Photograph Ferris Wheel at the World's Columbian Exposition 45c0fb8a|Photograph Ferris Wheel at the World's Columbian Exposition]] — shared language: world's, columbian, exposition
-- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, chicago, exposition
+- [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: columbian, exposition, chicago
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts 5258293c|Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts]] — shared language: world's, columbian, exposition
 <!-- vault-crosslinks:end -->

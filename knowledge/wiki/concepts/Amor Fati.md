@@ -112,6 +112,6 @@ reignited" and he reframes the despair as what gave the year its meaning.
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — shared language: nick
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
 - [[knowledge/wiki/images/smoke by nick knight 1998 fc8af2e3|smoke by nick knight 1998]] — shared language: nick
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: nick
 - [[knowledge/wiki/images/Mezzanine by Nick Knight (1998) 944080b8|Mezzanine by Nick Knight (1998)]] — shared language: nick
 - [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — shared language: nick

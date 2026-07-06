@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern 1b372088|Illustration Abstract Painting with Dense Red and Blue Pixelated Pattern]] — shared language: dense, pattern
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: pattern
 - [[knowledge/wiki/images/Illustration Dense White Scribbles on a Black Background c6ba8a41|Illustration Dense White Scribbles on a Black Background]] — shared language: dense, background
-- [[knowledge/wiki/images/Illustration Abstract Painting Of Dense Orange Marks On Black Background 47531862|Illustration Abstract Painting Of Dense Orange Marks On Black Background]] — shared language: dense, background, background.jpeg
 <!-- vault-crosslinks:end -->

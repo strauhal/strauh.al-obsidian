@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book 5f7f4db6|Photograph Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book]] — shared language: scooter, person
+- [[knowledge/wiki/images/Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book e595a1b8|Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book]] — shared language: scooter, person
+- [[_archive/auto-generated/images-stale/Photograph Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book 5f7f4db6|Photograph Person on Scooter Holding 'Hegel's Phenomenology of Spirit' Book]] — shared language: scooter, person
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 <!-- vault-crosslinks:end -->

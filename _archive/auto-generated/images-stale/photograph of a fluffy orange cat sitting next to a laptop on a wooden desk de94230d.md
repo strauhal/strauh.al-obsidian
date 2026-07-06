@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, laptop, wooden
+- [[knowledge/wiki/images/Fluffy Orange Cat Next To Laptop On Wooden Desk ffe94cb4|Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, laptop, wooden
+- [[_archive/auto-generated/images-stale/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: fluffy, laptop, wooden
 - [[_archive/auto-generated/images-stale/photograph of a black cat and an orange cat near a laptop 25bc633f|photograph of a black cat and an orange cat near a laptop]] — shared language: laptop, cat, orange
-- [[knowledge/wiki/images/Photograph Modern Wooden L Shaped Desk with Laptop and Chair 4762927b|Photograph Modern Wooden L Shaped Desk with Laptop and Chair]] — shared language: laptop, desk, wooden
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: fluffy, cat, orange
-- [[_archive/auto-generated/images-stale/fluffy orange cat wearing a wizard hat and holding a staff in a dark setting c8f34c2c|fluffy orange cat wearing a wizard hat and holding a staff in a dark setting]] — shared language: fluffy, cat, orange
+- [[knowledge/wiki/images/Modern Wooden L Shaped Desk with Laptop and Chair 8366fcfb|Modern Wooden L Shaped Desk with Laptop and Chair]] — shared language: laptop, desk, wooden
+- [[_archive/auto-generated/images-stale/Photograph Modern Wooden L Shaped Desk with Laptop and Chair 4762927b|Photograph Modern Wooden L Shaped Desk with Laptop and Chair]] — shared language: laptop, desk, wooden
 <!-- vault-crosslinks:end -->

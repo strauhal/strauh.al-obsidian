@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Waiting Room
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
-- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 - [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
+- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 - [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
 <!-- vault-crosslinks:end -->

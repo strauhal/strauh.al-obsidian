@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Man
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/images/Photograph People Dining With Empire State Building View At Night 1032f775|Photograph People Dining With Empire State Building View At Night]] — shared language: dining
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/People Dining With Empire State Building View At Night 455fe04a|People Dining With Empire State Building View At Night]] — shared language: dining
 - [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: projected
-- [[knowledge/wiki/images/Photograph Modern Apartment Interior with Kitchen, Dining, and Living Areas 804a074f|Photograph Modern Apartment Interior with Kitchen, Dining, and Living Areas]] — shared language: dining
-- [[knowledge/wiki/images/Photograph Three Young People at Night, Two Kissing, One Alone 187dbbf6|Photograph Three Young People at Night, Two Kissing, One Alone]] — shared language: alone
+- [[knowledge/wiki/images/Modern Apartment Interior with Kitchen, Dining, and Living Areas 40d39ab1|Modern Apartment Interior with Kitchen, Dining, and Living Areas]] — shared language: dining
+- [[knowledge/wiki/images/Three Young People at Night, Two Kissing, One Alone c5cc7d6b|Three Young People at Night, Two Kissing, One Alone]] — shared language: alone
 <!-- vault-crosslinks:end -->

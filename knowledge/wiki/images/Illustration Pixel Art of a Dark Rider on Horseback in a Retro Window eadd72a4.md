@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Oil Painting of Rider on Horseback in Desert Canyon e2a1a40a|Illustration Oil Painting of Rider on Horseback in Desert Canyon]] — shared language: rider, horseback
 - [[knowledge/wiki/images/Illustration Native American Rider On Horseback With Tipis At Sunset 9c26a078|Illustration Native American Rider On Horseback With Tipis At Sunset]] — shared language: rider, horseback
 - [[knowledge/wiki/images/Illustration Pixelated Knight in Retro Computer Window 057d6713|Illustration Pixelated Knight in Retro Computer Window]] — shared language: retro, window
-- [[knowledge/wiki/images/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: rider, horseback
+- [[knowledge/wiki/images/Rider On Horseback Herding Cattle In Deep Snow 86458c0c|Rider On Horseback Herding Cattle In Deep Snow]] — shared language: rider, horseback
 <!-- vault-crosslinks:end -->

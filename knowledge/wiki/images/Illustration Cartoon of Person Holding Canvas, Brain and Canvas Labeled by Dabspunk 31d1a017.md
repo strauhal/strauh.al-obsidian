@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: canvas
 - [[knowledge/wiki/books/consanguinity-on-the-canvas-studying-inbreeding-in-the-habsburg|Consanguinity on the Canvas Studying Inbreeding in the Habsburg]] — shared language: canvas
 - [[knowledge/wiki/images/Illustration Abstract Blue Shapes on Dark Canvas 05b5effb|Illustration Abstract Blue Shapes on Dark Canvas]] — shared language: canvas
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[knowledge/wiki/images/Illustration Cartoon Girl Holding Green Umbrella 3625c4df|Illustration Cartoon Girl Holding Green Umbrella]] — shared language: cartoon, holding
 <!-- vault-crosslinks:end -->

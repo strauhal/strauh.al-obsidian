@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: minimalist, ten, drawings
+- [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: ten, minimalist, drawings
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, various
 - [[_archive/auto-generated/images-stale/grid of thirty black ink line drawings depicting various architectural and landscape scenes cee5ec0b|grid of thirty black ink line drawings depicting various architectural and landscape scenes]] — shared language: various, depicting, drawings
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Human Figures in Various Poses on a Board 891c6413|Illustration Pencil Sketches of Human Figures in Various Poses on a Board]] — shared language: poses, various, human

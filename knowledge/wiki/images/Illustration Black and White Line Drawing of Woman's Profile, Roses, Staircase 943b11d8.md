@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Line Drawing of Woman's Bust in Profile 8cdef8ee|Illustration Line Drawing of Woman's Bust in Profile]] — shared language: woman's, profile, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: woman's, line
 - [[knowledge/wiki/images/Illustration Black and White Print of Woman's Head in Profile 76352d99|Illustration Black and White Print of Woman's Head in Profile]] — shared language: woman's, profile
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase
 - [[knowledge/wiki/images/Illustration Oil Painting of Woman's Profile Against Dark Red Background 6398b101|Illustration Oil Painting of Woman's Profile Against Dark Red Background]] — shared language: woman's, profile
-- [[knowledge/wiki/images/Illustration Continuous Line Drawing of a Woman's Portrait a6fa823f|Illustration Continuous Line Drawing of a Woman's Portrait]] — shared language: woman's, line
 <!-- vault-crosslinks:end -->

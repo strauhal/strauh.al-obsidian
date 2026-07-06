@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - kiyoshi hasegawa|Artist - kiyoshi hasegawa]] — named in this note
 - [[knowledge/wiki/images/Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face 1bf392d3|Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face]] — shared language: half
 - [[_archive/auto-generated/images-stale/black and white photograph of a woman half dressed in a white suit and half in knight armor 95838e9e|black and white photograph of a woman half dressed in a white suit and half in knight armor]] — shared language: half
-- [[knowledge/wiki/images/Photograph Woman Half Dressed In White Suit And Half In Knight Armor 8e70c66a|Photograph Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
+- [[_archive/auto-generated/images-stale/Photograph Woman Half Dressed In White Suit And Half In Knight Armor 8e70c66a|Photograph Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
+- [[knowledge/wiki/images/Woman Half Dressed In White Suit And Half In Knight Armor bed3ba6e|Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
 - [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
-- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo, people, wall
-- [[knowledge/wiki/images/Photograph Two People Posing With Firearms Against Patterned Wall c6e3b74d|Photograph Two People Posing With Firearms Against Patterned Wall]] — shared language: people, wall, against
+- [[knowledge/wiki/images/Portrait Photo of Two People Against a Wall 1590b907|Portrait Photo of Two People Against a Wall]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo, people, wall
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/moody photo of red flowers against dark background 8cd00314|moody photo of red flowers against dark background]] — shared language: photo, against
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
+- [[_archive/auto-generated/images-stale/Photograph Two People Posing With Firearms Against Patterned Wall c6e3b74d|Photograph Two People Posing With Firearms Against Patterned Wall]] — shared language: people, wall, against
 <!-- vault-crosslinks:end -->

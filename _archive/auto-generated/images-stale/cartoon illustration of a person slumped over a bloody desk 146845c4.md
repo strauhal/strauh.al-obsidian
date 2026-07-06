@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: slumped, bloody, desk
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: desk
 - [[knowledge/wiki/images/Illustration Art Installation with Painting, Standing Figure on Board, and Slumped Figure 3c02f36d|Illustration Art Installation with Painting, Standing Figure on Board, and Slumped Figure]] — shared language: slumped
 - [[_archive/auto-generated/images-stale/photo of a person working at a computer desk c5adddcd|photo of a person working at a computer desk]] — shared language: desk, person, desk.jpg
-- [[knowledge/wiki/images/Photograph Man With Bloody Mouth Holding Clear Sheet 577021e2|Photograph Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
-- [[knowledge/wiki/images/Illustration Person Stretching At Desk In Sunlit Room 9677e863|Illustration Person Stretching At Desk In Sunlit Room]] — shared language: desk, person
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
 <!-- vault-crosslinks:end -->

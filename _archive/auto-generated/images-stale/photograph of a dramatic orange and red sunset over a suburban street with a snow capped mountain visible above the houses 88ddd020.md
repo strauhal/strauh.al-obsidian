@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Dramatic Orange And Red Sunset Over Suburban Street With Mountain dc71b162|Photograph Dramatic Orange And Red Sunset Over Suburban Street With Mountain]] — shared language: dramatic, suburban, mountain
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: suburban, street, above
-- [[knowledge/wiki/images/Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections e04fb73f|Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections]] — shared language: capped, snow, mountain
+- [[knowledge/wiki/images/Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections e04fb73f|Photograph Snow capped Mountain Over Dark, Blurry Foreground with Light Reflections]] — shared language: capped, mountain, snow
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, houses
+- [[knowledge/wiki/images/Photograph Muted Toned Image of Suburban Houses and Garages a81160cc|Photograph Muted Toned Image of Suburban Houses and Garages]] — shared language: suburban, houses
 - [[_archive/auto-generated/images-stale/photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset 1884128e|photograph of a large historic fortress complex on a hill with snow capped mountains in the background at sunset]] — shared language: capped, snow, sunset
 <!-- vault-crosslinks:end -->

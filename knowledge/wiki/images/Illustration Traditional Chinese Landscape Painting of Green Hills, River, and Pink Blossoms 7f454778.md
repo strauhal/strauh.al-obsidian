@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: chinese, landscape
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape, chinese
 - [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river, blossoms
 - [[knowledge/wiki/images/Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng 536f22ca|Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng]] — shared language: blossoms, traditional, chinese
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, green

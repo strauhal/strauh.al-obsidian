@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Jan Van Haasteren|Artist - Jan Van Haasteren]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan van haasteren 2008|Artist - jan van haasteren 2008]] — named in this note
 - [[_archive/auto-generated/images-stale/the art market by jan van haasteren 2008 3e62068f|the art market by jan van haasteren 2008]] — shared language: haasteren, jan, van
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan van eyck 1434|Artist - jan van eyck 1434]] — shared language: jan, van
-- [[knowledge/wiki/artists/Artist - jan van huysum|Artist - jan van huysum]] — shared language: jan, van
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: busy, many, scene
 <!-- vault-crosslinks:end -->

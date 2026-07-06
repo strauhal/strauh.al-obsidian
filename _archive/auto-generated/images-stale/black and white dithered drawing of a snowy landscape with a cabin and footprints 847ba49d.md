@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints ad1d2af9|Illustration Black And White Dithered Snowy Landscape With Cabin And Footprints]] — shared language: footprints, cabin, dithered
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[_archive/auto-generated/images-stale/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
 - [[_archive/auto-generated/images-stale/blue dithered noise image 015ba2c5|blue dithered noise image]] — shared language: dithered
-- [[knowledge/wiki/images/Photograph Man Standing Next To A Brown Cabin In A Forest cadf0dc3|Photograph Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
-- [[_archive/auto-generated/images-stale/black and white pixel art drawing of a snowy landscape with a winding road 19dd5c8c|black and white pixel art drawing of a snowy landscape with a winding road]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Man Standing Next To A Brown Cabin In A Forest 7a06523c|Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The New Jim Crow]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The New Jim Crow.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The New Jim Crow: Mass Incarceration in the Age of Colorblindness

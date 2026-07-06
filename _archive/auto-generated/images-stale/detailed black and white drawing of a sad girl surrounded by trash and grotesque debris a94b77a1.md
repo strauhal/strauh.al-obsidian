@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris d8f01c79|Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris]] — shared language: trash, debris, sad
+- [[knowledge/wiki/images/Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris d8f01c79|Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris]] — shared language: trash, sad, debris
 - [[_archive/auto-generated/images-stale/pencil drawing of a sad girl with a skull shirt surrounded by chaotic grotesque imagery and debris 035bdcac|pencil drawing of a sad girl with a skull shirt surrounded by chaotic grotesque imagery and debris]] — shared language: debris, sad, grotesque
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — shared language: debris, grotesque, sad
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, trash
 - [[knowledge/wiki/images/Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery 64d7c25f|Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery]] — shared language: sad, grotesque, surrounded
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris
 <!-- vault-crosslinks:end -->

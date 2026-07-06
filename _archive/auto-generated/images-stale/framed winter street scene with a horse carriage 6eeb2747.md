@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
-- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, street, framed
-- [[_archive/auto-generated/images-stale/framed small town street scene with stop sign ce2c6373|framed small town street scene with stop sign]] — shared language: scene, street, framed
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
+- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, framed, street
+- [[_archive/auto-generated/images-stale/framed small town street scene with stop sign ce2c6373|framed small town street scene with stop sign]] — shared language: scene, framed, street
+- [[_archive/auto-generated/images-stale/framed city street scene with theater marquee at night 1419bb80|framed city street scene with theater marquee at night]] — shared language: scene, framed, street
 - [[knowledge/wiki/images/winter street by charles burchfield 1933 9dbe22f6|winter street by charles burchfield 1933]] — shared language: winter, street
-- [[_archive/auto-generated/images-stale/framed city street scene with theater marquee at night 1419bb80|framed city street scene with theater marquee at night]] — shared language: scene, street, framed
 <!-- vault-crosslinks:end -->

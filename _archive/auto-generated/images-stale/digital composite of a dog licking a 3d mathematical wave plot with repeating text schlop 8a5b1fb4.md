@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text 2e75c4da|Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text]] — shared language: licking, schlop, plot
+- [[knowledge/wiki/images/Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text 2e75c4da|Image Dog Licking Colorful 3D Wave Plot With Repeating 'Schlop' Text]] — shared language: schlop, licking, repeating
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital composite of a red sedan and a woman s eyes 2a447679|digital composite of a red sedan and a woman s eyes]] — shared language: composite, digital
+- [[knowledge/wiki/images/Black and White Photo of Woman Licking Man in Balaclava 7b84f081|Black and White Photo of Woman Licking Man in Balaclava]] — shared language: licking
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
-- [[_archive/auto-generated/images-stale/black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]] — shared language: wave
 <!-- vault-crosslinks:end -->

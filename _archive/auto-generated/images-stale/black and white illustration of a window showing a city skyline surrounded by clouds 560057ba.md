@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: skyline, clouds, showing
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: clouds, skyline, showing
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/archive/auto-generated/artists-stale/Artist - radiating light and clouds|Artist - radiating light and clouds]] — shared language: clouds, surrounded
+- [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: clouds, clouds.jpeg
+- [[_archive/auto-generated/images-stale/ink drawing of a human eye surrounded by radiating light and clouds 239ae923|ink drawing of a human eye surrounded by radiating light and clouds]] — shared language: clouds, surrounded
 <!-- vault-crosslinks:end -->

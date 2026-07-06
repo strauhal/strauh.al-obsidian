@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: nike, ruins
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: nike
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
-- [[knowledge/wiki/images/Comic Three Figures In Ruins Under Dark Sky 80e5d8e8|Comic Three Figures In Ruins Under Dark Sky]] — shared language: ruins
 - [[knowledge/wiki/images/athena restraining achilles by john flaxman c 1793 1794 0f549aa6|athena restraining achilles by john flaxman c 1793 1794]] — shared language: athena
+- [[knowledge/wiki/images/Comic Three Figures In Ruins Under Dark Sky 80e5d8e8|Comic Three Figures In Ruins Under Dark Sky]] — shared language: ruins
+- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 <!-- vault-crosslinks:end -->

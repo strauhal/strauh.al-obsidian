@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/allegory of the planets and continents met 1977 1 3 jpg 88f05de9|allegory of the planets and continents met 1977 1 3 jpg]] — shared language: met, jpg.jpg
 - [[_archive/auto-generated/images-stale/allegory of the planets and continents met 1977 1defebf3|allegory of the planets and continents met 1977]] — shared language: met
 - [[knowledge/wiki/images/1922 434 the place du havre paris jpg de2bd35e|1922 434 the place du havre paris jpg]] — shared language: paris, jpg.jpg
-- [[knowledge/wiki/images/franois schuiten paris the vortex 1989 075443f7|franois schuiten paris the vortex 1989]] — shared language: paris
+- [[_archive/auto-generated/images-stale/cityscape painting of paris rooftops under clouds 01da090c|cityscape painting of paris rooftops under clouds]] — shared language: paris
 <!-- vault-crosslinks:end -->

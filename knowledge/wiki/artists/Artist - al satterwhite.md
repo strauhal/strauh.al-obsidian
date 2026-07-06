@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Bob Thompson|Artist - Bob Thompson]] — shared language: thompson
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: typewriter
 - [[knowledge/wiki/artists/Artist - Hunter Biden|Artist - Hunter Biden]] — shared language: hunter
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson 766f6715|Illustration Stylized Landscape with Figures Carrying Objects by Bob Thompson]] — shared language: thompson
 - [[knowledge/wiki/artists/Artist - elizabeth thompson lady butler|Artist - elizabeth thompson lady butler]] — shared language: thompson
-- [[knowledge/wiki/images/Photograph Typed Message on Paper in a Typewriter 8565e917|Photograph Typed Message on Paper in a Typewriter]] — shared language: typewriter
+- [[knowledge/wiki/images/Chimpanzee Seated At Typewriter On Wooden Table 86535bd0|Chimpanzee Seated At Typewriter On Wooden Table]] — shared language: typewriter
+- [[knowledge/wiki/images/hunter by ilya repin 1877 a441470f|hunter by ilya repin 1877]] — shared language: hunter
 <!-- vault-crosslinks:end -->

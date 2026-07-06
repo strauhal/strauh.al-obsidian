@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: wes
 - [[knowledge/wiki/books/yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]] — shared language: wilson, golden
 - [[knowledge/wiki/images/Document Black and White Newspaper Clipping with Mookie Wilson Quote 6b795e5d|Document Black and White Newspaper Clipping with Mookie Wilson Quote]] — shared language: wilson
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge Towers Under Construction 68c8ac5c|Photograph Golden Gate Bridge Towers Under Construction]] — shared language: gate, golden, bridge
+- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: wes
 <!-- vault-crosslinks:end -->

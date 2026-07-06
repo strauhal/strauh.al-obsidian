@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Albert Camus|Artist - Albert Camus]] — shared language: albert
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — shared language: albert
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: albert
-- [[knowledge/wiki/images/albert camus 509478c6|albert camus]] — shared language: albert
+- [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: albert
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Crouching Hairless Cat with Glowing Eyes Against Purple Floral Background 96054b16|Illustration Crouching Hairless Cat with Glowing Eyes Against Purple Floral Background]] — shared language: hairless, crouching, floral
-- [[knowledge/wiki/images/Photograph Hairless Dog with Pointed Ears Sitting 5bfdc312|Photograph Hairless Dog with Pointed Ears Sitting]] — shared language: hairless, ears
+- [[knowledge/wiki/images/Hairless Dog with Pointed Ears Sitting b2b5e91d|Hairless Dog with Pointed Ears Sitting]] — shared language: hairless, ears
+- [[_archive/auto-generated/images-stale/Photograph Hairless Dog with Pointed Ears Sitting 5bfdc312|Photograph Hairless Dog with Pointed Ears Sitting]] — shared language: hairless, ears
 - [[knowledge/wiki/images/Illustration Girl With Cat Ears Holding Black Cat With Red Eyes 5d1953cd|Illustration Girl With Cat Ears Holding Black Cat With Red Eyes]] — shared language: ears, cat
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral, background, background.jpeg
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, background
 <!-- vault-crosslinks:end -->

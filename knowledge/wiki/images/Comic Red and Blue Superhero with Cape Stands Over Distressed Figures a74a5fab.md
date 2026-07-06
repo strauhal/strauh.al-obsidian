@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Red a
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: stands
-- [[knowledge/wiki/images/Illustration Person Stands Between Two Lines Of Walking Robots 865c1fd8|Illustration Person Stands Between Two Lines Of Walking Robots]] — shared language: stands
 - [[knowledge/wiki/images/illustration of a distressed blonde woman and a man in a suit 1966 db86914a|illustration of a distressed blonde woman and a man in a suit 1966]] — shared language: distressed
+- [[knowledge/wiki/images/Illustration Person Stands Between Two Lines Of Walking Robots 865c1fd8|Illustration Person Stands Between Two Lines Of Walking Robots]] — shared language: stands
 - [[knowledge/wiki/images/cape cod morning by edward hopper 1950 bc6eadd6|cape cod morning by edward hopper 1950]] — shared language: cape
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, icon
 - [[knowledge/wiki/images/Illustration Byzantine Style Icon of Virgin Mary in Red Veil 7f905f23|Illustration Byzantine Style Icon of Virgin Mary in Red Veil]] — shared language: icon, mary, virgin
-- [[_archive/auto-generated/images-stale/circular icon depicting the nativity scene in red and blue f6bd885b|circular icon depicting the nativity scene in red and blue]] — shared language: icon, circular
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin
 - [[_archive/auto-generated/images-stale/byzantine style icon of the virgin mary in a red veil with gold leaf background cbed8b70|byzantine style icon of the virgin mary in a red veil with gold leaf background]] — shared language: icon, mary, virgin
+- [[_archive/auto-generated/images-stale/circular icon depicting the nativity scene in red and blue f6bd885b|circular icon depicting the nativity scene in red and blue]] — shared language: icon, circular
 - [[_archive/auto-generated/images-stale/icon of the virgin mary and christ child giving the rosary to saint dominic eadf6b70|icon of the virgin mary and christ child giving the rosary to saint dominic]] — shared language: icon, mary, virgin
 <!-- vault-crosslinks:end -->

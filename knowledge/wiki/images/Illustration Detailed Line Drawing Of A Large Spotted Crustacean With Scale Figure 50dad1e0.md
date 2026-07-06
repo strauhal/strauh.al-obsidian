@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
-- [[knowledge/wiki/images/Photograph DECtalk DTC01 with Cat for Scale 09a20f16|Photograph DECtalk DTC01 with Cat for Scale]] — shared language: scale
 - [[knowledge/wiki/images/Illustration Seamless Pattern of Green Spotted Frogs and Lizards on Black c9ee0bda|Illustration Seamless Pattern of Green Spotted Frogs and Lizards on Black]] — shared language: spotted
+- [[knowledge/wiki/images/DECtalk DTC01 with Cat for Scale 668e6eea|DECtalk DTC01 with Cat for Scale]] — shared language: scale
 - [[knowledge/wiki/images/Illustration Line Drawing of Large Quadrupedal Machine and Small Human Figure 39486019|Illustration Line Drawing of Large Quadrupedal Machine and Small Human Figure]] — shared language: line, large, figure.png
+- [[knowledge/wiki/images/Illustration Detailed Line Drawing of the Buddhist Wheel of Samsara Mandala b4857560|Illustration Detailed Line Drawing of the Buddhist Wheel of Samsara Mandala]] — shared language: detailed, line
 - [[knowledge/wiki/images/Diagram Typographic Scale Showing Letter 'a' in Various Point Sizes a7b39d96|Diagram Typographic Scale Showing Letter 'a' in Various Point Sizes]] — shared language: scale
 <!-- vault-crosslinks:end -->

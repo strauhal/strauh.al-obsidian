@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: tall
 - [[_archive/auto-generated/books-stale/ranciere-the-monument-and-its-confidences|ranciere the monument and its confidences]] — shared language: monument
 - [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: monument
 - [[_archive/auto-generated/images-stale/abstract painting with black spray marks on light background 3a0b1f35|abstract painting with black spray marks on light background]] — shared language: spray
-- [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: spray
-- [[knowledge/wiki/images/Girl at a Fountain by L on Bonnat (1875) 093c2dac|Girl at a Fountain by L on Bonnat (1875)]] — shared language: fountain
 <!-- vault-crosslinks:end -->

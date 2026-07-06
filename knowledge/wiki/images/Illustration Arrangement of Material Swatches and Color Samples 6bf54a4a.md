@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Flat Lay of Various Textile and Material Samples and Color Swatches fa5b5c5f|Photograph Flat Lay of Various Textile and Material Samples and Color Swatches]] — shared language: samples, swatches, material
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: swatches, color
+- [[knowledge/wiki/images/Flat Lay of Various Textile and Material Samples and Color Swatches 2fd9efa0|Flat Lay of Various Textile and Material Samples and Color Swatches]] — shared language: samples, swatches, material
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: swatches, color, material
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: samples
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: samples

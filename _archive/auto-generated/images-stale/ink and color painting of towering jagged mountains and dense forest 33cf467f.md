@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense, mountains
 - [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Jagged Lines b32c721b|Illustration Abstract Black And White Figure With Jagged Lines]] — shared language: jagged
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: jagged, color
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
 <!-- vault-crosslinks:end -->

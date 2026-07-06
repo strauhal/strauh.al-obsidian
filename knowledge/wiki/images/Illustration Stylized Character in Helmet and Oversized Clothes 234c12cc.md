@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Character Head Studies With Helmet And Upward Gazing Expressions 122aa508|Illustration Character Head Studies With Helmet And Upward Gazing Expressions]] — shared language: helmet, character
 - [[knowledge/wiki/images/Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet 39d0fedf|Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet]] — shared language: helmet
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
-- [[knowledge/wiki/images/Photograph Man In White Clothes Sitting On Railing Next To Motorcycle fa4ea67c|Photograph Man In White Clothes Sitting On Railing Next To Motorcycle]] — shared language: clothes
+- [[knowledge/wiki/images/Illustration Stylized Character Parts with Floral and Geometric Motifs 8e992f5c|Illustration Stylized Character Parts with Floral and Geometric Motifs]] — shared language: character, stylized
 <!-- vault-crosslinks:end -->

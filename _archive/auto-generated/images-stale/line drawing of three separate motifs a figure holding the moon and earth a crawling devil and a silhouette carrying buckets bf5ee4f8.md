@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Line Drawings of Figure, Devil, and Silhouette with Buckets fc76185f|Illustration Line Drawings of Figure, Devil, and Silhouette with Buckets]] — shared language: buckets, devil, silhouette
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Photograph Installation View of Three Abstract Paintings with Dot and Line Motifs 53ccc091|Photograph Installation View of Three Abstract Paintings with Dot and Line Motifs]] — shared language: motifs, three, line
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[_archive/auto-generated/images-stale/installation view of three square abstract paintings with dot and line motifs 523c1734|installation view of three square abstract paintings with dot and line motifs]] — shared language: motifs, three, line
-- [[knowledge/archive/auto-generated/artists-stale/Artist - floral motifs|Artist - floral motifs]] — shared language: motifs, three
 <!-- vault-crosslinks:end -->

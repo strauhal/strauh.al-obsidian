@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — named in this note
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, trees, lamp
-- [[knowledge/wiki/images/Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]] — shared language: dusk, trees, lamp
+- [[_archive/auto-generated/images-stale/Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]] — shared language: dusk, trees, lamp
+- [[knowledge/wiki/images/Street Lamp And Archway Framed By Trees At Dusk c2490ab8|Street Lamp And Archway Framed By Trees At Dusk]] — shared language: dusk, trees, lamp
 - [[_archive/auto-generated/images-stale/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale, trees, framed
-- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: pale, sky, against
-- [[_archive/auto-generated/images-stale/photograph of a large murmuration of birds against a pale blue and orange sky c08df1bc|photograph of a large murmuration of birds against a pale blue and orange sky]] — shared language: pale, sky, against
+- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: pale, against, sky
 <!-- vault-crosslinks:end -->

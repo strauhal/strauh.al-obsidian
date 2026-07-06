@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/mural in progress of horizontal colored lines on a brick wall 5ea7aa7e|mural in progress of horizontal colored lines on a brick wall]] — shared language: progress, mural, horizontal
-- [[knowledge/wiki/images/Photograph Person Painting Horizontal Colored Lines on a Brick Wall 3162d328|Photograph Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: horizontal, brick, colored
+- [[knowledge/wiki/images/Person Painting Horizontal Colored Lines on a Brick Wall bbf9f2c6|Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: horizontal, brick, colored
+- [[_archive/auto-generated/images-stale/Photograph Person Painting Horizontal Colored Lines on a Brick Wall 3162d328|Photograph Person Painting Horizontal Colored Lines on a Brick Wall]] — shared language: horizontal, brick, colored
 - [[knowledge/wiki/images/Photograph Man Painting Wavy Lines On Brick Wall With Roller 3985a611|Photograph Man Painting Wavy Lines On Brick Wall With Roller]] — shared language: brick, wall, lines
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick, wall
-- [[knowledge/wiki/images/Illustration Black, White, And Grey Geometric Op Art Wall Mural aaeef571|Illustration Black, White, And Grey Geometric Op Art Wall Mural]] — shared language: mural, wall
 <!-- vault-crosslinks:end -->

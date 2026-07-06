@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed painting of a red reclining nude in flowers 64bdff46|framed painting of a red reclining nude in flowers]] — shared language: reclining, nude, framed
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining, nude
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude, reclining
-- [[_archive/auto-generated/images-stale/framed portrait of a woman in a patterned yellow dress ed445186|framed portrait of a woman in a patterned yellow dress]] — shared language: patterned, framed
+- [[_archive/auto-generated/images-stale/painting of a reclining blonde nude reading c6d76965|painting of a reclining blonde nude reading]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

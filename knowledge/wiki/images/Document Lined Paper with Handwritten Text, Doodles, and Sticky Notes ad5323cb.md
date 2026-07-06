@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Li
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: lined, handwritten, paper
+- [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: handwritten, lined, paper
 - [[knowledge/wiki/images/Photograph Wall Text 'Who Is Your Muse ' With Sticky Notes 845e1380|Photograph Wall Text 'Who Is Your Muse ' With Sticky Notes]] — shared language: sticky, text, notes.jpeg
 - [[knowledge/wiki/images/Illustration Sketch Of A Figure On Horseback On Lined Paper 93013978|Illustration Sketch Of A Figure On Horseback On Lined Paper]] — shared language: lined, paper
 - [[knowledge/wiki/images/Illustration Framed Sheet Of Paper With Blue Ink Sketches And Handwritten Notes c2fc1be4|Illustration Framed Sheet Of Paper With Blue Ink Sketches And Handwritten Notes]] — shared language: handwritten, paper, notes.jpeg

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Japanese Advertisement for IBM ThinkPad 535E Laptop 05c11aff|Illustration Japanese Advertisement for IBM ThinkPad 535E Laptop]] — named in this note
-- [[knowledge/wiki/images/Photograph Portrait of a Woman in a White Suit and Gloves 952af92f|Photograph Portrait of a Woman in a White Suit and Gloves]] — shared language: gloves
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
 - [[knowledge/wiki/artists/Artist - IBM|Artist - IBM]] — shared language: ibm
+- [[_archive/auto-generated/images-stale/Photograph Portrait of a Woman in a White Suit and Gloves 952af92f|Photograph Portrait of a Woman in a White Suit and Gloves]] — shared language: gloves
+- [[knowledge/wiki/images/Portrait of a Woman in a White Suit and Gloves a4380bde|Portrait of a Woman in a White Suit and Gloves]] — shared language: gloves
 <!-- vault-crosslinks:end -->

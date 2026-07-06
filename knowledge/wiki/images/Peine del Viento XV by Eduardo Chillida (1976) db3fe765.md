@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Peine del Viento
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - eduardo paolozzi|Artist - eduardo paolozzi]] — shared language: eduardo
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del
 - [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: del
 - [[knowledge/wiki/images/forever for old lady sally by eduardo paolozzi 1971 19c9df63|forever for old lady sally by eduardo paolozzi 1971]] — shared language: eduardo
 - [[knowledge/wiki/artists/Artist - piero del pollaiuolo|Artist - piero del pollaiuolo]] — shared language: del
+- [[knowledge/wiki/artists/Artist - andrea del sarto|Artist - andrea del sarto]] — shared language: del
 <!-- vault-crosslinks:end -->

@@ -40,9 +40,9 @@ Files: 6
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, megan, benjamin
 - [[knowledge/wiki/images/Illustration Charcoal Portraits of an Elderly Man and Woman e814e9e5|Illustration Charcoal Portraits of an Elderly Man and Woman]] — shared language: portraits
-- [[knowledge/wiki/images/Photograph Two Gravestones with Etched Portraits and Mementos in Cemetery 78ac91d3|Photograph Two Gravestones with Etched Portraits and Mementos in Cemetery]] — shared language: portraits
 - [[knowledge/wiki/images/Illustration Black and White Stipple Drawing of Draped Figure, QR Code, Two Portraits 254744b6|Illustration Black and White Stipple Drawing of Draped Figure, QR Code, Two Portraits]] — shared language: portraits
 - [[knowledge/wiki/images/Document Black And White Portraits Of Christopher And Gordon Schumacher d0f61ccd|Document Black And White Portraits Of Christopher And Gordon Schumacher]] — shared language: portraits
-- [[knowledge/wiki/images/Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits 05c0d472|Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: portraits
-- [[knowledge/wiki/images/Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson 748f2929|Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson]] — shared language: portraits
+- [[knowledge/wiki/images/Open Book Rock Art Reproduction and Four Indigenous Portraits 5a82bf93|Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: portraits
+- [[knowledge/wiki/images/Two Gravestones with Etched Portraits and Mementos in Cemetery 55fb8007|Two Gravestones with Etched Portraits and Mementos in Cemetery]] — shared language: portraits
+- [[knowledge/wiki/images/Black and White Portraits of Young and Older Steve Jobs by Albert Watson 2feee9b0|Black and White Portraits of Young and Older Steve Jobs by Albert Watson]] — shared language: portraits
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: drive
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: drive
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: drive
-- [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
 <!-- vault-crosslinks:end -->

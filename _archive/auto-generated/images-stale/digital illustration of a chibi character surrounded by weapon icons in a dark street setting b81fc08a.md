@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - Weapon Icons In Dark Street|Artist - Weapon Icons In Dark Street]] — named in this note
 - [[knowledge/wiki/images/Illustration Chibi Character Surrounded By Weapon Icons In Dark Street a386ebd7|Illustration Chibi Character Surrounded By Weapon Icons In Dark Street]] — shared language: weapon, chibi, icons
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/archive/auto-generated/artists-stale/Artist - early macintosh icons|Artist - early macintosh icons]] — shared language: icons, surrounded
-- [[knowledge/wiki/images/Illustration Abstract Black And White Brushstroke Figure Holding A Weapon d9f7a457|Illustration Abstract Black And White Brushstroke Figure Holding A Weapon]] — shared language: weapon
 <!-- vault-crosslinks:end -->

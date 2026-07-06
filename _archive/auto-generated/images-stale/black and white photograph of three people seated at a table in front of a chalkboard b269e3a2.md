@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: chalkboard
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: people
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
+- [[knowledge/wiki/images/Screenshot Three People Sitting Around Table in Studio Setting 4276e7c1|Screenshot Three People Sitting Around Table in Studio Setting]] — shared language: table, people, three
+- [[_archive/auto-generated/images-stale/photograph of three people sitting on chairs around a table in a studio setting a45c588b|photograph of three people sitting on chairs around a table in a studio setting]] — shared language: table, people, three
 <!-- vault-crosslinks:end -->

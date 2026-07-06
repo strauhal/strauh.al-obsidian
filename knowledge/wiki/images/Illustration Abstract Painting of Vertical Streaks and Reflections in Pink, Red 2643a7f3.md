@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract White Streaks Forming a Vertical Structure on a Blue Background 605e1f35|Illustration Abstract White Streaks Forming a Vertical Structure on a Blue Background]] — shared language: streaks, vertical
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vertical Green and Yellow Strokes on Pink Background df94bda5|Illustration Abstract Painting with Vertical Green and Yellow Strokes on Pink Background]] — shared language: vertical, pink
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vertical Strokes on Pink and Reddish Background dce8aa42|Illustration Abstract Painting with Vertical Strokes on Pink and Reddish Background]] — shared language: vertical, pink
-- [[knowledge/wiki/images/reflections on expressionist painting by roy lichtenstein 1990 af1a5d0e|reflections on expressionist painting by roy lichtenstein 1990]] — shared language: reflections
+- [[knowledge/wiki/images/Illustration Abstract White Streaks Suggesting Architecture on Blue Background 14e19d2d|Illustration Abstract White Streaks Suggesting Architecture on Blue Background]] — shared language: streaks
 <!-- vault-crosslinks:end -->

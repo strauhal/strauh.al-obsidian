@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Montage of Chinese Historical Figures and Naval Battle ae4caa77|Illustration Montage of Chinese Historical Figures and Naval Battle]] — shared language: naval, historical, chinese
 - [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: historical, scene
 - [[knowledge/wiki/images/Diagram Historical Chinese Acupuncture Meridian Diagram 3c3adb25|Diagram Historical Chinese Acupuncture Meridian Diagram]] — shared language: historical, chinese
-- [[knowledge/wiki/images/Photograph Multiple Cars Burning on Street with Thick Black Smoke 1bccbd24|Photograph Multiple Cars Burning on Street with Thick Black Smoke]] — shared language: burning, multiple
-- [[knowledge/wiki/images/Photograph Multiple Cars Burning on a Street with Thick Smoke daaec58c|Photograph Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, multiple
+- [[_archive/auto-generated/images-stale/classical harbor scene with ruins and sailing ships c8b7e9ff|classical harbor scene with ruins and sailing ships]] — shared language: ships, scene, ships.jpg
+- [[knowledge/wiki/images/Multiple Cars Burning on a Street with Thick Smoke ff3e1d14|Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, multiple
 <!-- vault-crosslinks:end -->

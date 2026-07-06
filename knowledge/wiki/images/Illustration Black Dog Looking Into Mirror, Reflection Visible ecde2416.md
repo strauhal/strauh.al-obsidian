@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black Dog Looking At Its Reflection In A Mirror d3153e0e|Illustration Black Dog Looking At Its Reflection In A Mirror]] — shared language: reflection, mirror, dog
-- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection, mirror, looking
-- [[knowledge/wiki/images/Photograph Dog Looking Up At Muffin Through Glass Table b306f5fb|Photograph Dog Looking Up At Muffin Through Glass Table]] — shared language: dog, looking
-- [[knowledge/wiki/images/Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror 55a16c92|Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: reflection, mirror
+- [[knowledge/wiki/images/Golden Retriever Looking At Its Reflection In A Mirror 10a8d052|Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection, mirror, looking
+- [[knowledge/wiki/images/Black And White Photo Of Boy Looking Into Mirror a25b261a|Black And White Photo Of Boy Looking Into Mirror]] — shared language: mirror, looking
+- [[knowledge/wiki/images/Chuck Jones Drawing His Surprised Reflection In A Mirror 397312af|Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: reflection, mirror
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 <!-- vault-crosslinks:end -->

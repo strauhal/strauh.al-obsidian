@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
+- [[_archive/auto-generated/images-stale/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
+- [[knowledge/wiki/images/Woman In White Dress In Wooded Clearing Near Structure 815527cd|Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
 - [[_archive/auto-generated/images-stale/black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure dd4ef4dd|black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure]] — shared language: clearing
 - [[_archive/auto-generated/images-stale/framed mountain landscape with road and distant peaks 5d6465ba|framed mountain landscape with road and distant peaks]] — shared language: peaks
-- [[knowledge/wiki/images/Photograph Mountain Information Sign in Grassy Field with Snowy Peaks a016b539|Photograph Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: peaks
-- [[knowledge/wiki/images/five old men peaks southeast of mount lu by wu hufan 1958 4f338b79|five old men peaks southeast of mount lu by wu hufan 1958]] — shared language: peaks
-- [[knowledge/wiki/images/a thousand peaks and myriad ravines by wang hui 1693 a9213b2e|a thousand peaks and myriad ravines by wang hui 1693]] — shared language: peaks
+- [[knowledge/wiki/images/Mountain Information Sign in Grassy Field with Snowy Peaks f3c2c504|Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: peaks
+- [[_archive/auto-generated/images-stale/Photograph Mountain Information Sign in Grassy Field with Snowy Peaks a016b539|Photograph Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: peaks
 <!-- vault-crosslinks:end -->

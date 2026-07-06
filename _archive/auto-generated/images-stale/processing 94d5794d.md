@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram AI Image Processing Demonstration Pixelated Face and Enhanced Result 3f169909|Diagram AI Image Processing Demonstration Pixelated Face and Enhanced Result]] — shared language: processing
+- [[knowledge/wiki/images/AI Image Processing Demonstration Pixelated Face and Enhanced Result ee0d6d48|AI Image Processing Demonstration Pixelated Face and Enhanced Result]] — shared language: processing
+- [[_archive/auto-generated/images-stale/Diagram AI Image Processing Demonstration Pixelated Face and Enhanced Result 3f169909|Diagram AI Image Processing Demonstration Pixelated Face and Enhanced Result]] — shared language: processing
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: processing
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: processing
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: processing
-- [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: processing
 <!-- vault-crosslinks:end -->

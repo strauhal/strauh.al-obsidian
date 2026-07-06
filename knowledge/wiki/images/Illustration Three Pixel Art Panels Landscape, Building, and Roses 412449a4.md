@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, pixel
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[knowledge/wiki/images/Comic Six Dark Themed Pixel Art Comic Panels with Text 9e0888fa|Comic Six Dark Themed Pixel Art Comic Panels with Text]] — shared language: panels, pixel
-- [[knowledge/wiki/images/Illustration Three Abstract Textile Panels with Colorful Shapes and Tassels 165f9756|Illustration Three Abstract Textile Panels with Colorful Shapes and Tassels]] — shared language: panels, three
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: building, landscape
+- [[knowledge/wiki/images/Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings c7ac585d|Illustration Abstract Composite of Pixel Art and Colorful Landscape Paintings]] — shared language: pixel, landscape
 <!-- vault-crosslinks:end -->

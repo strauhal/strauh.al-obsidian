@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard ed45b559|Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard]] — shared language: deviation, railsback, tuning
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, showing
+- [[knowledge/wiki/images/Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard 02ba4b64|Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard]] — shared language: deviation, railsback, tuning
+- [[_archive/auto-generated/images-stale/Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard ed45b559|Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard]] — shared language: deviation, railsback, tuning
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: technical, piano
-- [[knowledge/wiki/images/Diagram Technical Chart for Piano Stretch Tuning 9585c4cf|Diagram Technical Chart for Piano Stretch Tuning]] — shared language: tuning, technical, piano
-- [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
+- [[knowledge/wiki/images/Technical Chart for Piano Stretch Tuning 44d4b7a0|Technical Chart for Piano Stretch Tuning]] — shared language: tuning, technical, piano
+- [[_archive/auto-generated/images-stale/Diagram Technical Chart for Piano Stretch Tuning 9585c4cf|Diagram Technical Chart for Piano Stretch Tuning]] — shared language: tuning, technical, piano
 <!-- vault-crosslinks:end -->

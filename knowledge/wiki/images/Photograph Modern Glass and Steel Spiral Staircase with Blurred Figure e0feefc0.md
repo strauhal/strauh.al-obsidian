@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mod
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral, staircase, glass
-- [[knowledge/wiki/images/Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior 026a54e5|Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, modern
-- [[knowledge/wiki/images/Photograph Modern White Curvilinear Building with Balcony and Spiral Staircase c3ff05d1|Photograph Modern White Curvilinear Building with Balcony and Spiral Staircase]] — shared language: spiral, staircase, modern
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, modern
+- [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, modern
+- [[knowledge/wiki/images/Modern White Curvilinear Building with Balcony and Spiral Staircase 817c8aeb|Modern White Curvilinear Building with Balcony and Spiral Staircase]] — shared language: spiral, staircase, modern
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: spiral, staircase
-- [[knowledge/wiki/images/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 <!-- vault-crosslinks:end -->

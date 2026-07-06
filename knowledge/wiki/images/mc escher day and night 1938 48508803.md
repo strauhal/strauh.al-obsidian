@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/mc_escher_day_an
 
 - [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
 - [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: escher
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
 - [[knowledge/wiki/artists/Artist - m c escher|Artist - m c escher]] — shared language: escher
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: escher
 <!-- vault-crosslinks:end -->

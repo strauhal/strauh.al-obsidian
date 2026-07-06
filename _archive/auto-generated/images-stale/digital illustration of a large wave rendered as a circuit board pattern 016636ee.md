@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Digital Illustration of The Great Wave as a Circuit Board by Alain Bousquet f9805f7a|Illustration Digital Illustration of The Great Wave as a Circuit Board by Alain Bousquet]] — shared language: circuit, board, wave
 - [[knowledge/wiki/images/Illustration Blue Circuit Board Pattern Forming a Crucifix on Black Background cfbe5097|Illustration Blue Circuit Board Pattern Forming a Crucifix on Black Background]] — shared language: circuit, board, pattern
 - [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: circuit, board
-- [[knowledge/wiki/images/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
-- [[knowledge/wiki/images/Illustration Stylized Figure in Circuit Board Garment on Blue Background e8567bc9|Illustration Stylized Figure in Circuit Board Garment on Blue Background]] — shared language: circuit, board
+- [[knowledge/wiki/images/Close Up Photograph of a Yellow and Green Circuit Board 46e31fce|Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
+- [[_archive/auto-generated/images-stale/Photograph Close Up Photograph of a Yellow and Green Circuit Board 5f0d80c9|Photograph Close Up Photograph of a Yellow and Green Circuit Board]] — shared language: circuit, board
 <!-- vault-crosslinks:end -->

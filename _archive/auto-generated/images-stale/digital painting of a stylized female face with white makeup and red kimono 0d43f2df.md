@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Kimono, 2009 vs. 2020, with Woman 610aac85|Photograph Man in Kimono, 2009 vs. 2020, with Woman]] — shared language: kimono
+- [[knowledge/wiki/images/Man in Kimono, 2009 vs. 2020, with Woman 9259d078|Man in Kimono, 2009 vs. 2020, with Woman]] — shared language: kimono
+- [[_archive/auto-generated/images-stale/Photograph Man in Kimono, 2009 vs. 2020, with Woman 610aac85|Photograph Man in Kimono, 2009 vs. 2020, with Woman]] — shared language: kimono
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: female, face, stylized
 - [[knowledge/wiki/images/Screenshot Screenshot of a Digital Line Drawing of a Female Face 9f41c2e2|Screenshot Screenshot of a Digital Line Drawing of a Female Face]] — shared language: female, face, digital
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: female, face, stylized
-- [[_archive/auto-generated/images-stale/black and white line drawing of a stylized female face and organic forms bca7462c|black and white line drawing of a stylized female face and organic forms]] — shared language: female, face, stylized
 <!-- vault-crosslinks:end -->

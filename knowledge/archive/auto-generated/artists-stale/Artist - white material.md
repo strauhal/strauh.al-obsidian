@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - White Material|Artist - White Material]] — named in this note
 - [[_archive/auto-generated/images-stale/digital painting of a woman s face surrounded by white material 45d64b8c|digital painting of a woman s face surrounded by white material]] — shared language: material, surrounded, face
-- [[knowledge/wiki/images/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: material
+- [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: material
+- [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: material
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: material
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: material, digital
-- [[_archive/auto-generated/images-stale/photograph of a clenched hand holding blue and white material against a dark background 14c797fd|photograph of a clenched hand holding blue and white material against a dark background]] — shared language: material
-- [[knowledge/wiki/images/Illustration Arrangement of Material Swatches and Color Samples 6bf54a4a|Illustration Arrangement of Material Swatches and Color Samples]] — shared language: material
 <!-- vault-crosslinks:end -->

@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/skyscrapers_by_j
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
-- [[knowledge/wiki/images/Comic Black and White Illustration of Collapsing Skyscrapers with Figure 8f060797|Comic Black and White Illustration of Collapsing Skyscrapers with Figure]] — shared language: skyscrapers
-- [[knowledge/wiki/images/Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View 21b21488|Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers
 - [[knowledge/wiki/images/frank stella concentric square geometric abstract in grayscale circa 1970 e2ed3fa5|frank stella concentric square geometric abstract in grayscale circa 1970]] — shared language: stella
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
+- [[knowledge/wiki/images/Comic Black and White Illustration of Collapsing Skyscrapers with Figure 8f060797|Comic Black and White Illustration of Collapsing Skyscrapers with Figure]] — shared language: skyscrapers
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Grainy, Blurry Figure with Crescent Shape and Orange Light Leak ab8e3f0e|Photograph Grainy, Blurry Figure with Crescent Shape and Orange Light Leak]] — shared language: leak, grainy, blurry
-- [[knowledge/wiki/images/Photograph Grainy, Blurry View of Light Through a Dark Opening f9c3437e|Photograph Grainy, Blurry View of Light Through a Dark Opening]] — shared language: grainy, blurry, light
-- [[knowledge/wiki/images/Photograph Abstract Light Leak with Grainy Texture and Color Gradient a6d366f5|Photograph Abstract Light Leak with Grainy Texture and Color Gradient]] — shared language: leak, grainy, light
-- [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: shape
-- [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: grainy, light
+- [[knowledge/wiki/images/Photograph Grainy, Blurry Figure with Crescent Shape and Orange Light Leak ab8e3f0e|Photograph Grainy, Blurry Figure with Crescent Shape and Orange Light Leak]] — shared language: leak, crescent, grainy
+- [[knowledge/wiki/images/Grainy, Blurry View of Light Through a Dark Opening eac43c5a|Grainy, Blurry View of Light Through a Dark Opening]] — shared language: grainy, blurry, light
+- [[_archive/auto-generated/images-stale/Photograph Grainy, Blurry View of Light Through a Dark Opening f9c3437e|Photograph Grainy, Blurry View of Light Through a Dark Opening]] — shared language: grainy, blurry, light
+- [[knowledge/wiki/images/Abstract Light Leak with Grainy Texture and Color Gradient 697d01a1|Abstract Light Leak with Grainy Texture and Color Gradient]] — shared language: leak, grainy, light
+- [[_archive/auto-generated/images-stale/Photograph Abstract Light Leak with Grainy Texture and Color Gradient a6d366f5|Photograph Abstract Light Leak with Grainy Texture and Color Gradient]] — shared language: leak, grainy, light
 <!-- vault-crosslinks:end -->

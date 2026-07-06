@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Crying of Lot 49 -- Pynchon, Thomas -- Penguin Random House LLC, [Place of publication not -- Penguin Group US -- 9781101594605 -- 50e597e7aa27b4c9539e74ce04e1d06b -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Crying of Lot 49
@@ -42,7 +42,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/pessoa-fernando-the-book-of-disquiet-penguin-classics|The Book of Disquiet (Penguin Classics)]] — same category: literature
 - [[knowledge/wiki/books/jean-raspail-the-camp-of-the-saints|The Camp of the Saints]] — same category: literature
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — same category: literature
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — same category: literature
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 <!-- vault-crosslinks:end -->

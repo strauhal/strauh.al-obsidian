@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 - [[knowledge/wiki/artists/Artist - Swans At Night|Artist - Swans At Night]] — shared language: swans
 - [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: water, dark, water.jpeg
-- [[knowledge/wiki/images/Photograph Person Lying On Cobblestones Surrounded By Swans At Night c2ef65b1|Photograph Person Lying On Cobblestones Surrounded By Swans At Night]] — shared language: swans
-- [[knowledge/wiki/images/Photograph Person Lying Face Down On Cobblestones Surrounded By Swans At Night 2ad79dbc|Photograph Person Lying Face Down On Cobblestones Surrounded By Swans At Night]] — shared language: swans
+- [[knowledge/wiki/images/Person Lying On Cobblestones Surrounded By Swans At Night cc7e6606|Person Lying On Cobblestones Surrounded By Swans At Night]] — shared language: swans
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: group
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds
 - [[knowledge/wiki/images/Illustration Fantasy City in Clouds Above Desert Ruins Landscape Painting 059e8369|Illustration Fantasy City in Clouds Above Desert Ruins Landscape Painting]] — shared language: clouds, above
-- [[knowledge/wiki/images/Photograph Two Pilots Inspecting Fighter Jet with Nose Art 9c1f9042|Photograph Two Pilots Inspecting Fighter Jet with Nose Art]] — shared language: jet
-- [[knowledge/wiki/images/Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar 75c60b3c|Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar]] — shared language: jet
+- [[knowledge/wiki/images/Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above 190e8920|Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above]] — shared language: clouds, above
+- [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: clouds
 <!-- vault-crosslinks:end -->

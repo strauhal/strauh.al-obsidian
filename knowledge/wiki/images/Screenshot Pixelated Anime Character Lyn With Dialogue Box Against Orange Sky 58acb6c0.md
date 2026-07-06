@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: against, sky, screenshot
-- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: orange, against, sky
+- [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: against, screenshot, sky
 - [[knowledge/wiki/images/Illustration Anime Character Design Sheet with Multiple Figures a6ebdf5d|Illustration Anime Character Design Sheet with Multiple Figures]] — shared language: anime, character
+- [[knowledge/wiki/images/Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky 6e58b014|Photograph Large Murmuration of Birds Against a Pale Blue and Orange Sky]] — shared language: orange, against, sky
 - [[knowledge/wiki/images/screenshot of macromedia flash 4 about dialog box 1999 932fb402|screenshot of macromedia flash 4 about dialog box 1999]] — shared language: box, screenshot
-- [[knowledge/wiki/images/Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky 0eba5268|Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky]] — shared language: orange, against, sky
+- [[knowledge/wiki/images/Screenshot Screenshot of a Pixelated Human Silhouette in a Window 1c78cf06|Screenshot Screenshot of a Pixelated Human Silhouette in a Window]] — shared language: pixelated, screenshot
 <!-- vault-crosslinks:end -->

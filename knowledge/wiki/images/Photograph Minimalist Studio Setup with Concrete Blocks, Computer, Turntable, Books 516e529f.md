@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Min
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
-- [[knowledge/wiki/images/Photograph Music Studio Setup with Mountain View 5820d20b|Photograph Music Studio Setup with Mountain View]] — shared language: setup, studio
-- [[knowledge/wiki/images/Photograph Professional Music Studio Setup with Instruments and Dog 39427ff8|Photograph Professional Music Studio Setup with Instruments and Dog]] — shared language: setup, studio
-- [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Modern Furniture and Plant e836ee66|Photograph Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: minimalist, concrete
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
+- [[knowledge/wiki/images/Music Studio Setup with Mountain View f52299c8|Music Studio Setup with Mountain View]] — shared language: setup, studio
+- [[knowledge/wiki/images/Professional Music Studio Setup with Instruments and Dog 9345bab2|Professional Music Studio Setup with Instruments and Dog]] — shared language: setup, studio
+- [[knowledge/wiki/images/Minimalist Concrete Interior with Modern Furniture and Plant 249802ae|Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: minimalist, concrete
 <!-- vault-crosslinks:end -->

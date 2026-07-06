@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/lo-wei|Lo Wei]] — shared language: wei
 - [[knowledge/wiki/images/Southwestern Sentinel by Brett Allen Johnson (2021) c605e623|Southwestern Sentinel by Brett Allen Johnson (2021)]] — shared language: allen
+- [[knowledge/wiki/images/Woody Allen Levitation Scene From Stardust Memories 980515cf|Woody Allen Levitation Scene From Stardust Memories]] — shared language: allen
 - [[knowledge/wiki/images/portrait of allen knapp by robert henri c 1914 e228e344|portrait of allen knapp by robert henri c 1914]] — shared language: allen
+- [[knowledge/wiki/images/Two Men Working On Large Map On Floor 061e118e|Two Men Working On Large Map On Floor]] — shared language: working, large
 - [[knowledge/wiki/artists/Artist - robert henri|Artist - robert henri]] — shared language: allen
-- [[knowledge/wiki/images/Photograph Two Men Working On Large Map On Floor 824f2004|Photograph Two Men Working On Large Map On Floor]] — shared language: working, large
-- [[knowledge/wiki/images/space station v by robert mccall 1968 1d4be7f1|space station v by robert mccall 1968]] — shared language: station, space
 <!-- vault-crosslinks:end -->

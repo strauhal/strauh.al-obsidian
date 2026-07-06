@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Aggregate A by Toru Kurokawa (2016) d82ec5f1|Aggregate A by Toru Kurokawa (2016)]] — shared language: kurokawa
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Digital Collage of Diverse Figures and Text in Capsule Shape 059d471f|Illustration Digital Collage of Diverse Figures and Text in Capsule Shape]] — shared language: capsule
+- [[knowledge/wiki/images/Stone Building with Tall Tower and Ivy on Green Lawn b74b703a|Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: tower, building
 - [[knowledge/wiki/images/Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack 7090aa53|Illustration Geometric Depiction of Industrial Building with Water Tower and Smokestack]] — shared language: tower, building
-- [[knowledge/wiki/images/Photograph Stone Building with Tall Tower and Ivy on Green Lawn 91d6f156|Photograph Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: tower, building
 <!-- vault-crosslinks:end -->

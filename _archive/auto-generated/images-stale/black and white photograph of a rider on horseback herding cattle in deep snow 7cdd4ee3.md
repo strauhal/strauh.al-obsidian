@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding, cattle, rider
+- [[knowledge/wiki/images/Rider On Horseback Herding Cattle In Deep Snow 86458c0c|Rider On Horseback Herding Cattle In Deep Snow]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding, cattle, rider
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[_archive/auto-generated/images-stale/oil painting of a rider on horseback in a southwestern canyon landscape 8ac7234f|oil painting of a rider on horseback in a southwestern canyon landscape]] — shared language: rider, horseback
 - [[knowledge/wiki/images/Illustration Oil Painting of Rider on Horseback in Desert Canyon e2a1a40a|Illustration Oil Painting of Rider on Horseback in Desert Canyon]] — shared language: rider, horseback
-- [[_archive/auto-generated/images-stale/framed horseback scene with rider and hounds a095de2c|framed horseback scene with rider and hounds]] — shared language: rider, horseback
 <!-- vault-crosslinks:end -->

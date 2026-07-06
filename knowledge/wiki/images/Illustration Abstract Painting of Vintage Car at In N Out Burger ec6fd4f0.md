@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Pixelated Painting of a Vintage Red and White Car d54ea966|Illustration Pixelated Painting of a Vintage Red and White Car]] — shared language: vintage, car
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/images/Illustration Vibrant Illustration of In N Out Burger with Classic Cars 8535f29c|Illustration Vibrant Illustration of In N Out Burger with Classic Cars]] — shared language: burger, in-n-out
-- [[knowledge/wiki/images/Photograph Vintage Car Driving Past Chicago Skyscrapers 88c9bd77|Photograph Vintage Car Driving Past Chicago Skyscrapers]] — shared language: vintage, car
+- [[knowledge/wiki/images/Vintage Car Driving Past Chicago Skyscrapers b25e17e9|Vintage Car Driving Past Chicago Skyscrapers]] — shared language: vintage, car
 - [[knowledge/wiki/images/Illustration Vintage Illustration of Two Red Poppies 5586e7b8|Illustration Vintage Illustration of Two Red Poppies]] — shared language: vintage
 <!-- vault-crosslinks:end -->

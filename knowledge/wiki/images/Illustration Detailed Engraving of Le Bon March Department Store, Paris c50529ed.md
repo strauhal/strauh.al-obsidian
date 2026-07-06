@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
 - [[knowledge/wiki/images/Semele by Bon Boullogne (1688 1704) aabe58f2|Semele by Bon Boullogne (1688 1704)]] — shared language: bon
+- [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: march
 <!-- vault-crosslinks:end -->

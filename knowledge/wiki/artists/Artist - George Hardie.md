@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - george bellows|Artist - george bellows]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george inness|Artist - george inness]] — shared language: george
 - [[knowledge/wiki/artists/Artist - george dawe|Artist - george dawe]] — shared language: george
-- [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
 - [[knowledge/wiki/images/The Waiting Room by George Tooker (1959) 984b1075|The Waiting Room by George Tooker (1959)]] — shared language: george
+- [[knowledge/wiki/artists/Artist - george grosz|Artist - george grosz]] — shared language: george
 <!-- vault-crosslinks:end -->

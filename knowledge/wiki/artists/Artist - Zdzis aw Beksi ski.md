@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/Illustration Textured Sculpture Of A Hooded Figure Holding A Red Object cb1c2c8f|Illustration Textured Sculpture Of A Hooded Figure Holding A Red Object]] — shared language: hooded, object
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: hooded, dark
 <!-- vault-crosslinks:end -->

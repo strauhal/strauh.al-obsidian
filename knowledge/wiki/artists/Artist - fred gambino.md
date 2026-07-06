@@ -29,9 +29,9 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, city
 - [[knowledge/wiki/images/44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940 5f6a4c17|44th annual exhibition by artists of chicago and vicinity the art institute of chicago poster by george fred keck 1940]] — shared language: fred
-- [[knowledge/wiki/images/Photograph Man Sitting On Floor With Drug Paraphernalia 7f8d6f3f|Photograph Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars
+- [[knowledge/wiki/images/Man Sitting On Floor With Drug Paraphernalia 4f953f8e|Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
 - [[knowledge/wiki/images/the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922 c81ecaf0|the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922]] — shared language: drug, cover
 - [[knowledge/wiki/images/montague dawson the kings ship mid20th century e2c2eacd|montague dawson the kings ship mid20th century]] — shared language: ship
 - [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: stars

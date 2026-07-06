@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_house_of_the
 - [[knowledge/wiki/images/the messenger by nicholas roerich 1924 30f71077|the messenger by nicholas roerich 1924]] — same artist: nicholas roerich
 - [[knowledge/wiki/images/buddha in the cave by nicholas roerich 1925 89792310|buddha in the cave by nicholas roerich 1925]] — same artist: nicholas roerich
 - [[knowledge/wiki/images/Buddha the Conqueror by Nicholas Roerich (1925) f3eee492|Buddha the Conqueror by Nicholas Roerich (1925)]] — shared language: roerich, nicholas
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: good
+- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: nicholas
 <!-- vault-crosslinks:end -->

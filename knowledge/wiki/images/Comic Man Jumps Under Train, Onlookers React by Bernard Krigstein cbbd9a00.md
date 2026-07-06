@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Man J
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: onlookers, comic
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: bernard
 - [[knowledge/wiki/books/bernard-bosanquet-the-introduction-to-hegel-s-philosophy-of-fine-art|The Introduction to Hegel's Philosophy of Fine Art]] — shared language: bernard
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: bernard
-- [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — shared language: bernard
 <!-- vault-crosslinks:end -->

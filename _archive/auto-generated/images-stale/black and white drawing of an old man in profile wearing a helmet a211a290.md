@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/painting of an animated male character wearing a white helmet with a red m logo 212d1ebd|painting of an animated male character wearing a white helmet with a red m logo]] — shared language: helmet, wearing
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/images/Illustration Close Up Of Soldier Wearing Advanced Military Helmet With AR Device 9e85db3b|Illustration Close Up Of Soldier Wearing Advanced Military Helmet With AR Device]] — shared language: helmet, wearing
-- [[knowledge/wiki/images/Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise 5a99ed4e|Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: helmet, wearing
+- [[knowledge/wiki/images/Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise d8e63519|Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: helmet, wearing
 <!-- vault-crosslinks:end -->

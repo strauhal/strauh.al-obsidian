@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Soul on Fire by Dean Blunt (2018) bdbd3ac8|Soul on Fire by Dean Blunt (2018)]] — shared language: blunt, dean, soul
 - [[_archive/auto-generated/images-stale/dean blunt soul on fire 1537369258 jpg 6ccf4ad9|dean blunt soul on fire 1537369258 jpg]] — shared language: blunt, dean, soul
 - [[_archive/auto-generated/images-stale/dean blunt viewing artwork in gallery 50522ca2|dean blunt viewing artwork in gallery]] — shared language: blunt, dean
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 <!-- vault-crosslinks:end -->

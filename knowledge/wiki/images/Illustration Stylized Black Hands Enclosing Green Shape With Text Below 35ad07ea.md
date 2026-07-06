@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Green And Orange Digital Interface With Stylized Hands 9bae8d60|Illustration Abstract Green And Orange Digital Interface With Stylized Hands]] — shared language: hands, stylized, green
 - [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: hands, green
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: below
-- [[knowledge/wiki/images/Diagram How To Draw Text In Any Shape Tutorial 3eb41749|Diagram How To Draw Text In Any Shape Tutorial]] — shared language: shape, text
+- [[knowledge/wiki/images/How To Draw Text In Any Shape Tutorial 87667244|How To Draw Text In Any Shape Tutorial]] — shared language: shape, text
 - [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: stylized, text
+- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 <!-- vault-crosslinks:end -->

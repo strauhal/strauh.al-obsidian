@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alja horvat 2021|Artist - alja horvat 2021]] — named in this note
 - [[_archive/auto-generated/images-stale/desert house by alja horvat 2021 0ef9cb29|desert house by alja horvat 2021]] — same artist: alja horvat
 - [[knowledge/wiki/books/alexandre-koja-ve-allan-bloom-james-h-nichols-introduction-to-the-reading-of-hegel-lectures-on-the-phenomenology-of-spirit-cornell-universit|Introduction to the Reading of Hegel Lectures on the Phenomenology of Spirit-Cornell University Press]] — shared language: bloom
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert
 - [[_archive/auto-generated/images-stale/digital painting of two figures on a desert cliff at sunset b32955cd|digital painting of two figures on a desert cliff at sunset]] — shared language: desert
-- [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert
 <!-- vault-crosslinks:end -->

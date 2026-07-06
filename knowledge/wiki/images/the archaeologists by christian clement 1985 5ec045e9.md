@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_archaeologis
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - Joseph Clement Coll|Artist - Joseph Clement Coll]] — shared language: clement
 - [[knowledge/wiki/images/lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]] — shared language: clement
-- [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: christian
+- [[knowledge/wiki/images/Challenger by Joseph Clement Coll f4fc0846|Challenger by Joseph Clement Coll]] — shared language: clement
 <!-- vault-crosslinks:end -->

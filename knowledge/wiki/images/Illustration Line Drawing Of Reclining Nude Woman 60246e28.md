@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: reclining, nude, line
 - [[knowledge/wiki/images/line drawing of a reclining nude woman by pablo picasso 1969 8142483f|line drawing of a reclining nude woman by pablo picasso 1969]] — shared language: reclining, nude, line
-- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
 - [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: reclining, nude
+- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
 - [[knowledge/wiki/images/Reclining Nude by Edgar Degas (c. 1896) 1a3c4b25|Reclining Nude by Edgar Degas (c. 1896)]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

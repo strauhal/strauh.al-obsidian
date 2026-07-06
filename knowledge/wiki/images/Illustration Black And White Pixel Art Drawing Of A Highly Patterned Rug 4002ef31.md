@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: patterned
 - [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: highly
 - [[knowledge/wiki/images/Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man 12158df6|Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man]] — shared language: highly
 - [[knowledge/wiki/images/Illustration Highly Saturated Abstract Portrait Of A Woman 7f141f4c|Illustration Highly Saturated Abstract Portrait Of A Woman]] — shared language: highly
+- [[knowledge/wiki/images/Illustration Highly Stylized Blue and Orange Figure with Pigtails 553eacba|Illustration Highly Stylized Blue and Orange Figure with Pigtails]] — shared language: highly
 <!-- vault-crosslinks:end -->

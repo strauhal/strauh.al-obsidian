@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Agony in the
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Crucifixion by Andrea Mantegna (1457 1459) 9cd61ce5|The Crucifixion by Andrea Mantegna (1457 1459)]] — shared language: mantegna, andrea
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
 - [[knowledge/wiki/artists/Artist - Andrea Pozzo|Artist - Andrea Pozzo]] — shared language: andrea
-- [[knowledge/wiki/images/Photograph The Agony of Defeat by George Tames f2f27c28|Photograph The Agony of Defeat by George Tames]] — shared language: agony
+- [[knowledge/wiki/images/The Agony of Defeat by George Tames 8ae5673e|The Agony of Defeat by George Tames]] — shared language: agony
 - [[knowledge/wiki/books/andrea-agostinelli-et-al-google-research-musiclm-generating-music-from-text|MusicLM: Generating Music From Text]] — shared language: andrea
+- [[knowledge/wiki/artists/Artist - andrea del sarto|Artist - andrea del sarto]] — shared language: andrea
 <!-- vault-crosslinks:end -->

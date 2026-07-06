@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Cumulus Mood Twa
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Flowchart for reading Carl Jung's books, with introductory and advanced sections 913352c4|Diagram Flowchart for reading Carl Jung's books, with introductory and advanced sections]] — shared language: flowchart
-- [[knowledge/wiki/images/Diagram Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality 1541bbd6|Diagram Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality]] — shared language: flowchart
-- [[knowledge/wiki/images/Diagram Flowchart of Non Sectarian Buddhist Texts and Study Paths 19fff48a|Diagram Flowchart of Non Sectarian Buddhist Texts and Study Paths]] — shared language: flowchart
-- [[knowledge/wiki/images/Diagram Modern Recording Equipment Cost Flowchart by Jamie Tate 64072518|Diagram Modern Recording Equipment Cost Flowchart by Jamie Tate]] — shared language: flowchart
+- [[knowledge/wiki/images/Flowchart for reading Carl Jung's books, with introductory and advanced sections bbe106d1|Flowchart for reading Carl Jung's books, with introductory and advanced sections]] — shared language: flowchart
+- [[knowledge/wiki/images/Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality 73464361|Philosophical Concepts Flowchart Being, Essence, Reflection, Appearance, Actuality]] — shared language: flowchart
+- [[knowledge/wiki/images/Flowchart of Non Sectarian Buddhist Texts and Study Paths ec9ffa78|Flowchart of Non Sectarian Buddhist Texts and Study Paths]] — shared language: flowchart
+- [[knowledge/wiki/images/Modern Recording Equipment Cost Flowchart by Jamie Tate 8a878ac7|Modern Recording Equipment Cost Flowchart by Jamie Tate]] — shared language: flowchart
 - [[knowledge/wiki/artists/Artist - Jamie Tate|Artist - Jamie Tate]] — shared language: flowchart
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: damaged
 - [[knowledge/wiki/images/Illustration Line Drawing of Man's Head and Armored Robot 49572eeb|Illustration Line Drawing of Man's Head and Armored Robot]] — shared language: robot, head
 - [[knowledge/wiki/images/Illustration Abstract Colorful Geometric Figure With Wires On Black Background 7c9c1bf9|Illustration Abstract Colorful Geometric Figure With Wires On Black Background]] — shared language: wires
 - [[knowledge/wiki/images/Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes 19b134c0|Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes]] — shared language: fluid
 - [[knowledge/wiki/images/Illustration Stylized Human Head Being Updated with Wires and Progress Bar 51435612|Illustration Stylized Human Head Being Updated with Wires and Progress Bar]] — shared language: wires, head
-- [[knowledge/wiki/images/Illustration Surreal Painting of Dissolving Head with Exposed Brain and Internal Candle 427962bc|Illustration Surreal Painting of Dissolving Head with Exposed Brain and Internal Candle]] — shared language: exposed, head
 <!-- vault-crosslinks:end -->

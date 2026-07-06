@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sergey shabohin 2011|Artist - sergey shabohin 2011]] — named in this note
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: enter
 - [[knowledge/wiki/images/Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E' 42d43431|Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E']] — shared language: enter
-- [[_archive/auto-generated/images-stale/engraving portrait of a man with long wavy hair and white collar 7855a06b|engraving portrait of a man with long wavy hair and white collar]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

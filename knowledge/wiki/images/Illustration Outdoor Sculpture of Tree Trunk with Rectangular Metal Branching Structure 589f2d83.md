@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Tree Trunk and Roots Resembling a Human Figure 6591e46c|Tree Trunk and Roots Resembling a Human Figure]] — shared language: trunk, tree
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: branching
 - [[knowledge/wiki/images/Illustration Illustration of a Person with White Branching Lines and a Piano bd641ed3|Illustration Illustration of a Person with White Branching Lines and a Piano]] — shared language: branching
 - [[knowledge/wiki/images/Illustration Abstract Black Metal Sculpture with Curving Forms and Shadow 9f8d73c5|Illustration Abstract Black Metal Sculpture with Curving Forms and Shadow]] — shared language: metal, sculpture
-- [[knowledge/wiki/images/Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt cb24da99|Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt]] — shared language: rectangular, metal
-- [[knowledge/wiki/images/Photograph Dark Stairwell Leading to Bright Outdoor Tree 1503f73a|Photograph Dark Stairwell Leading to Bright Outdoor Tree]] — shared language: outdoor, tree
-- [[knowledge/wiki/images/Illustration Outdoor Sculpture of Giant Computer Keyboard Keys on Grassy Hill bdf510c2|Illustration Outdoor Sculpture of Giant Computer Keyboard Keys on Grassy Hill]] — shared language: outdoor, sculpture
+- [[knowledge/wiki/images/Rectangular Metal Frame Lying on Tactile Paving and Asphalt 5ab9b63a|Rectangular Metal Frame Lying on Tactile Paving and Asphalt]] — shared language: rectangular, metal
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/images/Photograph Cemetery With Angel Statue And Foggy Trees 0cf6d51c|Photograph Cemetery With Angel Statue And Foggy Trees]] — shared language: statue, angel
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel
+- [[knowledge/wiki/images/Cemetery With Angel Statue And Foggy Trees 3e90f85c|Cemetery With Angel Statue And Foggy Trees]] — shared language: statue, angel
 - [[knowledge/wiki/images/Illustration Glowing Blue Stylized Plant With Two Yellow Flowers 0ad35ba2|Illustration Glowing Blue Stylized Plant With Two Yellow Flowers]] — shared language: glowing, stylized
-- [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing
 <!-- vault-crosslinks:end -->

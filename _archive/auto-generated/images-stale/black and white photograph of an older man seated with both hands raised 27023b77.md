@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older, raised, hands
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older, raised, hands
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older, raised, hands
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[_archive/auto-generated/images-stale/monochromatic portrait painting of an older woman with a smirk d6f67ccd|monochromatic portrait painting of an older woman with a smirk]] — shared language: older
-- [[knowledge/wiki/images/Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier 3af7404f|Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: raised, hands
-- [[_archive/auto-generated/images-stale/framed painting of two figures with raised arms 9d94ed1a|framed painting of two figures with raised arms]] — shared language: raised
+- [[knowledge/wiki/images/Man With Raised Hands Holding Documents Walks Past Female Soldier 55fb4398|Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: raised, hands
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Document Pink And Purple Event Poster With Portrait Photos 9bfd939f|Document Pink And Purple Event Poster With Portrait Photos]] — shared language: event, poster, purple
 - [[_archive/auto-generated/images-stale/abstract painting with swirling white and purple brushstrokes on a blue background b5b25944|abstract painting with swirling white and purple brushstrokes on a blue background]] — shared language: purple, background
-- [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: event, background
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: purple, background
 - [[knowledge/wiki/images/Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings 15e51211|Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings]] — shared language: purple, pink
+- [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: event, background
 <!-- vault-crosslinks:end -->

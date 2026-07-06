@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/hermann_gradl_ri
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree, landscape
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: couple
-- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: river, landscape
+- [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: river, landscape
+- [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
+- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
 <!-- vault-crosslinks:end -->

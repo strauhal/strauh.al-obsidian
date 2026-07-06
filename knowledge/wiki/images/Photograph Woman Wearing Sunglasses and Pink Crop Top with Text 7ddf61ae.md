@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wom
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Mick Jagger Wearing Sunglasses At A Computer 9166c3a3|Photograph Mick Jagger Wearing Sunglasses At A Computer]] — shared language: sunglasses, wearing
+- [[knowledge/wiki/images/Mick Jagger Wearing Sunglasses At A Computer 5a8ab2e6|Mick Jagger Wearing Sunglasses At A Computer]] — shared language: sunglasses, wearing
 - [[knowledge/wiki/images/up Hare on Top (1998) cb008c1d|up Hare on Top (1998)]] — shared language: top
-- [[knowledge/wiki/images/Photograph Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ' bcc62a60|Photograph Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ']] — shared language: wearing, pink, text
+- [[knowledge/wiki/images/Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ' 28b702a0|Person Wearing Pink Beanie With Text 'God Save Me Jpg Or Png ']] — shared language: wearing, pink, text
 - [[knowledge/wiki/images/Illustration Person Holding Daisy, Wearing Tank Top and Sneakers 9fde2cc7|Illustration Person Holding Daisy, Wearing Tank Top and Sneakers]] — shared language: top, wearing
-- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: wearing, text
+- [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: top
 <!-- vault-crosslinks:end -->

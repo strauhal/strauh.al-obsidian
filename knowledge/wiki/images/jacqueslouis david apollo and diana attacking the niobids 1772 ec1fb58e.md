@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/jacqueslouis_dav
 - [[knowledge/wiki/books/grant-pooke-diana-newall-art-history-the-basics-routledge|Art History The Basics-Routledge]] — shared language: diana
 - [[knowledge/wiki/images/Diana by William Adolphe Bouguereau (1882) e0e78e6f|Diana by William Adolphe Bouguereau (1882)]] — shared language: diana
 - [[knowledge/wiki/images/Illustration Viking Longships Attacking a Walled City with Fire 3ee6f021|Illustration Viking Longships Attacking a Walled City with Fire]] — shared language: attacking
-- [[knowledge/wiki/images/Illustration Giant Bloody Caterpillar Attacking People In A Field ed3a3635|Illustration Giant Bloody Caterpillar Attacking People In A Field]] — shared language: attacking
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 <!-- vault-crosslinks:end -->

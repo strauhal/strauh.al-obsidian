@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Still Life with Open Book, Dark Cup, and Clear Glass e743edea|Illustration Still Life with Open Book, Dark Cup, and Clear Glass]] — shared language: cup, clear, glass
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
-- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[_archive/auto-generated/images-stale/oil painting of a still life with a white horse statue and dark vase 8f696826|oil painting of a still life with a white horse statue and dark vase]] — shared language: still, oil, life
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, still, life
 <!-- vault-crosslinks:end -->

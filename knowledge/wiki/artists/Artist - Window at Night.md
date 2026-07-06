@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — named in this note
-- [[knowledge/wiki/images/Photograph Night Photo of a Shop Window with White Interior 1abda67b|Photograph Night Photo of a Shop Window with White Interior]] — shared language: window, night
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
+- [[knowledge/wiki/images/Night Photo of a Shop Window with White Interior 59560dcb|Night Photo of a Shop Window with White Interior]] — shared language: window, night
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
 - [[knowledge/wiki/images/Illustration Blue Illustration of Person and Cat Looking Out Window at Beach 15a7a410|Illustration Blue Illustration of Person and Cat Looking Out Window at Beach]] — shared language: window, person
 - [[knowledge/wiki/artists/Artist - Swans At Night|Artist - Swans At Night]] — shared language: night, person
+- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: night
 <!-- vault-crosslinks:end -->

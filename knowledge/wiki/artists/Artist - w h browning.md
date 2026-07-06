@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Statues On Building Roof Amidst Power Lines 827d8296|Photograph Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, view
+- [[knowledge/wiki/images/Two Statues On Building Roof Amidst Power Lines 8380a322|Two Statues On Building Roof Amidst Power Lines]] — shared language: roof, building
 - [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, view
+- [[knowledge/wiki/images/People Pushing a Piano Off a Building Roof by Charles Brooks 4fcfa163|People Pushing a Piano Off a Building Roof by Charles Brooks]] — shared language: roof, building
 - [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: roof
-- [[knowledge/wiki/images/Photograph Aerial View of Large Building Complex Amidst Green Landscape e2cda203|Photograph Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: building, view
-- [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: building
-- [[knowledge/wiki/images/Photograph People Dining With Empire State Building View At Night 1032f775|Photograph People Dining With Empire State Building View At Night]] — shared language: building, view
+- [[knowledge/wiki/images/Aerial View of Large Building Complex Amidst Green Landscape 6ae5aab7|Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: building, view
 <!-- vault-crosslinks:end -->

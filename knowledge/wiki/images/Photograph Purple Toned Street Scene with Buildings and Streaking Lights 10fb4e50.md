@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pur
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, buildings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, buildings, lights
+- [[knowledge/wiki/images/Dark Landscape with Trees, Chair, and Streaking Lights 640adbef|Dark Landscape with Trees, Chair, and Streaking Lights]] — shared language: streaking, lights, lights.jpg
 - [[knowledge/wiki/images/Photograph Blurry Night Photograph of Buildings with Red and Blue Lights 4dc72be0|Photograph Blurry Night Photograph of Buildings with Red and Blue Lights]] — shared language: lights, buildings
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: buildings, scene, street
-- [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: lights, street, lights.jpg
-- [[knowledge/wiki/images/Photograph Street Leading To Sea Between Two Old Buildings With Shops 2fa030ad|Photograph Street Leading To Sea Between Two Old Buildings With Shops]] — shared language: buildings, street
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

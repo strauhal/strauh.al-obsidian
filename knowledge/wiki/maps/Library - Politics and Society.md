@@ -2,8 +2,8 @@
 title: Library - Politics and Society
 type: map
 tags: [map, library, books]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Library - Politics and Society

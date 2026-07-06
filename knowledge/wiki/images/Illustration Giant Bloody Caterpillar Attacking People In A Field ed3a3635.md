@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: giant
-- [[knowledge/wiki/images/Photograph Man With Bloody Mouth Holding Clear Sheet 577021e2|Photograph Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
 - [[knowledge/wiki/images/Illustration Viking Longships Attacking a Walled City with Fire 3ee6f021|Illustration Viking Longships Attacking a Walled City with Fire]] — shared language: attacking
 - [[knowledge/wiki/images/jacqueslouis david apollo and diana attacking the niobids 1772 ec1fb58e|jacqueslouis david apollo and diana attacking the niobids 1772]] — shared language: attacking
+- [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: bloody
 <!-- vault-crosslinks:end -->

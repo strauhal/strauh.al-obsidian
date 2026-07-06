@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Ballet Girl 
 
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/images/1931 571 ballet dancers jpg 07cb4ee6|1931 571 ballet dancers jpg]] — shared language: ballet
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Masaru Oishi|Artist - Masaru Oishi]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - masaru oishi 2020|Artist - masaru oishi 2020]] — named in this note
 - [[_archive/auto-generated/images-stale/sunflower by masaru oishi 2020 c5dd4439|sunflower by masaru oishi 2020]] — shared language: masaru, oishi
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: masaru, oishi
 - [[knowledge/wiki/images/Photograph Black and White Photographic Spread of Young Man in Urban Alleyway 473bb9bf|Photograph Black and White Photographic Spread of Young Man in Urban Alleyway]] — shared language: alleyway
 - [[knowledge/wiki/images/Illustration Two Stylized Black Cats on a Pink Background b3fafadc|Illustration Two Stylized Black Cats on a Pink Background]] — shared language: cats
 - [[knowledge/wiki/images/Illustration Anime Girl With Green Pigtails And Sunflowers 5872a275|Illustration Anime Girl With Green Pigtails And Sunflowers]] — shared language: sunflowers

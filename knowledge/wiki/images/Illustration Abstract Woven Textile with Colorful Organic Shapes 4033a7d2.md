@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close up of a colorful woven textile with fabric strips 3e3253ae|Photograph Close up of a colorful woven textile with fabric strips]] — shared language: woven, textile, colorful
+- [[knowledge/wiki/images/Close up of a colorful woven textile with fabric strips 496c4ba4|Close up of a colorful woven textile with fabric strips]] — shared language: woven, textile, colorful
 - [[knowledge/wiki/images/Illustration Three Abstract Textile Panels with Colorful Shapes and Tassels 165f9756|Illustration Three Abstract Textile Panels with Colorful Shapes and Tassels]] — shared language: textile, shapes, colorful
-- [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: woven, textile
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: shapes, colorful
+- [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: woven, textile
 - [[knowledge/wiki/images/Illustration Two Abstract Red And White Organic Figures On Black Background 161d994c|Illustration Two Abstract Red And White Organic Figures On Black Background]] — shared language: organic
 <!-- vault-crosslinks:end -->

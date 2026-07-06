@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed cafe or train car interior with people c95ef7e6|framed cafe or train car interior with people]] — shared language: cafe, people, framed
+- [[_archive/auto-generated/images-stale/framed cafe or train car interior with people c95ef7e6|framed cafe or train car interior with people]] — shared language: cafe, framed, people
 - [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: people, framed
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
-- [[Welcome|strauh.al Knowledge Base]] — shared language: people
-- [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: people
+- [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
+- [[knowledge/wiki/images/Illustration Framed Illustration of Two People Embracing in Rain edd926c4|Illustration Framed Illustration of Two People Embracing in Rain]] — shared language: people, framed
 <!-- vault-crosslinks:end -->

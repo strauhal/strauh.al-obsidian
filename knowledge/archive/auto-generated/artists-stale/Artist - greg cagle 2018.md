@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - G. Cagle|Artist - G. Cagle]] — shared language: cagle, centaur
 - [[knowledge/wiki/images/Illustration Blue Line Drawing of Overlapping Female Figure by Cagle df28cb46|Illustration Blue Line Drawing of Overlapping Female Figure by Cagle]] — shared language: cagle
 - [[knowledge/archive/auto-generated/artists-stale/Artist - greg overton|Artist - Greg Overton]] — shared language: greg
-- [[knowledge/wiki/artists/Artist - Greg Girard|Artist - Greg Girard]] — shared language: greg
+- [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — shared language: greg
 <!-- vault-crosslinks:end -->

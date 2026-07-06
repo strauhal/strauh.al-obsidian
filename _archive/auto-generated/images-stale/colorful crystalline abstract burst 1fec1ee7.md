@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Abstract Jagged Crystalline Forms in Grey, White, and Black 7cf7b3f5|Illustration Abstract Jagged Crystalline Forms in Grey, White, and Black]] — shared language: crystalline
 - [[_archive/auto-generated/images-stale/abstract digital visualization featuring a red radial burst and white swirling lines 6c1113c4|abstract digital visualization featuring a red radial burst and white swirling lines]] — shared language: burst
+- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: colorful
-- [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: colorful
-- [[_archive/auto-generated/images-stale/colorful drawing of abstract and cartoon figures in yellow blue and red a570fb52|colorful drawing of abstract and cartoon figures in yellow blue and red]] — shared language: colorful
 <!-- vault-crosslinks:end -->

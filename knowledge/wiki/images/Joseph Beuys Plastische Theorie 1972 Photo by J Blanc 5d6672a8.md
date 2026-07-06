@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Joseph-Beuys-Pla
 ## Discovered Connections
 
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: beuys, joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — shared language: beuys, joseph
 <!-- vault-crosslinks:end -->

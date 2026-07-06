@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer, keyboard
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: monitor
 - [[knowledge/wiki/images/Image Rosetta Stone Connected To A Belkin Computer Keyboard c7d30837|Image Rosetta Stone Connected To A Belkin Computer Keyboard]] — shared language: keyboard, computer
-- [[knowledge/wiki/images/Photograph White Cat on Office Desk with Computer and Keyboard dd7a698f|Photograph White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
-- [[knowledge/wiki/images/Photograph Kitten on Desk with Computer Monitor and Personal Items 9fa4427b|Photograph Kitten on Desk with Computer Monitor and Personal Items]] — shared language: monitor, computer
+- [[knowledge/wiki/images/White Cat on Office Desk with Computer and Keyboard b157ca8c|White Cat on Office Desk with Computer and Keyboard]] — shared language: keyboard, computer
+- [[knowledge/wiki/images/Illustration Old Computer Monitor Shaped Like a House Floating in Sky 6c613df2|Illustration Old Computer Monitor Shaped Like a House Floating in Sky]] — shared language: monitor, computer
 <!-- vault-crosslinks:end -->

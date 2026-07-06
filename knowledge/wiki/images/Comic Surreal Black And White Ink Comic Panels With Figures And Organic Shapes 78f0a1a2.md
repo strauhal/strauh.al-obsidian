@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Surreal 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panels
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic, panels
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: comic, ink
 - [[knowledge/wiki/images/Comic Two Ink Sketch Comic Panels with Figures in Military Attire dd05ac4f|Comic Two Ink Sketch Comic Panels with Figures in Military Attire]] — shared language: comic, panels, ink
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: comic
 <!-- vault-crosslinks:end -->

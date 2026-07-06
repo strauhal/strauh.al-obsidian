@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights 90596a6b|Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights]] — shared language: blur, pastel, motion
 - [[_archive/auto-generated/images-stale/black and white photograph of figures with extreme motion blur 2fe70cce|black and white photograph of figures with extreme motion blur]] — shared language: blur, motion
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
+- [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion
 - [[_archive/auto-generated/images-stale/black and white motion blur photo of a dancer 033719db|black and white motion blur photo of a dancer]] — shared language: blur, motion
-- [[_archive/auto-generated/images-stale/photograph of red digital display with motion blur 1e541b45|photograph of red digital display with motion blur]] — shared language: blur, motion
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Escalator Structure on a Steep Overgrown Hillside 0f75febc|Photograph Escalator Structure on a Steep Overgrown Hillside]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Escalator Structure on a Steep Overgrown Hillside 0f75febc|Photograph Escalator Structure on a Steep Overgrown Hillside]] — named in this note
+- [[knowledge/wiki/images/Escalator Structure on a Steep Overgrown Hillside 471760c9|Escalator Structure on a Steep Overgrown Hillside]] — named in this note
 - [[_archive/auto-generated/images-stale/escalator by avogado6 2020 78e43a96|escalator by avogado6 2020]] — shared language: escalator
 - [[knowledge/wiki/images/steep street by wayne thiebaud 1980 3ecf45dc|steep street by wayne thiebaud 1980]] — shared language: steep
 - [[_archive/auto-generated/images-stale/rocky mountain landscape painting with steep cliffs c5234a34|rocky mountain landscape painting with steep cliffs]] — shared language: steep
-- [[knowledge/wiki/images/the escalator by gino severini 1915 b2f01bbd|the escalator by gino severini 1915]] — shared language: escalator
 <!-- vault-crosslinks:end -->

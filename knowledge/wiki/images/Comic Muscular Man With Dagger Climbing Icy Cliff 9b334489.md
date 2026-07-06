@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Muscu
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/images/Comic Black and White Sci Fi Comic Page with Muscular Figure and Dialogue 3d311f52|Comic Black and White Sci Fi Comic Page with Muscular Figure and Dialogue]] — shared language: muscular, comic
 - [[knowledge/wiki/images/Illustration Man in Red Robe Holding Wavy Dagger 9fd98f3f|Illustration Man in Red Robe Holding Wavy Dagger]] — shared language: dagger
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: icy
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: icy
 - [[knowledge/wiki/images/Illustration Japanese Illustration of Man Holding Dagger, Woman Kneeling Beside Him f314cd19|Illustration Japanese Illustration of Man Holding Dagger, Woman Kneeling Beside Him]] — shared language: dagger
 <!-- vault-crosslinks:end -->

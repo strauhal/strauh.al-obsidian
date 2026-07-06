@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - edvard munch|Artist - edvard munch]] — named in this note
 - [[knowledge/wiki/images/separation by edvard munch c 1896 5a27d139|separation by edvard munch c 1896]] — named in this note
-- [[knowledge/wiki/images/Separation by Edvard Munch (1896) 11553387|Separation by Edvard Munch (1896)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edvard munch 1905|Artist - edvard munch 1905]] — named in this note
+- [[knowledge/wiki/images/Separation by Edvard Munch (1896) 11553387|Separation by Edvard Munch (1896)]] — named in this note
 - [[knowledge/wiki/images/The Kiss by Edvard Munch (1897) 6c8b0fd5|The Kiss by Edvard Munch (1897)]] — shared language: edvard, munch
 - [[knowledge/wiki/images/lying nude by edvard munch 1905 48c31a7f|lying nude by edvard munch 1905]] — shared language: edvard, munch
 <!-- vault-crosslinks:end -->

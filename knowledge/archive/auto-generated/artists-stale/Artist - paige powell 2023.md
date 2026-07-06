@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paige powell|Artist - paige powell]] — named in this note
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: powell
-- [[knowledge/wiki/images/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: powell
+- [[knowledge/wiki/images/Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell b6b7b89d|Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: powell
+- [[_archive/auto-generated/images-stale/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: powell
 - [[knowledge/wiki/images/Illustration Two People And Baby Sleeping In Messy Hotel Room e4d0fb3a|Illustration Two People And Baby Sleeping In Messy Hotel Room]] — shared language: hotel, room
 - [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — shared language: room
-- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 <!-- vault-crosslinks:end -->

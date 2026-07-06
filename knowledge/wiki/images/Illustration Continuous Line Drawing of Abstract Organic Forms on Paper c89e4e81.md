@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of a Woman's Portrait a6fa823f|Illustration Continuous Line Drawing of a Woman's Portrait]] — shared language: continuous, line
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Three Flowers 923caf9b|Illustration Continuous Line Drawing of Three Flowers]] — shared language: continuous, line
 - [[knowledge/wiki/images/Illustration Abstract Blue Organic Forms On Geometric Grid eddf9ac2|Illustration Abstract Blue Organic Forms On Geometric Grid]] — shared language: organic, forms
-- [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: organic, forms
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: organic, forms
 <!-- vault-crosslinks:end -->

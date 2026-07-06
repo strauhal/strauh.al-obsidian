@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph City Street View with World Trade Center Twin Towers in Distance 1936bf53|Photograph City Street View with World Trade Center Twin Towers in Distance]] — shared language: towers, twin, trade
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: towers, trade, center
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: towers, trade, center
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color, distance
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers During 9 11 Attacks ba7bdc7d|Photograph Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: towers, trade, center
+- [[knowledge/wiki/images/City Street View with World Trade Center Twin Towers in Distance 3d6f1c21|City Street View with World Trade Center Twin Towers in Distance]] — shared language: towers, twin, trade
+- [[_archive/auto-generated/images-stale/Photograph City Street View with World Trade Center Twin Towers in Distance 1936bf53|Photograph City Street View with World Trade Center Twin Towers in Distance]] — shared language: towers, twin, trade
+- [[knowledge/wiki/images/Aerial View of World Trade Center Twin Towers and Surrounding City f905d3bf|Aerial View of World Trade Center Twin Towers and Surrounding City]] — shared language: towers, twin, trade
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, center
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: towers, trade, center
 <!-- vault-crosslinks:end -->

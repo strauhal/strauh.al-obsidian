@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_king_of_the_
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Man of the Crowd by Harry Clarke (1919) 69c8aea0|The Man of the Crowd by Harry Clarke (1919)]] — shared language: clarke, harry
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: harry
+- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: land
 - [[knowledge/wiki/books/harry-martinson-aniara|Aniara]] — shared language: harry
-- [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land
+- [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: harry
 <!-- vault-crosslinks:end -->

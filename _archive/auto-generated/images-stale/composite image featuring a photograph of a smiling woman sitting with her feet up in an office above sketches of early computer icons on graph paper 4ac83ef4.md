@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, feet
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: graph, paper
-- [[knowledge/wiki/images/Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare b76c4151|Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare]] — shared language: feet, smiling, above
+- [[knowledge/wiki/images/Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare b76c4151|Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare]] — shared language: feet, smiling, sketches
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph
+- [[knowledge/archive/auto-generated/artists-stale/Artist - early macintosh icons|Artist - early macintosh icons]] — shared language: icons, early
 <!-- vault-crosslinks:end -->

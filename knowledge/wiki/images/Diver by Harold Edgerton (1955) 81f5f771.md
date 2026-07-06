@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Diver by Harold 
 
 - [[knowledge/wiki/artists/Artist - harold edgerton|Artist - harold edgerton]] — shared language: edgerton, harold
 - [[knowledge/wiki/images/tennis player by harold edgerton 1949 d7b03044|tennis player by harold edgerton 1949]] — shared language: edgerton, harold
-- [[knowledge/wiki/images/Photograph Tennis Serve by Harold Edgerton a9a601f9|Photograph Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold
+- [[knowledge/wiki/images/Tennis Serve by Harold Edgerton 9c7ad146|Tennis Serve by Harold Edgerton]] — shared language: edgerton, harold
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: harold
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: harold
 <!-- vault-crosslinks:end -->

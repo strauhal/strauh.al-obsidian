@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Nintendo
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: written
 - [[knowledge/wiki/artists/Artist - Nintendo|Artist - Nintendo]] — shared language: nintendo
 - [[knowledge/wiki/images/Wii Sports by Nintendo (2006) 82db0ef8|Wii Sports by Nintendo (2006)]] — shared language: nintendo
-- [[knowledge/wiki/images/Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting f6f636e3|Photograph Stonehenge Stones Sprayed With Orange Powder, Two People Sitting]] — shared language: powder
-- [[knowledge/wiki/images/Photograph Blue Nintendo DS Carrying Bag With Strap 641b8f15|Photograph Blue Nintendo DS Carrying Bag With Strap]] — shared language: nintendo
+- [[knowledge/wiki/images/Blue Nintendo DS Carrying Bag With Strap f8518568|Blue Nintendo DS Carrying Bag With Strap]] — shared language: nintendo
+- [[knowledge/wiki/images/Nintendo 3DS Console Displaying Digital Painting Application 4377208a|Nintendo 3DS Console Displaying Digital Painting Application]] — shared language: nintendo
 <!-- vault-crosslinks:end -->

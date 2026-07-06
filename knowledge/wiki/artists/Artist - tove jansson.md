@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Tove Jansson Looking Through a Telescope Outdoors 78c50026|Tove Jansson Looking Through a Telescope Outdoors]] — shared language: tove, jansson
 - [[knowledge/wiki/images/Photograph Alpine Ibex Leaping Across a Deep Chasm fcf11853|Photograph Alpine Ibex Leaping Across a Deep Chasm]] — shared language: chasm
 - [[knowledge/wiki/images/thodore philippoteaux arab cavalry crossing a stream 1865 d245ee4a|thodore philippoteaux arab cavalry crossing a stream 1865]] — shared language: crossing
 - [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
 - [[knowledge/wiki/images/Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains 30462e12|Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains]] — shared language: crossing
 - [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — shared language: friends
-- [[knowledge/wiki/images/friends album cover by rick griffin 1968 8c24c70f|friends album cover by rick griffin 1968]] — shared language: friends
 <!-- vault-crosslinks:end -->

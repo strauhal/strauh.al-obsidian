@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pixelated, pattern
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, pattern
 - [[knowledge/wiki/images/Photograph Grey Fabric with Pixelated Anti Surveillance Pattern f08a1486|Photograph Grey Fabric with Pixelated Anti Surveillance Pattern]] — shared language: pixelated, pattern, pattern.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Symmetrical Pattern with Pixelated Texture in Red, Orange, Black 118f7e94|Illustration Abstract Symmetrical Pattern with Pixelated Texture in Red, Orange, Black]] — shared language: pixelated, pattern
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 <!-- vault-crosslinks:end -->

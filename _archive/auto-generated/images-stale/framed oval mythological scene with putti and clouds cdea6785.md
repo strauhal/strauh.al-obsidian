@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed black and white abstract painting with large oval forms f9980788|framed black and white abstract painting with large oval forms]] — shared language: oval, framed
 - [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: clouds, framed, clouds.jpeg
+- [[_archive/auto-generated/images-stale/framed black and white abstract painting with large oval forms f9980788|framed black and white abstract painting with large oval forms]] — shared language: oval, framed
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds
 - [[_archive/auto-generated/images-stale/framed landscape painting with trees and storm clouds c393de45|framed landscape painting with trees and storm clouds]] — shared language: clouds, framed, clouds.jpeg
 - [[_archive/auto-generated/images-stale/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: clouds, framed, clouds.jpeg

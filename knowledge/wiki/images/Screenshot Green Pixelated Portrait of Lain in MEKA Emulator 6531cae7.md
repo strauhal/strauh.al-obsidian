@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster 96593810|Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster]] — shared language: pixelated, green
-- [[knowledge/wiki/images/Illustration Pixelated Green Dragon like Creature on Magenta Background 81b8cccc|Illustration Pixelated Green Dragon like Creature on Magenta Background]] — shared language: pixelated, green
+- [[knowledge/wiki/images/Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape c2d3f531|Illustration Abstract Glitch Art Distorted Skull and Pixelated Green Landscape]] — shared language: pixelated, green
 <!-- vault-crosslinks:end -->

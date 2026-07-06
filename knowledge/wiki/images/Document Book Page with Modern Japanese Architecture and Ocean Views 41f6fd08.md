@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Bo
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Photograph of an Open Book Page with Illustrations 4016926f|Photograph Photograph of an Open Book Page with Illustrations]] — shared language: book, page
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/images/Document Book Page with Japanese Text and Two Prehistoric Venus Figurines 699fb385|Document Book Page with Japanese Text and Two Prehistoric Venus Figurines]] — shared language: japanese, document, book
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: modern, book
 <!-- vault-crosslinks:end -->

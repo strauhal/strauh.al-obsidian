@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - mikalojus konstantinas ciurlionis|Artist - mikalojus konstantinas ciurlionis]] — named in this note
 - [[knowledge/wiki/images/The Sun roars into View by Anna Loginova (2024) e271a490|The Sun roars into View by Anna Loginova (2024)]] — shared language: sun
 - [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: sun
-- [[knowledge/wiki/images/Illustration Eyes Over Water With Setting Sun And Tear b3458669|Illustration Eyes Over Water With Setting Sun And Tear]] — shared language: sun
+- [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: sun
 <!-- vault-crosslinks:end -->

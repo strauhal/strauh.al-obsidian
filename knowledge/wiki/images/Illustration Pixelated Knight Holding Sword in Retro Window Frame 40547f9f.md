@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Screenshot Pixelated Cloaked Figure Holding Sword in Window Frame 4ab0bd3b|Screenshot Pixelated Cloaked Figure Holding Sword in Window Frame]] — shared language: sword, frame, pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: sword, pixelated, holding
 - [[knowledge/wiki/artists/Artist - Bonfire and Sword|Artist - Bonfire and Sword]] — shared language: sword, knight
-- [[knowledge/wiki/images/Illustration Pixel Art of a Dark Rider on Horseback in a Retro Window eadd72a4|Illustration Pixel Art of a Dark Rider on Horseback in a Retro Window]] — shared language: retro, window
+- [[knowledge/wiki/images/Illustration Pixel Art Knight Resting by Bonfire and Sword 7e6106c0|Illustration Pixel Art Knight Resting by Bonfire and Sword]] — shared language: sword, knight
 <!-- vault-crosslinks:end -->

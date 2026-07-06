@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: strange
 - [[knowledge/wiki/images/Illustration Surreal Illustration of Purple Skinned Figures and Spiked Vehicle 1d08042d|Illustration Surreal Illustration of Purple Skinned Figures and Spiked Vehicle]] — shared language: vehicle, surreal
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: grotesque, surreal
-- [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: strange
 - [[knowledge/wiki/images/Illustration Green Fairy With Red Wings, Unicorn, City Skyline At Night 91fac72b|Illustration Green Fairy With Red Wings, Unicorn, City Skyline At Night]] — shared language: unicorn
+- [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: strange
 <!-- vault-crosslinks:end -->

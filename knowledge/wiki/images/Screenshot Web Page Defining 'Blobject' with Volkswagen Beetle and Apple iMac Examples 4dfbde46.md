@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Web
 
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: web, page
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: imac, apple
-- [[knowledge/wiki/images/Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: imac, apple
-- [[knowledge/wiki/images/Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: imac, apple
+- [[knowledge/wiki/images/Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline d76016df|Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: imac, apple
 - [[knowledge/wiki/anchors/web-art|web art]] — shared language: web
+- [[knowledge/wiki/images/Apple iMac DV Special Edition Computer With Mouse And Keyboard f7ff24d6|Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: imac, apple
 <!-- vault-crosslinks:end -->

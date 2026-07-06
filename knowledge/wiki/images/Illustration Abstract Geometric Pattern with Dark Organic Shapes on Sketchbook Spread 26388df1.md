@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: sketchbook
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Painting With Organic Shapes, Geometric Patterns, And Butterfly 22ef4960|Illustration Vibrant Abstract Painting With Organic Shapes, Geometric Patterns, And Butterfly]] — shared language: organic, shapes, geometric
+- [[knowledge/wiki/images/Diagram Geometric Pattern Diagram with Red, Black, and Stippled Shapes d10d838f|Diagram Geometric Pattern Diagram with Red, Black, and Stippled Shapes]] — shared language: pattern, shapes, geometric
 <!-- vault-crosslinks:end -->

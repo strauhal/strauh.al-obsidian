@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1940s"
 source_kind: "date_bucket"
-count: "87"
+count: "86"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1940s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 87
+Files: 86
 
 ## Sample
 

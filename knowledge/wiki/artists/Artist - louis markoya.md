@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
 - [[knowledge/wiki/maps/Map - ChatGPT Memory|Map - ChatGPT Memory]] — shared language: memory
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

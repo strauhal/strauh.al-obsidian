@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/jukan_no_meigets
 - [[knowledge/wiki/artists/Artist - mayumi oda|Artist - mayumi oda]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - Eiichiro Oda|Artist - Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — shared language: moonlight
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — shared language: moonlight
-- [[knowledge/wiki/images/yang kuei fei by mayumi oda 1972 8c842e77|yang kuei fei by mayumi oda 1972]] — shared language: oda
 <!-- vault-crosslinks:end -->

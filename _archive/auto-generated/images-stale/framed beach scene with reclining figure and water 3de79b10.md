@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Impressionistic Beach Scene with Many Figures in Water and Sand fd4f0bcf|Illustration Impressionistic Beach Scene with Many Figures in Water and Sand]] — shared language: beach, scene, water
 - [[_archive/auto-generated/images-stale/framed portrait of a man reclining in a black suit dc5f86c7|framed portrait of a man reclining in a black suit]] — shared language: reclining, framed
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
 - [[_archive/auto-generated/images-stale/framed painting of a red reclining nude in flowers 64bdff46|framed painting of a red reclining nude in flowers]] — shared language: reclining, framed
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
 <!-- vault-crosslinks:end -->

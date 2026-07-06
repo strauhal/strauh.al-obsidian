@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes 7a1cd769|Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes]] — shared language: horizontal, shapes, lines
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: shapes, geometric
-- [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, lines
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Bright Geometric Shapes 7db191c0|Illustration Abstract Painting of Interlocking Bright Geometric Shapes]] — shared language: shapes, geometric
+- [[knowledge/wiki/images/Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes 3a5aa82c|Illustration Abstract Geometric Design with Radiating Lines and Diamond Shapes]] — shared language: shapes, lines, geometric
 <!-- vault-crosslinks:end -->

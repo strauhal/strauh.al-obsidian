@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Four-
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/artists/Artist - Kim Jung Gi|Artist - Kim Jung Gi]] — shared language: kim, jung
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: comic, four, panel
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
 - [[knowledge/wiki/images/Comic Comic Panels Reacting To Illustrator Kim Jung Gi's Death af120808|Comic Comic Panels Reacting To Illustrator Kim Jung Gi's Death]] — shared language: kim, jung, comic
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
 <!-- vault-crosslinks:end -->

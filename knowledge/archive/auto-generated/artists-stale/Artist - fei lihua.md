@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Fei Lihua|Artist - Fei Lihua]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - fei lihua 2016|Artist - fei lihua 2016]] — named in this note
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 - [[_archive/auto-generated/images-stale/study of hands by fei lihua 2016 ab731c4b|study of hands by fei lihua 2016]] — shared language: lihua, fei, hands
 - [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
 - [[knowledge/wiki/artists/Artist - Fei Danxu|Artist - Fei Danxu]] — shared language: fei
-- [[knowledge/archive/auto-generated/artists-stale/Artist - cao fei|Artist - cao fei]] — shared language: fei
 <!-- vault-crosslinks:end -->

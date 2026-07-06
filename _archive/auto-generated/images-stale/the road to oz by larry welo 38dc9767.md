@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - larry elmore 1983|Artist - larry elmore 1983]] — shared language: larry
 - [[knowledge/archive/auto-generated/artists-stale/Artist - larry elmore 1990|Artist - larry elmore 1990]] — shared language: larry
 - [[knowledge/wiki/artists/Artist - larry elmore|Artist - larry elmore]] — shared language: larry
+- [[knowledge/wiki/artists/Artist - Larry Clark|Artist - Larry Clark]] — shared language: larry
 - [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — shared language: larry
-- [[knowledge/wiki/images/dragon rider by larry elmore 1983 abf151ad|dragon rider by larry elmore 1983]] — shared language: larry
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Symmetrical Abstract Geometric Drawing with Lines and Dots on Grid by Eugene Von Bruenchenhein 76934403|Illustration Symmetrical Abstract Geometric Drawing with Lines and Dots on Grid by Eugene Von Bruenchenhein]] — shared language: symmetrical, dots, grid
+- [[knowledge/wiki/images/Illustration Symmetrical Abstract Geometric Drawing with Lines and Dots on Grid by Eugene Von Bruenchenhein 76934403|Illustration Symmetrical Abstract Geometric Drawing with Lines and Dots on Grid by Eugene Von Bruenchenhein]] — shared language: dots, symmetrical, grid
 - [[knowledge/wiki/images/Illustration Black and White Symmetrical Geometric Design with Radiating Lines 050a3c74|Illustration Black and White Symmetrical Geometric Design with Radiating Lines]] — shared language: symmetrical, design, lines
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, complex, paper
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, grid, paper
 - [[knowledge/wiki/images/Illustration Complex Symmetrical Abstract Pattern of Dark Lines d9fa61c2|Illustration Complex Symmetrical Abstract Pattern of Dark Lines]] — shared language: symmetrical, complex, lines
 - [[knowledge/wiki/artists/Artist - Eugene Von Bruenchenhein|Artist - Eugene Von Bruenchenhein]] — shared language: dots, symmetrical, lines
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: viewer, suits, pointing
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Frank Zappa Pointing at Viewer 88d2630c|Photograph Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: viewer, pointing, viewer.jpg
+- [[knowledge/wiki/images/Four Men in Dark Suits Pointing Towards Viewer f314da73|Four Men in Dark Suits Pointing Towards Viewer]] — shared language: suits, viewer, pointing
+- [[_archive/auto-generated/images-stale/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: suits, viewer, pointing
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
-- [[_archive/auto-generated/images-stale/black and white photograph of a man with long hair and a moustache pointing directly at the viewer 93f32e5d|black and white photograph of a man with long hair and a moustache pointing directly at the viewer]] — shared language: viewer, pointing, viewer.jpg
+- [[knowledge/wiki/images/Black and White Photograph of Frank Zappa Pointing at Viewer 09b26044|Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: viewer, pointing, viewer.jpg
 <!-- vault-crosslinks:end -->

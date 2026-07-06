@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/conceptual design for a 100 dinara banknote featuring a sketch of a brown bear 79e14be9|conceptual design for a 100 dinara banknote featuring a sketch of a brown bear]] — shared language: dinara, bear, brown
+- [[_archive/auto-generated/images-stale/conceptual design for a 100 dinara banknote featuring a sketch of a brown bear 79e14be9|conceptual design for a 100 dinara banknote featuring a sketch of a brown bear]] — shared language: dinara, bear, featuring
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: bear
 - [[_archive/auto-generated/books-stale/demystifying-maxmsp|DEMYSTIFYING-MAXMSP]] — shared language: design

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/thomas_jacques_s
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jacques
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
 - [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — shared language: thomas
-- [[knowledge/wiki/images/montague dawson the kings ship mid20th century e2c2eacd|montague dawson the kings ship mid20th century]] — shared language: ship
+- [[knowledge/wiki/books/jacques-ranci-re-the-monument-and-its-confidences|The Monument and Its Confidences]] — shared language: jacques
 <!-- vault-crosslinks:end -->

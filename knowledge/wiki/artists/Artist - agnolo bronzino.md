@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552) 8437ddde|Portrait of Guidobaldo II della Rovere by Agnolo Bronzino (c. 1550 1552)]] — shared language: agnolo, bronzino
 - [[knowledge/wiki/images/Illustration Statue of Zeus at Olympia 279bcbac|Illustration Statue of Zeus at Olympia]] — shared language: statue
 - [[knowledge/wiki/images/Photograph Minimalist White Tunnel With Statue Holding Black Flag 8453cb88|Photograph Minimalist White Tunnel With Statue Holding Black Flag]] — shared language: statue
-- [[knowledge/wiki/images/Photograph Cemetery With Angel Statue And Foggy Trees 0cf6d51c|Photograph Cemetery With Angel Statue And Foggy Trees]] — shared language: statue
+- [[knowledge/wiki/images/Cemetery With Angel Statue And Foggy Trees 3e90f85c|Cemetery With Angel Statue And Foggy Trees]] — shared language: statue
 - [[knowledge/wiki/images/Illustration Stylized Blue City With Angel Statue And Glowing Data Grid e91f95a6|Illustration Stylized Blue City With Angel Statue And Glowing Data Grid]] — shared language: statue
 - [[knowledge/wiki/collections/Collection - 1500s|Collection - 1500s]] — shared language: agnolo
 <!-- vault-crosslinks:end -->

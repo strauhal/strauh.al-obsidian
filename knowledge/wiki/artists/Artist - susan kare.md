@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Woman Combing Hair by Susan Kare (1984) 944ab1cb|Woman Combing Hair by Susan Kare (1984)]] — shared language: kare, susan
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art Dog Cow Character by Susan Kare dd3f428c|Illustration Black and White Pixel Art Dog Cow Character by Susan Kare]] — shared language: kare, susan
 - [[knowledge/wiki/images/Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare b76c4151|Image Smiling Woman With Feet Up Above Computer Icon Sketches by Susan Kare]] — shared language: kare, susan
-- [[knowledge/wiki/images/Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons a0f5ab4e|Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons]] — shared language: kare, susan
+- [[knowledge/wiki/images/Susan Kare with feet on computer, surrounded by vintage tech and icons 115309b5|Susan Kare with feet on computer, surrounded by vintage tech and icons]] — shared language: kare, susan
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: susan
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: apple, pro, max
+- [[knowledge/wiki/images/Three Apple M2 Pro and M2 Max SOCs 1763dace|Three Apple M2 Pro and M2 Max SOCs]] — shared language: apple, pro, max
 - [[knowledge/wiki/images/Apple WWDC22 M2 chip M1 chip 2up 220606 crop bf300f2a|Apple WWDC22 M2 chip M1 chip 2up 220606 crop]] — shared language: apple, chip
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: apple
 - [[knowledge/wiki/artists/Artist - Apple Inc|Artist - Apple Inc]] — shared language: apple

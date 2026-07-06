@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/rig_scan_7_jp
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: scan
-- [[knowledge/wiki/images/Diagram CT Scan of Skull With Hyperdontia 4fb5d6e0|Diagram CT Scan of Skull With Hyperdontia]] — shared language: scan
+- [[knowledge/wiki/images/CT Scan of Skull With Hyperdontia 6a5b02ee|CT Scan of Skull With Hyperdontia]] — shared language: scan
+- [[_archive/auto-generated/images-stale/Diagram CT Scan of Skull With Hyperdontia 4fb5d6e0|Diagram CT Scan of Skull With Hyperdontia]] — shared language: scan
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig f0a0d4a8|Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig]] — shared language: rig
 - [[_archive/auto-generated/images-stale/screenshot of 3d modeling software showing a low poly female character rig 31eb5e9b|screenshot of 3d modeling software showing a low poly female character rig]] — shared language: rig
-- [[knowledge/wiki/images/Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan d276ff6e|Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan]] — shared language: scan
 <!-- vault-crosslinks:end -->

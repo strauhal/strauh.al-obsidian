@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated
+- [[knowledge/wiki/images/Three Costumed Figures, One Kneeling, One Standing, One Seated 0c031df4|Three Costumed Figures, One Kneeling, One Standing, One Seated]] — shared language: one, seated, three
 - [[knowledge/wiki/images/Illustration Two Seated Women, One In Polka Dots, One In Blue b9a012c8|Illustration Two Seated Women, One In Polka Dots, One In Blue]] — shared language: one, women, seated
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: suit, oil
-- [[_archive/auto-generated/images-stale/oil painting portrait of a man in a dark suit d0e4ae5b|oil painting portrait of a man in a dark suit]] — shared language: suit, oil
-- [[knowledge/wiki/images/Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background b936b744|Illustration Stylized Women With Umbrellas And A Framed Portrait On Grey Background]] — shared language: grey, women
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kacper kowalski|Artist - Kacper Kowalski]] — named in this note
+- [[knowledge/wiki/artists/Artist - Kacper Kowalski|Artist - Kacper Kowalski]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kacper kowalski|Artist - Kacper Kowalski]] — shared language: kacper, kowalski
 - [[knowledge/wiki/images/Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski bb6228ef|Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski]] — shared language: kacper, kowalski
 - [[_archive/auto-generated/images-stale/krakow poland by tomasz wiech 2013 ef40212d|krakow poland by tomasz wiech 2013]] — shared language: poland
 <!-- vault-crosslinks:end -->

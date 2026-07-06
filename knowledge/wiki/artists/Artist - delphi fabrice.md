@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne b8c6e6a4|Photograph Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne]] — shared language: fabrice
+- [[knowledge/wiki/images/Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne f7cda0d6|Lighthouse Being Engulfed By A Massive Ocean Wave by Fabrice Le Borgne]] — shared language: fabrice
 - [[knowledge/wiki/books/thomas-de-quincey-the-confessions-of-an-english-opium-eater-being-an-extract-from-the-life-of-a-scholar|The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar]] — shared language: opium
 - [[knowledge/wiki/images/Comic Man In White Pushing Door To Opium Den With Sleeping Figures 8bfb389b|Comic Man In White Pushing Door To Opium Den With Sleeping Figures]] — shared language: opium
 - [[knowledge/wiki/images/1922 434 the place du havre paris jpg de2bd35e|1922 434 the place du havre paris jpg]] — shared language: paris

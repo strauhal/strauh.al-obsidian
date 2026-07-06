@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_ha
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — shared language: harris
 - [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: harris
-- [[knowledge/wiki/images/pyramid by john harris 1986 72dec726|pyramid by john harris 1986]] — shared language: harris
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: harris
 <!-- vault-crosslinks:end -->

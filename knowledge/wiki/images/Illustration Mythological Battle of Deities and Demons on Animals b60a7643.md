@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: animals, animals.jpg
+- [[knowledge/wiki/images/Evolutionary Tree of Various Animals Over Time 0459eb81|Evolutionary Tree of Various Animals Over Time]] — shared language: animals
 - [[knowledge/wiki/images/Illustration Detailed Black and White Panoramic Drawing of Figures and Animals 9d6fc5c1|Illustration Detailed Black and White Panoramic Drawing of Figures and Animals]] — shared language: animals
 - [[knowledge/wiki/images/Illustration Drawing of Figures in a Celestial Battle or Allegory 0f824e6b|Illustration Drawing of Figures in a Celestial Battle or Allegory]] — shared language: battle
-- [[knowledge/wiki/images/Diagram Evolutionary Tree of Various Animals Over Time 7852f6c0|Diagram Evolutionary Tree of Various Animals Over Time]] — shared language: animals
 <!-- vault-crosslinks:end -->

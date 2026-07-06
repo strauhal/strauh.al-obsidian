@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - agnes packard|Artist - agnes packard]] — shared language: packard, strawberry
 - [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: packard
 - [[knowledge/wiki/images/strawberry picker by agnes packard 1970 2569c788|strawberry picker by agnes packard 1970]] — shared language: packard, strawberry
-- [[knowledge/wiki/images/Photograph Hewlett Packard Spaceball 3D Input Device ba42b4b2|Photograph Hewlett Packard Spaceball 3D Input Device]] — shared language: packard
+- [[knowledge/wiki/images/Hewlett Packard Spaceball 3D Input Device 2c2b9f2f|Hewlett Packard Spaceball 3D Input Device]] — shared language: packard
 - [[knowledge/wiki/images/Olive Trees with Two Olive Pickers by Vincent van Gogh (1889) 5dd3e37e|Olive Trees with Two Olive Pickers by Vincent van Gogh (1889)]] — shared language: pickers
 <!-- vault-crosslinks:end -->

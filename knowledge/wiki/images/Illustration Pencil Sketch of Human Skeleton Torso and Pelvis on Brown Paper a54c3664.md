@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 - [[knowledge/wiki/images/Illustration Anatomical Illustration of Male Human Skeleton in Three Views 96ba65a3|Illustration Anatomical Illustration of Male Human Skeleton in Three Views]] — shared language: skeleton, human
-- [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: skeleton, human
+- [[knowledge/wiki/images/Illustration Sketch Of A Figure On Horseback On Lined Paper 93013978|Illustration Sketch Of A Figure On Horseback On Lined Paper]] — shared language: paper, sketch, paper.jpeg
 <!-- vault-crosslinks:end -->

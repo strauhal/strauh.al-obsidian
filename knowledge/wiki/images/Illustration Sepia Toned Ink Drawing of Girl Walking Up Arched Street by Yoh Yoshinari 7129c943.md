@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, ink
 - [[knowledge/wiki/images/Illustration Man Washing Hands in Sepia Toned Bathroom df72f550|Illustration Man Washing Hands in Sepia Toned Bathroom]] — shared language: toned, sepia, sepia-toned
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/images/Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble 8913815b|Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble]] — shared language: toned, sepia, sepia-toned
 - [[knowledge/wiki/images/Photograph Sepia Toned Photograph of Starling Murmuration Forming Wave Shape d50bcd1e|Photograph Sepia Toned Photograph of Starling Murmuration Forming Wave Shape]] — shared language: toned, sepia, sepia-toned
+- [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: walking, street
 <!-- vault-crosslinks:end -->

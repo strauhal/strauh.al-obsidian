@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/black and white geometric op art pattern 63adac02|black and white geometric op art pattern]] — shared language: pattern, geometric, pattern.jpeg
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[_archive/auto-generated/images-stale/gray abstract line drawing of a seated figure 55e4cfe5|gray abstract line drawing of a seated figure]] — shared language: gray, line
-- [[_archive/auto-generated/images-stale/framed geometric abstract painting with black red and gray shapes 4aa82352|framed geometric abstract painting with black red and gray shapes]] — shared language: gray, geometric
+- [[_archive/auto-generated/images-stale/geometric abstract print with dark green and cream zigzag pattern 2d57f42c|geometric abstract print with dark green and cream zigzag pattern]] — shared language: print, pattern, geometric
 <!-- vault-crosslinks:end -->

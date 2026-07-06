@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Emboss - Saitone
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Elks Magazine Cover by Franklin Booth (1926) 5e24620b|Elks Magazine Cover by Franklin Booth (1926)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Elvis Presley Smiling, Walking in Brown Suit, 1970s cc9a2add|Elvis Presley Smiling, Walking in Brown Suit, 1970s]] — nearby note in the same source series
 - [[knowledge/wiki/images/Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty) 66c0d901|Emperor Minghuang's Journey into Shu by Li Zhaodao (Song Dynasty)]] — nearby note in the same source series
-- [[knowledge/wiki/images/Electric Avenue by Seth Armstrong 05bdf962|Electric Avenue by Seth Armstrong]] — nearby note in the same source series
+- [[knowledge/wiki/images/Elon Musk's Twitter X Posting Activity Over Time 8f44baf6|Elon Musk's Twitter X Posting Activity Over Time]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

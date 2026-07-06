@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Comple
 - [[knowledge/wiki/images/Diagram Complex Geometric Line Drawing of a Radial Polytope Structure d6aaa8ff|Diagram Complex Geometric Line Drawing of a Radial Polytope Structure]] — shared language: polytope, complex, diagram
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: six
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: six
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: complex, diagram, geometric
 <!-- vault-crosslinks:end -->

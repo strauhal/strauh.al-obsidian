@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: boat
 - [[_archive/auto-generated/images-stale/misty fjord landscape with a small figure in red a1ea8b08|misty fjord landscape with a small figure in red]] — shared language: fjord, landscape
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: boat
 - [[_archive/auto-generated/images-stale/tonalist river landscape with boat and low hills 3af493a1|tonalist river landscape with boat and low hills]] — shared language: boat, landscape
 - [[_archive/auto-generated/images-stale/moonlit lake landscape with boat and mountains ee686f79|moonlit lake landscape with boat and mountains]] — shared language: boat, landscape
 - [[_archive/auto-generated/images-stale/framed coastal landscape with red hill and small boat 9ce393b9|framed coastal landscape with red hill and small boat]] — shared language: boat, landscape

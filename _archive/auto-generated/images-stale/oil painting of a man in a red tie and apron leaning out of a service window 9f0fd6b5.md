@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Michael Jackson Leaning Out Of Car Window, Pointing 76691b10|Photograph Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: leaning, window
+- [[knowledge/wiki/images/Michael Jackson Leaning Out Of Car Window, Pointing 49452865|Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: leaning, window
+- [[_archive/auto-generated/images-stale/Photograph Michael Jackson Leaning Out Of Car Window, Pointing 76691b10|Photograph Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: leaning, window
 - [[_archive/auto-generated/images-stale/photograph of a man in a black suit and red shirt leaning out of a vehicle window and pointing ec7ecbbc|photograph of a man in a black suit and red shirt leaning out of a vehicle window and pointing]] — shared language: leaning, window
 - [[_archive/auto-generated/images-stale/framed painting of a woman leaning on a balcony e96b994f|framed painting of a woman leaning on a balcony]] — shared language: leaning
-- [[_archive/auto-generated/images-stale/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: window, oil
-- [[knowledge/wiki/images/Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD) 47041d67|Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD)]] — shared language: tie
+- [[_archive/auto-generated/images-stale/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: oil, window
 <!-- vault-crosslinks:end -->

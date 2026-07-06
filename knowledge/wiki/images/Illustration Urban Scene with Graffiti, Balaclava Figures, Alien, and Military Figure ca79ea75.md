@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - U
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, scene
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: alien
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: alien
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban
-- [[knowledge/wiki/images/Photograph Street Artist Drawing Man In Balaclava d1c362a3|Photograph Street Artist Drawing Man In Balaclava]] — shared language: balaclava
 - [[knowledge/wiki/images/Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti 7b6b1747|Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti]] — shared language: urban, graffiti, scene
+- [[knowledge/wiki/images/Street Artist Drawing Man In Balaclava a74063dd|Street Artist Drawing Man In Balaclava]] — shared language: balaclava
 <!-- vault-crosslinks:end -->

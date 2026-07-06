@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bru
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Claus Brechenmacher and Reiner Baumann|Artist - Claus Brechenmacher and Reiner Baumann]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: claus, reiner, baumann
 - [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann 2ca5c871|Photograph Minimalist Concrete Interior with Skylight and Scenic Window View by Claus Brechenmacher and Reiner Baumann]] — shared language: claus, reiner, baumann
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
-- [[knowledge/wiki/images/Photograph Modern Brutalist Building on a City Street 8143aa56|Photograph Modern Brutalist Building on a City Street]] — shared language: brutalist
+- [[knowledge/wiki/images/Valley of Silence by Franklin Booth (1919) 15082c83|Valley of Silence by Franklin Booth (1919)]] — shared language: silence
 <!-- vault-crosslinks:end -->

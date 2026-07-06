@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, silver, mask
+- [[knowledge/wiki/images/Contact Sheet of MF DOOM in Silver Mask and Red Shirt 27fb91f0|Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, silver, mask
+- [[_archive/auto-generated/images-stale/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: contact, silver, mask
 - [[_archive/auto-generated/images-stale/gallery photo of black and white contact sheet with standing figures 816885b3|gallery photo of black and white contact sheet with standing figures]] — shared language: contact, sheet
 - [[_archive/auto-generated/images-stale/photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones 441ff984|photograph of a man in a hoodie holding an electronic device connected by a coiled cable to a woman wearing headphones]] — shared language: device, electronic, holding
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: device
-- [[knowledge/wiki/images/david bowie contact sheet paris by helmut newton 1980 c522dff5|david bowie contact sheet paris by helmut newton 1980]] — shared language: contact, sheet
 <!-- vault-crosslinks:end -->

@@ -2,14 +2,14 @@
 title: Books Folder Title List
 slug: books
 type: library
-ingested: 2026-07-02
+ingested: 2026-07-06
 compiled: true
 tags: [raw, books]
 ---
 
 # Books Folder Title List
 
-Entries: 418
+Entries: 419
 
 - Figure Drawing for All It's Worth — Andrew Loomis (1951)
 - Introductory Lectures on Aesthetics — Bosanquet, Bernard Hegel,Georg,Wilhelm Friedrich Inwood, Michael (2010)
@@ -388,6 +388,7 @@ Entries: 418
 - The Fold: Leibniz and the Baroque — Gilles Deleuze (1988)
 - Postscript on the Societies of Control — Gilles Deleuze (1990)
 - handwriting
+- hanon pianist
 - Aniara — Harry Martinson (1956)
 - how dawkins got pwned
 - humphries paper copy

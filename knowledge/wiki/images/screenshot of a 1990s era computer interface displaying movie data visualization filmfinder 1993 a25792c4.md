@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/screenshot_of_a_
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: displaying, screenshot, computer
 - [[knowledge/wiki/images/Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches 33962a62|Screenshot Blender 4.2.1 LTS Interface Displaying Two Face Sketches]] — shared language: interface, displaying, screenshot
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: era
 - [[knowledge/wiki/artists/Artist - Musical Era|Artist - Musical Era]] — shared language: era
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: era
 <!-- vault-crosslinks:end -->

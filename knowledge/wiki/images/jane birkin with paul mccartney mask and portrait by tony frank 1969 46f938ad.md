@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/jane_birkin_with
 
 - [[knowledge/wiki/artists/Artist - tony crisp|Artist - tony crisp]] — shared language: tony
 - [[knowledge/wiki/images/the cathedral by tony crisp 1989 d223c400|the cathedral by tony crisp 1989]] — shared language: tony
-- [[knowledge/wiki/images/Photograph Paul McCartney and Earl Sweatshirt Posing Together 68e3af67|Photograph Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: mccartney, paul
+- [[knowledge/wiki/images/Paul McCartney and Earl Sweatshirt Posing Together c80d34c1|Paul McCartney and Earl Sweatshirt Posing Together]] — shared language: mccartney, paul
 - [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: mask, paul
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
 <!-- vault-crosslinks:end -->

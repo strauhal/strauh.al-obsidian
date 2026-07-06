@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/batman_year_one_
 - [[knowledge/wiki/culture/reading-batman-year-one|Reading - Batman: Year One]] — shared language: batman, one, year
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
+- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — shared language: year
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 <!-- vault-crosslinks:end -->

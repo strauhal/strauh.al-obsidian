@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — named in this note
 - [[knowledge/wiki/images/marcel proust 53d13fd9|marcel proust]] — shared language: marcel, proust
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: proust, marcel
 - [[knowledge/wiki/books/marcel-proust-in-search-of-lost-time-complete-volumes|In Search of Lost Time (Complete Volumes)]] — shared language: proust, marcel
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: proust, marcel
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: proust, marcel
 - [[knowledge/wiki/images/marcel duchamp 1919 l h o o q jpg 510edb42|marcel duchamp 1919 l h o o q jpg]] — shared language: marcel
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Xinlisupreme|Artist - Xinlisupreme]] — shared language: blonde, hair
 - [[knowledge/wiki/images/Illustration White Haired Character with Long Ears, Green Eyes, Finger to Lips 1bef354c|Illustration White Haired Character with Long Ears, Green Eyes, Finger to Lips]] — shared language: ears, character
-- [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: blonde, hair
 - [[knowledge/wiki/images/Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower 01713fa5|Screenshot Animated Film Still of a Figure in a Field, Then a Sunflower]] — shared language: animated, screenshot
-- [[knowledge/wiki/images/Photograph Young Men Wearing Mexican Pointy Boots d7b6aa75|Photograph Young Men Wearing Mexican Pointy Boots]] — shared language: pointy
-- [[knowledge/wiki/images/Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone f6f61723|Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone]] — shared language: blonde, hair
+- [[knowledge/wiki/images/Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme 21e1d2fa|Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme]] — shared language: blonde, hair
+- [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: blonde, hair
 <!-- vault-crosslinks:end -->

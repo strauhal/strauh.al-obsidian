@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cassandra_s_char
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: bill
 - [[knowledge/wiki/images/Illustration Anime Character Design Sheet with Multiple Figures a6ebdf5d|Illustration Anime Character Design Sheet with Multiple Figures]] — shared language: sheet, character
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
 - [[knowledge/wiki/images/Illustration Anime Character Design Sheet with Annotations for a Male Character 43a56e00|Illustration Anime Character Design Sheet with Annotations for a Male Character]] — shared language: sheet, character
 - [[knowledge/wiki/artists/Artist - bill owens|Artist - bill owens]] — shared language: bill
-- [[knowledge/wiki/artists/Artist - Bill Bernstein|Artist - Bill Bernstein]] — shared language: bill
 <!-- vault-crosslinks:end -->

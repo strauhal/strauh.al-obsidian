@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig, van
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/images/Beethoven 250 by David Hockney (2020) 2d3aaf70|Beethoven 250 by David Hockney (2020)]] — shared language: beethoven
 <!-- vault-crosslinks:end -->

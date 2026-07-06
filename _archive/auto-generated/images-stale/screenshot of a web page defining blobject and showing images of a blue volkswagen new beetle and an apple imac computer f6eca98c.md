@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Web Page Defining 'Blobject' with Volkswagen Beetle and Apple iMac Examples 4dfbde46|Screenshot Web Page Defining 'Blobject' with Volkswagen Beetle and Apple iMac Examples]] — shared language: defining, blobject, volkswagen
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web, showing
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: imac, apple, computer
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: web, page
-- [[knowledge/wiki/images/Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: imac, apple, computer
+- [[knowledge/wiki/images/Apple iMac DV Special Edition Computer With Mouse And Keyboard f7ff24d6|Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: imac, apple, computer
+- [[_archive/auto-generated/images-stale/Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: imac, apple, computer
 <!-- vault-crosslinks:end -->

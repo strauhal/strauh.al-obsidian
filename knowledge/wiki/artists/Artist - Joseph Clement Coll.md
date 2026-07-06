@@ -29,10 +29,10 @@ Images attributed by filename: 4
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: clement
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — shared language: clement
-- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 <!-- vault-crosslinks:end -->

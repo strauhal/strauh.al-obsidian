@@ -35,7 +35,7 @@ Images attributed by filename: 5
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/wiki/images/My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969) eb2088aa|My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969)]] — shared language: avedon, richard
 - [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
-- [[knowledge/wiki/images/Photograph John F. Kennedy and Robert F. Kennedy, The White House, Washington, D.C., April 10, 1961 by Richard Avedon 8f24ee77|Photograph John F. Kennedy and Robert F. Kennedy, The White House, Washington, D.C., April 10, 1961 by Richard Avedon]] — shared language: avedon, richard, john
 - [[knowledge/wiki/images/green and blue by richard anuszkiewicz 1965 fe283760|green and blue by richard anuszkiewicz 1965]] — shared language: richard
+- [[knowledge/wiki/images/John F. Kennedy and Robert F. Kennedy, The White House, Washington, D.C., April 10, 1961 by Richard Avedon a6deefe3|John F. Kennedy and Robert F. Kennedy, The White House, Washington, D.C., April 10, 1961 by Richard Avedon]] — shared language: avedon, richard, john
 - [[knowledge/wiki/images/Man in Space by Richard Anuszkiewicz (1962) cc22252b|Man in Space by Richard Anuszkiewicz (1962)]] — shared language: richard
 <!-- vault-crosslinks:end -->

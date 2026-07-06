@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Scalloped Edges and Orange Circle 75e1e9e2|Illustration Abstract Geometric Painting with Scalloped Edges and Orange Circle]] — shared language: scalloped
+- [[knowledge/wiki/images/Black And White Image Of Person Curled Up On Hexagonal Floor 484998d3|Black And White Image Of Person Curled Up On Hexagonal Floor]] — shared language: hexagonal
 - [[knowledge/wiki/images/Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines bc3e2f33|Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines]] — shared language: hexagonal
-- [[knowledge/wiki/images/Photograph Black And White Image Of Person Curled Up On Hexagonal Floor 9891fd18|Photograph Black And White Image Of Person Curled Up On Hexagonal Floor]] — shared language: hexagonal
 - [[knowledge/wiki/images/Photograph Four Blue and White Ceramic Tiles in a Wooden Frame 40df4fc6|Photograph Four Blue and White Ceramic Tiles in a Wooden Frame]] — shared language: tiles
-- [[knowledge/wiki/images/Photograph Circular Islamic Geometric and Arabesque Tile Mosaic cb82b8ef|Photograph Circular Islamic Geometric and Arabesque Tile Mosaic]] — shared language: islamic
+- [[knowledge/wiki/images/Illustration Curved Sculpture Covered In Iridescent Square Tiles 598fd53c|Illustration Curved Sculpture Covered In Iridescent Square Tiles]] — shared language: tiles, tiles.jpeg
 <!-- vault-crosslinks:end -->

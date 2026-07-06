@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: grazing, cows, rolling
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: rolling, hills, sky
 - [[knowledge/wiki/images/stylized painting of green rolling hills and grazing cattle by eyvind earle 1968 44000d15|stylized painting of green rolling hills and grazing cattle by eyvind earle 1968]] — shared language: grazing, rolling, hills
 - [[_archive/auto-generated/images-stale/framed landscape with sheep on rolling green hills a1941bc7|framed landscape with sheep on rolling green hills]] — shared language: rolling, hills, green
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, sky, green
-- [[_archive/auto-generated/images-stale/pastoral landscape painting of hills and a village a8a38588|pastoral landscape painting of hills and a village]] — shared language: hills, village
 <!-- vault-crosslinks:end -->

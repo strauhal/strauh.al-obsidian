@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: chuck
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[knowledge/wiki/images/macintosh family by chuck walker 1986 b7fc587d|macintosh family by chuck walker 1986]] — shared language: chuck
-- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close
-- [[knowledge/wiki/images/Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror 55a16c92|Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: chuck
+- [[knowledge/wiki/images/Chuck Jones Drawing His Surprised Reflection In A Mirror 397312af|Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: chuck
 - [[knowledge/wiki/images/Illustration Close Up Portrait of a Person with Blue Eyes 5ec84914|Illustration Close Up Portrait of a Person with Blue Eyes]] — shared language: close
+- [[knowledge/wiki/images/Illustration Close Up Line Art Portrait of a Woman with Wavy Hair 2114d4de|Illustration Close Up Line Art Portrait of a Woman with Wavy Hair]] — shared language: close
+- [[knowledge/wiki/images/Close Up Of A Blue Jay's Head 78b81a5a|Close Up Of A Blue Jay's Head]] — shared language: close
 <!-- vault-crosslinks:end -->

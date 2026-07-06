@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block 33d737c1|Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block]] — shared language: nude, pencil, sketch
-- [[knowledge/wiki/images/Illustration Two Pencil Figure Studies of Seated Nude Figures 12ca1dba|Illustration Two Pencil Figure Studies of Seated Nude Figures]] — shared language: nude, pencil
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block 33d737c1|Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block]] — shared language: pencil, nude, sketch
+- [[knowledge/wiki/images/Illustration Two Pencil Figure Studies of Seated Nude Figures 12ca1dba|Illustration Two Pencil Figure Studies of Seated Nude Figures]] — shared language: pencil, nude
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

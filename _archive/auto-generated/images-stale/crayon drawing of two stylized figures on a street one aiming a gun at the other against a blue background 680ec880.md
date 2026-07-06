@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun 745e2b08|Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun]] — shared language: aiming, crayon, gun
+- [[knowledge/wiki/images/Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun 745e2b08|Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun]] — shared language: crayon, aiming, gun
 - [[knowledge/wiki/images/Illustration Crayon And Ink Drawing Of Two Figures, One With Gun, On Street 21c5acfe|Illustration Crayon And Ink Drawing Of Two Figures, One With Gun, On Street]] — shared language: crayon, gun, one
 - [[_archive/auto-generated/images-stale/crayon and ink drawing of two figures on a street one holding a gun a08f96cc|crayon and ink drawing of two figures on a street one holding a gun]] — shared language: crayon, gun, one
 - [[_archive/auto-generated/images-stale/crayon drawing of a figure pointing a gun at another figure on a street 690d84ea|crayon drawing of a figure pointing a gun at another figure on a street]] — shared language: crayon, gun, street

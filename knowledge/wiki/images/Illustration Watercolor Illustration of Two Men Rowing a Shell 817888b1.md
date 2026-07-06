@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor
 - [[knowledge/wiki/images/the shell by yoshitaka amano 1992 949a5bb3|the shell by yoshitaka amano 1992]] — shared language: shell
 - [[knowledge/wiki/images/Illustration Watercolor Painting of Stylized Female Figure with Red Flowers 23aafe47|Illustration Watercolor Painting of Stylized Female Figure with Red Flowers]] — shared language: watercolor
-- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
+- [[knowledge/wiki/images/Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers 2a300ad4|Illustration Watercolor Sketch of a Cafe Interior with Baristas and Customers]] — shared language: watercolor
 <!-- vault-crosslinks:end -->

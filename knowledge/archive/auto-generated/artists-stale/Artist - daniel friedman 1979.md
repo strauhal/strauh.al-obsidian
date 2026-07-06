@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - daniel friedman|Artist - daniel friedman]] — named in this note
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles|Artist - Daniel Isles]] — shared language: daniel
+- [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham|Artist - daniel arsham]] — shared language: daniel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel arsham 2019|Artist - daniel arsham 2019]] — shared language: daniel
-- [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
 <!-- vault-crosslinks:end -->

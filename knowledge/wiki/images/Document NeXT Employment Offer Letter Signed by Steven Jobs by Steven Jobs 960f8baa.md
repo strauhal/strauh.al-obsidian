@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ne
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
 - [[knowledge/wiki/books/open-letter|open letter]] — shared language: letter
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs
-- [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: jobs
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/books/david-graeber-bullshit-jobs-a-theory|Bullshit Jobs A Theory]] — shared language: jobs
 <!-- vault-crosslinks:end -->

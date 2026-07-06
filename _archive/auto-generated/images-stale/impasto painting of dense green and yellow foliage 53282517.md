@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/two color illustration of a girl and an animal in dense green foliage 0c11b2ec|two color illustration of a girl and an animal in dense green foliage]] — shared language: foliage, dense, green
 - [[_archive/auto-generated/images-stale/impasto oil painting of an aspen birch forest with yellow and green foliage by frank balaam 9884446d|impasto oil painting of an aspen birch forest with yellow and green foliage by frank balaam]] — shared language: impasto, foliage, yellow
 - [[_archive/auto-generated/images-stale/two color illustration of a girl and a small white animal in dense green foliage 0e7522c2|two color illustration of a girl and a small white animal in dense green foliage]] — shared language: foliage, dense, green
-- [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: foliage, green, foliage.jpeg
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 <!-- vault-crosslinks:end -->

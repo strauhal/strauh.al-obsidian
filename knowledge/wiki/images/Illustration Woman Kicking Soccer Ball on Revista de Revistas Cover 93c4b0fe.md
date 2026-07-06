@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Screenshot Soccer Player On Field With Ball And Santander Banner 6a415b00|Screenshot Soccer Player On Field With Ball And Santander Banner]] — shared language: soccer, ball
 - [[knowledge/wiki/images/Illustration Figure in Headphones Kicking Machine, Shattering Glass on Red Background e6654d20|Illustration Figure in Headphones Kicking Machine, Shattering Glass on Red Background]] — shared language: kicking
+- [[knowledge/wiki/images/Race Car Number 7 Kicking Up Dust at 1906 Vanderbilt Cup ae0d5338|Race Car Number 7 Kicking Up Dust at 1906 Vanderbilt Cup]] — shared language: kicking
 - [[knowledge/wiki/images/something on the eight ball by stuart davis 19531954 a21888ac|something on the eight ball by stuart davis 19531954]] — shared language: ball
-- [[knowledge/wiki/images/Photograph Mural on Pink Building with Disco Ball and Humorous Text 810ac878|Photograph Mural on Pink Building with Disco Ball and Humorous Text]] — shared language: ball
-- [[knowledge/wiki/images/Illustration Cartoon Child With Ball Among Silhouettes And Speech Bubbles 59352a7c|Illustration Cartoon Child With Ball Among Silhouettes And Speech Bubbles]] — shared language: ball
+- [[knowledge/wiki/images/Mural on Pink Building with Disco Ball and Humorous Text 4adbb962|Mural on Pink Building with Disco Ball and Humorous Text]] — shared language: ball
 <!-- vault-crosslinks:end -->

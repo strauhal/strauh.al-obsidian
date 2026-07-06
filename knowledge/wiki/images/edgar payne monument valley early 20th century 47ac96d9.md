@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/edgar_payne_monu
 - [[knowledge/wiki/images/Monument Valley by Toshi Yoshida (1972) bb6e353f|Monument Valley by Toshi Yoshida (1972)]] — shared language: monument, valley
 - [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: early, century
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: early
-- [[knowledge/wiki/images/Photograph Full Moon Over Monument Valley Desert Landscape 7b31180a|Photograph Full Moon Over Monument Valley Desert Landscape]] — shared language: monument, valley
+- [[knowledge/wiki/images/Full Moon Over Monument Valley Desert Landscape 36c075aa|Full Moon Over Monument Valley Desert Landscape]] — shared language: monument, valley
 - [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: early, century
 <!-- vault-crosslinks:end -->

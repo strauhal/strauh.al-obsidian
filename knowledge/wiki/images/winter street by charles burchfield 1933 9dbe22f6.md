@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/winter_street_by
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/images/Photograph Man in winter coat and fur lined hat on Ainslie Street a4c24dfe|Photograph Man in winter coat and fur lined hat on Ainslie Street]] — shared language: winter, street
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 <!-- vault-crosslinks:end -->

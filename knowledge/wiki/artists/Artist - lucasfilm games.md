@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2012) 26e66a0b|War Games by Petrina Ryan Kleid (2012)]] — shared language: games
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: dave
 - [[knowledge/wiki/images/Maniac by Conan Gray (2019) ed3ffa9f|Maniac by Conan Gray (2019)]] — shared language: maniac
-- [[knowledge/wiki/images/Photograph Sarcastic Letter From Dave About Treefort Complaint db763ed6|Photograph Sarcastic Letter From Dave About Treefort Complaint]] — shared language: dave
 - [[knowledge/wiki/artists/Artist - dave gibbons|Artist - dave gibbons]] — shared language: dave
+- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 <!-- vault-crosslinks:end -->

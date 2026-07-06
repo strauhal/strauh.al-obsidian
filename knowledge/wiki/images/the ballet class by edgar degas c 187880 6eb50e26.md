@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_ballet_class
 - [[knowledge/wiki/images/the dance class by edgar degas 1874 8da86325|the dance class by edgar degas 1874]] — same artist: edgar degas
 - [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — same artist: edgar degas
 - [[knowledge/wiki/images/the ballet class la classe de danse by edgar degas 18711874 b7153c54|the ballet class la classe de danse by edgar degas 18711874]] — same artist: edgar degas
-- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — same artist: edgar degas
 - [[knowledge/wiki/images/the star by edgar degas c 1878 8dc4650a|the star by edgar degas c 1878]] — same artist: edgar degas
+- [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — same artist: edgar degas
 <!-- vault-crosslinks:end -->

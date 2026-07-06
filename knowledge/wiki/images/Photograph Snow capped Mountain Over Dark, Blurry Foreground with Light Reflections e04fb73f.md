@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sno
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Grainy, Blurry View of Light Through a Dark Opening f9c3437e|Photograph Grainy, Blurry View of Light Through a Dark Opening]] — shared language: blurry, light, dark
-- [[knowledge/wiki/images/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, snow-capped
-- [[knowledge/wiki/images/Photograph Silver Teapot On Post With Snow Capped Mountains In Background 2352752e|Photograph Silver Teapot On Post With Snow Capped Mountains In Background]] — shared language: capped, snow, snow-capped
-- [[knowledge/wiki/images/Photograph Horses Grazing in a Green Field with Snow Capped Mountains 7113fa12|Photograph Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: capped, snow, snow-capped
-- [[knowledge/wiki/images/Photograph Blurry Photo of Blonde Woman with Cigarette in Red Light 481625de|Photograph Blurry Photo of Blonde Woman with Cigarette in Red Light]] — shared language: blurry, light
+- [[knowledge/wiki/images/Grainy, Blurry View of Light Through a Dark Opening eac43c5a|Grainy, Blurry View of Light Through a Dark Opening]] — shared language: blurry, light, dark
+- [[knowledge/wiki/images/Aerial View of City, Water, and Snow Capped Mountains f2eb6868|Aerial View of City, Water, and Snow Capped Mountains]] — shared language: capped, snow, snow-capped
+- [[knowledge/wiki/images/Horses Grazing in a Green Field with Snow Capped Mountains bccaac19|Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: capped, snow, snow-capped
+- [[knowledge/wiki/images/Blurry Photo of Blonde Woman with Cigarette in Red Light 3841cca1|Blurry Photo of Blonde Woman with Cigarette in Red Light]] — shared language: blurry, light
+- [[knowledge/wiki/images/Illustration Misty Mountain Valley with Prominent Tree in Foreground f3739480|Illustration Misty Mountain Valley with Prominent Tree in Foreground]] — shared language: foreground, mountain
 <!-- vault-crosslinks:end -->

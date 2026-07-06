@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
 - [[_archive/auto-generated/images-stale/screen door png 19aa7855|screen door png]] — shared language: door
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: door
-- [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: door
 - [[_archive/auto-generated/images-stale/photo through a screen door of trees bbe51fd4|photo through a screen door of trees]] — shared language: door
+- [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: door
 <!-- vault-crosslinks:end -->

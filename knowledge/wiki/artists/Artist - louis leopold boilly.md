@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Leopold Aschenbrenner|Artist - Leopold Aschenbrenner]] — shared language: leopold
 - [[knowledge/wiki/artists/Artist - Leopold Schmutzler|Artist - Leopold Schmutzler]] — shared language: leopold
 - [[knowledge/wiki/images/Siren by Leopold Schmutzler 806a2fba|Siren by Leopold Schmutzler]] — shared language: leopold
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — shared language: leopold
 - [[knowledge/wiki/images/portrait of louis xv in coronation robes by jean baptiste van loo 1723 db26ff1d|portrait of louis xv in coronation robes by jean baptiste van loo 1723]] — shared language: louis, baptiste, jean
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - jean baptiste van loo|Artist - jean baptiste van loo]] — shared language: louis, baptiste, jean
 <!-- vault-crosslinks:end -->

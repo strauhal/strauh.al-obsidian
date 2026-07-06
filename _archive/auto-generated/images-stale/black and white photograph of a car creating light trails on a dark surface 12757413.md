@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Car Creating Light Trails on Dark Surface 63a23d68|Photograph Car Creating Light Trails on Dark Surface]] — shared language: trails, creating, surface
+- [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Car Creating Light Trails on Dark Surface 63a23d68|Photograph Car Creating Light Trails on Dark Surface]] — shared language: trails, creating, surface
 - [[_archive/auto-generated/images-stale/silhouette of a figure standing on a dark surface reflecting swirling golden light 637a3e78|silhouette of a figure standing on a dark surface reflecting swirling golden light]] — shared language: surface, light, dark
-- [[knowledge/wiki/images/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: trails, light
-- [[_archive/auto-generated/images-stale/nighttime photograph of a cityscape with illuminated skyscrapers and vehicle light trails f6296b81|nighttime photograph of a cityscape with illuminated skyscrapers and vehicle light trails]] — shared language: trails, light
-- [[knowledge/wiki/images/Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails 2b7c8253|Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails]] — shared language: trails, light
+- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: trails, light
+- [[_archive/auto-generated/images-stale/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: trails, light
 <!-- vault-crosslinks:end -->

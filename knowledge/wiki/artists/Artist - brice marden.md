@@ -30,6 +30,6 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/Illustration Multiple Figure Studies in Black Ink 62cea0b9|Illustration Multiple Figure Studies in Black Ink]] — shared language: studies
 - [[knowledge/wiki/images/Illustration Pixel Art Collage of Nine Album Covers and Other Images 4c7ddd67|Illustration Pixel Art Collage of Nine Album Covers and Other Images]] — shared language: nine
 - [[knowledge/wiki/images/Illustration Grid of Nine Black and White Drawings of a Man's Profile 036c08c6|Illustration Grid of Nine Black and White Drawings of a Man's Profile]] — shared language: nine
-- [[knowledge/wiki/images/Photograph Haesley Nine Bridges Golf Club House 9808fc0f|Photograph Haesley Nine Bridges Golf Club House]] — shared language: nine
 - [[knowledge/wiki/images/Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes 88cef3ee|Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes]] — shared language: nine
+- [[knowledge/wiki/images/studies in composition after goya 1899 59ba8b76|studies in composition after goya 1899]] — shared language: studies
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/cindy sherman by keith haring 1985 81fe23fc|cindy sherman by keith haring 1985]] — shared language: haring, keith
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
-- [[knowledge/wiki/images/Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi c915f3d3|Photograph Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/images/Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi 8c1270cd|Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
 <!-- vault-crosslinks:end -->

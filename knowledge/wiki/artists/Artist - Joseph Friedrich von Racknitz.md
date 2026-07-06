@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph, friedrich
 - [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: friedrich
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: von
 - [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: von

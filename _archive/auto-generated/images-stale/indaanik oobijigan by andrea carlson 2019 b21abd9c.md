@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - john f carlson|Artist - john f carlson]] — shared language: carlson
 - [[knowledge/wiki/images/the sentinels by john f carlson c 1920 05522448|the sentinels by john f carlson c 1920]] — shared language: carlson
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andrea mantegna|Artist - andrea mantegna]] — shared language: andrea
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: andrea
+- [[knowledge/wiki/artists/Artist - Andrea Pozzo|Artist - Andrea Pozzo]] — shared language: andrea
 <!-- vault-crosslinks:end -->

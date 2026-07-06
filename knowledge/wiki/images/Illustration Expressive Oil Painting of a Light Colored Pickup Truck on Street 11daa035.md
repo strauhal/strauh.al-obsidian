@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - E
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans 90810815|Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: pickup, truck
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/images/Pickup Truck With Anti Israel And Pro Palestine Slogans 886974b2|Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: pickup, truck
 - [[knowledge/wiki/images/Illustration Expressive Sketch of Woman's Face with Colored Hatching 1bbe855a|Illustration Expressive Sketch of Woman's Face with Colored Hatching]] — shared language: expressive, colored
-- [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: truck
 - [[knowledge/wiki/images/Illustration Expressive Painting of Nude Figure in Landscape da18a7de|Illustration Expressive Painting of Nude Figure in Landscape]] — shared language: expressive
-- [[knowledge/wiki/images/Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon 48461781|Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon]] — shared language: expressive
+- [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: truck
 <!-- vault-crosslinks:end -->

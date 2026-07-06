@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-angel-by-gerard-seghers|Artist - the angel by gerard seghers]] — shared language: seghers, gerard, angel
 - [[knowledge/wiki/artists/Artist - gerard david|Artist - gerard david]] — shared language: gerard
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel
 - [[_archive/auto-generated/images-stale/the crucifixion by gerard david c 1495 58fd0900|the crucifixion by gerard david c 1495]] — shared language: gerard
 - [[knowledge/wiki/images/The Crucifixion by Gerard David (c. 1495) 47b51192|The Crucifixion by Gerard David (c. 1495)]] — shared language: gerard
 - [[knowledge/wiki/images/the nativity with angels and shepherds by gerard david c 15101515 05ef9279|the nativity with angels and shepherds by gerard david c 15101515]] — shared language: gerard
-- [[_archive/auto-generated/images-stale/gerard van honthorst old woman and boy with a candle c 16201635 90b2beb0|gerard van honthorst old woman and boy with a candle c 16201635]] — shared language: gerard
 <!-- vault-crosslinks:end -->

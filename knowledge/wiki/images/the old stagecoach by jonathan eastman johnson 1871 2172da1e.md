@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_old_stagecoa
 - [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
 - [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — shared language: johnson
 - [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: jonathan
-- [[knowledge/wiki/artists/Artist - Aaron Johnson|Artist - Aaron Johnson]] — shared language: johnson
+- [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — shared language: jonathan
 <!-- vault-crosslinks:end -->

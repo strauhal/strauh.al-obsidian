@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Composition of Flowing Blue and Red Pigments 41258373|Illustration Abstract Composition of Flowing Blue and Red Pigments]] — named in this note
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: composition, light
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: composition, light
+- [[_archive/auto-generated/images-stale/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: composition, light
 - [[_archive/auto-generated/images-stale/abstract painting with flowing red yellow and blue forms b7abd286|abstract painting with flowing red yellow and blue forms]] — shared language: flowing
-- [[knowledge/wiki/images/Illustration Abstract Painting With Flowing Red, Yellow, And Blue Forms 2c267d69|Illustration Abstract Painting With Flowing Red, Yellow, And Blue Forms]] — shared language: flowing
 <!-- vault-crosslinks:end -->

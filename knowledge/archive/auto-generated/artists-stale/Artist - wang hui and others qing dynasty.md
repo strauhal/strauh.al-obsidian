@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - wang hui|Artist - wang hui]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wang hui 1693|Artist - wang hui 1693]] — named in this note
 - [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: hui, qing, wang
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: others
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hongren qing dynasty|Artist - hongren qing dynasty]] — shared language: qing, dynasty
 - [[knowledge/wiki/images/a thousand peaks and myriad ravines by wang hui 1693 a9213b2e|a thousand peaks and myriad ravines by wang hui 1693]] — shared language: hui, wang
+- [[knowledge/archive/auto-generated/artists-stale/Artist - ren xiong qing dynasty|Artist - ren xiong qing dynasty]] — shared language: qing, dynasty
 <!-- vault-crosslinks:end -->

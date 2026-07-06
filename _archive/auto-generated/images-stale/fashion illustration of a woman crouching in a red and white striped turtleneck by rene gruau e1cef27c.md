@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/fashion portrait of a woman in a striped wrap 712f7973|fashion portrait of a woman in a striped wrap]] — shared language: fashion, striped
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: fashion
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion, striped
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion, striped
 <!-- vault-crosslinks:end -->

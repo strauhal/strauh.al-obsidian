@@ -32,10 +32,10 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Golden Temple at Sunrise with Person Meditating by Water 7d0b7f97|Golden Temple at Sunrise with Person Meditating by Water]] — named in this note
+- [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — named in this note
+- [[knowledge/wiki/images/Person With Green Skin And Red Sunglasses Splashed By Water 41963806|Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: water, splashed, skin
 - [[_archive/auto-generated/images-stale/photograph of a person with green skin and red sunglasses being splashed by water against a blue background 4ad59eca|photograph of a person with green skin and red sunglasses being splashed by water against a blue background]] — shared language: water, splashed, skin
 - [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: water, splashed, skin
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple, ink, landscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
-- [[knowledge/wiki/images/water cd9d9b2f|water]] — shared language: water
 <!-- vault-crosslinks:end -->

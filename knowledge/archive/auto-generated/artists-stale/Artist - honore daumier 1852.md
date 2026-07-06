@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - honore daumier|Artist - honore daumier]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - honore daumier 1858|Artist - honore daumier 1858]] — named in this note
 - [[knowledge/wiki/images/the print collector by honore daumier c 1860 1865 7d3725a8|the print collector by honore daumier c 1860 1865]] — shared language: daumier, honore
+- [[knowledge/wiki/images/man seated wearing a cap by honore daumier 1858 40d0bf67|man seated wearing a cap by honore daumier 1858]] — shared language: daumier, honore
 - [[knowledge/wiki/artists/Artist - honore victorin daumier|Artist - honore victorin daumier]] — shared language: daumier, honore
 - [[knowledge/archive/auto-generated/artists-stale/Artist - honore victorin daumier 1857 65|Artist - honore victorin daumier 1857 65]] — shared language: daumier, honore
-- [[knowledge/wiki/images/man seated wearing a cap by honore daumier 1858 40d0bf67|man seated wearing a cap by honore daumier 1858]] — shared language: daumier, honore
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
-- [[knowledge/wiki/images/Photograph iMac Computer on Rock at Beach with Clear Chair 9d9581a4|Photograph iMac Computer on Rock at Beach with Clear Chair]] — shared language: imac, clear
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
-- [[knowledge/wiki/images/1612770647828 fa3a2f26|1612770647828]] — shared language: computers
+- [[knowledge/wiki/images/Photograph iMac Computer on Rock at Beach with Clear Chair 9d9581a4|Photograph iMac Computer on Rock at Beach with Clear Chair]] — shared language: imac, clear
 <!-- vault-crosslinks:end -->

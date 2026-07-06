@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - N
 - [[knowledge/wiki/books/rooney-sally-normal-people-faber-faber|Normal People-Faber & Faber]] — shared language: normal
 - [[knowledge/wiki/images/Illustration Abstract Winged Figure with Eye, Sword, and Pomegranate Trees a825ddac|Illustration Abstract Winged Figure with Eye, Sword, and Pomegranate Trees]] — shared language: winged
 - [[knowledge/wiki/images/Comic Robot Explaining Abstract Art To Two People 9d8cfbf0|Comic Robot Explaining Abstract Art To Two People]] — shared language: robot
-- [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: robot
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle fc144e23|Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle]] — shared language: winged
+- [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: robot
 <!-- vault-crosslinks:end -->

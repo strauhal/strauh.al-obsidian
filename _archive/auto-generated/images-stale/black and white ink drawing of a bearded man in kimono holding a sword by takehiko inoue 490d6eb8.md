@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Takehiko Inoue|Artist - Takehiko Inoue]] — named in this note
 - [[knowledge/wiki/images/Comic Vagabond by Takehiko Inoue 25e76e62|Comic Vagabond by Takehiko Inoue]] — same artist: takehiko inoue
 - [[knowledge/wiki/images/Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue 1efa02d7|Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue]] — same artist: takehiko inoue
 - [[_archive/auto-generated/images-stale/panel from the manga vagabond depicting miyamoto musashi in a dynamic sword stance by takehiko inoue 53bf0be9|panel from the manga vagabond depicting miyamoto musashi in a dynamic sword stance by takehiko inoue]] — same artist: takehiko inoue
-- [[knowledge/wiki/images/Photograph Man in Kimono, 2009 vs. 2020, with Woman 610aac85|Photograph Man in Kimono, 2009 vs. 2020, with Woman]] — shared language: kimono
-- [[knowledge/wiki/images/Comic Bearded Man In Traditional Attire Holding A Sword d24d41f8|Comic Bearded Man In Traditional Attire Holding A Sword]] — shared language: bearded, sword, holding
+- [[knowledge/wiki/images/Man in Kimono, 2009 vs. 2020, with Woman 9259d078|Man in Kimono, 2009 vs. 2020, with Woman]] — shared language: kimono
 <!-- vault-crosslinks:end -->

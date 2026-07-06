@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[knowledge/wiki/artists/Artist - Frank and Lillian Gilbreth|Artist - Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
 - [[_archive/auto-generated/images-stale/39272 Frank Gilbreth 2ed2af6f|39272 Frank Gilbreth]] — shared language: gilbreth, frank, gilbreth.jpg
 - [[knowledge/wiki/images/Chronocyclegraph of a Solderer by Frank and Lillian Gilbreth (1914) 86013d09|Chronocyclegraph of a Solderer by Frank and Lillian Gilbreth (1914)]] — shared language: lillian, gilbreth, frank
-- [[knowledge/wiki/images/Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth 7047fab1|Photograph Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
+- [[knowledge/wiki/images/Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth a8dc8553|Chronocyclegraph Motion Study of a Worker by Frank and Lillian Gilbreth]] — shared language: lillian, gilbreth, frank
 <!-- vault-crosslinks:end -->

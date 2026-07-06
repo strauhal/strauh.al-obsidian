@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
 source_relpath: "knowledge_base/2024_misc_bookmarks.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base 2024 misc bookmarks
@@ -453,7 +453,7 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 97 of 395 links connected (45 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 99 of 395 links connected (47 nodes).*
 
 **[[The Internet as Confidant]]** — [The Art of Metal Gear Solid V : Konami Yoji Shinkawa : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up) · [If You Don’t Understand Conceptual Art, It’s Not Your Fault / Artsy](https://www.artsy.net/article/artsy-editorial-if-you-don-t-understand-conceptual-art-it-s-not-your-fault) · [Make WordArt - Online word art generator](https://www.makewordart.com/) · [CLOG](https://www.clog-online.com/) · [Vaporwave / Aesthetics Wiki / Fandom](https://aesthetics.fandom.com/wiki/Vaporwave) · [The Web Export Target / Cycling '74](https://rnbo.cycling74.com/learn/the-web-export-target) · [Students defeat new 'Barnacle' parking clamp, skip fines and get free internet / Driving](https://driving.ca/auto-news/news/students-defeat-new-barnacle-parking-boot-skip-fines-and-get-free-internet) · [LiveLeak, the internet’s font of gore and violence, has shut down - The Verge](https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix) · [The Online Hell of Amazon's Mechanical Turk - The Atlantic](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/) · [How China's most enduring meme has lasted a decade / Mashable](https://mashable.com/article/china-reaction-images-4chan) · [I Wish I Didn't Miss the '90s-00s Internet / rohan ganapavarapu](https://rohan.ga/blog/early-internet/?utm_source=tldrnewsletter) · [German Idealism / Internet Encyclopedia of Philosophy](https://iep.utm.edu/germidea/) · [Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/) · [THE 7th VOYAGE OF SINBAD (1958) 2008 BDRip - Ray Harryhausen : Morningside Productions : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the-7-th-voyage-of-sinbad-1958-ray-harryhausen) · [(6) What is this black square on the left? : cinematography](https://www.reddit.com/r/cinematography/comments/12aiok9/what_is_this_black_square_on_the_left/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [In 50 years, what movies do you think will be the "classics" of the last 10-15 years? : AskReddit](https://www.reddit.com/r/AskReddit/comments/cmad2/comment/c0tlmx9/) · [(16) Repost: A Parallel Life / Awoken By A Lamp : Glitch_in_the_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/30t9kd/repost_a_parallel_life_awoken_by_a_lamp/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [Create Your Own Quantum Mechanics Simulation (With Python) / by Philip Mocz / Level Up Coding](https://levelup.gitconnected.com/create-your-own-quantum-mechanics-simulation-with-python-51e215346798) · [Reddit thinks ChatGPT-like AI will ‘complement’ human connection, not replace it - The Verge](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard)
 
@@ -499,7 +499,11 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 **[[Artist - Quayola]]** — [Landscape Paintings - QUAYOLA](https://quayola.com/selected-landscape-paintings/)
 
+**[[Artist - Security]]** — [Amazon admits employees listen to Alexa conversations / The Independent / The Independent](https://www.independent.co.uk/tech/amazon-alexa-echo-listening-spy-security-a8865056.html)
+
 **[[Artist - Vija Celmins]]** — [Explore the art of Vija Celmins / Tate](https://www.tate.org.uk/art/artists/vija-celmins-2731/explore-art-vija-celmins)
+
+**[[Artist - Xinlisupreme]]** — [The Political is Personal for Japan’s Xinlisupreme / Bandcamp Daily](https://daily.bandcamp.com/features/the-political-is-personal-for-japans-xinlisupreme)
 
 **[[Artist - glenn ligon]]** — [Neons — GLENN LIGON](http://www.glennligonstudio.com/neons)
 

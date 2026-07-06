@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/vanity_by_frank_
 
 - [[knowledge/wiki/images/The Awakening of Psyche by Frank Cadogan Cowper (1903) f6e5e467|The Awakening of Psyche by Frank Cadogan Cowper (1903)]] — shared language: cadogan, cowper, frank
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/images/vanity by john william waterhouse 1900 1d86cae6|vanity by john william waterhouse 1900]] — shared language: vanity
-- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 <!-- vault-crosslinks:end -->

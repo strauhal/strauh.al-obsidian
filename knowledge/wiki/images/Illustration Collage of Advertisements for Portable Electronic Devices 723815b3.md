@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/Screenshot Cuddling With Multiple Devices b0197fd8|Screenshot Cuddling With Multiple Devices]] — shared language: devices, devices.jpg
 - [[knowledge/wiki/books/friedrich-nietzsche-ed-walter-kaufmann-the-portable-nietzsche|The Portable Nietzsche]] — shared language: portable
 - [[knowledge/wiki/images/Illustration Collage of Electronic Schematics, Text, and Blue Sky 0cb90c69|Illustration Collage of Electronic Schematics, Text, and Blue Sky]] — shared language: electronic, collage
-- [[knowledge/wiki/images/Photograph Retro Transparent Electronic Devices and Storage Media on Pink Background d5edc628|Photograph Retro Transparent Electronic Devices and Storage Media on Pink Background]] — shared language: devices, electronic
-- [[knowledge/wiki/images/Photograph Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo 92bdb984|Photograph Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo]] — shared language: devices, electronic
+- [[knowledge/wiki/images/Retro Transparent Electronic Devices and Storage Media on Pink Background 5ce31032|Retro Transparent Electronic Devices and Storage Media on Pink Background]] — shared language: devices, electronic
+- [[knowledge/wiki/images/Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo 8294f48b|Custom Built Electronic Devices with Knobs and Switches by Kazumoto Endo]] — shared language: devices, electronic
 <!-- vault-crosslinks:end -->

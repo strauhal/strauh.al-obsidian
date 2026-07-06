@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert vancas 2017|Artist - robert vancas 2017]] — named in this note
+- [[knowledge/wiki/artists/Artist - Robert Vancas|Artist - Robert Vancas]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas 0932adc5|Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas]] — same artist: robert vancas
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
 <!-- vault-crosslinks:end -->

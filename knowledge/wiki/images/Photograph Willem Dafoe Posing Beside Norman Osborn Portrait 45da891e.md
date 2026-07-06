@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wil
 
 - [[knowledge/wiki/images/Photograph Willem Dafoe Posing With Portrait Of Himself In Gallery 64251a51|Photograph Willem Dafoe Posing With Portrait Of Himself In Gallery]] — shared language: dafoe, willem, posing
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of Willem Dafoe Looking Up at a Cat 4fccdaef|Illustration Charcoal Drawing of Willem Dafoe Looking Up at a Cat]] — shared language: dafoe, willem
-- [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: willem
 - [[knowledge/wiki/artists/Artist - norman rockwell|Artist - norman rockwell]] — shared language: norman
+- [[knowledge/wiki/artists/Artist - willem de kooning 195052|Artist - willem de kooning 195052]] — shared language: willem
 - [[knowledge/wiki/artists/Artist - norman seeff|Artist - norman seeff]] — shared language: norman
 <!-- vault-crosslinks:end -->

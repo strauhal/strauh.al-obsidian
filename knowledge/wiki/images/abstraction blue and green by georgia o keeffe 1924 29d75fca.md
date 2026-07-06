@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/abstraction_blue
 - [[knowledge/wiki/images/green mountain lake george by georgia o keeffe 1932 1bb66352|green mountain lake george by georgia o keeffe 1932]] — same artist: georgia keeffe
 - [[knowledge/wiki/images/New York Street with Moon by Georgia O'Keeffe (1925) 0f6e496b|New York Street with Moon by Georgia O'Keeffe (1925)]] — shared language: georgia
 - [[knowledge/wiki/images/abstraction flower by arthur dove 1924 477b2512|abstraction flower by arthur dove 1924]] — shared language: abstraction
-- [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: green
+- [[knowledge/wiki/images/Illustration Geometric Abstraction of Buildings and Structures Against a Dark Blue Sky by Charles Sheeler 15705f10|Illustration Geometric Abstraction of Buildings and Structures Against a Dark Blue Sky by Charles Sheeler]] — shared language: abstraction
 <!-- vault-crosslinks:end -->

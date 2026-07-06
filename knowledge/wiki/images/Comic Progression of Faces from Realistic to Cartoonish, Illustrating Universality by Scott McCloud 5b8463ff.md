@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Progr
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
-- [[knowledge/wiki/images/Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp af1f3240|Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp]] — shared language: realistic
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
+- [[knowledge/wiki/images/Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp af1f3240|Illustration Realistic Painting of a Large Manila Envelope with Metal Clasp]] — shared language: realistic
 - [[knowledge/wiki/images/Comic Comparison of Realistic Face and Simple Cartoon Face with Text 0cd78263|Comic Comparison of Realistic Face and Simple Cartoon Face with Text]] — shared language: realistic, comic
-- [[knowledge/wiki/images/Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures 0c3308a7|Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures]] — shared language: realistic
+- [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
 <!-- vault-crosslinks:end -->

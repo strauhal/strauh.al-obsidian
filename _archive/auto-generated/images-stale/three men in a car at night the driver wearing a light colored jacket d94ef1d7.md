@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
-- [[knowledge/wiki/images/Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace afa35642|Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: jacket, wearing
 - [[knowledge/wiki/images/Comic Horse Mocks Wrecked Car And Driver With Text a824a306|Comic Horse Mocks Wrecked Car And Driver With Text]] — shared language: driver, car
-- [[knowledge/wiki/images/Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text c3e4165b|Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text]] — shared language: colored, light
+- [[knowledge/wiki/images/Man With Dreadlocks And Cap Wearing Black Jacket And Necklace daae99a3|Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: jacket, wearing
+- [[_archive/auto-generated/images-stale/Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace afa35642|Photograph Man With Dreadlocks And Cap Wearing Black Jacket And Necklace]] — shared language: jacket, wearing
 - [[knowledge/wiki/images/Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket 4923a93f|Illustration Graphic Portrait of Woman with Blue Hair and Green Jacket]] — shared language: jacket, jacket.jpg
 <!-- vault-crosslinks:end -->

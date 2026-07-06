@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Man in Turkey Costume Carving Food on Subway Train b3233ee7|Photograph Man in Turkey Costume Carving Food on Subway Train]] — shared language: turkey, carving, subway
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, subway
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: piece, large
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[_archive/auto-generated/images-stale/photograph of a large red mascot costume head next to a child fee62e46|photograph of a large red mascot costume head next to a child]] — shared language: costume, large
-- [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
+- [[_archive/auto-generated/images-stale/illustration of a man carving a wooden head sculpture while holding a glass of wine d092d6cd|illustration of a man carving a wooden head sculpture while holding a glass of wine]] — shared language: carving
 <!-- vault-crosslinks:end -->

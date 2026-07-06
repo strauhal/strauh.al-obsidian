@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Dirt Road Leading To Bush In Field Under Blue Sky c1ca03a3|Photograph Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: bush, dirt, leading
+- [[knowledge/wiki/images/Dirt Road Leading To Bush In Field Under Blue Sky 6b591200|Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: bush, dirt, leading
+- [[_archive/auto-generated/images-stale/Photograph Dirt Road Leading To Bush In Field Under Blue Sky c1ca03a3|Photograph Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: bush, dirt, leading
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/images/Illustration Road Leading to Mesa Under Orange Sky and Large Sun f0de5f25|Illustration Road Leading to Mesa Under Orange Sky and Large Sun]] — shared language: leading, road, sky
 <!-- vault-crosslinks:end -->

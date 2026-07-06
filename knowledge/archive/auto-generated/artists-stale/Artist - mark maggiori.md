@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori 2015|Artist - mark maggiori 2015]] — named in this note
 - [[_archive/auto-generated/images-stale/the canyon by mark maggiori 2015 e6296053|the canyon by mark maggiori 2015]] — shared language: maggiori, mark
 - [[_archive/auto-generated/images-stale/mark maggiori out where the big clouds are 2022 cd9a2f6c|mark maggiori out where the big clouds are 2022]] — shared language: maggiori, mark
 - [[knowledge/wiki/images/The Vermillion Trail by Mark Maggiori (2021) 1fb0958d|The Vermillion Trail by Mark Maggiori (2021)]] — shared language: maggiori, mark
 - [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis|Artist - mark francis]] — shared language: mark
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — same artist: enrico marini
+- [[knowledge/wiki/artists/Artist - Enrico Marini|Artist - Enrico Marini]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - enrico marini 2011|Artist - enrico marini 2011]] — named in this note
 - [[knowledge/wiki/artists/Artist - marino marini|Artist - marino marini]] — shared language: marini
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marino marini 1951|Artist - marino marini 1951]] — shared language: marini
-- [[knowledge/wiki/artists/Artist - enrico donati|Artist - enrico donati]] — shared language: enrico
 <!-- vault-crosslinks:end -->

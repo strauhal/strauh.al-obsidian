@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin 047f0795|Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin]] — shared language: selfie, coffin
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: selfie
 - [[knowledge/wiki/anchors/danny-boyle|Danny Boyle]] — shared language: danny
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: selfie
-- [[knowledge/wiki/images/Photograph Crowd Carrying Coffin Clashes With Police During Street Protest 621c8f57|Photograph Crowd Carrying Coffin Clashes With Police During Street Protest]] — shared language: coffin
+- [[knowledge/wiki/images/Large Group Of People Posing For A Selfie 08232790|Large Group Of People Posing For A Selfie]] — shared language: selfie
+- [[_archive/auto-generated/images-stale/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: selfie
 <!-- vault-crosslinks:end -->

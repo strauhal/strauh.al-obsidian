@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - oneen|Artist - Oneen]] — named in this note
+- [[knowledge/wiki/artists/Artist - Oneen|Artist - Oneen]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - oneen|Artist - Oneen]] — shared language: oneen
 - [[knowledge/wiki/images/Illustration Stylized Person Wearing Headphones and Baggy Jeans by Oneen ba0df9c1|Illustration Stylized Person Wearing Headphones and Baggy Jeans by Oneen]] — shared language: oneen
-- [[knowledge/archive/auto-generated/artists-stale/Artist - omar rayo 1970|Artist - omar rayo 1970]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

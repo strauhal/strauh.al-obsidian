@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Musician Performing Live On Dark Stage cb0c66be|Photograph Musician Performing Live On Dark Stage]] — shared language: live, stage
-- [[knowledge/wiki/images/Photograph Live Performance With Red Stage Lighting And Audience 7f31268a|Photograph Live Performance With Red Stage Lighting And Audience]] — shared language: live, stage
+- [[knowledge/wiki/images/Musician Performing Live On Dark Stage 4b85f470|Musician Performing Live On Dark Stage]] — shared language: live, stage
+- [[knowledge/wiki/images/Live Performance With Red Stage Lighting And Audience ce17a2f7|Live Performance With Red Stage Lighting And Audience]] — shared language: live, stage
 - [[knowledge/wiki/images/Illustration Painting of Man Resembling Mark Zuckerberg Drinking Barbecue Sauce by Chapman 4c5b6b96|Illustration Painting of Man Resembling Mark Zuckerberg Drinking Barbecue Sauce by Chapman]] — shared language: zuckerberg, mark
 - [[knowledge/wiki/artists/Artist - jesse frohman|Artist - jesse frohman]] — shared language: jesse
 - [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — shared language: jesse

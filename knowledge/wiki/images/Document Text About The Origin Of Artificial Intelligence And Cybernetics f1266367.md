@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Te
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: origin
 - [[knowledge/wiki/books/charles-darwin-the-origin-of-species|The Origin of Species]] — shared language: origin
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: artificial
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: artificial
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

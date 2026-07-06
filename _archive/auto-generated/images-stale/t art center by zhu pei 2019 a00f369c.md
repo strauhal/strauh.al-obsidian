@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zhu pei 2019|Artist - zhu pei 2019]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: center
 - [[knowledge/wiki/images/Control Center 4c3b112b|Control Center]] — shared language: center
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: center
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
-- [[_archive/auto-generated/images-stale/impressionistic oil painting of a muted landscape with foliage and bright center 124d4e47|impressionistic oil painting of a muted landscape with foliage and bright center]] — shared language: center
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: center
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: center
 <!-- vault-crosslinks:end -->

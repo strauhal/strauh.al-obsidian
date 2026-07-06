@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Three Patterned Cats and Mice Above a Detailed Townscape 26783f09|Illustration Three Patterned Cats and Mice Above a Detailed Townscape]] — shared language: mice, townscape, patterned
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed, above
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
 - [[_archive/auto-generated/images-stale/black and white stipple drawing of three cats looking up d666b727|black and white stipple drawing of three cats looking up]] — shared language: cats, three
+- [[knowledge/wiki/images/Illustration Black and White Stipple Drawing of Three Cats Looking Up f32cba37|Illustration Black and White Stipple Drawing of Three Cats Looking Up]] — shared language: cats, three
 <!-- vault-crosslinks:end -->

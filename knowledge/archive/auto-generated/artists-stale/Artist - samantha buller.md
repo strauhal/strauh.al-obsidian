@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - Delta 4|Artist - Delta 4]] — shared language: delta
 - [[knowledge/wiki/images/Screenshot Bartender from The Town with No Name by Delta 4 688044e4|Screenshot Bartender from The Town with No Name by Delta 4]] — shared language: delta
 - [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
-- [[knowledge/wiki/images/Photograph Coastal City Before and After Destruction, Composite Photograph 1cfb630c|Photograph Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
-- [[_archive/auto-generated/images-stale/framed coastal landscape with blue water and distant hills 369bed35|framed coastal landscape with blue water and distant hills]] — shared language: coastal
-- [[knowledge/wiki/images/Photograph Photograph of an oil painting on an easel outdoors, coastal scene b0744be9|Photograph Photograph of an oil painting on an easel outdoors, coastal scene]] — shared language: coastal
+- [[knowledge/wiki/images/Coastal City Before and After Destruction, Composite Photograph bd9f8919|Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
+- [[_archive/auto-generated/images-stale/Photograph Coastal City Before and After Destruction, Composite Photograph 1cfb630c|Photograph Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
+- [[knowledge/wiki/images/Photograph of an oil painting on an easel outdoors, coastal scene eedec7c7|Photograph of an oil painting on an easel outdoors, coastal scene]] — shared language: coastal
 <!-- vault-crosslinks:end -->

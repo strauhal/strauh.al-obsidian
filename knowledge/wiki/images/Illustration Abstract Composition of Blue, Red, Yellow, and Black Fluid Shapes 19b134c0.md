@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds f0a53489|Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds]] — shared language: composition, shapes, yellow
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: shapes, yellow
-- [[knowledge/wiki/images/Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue a1321b69|Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue]] — shared language: shapes, yellow
+- [[knowledge/wiki/images/Illustration Abstract Composition with Blended Red, Yellow, and Dark Colors 9ea6814f|Illustration Abstract Composition with Blended Red, Yellow, and Dark Colors]] — shared language: composition, yellow
 <!-- vault-crosslinks:end -->

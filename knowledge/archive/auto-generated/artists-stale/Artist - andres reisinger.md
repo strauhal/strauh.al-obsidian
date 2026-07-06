@@ -21,6 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andres reisinger 2020|Artist - andres reisinger 2020]] — named in this note
+- [[knowledge/wiki/artists/Artist - Andres Serrano|Artist - Andres Serrano]] — shared language: andres
 - [[knowledge/wiki/artists/Artist - Andres Soria Aedo|Artist - Andres Soria Aedo]] — shared language: andres
+- [[knowledge/wiki/images/Piss Christ by Andres Serrano 61010b94|Piss Christ by Andres Serrano]] — shared language: andres
 - [[knowledge/wiki/images/Reclining Nude by Andres Soria Aedo a7606f06|Reclining Nude by Andres Soria Aedo]] — shared language: andres
+- [[knowledge/wiki/images/Semen and Blood III by Andres Serrano (1990) 08f38102|Semen and Blood III by Andres Serrano (1990)]] — shared language: andres
 <!-- vault-crosslinks:end -->

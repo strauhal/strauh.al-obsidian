@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/black and white ink drawing of figures in a comic book style layout 131f0f9b|black and white ink drawing of figures in a comic book style layout]] — shared language: layout, comic, ink
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink, comic
+- [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 <!-- vault-crosslinks:end -->

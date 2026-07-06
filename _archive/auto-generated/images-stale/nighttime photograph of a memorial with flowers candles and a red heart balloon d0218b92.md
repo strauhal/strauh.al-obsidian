@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon a2ff5031|Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon]] — shared language: candles, memorial, nighttime
+- [[knowledge/wiki/images/Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon a2ff5031|Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon]] — shared language: candles, nighttime, memorial
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: memorial
 - [[knowledge/wiki/artists/Artist - Candles|Artist - Candles]] — shared language: candles
-- [[knowledge/wiki/images/Photograph Red Heart Balloon Inside Blue Dumpster At Night 55e457d0|Photograph Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: balloon, heart
-- [[_archive/auto-generated/images-stale/photograph of a red heart shaped valentine s day balloon inside a blue dumpster at night 4b169088|photograph of a red heart shaped valentine s day balloon inside a blue dumpster at night]] — shared language: balloon, heart
-- [[knowledge/wiki/images/Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees 0e2923aa|Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees]] — shared language: nighttime
+- [[_archive/auto-generated/images-stale/Photograph Red Heart Balloon Inside Blue Dumpster At Night 55e457d0|Photograph Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: balloon, heart
+- [[knowledge/wiki/images/Red Heart Balloon Inside Blue Dumpster At Night cf863b79|Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: balloon, heart
 <!-- vault-crosslinks:end -->

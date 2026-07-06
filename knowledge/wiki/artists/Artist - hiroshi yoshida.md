@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Regenschirme by Toshi Yoshida 74b55d4e|Regenschirme by Toshi Yoshida]] — shared language: yoshida
 - [[knowledge/wiki/artists/Artist - hiroshi nagai|Artist - hiroshi nagai]] — shared language: hiroshi
+- [[knowledge/wiki/images/Regenschirme by Toshi Yoshida 74b55d4e|Regenschirme by Toshi Yoshida]] — shared language: yoshida
 - [[knowledge/wiki/images/swimming by hiroshi nagai 1982 272e8745|swimming by hiroshi nagai 1982]] — shared language: hiroshi
-- [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — shared language: yoshida
 - [[knowledge/wiki/images/future city by hiroshi nagai 1981 21d963e5|future city by hiroshi nagai 1981]] — shared language: hiroshi
+- [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — shared language: yoshida
 - [[knowledge/wiki/images/the shipwreck by hiroshi nagai 1985 5a7c3e53|the shipwreck by hiroshi nagai 1985]] — shared language: hiroshi
 <!-- vault-crosslinks:end -->

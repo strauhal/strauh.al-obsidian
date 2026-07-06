@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/RMB City: A Seco
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/artists/Artist - cao zhibai|Artist - cao zhibai]] — shared language: cao
 - [[knowledge/wiki/artists/Artist - Fei Danxu|Artist - Fei Danxu]] — shared language: fei
+- [[knowledge/wiki/artists/Artist - Fei Lihua|Artist - Fei Lihua]] — shared language: fei
 - [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
-- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
 <!-- vault-crosslinks:end -->

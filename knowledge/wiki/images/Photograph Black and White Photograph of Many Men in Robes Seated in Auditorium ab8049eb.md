@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
 - [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: auditorium, auditorium.jpeg

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Protester With Tennis Racket Returning Tear Gas Canister 057412d4|Protester With Tennis Racket Returning Tear Gas Canister]] — shared language: racket, tennis
+- [[knowledge/wiki/images/Demonstrator With Tennis Racket And Smoke Bomb At Protest by Stephane Mahe 7ef8d150|Demonstrator With Tennis Racket And Smoke Bomb At Protest by Stephane Mahe]] — shared language: racket, tennis
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna|Artist - John Romita Jr. and Scott Hanna]] — shared language: hanna
 - [[knowledge/wiki/images/Illustration Cartoon Girl Holding Green Umbrella 3625c4df|Illustration Cartoon Girl Holding Green Umbrella]] — shared language: cartoon, girl
-- [[knowledge/wiki/images/the tennis court oath le serment du jeu de paume by jacques louis david c 1791 5d82c2bf|the tennis court oath le serment du jeu de paume by jacques louis david c 1791]] — shared language: tennis, court
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

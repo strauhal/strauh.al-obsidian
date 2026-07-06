@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Picnic in Centra
 - [[knowledge/wiki/images/The Picnic by Thomas Cole (1846) 1879e9e2|The Picnic by Thomas Cole (1846)]] — shared language: picnic
 - [[knowledge/wiki/images/Maypole, Central Park by William Glackens (c. 1905) 27046058|Maypole, Central Park by William Glackens (c. 1905)]] — shared language: park, central
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park
-- [[knowledge/wiki/images/Photograph Person at desk overlooking Central Park and New York City skyline 74f91637|Photograph Person at desk overlooking Central Park and New York City skyline]] — shared language: park, central
+- [[knowledge/wiki/images/Person at desk overlooking Central Park and New York City skyline af2d49c1|Person at desk overlooking Central Park and New York City skyline]] — shared language: park, central
 - [[knowledge/wiki/images/Two Women by David Park (1958) 97230ea6|Two Women by David Park (1958)]] — shared language: park
 <!-- vault-crosslinks:end -->

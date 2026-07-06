@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
-- [[knowledge/wiki/images/Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store 9a3c606d|Photograph Woman Pushing Shopping Cart With Old Monitor In Apple Store]] — shared language: cart, shopping
 - [[knowledge/wiki/images/Illustration Burning Shopping Cart In Foggy Parking Lot At Night ad9cddf5|Illustration Burning Shopping Cart In Foggy Parking Lot At Night]] — shared language: cart, shopping
-- [[knowledge/wiki/images/Photograph Colorful Light Reflections From Stained Glass Window On Wall 974dfda7|Photograph Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: stained, glass
+- [[knowledge/wiki/images/Woman Pushing Shopping Cart With Old Monitor In Apple Store c5caa47c|Woman Pushing Shopping Cart With Old Monitor In Apple Store]] — shared language: cart, shopping
+- [[knowledge/wiki/images/Colorful Light Reflections From Stained Glass Window On Wall cfb27618|Colorful Light Reflections From Stained Glass Window On Wall]] — shared language: stained, glass
 - [[knowledge/wiki/images/Illustration Vibrant Painting of a Bathroom Interior with Sunlight and Stained Glass 6f1d8b9c|Illustration Vibrant Painting of a Bathroom Interior with Sunlight and Stained Glass]] — shared language: stained, glass
 <!-- vault-crosslinks:end -->

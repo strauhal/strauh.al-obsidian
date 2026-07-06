@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/black_and_white_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: domed, building, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, domed, large
 - [[knowledge/wiki/images/black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893 0e9d54e0|black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893]] — shared language: domed, building, large
-- [[knowledge/wiki/images/Photograph Modern Library Interior With Large Domed Light Fixture 41f67e0d|Photograph Modern Library Interior With Large Domed Light Fixture]] — shared language: domed, large
+- [[knowledge/wiki/images/Modern Library Interior With Large Domed Light Fixture d18193cc|Modern Library Interior With Large Domed Light Fixture]] — shared language: domed, large
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: domed, large
 - [[knowledge/wiki/images/black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893 e4024532|black and white photograph of a large crowd walking toward a central domed building flanked by neoclassical exhibition halls 1893]] — shared language: domed, building, large
 <!-- vault-crosslinks:end -->

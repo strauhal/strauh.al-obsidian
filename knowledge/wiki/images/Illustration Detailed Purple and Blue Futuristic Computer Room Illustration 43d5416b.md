@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed, futuristic
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure 2d830078|Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure]] — shared language: futuristic, detailed
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic
 - [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: futuristic, detailed
 - [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic
 <!-- vault-crosslinks:end -->

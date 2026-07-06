@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_by
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
 <!-- vault-crosslinks:end -->

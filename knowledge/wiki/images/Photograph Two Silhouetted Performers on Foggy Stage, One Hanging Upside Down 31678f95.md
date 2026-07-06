@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Silhouettes of Two Performers on Stage with Microphones Raised 270569db|Photograph Silhouettes of Two Performers on Stage with Microphones Raised]] — shared language: performers, stage
 - [[knowledge/wiki/images/Illustration Standing Figure And Upside Down Nude In Abstract Setting 33af6c48|Illustration Standing Figure And Upside Down Nude In Abstract Setting]] — shared language: upside, down
-- [[knowledge/wiki/images/Photograph Silhouetted Performer On Stage With Microphone In Green Light 5e5db158|Photograph Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: silhouetted, stage
+- [[knowledge/wiki/images/Silhouettes of Two Performers on Stage with Microphones Raised 4778bafe|Silhouettes of Two Performers on Stage with Microphones Raised]] — shared language: performers, stage
+- [[knowledge/wiki/images/Silhouetted Performer On Stage With Microphone In Green Light d0947b4d|Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: silhouetted, stage
 - [[knowledge/wiki/images/Illustration Photograph of an Upside Down Car Floating in a Hazy Sky 2b3086cb|Illustration Photograph of an Upside Down Car Floating in a Hazy Sky]] — shared language: upside, down
 - [[knowledge/wiki/images/Illustration Orange Cat Upside Down Staring at a Green Beetle 10cce550|Illustration Orange Cat Upside Down Staring at a Green Beetle]] — shared language: upside, down
 <!-- vault-crosslinks:end -->

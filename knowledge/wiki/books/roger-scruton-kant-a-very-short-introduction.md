@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Kant A Very Short Introduction (Very Short Introductions)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Kant_ A Very Short Introduction (Very Short Introductions).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Kant: A Very Short Introduction
@@ -43,9 +43,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/tr-meredith-kant-critique-of-judgment-oup|Kant. Critique of Judgment-OUP]] — same category: philosophy
 - [[knowledge/wiki/books/immanuel-kant-critique-of-judgment|Critique of Judgment]] — same category: philosophy
 - [[knowledge/wiki/books/kant-immanuel-critique-of-pure-reason|Critique of Pure Reason]] — same category: philosophy
-- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
 - [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
+- [[knowledge/wiki/books/international-library-of-philosophy-edmund-husserl-logical-investigations-1-routledge|Logical Investigations. 1-Routledge]] — same category: philosophy
 <!-- vault-crosslinks:end -->

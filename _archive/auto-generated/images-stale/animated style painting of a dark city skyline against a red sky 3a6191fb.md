@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline, sky
-- [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, sky, against
+- [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, against, sky
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[_archive/auto-generated/images-stale/black and white pixel art city skyline under a starry sky f3cd1195|black and white pixel art city skyline under a starry sky]] — shared language: skyline, city, sky
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
+- [[_archive/auto-generated/images-stale/oil painting style portrait of a man in a suit against a black background d0277148|oil painting style portrait of a man in a suit against a black background]] — shared language: style, against
+- [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: against, sky, dark
 <!-- vault-crosslinks:end -->

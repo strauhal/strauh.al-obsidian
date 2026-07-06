@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/FFJJFtgX0AU9QKp ad01b156|FFJJFtgX0AU9QKp]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/FJ u1mIWQAUX04y cd18d4e8|FJ u1mIWQAUX04y]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/FEXLPkIXIAAUvBI 1fa1b391|FEXLPkIXIAAUvBI]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FI8nBe8VIAMYgYA 39c6e52c|FI8nBe8VIAMYgYA]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FF3i0hxX0AQMbTr d04da87e|FF3i0hxX0AQMbTr]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

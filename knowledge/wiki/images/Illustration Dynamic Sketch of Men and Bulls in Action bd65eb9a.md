@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: men, sketch
 - [[knowledge/wiki/images/Illustration Ink Sketch of Multiple Dynamic Mecha Figures and Head Studies daef3e08|Illustration Ink Sketch of Multiple Dynamic Mecha Figures and Head Studies]] — shared language: dynamic, sketch
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: men, sketch
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dynamic
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Grid of Nine Black and White Drawings of a Man's Profile 036c08c6|Illustration Grid of Nine Black and White Drawings of a Man's Profile]] — shared language: nine, drawings, profile
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[_archive/auto-generated/images-stale/oil painting portrait of a man wearing glasses and a keffiyeh 9ccde60a|oil painting portrait of a man wearing glasses and a keffiyeh]] — shared language: glasses, wearing
 - [[knowledge/wiki/images/Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes 88cef3ee|Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes]] — shared language: nine, drawings
+- [[_archive/auto-generated/images-stale/oil painting portrait of a man wearing glasses and a keffiyeh 9ccde60a|oil painting portrait of a man wearing glasses and a keffiyeh]] — shared language: glasses, wearing
 - [[_archive/auto-generated/images-stale/black and white drawing of an old man in profile wearing a helmet a211a290|black and white drawing of an old man in profile wearing a helmet]] — shared language: profile, wearing
 <!-- vault-crosslinks:end -->

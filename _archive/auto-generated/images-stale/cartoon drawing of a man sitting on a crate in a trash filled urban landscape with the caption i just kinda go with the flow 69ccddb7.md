@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comic Cartoon Man Sits on Crate in Trash Filled Urban Landscape by Robert Crumb d2421329|Comic Cartoon Man Sits on Crate in Trash Filled Urban Landscape by Robert Crumb]] — shared language: crate, filled, trash
-- [[knowledge/wiki/images/Photograph Black and White Urban Landscape with Buildings and Rooftops 2e18e4fa|Photograph Black and White Urban Landscape with Buildings and Rooftops]] — shared language: urban, landscape
 - [[_archive/auto-generated/images-stale/photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons 05606096|photograph of a smiling woman in a hat sitting in a car trunk filled with watermelons]] — shared language: filled, sitting
-- [[knowledge/wiki/images/Photograph Black Trash Can In Front Of Rainbow Poster In Library c228b395|Photograph Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: trash
-- [[knowledge/archive/auto-generated/artists-stale/Artist - trash and grotesque debris|Artist - trash and grotesque debris]] — shared language: trash
+- [[knowledge/wiki/images/Black and White Urban Landscape with Buildings and Rooftops c54a96ee|Black and White Urban Landscape with Buildings and Rooftops]] — shared language: urban, landscape
+- [[_archive/auto-generated/images-stale/Photograph Black and White Urban Landscape with Buildings and Rooftops 2e18e4fa|Photograph Black and White Urban Landscape with Buildings and Rooftops]] — shared language: urban, landscape
+- [[knowledge/wiki/images/Black Trash Can In Front Of Rainbow Poster In Library c7edb02d|Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: trash
 <!-- vault-crosslinks:end -->

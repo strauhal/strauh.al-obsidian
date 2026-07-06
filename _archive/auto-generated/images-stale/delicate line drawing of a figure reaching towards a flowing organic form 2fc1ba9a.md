@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form f8f2a740|Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form]] — shared language: delicate, reaching, towards
+- [[knowledge/wiki/images/Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form f8f2a740|Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form]] — shared language: delicate, reaching, flowing
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line, form
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: form
 - [[_archive/auto-generated/images-stale/delicate figure drawing with birds and water a0ce5864|delicate figure drawing with birds and water]] — shared language: delicate

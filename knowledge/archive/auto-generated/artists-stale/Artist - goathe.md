@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - GOATHE|Artist - GOATHE]] — named in this note
 - [[_archive/auto-generated/images-stale/digital illustration of a young man in white and orange streetwear with orange goggles by goathe b2ac38e7|digital illustration of a young man in white and orange streetwear with orange goggles by goathe]] — shared language: goathe, streetwear, digital
 - [[knowledge/wiki/books/the-best-of-amp-digital|the best of amp digital]] — shared language: digital
 - [[knowledge/wiki/culture/reading-akira|Reading - Akira]] — shared language: akira
 - [[knowledge/wiki/images/akira by katsuhiro otomo 1989 28f648f8|akira by katsuhiro otomo 1989]] — shared language: akira
 - [[knowledge/wiki/images/Son Goku by Akira Toriyama (1984 1995) 6cec2bd2|Son Goku by Akira Toriyama (1984 1995)]] — shared language: akira
-- [[knowledge/wiki/images/akira title page illustration by katsuhiro otomo 1982 49b17bfc|akira title page illustration by katsuhiro otomo 1982]] — shared language: akira
 <!-- vault-crosslinks:end -->

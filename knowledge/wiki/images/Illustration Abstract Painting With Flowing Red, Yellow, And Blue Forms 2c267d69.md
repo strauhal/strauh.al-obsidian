@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/images/Illustration Profile Of A Person With Flowing Hair And Dark Headpiece c4a1acd3|Illustration Profile Of A Person With Flowing Hair And Dark Headpiece]] — shared language: flowing
 - [[knowledge/wiki/images/Illustration Abstract Composition of Flowing Blue and Red Pigments 41258373|Illustration Abstract Composition of Flowing Blue and Red Pigments]] — shared language: flowing
-- [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: flowing
+- [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: forms, forms.jpeg
 <!-- vault-crosslinks:end -->

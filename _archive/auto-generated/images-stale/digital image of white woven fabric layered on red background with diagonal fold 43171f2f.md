@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph White Woven Fabric Layered On Red Background With Diagonal Fold 90096c5e|Photograph White Woven Fabric Layered On Red Background With Diagonal Fold]] — shared language: fold, diagonal, woven
+- [[_archive/auto-generated/images-stale/Photograph White Woven Fabric Layered On Red Background With Diagonal Fold 90096c5e|Photograph White Woven Fabric Layered On Red Background With Diagonal Fold]] — shared language: fold, diagonal, woven
+- [[knowledge/wiki/images/White Woven Fabric Layered On Red Background With Diagonal Fold c225969e|White Woven Fabric Layered On Red Background With Diagonal Fold]] — shared language: fold, diagonal, woven
 - [[_archive/auto-generated/images-stale/layered abstract photograph with figures in blue and white eea0f7f5|layered abstract photograph with figures in blue and white]] — shared language: layered
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: diagonal
-- [[knowledge/wiki/images/Photograph Close up of a colorful woven textile with fabric strips 3e3253ae|Photograph Close up of a colorful woven textile with fabric strips]] — shared language: woven, fabric
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/jane_goodall_wit
 
 - [[knowledge/wiki/artists/Artist - hugo simberg|Artist - hugo simberg]] — shared language: hugo
 - [[knowledge/wiki/images/the angel of death by hugo simberg 1895 46a9343d|the angel of death by hugo simberg 1895]] — shared language: hugo
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
-- [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
 - [[knowledge/wiki/images/Photograph Black And White Halftone Print Of A Chimpanzee 5dafe70f|Photograph Black And White Halftone Print Of A Chimpanzee]] — shared language: chimpanzee
+- [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
+- [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: apple
 <!-- vault-crosslinks:end -->

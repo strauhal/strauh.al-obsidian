@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Orn
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica 5e0f08fb|Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica]] — shared language: gold, ornate, ceiling
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: gold
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/images/Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame c2346fb3|Illustration Impressionistic Muted Landscape Painting in Ornate Gold Frame]] — shared language: gold, ornate
-- [[knowledge/wiki/images/Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling 5f3d8f84|Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling]] — shared language: ornate, ceiling, ceiling.jpg
 - [[knowledge/wiki/images/Photograph Intricate Tiled Ceiling of Shah Mosque, Isfahan 93d7b3f6|Photograph Intricate Tiled Ceiling of Shah Mosque, Isfahan]] — shared language: tiled, ceiling
+- [[knowledge/wiki/images/Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling 5f3d8f84|Photograph Modern Light Installation in Grand Ornate Hall with Painted Ceiling]] — shared language: ornate, ceiling, ceiling.jpg
 <!-- vault-crosslinks:end -->

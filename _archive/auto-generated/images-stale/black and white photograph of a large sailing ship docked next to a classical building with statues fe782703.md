@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: docked, ship
 - [[_archive/auto-generated/images-stale/black and white photograph of the bow of a large cruise ship docked near a park with people 0f708f97|black and white photograph of the bow of a large cruise ship docked near a park with people]] — shared language: docked, ship, large
+- [[knowledge/wiki/images/Black And White Photograph Of A Cruise Ship Docked Near A Park 08061975|Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: docked, ship
 <!-- vault-crosslinks:end -->

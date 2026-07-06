@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: e9lpd29weamglap.jpeg
 - [[_archive/auto-generated/images-stale/E9f5iW5VUBoVtFO 476f4c94|E9f5iW5VUBoVtFO]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Evolution and life in vaporwave flavours. (48475685782) 1c86b80f|Evolution and life in vaporwave flavours. (48475685782)]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/E9uUIEtVEAkfh0p dbdf6e3f|E9uUIEtVEAkfh0p]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

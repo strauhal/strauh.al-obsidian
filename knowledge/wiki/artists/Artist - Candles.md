@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon a2ff5031|Photograph Nighttime Memorial with Flowers, Candles, Teddy Bears, and Red Balloon]] — shared language: candles
 - [[knowledge/wiki/images/Illustration Oil Painting of Five People Gathered Around a Table 5f1ad987|Illustration Oil Painting of Five People Gathered Around a Table]] — shared language: gathered, around, people
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
-- [[knowledge/wiki/images/Photograph People Gathered At An Outdoor Event With White Structures ecf4f2c5|Photograph People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
+- [[knowledge/wiki/images/People Gathered At An Outdoor Event With White Structures 8367f001|People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
 - [[knowledge/wiki/images/1612770647828 fa3a2f26|1612770647828]] — shared language: computers
 - [[knowledge/wiki/images/1612770792545 0e5517cb|1612770792545]] — shared language: computers
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_three_eldest
 ## Discovered Connections
 
 - [[knowledge/wiki/images/queen henrietta maria with prince charles by anthony van dyck c 1632 61954014|queen henrietta maria with prince charles by anthony van dyck c 1632]] — same artist: anthony van dyck
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van, charles
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
-- [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: van, charles
 <!-- vault-crosslinks:end -->

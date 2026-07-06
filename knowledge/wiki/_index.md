@@ -2,7 +2,7 @@
 title: "strauh.al Index"
 source_kind: "index"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:48"
+compiled_at: "2026-07-06T16:51:09"
 tags: ["strauhal", "index"]
 ---
 # strauh.al Index
@@ -17,7 +17,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 
 ## Counts
 
-- HTML pages compiled: 75
+- HTML pages compiled: 77
 - Image files indexed: 8349
 - Image collections: 31
 
@@ -44,10 +44,12 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[artists moebius]]
 - [[baby videos]]
 - [[brain]]
+- [[brain(wip)]]
 - [[comics]]
 - [[computers]]
 - [[copypastas]]
 - [[culture society]]
+- [[diagrams]]
 - [[diary]]
 - [[disclaimer]]
 - [[donate]]

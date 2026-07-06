@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ch
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/books/basho-matsuo-lucien-stryk-on-love-and-barley-haiku-of-basho-penguin-classics|On Love and Barley Haiku of Basho (Penguin Classics)]] — shared language: haiku
-- [[knowledge/wiki/images/Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters 3cd42f5e|Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters]] — shared language: child's
 <!-- vault-crosslinks:end -->

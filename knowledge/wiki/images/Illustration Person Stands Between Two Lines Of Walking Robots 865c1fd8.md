@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: stands
-- [[knowledge/wiki/images/Photograph Person With Blue Umbrella Walking On Path In Misty Mountains 73eda492|Photograph Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: walking, person
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: walking
+- [[knowledge/wiki/images/Person With Blue Umbrella Walking On Path In Misty Mountains 93b3411c|Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: walking, person
 - [[knowledge/wiki/images/Illustration Person in White Coat Walking in Rain with Pigeon d6e37c14|Illustration Person in White Coat Walking in Rain with Pigeon]] — shared language: walking, person
-- [[knowledge/wiki/images/Photograph Person In Hat And Coat Walking Through A Misty Field 0a471f2c|Photograph Person In Hat And Coat Walking Through A Misty Field]] — shared language: walking, person
+- [[knowledge/wiki/images/Person In Hat And Coat Walking Through A Misty Field 06bfea6f|Person In Hat And Coat Walking Through A Misty Field]] — shared language: walking, person
 <!-- vault-crosslinks:end -->

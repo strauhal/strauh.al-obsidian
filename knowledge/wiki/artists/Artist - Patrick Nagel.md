@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Patrick E. Leahy|Artist - Patrick E. Leahy]] — shared language: patrick
-- [[knowledge/wiki/images/Diagram Architectural Diagram of a World Study Center by Patrick E. Leahy 26d2c784|Diagram Architectural Diagram of a World Study Center by Patrick E. Leahy]] — shared language: patrick
+- [[knowledge/wiki/images/Architectural Diagram of a World Study Center by Patrick E. Leahy 80f83c0f|Architectural Diagram of a World Study Center by Patrick E. Leahy]] — shared language: patrick
 - [[knowledge/wiki/images/Illustration Stylized Woman With Red Accents Cradling Black Cat c4d4f196|Illustration Stylized Woman With Red Accents Cradling Black Cat]] — shared language: accents, stylized
 - [[knowledge/wiki/images/Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys bd2589c4|Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys]] — shared language: patrick
 - [[knowledge/wiki/images/Illustration Stylized Woman's Face with Eye Patch and Flowers Sticker f322ed9a|Illustration Stylized Woman's Face with Eye Patch and Flowers Sticker]] — shared language: woman's, face, stylized

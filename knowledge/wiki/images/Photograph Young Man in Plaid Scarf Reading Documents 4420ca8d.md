@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - You
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Man In Cap And Scarf Carrying Guitar Case 4d04d4ff|Photograph Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, young
+- [[knowledge/wiki/images/Young Man In Cap And Scarf Carrying Guitar Case 8dd2ea4c|Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, young
 - [[knowledge/wiki/images/figure in a plaid dress by henri matisse 1939 c6a6c9a0|figure in a plaid dress by henri matisse 1939]] — shared language: plaid
 - [[knowledge/wiki/images/Illustration Stylized Figures and Teddy Bear in Plaid Patterns 74e14a5c|Illustration Stylized Figures and Teddy Bear in Plaid Patterns]] — shared language: plaid
-- [[knowledge/wiki/images/Photograph Cat Lying On A Grey Couch With A Plaid Blanket 8e3c62b2|Photograph Cat Lying On A Grey Couch With A Plaid Blanket]] — shared language: plaid
+- [[knowledge/wiki/images/Cat Lying On A Grey Couch With A Plaid Blanket 925e24f5|Cat Lying On A Grey Couch With A Plaid Blanket]] — shared language: plaid
 - [[knowledge/wiki/images/Image Distorted Scribble Drawings Overlaid on Documents with Text e5afc499|Image Distorted Scribble Drawings Overlaid on Documents with Text]] — shared language: documents
 <!-- vault-crosslinks:end -->

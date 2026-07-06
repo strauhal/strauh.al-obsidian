@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
-- [[knowledge/wiki/images/Photograph Close Up Of Eye And Nose With Avant Garde Spiked Glasses 87900c34|Photograph Close Up Of Eye And Nose With Avant Garde Spiked Glasses]] — shared language: spiked, close
-- [[knowledge/wiki/images/Photograph Wet Cat With Spiky Fur Staring At Camera 4f0b45a3|Photograph Wet Cat With Spiky Fur Staring At Camera]] — shared language: fur, cat
-- [[_archive/auto-generated/images-stale/portrait of a young woman in a blue dress holding fur abfb94fa|portrait of a young woman in a blue dress holding fur]] — shared language: fur
+- [[knowledge/wiki/images/Close Up Of Eye And Nose With Avant Garde Spiked Glasses d572a7f5|Close Up Of Eye And Nose With Avant Garde Spiked Glasses]] — shared language: spiked, close
+- [[_archive/auto-generated/images-stale/Photograph Close Up Of Eye And Nose With Avant Garde Spiked Glasses 87900c34|Photograph Close Up Of Eye And Nose With Avant Garde Spiked Glasses]] — shared language: spiked, close
+- [[_archive/auto-generated/images-stale/Photograph Wet Cat With Spiky Fur Staring At Camera 4f0b45a3|Photograph Wet Cat With Spiky Fur Staring At Camera]] — shared language: fur, cat
+- [[knowledge/wiki/images/Wet Cat With Spiky Fur Staring At Camera 2b95498b|Wet Cat With Spiky Fur Staring At Camera]] — shared language: fur, cat
 <!-- vault-crosslinks:end -->

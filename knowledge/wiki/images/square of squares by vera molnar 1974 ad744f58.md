@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/square_of_square
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares
 - [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: squares
 - [[knowledge/wiki/images/Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares 6486d66f|Illustration Abstract Grid Painting With Red, Orange, Blue, Teal Squares]] — shared language: squares
-- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
+- [[knowledge/wiki/images/Illustration Abstract Painting with Distorted Red Grid, Colored Squares, and White Shapes 954cb6b5|Illustration Abstract Painting with Distorted Red Grid, Colored Squares, and White Shapes]] — shared language: squares
 <!-- vault-crosslinks:end -->

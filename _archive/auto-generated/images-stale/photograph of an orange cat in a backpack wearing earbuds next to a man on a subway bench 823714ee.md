@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Orange Cat in Backpack Wearing Earbuds on Subway ab0c4b79|Photograph Orange Cat in Backpack Wearing Earbuds on Subway]] — shared language: backpack, earbuds, subway
+- [[knowledge/wiki/images/Photograph Orange Cat in Backpack Wearing Earbuds on Subway ab0c4b79|Photograph Orange Cat in Backpack Wearing Earbuds on Subway]] — shared language: earbuds, backpack, subway
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: subway
 - [[_archive/auto-generated/images-stale/digital illustration of two students sharing earbuds on a bench at sunset 3fc0eccd|digital illustration of two students sharing earbuds on a bench at sunset]] — shared language: earbuds, bench
 - [[knowledge/wiki/images/Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2 8465e1eb|Illustration Denji and Asa Sharing Earbuds on a Bench at Sunset by Dollllls2]] — shared language: earbuds, bench
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: next, cat, orange
 <!-- vault-crosslinks:end -->

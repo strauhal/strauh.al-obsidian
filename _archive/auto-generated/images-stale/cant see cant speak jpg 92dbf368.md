@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: speak
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: see
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: see
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: see
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: see
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: see
 <!-- vault-crosslinks:end -->

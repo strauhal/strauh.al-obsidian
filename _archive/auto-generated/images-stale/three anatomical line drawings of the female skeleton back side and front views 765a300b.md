@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views d991f361|Diagram Three Line Drawings of Female Skeleton Back, Side, Front Views]] — shared language: skeleton, side, views
-- [[_archive/auto-generated/images-stale/anatomical illustration of the male human skeleton in three views front side and rear acf8670d|anatomical illustration of the male human skeleton in three views front side and rear]] — shared language: skeleton, anatomical, side
-- [[knowledge/wiki/images/Illustration Anatomical Illustration of Male Human Skeleton in Three Views 96ba65a3|Illustration Anatomical Illustration of Male Human Skeleton in Three Views]] — shared language: skeleton, anatomical, views
+- [[_archive/auto-generated/images-stale/anatomical illustration of the male human skeleton in three views front side and rear acf8670d|anatomical illustration of the male human skeleton in three views front side and rear]] — shared language: anatomical, skeleton, side
+- [[knowledge/wiki/images/Illustration Anatomical Illustration of Male Human Skeleton in Three Views 96ba65a3|Illustration Anatomical Illustration of Male Human Skeleton in Three Views]] — shared language: anatomical, skeleton, views
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: side
 - [[knowledge/wiki/images/Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler 7a051cec|Illustration Three Anatomical Illustrations of Male Musculature, Front, Back, Side Views by Julius Tandler]] — shared language: anatomical, side, views
 <!-- vault-crosslinks:end -->

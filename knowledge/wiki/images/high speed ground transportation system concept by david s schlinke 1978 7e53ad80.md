@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/high_speed_groun
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 - [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: high
 - [[knowledge/wiki/anchors/speed-racer|speed racer]] — shared language: speed
-- [[knowledge/wiki/images/Photograph High Speed Trains Parked In A Lit Train Yard At Night 311d6a85|Photograph High Speed Trains Parked In A Lit Train Yard At Night]] — shared language: speed, high
+- [[knowledge/wiki/images/High Speed Trains Parked In A Lit Train Yard At Night 259f7d3a|High Speed Trains Parked In A Lit Train Yard At Night]] — shared language: speed, high
 <!-- vault-crosslinks:end -->

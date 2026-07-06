@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Line Drawing of Massive Industrial Ruins with Two Figures on Orange Background ed975837|Illustration Line Drawing of Massive Industrial Ruins with Two Figures on Orange Background]] — shared language: ruins, massive, industrial
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[_archive/auto-generated/books-stale/industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: industrial
 - [[_archive/auto-generated/images-stale/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: orange, background, background.jpeg
-- [[knowledge/wiki/images/Illustration Abstract Painting of Three Orange Persimmons on a Green Background 669fc1f9|Illustration Abstract Painting of Three Orange Persimmons on a Green Background]] — shared language: orange, background, background.jpeg
 <!-- vault-crosslinks:end -->

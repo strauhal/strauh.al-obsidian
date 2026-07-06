@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Color Mixing and Gamut Diagrams by David Briggs.jpg]]
+![[media/strauh.al3.1/diagrams/Color_Mixing_and_Gamut_Diagrams_by_David_Briggs.jpg]]
 
 ## Image Notes
 
-- [[Diagram Color Mixing and Gamut Diagrams by David Briggs 4464b30f|Diagram Color Mixing and Gamut Diagrams by David Briggs]]
+- [[Color Mixing and Gamut Diagrams by David Briggs 3ecfc626|Color Mixing and Gamut Diagrams by David Briggs]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

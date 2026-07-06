@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: against, yellow, background
 - [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: against, yellow, holding
-- [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: skull, shirt
 - [[knowledge/wiki/images/Illustration Abstract Floral Outlines on Blue Background 73a87d23|Illustration Abstract Floral Outlines on Blue Background]] — shared language: floral, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: skull, shirt
 <!-- vault-crosslinks:end -->

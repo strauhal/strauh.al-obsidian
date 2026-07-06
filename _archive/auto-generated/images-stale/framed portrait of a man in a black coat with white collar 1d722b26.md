@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed portrait of a man in a black coat with red chair d1a3ea8d|framed portrait of a man in a black coat with red chair]] — shared language: coat, framed
 - [[_archive/auto-generated/images-stale/framed portrait of a boy in a red coat e78bc46b|framed portrait of a boy in a red coat]] — shared language: coat, framed
 - [[_archive/auto-generated/images-stale/framed portrait of a man in a red military coat 61322631|framed portrait of a man in a red military coat]] — shared language: coat, framed
-- [[_archive/auto-generated/images-stale/framed portrait of a dark haired man in a black coat 1c9a469d|framed portrait of a dark haired man in a black coat]] — shared language: coat, framed
+- [[_archive/auto-generated/images-stale/framed portrait of an older man in a dark coat 31ef846c|framed portrait of an older man in a dark coat]] — shared language: coat, framed
 <!-- vault-crosslinks:end -->

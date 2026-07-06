@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: halls, exhibition
 - [[knowledge/archive/auto-generated/artists-stale/Artist - neoclassical exhibition halls 1893|Artist - neoclassical exhibition halls 1893]] — shared language: halls, exhibition
 - [[_archive/auto-generated/images-stale/photograph of a crowded street in paris with flags overhead d3489478|photograph of a crowded street in paris with flags overhead]] — shared language: crowded, flags
-- [[knowledge/wiki/images/Photograph Crowded Street Scene in Paris with Flags Overhead 45a314fc|Photograph Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, flags
+- [[knowledge/wiki/images/Crowded Street Scene in Paris with Flags Overhead e0aef96a|Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, flags
 <!-- vault-crosslinks:end -->

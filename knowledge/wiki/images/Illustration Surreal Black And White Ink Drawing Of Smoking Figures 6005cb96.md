@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
 - [[knowledge/wiki/images/Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes 78f0a1a2|Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes]] — shared language: surreal, ink
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink
+- [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: surreal
 <!-- vault-crosslinks:end -->

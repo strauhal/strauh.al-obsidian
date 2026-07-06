@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Pine Cliff and C
 - [[knowledge/wiki/images/The Tanzhi Pavilion by Gao Xiang (Qing dynasty) 1770ee5b|The Tanzhi Pavilion by Gao Xiang (Qing dynasty)]] — shared language: qing, dynasty
 - [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: spring, dynasty
 - [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: clear
-- [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: qing, dynasty
+- [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: cliff
 <!-- vault-crosslinks:end -->

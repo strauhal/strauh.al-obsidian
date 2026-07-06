@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori|Artist - Mark Maggiori]] — named in this note
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori|Artist - Mark Maggiori]] — shared language: maggiori, mark
 - [[knowledge/wiki/images/Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori 52455f1d|Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori]] — shared language: maggiori, mark
 - [[knowledge/wiki/images/Mesmerized by Mark Maggiori 22c69996|Mesmerized by Mark Maggiori]] — shared language: maggiori, mark
 - [[_archive/auto-generated/images-stale/mark maggiori out where the big clouds are 2022 cd9a2f6c|mark maggiori out where the big clouds are 2022]] — shared language: maggiori, mark
 - [[knowledge/wiki/images/The Vermillion Trail by Mark Maggiori (2021) 1fb0958d|The Vermillion Trail by Mark Maggiori (2021)]] — shared language: maggiori, mark
-- [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 <!-- vault-crosslinks:end -->

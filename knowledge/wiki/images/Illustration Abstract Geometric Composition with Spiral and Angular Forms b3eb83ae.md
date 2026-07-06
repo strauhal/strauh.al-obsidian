@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: angular
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements 65d5896e|Illustration Abstract Geometric Composition with Distorted Architectural Forms and Scattered Elements]] — shared language: composition, forms, geometric
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 - [[knowledge/wiki/images/Illustration Abstract Painting Of Geometric Shapes And Flowing Forms 70d054c6|Illustration Abstract Painting Of Geometric Shapes And Flowing Forms]] — shared language: forms, geometric, forms.jpg
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: angular
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 <!-- vault-crosslinks:end -->

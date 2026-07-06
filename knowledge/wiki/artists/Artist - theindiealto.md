@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: headlines
 - [[knowledge/wiki/images/Screenshot Text Describing The Killing Of Tim McLean 8ebc610d|Screenshot Text Describing The Killing Of Tim McLean]] — shared language: killing
-- [[knowledge/wiki/images/Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos 4c4c7b9d|Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos]] — shared language: headlines
-- [[knowledge/wiki/images/Photograph Black and White Photo Collage of Eyes and Hands 79c1143e|Photograph Black and White Photo Collage of Eyes and Hands]] — shared language: collage
-- [[knowledge/wiki/images/Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops 4e792313|Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops]] — shared language: killing
 - [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: collage
+- [[knowledge/wiki/images/Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos 4c4c7b9d|Screenshot Social Media Feed Showing News Headlines About Amazon and Jeff Bezos]] — shared language: headlines
+- [[knowledge/wiki/images/Black and White Photo Collage of Eyes and Hands e48851bc|Black and White Photo Collage of Eyes and Hands]] — shared language: collage
+- [[knowledge/wiki/images/Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops 4e792313|Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops]] — shared language: killing
 <!-- vault-crosslinks:end -->

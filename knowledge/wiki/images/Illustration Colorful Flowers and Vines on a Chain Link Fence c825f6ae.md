@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: fence, chain, link
-- [[knowledge/wiki/images/Photograph Tilted View of Chain Link Fence, Paved Area, and Sky 1a345128|Photograph Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: fence, chain, link
+- [[knowledge/wiki/images/Sign on Chain Link Fence at Seravalli Playground fa3b9b4b|Sign on Chain Link Fence at Seravalli Playground]] — shared language: chain, fence, link
+- [[knowledge/wiki/images/Tilted View of Chain Link Fence, Paved Area, and Sky 259a0f79|Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: chain, fence, link
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: link
 - [[knowledge/wiki/images/Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames f7b75581|Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames]] — shared language: vines, flowers
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: flowers, colorful

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: arrows
 - [[knowledge/wiki/images/Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines 4eddf114|Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines]] — shared language: perspective, sketch
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols 68a3af5b|Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols]] — shared language: arrows
 - [[knowledge/wiki/images/Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle c3fe53de|Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle]] — shared language: cubes
-- [[knowledge/wiki/images/Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline ea11657d|Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline]] — shared language: cubes
 <!-- vault-crosslinks:end -->

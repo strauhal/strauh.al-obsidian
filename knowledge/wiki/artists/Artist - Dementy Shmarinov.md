@@ -23,5 +23,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Empty Room 50eb5c7a|Photograph Black And White Photograph Of Woman In Empty Room]] — shared language: room
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: room
-- [[knowledge/wiki/images/The Room, Tarzana by David Hockney (1967) 560f3290|The Room, Tarzana by David Hockney (1967)]] — shared language: room
 <!-- vault-crosslinks:end -->

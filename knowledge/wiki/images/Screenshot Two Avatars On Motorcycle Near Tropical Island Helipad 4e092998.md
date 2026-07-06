@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Tropical Island With Palm Trees, Turquoise Water, And Sailboat c54934ad|Photograph Tropical Island With Palm Trees, Turquoise Water, And Sailboat]] — shared language: tropical, island
+- [[knowledge/wiki/images/Tropical Island With Palm Trees, Turquoise Water, And Sailboat f1dec837|Tropical Island With Palm Trees, Turquoise Water, And Sailboat]] — shared language: tropical, island
 - [[knowledge/wiki/images/Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface 0c512e48|Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface]] — shared language: avatars, screenshot
 - [[knowledge/wiki/images/Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background 592bbf5e|Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background]] — shared language: tropical, screenshot
 - [[knowledge/wiki/images/Illustration Stylized Painting of a Teal Bird in Tropical Landscape at Night 2469b56a|Illustration Stylized Painting of a Teal Bird in Tropical Landscape at Night]] — shared language: tropical
-- [[knowledge/wiki/images/Photograph Man In White Clothes Sitting On Railing Next To Motorcycle fa4ea67c|Photograph Man In White Clothes Sitting On Railing Next To Motorcycle]] — shared language: motorcycle
+- [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: island
 <!-- vault-crosslinks:end -->

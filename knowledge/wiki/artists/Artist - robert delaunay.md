@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - sonia delaunay|Artist - sonia delaunay]] — shared language: delaunay
 - [[knowledge/wiki/images/rythme couleur by sonia delaunay 1938 f3f8ef7e|rythme couleur by sonia delaunay 1938]] — shared language: delaunay
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
-- [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: robert, moon
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
+- [[knowledge/wiki/artists/Artist - robert davidson|Artist - robert davidson]] — shared language: robert, moon
 - [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/sepia_photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/books/plato-the-republic|The Republic]] — named in this note
-- [[knowledge/wiki/images/Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds 4cfdb83a|Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds]] — shared language: republic, statue, columbian
-- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: statue, columbian, exposition
+- [[knowledge/wiki/images/Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds 4cfdb83a|Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds]] — shared language: republic, columbian, statue
+- [[knowledge/wiki/images/administration building and statue of columbus world s columbian exposition chicago 1893 54c727e5|administration building and statue of columbus world s columbian exposition chicago 1893]] — shared language: columbian, statue, exposition
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia, world
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, columbian
+- [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: columbian, exposition, world
 <!-- vault-crosslinks:end -->

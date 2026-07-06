@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Drawing of a Laptop, Microphone, and Apple Charger abaefda4|Illustration Drawing of a Laptop, Microphone, and Apple Charger]] — shared language: charger, microphone, laptop
 - [[knowledge/wiki/images/Photograph Microphone and Laptop in Anechoic Chamber 99a22536|Photograph Microphone and Laptop in Anechoic Chamber]] — shared language: microphone, laptop
-- [[knowledge/wiki/images/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
-- [[knowledge/wiki/images/Photograph Silhouetted Performer On Stage With Microphone In Green Light 5e5db158|Photograph Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: microphone
-- [[knowledge/wiki/images/Photograph Man Singing Into Microphone At Concert With Goat In Audience 6fb0af02|Photograph Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: microphone
+- [[knowledge/wiki/images/Person On Stage Holding Microphone Under Blue Lights f1e7a11c|Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
+- [[_archive/auto-generated/images-stale/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
+- [[_archive/auto-generated/images-stale/Photograph Silhouetted Performer On Stage With Microphone In Green Light 5e5db158|Photograph Silhouetted Performer On Stage With Microphone In Green Light]] — shared language: microphone
 <!-- vault-crosslinks:end -->

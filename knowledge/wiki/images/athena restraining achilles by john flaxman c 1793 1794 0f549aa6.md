@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/athena_restraini
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/Illustration Temple of Athena Nike Reconstruction vs. Modern Ruins 9a8b025d|Illustration Temple of Athena Nike Reconstruction vs. Modern Ruins]] — shared language: athena
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Monkeys in Restraining Chairs for Experiment by J. V. Brady 13740fa8|Photograph Black and White Photograph of Monkeys in Restraining Chairs for Experiment by J. V. Brady]] — shared language: restraining
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/images/Black and White Photograph of Monkeys in Restraining Chairs for Experiment by J. V. Brady 07c163c4|Black and White Photograph of Monkeys in Restraining Chairs for Experiment by J. V. Brady]] — shared language: restraining
 <!-- vault-crosslinks:end -->

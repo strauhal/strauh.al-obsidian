@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/EL DIABLITO 21a96e38|EL DIABLITO]] — named in this note
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/artists/Artist - Nude Nymphs and a Devil Figure|Artist - Nude Nymphs and a Devil Figure]] — shared language: devil
 - [[knowledge/wiki/images/Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle 7da63720|Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle]] — shared language: mural, holding
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Mural of Person in Traditional Attire Holding Corn 7de22128|Illustration Mural of Person in Traditional Attire Holding Corn]] — shared language: mural, holding
 <!-- vault-crosslinks:end -->

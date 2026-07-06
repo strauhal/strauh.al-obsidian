@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Colorful Flowers and Vines on a Chain Link Fence c825f6ae|Illustration Colorful Flowers and Vines on a Chain Link Fence]] — named in this note
-- [[knowledge/wiki/images/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: chain, fence, link
-- [[knowledge/wiki/images/Photograph Tilted View of Chain Link Fence, Paved Area, and Sky 1a345128|Photograph Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: chain, fence, link
-- [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: link
-- [[_archive/auto-generated/images-stale/photograph of two children standing by a chain link fence at a dirt racetrack one wearing a don t california my tennessee shirt 550d9dec|photograph of two children standing by a chain link fence at a dirt racetrack one wearing a don t california my tennessee shirt]] — shared language: chain, fence, link
+- [[_archive/auto-generated/images-stale/Photograph Sign on Chain Link Fence at Seravalli Playground 0580433d|Photograph Sign on Chain Link Fence at Seravalli Playground]] — shared language: chain, fence, link
+- [[knowledge/wiki/images/Sign on Chain Link Fence at Seravalli Playground fa3b9b4b|Sign on Chain Link Fence at Seravalli Playground]] — shared language: chain, fence, link
+- [[_archive/auto-generated/images-stale/Photograph Tilted View of Chain Link Fence, Paved Area, and Sky 1a345128|Photograph Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: chain, fence, link
+- [[knowledge/wiki/images/Tilted View of Chain Link Fence, Paved Area, and Sky 259a0f79|Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: chain, fence, link
 <!-- vault-crosslinks:end -->

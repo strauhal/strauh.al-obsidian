@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Nymph by Torso S
 - [[knowledge/wiki/images/vodyanitsa water nymph by konstantin makovsky 1879 6e5f966e|vodyanitsa water nymph by konstantin makovsky 1879]] — shared language: nymph
 - [[knowledge/wiki/images/a satyr and a nymph with a basket of fruit by jacob jordaens c 1620 1625 0f518e4a|a satyr and a nymph with a basket of fruit by jacob jordaens c 1620 1625]] — shared language: nymph
 - [[knowledge/wiki/images/Photograph Marble Sculpture of a Male Torso on Display 504a0ace|Photograph Marble Sculpture of a Male Torso on Display]] — shared language: torso
-- [[knowledge/wiki/images/Illustration Collage of a Woman's Head with Anatomical Torso and Text Background 0eb6a4db|Illustration Collage of a Woman's Head with Anatomical Torso and Text Background]] — shared language: torso
+- [[knowledge/wiki/images/photograph of a person revealing a tattoo reading r mutt 1917 on their torso c86ba463|photograph of a person revealing a tattoo reading r mutt 1917 on their torso]] — shared language: torso
 <!-- vault-crosslinks:end -->

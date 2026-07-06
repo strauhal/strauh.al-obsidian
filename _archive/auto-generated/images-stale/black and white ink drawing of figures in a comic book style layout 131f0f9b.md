@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: layout, comic, ink
 - [[_archive/auto-generated/images-stale/black and white ink drawing of four figures in a dramatic comic panel layout 722428a0|black and white ink drawing of four figures in a dramatic comic panel layout]] — shared language: layout, comic, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
 <!-- vault-crosslinks:end -->

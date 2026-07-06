@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[_archive/auto-generated/images-stale/Screenshot Screenshot of a See Also section listing art genres 39460bbb-20260706163717|Screenshot Screenshot of a See Also section listing art genres]] — shared language: genres
+- [[_archive/auto-generated/images-stale/Screenshot Screenshot of a See Also section listing art genres 39460bbb-20260706165157|Screenshot Screenshot of a See Also section listing art genres]] — shared language: genres
 - [[_archive/auto-generated/images-stale/Screenshot Screenshot of a See Also section listing art genres 39460bbb|Screenshot Screenshot of a See Also section listing art genres]] — shared language: genres
 - [[_archive/auto-generated/images-stale/1701797844500962 png 57ed231b|1701797844500962 png]] — shared language: png.png
 - [[_archive/auto-generated/images-stale/1706555441304487 png 9341419b|1706555441304487 png]] — shared language: png.png
-- [[_archive/auto-generated/images-stale/1708974447776658 png 62038144|1708974447776658 png]] — shared language: png.png
-- [[_archive/auto-generated/images-stale/1udt png dcbd8ed1|1udt png]] — shared language: png.png
 <!-- vault-crosslinks:end -->

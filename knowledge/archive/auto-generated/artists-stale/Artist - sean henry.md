@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023|Artist - sean henry 2023]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean henry 2023 3|Artist - sean henry 2023 3]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair|Artist - Sean Adair]] — shared language: sean
+- [[knowledge/wiki/artists/Artist - Sean Adair|Artist - Sean Adair]] — shared language: sean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sean adair 2001|Artist - sean adair 2001]] — shared language: sean
 - [[knowledge/wiki/images/Blue Cat by Oliver Henry (1999) 6fd1dc18|Blue Cat by Oliver Henry (1999)]] — shared language: henry
-- [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 <!-- vault-crosslinks:end -->

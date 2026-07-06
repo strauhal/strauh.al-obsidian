@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white dithered drawing of a porsche carrera front view by greg overton 05a2b915|black and white dithered drawing of a porsche carrera front view by greg overton]] — shared language: overton, greg, carrera
 - [[knowledge/archive/auto-generated/artists-stale/Artist - greg cagle|Artist - greg cagle]] — shared language: greg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - greg cagle 2018|Artist - greg cagle 2018]] — shared language: greg
 - [[knowledge/wiki/artists/Artist - Greg Girard|Artist - Greg Girard]] — shared language: greg
 - [[_archive/auto-generated/images-stale/the centaur by greg cagle 2018 11b911ef|the centaur by greg cagle 2018]] — shared language: greg
-- [[knowledge/wiki/images/Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard 07e08a06|Photograph Rainy Tokyo Street at Night with Neon Signs by Greg Girard]] — shared language: greg
 <!-- vault-crosslinks:end -->

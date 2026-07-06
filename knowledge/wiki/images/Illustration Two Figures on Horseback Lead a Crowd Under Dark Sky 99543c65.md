@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, sky
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/images/Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky 4cb016c1|Screenshot Silhouetted Figures On Horseback Against Dark Blue Sky]] — shared language: horseback, sky, dark
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: lead
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: lead

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Comic Black and White Illustration of Collapsing Skyscrapers with Figure 8f060797|Comic Black and White Illustration of Collapsing Skyscrapers with Figure]] — shared language: collapsing, skyscrapers
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: collapsing
-- [[knowledge/wiki/images/Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View 21b21488|Photograph Skyscrapers and Contrails in Blue Sky, Cityscape View]] — shared language: skyscrapers
-- [[knowledge/wiki/images/skyscrapers by joseph stella 1922 91ec81a7|skyscrapers by joseph stella 1922]] — shared language: skyscrapers
 - [[knowledge/archive/auto-generated/anchors-stale/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing
+- [[_archive/auto-generated/artists-noise/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing
+- [[knowledge/archive/auto-generated/artists-stale/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing
 <!-- vault-crosslinks:end -->

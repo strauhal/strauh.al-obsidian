@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 
 - [[knowledge/wiki/images/up Hare on Top (1998) cb008c1d|up Hare on Top (1998)]] — shared language: top
 - [[knowledge/wiki/images/Illustration Stylized Portrait of a Man with Glasses and Orange Jacket fff37f41|Illustration Stylized Portrait of a Man with Glasses and Orange Jacket]] — shared language: glasses
-- [[knowledge/wiki/images/Photograph Man With Beard And Glasses Holding A Drawing 5d8c7f64|Photograph Man With Beard And Glasses Holding A Drawing]] — shared language: glasses
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: striped
+- [[knowledge/wiki/images/Man With Beard And Glasses Holding A Drawing a95a1501|Man With Beard And Glasses Holding A Drawing]] — shared language: glasses
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: striped
 - [[knowledge/wiki/images/Woman in a Striped Dress by Egon Schiele (1915) 4dc636a8|Woman in a Striped Dress by Egon Schiele (1915)]] — shared language: striped
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Int
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
+- [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: checkered, floor
 - [[knowledge/wiki/images/Illustration Black Cat Peeking From Behind Screen on Checkered Floor 7d8e27da|Illustration Black Cat Peeking From Behind Screen on Checkered Floor]] — shared language: checkered, floor
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: checkered, floor
-- [[knowledge/wiki/images/Photograph Interior of Amoeba Music Store, San Francisco 29b9e8c1|Photograph Interior of Amoeba Music Store, San Francisco]] — shared language: store, interior
-- [[knowledge/wiki/images/Photograph Computer Angel Pin on Retail Packaging 745d7183|Photograph Computer Angel Pin on Retail Packaging]] — shared language: retail
+- [[knowledge/wiki/images/Interior of Amoeba Music Store, San Francisco 2d857a3f|Interior of Amoeba Music Store, San Francisco]] — shared language: store, interior
+- [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: checkered
 <!-- vault-crosslinks:end -->

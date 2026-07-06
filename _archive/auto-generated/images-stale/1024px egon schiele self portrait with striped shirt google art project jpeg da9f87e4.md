@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
-- [[knowledge/wiki/images/Self Portrait with Striped Shirt by Egon Schiele (1910) 974d3f8b|Self Portrait with Striped Shirt by Egon Schiele (1910)]] — shared language: striped, shirt, schiele
+- [[knowledge/wiki/images/Self Portrait with Striped Shirt by Egon Schiele (1910) 974d3f8b|Self Portrait with Striped Shirt by Egon Schiele (1910)]] — shared language: striped, schiele, egon
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, self
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self, schiele, egon
 - [[knowledge/wiki/images/Woman in a Striped Dress by Egon Schiele (1915) 4dc636a8|Woman in a Striped Dress by Egon Schiele (1915)]] — shared language: striped, schiele, egon

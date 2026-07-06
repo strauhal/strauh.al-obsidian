@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Self-Portrait by
 - [[knowledge/wiki/images/The Secretary by Luc Tuymans (1995) 4a0c1a78|The Secretary by Luc Tuymans (1995)]] — shared language: luc, tuymans
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: self, self-portrait
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: self, self-portrait
 - [[knowledge/wiki/images/Self Portrait by Peter Paul Rubens (1639) 7b705037|Self Portrait by Peter Paul Rubens (1639)]] — shared language: self, self-portrait, webp
 <!-- vault-crosslinks:end -->

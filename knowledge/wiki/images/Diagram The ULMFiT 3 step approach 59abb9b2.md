@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - The UL
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: step, diagram
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: step
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/artists/Artist - Step House Sketch|Artist - Step House Sketch]] — shared language: step
 - [[knowledge/wiki/images/Illustration Pencil Sharpening, Holding, Strokes, and Step by Step House Sketch be96ed8e|Illustration Pencil Sharpening, Holding, Strokes, and Step by Step House Sketch]] — shared language: step

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Night View of Sa
 
 - [[knowledge/wiki/images/night view of saruwaka machi by utagawa hiroshige 1856 30f24931|night view of saruwaka machi by utagawa hiroshige 1856]] — shared language: saruwaka, machi, hiroshige
 - [[knowledge/wiki/artists/Artist - utagawa hiroshige|Artist - utagawa hiroshige]] — shared language: hiroshige, utagawa, saruwaka
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view, night
 - [[knowledge/wiki/images/fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844 51ecf79b|fuji from the sea kaijo no fuji by utagawa hiroshige c 18301844]] — shared language: hiroshige, utagawa
 - [[knowledge/wiki/images/the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857 bb5ea15a|the plum garden at kameido kameido umeyashiki by utagawa hiroshige 1857]] — shared language: hiroshige, utagawa
-- [[knowledge/wiki/images/nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834 2473f61c|nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834]] — shared language: hiroshige, utagawa
 <!-- vault-crosslinks:end -->

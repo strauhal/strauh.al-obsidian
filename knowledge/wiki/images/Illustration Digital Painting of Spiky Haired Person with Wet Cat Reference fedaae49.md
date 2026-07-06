@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Wet Cat With Spiky Fur Staring At Camera 4f0b45a3|Photograph Wet Cat With Spiky Fur Staring At Camera]] — shared language: wet, spiky, cat
+- [[knowledge/wiki/images/Wet Cat With Spiky Fur Staring At Camera 2b95498b|Wet Cat With Spiky Fur Staring At Camera]] — shared language: wet, spiky, cat
 - [[knowledge/wiki/images/Image Grumpy White Cat With Spiky Hair 0b7aeaf3|Image Grumpy White Cat With Spiky Hair]] — shared language: spiky, cat
-- [[knowledge/wiki/images/Photograph Blurred Figures on a Wet Street in Black and White 4af3442a|Photograph Blurred Figures on a Wet Street in Black and White]] — shared language: wet
-- [[knowledge/wiki/images/Illustration Blue Illustration of Person and Cat Looking Out Window at Beach 15a7a410|Illustration Blue Illustration of Person and Cat Looking Out Window at Beach]] — shared language: cat, person
+- [[knowledge/wiki/images/Blurred Figures on a Wet Street in Black and White 99065f6c|Blurred Figures on a Wet Street in Black and White]] — shared language: wet
 - [[knowledge/wiki/images/Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair 8289f537|Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair]] — shared language: spiky
+- [[knowledge/wiki/images/Illustration Blue Illustration of Person and Cat Looking Out Window at Beach 15a7a410|Illustration Blue Illustration of Person and Cat Looking Out Window at Beach]] — shared language: cat, person
 <!-- vault-crosslinks:end -->

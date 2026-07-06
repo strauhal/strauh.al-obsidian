@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Seated Young Man in Pink Shirt Holding Hat cfaa5ae8|Illustration Seated Young Man in Pink Shirt Holding Hat]] — shared language: shirt, hat, seated
-- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: shirt, young, oil
+- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: shirt, oil, young
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[_archive/auto-generated/images-stale/portrait of a young woman in a feathered hat cbf7c38c|portrait of a young woman in a feathered hat]] — shared language: hat, young
 - [[_archive/auto-generated/images-stale/oil painting of a seated figure with blurred face holding a cigarette and drink 5a8265cd|oil painting of a seated figure with blurred face holding a cigarette and drink]] — shared language: seated, oil, holding

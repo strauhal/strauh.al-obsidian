@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Hyperrealistic View From Car Window Over Water by Marcago 1235969c|Illustration Hyperrealistic View From Car Window Over Water by Marcago]] — shared language: window, car, water
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, water
 - [[_archive/auto-generated/images-stale/digital rendering of a tiled room partially flooded with water and sunlight f92e8d40|digital rendering of a tiled room partially flooded with water and sunlight]] — shared language: rendering, water, digital
-- [[_archive/auto-generated/images-stale/3d rendering of a low poly city street with pink car 1362af3f|3d rendering of a low poly city street with pink car]] — shared language: rendering, car
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/artists/Artist - FRAGILETEMPORARY|Artist - FRAGILETEMPORARY]] — shared language: rendering, digital
 <!-- vault-crosslinks:end -->

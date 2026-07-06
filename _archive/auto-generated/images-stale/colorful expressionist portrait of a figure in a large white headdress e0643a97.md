@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress, colorful, headdress.jpeg
 - [[_archive/auto-generated/images-stale/portrait of a face with large radial headdress 36f43376|portrait of a face with large radial headdress]] — shared language: headdress, large
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 <!-- vault-crosslinks:end -->

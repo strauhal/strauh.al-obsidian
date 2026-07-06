@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/grace jones by jean paul goude 1978 653bbf86|grace jones by jean paul goude 1978]] — shared language: jones, paul
-- [[knowledge/wiki/images/Photograph Grace Jones, New York by Jean Paul Goude 57aba063|Photograph Grace Jones, New York by Jean Paul Goude]] — shared language: jones, paul
+- [[knowledge/wiki/images/Grace Jones, New York by Jean Paul Goude eefa828e|Grace Jones, New York by Jean Paul Goude]] — shared language: jones, paul
 - [[knowledge/wiki/artists/Artist - jean paul goude|Artist - jean paul goude]] — shared language: paul, jones
 - [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: jones
 - [[knowledge/wiki/artists/Artist - lois mailou jones|Artist - lois mailou jones]] — shared language: jones
-- [[knowledge/wiki/artists/Artist - sir edward burne jones|Artist - sir edward burne jones]] — shared language: jones
+- [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Document Black and White Calligraphic Talisman with Intricate Symbols f81da636|Document Black and White Calligraphic Talisman with Intricate Symbols]] — shared language: symbols, intricate
 - [[knowledge/wiki/images/snake by richard serra 1994 1997 e026d525|snake by richard serra 1994 1997]] — shared language: snake
 - [[knowledge/wiki/images/The Snake Charmer by Henri Rousseau (1907) 0bc72ed3|The Snake Charmer by Henri Rousseau (1907)]] — shared language: snake
-- [[knowledge/wiki/images/Photograph Man Working On Intricate Wiring System ad975fef|Photograph Man Working On Intricate Wiring System]] — shared language: intricate
+- [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols 68a3af5b|Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols]] — shared language: symbols
 <!-- vault-crosslinks:end -->

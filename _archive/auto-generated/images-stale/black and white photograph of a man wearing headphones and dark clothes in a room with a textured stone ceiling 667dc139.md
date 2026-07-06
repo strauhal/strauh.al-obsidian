@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
+- [[knowledge/wiki/images/Man Eating And Wearing Headphones In Cafe 420d0bb8|Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
+- [[_archive/auto-generated/images-stale/Photograph Man Eating And Wearing Headphones In Cafe 329fc9e4|Photograph Man Eating And Wearing Headphones In Cafe]] — shared language: headphones, wearing
 - [[_archive/auto-generated/artists-noise/Artist - a coiled cable to a woman wearing headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: headphones, wearing
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-coiled-cable-to-a-woman-wearing-headphones|Artist - a coiled cable to a woman wearing headphones]] — shared language: headphones, wearing
 - [[knowledge/wiki/images/Photograph Textured Stone Sculpture of Christ on Cross on Stone Wall 61ddf9df|Photograph Textured Stone Sculpture of Christ on Cross on Stone Wall]] — shared language: stone, textured
-- [[_archive/auto-generated/images-stale/head and shoulders portrait of a person with dark hair wearing a dark turtleneck against a textured brown background 51c0a89b|head and shoulders portrait of a person with dark hair wearing a dark turtleneck against a textured brown background]] — shared language: textured, wearing, dark
 <!-- vault-crosslinks:end -->

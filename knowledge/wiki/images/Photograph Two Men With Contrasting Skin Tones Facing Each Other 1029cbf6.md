@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] — shared language: tones
-- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
+- [[knowledge/wiki/images/Man in Red Chair Facing TV, Others Behind ebcb0004|Man in Red Chair Facing TV, Others Behind]] — shared language: facing
 - [[knowledge/wiki/images/Illustration Abstract Organic Painting with Swirling Lines and Earthy Tones b63f81e4|Illustration Abstract Organic Painting with Swirling Lines and Earthy Tones]] — shared language: tones
-- [[knowledge/wiki/images/Photograph Person With Green Skin And Red Sunglasses Splashed By Water d74e4a2d|Photograph Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: skin
-- [[knowledge/wiki/images/Image Digital Collage Contrasting ThinkPad Owners Corporate vs. Linux User e656882d|Image Digital Collage Contrasting ThinkPad Owners Corporate vs. Linux User]] — shared language: contrasting
+- [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
+- [[knowledge/wiki/images/Person With Green Skin And Red Sunglasses Splashed By Water 41963806|Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: skin
 <!-- vault-crosslinks:end -->

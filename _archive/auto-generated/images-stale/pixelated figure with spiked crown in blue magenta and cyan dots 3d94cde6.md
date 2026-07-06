@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan 01e9d08a|Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan]] — shared language: spiked, cyan, crown
+- [[knowledge/wiki/images/Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan 01e9d08a|Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan]] — shared language: cyan, spiked, crown
 - [[knowledge/wiki/images/Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks f2eecf7b|Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks]] — shared language: cyan, magenta, pixelated
 - [[_archive/auto-generated/images-stale/line drawing portrait with pixelated cyan and magenta blocks 0f1dd1a3|line drawing portrait with pixelated cyan and magenta blocks]] — shared language: cyan, magenta, pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Green Dragon like Creature on Magenta Background 81b8cccc|Illustration Pixelated Green Dragon like Creature on Magenta Background]] — shared language: magenta, pixelated

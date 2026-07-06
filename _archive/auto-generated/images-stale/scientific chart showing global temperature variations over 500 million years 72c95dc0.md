@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Global Temperature Variations Over 500 Million Years e3cba529|Diagram Global Temperature Variations Over 500 Million Years]] — shared language: temperature, global, variations
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: chart, showing
-- [[knowledge/wiki/images/Diagram Global Map of Solar Eclipse Path 6bce79b3|Diagram Global Map of Solar Eclipse Path]] — shared language: global
-- [[knowledge/wiki/images/Diagram Stacked Bar Chart Showing Car Colors By Year a12920e2|Diagram Stacked Bar Chart Showing Car Colors By Year]] — shared language: chart, showing
-- [[_archive/auto-generated/images-stale/3d scientific visualization showing black branching lines overlaid on translucent overlapping colored shapes purple yellow green blue with labels sgz 2432f2d7|3d scientific visualization showing black branching lines overlaid on translucent overlapping colored shapes purple yellow green blue with labels sgz]] — shared language: scientific, showing
+- [[knowledge/wiki/images/Global Temperature Variations Over 500 Million Years 225f9999|Global Temperature Variations Over 500 Million Years]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Global Temperature Variations Over 500 Million Years e3cba529|Diagram Global Temperature Variations Over 500 Million Years]] — shared language: temperature, global, variations
+- [[knowledge/wiki/images/Global Map of Solar Eclipse Path 47812943|Global Map of Solar Eclipse Path]] — shared language: global
+- [[_archive/auto-generated/images-stale/Diagram Global Map of Solar Eclipse Path 6bce79b3|Diagram Global Map of Solar Eclipse Path]] — shared language: global
+- [[knowledge/wiki/images/Stacked Bar Chart Showing Car Colors By Year c3166772|Stacked Bar Chart Showing Car Colors By Year]] — shared language: chart, showing
 <!-- vault-crosslinks:end -->

@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: top
 - [[knowledge/wiki/images/mountain range 07fd8e4e|mountain range]] — shared language: mountain
 - [[knowledge/wiki/images/Photograph Woman Wearing Sunglasses and Pink Crop Top with Text 7ddf61ae|Photograph Woman Wearing Sunglasses and Pink Crop Top with Text]] — shared language: top
-- [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: mountain
+- [[knowledge/wiki/images/Person In Dark Hooded Top And Goggles On Couch 32044991|Person In Dark Hooded Top And Goggles On Couch]] — shared language: top
 <!-- vault-crosslinks:end -->

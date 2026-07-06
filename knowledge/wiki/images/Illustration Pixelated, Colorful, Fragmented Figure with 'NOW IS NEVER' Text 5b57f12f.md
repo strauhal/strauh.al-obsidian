@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: never
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: never
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text aab6797d|Illustration Abstract Digital Composition with Fragmented Figures and Distorted Text]] — shared language: fragmented, text
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: never
-- [[knowledge/wiki/images/Illustration Abstract Fragmented Colorful Shapes with Outlines, Radiating and Swirling 1c49177f|Illustration Abstract Fragmented Colorful Shapes with Outlines, Radiating and Swirling]] — shared language: fragmented, colorful
 <!-- vault-crosslinks:end -->

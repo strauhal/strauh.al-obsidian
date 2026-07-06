@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Wom
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: artwork, large
 - [[knowledge/wiki/images/moebius artwork a428cd82|moebius artwork]] — shared language: artwork
 - [[knowledge/wiki/images/Document Magazine Article Page with Photo and Abstract Artwork 6980ed67|Document Magazine Article Page with Photo and Abstract Artwork]] — shared language: artwork, artwork.jpeg
-- [[knowledge/wiki/images/Photograph Photograph Of Museum Label With Artwork Information 882b1dcc|Photograph Photograph Of Museum Label With Artwork Information]] — shared language: artwork
 - [[knowledge/wiki/images/Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke' 5aa384ff|Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke']] — shared language: artwork
+- [[knowledge/wiki/images/Photograph Photograph Of Museum Label With Artwork Information 882b1dcc|Photograph Photograph Of Museum Label With Artwork Information]] — shared language: artwork
 <!-- vault-crosslinks:end -->

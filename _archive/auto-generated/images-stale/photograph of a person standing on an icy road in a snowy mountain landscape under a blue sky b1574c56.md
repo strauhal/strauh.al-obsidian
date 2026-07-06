@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: icy, snowy, mountain
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: icy, snowy, mountain
+- [[_archive/auto-generated/images-stale/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: icy, snowy, mountain
 - [[_archive/auto-generated/images-stale/village church in snowy mountain landscape 9462c6e3|village church in snowy mountain landscape]] — shared language: snowy, mountain, landscape
+- [[_archive/auto-generated/images-stale/framed landscape painting with pink sky and mountain 961a2908|framed landscape painting with pink sky and mountain]] — shared language: mountain, sky, landscape
 - [[_archive/auto-generated/images-stale/black and white pixel art drawing of a snowy landscape with a winding road 19dd5c8c|black and white pixel art drawing of a snowy landscape with a winding road]] — shared language: snowy, road, landscape
-- [[knowledge/wiki/images/Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road 10b73046|Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road]] — shared language: snowy, road, landscape
-- [[_archive/auto-generated/images-stale/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: snowy, mountain, landscape
 <!-- vault-crosslinks:end -->

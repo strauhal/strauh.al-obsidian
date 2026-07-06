@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Robert E. Jackson|Artist - Robert E. Jackson]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson in Metallic Costume 4b7db99e|Photograph Michael Jackson in Metallic Costume]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson, Jay Z, and Damon Dash at an event 05842d80|Photograph Michael Jackson, Jay Z, and Damon Dash at an event]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson Performing On Stage In A Sequin Jacket 49b1f439|Photograph Michael Jackson Performing On Stage In A Sequin Jacket]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson Leaning Out Of Car Window, Pointing 76691b10|Photograph Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson in Metallic Costume bfc56c0e|Michael Jackson in Metallic Costume]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson Leaning Out Of Car Window, Pointing 49452865|Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: jackson
 - [[knowledge/wiki/images/Photograph Kurt Cobain and William S. Burroughs by Robert E. Jackson 18f1f06e|Photograph Kurt Cobain and William S. Burroughs by Robert E. Jackson]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson Performing On Stage In A Sequin Jacket 161ca038|Michael Jackson Performing On Stage In A Sequin Jacket]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson, Jay Z, and Damon Dash at an event b25cc3c8|Michael Jackson, Jay Z, and Damon Dash at an event]] — shared language: jackson
 <!-- vault-crosslinks:end -->

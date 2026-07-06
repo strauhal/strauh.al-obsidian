@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: classic, vintage, apple
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, computer
-- [[knowledge/wiki/images/Illustration Grid of Vintage Computer Operating System Icons by Microsoft d26aafd3|Illustration Grid of Vintage Computer Operating System Icons by Microsoft]] — shared language: operating, system, vintage
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
+- [[knowledge/wiki/images/Illustration Grid of Vintage Computer Operating System Icons by Microsoft d26aafd3|Illustration Grid of Vintage Computer Operating System Icons by Microsoft]] — shared language: operating, system, vintage
 - [[_archive/auto-generated/images-stale/black and white screenshot of a classic macintosh operating system displaying a high contrast image of the moon with apollo landing sites marked overl 8090019a|black and white screenshot of a classic macintosh operating system displaying a high contrast image of the moon with apollo landing sites marked overl]] — shared language: classic, operating, macintosh
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Four L
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles 5bddca2d|Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles]] — shared language: muscles, skeleton, anatomical
-- [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: trunk, skeleton, anatomical
+- [[knowledge/wiki/images/Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles 5bddca2d|Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles]] — shared language: anatomical, skeleton, muscles
+- [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: trunk, anatomical, skeleton
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical, diagram, muscles
 - [[knowledge/wiki/images/Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton 99c06aeb|Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton]] — shared language: muscles, anatomical, skeleton
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human, diagram
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, diagram
+- [[knowledge/wiki/images/Illustration Anatomical Illustrations of Human Lower Limb, Back View, Muscles and Skeleton cfc71a92|Illustration Anatomical Illustrations of Human Lower Limb, Back View, Muscles and Skeleton]] — shared language: muscles, anatomical, skeleton
 <!-- vault-crosslinks:end -->

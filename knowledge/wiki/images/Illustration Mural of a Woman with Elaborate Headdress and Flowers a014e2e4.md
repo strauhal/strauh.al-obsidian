@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress, elaborate
 - [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress, elaborate
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress
-- [[knowledge/wiki/images/Photograph Person With Elaborate Facial Scarification Patterns 4e839286|Photograph Person With Elaborate Facial Scarification Patterns]] — shared language: elaborate
 - [[knowledge/wiki/images/Illustration Black, White, And Grey Geometric Op Art Wall Mural aaeef571|Illustration Black, White, And Grey Geometric Op Art Wall Mural]] — shared language: mural
-- [[knowledge/wiki/images/Illustration Mural of Goku as Chef for Taqueria Goku 19071bdf|Illustration Mural of Goku as Chef for Taqueria Goku]] — shared language: mural
+- [[knowledge/wiki/images/Person With Elaborate Facial Scarification Patterns 7646e597|Person With Elaborate Facial Scarification Patterns]] — shared language: elaborate
 <!-- vault-crosslinks:end -->

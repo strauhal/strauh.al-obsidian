@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/composition_by_j
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: jean
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: jean
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — shared language: jean

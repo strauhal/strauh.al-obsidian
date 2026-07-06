@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress, elaborate, ornate
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress, elaborate
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress, elaborate
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman In Yellow Shawl And Pearls f25d473a|Illustration Portrait Of A Woman In Yellow Shawl And Pearls]] — shared language: shawl
-- [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in Black Dress and White Shawl 4e0dc87e|Illustration Portrait of a Woman in Black Dress and White Shawl]] — shared language: shawl
 <!-- vault-crosslinks:end -->

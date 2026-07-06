@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/edward_william_c
 - [[knowledge/wiki/images/Santa Maria della Salute by E. Giraud (2017) 38dadec3|Santa Maria della Salute by E. Giraud (2017)]] — shared language: salute, santa, maria
 - [[knowledge/wiki/artists/Artist - maria postel|Artist - maria postel]] — shared language: maria
 - [[knowledge/wiki/artists/Artist - piero della francesca|Artist - piero della francesca]] — shared language: della
-- [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
+- [[knowledge/wiki/images/ironing by maria postel 1969 51288c50|ironing by maria postel 1969]] — shared language: maria
 <!-- vault-crosslinks:end -->

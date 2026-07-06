@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Anime Girl Looking At Shrimp In Aquarium With Pun Text 31e0d399|Image Anime Girl Looking At Shrimp In Aquarium With Pun Text]] — shared language: aquarium, shrimp, looking
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/digital illustration of an elderly man drawing an anime girl 2020 239ef40c|digital illustration of an elderly man drawing an anime girl 2020]] — shared language: girl, digital
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: girl, text
 <!-- vault-crosslinks:end -->

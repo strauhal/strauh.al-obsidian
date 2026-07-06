@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Xinlisupreme|Artist - Xinlisupreme]] — shared language: lipstick
+- [[knowledge/wiki/images/Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme 21e1d2fa|Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme]] — shared language: lipstick
 - [[_archive/auto-generated/images-stale/line engraving profile portrait of a woman wearing a crown and pearl earring 08da0ad8|line engraving profile portrait of a woman wearing a crown and pearl earring]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/living room by patrick hughes 2007 217c1b36|living room by patrick hughes 2007]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/line engraving of a seated bearded figure confronting a large winged figure with angels above dc3d8d7d|line engraving of a seated bearded figure confronting a large winged figure with angels above]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

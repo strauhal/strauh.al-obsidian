@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Buddha the Conqueror by Nicholas Roerich (1925) f3eee492|Buddha the Conqueror by Nicholas Roerich (1925)]] — shared language: conqueror
 - [[knowledge/wiki/images/The Great Balance by Prateep Kochabua (2000) 811f8d42|The Great Balance by Prateep Kochabua (2000)]] — shared language: great
 - [[knowledge/wiki/images/great architecture in chicago poster for container corporation of america by john massey 1966 b8f1ac96|great architecture in chicago poster for container corporation of america by john massey 1966]] — shared language: poster, great
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
+- [[knowledge/wiki/images/Black Trash Can In Front Of Rainbow Poster In Library c7edb02d|Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: poster
 <!-- vault-crosslinks:end -->

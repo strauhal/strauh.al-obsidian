@@ -24,6 +24,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
 - [[_archive/auto-generated/images-stale/interior painting of a woman kneeling by a window 0f6fd21f|interior painting of a woman kneeling by a window]] — shared language: window
-- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: window
-- [[_archive/auto-generated/images-stale/oil painting of a woman in a blue dress sitting in an open window e4b4362c|oil painting of a woman in a blue dress sitting in an open window]] — shared language: window
+- [[knowledge/wiki/images/Malcolm X Peering Out Window With Rifle 55a4b664|Malcolm X Peering Out Window With Rifle]] — shared language: window
 <!-- vault-crosslinks:end -->

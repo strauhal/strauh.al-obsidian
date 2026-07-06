@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/images/Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face 9e1427d8|Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face]] — shared language: person's, sketch, face
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's, face
+- [[knowledge/wiki/images/Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face 9e1427d8|Illustration Sketch of a Person's Head with Grey Rectangle Obscuring Face]] — shared language: person's, sketch, face
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Covering Face With Hands a1b907d2|Photograph Black And White Photograph Of Person Covering Face With Hands]] — shared language: covering, face
+- [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's, face
 <!-- vault-crosslinks:end -->

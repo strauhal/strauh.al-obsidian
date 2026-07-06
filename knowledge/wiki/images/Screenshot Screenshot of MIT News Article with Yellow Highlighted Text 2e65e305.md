@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 - [[knowledge/wiki/images/Screenshot Virtual Room With Russia Ukraine News Panels And Map 00a763e0|Screenshot Virtual Room With Russia Ukraine News Panels And Map]] — shared language: news, screenshot
 - [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: article, text
 - [[knowledge/wiki/images/Screenshot Article Text About Amazon Fresh Just Walk Out Technology 4e350a38|Screenshot Article Text About Amazon Fresh Just Walk Out Technology]] — shared language: article, screenshot, text
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
+- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: screenshot, text
 <!-- vault-crosslinks:end -->

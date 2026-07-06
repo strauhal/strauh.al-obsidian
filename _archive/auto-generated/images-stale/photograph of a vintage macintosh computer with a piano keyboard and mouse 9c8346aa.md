@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Vintage Macintosh Computer with MIDI Keyboard and Mouse 39e3d5dd|Photograph Vintage Macintosh Computer with MIDI Keyboard and Mouse]] — shared language: keyboard, mouse, macintosh
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, computer, keyboard
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
-- [[knowledge/wiki/images/Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: mouse, keyboard, computer
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
+- [[knowledge/wiki/images/Apple iMac DV Special Edition Computer With Mouse And Keyboard f7ff24d6|Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: mouse, keyboard, computer
+- [[_archive/auto-generated/images-stale/Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard a8304dbf|Photograph Apple iMac DV Special Edition Computer With Mouse And Keyboard]] — shared language: mouse, keyboard, computer
 <!-- vault-crosslinks:end -->

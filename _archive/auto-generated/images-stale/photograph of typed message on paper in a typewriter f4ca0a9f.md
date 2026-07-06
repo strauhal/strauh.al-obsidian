@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Typed Message on Paper in a Typewriter 8565e917|Photograph Typed Message on Paper in a Typewriter]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Typed Message on Paper in a Typewriter 8565e917|Photograph Typed Message on Paper in a Typewriter]] — named in this note
+- [[knowledge/wiki/images/Typed Message on Paper in a Typewriter a4d0fbaa|Typed Message on Paper in a Typewriter]] — named in this note
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: message
 - [[knowledge/wiki/images/Illustration Poetic Typed Text Arrangement on Pink Background dc4de994|Illustration Poetic Typed Text Arrangement on Pink Background]] — shared language: typed
 - [[_archive/auto-generated/images-stale/typed text arrangement on pink background e49896a5|typed text arrangement on pink background]] — shared language: typed
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: typewriter, typewriter.jpg
 <!-- vault-crosslinks:end -->

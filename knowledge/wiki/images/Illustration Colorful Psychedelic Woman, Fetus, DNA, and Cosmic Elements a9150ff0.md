@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes 559b1e26|Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes]] — shared language: psychedelic, colorful
 - [[knowledge/wiki/images/Illustration Detailed Black and White Cosmic Creatures and Abstract Forms 07d2f369|Illustration Detailed Black and White Cosmic Creatures and Abstract Forms]] — shared language: cosmic
 - [[knowledge/wiki/images/Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements 13d469de|Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements]] — shared language: elements, colorful
 - [[knowledge/wiki/images/Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background 4687f6b4|Illustration Man Reading Book, Half Abstract Face, Cosmic Chaotic Background]] — shared language: cosmic
-- [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: elements
 <!-- vault-crosslinks:end -->

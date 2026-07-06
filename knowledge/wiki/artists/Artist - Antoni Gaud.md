@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea 71caaf7c|Photograph Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea]] — shared language: sagrada, familia
+- [[knowledge/wiki/images/Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea 7e230456|Aerial View of Barcelona with Sagrada Familia and Mediterranean Sea]] — shared language: sagrada, familia
 - [[knowledge/wiki/artists/Artist - Anton Josef Tr ka|Artist - Anton Josef Tr ka]] — nearby note in the same source series
 - [[knowledge/wiki/artists/Artist - Antonio Rubino|Artist - Antonio Rubino]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

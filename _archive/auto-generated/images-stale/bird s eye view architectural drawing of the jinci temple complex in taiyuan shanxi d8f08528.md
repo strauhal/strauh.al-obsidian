@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Bird's Eye View of Jinci Temple Complex, Taiyuan, Shanxi 0f985d4c|Illustration Bird's Eye View of Jinci Temple Complex, Taiyuan, Shanxi]] — shared language: jinci, taiyuan, shanxi
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, view
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/bird s eye view of the world s columbian exposition chicago 1893 1893 5d1f20a1|bird s eye view of the world s columbian exposition chicago 1893 1893]] — shared language: bird, eye, view
 - [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
-- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
 <!-- vault-crosslinks:end -->

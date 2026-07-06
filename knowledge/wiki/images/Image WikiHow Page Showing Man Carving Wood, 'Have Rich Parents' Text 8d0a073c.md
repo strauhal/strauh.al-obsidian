@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - WikiHow 
 - [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: page, text, text.jpg
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
 - [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
-- [[knowledge/wiki/images/Photograph Book Page Showing Photograph and Painting of Man Cutting Hair 847448bd|Photograph Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: showing, page
+- [[knowledge/wiki/images/Book Page Showing Photograph and Painting of Man Cutting Hair 475fd06f|Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: showing, page
 <!-- vault-crosslinks:end -->

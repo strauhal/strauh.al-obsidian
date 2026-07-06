@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals 4c057454|Illustration Three Monkey Like Figures Playing Instruments Amidst Falling Petals]] — shared language: monkey, instruments, falling
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: falling, amidst
 - [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: instruments
-- [[knowledge/wiki/images/Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin 0d9b1c2e|Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
-- [[knowledge/wiki/images/four women playing musical instruments by kitagawa utamaro c 1790 1795 f9251528|four women playing musical instruments by kitagawa utamaro c 1790 1795]] — shared language: instruments, musical, playing
-- [[knowledge/wiki/images/Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass 9ec3b211|Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass]] — shared language: tall, japanese, playing
+- [[knowledge/wiki/images/Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin e147d6ba|Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin 0d9b1c2e|Photograph Photograph of a Colorful Abstract Illustration with Musical Instruments and Mannequin]] — shared language: instruments, musical
 <!-- vault-crosslinks:end -->

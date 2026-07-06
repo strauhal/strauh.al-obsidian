@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 - [[knowledge/wiki/images/Illustration People Gathered Around Retro Computers Displaying Symbols, Lit By Candles 12230e5c|Illustration People Gathered Around Retro Computers Displaying Symbols, Lit By Candles]] — shared language: gathered, around, people
 - [[knowledge/wiki/images/Screenshot Three People Sitting Around Table in Studio Setting 4276e7c1|Screenshot Three People Sitting Around Table in Studio Setting]] — shared language: around, table, people
-- [[knowledge/wiki/images/Photograph People Gathered At An Outdoor Event With White Structures ecf4f2c5|Photograph People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
+- [[knowledge/wiki/images/People Gathered At An Outdoor Event With White Structures 8367f001|People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
 <!-- vault-crosslinks:end -->

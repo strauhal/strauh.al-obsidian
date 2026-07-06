@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - taiyo matsumoto 2018|Artist - taiyo matsumoto 2018]] — named in this note
+- [[knowledge/wiki/artists/Artist - Taiyo Matsumoto|Artist - Taiyo Matsumoto]] — named in this note
 - [[knowledge/wiki/images/Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto f36342f4|Illustration Tekkonkinkreet Omnibus by Taiyo Matsumoto]] — same artist: taiyo matsumoto
 - [[knowledge/wiki/artists/Artist - Taiy Matsumoto|Artist - Taiy Matsumoto]] — shared language: matsumoto
 - [[knowledge/wiki/images/Illustration TEKKONKINKREET by Taiy Matsumoto 1a59c4a2|Illustration TEKKONKINKREET by Taiy Matsumoto]] — shared language: matsumoto
-- [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
 <!-- vault-crosslinks:end -->

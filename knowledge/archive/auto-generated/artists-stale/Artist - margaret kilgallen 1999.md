@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - margaret kilgallen|Artist - margaret kilgallen]] — named in this note
+- [[knowledge/wiki/images/Black and White Photograph of Margaret Kilgallen on Skateboard 333a7d98|Black and White Photograph of Margaret Kilgallen on Skateboard]] — shared language: kilgallen, margaret
 - [[knowledge/wiki/images/mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883 bff3e777|mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883]] — shared language: margaret
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1883|Artist - john singer sargent 1883]] — shared language: margaret
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
-- [[_archive/auto-generated/images-stale/life of pi 171df880|life of pi]] — shared language: life
+- [[knowledge/archive/auto-generated/artists-stale/Artist - john singer sargent 1883|Artist - john singer sargent 1883]] — shared language: margaret
 <!-- vault-crosslinks:end -->

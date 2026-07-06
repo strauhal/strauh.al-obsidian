@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Painting Dirt Path, Fence Posts, Mountains, Cloudy Sky 5d0e103f|Illustration Digital Painting Dirt Path, Fence Posts, Mountains, Cloudy Sky]] — shared language: posts, dirt, fence
-- [[knowledge/wiki/images/Photograph Black and White Snow Covered Hill with Fence Posts and Trees 54a931d2|Photograph Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence
+- [[knowledge/wiki/images/Black and White Snow Covered Hill with Fence Posts and Trees 29f5e7ba|Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence
+- [[_archive/auto-generated/images-stale/Photograph Black and White Snow Covered Hill with Fence Posts and Trees 54a931d2|Photograph Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence
 - [[_archive/auto-generated/images-stale/black and white photograph of snow covered hill with fence posts and trees c2c2df33|black and white photograph of snow covered hill with fence posts and trees]] — shared language: posts, fence
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/oil painting of dark mountains under blue sky 88fefb4d|oil painting of dark mountains under blue sky]] — shared language: mountains, sky
 <!-- vault-crosslinks:end -->

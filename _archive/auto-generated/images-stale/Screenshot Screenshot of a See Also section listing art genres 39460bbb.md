@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[_archive/auto-generated/images-stale/Screenshot Screenshot of a See Also section listing art genres 39460bbb-20260706163717|Screenshot Screenshot of a See Also section listing art genres]] — shared language: listing, genres, section
+- [[_archive/auto-generated/images-stale/Screenshot Screenshot of a See Also section listing art genres 39460bbb-20260706165157|Screenshot Screenshot of a See Also section listing art genres]] — shared language: listing, genres, section
 - [[_archive/auto-generated/images-stale/genres of art png 41d3ef12|genres of art png]] — shared language: genres
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: see
 - [[knowledge/wiki/images/Screenshot Screenshot of Marketplace Listing for a Laptop on a Chrome Stand fd86e360|Screenshot Screenshot of Marketplace Listing for a Laptop on a Chrome Stand]] — shared language: listing, screenshot
-- [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 11 54 79450143|Screenshot from 2024 09 09 00 11 54]] — shared language: screenshot
-- [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 19 21 9a465f13|Screenshot from 2024 09 09 00 19 21]] — shared language: screenshot
 <!-- vault-crosslinks:end -->

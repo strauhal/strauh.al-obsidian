@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: sea
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
-- [[knowledge/wiki/images/Photograph Street Leading To Sea Between Two Old Buildings With Shops 2fa030ad|Photograph Street Leading To Sea Between Two Old Buildings With Shops]] — shared language: sea
+- [[knowledge/wiki/images/Person Sitting on Bench Overlooking Sea by P. S. Burton 67d9992a|Person Sitting on Bench Overlooking Sea by P. S. Burton]] — shared language: sea, sitting
 - [[knowledge/wiki/images/edward hopper rooms by the sea 1951 d62a2fb9|edward hopper rooms by the sea 1951]] — shared language: sea
 - [[knowledge/wiki/images/the eye of the sea by salvador dali 1942 34802201|the eye of the sea by salvador dali 1942]] — shared language: sea
 <!-- vault-crosslinks:end -->

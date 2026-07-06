@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Surreal Purple Landscape With Two Figures 73acbe46|Photograph Surreal Purple Landscape With Two Figures]] — shared language: surreal, landscape
+- [[knowledge/wiki/images/Surreal Purple Landscape With Two Figures 18ed63b9|Surreal Purple Landscape With Two Figures]] — shared language: surreal, landscape
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: surreal, landscape
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape
 - [[knowledge/wiki/images/Photograph Minimalist Photograph of a Single Tree in a Desert Landscape 4be5d872|Photograph Minimalist Photograph of a Single Tree in a Desert Landscape]] — shared language: tree, landscape, landscape.jpeg

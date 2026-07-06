@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Ink Sketch of a Car with Pop Up Headlights on a Road be1bab18|Illustration Ink Sketch of a Car with Pop Up Headlights on a Road]] — named in this note
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Photograph Train with Headlights Inside Another Train Car d14bb878|Photograph Train with Headlights Inside Another Train Car]] — shared language: headlights, car
 - [[_archive/auto-generated/images-stale/black and white ink sketch of a bus on a dirt road d178b626|black and white ink sketch of a bus on a dirt road]] — shared language: road, sketch, ink
+- [[_archive/auto-generated/images-stale/Photograph Train with Headlights Inside Another Train Car d14bb878|Photograph Train with Headlights Inside Another Train Car]] — shared language: headlights, car
 <!-- vault-crosslinks:end -->

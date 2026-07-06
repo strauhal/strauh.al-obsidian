@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
 - [[knowledge/wiki/images/Illustration Woman with Dark Hair Against Yellow and Grey Pattern 97bac4c0|Illustration Woman with Dark Hair Against Yellow and Grey Pattern]] — shared language: grey, hair
 - [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: hair, person
 <!-- vault-crosslinks:end -->

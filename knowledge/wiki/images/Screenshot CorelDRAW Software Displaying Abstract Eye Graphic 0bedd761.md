@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Cor
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Blender Software Interface Displaying Wireframe Sketch of a Face 598a4331|Screenshot Blender Software Interface Displaying Wireframe Sketch of a Face]] — shared language: software, displaying, screenshot
-- [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: displaying, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: software, screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art 55fb41e7|Screenshot Screenshot of a Drawing Program Displaying Abstract Pixel Art]] — shared language: displaying, screenshot
 - [[knowledge/wiki/images/Screenshot Monochrome Graphics Software Interface with Abstract Drawing and Menus eaa51870|Screenshot Monochrome Graphics Software Interface with Abstract Drawing and Menus]] — shared language: software, screenshot
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model 245b1c4c|Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model]] — shared language: software, screenshot
 <!-- vault-crosslinks:end -->

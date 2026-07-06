@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - annie leibovitz|Artist - annie leibovitz]] — named in this note
-- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
+- [[_archive/auto-generated/images-stale/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
+- [[knowledge/wiki/images/Yoko Ono by Annie Leibovitz 52b8d4df|Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
 - [[knowledge/wiki/books/annie-besant-thought-forms-bibliobazaar|Thought-Forms-BiblioBazaar]] — shared language: annie
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jimmy hinson|Artist - jimmy hinson]] — shared language: jimmy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jimmy hinson 2012|Artist - jimmy hinson 2012]] — shared language: jimmy
-- [[_archive/auto-generated/images-stale/pxl con by jimmy hinson 2012 db11d271|pxl con by jimmy hinson 2012]] — shared language: jimmy
 <!-- vault-crosslinks:end -->

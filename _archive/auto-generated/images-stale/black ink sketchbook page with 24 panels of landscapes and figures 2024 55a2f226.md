@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Sketchbook Page with 24 Black Ink Landscape and Figure Studies 14c039f9|Illustration Sketchbook Page with 24 Black Ink Landscape and Figure Studies]] — shared language: sketchbook, page, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook, ink
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
+- [[knowledge/wiki/images/Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer 916fbeae|Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer]] — shared language: sketchbook, page, ink
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 <!-- vault-crosslinks:end -->

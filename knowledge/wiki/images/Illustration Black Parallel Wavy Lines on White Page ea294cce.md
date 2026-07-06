@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines 79d7ed7c|Illustration Abstract Painting With Wavy Red, Orange, Green, Blue Lines]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Illustration Abstract Wavy Black Lines On Grey Background cd77ee55|Illustration Abstract Wavy Black Lines On Grey Background]] — shared language: wavy, lines
-- [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Illustration Black And White Op Art Diamond With Wavy Lines c8fc98d8|Illustration Black And White Op Art Diamond With Wavy Lines]] — shared language: wavy, lines
+- [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: wavy, lines
 <!-- vault-crosslinks:end -->

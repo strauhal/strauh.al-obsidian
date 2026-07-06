@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/toshio saeki jpg ad71c0fe|toshio saeki jpg]] — shared language: toshio
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
-- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: world
 - [[knowledge/wiki/images/Illustration Icons for PDF, Word, PowerPoint, and Excel Files db779465|Illustration Icons for PDF, Word, PowerPoint, and Excel Files]] — shared language: word
+- [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: world
 - [[knowledge/wiki/images/Third World Esoterrorism by TETRAGRAMMACIDE (2019) c14e1921|Third World Esoterrorism by TETRAGRAMMACIDE (2019)]] — shared language: world
 - [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: word
 <!-- vault-crosslinks:end -->

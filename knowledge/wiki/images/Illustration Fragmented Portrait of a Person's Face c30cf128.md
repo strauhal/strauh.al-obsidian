@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/images/Illustration Stylized Sketch of Person's Face With Hand Covering Eye f18dce98|Illustration Stylized Sketch of Person's Face With Hand Covering Eye]] — shared language: person's, face
 - [[knowledge/wiki/images/Screenshot Person's Face With Blue Facial Landmark Tracking Dots a95cf1df|Screenshot Person's Face With Blue Facial Landmark Tracking Dots]] — shared language: person's, face
 - [[knowledge/wiki/images/Illustration Black And White Line Drawing Of Fragmented Human Head c5c95a7f|Illustration Black And White Line Drawing Of Fragmented Human Head]] — shared language: fragmented
-- [[knowledge/wiki/images/Illustration Black and White Halftone Profile of a Person's Head 3fdc0aff|Illustration Black and White Halftone Profile of a Person's Head]] — shared language: person's
+- [[knowledge/wiki/images/Casio Wrist Camera on wrist displaying a person's face 5ecb1683|Casio Wrist Camera on wrist displaying a person's face]] — shared language: person's, face
 <!-- vault-crosslinks:end -->

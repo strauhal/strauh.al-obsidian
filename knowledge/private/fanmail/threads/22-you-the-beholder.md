@@ -31,6 +31,6 @@ updated: 2026-06-22
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, incoming, direction
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: incoming
 - [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — shared language: private, incoming, direction
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: private, incoming, direction
 <!-- vault-crosslinks:end -->

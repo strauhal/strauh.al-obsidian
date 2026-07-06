@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting with Purple and Magenta Cross Hatched Texture 867c8889|Illustration Abstract Painting with Purple and Magenta Cross Hatched Texture]] — shared language: hatched, magenta, texture
 - [[knowledge/wiki/images/Illustration Cross Hatched Portrait of a Woman in Profile with Hand 547dc7fa|Illustration Cross Hatched Portrait of a Woman in Profile with Hand]] — shared language: hatched, cross
 - [[_archive/auto-generated/images-stale/hatched drawing of a woman s profile in blue and red 11cf2d6b|hatched drawing of a woman s profile in blue and red]] — shared language: hatched
-- [[_archive/auto-generated/images-stale/sketch of a woman s face using blue purple and orange cross hatching 791d9126|sketch of a woman s face using blue purple and orange cross hatching]] — shared language: cross, purple
 - [[knowledge/wiki/images/Illustration Hatched Pen and Marker Portrait of a Woman's Head 2d1ff175|Illustration Hatched Pen and Marker Portrait of a Woman's Head]] — shared language: hatched
+- [[_archive/auto-generated/images-stale/sketch of a woman s face using blue purple and orange cross hatching 791d9126|sketch of a woman s face using blue purple and orange cross hatching]] — shared language: cross, purple
 <!-- vault-crosslinks:end -->

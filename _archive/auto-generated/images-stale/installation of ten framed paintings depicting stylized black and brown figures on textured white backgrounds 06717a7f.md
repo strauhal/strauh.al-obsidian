@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: ten, paintings, framed
-- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: paintings, textured, framed
+- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: textured, paintings, framed
 - [[knowledge/wiki/images/Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds f0a53489|Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds]] — shared language: backgrounds, brown, backgrounds.jpeg
 - [[_archive/auto-generated/images-stale/grid of ten framed drawings depicting minimalist black human figures in various poses b65cb675|grid of ten framed drawings depicting minimalist black human figures in various poses]] — shared language: ten, depicting, framed
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, stylized

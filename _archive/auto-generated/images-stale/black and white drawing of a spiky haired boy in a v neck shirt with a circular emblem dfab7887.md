@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Image Grumpy White Cat With Spiky Hair 0b7aeaf3|Image Grumpy White Cat With Spiky Hair]] — shared language: spiky
 - [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: emblem
 - [[_archive/auto-generated/images-stale/circular black and white collage of astronaut and figures 211df9a0|circular black and white collage of astronaut and figures]] — shared language: circular
-- [[_archive/auto-generated/images-stale/painting of an anime character with spiky yellow and red hair 5fbb21c2|painting of an anime character with spiky yellow and red hair]] — shared language: spiky
+- [[knowledge/wiki/images/Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair 8289f537|Illustration Monochrome Drawing of Seated Figure with Abstract Spiky Hair]] — shared language: spiky
 <!-- vault-crosslinks:end -->

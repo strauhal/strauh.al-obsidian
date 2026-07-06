@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Faig Ahmed|Artist - Faig Ahmed]] — shared language: faig, ahmed
 - [[knowledge/wiki/images/Illustration People Holding a Large Red Melting Rug by Faig Ahmed 3d6f7aed|Illustration People Holding a Large Red Melting Rug by Faig Ahmed]] — shared language: faig, ahmed
 - [[_archive/auto-generated/images-stale/photograph of white liquid streaks flowing down dark asphalt road 281e77ab|photograph of white liquid streaks flowing down dark asphalt road]] — shared language: liquid
-- [[knowledge/wiki/images/Photograph White Liquid Streaks Flowing Down Dark Asphalt Road 449d5f07|Photograph White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: liquid
-- [[knowledge/wiki/images/Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass c6d45247|Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass]] — shared language: liquid
+- [[_archive/auto-generated/images-stale/Photograph White Liquid Streaks Flowing Down Dark Asphalt Road 449d5f07|Photograph White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: liquid
+- [[knowledge/wiki/images/White Liquid Streaks Flowing Down Dark Asphalt Road 7b417100|White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: liquid
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Multi panel artwork depicting a surreal landscape with figures and text 7c8a85d2|Illustration Multi panel artwork depicting a surreal landscape with figures and text]] — shared language: artwork, multi, panel
-- [[knowledge/wiki/images/Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text 2623b751|Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text]] — shared language: landscapes, artwork
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: forms, colorful, forms.jpeg
+- [[knowledge/wiki/images/Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text 2623b751|Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text]] — shared language: landscapes, artwork
 - [[knowledge/wiki/images/Illustration Multi Panel Painting with Symbolic Figures and Text 949a6c9c|Illustration Multi Panel Painting with Symbolic Figures and Text]] — shared language: multi, panel, multi-panel
 - [[knowledge/wiki/images/Illustration Abstract Artwork Composed of Multi Colored Dots on Paper 43ef3b1e|Illustration Abstract Artwork Composed of Multi Colored Dots on Paper]] — shared language: artwork, multi
 <!-- vault-crosslinks:end -->

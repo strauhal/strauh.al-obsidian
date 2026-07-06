@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, grid, hand
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Grid of 25 Black and White Ink Sketches of Scenes daadd5a2|Illustration Grid of 25 Black and White Ink Sketches of Scenes]] — shared language: sketches, grid
 <!-- vault-crosslinks:end -->

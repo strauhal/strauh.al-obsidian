@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: tips, sketch, diagrams
+- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: tips, sketch, digital
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, paint
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: bottom
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint, sketch
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: created, digital
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/archive/auto-generated/artists-stale/Artist - faces|Artist - faces]] — shared language: faces, sketch
 <!-- vault-crosslinks:end -->

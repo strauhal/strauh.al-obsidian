@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis haghe|Artist - louis haghe]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis markoya|Artist - louis markoya]] — shared language: louis

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/st_peters_basili
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape b57eaf8c|Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: basilica
+- [[knowledge/wiki/images/Panoramic View of Paris with Sacr C ur Basilica and Cityscape 26dce0ee|Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: basilica
 - [[knowledge/wiki/images/Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica 5e0f08fb|Photograph Ornate Blue and Gold Vaulted Ceiling in a Grand Basilica]] — shared language: basilica
 - [[knowledge/wiki/images/Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757) c0fb8b9d|Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757)]] — shared language: pannini
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: interior

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: ties
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
-- [[_archive/auto-generated/images-stale/photograph of two men in black coats walking on an urban street 6005e79a|photograph of two men in black coats walking on an urban street]] — shared language: walking, men
+- [[knowledge/wiki/images/Rack of Black T Shirts in a Store 38111b50|Rack of Black T Shirts in a Store]] — shared language: shirts
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - martin handford|Artist - Martin Handford]] — named in this note
+- [[knowledge/wiki/artists/Artist - Martin Handford|Artist - Martin Handford]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - martin handford|Artist - Martin Handford]] — shared language: handford, martin, battle
 - [[knowledge/wiki/images/Illustration Massive Battle Scene with Walled City and Many Figures by Martin Handford 9b858a50|Illustration Massive Battle Scene with Walled City and Many Figures by Martin Handford]] — shared language: handford, martin, battle
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1837|Artist - john martin 1837]] — shared language: martin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1841|Artist - john martin 1841]] — shared language: martin
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1817|Artist - john martin 1817]] — shared language: martin
-- [[knowledge/archive/auto-generated/artists-stale/Artist - john martin 1821|Artist - john martin 1821]] — shared language: martin
 <!-- vault-crosslinks:end -->

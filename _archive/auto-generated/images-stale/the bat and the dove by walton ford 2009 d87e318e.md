@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration White Dove and Bat Flying Against Dark Background 74eaf8c4|Illustration White Dove and Bat Flying Against Dark Background]] — shared language: bat, dove
 - [[knowledge/archive/auto-generated/artists-stale/Artist - arthur dove 1924|Artist - arthur dove 1924]] — shared language: dove
 - [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — shared language: dove
-- [[knowledge/wiki/images/composition by arthur dove c 1927 d2562e3b|composition by arthur dove c 1927]] — shared language: dove
+- [[knowledge/wiki/images/ford madox brown saul and david 1864 6cd50515|ford madox brown saul and david 1864]] — shared language: ford
 <!-- vault-crosslinks:end -->

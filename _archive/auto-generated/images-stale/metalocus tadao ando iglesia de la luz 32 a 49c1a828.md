@@ -27,5 +27,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 
 - [[knowledge/wiki/images/Dream Chairs by Tadao Ando (2013) 4980484c|Dream Chairs by Tadao Ando (2013)]] — shared language: ando, tadao
 - [[_archive/auto-generated/images-stale/13 Chichu Art Museum 01 dream chair tadao ando mooponto 6bb6d6a1|13 Chichu Art Museum 01 dream chair tadao ando mooponto]] — shared language: ando, tadao
-- [[knowledge/wiki/images/Photograph Man Seated In Tadao Ando's Church Of The Light Interior d645a683|Photograph Man Seated In Tadao Ando's Church Of The Light Interior]] — shared language: tadao
+- [[knowledge/wiki/images/Man Seated In Tadao Ando's Church Of The Light Interior 41e500e1|Man Seated In Tadao Ando's Church Of The Light Interior]] — shared language: tadao
+- [[_archive/auto-generated/images-stale/Photograph Man Seated In Tadao Ando's Church Of The Light Interior d645a683|Photograph Man Seated In Tadao Ando's Church Of The Light Interior]] — shared language: tadao
 <!-- vault-crosslinks:end -->

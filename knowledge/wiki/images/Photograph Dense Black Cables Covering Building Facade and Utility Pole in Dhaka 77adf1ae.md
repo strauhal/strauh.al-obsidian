@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Den
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
+- [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility, pole
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: pole
-- [[knowledge/wiki/images/Photograph Utility Pole Densely Covered In Staples And Nails On City Street 056bf695|Photograph Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: utility, pole
-- [[knowledge/wiki/images/Photograph Grainy Black And White Building Facade With Geometric Distortion ee184a3d|Photograph Grainy Black And White Building Facade With Geometric Distortion]] — shared language: facade, building
+- [[knowledge/wiki/images/Utility Pole Densely Covered In Staples And Nails On City Street 7cfb1d6c|Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: utility, pole
 <!-- vault-crosslinks:end -->

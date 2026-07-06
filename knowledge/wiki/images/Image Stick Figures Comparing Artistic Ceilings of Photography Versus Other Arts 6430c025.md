@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Stick Fi
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: artistic
-- [[knowledge/wiki/images/Diagram The Pencil As A Measuring Stick 5cbfaebc|Diagram The Pencil As A Measuring Stick]] — shared language: stick
+- [[knowledge/wiki/images/The Pencil As A Measuring Stick e111e7d8|The Pencil As A Measuring Stick]] — shared language: stick
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: arts
 - [[knowledge/wiki/images/Comic Four Panel Comic Discussing AI Art Versus Human Drawing And Kim Jung Gi 3fa261e8|Comic Four Panel Comic Discussing AI Art Versus Human Drawing And Kim Jung Gi]] — shared language: versus
-- [[knowledge/wiki/images/Diagram Log Log Plot of Validation Loss Versus Compute 91ab785d|Diagram Log Log Plot of Validation Loss Versus Compute]] — shared language: versus
+- [[knowledge/wiki/images/Log Log Plot of Validation Loss Versus Compute 6b45100b|Log Log Plot of Validation Loss Versus Compute]] — shared language: versus
 <!-- vault-crosslinks:end -->

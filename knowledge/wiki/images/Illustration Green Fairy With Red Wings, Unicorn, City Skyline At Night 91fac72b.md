@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline, night
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Figure With Large Dark Wings 438266ca|Photograph Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: wings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, night
+- [[knowledge/wiki/images/Black And White Photograph Of A Figure With Large Dark Wings cf67daa7|Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: wings
 - [[knowledge/wiki/images/Illustration Surreal Scene with Grotesque Unicorn Figures and Strange Vehicle e3334270|Illustration Surreal Scene with Grotesque Unicorn Figures and Strange Vehicle]] — shared language: unicorn
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — shared language: skyline
+- [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: skyline, city
 <!-- vault-crosslinks:end -->

@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Juck Juck Grunzie|Artist - Juck Juck Grunzie]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - juck juck grunzie 2013|Artist - juck juck grunzie 2013]] — named in this note
 - [[_archive/auto-generated/images-stale/juche by juck juck grunzie 2013 68084094|juche by juck juck grunzie 2013]] — shared language: juck, grunzie
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: juck, tower
 - [[_archive/auto-generated/books-stale/radio-shack-electronics-learning-lab-01|Radio Shack Electronics Learning Lab 01]] — shared language: radio
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: radio
 - [[knowledge/wiki/images/Mortis by Bad Radio (2020) 3c4b673e|Mortis by Bad Radio (2020)]] — shared language: radio

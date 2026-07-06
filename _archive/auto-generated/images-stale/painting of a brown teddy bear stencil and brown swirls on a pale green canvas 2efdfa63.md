@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas b4070523|Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas]] — shared language: teddy, stencil, swirls
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: stencil
 - [[knowledge/wiki/images/Illustration Stylized Figures and Teddy Bear in Plaid Patterns 74e14a5c|Illustration Stylized Figures and Teddy Bear in Plaid Patterns]] — shared language: teddy, bear
 - [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: swirls, green
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: bear
+- [[knowledge/wiki/images/Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall 6f067f1c|Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall]] — shared language: stencil, brown
 <!-- vault-crosslinks:end -->

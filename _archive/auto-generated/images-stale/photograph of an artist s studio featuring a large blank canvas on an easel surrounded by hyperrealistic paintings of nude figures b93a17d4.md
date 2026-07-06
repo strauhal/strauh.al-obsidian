@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
-- [[knowledge/wiki/images/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: blank, canvas, paintings
+- [[knowledge/wiki/images/Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings e04b182c|Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: blank, canvas, paintings
+- [[_archive/auto-generated/images-stale/Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings 3d4bf608|Photograph Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: blank, canvas, paintings
 - [[knowledge/archive/auto-generated/anchors-stale/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude
 - [[knowledge/wiki/images/Photograph Photograph of two paintings featuring figures in red rooms e53637cd|Photograph Photograph of two paintings featuring figures in red rooms]] — shared language: paintings, featuring
-- [[knowledge/wiki/images/Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies 02981a21|Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies]] — shared language: easel, studio
 <!-- vault-crosslinks:end -->

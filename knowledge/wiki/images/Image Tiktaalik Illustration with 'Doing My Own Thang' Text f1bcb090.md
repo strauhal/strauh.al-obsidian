@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Tiktaali
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Portrait of Woman with Bold Brushstrokes and Text 8238a488|Illustration Abstract Portrait of Woman with Bold Brushstrokes and Text]] — shared language: text, text.jpeg
+- [[knowledge/wiki/images/Diagram of interconnected spiritual and philosophical concepts with text e50467e8|Diagram of interconnected spiritual and philosophical concepts with text]] — shared language: text, text.jpeg
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: text
 - [[knowledge/wiki/images/Screenshot Screenshot of Magibook Ad Simplifying The Great Gatsby Text 7ab4b24e|Screenshot Screenshot of Magibook Ad Simplifying The Great Gatsby Text]] — shared language: text, text.jpeg
 - [[knowledge/wiki/images/Illustration Line Drawing of Artist Painting Abstract and Floral Designs with Text 07310c9d|Illustration Line Drawing of Artist Painting Abstract and Floral Designs with Text]] — shared language: text, text.jpeg
-- [[knowledge/wiki/images/Diagram Diagram of interconnected spiritual and philosophical concepts with text 82d127ef|Diagram Diagram of interconnected spiritual and philosophical concepts with text]] — shared language: text, text.jpeg
 <!-- vault-crosslinks:end -->

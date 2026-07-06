@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: burnett
 - [[knowledge/wiki/artists/Artist - Fjodor van Veen and Stefan Leijnen|Artist - Fjodor van Veen and Stefan Leijnen]] — shared language: stefan
 - [[knowledge/wiki/artists/Artist - Fjodor van Veen and Stefan Leijnen copy|Artist - Fjodor van Veen and Stefan Leijnen copy]] — shared language: stefan
-- [[knowledge/wiki/images/Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen bb4a4e53|Diagram Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen]] — shared language: stefan
+- [[knowledge/wiki/images/Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen 2f8bdb66|Chart of Various Neural Network Architectures by Fjodor van Veen and Stefan Leijnen]] — shared language: stefan
 <!-- vault-crosslinks:end -->

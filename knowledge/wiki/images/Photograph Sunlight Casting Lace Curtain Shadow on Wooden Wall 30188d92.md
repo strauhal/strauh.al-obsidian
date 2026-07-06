@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sun
 - [[knowledge/wiki/books/benebell-wen-the-tao-of-craft-fu-talismans-and-casting-sigils-in-the-eastern-esoteric-tradition-north-atlantic-books|The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books]] — shared language: casting
 - [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: sunlight
 - [[knowledge/wiki/images/Sunlight by Richard Edward Miller (c. 1913) bcc1eb19|Sunlight by Richard Edward Miller (c. 1913)]] — shared language: sunlight
-- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: sunlight
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow
 <!-- vault-crosslinks:end -->

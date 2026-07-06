@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Vaporwave Collage with John Lennon Bust, Photo, and Japanese Text 6495ef48|Illustration Vaporwave Collage with John Lennon Bust, Photo, and Japanese Text]] — shared language: bust, photo, collage
+- [[knowledge/wiki/images/Illustration Vaporwave Collage with John Lennon Bust, Photo, and Japanese Text 6495ef48|Illustration Vaporwave Collage with John Lennon Bust, Photo, and Japanese Text]] — shared language: bust, collage, photo
 - [[knowledge/wiki/images/Photograph White Bust Sculpture With AR Overlay on Carpet 8baa790d|Photograph White Bust Sculpture With AR Overlay on Carpet]] — shared language: bust, sculpture
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Photograph Black and White Photo Collage of Eyes and Hands 79c1143e|Photograph Black and White Photo Collage of Eyes and Hands]] — shared language: photo, collage
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
+- [[knowledge/wiki/images/Black and White Photo Collage of Eyes and Hands e48851bc|Black and White Photo Collage of Eyes and Hands]] — shared language: collage, photo
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photo Collage of Eyes and Hands 79c1143e|Photograph Black and White Photo Collage of Eyes and Hands]] — shared language: collage, photo
 <!-- vault-crosslinks:end -->

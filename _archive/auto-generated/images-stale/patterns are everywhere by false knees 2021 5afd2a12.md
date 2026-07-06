@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - false knees 2021|Artist - false knees 2021]] — named in this note
+- [[knowledge/wiki/artists/Artist - False Knees|Artist - False Knees]] — named in this note
 - [[knowledge/wiki/images/Comic Bird Discusses Patterns, Becomes Part of Pattern by False Knees 800bdf7b|Comic Bird Discusses Patterns, Becomes Part of Pattern by False Knees]] — same artist: knees
 - [[knowledge/wiki/images/From the Knees of my Nose to the Belly of my Toes by Alex Chinneck (2013) 588d3c7e|From the Knees of my Nose to the Belly of my Toes by Alex Chinneck (2013)]] — shared language: knees
 - [[_archive/auto-generated/images-stale/from the knees of my nose to the belly of my toes by alex chinneck 2013 62493a23|from the knees of my nose to the belly of my toes by alex chinneck 2013]] — shared language: knees
-- [[knowledge/wiki/images/Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns 7d303ebb|Illustration Abstract Portrait of a Head with Wavy Blue and Red Patterns]] — shared language: patterns
 <!-- vault-crosslinks:end -->

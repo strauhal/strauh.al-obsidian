@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil, dark
 - [[_archive/auto-generated/images-stale/oil painting portrait of a man in a dark suit d0e4ae5b|oil painting portrait of a man in a dark suit]] — shared language: oil, dark
-- [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: sky, oil, dark
-- [[_archive/auto-generated/images-stale/oil painting of a sunset sky with purple and orange clouds over a dark landscape ce2101c6|oil painting of a sunset sky with purple and orange clouds over a dark landscape]] — shared language: sky, oil, dark
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: sky
+- [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: oil, sky, dark
+- [[_archive/auto-generated/images-stale/oil painting of a sunset sky with purple and orange clouds over a dark landscape ce2101c6|oil painting of a sunset sky with purple and orange clouds over a dark landscape]] — shared language: oil, sky, dark
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: mountains
 <!-- vault-crosslinks:end -->

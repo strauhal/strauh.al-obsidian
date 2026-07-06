@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757) 072a67b8|The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (c. 1757)]] — shared language: tiepolo, battista, giovanni
 - [[knowledge/wiki/images/giovanni battista tiepolo the empire of flora c 1743 jpg 401e8103|giovanni battista tiepolo the empire of flora c 1743 jpg]] — shared language: tiepolo, battista, giovanni
 - [[knowledge/wiki/images/Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752) 432f8d55|Allegory of the Planets and Continents by Giovanni Battista Tiepolo (c. 1752)]] — shared language: tiepolo, battista, giovanni
-- [[knowledge/wiki/images/Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745) e19f8d53|Allegory of Virtue and Nobility by Giovanni Battista Tiepolo (1740 1745)]] — shared language: tiepolo, battista, giovanni
+- [[knowledge/wiki/images/Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770) 9e98997f|Moses Striking the Rock by Giovanni Battista Tiepolo (c. 1770)]] — shared language: tiepolo, battista, giovanni
 <!-- vault-crosslinks:end -->

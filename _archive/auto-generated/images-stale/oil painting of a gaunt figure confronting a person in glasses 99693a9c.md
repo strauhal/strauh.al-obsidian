@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Gaunt Figure Confronting Person in Glasses, Muted Tones 7b412b93|Illustration Gaunt Figure Confronting Person in Glasses, Muted Tones]] — shared language: gaunt, confronting, glasses
-- [[_archive/auto-generated/images-stale/soft drawing of a reclining person with glasses 04f7017a|soft drawing of a reclining person with glasses]] — shared language: glasses, person, glasses.jpg
 - [[_archive/auto-generated/images-stale/oil painting portrait of a man wearing glasses and a keffiyeh 9ccde60a|oil painting portrait of a man wearing glasses and a keffiyeh]] — shared language: glasses, oil
+- [[_archive/auto-generated/images-stale/soft drawing of a reclining person with glasses 04f7017a|soft drawing of a reclining person with glasses]] — shared language: glasses, person, glasses.jpg
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Glasses and Bamboo Background c6dcc1ac|Illustration Stylized Portrait of Person with Glasses and Bamboo Background]] — shared language: glasses, person
 - [[_archive/auto-generated/images-stale/black and white line drawing of a person with messy hair and glasses 2 b827ec26|black and white line drawing of a person with messy hair and glasses 2]] — shared language: glasses, person
 <!-- vault-crosslinks:end -->

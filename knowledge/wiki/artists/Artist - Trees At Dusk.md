@@ -11,19 +11,19 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Street Lamp And Archway Framed By Trees At Dusk.jpg]]
+![[media/strauh.al3.1/photography/Street Lamp And Archway Framed By Trees At Dusk.jpg]]
 
 ## Image Notes
 
-- [[Photograph Street Lamp And Archway Framed By Trees At Dusk 0cf7753c|Photograph Street Lamp And Archway Framed By Trees At Dusk]]
+- [[Street Lamp And Archway Framed By Trees At Dusk c2490ab8|Street Lamp And Archway Framed By Trees At Dusk]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
+- [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, trees
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, street
 - [[knowledge/wiki/images/Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk 595024bc|Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, trees
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/wiki/images/Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver 2793474c|Photograph Liquor Store at Dusk, Tall Trees, Mountains, Red Car by Nick Carver]] — shared language: dusk, trees
 - [[knowledge/wiki/images/Illustration City Street At Dusk With Festive Lights And Pedestrians b2acb347|Illustration City Street At Dusk With Festive Lights And Pedestrians]] — shared language: dusk, street
-- [[knowledge/wiki/images/Photograph Dramatic Red Sky Over Dark Garden at Dusk b5024496|Photograph Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dusk
-- [[knowledge/wiki/images/Photograph Dense Urban Skyline at Dusk Under Hazy Sky 2b7bf112|Photograph Dense Urban Skyline at Dusk Under Hazy Sky]] — shared language: dusk
 <!-- vault-crosslinks:end -->

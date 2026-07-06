@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Donald Trump And Kim Jong Un At DMZ, Photographers Present b7a2a2d8|Photograph Donald Trump And Kim Jong Un At DMZ, Photographers Present]] — shared language: kim
 - [[knowledge/wiki/images/The Butterfly Effect by Monica Kim Garza (2023) 092d0944|The Butterfly Effect by Monica Kim Garza (2023)]] — shared language: kim
 - [[knowledge/wiki/images/Illustration Detailed Line Drawing of Mechanics Working on Rally Cars by Kim Jung Gi 905bbb2f|Illustration Detailed Line Drawing of Mechanics Working on Rally Cars by Kim Jung Gi]] — shared language: kim
-- [[knowledge/wiki/images/Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5ae00f83|Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: kim
+- [[knowledge/wiki/images/Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5fc8da6b|Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: kim
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Buddha Head and Hand Performing Mudra Against Vibrant Background f338a84c|Illustration Buddha Head and Hand Performing Mudra Against Vibrant Background]] — shared language: mudra, performing, buddha
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, green
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, green
+- [[_archive/auto-generated/images-stale/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, against, green
 - [[_archive/auto-generated/images-stale/buddha amithaba jpg 633ff108|buddha amithaba jpg]] — shared language: buddha
-- [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: against, background, green
 <!-- vault-crosslinks:end -->

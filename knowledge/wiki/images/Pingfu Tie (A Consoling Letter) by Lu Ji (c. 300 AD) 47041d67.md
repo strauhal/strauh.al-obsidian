@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Pingfu Tie (A
 - [[knowledge/wiki/images/portrait of a man with a letter by titian c 1545 2e10f942|portrait of a man with a letter by titian c 1545]] — shared language: letter
 - [[knowledge/wiki/images/woman with tie and flowers on head by andy warhol 1958 ade73834|woman with tie and flowers on head by andy warhol 1958]] — shared language: tie
 - [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: letter
-- [[knowledge/wiki/images/Photograph Man In White Shirt And Tie Holding Food On Private Jet e2c3ede6|Photograph Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: tie
+- [[knowledge/wiki/images/Man In White Shirt And Tie Holding Food On Private Jet 8e057f43|Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: tie
 <!-- vault-crosslinks:end -->

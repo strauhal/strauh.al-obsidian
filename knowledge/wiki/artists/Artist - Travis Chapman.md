@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Illustration Painting of Man Resembling Mark Zuckerberg Drinking Barbecue Sauce by Chapman 4c5b6b96|Illustration Painting of Man Resembling Mark Zuckerberg Drinking Barbecue Sauce by Chapman]] — shared language: chapman
 - [[knowledge/wiki/images/Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021) 94a17fa2|Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021)]] — shared language: travis
 - [[knowledge/wiki/images/wildcats promotional poster by travis charest and richard friend 1999 e86d40f2|wildcats promotional poster by travis charest and richard friend 1999]] — shared language: travis
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
 <!-- vault-crosslinks:end -->

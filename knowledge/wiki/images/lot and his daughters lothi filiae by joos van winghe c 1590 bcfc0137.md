@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/lot_and_his_daug
 - [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: lot
 - [[knowledge/wiki/artists/Artist - lucas van valckenborch|Artist - lucas van valckenborch]] — shared language: van
 - [[knowledge/wiki/images/moses and the daughters of jethro by hans schaufelein c 1515 b27b9b11|moses and the daughters of jethro by hans schaufelein c 1515]] — shared language: daughters
-- [[knowledge/wiki/images/Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot 336e5420|Photograph CVS Pharmacy Building with Ornate Architecture and Parking Lot]] — shared language: lot
 - [[knowledge/wiki/images/the daughters of edward darley boit by john singer sargent 1882 1ef2484d|the daughters of edward darley boit by john singer sargent 1882]] — shared language: daughters
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: van
 <!-- vault-crosslinks:end -->

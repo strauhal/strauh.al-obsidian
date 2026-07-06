@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 - [[knowledge/wiki/images/Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas 0932adc5|Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas]] — shared language: airplane, cars
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
-- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: bridge
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
+- [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: fire
 <!-- vault-crosslinks:end -->

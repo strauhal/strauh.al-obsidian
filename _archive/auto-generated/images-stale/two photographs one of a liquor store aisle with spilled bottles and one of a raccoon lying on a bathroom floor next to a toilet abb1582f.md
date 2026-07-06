@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Split Image Of Messy Liquor Store Aisle And Raccoon In Bathroom 1bfa86ff|Photograph Split Image Of Messy Liquor Store Aisle And Raccoon In Bathroom]] — shared language: aisle, raccoon, liquor
-- [[knowledge/wiki/images/Photograph Bathroom with Toilet, Shower, and Vanity 66439eb6|Photograph Bathroom with Toilet, Shower, and Vanity]] — shared language: bathroom, toilet
-- [[knowledge/wiki/images/Photograph Young Woman With Bottles And Cigarette Packs On Floor e91fc69c|Photograph Young Woman With Bottles And Cigarette Packs On Floor]] — shared language: bottles, floor
-- [[knowledge/wiki/images/Photograph Modern Minimalist Bathroom with Bathtub, Shower, and Toilet eb86d952|Photograph Modern Minimalist Bathroom with Bathtub, Shower, and Toilet]] — shared language: bathroom, toilet
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: bathroom, floor
+- [[knowledge/wiki/images/Bathroom with Toilet, Shower, and Vanity 5f41809b|Bathroom with Toilet, Shower, and Vanity]] — shared language: bathroom, toilet
+- [[_archive/auto-generated/images-stale/Photograph Bathroom with Toilet, Shower, and Vanity 66439eb6|Photograph Bathroom with Toilet, Shower, and Vanity]] — shared language: bathroom, toilet
+- [[knowledge/wiki/images/Modern Minimalist Bathroom with Bathtub, Shower, and Toilet bb68f218|Modern Minimalist Bathroom with Bathtub, Shower, and Toilet]] — shared language: bathroom, toilet
+- [[_archive/auto-generated/images-stale/Photograph Modern Minimalist Bathroom with Bathtub, Shower, and Toilet eb86d952|Photograph Modern Minimalist Bathroom with Bathtub, Shower, and Toilet]] — shared language: bathroom, toilet
 <!-- vault-crosslinks:end -->

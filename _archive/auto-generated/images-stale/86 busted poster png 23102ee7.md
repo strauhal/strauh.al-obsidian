@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/86_busted_pos
 
 - [[_archive/auto-generated/images-stale/busted psychedelic poster d6906db3|busted psychedelic poster]] — shared language: busted, poster
 - [[knowledge/wiki/images/Busted (BG 59) by Stanley Mouse and Alton Kelley (1967) d4d99a55|Busted (BG 59) by Stanley Mouse and Alton Kelley (1967)]] — shared language: busted
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
-- [[knowledge/wiki/images/Photograph Black Trash Can In Front Of Rainbow Poster In Library c228b395|Photograph Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: poster
+- [[knowledge/wiki/images/Black Trash Can In Front Of Rainbow Poster In Library c7edb02d|Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: poster
+- [[_archive/auto-generated/images-stale/Photograph Black Trash Can In Front Of Rainbow Poster In Library c228b395|Photograph Black Trash Can In Front Of Rainbow Poster In Library]] — shared language: poster
 - [[_archive/auto-generated/images-stale/instructional poster showing 24 studio portrait lighting setups 21bb850e|instructional poster showing 24 studio portrait lighting setups]] — shared language: poster
 <!-- vault-crosslinks:end -->

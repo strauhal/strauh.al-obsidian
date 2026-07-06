@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/red room interior with table clock plants and small pictures b0077d92|red room interior with table clock plants and small pictures]] — shared language: plants, table, room
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
-- [[knowledge/wiki/images/Photograph Bright Room with Desk, Plants, and Shelves df08cf10|Photograph Bright Room with Desk, Plants, and Shelves]] — shared language: plants, room
+- [[knowledge/wiki/images/Bright Room with Desk, Plants, and Shelves d35cfbfa|Bright Room with Desk, Plants, and Shelves]] — shared language: plants, room
+- [[_archive/auto-generated/images-stale/Photograph Bright Room with Desk, Plants, and Shelves df08cf10|Photograph Bright Room with Desk, Plants, and Shelves]] — shared language: plants, room
 - [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, colorful
-- [[_archive/auto-generated/images-stale/studio room with monitors on a table 7e50df3a|studio room with monitors on a table]] — shared language: table, room
 <!-- vault-crosslinks:end -->

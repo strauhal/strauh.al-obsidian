@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/MS Paint Mirror 
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: paint
-- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: mirror
+- [[knowledge/wiki/images/Black And White Photo Of Boy Looking Into Mirror a25b261a|Black And White Photo Of Boy Looking Into Mirror]] — shared language: mirror
 - [[knowledge/wiki/images/Illustration Black Dog Looking At Its Reflection In A Mirror d3153e0e|Illustration Black Dog Looking At Its Reflection In A Mirror]] — shared language: mirror
 - [[knowledge/wiki/images/the mirror by john william godward 1899 c2159a79|the mirror by john william godward 1899]] — shared language: mirror
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Escalators In Subway Station With Pink And Blue Lighting f1e22323|Photograph Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: escalators, subway, station
+- [[_archive/auto-generated/images-stale/Photograph Two Escalators In Subway Station With Pink And Blue Lighting f1e22323|Photograph Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: escalators, subway, station
+- [[knowledge/wiki/images/Two Escalators In Subway Station With Pink And Blue Lighting e11c533b|Two Escalators In Subway Station With Pink And Blue Lighting]] — shared language: escalators, subway, station
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: subway, station
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: light, illuminated
-- [[knowledge/wiki/images/Photograph Silhouetted Train Station Infrastructure Against a Pink Sky 98414f0a|Photograph Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: station, pink
-- [[_archive/auto-generated/images-stale/photograph of a man in a black shirt standing against a concrete wall illuminated by diagonal light d521eec2|photograph of a man in a black shirt standing against a concrete wall illuminated by diagonal light]] — shared language: illuminated, light
-- [[knowledge/wiki/images/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: illuminated, light
+- [[_archive/auto-generated/images-stale/Photograph Silhouetted Train Station Infrastructure Against a Pink Sky 98414f0a|Photograph Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: station, pink
 <!-- vault-crosslinks:end -->

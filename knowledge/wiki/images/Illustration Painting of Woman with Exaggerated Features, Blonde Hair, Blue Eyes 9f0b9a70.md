@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: features
+- [[knowledge/wiki/artists/Artist - Xinlisupreme|Artist - Xinlisupreme]] — shared language: blonde, hair
 - [[knowledge/wiki/images/Illustration Blonde Girl With Yellow Eyes And Monsters Behind Her 98fe93ed|Illustration Blonde Girl With Yellow Eyes And Monsters Behind Her]] — shared language: blonde, eyes
 - [[knowledge/wiki/images/Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat c5f25588|Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat]] — shared language: eyes, hair
-- [[knowledge/wiki/images/Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone f6f61723|Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone]] — shared language: blonde, hair
-- [[knowledge/wiki/images/Illustration Girl with Green Eyes and Bob Hair Against Red Background 5b263e9a|Illustration Girl with Green Eyes and Bob Hair Against Red Background]] — shared language: eyes, hair
+- [[knowledge/wiki/images/Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme 21e1d2fa|Close Up Portrait of Person with Blonde Hair and Purple Lipstick by Xinlisupreme]] — shared language: blonde, hair
 <!-- vault-crosslinks:end -->

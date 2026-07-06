@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/auerbach_s_studi
 ## Discovered Connections
 
 - [[knowledge/wiki/images/martha argerich erich auerbach 2 fee3aa02|martha argerich erich auerbach 2]] — shared language: auerbach
-- [[knowledge/wiki/images/The Red Studio by Henri Matisse (1911) 24cf6c5d|The Red Studio by Henri Matisse (1911)]] — shared language: studio
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: studio
 - [[knowledge/wiki/images/Photograph Artist in Studio with Large Abstract Painting and Forest View 10548d8c|Photograph Artist in Studio with Large Abstract Painting and Forest View]] — shared language: studio
-- [[knowledge/wiki/images/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: studio
+- [[knowledge/wiki/images/The Red Studio by Henri Matisse (1911) 24cf6c5d|The Red Studio by Henri Matisse (1911)]] — shared language: studio
+- [[knowledge/wiki/images/Portrait of Francis Bacon in his studio f806513e|Portrait of Francis Bacon in his studio]] — shared language: studio
 <!-- vault-crosslinks:end -->

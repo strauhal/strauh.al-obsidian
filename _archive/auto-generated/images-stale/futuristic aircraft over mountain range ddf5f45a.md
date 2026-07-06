@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/mountain range 07fd8e4e|mountain range]] — named in this note
-- [[knowledge/wiki/images/Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range fa0c5fdd|Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — shared language: aircraft, range, mountain
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: futuristic
-- [[_archive/auto-generated/images-stale/luxury aircraft interior with table and windows 34ba4042|luxury aircraft interior with table and windows]] — shared language: aircraft
-- [[knowledge/wiki/images/Illustration Futuristic Landscape with Sleek Vehicles and Figures baf6d38f|Illustration Futuristic Landscape with Sleek Vehicles and Figures]] — shared language: futuristic
+- [[_archive/auto-generated/images-stale/Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range fa0c5fdd|Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — shared language: aircraft, range, mountain
+- [[knowledge/wiki/images/SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range 0e5a7cf9|SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — shared language: aircraft, range, mountain
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic
+- [[knowledge/wiki/images/Man With Backpack And Ice Axe Overlooking A Mountain Range c6014d01|Man With Backpack And Ice Axe Overlooking A Mountain Range]] — shared language: range, mountain
 <!-- vault-crosslinks:end -->

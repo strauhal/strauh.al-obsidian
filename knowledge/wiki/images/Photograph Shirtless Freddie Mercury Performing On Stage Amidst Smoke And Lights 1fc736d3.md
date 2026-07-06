@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Shi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Freddie Mercury in Yellow Jacket Pointing Forward 5339326c|Photograph Freddie Mercury in Yellow Jacket Pointing Forward]] — shared language: freddie, mercury
-- [[knowledge/wiki/images/Photograph Musician Performing Live On Dark Stage cb0c66be|Photograph Musician Performing Live On Dark Stage]] — shared language: performing, stage
-- [[knowledge/wiki/images/Photograph Michael Jackson Performing On Stage In A Sequin Jacket 49b1f439|Photograph Michael Jackson Performing On Stage In A Sequin Jacket]] — shared language: performing, stage
-- [[knowledge/wiki/images/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: lights, stage
-- [[knowledge/wiki/images/Photograph Drake Performing On Stage With Fans Holding Signs by Drake f9fa7c3b|Photograph Drake Performing On Stage With Fans Holding Signs by Drake]] — shared language: performing, stage
+- [[knowledge/wiki/images/Freddie Mercury in Yellow Jacket Pointing Forward dae3da47|Freddie Mercury in Yellow Jacket Pointing Forward]] — shared language: freddie, mercury
+- [[knowledge/wiki/images/Musician Performing Live On Dark Stage 4b85f470|Musician Performing Live On Dark Stage]] — shared language: performing, stage
+- [[knowledge/wiki/images/Person On Stage Holding Microphone Under Blue Lights f1e7a11c|Person On Stage Holding Microphone Under Blue Lights]] — shared language: stage, lights
+- [[knowledge/wiki/images/Michael Jackson Performing On Stage In A Sequin Jacket 161ca038|Michael Jackson Performing On Stage In A Sequin Jacket]] — shared language: performing, stage
+- [[knowledge/wiki/images/Drake Performing On Stage With Fans Holding Signs by Drake f948fbc1|Drake Performing On Stage With Fans Holding Signs by Drake]] — shared language: performing, stage
 <!-- vault-crosslinks:end -->

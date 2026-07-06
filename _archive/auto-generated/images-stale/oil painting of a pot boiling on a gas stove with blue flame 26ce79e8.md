@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/oil painting of a dissolving head in profile with an exposed brain and an internal candle flame 4384f18f|oil painting of a dissolving head in profile with an exposed brain and an internal candle flame]] — shared language: flame, oil, flame.jpg
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas
+- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas
 - [[knowledge/wiki/images/Gas by Edward Hopper (1940) 4fa45e02|Gas by Edward Hopper (1940)]] — shared language: gas
 - [[knowledge/wiki/images/Gas by Edward Hopper (1940) 896e6ae4|Gas by Edward Hopper (1940)]] — shared language: gas
-- [[knowledge/wiki/images/geranium in a pot by henri matisse 1910 8a382ae6|geranium in a pot by henri matisse 1910]] — shared language: pot
 <!-- vault-crosslinks:end -->

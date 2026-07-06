@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Still Life Drawing of Three Bottles 34eeb5f1|Illustration Still Life Drawing of Three Bottles]] — shared language: bottles
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
 - [[knowledge/wiki/images/Illustration Still Life Painting of Bottles and a Bowl 816df707|Illustration Still Life Painting of Bottles and a Bowl]] — shared language: bottles
-- [[knowledge/wiki/images/Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 40ec34e3|Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: spilled
+- [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: standing
 <!-- vault-crosslinks:end -->

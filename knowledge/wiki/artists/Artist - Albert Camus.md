@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Person in Niqab Reading 'The Stranger' by Albert Camus.jpeg]]
+![[media/strauh.al3.1/photography/Person in Niqab Reading 'The Stranger' by Albert Camus.jpeg]]
 
 ## Image Notes
 
-- [[Photograph Person in Niqab Reading 'The Stranger' by Albert Camus 3b055a7a|Photograph Person in Niqab Reading 'The Stranger' by Albert Camus]]
+- [[Person in Niqab Reading 'The Stranger' by Albert Camus 3535ce3d|Person in Niqab Reading 'The Stranger' by Albert Camus]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

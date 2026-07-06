@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human
 <!-- vault-crosslinks:end -->

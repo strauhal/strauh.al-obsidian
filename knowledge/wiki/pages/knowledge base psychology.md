@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -87,8 +87,8 @@ strauh.al/knowledge_base/psychology
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
-- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: psychology, lacan, paranoiac
+- [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: psychology, lacan, knowledge
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: knowledge, know, things
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: psychology, lacan, knowledge
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, ideas
 <!-- vault-crosslinks:end -->

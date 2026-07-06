@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - johann heinrich wilhelm tischbein|Artist - johann heinrich wilhelm tischbein]] — shared language: heinrich, wilhelm
-- [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: weapons
 - [[knowledge/wiki/images/goethe in the roman campagna by johann heinrich wilhelm tischbein 1787 f53fa6ad|goethe in the roman campagna by johann heinrich wilhelm tischbein 1787]] — shared language: heinrich, wilhelm
+- [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: weapons
 - [[knowledge/wiki/artists/Artist - heinrich kley|Artist - heinrich kley]] — shared language: heinrich
 - [[knowledge/wiki/artists/Artist - heinrich stelzner|Artist - heinrich stelzner]] — shared language: heinrich
 <!-- vault-crosslinks:end -->

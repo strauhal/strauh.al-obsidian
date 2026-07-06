@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_beach_by_dav
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the industrial river by david hockney 1969 2ec18f17|the industrial river by david hockney 1969]] — same artist: david hockney
-- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/images/still life with apple and guitar by david hockney 1991 9404b2d6|still life with apple and guitar by david hockney 1991]] — same artist: david hockney
+- [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/images/the enraged jonah by david hockney 1969 b5ae4104|the enraged jonah by david hockney 1969]] — same artist: david hockney
 - [[knowledge/wiki/images/Illustration Overhead View of Swimmer Submerged in Blue Pool by David Hockney f9db5d7b|Illustration Overhead View of Swimmer Submerged in Blue Pool by David Hockney]] — same artist: david hockney
 <!-- vault-crosslinks:end -->

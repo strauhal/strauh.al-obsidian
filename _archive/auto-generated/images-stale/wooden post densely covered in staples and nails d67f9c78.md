@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Utility Pole Densely Covered In Staples And Nails On City Street 056bf695|Photograph Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: staples, nails, densely
-- [[knowledge/wiki/images/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: covered, wooden
+- [[_archive/auto-generated/images-stale/Photograph Utility Pole Densely Covered In Staples And Nails On City Street 056bf695|Photograph Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: staples, nails, densely
+- [[knowledge/wiki/images/Utility Pole Densely Covered In Staples And Nails On City Street 7cfb1d6c|Utility Pole Densely Covered In Staples And Nails On City Street]] — shared language: staples, nails, densely
 - [[knowledge/wiki/images/Photograph Ornate Stone Archway with Wooden Door Covered in Red Graffiti 5ae7cd60|Photograph Ornate Stone Archway with Wooden Door Covered in Red Graffiti]] — shared language: covered, wooden
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nails and role playing game text|Artist - nails and role playing game text]] — shared language: nails
-- [[_archive/auto-generated/images-stale/aerial photograph of a densely packed cityscape 55f1d533|aerial photograph of a densely packed cityscape]] — shared language: densely
+- [[_archive/auto-generated/images-stale/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: covered, wooden
+- [[knowledge/wiki/images/Tabby Cat Covered In White Packing Peanuts On Wooden Floor 8fed930e|Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: covered, wooden
 <!-- vault-crosslinks:end -->

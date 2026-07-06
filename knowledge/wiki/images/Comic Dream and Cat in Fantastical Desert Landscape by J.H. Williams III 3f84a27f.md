@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Dream an
 - [[knowledge/wiki/images/Comic Dream and a Cat like Creature in a Fantastical Desert Landscape by J. H. Williams III 7899d75e|Comic Dream and a Cat like Creature in a Fantastical Desert Landscape by J. H. Williams III]] — shared language: williams, fantastical, iii
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream, cat
-- [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 <!-- vault-crosslinks:end -->

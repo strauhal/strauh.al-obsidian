@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man In Racing Suit With Woman Adjusting Collar 51941c67|Photograph Man In Racing Suit With Woman Adjusting Collar]] — shared language: racing, collar, suit
+- [[knowledge/wiki/images/Man In Racing Suit With Woman Adjusting Collar 378582b3|Man In Racing Suit With Woman Adjusting Collar]] — shared language: racing, collar, suit
+- [[_archive/auto-generated/images-stale/Photograph Man In Racing Suit With Woman Adjusting Collar 51941c67|Photograph Man In Racing Suit With Woman Adjusting Collar]] — shared language: racing, collar, suit
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: adjusts
 - [[_archive/auto-generated/images-stale/framed portrait of a man in a black coat with white collar 1d722b26|framed portrait of a man in a black coat with white collar]] — shared language: collar, coat
 - [[_archive/auto-generated/images-stale/black and white line drawing of a woman in a trench coat aiming a pistol d185017f|black and white line drawing of a woman in a trench coat aiming a pistol]] — shared language: trench, coat
-- [[_archive/auto-generated/images-stale/illustration of a woman in a white trench coat and high boots holding a pistol against a black and yellow background fdf74b97|illustration of a woman in a white trench coat and high boots holding a pistol against a black and yellow background]] — shared language: trench, coat, holding
 <!-- vault-crosslinks:end -->

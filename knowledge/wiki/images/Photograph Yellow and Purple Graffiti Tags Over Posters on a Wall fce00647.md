@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Yel
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: tags, graffiti, wall
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: tags, graffiti
 - [[knowledge/wiki/images/Photograph Colorful Graffiti Tags on a Large Iceberg in Blue Water 48e17b40|Photograph Colorful Graffiti Tags on a Large Iceberg in Blue Water]] — shared language: tags, graffiti
-- [[knowledge/wiki/images/Photograph Graffiti 'Sorry About Your Wall' on a building in winter 0eb5e9db|Photograph Graffiti 'Sorry About Your Wall' on a building in winter]] — shared language: graffiti, wall
+- [[knowledge/wiki/images/Graffiti 'Sorry About Your Wall' on a building in winter 3c2999d9|Graffiti 'Sorry About Your Wall' on a building in winter]] — shared language: graffiti, wall
 - [[knowledge/wiki/images/Illustration Two Posters Art Nouveau Woman and Psychedelic Concert Poster fa410bb3|Illustration Two Posters Art Nouveau Woman and Psychedelic Concert Poster]] — shared language: posters
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/deoxyribose_b
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/deoxyribose psychedelic digital illustration 7c8f8e30|deoxyribose psychedelic digital illustration]] — shared language: deoxyribose
-- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — shared language: pre
 - [[_archive/auto-generated/images-stale/1 clpde odlazc0uhln02vuq jpg 3e7a507f|1 clpde odlazc0uhln02vuq jpg]] — shared language: jpg.jpg
 - [[_archive/auto-generated/images-stale/12 rw r cc ty 3598 original jpg 870ce0d1|12 rw r cc ty 3598 original jpg]] — shared language: jpg.jpg
 - [[_archive/auto-generated/images-stale/1626488837263 jpg b6cd638a|1626488837263 jpg]] — shared language: jpg.jpg
+- [[_archive/auto-generated/images-stale/1652503832014 jpg d1d1be32|1652503832014 jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

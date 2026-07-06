@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/images/Portrait of a Young Woman in a Feathered Hat by lisabeth Louise Vig e Le Brun (1797) cfb812de|Portrait of a Young Woman in a Feathered Hat by lisabeth Louise Vig e Le Brun (1797)]] — shared language: brun
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 - [[knowledge/wiki/images/cityscape by charles sheeler 1922 5d012594|cityscape by charles sheeler 1922]] — shared language: charles
 <!-- vault-crosslinks:end -->

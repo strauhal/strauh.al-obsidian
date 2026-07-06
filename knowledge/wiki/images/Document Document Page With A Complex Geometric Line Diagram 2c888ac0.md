@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Docum
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex
-- [[knowledge/wiki/images/Diagram Complex Geometric Line Drawing of a Radial Polytope Structure d6aaa8ff|Diagram Complex Geometric Line Drawing of a Radial Polytope Structure]] — shared language: complex, geometric, line
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/Diagram Complex Geometric Line Drawing of a Radial Polytope Structure d6aaa8ff|Diagram Complex Geometric Line Drawing of a Radial Polytope Structure]] — shared language: complex, geometric, line
 - [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
-- [[knowledge/wiki/images/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: complex, geometric, diagram
+- [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: complex, geometric, diagram
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment, striped, garment.jpg
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment, striped, garment.jpg
 - [[knowledge/wiki/images/Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou 7ed58cdb|Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou]] — shared language: garment, gold, striped
 - [[knowledge/wiki/images/Illustration Stylized Figure in Black and Gold Striped Clothing by Atab Mayawa 1ae61212|Illustration Stylized Figure in Black and Gold Striped Clothing by Atab Mayawa]] — shared language: gold, striped, stylized
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: gold
 - [[knowledge/wiki/images/Illustration Stylized Figure in Circuit Board Garment on Blue Background e8567bc9|Illustration Stylized Figure in Circuit Board Garment on Blue Background]] — shared language: garment, stylized
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Green Eyes and Orange Garment 4b09814d|Illustration Stylized Portrait of Person with Green Eyes and Orange Garment]] — shared language: garment, stylized
 <!-- vault-crosslinks:end -->

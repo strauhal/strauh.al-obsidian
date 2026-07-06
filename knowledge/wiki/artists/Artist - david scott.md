@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
 - [[knowledge/wiki/artists/Artist - Scott McCloud|Artist - Scott McCloud]] — shared language: scott
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
-- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - J. Scott Applewhite|Artist - J. Scott Applewhite]] — shared language: scott
+- [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
 - [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
 <!-- vault-crosslinks:end -->

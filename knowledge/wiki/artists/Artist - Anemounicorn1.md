@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/ivan aivazovsky the ninth wave 1850 8f9bc434|ivan aivazovsky the ninth wave 1850]] — shared language: wave
 - [[knowledge/wiki/images/Cochlea wave animated c8a7c49e|Cochlea wave animated]] — shared language: wave
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing With Wave Like And Swirling Patterns 04c51151|Illustration Abstract Line Drawing With Wave Like And Swirling Patterns]] — shared language: wave
-- [[knowledge/wiki/images/Photograph Large Ocean Wave Breaking in Blue Water 922e7c36|Photograph Large Ocean Wave Breaking in Blue Water]] — shared language: wave
+- [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — shared language: wave
 <!-- vault-crosslinks:end -->

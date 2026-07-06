@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/oceanbeach
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/photography|photography]] — shared language: oceanbeach.tif
 - [[knowledge/wiki/images/oak tree in the moonlight by caspar david friedrich c 18301835 30723622|oak tree in the moonlight by caspar david friedrich c 18301835]] — nearby note in the same source series
 - [[knowledge/wiki/images/oceanie le ciel by henri matisse 1946 cf1fa5f8|oceanie le ciel by henri matisse 1946]] — nearby note in the same source series
+- [[knowledge/wiki/images/o0Y37v5 56475a47|o0Y37v5]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

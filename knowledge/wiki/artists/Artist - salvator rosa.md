@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Portrait of Rosa Luxemburg eb7f7544|Photograph Portrait of Rosa Luxemburg]] — shared language: rosa
+- [[knowledge/wiki/images/Portrait of Rosa Luxemburg 7a9921ac|Portrait of Rosa Luxemburg]] — shared language: rosa
 - [[knowledge/wiki/images/An Eagle by Rosa Bonheur (1870) 15d83cf0|An Eagle by Rosa Bonheur (1870)]] — shared language: rosa
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: rosa
 - [[knowledge/wiki/images/Diogenes by John William Waterhouse (1882) e26c4a9b|Diogenes by John William Waterhouse (1882)]] — shared language: diogenes

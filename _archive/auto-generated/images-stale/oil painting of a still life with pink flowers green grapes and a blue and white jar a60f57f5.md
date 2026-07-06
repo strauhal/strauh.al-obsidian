@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: grapes, jar, flowers
-- [[_archive/auto-generated/images-stale/oil painting of a still life with grapes flowers wheat and a blue ribbon d688f7c0|oil painting of a still life with grapes flowers wheat and a blue ribbon]] — shared language: grapes, flowers, still
+- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: grapes, jar, still
+- [[_archive/auto-generated/images-stale/oil painting of a still life with grapes flowers wheat and a blue ribbon d688f7c0|oil painting of a still life with grapes flowers wheat and a blue ribbon]] — shared language: grapes, still, flowers
 - [[knowledge/wiki/images/Illustration Still Life Painting of Red Grapes and Leaves 0e1ec0ae|Illustration Still Life Painting of Red Grapes and Leaves]] — shared language: grapes, still, life
-- [[knowledge/wiki/images/Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon 4c5bf3fd|Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon]] — shared language: grapes, flowers, still
+- [[knowledge/wiki/images/Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon 4c5bf3fd|Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon]] — shared language: grapes, still, flowers
 - [[knowledge/wiki/images/Illustration Still Life with White Vase, Jar, Bowl, Green Block, Yellow Cloth f08e89e3|Illustration Still Life with White Vase, Jar, Bowl, Green Block, Yellow Cloth]] — shared language: jar, still, life
 <!-- vault-crosslinks:end -->

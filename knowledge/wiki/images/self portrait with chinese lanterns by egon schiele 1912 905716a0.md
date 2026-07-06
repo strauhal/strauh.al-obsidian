@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/self_portrait_wi
 
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — named in this note
 - [[knowledge/wiki/images/the desk by egon schiele 1910 26d500e1|the desk by egon schiele 1910]] — same artist: egon schiele
-- [[knowledge/wiki/images/the cellist by egon schiele 1910 7ec60e27|the cellist by egon schiele 1910]] — same artist: egon schiele
 - [[knowledge/wiki/images/reclining nude by egon schiele 1910 153773d0|reclining nude by egon schiele 1910]] — same artist: egon schiele
+- [[knowledge/wiki/images/the cellist by egon schiele 1910 7ec60e27|the cellist by egon schiele 1910]] — same artist: egon schiele
 - [[knowledge/wiki/images/self portrait with green face and exposed leg by egon schiele 1910 08e09b2b|self portrait with green face and exposed leg by egon schiele 1910]] — same artist: egon schiele
 <!-- vault-crosslinks:end -->

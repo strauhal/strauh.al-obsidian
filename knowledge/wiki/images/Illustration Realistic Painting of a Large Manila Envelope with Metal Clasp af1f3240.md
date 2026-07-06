@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures 0c3308a7|Illustration Black And White Ink Drawing Collage Of Manga And Realistic Figures]] — shared language: realistic
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: metal
 - [[knowledge/wiki/images/Comic Comparison of Realistic Face and Simple Cartoon Face with Text 0cd78263|Comic Comparison of Realistic Face and Simple Cartoon Face with Text]] — shared language: realistic
-- [[knowledge/wiki/images/Photograph Spiderwebs on a metal gate at sunrise 5abfebf1|Photograph Spiderwebs on a metal gate at sunrise]] — shared language: metal
+- [[knowledge/wiki/images/Diagram Showing Pix2pix Converting Cat Sketch To Realistic Image 7746c7b2|Diagram Showing Pix2pix Converting Cat Sketch To Realistic Image]] — shared language: realistic
+- [[knowledge/wiki/images/Person In Balaclava Holding Metal Chain With Chopsticks 000e77bb|Person In Balaclava Holding Metal Chain With Chopsticks]] — shared language: metal
 <!-- vault-crosslinks:end -->

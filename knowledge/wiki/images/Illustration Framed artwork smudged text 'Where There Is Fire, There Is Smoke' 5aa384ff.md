@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Green Field With Fire And Black Smoke Against Blue Sky 57e457c2|Illustration Green Field With Fire And Black Smoke Against Blue Sky]] — shared language: smoke, fire
-- [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: smoke, fire
+- [[knowledge/wiki/images/Illustration Green Field With Fire And Black Smoke Against Blue Sky 57e457c2|Illustration Green Field With Fire And Black Smoke Against Blue Sky]] — shared language: fire, smoke
+- [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: fire, smoke
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
-- [[knowledge/wiki/images/Illustration Multi panel artwork depicting a surreal landscape with figures and text 7c8a85d2|Illustration Multi panel artwork depicting a surreal landscape with figures and text]] — shared language: artwork, text
+- [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: artwork
 <!-- vault-crosslinks:end -->

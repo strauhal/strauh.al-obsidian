@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[knowledge/wiki/images/Portrait of Terentius Neo (c. 79 AD) 3c93930a|Portrait of Terentius Neo (c. 79 AD)]] — shared language: neo
 - [[_archive/auto-generated/images-stale/black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue bc9934c8|black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue]] — shared language: dome, central, building
-- [[_archive/auto-generated/images-stale/black and white photograph of a large classical revival building with a central dome and bridge over a canal 95e6e90b|black and white photograph of a large classical revival building with a central dome and bridge over a canal]] — shared language: dome, central, building
+- [[_archive/auto-generated/images-stale/photograph of the ornate gothic spires and rooftop of a cathedral e3187370|photograph of the ornate gothic spires and rooftop of a cathedral]] — shared language: spires, gothic
 <!-- vault-crosslinks:end -->

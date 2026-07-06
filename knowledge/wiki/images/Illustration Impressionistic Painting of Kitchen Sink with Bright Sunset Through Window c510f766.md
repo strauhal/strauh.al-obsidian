@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Cat and the Kitchen Sink by David Hockney (1990) b7991454|The Cat and the Kitchen Sink by David Hockney (1990)]] — shared language: sink, kitchen
-- [[knowledge/wiki/images/Photograph Modern Kitchen Interior with Panoramic Window View 560b9ad4|Photograph Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen, window
-- [[knowledge/wiki/images/Photograph View Through Window of Red Sunset and Dark Garden d7144e55|Photograph View Through Window of Red Sunset and Dark Garden]] — shared language: sunset, window
+- [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: sunset, window
+- [[knowledge/wiki/images/Modern Kitchen Interior with Panoramic Window View 2b45032c|Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen, window
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: bright
-- [[knowledge/wiki/images/Photograph Dark Room With Bright Window And Door Overlooking Water de2a2769|Photograph Dark Room With Bright Window And Door Overlooking Water]] — shared language: bright, window
+- [[knowledge/wiki/images/Dark Room With Bright Window And Door Overlooking Water c2eb47a1|Dark Room With Bright Window And Door Overlooking Water]] — shared language: bright, window
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/abstract mixed media drawing with dense lines and red marks ad98f3bb|abstract mixed media drawing with dense lines and red marks]] — shared language: marks, dense
 - [[_archive/auto-generated/images-stale/abstract painting with black spray marks on light background 3a0b1f35|abstract painting with black spray marks on light background]] — shared language: marks, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: marks, background, background.jpeg
-- [[_archive/auto-generated/images-stale/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: orange, background, background.jpeg
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 <!-- vault-crosslinks:end -->

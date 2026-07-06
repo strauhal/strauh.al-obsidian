@@ -11,16 +11,16 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Yves Saint Laurent, Paris by Jeanloup Sieff.jpeg]]
+![[media/strauh.al3.1/photography/Yves Saint Laurent, Paris by Jeanloup Sieff.jpeg]]
 
 ## Image Notes
 
-- [[Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]]
+- [[Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves, laurent, saint
+- [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves, laurent, saint
 - [[knowledge/wiki/artists/Artist - yves tanguy|Artist - yves tanguy]] — shared language: yves
 - [[knowledge/wiki/images/l attente by yves tanguy 1952 cca28cb4|l attente by yves tanguy 1952]] — shared language: yves
 - [[knowledge/wiki/artists/Artist - Laurent Gapaillard|Artist - Laurent Gapaillard]] — shared language: laurent

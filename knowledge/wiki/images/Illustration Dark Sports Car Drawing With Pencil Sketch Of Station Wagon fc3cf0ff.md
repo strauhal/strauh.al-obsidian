@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station
 - [[knowledge/wiki/images/Illustration Stylized Figures in Yellow and White Around Black Sports Car c57cbf53|Illustration Stylized Figures in Yellow and White Around Black Sports Car]] — shared language: sports, car
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 - [[knowledge/wiki/images/Wii Sports by Nintendo (2006) 82db0ef8|Wii Sports by Nintendo (2006)]] — shared language: sports
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Standing Woman in Long Coat 6928c32f|Illustration Pencil Sketch of Standing Woman in Long Coat]] — shared language: pencil, sketch
 <!-- vault-crosslinks:end -->

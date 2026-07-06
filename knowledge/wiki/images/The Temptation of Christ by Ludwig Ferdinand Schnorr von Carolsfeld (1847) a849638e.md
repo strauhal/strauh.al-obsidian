@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Temptation o
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/The Sleepers by Ferdinand Hodler (1907) 0728bb9c|The Sleepers by Ferdinand Hodler (1907)]] — shared language: ferdinand
 - [[knowledge/wiki/images/the temptation of christ by fyodor bruni 1837 af651edc|the temptation of christ by fyodor bruni 1837]] — shared language: temptation, christ
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

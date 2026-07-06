@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Explosion by Mar
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - william sharp|Artist - william sharp]] — shared language: sharp
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin
 - [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin
 - [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
-- [[knowledge/wiki/images/Photograph Bright Explosion With Debris Against Blue Sky 5e1f53d1|Photograph Bright Explosion With Debris Against Blue Sky]] — shared language: explosion
+- [[knowledge/wiki/artists/Artist - martin schongauer|Artist - martin schongauer]] — shared language: martin
 <!-- vault-crosslinks:end -->

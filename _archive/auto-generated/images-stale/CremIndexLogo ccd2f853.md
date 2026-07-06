@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: cremindexlogo.jpg
-- [[_archive/auto-generated/images-stale/Carracci, Lodovico St Francis in Meditation Google Art Project 981f31e8|Carracci, Lodovico St Francis in Meditation Google Art Project]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Diagram 1 Bedroom Rent By County In The United States d30ab876|Diagram 1 Bedroom Rent By County In The United States]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

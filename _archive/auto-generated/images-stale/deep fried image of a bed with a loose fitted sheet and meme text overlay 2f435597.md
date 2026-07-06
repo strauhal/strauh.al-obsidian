@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Image Deep Fried Image of Bed with Loose Fitted Sheet and Meme Text c6d3169f|Image Deep Fried Image of Bed with Loose Fitted Sheet and Meme Text]] — shared language: fitted, fried, meme
 - [[knowledge/wiki/images/Image Black And White Vin Diesel Meme About AI Art e5246fb8|Image Black And White Vin Diesel Meme About AI Art]] — shared language: meme
 - [[knowledge/wiki/images/Image Two Men In 1980s Neon Grid Background With Text Overlay f89c6f59|Image Two Men In 1980s Neon Grid Background With Text Overlay]] — shared language: overlay, text, overlay.jpeg
-- [[knowledge/wiki/images/Photograph White Dog with Red 'Suffocation' Text Overlay 882ea663|Photograph White Dog with Red 'Suffocation' Text Overlay]] — shared language: overlay, text
-- [[_archive/auto-generated/images-stale/meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] — shared language: meme
+- [[_archive/auto-generated/images-stale/Photograph White Dog with Red 'Suffocation' Text Overlay 882ea663|Photograph White Dog with Red 'Suffocation' Text Overlay]] — shared language: overlay, text
+- [[knowledge/wiki/images/White Dog with Red 'Suffocation' Text Overlay ebc50cdf|White Dog with Red 'Suffocation' Text Overlay]] — shared language: overlay, text
 <!-- vault-crosslinks:end -->

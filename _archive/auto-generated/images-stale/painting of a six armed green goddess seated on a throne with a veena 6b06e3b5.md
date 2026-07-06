@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Green Skinned Six Armed Goddess Matangi Seated on Throne with Veena 993aec89|Illustration Green Skinned Six Armed Goddess Matangi Seated on Throne with Veena]] — shared language: veena, goddess, throne
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: throne
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: six
-- [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: goddess, armed
 - [[_archive/auto-generated/images-stale/miniature painting of a red seated buddha figure on a lotus throne 2 807f8e7e|miniature painting of a red seated buddha figure on a lotus throne 2]] — shared language: throne, seated
+- [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: goddess, armed
+- [[knowledge/wiki/images/Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2) d5606f86|Illustration Red Seated Buddha Figure on Lotus Throne with Halo (2)]] — shared language: throne, seated
 <!-- vault-crosslinks:end -->

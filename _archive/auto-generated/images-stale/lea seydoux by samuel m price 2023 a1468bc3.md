@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez|Artist - samuel g gonzalez]] — shared language: samuel
 - [[knowledge/archive/auto-generated/artists-stale/Artist - samuel g gonzalez 2021|Artist - samuel g gonzalez 2021]] — shared language: samuel
 - [[knowledge/wiki/artists/Artist - samuel f b morse 18311833|Artist - samuel f b morse 18311833]] — shared language: samuel
-- [[knowledge/wiki/images/Photograph Price List On Letter Board With Reflections 281a99a2|Photograph Price List On Letter Board With Reflections]] — shared language: price
+- [[_archive/auto-generated/images-stale/Photograph Price List On Letter Board With Reflections 281a99a2|Photograph Price List On Letter Board With Reflections]] — shared language: price
 <!-- vault-crosslinks:end -->

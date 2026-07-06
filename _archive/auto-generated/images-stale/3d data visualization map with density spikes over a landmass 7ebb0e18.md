@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram 3D Data Visualization Map With Density Spikes Over Landmass 778aa84b|Diagram 3D Data Visualization Map With Density Spikes Over Landmass]] — shared language: spikes, landmass, density
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: density
-- [[knowledge/wiki/images/Diagram Map of Northeastern US Population Density, Transportation, Public Land 32b7dc7f|Diagram Map of Northeastern US Population Density, Transportation, Public Land]] — shared language: density
+- [[knowledge/wiki/images/3D Data Visualization Map With Density Spikes Over Landmass 8304f803|3D Data Visualization Map With Density Spikes Over Landmass]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram 3D Data Visualization Map With Density Spikes Over Landmass 778aa84b|Diagram 3D Data Visualization Map With Density Spikes Over Landmass]] — shared language: spikes, landmass, density
+- [[knowledge/wiki/images/Map of Northeastern US Population Density, Transportation, Public Land e2c02019|Map of Northeastern US Population Density, Transportation, Public Land]] — shared language: density
+- [[_archive/auto-generated/images-stale/Diagram Map of Northeastern US Population Density, Transportation, Public Land 32b7dc7f|Diagram Map of Northeastern US Population Density, Transportation, Public Land]] — shared language: density
 - [[knowledge/wiki/images/Diagram Color Density Chart with Blue and Magenta Gradients and Percentage Labels 8bc1ffbc|Diagram Color Density Chart with Blue and Magenta Gradients and Percentage Labels]] — shared language: density
-- [[_archive/auto-generated/images-stale/printed color density chart with blue and magenta gradients and percentage labels 3484050c|printed color density chart with blue and magenta gradients and percentage labels]] — shared language: density
 <!-- vault-crosslinks:end -->

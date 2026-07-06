@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red 8670b001|Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red]] — shared language: cartoon, colorful, yellow
 - [[knowledge/wiki/images/Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose 7b6ab8a6|Illustration Chaotic Colorful Drawing with Yellow Figure, Blue Figure, and Red Nose]] — shared language: chaotic, colorful, yellow
 - [[knowledge/wiki/images/Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects 0faccd21|Illustration A Vibrant, Chaotic Painting Of Cartoon Characters And Objects]] — shared language: chaotic, cartoon
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects 2fcf7b39|Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects]] — shared language: chaotic, cartoon
-- [[knowledge/wiki/images/Illustration Colorful Psychedelic Woman, Fetus, DNA, and Cosmic Elements a9150ff0|Illustration Colorful Psychedelic Woman, Fetus, DNA, and Cosmic Elements]] — shared language: elements, colorful
 <!-- vault-crosslinks:end -->

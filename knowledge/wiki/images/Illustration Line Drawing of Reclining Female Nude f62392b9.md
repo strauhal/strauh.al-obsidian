@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/images/line drawing of a reclining nude woman by pablo picasso 1969 8142483f|line drawing of a reclining nude woman by pablo picasso 1969]] — shared language: reclining, nude, line
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block 33d737c1|Illustration Pencil Sketch of Reclining Female Nude Figure Leaning on Block]] — shared language: reclining, female, nude
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: reclining, nude
-- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
+- [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

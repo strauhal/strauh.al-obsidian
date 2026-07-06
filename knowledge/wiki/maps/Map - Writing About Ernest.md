@@ -2,8 +2,8 @@
 title: Map - Writing About Ernest
 type: map
 tags: [map, criticism, secondary-sources]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - Writing About Ernest

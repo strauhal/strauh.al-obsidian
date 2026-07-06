@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Leather Jacket Smoking Cigarette at Table 0be5c4ed|Photograph Man in Leather Jacket Smoking Cigarette at Table]] — shared language: cigarette, smoking
+- [[knowledge/wiki/images/Man in Leather Jacket Smoking Cigarette at Table 794be880|Man in Leather Jacket Smoking Cigarette at Table]] — shared language: cigarette, smoking
+- [[knowledge/wiki/images/Cyberman Smoking Cigarette Behind The Scenes 5503ea04|Cyberman Smoking Cigarette Behind The Scenes]] — shared language: cigarette, smoking
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — shared language: dean
 - [[knowledge/wiki/artists/Artist - dean cornwell|Artist - dean cornwell]] — shared language: dean
 - [[knowledge/wiki/images/dean blunt 469c96bf|dean blunt]] — shared language: dean
-- [[knowledge/wiki/images/james dean times square new york by dennis stock 1955 4e88b2b1|james dean times square new york by dennis stock 1955]] — shared language: dean, james
 <!-- vault-crosslinks:end -->

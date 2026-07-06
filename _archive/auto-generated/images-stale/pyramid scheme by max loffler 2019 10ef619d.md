@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: max
 - [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: max
-- [[knowledge/wiki/images/pyramid by john harris 1986 72dec726|pyramid by john harris 1986]] — shared language: pyramid
+- [[knowledge/wiki/images/Hierarchy of Disagreement Pyramid with Explanations 6d6f72ac|Hierarchy of Disagreement Pyramid with Explanations]] — shared language: pyramid
 <!-- vault-crosslinks:end -->

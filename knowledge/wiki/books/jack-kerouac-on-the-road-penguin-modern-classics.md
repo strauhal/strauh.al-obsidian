@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/On the Road (Penguin Modern Classics) by Jack Kerouac (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # On the Road (Penguin Modern Classics)
@@ -42,7 +42,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — same category: literature
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — same category: literature
 - [[knowledge/wiki/books/paul-auster-the-new-york-trilogy-city-of-glass-ghosts-the-locked-room-contemporary-american-fiction-series-penguin-non-classics|The New York Trilogy City of Glass Ghosts The Locked Room (Contemporary American Fiction Series) -Penguin (Non-Classics)]] — same category: literature
-- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — same category: literature
+- [[knowledge/wiki/books/gatsby-sexualdrama|gatsby sexualdrama]] — same category: literature
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — same category: literature
 <!-- vault-crosslinks:end -->

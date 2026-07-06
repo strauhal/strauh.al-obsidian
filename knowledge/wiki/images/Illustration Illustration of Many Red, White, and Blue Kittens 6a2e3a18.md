@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: many
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/artists/Artist - Many Ghostly Heads|Artist - Many Ghostly Heads]] — shared language: many
 - [[knowledge/wiki/images/Illustration Stylized Illustration of a City with Many Towers Under a Sun 5bc79cab|Illustration Stylized Illustration of a City with Many Towers Under a Sun]] — shared language: many
 - [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: many

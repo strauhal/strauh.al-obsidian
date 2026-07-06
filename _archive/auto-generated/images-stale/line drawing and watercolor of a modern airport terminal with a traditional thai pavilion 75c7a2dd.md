@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Line Drawing and Watercolor of Modern Airport Terminal with Thai Pavilion 89cd8506|Illustration Line Drawing and Watercolor of Modern Airport Terminal with Thai Pavilion]] — shared language: thai, airport, terminal
 - [[_archive/auto-generated/images-stale/watercolor and ink drawing of a park with modern red building 314ff354|watercolor and ink drawing of a park with modern red building]] — shared language: watercolor, modern
-- [[knowledge/wiki/images/Photograph Dense Cityscape with Traditional and Modern Buildings 5f18df01|Photograph Dense Cityscape with Traditional and Modern Buildings]] — shared language: traditional, modern
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings 2605579c|Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings]] — shared language: watercolor, modern
-- [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: traditional
+- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: traditional, modern
+- [[_archive/auto-generated/images-stale/Photograph Dense Cityscape with Traditional and Modern Buildings 5f18df01|Photograph Dense Cityscape with Traditional and Modern Buildings]] — shared language: traditional, modern
 <!-- vault-crosslinks:end -->

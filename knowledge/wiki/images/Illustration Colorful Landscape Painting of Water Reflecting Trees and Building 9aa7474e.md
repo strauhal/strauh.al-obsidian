@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees, water
-- [[knowledge/wiki/images/Photograph Park Bench Partially Submerged In Water Reflecting Trees e63811a5|Photograph Park Bench Partially Submerged In Water Reflecting Trees]] — shared language: reflecting, trees, water
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees, building
+- [[knowledge/wiki/images/Park Bench Partially Submerged In Water Reflecting Trees 0e18f6a7|Park Bench Partially Submerged In Water Reflecting Trees]] — shared language: reflecting, trees, water
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes 559b1e26|Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes]] — shared language: trees, colorful, landscape
-- [[knowledge/wiki/images/Illustration Long Reflecting Pool With Trees Under Gradient Sky 9c6f4503|Illustration Long Reflecting Pool With Trees Under Gradient Sky]] — shared language: reflecting, trees
-- [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: water, landscape
 <!-- vault-crosslinks:end -->

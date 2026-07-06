@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, scene, interior
-- [[_archive/auto-generated/images-stale/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: table, interior, framed
-- [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, interior, framed
-- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, interior, framed
-- [[_archive/auto-generated/images-stale/framed interior scene with a bending figure c9b92e96|framed interior scene with a bending figure]] — shared language: scene, interior, framed
+- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, scene, framed
+- [[_archive/auto-generated/images-stale/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: table, framed, interior
+- [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, framed, interior
+- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, framed, interior
+- [[_archive/auto-generated/images-stale/framed interior scene with a bending figure c9b92e96|framed interior scene with a bending figure]] — shared language: scene, framed, interior
 <!-- vault-crosslinks:end -->

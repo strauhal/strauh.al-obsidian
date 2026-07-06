@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/images/Photograph Large Crowd of Students Painting During Art School Entrance Exam 50a5a0f3|Photograph Large Crowd of Students Painting During Art School Entrance Exam]] — shared language: students, crowd, large
 - [[_archive/auto-generated/images-stale/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: crowd, large
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: students
-- [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 <!-- vault-crosslinks:end -->

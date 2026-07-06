@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/books/timothy-francis-leary-ralph-metzner-richard-alpert-the-psychedelic-experience-a-manual-based-on-the-tibetan-book-of-the-dead|The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead]] — shared language: psychedelic, based
 - [[_archive/auto-generated/images-stale/deoxyribose psychedelic digital illustration 7c8f8e30|deoxyribose psychedelic digital illustration]] — shared language: psychedelic, digital
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/Img26 (Windows 7) 255d58cc|Img26 (Windows 7)]] — shared language: windows
+- [[knowledge/wiki/images/Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes 559b1e26|Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes]] — shared language: psychedelic, digital
 <!-- vault-crosslinks:end -->

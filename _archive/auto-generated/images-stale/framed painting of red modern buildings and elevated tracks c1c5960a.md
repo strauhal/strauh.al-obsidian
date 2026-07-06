@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated, buildings
 - [[_archive/auto-generated/artists-noise/Artist - the elevated lines 1927|Artist - the elevated lines 1927]] — shared language: elevated
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
-- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: elevated, modern
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-elevated-lines-1927|Artist - the elevated lines 1927]] — shared language: elevated
+- [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, tracks
 <!-- vault-crosslinks:end -->

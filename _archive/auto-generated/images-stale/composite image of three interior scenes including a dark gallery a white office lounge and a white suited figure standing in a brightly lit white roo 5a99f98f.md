@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/images/Photograph Interior View of a Modern Art Gallery or Office Space 9aa654e7|Photograph Interior View of a Modern Art Gallery or Office Space]] — shared language: office, gallery, interior
-- [[knowledge/wiki/images/Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture f1c2bfd2|Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit, interior
-- [[_archive/auto-generated/images-stale/digital painting of a mountain landscape with a brightly lit central peak cab26f29|digital painting of a mountain landscape with a brightly lit central peak]] — shared language: brightly, lit
+- [[knowledge/wiki/images/Interior of a large, brightly lit shopping mall with Art Deco architecture 3bb890b7|Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit, interior
+- [[_archive/auto-generated/images-stale/Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture f1c2bfd2|Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit, interior
 - [[knowledge/wiki/images/Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions f08e5f8c|Photograph Composite of Studio Interiors, Gallery, Lounge, and Ludens Mascot. by Kojima Productions]] — shared language: lounge, composite, gallery
 <!-- vault-crosslinks:end -->

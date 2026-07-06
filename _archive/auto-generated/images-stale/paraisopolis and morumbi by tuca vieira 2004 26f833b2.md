@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tuca vieira 2004|Artist - tuca vieira 2004]] — named in this note
+- [[knowledge/wiki/artists/Artist - Tuca Vieira|Artist - Tuca Vieira]] — named in this note
 - [[knowledge/wiki/images/Photograph Aerial View of Favela Next to Luxury Condominium by Tuca Vieira 39d824b2|Photograph Aerial View of Favela Next to Luxury Condominium by Tuca Vieira]] — same artist: tuca vieira
 - [[knowledge/wiki/artists/Artist - marie helene vieira da silva|Artist - marie helene vieira da silva]] — shared language: vieira
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marie helene vieira da silva 1950|Artist - marie helene vieira da silva 1950]] — shared language: vieira
-- [[knowledge/wiki/images/the corridor by marie helene vieira da silva 1950 94427f7d|the corridor by marie helene vieira da silva 1950]] — shared language: vieira
 <!-- vault-crosslinks:end -->

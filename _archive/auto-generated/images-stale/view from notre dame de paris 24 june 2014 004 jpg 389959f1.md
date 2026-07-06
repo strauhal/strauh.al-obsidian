@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/view_from_not
 - [[_archive/auto-generated/images-stale/view from notre dame de paris f7967611|view from notre dame de paris]] — named in this note
 - [[knowledge/wiki/images/charles meryon the apse of notre dame paris 1854 ii jpg ecab51fd|charles meryon the apse of notre dame paris 1854 ii jpg]] — shared language: notre, dame, paris
 - [[_archive/auto-generated/images-stale/the admiralty paris met dp813268 jpg 7f05c023|the admiralty paris met dp813268 jpg]] — shared language: paris, jpg.jpg
-- [[knowledge/wiki/images/Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape b57eaf8c|Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, view
-- [[knowledge/wiki/images/A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757) 85501861|A Panoramic View of Paris from the Louvre by Jean Baptiste Raguenet (c. 1757)]] — shared language: paris, view
+- [[knowledge/wiki/images/Panoramic View of Paris with Sacr C ur Basilica and Cityscape 26dce0ee|Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, view
+- [[_archive/auto-generated/images-stale/Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape b57eaf8c|Photograph Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, view
 <!-- vault-crosslinks:end -->

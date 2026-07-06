@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[_archive/auto-generated/images-stale/geometric pattern of vertical black and white stripes shifting diagonally in steps 2f8726a2|geometric pattern of vertical black and white stripes shifting diagonally in steps]] — shared language: steps, geometric
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
+- [[knowledge/archive/auto-generated/artists-stale/Artist - red flowers|Artist - red flowers]] — shared language: flowers
 <!-- vault-crosslinks:end -->

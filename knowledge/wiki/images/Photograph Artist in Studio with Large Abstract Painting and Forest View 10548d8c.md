@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Art
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, large
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: studio, large
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of A Forest With A Large Rock 13fa0bed|Illustration Black And White Ink Drawing Of A Forest With A Large Rock]] — shared language: forest, large
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
-- [[knowledge/wiki/images/Photograph Music Studio Setup with Mountain View 5820d20b|Photograph Music Studio Setup with Mountain View]] — shared language: studio, view, view.jpeg
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
+- [[knowledge/wiki/images/Music Studio Setup with Mountain View f52299c8|Music Studio Setup with Mountain View]] — shared language: studio, view, view.jpeg
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: shadow, window, light
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
+- [[_archive/auto-generated/images-stale/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
 - [[_archive/auto-generated/images-stale/digital portrait of a woman s face with dramatic light and shadow 5e28bd3f|digital portrait of a woman s face with dramatic light and shadow]] — shared language: shadow, light
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: colors
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: colors
 <!-- vault-crosslinks:end -->

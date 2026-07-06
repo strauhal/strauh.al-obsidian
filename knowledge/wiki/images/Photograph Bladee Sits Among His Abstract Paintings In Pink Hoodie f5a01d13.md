@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
-- [[knowledge/wiki/images/Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 15448d0a|Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]] — shared language: sits, paintings
+- [[knowledge/wiki/images/Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 42079976|Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]] — shared language: sits, paintings
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night a6c70bdd|Photograph Aerial View of Chicago City Grid at Night]] — shared language: chicago, aerial, grid
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city, view
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
-- [[knowledge/wiki/images/Photograph Aerial View of City, Water, and Snow Capped Mountains 89977c15|Photograph Aerial View of City, Water, and Snow Capped Mountains]] — shared language: aerial, view, city
-- [[knowledge/wiki/images/Photograph Aerial View of Dense City Surrounding a Large Hill 1704900d|Photograph Aerial View of Dense City Surrounding a Large Hill]] — shared language: aerial, view, city
+- [[knowledge/wiki/images/Aerial View of Sprawling City with Mountains and Tower e4d53018|Aerial View of Sprawling City with Mountains and Tower]] — shared language: aerial, city, view
 <!-- vault-crosslinks:end -->

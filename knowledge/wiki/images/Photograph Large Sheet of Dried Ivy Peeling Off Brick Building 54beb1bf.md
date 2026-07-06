@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Lar
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: brick, building
-- [[knowledge/wiki/images/Photograph Stone Building with Tall Tower and Ivy on Green Lawn 91d6f156|Photograph Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: ivy, building
+- [[knowledge/wiki/images/Stone Building with Tall Tower and Ivy on Green Lawn b74b703a|Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: ivy, building
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: ivy
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick
 <!-- vault-crosslinks:end -->

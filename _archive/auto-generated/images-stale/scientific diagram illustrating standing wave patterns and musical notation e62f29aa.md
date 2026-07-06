@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Standing Wave Patterns and Musical Notation Diagram d5dbc272|Diagram Standing Wave Patterns and Musical Notation Diagram]] — shared language: notation, wave, musical
+- [[knowledge/wiki/images/Standing Wave Patterns and Musical Notation Diagram 5288c174|Standing Wave Patterns and Musical Notation Diagram]] — shared language: notation, wave, musical
+- [[_archive/auto-generated/images-stale/Diagram Standing Wave Patterns and Musical Notation Diagram d5dbc272|Diagram Standing Wave Patterns and Musical Notation Diagram]] — shared language: notation, wave, musical
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/Diagram Musical Notation of a Six Note Chord in Treble Clef 5db97720|Diagram Musical Notation of a Six Note Chord in Treble Clef]] — shared language: notation, musical, diagram
+- [[_archive/auto-generated/images-stale/Diagram Musical Notation of a Six Note Chord in Treble Clef 5db97720|Diagram Musical Notation of a Six Note Chord in Treble Clef]] — shared language: notation, musical, diagram
 - [[_archive/auto-generated/images-stale/messett s musical entertainers 6f76529f|messett s musical entertainers]] — shared language: musical
-- [[knowledge/wiki/images/Illustration Abstract Line Drawing With Wave Like And Swirling Patterns 04c51151|Illustration Abstract Line Drawing With Wave Like And Swirling Patterns]] — shared language: wave, patterns
 <!-- vault-crosslinks:end -->

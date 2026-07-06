@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/photo of a person working at a computer desk c5adddcd|photo of a person working at a computer desk]] — shared language: desk, photo, desk.jpg
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: desk
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 6a319bea|PHOTO 2024 03 02 20 46 54]] — shared language: photo
 <!-- vault-crosslinks:end -->

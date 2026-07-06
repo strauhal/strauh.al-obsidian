@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/satan_presiding_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — same artist: john martin
+- [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/pandemonium by john martin 1841 9e0ff65b|pandemonium by john martin 1841]] — same artist: john martin
 - [[knowledge/wiki/images/the bard by john martin 1817 70385a39|the bard by john martin 1817]] — same artist: john martin
 - [[knowledge/wiki/images/belshazzar s feast by john martin 1821 2bd9914e|belshazzar s feast by john martin 1821]] — same artist: john martin

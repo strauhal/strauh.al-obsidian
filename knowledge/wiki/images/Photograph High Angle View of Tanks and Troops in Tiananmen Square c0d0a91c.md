@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Hig
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Lone Man Stands Before Column Of Tanks In Tiananmen Square ea4a35a1|Lone Man Stands Before Column Of Tanks In Tiananmen Square]] — shared language: tiananmen, tanks, square
 - [[knowledge/wiki/images/Photograph High Angle Black and White Photograph of a Grand Exposition Complex 17afa330|Photograph High Angle Black and White Photograph of a Grand Exposition Complex]] — shared language: angle, high, high-angle
-- [[knowledge/wiki/images/Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure 70078dbe|Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: angle, high, view
+- [[knowledge/wiki/images/High Angle View of Building Facade, Sidewalk, and Lone Figure 2c5bcc37|High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: angle, high, view
 - [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: high
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
-- [[knowledge/wiki/images/Photograph Overhead View of Modern Interior with High Windows, Staircase, Bookshelf 83c612e7|Photograph Overhead View of Modern Interior with High Windows, Staircase, Bookshelf]] — shared language: high, view
 <!-- vault-crosslinks:end -->

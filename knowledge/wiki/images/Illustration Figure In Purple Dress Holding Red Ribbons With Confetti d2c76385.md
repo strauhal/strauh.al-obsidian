@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Woman in White Bonnet Holding Child in Yellow Dress 9d5bdddd|Illustration Woman in White Bonnet Holding Child in Yellow Dress]] — shared language: dress, holding
-- [[knowledge/wiki/images/Photograph Figure in Elaborate Ruffled Dress Holding White Parasol 441e0dd5|Photograph Figure in Elaborate Ruffled Dress Holding White Parasol]] — shared language: dress, holding
+- [[knowledge/wiki/images/Illustration Giant Robot In Destroyed City With Swirling Ribbons 80749d2f|Illustration Giant Robot In Destroyed City With Swirling Ribbons]] — shared language: ribbons
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Arum Lily by Fer
 
 - [[knowledge/wiki/artists/Artist - fernand leger|Artist - fernand leger]] — shared language: fernand
 - [[knowledge/wiki/images/Carnation, Lily, Lily, Rose by John Singer Sargent (1885 1886) b8facb5b|Carnation, Lily, Lily, Rose by John Singer Sargent (1885 1886)]] — shared language: lily
-- [[knowledge/wiki/images/carnation lily lily rose by john singer sargent 18851886 20b5ef61|carnation lily lily rose by john singer sargent 18851886]] — shared language: lily
 - [[knowledge/wiki/images/Nymphs Bathing by Fernand Le Quesne (1890) 4625559c|Nymphs Bathing by Fernand Le Quesne (1890)]] — shared language: fernand
+- [[knowledge/wiki/images/carnation lily lily rose by john singer sargent 18851886 20b5ef61|carnation lily lily rose by john singer sargent 18851886]] — shared language: lily
 - [[knowledge/wiki/images/les deux amis by fernand leger 1943 b5dd6322|les deux amis by fernand leger 1943]] — shared language: fernand
 <!-- vault-crosslinks:end -->

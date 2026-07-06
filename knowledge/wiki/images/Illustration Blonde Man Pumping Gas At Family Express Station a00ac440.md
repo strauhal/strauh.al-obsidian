@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Pumping Gas At Family Express Station At Night 656a7443|Photograph Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, express, gas
-- [[knowledge/wiki/images/Photograph Man Pumping Gas And Smoking At Night c8a7cb0d|Photograph Man Pumping Gas And Smoking At Night]] — shared language: pumping, gas
+- [[knowledge/wiki/images/Man Pumping Gas At Family Express Station At Night c7a2a92c|Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, express, gas
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station, family
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station
-- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: gas, station
+- [[knowledge/wiki/images/Man Pumping Gas And Smoking At Night f372e20c|Man Pumping Gas And Smoking At Night]] — shared language: pumping, gas
+- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station
+- [[knowledge/wiki/images/Military Vehicles And Civilian Cars At A Gas Station At Night 2a2a088f|Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: gas, station
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/stylized_paintin
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: grazing, rolling, hills
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: rolling, hills, green
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, green
-- [[knowledge/wiki/images/Photograph Horses Grazing in a Green Field with Snow Capped Mountains 7113fa12|Photograph Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: grazing, green
-- [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: rolling
+- [[knowledge/wiki/images/Horses Grazing in a Green Field with Snow Capped Mountains bccaac19|Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: grazing, green
 - [[knowledge/wiki/images/Illustration Brown Horse Grazing in a Field 8ad84393|Illustration Brown Horse Grazing in a Field]] — shared language: grazing
 <!-- vault-crosslinks:end -->

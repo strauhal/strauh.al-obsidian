@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Pixel Art Scene of Skeleton with Dagger and Japanese Text c00ad325|Screenshot Pixel Art Scene of Skeleton with Dagger and Japanese Text]] — shared language: dagger, skeleton, pixel
-- [[knowledge/wiki/images/Photograph Man In Car Aims Gun At Person Lying On Ground a9e49394|Photograph Man In Car Aims Gun At Person Lying On Ground]] — shared language: ground, lying
+- [[knowledge/wiki/images/Man In Car Aims Gun At Person Lying On Ground 3c775008|Man In Car Aims Gun At Person Lying On Ground]] — shared language: ground, lying
+- [[_archive/auto-generated/images-stale/Photograph Man In Car Aims Gun At Person Lying On Ground a9e49394|Photograph Man In Car Aims Gun At Person Lying On Ground]] — shared language: ground, lying
 - [[_archive/auto-generated/images-stale/surreal skeleton scene on a white bed with dark posts 122f0030|surreal skeleton scene on a white bed with dark posts]] — shared language: skeleton, scene
 - [[_archive/auto-generated/images-stale/framed surreal geometric painting with dagger and blue forms 54ed996d|framed surreal geometric painting with dagger and blue forms]] — shared language: dagger
-- [[knowledge/wiki/images/Illustration Pixel Art Illustration of a Street Scene with Houses and Gas Sign c507ab61|Illustration Pixel Art Illustration of a Street Scene with Houses and Gas Sign]] — shared language: pixel, scene
 <!-- vault-crosslinks:end -->

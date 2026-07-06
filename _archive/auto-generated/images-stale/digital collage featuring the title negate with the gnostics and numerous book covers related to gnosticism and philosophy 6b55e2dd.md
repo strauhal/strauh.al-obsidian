@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Digital Collage of Book Covers on Gnosticism and Philosophy f988330e|Illustration Digital Collage of Book Covers on Gnosticism and Philosophy]] — shared language: gnosticism, covers, collage
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: related
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: related
-- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: related
 - [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: covers, collage, book
+- [[_archive/auto-generated/concept-stubs/Compiled Wiki|Compiled Wiki]] — shared language: related
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Blu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Balancing On Skateboard On Table Holding Red Flowers 5e20f4f3|Photograph Man Balancing On Skateboard On Table Holding Red Flowers]] — shared language: balancing, skateboard
-- [[knowledge/wiki/images/Photograph Black And White Photo Of Person On Skateboard In Front Of Building 2ebace70|Photograph Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard
+- [[knowledge/wiki/images/Man Balancing On Skateboard On Table Holding Red Flowers 1b9cb00d|Man Balancing On Skateboard On Table Holding Red Flowers]] — shared language: balancing, skateboard
+- [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard
 - [[knowledge/wiki/images/Illustration Two Stylized Figures With Pink Pig Toy And Cake 7cb49e74|Illustration Two Stylized Figures With Pink Pig Toy And Cake]] — shared language: toy
-- [[knowledge/wiki/images/Photograph Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures b68cb591|Photograph Diorama of Graham Cracker Buildings, Toy Plane, Miniature Figures]] — shared language: toy
-- [[knowledge/wiki/images/Photograph Plush Toy Wearing Military Cap with Helicopters in Background dd91c86f|Photograph Plush Toy Wearing Military Cap with Helicopters in Background]] — shared language: toy
+- [[knowledge/wiki/images/Black and White Photograph of Margaret Kilgallen on Skateboard 333a7d98|Black and White Photograph of Margaret Kilgallen on Skateboard]] — shared language: skateboard
+- [[knowledge/wiki/images/Blindfolded Man Balancing on Steel Beam Above City 9ab0e50d|Blindfolded Man Balancing on Steel Beam Above City]] — shared language: balancing
 <!-- vault-crosslinks:end -->

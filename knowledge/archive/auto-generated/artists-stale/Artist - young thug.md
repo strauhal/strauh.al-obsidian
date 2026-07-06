@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: thug, young
 - [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young
 - [[_archive/auto-generated/images-stale/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
-- [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
+- [[_archive/auto-generated/images-stale/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 <!-- vault-crosslinks:end -->

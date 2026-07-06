@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — shared language: harris
 - [[knowledge/wiki/artists/Artist - john harris|Artist - john harris]] — shared language: harris
 - [[knowledge/wiki/images/pyramid by john harris 1986 72dec726|pyramid by john harris 1986]] — shared language: harris
-- [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: harris
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: harris
 - [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — shared language: harris
-- [[knowledge/wiki/images/Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris 1ee3a07f|Illustration Man with Art Briefcase Contemplates Taped Banana on Wall by Mike Harris]] — shared language: harris
+- [[knowledge/wiki/books/routledge-key-guides-jonathan-harris-art-history-the-key-concepts-routledge|Art History The Key Concepts-Routledge]] — shared language: harris
 <!-- vault-crosslinks:end -->

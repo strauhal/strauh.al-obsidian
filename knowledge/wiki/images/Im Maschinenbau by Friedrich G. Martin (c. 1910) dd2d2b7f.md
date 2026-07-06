@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Im Maschinenbau 
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin, friedrich
 - [[knowledge/wiki/artists/Artist - martin schongauer|Artist - martin schongauer]] — shared language: martin
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
 - [[knowledge/wiki/artists/Artist - friedrich gauermann|Artist - friedrich gauermann]] — shared language: friedrich
-- [[knowledge/wiki/artists/Artist - friedrich voltz|Artist - friedrich voltz]] — shared language: friedrich
 <!-- vault-crosslinks:end -->

@@ -45,6 +45,6 @@ Images attributed by filename: 8
 - [[knowledge/wiki/images/Self Portrait by Andy Warhol (1964) 99ff1a2b|Self Portrait by Andy Warhol (1964)]] — shared language: warhol, andy
 - [[knowledge/wiki/images/andy warhol computer 0abc9789|andy warhol computer]] — shared language: warhol, andy
 - [[knowledge/wiki/images/Photograph Black and White Photo of Andy Warhol and Three Men 8229510a|Photograph Black and White Photo of Andy Warhol and Three Men]] — shared language: warhol, andy
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol
-- [[knowledge/wiki/artists/Artist - Andy Warhol by MSCHF|Artist - Andy Warhol by MSCHF]] — shared language: warhol, andy
+- [[knowledge/wiki/images/Black and White Portrait of Andy Warhol Holding a Dachshund bac90273|Black and White Portrait of Andy Warhol Holding a Dachshund]] — shared language: warhol, andy
+- [[knowledge/wiki/images/Andy Warhol and Two Others Looking at a Computer 873530c9|Andy Warhol and Two Others Looking at a Computer]] — shared language: warhol, andy
 <!-- vault-crosslinks:end -->

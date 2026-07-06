@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Framed Oil Painting of a Person with Striped Head Covering 7d2a60e6|Illustration Framed Oil Painting of a Person with Striped Head Covering]] — shared language: striped, oil
 - [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: striped
-- [[knowledge/wiki/images/Photograph Man Posing In Vintage Style Outfit With Backpack 6e541806|Photograph Man Posing In Vintage Style Outfit With Backpack]] — shared language: outfit
-- [[knowledge/wiki/images/Photograph Person In Maid Outfit Operating DJ Equipment 854b4cde|Photograph Person In Maid Outfit Operating DJ Equipment]] — shared language: outfit
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: striped
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: striped
+- [[knowledge/wiki/images/Man Posing In Vintage Style Outfit With Backpack 10fa7fb5|Man Posing In Vintage Style Outfit With Backpack]] — shared language: outfit
+- [[knowledge/wiki/images/Person In Maid Outfit Operating DJ Equipment 0c9455fc|Person In Maid Outfit Operating DJ Equipment]] — shared language: outfit
 <!-- vault-crosslinks:end -->

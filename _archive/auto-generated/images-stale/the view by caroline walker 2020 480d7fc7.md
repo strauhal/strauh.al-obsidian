@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker 2020|Artist - caroline walker 2020]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chuck walker 1986|Artist - chuck walker 1986]] — shared language: walker
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
-- [[knowledge/wiki/artists/Artist - Diana Walker|Artist - Diana Walker]] — shared language: walker
 <!-- vault-crosslinks:end -->

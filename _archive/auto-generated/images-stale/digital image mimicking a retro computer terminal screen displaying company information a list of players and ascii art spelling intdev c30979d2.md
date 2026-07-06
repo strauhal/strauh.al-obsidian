@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, screen
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen, digital
 - [[_archive/auto-generated/images-stale/screenshot of a retro computer emulator displaying a green pixelated portrait faa0644f|screenshot of a retro computer emulator displaying a green pixelated portrait]] — shared language: retro, displaying, computer
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: displaying, screen, computer
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: displaying, screen, computer
 <!-- vault-crosslinks:end -->

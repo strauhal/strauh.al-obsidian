@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/frescoes in the sistine chapel ceiling and the last judgment by michelangelo buonarroti 15081541 3ce061be|frescoes in the sistine chapel ceiling and the last judgment by michelangelo buonarroti 15081541]] — shared language: sistine, chapel, ceiling
 - [[knowledge/wiki/images/sistine chapel ceiling fresco detail showing lunettes spandrels prophets and ignudi by michelangelo buonarroti 15081512 3bfc16a0|sistine chapel ceiling fresco detail showing lunettes spandrels prophets and ignudi by michelangelo buonarroti 15081512]] — shared language: sistine, chapel, fresco
-- [[knowledge/wiki/images/Photograph Interior of Sistine Chapel with Michelangelo's frescoes and visitors 63941af6|Photograph Interior of Sistine Chapel with Michelangelo's frescoes and visitors]] — shared language: sistine, chapel
+- [[knowledge/wiki/images/Interior of Sistine Chapel with Michelangelo's frescoes and visitors 11057426|Interior of Sistine Chapel with Michelangelo's frescoes and visitors]] — shared language: sistine, chapel
 - [[knowledge/wiki/artists/Artist - michelangelo buonarroti 15081512|Artist - michelangelo buonarroti 15081512]] — shared language: sistine, chapel, fresco
 - [[knowledge/wiki/artists/Artist - michelangelo buonarroti 15081541|Artist - michelangelo buonarroti 15081541]] — shared language: sistine, chapel, ceiling
 - [[knowledge/wiki/images/putti detail from the sistine madonna by raphael c 1513 1514 2f38121a|putti detail from the sistine madonna by raphael c 1513 1514]] — shared language: sistine

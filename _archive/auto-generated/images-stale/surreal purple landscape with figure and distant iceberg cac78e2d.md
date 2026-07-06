@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Surreal Purple Landscape With Two Figures 73acbe46|Photograph Surreal Purple Landscape With Two Figures]] — shared language: surreal, purple, landscape
+- [[_archive/auto-generated/images-stale/Photograph Surreal Purple Landscape With Two Figures 73acbe46|Photograph Surreal Purple Landscape With Two Figures]] — shared language: surreal, purple, landscape
+- [[knowledge/wiki/images/Surreal Purple Landscape With Two Figures 18ed63b9|Surreal Purple Landscape With Two Figures]] — shared language: surreal, purple, landscape
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: surreal, landscape
-- [[knowledge/wiki/images/Photograph Purple Sunset Over Rooftops and Distant Mountains 7ccca5a3|Photograph Purple Sunset Over Rooftops and Distant Mountains]] — shared language: distant, purple
-- [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: surreal, landscape
-- [[knowledge/wiki/images/Illustration Oil Painting of a Vineyard Landscape with Distant Hills 9c10d1f8|Illustration Oil Painting of a Vineyard Landscape with Distant Hills]] — shared language: distant, landscape
+- [[_archive/auto-generated/images-stale/Photograph Purple Sunset Over Rooftops and Distant Mountains 7ccca5a3|Photograph Purple Sunset Over Rooftops and Distant Mountains]] — shared language: distant, purple
+- [[knowledge/wiki/images/Purple Sunset Over Rooftops and Distant Mountains 6000b6e2|Purple Sunset Over Rooftops and Distant Mountains]] — shared language: distant, purple
 <!-- vault-crosslinks:end -->

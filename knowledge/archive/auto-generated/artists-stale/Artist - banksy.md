@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - banksy 2009|Artist - banksy 2009]] — named in this note
-- [[knowledge/wiki/images/Photograph Irwin Schiff Holding Books in Front of Freedom Books Sign 7fd0821a|Photograph Irwin Schiff Holding Books in Front of Freedom Books Sign]] — shared language: sign
 - [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: sign
-- [[knowledge/wiki/images/Photograph Protestor Holding Sign About Palestine at a Rally 17fe6441|Photograph Protestor Holding Sign About Palestine at a Rally]] — shared language: sign
-- [[knowledge/wiki/images/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: sign
-- [[knowledge/wiki/images/Document Workbook Page with Alphabetical Sign Familiarization Exercise 982a8e3e|Document Workbook Page with Alphabetical Sign Familiarization Exercise]] — shared language: sign
+- [[_archive/auto-generated/images-stale/Photograph Yard Sign with Text About Complex Issues 0b76a9fb|Photograph Yard Sign with Text About Complex Issues]] — shared language: sign
+- [[knowledge/wiki/images/Yard Sign with Text About Complex Issues bc4c2246|Yard Sign with Text About Complex Issues]] — shared language: sign
+- [[_archive/auto-generated/images-stale/Photograph Transparent Sign Showing Reconstructed Tower Over Ruins 4cd59e78|Photograph Transparent Sign Showing Reconstructed Tower Over Ruins]] — shared language: sign
+- [[knowledge/wiki/images/Transparent Sign Showing Reconstructed Tower Over Ruins 4d0e4100|Transparent Sign Showing Reconstructed Tower Over Ruins]] — shared language: sign
 <!-- vault-crosslinks:end -->

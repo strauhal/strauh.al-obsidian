@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Boy Holding 'The Book of Bionicles' Parody a3052d53|Photograph Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: bionicles, boy, book
-- [[knowledge/wiki/images/Photograph Man In White Shirt And Tie Holding Food On Private Jet e2c3ede6|Photograph Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: tie, shirt, holding
+- [[_archive/auto-generated/images-stale/Photograph Young Boy Holding 'The Book of Bionicles' Parody a3052d53|Photograph Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: bionicles, boy, book
+- [[knowledge/wiki/images/Young Boy Holding 'The Book of Bionicles' Parody 3e3c2415|Young Boy Holding 'The Book of Bionicles' Parody]] — shared language: bionicles, boy, book
+- [[knowledge/wiki/images/Man In White Shirt And Tie Holding Food On Private Jet 8e057f43|Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: tie, shirt, holding
+- [[_archive/auto-generated/images-stale/Photograph Man In White Shirt And Tie Holding Food On Private Jet e2c3ede6|Photograph Man In White Shirt And Tie Holding Food On Private Jet]] — shared language: tie, shirt, holding
 - [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: shirt, young
-- [[knowledge/wiki/images/Illustration Seated Young Man in Pink Shirt Holding Hat cfaa5ae8|Illustration Seated Young Man in Pink Shirt Holding Hat]] — shared language: shirt, young, holding
-- [[_archive/auto-generated/images-stale/oil painting of a seated young man in a pink shirt holding a hat 8c653e67|oil painting of a seated young man in a pink shirt holding a hat]] — shared language: shirt, young, holding
 <!-- vault-crosslinks:end -->

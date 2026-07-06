@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
 - [[_archive/auto-generated/images-stale/train transfixed jpg 4d465ca0|train transfixed jpg]] — shared language: train
-- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: train
+- [[_archive/auto-generated/images-stale/Photograph Train with Headlights Inside Another Train Car d14bb878|Photograph Train with Headlights Inside Another Train Car]] — shared language: train
 <!-- vault-crosslinks:end -->

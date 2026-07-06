@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: pixel, night
 - [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: messy, room, person
 - [[knowledge/wiki/images/Illustration Black And White Line Drawing Of A Person With Messy Hair And Glasses 1c67f68b|Illustration Black And White Line Drawing Of A Person With Messy Hair And Glasses]] — shared language: messy, person
 - [[knowledge/wiki/images/Illustration Line Drawing Of Person With Messy Hair And Glasses a78ca284|Illustration Line Drawing Of Person With Messy Hair And Glasses]] — shared language: messy, person
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
+- [[knowledge/wiki/images/Messy Living Room With Toys And Furniture a5e59411|Messy Living Room With Toys And Furniture]] — shared language: messy, room
 <!-- vault-crosslinks:end -->

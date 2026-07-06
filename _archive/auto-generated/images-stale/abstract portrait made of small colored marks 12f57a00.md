@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
 - [[_archive/auto-generated/images-stale/colorful abstract field drawing with small black marks e669e973|colorful abstract field drawing with small black marks]] — shared language: marks, small
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colored
+- [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: made
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
+- [[_archive/auto-generated/images-stale/abstract pastel painting with red and blue marks 4afc662e|abstract pastel painting with red and blue marks]] — shared language: marks
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand, typography
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: typography, hand
 - [[knowledge/wiki/images/Photograph Concrete Table Shaped Like Aphex Twin Logo dfd39bd7|Photograph Concrete Table Shaped Like Aphex Twin Logo]] — shared language: aphex, twin, logo
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of Aphex Twin With Reflections 277034f4|Photograph Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
+- [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: drawn, paul
 <!-- vault-crosslinks:end -->

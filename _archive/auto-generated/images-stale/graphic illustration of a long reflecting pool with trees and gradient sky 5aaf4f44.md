@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Long Reflecting Pool With Trees Under Gradient Sky 9c6f4503|Illustration Long Reflecting Pool With Trees Under Gradient Sky]] — named in this note
 - [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: reflecting, trees
-- [[knowledge/wiki/images/Photograph Crowd at Washington Monument and Capitol Reflecting Pool 7e439af8|Photograph Crowd at Washington Monument and Capitol Reflecting Pool]] — shared language: reflecting, pool
-- [[knowledge/wiki/images/Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski 1f31d055|Illustration People By Pool At Night Under Orange Trees by Leonard Koscianski]] — shared language: pool, trees
+- [[knowledge/wiki/images/Crowd at Washington Monument and Capitol Reflecting Pool 20437650|Crowd at Washington Monument and Capitol Reflecting Pool]] — shared language: reflecting, pool
+- [[_archive/auto-generated/images-stale/Photograph Crowd at Washington Monument and Capitol Reflecting Pool 7e439af8|Photograph Crowd at Washington Monument and Capitol Reflecting Pool]] — shared language: reflecting, pool
 - [[knowledge/wiki/images/Illustration Abstract Mountains Reflected in Water Under a Gradient Sky e6b3366e|Illustration Abstract Mountains Reflected in Water Under a Gradient Sky]] — shared language: gradient, sky
 <!-- vault-crosslinks:end -->

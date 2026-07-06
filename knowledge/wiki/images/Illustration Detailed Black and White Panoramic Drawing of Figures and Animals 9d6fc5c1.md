@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/Illustration Colorful Detailed Cityscape on Mountain with Animals and Waterfall fc26253e|Illustration Colorful Detailed Cityscape on Mountain with Animals and Waterfall]] — shared language: animals, detailed
-- [[knowledge/wiki/images/Photograph Panoramic Sunset Sky with Silhouetted Trees 671204c5|Photograph Panoramic Sunset Sky with Silhouetted Trees]] — shared language: panoramic
-- [[knowledge/wiki/images/Photograph Modern Kitchen Interior with Panoramic Window View 560b9ad4|Photograph Modern Kitchen Interior with Panoramic Window View]] — shared language: panoramic
+- [[knowledge/wiki/images/Panoramic Sunset Sky with Silhouetted Trees 4812a63d|Panoramic Sunset Sky with Silhouetted Trees]] — shared language: panoramic
+- [[knowledge/wiki/images/Modern Kitchen Interior with Panoramic Window View 2b45032c|Modern Kitchen Interior with Panoramic Window View]] — shared language: panoramic
 - [[knowledge/wiki/images/Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass eba00fd5|Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass]] — shared language: panoramic
+- [[knowledge/wiki/images/Evolutionary Tree of Various Animals Over Time 0459eb81|Evolutionary Tree of Various Animals Over Time]] — shared language: animals
 <!-- vault-crosslinks:end -->

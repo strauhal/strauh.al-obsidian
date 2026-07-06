@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Diagram The ULMFiT 3 step approach 59abb9b2|Diagram The ULMFiT 3 step approach]] — shared language: step
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/Ready for the House by Jandek (1978) 833bc59b|Ready for the House by Jandek (1978)]] — shared language: house
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: sketch, pencil
-- [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: house
 <!-- vault-crosslinks:end -->

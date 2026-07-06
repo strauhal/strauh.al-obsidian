@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Seated Woman in High Collared Dress f9d6417a|Illustration Pencil Sketch of Seated Woman in High Collared Dress]] — shared language: collared, high, dress
 - [[knowledge/wiki/images/Illustration Black and White Line Art of Woman in High Collared Jumpsuit 94be9e40|Illustration Black and White Line Art of Woman in High Collared Jumpsuit]] — shared language: collared, high
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
 - [[_archive/auto-generated/images-stale/black and white line art of a woman with short hair wearing a high collared jumpsuit aaf1638a|black and white line art of a woman with short hair wearing a high collared jumpsuit]] — shared language: collared, high
-- [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress, dress.jpeg
 <!-- vault-crosslinks:end -->

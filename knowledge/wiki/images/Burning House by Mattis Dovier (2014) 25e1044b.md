@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Burning House by
 - [[knowledge/wiki/artists/Artist - Mattis Dovier|Artist - Mattis Dovier]] — shared language: mattis, dovier
 - [[knowledge/wiki/images/Illustration Black And White Pixelated Arm Reaching Out by Mattis Dovier ee379c8e|Illustration Black And White Pixelated Arm Reaching Out by Mattis Dovier]] — shared language: mattis, dovier
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/Ready for the House by Jandek (1978) 833bc59b|Ready for the House by Jandek (1978)]] — shared language: house
 - [[knowledge/wiki/images/The Burning City by Wayne Barlowe (2000) 164e255e|The Burning City by Wayne Barlowe (2000)]] — shared language: burning
-- [[knowledge/wiki/books/chris-carter-rupert-sheldrake-science-and-psychic-phenomena-the-fall-of-the-house-of-skeptics-inner-traditions|Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions]] — shared language: house
 <!-- vault-crosslinks:end -->

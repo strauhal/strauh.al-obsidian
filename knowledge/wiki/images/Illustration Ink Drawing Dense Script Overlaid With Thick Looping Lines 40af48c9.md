@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/images/Illustration Red Abstract Looping Line Drawing On Graph Paper ab7a839e|Illustration Red Abstract Looping Line Drawing On Graph Paper]] — shared language: looping
 - [[knowledge/wiki/images/Illustration Abstract Painting Blue Looping Strokes Over Orange Shapes 63d71b5d|Illustration Abstract Painting Blue Looping Strokes Over Orange Shapes]] — shared language: looping
 - [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: overlaid
-- [[knowledge/wiki/images/Photograph Multiple Cars Burning on Street with Thick Black Smoke 1bccbd24|Photograph Multiple Cars Burning on Street with Thick Black Smoke]] — shared language: thick
+- [[knowledge/wiki/images/Multiple Cars Burning on a Street with Thick Smoke ff3e1d14|Multiple Cars Burning on a Street with Thick Smoke]] — shared language: thick
 <!-- vault-crosslinks:end -->

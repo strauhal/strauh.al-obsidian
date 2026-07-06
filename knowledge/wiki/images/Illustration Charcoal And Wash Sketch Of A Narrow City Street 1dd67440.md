@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, narrow, wash
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch 3a572936|Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch]] — shared language: wash, street, sketch
-- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: sketch, city
+- [[knowledge/wiki/images/Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch 3a572936|Photograph Hand Holding Sketchbook with Ink and Pink Wash Street Sketch]] — shared language: wash, sketch, street
 <!-- vault-crosslinks:end -->

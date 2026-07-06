@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Stylized Blue Skinned Figure with Dark Hair on Red Polka Dot Background 68a301d2|Illustration Stylized Blue Skinned Figure with Dark Hair on Red Polka Dot Background]] — shared language: skinned, dot, polka
 - [[_archive/auto-generated/images-stale/blurry color photograph of the back of a head with hair bun displayed in a slide mount 1298141e|blurry color photograph of the back of a head with hair bun displayed in a slide mount]] — shared language: slide, displayed, mount
 - [[knowledge/wiki/images/Photograph Blurry Color Photograph of Hair Bun in Slide Mount 3168e0ee|Photograph Blurry Color Photograph of Hair Bun in Slide Mount]] — shared language: slide, mount, hair
-- [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair, dark
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: dot, displayed
+- [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair, dark
 <!-- vault-crosslinks:end -->

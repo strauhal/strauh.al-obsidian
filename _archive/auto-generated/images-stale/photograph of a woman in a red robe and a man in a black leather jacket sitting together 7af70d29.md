@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
-- [[knowledge/wiki/images/Photograph Woman In Red Robe And Man In Black Jacket Sitting Together dd2fe6ec|Photograph Woman In Red Robe And Man In Black Jacket Sitting Together]] — shared language: robe, jacket, together
-- [[knowledge/wiki/images/Photograph Man in Leather Jacket Smoking Cigarette at Table 0be5c4ed|Photograph Man in Leather Jacket Smoking Cigarette at Table]] — shared language: leather, jacket
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: jacket
-- [[knowledge/wiki/images/Illustration Woman In Red Hat And Robe Holding Black Cat 2929450d|Illustration Woman In Red Hat And Robe Holding Black Cat]] — shared language: robe
+- [[_archive/auto-generated/images-stale/Photograph Woman In Red Robe And Man In Black Jacket Sitting Together dd2fe6ec|Photograph Woman In Red Robe And Man In Black Jacket Sitting Together]] — shared language: robe, jacket, together
+- [[knowledge/wiki/images/Woman In Red Robe And Man In Black Jacket Sitting Together fc17558d|Woman In Red Robe And Man In Black Jacket Sitting Together]] — shared language: robe, jacket, together
+- [[knowledge/wiki/images/Man in Leather Jacket Smoking Cigarette at Table 794be880|Man in Leather Jacket Smoking Cigarette at Table]] — shared language: leather, jacket
+- [[_archive/auto-generated/images-stale/Photograph Man in Leather Jacket Smoking Cigarette at Table 0be5c4ed|Photograph Man in Leather Jacket Smoking Cigarette at Table]] — shared language: leather, jacket
 <!-- vault-crosslinks:end -->

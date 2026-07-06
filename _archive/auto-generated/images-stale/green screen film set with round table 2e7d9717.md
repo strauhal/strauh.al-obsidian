@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Film Set With Large Green Screen And Crew 8bc1d233|Photograph Film Set With Large Green Screen And Crew]] — shared language: set, film, screen
+- [[knowledge/wiki/images/Film Set With Large Green Screen And Crew b9365a88|Film Set With Large Green Screen And Crew]] — shared language: set, film, screen
+- [[_archive/auto-generated/images-stale/Photograph Film Set With Large Green Screen And Crew 8bc1d233|Photograph Film Set With Large Green Screen And Crew]] — shared language: set, film, screen
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen, film
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
-- [[knowledge/wiki/images/Photograph Two Actors Filming A Scene On A Green Screen Set c1fe33f4|Photograph Two Actors Filming A Scene On A Green Screen Set]] — shared language: set, screen, green
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen, film
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Allyson Grey|Artist - Allyson Grey]] — named in this note
 - [[knowledge/wiki/images/Illustration Intricate Rainbow Geometric Pattern with Repeating Shapes by Allyson Grey 265136e6|Illustration Intricate Rainbow Geometric Pattern with Repeating Shapes by Allyson Grey]] — same artist: allyson grey
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[_archive/auto-generated/images-stale/abstract computational visualization with rainbow color map and black grid lines 726021d1|abstract computational visualization with rainbow color map and black grid lines]] — shared language: rainbow, grid
-- [[knowledge/wiki/images/Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines 07735d7c|Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines]] — shared language: rainbow, grid
 <!-- vault-crosslinks:end -->

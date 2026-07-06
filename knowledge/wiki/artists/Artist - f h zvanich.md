@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/landscape with yellow fields and snow capped mountains by frank zvanich 1949 bcc2aac2|landscape with yellow fields and snow capped mountains by frank zvanich 1949]] — shared language: zvanich
 - [[knowledge/wiki/books/ray-kurzweil-the-singularity-is-near-when-humans-transcend-biology-viking-adult|The Singularity Is Near When Humans Transcend Biology-Viking Adult]] — shared language: near
 - [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
-- [[knowledge/wiki/images/Photograph Black and Orange Cats Near a Laptop ed290698|Photograph Black and Orange Cats Near a Laptop]] — shared language: near
-- [[knowledge/wiki/images/self portrait with two horses by pavel tchelitchew 1932 a73a4a25|self portrait with two horses by pavel tchelitchew 1932]] — shared language: horses
+- [[knowledge/wiki/images/Black and Orange Cats Near a Laptop 548f19ea|Black and Orange Cats Near a Laptop]] — shared language: near
+- [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/black and white photograph of a wet park bench and brick paving a853751c|black and white photograph of a wet park bench and brick paving]] — shared language: bench, park
-- [[knowledge/wiki/images/Photograph Wet Park Bench And Brick Paving 3f9c23bc|Photograph Wet Park Bench And Brick Paving]] — shared language: bench, park
-- [[knowledge/wiki/images/Photograph Park Bench Partially Submerged In Water Reflecting Trees e63811a5|Photograph Park Bench Partially Submerged In Water Reflecting Trees]] — shared language: bench, park
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: park, near
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park
+- [[_archive/auto-generated/images-stale/Photograph Wet Park Bench And Brick Paving 3f9c23bc|Photograph Wet Park Bench And Brick Paving]] — shared language: bench, park
+- [[knowledge/wiki/images/Wet Park Bench And Brick Paving ebaef1f3|Wet Park Bench And Brick Paving]] — shared language: bench, park
+- [[knowledge/wiki/images/Park Bench Partially Submerged In Water Reflecting Trees 0e18f6a7|Park Bench Partially Submerged In Water Reflecting Trees]] — shared language: bench, park
+- [[_archive/auto-generated/images-stale/Photograph Park Bench Partially Submerged In Water Reflecting Trees e63811a5|Photograph Park Bench Partially Submerged In Water Reflecting Trees]] — shared language: bench, park
 <!-- vault-crosslinks:end -->

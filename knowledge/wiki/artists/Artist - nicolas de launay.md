@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720 5669ddf8|portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/wiki/images/portrait of the artist s family by nicolas de largilliere c 1704 fbaafd94|portrait of the artist s family by nicolas de largilliere c 1704]] — shared language: nicolas
 - [[knowledge/wiki/images/portrait of the family of the artist by nicolas de largilliere c 1715 76794547|portrait of the family of the artist by nicolas de largilliere c 1715]] — shared language: nicolas
+- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: nicolas
 - [[knowledge/wiki/artists/Artist - Nicolas Winding Refn|Artist - Nicolas Winding Refn]] — shared language: nicolas
-- [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

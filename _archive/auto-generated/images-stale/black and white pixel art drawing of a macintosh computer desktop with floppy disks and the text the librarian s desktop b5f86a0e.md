@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art of a Macintosh Desktop 9be84841|Illustration Black and White Pixel Art of a Macintosh Desktop]] — shared language: desktop, macintosh, pixel
 - [[_archive/auto-generated/images-stale/black and white pixel art compilation of early computer graphics including floppy disks a macintosh computer and text labels feedb737|black and white pixel art compilation of early computer graphics including floppy disks a macintosh computer and text labels]] — shared language: disks, floppy, macintosh
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, desktop, computer
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh, computer, pixel
 - [[_archive/auto-generated/images-stale/black and white pixel art illustration of a hooded figure holding a floppy disk next to a computer with text disk 1 of 5 a3b008ae|black and white pixel art illustration of a hooded figure holding a floppy disk next to a computer with text disk 1 of 5]] — shared language: floppy, pixel, computer
 - [[_archive/auto-generated/images-stale/black and white pixel graphic of a figure exposing themselves to a macintosh computer captioned expose yourself to macintosh 9a4ea33e|black and white pixel graphic of a figure exposing themselves to a macintosh computer captioned expose yourself to macintosh]] — shared language: macintosh, pixel, computer
 <!-- vault-crosslinks:end -->

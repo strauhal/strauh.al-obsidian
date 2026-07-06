@@ -32,8 +32,8 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/regular division of the plane v by maurits cornelis escher 1941 5415dc80|regular division of the plane v by maurits cornelis escher 1941]] — shared language: escher, regular, division
 - [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
+- [[knowledge/wiki/images/regular division of the plane v by maurits cornelis escher 1941 5415dc80|regular division of the plane v by maurits cornelis escher 1941]] — shared language: escher, regular, division
 - [[knowledge/wiki/images/escher 34cb06a4|escher]] — shared language: escher
 - [[knowledge/wiki/artists/Artist - maurits cornelis escher|Artist - maurits cornelis escher]] — shared language: escher, regular, division
 - [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: escher

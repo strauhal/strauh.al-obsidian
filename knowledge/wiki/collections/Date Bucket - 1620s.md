@@ -39,7 +39,7 @@ Files: 14
 
 ![[media/strauh.al3.1/2000s/The Fall of the Damned by Peter Paul Rubens (c. 1618-1620).jpeg]]
 
-![[media/strauh.al3.1/diagrams/Diagram - Maps Comparing Virgin Forest Area in US, 1620 vs. Today.jpg]]
+![[media/strauh.al3.1/diagrams/Maps_Comparing_Virgin_Forest_Area_in_US,_1620_vs._Today.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

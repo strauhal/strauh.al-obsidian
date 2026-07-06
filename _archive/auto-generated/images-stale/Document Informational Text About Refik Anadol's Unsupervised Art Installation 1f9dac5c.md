@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Infor
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706163717|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — named in this note
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706165157|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: anadol's, refik, document
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2019|Artist - refik anadol 2019]] — shared language: refik
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2022|Artist - refik anadol 2022]] — shared language: refik
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol|Artist - refik anadol]] — shared language: refik
-- [[_archive/auto-generated/images-stale/unsupervised by refik anadol 2022 897aeede|unsupervised by refik anadol 2022]] — shared language: refik
-- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 <!-- vault-crosslinks:end -->

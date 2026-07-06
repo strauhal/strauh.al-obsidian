@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
 - [[_archive/auto-generated/images-stale/black and white halftone portrait of a man with a mustache seated indoors ab6a1727|black and white halftone portrait of a man with a mustache seated indoors]] — shared language: mustache
-- [[knowledge/wiki/images/Photograph Halftone Portrait of a Man with a Mustache Seated Indoors 79d483e3|Photograph Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: mustache
+- [[knowledge/wiki/images/Halftone Portrait of a Man with a Mustache Seated Indoors de9cdf9c|Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: mustache
+- [[_archive/auto-generated/images-stale/Photograph Halftone Portrait of a Man with a Mustache Seated Indoors 79d483e3|Photograph Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: mustache
 - [[knowledge/wiki/images/Illustration Four Line Drawings of a Man with Glasses and Mustache 754ed340|Illustration Four Line Drawings of a Man with Glasses and Mustache]] — shared language: mustache
 - [[_archive/auto-generated/images-stale/digital illustration of a man with a large mustache holding a sword against a red background aed6b5e0|digital illustration of a man with a large mustache holding a sword against a red background]] — shared language: mustache
 <!-- vault-crosslinks:end -->

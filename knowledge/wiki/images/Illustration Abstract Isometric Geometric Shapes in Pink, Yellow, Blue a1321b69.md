@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: shapes, geometric, yellow
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, geometric
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Shapes and Arch in Pink and Brown de926531|Illustration Abstract Geometric Shapes and Arch in Pink and Brown]] — shared language: shapes, pink, geometric
 - [[knowledge/wiki/images/Illustration Collection of Pink Isometric Pixel Art Folder Icons 3d13cf32|Illustration Collection of Pink Isometric Pixel Art Folder Icons]] — shared language: isometric, pink
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 <!-- vault-crosslinks:end -->

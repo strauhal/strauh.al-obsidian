@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum 8e70fc2a|Photograph Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum]] — shared language: mounted, drumsticks, drum
+- [[knowledge/wiki/images/Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum 7c49f536|Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum]] — shared language: mounted, drumsticks, drum
+- [[_archive/auto-generated/images-stale/Photograph Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum 8e70fc2a|Photograph Mounted Soldier Holding Drumsticks Above A Horse Mounted Drum]] — shared language: mounted, drumsticks, drum
 - [[_archive/auto-generated/images-stale/sepia photograph of a soldier holding a crucifix a2068c7e|sepia photograph of a soldier holding a crucifix]] — shared language: soldier, holding
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling cb5f0d39|Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling]] — shared language: soldier, holding
 <!-- vault-crosslinks:end -->

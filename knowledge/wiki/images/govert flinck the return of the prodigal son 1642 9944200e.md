@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/govert_flinck_th
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: return
-- [[knowledge/wiki/images/Document Christ's Return 2b065170|Document Christ's Return]] — shared language: return
 - [[knowledge/wiki/images/Son Goku by Akira Toriyama (1984 1995) 6cec2bd2|Son Goku by Akira Toriyama (1984 1995)]] — shared language: son
+- [[knowledge/wiki/images/Document Christ's Return 2b065170|Document Christ's Return]] — shared language: return
 - [[knowledge/wiki/images/otto bache soldiers return the volunteers return home 1894 a78a5578|otto bache soldiers return the volunteers return home 1894]] — shared language: return
 - [[knowledge/wiki/images/the son of the earth by liu xiaodong 1999 0847c546|the son of the earth by liu xiaodong 1999]] — shared language: son
 <!-- vault-crosslinks:end -->

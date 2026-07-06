@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/portrait of lucian freud by francis bacon 1951 60a87d39|portrait of lucian freud by francis bacon 1951]] — shared language: lucian, freud
 - [[knowledge/wiki/artists/Artist - Sigmund Freud|Artist - Sigmund Freud]] — shared language: freud
 - [[knowledge/wiki/artists/Artist - Lucian Prun|Artist - Lucian Prun]] — shared language: lucian
+- [[knowledge/wiki/images/Freud's Structural Model of the Psyche by Sigmund Freud 6a2b1a56|Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: freud
 - [[knowledge/wiki/images/Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun 0bc79c07|Illustration Oil Painting of Computer Monitor Displaying Counter Strike Game by Lucian Prun]] — shared language: lucian
-- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche by Sigmund Freud 6e17f9c2|Diagram Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: freud
 - [[knowledge/wiki/artists/Artist - francis bacon|Artist - francis bacon]] — shared language: lucian, freud
 <!-- vault-crosslinks:end -->

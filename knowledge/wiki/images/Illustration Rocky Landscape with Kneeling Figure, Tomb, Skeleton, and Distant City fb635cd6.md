@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Oil Painting of a Vineyard Landscape with Distant Hills 9c10d1f8|Illustration Oil Painting of a Vineyard Landscape with Distant Hills]] — shared language: distant, landscape
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 - [[knowledge/wiki/images/Illustration Lush Landscape Painting with Trees and Distant Building on Hill e0b352c6|Illustration Lush Landscape Painting with Trees and Distant Building on Hill]] — shared language: distant, landscape
 - [[knowledge/wiki/images/Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings 3c914786|Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings]] — shared language: distant, landscape
-- [[knowledge/wiki/images/Illustration Contour Line Drawing of Kneeling Figure 4d15b5bc|Illustration Contour Line Drawing of Kneeling Figure]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

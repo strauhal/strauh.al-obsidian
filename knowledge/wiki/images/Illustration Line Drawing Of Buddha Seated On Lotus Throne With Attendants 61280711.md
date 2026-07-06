@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/images/Illustration Red Seated Buddha Figure on Lotus Throne with Halo 5492bc5f|Illustration Red Seated Buddha Figure on Lotus Throne with Halo]] — shared language: throne, lotus, buddha
 - [[knowledge/wiki/images/Illustration Seated Buddha on Lotus Throne with Tibetan Script d836495a|Illustration Seated Buddha on Lotus Throne with Tibetan Script]] — shared language: throne, lotus, buddha
 - [[knowledge/wiki/images/Illustration Colorful Thangka Style Painting of Seated Buddha on Lotus Throne with Script 87256af3|Illustration Colorful Thangka Style Painting of Seated Buddha on Lotus Throne with Script]] — shared language: throne, lotus, buddha
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha, throne, lotus
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: buddha, lotus
 <!-- vault-crosslinks:end -->

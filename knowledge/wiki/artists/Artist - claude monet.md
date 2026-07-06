@@ -61,5 +61,5 @@ Images attributed by filename: 13
 - [[knowledge/wiki/images/claude monet the walk argenteuil 1875 1bdbafe1|claude monet the walk argenteuil 1875]] — shared language: monet, claude, argenteuil
 - [[knowledge/wiki/images/claude monet impression sunrise 1872 037f106f|claude monet impression sunrise 1872]] — shared language: monet, claude
 - [[knowledge/wiki/images/Impression, Sunrise by Claude Monet (1872) 005c57cc|Impression, Sunrise by Claude Monet (1872)]] — shared language: monet, claude
-- [[knowledge/wiki/images/Photograph Big Ben and Houses of Parliament at Twilight with Birds 069b0588|Photograph Big Ben and Houses of Parliament at Twilight with Birds]] — shared language: parliament, houses
+- [[knowledge/wiki/images/Big Ben and Houses of Parliament at Twilight with Birds f79a686c|Big Ben and Houses of Parliament at Twilight with Birds]] — shared language: parliament, houses
 <!-- vault-crosslinks:end -->

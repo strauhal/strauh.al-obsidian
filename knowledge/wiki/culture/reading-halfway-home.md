@@ -7,8 +7,8 @@ status: queued
 queue_order: 33
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Halfway Home
@@ -32,7 +32,7 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 
 - [[knowledge/wiki/books/reuben-jonathan-miller-halfway-home-race-punishment-and-the-afterlife-of-mass-incarceration-little-brown-and-company|Halfway Home Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company]] — shared language: halfway, home, reuben
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
-- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: home, links
+- [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: home, links, ernest's
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
 - [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-the-art-spirit|Reading - The Art Spirit]] — shared language: current, stronger, develops

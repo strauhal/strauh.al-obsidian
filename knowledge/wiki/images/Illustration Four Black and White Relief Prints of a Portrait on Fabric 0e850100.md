@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/images/Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric 07b42c57|Illustration Black Line Drawing of Four Figures Dancing on Pink Fabric]] — shared language: fabric, four, fabric.jpeg
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: four
 - [[knowledge/wiki/images/Illustration Black And White Relief Print Of A Hare With Flowers 764bd449|Illustration Black And White Relief Print Of A Hare With Flowers]] — shared language: relief
-- [[knowledge/wiki/images/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief
+- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief
 <!-- vault-crosslinks:end -->

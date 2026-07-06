@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Timeline of Classical Composers by Musical Era.png]]
+![[media/strauh.al3.1/diagrams/Timeline_of_Classical_Composers_by_Musical_Era.png]]
 
 ## Image Notes
 
-- [[Diagram Timeline of Classical Composers by Musical Era f06d7e1d|Diagram Timeline of Classical Composers by Musical Era]]
+- [[Timeline of Classical Composers by Musical Era a0c8f444|Timeline of Classical Composers by Musical Era]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

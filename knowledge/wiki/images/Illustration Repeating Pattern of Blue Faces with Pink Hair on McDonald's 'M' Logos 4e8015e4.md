@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 - [[knowledge/wiki/images/Illustration Textured Turquoise Painting with Repeating Gold Floral Pattern efd4c295|Illustration Textured Turquoise Painting with Repeating Gold Floral Pattern]] — shared language: repeating, pattern
 - [[knowledge/wiki/images/Mai Dang Lao (McDonald's) by Xu Bing (2001) 28afb6d8|Mai Dang Lao (McDonald's) by Xu Bing (2001)]] — shared language: mcdonald's
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
-- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: mcdonald's
 - [[knowledge/wiki/images/Illustration Psychedelic Floral Pattern with Pink and Blue Marbled Background e2950951|Illustration Psychedelic Floral Pattern with Pink and Blue Marbled Background]] — shared language: pattern, pink
+- [[knowledge/wiki/images/Illustration Woman with Dark Hair Against Yellow and Grey Pattern 97bac4c0|Illustration Woman with Dark Hair Against Yellow and Grey Pattern]] — shared language: pattern, hair
 <!-- vault-crosslinks:end -->

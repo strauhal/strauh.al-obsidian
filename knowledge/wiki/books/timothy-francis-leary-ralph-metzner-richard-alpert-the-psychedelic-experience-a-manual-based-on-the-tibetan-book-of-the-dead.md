@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Timothy Francis Leary, Ralph Metzner, Richard Alpert - The Psychedelic Experience_ A Manual Based on the Tibetan Book of the Dead.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead
@@ -44,5 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/leo-bersani-is-the-rectum-a-grave|Is the Rectum a Grave?]] — same category: psychology
-- [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — same category: psychology
+- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — same category: psychology
 <!-- vault-crosslinks:end -->

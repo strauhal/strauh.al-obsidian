@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Nintendo|Artist - Nintendo]] — shared language: nintendo
-- [[knowledge/wiki/images/Photograph Damaged Game Boy on display with informational plaque 8497c4dc|Photograph Damaged Game Boy on display with informational plaque]] — shared language: boy, game
+- [[knowledge/wiki/images/Damaged Game Boy on display with informational plaque 360e9cca|Damaged Game Boy on display with informational plaque]] — shared language: boy, game
 - [[knowledge/wiki/images/Illustration Woman in Underwear Standing in Bedroom, Seen From Behind f2b7e719|Illustration Woman in Underwear Standing in Bedroom, Seen From Behind]] — shared language: underwear
-- [[knowledge/wiki/images/Wii Sports by Nintendo (2006) 82db0ef8|Wii Sports by Nintendo (2006)]] — shared language: nintendo
 - [[knowledge/wiki/images/Untitled (Pocket Drawings) by William Anastasi (1969) 0e1b0eb5|Untitled (Pocket Drawings) by William Anastasi (1969)]] — shared language: pocket
+- [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
 <!-- vault-crosslinks:end -->

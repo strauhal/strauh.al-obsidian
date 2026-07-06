@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Sade Adu Taped To A Wall f8d6fbbf|Photograph Black And White Photograph Of Sade Adu Taped To A Wall]] — shared language: sade
-- [[knowledge/wiki/culture/music-the-best-of-sade|Listening - The Best of Sade]] — shared language: sade
+- [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/maps/books|books]] — shared language: anchor
 <!-- vault-crosslinks:end -->

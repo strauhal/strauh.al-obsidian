@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Modern Lounge with Floor to Ceiling Windows and Terrazzo Floor b246569f|Photograph Modern Lounge with Floor to Ceiling Windows and Terrazzo Floor]] — shared language: terrazzo, lounge, floor
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern, view
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around, small
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor, view
-- [[knowledge/wiki/images/Photograph Five Dancers in Black Leotards on a Wooden Floor 0f6297a8|Photograph Five Dancers in Black Leotards on a Wooden Floor]] — shared language: floor, wooden, five
+- [[knowledge/wiki/images/Modern Auditorium Interior with Swirling Textured Ceiling and Green Floor 2c92db87|Modern Auditorium Interior with Swirling Textured Ceiling and Green Floor]] — shared language: floor, ceiling, modern
 <!-- vault-crosslinks:end -->

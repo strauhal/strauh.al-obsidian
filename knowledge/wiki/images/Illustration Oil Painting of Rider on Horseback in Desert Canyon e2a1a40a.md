@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/images/Illustration Native American Rider On Horseback With Tipis At Sunset 9c26a078|Illustration Native American Rider On Horseback With Tipis At Sunset]] — shared language: rider, horseback
 - [[knowledge/wiki/images/Illustration Pixel Art of a Dark Rider on Horseback in a Retro Window eadd72a4|Illustration Pixel Art of a Dark Rider on Horseback in a Retro Window]] — shared language: rider, horseback
+- [[knowledge/wiki/images/Rider On Horseback Herding Cattle In Deep Snow 86458c0c|Rider On Horseback Herding Cattle In Deep Snow]] — shared language: rider, horseback
 - [[knowledge/wiki/images/Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape f4ad718e|Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape]] — shared language: canyon, desert
-- [[knowledge/wiki/images/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: rider, horseback
 <!-- vault-crosslinks:end -->

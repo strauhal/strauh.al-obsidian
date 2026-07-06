@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: various
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
-- [[knowledge/wiki/images/Image Grid of M and M's Characters and Various Music Album Covers 650b70ca|Image Grid of M and M's Characters and Various Music Album Covers]] — shared language: various, characters
+- [[knowledge/wiki/images/Illustration Four Pencil Sketches of a Cartoon Skunk Character 5af40d26|Illustration Four Pencil Sketches of a Cartoon Skunk Character]] — shared language: sketches, pencil
 <!-- vault-crosslinks:end -->

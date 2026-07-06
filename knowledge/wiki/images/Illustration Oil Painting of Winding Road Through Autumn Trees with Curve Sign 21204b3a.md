@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/images/Illustration Winding Road Through Golden Fields Under Dark Sky 4bc8388d|Illustration Winding Road Through Golden Fields Under Dark Sky]] — shared language: winding, road
 - [[knowledge/wiki/images/Photograph Winding Road Through Sunlit Forest with Hazy Light 7c3c76bc|Photograph Winding Road Through Sunlit Forest with Hazy Light]] — shared language: winding, road
 - [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: sign, road
-- [[knowledge/wiki/images/Photograph Outdoor View With Trees, Road, And Prism Light Effect 32bb4b8b|Photograph Outdoor View With Trees, Road, And Prism Light Effect]] — shared language: road, trees
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

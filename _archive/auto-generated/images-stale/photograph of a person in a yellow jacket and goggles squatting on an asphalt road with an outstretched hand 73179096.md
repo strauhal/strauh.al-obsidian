@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Person in Yellow Jacket and Goggles Squatting on Road 42667225|Photograph Person in Yellow Jacket and Goggles Squatting on Road]] — shared language: squatting, goggles, jacket
 - [[_archive/auto-generated/images-stale/red figure wearing yellow goggles against a blue background 66556983|red figure wearing yellow goggles against a blue background]] — shared language: goggles, yellow
 - [[_archive/auto-generated/images-stale/photograph of white liquid streaks flowing down dark asphalt road 281e77ab|photograph of white liquid streaks flowing down dark asphalt road]] — shared language: asphalt, road
-- [[knowledge/wiki/images/Photograph White Liquid Streaks Flowing Down Dark Asphalt Road 449d5f07|Photograph White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: asphalt, road
-- [[_archive/auto-generated/images-stale/photograph of a man in a yellow jacket pointing forward e2f6ba4c|photograph of a man in a yellow jacket pointing forward]] — shared language: jacket, yellow
+- [[_archive/auto-generated/images-stale/Photograph White Liquid Streaks Flowing Down Dark Asphalt Road 449d5f07|Photograph White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: asphalt, road
+- [[knowledge/wiki/images/White Liquid Streaks Flowing Down Dark Asphalt Road 7b417100|White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: asphalt, road
 <!-- vault-crosslinks:end -->

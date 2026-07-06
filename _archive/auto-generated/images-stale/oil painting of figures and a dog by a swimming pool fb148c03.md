@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — named in this note
 - [[_archive/auto-generated/artists-noise/Artist - a swimming pool|Artist - a swimming pool]] — shared language: swimming, pool, dog
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-swimming-pool|Artist - a swimming pool]] — shared language: swimming, pool
-- [[knowledge/wiki/images/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool, pool.jpeg
-- [[knowledge/wiki/images/Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections 8eaa733d|Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections]] — shared language: swimming, pool
+- [[knowledge/wiki/images/Man in Yellow Shorts Sitting by a Swimming Pool f47c4773|Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool, pool.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool, pool.jpeg
 <!-- vault-crosslinks:end -->

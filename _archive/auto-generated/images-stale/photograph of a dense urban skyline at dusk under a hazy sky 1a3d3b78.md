@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph Dense Urban Skyline at Dusk Under Hazy Sky 2b7bf112|Photograph Dense Urban Skyline at Dusk Under Hazy Sky]] — shared language: hazy, dusk, skyline
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, skyline, sky
+- [[knowledge/wiki/images/Photograph Dense Urban Skyline at Dusk Under Hazy Sky 2b7bf112|Photograph Dense Urban Skyline at Dusk Under Hazy Sky]] — shared language: hazy, dusk, urban
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, dense
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees against a pale sky at dusk|Artist - trees against a pale sky at dusk]] — shared language: dusk, sky
 - [[knowledge/wiki/images/Illustration Stylized City Skyline and Highway with Cars at Dusk 03e9f154|Illustration Stylized City Skyline and Highway with Cars at Dusk]] — shared language: dusk, skyline
+- [[knowledge/wiki/images/Illustration Photograph of an Upside Down Car Floating in a Hazy Sky 2b3086cb|Illustration Photograph of an Upside Down Car Floating in a Hazy Sky]] — shared language: hazy, sky, sky.jpeg
 <!-- vault-crosslinks:end -->

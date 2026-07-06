@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: signs
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: esoteric
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: signs
 - [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: esoteric
+- [[knowledge/wiki/images/Illustration Two Black and White Esoteric Diagrams with Astrological and Alchemical Symbols 28ca8124|Illustration Two Black and White Esoteric Diagrams with Astrological and Alchemical Symbols]] — shared language: esoteric
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
 <!-- vault-crosslinks:end -->

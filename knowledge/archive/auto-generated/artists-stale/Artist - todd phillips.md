@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Todd Phillips|Artist - Todd Phillips]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - todd phillips 2019|Artist - todd phillips 2019]] — named in this note
 - [[_archive/auto-generated/images-stale/joker by todd phillips 2019 cdc28118|joker by todd phillips 2019]] — shared language: phillips, todd, joker
 - [[knowledge/archive/auto-generated/artists-stale/Artist - todd hido|Artist - todd hido]] — shared language: todd
 - [[knowledge/archive/auto-generated/artists-stale/Artist - todd hido 2013|Artist - todd hido 2013]] — shared language: todd
 - [[_archive/auto-generated/images-stale/4 bros liquor 4 san bernardino ca by todd hido 2013 4263df13|4 bros liquor 4 san bernardino ca by todd hido 2013]] — shared language: todd
-- [[knowledge/wiki/images/The School Bus by John Falter (1950) 7a8e8329|The School Bus by John Falter (1950)]] — shared language: bus
 <!-- vault-crosslinks:end -->

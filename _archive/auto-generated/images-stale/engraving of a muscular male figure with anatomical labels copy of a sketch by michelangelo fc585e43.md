@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Engraving of Muscular Male Figure with Anatomical Labels 115f1063|Illustration Engraving of Muscular Male Figure with Anatomical Labels]] — named in this note
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: labels, anatomical
 - [[knowledge/wiki/images/Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels 4040d86d|Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels]] — shared language: labels, anatomical, male
 - [[_archive/auto-generated/images-stale/img 1245 copy jpg fb3870e0|img 1245 copy jpg]] — shared language: copy
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving

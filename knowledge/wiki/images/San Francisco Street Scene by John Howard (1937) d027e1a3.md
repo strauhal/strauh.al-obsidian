@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/San Francisco St
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco, street
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/artists/Artist - Edward Howard|Artist - Edward Howard]] — shared language: howard
 <!-- vault-crosslinks:end -->

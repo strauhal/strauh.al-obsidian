@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Four-
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: comic, four, panel
-- [[knowledge/wiki/images/Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments 0a60c25e|Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments]] — shared language: comic, four, panel
 - [[knowledge/wiki/images/Comic Four Panel Comic Comparing Stone Age Figure to Modern Woman d518459a|Comic Four Panel Comic Comparing Stone Age Figure to Modern Woman]] — shared language: comic, four, panel
+- [[knowledge/wiki/images/Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments 0a60c25e|Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments]] — shared language: comic, four, panel
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 <!-- vault-crosslinks:end -->

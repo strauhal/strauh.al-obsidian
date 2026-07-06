@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/calvin 26e16bc1|calvin]] — named in this note
 - [[knowledge/wiki/images/Comic Adult Calvin and Hobbes Parody Comic Strip with Rabbit bb156033|Comic Adult Calvin and Hobbes Parody Comic Strip with Rabbit]] — shared language: parody, adult, hobbes
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, calvin
-- [[knowledge/wiki/images/calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]] — shared language: hobbes, calvin, strip
-- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: hobbes, calvin, strip
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: hobbes, calvin, strip
+- [[_archive/auto-generated/images-stale/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — shared language: hobbes, calvin, strip
 <!-- vault-crosslinks:end -->

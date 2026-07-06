@@ -2,8 +2,8 @@
 title: Map - Current Reading
 type: map
 tags: [map, culture, reading, queue]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - Current Reading
@@ -58,6 +58,6 @@ Entries: 36
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — named in this note
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — named in this note
+- [[knowledge/wiki/anchors/reuben-jonathan-miller|Reuben Jonathan Miller]] — named in this note
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — named in this note
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — named in this note
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Luke Caldwell Schizophrenizing Lacan]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Luke_Caldwell_Schizophrenizing_Lacan.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Schizophrenizing Lacan

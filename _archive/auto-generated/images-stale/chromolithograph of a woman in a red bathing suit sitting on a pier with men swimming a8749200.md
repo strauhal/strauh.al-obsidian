@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Woman in Red Bathing Suit on Pier with Men Swimming d8aba314|Illustration Woman in Red Bathing Suit on Pier with Men Swimming]] — shared language: bathing, pier, swimming
-- [[knowledge/wiki/images/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, sitting
+- [[knowledge/wiki/images/Man in Yellow Shorts Sitting by a Swimming Pool f47c4773|Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, sitting
+- [[_archive/auto-generated/images-stale/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, sitting
+- [[knowledge/wiki/images/Man Sitting On Chair Underwater In Swimming Pool 7ddb39c8|Man Sitting On Chair Underwater In Swimming Pool]] — shared language: swimming, sitting
 - [[_archive/auto-generated/artists-noise/Artist - a swimming pool|Artist - a swimming pool]] — shared language: swimming
-- [[_archive/auto-generated/images-stale/large painting of baptism or ritual bathing in a river a9ec2c0c|large painting of baptism or ritual bathing in a river]] — shared language: bathing
-- [[_archive/auto-generated/images-stale/framed orange abstract painting with swimming figures 40846125|framed orange abstract painting with swimming figures]] — shared language: swimming
 <!-- vault-crosslinks:end -->

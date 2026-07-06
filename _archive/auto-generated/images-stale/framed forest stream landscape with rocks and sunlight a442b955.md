@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed colorful landscape painting with stream and garden 75c5b9ee|framed colorful landscape painting with stream and garden]] — shared language: stream, framed, landscape
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
-- [[knowledge/wiki/images/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: sunlight, forest
+- [[_archive/auto-generated/images-stale/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: sunlight, forest
+- [[knowledge/wiki/images/Snowy Forest with Bare Trees and Sunlight on Ground d8bc26a9|Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: sunlight, forest
 - [[knowledge/wiki/images/Illustration Ornate Interior With Figure Seated In Sunlight b66c58e5|Illustration Ornate Interior With Figure Seated In Sunlight]] — shared language: sunlight, sunlight.jpeg
-- [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
 <!-- vault-crosslinks:end -->

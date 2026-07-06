@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Woman in a Striped Dress by Egon Schiele (1915) 4dc636a8|Woman in a Striped Dress by Egon Schiele (1915)]] — shared language: striped, dress
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
-- [[knowledge/wiki/images/Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait ad61f95b|Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait]] — shared language: hat, dress
+- [[knowledge/wiki/images/Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait 624ca5e8|Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait]] — shared language: hat, dress
 <!-- vault-crosslinks:end -->

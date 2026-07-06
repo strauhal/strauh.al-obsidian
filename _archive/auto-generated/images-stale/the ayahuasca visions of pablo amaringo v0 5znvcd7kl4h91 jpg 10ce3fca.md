@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo amaringo 2008|Artist - pablo amaringo 2008]] — shared language: amaringo, pablo
 - [[_archive/auto-generated/images-stale/acagalleries pablo amaringo allpa manchari 2005 webp f0ddd113|acagalleries pablo amaringo allpa manchari 2005 webp]] — shared language: amaringo, pablo
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo amaringo|Artist - Pablo Amaringo]] — shared language: amaringo, pablo
-- [[_archive/auto-generated/images-stale/pablo amaringo pinturas y visiones de la selva amazonica 02 jpg dac0d228|pablo amaringo pinturas y visiones de la selva amazonica 02 jpg]] — shared language: amaringo, pablo, jpg.jpg
+- [[knowledge/wiki/artists/Artist - Pablo Amaringo|Artist - Pablo Amaringo]] — shared language: amaringo, pablo
 <!-- vault-crosslinks:end -->

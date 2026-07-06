@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Hanging Gard
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Sleepers by Ferdinand Hodler (1907) 0728bb9c|The Sleepers by Ferdinand Hodler (1907)]] — shared language: ferdinand
-- [[knowledge/wiki/images/The Gardens of Aedena by Jean Giraud (Moebius) (1988) 300a48d6|The Gardens of Aedena by Jean Giraud (Moebius) (1988)]] — shared language: gardens
 - [[knowledge/wiki/images/the whore of babylon by michael wolgemut and wilhelm pleydenwurff 1493 de0a6a0e|the whore of babylon by michael wolgemut and wilhelm pleydenwurff 1493]] — shared language: babylon
+- [[knowledge/wiki/images/The Gardens of Aedena by Jean Giraud (Moebius) (1988) 300a48d6|The Gardens of Aedena by Jean Giraud (Moebius) (1988)]] — shared language: gardens
 - [[knowledge/wiki/images/The Temptation of Christ by Ludwig Ferdinand Schnorr von Carolsfeld (1847) a849638e|The Temptation of Christ by Ludwig Ferdinand Schnorr von Carolsfeld (1847)]] — shared language: ferdinand
 - [[knowledge/wiki/images/the whore of babylon from the apocalypse series by albrecht durer c 1498 acb022a0|the whore of babylon from the apocalypse series by albrecht durer c 1498]] — shared language: babylon
 <!-- vault-crosslinks:end -->

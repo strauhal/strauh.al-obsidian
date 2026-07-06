@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Nicolas Slonimsky - Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books (1987).pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books

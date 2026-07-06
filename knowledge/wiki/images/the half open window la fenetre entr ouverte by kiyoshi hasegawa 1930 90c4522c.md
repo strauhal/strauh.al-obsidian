@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_half_open_wi
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face 1bf392d3|Illustration Black And White Pixel Art Of A Half Human, Half Circuit Face]] — shared language: half
-- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
+- [[knowledge/wiki/images/Woman Half Dressed In White Suit And Half In Knight Armor bed3ba6e|Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: window
-- [[knowledge/wiki/images/Photograph Woman Half Dressed In White Suit And Half In Knight Armor 8e70c66a|Photograph Woman Half Dressed In White Suit And Half In Knight Armor]] — shared language: half
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson c431e9ad|Comic Calvin And Hobbes With Globe And Raft In Forest by Bill Watterson]] — same artist: bill watterson
-- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — same artist: bill watterson
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — same artist: bill watterson
+- [[_archive/auto-generated/images-stale/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — same artist: bill watterson
 - [[knowledge/wiki/images/calvin and hobbes january 31 1993 by bill watterson 1993 489d0d26|calvin and hobbes january 31 1993 by bill watterson 1993]] — same artist: bill watterson
 - [[knowledge/wiki/images/calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]] — same artist: bill watterson
-- [[knowledge/wiki/images/when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986 ab03e280|when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986]] — same artist: bill watterson
 <!-- vault-crosslinks:end -->

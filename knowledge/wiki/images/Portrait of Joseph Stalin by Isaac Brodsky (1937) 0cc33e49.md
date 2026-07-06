@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Portrait of Jose
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Joseph Stalin Before and After Photo Manipulation ccf71e39|Photograph Joseph Stalin Before and After Photo Manipulation]] — shared language: stalin, joseph
+- [[knowledge/wiki/images/Joseph Stalin Before and After Photo Manipulation 11e2e0b4|Joseph Stalin Before and After Photo Manipulation]] — shared language: stalin, joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/images/isaac levitan above eternal peace 1894 b4586498|isaac levitan above eternal peace 1894]] — shared language: isaac
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
-- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
+- [[knowledge/wiki/images/portrait of sir isaac newton 1689 brightened jpg 366c34a3|portrait of sir isaac newton 1689 brightened jpg]] — shared language: isaac
 <!-- vault-crosslinks:end -->

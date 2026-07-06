@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman in Black Techwear Standing in Urban Park 13ba06b6|Photograph Woman in Black Techwear Standing in Urban Park]] — shared language: techwear, urban, park
+- [[_archive/auto-generated/images-stale/Photograph Woman in Black Techwear Standing in Urban Park 13ba06b6|Photograph Woman in Black Techwear Standing in Urban Park]] — shared language: techwear, urban, park
+- [[knowledge/wiki/images/Woman in Black Techwear Standing in Urban Park 55fc0e4c|Woman in Black Techwear Standing in Urban Park]] — shared language: techwear, urban, park
 - [[_archive/auto-generated/images-stale/black and white photographic spread featuring two portraits of a young man in dark clothing standing in a narrow urban alleyway with japanese signage f3d43b75|black and white photographic spread featuring two portraits of a young man in dark clothing standing in a narrow urban alleyway with japanese signage]] — shared language: clothing, urban, standing
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park, park.jpeg
-- [[knowledge/wiki/images/Photograph Four People In Blue Tracksuits With Foam Shapes On City Walkway 4bb13102|Photograph Four People In Blue Tracksuits With Foam Shapes On City Walkway]] — shared language: walkway
-- [[knowledge/wiki/images/Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky 6a762a20|Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: paved
+- [[knowledge/wiki/images/Paved Road and Sidewalk with Green Hills Under Blue Sky aa92c13c|Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: paved
 <!-- vault-crosslinks:end -->

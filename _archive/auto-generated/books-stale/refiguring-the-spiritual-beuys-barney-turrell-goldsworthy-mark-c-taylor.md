@@ -41,6 +41,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — same category: art aesthetics
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — same category: art aesthetics
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — same category: art aesthetics
-- [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — same category: art aesthetics
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
+- [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

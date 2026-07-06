@@ -20,8 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - juck juck grunzie|Artist - Juck Juck Grunzie]] — named in this note
+- [[knowledge/wiki/artists/Artist - Juck Juck Grunzie|Artist - Juck Juck Grunzie]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - juck juck grunzie|Artist - Juck Juck Grunzie]] — shared language: juck, grunzie
 - [[knowledge/wiki/images/Illustration Woman Playing Synthesizer Connected to Radio Tower by Juck Juck Grunzie f39295dc|Illustration Woman Playing Synthesizer Connected to Radio Tower by Juck Juck Grunzie]] — shared language: juck, grunzie
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: juck
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: juck
 <!-- vault-crosslinks:end -->

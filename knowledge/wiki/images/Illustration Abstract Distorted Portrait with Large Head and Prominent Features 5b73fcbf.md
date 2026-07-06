@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: distorted
 - [[knowledge/wiki/images/Illustration Misty Mountain Valley with Prominent Tree in Foreground f3739480|Illustration Misty Mountain Valley with Prominent Tree in Foreground]] — shared language: prominent
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Distorted Black Grid on White 70b7ca84|Illustration Textured Abstract Painting of Distorted Black Grid on White]] — shared language: distorted
-- [[knowledge/wiki/images/Illustration Distorted Colorful Words on a White Background 1f297fd3|Illustration Distorted Colorful Words on a White Background]] — shared language: distorted
+- [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: features
 <!-- vault-crosslinks:end -->

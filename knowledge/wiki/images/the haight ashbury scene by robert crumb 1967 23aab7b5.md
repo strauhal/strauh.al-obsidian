@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_haight_ashbu
 ## Discovered Connections
 
 - [[knowledge/wiki/images/getting out of the car by robert crumb 1970 5bdf165f|getting out of the car by robert crumb 1970]] — same artist: robert crumb
-- [[knowledge/wiki/images/drawing cartoons is fun by robert crumb 1969 4eb5dd20|drawing cartoons is fun by robert crumb 1969]] — same artist: robert crumb
 - [[knowledge/wiki/images/Comic Man Arguing With An Eye About Drawing by Robert Crumb 48e2b1fe|Comic Man Arguing With An Eye About Drawing by Robert Crumb]] — same artist: robert crumb
+- [[knowledge/wiki/images/drawing cartoons is fun by robert crumb 1969 4eb5dd20|drawing cartoons is fun by robert crumb 1969]] — same artist: robert crumb
 - [[knowledge/wiki/images/the religious experience of philip k dick by robert crumb 1986 56c1dd4c|the religious experience of philip k dick by robert crumb 1986]] — same artist: robert crumb
 - [[knowledge/wiki/images/Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb a249b5d7|Illustration Pen and Ink Self Portrait with Thought Bubble. by Robert Crumb]] — same artist: robert crumb
 <!-- vault-crosslinks:end -->

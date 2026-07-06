@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows 8b01490f|Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows]] — shared language: cubes, arrows, perspective
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: arrows
 - [[knowledge/wiki/images/Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines 4eddf114|Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines]] — shared language: perspective, sketch
 - [[_archive/auto-generated/images-stale/ink sketch of a figure drawing a barn and mountains using perspective lines b556ba63|ink sketch of a figure drawing a barn and mountains using perspective lines]] — shared language: perspective, sketch
-- [[_archive/auto-generated/images-stale/black and white arcade perspective drawing with figure 52661389|black and white arcade perspective drawing with figure]] — shared language: perspective
 <!-- vault-crosslinks:end -->

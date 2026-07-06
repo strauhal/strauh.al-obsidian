@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - lewis hine|Artist - lewis hine]] — named in this note
+- [[knowledge/wiki/images/Man Working on Large Industrial Machine with Wrench by Lewis Hine 40490091|Man Working on Large Industrial Machine with Wrench by Lewis Hine]] — shared language: hine, lewis
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: lewis
 - [[_archive/auto-generated/images-stale/pink illustration of three women smoking 3494a2cf|pink illustration of three women smoking]] — shared language: smoking, three
 - [[knowledge/wiki/images/Illustration Surreal Black And White Ink Drawing Of Smoking Figures 6005cb96|Illustration Surreal Black And White Ink Drawing Of Smoking Figures]] — shared language: smoking
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three
-- [[_archive/auto-generated/images-stale/digital painting of a person drinking and smoking 39b04b4e|digital painting of a person drinking and smoking]] — shared language: smoking
 <!-- vault-crosslinks:end -->

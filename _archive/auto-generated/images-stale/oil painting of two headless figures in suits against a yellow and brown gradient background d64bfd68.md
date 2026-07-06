@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Two Headless Figures In Suits Against Gradient Background 28665850|Illustration Two Headless Figures In Suits Against Gradient Background]] — shared language: headless, suits, gradient
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: oil, against, yellow
-- [[_archive/auto-generated/images-stale/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, against, background
 - [[_archive/auto-generated/images-stale/oil painting style portrait of a man in a suit against a black background d0277148|oil painting style portrait of a man in a suit against a black background]] — shared language: oil, against, background
+- [[_archive/auto-generated/images-stale/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: oil, against, background
 - [[_archive/auto-generated/images-stale/oil painting of red and yellow roses in a glass vase against a golden background bce917b5|oil painting of red and yellow roses in a glass vase against a golden background]] — shared language: oil, against, yellow
 <!-- vault-crosslinks:end -->

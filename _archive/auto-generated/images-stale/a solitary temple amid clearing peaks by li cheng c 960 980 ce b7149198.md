@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
-- [[_archive/auto-generated/images-stale/black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure dd4ef4dd|black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure]] — shared language: clearing
+- [[_archive/auto-generated/images-stale/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
+- [[knowledge/wiki/images/Woman In White Dress In Wooded Clearing Near Structure 815527cd|Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing
 - [[knowledge/wiki/books/yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]] — shared language: temple
+- [[_archive/auto-generated/images-stale/black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure dd4ef4dd|black and white photograph of a woman in a white dress standing in a wooded clearing near a small structure]] — shared language: clearing
 - [[_archive/auto-generated/images-stale/framed mountain landscape with road and distant peaks 5d6465ba|framed mountain landscape with road and distant peaks]] — shared language: peaks
-- [[knowledge/wiki/images/Photograph Mountain Information Sign in Grassy Field with Snowy Peaks a016b539|Photograph Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: peaks
 <!-- vault-crosslinks:end -->

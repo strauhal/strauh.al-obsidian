@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert vancas|Artist - Robert Vancas]] — named in this note
+- [[knowledge/wiki/artists/Artist - Robert Vancas|Artist - Robert Vancas]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - robert vancas|Artist - Robert Vancas]] — shared language: vancas, robert
 - [[knowledge/wiki/images/Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas 0932adc5|Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas]] — shared language: vancas, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: robert
 <!-- vault-crosslinks:end -->

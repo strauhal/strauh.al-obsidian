@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Bathers by Joaqu n Sorolla (1897) d88cab43|The Bathers by Joaqu n Sorolla (1897)]] — shared language: bathers
-- [[knowledge/archive/auto-generated/anchors-stale/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — shared language: cherubs
 - [[_archive/auto-generated/artists-noise/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs
 - [[knowledge/archive/auto-generated/artists-stale/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs
+- [[knowledge/archive/auto-generated/anchors-stale/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — shared language: cherubs
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical
 <!-- vault-crosslinks:end -->

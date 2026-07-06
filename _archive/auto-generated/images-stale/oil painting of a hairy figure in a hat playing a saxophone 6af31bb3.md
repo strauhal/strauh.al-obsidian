@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/oil painting of a seated young man in a pink shirt holding a hat 8c653e67|oil painting of a seated young man in a pink shirt holding a hat]] — shared language: hat, oil
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: hat
 - [[_archive/auto-generated/images-stale/oil painting of a woman in a lime green tunic white hat and striped leggings bebd11ae|oil painting of a woman in a lime green tunic white hat and striped leggings]] — shared language: hat, oil
-- [[_archive/auto-generated/images-stale/framed still life with mandolin hat and paper e14c4d44|framed still life with mandolin hat and paper]] — shared language: hat
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: playing
 <!-- vault-crosslinks:end -->

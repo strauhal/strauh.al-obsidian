@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - agnes packard|Artist - agnes packard]] — shared language: packard
 - [[knowledge/wiki/images/strawberry picker by agnes packard 1970 2569c788|strawberry picker by agnes packard 1970]] — shared language: packard
 - [[knowledge/wiki/artists/Artist - emmy lou packard|Artist - emmy lou packard]] — shared language: packard
-- [[knowledge/wiki/images/Photograph Hewlett Packard Spaceball 3D Input Device ba42b4b2|Photograph Hewlett Packard Spaceball 3D Input Device]] — shared language: packard
+- [[knowledge/wiki/images/Hewlett Packard Spaceball 3D Input Device 2c2b9f2f|Hewlett Packard Spaceball 3D Input Device]] — shared language: packard
 - [[knowledge/wiki/images/strawberry pickers near pescadero by emmy lou packard 1945 0dfb3bfe|strawberry pickers near pescadero by emmy lou packard 1945]] — shared language: packard
 <!-- vault-crosslinks:end -->

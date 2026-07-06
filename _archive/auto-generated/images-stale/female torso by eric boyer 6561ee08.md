@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Female Torso In Straps 282783a9|Photograph Black And White Photograph Of Female Torso In Straps]] — shared language: torso, female
 - [[knowledge/wiki/artists/Artist - eric fischl|Artist - eric fischl]] — shared language: eric
 - [[knowledge/archive/auto-generated/artists-stale/Artist - eric fischl 1991|Artist - eric fischl 1991]] — shared language: eric
-- [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: eric
+- [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
 <!-- vault-crosslinks:end -->

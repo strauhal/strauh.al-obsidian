@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Two Veiled Men Holding Hands Standing Barefoot Against Wall 1192dc62|Photograph Two Veiled Men Holding Hands Standing Barefoot Against Wall]] — shared language: men, standing, wall
 - [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, men
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
-- [[knowledge/wiki/images/Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall bfdbe85b|Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall]] — shared language: standing, wall, against
+- [[_archive/auto-generated/images-stale/Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall bfdbe85b|Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall]] — shared language: standing, wall, against
 <!-- vault-crosslinks:end -->

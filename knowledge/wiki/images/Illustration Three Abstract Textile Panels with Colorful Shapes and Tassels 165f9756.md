@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms 994a4a17|Illustration Abstract Painting with Black Calligraphic Shapes and Colorful Forms]] — shared language: shapes, colorful
 - [[knowledge/wiki/images/Illustration Three Pixel Art Panels Landscape, Building, and Roses 412449a4|Illustration Three Pixel Art Panels Landscape, Building, and Roses]] — shared language: panels, three
-- [[knowledge/wiki/images/Photograph Close up of a colorful woven textile with fabric strips 3e3253ae|Photograph Close up of a colorful woven textile with fabric strips]] — shared language: textile, colorful
+- [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: shapes, colorful
 <!-- vault-crosslinks:end -->

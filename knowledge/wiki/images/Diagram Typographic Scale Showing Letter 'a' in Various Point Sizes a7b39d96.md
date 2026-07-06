@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Typogr
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, various, showing
 - [[knowledge/wiki/books/open-letter|open letter]] — shared language: letter
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, various
 - [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: typographic
-- [[knowledge/wiki/images/Photograph DECtalk DTC01 with Cat for Scale 09a20f16|Photograph DECtalk DTC01 with Cat for Scale]] — shared language: scale
-- [[knowledge/wiki/images/Diagram Diagram Showing Perceived Shapes Under Various Substance Influences d5ddaa2a|Diagram Diagram Showing Perceived Shapes Under Various Substance Influences]] — shared language: various, showing, diagram
+- [[knowledge/wiki/images/Diagram Showing Perceived Shapes Under Various Substance Influences 32cefe42|Diagram Showing Perceived Shapes Under Various Substance Influences]] — shared language: various, showing, diagram
+- [[knowledge/wiki/images/Illustration Typographic Portrait of a Person with a Flat Top Haircut 3d12047b|Illustration Typographic Portrait of a Person with a Flat Top Haircut]] — shared language: typographic
 <!-- vault-crosslinks:end -->

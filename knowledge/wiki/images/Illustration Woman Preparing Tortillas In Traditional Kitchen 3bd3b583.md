@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: traditional
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
-- [[knowledge/wiki/images/Photograph Dense Cityscape with Traditional and Modern Buildings 5f18df01|Photograph Dense Cityscape with Traditional and Modern Buildings]] — shared language: traditional
-- [[knowledge/wiki/images/The Cat and the Kitchen Sink by David Hockney (1990) b7991454|The Cat and the Kitchen Sink by David Hockney (1990)]] — shared language: kitchen
-- [[knowledge/wiki/images/Photograph Modern Kitchen Interior with Panoramic Window View 560b9ad4|Photograph Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
+- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: traditional
+- [[knowledge/wiki/images/Illustration Blue and White Ceramic Soda Cans with Traditional Patterns 67d3630c|Illustration Blue and White Ceramic Soda Cans with Traditional Patterns]] — shared language: traditional
+- [[knowledge/wiki/images/Modern Kitchen Interior with Panoramic Window View 2b45032c|Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen
 <!-- vault-crosslinks:end -->

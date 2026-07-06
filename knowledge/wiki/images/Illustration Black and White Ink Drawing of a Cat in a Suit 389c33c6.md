@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 - [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink
 <!-- vault-crosslinks:end -->

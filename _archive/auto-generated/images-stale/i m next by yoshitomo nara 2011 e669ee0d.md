@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - yoshitomo nara 2011|Artist - yoshitomo nara 2011]] — named in this note
 - [[knowledge/wiki/images/rain at the toshodaiji temple nara by kawase hasui 1930 44a7f8bf|rain at the toshodaiji temple nara by kawase hasui 1930]] — shared language: nara
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next
-- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: next
-- [[knowledge/wiki/images/Photograph Woman in Kimono Seated Next to a Piano a1d4d44c|Photograph Woman in Kimono Seated Next to a Piano]] — shared language: next
+- [[_archive/auto-generated/images-stale/Photograph Woman in Kimono Seated Next to a Piano a1d4d44c|Photograph Woman in Kimono Seated Next to a Piano]] — shared language: next
+- [[knowledge/wiki/images/Woman in Kimono Seated Next to a Piano af0f1470|Woman in Kimono Seated Next to a Piano]] — shared language: next
 <!-- vault-crosslinks:end -->

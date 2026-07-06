@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/sanford_robinson
 - [[knowledge/wiki/artists/Artist - theodore robinson about|Artist - theodore robinson about]] — shared language: robinson
 - [[knowledge/wiki/artists/Artist - aminah robinson|Artist - aminah robinson]] — shared language: robinson
 - [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: mountain, landscape
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
+- [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: mountain, landscape
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/images/Photograph Man Singing Into Microphone At Concert With Goat In Audience 6fb0af02|Photograph Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: goat, singing, microphone
+- [[knowledge/wiki/images/Man Singing Into Microphone At Concert With Goat In Audience 1c252d8e|Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: goat, singing, microphone
+- [[_archive/auto-generated/images-stale/Photograph Man Singing Into Microphone At Concert With Goat In Audience 6fb0af02|Photograph Man Singing Into Microphone At Concert With Goat In Audience]] — shared language: goat, singing, microphone
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: audience
-- [[knowledge/wiki/images/Photograph Audience Recording Concert with Handheld Console and Phones 73a33e6e|Photograph Audience Recording Concert with Handheld Console and Phones]] — shared language: concert, audience
-- [[_archive/auto-generated/images-stale/drawing of a laptop microphone and charger 5637f5d6|drawing of a laptop microphone and charger]] — shared language: microphone
+- [[knowledge/wiki/images/Audience Recording Concert with Handheld Console and Phones f525ed08|Audience Recording Concert with Handheld Console and Phones]] — shared language: concert, audience
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Gro
 
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/images/Illustration Black and White Ink Sketch of a Bus on a Dirt Path 8be5ad46|Illustration Black and White Ink Sketch of a Bus on a Dirt Path]] — shared language: dirt, path.jpg
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: group, people
-- [[knowledge/wiki/images/Photograph Large Crowd Of People Walking Along A Road 01e93acd|Photograph Large Crowd Of People Walking Along A Road]] — shared language: walking, people
-- [[knowledge/wiki/images/Photograph Group of Young People Posing Outdoors at Night a3c20dff|Photograph Group of Young People Posing Outdoors at Night]] — shared language: group, people
+- [[knowledge/wiki/images/Large Group Of People Posing For A Selfie 08232790|Large Group Of People Posing For A Selfie]] — shared language: group, people
+- [[knowledge/wiki/images/Group of Young People Posing Outdoors at Night ad97072b|Group of Young People Posing Outdoors at Night]] — shared language: group, people
+- [[knowledge/wiki/images/Large Crowd Of People Walking Along A Road b64eda4f|Large Crowd Of People Walking Along A Road]] — shared language: walking, people
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Elderly Man Drawing Anime Girl on Digital Tablet dfed7a3e|Illustration Elderly Man Drawing Anime Girl on Digital Tablet]] — shared language: elderly, anime, girl
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl
+- [[_archive/auto-generated/images-stale/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: anime
 <!-- vault-crosslinks:end -->

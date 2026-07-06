@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_of_florence
 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: florence, ludwig
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — shared language: ludwig
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/Self Portrait by Florence Henri (1928) e010e059|Self Portrait by Florence Henri (1928)]] — shared language: florence
 - [[knowledge/wiki/images/Self Portrait by Florence Henri (1928) (2) feeeeb99|Self Portrait by Florence Henri (1928) (2)]] — shared language: florence
 <!-- vault-crosslinks:end -->

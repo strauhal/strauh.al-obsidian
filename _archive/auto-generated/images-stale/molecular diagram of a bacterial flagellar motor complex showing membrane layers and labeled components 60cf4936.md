@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Molecular Diagram of a Bacterial Flagellar Motor f4aaf85b|Illustration Detailed Molecular Diagram of a Bacterial Flagellar Motor]] — shared language: bacterial, flagellar, molecular
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, complex, showing
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex, diagram
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: layers
-- [[knowledge/wiki/images/Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure fad9e89f|Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, diagram
+- [[_archive/auto-generated/images-stale/Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure fad9e89f|Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, diagram
 - [[_archive/auto-generated/images-stale/molecular diagram of a symmetrical pink and yellow protein structure a02e3c0e|molecular diagram of a symmetrical pink and yellow protein structure]] — shared language: molecular, diagram
 <!-- vault-crosslinks:end -->

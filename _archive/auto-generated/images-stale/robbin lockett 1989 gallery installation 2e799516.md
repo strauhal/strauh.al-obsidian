@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/richard saltoun gallery abstract print fee89336|richard saltoun gallery abstract print]] — shared language: gallery
 - [[_archive/auto-generated/images-stale/installation view of gallery with black and white patterned artworks d8c2f66f|installation view of gallery with black and white patterned artworks]] — shared language: gallery
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: gallery
-- [[knowledge/wiki/images/Photograph Art Installation Of Red Bricks In A White Gallery d540bc7f|Photograph Art Installation Of Red Bricks In A White Gallery]] — shared language: gallery
+- [[knowledge/wiki/images/Art Installation Of Red Bricks In A White Gallery 3972391f|Art Installation Of Red Bricks In A White Gallery]] — shared language: gallery
 <!-- vault-crosslinks:end -->

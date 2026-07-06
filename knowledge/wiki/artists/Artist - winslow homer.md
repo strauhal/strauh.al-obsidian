@@ -41,7 +41,7 @@ Images attributed by filename: 7
 - [[knowledge/wiki/images/The Bright Side by Winslow Homer (1865) b15e7f03|The Bright Side by Winslow Homer (1865)]] — shared language: winslow, homer
 - [[knowledge/wiki/images/the apotheosis of homer by salvador dali 1944 1945 a9608332|the apotheosis of homer by salvador dali 1944 1945]] — shared language: homer
 - [[knowledge/wiki/images/homer and his guide by william adolphe bouguereau 1874 a31aad67|homer and his guide by william adolphe bouguereau 1874]] — shared language: homer
-- [[knowledge/wiki/images/Photograph Large Ocean Wave Breaking in Blue Water 922e7c36|Photograph Large Ocean Wave Breaking in Blue Water]] — shared language: breaking, wave
+- [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — shared language: breaking, wave
 - [[knowledge/wiki/images/Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones 2e16917a|Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones]] — shared language: peach
 - [[knowledge/wiki/images/Illustration Princess Peach DJing and Smoking at a Crowded Rave 37e8e61b|Illustration Princess Peach DJing and Smoking at a Crowded Rave]] — shared language: peach
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Young Man in Plaid Scarf Reading Documents 4420ca8d|Photograph Young Man in Plaid Scarf Reading Documents]] — shared language: plaid, scarf, documents
-- [[knowledge/wiki/images/Photograph Young Man In Cap And Scarf Carrying Guitar Case 4d04d4ff|Photograph Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, young
+- [[_archive/auto-generated/images-stale/Photograph Young Man In Cap And Scarf Carrying Guitar Case 4d04d4ff|Photograph Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, young
+- [[knowledge/wiki/images/Young Man In Cap And Scarf Carrying Guitar Case 8dd2ea4c|Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, young
 - [[_archive/auto-generated/images-stale/expressive portrait painting of a woman in a patterned scarf 3722e9e3|expressive portrait painting of a woman in a patterned scarf]] — shared language: scarf
 - [[knowledge/wiki/images/figure in a plaid dress by henri matisse 1939 c6a6c9a0|figure in a plaid dress by henri matisse 1939]] — shared language: plaid
-- [[knowledge/archive/auto-generated/artists-stale/Artist - plaid fabric and a white sedan drifting|Artist - plaid fabric and a white sedan drifting]] — shared language: plaid
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Mont Saint-Miche
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Singing Beach, Manchester by Martin Johnson Heade (1863) 40e31131|Singing Beach, Manchester by Martin Johnson Heade (1863)]] — shared language: heade, johnson, martin
-- [[knowledge/wiki/images/mont saint michel in the air by winsor mccay 1909 3f3cecf6|mont saint michel in the air by winsor mccay 1909]] — shared language: mont, michel, saint
 - [[knowledge/wiki/images/Photograph Aerial View of Mont Saint Michel Abbey and Town on Island f6ff9e3d|Photograph Aerial View of Mont Saint Michel Abbey and Town on Island]] — shared language: mont, michel, saint
+- [[knowledge/wiki/images/mont saint michel in the air by winsor mccay 1909 3f3cecf6|mont saint michel in the air by winsor mccay 1909]] — shared language: mont, michel, saint
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: michel
 <!-- vault-crosslinks:end -->

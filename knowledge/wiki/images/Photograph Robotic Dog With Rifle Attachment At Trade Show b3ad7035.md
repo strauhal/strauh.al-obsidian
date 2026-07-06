@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Rob
 ## Discovered Connections
 
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: robotic
-- [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show, show.jpg
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: robotic
+- [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show, show.jpg
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robotic
 - [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: trade
 <!-- vault-crosslinks:end -->

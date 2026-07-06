@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Large Crowd Of People Walking Along A Road 01e93acd|Photograph Large Crowd Of People Walking Along A Road]] — shared language: along, walking, road
+- [[knowledge/wiki/images/Large Crowd Of People Walking Along A Road b64eda4f|Large Crowd Of People Walking Along A Road]] — shared language: along, walking, road
+- [[_archive/auto-generated/images-stale/Photograph Large Crowd Of People Walking Along A Road 01e93acd|Photograph Large Crowd Of People Walking Along A Road]] — shared language: along, walking, road
 - [[_archive/auto-generated/images-stale/photograph of a winding road through a sunlit forest 925e77e7|photograph of a winding road through a sunlit forest]] — shared language: sunlit, road
 - [[_archive/auto-generated/images-stale/gallery photo of a white hooded figure walking along a gray wall 38b64c31|gallery photo of a white hooded figure walking along a gray wall]] — shared language: along, walking, wall
 - [[_archive/auto-generated/images-stale/framed landscape painting of sunlit trees by water 99b9c7f0|framed landscape painting of sunlit trees by water]] — shared language: sunlit, water
-- [[_archive/auto-generated/images-stale/oil painting of a garden with pink and yellow flowers and a low stone wall c4f019a2|oil painting of a garden with pink and yellow flowers and a low stone wall]] — shared language: stone, wall, oil
 <!-- vault-crosslinks:end -->

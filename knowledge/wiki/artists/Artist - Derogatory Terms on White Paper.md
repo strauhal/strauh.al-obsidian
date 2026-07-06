@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper
 - [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
-- [[knowledge/wiki/images/Diagram Comparison Chart of Philosophical Terms with Meanings and Examples a202ec92|Diagram Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: terms
+- [[knowledge/wiki/images/Comparison Chart of Philosophical Terms with Meanings and Examples e9b0a953|Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: terms
 - [[knowledge/wiki/images/Illustration Abstract Black Drawing on Musical Staff Paper 7e475f65|Illustration Abstract Black Drawing on Musical Staff Paper]] — shared language: paper
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: paper
 - [[knowledge/wiki/images/Illustration Dynamic Abstract Black Ink Calligraphy on White Paper dce31969|Illustration Dynamic Abstract Black Ink Calligraphy on White Paper]] — shared language: paper

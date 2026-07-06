@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, flowers, background
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, flowers, background
 - [[knowledge/wiki/images/Illustration Smiling Man Looking Over Shoulder in Blue and White 40ce2aed|Illustration Smiling Man Looking Over Shoulder in Blue and White]] — shared language: shoulder
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: purple, background
 - [[knowledge/wiki/images/Illustration Painting of Large Green and Reddish Leaves with Patterned Background 5c3929f2|Illustration Painting of Large Green and Reddish Leaves with Patterned Background]] — shared language: patterned, background, background.jpeg

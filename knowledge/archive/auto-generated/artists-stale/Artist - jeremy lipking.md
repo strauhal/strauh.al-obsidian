@@ -26,7 +26,7 @@ Images attributed by filename: 3
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2014|Artist - jeremy lipking 2014]] — shared language: lipking, jeremy, antinous
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2018|Artist - jeremy lipking 2018]] — shared language: lipking, jeremy, couple
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2019|Artist - jeremy lipking 2019]] — shared language: lipking, jeremy, letter

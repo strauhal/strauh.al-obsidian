@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: god, without
 - [[knowledge/wiki/artists/Artist - antonio lopez|Artist - antonio lopez]] — shared language: lopez
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: without
+- [[knowledge/wiki/artists/Artist - Rob Israel|Artist - Rob Israel]] — shared language: israel
 - [[knowledge/wiki/images/man in trench coat by antonio lopez c 1982 a51ac36f|man in trench coat by antonio lopez c 1982]] — shared language: lopez
-- [[knowledge/wiki/images/god ec3a662d|god]] — shared language: god
 <!-- vault-crosslinks:end -->

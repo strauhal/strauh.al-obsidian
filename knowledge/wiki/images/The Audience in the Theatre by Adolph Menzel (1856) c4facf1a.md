@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Audience in 
 - [[knowledge/wiki/images/adolf menzel flute concert of frederick the great at sanssouci 1852 1a80bee2|adolf menzel flute concert of frederick the great at sanssouci 1852]] — shared language: menzel
 - [[knowledge/wiki/images/adolph northen napoleons retreat from moscow 1866 aa20f426|adolph northen napoleons retreat from moscow 1866]] — shared language: adolph
 - [[knowledge/wiki/images/bonham moren theatre by glenn ligon 1992 11906fe0|bonham moren theatre by glenn ligon 1992]] — shared language: theatre
-- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: audience
+- [[knowledge/wiki/images/adolph tidemand and hans gude the bridal procession in hardanger brudeferden i hardanger 1848 eafdf387|adolph tidemand and hans gude the bridal procession in hardanger brudeferden i hardanger 1848]] — shared language: adolph
 <!-- vault-crosslinks:end -->

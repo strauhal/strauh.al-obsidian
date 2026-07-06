@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: giant
 - [[_archive/auto-generated/images-stale/oil painting of a giant figure overlooking fleeing people and animals 0501c6ba|oil painting of a giant figure overlooking fleeing people and animals]] — shared language: giant, people
-- [[knowledge/wiki/images/Photograph Man With Bloody Mouth Holding Clear Sheet 577021e2|Photograph Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: bloody
 <!-- vault-crosslinks:end -->

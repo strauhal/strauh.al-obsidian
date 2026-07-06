@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Equilibrium b8438ef3|Equilibrium]] — named in this note
 - [[knowledge/wiki/images/Diagram Five Line Drawings of Skeletal Posture and Equilibrium Changes 25734c42|Diagram Five Line Drawings of Skeletal Posture and Equilibrium Changes]] — shared language: equilibrium, posture, skeletal
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, drawings
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings, change
-- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: drawings
-- [[_archive/auto-generated/books-stale/thinking-is-form-the-drawings-of-joseph-beuys-1993|Thinking Is Form The Drawings of Joseph Beuys 1993]] — shared language: drawings
+- [[knowledge/wiki/images/The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains 755a7767|The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains]] — shared language: skeletal, showing
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/images/Challenger by Joseph Clement Coll f4fc0846|Challenger by Joseph Clement Coll]] — same artist: joseph clement coll
 - [[knowledge/wiki/images/Illustration Smiling Woman in Large Hat, Pen and Ink Illustration by Joseph Clement Coll c629d324|Illustration Smiling Woman in Large Hat, Pen and Ink Illustration by Joseph Clement Coll]] — same artist: joseph clement coll
 - [[knowledge/wiki/images/Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll 1758eb62|Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll]] — same artist: joseph clement coll
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 <!-- vault-crosslinks:end -->

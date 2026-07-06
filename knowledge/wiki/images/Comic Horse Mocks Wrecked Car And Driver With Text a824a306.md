@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Horse Mo
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
-- [[knowledge/wiki/images/Comic Man in Shadow, Another Man by Car, Speech Bubble 7010de3e|Comic Man in Shadow, Another Man by Car, Speech Bubble]] — shared language: car, comic
-- [[knowledge/wiki/images/Comic Six Dark Themed Pixel Art Comic Panels with Text 9e0888fa|Comic Six Dark Themed Pixel Art Comic Panels with Text]] — shared language: comic, text, text.jpg
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
+- [[knowledge/wiki/images/Comic Six Dark Themed Pixel Art Comic Panels with Text 9e0888fa|Comic Six Dark Themed Pixel Art Comic Panels with Text]] — shared language: comic, text, text.jpg
+- [[knowledge/wiki/images/Comic Man in Shadow, Another Man by Car, Speech Bubble 7010de3e|Comic Man in Shadow, Another Man by Car, Speech Bubble]] — shared language: car, comic
 <!-- vault-crosslinks:end -->

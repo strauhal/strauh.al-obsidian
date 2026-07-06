@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork 41b296ee|Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/Placental infarct intermed mag 76dbd622|Placental infarct intermed mag]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639 5288029a|Peter Paul Rubens oil self portrait Kunsthistorisches Museum 1639]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

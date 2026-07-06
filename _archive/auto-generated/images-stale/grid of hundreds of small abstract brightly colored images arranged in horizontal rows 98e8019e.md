@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks 8c343ad7|Illustration Grid of Hundreds of Small Abstract Brightly Colored Artworks]] — shared language: hundreds, brightly, colored
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, colored
 - [[_archive/auto-generated/images-stale/abstract composition of black dots arranged in horizontal rows creating undulating optical patterns 0fde4d75|abstract composition of black dots arranged in horizontal rows creating undulating optical patterns]] — shared language: rows, arranged, horizontal
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting With Brightly Colored Polygons e2390b5a|Illustration Abstract Geometric Painting With Brightly Colored Polygons]] — shared language: brightly, colored
 - [[knowledge/wiki/images/Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes 831bc36f|Illustration Two Abstract Paintings with Brightly Colored Geometric Shapes]] — shared language: brightly, colored
+- [[_archive/auto-generated/images-stale/abstract geometric painting with multiple brightly colored polygons c01525f8|abstract geometric painting with multiple brightly colored polygons]] — shared language: brightly, colored
 <!-- vault-crosslinks:end -->

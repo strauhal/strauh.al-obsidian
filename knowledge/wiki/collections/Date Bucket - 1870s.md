@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1870s"
 source_kind: "date_bucket"
-count: "117"
+count: "116"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1870s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 117
+Files: 116
 
 ## Sample
 

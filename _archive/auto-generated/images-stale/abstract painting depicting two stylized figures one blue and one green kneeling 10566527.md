@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Three Costumed Figures, One Kneeling, One Standing, One Seated 0c031df4|Three Costumed Figures, One Kneeling, One Standing, One Seated]] — shared language: one, kneeling
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: one
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one
 <!-- vault-crosslinks:end -->

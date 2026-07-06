@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/photograph of two men flanking a figure in a white futuristic armored suit holding a spear and black flag in a white room 5e7d8b69|photograph of two men flanking a figure in a white futuristic armored suit holding a spear and black flag in a white room]] — shared language: spear, futuristic, flag
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: futuristic
 - [[knowledge/wiki/images/Illustration Detailed Purple and Blue Futuristic Computer Room Illustration 43d5416b|Illustration Detailed Purple and Blue Futuristic Computer Room Illustration]] — shared language: futuristic, room
 - [[_archive/auto-generated/images-stale/painting of a native american figure on horseback holding a spear and looking into the distance 754bb35b|painting of a native american figure on horseback holding a spear and looking into the distance]] — shared language: spear, holding
 - [[knowledge/wiki/images/Illustration Native American Figure on Horseback Holding Spear, Looking Distant 15d9446e|Illustration Native American Figure on Horseback Holding Spear, Looking Distant]] — shared language: spear, holding
+- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

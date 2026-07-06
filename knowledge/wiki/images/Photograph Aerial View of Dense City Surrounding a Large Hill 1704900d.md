@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view, city
-- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, view, city
-- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night a6c70bdd|Photograph Aerial View of Chicago City Grid at Night]] — shared language: aerial, view, city
-- [[knowledge/wiki/images/Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains 3aa16299|Photograph Aerial View of Dense Cityscape with Central Avenue and Mountains]] — shared language: dense, aerial, view
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, dense
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city, view
+- [[knowledge/wiki/images/Aerial View of World Trade Center Twin Towers and Surrounding City f905d3bf|Aerial View of World Trade Center Twin Towers and Surrounding City]] — shared language: surrounding, aerial, view
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, city, view
+- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, city, view
 <!-- vault-crosslinks:end -->

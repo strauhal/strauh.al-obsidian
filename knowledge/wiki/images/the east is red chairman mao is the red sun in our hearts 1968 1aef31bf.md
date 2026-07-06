@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_east_is_red_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/mao-zedong-quotations-from-chairman-mao-tse-tung|Quotations from Chairman Mao Tse-tung]] — shared language: mao, chairman
+- [[knowledge/wiki/books/mao-zedong-quotations-from-chairman-mao-tse-tung|Quotations from Chairman Mao Tse-tung]] — shared language: chairman, mao
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: mao
 - [[knowledge/wiki/images/mao by andy warhol 1973 7a66d8d0|mao by andy warhol 1973]] — shared language: mao
 - [[knowledge/wiki/artists/Artist - East of Nowhere|Artist - East of Nowhere]] — shared language: east

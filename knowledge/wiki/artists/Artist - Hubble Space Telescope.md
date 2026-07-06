@@ -11,14 +11,14 @@ Images attributed by filename: 2
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Colorful Filaments In The Crab Nebula by Hubble Space Telescope.jpg]]
+![[media/strauh.al3.1/photography/Colorful Filaments In The Crab Nebula by Hubble Space Telescope.jpg]]
 
-![[media/strauh.al3.1/photography/Photograph - Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope.jpg]]
+![[media/strauh.al3.1/photography/Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope.jpg]]
 
 ## Image Notes
 
-- [[Photograph Colorful Filaments In The Crab Nebula by Hubble Space Telescope 64ca8e68|Photograph Colorful Filaments In The Crab Nebula by Hubble Space Telescope]]
-- [[Photograph Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope 206c6fdc|Photograph Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope]]
+- [[Colorful Filaments In The Crab Nebula by Hubble Space Telescope 39b49624|Colorful Filaments In The Crab Nebula by Hubble Space Telescope]]
+- [[Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope a6b735b6|Colorful Supernova Remnant With Intricate Filaments by Hubble Space Telescope]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: space, colorful
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: space
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: space
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: space
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: space
 <!-- vault-crosslinks:end -->

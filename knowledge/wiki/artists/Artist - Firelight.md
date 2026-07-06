@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: river, landscape
 - [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: dark
 - [[knowledge/wiki/images/Illustration River Landscape with Waterfall and Mountains at Sunset 56a7d8fe|Illustration River Landscape with Waterfall and Mountains at Sunset]] — shared language: river, landscape
-- [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: forest, dark
-- [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
 - [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: river, landscape
+- [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
+- [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: river, landscape
 <!-- vault-crosslinks:end -->

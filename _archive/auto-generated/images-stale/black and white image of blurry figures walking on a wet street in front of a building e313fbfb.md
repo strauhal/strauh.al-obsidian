@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Blurred Figures on a Wet Street in Black and White 4af3442a|Photograph Blurred Figures on a Wet Street in Black and White]] — shared language: wet, street
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, street
+- [[knowledge/wiki/images/Blurred Figures on a Wet Street in Black and White 99065f6c|Blurred Figures on a Wet Street in Black and White]] — shared language: wet, street
+- [[_archive/auto-generated/images-stale/Photograph Blurred Figures on a Wet Street in Black and White 4af3442a|Photograph Blurred Figures on a Wet Street in Black and White]] — shared language: wet, street
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building, building.jpg
-- [[_archive/auto-generated/images-stale/black and white photo of a person in a wet landscape 67ecadbb|black and white photo of a person in a wet landscape]] — shared language: wet
 <!-- vault-crosslinks:end -->

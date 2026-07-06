@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape 16ce9498|Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape]] — shared language: scroll, clouds, dress
-- [[knowledge/wiki/images/Photograph Millau Viaduct Cable Stayed Bridge Emerging From Clouds d81106db|Photograph Millau Viaduct Cable Stayed Bridge Emerging From Clouds]] — shared language: emerging, clouds
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[knowledge/wiki/images/Illustration Detailed Etching of Hilly Landscape with Village and Seated Figure cb24424d|Illustration Detailed Etching of Hilly Landscape with Village and Seated Figure]] — shared language: hilly, landscape
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
+- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
 <!-- vault-crosslinks:end -->

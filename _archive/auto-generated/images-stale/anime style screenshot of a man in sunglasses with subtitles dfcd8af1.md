@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
 - [[knowledge/wiki/images/Screenshot Man in Suit Speaking with Subtitles to Another Person 0d9d4b9c|Screenshot Man in Suit Speaking with Subtitles to Another Person]] — shared language: subtitles, screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 11 54 79450143|Screenshot from 2024 09 09 00 11 54]] — shared language: screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 09 00 19 21 9a465f13|Screenshot from 2024 09 09 00 19 21]] — shared language: screenshot
 - [[_archive/auto-generated/images-stale/Screenshot from 2024 09 18 00 36 05 edb4253e|Screenshot from 2024 09 18 00 36 05]] — shared language: screenshot
-- [[_archive/auto-generated/images-stale/anime style character standing on a mecha head b46c57d9|anime style character standing on a mecha head]] — shared language: anime, style
 <!-- vault-crosslinks:end -->

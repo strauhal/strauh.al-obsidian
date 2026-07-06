@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
 - [[knowledge/wiki/artists/Artist - Philip Pearlstein|Artist - Philip Pearlstein]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - Philip Galanter|Artist - Philip Galanter]] — shared language: philip
 <!-- vault-crosslinks:end -->

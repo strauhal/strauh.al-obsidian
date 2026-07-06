@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: lawrence
 - [[knowledge/wiki/books/m-h-abrams-the-norton-anthology-of-english-literature-vol-1-4th-edition|The Norton Anthology of English Literature, Vol. 1, 4th Edition]] — shared language: english
 - [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: lawrence
-- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: lawrence
 - [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — shared language: english
+- [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: lawrence
 <!-- vault-crosslinks:end -->

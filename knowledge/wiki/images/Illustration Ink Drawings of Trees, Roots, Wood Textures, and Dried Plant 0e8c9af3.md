@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: roots
-- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: drawings
-- [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
+- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: drawings
 <!-- vault-crosslinks:end -->

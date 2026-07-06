@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Photograph - 
 - [[knowledge/wiki/images/Illustration Halftone Print of Two Figures Kissing with Text e0d30119|Illustration Halftone Print of Two Figures Kissing with Text]] — shared language: halftone, print
 - [[knowledge/wiki/images/Illustration Abstract Figure in Bold Colors with Halftone Print Style a9460393|Illustration Abstract Figure in Bold Colors with Halftone Print Style]] — shared language: halftone, print
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: print
-- [[knowledge/wiki/images/Photograph Halftone Portrait Of A Man Looking Right 44889f19|Photograph Halftone Portrait Of A Man Looking Right]] — shared language: halftone
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
+- [[knowledge/wiki/images/Halftone Portrait Of A Man Looking Right f7d963ba|Halftone Portrait Of A Man Looking Right]] — shared language: halftone
+- [[knowledge/wiki/images/Illustration Black and White Halftone Profile of a Person's Head 3fdc0aff|Illustration Black and White Halftone Profile of a Person's Head]] — shared language: halftone
 <!-- vault-crosslinks:end -->

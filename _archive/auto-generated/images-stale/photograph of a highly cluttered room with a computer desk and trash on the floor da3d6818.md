@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: trash, cluttered, desk
-- [[knowledge/wiki/images/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
+- [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: trash, highly, cluttered
+- [[knowledge/wiki/images/Cluttered Attic Room With Computer Desk And Bed 57dafd01|Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
+- [[_archive/auto-generated/images-stale/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, desk, computer
 - [[_archive/auto-generated/images-stale/photograph of a cluttered attic room with a computer desk and bed fac90992|photograph of a cluttered attic room with a computer desk and bed]] — shared language: cluttered, desk, computer
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, desk
-- [[knowledge/wiki/images/Illustration Person in Red Beanie Sits at Desk in Cluttered Room 8fb5b104|Illustration Person in Red Beanie Sits at Desk in Cluttered Room]] — shared language: cluttered, desk, room
 <!-- vault-crosslinks:end -->

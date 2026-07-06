@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Keychain Shaped Like Software Toolbar Hanging From Keys 20e73a22|Photograph Keychain Shaped Like Software Toolbar Hanging From Keys]] — shared language: toolbar, keychain, shaped
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: software
+- [[knowledge/wiki/images/Comic The Ol' Spicy Keychain 7e772982|Comic The Ol' Spicy Keychain]] — shared language: keychain
 <!-- vault-crosslinks:end -->

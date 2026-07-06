@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/fallen 84cf3b93|fallen]] — named in this note
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: religious
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: religious
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 <!-- vault-crosslinks:end -->

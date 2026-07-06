@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Comic Bearded Man In Traditional Attire Holding A Sword d24d41f8|Comic Bearded Man In Traditional Attire Holding A Sword]] — shared language: attire
 - [[knowledge/wiki/images/Illustration Mural of Person in Traditional Attire Holding Corn 7de22128|Illustration Mural of Person in Traditional Attire Holding Corn]] — shared language: attire
-- [[knowledge/wiki/images/Comic Two Ink Sketch Comic Panels with Figures in Military Attire dd05ac4f|Comic Two Ink Sketch Comic Panels with Figures in Military Attire]] — shared language: attire
 - [[knowledge/wiki/images/Photograph Two People in Traditional Attire Against Corrugated Wall e28f32e6|Photograph Two People in Traditional Attire Against Corrugated Wall]] — shared language: attire
+- [[knowledge/wiki/images/Comic Two Ink Sketch Comic Panels with Figures in Military Attire dd05ac4f|Comic Two Ink Sketch Comic Panels with Figures in Military Attire]] — shared language: attire
 - [[knowledge/wiki/images/Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass 9ec3b211|Illustration Japanese Man in Traditional Attire Playing Flute in Tall Grass]] — shared language: attire
 <!-- vault-crosslinks:end -->

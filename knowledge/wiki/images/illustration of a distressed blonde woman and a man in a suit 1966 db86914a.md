@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/illustration_of_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: suit
-- [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: suit
-- [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: suit
-- [[knowledge/wiki/images/Photograph Portrait of a Woman in a White Suit and Gloves 952af92f|Photograph Portrait of a Woman in a White Suit and Gloves]] — shared language: suit
+- [[knowledge/wiki/images/Distressed Silhouette Of A Standing Human Figure On A Yellow Wall c98bbe73|Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: distressed
+- [[knowledge/wiki/images/Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster 96593810|Illustration Pixelated Figure with Green Hair and Graffiti on Distressed Poster]] — shared language: distressed
+- [[knowledge/wiki/images/Illustration Distressed Man at Computer in Van Gogh Style Bedroom 12f435ac|Illustration Distressed Man at Computer in Van Gogh Style Bedroom]] — shared language: distressed
 <!-- vault-crosslinks:end -->

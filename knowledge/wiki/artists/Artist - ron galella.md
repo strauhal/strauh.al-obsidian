@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: ron
 - [[knowledge/wiki/images/Skybox by Ron Cobb (1990) b8ea567f|Skybox by Ron Cobb (1990)]] — shared language: ron
 - [[knowledge/wiki/artists/Artist - John Lennon|Artist - John Lennon]] — shared language: lennon, john
-- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: yoko, ono
-- [[knowledge/wiki/images/Diagram Map of Los Angeles City and Suburban Lines b2e35e77|Diagram Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los
+- [[knowledge/wiki/images/Yoko Ono by Annie Leibovitz 52b8d4df|Yoko Ono by Annie Leibovitz]] — shared language: yoko, ono
+- [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los
 - [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — shared language: angeles, los
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Blue Line Drawing of Overlapping Female Figure by Cagle df28cb46|Illustration Blue Line Drawing of Overlapping Female Figure by Cagle]] — shared language: overlapping, line
 - [[knowledge/wiki/images/Illustration Abstract Pattern of Wavy White and Teal Rectangles 414f770d|Illustration Abstract Pattern of Wavy White and Teal Rectangles]] — shared language: rectangles, rectangles.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: swirls
-- [[knowledge/wiki/images/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls
+- [[knowledge/wiki/images/Blue and Purple Vase with Swirls 25a7d806|Blue and Purple Vase with Swirls]] — shared language: swirls
 <!-- vault-crosslinks:end -->

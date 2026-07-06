@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/black and white pixel art of three celestial bodies in space 1989 8cb058d7|black and white pixel art of three celestial bodies in space 1989]] — shared language: celestial
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: allegory
-- [[knowledge/wiki/images/vasily vereshchagin requiem after the battle 1878 b329d66e|vasily vereshchagin requiem after the battle 1878]] — shared language: battle
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: battle
 <!-- vault-crosslinks:end -->

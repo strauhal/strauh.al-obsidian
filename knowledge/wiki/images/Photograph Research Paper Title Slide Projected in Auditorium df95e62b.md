@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Res
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: research
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: research
 - [[knowledge/wiki/books/humphries-paper-copy|humphries paper copy]] — shared language: paper
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Many Men in Robes Seated in Auditorium ab8049eb|Photograph Black and White Photograph of Many Men in Robes Seated in Auditorium]] — shared language: auditorium, auditorium.jpeg
 - [[knowledge/wiki/images/Photograph Photograph of a Slide Showing Two Historical Corsets 9432622c|Photograph Photograph of a Slide Showing Two Historical Corsets]] — shared language: slide
+- [[knowledge/wiki/images/Photograph Man Dining Alone with Projected Silhouette of Woman 98816f03|Photograph Man Dining Alone with Projected Silhouette of Woman]] — shared language: projected
 <!-- vault-crosslinks:end -->

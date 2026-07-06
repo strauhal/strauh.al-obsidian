@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - minas avetisyan|Artist - minas avetisyan]] — named in this note
 - [[_archive/auto-generated/images-stale/digital sketch of two tiger heads grayscale and line art d2e82112|digital sketch of two tiger heads grayscale and line art]] — shared language: tiger
 - [[knowledge/wiki/images/Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch 6d4a15de|Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch]] — shared language: tiger
-- [[knowledge/wiki/images/Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building de0c620f|Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: tiger
 - [[knowledge/wiki/images/Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger 5b04ab58|Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger]] — shared language: tiger
 - [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: tiger
+- [[knowledge/wiki/culture/movie-crouching-tiger-hidden-dragon|Watchlist - Crouching Tiger, Hidden Dragon]] — shared language: tiger
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: writers
-- [[knowledge/wiki/images/Diagram Compilation of Psychedelic Folk Album Covers and Information e56a1303|Diagram Compilation of Psychedelic Folk Album Covers and Information]] — shared language: compilation, covers
 - [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: covers, book
+- [[knowledge/wiki/images/Compilation of Psychedelic Folk Album Covers and Information cada33d6|Compilation of Psychedelic Folk Album Covers and Information]] — shared language: compilation, covers
 - [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — shared language: covers
 - [[knowledge/wiki/images/1597424260214 2bcf978e|1597424260214]] — shared language: covers
 <!-- vault-crosslinks:end -->

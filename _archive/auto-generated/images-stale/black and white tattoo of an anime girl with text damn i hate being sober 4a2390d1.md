@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo, anime, girl
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo, anime, girl
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: hate
 - [[_archive/auto-generated/images-stale/digital illustration of an elderly man drawing an anime girl 2020 239ef40c|digital illustration of an elderly man drawing an anime girl 2020]] — shared language: anime, girl
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
-- [[knowledge/wiki/images/Image Anime Girl Looking At Shrimp In Aquarium With Pun Text 31e0d399|Image Anime Girl Looking At Shrimp In Aquarium With Pun Text]] — shared language: anime, girl, text
 <!-- vault-crosslinks:end -->

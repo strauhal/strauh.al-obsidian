@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines 07735d7c|Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines]] — shared language: rainbow, color, grid
+- [[knowledge/wiki/images/Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines ec1ed5b6|Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines 07735d7c|Diagram Abstract Computational Visualization with Rainbow Color Map and Black Grid Lines]] — shared language: rainbow, color, grid
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow, color
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 <!-- vault-crosslinks:end -->

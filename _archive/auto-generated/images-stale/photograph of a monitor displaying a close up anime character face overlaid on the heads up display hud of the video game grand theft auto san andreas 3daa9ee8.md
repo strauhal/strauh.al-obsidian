@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD 4fbcaaa4|Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD]] — shared language: hud, monitor, game
+- [[knowledge/wiki/images/Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD 149aaf9e|Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD]] — shared language: hud, monitor, game
+- [[_archive/auto-generated/images-stale/Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD 4fbcaaa4|Photograph Photograph Of A Monitor Displaying An Anime Face Over A Video Game HUD]] — shared language: hud, monitor, game
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, display
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Illustration Painting of a Grand Theft Auto IV explosion scene by Shone 8b4271fe|Illustration Painting of a Grand Theft Auto IV explosion scene by Shone]] — shared language: auto, theft, grand
-- [[knowledge/wiki/artists/Artist - Shone|Artist - Shone]] — shared language: auto, theft, grand
 <!-- vault-crosslinks:end -->

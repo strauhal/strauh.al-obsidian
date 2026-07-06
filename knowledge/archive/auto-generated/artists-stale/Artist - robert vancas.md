@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Robert Vancas|Artist - Robert Vancas]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert vancas 2017|Artist - robert vancas 2017]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[_archive/auto-generated/images-stale/sky power by robert vancas 2017 277d2453|sky power by robert vancas 2017]] — shared language: vancas, robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1905|Artist - robert henri 1905]] — shared language: robert
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1906|Artist - robert henri 1906]] — shared language: robert
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert henri 1914|Artist - robert henri 1914]] — shared language: robert
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Textured Stone Sculpture of Christ on Cross on Stone Wall 61ddf9df|Photograph Textured Stone Sculpture of Christ on Cross on Stone Wall]] — shared language: stone, cross, textured
-- [[knowledge/wiki/images/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, stone, sculpture
+- [[_archive/auto-generated/images-stale/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, stone, sculpture
+- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, stone, sculpture
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: corpus
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: corpus
-- [[_archive/auto-generated/images-stale/gallery photo of a reclining stone sculpture 94a15857|gallery photo of a reclining stone sculpture]] — shared language: stone, sculpture
-- [[knowledge/wiki/images/Illustration Highly Textured Painting of a Forest Canopy 7cce0d72|Illustration Highly Textured Painting of a Forest Canopy]] — shared language: highly, textured
 <!-- vault-crosslinks:end -->

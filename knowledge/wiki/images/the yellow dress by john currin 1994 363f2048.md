@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_yellow_dress
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Woman in White Bonnet Holding Child in Yellow Dress 9d5bdddd|Illustration Woman in White Bonnet Holding Child in Yellow Dress]] — shared language: dress, yellow
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: dress
-- [[knowledge/wiki/images/Illustration Portrait of a Woman in Black Dress and White Shawl 4e0dc87e|Illustration Portrait of a Woman in Black Dress and White Shawl]] — shared language: dress
+- [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: dress
 <!-- vault-crosslinks:end -->

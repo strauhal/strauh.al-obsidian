@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou 7ed58cdb|Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou]] — shared language: garment, silhouette, gold
+- [[knowledge/wiki/images/Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou 7ed58cdb|Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou]] — shared language: garment, gold, silhouette
 - [[knowledge/wiki/images/Illustration Stylized Woman in Black and Gold Striped Garment e870827d|Illustration Stylized Woman in Black and Gold Striped Garment]] — shared language: garment, gold, striped
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment, striped
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/artists/Artist - Attat Mayou|Artist - Attat Mayou]] — shared language: garment, silhouette, gold
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment, striped
+- [[_archive/auto-generated/images-stale/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment, striped
+- [[knowledge/wiki/artists/Artist - Attat Mayou|Artist - Attat Mayou]] — shared language: garment, gold, silhouette
 <!-- vault-crosslinks:end -->

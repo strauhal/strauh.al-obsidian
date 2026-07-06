@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Welded Metal Frame Structure on Workshop Floor d1b56fc8|Photograph Welded Metal Frame Structure on Workshop Floor]] — shared language: welded, workshop, frame
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
-- [[knowledge/wiki/images/Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt cb24da99|Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt]] — shared language: frame, metal
+- [[_archive/auto-generated/images-stale/Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt cb24da99|Photograph Rectangular Metal Frame Lying on Tactile Paving and Asphalt]] — shared language: frame, metal
 - [[_archive/auto-generated/images-stale/rectangular metal frame lying on tactile paving and asphalt bfe765fe|rectangular metal frame lying on tactile paving and asphalt]] — shared language: frame, metal
-- [[_archive/auto-generated/images-stale/bent chrome metal tubing sculpture on wooden floor 79172f8c|bent chrome metal tubing sculpture on wooden floor]] — shared language: metal, floor, floor.jpeg
+- [[knowledge/wiki/images/Rectangular Metal Frame Lying on Tactile Paving and Asphalt 5ab9b63a|Rectangular Metal Frame Lying on Tactile Paving and Asphalt]] — shared language: frame, metal
 <!-- vault-crosslinks:end -->

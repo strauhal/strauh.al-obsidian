@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Three-Pa
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Hallie Bateman|Artist - Hallie Bateman]] — shared language: bateman
-- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
 - [[knowledge/wiki/artists/Artist - Patrick E. Leahy|Artist - Patrick E. Leahy]] — shared language: patrick
-- [[knowledge/wiki/images/Photograph Plush Toy Wearing Military Cap with Helicopters in Background dd91c86f|Photograph Plush Toy Wearing Military Cap with Helicopters in Background]] — shared language: plush
-- [[knowledge/wiki/images/Photograph Messy Living Room With Toys And Furniture 15c1ae83|Photograph Messy Living Room With Toys And Furniture]] — shared language: toys
+- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
+- [[knowledge/wiki/images/Messy Living Room With Toys And Furniture a5e59411|Messy Living Room With Toys And Furniture]] — shared language: toys
+- [[knowledge/wiki/images/Illustration It's a Miracle We Ever Met by Hallie Bateman fd4582e0|Illustration It's a Miracle We Ever Met by Hallie Bateman]] — shared language: bateman
 <!-- vault-crosslinks:end -->

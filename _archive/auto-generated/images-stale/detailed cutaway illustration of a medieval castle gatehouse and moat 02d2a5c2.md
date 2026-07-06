@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Detailed Cutaway Illustration of a Medieval Castle Gatehouse by Stephen Biesty 5d361924|Illustration Detailed Cutaway Illustration of a Medieval Castle Gatehouse by Stephen Biesty]] — shared language: cutaway, gatehouse, medieval
 - [[knowledge/wiki/artists/Artist - Stephen Biesty|Artist - Stephen Biesty]] — shared language: medieval, cutaway, gatehouse
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/Illustration Detailed Labeled Cross Section of a Medieval Castle Keep by Stephen Biesty 82a9c992|Illustration Detailed Labeled Cross Section of a Medieval Castle Keep by Stephen Biesty]] — shared language: medieval, castle, detailed
 - [[_archive/auto-generated/images-stale/labeled cross section illustration of a medieval castle keep 72187097|labeled cross section illustration of a medieval castle keep]] — shared language: medieval, castle
+- [[_archive/auto-generated/images-stale/framed castle landscape at sunset f1e9d4aa|framed castle landscape at sunset]] — shared language: castle
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper
+- [[knowledge/wiki/images/Grainy Black and White Photo of Person Watching Blurry Airplane 701f0370|Grainy Black and White Photo of Person Watching Blurry Airplane]] — shared language: grainy, airplane
 - [[knowledge/wiki/images/Photograph Airplane Approaching Smoking World Trade Center Tower 03634adb|Photograph Airplane Approaching Smoking World Trade Center Tower]] — shared language: airplane, smoking
-- [[knowledge/wiki/images/Photograph Two Blue And Yellow Jets Flying Past A Modern Skyscraper 82650683|Photograph Two Blue And Yellow Jets Flying Past A Modern Skyscraper]] — shared language: skyscraper, skyscraper.jpg
+- [[knowledge/wiki/images/Grainy Black And White Photo Of Four Blurry Figures f99857db|Grainy Black And White Photo Of Four Blurry Figures]] — shared language: grainy
 - [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: grainy
-- [[knowledge/wiki/images/Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light 76206e5a|Photograph Grainy Shadows of Figures on Wall with Pink and Blue Light]] — shared language: grainy
 <!-- vault-crosslinks:end -->

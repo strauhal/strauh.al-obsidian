@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph White Headset with Apple Logo and Black Wristband Keypad 3a08fdce|Photograph White Headset with Apple Logo and Black Wristband Keypad]] — shared language: wristband, keypad, headset
 - [[knowledge/wiki/images/Photograph Red Digital Display With Motion Blur And Keypad 70244867|Photograph Red Digital Display With Motion Blur And Keypad]] — shared language: keypad, keypad.jpeg
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset And Smoking Hookah In Restaurant b73124cb|Photograph Man Wearing VR Headset And Smoking Hookah In Restaurant]] — shared language: headset
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: headset
-- [[knowledge/wiki/images/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset
+- [[_archive/auto-generated/images-stale/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: headset
+- [[_archive/auto-generated/images-stale/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset
 <!-- vault-crosslinks:end -->

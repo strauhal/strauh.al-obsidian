@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: order, new
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: order
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: new, visual
-- [[knowledge/wiki/images/Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s 127db820|Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s]] — shared language: suit, brown
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: suit, background
 <!-- vault-crosslinks:end -->

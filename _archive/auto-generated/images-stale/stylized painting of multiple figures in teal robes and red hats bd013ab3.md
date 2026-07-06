@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Stylized Figures in Teal Robes and Red Hats 1633ffdb|Illustration Stylized Figures in Teal Robes and Red Hats]] — shared language: hats, robes, teal
+- [[knowledge/wiki/images/Illustration Stylized Figures in Teal Robes and Red Hats 1633ffdb|Illustration Stylized Figures in Teal Robes and Red Hats]] — shared language: hats, teal, robes
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple
 - [[knowledge/wiki/images/Illustration Painting of Multiple Figures in Colorful Draped Robes 7e770e18|Illustration Painting of Multiple Figures in Colorful Draped Robes]] — shared language: robes, multiple
 - [[knowledge/wiki/images/Illustration Stylized Painting of a Teal Bird in Tropical Landscape at Night 2469b56a|Illustration Stylized Painting of a Teal Bird in Tropical Landscape at Night]] — shared language: teal, stylized

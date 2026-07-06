@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - larry elmore 1990|Artist - larry elmore 1990]] — named in this note
 - [[knowledge/wiki/images/the dragon s lair by larry elmore 1990 449f1440|the dragon s lair by larry elmore 1990]] — shared language: elmore, larry, dragon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - larry welo|Artist - larry welo]] — shared language: larry
+- [[knowledge/wiki/artists/Artist - Larry Clark|Artist - Larry Clark]] — shared language: larry
 - [[_archive/auto-generated/images-stale/the road to oz by larry welo 38dc9767|the road to oz by larry welo]] — shared language: larry
-- [[knowledge/wiki/books/isms-6-larry-warsh-abloh-isms-princeton-university-press|Abloh-isms-Princeton University Press]] — shared language: larry
 <!-- vault-crosslinks:end -->

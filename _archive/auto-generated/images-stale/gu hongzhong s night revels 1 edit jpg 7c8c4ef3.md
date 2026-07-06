@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Night Revels of Han Xizai by Gu Hongzhong (c. 970) d86246d0|The Night Revels of Han Xizai by Gu Hongzhong (c. 970)]] — shared language: hongzhong, revels, night
-- [[knowledge/wiki/images/Photograph Photoshop Edit Menu as Physical Sign in Mountains 253a074b|Photograph Photoshop Edit Menu as Physical Sign in Mountains]] — shared language: edit
+- [[_archive/auto-generated/images-stale/Photograph Photoshop Edit Menu as Physical Sign in Mountains 253a074b|Photograph Photoshop Edit Menu as Physical Sign in Mountains]] — shared language: edit
+- [[knowledge/wiki/images/Photoshop Edit Menu as Physical Sign in Mountains 7e7aa8df|Photoshop Edit Menu as Physical Sign in Mountains]] — shared language: edit
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
 - [[knowledge/wiki/artists/Artist - Swans At Night|Artist - Swans At Night]] — shared language: night
-- [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: night
 <!-- vault-crosslinks:end -->

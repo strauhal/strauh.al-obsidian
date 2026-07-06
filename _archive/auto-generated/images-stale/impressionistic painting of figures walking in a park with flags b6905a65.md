@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting of Flags and a Child like Figure 03049e59|Illustration Abstract Painting of Flags and a Child like Figure]] — shared language: flags
 - [[knowledge/wiki/images/Two Women by David Park (1958) 97230ea6|Two Women by David Park (1958)]] — shared language: park
 - [[_archive/auto-generated/images-stale/illustration of two figures near a park bench 8346cf2d|illustration of two figures near a park bench]] — shared language: park
-- [[knowledge/wiki/images/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: walking
+- [[knowledge/archive/auto-generated/artists-stale/Artist - american flags and blue curtains|Artist - american flags and blue curtains]] — shared language: flags
 <!-- vault-crosslinks:end -->

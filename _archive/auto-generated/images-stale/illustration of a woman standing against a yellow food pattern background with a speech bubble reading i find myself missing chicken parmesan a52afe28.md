@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comic Woman Standing Against Yellow Food Pattern Background With Speech Bubble c6eb9059|Comic Woman Standing Against Yellow Food Pattern Background With Speech Bubble]] — shared language: speech, food, bubble
-- [[knowledge/wiki/images/Photograph Two People Reacting To Beyond Fried Chicken Sign And Food 9547dcbd|Photograph Two People Reacting To Beyond Fried Chicken Sign And Food]] — shared language: chicken, food
-- [[knowledge/wiki/images/Illustration Woman with Dark Hair Against Yellow and Grey Pattern 97bac4c0|Illustration Woman with Dark Hair Against Yellow and Grey Pattern]] — shared language: pattern, against, yellow
 - [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: speech, bubble
-- [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: against, yellow, background
+- [[_archive/auto-generated/images-stale/Photograph Two People Reacting To Beyond Fried Chicken Sign And Food 9547dcbd|Photograph Two People Reacting To Beyond Fried Chicken Sign And Food]] — shared language: chicken, food
+- [[knowledge/wiki/images/Two People Reacting To Beyond Fried Chicken Sign And Food cbf9496f|Two People Reacting To Beyond Fried Chicken Sign And Food]] — shared language: chicken, food
+- [[knowledge/wiki/images/Illustration Woman with Dark Hair Against Yellow and Grey Pattern 97bac4c0|Illustration Woman with Dark Hair Against Yellow and Grey Pattern]] — shared language: pattern, against, yellow
 <!-- vault-crosslinks:end -->

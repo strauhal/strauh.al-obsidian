@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/calm_liber_studi
 - [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — shared language: turner
 - [[knowledge/wiki/images/coast of yorkshire by joseph mallord william turner 1811 5474e1a8|coast of yorkshire by joseph mallord william turner 1811]] — shared language: turner
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: plate
-- [[knowledge/wiki/images/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: plate
+- [[knowledge/wiki/images/White Plate With Blue Willow Pattern Design ed444a6b|White Plate With Blue Willow Pattern Design]] — shared language: plate
 <!-- vault-crosslinks:end -->

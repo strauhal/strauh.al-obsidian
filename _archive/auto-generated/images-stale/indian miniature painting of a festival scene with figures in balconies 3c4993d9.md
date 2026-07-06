@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Indian Miniature Painting Festival Scene with Figures in Balconies bacc3b25|Illustration Indian Miniature Painting Festival Scene with Figures in Balconies]] — shared language: balconies, festival, indian
+- [[knowledge/wiki/images/Illustration Indian Miniature Painting Festival Scene with Figures in Balconies bacc3b25|Illustration Indian Miniature Painting Festival Scene with Figures in Balconies]] — shared language: festival, indian, balconies
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens cd9ee009|Illustration Indian Miniature Painting of a Grand Palace and Formal Gardens]] — shared language: indian, miniature
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape bd3c618c|Illustration Indian Miniature Painting of Palace, Formal Gardens, Figures, and Cityscape]] — shared language: indian, miniature
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: indian, miniature

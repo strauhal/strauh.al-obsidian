@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Document Black and White Calligraphic Talisman with Intricate Symbols f81da636|Document Black and White Calligraphic Talisman with Intricate Symbols]] — shared language: symbols, intricate
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: intricate
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: shapes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Bright Geometric Shapes 7db191c0|Illustration Abstract Painting of Interlocking Bright Geometric Shapes]] — shared language: shapes, geometric
+- [[knowledge/wiki/images/Illustration Intricate Rainbow Geometric Pattern with Repeating Shapes by Allyson Grey 265136e6|Illustration Intricate Rainbow Geometric Pattern with Repeating Shapes by Allyson Grey]] — shared language: intricate, shapes, geometric
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Quarantine by Ma
 
 - [[knowledge/wiki/artists/Artist - makoto aida|Artist - makoto aida]] — shared language: makoto
 - [[knowledge/wiki/images/the bus by makoto aida 1997 0e7f1019|the bus by makoto aida 1997]] — shared language: makoto
-- [[knowledge/wiki/images/Q Train by Nigel Van Wieck (1990) 106379d3|Q Train by Nigel Van Wieck (1990)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Quantum Circuit Diagram with Gates U0 and Ok,i and Mathematical Expressions 7c28f247|Quantum Circuit Diagram with Gates U0 and Ok,i and Mathematical Expressions]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

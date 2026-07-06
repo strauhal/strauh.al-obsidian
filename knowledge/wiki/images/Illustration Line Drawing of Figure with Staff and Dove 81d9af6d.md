@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — shared language: dove
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/composition by arthur dove c 1927 d2562e3b|composition by arthur dove c 1927]] — shared language: dove
-- [[knowledge/wiki/images/Illustration Abstract Black Drawing on Musical Staff Paper 7e475f65|Illustration Abstract Black Drawing on Musical Staff Paper]] — shared language: staff
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line
 <!-- vault-crosslinks:end -->

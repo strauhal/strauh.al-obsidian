@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: optical
 - [[knowledge/wiki/books/herman-melville-moby-dick-or-the-whale|Moby-Dick; or, The Whale]] — shared language: whale
 - [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: truck
-- [[knowledge/wiki/images/Diagram Diagram of a central point with radiating and converging arrows d31c729e|Diagram Diagram of a central point with radiating and converging arrows]] — shared language: converging
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
+- [[knowledge/wiki/images/Diagram of a central point with radiating and converging arrows f3ce2b07|Diagram of a central point with radiating and converging arrows]] — shared language: converging
+- [[knowledge/wiki/images/Illustration Collage of historical and modern optical drawing aid illustrations 60b63088|Illustration Collage of historical and modern optical drawing aid illustrations]] — shared language: optical
 <!-- vault-crosslinks:end -->

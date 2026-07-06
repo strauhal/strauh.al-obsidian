@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Snow Covered Hill with Fence Posts and Trees 54a931d2|Photograph Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence, hill
+- [[knowledge/wiki/images/Black and White Snow Covered Hill with Fence Posts and Trees 29f5e7ba|Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence, hill
+- [[_archive/auto-generated/images-stale/Photograph Black and White Snow Covered Hill with Fence Posts and Trees 54a931d2|Photograph Black and White Snow Covered Hill with Fence Posts and Trees]] — shared language: posts, fence, hill
 - [[knowledge/wiki/images/Illustration Digital Painting Dirt Path, Fence Posts, Mountains, Cloudy Sky 5d0e103f|Illustration Digital Painting Dirt Path, Fence Posts, Mountains, Cloudy Sky]] — shared language: posts, fence
 - [[_archive/auto-generated/images-stale/digital painting of a dirt path fence posts and mountains under an overcast sky 47f324c0|digital painting of a dirt path fence posts and mountains under an overcast sky]] — shared language: posts, fence
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees
-- [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — shared language: snow
 <!-- vault-crosslinks:end -->

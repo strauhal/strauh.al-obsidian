@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Detailed Ink Drawing of a Japanese Residential Street 55a186e0|Illustration Detailed Ink Drawing of a Japanese Residential Street]] — shared language: residential, street, ink
-- [[knowledge/wiki/images/Photograph Residential Street with Houses, Cars, and Overhead Power Lines f6d83b6a|Photograph Residential Street with Houses, Cars, and Overhead Power Lines]] — shared language: residential, houses, street
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, ink
+- [[_archive/auto-generated/images-stale/Photograph Residential Street with Houses, Cars, and Overhead Power Lines f6d83b6a|Photograph Residential Street with Houses, Cars, and Overhead Power Lines]] — shared language: residential, houses, street
+- [[knowledge/wiki/images/Residential Street with Houses, Cars, and Overhead Power Lines fdd615d8|Residential Street with Houses, Cars, and Overhead Power Lines]] — shared language: residential, houses, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
 <!-- vault-crosslinks:end -->

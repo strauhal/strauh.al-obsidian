@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Textile Artwork of Figures and a Rabbit in a Dark Landscape cc9e9010|Illustration Textile Artwork of Figures and a Rabbit in a Dark Landscape]] — named in this note
 - [[_archive/auto-generated/images-stale/alisa vs rabbit 1276158813 gif 3c100654|alisa vs rabbit 1276158813 gif]] — shared language: rabbit
 - [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
+- [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: artwork
 - [[_archive/auto-generated/images-stale/oil painting of a waterfall in a dark landscape c6590f91|oil painting of a waterfall in a dark landscape]] — shared language: dark, landscape, landscape.jpeg
-- [[_archive/auto-generated/images-stale/framed textile or painting with red white blue and black radiating shapes f477e08e|framed textile or painting with red white blue and black radiating shapes]] — shared language: textile
 <!-- vault-crosslinks:end -->

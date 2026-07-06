@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Thr
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: ties
-- [[knowledge/wiki/images/Photograph Two Women Wearing Hegel's Phenomenology of Spirit Shirts 843565ca|Photograph Two Women Wearing Hegel's Phenomenology of Spirit Shirts]] — shared language: shirts
+- [[knowledge/wiki/images/Rack of Black T Shirts in a Store 38111b50|Rack of Black T Shirts in a Store]] — shared language: shirts
+- [[knowledge/wiki/images/Two Women Wearing Hegel's Phenomenology of Spirit Shirts 21421225|Two Women Wearing Hegel's Phenomenology of Spirit Shirts]] — shared language: shirts
 - [[knowledge/wiki/images/Photograph Black and White Photo of Andy Warhol and Three Men 8229510a|Photograph Black and White Photo of Andy Warhol and Three Men]] — shared language: men, three
-- [[knowledge/wiki/images/Photograph Three Men Playing Guitars in a Room 626ea017|Photograph Three Men Playing Guitars in a Room]] — shared language: men, three
 <!-- vault-crosslinks:end -->

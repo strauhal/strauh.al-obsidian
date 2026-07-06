@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - N
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: video, person
 - [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: game, video, scene
 - [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game, video
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: video, game
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: video, game
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/twilight_by_paul
 ## Discovered Connections
 
 - [[knowledge/wiki/images/grace jones by jean paul goude 1978 653bbf86|grace jones by jean paul goude 1978]] — shared language: jones, paul
-- [[knowledge/wiki/images/Photograph Grace Jones, New York by Jean Paul Goude 57aba063|Photograph Grace Jones, New York by Jean Paul Goude]] — shared language: jones, paul
 - [[knowledge/wiki/artists/Artist - jean paul goude|Artist - jean paul goude]] — shared language: paul, jones
+- [[knowledge/wiki/images/Grace Jones, New York by Jean Paul Goude eefa828e|Grace Jones, New York by Jean Paul Goude]] — shared language: jones, paul
 - [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: twilight
 - [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: jones
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Cal Newport - Deep Work_ Rules for focused success in a distracted world (2016, Grand Central) - libgen.lc.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Deep Work Rules for focused success in a distracted world
@@ -39,12 +39,12 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
 - [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — same category: unsorted
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — same category: unsorted
+- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
-- [[knowledge/wiki/books/1622209317013|1622209317013]] — same category: unsorted
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black Silhouette of Crouching Figure with White Spots on Back f7e05b9e|Illustration Black Silhouette of Crouching Figure with White Spots on Back]] — shared language: spots, crouching, silhouette
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Illustration Crouching Figure with Hands Over Face, Red Watercolor Washes a84fcef3|Illustration Crouching Figure with Hands Over Face, Red Watercolor Washes]] — shared language: crouching
 - [[knowledge/wiki/images/Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes 3d0ba505|Illustration Black Silhouette of Figure in Hat and Coat with Red Eyes]] — shared language: silhouette
-- [[knowledge/wiki/images/Screenshot Screenshot of a Pixelated Human Silhouette in a Window 1c78cf06|Screenshot Screenshot of a Pixelated Human Silhouette in a Window]] — shared language: silhouette
 <!-- vault-crosslinks:end -->

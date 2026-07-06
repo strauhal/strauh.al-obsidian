@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/salmon_fishing_b
 - [[knowledge/wiki/images/Illustration Landscape Painting with Figures Fishing and Boating on a Lake 3b2eadd8|Illustration Landscape Painting with Figures Fishing and Boating on a Lake]] — shared language: fishing
 - [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: fishing
 - [[knowledge/wiki/images/Fishing for Escher by James Fletcher (2018) b7e7a917|Fishing for Escher by James Fletcher (2018)]] — shared language: fishing
-- [[knowledge/wiki/images/Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 0f3fd889|Photograph Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: fishing
+- [[knowledge/wiki/images/Two Silhouetted Figures Fishing on a Small Island in Sparkling Water 65bb120f|Two Silhouetted Figures Fishing on a Small Island in Sparkling Water]] — shared language: fishing
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Nausicaa by Will
 - [[knowledge/wiki/images/self portrait by william mcgregor paxton 1903 ecd14d15|self portrait by william mcgregor paxton 1903]] — shared language: paxton, mcgregor, william
 - [[knowledge/wiki/images/william mcgregor paxton the chariot of pegasus 1904 545301ff|william mcgregor paxton the chariot of pegasus 1904]] — shared language: paxton, mcgregor, william
 - [[knowledge/wiki/images/portrait of mrs william rodman peabody elizabeth croll by william mcgregor paxton 1916 74e9ebfb|portrait of mrs william rodman peabody elizabeth croll by william mcgregor paxton 1916]] — shared language: paxton, mcgregor, william
-- [[knowledge/wiki/images/Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting 9970d625|Photograph Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]] — shared language: mcgregor
+- [[knowledge/wiki/images/Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting e26ecfca|Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]] — shared language: mcgregor
 <!-- vault-crosslinks:end -->

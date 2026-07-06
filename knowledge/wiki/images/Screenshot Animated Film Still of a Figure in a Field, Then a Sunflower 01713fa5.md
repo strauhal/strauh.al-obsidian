@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Ani
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Military Tank in Sunflower Field Under Blue Sky 1eb2fd5f|Military Tank in Sunflower Field Under Blue Sky]] — shared language: sunflower, field
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: film
-- [[knowledge/wiki/images/Animated Tokyo 804a7d14|Animated Tokyo]] — shared language: animated
 <!-- vault-crosslinks:end -->

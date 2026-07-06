@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Protestor Holding Sign About Palestine at a Rally 17fe6441|Photograph Protestor Holding Sign About Palestine at a Rally]] — shared language: palestine
-- [[knowledge/wiki/images/Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans 90810815|Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: palestine
+- [[knowledge/wiki/images/Protestor Holding Sign About Palestine at a Rally 150c04af|Protestor Holding Sign About Palestine at a Rally]] — shared language: palestine
+- [[knowledge/wiki/images/Pickup Truck With Anti Israel And Pro Palestine Slogans 886974b2|Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: palestine
 - [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: free
 - [[knowledge/wiki/images/Photograph Free Jazz by Jim Marshall d3f57de0|Photograph Free Jazz by Jim Marshall]] — shared language: free
 <!-- vault-crosslinks:end -->

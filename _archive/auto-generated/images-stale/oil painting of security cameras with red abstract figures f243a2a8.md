@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Oil Painting of Security Cameras with Red Abstract Figures a168a80d|Illustration Oil Painting of Security Cameras with Red Abstract Figures]] — shared language: cameras, security, oil
+- [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: security
 - [[_archive/auto-generated/images-stale/hp dynamic security c6087f3e|hp dynamic security]] — shared language: security
 - [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: security
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: oil
-- [[knowledge/wiki/images/Illustration Oil Painting of Three Figures in an Interior c259eaca|Illustration Oil Painting of Three Figures in an Interior]] — shared language: oil
 <!-- vault-crosslinks:end -->

@@ -49,7 +49,7 @@ Images attributed by filename: 10
 
 - [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: bacon, francis
 - [[knowledge/wiki/images/Head VI by Francis Bacon (1949) 56dea298|Head VI by Francis Bacon (1949)]] — shared language: bacon, francis
-- [[knowledge/wiki/images/Photograph Portrait of Francis Bacon in his studio f674db9f|Photograph Portrait of Francis Bacon in his studio]] — shared language: bacon, francis
+- [[knowledge/wiki/images/Portrait of Francis Bacon in his studio f806513e|Portrait of Francis Bacon in his studio]] — shared language: bacon, francis
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: bacon, self, francis
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: bacon
 - [[knowledge/wiki/books/athlone-contemporary-european-thinkers-gilles-deleuze-francis-bacon-the-logic-of-sensation-continuum|Francis Bacon The Logic of Sensation-Continuum]] — shared language: bacon, francis

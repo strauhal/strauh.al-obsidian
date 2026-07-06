@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, signs, night
+- [[knowledge/wiki/artists/Artist - Greg Overton|Artist - Greg Overton]] — shared language: greg
 - [[knowledge/wiki/images/Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton 89f862ef|Illustration Black and White Dithered Front View of a Porsche Carrera by Greg Overton]] — shared language: greg
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, street, night
-- [[knowledge/wiki/images/Photograph Night Street Scene with Numerous Bright Neon Signs 485b33af|Photograph Night Street Scene with Numerous Bright Neon Signs]] — shared language: neon, signs, night
-- [[knowledge/wiki/images/Photograph Night Street Scene with Numerous Bright Neon Signs and Traffic 63b4ed30|Photograph Night Street Scene with Numerous Bright Neon Signs and Traffic]] — shared language: signs, neon, night
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy, night, street
+- [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs 5ea1b2ad|Night Street Scene with Numerous Bright Neon Signs]] — shared language: neon, signs, night
 <!-- vault-crosslinks:end -->

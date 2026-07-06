@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Woman
 
 - [[knowledge/wiki/anchors/kraftwerk|Kraftwerk]] — named in this note
 - [[knowledge/wiki/images/Illustration Stylized Painting of Three Figures Indoors with Cards 99776854|Illustration Stylized Painting of Three Figures Indoors with Cards]] — shared language: indoors
-- [[knowledge/wiki/images/Photograph Young Man Sitting in Wicker Chair Indoors 8d5e5542|Photograph Young Man Sitting in Wicker Chair Indoors]] — shared language: indoors
-- [[knowledge/wiki/images/Photograph Halftone Portrait of a Man with a Mustache Seated Indoors 79d483e3|Photograph Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: indoors
-- [[knowledge/wiki/images/Photograph Two Wheelchair Fencers Engaged In A Match Indoors cab7ed92|Photograph Two Wheelchair Fencers Engaged In A Match Indoors]] — shared language: indoors
+- [[knowledge/wiki/images/Halftone Portrait of a Man with a Mustache Seated Indoors de9cdf9c|Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: indoors
+- [[knowledge/wiki/images/Young Man Sitting in Wicker Chair Indoors 4d579b53|Young Man Sitting in Wicker Chair Indoors]] — shared language: indoors
+- [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: comic
 <!-- vault-crosslinks:end -->

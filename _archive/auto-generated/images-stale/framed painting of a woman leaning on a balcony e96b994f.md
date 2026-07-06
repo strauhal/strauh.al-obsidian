@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/painting of a stylized female figure in pale green tones leaning on a balcony railing with a city background 194c1f46|painting of a stylized female figure in pale green tones leaning on a balcony railing with a city background]] — shared language: leaning, balcony
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
 - [[_archive/auto-generated/images-stale/painting of women on a balcony above a crowd 749aeaea|painting of women on a balcony above a crowd]] — shared language: balcony
-- [[_archive/auto-generated/images-stale/oil painting of a man in a red tie and apron leaning out of a service window 9f0fd6b5|oil painting of a man in a red tie and apron leaning out of a service window]] — shared language: leaning
+- [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed
 <!-- vault-crosslinks:end -->

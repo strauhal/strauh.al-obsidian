@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: stepped, building
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/charcoal drawing of a stepped art deco skyscraper at night 1930 5fd24baa|charcoal drawing of a stepped art deco skyscraper at night 1930]] — shared language: stepped
 - [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 e1b887ce|drawing of a stepped art deco skyscraper illuminated at night 1930]] — shared language: stepped
 - [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 2 47c413ed|drawing of a stepped art deco skyscraper illuminated at night 1930 2]] — shared language: stepped

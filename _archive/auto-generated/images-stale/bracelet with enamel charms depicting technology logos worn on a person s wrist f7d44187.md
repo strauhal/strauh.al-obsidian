@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/bracelet with enamel charms featuring tech logos worn on a person s wrist 60f8ff8b|bracelet with enamel charms featuring tech logos worn on a person s wrist]] — shared language: charms, bracelet, enamel
-- [[knowledge/wiki/images/Photograph Person's Wrist Wearing Bracelet With Technology Logo Charms db1a5d7a|Photograph Person's Wrist Wearing Bracelet With Technology Logo Charms]] — shared language: bracelet, charms, wrist
-- [[knowledge/wiki/images/Photograph Person's Wrist Wearing Bracelet With Tech Logos f2789fad|Photograph Person's Wrist Wearing Bracelet With Tech Logos]] — shared language: bracelet, wrist, logos
+- [[_archive/auto-generated/images-stale/bracelet with enamel charms featuring tech logos worn on a person s wrist 60f8ff8b|bracelet with enamel charms featuring tech logos worn on a person s wrist]] — shared language: charms, enamel, worn
+- [[knowledge/wiki/images/Photograph Person's Wrist Wearing Bracelet With Technology Logo Charms db1a5d7a|Photograph Person's Wrist Wearing Bracelet With Technology Logo Charms]] — shared language: charms, bracelet, wrist
+- [[knowledge/wiki/images/Person's Wrist Wearing Bracelet With Tech Logos 47e512d3|Person's Wrist Wearing Bracelet With Tech Logos]] — shared language: bracelet, logos, wrist
+- [[_archive/auto-generated/images-stale/Photograph Person's Wrist Wearing Bracelet With Tech Logos f2789fad|Photograph Person's Wrist Wearing Bracelet With Tech Logos]] — shared language: bracelet, logos, wrist
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: technology
 <!-- vault-crosslinks:end -->

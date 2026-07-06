@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Design as Art (Penguin Modern Classics) -- Bruno Munari -- Penguin modern classics, London, 2008, ©1971 -- Penguin Books Ltd -- 9780141035819 -- 662f399960ac0451db4a7b9ec7913aad -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Design as Art (Penguin Modern Classics)
@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — same category: art aesthetics
 - [[knowledge/wiki/books/mile-zola-elinor-dorday-robert-lethbridge-la-d-b-cle-reissue-oxford-world-s-classics|La Débâcle (reissue) (Oxford World's Classics)]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
+- [[knowledge/wiki/books/oxford-world-s-classics-rene-descartes-michael-moriarty-meditations-first-philosophy-oxford-university-press-usa|Meditations First Philosophy-Oxford University Press, USA]] — same category: art aesthetics
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
-- [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

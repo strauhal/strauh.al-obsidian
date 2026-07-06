@@ -22,7 +22,6 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/christus und die kinder christ and the children by emil nolde 1910 2ad077ac|christus und die kinder christ and the children by emil nolde 1910]] — shared language: christus
 - [[knowledge/wiki/artists/Artist - emil nolde|Artist - emil nolde]] — shared language: christus
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 - [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
-- [[knowledge/wiki/images/Wyclef Jean by Young Thug (2016) 674ec67d|Wyclef Jean by Young Thug (2016)]] — shared language: young
 <!-- vault-crosslinks:end -->

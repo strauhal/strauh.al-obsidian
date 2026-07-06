@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/books-stale/schopenhauer-world-as-will|schopenhauer world as will]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[_archive/auto-generated/books-stale/my-twisted-world|My Twisted World]] — shared language: world
-- [[knowledge/wiki/images/Photograph White T Shirt with 'Astral Projection' Graphic Design e3d940e2|Photograph White T Shirt with 'Astral Projection' Graphic Design]] — shared language: projection
+- [[knowledge/wiki/images/World Map Showing Teal Lines Representing Networks f248215e|World Map Showing Teal Lines Representing Networks]] — shared language: showing, world
 - [[_archive/auto-generated/images-stale/black and white ink drawing collage of various figures and manga panels centered on a standing female character 1011cede|black and white ink drawing collage of various figures and manga panels centered on a standing female character]] — shared language: centered
 <!-- vault-crosslinks:end -->

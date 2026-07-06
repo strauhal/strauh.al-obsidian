@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Black and White Photograph of a Bridge, Water, and Birds Flying 3d5e0ef6|Black and White Photograph of a Bridge, Water, and Birds Flying]] — shared language: birds, water
 - [[_archive/auto-generated/images-stale/delicate line drawing of a figure reaching towards a flowing organic form 2fc1ba9a|delicate line drawing of a figure reaching towards a flowing organic form]] — shared language: delicate
 - [[knowledge/wiki/images/Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form f8f2a740|Illustration Delicate Line Drawing of Figure Reaching Towards Flowing Organic Form]] — shared language: delicate
 - [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds
-- [[knowledge/wiki/images/water cd9d9b2f|water]] — shared language: water
 - [[knowledge/wiki/images/Illustration Watercolor Painting of Many Small Birds on Light Background 1c6d543b|Illustration Watercolor Painting of Many Small Birds on Light Background]] — shared language: birds
 <!-- vault-crosslinks:end -->

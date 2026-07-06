@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Man in Hat Sitting on Bench in Shadow 1730a348|Illustration Man in Hat Sitting on Bench in Shadow]] — shared language: bench
 - [[knowledge/wiki/images/Photograph Elderly Woman Sitting on Bench with Reflections in Glass 768be639|Photograph Elderly Woman Sitting on Bench with Reflections in Glass]] — shared language: bench
 - [[knowledge/wiki/images/nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834 2473f61c|nihonbashi morning scene nihonbashi asa no kei by utagawa hiroshige c 18331834]] — shared language: asa
-- [[knowledge/wiki/images/Photograph Wet Park Bench And Brick Paving 3f9c23bc|Photograph Wet Park Bench And Brick Paving]] — shared language: bench
+- [[knowledge/wiki/images/Wet Park Bench And Brick Paving ebaef1f3|Wet Park Bench And Brick Paving]] — shared language: bench
 <!-- vault-crosslinks:end -->

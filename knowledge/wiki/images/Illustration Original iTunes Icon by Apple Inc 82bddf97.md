@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc 87068a38|Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc]] — same artist: apple inc
 - [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — same artist: apple inc
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: inc, icon
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: icon
+- [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: icon
 <!-- vault-crosslinks:end -->

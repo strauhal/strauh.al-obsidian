@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Gal
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: mirrored
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: wooden, interior
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: wooden, interior
 - [[knowledge/wiki/images/Document Magazine Article Page with Photo and Abstract Artwork 6980ed67|Document Magazine Article Page with Photo and Abstract Artwork]] — shared language: artwork, photo
 - [[knowledge/wiki/images/Illustration Stylized Nude Figures in Circular and Mirrored Arrangement 5829db9a|Illustration Stylized Nude Figures in Circular and Mirrored Arrangement]] — shared language: mirrored
 <!-- vault-crosslinks:end -->

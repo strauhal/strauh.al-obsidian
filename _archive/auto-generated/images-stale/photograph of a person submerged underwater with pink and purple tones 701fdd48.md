@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Person Submerged Underwater with Pink and Purple Tones 0d9a24de|Photograph Person Submerged Underwater with Pink and Purple Tones]] — shared language: underwater, submerged, tones
+- [[knowledge/wiki/images/Black And White Photograph Of Person Submerged In Water f59fbb2a|Black And White Photograph Of Person Submerged In Water]] — shared language: submerged, person
 - [[knowledge/wiki/images/Photograph Person Submerged in Water, Seen From Above 42080cfe|Photograph Person Submerged in Water, Seen From Above]] — shared language: submerged, person
-- [[knowledge/wiki/images/Illustration Intricate Colorful Painting of Figures and Animals in a Blue Underwater Scene c7c7a1f0|Illustration Intricate Colorful Painting of Figures and Animals in a Blue Underwater Scene]] — shared language: underwater
-- [[knowledge/wiki/images/Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings 15e51211|Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings]] — shared language: purple, pink
 - [[knowledge/wiki/images/Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] — shared language: tones, tones.jpeg
+- [[knowledge/wiki/images/Illustration Intricate Colorful Painting of Figures and Animals in a Blue Underwater Scene c7c7a1f0|Illustration Intricate Colorful Painting of Figures and Animals in a Blue Underwater Scene]] — shared language: underwater
 <!-- vault-crosslinks:end -->

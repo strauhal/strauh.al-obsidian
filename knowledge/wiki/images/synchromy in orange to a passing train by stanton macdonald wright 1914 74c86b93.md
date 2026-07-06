@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/synchromy_in_ora
 
 - [[knowledge/wiki/images/self portrait by stanton macdonald wright 1926 1927 adfb22f4|self portrait by stanton macdonald wright 1926 1927]] — same artist: stanton macdonald wright
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
-- [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: passing, train
 - [[knowledge/wiki/artists/Artist - joseph wright of derby|Artist - joseph wright of derby]] — shared language: wright
+- [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: passing, train
 - [[knowledge/wiki/images/the blacksmith s shop by joseph wright of derby 1771 4c0a948d|the blacksmith s shop by joseph wright of derby 1771]] — shared language: wright
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Large Yellow And Red Offshore Oil Platform In Rough Seas 801d917e|Photograph Large Yellow And Red Offshore Oil Platform In Rough Seas]] — shared language: offshore, rough, seas
-- [[_archive/auto-generated/images-stale/photograph of a large yellow and red offshore oil platform in rough seas under a grey sky 717d654e|photograph of a large yellow and red offshore oil platform in rough seas under a grey sky]] — shared language: offshore, seas, rough
-- [[knowledge/wiki/images/Photograph Offshore Oil Platform In Rough Seas Under Cloudy Sky 1f93113d|Photograph Offshore Oil Platform In Rough Seas Under Cloudy Sky]] — shared language: offshore, seas, rough
-- [[knowledge/wiki/images/Photograph Shell Esso Brent C Oil Platform in Rough Seas 4f79b17c|Photograph Shell Esso Brent C Oil Platform in Rough Seas]] — shared language: rough, seas, platform
-- [[_archive/auto-generated/images-stale/photograph of the shell esso brent c oil platform in rough seas cfd89c31|photograph of the shell esso brent c oil platform in rough seas]] — shared language: rough, seas, platform
+- [[knowledge/wiki/images/Large Yellow And Red Offshore Oil Platform In Rough Seas 66abc701|Large Yellow And Red Offshore Oil Platform In Rough Seas]] — shared language: offshore, rough, platform
+- [[_archive/auto-generated/images-stale/Photograph Large Yellow And Red Offshore Oil Platform In Rough Seas 801d917e|Photograph Large Yellow And Red Offshore Oil Platform In Rough Seas]] — shared language: offshore, rough, platform
+- [[_archive/auto-generated/images-stale/photograph of a large yellow and red offshore oil platform in rough seas under a grey sky 717d654e|photograph of a large yellow and red offshore oil platform in rough seas under a grey sky]] — shared language: offshore, rough, seas
+- [[knowledge/wiki/images/Offshore Oil Platform In Rough Seas Under Cloudy Sky ef957d8a|Offshore Oil Platform In Rough Seas Under Cloudy Sky]] — shared language: offshore, rough, seas
+- [[_archive/auto-generated/images-stale/Photograph Offshore Oil Platform In Rough Seas Under Cloudy Sky 1f93113d|Photograph Offshore Oil Platform In Rough Seas Under Cloudy Sky]] — shared language: offshore, rough, seas
 <!-- vault-crosslinks:end -->

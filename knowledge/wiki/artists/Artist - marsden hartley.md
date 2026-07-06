@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living, room
 - [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: living, room
-- [[knowledge/wiki/images/Photograph Modern Living Room with Dog and Desert View f87dd0aa|Photograph Modern Living Room with Dog and Desert View]] — shared language: living, room
-- [[knowledge/wiki/images/Photograph Messy Living Room With Toys And Furniture 15c1ae83|Photograph Messy Living Room With Toys And Furniture]] — shared language: living, room
-- [[knowledge/wiki/images/Photograph Dimly Lit Modern Living Room with TV and Speakers 6fb318f4|Photograph Dimly Lit Modern Living Room with TV and Speakers]] — shared language: living, room
-- [[knowledge/wiki/images/Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet c2f9fc89|Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: living, room
+- [[knowledge/wiki/images/Modern Living Room with Dog and Desert View c5686791|Modern Living Room with Dog and Desert View]] — shared language: living, room
+- [[knowledge/wiki/images/Messy Living Room With Toys And Furniture a5e59411|Messy Living Room With Toys And Furniture]] — shared language: living, room
+- [[knowledge/wiki/images/Dimly Lit Modern Living Room with TV and Speakers a06a8fad|Dimly Lit Modern Living Room with TV and Speakers]] — shared language: living, room
+- [[knowledge/wiki/images/Illustration Sunlit Plant Filled Living Room Viewed From Above 5ad3d243|Illustration Sunlit Plant Filled Living Room Viewed From Above]] — shared language: living, room
 <!-- vault-crosslinks:end -->

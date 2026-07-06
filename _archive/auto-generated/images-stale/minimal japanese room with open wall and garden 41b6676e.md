@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — shared language: room
+- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: minimal
 - [[_archive/auto-generated/images-stale/minimal grid drawing by jan roehr e9ecd8cf|minimal grid drawing by jan roehr]] — shared language: minimal
+- [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — shared language: room
 - [[knowledge/wiki/culture/music-minimal-nation|Listening - Minimal Nation]] — shared language: minimal
-- [[_archive/auto-generated/images-stale/oil painting of a garden with pink and yellow flowers and a low stone wall c4f019a2|oil painting of a garden with pink and yellow flowers and a low stone wall]] — shared language: garden, wall
 <!-- vault-crosslinks:end -->

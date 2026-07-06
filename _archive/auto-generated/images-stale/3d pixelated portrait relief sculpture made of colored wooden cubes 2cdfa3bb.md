@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Pixelated Portrait of Van Gogh Made from Colored Wooden Cubes by Geoffroy Amelot 942f8cec|Illustration Pixelated Portrait of Van Gogh Made from Colored Wooden Cubes by Geoffroy Amelot]] — shared language: cubes, colored, wooden
+- [[knowledge/wiki/images/Illustration Pixelated Portrait of Van Gogh Made from Colored Wooden Cubes by Geoffroy Amelot 942f8cec|Illustration Pixelated Portrait of Van Gogh Made from Colored Wooden Cubes by Geoffroy Amelot]] — shared language: cubes, made, colored
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
-- [[knowledge/wiki/images/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, sculpture
-- [[_archive/auto-generated/images-stale/abstract portrait made of small colored marks 12f57a00|abstract portrait made of small colored marks]] — shared language: colored, made
-- [[knowledge/wiki/artists/Artist - Geoffroy Amelot|Artist - Geoffroy Amelot]] — shared language: cubes, colored, wooden
+- [[_archive/auto-generated/images-stale/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, sculpture
+- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, sculpture
+- [[_archive/auto-generated/images-stale/abstract portrait made of small colored marks 12f57a00|abstract portrait made of small colored marks]] — shared language: made, colored
 <!-- vault-crosslinks:end -->

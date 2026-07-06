@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - julian oliver davidson|Artist - julian oliver davidson]] — shared language: davidson
 - [[knowledge/wiki/images/the battle of the monitor and merrimac by julian oliver davidson 1890 d922ca6e|the battle of the monitor and merrimac by julian oliver davidson 1890]] — shared language: davidson
 - [[knowledge/wiki/images/boy with glove times square new york by bruce davidson 1980 8427f886|boy with glove times square new york by bruce davidson 1980]] — shared language: davidson
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 <!-- vault-crosslinks:end -->

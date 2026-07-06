@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Photograph Red Arabic Calligraphy Mural On A Gray Wall bddcba61|Photograph Red Arabic Calligraphy Mural On A Gray Wall]] — shared language: mural, wall
 - [[knowledge/wiki/images/Photograph White Information Label On A Textured Grey Wall 88a7383b|Photograph White Information Label On A Textured Grey Wall]] — shared language: grey, wall
 - [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: wall, geometric
-- [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
+- [[knowledge/wiki/artists/Artist - Allyson Grey|Artist - Allyson Grey]] — shared language: grey, geometric
 <!-- vault-crosslinks:end -->

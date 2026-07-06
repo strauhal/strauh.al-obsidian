@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: city
 - [[_archive/auto-generated/images-stale/black ink sketch of people at a city intersection with a lamppost and crosswalk 4fb88d73|black ink sketch of people at a city intersection with a lamppost and crosswalk]] — shared language: city
 - [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: city
-- [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: city
 <!-- vault-crosslinks:end -->

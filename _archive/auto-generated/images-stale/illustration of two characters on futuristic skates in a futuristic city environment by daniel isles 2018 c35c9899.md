@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - daniel isles 2018|Artist - daniel isles 2018]] — named in this note
+- [[knowledge/wiki/artists/Artist - Daniel Isles|Artist - Daniel Isles]] — named in this note
 - [[knowledge/wiki/images/Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles a776e810|Illustration Stylized Characters Skating in a Futuristic City by Daniel Isles]] — same artist: daniel isles
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: futuristic, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic, city
 - [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
-- [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/colorful room illustration with table and plants d3bec09f|colorful room illustration with table and plants]] — shared language: table, room
 - [[knowledge/wiki/images/Illustration Two Figures Observe White Haired Person in Room with Eye Monitors by Lunarelles 15c50cf3|Illustration Two Figures Observe White Haired Person in Room with Eye Monitors by Lunarelles]] — shared language: monitors, room
 - [[knowledge/wiki/artists/Artist - Computer Circuit Boards and Monitors|Artist - Computer Circuit Boards and Monitors]] — shared language: monitors
-- [[knowledge/wiki/images/Photograph People In A Meeting Room With Laptops On A Table 4814757b|Photograph People In A Meeting Room With Laptops On A Table]] — shared language: table, room, table.jpeg
+- [[knowledge/wiki/images/People In A Meeting Room With Laptops On A Table 363e30d1|People In A Meeting Room With Laptops On A Table]] — shared language: table, room, table.jpeg
 <!-- vault-crosslinks:end -->

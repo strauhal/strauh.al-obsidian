@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: master
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: master
 - [[knowledge/wiki/images/Master James Hatch by William Beechey (1799) 5a7b79af|Master James Hatch by William Beechey (1799)]] — shared language: master
-- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: master
 - [[knowledge/wiki/images/Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf 44e472d1|Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf]] — shared language: master
+- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: master
 <!-- vault-crosslinks:end -->

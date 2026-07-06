@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[_archive/auto-generated/images-stale/gettyimages 488083785 1564755031 a88c0e83|gettyimages 488083785 1564755031]] — shared language: gettyimages
 - [[_archive/auto-generated/images-stale/gettyimages 176910681 43b11d93|gettyimages 176910681]] — shared language: gettyimages
-- [[knowledge/wiki/images/gettyimages 488083785 1564755031 a88c0e83|gettyimages 488083785 1564755031]] — shared language: gettyimages
-- [[_archive/auto-generated/images-stale/gfl asmxyaafizr jpeg 68e83ab3|gfl asmxyaafizr jpeg]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/gerard van honthorst old woman and boy with a candle c 16201635 90b2beb0|gerard van honthorst old woman and boy with a candle c 16201635]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

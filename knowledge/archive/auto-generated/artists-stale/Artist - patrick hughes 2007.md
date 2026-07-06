@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - patrick hughes|Artist - patrick hughes]] — named in this note
-- [[_archive/auto-generated/images-stale/patrick nagel 180 jpg 29ee7bce|patrick nagel 180 jpg]] — shared language: patrick
 - [[knowledge/wiki/artists/Artist - W. Preston Hughes|Artist - W. Preston Hughes]] — shared language: hughes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - w preston hughes|Artist - w preston hughes]] — shared language: hughes
-- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
+- [[_archive/auto-generated/images-stale/patrick nagel 180 jpg 29ee7bce|patrick nagel 180 jpg]] — shared language: patrick
 - [[knowledge/wiki/artists/Artist - Patrick E. Leahy|Artist - Patrick E. Leahy]] — shared language: patrick
+- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
 <!-- vault-crosslinks:end -->

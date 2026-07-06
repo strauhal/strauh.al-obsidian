@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, showing
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: layers
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: technical
-- [[knowledge/wiki/images/Diagram Grid of Abstract Visualizations with Technical Labels c22df3ab|Diagram Grid of Abstract Visualizations with Technical Labels]] — shared language: technical, diagram
+- [[_archive/auto-generated/images-stale/Diagram Grid of Abstract Visualizations with Technical Labels c22df3ab|Diagram Grid of Abstract Visualizations with Technical Labels]] — shared language: technical, diagram
 - [[knowledge/wiki/images/Illustration Abstract Composition of Black Dots in Undulating Rows e0bf6f9a|Illustration Abstract Composition of Black Dots in Undulating Rows]] — shared language: rows
+- [[_archive/auto-generated/images-stale/molecular diagram of a bacterial flagellar motor complex showing membrane layers and labeled components 60cf4936|molecular diagram of a bacterial flagellar motor complex showing membrane layers and labeled components]] — shared language: layers, showing, diagram
 <!-- vault-crosslinks:end -->

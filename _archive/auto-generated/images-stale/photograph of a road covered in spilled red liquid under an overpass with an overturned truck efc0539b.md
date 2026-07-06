@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass c6d45247|Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass]] — shared language: overturned, overpass, liquid
-- [[knowledge/wiki/images/Photograph Overturned Yellow Truck And SUV On City Street Near Aon Center 31560deb|Photograph Overturned Yellow Truck And SUV On City Street Near Aon Center]] — shared language: overturned, truck
+- [[knowledge/wiki/images/Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass c6d45247|Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass]] — shared language: overpass, overturned, liquid
+- [[knowledge/wiki/images/Overturned Yellow Truck And SUV On City Street Near Aon Center e8bb3385|Overturned Yellow Truck And SUV On City Street Near Aon Center]] — shared language: overturned, truck
+- [[_archive/auto-generated/images-stale/Photograph Overturned Yellow Truck And SUV On City Street Near Aon Center 31560deb|Photograph Overturned Yellow Truck And SUV On City Street Near Aon Center]] — shared language: overturned, truck
 - [[knowledge/wiki/images/Illustration Abstract Background with Standing and Fallen Bottles, Spilled Liquid by Monika Baer f9316bea|Illustration Abstract Background with Standing and Fallen Bottles, Spilled Liquid by Monika Baer]] — shared language: spilled, liquid
 - [[_archive/auto-generated/images-stale/photograph of white liquid streaks flowing down dark asphalt road 281e77ab|photograph of white liquid streaks flowing down dark asphalt road]] — shared language: liquid, road
-- [[knowledge/wiki/images/Photograph White Liquid Streaks Flowing Down Dark Asphalt Road 449d5f07|Photograph White Liquid Streaks Flowing Down Dark Asphalt Road]] — shared language: liquid, road
 <!-- vault-crosslinks:end -->

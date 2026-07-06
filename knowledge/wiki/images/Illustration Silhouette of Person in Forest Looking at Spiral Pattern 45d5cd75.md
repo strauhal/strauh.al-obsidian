@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
+- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
 - [[knowledge/wiki/images/Photograph Person Painting Red, Green, And White Geometric Pattern On Wall f18986b4|Photograph Person Painting Red, Green, And White Geometric Pattern On Wall]] — shared language: pattern, person
 - [[knowledge/wiki/images/Illustration Blue Illustration of Person and Cat Looking Out Window at Beach 15a7a410|Illustration Blue Illustration of Person and Cat Looking Out Window at Beach]] — shared language: looking, person
-- [[knowledge/wiki/images/Photograph Person Looking Up Against Wall With Shadows 132dcf26|Photograph Person Looking Up Against Wall With Shadows]] — shared language: looking, person
 <!-- vault-crosslinks:end -->

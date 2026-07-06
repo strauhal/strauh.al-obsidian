@@ -21,7 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Buffalo Hunt by Albert Bierstadt (c. 1887 1888) 45790395|The Buffalo Hunt by Albert Bierstadt (c. 1887 1888)]] — shared language: buffalo
-- [[knowledge/wiki/images/Photograph Rider On Horseback Herding Cattle In Deep Snow 36bc3cc2|Photograph Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding
+- [[knowledge/wiki/images/Two Men Standing on a Large Pile of Buffalo Skulls 36dec6e4|Two Men Standing on a Large Pile of Buffalo Skulls]] — shared language: buffalo
+- [[knowledge/wiki/images/Rider On Horseback Herding Cattle In Deep Snow 86458c0c|Rider On Horseback Herding Cattle In Deep Snow]] — shared language: herding
 - [[knowledge/wiki/images/Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape f4ad718e|Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape]] — shared language: herding
 - [[knowledge/wiki/images/Illustration Mural of Person in Conical Hat Riding Black Water Buffalo cbe75d79|Illustration Mural of Person in Conical Hat Riding Black Water Buffalo]] — shared language: buffalo
 - [[knowledge/wiki/images/oil painting of a cowboy on a horse herding cattle by frank zuanich 1953 b435f232|oil painting of a cowboy on a horse herding cattle by frank zuanich 1953]] — shared language: herding

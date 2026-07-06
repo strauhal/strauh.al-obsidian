@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_blacksmith_s
 
 - [[knowledge/wiki/images/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780) af192adb|Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780)]] — shared language: derby, wright, joseph
 - [[knowledge/wiki/images/John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]] — shared language: derby, wright, joseph
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
 <!-- vault-crosslinks:end -->

@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite.jpeg]]
+![[media/strauh.al3.1/photography/National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite.jpeg]]
 
 ## Image Notes
 
-- [[Photograph National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite 918be2d1|Photograph National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite]]
+- [[National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite c60793a3|National Guard Soldiers Patrol Street with Trump Banner and US Flag by J. Scott Applewhite]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

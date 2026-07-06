@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Ghost in the She
 - [[knowledge/wiki/artists/Artist - masamune shirow|Artist - masamune shirow]] — shared language: masamune, shirow
 - [[knowledge/wiki/images/reflection by masamune shirow 1991 588d1227|reflection by masamune shirow 1991]] — shared language: masamune, shirow
 - [[knowledge/wiki/images/the shell by yoshitaka amano 1992 949a5bb3|the shell by yoshitaka amano 1992]] — shared language: shell
-- [[knowledge/wiki/images/Illustration Watercolor Illustration of Two Men Rowing a Shell 817888b1|Illustration Watercolor Illustration of Two Men Rowing a Shell]] — shared language: shell
+- [[knowledge/wiki/culture/music-the-end-of-evangelion-original-soundtrack|Listening - The End of Evangelion: Original Soundtrack]] — shared language: soundtrack
 <!-- vault-crosslinks:end -->

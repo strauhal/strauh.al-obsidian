@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/gallery photo of a reclining stone sculpture 94a15857|gallery photo of a reclining stone sculpture]] — shared language: reclining, gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo detail of a reclining pink robed figure c18f0677|gallery photo detail of a reclining pink robed figure]] — shared language: reclining, gallery, photo
 - [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — shared language: reclining, photo
-- [[knowledge/wiki/images/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: reclining, photo
-- [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: gallery, photo
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: reclining, photo
+- [[_archive/auto-generated/images-stale/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: reclining, photo
 <!-- vault-crosslinks:end -->

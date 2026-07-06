@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - theodore robinson about 1887|Artist - theodore robinson about 1887]] — shared language: robinson
 - [[knowledge/wiki/images/the valley of arconville by theodore robinson about 1887 2239a4f6|the valley of arconville by theodore robinson about 1887]] — shared language: robinson
 - [[knowledge/wiki/images/sanford robinson gifford a mountain view landscape in the catskills 1865 37fe9a7f|sanford robinson gifford a mountain view landscape in the catskills 1865]] — shared language: robinson
-- [[knowledge/wiki/images/Photograph Martin Luther King Jr. Speaking at March on Washington 7e2935e8|Photograph Martin Luther King Jr. Speaking at March on Washington]] — shared language: luther, king, martin
+- [[knowledge/wiki/images/Martin Luther King Jr. Speaking at March on Washington 6c2f498d|Martin Luther King Jr. Speaking at March on Washington]] — shared language: luther, king, martin
 <!-- vault-crosslinks:end -->

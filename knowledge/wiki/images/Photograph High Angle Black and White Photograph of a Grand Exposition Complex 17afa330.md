@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Hig
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph High Angle View of Tanks and Troops in Tiananmen Square c0d0a91c|Photograph High Angle View of Tanks and Troops in Tiananmen Square]] — shared language: angle, high, high-angle
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition
-- [[knowledge/wiki/images/Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure 70078dbe|Photograph High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: angle, high, high-angle
+- [[knowledge/wiki/images/Photograph High Angle View of Tanks and Troops in Tiananmen Square c0d0a91c|Photograph High Angle View of Tanks and Troops in Tiananmen Square]] — shared language: angle, high, high-angle
+- [[knowledge/wiki/images/High Angle View of Building Facade, Sidewalk, and Lone Figure 2c5bcc37|High Angle View of Building Facade, Sidewalk, and Lone Figure]] — shared language: angle, high, high-angle
 - [[knowledge/wiki/images/black and white photograph of a grand architectural complex and fountains by a waterway 1893 1e8b96fc|black and white photograph of a grand architectural complex and fountains by a waterway 1893]] — shared language: grand, complex
+- [[knowledge/wiki/images/view of the grand basin and exposition buildings world s columbian exposition by charles dudley arnold 1893 d120989a|view of the grand basin and exposition buildings world s columbian exposition by charles dudley arnold 1893]] — shared language: exposition, grand
 <!-- vault-crosslinks:end -->

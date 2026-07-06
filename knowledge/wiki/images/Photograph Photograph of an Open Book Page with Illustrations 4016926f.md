@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of a Book Page with an Illustration of Light and Color cdea9c1a|Photograph Photograph of a Book Page with an Illustration of Light and Color]] — shared language: book, page
-- [[knowledge/wiki/images/Photograph Book Page Showing Photograph and Painting of Man Cutting Hair 847448bd|Photograph Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: book, page
+- [[knowledge/wiki/images/Photograph of a Book Page with an Illustration of Light and Color 755352db|Photograph of a Book Page with an Illustration of Light and Color]] — shared language: book, page
+- [[knowledge/wiki/images/Book Page Showing Photograph and Painting of Man Cutting Hair 475fd06f|Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: book, page
 - [[knowledge/wiki/images/Document Close Up Of A Book Page With Printed Text 26a2fcf1|Document Close Up Of A Book Page With Printed Text]] — shared language: book, page
 - [[knowledge/wiki/images/Photograph Photograph of a Book Page with Three Tibetan Lamas Illustration abf04fb4|Photograph Photograph of a Book Page with Three Tibetan Lamas Illustration]] — shared language: book, page
 - [[knowledge/wiki/images/Document Page From Book With Spanish Text And Illustration Of Philosopher 901d0a5e|Document Page From Book With Spanish Text And Illustration Of Philosopher]] — shared language: book, page

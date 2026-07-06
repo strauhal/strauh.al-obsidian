@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black Baseball Cap with Embroidered Humorous Text ebbff4e7|Photograph Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered, baseball, cap
+- [[knowledge/wiki/images/Black Baseball Cap with Embroidered Humorous Text 794505df|Black Baseball Cap with Embroidered Humorous Text]] — shared language: embroidered, baseball, cap
 - [[knowledge/wiki/images/Illustration Embroidered Wikipedia Article About Embroidery on White Fabric 4b637418|Illustration Embroidered Wikipedia Article About Embroidery on White Fabric]] — shared language: embroidered
-- [[knowledge/wiki/images/Photograph Night Baseball Game with Japanese Castle in Background 6dd8ea8b|Photograph Night Baseball Game with Japanese Castle in Background]] — shared language: baseball
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
+- [[knowledge/wiki/images/Night Baseball Game with Japanese Castle in Background 349bfe49|Night Baseball Game with Japanese Castle in Background]] — shared language: baseball
 - [[knowledge/wiki/images/Illustration Embroidered Patch of Formosan Bear Punching Winnie the Pooh bc299082|Illustration Embroidered Patch of Formosan Bear Punching Winnie the Pooh]] — shared language: embroidered
 <!-- vault-crosslinks:end -->

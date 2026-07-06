@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Elks Magazine Cover by Franklin Booth (1926) 5e24620b|Elks Magazine Cover by Franklin Booth (1926)]] — shared language: magazine, cover
 - [[_archive/auto-generated/images-stale/cover genfill f84d2fd6|cover genfill]] — shared language: cover
-- [[_archive/auto-generated/images-stale/Subtropics1 cover 10f17445|Subtropics1 cover]] — shared language: cover
+- [[knowledge/wiki/images/Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers 88a1d0b3|Illustration Japanese Figure With Smartphone, Cat, And Floating Flowers]] — shared language: japanese, flowers, flowers.jpg
 <!-- vault-crosslinks:end -->

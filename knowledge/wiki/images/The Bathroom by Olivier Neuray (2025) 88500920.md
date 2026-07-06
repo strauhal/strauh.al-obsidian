@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Bathroom by 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Portrait of Olivier Messiaen Wearing Glasses 609024e8|Photograph Black and White Portrait of Olivier Messiaen Wearing Glasses]] — shared language: olivier
-- [[knowledge/wiki/images/Photograph Bathroom with Toilet, Shower, and Vanity 66439eb6|Photograph Bathroom with Toilet, Shower, and Vanity]] — shared language: bathroom
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: bathroom
+- [[knowledge/wiki/images/Black and White Portrait of Olivier Messiaen Wearing Glasses 710c7f2a|Black and White Portrait of Olivier Messiaen Wearing Glasses]] — shared language: olivier
+- [[knowledge/wiki/images/Bathroom with Toilet, Shower, and Vanity 5f41809b|Bathroom with Toilet, Shower, and Vanity]] — shared language: bathroom
+- [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: bathroom
 - [[knowledge/wiki/images/Illustration Vibrant Painting of a Bathroom Interior with Sunlight and Stained Glass 6f1d8b9c|Illustration Vibrant Painting of a Bathroom Interior with Sunlight and Stained Glass]] — shared language: bathroom
 - [[knowledge/wiki/images/Illustration Man Washing Hands in Sepia Toned Bathroom df72f550|Illustration Man Washing Hands in Sepia Toned Bathroom]] — shared language: bathroom
 <!-- vault-crosslinks:end -->

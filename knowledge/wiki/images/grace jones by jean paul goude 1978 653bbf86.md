@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/grace_jones_by_j
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Grace Jones, New York by Jean Paul Goude 57aba063|Photograph Grace Jones, New York by Jean Paul Goude]] — same artist: jean paul goude
+- [[knowledge/wiki/images/Grace Jones, New York by Jean Paul Goude eefa828e|Grace Jones, New York by Jean Paul Goude]] — same artist: jean paul goude
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones, paul
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul, jean
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean

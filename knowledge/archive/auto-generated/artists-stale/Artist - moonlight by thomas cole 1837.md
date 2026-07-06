@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - moonlight by thomas cole|Artist - moonlight by thomas cole]] — named in this note
 - [[knowledge/wiki/artists/Artist - moonlight|Artist - moonlight]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1837|Artist - thomas cole 1837]] — shared language: cole, thomas
-- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1840|Artist - thomas cole 1840]] — shared language: cole, thomas
 - [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1833|Artist - thomas cole 1833]] — shared language: cole, thomas
+- [[knowledge/archive/auto-generated/artists-stale/Artist - thomas cole 1840|Artist - thomas cole 1840]] — shared language: cole, thomas
 - [[knowledge/wiki/artists/Artist - thomas cole 18331834|Artist - thomas cole 18331834]] — shared language: cole, thomas
 <!-- vault-crosslinks:end -->

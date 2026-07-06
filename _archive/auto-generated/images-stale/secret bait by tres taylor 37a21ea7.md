@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: secret
 - [[knowledge/wiki/books/mark-c-taylor-refiguring-the-spiritual-beuys-barney-turrell-goldsworthy|Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy]] — shared language: taylor
 - [[knowledge/wiki/images/the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922 c81ecaf0|the bradys and the chinese drug dealer or the four mysterious skulls secret service no 1230 cover illustration 1922]] — shared language: secret
-- [[knowledge/wiki/images/Diagram Elaborate Conspiracy Theory Chart of History and Secret Societies by Dylan Louis Monroe 1975a2fb|Diagram Elaborate Conspiracy Theory Chart of History and Secret Societies by Dylan Louis Monroe]] — shared language: secret
+- [[knowledge/wiki/images/Elaborate Conspiracy Theory Chart of History and Secret Societies by Dylan Louis Monroe 85d943e3|Elaborate Conspiracy Theory Chart of History and Secret Societies by Dylan Louis Monroe]] — shared language: secret
 <!-- vault-crosslinks:end -->

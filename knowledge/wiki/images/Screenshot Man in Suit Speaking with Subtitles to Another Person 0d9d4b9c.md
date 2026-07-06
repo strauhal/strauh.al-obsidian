@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: another
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: another
 - [[knowledge/wiki/images/Screenshot Man Lying Backwards On Chair, Another Person Watches ed2761af|Screenshot Man Lying Backwards On Chair, Another Person Watches]] — shared language: another, screenshot, person
-- [[knowledge/wiki/images/Photograph Woman Speaking On Stage With Humorous Text On Screen 776787f4|Photograph Woman Speaking On Stage With Humorous Text On Screen]] — shared language: speaking
 - [[knowledge/wiki/images/Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles e87bc1f8|Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles]] — shared language: subtitles, screenshot
+- [[knowledge/wiki/images/Woman Speaking On Stage With Humorous Text On Screen 9a8dc3dd|Woman Speaking On Stage With Humorous Text On Screen]] — shared language: speaking
 <!-- vault-crosslinks:end -->

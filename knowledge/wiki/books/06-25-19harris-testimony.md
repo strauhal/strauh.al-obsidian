@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/06_25_19Harris_Testimony.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # 06 25 19Harris Testimony
@@ -37,6 +37,7 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
@@ -44,5 +45,4 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/1622209317013|1622209317013]] — same category: unsorted
 - [[knowledge/wiki/books/1625220285333|1625220285333]] — same category: unsorted
 - [[knowledge/wiki/books/1629045844123|1629045844123]] — same category: unsorted
-- [[knowledge/wiki/books/1655281517852|1655281517852]] — same category: unsorted
 <!-- vault-crosslinks:end -->

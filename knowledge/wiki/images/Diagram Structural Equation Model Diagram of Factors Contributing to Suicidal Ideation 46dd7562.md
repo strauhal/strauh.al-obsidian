@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Struct
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche Diagram 27fa7e8e|Diagram Freud's Structural Model of the Psyche Diagram]] — shared language: structural, model, diagram
+- [[knowledge/wiki/images/Freud's Structural Model of the Psyche Diagram e32970e8|Freud's Structural Model of the Psyche Diagram]] — shared language: structural, model, diagram
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: structural
 - [[knowledge/wiki/books/clancy-martin-how-not-to-kill-yourself-a-portrait-of-the-suicidal-mind-pantheon|How Not to Kill Yourself A Portrait of the Suicidal Mind-Pantheon]] — shared language: suicidal
-- [[knowledge/wiki/images/Diagram Freud's Structural Model of the Psyche by Sigmund Freud 6e17f9c2|Diagram Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: structural, model, diagram
+- [[knowledge/wiki/images/Freud's Structural Model of the Psyche by Sigmund Freud 6a2b1a56|Freud's Structural Model of the Psyche by Sigmund Freud]] — shared language: structural, model
 <!-- vault-crosslinks:end -->

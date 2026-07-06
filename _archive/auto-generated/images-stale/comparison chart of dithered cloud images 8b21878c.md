@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Comparison Chart of Dithered Cloud Images c049674d|Diagram Comparison Chart of Dithered Cloud Images]] — shared language: dithered, comparison, cloud
+- [[knowledge/wiki/images/Comparison Chart of Dithered Cloud Images 6c63a4a3|Comparison Chart of Dithered Cloud Images]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Comparison Chart of Dithered Cloud Images c049674d|Diagram Comparison Chart of Dithered Cloud Images]] — shared language: dithered, comparison, cloud
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: chart
-- [[_archive/auto-generated/books-stale/mayakovsky-cloud-in-trousers|Mayakovsky Cloud in Trousers]] — shared language: cloud
+- [[knowledge/wiki/images/Comparison Chart of Philosophical Terms with Meanings and Examples e9b0a953|Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: comparison, chart
 - [[_archive/auto-generated/images-stale/blue dithered noise image 015ba2c5|blue dithered noise image]] — shared language: dithered
-- [[knowledge/wiki/images/Diagram Comparison Chart of Philosophical Terms with Meanings and Examples a202ec92|Diagram Comparison Chart of Philosophical Terms with Meanings and Examples]] — shared language: comparison, chart
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Photograph - 
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: gar, ons, comme
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: people, city
 - [[knowledge/wiki/images/cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988 74dcb9fe|cover illustration for six magazine issue 1 comme des garcons by katsuhiro otomo 1988]] — shared language: comme, des
+- [[knowledge/wiki/images/Illustration Black Ink Sketch of People at a City Intersection acb63f75|Illustration Black Ink Sketch of People at a City Intersection]] — shared language: people, city
 - [[knowledge/wiki/images/Illustration Blue Text 'LOCKED IN' with Stylized Logo on White Background aa96d2dc|Illustration Blue Text 'LOCKED IN' with Stylized Logo on White Background]] — shared language: logo, text
 <!-- vault-crosslinks:end -->

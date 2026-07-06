@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
 - [[_archive/auto-generated/images-stale/framed coastal landscape with blue water and distant hills 369bed35|framed coastal landscape with blue water and distant hills]] — shared language: distant, framed, landscape
 - [[_archive/auto-generated/images-stale/framed lake landscape with islands and distant mountains 6e0592dd|framed lake landscape with islands and distant mountains]] — shared language: distant, framed, landscape
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: mountain, road, landscape
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: mountain, road, landscape
 <!-- vault-crosslinks:end -->

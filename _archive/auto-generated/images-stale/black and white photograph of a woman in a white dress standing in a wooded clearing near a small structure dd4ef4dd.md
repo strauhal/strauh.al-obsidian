@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing, wooded, near
+- [[_archive/auto-generated/images-stale/Photograph Woman In White Dress In Wooded Clearing Near Structure 3bdcc6db|Photograph Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing, wooded, near
+- [[knowledge/wiki/images/Woman In White Dress In Wooded Clearing Near Structure 815527cd|Woman In White Dress In Wooded Clearing Near Structure]] — shared language: clearing, wooded, near
 - [[_archive/auto-generated/images-stale/color print of a wooded riverbank with a small house c9c4811b|color print of a wooded riverbank with a small house]] — shared language: wooded, small
-- [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
-- [[_archive/auto-generated/images-stale/photograph of five people in eclectic clothing standing in a wooded hillside 868ebead|photograph of five people in eclectic clothing standing in a wooded hillside]] — shared language: wooded, standing
+- [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 <!-- vault-crosslinks:end -->

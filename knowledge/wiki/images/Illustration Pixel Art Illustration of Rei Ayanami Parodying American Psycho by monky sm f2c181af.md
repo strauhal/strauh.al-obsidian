@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: rei
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: rei
-- [[knowledge/wiki/images/rei 5f3aa874|rei]] — shared language: rei
 - [[knowledge/wiki/images/Document Rolling Stone Japan Magazine Cover Featuring Rei Ayanami 3f24e507|Document Rolling Stone Japan Magazine Cover Featuring Rei Ayanami]] — shared language: ayanami, rei
+- [[knowledge/wiki/images/rei 5f3aa874|rei]] — shared language: rei
 - [[knowledge/wiki/images/rei smile 1bf5d8bc|rei smile]] — shared language: rei
 <!-- vault-crosslinks:end -->

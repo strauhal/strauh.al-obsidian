@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jan saenredam|Artist - jan saenredam]] — shared language: jan
 - [[knowledge/wiki/images/the annunciation to the shepherds by jan saenredam 1599 e626d8a7|the annunciation to the shepherds by jan saenredam 1599]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan weenix|Artist - jan weenix]] — shared language: jan
-- [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan
+- [[knowledge/wiki/artists/Artist - jan lievens|Artist - jan lievens]] — shared language: jan
 <!-- vault-crosslinks:end -->

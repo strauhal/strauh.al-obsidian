@@ -273,8 +273,8 @@ _Only the first 200 image notes are listed here; search covers all 427._
 - [[knowledge/wiki/artists/Artist - Cecily Brown|Artist - Cecily Brown]] — shared language: cecily, brown
 - [[knowledge/wiki/images/Dream Chairs by Tadao Ando (2013) 4980484c|Dream Chairs by Tadao Ando (2013)]] — shared language: ando, tadao
 - [[_archive/auto-generated/images-stale/metalocus tadao ando iglesia de la luz 32 a 49c1a828|metalocus tadao ando iglesia de la luz 32 a]] — shared language: ando, tadao
-- [[knowledge/wiki/images/Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown ca5d521c|Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: cecily, brown
+- [[knowledge/wiki/images/Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown 8d08949f|Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: cecily, brown
+- [[_archive/auto-generated/images-stale/Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown ca5d521c|Photograph Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: cecily, brown
 - [[knowledge/wiki/images/iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958 c5ecbd1c|iannis xenakis and le corbusier philips pavilion brussels worlds fair expo 58 1958]] — shared language: iannis, xenakis
 - [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — shared language: listed, search, first
-- [[knowledge/wiki/images/Photograph Man Seated In Tadao Ando's Church Of The Light Interior d645a683|Photograph Man Seated In Tadao Ando's Church Of The Light Interior]] — shared language: tadao
 <!-- vault-crosslinks:end -->

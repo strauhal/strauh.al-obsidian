@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/images/Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background e918d167|Illustration Stylized Numbers 1 7 Using Vertical Lines on Grey Background]] — shared language: grey, stylized, background
 - [[knowledge/wiki/images/Illustration Abstract Wavy Black Lines On Grey Background cd77ee55|Illustration Abstract Wavy Black Lines On Grey Background]] — shared language: grey, background
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Man in Suit Against Black Background 2a8d2b72|Illustration Stylized Portrait of Man in Suit Against Black Background]] — shared language: stylized, background, background.jpeg
 - [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: grey
-- [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: grey
 <!-- vault-crosslinks:end -->

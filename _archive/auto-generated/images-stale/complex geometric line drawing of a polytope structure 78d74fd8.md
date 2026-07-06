@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/symmetrical geometric diagram of a complex polytope projection 068b1b57|symmetrical geometric diagram of a complex polytope projection]] — shared language: polytope, complex, geometric
 - [[knowledge/wiki/images/Diagram Complex Geometric Diagram of a Six Dimensional Polytope a46a5020|Diagram Complex Geometric Diagram of a Six Dimensional Polytope]] — shared language: polytope, complex, geometric
 - [[knowledge/wiki/images/Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection 962101aa|Diagram Symmetrical Geometric Diagram of a Complex Polytope Projection]] — shared language: polytope, complex, geometric
-- [[knowledge/wiki/images/Document Document Page With A Complex Geometric Line Diagram 2c888ac0|Document Document Page With A Complex Geometric Line Diagram]] — shared language: complex, geometric, line
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 <!-- vault-crosslinks:end -->

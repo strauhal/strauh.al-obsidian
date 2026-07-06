@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/A Computer Can N
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: never
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/artists/Artist - jacob lawrence|Artist - jacob lawrence]] — shared language: lawrence
-- [[knowledge/wiki/books/richard-szeliski-computer-vision-algorithms-and-applications|Computer Vision: Algorithms and Applications]] — shared language: computer
 - [[knowledge/wiki/books/lawrence-e-cahoone-from-modernism-to-postmodernism-blackwell-philosophy-anthologies-wiley|From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley]] — shared language: lawrence
+- [[knowledge/wiki/books/richard-szeliski-computer-vision-algorithms-and-applications|Computer Vision: Algorithms and Applications]] — shared language: computer
+- [[knowledge/wiki/books/warren-buffett-lawrence-a-cunningham-the-essays-of-warren-buffett-lessons-for-corporate-america|The Essays of Warren Buffett: Lessons for Corporate America]] — shared language: lawrence
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: stefan
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: burnett
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: burnett
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
 <!-- vault-crosslinks:end -->

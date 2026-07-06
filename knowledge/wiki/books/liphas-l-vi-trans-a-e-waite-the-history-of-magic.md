@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The History of Magic (Eliphas Levi A. E. Waite (transl.))]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The History of Magic (Eliphas Levi A. E. Waite (transl.)) (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The History of Magic
@@ -44,8 +44,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — same category: esoterica
 - [[knowledge/wiki/books/confucius-trans-robert-eno-the-analects-of-confucius|The Analects of Confucius]] — same category: esoterica
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — same category: esoterica
-- [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
 - [[knowledge/wiki/books/tea-scones-and-socially-responsible-sex-magic-the-egalitarian-occultism-of-dion-fortune|Tea, Scones and Socially Responsible Sex Magic: The Egalitarian Occultism of Dion Fortune]] — same category: esoterica
+- [[knowledge/wiki/books/timothy-leary-what-does-woman-want|What Does WoMan Want]] — same category: esoterica
 - [[knowledge/wiki/books/stoic-4chan|stoic 4chan]] — same category: esoterica
 - [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — same category: esoterica
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/geometric drawing of interlocking cubes and lines within a triangle e99c0551|geometric drawing of interlocking cubes and lines within a triangle]] — shared language: cubes, geometric
 - [[knowledge/wiki/images/Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle c3fe53de|Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle]] — shared language: cubes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Spiral and Angular Forms b3eb83ae|Illustration Abstract Geometric Composition with Spiral and Angular Forms]] — shared language: spiral, geometric
-- [[knowledge/wiki/images/Illustration Golden Stylized Human Head in Geometric Wireframe 145b43f8|Illustration Golden Stylized Human Head in Geometric Wireframe]] — shared language: golden, geometric
+- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
 <!-- vault-crosslinks:end -->

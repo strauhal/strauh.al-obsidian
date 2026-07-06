@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1700s"
 source_kind: "date_bucket"
-count: "8"
+count: "7"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1700s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 8
+Files: 7
 
 ## Sample
 
@@ -26,8 +26,6 @@ Files: 8
 ![[media/strauh.al3.1/1700s/portrait_of_the_artist_s_family_by_nicolas_de_largilliere_c_1704.jpg]]
 
 ![[media/strauh.al3.1/1700s/still_life_with_dead_game_a_monkey_and_a_dog_by_jan_weenix_c_1700.jpg]]
-
-![[media/strauh.al3.1/photography/IMG_1703.JPG]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

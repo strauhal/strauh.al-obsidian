@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/digital illustration of a man with a large mustache holding a sword against a red background aed6b5e0|digital illustration of a man with a large mustache holding a sword against a red background]] — shared language: against, holding, digital
 - [[_archive/auto-generated/images-stale/highly stylized digital image of a figure with pigtails holding an object against a landscape background 8558b54c|highly stylized digital image of a figure with pigtails holding an object against a landscape background]] — shared language: against, holding, digital
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
+- [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: against, background
 <!-- vault-crosslinks:end -->

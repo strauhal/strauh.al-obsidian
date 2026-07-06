@@ -23,5 +23,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - akihiro yamada|Artist - akihiro yamada]] — named in this note
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: war
 - [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: war
-- [[knowledge/wiki/images/Photograph Clear Vinyl Record with White Abstract Patterns and Tracklist e7850158|Photograph Clear Vinyl Record with White Abstract Patterns and Tracklist]] — shared language: record
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass e584db74|Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: turtleneck, coat, dark
+- [[knowledge/wiki/images/Man in Dark Coat and Green Turtleneck Holding Wine Glass 5e62c469|Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: turtleneck, coat, dark
+- [[_archive/auto-generated/images-stale/Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass e584db74|Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: turtleneck, coat, dark
 - [[_archive/auto-generated/images-stale/photograph of a man in a dark coat and turtleneck holding a wine glass with red liquid 55a06c4e|photograph of a man in a dark coat and turtleneck holding a wine glass with red liquid]] — shared language: turtleneck, coat, dark
 - [[_archive/auto-generated/images-stale/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: coat, young
 - [[knowledge/wiki/images/Illustration Illustration of a Woman With Red Hair And Turtleneck f33df37a|Illustration Illustration of a Woman With Red Hair And Turtleneck]] — shared language: turtleneck
-- [[knowledge/wiki/images/Photograph Young Woman With Bottles And Cigarette Packs On Floor e91fc69c|Photograph Young Woman With Bottles And Cigarette Packs On Floor]] — shared language: cigarette, young
 <!-- vault-crosslinks:end -->

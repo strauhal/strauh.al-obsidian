@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Psychedelic Floral Pattern with Pink and Blue Marbled Background e2950951|Illustration Psychedelic Floral Pattern with Pink and Blue Marbled Background]] — shared language: psychedelic, background, background.jpg
 - [[knowledge/wiki/images/Illustration Stylized Still Life of Flowers in Vase by Window bb6431e7|Illustration Stylized Still Life of Flowers in Vase by Window]] — shared language: vase, flowers
 - [[knowledge/wiki/images/Vase of Flowers by George Henry Hall (1879) cd735ae4|Vase of Flowers by George Henry Hall (1879)]] — shared language: vase, flowers
-- [[knowledge/wiki/images/16th February 2021, More Flowers in a Glass Vase by David Hockney (2021) b7774369|16th February 2021, More Flowers in a Glass Vase by David Hockney (2021)]] — shared language: vase, flowers
+- [[knowledge/wiki/images/Bouquet by Camille Pissarro (1898) 09781f4a|Bouquet by Camille Pissarro (1898)]] — shared language: bouquet
 <!-- vault-crosslinks:end -->

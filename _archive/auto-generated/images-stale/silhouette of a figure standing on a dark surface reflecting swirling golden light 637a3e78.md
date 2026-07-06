@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Silhouette of a Person Standing on Reflective Golden Swirling Surface 5246bdff|Photograph Silhouette of a Person Standing on Reflective Golden Swirling Surface]] — shared language: silhouette, surface, swirling
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[_archive/auto-generated/images-stale/black and white photograph of a car creating light trails on a dark surface 12757413|black and white photograph of a car creating light trails on a dark surface]] — shared language: surface, light, dark
-- [[knowledge/wiki/images/Photograph Car Creating Light Trails on Dark Surface 63a23d68|Photograph Car Creating Light Trails on Dark Surface]] — shared language: surface, light, dark
-- [[knowledge/wiki/images/Illustration Abstract Swirling Lines And Dots On Light Background fa07b355|Illustration Abstract Swirling Lines And Dots On Light Background]] — shared language: swirling, light
+- [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — shared language: surface, light, dark
 <!-- vault-crosslinks:end -->

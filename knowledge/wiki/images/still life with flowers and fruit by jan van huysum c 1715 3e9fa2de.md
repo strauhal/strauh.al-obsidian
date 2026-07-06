@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/still_life_with_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Still Life with Flowers and Fruit by David Hockney (1984) c044cd3f|Still Life with Flowers and Fruit by David Hockney (1984)]] — shared language: fruit, flowers, still
+- [[knowledge/wiki/images/Still Life with Flowers and Fruit by David Hockney (1984) c044cd3f|Still Life with Flowers and Fruit by David Hockney (1984)]] — shared language: fruit, still, flowers
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/artists/Artist - jan van eyck|Artist - jan van eyck]] — shared language: jan, van
-- [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers (2) 0b134958|Illustration Abstract Still Life With Two Vases And Flowers (2)]] — shared language: flowers, still, life
+- [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers (2) 0b134958|Illustration Abstract Still Life With Two Vases And Flowers (2)]] — shared language: still, flowers, life
 - [[knowledge/wiki/images/Illustration Abstract Still Life With Two Vases And Flowers f234afe1|Illustration Abstract Still Life With Two Vases And Flowers]] — shared language: still, flowers, life
 <!-- vault-crosslinks:end -->

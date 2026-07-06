@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Grayscale Photograph of a Woman in Oversized Dark Clothing 5f0a2218|Photograph Grayscale Photograph of a Woman in Oversized Dark Clothing]] — shared language: oversized, grayscale, clothing
 - [[knowledge/wiki/images/Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing e6a7614c|Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing]] — shared language: clothing, dark, clothing.jpeg
 - [[_archive/auto-generated/images-stale/oil painting of a woman with dark hair and purple clothing 63374cec|oil painting of a woman with dark hair and purple clothing]] — shared language: clothing, dark, clothing.jpeg
-- [[knowledge/wiki/images/Photograph Person in Dark Makeup and Clothing in Tractor Cab 74eb6e7b|Photograph Person in Dark Makeup and Clothing in Tractor Cab]] — shared language: clothing, dark
 - [[knowledge/wiki/images/Illustration Stylized Character in Helmet and Oversized Clothes 234c12cc|Illustration Stylized Character in Helmet and Oversized Clothes]] — shared language: oversized
+- [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 <!-- vault-crosslinks:end -->

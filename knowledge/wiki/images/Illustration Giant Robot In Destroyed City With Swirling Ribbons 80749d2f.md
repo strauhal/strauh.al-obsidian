@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: giant
 - [[knowledge/wiki/images/Illustration Purple Robot Emerging From Giant Eye by Hideaki Anno e4e32619|Illustration Purple Robot Emerging From Giant Eye by Hideaki Anno]] — shared language: giant, robot
-- [[knowledge/wiki/images/Photograph Cat Sits Among Destroyed Window Blinds eab6ca3c|Photograph Cat Sits Among Destroyed Window Blinds]] — shared language: destroyed
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — shared language: swirling
+- [[knowledge/wiki/images/Illustration Figure In Purple Dress Holding Red Ribbons With Confetti d2c76385|Illustration Figure In Purple Dress Holding Red Ribbons With Confetti]] — shared language: ribbons
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/chimpanzee_co
 - [[_archive/auto-generated/images-stale/chimpanzee congo abstract painting c32dd629|chimpanzee congo abstract painting]] — shared language: congo, chimpanzee
 - [[knowledge/wiki/artists/Artist - Congo|Artist - Congo]] — shared language: congo
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo 7f77a1c1|Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo]] — shared language: congo
-- [[knowledge/wiki/images/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
+- [[_archive/auto-generated/images-stale/Chimpanzee seated at typewriter 44992847|Chimpanzee seated at typewriter]] — shared language: chimpanzee
 <!-- vault-crosslinks:end -->

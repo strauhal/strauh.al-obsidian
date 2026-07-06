@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: online
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Screenshot Screenshot of an Online Forum Discussion About Music Software 10e7751a|Screenshot Screenshot of an Online Forum Discussion About Music Software]] — shared language: forum, online
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
+- [[knowledge/wiki/images/Screenshot Online Forum Screenshot Showing Person Holding Musical Instrument Case b3007dcc|Screenshot Online Forum Screenshot Showing Person Holding Musical Instrument Case]] — shared language: forum, online
 <!-- vault-crosslinks:end -->

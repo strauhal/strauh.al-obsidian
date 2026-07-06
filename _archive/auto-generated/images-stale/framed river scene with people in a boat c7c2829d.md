@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/tonalist river landscape with boat and low hills 3af493a1|tonalist river landscape with boat and low hills]] — shared language: boat, river
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: boat
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
+- [[_archive/auto-generated/images-stale/framed group scene of people dancing or performing dbae02a2|framed group scene of people dancing or performing]] — shared language: scene, people, framed
 <!-- vault-crosslinks:end -->

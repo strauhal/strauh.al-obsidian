@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: moon
 - [[knowledge/wiki/books/sarah-wynn-williams-careless-people-flatiron-books|Careless People-Flatiron Books]] — shared language: sarah
-- [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — shared language: moon
 - [[knowledge/wiki/images/The Sun, The Moon, The Star by David Glomba (2017) 04cda5d4|The Sun, The Moon, The Star by David Glomba (2017)]] — shared language: moon
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: moon
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: moon
+- [[knowledge/wiki/images/Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon 2a8c4293|Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon]] — shared language: moon
 <!-- vault-crosslinks:end -->

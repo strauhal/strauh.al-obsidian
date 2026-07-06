@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Black and White Grid of Adversarial Examples 4681dabf|Diagram Black and White Grid of Adversarial Examples]] — shared language: examples, examples.png
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Frank Zappa Pointing at Viewer 88d2630c|Photograph Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: pointing
+- [[knowledge/wiki/images/Black and White Grid of Adversarial Examples 7d052f86|Black and White Grid of Adversarial Examples]] — shared language: examples, examples.png
 - [[knowledge/wiki/images/Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red 8670b001|Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red]] — shared language: cartoon
-- [[knowledge/wiki/images/Illustration Abstract Painting of Figure Riding Horse and Pointing dbf31a5d|Illustration Abstract Painting of Figure Riding Horse and Pointing]] — shared language: pointing
 - [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: cartoon
+- [[knowledge/wiki/images/Illustration Abstract Painting of Figure Riding Horse and Pointing dbf31a5d|Illustration Abstract Painting of Figure Riding Horse and Pointing]] — shared language: pointing
+- [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: cartoon
 <!-- vault-crosslinks:end -->

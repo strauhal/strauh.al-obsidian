@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - Diana Walker|Artist - Diana Walker]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - walker evans|Artist - walker evans]] — shared language: walker
-- [[knowledge/wiki/images/Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror 55a16c92|Photograph Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: chuck
+- [[knowledge/wiki/images/Chuck Jones Drawing His Surprised Reflection In A Mirror 397312af|Chuck Jones Drawing His Surprised Reflection In A Mirror]] — shared language: chuck
 <!-- vault-crosslinks:end -->

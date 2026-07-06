@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 
 - [[knowledge/wiki/books/the-complete-chord-formulas-handbook|The Complete Chord Formulas Handbook]] — shared language: chord
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: chord
-- [[knowledge/wiki/images/Diagram Musical Notation of a Six Note Chord in Treble Clef 5db97720|Diagram Musical Notation of a Six Note Chord in Treble Clef]] — shared language: chord
+- [[knowledge/wiki/images/Musical Notation of a Six Note Chord in Treble Clef f099dca3|Musical Notation of a Six Note Chord in Treble Clef]] — shared language: chord
+- [[_archive/auto-generated/images-stale/Diagram Musical Notation of a Six Note Chord in Treble Clef 5db97720|Diagram Musical Notation of a Six Note Chord in Treble Clef]] — shared language: chord
 - [[knowledge/wiki/images/Document Abstract Graphic Score on Musical Staff Paper with Text 545ca683|Document Abstract Graphic Score on Musical Staff Paper with Text]] — shared language: score
-- [[knowledge/wiki/images/Document Musical Score and Dance Notation for 'La Mari e' e37971b9|Document Musical Score and Dance Notation for 'La Mari e']] — shared language: score
 <!-- vault-crosslinks:end -->

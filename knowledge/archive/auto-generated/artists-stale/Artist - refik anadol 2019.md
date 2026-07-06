@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol|Artist - refik anadol]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2022|Artist - refik anadol 2022]] — named in this note
 - [[_archive/auto-generated/images-stale/unsupervised machine hallucinations moma 2022 by refik anadol 2022 1d1d947a|unsupervised machine hallucinations moma 2022 by refik anadol 2022]] — shared language: anadol, refik
-- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
-- [[knowledge/wiki/images/Illustration Three Nude Female Figures with Dark Infinity Shape on Blue Background 1570f3c2|Illustration Three Nude Female Figures with Dark Infinity Shape on Blue Background]] — shared language: infinity
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706163717|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706165157|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 <!-- vault-crosslinks:end -->

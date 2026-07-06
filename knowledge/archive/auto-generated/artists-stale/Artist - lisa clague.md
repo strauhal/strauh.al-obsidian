@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - lisa law|Artist - lisa law]] — shared language: lisa
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa law 1967|Artist - lisa law 1967]] — shared language: lisa
 - [[knowledge/wiki/images/andy warhol and the velvet underground at the castle by lisa law 1967 fa994c5e|andy warhol and the velvet underground at the castle by lisa law 1967]] — shared language: lisa
-- [[knowledge/wiki/images/Diagram Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald b6117756|Diagram Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald]] — shared language: happiness
+- [[knowledge/wiki/images/Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald 3fb39410|Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald]] — shared language: happiness
 <!-- vault-crosslinks:end -->

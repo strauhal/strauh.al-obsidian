@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Fu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: futuristic
 - [[knowledge/wiki/images/Document Teal Book Cover With White And Orange Text 9ba2bba6|Document Teal Book Cover With White And Orange Text]] — shared language: cover, document, book
-- [[knowledge/wiki/images/Photograph Black And White Photo Of Musician With Light Streaks 27657aa7|Photograph Black And White Photo Of Musician With Light Streaks]] — shared language: streaks, light
+- [[knowledge/wiki/images/Black And White Photo Of Musician With Light Streaks 06c2dc85|Black And White Photo Of Musician With Light Streaks]] — shared language: streaks, light
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/images/Document Article Cover with Abstract Art and Text f891f374|Document Article Cover with Abstract Art and Text]] — shared language: cover, document
+- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

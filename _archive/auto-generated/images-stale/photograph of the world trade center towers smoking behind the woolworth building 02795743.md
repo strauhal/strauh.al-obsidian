@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Smoking Behind Woolworth Building 68892cef|Photograph World Trade Center Towers Smoking Behind Woolworth Building]] — shared language: woolworth, towers, trade
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: towers, trade, center
+- [[_archive/auto-generated/images-stale/Photograph World Trade Center Towers Smoking Behind Woolworth Building 68892cef|Photograph World Trade Center Towers Smoking Behind Woolworth Building]] — shared language: woolworth, towers, trade
+- [[knowledge/wiki/images/World Trade Center Towers Smoking Behind Woolworth Building d7c69409|World Trade Center Towers Smoking Behind Woolworth Building]] — shared language: woolworth, towers, trade
+- [[_archive/auto-generated/images-stale/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: towers, trade, center
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: towers, trade, center
 - [[_archive/auto-generated/images-stale/photograph of a blonde woman watching the world trade center towers smoking 2a2dac76|photograph of a blonde woman watching the world trade center towers smoking]] — shared language: towers, trade, center
-- [[knowledge/wiki/images/Photograph World Trade Center Towers Burning After 9 11 Attack 15dbe27c|Photograph World Trade Center Towers Burning After 9 11 Attack]] — shared language: towers, trade, center
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers During 9 11 Attacks ba7bdc7d|Photograph Woman Watching World Trade Center Towers During 9 11 Attacks]] — shared language: towers, trade, center
 <!-- vault-crosslinks:end -->

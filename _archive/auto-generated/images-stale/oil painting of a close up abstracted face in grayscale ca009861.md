@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Close Up Abstracted Face Painting in Grayscale Tones feae860c|Illustration Close Up Abstracted Face Painting in Grayscale Tones]] — shared language: abstracted, grayscale, close
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: abstracted
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close
+- [[_archive/auto-generated/images-stale/abstracted painting of two figures and pots beside a blue river 235a37f4|abstracted painting of two figures and pots beside a blue river]] — shared language: abstracted
+- [[knowledge/wiki/images/Illustration Abstracted Painting of Two Figures and Pots Beside a Blue River 70bd012f|Illustration Abstracted Painting of Two Figures and Pots Beside a Blue River]] — shared language: abstracted
 - [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: close, face
-- [[_archive/auto-generated/images-stale/oil painting of a close up portrait of a person with blue eyes and pale hair 7958b6e1|oil painting of a close up portrait of a person with blue eyes and pale hair]] — shared language: close, oil
 <!-- vault-crosslinks:end -->

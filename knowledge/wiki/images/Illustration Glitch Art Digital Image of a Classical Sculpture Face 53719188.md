@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: glitch, digital
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns d3ce1323|Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns]] — shared language: glitch, digital
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect 1f33d572|Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect]] — shared language: glitch, digital
-- [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: sculpture, classical
+- [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: classical, sculpture
 <!-- vault-crosslinks:end -->

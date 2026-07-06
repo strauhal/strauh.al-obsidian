@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/anchors-stale/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds
 - [[_archive/auto-generated/artists-noise/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds
 - [[knowledge/archive/auto-generated/artists-stale/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds
+- [[knowledge/archive/auto-generated/anchors-stale/artist-four-cherubs-on-clouds|Artist - four cherubs on clouds]] — shared language: cherubs, clouds
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin
 - [[knowledge/wiki/images/Illustration Eye of Providence in Triangle with Four Cherubs on Clouds 26452743|Illustration Eye of Providence in Triangle with Four Cherubs on Clouds]] — shared language: cherubs, clouds
 <!-- vault-crosslinks:end -->

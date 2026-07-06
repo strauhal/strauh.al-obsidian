@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Golden Gate 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Karaoke Torii Gate by Beno t Maubrey (2019) 17e10b1e|The Karaoke Torii Gate by Beno t Maubrey (2019)]] — shared language: gate
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge Towers Under Construction 68c8ac5c|Photograph Golden Gate Bridge Towers Under Construction]] — shared language: gate, golden
-- [[knowledge/wiki/images/Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day 6abdc1d5|Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: gate, golden
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge, San Francisco Skyline, Boats on Bay 8dd3d006|Photograph Golden Gate Bridge, San Francisco Skyline, Boats on Bay]] — shared language: gate, golden
-- [[knowledge/wiki/images/Photograph Spiderwebs on a metal gate at sunrise 5abfebf1|Photograph Spiderwebs on a metal gate at sunrise]] — shared language: gate
+- [[knowledge/wiki/images/Golden Gate Bridge Towers Under Construction f93aaa7b|Golden Gate Bridge Towers Under Construction]] — shared language: gate, golden
+- [[knowledge/wiki/images/Man Posing In Front Of Golden Gate Bridge, Sunny Day f30619f4|Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: gate, golden
+- [[knowledge/wiki/images/Golden Gate Bridge, San Francisco Skyline, Boats on Bay 9d2fb8bd|Golden Gate Bridge, San Francisco Skyline, Boats on Bay]] — shared language: gate, golden
+- [[knowledge/wiki/images/Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson dcbd7802|Illustration Psychedelic Woman with Tambourine and Golden Gate Bridge at Sunset by Wes Wilson]] — shared language: gate, golden
 <!-- vault-crosslinks:end -->

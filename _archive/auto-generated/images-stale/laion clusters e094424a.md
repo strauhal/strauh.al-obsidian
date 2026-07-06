@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram UMAP Embedding of LAION Aesthetics Captions 8cfa904e|Diagram UMAP Embedding of LAION Aesthetics Captions]] — shared language: laion
+- [[knowledge/wiki/images/UMAP Embedding of LAION Aesthetics Captions 47648d14|UMAP Embedding of LAION Aesthetics Captions]] — shared language: laion
+- [[_archive/auto-generated/images-stale/Diagram UMAP Embedding of LAION Aesthetics Captions 8cfa904e|Diagram UMAP Embedding of LAION Aesthetics Captions]] — shared language: laion
 - [[knowledge/wiki/collections/Collection - diary|Collection - diary]] — shared language: clusters, laion
-- [[_archive/auto-generated/images-stale/lady with an umbrella by anatoly metlan 69074c70|lady with an umbrella by anatoly metlan]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

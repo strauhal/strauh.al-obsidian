@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Muses by Vic
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Victor Nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
 - [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
 - [[knowledge/wiki/images/the muses epitome by brice marden 1991 1993 358237c7|the muses epitome by brice marden 1991 1993]] — shared language: muses
 - [[knowledge/wiki/images/the muses epitome by brice marden 1991 1999 4f5eaace|the muses epitome by brice marden 1991 1999]] — shared language: muses
-- [[knowledge/wiki/artists/Artist - Victor Fleming|Artist - Victor Fleming]] — shared language: victor
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_holy_day_by_
 - [[knowledge/wiki/images/der tanz im obstgarten by ludwig knaus 1873 cf6ec420|der tanz im obstgarten by ludwig knaus 1873]] — same artist: ludwig knaus
 - [[knowledge/wiki/images/ludwig knaus a monastic siesta late 19th century 736825df|ludwig knaus a monastic siesta late 19th century]] — shared language: knaus, ludwig
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: ludwig
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

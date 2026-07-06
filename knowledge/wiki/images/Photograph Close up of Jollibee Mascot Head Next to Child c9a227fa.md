@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Clo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of A Blue Jay's Head 88fc9b3c|Photograph Close Up Of A Blue Jay's Head]] — shared language: close, head, close-up
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
-- [[knowledge/wiki/images/Photograph Woman Cosplaying Firefox Mascot Hugging Globe 63fd80ec|Photograph Woman Cosplaying Firefox Mascot Hugging Globe]] — shared language: mascot
+- [[knowledge/wiki/images/Close Up Of A Blue Jay's Head 78b81a5a|Close Up Of A Blue Jay's Head]] — shared language: close, head, close-up
 - [[knowledge/wiki/images/My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969) eb2088aa|My Next Child Could Be Retarded. So Could Yours. by Richard Avedon (1969)]] — shared language: child, next
-- [[knowledge/wiki/images/Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head 6bbfee73|Photograph Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: close, head, close-up
+- [[knowledge/wiki/images/Highly Pixelated Close Up Of A Blue And White Bird's Head eea39657|Highly Pixelated Close Up Of A Blue And White Bird's Head]] — shared language: close, head, close-up
+- [[knowledge/wiki/images/Illustration Close Up Portrait of a Person with Blue Eyes 5ec84914|Illustration Close Up Portrait of a Person with Blue Eyes]] — shared language: close, close-up
+- [[knowledge/wiki/images/Photograph Mr. Cigarette Mascot Giving Cigarette to Hospital Patient 38a98d59|Photograph Mr. Cigarette Mascot Giving Cigarette to Hospital Patient]] — shared language: mascot
 <!-- vault-crosslinks:end -->

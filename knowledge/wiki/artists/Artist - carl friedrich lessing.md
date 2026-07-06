@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: carl
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: friedrich
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: carl
-- [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: carl
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: friedrich
 <!-- vault-crosslinks:end -->

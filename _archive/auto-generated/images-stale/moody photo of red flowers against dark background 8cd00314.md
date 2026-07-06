@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/oil painting of a woman s profile against a dark red background 27ae3ce9|oil painting of a woman s profile against a dark red background]] — shared language: against, dark, background
-- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: against, dark, background
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: photo, against
-- [[_archive/auto-generated/images-stale/portrait photo of two people against a wall f8e31841|portrait photo of two people against a wall]] — shared language: photo, against
+- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: flowers, against, background
+- [[_archive/auto-generated/images-stale/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: flowers, against, background
 <!-- vault-crosslinks:end -->

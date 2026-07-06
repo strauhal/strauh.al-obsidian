@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Smiling 
 - [[knowledge/wiki/images/faces by susan kare 1984 b6206a64|faces by susan kare 1984]] — same artist: susan kare
 - [[knowledge/wiki/images/the rest of us by susan kare 1983 f7f8ac9a|the rest of us by susan kare 1983]] — same artist: susan kare
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art Dog Cow Character by Susan Kare dd3f428c|Illustration Black and White Pixel Art Dog Cow Character by Susan Kare]] — same artist: susan kare
-- [[knowledge/wiki/images/Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons a0f5ab4e|Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons]] — shared language: kare, susan, feet
+- [[knowledge/wiki/images/Susan Kare with feet on computer, surrounded by vintage tech and icons 115309b5|Susan Kare with feet on computer, surrounded by vintage tech and icons]] — shared language: kare, susan, feet
 - [[knowledge/wiki/images/About MacPaint by Susan Kare (1984) 2d086a0d|About MacPaint by Susan Kare (1984)]] — shared language: kare, susan
 <!-- vault-crosslinks:end -->

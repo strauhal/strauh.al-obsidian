@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/dithering example dithered web palette cat dab3101f|dithering example dithered web palette cat]] — shared language: dithering, palette, example
 - [[_archive/auto-generated/images-stale/dithering example dithered web palette png 1b2fa19e|dithering example dithered web palette png]] — shared language: dithering, palette, example
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
-- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
 <!-- vault-crosslinks:end -->

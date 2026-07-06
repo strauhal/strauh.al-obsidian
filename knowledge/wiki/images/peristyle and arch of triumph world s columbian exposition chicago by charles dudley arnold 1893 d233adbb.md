@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/peristyle_and_ar
 - [[knowledge/wiki/images/view of the grand basin and exposition buildings world s columbian exposition by charles dudley arnold 1893 d120989a|view of the grand basin and exposition buildings world s columbian exposition by charles dudley arnold 1893]] — same artist: charles dudley arnold
 - [[knowledge/wiki/artists/Artist - c d arnold|Artist - c d arnold]] — shared language: arnold, columbian, exposition
 - [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: arnold, columbian, exposition
-- [[knowledge/wiki/images/palace of mechanic arts world s columbian exposition chicago by c d arnold 1893 0fd25551|palace of mechanic arts world s columbian exposition chicago by c d arnold 1893]] — shared language: arnold, columbian, chicago
+- [[knowledge/wiki/images/palace of mechanic arts world s columbian exposition chicago by c d arnold 1893 0fd25551|palace of mechanic arts world s columbian exposition chicago by c d arnold 1893]] — shared language: arnold, columbian, exposition
 <!-- vault-crosslinks:end -->

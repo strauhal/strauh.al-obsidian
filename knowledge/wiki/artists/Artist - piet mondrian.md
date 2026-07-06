@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/christen dalsgaard two girls at a boat pier 1859 bc3086d0|christen dalsgaard two girls at a boat pier 1859]] — shared language: pier
 - [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: pier
-- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection
+- [[knowledge/wiki/images/Illustration Woman in Red Bathing Suit on Pier with Men Swimming d8aba314|Illustration Woman in Red Bathing Suit on Pier with Men Swimming]] — shared language: pier
 <!-- vault-crosslinks:end -->

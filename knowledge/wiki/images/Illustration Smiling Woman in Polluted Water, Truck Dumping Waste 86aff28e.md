@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
 - [[knowledge/wiki/images/Illustration Smiling Man Looking Over Shoulder in Blue and White 40ce2aed|Illustration Smiling Man Looking Over Shoulder in Blue and White]] — shared language: smiling
-- [[knowledge/wiki/images/Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s 127db820|Photograph Elvis Presley Smiling, Walking in Brown Suit, 1970s]] — shared language: smiling
+- [[knowledge/wiki/images/Smiling Woman Holding Large Yellow and White Python f8da8ebe|Smiling Woman Holding Large Yellow and White Python]] — shared language: smiling
+- [[knowledge/wiki/images/UPS Truck Under Apocalyptic Red Sky From Wildfires d023d3cd|UPS Truck Under Apocalyptic Red Sky From Wildfires]] — shared language: truck
 - [[knowledge/wiki/images/Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck b55b3e3c|Illustration Graffiti Of A Fierce Character With Spiky Hair On A Truck]] — shared language: truck
-- [[knowledge/wiki/images/Photograph Smiling Woman Holding Large Yellow and White Python a0749ab7|Photograph Smiling Woman Holding Large Yellow and White Python]] — shared language: smiling
+- [[knowledge/wiki/images/water cd9d9b2f|water]] — shared language: water
 <!-- vault-crosslinks:end -->

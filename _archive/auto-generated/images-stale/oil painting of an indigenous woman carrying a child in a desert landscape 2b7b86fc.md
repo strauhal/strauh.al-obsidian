@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Indigenous Woman Carrying Child in Desert Landscape 9d758115|Illustration Indigenous Woman Carrying Child in Desert Landscape]] — named in this note
 - [[_archive/auto-generated/images-stale/oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape c7c2eac4|oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape]] — shared language: desert, oil, landscape
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 - [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert, landscape, landscape.jpeg
-- [[knowledge/wiki/images/Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits 05c0d472|Photograph Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: indigenous
-- [[knowledge/wiki/images/Illustration Abstract Geometric Desert Landscape with House and Sun d40a7db6|Illustration Abstract Geometric Desert Landscape with House and Sun]] — shared language: desert, landscape
+- [[knowledge/wiki/images/Open Book Rock Art Reproduction and Four Indigenous Portraits 5a82bf93|Open Book Rock Art Reproduction and Four Indigenous Portraits]] — shared language: indigenous
 <!-- vault-crosslinks:end -->

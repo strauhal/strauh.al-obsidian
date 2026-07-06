@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: bustling, isometric, detailed
 - [[knowledge/wiki/images/Illustration Detailed Isometric View of a Bustling Steampunk Inspired City f4f97db2|Illustration Detailed Isometric View of a Bustling Steampunk Inspired City]] — shared language: bustling, isometric, detailed
 - [[knowledge/wiki/images/Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters ae73dff9|Illustration Detailed, Colorful Illustration of a Bustling City with Many Characters]] — shared language: bustling, detailed, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, futuristic, city
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, detailed, city
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 <!-- vault-crosslinks:end -->

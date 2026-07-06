@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Woman Holding Rifle with Armed Figures Behind Her e8da5881|Photograph Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: rifle, holding
+- [[knowledge/wiki/images/Young Woman Holding Rifle with Armed Figures Behind Her 9f11a848|Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: rifle, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Mural of Person in Traditional Attire Holding Corn 7de22128|Illustration Mural of Person in Traditional Attire Holding Corn]] — shared language: mural, holding
-- [[knowledge/wiki/images/Diagram Graph of Goldstone's Sombrero Potential Function 38a8d861|Diagram Graph of Goldstone's Sombrero Potential Function]] — shared language: sombrero
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[knowledge/wiki/images/Malcolm X Peering Out Window With Rifle 55a4b664|Malcolm X Peering Out Window With Rifle]] — shared language: rifle, rifle.jpeg
+- [[knowledge/wiki/images/Graph of Goldstone's Sombrero Potential Function f9742852|Graph of Goldstone's Sombrero Potential Function]] — shared language: sombrero
 <!-- vault-crosslinks:end -->

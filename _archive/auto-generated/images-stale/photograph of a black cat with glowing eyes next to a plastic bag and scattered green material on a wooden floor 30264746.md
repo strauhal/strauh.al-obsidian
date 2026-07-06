@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 40ec34e3|Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: plastic, bag, glowing
+- [[knowledge/wiki/images/Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 4fdbed48|Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: plastic, bag, glowing
+- [[_archive/auto-generated/images-stale/Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 40ec34e3|Photograph Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: plastic, bag, glowing
 - [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: glowing, eyes, cat
-- [[knowledge/wiki/images/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: wooden, floor, cat
 - [[knowledge/archive/auto-generated/artists-stale/Artist - white material|Artist - White Material]] — shared language: material
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk 80645afb|Photograph Fluffy Orange Cat Next To Laptop On Wooden Desk]] — shared language: wooden, next, cat
+- [[knowledge/wiki/artists/Artist - White Material|Artist - White Material]] — shared language: material
 <!-- vault-crosslinks:end -->

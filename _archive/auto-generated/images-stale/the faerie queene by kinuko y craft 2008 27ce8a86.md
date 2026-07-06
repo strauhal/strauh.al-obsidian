@@ -30,5 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kinuko y craft 2008|Artist - kinuko y craft 2008]] — named in this note
 - [[knowledge/wiki/images/Luna by Kinuko Y. Craft (2008) b00f226f|Luna by Kinuko Y. Craft (2008)]] — shared language: kinuko, craft
 - [[knowledge/wiki/books/benebell-wen-the-tao-of-craft-fu-talismans-and-casting-sigils-in-the-eastern-esoteric-tradition-north-atlantic-books|The Tao of Craft Fu Talismans and Casting Sigils in the Eastern Esoteric Tradition-North Atlantic Books]] — shared language: craft
-- [[knowledge/wiki/images/Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts 36d0b358|Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts]] — shared language: craft
+- [[knowledge/wiki/images/Book Page Displaying Various Craft Paper Swatches and Color Charts f1c0b6bb|Book Page Displaying Various Craft Paper Swatches and Color Charts]] — shared language: craft
+- [[_archive/auto-generated/images-stale/Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts 36d0b358|Photograph Book Page Displaying Various Craft Paper Swatches and Color Charts]] — shared language: craft
 <!-- vault-crosslinks:end -->

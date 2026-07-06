@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Alp
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: across
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: deep
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: deep
 - [[knowledge/wiki/images/Deep Blue by patten (2024) 37ef54ad|Deep Blue by patten (2024)]] — shared language: deep
 - [[knowledge/wiki/books/cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] — shared language: deep
+- [[knowledge/wiki/images/alpine landscape with cows and figures by friedrich voltz c 1860 e69e3289|alpine landscape with cows and figures by friedrich voltz c 1860]] — shared language: alpine
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Soldiers Sitting in a Mountainous Landscape a58b549a|Photograph Two Soldiers Sitting in a Mountainous Landscape]] — shared language: mountainous, landscape
+- [[knowledge/wiki/images/Two Soldiers Sitting in a Mountainous Landscape 35fdaaef|Two Soldiers Sitting in a Mountainous Landscape]] — shared language: mountainous, landscape
 - [[knowledge/wiki/images/Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings 3c914786|Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings]] — shared language: mountainous, landscape
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: sunset, landscape
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: sunset, landscape
+- [[knowledge/wiki/images/Illustration River Landscape with Waterfall and Mountains at Sunset 56a7d8fe|Illustration River Landscape with Waterfall and Mountains at Sunset]] — shared language: sunset, landscape, sunset.jpeg
 <!-- vault-crosslinks:end -->

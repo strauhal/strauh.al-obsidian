@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/images/Illustration Textured Oil Painting Dense Forest Canopy with Bright Colors 4ccfa192|Illustration Textured Oil Painting Dense Forest Canopy with Bright Colors]] — shared language: dense, forest, oil
 - [[knowledge/wiki/images/Photograph Foggy Forest Edge with Field of Purple Flowers 6d0e483d|Photograph Foggy Forest Edge with Field of Purple Flowers]] — shared language: edge, forest
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky 8df70443|Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky]] — shared language: meadow
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[knowledge/wiki/images/Aerial View Of Urban Sprawl Next To Dense Forest 44220ae9|Aerial View Of Urban Sprawl Next To Dense Forest]] — shared language: dense, forest
 <!-- vault-crosslinks:end -->

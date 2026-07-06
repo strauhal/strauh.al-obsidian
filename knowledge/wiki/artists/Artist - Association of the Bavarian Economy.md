@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Population Data and World-Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy.jpeg]]
+![[media/strauh.al3.1/diagrams/Population_Data_and_World-Class_Patents_in_Advanced_Digital_Technologies_by_Association_of_the_Bavarian_Economy.jpeg]]
 
 ## Image Notes
 
-- [[Diagram Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy 4a164dbd|Diagram Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy]]
+- [[Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy 290ed887|Population Data and World Class Patents in Advanced Digital Technologies by Association of the Bavarian Economy]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: economy
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: economy
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: economy
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: economy
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: economy
 <!-- vault-crosslinks:end -->

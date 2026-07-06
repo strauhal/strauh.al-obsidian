@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Woman with Bobbed Hair Resting Chin on Hands 78a3ff30|Illustration Pencil Sketch of Woman with Bobbed Hair Resting Chin on Hands]] — shared language: bobbed, chin, resting
 - [[_archive/auto-generated/images-stale/black and white portrait of a woman with short dark hair and heavy makeup resting her chin on her hands 5bbba2fa|black and white portrait of a woman with short dark hair and heavy makeup resting her chin on her hands]] — shared language: chin, resting, hands
 - [[knowledge/wiki/images/Photograph Black and White Portrait of Clara Bow Resting Chin on Hands d785a4f3|Photograph Black and White Portrait of Clara Bow Resting Chin on Hands]] — shared language: chin, resting, hands
-- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: pencil, hair, sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, hair, sketch
+- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: pencil, sketch, hair
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch, hair
 <!-- vault-crosslinks:end -->

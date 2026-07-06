@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
 - [[knowledge/wiki/images/Illustration Two Women in Coats on Deck with City Skyline by Alis ed1dbc55|Illustration Two Women in Coats on Deck with City Skyline by Alis]] — shared language: deck, coats, skyline
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
 - [[knowledge/wiki/artists/Artist - Alis|Artist - Alis]] — shared language: deck, coats, skyline
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, city, stylized
+- [[knowledge/wiki/images/Illustration Stylized City Skyline and Highway with Cars at Dusk 03e9f154|Illustration Stylized City Skyline and Highway with Cars at Dusk]] — shared language: skyline, city, stylized
 <!-- vault-crosslinks:end -->

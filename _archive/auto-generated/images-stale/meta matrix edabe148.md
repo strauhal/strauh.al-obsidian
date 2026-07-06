@@ -25,7 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Diagram of Five Elements (Wuxing) Matrix in Chinese Characters ffe6adad|Diagram Diagram of Five Elements (Wuxing) Matrix in Chinese Characters]] — shared language: matrix
-- [[knowledge/wiki/images/Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event f4b4ed7f|Photograph Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: matrix
-- [[_archive/auto-generated/images-stale/messett s musical entertainers 6f76529f|messett s musical entertainers]] — nearby note in the same source series
+- [[knowledge/wiki/images/Diagram of Five Elements (Wuxing) Matrix in Chinese Characters c63a4f3d|Diagram of Five Elements (Wuxing) Matrix in Chinese Characters]] — shared language: matrix
+- [[_archive/auto-generated/images-stale/Diagram Diagram of Five Elements (Wuxing) Matrix in Chinese Characters ffe6adad|Diagram Diagram of Five Elements (Wuxing) Matrix in Chinese Characters]] — shared language: matrix
+- [[knowledge/wiki/images/Carrie Anne Moss as Trinity in The Matrix 9f927f94|Carrie Anne Moss as Trinity in The Matrix]] — shared language: matrix
+- [[knowledge/wiki/images/Keanu Reeves and Carrie Anne Moss Promotional Photo for The Matrix 31942cdc|Keanu Reeves and Carrie Anne Moss Promotional Photo for The Matrix]] — shared language: matrix
+- [[knowledge/wiki/images/Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event 9cb3c729|Keanu Reeves, Carrie Anne Moss, and Hugo Weaving at The Matrix Event]] — shared language: matrix
 <!-- vault-crosslinks:end -->

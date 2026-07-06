@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jackson pollock|Artist - jackson pollock]] — named in this note
 - [[knowledge/wiki/artists/Artist - Robert E. Jackson|Artist - Robert E. Jackson]] — shared language: jackson
 - [[_archive/auto-generated/images-stale/the wait by robert c jackson 2019 b77de3c1|the wait by robert c jackson 2019]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson in Metallic Costume 4b7db99e|Photograph Michael Jackson in Metallic Costume]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson, Jay Z, and Damon Dash at an event 05842d80|Photograph Michael Jackson, Jay Z, and Damon Dash at an event]] — shared language: jackson
-- [[knowledge/wiki/images/Photograph Michael Jackson Performing On Stage In A Sequin Jacket 49b1f439|Photograph Michael Jackson Performing On Stage In A Sequin Jacket]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson in Metallic Costume bfc56c0e|Michael Jackson in Metallic Costume]] — shared language: jackson
+- [[_archive/auto-generated/images-stale/Photograph Michael Jackson in Metallic Costume 4b7db99e|Photograph Michael Jackson in Metallic Costume]] — shared language: jackson
+- [[knowledge/wiki/images/Michael Jackson Leaning Out Of Car Window, Pointing 49452865|Michael Jackson Leaning Out Of Car Window, Pointing]] — shared language: jackson
 <!-- vault-crosslinks:end -->

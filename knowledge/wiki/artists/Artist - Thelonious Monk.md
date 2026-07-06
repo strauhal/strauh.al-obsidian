@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/The Burning Monk by Malcolm Browne bdb3dde1|The Burning Monk by Malcolm Browne]] — shared language: monk
 - [[knowledge/wiki/images/monk in the snow by koyo kageyama 1923 67aca098|monk in the snow by koyo kageyama 1923]] — shared language: monk
-- [[knowledge/wiki/images/Photograph The Burning Monk by Malcolm Browne a048d147|Photograph The Burning Monk by Malcolm Browne]] — shared language: monk
-- [[knowledge/wiki/images/Photograph Smiling Monk Holds Phone With Translated Quote d3b08fb3|Photograph Smiling Monk Holds Phone With Translated Quote]] — shared language: monk
+- [[knowledge/wiki/images/Buddhist Monk Engulfed In Flames On A Street With Onlookers 299af0c2|Buddhist Monk Engulfed In Flames On A Street With Onlookers]] — shared language: monk
+- [[knowledge/wiki/images/Smiling Monk Holds Phone With Translated Quote a5788d39|Smiling Monk Holds Phone With Translated Quote]] — shared language: monk
 - [[knowledge/wiki/images/Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles e87bc1f8|Screenshot Elderly Bearded Monk Interviewed Outdoors In Snowy Landscape With Subtitles]] — shared language: monk
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

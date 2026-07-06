@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Intricate Blue And Yellow Tiled Iranian Architectural Interior With Sunlight by Ghasem Baneshi df0a97a5|Photograph Intricate Blue And Yellow Tiled Iranian Architectural Interior With Sunlight by Ghasem Baneshi]] — shared language: tiled, interior, yellow
 - [[knowledge/wiki/images/Photograph Interior Archway with Intricate Muqarnas and Colorful Floral Tilework a97ef350|Photograph Interior Archway with Intricate Muqarnas and Colorful Floral Tilework]] — shared language: archway, interior
 - [[_archive/auto-generated/images-stale/photograph of an interior archway with intricate muqarnas and colorful floral tilework 6f356823|photograph of an interior archway with intricate muqarnas and colorful floral tilework]] — shared language: archway, interior
-- [[_archive/auto-generated/images-stale/interior view of an archway with muqarnas and colorful tile decoration d040b128|interior view of an archway with muqarnas and colorful tile decoration]] — shared language: archway, interior
+- [[knowledge/wiki/images/Photograph Interior View of Highly Decorated Mosque Dome and Chandelier 214e336d|Photograph Interior View of Highly Decorated Mosque Dome and Chandelier]] — shared language: dome, interior
 <!-- vault-crosslinks:end -->

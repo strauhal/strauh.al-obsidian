@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Oil Painting of a Green Gatorade Frost Bottle by Noah Verrier be81c9f2|Illustration Oil Painting of a Green Gatorade Frost Bottle by Noah Verrier]] — shared language: gatorade, frost, bottle
-- [[knowledge/wiki/artists/Artist - Noah Verrier|Artist - Noah Verrier]] — shared language: gatorade, frost, bottle
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: frost
+- [[knowledge/wiki/artists/Artist - Noah Verrier|Artist - Noah Verrier]] — shared language: gatorade, frost, bottle
 - [[_archive/auto-generated/images-stale/ben frost 4 jpg 57558bc3|ben frost 4 jpg]] — shared language: frost
 - [[_archive/auto-generated/images-stale/oil painting of an adult and child seated at a table with a bottle 89eb1bb4|oil painting of an adult and child seated at a table with a bottle]] — shared language: bottle, oil, bottle.jpeg
 <!-- vault-crosslinks:end -->

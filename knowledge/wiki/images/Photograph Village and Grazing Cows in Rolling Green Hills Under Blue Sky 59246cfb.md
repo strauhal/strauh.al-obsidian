@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Vil
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: rolling, hills, sky
 - [[knowledge/wiki/images/stylized painting of green rolling hills and grazing cattle by eyvind earle 1968 44000d15|stylized painting of green rolling hills and grazing cattle by eyvind earle 1968]] — shared language: grazing, rolling, hills
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, sky, green
-- [[knowledge/wiki/images/Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky 6a762a20|Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: hills, sky, green
+- [[knowledge/wiki/images/Paved Road and Sidewalk with Green Hills Under Blue Sky aa92c13c|Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: hills, sky, green
 - [[knowledge/wiki/artists/Artist - eyvind earle|Artist - eyvind earle]] — shared language: grazing, rolling, hills
-- [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: village, sky
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_transformati
 
 - [[knowledge/wiki/images/the deluge by gustave dore 1866 ab921780|the deluge by gustave dore 1866]] — same artist: gustave dore
 - [[knowledge/wiki/images/the deluge by gustave dore 1866 2 2c86e9ec|the deluge by gustave dore 1866 2]] — same artist: gustave dore
-- [[knowledge/wiki/images/the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868 b30ad4e5|the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868]] — same artist: gustave dore
 - [[knowledge/wiki/images/herodiade by gustave dore 1868 9180f266|herodiade by gustave dore 1868]] — same artist: gustave dore
+- [[knowledge/wiki/images/the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868 b30ad4e5|the ladder of contemplation illustration for dante s paradiso canto xxii by gustave dore 1868]] — same artist: gustave dore
 - [[knowledge/wiki/images/the expulsion from paradise by gustave dore 1866 c52fc5a4|the expulsion from paradise by gustave dore 1866]] — same artist: gustave dore
 <!-- vault-crosslinks:end -->

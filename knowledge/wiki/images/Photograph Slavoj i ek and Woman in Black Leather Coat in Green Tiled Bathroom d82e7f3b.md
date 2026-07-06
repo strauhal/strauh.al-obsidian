@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sla
 
 - [[knowledge/wiki/images/Illustration Abstract Tiled Map of Light Blue Water and Light Green Land c9bba04e|Illustration Abstract Tiled Map of Light Blue Water and Light Green Land]] — shared language: tiled, green
 - [[knowledge/wiki/images/The Bathroom by Olivier Neuray (2025) 88500920|The Bathroom by Olivier Neuray (2025)]] — shared language: bathroom
-- [[knowledge/wiki/images/Photograph Halley Welch Interviews Slavoj i ek on Talk Tuah Podcast 576d4caa|Photograph Halley Welch Interviews Slavoj i ek on Talk Tuah Podcast]] — shared language: slavoj
-- [[knowledge/wiki/images/Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass e584db74|Photograph Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: coat, green
-- [[knowledge/wiki/images/Photograph Man in Leather Jacket Smoking Cigarette at Table 0be5c4ed|Photograph Man in Leather Jacket Smoking Cigarette at Table]] — shared language: leather
+- [[knowledge/wiki/images/Photograph Ornate Gold and Blue Tiled Ceiling 48cfe733|Photograph Ornate Gold and Blue Tiled Ceiling]] — shared language: tiled
+- [[knowledge/wiki/images/Man in Dark Coat and Green Turtleneck Holding Wine Glass 5e62c469|Man in Dark Coat and Green Turtleneck Holding Wine Glass]] — shared language: coat, green
+- [[knowledge/wiki/images/Illustration Portrait Painting Of A Man With White Wig And Blue Coat 63d12906|Illustration Portrait Painting Of A Man With White Wig And Blue Coat]] — shared language: coat
 <!-- vault-crosslinks:end -->

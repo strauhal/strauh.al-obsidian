@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/photograph of a woman in a school uniform holding a leash attached to a man kneeling on the ground c90addca|photograph of a woman in a school uniform holding a leash attached to a man kneeling on the ground]] — shared language: leash, attached, kneeling
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
-- [[knowledge/wiki/images/Photograph Young Man In Baseball Uniform Kneeling With Bat On Field c277e44b|Photograph Young Man In Baseball Uniform Kneeling With Bat On Field]] — shared language: kneeling, uniform
-- [[_archive/auto-generated/images-stale/outline drawing of a dog on a leash bc09f7e3|outline drawing of a dog on a leash]] — shared language: leash
+- [[_archive/auto-generated/images-stale/Photograph Young Man In Baseball Uniform Kneeling With Bat On Field c277e44b|Photograph Young Man In Baseball Uniform Kneeling With Bat On Field]] — shared language: kneeling, uniform
+- [[knowledge/wiki/images/Young Man In Baseball Uniform Kneeling With Bat On Field c7106298|Young Man In Baseball Uniform Kneeling With Bat On Field]] — shared language: kneeling, uniform
 <!-- vault-crosslinks:end -->

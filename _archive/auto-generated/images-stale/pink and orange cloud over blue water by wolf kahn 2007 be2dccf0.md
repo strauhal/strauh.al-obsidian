@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water 5ae95de7|Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water]] — shared language: orange, pink, water
 - [[knowledge/wiki/images/Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape 2e28f5bd|Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape]] — shared language: cloud, orange, pink
 - [[_archive/auto-generated/images-stale/oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape c7c2eac4|oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape]] — shared language: cloud, orange, pink
-- [[_archive/auto-generated/books-stale/mayakovsky-cloud-in-trousers|Mayakovsky Cloud in Trousers]] — shared language: cloud
+- [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — shared language: wolf
 <!-- vault-crosslinks:end -->

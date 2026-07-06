@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke 28160950|Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke]] — shared language: ornament, foliage, birds
-- [[knowledge/wiki/images/Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena b1a6132c|Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena]] — shared language: ornament, winged, foliage
-- [[_archive/auto-generated/images-stale/engraving of grotesque ornament with foliage birds and a central artichoke motif 4a677e34|engraving of grotesque ornament with foliage birds and a central artichoke motif]] — shared language: ornament, foliage, birds
-- [[knowledge/wiki/artists/Artist - Francesco Villamena|Artist - Francesco Villamena]] — shared language: ornament, winged, foliage
-- [[_archive/auto-generated/artists-noise/Artist - a grotesque creature and splatter|Artist - a grotesque creature and splatter]] — shared language: grotesque, creature
+- [[knowledge/wiki/images/Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke 28160950|Illustration Engraving of Grotesque Ornament with Foliage, Birds, and Artichoke]] — shared language: ornament, birds, foliage
+- [[knowledge/wiki/images/Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena b1a6132c|Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena]] — shared language: ornament, winged, birds
+- [[_archive/auto-generated/images-stale/engraving of grotesque ornament with foliage birds and a central artichoke motif 4a677e34|engraving of grotesque ornament with foliage birds and a central artichoke motif]] — shared language: ornament, birds, foliage
+- [[knowledge/wiki/artists/Artist - Francesco Villamena|Artist - Francesco Villamena]] — shared language: ornament, winged, birds
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: ornament
 <!-- vault-crosslinks:end -->

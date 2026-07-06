@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy a2031983|Illustration Ink Drawing of Mountain Landscape with Trees and Calligraphy]] — shared language: calligraphy, trees, ink
 - [[_archive/auto-generated/images-stale/ink drawing of a mountain landscape with trees and calligraphy 2cdce20b|ink drawing of a mountain landscape with trees and calligraphy]] — shared language: calligraphy, trees, ink
 - [[_archive/auto-generated/images-stale/ink and wash scroll painting of craggy mountains and trees 43358572|ink and wash scroll painting of craggy mountains and trees]] — shared language: wash, mountains, trees
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: wash, ink
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink, landscape
 <!-- vault-crosslinks:end -->

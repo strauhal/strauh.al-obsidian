@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/images/Screenshot Apple Vision Pro Interface Displayed Over Outdoor Parking Lot Scene e0f5d25e|Screenshot Apple Vision Pro Interface Displayed Over Outdoor Parking Lot Scene]] — shared language: pro, vision, apple
-- [[knowledge/wiki/images/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, apple, three
+- [[knowledge/wiki/images/Three Apple M2 Pro and M2 Max SOCs 1763dace|Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, apple, three
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple, pro
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: virtual
 <!-- vault-crosslinks:end -->

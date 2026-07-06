@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
-- [[knowledge/wiki/images/Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure fad9e89f|Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, diagram
+- [[knowledge/wiki/images/Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure 1d533be6|Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, diagram
 - [[knowledge/wiki/images/Illustration Sketch Of A Pilot In A Detailed Cockpit c3b49858|Illustration Sketch Of A Pilot In A Detailed Cockpit]] — shared language: detailed
 - [[knowledge/wiki/images/detailed black and white surreal composition with figures and eyes 1988 9c364d0a|detailed black and white surreal composition with figures and eyes 1988]] — shared language: detailed
+- [[knowledge/wiki/images/Illustration Detailed Black and White Panoramic Drawing of Figures and Animals 9d6fc5c1|Illustration Detailed Black and White Panoramic Drawing of Figures and Animals]] — shared language: detailed
+- [[knowledge/wiki/images/Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office 1e742f23|Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office]] — shared language: detailed
 <!-- vault-crosslinks:end -->

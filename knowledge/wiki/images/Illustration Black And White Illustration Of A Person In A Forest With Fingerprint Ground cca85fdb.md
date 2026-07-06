@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: ground, forest, ground.jpg
+- [[knowledge/wiki/images/Snowy Forest with Bare Trees and Sunlight on Ground d8bc26a9|Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: ground, forest, ground.jpg
 - [[knowledge/wiki/images/Illustration Fingerprint Pattern Made of Red Lines and Blue Numbers cf32bef0|Illustration Fingerprint Pattern Made of Red Lines and Blue Numbers]] — shared language: fingerprint
 - [[knowledge/wiki/images/Illustration Split Image of Tree Rings and Fingerprint Patterns 429cada4|Illustration Split Image of Tree Rings and Fingerprint Patterns]] — shared language: fingerprint
 - [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
-- [[knowledge/wiki/images/Photograph Man In Car Aims Gun At Person Lying On Ground a9e49394|Photograph Man In Car Aims Gun At Person Lying On Ground]] — shared language: ground, person
+- [[knowledge/wiki/images/Man In Car Aims Gun At Person Lying On Ground 3c775008|Man In Car Aims Gun At Person Lying On Ground]] — shared language: ground, person
 <!-- vault-crosslinks:end -->

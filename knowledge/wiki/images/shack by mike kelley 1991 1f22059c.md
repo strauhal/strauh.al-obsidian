@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/shack_by_mike_ke
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/mike-ma|Mike Ma]] — shared language: mike
+- [[knowledge/wiki/artists/Artist - Mike Harris|Artist - Mike Harris]] — shared language: mike
 - [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: mike
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: shack
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: shack
-- [[knowledge/wiki/images/Busted (BG 59) by Stanley Mouse and Alton Kelley (1967) d4d99a55|Busted (BG 59) by Stanley Mouse and Alton Kelley (1967)]] — shared language: kelley
 <!-- vault-crosslinks:end -->

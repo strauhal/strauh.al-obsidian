@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - green and blue with glitch texture|Artist - green and blue with glitch texture]] — shared language: glitch, texture, dominated
-- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: glitch, texture, green
+- [[knowledge/wiki/images/Illustration Abstract Digital Image with Green and Blue Glitch Texture 3c52b142|Illustration Abstract Digital Image with Green and Blue Glitch Texture]] — shared language: glitch, texture, digital
 - [[knowledge/archive/auto-generated/anchors-stale/artist-green-and-blue-with-glitch-texture|Artist - green and blue with glitch texture]] — shared language: glitch, texture, green
-- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: glitch, green, digital
+- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: glitch, digital, green
 - [[_archive/auto-generated/images-stale/glitch art digital image of a classical sculpture face af38e394|glitch art digital image of a classical sculpture face]] — shared language: glitch, digital
 <!-- vault-crosslinks:end -->

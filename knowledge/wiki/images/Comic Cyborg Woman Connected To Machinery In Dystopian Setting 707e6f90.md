@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Cybor
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dystopian, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/images/Comic Four Panel Pencil Drawing of Stitched Figures in Industrial Setting 7b032717|Comic Four Panel Pencil Drawing of Stitched Figures in Industrial Setting]] — shared language: setting, comic, setting.jpg
-- [[knowledge/wiki/images/Illustration Two Children And Cats In A Junkyard Setting 5c8646d8|Illustration Two Children And Cats In A Junkyard Setting]] — shared language: setting, setting.jpg
 - [[knowledge/wiki/images/Comic Multi Panel Ink Drawing of Men in Dystopian Office Environments by Hariton Pushwagner 54a681d6|Comic Multi Panel Ink Drawing of Men in Dystopian Office Environments by Hariton Pushwagner]] — shared language: dystopian, comic
+- [[knowledge/wiki/images/Illustration Two Children And Cats In A Junkyard Setting 5c8646d8|Illustration Two Children And Cats In A Junkyard Setting]] — shared language: setting, setting.jpg
+- [[knowledge/wiki/images/Illustration Black and White Print of Two Figures in an Interior Setting 18f160e2|Illustration Black and White Print of Two Figures in an Interior Setting]] — shared language: setting
 <!-- vault-crosslinks:end -->

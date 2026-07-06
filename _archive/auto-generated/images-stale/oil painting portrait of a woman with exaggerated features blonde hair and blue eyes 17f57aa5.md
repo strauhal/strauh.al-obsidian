@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: exaggerated, features, blonde
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: features
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: features
-- [[_archive/auto-generated/images-stale/oil painting of a close up portrait of a person with blue eyes and pale hair 7958b6e1|oil painting of a close up portrait of a person with blue eyes and pale hair]] — shared language: eyes, hair, oil
+- [[_archive/auto-generated/images-stale/oil painting of a close up portrait of a person with blue eyes and pale hair 7958b6e1|oil painting of a close up portrait of a person with blue eyes and pale hair]] — shared language: eyes, oil, hair
 - [[_archive/auto-generated/images-stale/oil painting of a girl with green eyes and bob hair against a red background c078053f|oil painting of a girl with green eyes and bob hair against a red background]] — shared language: eyes, hair, oil
 <!-- vault-crosslinks:end -->

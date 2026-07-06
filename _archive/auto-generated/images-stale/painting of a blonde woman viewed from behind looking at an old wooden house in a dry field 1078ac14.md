@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Blonde Girl With Yellow Eyes And Monsters Behind Her 98fe93ed|Illustration Blonde Girl With Yellow Eyes And Monsters Behind Her]] — shared language: blonde, behind
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/images/Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone f6f61723|Illustration Blonde Woman With Coiled Hair Looking At Pink Smartphone]] — shared language: blonde, looking
-- [[_archive/auto-generated/images-stale/digital illustration of a blonde woman with coiled hair looking at a pink smartphone 35e6614b|digital illustration of a blonde woman with coiled hair looking at a pink smartphone]] — shared language: blonde, looking
+- [[_archive/auto-generated/images-stale/Photograph White House in a Field with a Lake Under a Twilight Sky 8b6060a1|Photograph White House in a Field with a Lake Under a Twilight Sky]] — shared language: house, field
 <!-- vault-crosslinks:end -->

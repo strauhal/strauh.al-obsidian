@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Religious Icon of Bearded Man Holding Lamb 8068ea43|Illustration Religious Icon of Bearded Man Holding Lamb]] — shared language: lamb, icon, bearded
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: icon
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: icon
 - [[knowledge/wiki/images/Illustration Stylized Figure Holding Lamb with Another Sheep in Field 3dbdf873|Illustration Stylized Figure Holding Lamb with Another Sheep in Field]] — shared language: lamb, holding
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
+- [[knowledge/wiki/images/Illustration Woman In Red Hat And Robe Holding Black Cat 2929450d|Illustration Woman In Red Hat And Robe Holding Black Cat]] — shared language: hat, holding
 <!-- vault-crosslinks:end -->

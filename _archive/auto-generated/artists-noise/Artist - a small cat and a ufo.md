@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-small-cat-and-a-ufo|Artist - a small cat and a ufo]] — shared language: ufo, small, cat
 - [[knowledge/wiki/images/Illustration Line Art Sketch of Girl Fighting Monster with Cat and UFO 27bc2615|Illustration Line Art Sketch of Girl Fighting Monster with Cat and UFO]] — shared language: ufo, cat, fighting
-- [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
-- [[_archive/auto-generated/images-stale/small etched cat portrait 34dec11b|small etched cat portrait]] — shared language: small, cat
+- [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
+- [[_archive/auto-generated/images-stale/small etched cat portrait 34dec11b|small etched cat portrait]] — shared language: small, cat
 <!-- vault-crosslinks:end -->

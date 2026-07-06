@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
 - [[knowledge/wiki/images/Photograph Concrete Drainage Culvert With Black Symbol And Water c3fd2373|Photograph Concrete Drainage Culvert With Black Symbol And Water]] — shared language: drainage, culvert, symbol
 - [[knowledge/wiki/images/Photograph Concrete Table Shaped Like Aphex Twin Logo dfd39bd7|Photograph Concrete Table Shaped Like Aphex Twin Logo]] — shared language: aphex, twin, logo
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of Aphex Twin With Reflections 277034f4|Photograph Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
-- [[knowledge/wiki/images/Illustration Hand Drawn Sketches for Aphex Twin Logo and Typography by Paul Nicholson e1d872bf|Illustration Hand Drawn Sketches for Aphex Twin Logo and Typography by Paul Nicholson]] — shared language: aphex, twin, logo
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
+- [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
 <!-- vault-crosslinks:end -->

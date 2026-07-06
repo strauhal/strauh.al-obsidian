@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - E
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Colorful Houses and Water in Expressive Illustration Style b3b5c50f|Illustration Colorful Houses and Water in Expressive Illustration Style]] — shared language: expressive, colorful
 - [[knowledge/wiki/artists/Artist - stephen shore|Artist - stephen shore]] — shared language: shore
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: boats
 - [[knowledge/wiki/images/Illustration Expressive Painting of Nude Figure in Landscape da18a7de|Illustration Expressive Painting of Nude Figure in Landscape]] — shared language: expressive
-- [[knowledge/wiki/images/Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon 48461781|Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon]] — shared language: expressive
 <!-- vault-crosslinks:end -->

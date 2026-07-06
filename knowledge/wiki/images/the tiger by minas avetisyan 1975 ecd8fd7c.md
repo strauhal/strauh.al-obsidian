@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_tiger_by_min
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch 6d4a15de|Illustration Two Tiger Heads, One Grayscale, One Line Art Sketch]] — shared language: tiger
-- [[knowledge/wiki/images/Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building de0c620f|Photograph NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: tiger
 - [[knowledge/wiki/culture/movie-crouching-tiger-hidden-dragon|Watchlist - Crouching Tiger, Hidden Dragon]] — shared language: tiger
 - [[knowledge/wiki/images/Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger 5b04ab58|Illustration Pale Crouching Figure Beneath Red Wall Hanging With Tiger]] — shared language: tiger
 - [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: tiger
+- [[knowledge/wiki/images/NYPD Officer Rappelling Past Window With Tiger Inside Building c00bb6ed|NYPD Officer Rappelling Past Window With Tiger Inside Building]] — shared language: tiger
 <!-- vault-crosslinks:end -->

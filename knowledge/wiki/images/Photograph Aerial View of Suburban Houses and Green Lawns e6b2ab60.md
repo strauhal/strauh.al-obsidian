@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of Colorful Houses on Snowy Hillside d6b5849c|Photograph Aerial View of Colorful Houses on Snowy Hillside]] — shared language: houses, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Muted Toned Image of Suburban Houses and Garages a81160cc|Photograph Muted Toned Image of Suburban Houses and Garages]] — shared language: suburban, houses
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: suburban
 - [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: aerial, view, green
-- [[knowledge/wiki/images/Photograph Aerial View of Large Building Complex Amidst Green Landscape e2cda203|Photograph Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: aerial, view, green
 <!-- vault-crosslinks:end -->

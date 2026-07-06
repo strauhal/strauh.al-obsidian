@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, screen
-- [[knowledge/wiki/images/Photograph Person Typing at Large Curved Screen Displaying Data 16017e4d|Photograph Person Typing at Large Curved Screen Displaying Data]] — shared language: typing, screen, person
+- [[knowledge/wiki/images/Person Typing at Large Curved Screen Displaying Data 7b186e28|Person Typing at Large Curved Screen Displaying Data]] — shared language: typing, screen, person
 - [[knowledge/wiki/images/a r penck die rothschildgiraffe 1978 87df1674|a r penck die rothschildgiraffe 1978]] — shared language: die
-- [[knowledge/wiki/images/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: screen, computer
+- [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: screen, computer
 - [[knowledge/wiki/images/Comic Muscular Man Biscuit Oliva Typing at Computer by Keisuke Itagaki 44add8cc|Comic Muscular Man Biscuit Oliva Typing at Computer by Keisuke Itagaki]] — shared language: typing, computer
 <!-- vault-crosslinks:end -->

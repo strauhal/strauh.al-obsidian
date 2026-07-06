@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Illum
 
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: initial
 - [[knowledge/wiki/images/Document Musical Score and Dance Notation for 'La Mari e' e37971b9|Document Musical Score and Dance Notation for 'La Mari e']] — shared language: notation, musical, document
+- [[knowledge/wiki/images/Standing Wave Patterns and Musical Notation Diagram 5288c174|Standing Wave Patterns and Musical Notation Diagram]] — shared language: notation, musical
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Diagram Standing Wave Patterns and Musical Notation Diagram d5dbc272|Diagram Standing Wave Patterns and Musical Notation Diagram]] — shared language: notation, musical
-- [[knowledge/wiki/images/Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen 89010eb0|Document Modern Musical Score With Complex Graphic Notation by Karlheinz Stockhausen]] — shared language: notation, musical, document
+- [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 <!-- vault-crosslinks:end -->

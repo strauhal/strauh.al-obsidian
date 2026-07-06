@@ -1,0 +1,33 @@
+---
+title: "Hunter Biden Posing In His Art Studio With Paintings"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Hunter Biden Posing In His Art Studio With Paintings.jpg"
+source_relpath: "photography/Hunter Biden Posing In His Art Studio With Paintings.jpg"
+collection: "photography"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/photography"]
+---
+# Hunter Biden Posing In His Art Studio With Paintings
+
+![[media/strauh.al3.1/photography/Hunter Biden Posing In His Art Studio With Paintings.jpg]]
+
+Collection: [[Collection - photography]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/photography/Hunter Biden Posing In His Art Studio With Paintings.jpg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Hunter Biden Posing In His Art Studio With Paintings.jpg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/artists/Artist - Hunter Biden|Artist - Hunter Biden]] — shared language: biden, hunter
+- [[knowledge/wiki/images/Photograph Pablo Picasso Posing In His Studio With Paintings ac790099|Photograph Pablo Picasso Posing In His Studio With Paintings]] — shared language: posing, paintings, studio
+- [[knowledge/wiki/images/Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden 5b0fd90b|Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden]] — shared language: biden, hunter
+- [[knowledge/wiki/images/Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown 8d08949f|Artist Cecily Brown Posing In Her Studio With Large Paintings by Cecily Brown]] — shared language: posing, paintings, studio
+- [[knowledge/wiki/images/Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings e04b182c|Artist's Studio With Blank Canvas And Hyperrealistic Nude Paintings]] — shared language: paintings, studio, paintings.jpg
+<!-- vault-crosslinks:end -->

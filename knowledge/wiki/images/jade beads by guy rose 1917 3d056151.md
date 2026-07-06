@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/jade_beads_by_gu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Man In A Fedora With A Red Rose In A Vase 68e6166a|Man In A Fedora With A Red Rose In A Vase]] — shared language: rose
 - [[knowledge/wiki/images/cy twombly analysis of the rose 1985 1ac42e40|cy twombly analysis of the rose 1985]] — shared language: rose
-- [[knowledge/wiki/images/Photograph Man In A Fedora With A Red Rose In A Vase f9514828|Photograph Man In A Fedora With A Red Rose In A Vase]] — shared language: rose
 - [[knowledge/wiki/books/ann-temkin-bernice-rose-thinking-is-form-the-drawings-of-joseph-beuys|Thinking Is Form: The Drawings of Joseph Beuys]] — shared language: rose
 - [[knowledge/wiki/images/Illustration Pink and Red Rose on a Trade Card a9333cc4|Illustration Pink and Red Rose on a Trade Card]] — shared language: rose
 - [[knowledge/wiki/images/the spirit of the rose by odilon redon c 1912 9e77d365|the spirit of the rose by odilon redon c 1912]] — shared language: rose

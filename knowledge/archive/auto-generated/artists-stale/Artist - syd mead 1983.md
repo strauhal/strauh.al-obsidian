@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - syd mead|Artist - syd mead]] — shared language: syd, mead, freeway
+- [[knowledge/wiki/artists/Artist - syd mead|Artist - syd mead]] — shared language: syd, mead, future
 - [[knowledge/archive/auto-generated/artists-stale/Artist - syd mead 1970|Artist - syd mead 1970]] — shared language: syd, mead, future
 - [[knowledge/archive/auto-generated/artists-stale/Artist - syd mead 1980|Artist - syd mead 1980]] — shared language: syd, mead
 - [[knowledge/wiki/images/future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]] — shared language: syd, mead, future
 - [[knowledge/wiki/images/blade runner street scene by syd mead 1980 b3e5eee6|blade runner street scene by syd mead 1980]] — shared language: syd, mead
-- [[knowledge/wiki/images/Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline ecf6442c|Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: freeway, angeles, los
+- [[knowledge/wiki/images/Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails 2b7c8253|Photograph Downtown Los Angeles Skyline at Dusk with Freeway Light Trails]] — shared language: freeway, angeles, los
 <!-- vault-crosslinks:end -->

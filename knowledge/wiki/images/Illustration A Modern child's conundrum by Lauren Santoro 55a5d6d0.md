@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
 - [[knowledge/wiki/images/Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters 3cd42f5e|Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters]] — shared language: child's
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: child's
+- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — shared language: modern
 <!-- vault-crosslinks:end -->

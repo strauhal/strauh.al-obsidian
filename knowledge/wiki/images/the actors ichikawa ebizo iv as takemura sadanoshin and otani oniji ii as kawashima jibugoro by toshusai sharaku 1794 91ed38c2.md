@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_actors_ichik
 - [[knowledge/wiki/images/the actors otani oniji iii as kawashima jibugoro and ichikawa ebizo iv as takemura sadanoshin by toshusai sharaku 1794 13ab2531|the actors otani oniji iii as kawashima jibugoro and ichikawa ebizo iv as takemura sadanoshin by toshusai sharaku 1794]] — same artist: toshusai sharaku
 - [[knowledge/wiki/images/the actors otani oniji iii as kawashima jugoro and ichikawa omezo i as tomita hyotaro in the countryman from nihonmatsu in the north by toshusai shara e1c6b2c7|the actors otani oniji iii as kawashima jugoro and ichikawa omezo i as tomita hyotaro in the countryman from nihonmatsu in the north by toshusai shara]] — same artist: toshusai sharaku
 - [[knowledge/wiki/images/the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794 b41d2741|the actors segawa tomisaburo ii as yadorigi and nakamura konozo i as ishizuka hachizo by toshusai sharaku 1794]] — same artist: toshusai sharaku
-- [[knowledge/wiki/images/Photograph Two Actors In Hooded Robes From Star Wars f184c73c|Photograph Two Actors In Hooded Robes From Star Wars]] — shared language: actors
-- [[knowledge/wiki/images/Photograph Two Actors Filming A Scene On A Green Screen Set c1fe33f4|Photograph Two Actors Filming A Scene On A Green Screen Set]] — shared language: actors
+- [[knowledge/wiki/images/Two Actors Filming A Scene On A Green Screen Set 7a621baa|Two Actors Filming A Scene On A Green Screen Set]] — shared language: actors
+- [[knowledge/wiki/images/Two Actors In Hooded Robes From Star Wars b97c6acb|Two Actors In Hooded Robes From Star Wars]] — shared language: actors
 <!-- vault-crosslinks:end -->

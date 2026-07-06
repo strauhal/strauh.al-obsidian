@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: formed
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/images/Photograph Silhouette Of A Cat Against A Colorful Sunset Sky 22fa7b40|Photograph Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: silhouette, colorful
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Silhouette Of A Cat Against A Colorful Sunset Sky 08bfb852|Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: silhouette, colorful
 - [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: dark, background, background.jpeg
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: colorful, background
 <!-- vault-crosslinks:end -->

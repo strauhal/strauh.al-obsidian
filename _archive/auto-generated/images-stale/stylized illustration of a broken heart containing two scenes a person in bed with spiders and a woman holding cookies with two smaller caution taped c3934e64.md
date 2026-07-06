@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Broken Heart Illustration with Two Scenes and Caution Taped Figures 3ac2caa1|Illustration Stylized Broken Heart Illustration with Two Scenes and Caution Taped Figures]] — shared language: caution, taped, heart
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, caution
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[_archive/auto-generated/images-stale/black and white drawing of stylized figures in two scenes 2023 01ccf91e|black and white drawing of stylized figures in two scenes 2023]] — shared language: scenes, stylized
 - [[knowledge/wiki/images/Illustration Stylized Black And White Drawing Of Figures In Two Scenes 3006c273|Illustration Stylized Black And White Drawing Of Figures In Two Scenes]] — shared language: scenes, stylized

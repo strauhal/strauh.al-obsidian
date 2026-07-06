@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
-- [[knowledge/wiki/images/Photograph Young Woman With Bottles And Cigarette Packs On Floor e91fc69c|Photograph Young Woman With Bottles And Cigarette Packs On Floor]] — shared language: cigarette
-- [[knowledge/wiki/images/Illustration Anime Character In Straw Hat Holding Basket Of Vegetables fb2c4761|Illustration Anime Character In Straw Hat Holding Basket Of Vegetables]] — shared language: hat, character
 - [[knowledge/wiki/images/Illustration Stylized Character Parts with Floral and Geometric Motifs 8e992f5c|Illustration Stylized Character Parts with Floral and Geometric Motifs]] — shared language: character, stylized
+- [[knowledge/wiki/images/Illustration Anime Character In Straw Hat Holding Basket Of Vegetables fb2c4761|Illustration Anime Character In Straw Hat Holding Basket Of Vegetables]] — shared language: hat, character
 - [[knowledge/wiki/images/Illustration Anime Style Character in Cowboy Hat and Poncho Holding Revolver 71510aff|Illustration Anime Style Character in Cowboy Hat and Poncho Holding Revolver]] — shared language: hat, character
+- [[knowledge/wiki/images/Illustration Stylized Character in Helmet and Oversized Clothes 234c12cc|Illustration Stylized Character in Helmet and Oversized Clothes]] — shared language: character, stylized
 <!-- vault-crosslinks:end -->

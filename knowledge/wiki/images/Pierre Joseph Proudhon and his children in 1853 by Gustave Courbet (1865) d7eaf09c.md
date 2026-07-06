@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Pierre Joseph Pr
 
 - [[knowledge/wiki/images/portrait of pierre joseph proudhon 1865 jpg 5a0fb9ed|portrait of pierre joseph proudhon 1865 jpg]] — shared language: proudhon, pierre, joseph
 - [[knowledge/wiki/artists/Artist - gustave courbet|Artist - gustave courbet]] — shared language: courbet, gustave
-- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children, joseph
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/images/les demoiselles de village the young ladies of the village by gustave courbet 1852 e0235fcf|les demoiselles de village the young ladies of the village by gustave courbet 1852]] — shared language: courbet, gustave
 <!-- vault-crosslinks:end -->

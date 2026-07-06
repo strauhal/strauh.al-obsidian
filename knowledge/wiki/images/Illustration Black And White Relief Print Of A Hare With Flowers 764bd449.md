@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/images/up Hare on Top (1998) cb008c1d|up Hare on Top (1998)]] — shared language: hare
 - [[knowledge/wiki/images/Illustration Four Black and White Relief Prints of a Portrait on Fabric 0e850100|Illustration Four Black and White Relief Prints of a Portrait on Fabric]] — shared language: relief
-- [[knowledge/wiki/images/Photograph Stone Relief Sculpture of a Woman and Two Children in a Park 2e92904c|Photograph Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief
+- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers
-- [[knowledge/wiki/images/Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers 07304629|Illustration Expressionistic Painting of Nude Woman with Red Hair and Flowers]] — shared language: flowers, flowers.jpeg
+- [[knowledge/wiki/images/Illustration Black and White Print of Two Figures in an Interior Setting 18f160e2|Illustration Black and White Print of Two Figures in an Interior Setting]] — shared language: print
 <!-- vault-crosslinks:end -->

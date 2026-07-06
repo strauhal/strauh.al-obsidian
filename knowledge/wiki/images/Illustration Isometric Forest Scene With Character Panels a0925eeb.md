@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk City Street Scene c82cd53b|Illustration Detailed Isometric Cyberpunk City Street Scene]] — shared language: isometric, scene
 - [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
+- [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: panels, panels.jpeg
 <!-- vault-crosslinks:end -->

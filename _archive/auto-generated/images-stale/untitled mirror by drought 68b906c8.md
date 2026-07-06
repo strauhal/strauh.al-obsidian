@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Drought|Artist - Drought]] — named in this note
 - [[knowledge/wiki/images/MS Paint Mirror by Drought 6b86bdc8|MS Paint Mirror by Drought]] — same artist: drought
 - [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: mirror
-- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: mirror
+- [[knowledge/wiki/images/Black And White Photo Of Boy Looking Into Mirror a25b261a|Black And White Photo Of Boy Looking Into Mirror]] — shared language: mirror
 - [[knowledge/wiki/images/Illustration Black Dog Looking At Its Reflection In A Mirror d3153e0e|Illustration Black Dog Looking At Its Reflection In A Mirror]] — shared language: mirror
-- [[knowledge/wiki/images/the mirror by john william godward 1899 c2159a79|the mirror by john william godward 1899]] — shared language: mirror
 <!-- vault-crosslinks:end -->

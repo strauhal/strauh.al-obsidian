@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: nothing
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: nothing
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: nothing
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: nothing
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: left
 - [[knowledge/wiki/images/Illustration Two Cartoon Figures on Winding Paths with Text 301283fd|Illustration Two Cartoon Figures on Winding Paths with Text]] — shared language: cartoon, text

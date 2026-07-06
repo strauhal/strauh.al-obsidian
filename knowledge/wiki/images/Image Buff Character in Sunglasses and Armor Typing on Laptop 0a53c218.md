@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Buff Cha
 - [[knowledge/wiki/images/Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak 4d2c26b9|Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak]] — shared language: armor, character
 - [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: sunglasses, character
 - [[knowledge/wiki/images/Illustration Anime Character with Purple Hair, Heterochromia, and Golden Armor by Kinji Yoshimoto d0fc45bb|Illustration Anime Character with Purple Hair, Heterochromia, and Golden Armor by Kinji Yoshimoto]] — shared language: armor, character
-- [[knowledge/wiki/images/Photograph Person Typing at Large Curved Screen Displaying Data 16017e4d|Photograph Person Typing at Large Curved Screen Displaying Data]] — shared language: typing
-- [[knowledge/wiki/images/Photograph Black and Orange Cats Near a Laptop ed290698|Photograph Black and Orange Cats Near a Laptop]] — shared language: laptop, laptop.jpg
+- [[knowledge/wiki/images/Person Typing at Large Curved Screen Displaying Data 7b186e28|Person Typing at Large Curved Screen Displaying Data]] — shared language: typing
+- [[knowledge/wiki/images/Black and Orange Cats Near a Laptop 548f19ea|Black and Orange Cats Near a Laptop]] — shared language: laptop, laptop.jpg
 <!-- vault-crosslinks:end -->

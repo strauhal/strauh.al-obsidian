@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - bill willingham|Artist - bill willingham]] — named in this note
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: bill
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1991|Artist - bill watterson 1991]] — shared language: bill
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1993|Artist - bill watterson 1993]] — shared language: bill
-- [[knowledge/archive/auto-generated/artists-stale/Artist - bill watterson 1994|Artist - bill watterson 1994]] — shared language: bill
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Branching Organic Forms|Artist - Branching Organic Forms]] — shared language: organic, forms
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: organic, forms
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Abstract Organic Forms on Paper c89e4e81|Illustration Continuous Line Drawing of Abstract Organic Forms on Paper]] — shared language: organic, forms
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/images/Illustration Two Abstract Red And White Organic Figures On Black Background 161d994c|Illustration Two Abstract Red And White Organic Figures On Black Background]] — shared language: organic
-- [[knowledge/wiki/images/Illustration Page with Black Organic Shapes and Grid of Circles 4b6399a5|Illustration Page with Black Organic Shapes and Grid of Circles]] — shared language: organic, grid
 <!-- vault-crosslinks:end -->

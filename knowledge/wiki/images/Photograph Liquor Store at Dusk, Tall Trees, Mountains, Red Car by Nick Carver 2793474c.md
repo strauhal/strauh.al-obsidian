@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Liq
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall, trees
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: tall, mountains
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, trees
+- [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, mountains, trees
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: nick
-- [[knowledge/wiki/images/Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk 595024bc|Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk]] — shared language: dusk, mountains, trees
-- [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — shared language: nick
-- [[knowledge/wiki/images/Photograph Split Image Of Messy Liquor Store Aisle And Raccoon In Bathroom 1bfa86ff|Photograph Split Image Of Messy Liquor Store Aisle And Raccoon In Bathroom]] — shared language: liquor, store
 <!-- vault-crosslinks:end -->

@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Ray Gene ed Joseph Beuys Mapping the Legacy]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Ray_Gene_ed_Joseph_Beuys_Mapping_the_Legacy.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Joseph Beuys: Mapping the Legacy
@@ -47,5 +47,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/bueys-joseph-harlan-volker-what-is-art-conversation-with-joseph-beuys-clairview-books|What is Art Conversation with Joseph Beuys-Clairview Books]] — same category: art aesthetics
 - [[knowledge/wiki/books/claudia-mesch-joseph-beuys-reaktion-books|Joseph Beuys-Reaktion Books]] — same category: art aesthetics
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
+- [[knowledge/wiki/books/mark-c-taylor-refiguring-the-spiritual-beuys-barney-turrell-goldsworthy|Refiguring the Spiritual: Beuys, Barney, Turrell, Goldsworthy]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

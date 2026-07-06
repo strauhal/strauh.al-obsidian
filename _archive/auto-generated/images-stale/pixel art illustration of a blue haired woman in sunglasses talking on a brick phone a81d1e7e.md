@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: talking
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: brick
 - [[knowledge/wiki/images/Illustration Woman Sitting, Talking on Phone, Surrounded by Pink Flowers by Shiori Matsuura c792d0a2|Illustration Woman Sitting, Talking on Phone, Surrounded by Pink Flowers by Shiori Matsuura]] — shared language: talking, phone
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick
+- [[_archive/auto-generated/images-stale/framed portrait of a dark haired man in a black coat 1c9a469d|framed portrait of a dark haired man in a black coat]] — shared language: haired
 <!-- vault-crosslinks:end -->

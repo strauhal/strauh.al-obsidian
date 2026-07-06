@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden 5b0fd90b|Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden]] — shared language: mixed, silhouette, sun
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
 - [[knowledge/wiki/images/Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares 9199a264|Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares]] — shared language: mixed, media, text
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 <!-- vault-crosslinks:end -->

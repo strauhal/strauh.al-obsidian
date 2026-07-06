@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Malcolm with 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Man in Keffiyeh Playing Billiards dd913230|Man in Keffiyeh Playing Billiards]] — shared language: keffiyeh
 - [[knowledge/wiki/images/Hold Me by Malcolm T. Liepke (2023) 51d992e5|Hold Me by Malcolm T. Liepke (2023)]] — shared language: malcolm
+- [[knowledge/wiki/images/Malcolm X Peering Out Window With Rifle 55a4b664|Malcolm X Peering Out Window With Rifle]] — shared language: malcolm
 - [[knowledge/wiki/artists/Artist - Malcolm Browne|Artist - Malcolm Browne]] — shared language: malcolm
 - [[knowledge/wiki/images/Malcolm X at a Window by Eve Arnold (1961) 4a58cbc3|Malcolm X at a Window by Eve Arnold (1961)]] — shared language: malcolm
-- [[knowledge/wiki/images/Photograph The Burning Monk by Malcolm Browne a048d147|Photograph The Burning Monk by Malcolm Browne]] — shared language: malcolm
-- [[knowledge/wiki/images/Illustration Composite Image of Woman's Eyes in Keffiyeh Over Drifting Car d6ffa61d|Illustration Composite Image of Woman's Eyes in Keffiyeh Over Drifting Car]] — shared language: keffiyeh
 <!-- vault-crosslinks:end -->

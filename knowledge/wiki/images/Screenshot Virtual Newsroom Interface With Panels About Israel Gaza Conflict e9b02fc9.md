@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/Screenshot Virtual Newsroom With Multiple Data Screens And Avatar 6750560e|Screenshot Virtual Newsroom With Multiple Data Screens And Avatar]] — shared language: newsroom, virtual, screenshot
 - [[knowledge/wiki/images/Screenshot Virtual Room With Russia Ukraine News Panels And Map 00a763e0|Screenshot Virtual Room With Russia Ukraine News Panels And Map]] — shared language: virtual, panels, screenshot
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: virtual
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: virtual
 - [[knowledge/wiki/images/Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface 0c512e48|Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface]] — shared language: virtual, interface, screenshot
-- [[knowledge/wiki/images/Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background 592bbf5e|Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background]] — shared language: virtual, interface, screenshot
 <!-- vault-crosslinks:end -->

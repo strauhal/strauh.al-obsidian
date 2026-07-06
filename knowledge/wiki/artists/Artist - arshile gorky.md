@@ -32,6 +32,7 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/anchors/hieronymous-cock|hieronymous cock]] — shared language: cock
 - [[knowledge/wiki/images/Hieronymus Cock 2ddf967c|Hieronymus Cock]] — shared language: cock
 - [[knowledge/wiki/pages/artists hieronymous cock|artists hieronymous cock]] — shared language: cock

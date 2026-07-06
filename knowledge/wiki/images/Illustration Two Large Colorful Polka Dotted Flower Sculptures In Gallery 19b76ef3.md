@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: dotted, sculptures, polka
-- [[knowledge/wiki/images/Photograph Geometric Sculptures on Display in a Modern Art Gallery bca7de4e|Photograph Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: sculptures, gallery
-- [[knowledge/wiki/images/Photograph Gallery Wall Installation with Ceramic Sculptures and Pedestals fb80159c|Photograph Gallery Wall Installation with Ceramic Sculptures and Pedestals]] — shared language: sculptures, gallery
+- [[knowledge/wiki/images/Geometric Sculptures on Display in a Modern Art Gallery a48bebe1|Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: sculptures, gallery
+- [[knowledge/wiki/images/Gallery Wall Installation with Ceramic Sculptures and Pedestals a31e4f92|Gallery Wall Installation with Ceramic Sculptures and Pedestals]] — shared language: sculptures, gallery
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: gallery, colorful, gallery.jpeg
-- [[knowledge/wiki/images/Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings ac49cb4a|Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings]] — shared language: sculptures
+- [[knowledge/wiki/images/Illustration Two Seated Women, One In Polka Dots, One In Blue b9a012c8|Illustration Two Seated Women, One In Polka Dots, One In Blue]] — shared language: polka
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - elyvees 2023|Artist - elyvees 2023]] — named in this note
+- [[knowledge/wiki/artists/Artist - Elyvees|Artist - Elyvees]] — named in this note
 - [[knowledge/wiki/images/Illustration Anime style Character Holding Sword in Front of Castle by Elyvees 640363ac|Illustration Anime style Character Holding Sword in Front of Castle by Elyvees]] — same artist: elyvees
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: star
 - [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — shared language: knight
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nick knight 1998|Artist - nick knight 1998]] — shared language: knight
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Glowing Esoteric Diagram Projected Onto Blue Sky by Hideaki Anno 8f3467dc|Screenshot Glowing Esoteric Diagram Projected Onto Blue Sky by Hideaki Anno]] — shared language: projected, esoteric, onto
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/artists/Artist - Hideaki Anno|Artist - Hideaki Anno]] — shared language: projected, esoteric, onto
 - [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: esoteric
 - [[_archive/auto-generated/images-stale/photograph of a research paper title slide projected onto a large screen in a dark auditorium 436e5fd5|photograph of a research paper title slide projected onto a large screen in a dark auditorium]] — shared language: projected, onto
+- [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: esoteric
 <!-- vault-crosslinks:end -->

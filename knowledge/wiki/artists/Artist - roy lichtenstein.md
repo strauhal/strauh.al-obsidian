@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Arpita Roy|Artist - Arpita Roy]] — shared language: roy
-- [[knowledge/wiki/images/Photograph Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy 38dc776c|Photograph Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy]] — shared language: roy
+- [[knowledge/wiki/images/Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy 8d82e828|Pink Lily Of The Valley Flowers With Dewdrops by Arpita Roy]] — shared language: roy
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: reflections
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of Aphex Twin With Reflections 277034f4|Photograph Black And White Portrait Of Aphex Twin With Reflections]] — shared language: reflections
+- [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: reflections
 - [[knowledge/wiki/images/Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red 2643a7f3|Illustration Abstract Painting of Vertical Streaks and Reflections in Pink, Red]] — shared language: reflections
 - [[knowledge/wiki/images/Photograph Elderly Woman Sitting on Bench with Reflections in Glass 768be639|Photograph Elderly Woman Sitting on Bench with Reflections in Glass]] — shared language: reflections
 <!-- vault-crosslinks:end -->

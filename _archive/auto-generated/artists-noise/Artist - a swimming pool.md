@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Figures And Dog By A Swimming Pool 5999785f|Illustration Figures And Dog By A Swimming Pool]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-swimming-pool|Artist - a swimming pool]] — shared language: swimming, pool
-- [[knowledge/wiki/images/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool
-- [[knowledge/wiki/images/Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections 8eaa733d|Photograph Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections]] — shared language: swimming, pool
-- [[_archive/auto-generated/images-stale/framed orange abstract painting with swimming figures 40846125|framed orange abstract painting with swimming figures]] — shared language: swimming
-- [[knowledge/wiki/images/Illustration Stylized Swimming Pool with Palm Trees and Ocean View by Hiroshi Nagai 0eec9113|Illustration Stylized Swimming Pool with Palm Trees and Ocean View by Hiroshi Nagai]] — shared language: swimming, pool
+- [[knowledge/wiki/images/Man in Yellow Shorts Sitting by a Swimming Pool f47c4773|Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool
+- [[_archive/auto-generated/images-stale/Photograph Man in Yellow Shorts Sitting by a Swimming Pool eb956d08|Photograph Man in Yellow Shorts Sitting by a Swimming Pool]] — shared language: swimming, pool
+- [[knowledge/wiki/images/Man Sitting On Chair Underwater In Swimming Pool 7ddb39c8|Man Sitting On Chair Underwater In Swimming Pool]] — shared language: swimming, pool
+- [[knowledge/wiki/images/Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections d6ee83a9|Indoor Swimming Pool with Eye Like Ceiling Lights and Reflections]] — shared language: swimming, pool
 <!-- vault-crosslinks:end -->

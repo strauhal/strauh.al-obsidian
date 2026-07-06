@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/artists/Artist - John Lennon|Artist - John Lennon]] — shared language: lennon, john
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/images/Photograph Black and White Photo Collage of Eyes and Hands 79c1143e|Photograph Black and White Photo Collage of Eyes and Hands]] — shared language: photo, collage
+- [[knowledge/wiki/images/Black and White Photo Collage of Eyes and Hands e48851bc|Black and White Photo Collage of Eyes and Hands]] — shared language: collage, photo
 - [[knowledge/wiki/images/Illustration Nine Stylized Faces in Rectangular Frames by John Lennon 5a278164|Illustration Nine Stylized Faces in Rectangular Frames by John Lennon]] — shared language: lennon, john
 - [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting of Flags and a Child like Figure 03049e59|Illustration Abstract Painting of Flags and a Child like Figure]] — shared language: flags
-- [[knowledge/wiki/images/Photograph Purple and Blue Sunset Through Sheer Curtains 30700ff2|Photograph Purple and Blue Sunset Through Sheer Curtains]] — shared language: curtains
+- [[_archive/auto-generated/images-stale/Photograph Purple and Blue Sunset Through Sheer Curtains 30700ff2|Photograph Purple and Blue Sunset Through Sheer Curtains]] — shared language: curtains
+- [[knowledge/wiki/images/Purple and Blue Sunset Through Sheer Curtains aa865b3e|Purple and Blue Sunset Through Sheer Curtains]] — shared language: curtains
+- [[knowledge/wiki/images/Laptop On Carpet In Empty Room With Curtains 09667d0a|Laptop On Carpet In Empty Room With Curtains]] — shared language: curtains
+- [[_archive/auto-generated/images-stale/Photograph Laptop On Carpet In Empty Room With Curtains d73bca90|Photograph Laptop On Carpet In Empty Room With Curtains]] — shared language: curtains
 - [[_archive/auto-generated/images-stale/impressionistic painting of figures walking in a park with flags b6905a65|impressionistic painting of figures walking in a park with flags]] — shared language: flags
-- [[knowledge/wiki/images/Photograph Laptop On Carpet In Empty Room With Curtains d73bca90|Photograph Laptop On Carpet In Empty Room With Curtains]] — shared language: curtains
-- [[_archive/auto-generated/images-stale/framed political painting with flags and reclining figure 4da1204e|framed political painting with flags and reclining figure]] — shared language: flags
-- [[knowledge/wiki/images/Photograph Busy City Street with Prudential Building and Flags 7e8f21b4|Photograph Busy City Street with Prudential Building and Flags]] — shared language: flags
 <!-- vault-crosslinks:end -->

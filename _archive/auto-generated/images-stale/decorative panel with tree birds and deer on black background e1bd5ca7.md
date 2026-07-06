@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Decorative Journal Cover with Tree, Birds, and Deer b25cc5a5|Image Decorative Journal Cover with Tree, Birds, and Deer]] — shared language: decorative, deer, birds
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panel
 - [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds, background
 - [[knowledge/wiki/images/Illustration White Deer With Pylon Antlers Against Dark Blue Background 96fffcd0|Illustration White Deer With Pylon Antlers Against Dark Blue Background]] — shared language: deer, background, background.jpeg
 - [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree
-- [[knowledge/wiki/images/Illustration Watercolor Painting of Many Small Birds on Light Background 1c6d543b|Illustration Watercolor Painting of Many Small Birds on Light Background]] — shared language: birds, background
 <!-- vault-crosslinks:end -->

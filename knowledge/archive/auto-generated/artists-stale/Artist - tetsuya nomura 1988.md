@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - tetsuya nomura|Artist - tetsuya nomura]] — named in this note
+- [[knowledge/wiki/images/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security a2ff99ac|Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security]] — shared language: tetsuya
+- [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: tetsuya
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light
 - [[knowledge/archive/auto-generated/artists-stale/Artist - diagonal light|Artist - diagonal light]] — shared language: light
-- [[knowledge/wiki/images/Photograph Photograph of a Book Page with an Illustration of Light and Color cdea9c1a|Photograph Photograph of a Book Page with an Illustration of Light and Color]] — shared language: light
-- [[_archive/auto-generated/images-stale/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: light
 <!-- vault-crosslinks:end -->

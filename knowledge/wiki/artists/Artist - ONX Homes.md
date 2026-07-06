@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Screenshot of News Article About Vacant Homes and Homelessness 422d2d7c|Screenshot Screenshot of News Article About Vacant Homes and Homelessness]] — shared language: homes
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, aerial, view
 - [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
-- [[knowledge/wiki/images/Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]] — shared language: aerial, view
-- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, view
+- [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: uniform
+- [[knowledge/wiki/images/Aerial View Of Colorful Striped Agricultural Fields ccc6a845|Aerial View Of Colorful Striped Agricultural Fields]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

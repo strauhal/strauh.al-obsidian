@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Lar
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: school
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: school
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
 <!-- vault-crosslinks:end -->

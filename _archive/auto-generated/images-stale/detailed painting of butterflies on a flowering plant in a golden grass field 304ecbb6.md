@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Butterflies on a Flowering Plant in a Golden Grass Field 09021360|Illustration Butterflies on a Flowering Plant in a Golden Grass Field]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
-- [[knowledge/wiki/images/Photograph Caiman With Butterflies On Its Head By A River 23155b53|Photograph Caiman With Butterflies On Its Head By A River]] — shared language: butterflies
-- [[knowledge/wiki/images/Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass eba00fd5|Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass]] — shared language: grass, field
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: grass, golden
 - [[_archive/auto-generated/images-stale/blurred landscape with golden grass and pale foggy sky ee8a82ae|blurred landscape with golden grass and pale foggy sky]] — shared language: grass, golden
+- [[knowledge/wiki/images/Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky 31ffa0e1|Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky]] — shared language: grass, golden
+- [[knowledge/wiki/images/Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass eba00fd5|Illustration Panoramic Field of Yellow and Orange Flowers in Green Grass]] — shared language: grass, field
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Sexual personae  art and decadence from Nefertiti to Emily Dickinson by Paglia, Camille (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Sexual personae art and decadence from Nefertiti to Emily Dickinson
@@ -44,5 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — same category: art aesthetics
 - [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
-- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — same category: art aesthetics
+- [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

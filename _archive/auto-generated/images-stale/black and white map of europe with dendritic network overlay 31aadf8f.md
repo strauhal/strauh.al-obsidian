@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Black And White Map Of Europe With Dendritic Network Overlay 26e7d28d|Diagram Black And White Map Of Europe With Dendritic Network Overlay]] — shared language: dendritic, europe, overlay
+- [[knowledge/wiki/images/Black And White Map Of Europe With Dendritic Network Overlay 68808896|Black And White Map Of Europe With Dendritic Network Overlay]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Black And White Map Of Europe With Dendritic Network Overlay 26e7d28d|Diagram Black And White Map Of Europe With Dendritic Network Overlay]] — shared language: dendritic, europe, overlay
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network
 - [[_archive/auto-generated/images-stale/deconvolution network architecture png 0f02d728|deconvolution network architecture png]] — shared language: network
-- [[_archive/auto-generated/images-stale/deconvolution network architecture diagram 788230db|deconvolution network architecture diagram]] — shared language: network
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Visual Comparison of Text on LCD, E Ink, and Paper Surfaces 77b43545|Diagram Visual Comparison of Text on LCD, E Ink, and Paper Surfaces]] — shared language: lcd, surfaces, comparison
+- [[knowledge/wiki/images/Visual Comparison of Text on LCD, E Ink, and Paper Surfaces ba0c2193|Visual Comparison of Text on LCD, E Ink, and Paper Surfaces]] — shared language: lcd, surfaces, comparison
+- [[_archive/auto-generated/images-stale/Diagram Visual Comparison of Text on LCD, E Ink, and Paper Surfaces 77b43545|Diagram Visual Comparison of Text on LCD, E Ink, and Paper Surfaces]] — shared language: lcd, surfaces, comparison
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: chart, paper
 - [[_archive/auto-generated/images-stale/abstract black ink brushstrokes on paper 3dd6bc32|abstract black ink brushstrokes on paper]] — shared language: paper, ink
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, ink
-- [[knowledge/wiki/images/Illustration Multi Panel Painting with Symbolic Figures and Text 949a6c9c|Illustration Multi Panel Painting with Symbolic Figures and Text]] — shared language: multi, panel, text
 <!-- vault-crosslinks:end -->

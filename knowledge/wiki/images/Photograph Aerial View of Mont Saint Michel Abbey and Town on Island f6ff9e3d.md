@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Mont Saint Michel by Martin Johnson Heade (1881) 378d15e2|Mont Saint Michel by Martin Johnson Heade (1881)]] — shared language: mont, michel, saint
 - [[knowledge/wiki/images/mont saint michel in the air by winsor mccay 1909 3f3cecf6|mont saint michel in the air by winsor mccay 1909]] — shared language: mont, michel, saint
 - [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
-- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
-- [[knowledge/wiki/images/Photograph Scenic View of Cliffside Town with White and Pastel Buildings 6ea01dea|Photograph Scenic View of Cliffside Town with White and Pastel Buildings]] — shared language: town, view
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/tunnel b080ddec|tunnel]] — named in this note
-- [[knowledge/wiki/images/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading
+- [[knowledge/wiki/images/City Street Lined With Tall Buildings Leading To Water 929dcd0d|City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading
+- [[_archive/auto-generated/images-stale/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading
 - [[_archive/auto-generated/images-stale/photograph of a city street lined with tall buildings leading to a body of water 69d0b436|photograph of a city street lined with tall buildings leading to a body of water]] — shared language: lined, leading
 - [[knowledge/wiki/images/black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893 0e9d54e0|black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893]] — shared language: leading, bridge
-- [[_archive/auto-generated/images-stale/high angle photograph of military vehicles moving down a wide avenue lined with trees c8ff1694|high angle photograph of military vehicles moving down a wide avenue lined with trees]] — shared language: wide, lined
 <!-- vault-crosslinks:end -->

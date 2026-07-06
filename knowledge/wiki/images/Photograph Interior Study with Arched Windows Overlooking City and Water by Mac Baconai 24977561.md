@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Int
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain 294789ec|Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, overlooking, windows
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, study, water
+- [[knowledge/wiki/images/Interior Room With Arched Windows Overlooking Sea And Coastal Plain db993a24|Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, overlooking, windows
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
 - [[knowledge/wiki/images/Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture 8eba43c8|Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture]] — shared language: arched, windows, interior
-- [[knowledge/wiki/images/Illustration Sunlit Orange Toned Cafe Interior with Arched Windows and Figure by Ethan Lee 725dc037|Illustration Sunlit Orange Toned Cafe Interior with Arched Windows and Figure by Ethan Lee]] — shared language: arched, windows, interior
 <!-- vault-crosslinks:end -->

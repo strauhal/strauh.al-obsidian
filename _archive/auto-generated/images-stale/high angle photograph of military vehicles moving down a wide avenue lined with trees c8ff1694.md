@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: moving
 - [[knowledge/wiki/images/Photograph High Angle Black and White Photograph of a Grand Exposition Complex 17afa330|Photograph High Angle Black and White Photograph of a Grand Exposition Complex]] — shared language: angle, high
 - [[_archive/auto-generated/images-stale/photograph of a wide bridge lined with white streetlights leading to a tunnel entrance 17830865|photograph of a wide bridge lined with white streetlights leading to a tunnel entrance]] — shared language: wide, lined
-- [[knowledge/wiki/images/Photograph High Angle View of Tanks and Troops in Tiananmen Square c0d0a91c|Photograph High Angle View of Tanks and Troops in Tiananmen Square]] — shared language: angle, high
 - [[knowledge/wiki/images/Illustration Sketches of Military Vehicles and Robotic Figures on Sketchbook Page fb8f2365|Illustration Sketches of Military Vehicles and Robotic Figures on Sketchbook Page]] — shared language: vehicles, military
+- [[_archive/auto-generated/images-stale/high angle photograph of a dark building facade and sidewalk with a lone figure 296f8b18|high angle photograph of a dark building facade and sidewalk with a lone figure]] — shared language: angle, high
 <!-- vault-crosslinks:end -->

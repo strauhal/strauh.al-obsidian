@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Com
 - [[knowledge/wiki/images/Screenshot Complex Grayscale Abstract Digital Drawing Displayed in MS Paint 9c5b1c05|Screenshot Complex Grayscale Abstract Digital Drawing Displayed in MS Paint]] — shared language: displayed, paint, complex
 - [[knowledge/wiki/images/Screenshot Complex Black And White Abstract Art In Microsoft Paint bdb8af90|Screenshot Complex Black And White Abstract Art In Microsoft Paint]] — shared language: paint, complex, screenshot
 - [[knowledge/wiki/images/Screenshot Surreal Abstract Drawing Displayed in Microsoft Paint a800d482|Screenshot Surreal Abstract Drawing Displayed in Microsoft Paint]] — shared language: displayed, paint, screenshot
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint
 <!-- vault-crosslinks:end -->

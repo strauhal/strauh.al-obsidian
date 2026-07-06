@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - walker evans|Artist - walker evans]] — named in this note
 - [[knowledge/wiki/images/walker evans alabama tenant farmer wife 1936 5a2913df|walker evans alabama tenant farmer wife 1936]] — shared language: evans, walker, alabama
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: walker
-- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
-- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker 2020|Artist - caroline walker 2020]] — shared language: walker
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
+- [[knowledge/archive/auto-generated/artists-stale/Artist - chuck walker 1986|Artist - chuck walker 1986]] — shared language: walker
+- [[knowledge/archive/auto-generated/artists-stale/Artist - caroline walker|Artist - caroline walker]] — shared language: walker
 <!-- vault-crosslinks:end -->

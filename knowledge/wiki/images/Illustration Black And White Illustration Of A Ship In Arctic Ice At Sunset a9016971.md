@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Scene in the Arctic by William Bradford 67cda044|Scene in the Arctic by William Bradford]] — shared language: arctic
 - [[knowledge/wiki/images/montague dawson the kings ship mid20th century e2c2eacd|montague dawson the kings ship mid20th century]] — shared language: ship
 - [[knowledge/wiki/images/sunset b9f961ed|sunset]] — shared language: sunset
-- [[knowledge/wiki/images/Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft aadd0085|Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft]] — shared language: ice
 - [[knowledge/wiki/images/thomas jacques somerscales fullrigged ship in heavy seas c 1900 3a79e440|thomas jacques somerscales fullrigged ship in heavy seas c 1900]] — shared language: ship
+- [[knowledge/wiki/images/Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft aadd0085|Illustration Abstract Dark Blue Pattern Resembling Ice Shards by Microsoft]] — shared language: ice
 <!-- vault-crosslinks:end -->

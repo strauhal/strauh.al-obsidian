@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/interior_the_mus
 - [[knowledge/wiki/images/interior with a young man reading by vilhelm hammershi 1898 20cbc442|interior with a young man reading by vilhelm hammershi 1898]] — same artist: vilhelm hammershi
 - [[knowledge/wiki/images/interior with a woman standing by vilhelm hammershi 1901 99975224|interior with a woman standing by vilhelm hammershi 1901]] — same artist: vilhelm hammershi
 - [[knowledge/wiki/images/interior with piano and cello by vilhelm hammershi 1901 1c5f07b5|interior with piano and cello by vilhelm hammershi 1901]] — same artist: vilhelm hammershi
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
+- [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/images/Interior with a Woman at a Piano by Vilhelm Hammersh i (1904) 8ec0d256|Interior with a Woman at a Piano by Vilhelm Hammersh i (1904)]] — shared language: vilhelm, interior
 <!-- vault-crosslinks:end -->

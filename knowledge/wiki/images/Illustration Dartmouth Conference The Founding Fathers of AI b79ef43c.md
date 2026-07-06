@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: fathers
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers
 - [[knowledge/wiki/images/Illustration Marker Drawing of People in a Conference Room f45e61eb|Illustration Marker Drawing of People in a Conference Room]] — shared language: conference
-- [[knowledge/wiki/images/Photograph Interior of a Modernist Building with Curved Walls and Conference Room 58f52562|Photograph Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: conference
-- [[knowledge/wiki/images/Photograph Audience at AIPAC Conference with US and Israeli Flags 4baa43d4|Photograph Audience at AIPAC Conference with US and Israeli Flags]] — shared language: conference
+- [[knowledge/wiki/images/Interior of a Modernist Building with Curved Walls and Conference Room dc58e14c|Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: conference
+- [[knowledge/wiki/images/Audience at AIPAC Conference with US and Israeli Flags 15ee1102|Audience at AIPAC Conference with US and Israeli Flags]] — shared language: conference
 <!-- vault-crosslinks:end -->

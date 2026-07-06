@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign 1ef78e8d|Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign]] — shared language: chimpanzee, user, shirt
-- [[knowledge/wiki/images/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: video, game, playing
+- [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: video, game, playing
+- [[_archive/auto-generated/images-stale/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: video, game, playing
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: video
-- [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game, video
 <!-- vault-crosslinks:end -->

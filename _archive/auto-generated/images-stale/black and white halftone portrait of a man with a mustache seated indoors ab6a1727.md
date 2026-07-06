@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Halftone Portrait of a Man with a Mustache Seated Indoors 79d483e3|Photograph Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: mustache, indoors, halftone
+- [[knowledge/wiki/images/Halftone Portrait of a Man with a Mustache Seated Indoors de9cdf9c|Halftone Portrait of a Man with a Mustache Seated Indoors]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Halftone Portrait of a Man with a Mustache Seated Indoors 79d483e3|Photograph Halftone Portrait of a Man with a Mustache Seated Indoors]] — shared language: mustache, halftone, indoors
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[_archive/auto-generated/images-stale/black and white close up portrait of a man with a thick mustache afbf7e8d|black and white close up portrait of a man with a thick mustache]] — shared language: mustache
 - [[knowledge/wiki/images/Illustration Four Line Drawings of a Man with Glasses and Mustache 754ed340|Illustration Four Line Drawings of a Man with Glasses and Mustache]] — shared language: mustache
-- [[knowledge/wiki/images/Photograph Halftone Portrait Of A Man Looking Right 44889f19|Photograph Halftone Portrait Of A Man Looking Right]] — shared language: halftone
 <!-- vault-crosslinks:end -->

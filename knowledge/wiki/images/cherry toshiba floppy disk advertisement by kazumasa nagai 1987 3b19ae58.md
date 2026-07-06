@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cherry_toshiba_f
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk 252982b7|Illustration Black and White Pixel Art of Hooded Figure with Floppy Disk]] — shared language: floppy, disk
-- [[knowledge/wiki/images/Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer 2dc0db64|Photograph Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: floppy, disk
+- [[knowledge/wiki/images/Man in Pirate Costume Holding Floppy Disk Next to Computer 495c275d|Man in Pirate Costume Holding Floppy Disk Next to Computer]] — shared language: floppy, disk
 - [[knowledge/wiki/artists/Artist - hiroshi nagai|Artist - hiroshi nagai]] — shared language: nagai
 - [[knowledge/wiki/images/swimming by hiroshi nagai 1982 272e8745|swimming by hiroshi nagai 1982]] — shared language: nagai
 - [[knowledge/wiki/images/future city by hiroshi nagai 1981 21d963e5|future city by hiroshi nagai 1981]] — shared language: nagai

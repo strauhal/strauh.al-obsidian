@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Th ophile Alexandre Steinlen|Artist - Th ophile Alexandre Steinlen]] — shared language: steinlen, alexandre, charcoal
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of a Reclining Woman by Th ophile Alexandre Steinlen 9e3c9159|Illustration Charcoal Drawing of a Reclining Woman by Th ophile Alexandre Steinlen]] — shared language: steinlen, alexandre, charcoal
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: down
 - [[knowledge/wiki/books/alexandre-koj-ve-introduction-to-the-reading-of-hegel|Introduction to the Reading of Hegel]] — shared language: alexandre
+- [[knowledge/archive/auto-generated/artists-stale/Artist - alexandre cabanel 1866|Artist - alexandre cabanel 1866]] — shared language: alexandre
 <!-- vault-crosslinks:end -->

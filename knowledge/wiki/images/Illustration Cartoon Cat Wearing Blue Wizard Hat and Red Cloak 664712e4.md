@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: wizard, hat, wearing
-- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: hat, wearing
+- [[knowledge/wiki/images/Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 616ecd4e|Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: wizard, hat, wearing
 - [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In A Dark Cloak 623d3648|Photograph Black And White Portrait Of A Man In A Dark Cloak]] — shared language: cloak
+- [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: hat, wearing
 - [[knowledge/wiki/images/Illustration Woman In Red Hat And Robe Holding Black Cat 2929450d|Illustration Woman In Red Hat And Robe Holding Black Cat]] — shared language: hat, cat
 - [[knowledge/wiki/culture/movie-the-wizard-of-oz|Watchlist - The Wizard of Oz]] — shared language: wizard
 <!-- vault-crosslinks:end -->

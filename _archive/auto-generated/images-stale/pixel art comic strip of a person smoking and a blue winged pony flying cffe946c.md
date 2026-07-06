@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Comic Pixel Art Comic of Person Smoking and Blue Pony Flying f5d034b7|Comic Pixel Art Comic of Person Smoking and Blue Pony Flying]] — shared language: pony, smoking, flying
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[_archive/auto-generated/images-stale/digital painting of a person drinking and smoking 39b04b4e|digital painting of a person drinking and smoking]] — shared language: smoking, person
-- [[knowledge/wiki/images/Illustration Textured Portrait Of A Person Smoking A Cigar c55c1864|Illustration Textured Portrait Of A Person Smoking A Cigar]] — shared language: smoking, person
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito 9f3ca7dd|Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito]] — shared language: smoking, comic
+- [[knowledge/wiki/images/Illustration Textured Portrait Of A Person Smoking A Cigar c55c1864|Illustration Textured Portrait Of A Person Smoking A Cigar]] — shared language: smoking, person
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi 2001|Artist - rinko kawauchi 2001]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi|Artist - Rinko Kawauchi]] — named in this note
+- [[knowledge/wiki/artists/Artist - Rinko Kawauchi|Artist - Rinko Kawauchi]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi|Artist - Rinko Kawauchi]] — shared language: rinko, kawauchi
 - [[_archive/auto-generated/images-stale/untitled from the series utatane by rinko kawauchi 2001 25b34190|untitled from the series utatane by rinko kawauchi 2001]] — shared language: rinko, kawauchi, series
 - [[knowledge/wiki/images/Photograph People Walking on Patterned Pavement at Night by Rinko Kawauchi 8cfaf0f5|Photograph People Walking on Patterned Pavement at Night by Rinko Kawauchi]] — shared language: rinko, kawauchi
 - [[knowledge/wiki/books/timothy-leary-politics-of-self-determination-self-mastery-series|Politics of Self-Determination (Self-Mastery Series)]] — shared language: series
-- [[_archive/auto-generated/concept-stubs/Dreams Series|Dreams Series]] — shared language: series
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Lake Lucerne by Robert Z nd (c. 1880) 90d9f996|Lake Lucerne by Robert Z nd (c. 1880)]] — shared language: lake
 - [[knowledge/wiki/images/On Lake Attersee by Gustav Klimt 80d2aa4e|On Lake Attersee by Gustav Klimt]] — shared language: lake
 - [[knowledge/wiki/images/Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep 2b2f295d|Illustration Landscape Painting of Lake, Trees, Mountains, and Sheep]] — shared language: lake
-- [[knowledge/wiki/images/Photograph White House in a Field with a Lake Under a Twilight Sky 8b6060a1|Photograph White House in a Field with a Lake Under a Twilight Sky]] — shared language: lake
-- [[knowledge/wiki/images/Illustration Landscape Painting with Figures Fishing and Boating on a Lake 3b2eadd8|Illustration Landscape Painting with Figures Fishing and Boating on a Lake]] — shared language: lake
+- [[knowledge/wiki/images/White House in a Field with a Lake Under a Twilight Sky f1895434|White House in a Field with a Lake Under a Twilight Sky]] — shared language: lake
+- [[knowledge/wiki/images/Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections 9aad0bea|Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections]] — shared language: lake
 <!-- vault-crosslinks:end -->

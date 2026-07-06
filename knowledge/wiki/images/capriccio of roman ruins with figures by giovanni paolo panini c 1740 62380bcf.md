@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/capriccio_of_rom
 - [[knowledge/wiki/images/ancient rome by giovanni paolo panini 1757 15ddab76|ancient rome by giovanni paolo panini 1757]] — same artist: giovanni paolo panini
 - [[knowledge/wiki/images/Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757) c0fb8b9d|Gallery of Views of Ancient Rome by Giovanni Paolo Pannini (1757)]] — shared language: paolo, giovanni
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: giovanni
-- [[knowledge/wiki/images/Saint George and the Dragon by Paolo Uccello (c. 1470) 5bc7a366|Saint George and the Dragon by Paolo Uccello (c. 1470)]] — shared language: paolo
 - [[knowledge/wiki/artists/Artist - giovanni bellini|Artist - giovanni bellini]] — shared language: giovanni
+- [[knowledge/wiki/images/Saint George and the Dragon by Paolo Uccello (c. 1470) 5bc7a366|Saint George and the Dragon by Paolo Uccello (c. 1470)]] — shared language: paolo
 <!-- vault-crosslinks:end -->

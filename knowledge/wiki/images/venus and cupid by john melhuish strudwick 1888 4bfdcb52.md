@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/venus_and_cupid_
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/hendrick goltzius venus bacchus and cupid c 1590 6c52e037|hendrick goltzius venus bacchus and cupid c 1590]] — shared language: cupid, venus
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
-- [[knowledge/wiki/images/cupid and psyche by antonio canova 1787 93 ac853e63|cupid and psyche by antonio canova 1787 93]] — shared language: cupid
 - [[knowledge/wiki/books/john-cage-notations|Notations]] — shared language: john
+- [[knowledge/wiki/images/cupid and psyche by antonio canova 1787 93 ac853e63|cupid and psyche by antonio canova 1787 93]] — shared language: cupid
 <!-- vault-crosslinks:end -->

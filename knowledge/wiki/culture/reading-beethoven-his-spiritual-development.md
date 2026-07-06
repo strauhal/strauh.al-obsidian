@@ -7,8 +7,8 @@ status: queued
 queue_order: 8
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Beethoven: His Spiritual Development
@@ -36,6 +36,6 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/music-beethoven-pathetique-moonlight-sonatas|Listening - Beethoven: Pathetique & Moonlight Sonatas]] — shared language: beethoven, current, stronger
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: spiritual
-- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: spiritual
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
+- [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/implicit_distance.html"
 source_relpath: "implicit_distance.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # implicit distance
@@ -41,5 +41,5 @@ playpausestop
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: implicit, neural, algorithm
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: implicit, distance, related
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: implicit, distance
 <!-- vault-crosslinks:end -->

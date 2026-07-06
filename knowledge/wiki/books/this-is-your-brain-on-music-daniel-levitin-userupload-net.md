@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/This_is_Your_Brain_on_Music_-_Daniel_Levitin_UserUpload_Net.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Daniel Levitin UserUpload Net
@@ -37,7 +37,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
@@ -45,4 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/william-gibson-pattern-recognition-a-novel|Pattern Recognition - A Novel]] — same category: media technology
 - [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — same category: media technology
 - [[knowledge/wiki/books/charles-dickens-great-expectations-public-domain-books|Great Expectations-Public Domain Books]] — same category: media technology
+- [[knowledge/wiki/books/thomas-g-wong-introduction-to-classical-and-quantum-computing|Introduction to Classical and Quantum Computing]] — same category: media technology
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]] — shared language: shot, screen, pm.png
+- [[_archive/auto-generated/images-stale/Screen Shot 2021 03 02 at 1.55.32 PM 3b3d05d6|Screen Shot 2021 03 02 at 1.55.32 PM]] — shared language: shot, screen, pm.png
 - [[_archive/auto-generated/images-stale/Screen Shot 2022 10 14 at 8.31.47 PM 885234c5|Screen Shot 2022 10 14 at 8.31.47 PM]] — shared language: shot, screen, pm.png
 - [[_archive/auto-generated/images-stale/Screen Shot 2023 06 22 at 2.18.47 PM 2cd56d07|Screen Shot 2023 06 22 at 2.18.47 PM]] — shared language: shot, screen, pm.png
 - [[_archive/auto-generated/images-stale/Screen Shot 2023 11 24 at 2.22.00 PM 5455bc34|Screen Shot 2023 11 24 at 2.22.00 PM]] — shared language: shot, screen, pm.png

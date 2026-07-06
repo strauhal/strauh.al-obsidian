@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Illustration Black And White Pixel Art Drawing Of A Highly Patterned Rug 4002ef31|Illustration Black And White Pixel Art Drawing Of A Highly Patterned Rug]] — shared language: rug
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: people, large
-- [[knowledge/wiki/images/Photograph Smiling Woman Holding Large Yellow and White Python a0749ab7|Photograph Smiling Woman Holding Large Yellow and White Python]] — shared language: holding, large
-- [[knowledge/wiki/images/Photograph Large Crowd Of People Walking Along A Road 01e93acd|Photograph Large Crowd Of People Walking Along A Road]] — shared language: people, large
-- [[knowledge/wiki/images/Photograph People Ascending And Descending Large Outdoor Staircase With Flower Beds 5d7785fc|Photograph People Ascending And Descending Large Outdoor Staircase With Flower Beds]] — shared language: people, large
+- [[knowledge/wiki/images/Large Group Of People Posing For A Selfie 08232790|Large Group Of People Posing For A Selfie]] — shared language: people, large
+- [[knowledge/wiki/images/Large Crowd Of People Walking Along A Road b64eda4f|Large Crowd Of People Walking Along A Road]] — shared language: people, large
+- [[knowledge/wiki/images/Smiling Woman Holding Large Yellow and White Python f8da8ebe|Smiling Woman Holding Large Yellow and White Python]] — shared language: holding, large
+- [[knowledge/wiki/images/People Posing With A Large Marble Sculpture In A Museum 5a44c5ed|People Posing With A Large Marble Sculpture In A Museum]] — shared language: people, large
 <!-- vault-crosslinks:end -->

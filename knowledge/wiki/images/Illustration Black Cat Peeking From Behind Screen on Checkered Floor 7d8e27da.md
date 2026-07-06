@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
+- [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: checkered, floor
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: checkered, floor
-- [[Welcome|strauh.al Knowledge Base]] — shared language: behind
 <!-- vault-crosslinks:end -->

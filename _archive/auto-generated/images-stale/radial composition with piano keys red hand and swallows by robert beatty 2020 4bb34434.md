@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert beatty 2020|Artist - robert beatty 2020]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert|Artist - robert]] — named in this note
 - [[knowledge/wiki/images/Illustration Radial Composition With Piano Keys, Red Hand, And Swallows 17ffca64|Illustration Radial Composition With Piano Keys, Red Hand, And Swallows]] — shared language: swallows, keys, radial
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano
 <!-- vault-crosslinks:end -->

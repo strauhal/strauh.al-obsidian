@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bill tavis and leonard massin 2004|Artist - bill tavis and leonard massin 2004]] — named in this note
+- [[knowledge/wiki/artists/Artist - Bill Tavis and Leonard Massin|Artist - Bill Tavis and Leonard Massin]] — named in this note
 - [[knowledge/wiki/images/Diagram Detailed Diagram of the Mandelbrot Set and Related Fractals by Bill Tavis and Leonard Massin 9790f39a|Diagram Detailed Diagram of the Mandelbrot Set and Related Fractals by Bill Tavis and Leonard Massin]] — same artist: bill tavis leonard massin
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: set
 - [[knowledge/wiki/artists/Artist - max bill|Artist - max bill]] — shared language: bill
-- [[knowledge/archive/auto-generated/artists-stale/Artist - max bill 1947|Artist - max bill 1947]] — shared language: bill
 <!-- vault-crosslinks:end -->

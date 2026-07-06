@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Modern Clothing Store Interior with Racks and Mannequins 74f56aca|Photograph Modern Clothing Store Interior with Racks and Mannequins]] — shared language: racks, clothing, modern
+- [[knowledge/wiki/images/Modern Clothing Store Interior with Racks and Mannequins 8def1e29|Modern Clothing Store Interior with Racks and Mannequins]] — shared language: racks, clothing, modern
+- [[_archive/auto-generated/images-stale/Photograph Modern Clothing Store Interior with Racks and Mannequins 74f56aca|Photograph Modern Clothing Store Interior with Racks and Mannequins]] — shared language: racks, clothing, modern
 - [[knowledge/wiki/images/Photograph Interior View of a Modern Art Gallery or Office Space 9aa654e7|Photograph Interior View of a Modern Art Gallery or Office Space]] — shared language: gallery, modern, interior
-- [[knowledge/wiki/images/Photograph Modern Minimalist Clothing Store Interior with Concrete and Black Accents ce1adf94|Photograph Modern Minimalist Clothing Store Interior with Concrete and Black Accents]] — shared language: clothing, modern, interior
-- [[knowledge/wiki/images/Photograph Person Viewing Art Installation in a Modern Gallery ef4623a0|Photograph Person Viewing Art Installation in a Modern Gallery]] — shared language: gallery, modern
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: modern
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
+- [[knowledge/wiki/images/Modern Minimalist Clothing Store Interior with Concrete and Black Accents 29c047db|Modern Minimalist Clothing Store Interior with Concrete and Black Accents]] — shared language: clothing, modern, interior
 <!-- vault-crosslinks:end -->

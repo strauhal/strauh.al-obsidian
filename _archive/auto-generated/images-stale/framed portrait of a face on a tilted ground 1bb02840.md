@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
 - [[knowledge/wiki/images/Illustration Abstract Black Geometric Shapes on Beige Ground e4f253e5|Illustration Abstract Black Geometric Shapes on Beige Ground]] — shared language: ground, ground.jpeg
-- [[knowledge/wiki/images/Photograph Tilted View of Chain Link Fence, Paved Area, and Sky 1a345128|Photograph Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: tilted
-- [[_archive/auto-generated/images-stale/abstract print of interlocking black geometric shapes on beige ground 5369f263|abstract print of interlocking black geometric shapes on beige ground]] — shared language: ground, ground.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Tilted View of Chain Link Fence, Paved Area, and Sky 1a345128|Photograph Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: tilted
+- [[knowledge/wiki/images/Tilted View of Chain Link Fence, Paved Area, and Sky 259a0f79|Tilted View of Chain Link Fence, Paved Area, and Sky]] — shared language: tilted
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed
 <!-- vault-crosslinks:end -->

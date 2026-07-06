@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Black And White Photograph Of Person Submerged In Water f59fbb2a|Black And White Photograph Of Person Submerged In Water]] — shared language: submerged, water
 - [[knowledge/wiki/images/Illustration Abstract Woven Textile with Colorful Organic Shapes 4033a7d2|Illustration Abstract Woven Textile with Colorful Organic Shapes]] — shared language: woven, textile
 - [[knowledge/wiki/images/Illustration Woven Textile Depicting Green and Yellow Circuit Board Pattern with Fringed Edges 9442deda|Illustration Woven Textile Depicting Green and Yellow Circuit Board Pattern with Fringed Edges]] — shared language: woven, textile, depicting
 - [[_archive/auto-generated/images-stale/woven textile depicting a green and yellow circuit board pattern with fringed edges c55dec11|woven textile depicting a green and yellow circuit board pattern with fringed edges]] — shared language: woven, textile, depicting
-- [[knowledge/wiki/images/Photograph Close up of a colorful woven textile with fabric strips 3e3253ae|Photograph Close up of a colorful woven textile with fabric strips]] — shared language: woven, textile
-- [[knowledge/wiki/images/Photograph Person Submerged in Water, Seen From Above 42080cfe|Photograph Person Submerged in Water, Seen From Above]] — shared language: submerged, water
+- [[knowledge/wiki/images/Close up of a colorful woven textile with fabric strips 496c4ba4|Close up of a colorful woven textile with fabric strips]] — shared language: woven, textile
 <!-- vault-crosslinks:end -->

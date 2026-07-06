@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/images/frank stella concentric square geometric abstract in grayscale circa 1970 e2ed3fa5|frank stella concentric square geometric abstract in grayscale circa 1970]] — shared language: stella
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
-- [[knowledge/wiki/images/joseph beuys 1979 E015HY 2cd01ee2|joseph beuys 1979 E015HY]] — shared language: joseph
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - Joseph Raphael|Artist - Joseph Raphael]] — shared language: joseph
 <!-- vault-crosslinks:end -->

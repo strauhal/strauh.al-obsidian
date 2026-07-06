@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background, nested
+- [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, nested, background
 - [[knowledge/wiki/images/Screenshot Screenshot of Op Art with Nested White Squares on Black 125f595f|Screenshot Screenshot of Op Art with Nested White Squares on Black]] — shared language: nested, squares
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares, pattern, geometric
 - [[_archive/auto-generated/images-stale/black and white geometric op art pattern 63adac02|black and white geometric op art pattern]] — shared language: pattern, geometric

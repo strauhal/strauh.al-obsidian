@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed portrait of an older man in a dark coat 31ef846c|framed portrait of an older man in a dark coat]] — shared language: older, framed
-- [[_archive/auto-generated/images-stale/monochromatic portrait painting of an older woman with a smirk d6f67ccd|monochromatic portrait painting of an older woman with a smirk]] — shared language: older
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
-- [[knowledge/wiki/images/Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application 37b699a4|Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: guitar, playing
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older
+- [[knowledge/wiki/images/3D Hand Models, Pose Sequences, and Guitar Playing Application 7701e011|3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: guitar, playing
+- [[_archive/auto-generated/images-stale/monochromatic portrait painting of an older woman with a smirk d6f67ccd|monochromatic portrait painting of an older woman with a smirk]] — shared language: older
+- [[_archive/auto-generated/images-stale/Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application 37b699a4|Diagram 3D Hand Models, Pose Sequences, and Guitar Playing Application]] — shared language: guitar, playing
 <!-- vault-crosslinks:end -->

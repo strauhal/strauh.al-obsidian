@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
-- [[knowledge/archive/auto-generated/anchors-stale/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, structures, blocks
+- [[knowledge/archive/auto-generated/artists-stale/Artist - collapsing city structures and abstract color blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, blocks, structures
+- [[knowledge/archive/auto-generated/anchors-stale/artist-collapsing-city-structures-and-abstract-color-blocks|Artist - collapsing city structures and abstract color blocks]] — shared language: collapsing, blocks, structures
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/the_ancient_of_d
 - [[knowledge/wiki/images/nebuchadnezzar by william blake c 1795 d9d30f8e|nebuchadnezzar by william blake c 1795]] — same artist: william blake
 - [[knowledge/wiki/images/the great red dragon and the woman clothed with the sun by william blake c 1805 5eb7daeb|the great red dragon and the woman clothed with the sun by william blake c 1805]] — same artist: william blake
 - [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: blake, william
-- [[knowledge/wiki/images/Diagram Comparison of Transportation Networks in US and Europe 0308b991|Diagram Comparison of Transportation Networks in US and Europe]] — shared language: europe
+- [[knowledge/wiki/images/Comparison of Transportation Networks in US and Europe 9d0a8bbd|Comparison of Transportation Networks in US and Europe]] — shared language: europe
 - [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: william
 <!-- vault-crosslinks:end -->

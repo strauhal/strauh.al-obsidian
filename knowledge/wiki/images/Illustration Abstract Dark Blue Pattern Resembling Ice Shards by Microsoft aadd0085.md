@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Grid of Vintage Computer Operating System Icons by Microsoft d26aafd3|Illustration Grid of Vintage Computer Operating System Icons by Microsoft]] — same artist: microsoft
 - [[knowledge/wiki/images/Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft a695d84c|Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft]] — same artist: microsoft
 - [[knowledge/wiki/books/anne-friedberg-the-virtual-window-from-alberti-to-microsoft|The Virtual Window: From Alberti to Microsoft]] — shared language: microsoft
-- [[knowledge/wiki/images/Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint 3069550b|Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint]] — shared language: microsoft
 - [[knowledge/wiki/images/Screenshot Complex Black And White Abstract Art In Microsoft Paint bdb8af90|Screenshot Complex Black And White Abstract Art In Microsoft Paint]] — shared language: microsoft
+- [[knowledge/wiki/images/Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint 3069550b|Screenshot Screenshot of Abstract Monochromatic Digital Drawing in Microsoft Paint]] — shared language: microsoft
 <!-- vault-crosslinks:end -->

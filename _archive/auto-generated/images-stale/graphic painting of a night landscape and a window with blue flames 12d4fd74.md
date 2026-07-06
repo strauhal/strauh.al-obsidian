@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window, night
 - [[knowledge/wiki/images/Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames f7b75581|Illustration Stylized Night Landscape with Moon, Vines, Flowers, and Blue Flames]] — shared language: flames, night, landscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
 - [[_archive/auto-generated/images-stale/advertisement graphic of a white car in a green landscape 2010 20235e54|advertisement graphic of a white car in a green landscape 2010]] — shared language: graphic, landscape
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
 - [[_archive/auto-generated/images-stale/night photo of a shop window with white interior 13db62c2|night photo of a shop window with white interior]] — shared language: window, night
 <!-- vault-crosslinks:end -->

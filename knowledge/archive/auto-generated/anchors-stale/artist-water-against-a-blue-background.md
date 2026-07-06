@@ -15,7 +15,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - water|Artist - Water]] — named in this note
+- [[knowledge/wiki/artists/Artist - Water|Artist - Water]] — named in this note
 - [[knowledge/archive/auto-generated/anchors-stale/artist-white-lines-on-a-black-background|Artist - white lines on a black background]] — shared language: background, wikilink, merge
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
 - [[knowledge/archive/auto-generated/anchors-stale/date-bucket-1400s|Date Bucket - 1400s]] — shared language: wikilink, merge, unresolved

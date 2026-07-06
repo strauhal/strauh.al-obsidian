@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - DJ 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: hand
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand
+- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: fire
 - [[knowledge/wiki/images/Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke' 5aa384ff|Illustration Framed artwork smudged text 'Where There Is Fire, There Is Smoke']] — shared language: fire
+- [[knowledge/wiki/artists/Artist - Giant Hand|Artist - Giant Hand]] — shared language: hand
 <!-- vault-crosslinks:end -->

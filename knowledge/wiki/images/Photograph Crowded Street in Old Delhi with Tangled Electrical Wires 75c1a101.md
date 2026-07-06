@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cro
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Tangled Wires on an Electronic Patch Panel c3d68059|Photograph Tangled Wires on an Electronic Patch Panel]] — shared language: tangled, wires
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
-- [[knowledge/wiki/images/Photograph White Cat Tangled In Black Yarn On Carpet 6fc6af3d|Photograph White Cat Tangled In Black Yarn On Carpet]] — shared language: tangled
+- [[knowledge/wiki/images/Photograph Tangled Wires on an Electronic Patch Panel c3d68059|Photograph Tangled Wires on an Electronic Patch Panel]] — shared language: tangled, wires
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
-- [[knowledge/wiki/images/Photograph Crowded Street Scene in Paris with Flags Overhead 45a314fc|Photograph Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, street
+- [[knowledge/wiki/images/Crowded Street Scene in Paris with Flags Overhead e0aef96a|Crowded Street Scene in Paris with Flags Overhead]] — shared language: crowded, street
+- [[knowledge/wiki/images/Illustration Black and White Drawing of a Central Figure in a Crowded Scene a93acf89|Illustration Black and White Drawing of a Central Figure in a Crowded Scene]] — shared language: crowded
 <!-- vault-crosslinks:end -->

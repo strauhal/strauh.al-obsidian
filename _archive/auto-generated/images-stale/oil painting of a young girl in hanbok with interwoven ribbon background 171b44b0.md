@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Colorful Painting of Young Girl in Hanbok with Ribbon Background 7c3a1a6a|Illustration Colorful Painting of Young Girl in Hanbok with Ribbon Background]] — shared language: hanbok, ribbon, girl
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: ribbon
-- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young, oil
+- [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: oil, young
 - [[_archive/auto-generated/images-stale/oil painting of a girl with green eyes and bob hair against a red background c078053f|oil painting of a girl with green eyes and bob hair against a red background]] — shared language: girl, oil, background
 <!-- vault-crosslinks:end -->

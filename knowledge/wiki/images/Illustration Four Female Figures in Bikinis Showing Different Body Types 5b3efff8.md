@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/images/Illustration Cartoon Figures With Geometric Shapes Illustrating Different Body Types 23e7700b|Illustration Cartoon Figures With Geometric Shapes Illustrating Different Body Types]] — shared language: types, different, body
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: body
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: body
 - [[knowledge/wiki/maps/Psychological Types|Psychological Types]] — shared language: types
+- [[knowledge/wiki/images/A Radial Diagram Categorizing Different Types of Guys 9525eeac|A Radial Diagram Categorizing Different Types of Guys]] — shared language: types, different
 <!-- vault-crosslinks:end -->

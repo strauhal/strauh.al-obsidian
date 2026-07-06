@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Q Train by Nigel
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
-- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: train
+- [[knowledge/wiki/images/Train with Headlights Inside Another Train Car 2d35357c|Train with Headlights Inside Another Train Car]] — shared language: train
 <!-- vault-crosslinks:end -->

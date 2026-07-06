@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip, glass, solo
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: philip, glass, solo
 - [[knowledge/wiki/artists/Artist - Philip Pearlstein|Artist - Philip Pearlstein]] — shared language: philip
-- [[knowledge/wiki/images/Untitled (Nude) by Philip Pearlstein (1961) acdcbaec|Untitled (Nude) by Philip Pearlstein (1961)]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - Philip Galanter|Artist - Philip Galanter]] — shared language: philip
 <!-- vault-crosslinks:end -->

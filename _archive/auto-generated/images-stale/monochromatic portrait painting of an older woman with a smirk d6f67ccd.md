@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Monochromatic Portrait Painting of an Older Woman with a Smirk by Stefan Burnett 31105e92|Illustration Monochromatic Portrait Painting of an Older Woman with a Smirk by Stefan Burnett]] — shared language: smirk, older
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: older
 - [[_archive/auto-generated/images-stale/framed portrait of an older man in a dark coat 31ef846c|framed portrait of an older man in a dark coat]] — shared language: older
 - [[_archive/auto-generated/images-stale/black and white ink drawing collage of an older man in glasses d2e0faec|black and white ink drawing collage of an older man in glasses]] — shared language: older
-- [[_archive/auto-generated/images-stale/framed painting of an older man playing guitar a8003995|framed painting of an older man playing guitar]] — shared language: older
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Wii Game
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Wii Sports by Nintendo (2006) 82db0ef8|Wii Sports by Nintendo (2006)]] — shared language: wii
-- [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
 - [[knowledge/wiki/images/Screenshot Screenshot of Apple Music album cover with abstract geometric art 10c2d77e|Screenshot Screenshot of Apple Music album cover with abstract geometric art]] — shared language: album, cover
+- [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: love
-- [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — shared language: album
+- [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: john
 <!-- vault-crosslinks:end -->

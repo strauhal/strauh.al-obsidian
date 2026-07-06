@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/artists/Artist - berni wrightson|Artist - berni wrightson]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/images/victor frankenstein watches over the creature by berni wrightson 1983 f3962a52|victor frankenstein watches over the creature by berni wrightson 1983]] — shared language: wrightson, victor, creature
 - [[knowledge/wiki/images/The Creature Confronts Victor Frankenstein by Berni Wrightson (1983) 446b7916|The Creature Confronts Victor Frankenstein by Berni Wrightson (1983)]] — shared language: wrightson, victor, creature
+- [[knowledge/wiki/artists/Artist - Victor Nizovtsev|Artist - Victor Nizovtsev]] — shared language: victor
 - [[knowledge/wiki/artists/Artist - victor renault|Artist - victor renault]] — shared language: victor
-- [[knowledge/wiki/anchors/victor-fleming|Victor Fleming]] — shared language: victor
 <!-- vault-crosslinks:end -->

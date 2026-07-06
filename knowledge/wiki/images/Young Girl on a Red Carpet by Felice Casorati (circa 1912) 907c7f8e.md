@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Young Girl on a 
 - [[knowledge/wiki/images/zdzisaw beksiski untitled circa 1980 653d3da9|zdzisaw beksiski untitled circa 1980]] — shared language: circa
 - [[knowledge/wiki/images/portrait of a girl by olga boznanska circa 1890 fd7bd50e|portrait of a girl by olga boznanska circa 1890]] — shared language: circa, girl
 - [[knowledge/wiki/images/portrait of a young girl with a cat by balthus 1937 f27543dc|portrait of a young girl with a cat by balthus 1937]] — shared language: girl, young
-- [[knowledge/wiki/images/Photograph White Cat Tangled In Black Yarn On Carpet 6fc6af3d|Photograph White Cat Tangled In Black Yarn On Carpet]] — shared language: carpet
+- [[knowledge/wiki/images/Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow 636793f7|Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow]] — shared language: girl, young
 <!-- vault-crosslinks:end -->

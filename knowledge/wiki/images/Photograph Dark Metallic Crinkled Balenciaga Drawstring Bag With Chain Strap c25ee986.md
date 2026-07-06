@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Dar
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain 0302a99a|Photograph Crumpled Metallic Balenciaga Drawstring Bag with Silver Chain]] — shared language: drawstring, balenciaga, metallic
-- [[knowledge/wiki/images/Photograph Blue Nintendo DS Carrying Bag With Strap 641b8f15|Photograph Blue Nintendo DS Carrying Bag With Strap]] — shared language: strap, bag
+- [[knowledge/wiki/images/Blue Nintendo DS Carrying Bag With Strap f8518568|Blue Nintendo DS Carrying Bag With Strap]] — shared language: strap, bag
 - [[knowledge/wiki/images/Photograph Balenciaga Reusable Shopping Bag with Green Vegetable Print a7cd3560|Photograph Balenciaga Reusable Shopping Bag with Green Vegetable Print]] — shared language: balenciaga, bag
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Figure in Dark Coat with Buckled Strap 52741447|Photograph Black and White Photograph of Figure in Dark Coat with Buckled Strap]] — shared language: strap, dark, strap.jpeg
-- [[knowledge/wiki/images/Photograph Michael Jackson in Metallic Costume 4b7db99e|Photograph Michael Jackson in Metallic Costume]] — shared language: metallic
+- [[knowledge/wiki/images/Michael Jackson in Metallic Costume bfc56c0e|Michael Jackson in Metallic Costume]] — shared language: metallic
 <!-- vault-crosslinks:end -->

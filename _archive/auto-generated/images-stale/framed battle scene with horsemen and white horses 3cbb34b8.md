@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed western scene with cowboys and horses 15c0b7b9|framed western scene with cowboys and horses]] — shared language: horses, scene, framed
 - [[_archive/auto-generated/images-stale/framed western town scene with horses and carts 63975399|framed western town scene with horses and carts]] — shared language: horses, scene, framed
-- [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle b9d4031d|Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle]] — shared language: horsemen
 - [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, framed
+- [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
 <!-- vault-crosslinks:end -->

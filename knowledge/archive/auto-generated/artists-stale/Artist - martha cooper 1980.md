@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - karen cooper|Artist - karen cooper]] — shared language: cooper
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — shared language: martha
 - [[_archive/auto-generated/images-stale/tierra by karen cooper d65c75fa|tierra by karen cooper]] — shared language: cooper
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: martha
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: cooper
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: martha
 <!-- vault-crosslinks:end -->

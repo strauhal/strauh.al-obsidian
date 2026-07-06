@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Ben Schmidt|Artist - Ben Schmidt]] — shared language: schmidt
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: karl
 - [[knowledge/wiki/artists/Artist - karl wirsum|Artist - karl wirsum]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-i|Capital, Volume I]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-ii|Capital, Volume II]] — shared language: karl
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: karl
-- [[knowledge/wiki/books/karl-marx-friedrich-engels-the-communist-manifesto|The Communist Manifesto]] — shared language: karl
 <!-- vault-crosslinks:end -->

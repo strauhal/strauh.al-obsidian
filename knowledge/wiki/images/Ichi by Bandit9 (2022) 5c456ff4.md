@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Ichi by Bandit9 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/INFORMATION by Carl Andre (1970) e57a9dbd|INFORMATION by Carl Andre (1970)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Ice Cream Stand with Price List and Waffle Cones 1af81b34|Ice Cream Stand with Price List and Waffle Cones]] — nearby note in the same source series
 - [[knowledge/wiki/images/Illustration 3D Model of a Protein Structure with Bound Ligand c93a551c|Illustration 3D Model of a Protein Structure with Bound Ligand]] — nearby note in the same source series
-- [[knowledge/wiki/images/IMG 6079 18c250d7|IMG 6079]] — nearby note in the same source series
+- [[knowledge/wiki/images/INFORMATION by Carl Andre (1970) e57a9dbd|INFORMATION by Carl Andre (1970)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

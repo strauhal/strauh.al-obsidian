@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 ## Discovered Connections
 
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
+- [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: security
 - [[knowledge/wiki/images/Illustration Oil Painting of Security Cameras with Red Abstract Figures a168a80d|Illustration Oil Painting of Security Cameras with Red Abstract Figures]] — shared language: security
 - [[_archive/auto-generated/images-stale/oil painting of security cameras with red abstract figures f243a2a8|oil painting of security cameras with red abstract figures]] — shared language: security
 - [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: security
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dynamic
 <!-- vault-crosslinks:end -->

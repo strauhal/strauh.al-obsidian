@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun 745e2b08|Illustration Crayon Drawing of Two Stylized Figures, One Aiming Gun]] — shared language: crayon, gun, one
 - [[knowledge/wiki/images/Illustration Crayon Drawing of Figure Pointing Gun at Another Figure a488a9df|Illustration Crayon Drawing of Figure Pointing Gun at Another Figure]] — shared language: crayon, gun
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, one
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, ink
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 <!-- vault-crosslinks:end -->

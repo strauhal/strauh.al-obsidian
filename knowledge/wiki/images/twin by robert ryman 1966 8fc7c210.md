@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/twin_by_robert_r
 - [[knowledge/wiki/images/ryman a1ecb8ba|ryman]] — named in this note
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: twin
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: twin
-- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — shared language: twin
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
+- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — shared language: twin
 <!-- vault-crosslinks:end -->

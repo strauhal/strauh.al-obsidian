@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Per
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Frog Design|Artist - Frog Design]] — shared language: frog, design, apple
-- [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: prototype, apple, computer
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
+- [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: prototype, apple, computer
 - [[knowledge/wiki/images/Photograph Gray Apple Flip Phone Concept, Shown Open and Closed. by Frog Design d93ccad9|Photograph Gray Apple Flip Phone Concept, Shown Open and Closed. by Frog Design]] — shared language: frog, design, apple
-- [[knowledge/wiki/images/Photograph Hand Holding An Old Apple Computer Circuit Board 2bbada83|Photograph Hand Holding An Old Apple Computer Circuit Board]] — shared language: apple, computer, holding
+- [[knowledge/wiki/images/Hand Holding An Old Apple Computer Circuit Board dbba7549|Hand Holding An Old Apple Computer Circuit Board]] — shared language: apple, computer, holding
 <!-- vault-crosslinks:end -->

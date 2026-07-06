@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - corrado giaquinto|Artist - corrado giaquinto]] — shared language: assumption, virgin
 - [[knowledge/wiki/images/gustav klimt die jungfrau the virgin c 1913 ef1ce3a0|gustav klimt die jungfrau the virgin c 1913]] — shared language: virgin
 - [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — shared language: virgin
-- [[knowledge/wiki/images/vierge virgin by marcel duchamp 1912 24f60b5f|vierge virgin by marcel duchamp 1912]] — shared language: virgin
+- [[knowledge/wiki/images/Maps Comparing Virgin Forest Area in US, 1620 vs. Today b16bc3d2|Maps Comparing Virgin Forest Area in US, 1620 vs. Today]] — shared language: virgin
 <!-- vault-crosslinks:end -->

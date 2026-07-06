@@ -50,11 +50,11 @@ shared nervous system.
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, archive-links, space
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self, already, archive-links
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind, confidant, internet
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: mind, drive, less
+- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind, confidant, internet
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: latent, autofiction, confidant
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: mind, it's
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, latent, literal
 <!-- vault-crosslinks:end -->

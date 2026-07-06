@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: sidewalk, sitting, scene
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[knowledge/wiki/images/Screenshot Store Employees Process Transactions Manually With Paper Forms 92468e47|Screenshot Store Employees Process Transactions Manually With Paper Forms]] — shared language: employees
-- [[knowledge/wiki/images/Photograph Two Ika Musume Plushies Sitting In A Restaurant Booth With A Person b28b7543|Photograph Two Ika Musume Plushies Sitting In A Restaurant Booth With A Person]] — shared language: sitting, person
-- [[knowledge/wiki/images/Photograph Donald Trump Interacting With Chick fil A Employees At Counter 991245ca|Photograph Donald Trump Interacting With Chick fil A Employees At Counter]] — shared language: employees
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Illustration Painting of a Sunny Street Scene with a Dark Car a56db2b3|Illustration Painting of a Sunny Street Scene with a Dark Car]] — shared language: scene, street
 <!-- vault-crosslinks:end -->

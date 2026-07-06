@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: death
 - [[_archive/auto-generated/images-stale/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: death
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
-- [[_archive/auto-generated/images-stale/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
 <!-- vault-crosslinks:end -->

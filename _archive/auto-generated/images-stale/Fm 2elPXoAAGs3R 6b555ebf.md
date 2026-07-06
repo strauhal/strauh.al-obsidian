@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[_archive/auto-generated/images-stale/Flyday Chinatown ( ) 1c91e9d5|Flyday Chinatown ( )]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/FmI491BWIBUS f 0be8fd81|FmI491BWIBUS f]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Fl6pF6xaMAEmkQ5 e24f0d80|Fl6pF6xaMAEmkQ5]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FlyH6gDWAAAfFGe 13a8f353|FlyH6gDWAAAfFGe]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

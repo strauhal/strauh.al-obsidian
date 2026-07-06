@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/michaelmas_daisi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: walter
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - grant wood|Artist - grant wood]] — shared language: wood
-- [[knowledge/wiki/artists/Artist - walter sickert|Artist - walter sickert]] — shared language: walter
 <!-- vault-crosslinks:end -->

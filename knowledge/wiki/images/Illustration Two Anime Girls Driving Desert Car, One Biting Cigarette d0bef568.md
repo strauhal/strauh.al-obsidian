@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[knowledge/wiki/images/Illustration Line Drawing of Self Driving Car Trolley Problem Scenario 72b001bc|Illustration Line Drawing of Self Driving Car Trolley Problem Scenario]] — shared language: driving, car
-- [[knowledge/wiki/images/Photograph Vintage Car Driving Past Chicago Skyscrapers 88c9bd77|Photograph Vintage Car Driving Past Chicago Skyscrapers]] — shared language: driving, car
 - [[knowledge/wiki/images/Illustration Three Anime Girls In Jackets And Skirts On Gradient Background 47eda2f8|Illustration Three Anime Girls In Jackets And Skirts On Gradient Background]] — shared language: girls, anime
-- [[knowledge/wiki/images/Photograph White Self Driving Car Engulfed in Flames and Smoke on Street a387ae56|Photograph White Self Driving Car Engulfed in Flames and Smoke on Street]] — shared language: driving, car
+- [[knowledge/wiki/images/Vintage Car Driving Past Chicago Skyscrapers b25e17e9|Vintage Car Driving Past Chicago Skyscrapers]] — shared language: driving, car
+- [[knowledge/wiki/images/White Self Driving Car Engulfed in Flames and Smoke on Street be8e080c|White Self Driving Car Engulfed in Flames and Smoke on Street]] — shared language: driving, car
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/framed portrait of two women seated together 90bff70b|framed portrait of two women seated together]] — shared language: together, seated
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: together
+- [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: classical, seated
 <!-- vault-crosslinks:end -->

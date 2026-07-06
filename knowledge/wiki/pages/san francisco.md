@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/san_francisco.html"
 source_relpath: "san_francisco.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # san francisco
@@ -53,12 +53,12 @@ strauh.al/san_francisco
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 - [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: san, francisco
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
-- [[knowledge/wiki/images/13312890 1364959343517951 9080943046825273669 n a7dd21a0|13312890 1364959343517951 9080943046825273669 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/180913581 127556412765709 1144180134642286206 n d4b2bdd7|180913581 127556412765709 1144180134642286206 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/226192348 10220277890637972 2382098757685824163 n f18de750|226192348 10220277890637972 2382098757685824163 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/254972528 283287463806100 3463202423831714690 n 0cbe9586|254972528 283287463806100 3463202423831714690 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/255726861 10161484858398128 271362541008171646 n adc7b51a|255726861 10161484858398128 271362541008171646 n]] — shared language: n.jpg
+- [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: san, francisco
+- [[knowledge/wiki/images/Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text 03a203a0|Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text]] — shared language: san, francisco
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: san, francisco
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: san, francisco
+- [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

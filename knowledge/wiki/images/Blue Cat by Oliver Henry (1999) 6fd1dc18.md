@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Blue Cat by Oliv
 - [[knowledge/wiki/artists/Artist - henry monnier|Artist - henry monnier]] — shared language: henry
 - [[knowledge/wiki/artists/Artist - desmond paul henry|Artist - desmond paul henry]] — shared language: henry
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: oliver
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/artists/Artist - henry fuseli|Artist - henry fuseli]] — shared language: henry
 <!-- vault-crosslinks:end -->

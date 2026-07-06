@@ -46,11 +46,11 @@ here forces the forward connection from the dream cluster to whatever comes next
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — named in this note
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ceremony, follows
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00002 0db5cf73|dream 00002]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00003 9f1e7ff8|dream 00003]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00004 80771321|dream 00004]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00005 421501aa|dream 00005]] — shared language: dream, dreams
+- [[knowledge/wiki/images/dream 00006 d47d201e|dream 00006]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

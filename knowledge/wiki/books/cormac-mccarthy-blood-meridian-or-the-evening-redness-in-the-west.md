@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Blood Meridian - Or the Evening Redness in the West -- Cormac McCarthy -- 1st ed, New York, ©1985 -- Random House, Incorporated -- 9780307762528 -- 4c0d5efa59459d8342ab821921805986 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Blood Meridian - Or the Evening Redness in the West
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
-- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
-- [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — same category: art aesthetics
+- [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — same category: art aesthetics
+- [[knowledge/wiki/books/co2-artbookdigitalcomplete|CO2 ArtbookDigitalComplete]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

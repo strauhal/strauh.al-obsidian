@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Oil Painting of Five People Gathered Around a Table 5f1ad987|Illustration Oil Painting of Five People Gathered Around a Table]] — shared language: gathered, around, people
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: around
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
-- [[knowledge/wiki/images/Photograph People Gathered At An Outdoor Event With White Structures ecf4f2c5|Photograph People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
+- [[knowledge/wiki/images/People Gathered At An Outdoor Event With White Structures 8367f001|People Gathered At An Outdoor Event With White Structures]] — shared language: gathered, people
 - [[knowledge/wiki/images/1612770647828 fa3a2f26|1612770647828]] — shared language: computers
 <!-- vault-crosslinks:end -->

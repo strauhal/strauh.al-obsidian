@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Abstract Swirling Lines And Dots On Light Background fa07b355|Illustration Abstract Swirling Lines And Dots On Light Background]] — shared language: dots, swirling, background
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: made
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: shape
-- [[knowledge/wiki/images/Illustration Abstract Yellow Shape With Black Lines On White Background ab1ff155|Illustration Abstract Yellow Shape With Black Lines On White Background]] — shared language: shape, background, background.jpg
+- [[_archive/auto-generated/images-stale/abstract painting with swirling white and purple brushstrokes on a blue background b5b25944|abstract painting with swirling white and purple brushstrokes on a blue background]] — shared language: swirling, background
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: glitch, green, digital
+- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: glitch, digital, green
 - [[knowledge/wiki/images/Illustration Glitch Art Digital Image of a Classical Sculpture Face 53719188|Illustration Glitch Art Digital Image of a Classical Sculpture Face]] — shared language: glitch, digital
 - [[knowledge/wiki/images/Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns d3ce1323|Illustration Vibrant Abstract Glitch Art with Distorted Digital Patterns]] — shared language: glitch, digital
 - [[knowledge/wiki/images/Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect 1f33d572|Illustration Abstract Digital Art with Magenta and Red, Dark Glitch Effect]] — shared language: glitch, digital

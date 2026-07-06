@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Diagram - Com
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — same artist: apple
-- [[knowledge/wiki/images/Photograph Three Apple M2 Pro and M2 Max SOCs 10d6d271|Photograph Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, apple, max
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/images/Three Apple M2 Pro and M2 Max SOCs 1763dace|Three Apple M2 Pro and M2 Max SOCs]] — shared language: pro, apple, max
 - [[knowledge/wiki/images/Apple WWDC22 M2 chip M1 chip 2up 220606 crop bf300f2a|Apple WWDC22 M2 chip M1 chip 2up 220606 crop]] — shared language: chip, apple
-- [[knowledge/wiki/images/Diagram Comparison of Generated Images with Deconvolution Artifacts f654f9c7|Diagram Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison, diagram
+- [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: max
+- [[knowledge/wiki/images/Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface 0c512e48|Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface]] — shared language: pro, apple
 <!-- vault-crosslinks:end -->

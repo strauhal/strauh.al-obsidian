@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: typographic
 - [[knowledge/wiki/images/Illustration Flat Illustration Portrait of a Woman on Blue Background 18532ea8|Illustration Flat Illustration Portrait of a Woman on Blue Background]] — shared language: flat
 - [[knowledge/wiki/images/up Hare on Top (1998) cb008c1d|up Hare on Top (1998)]] — shared language: top
-- [[knowledge/wiki/images/Photograph Person In Dark Hooded Top And Goggles On Couch 8dca3785|Photograph Person In Dark Hooded Top And Goggles On Couch]] — shared language: top, person
+- [[knowledge/wiki/images/Person In Dark Hooded Top And Goggles On Couch 32044991|Person In Dark Hooded Top And Goggles On Couch]] — shared language: top, person
 - [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: top
 <!-- vault-crosslinks:end -->

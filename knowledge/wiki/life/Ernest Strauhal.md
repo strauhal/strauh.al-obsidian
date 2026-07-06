@@ -54,10 +54,10 @@ mentally and physically handicapped children and adults. The full sequence lives
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — named in this note
 - [[knowledge/wiki/anchors/california|california]] — named in this note
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: lineage, left, diary
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, left, school
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: lineage, left, diary
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: diary, san, francisco
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
-- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: piano, first
-- [[knowledge/wiki/images/Photograph Photograph of San Francisco Street Art About Gentrification 33728bba|Photograph Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
+- [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: taught
+- [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: sacramento, school, diary
 <!-- vault-crosslinks:end -->

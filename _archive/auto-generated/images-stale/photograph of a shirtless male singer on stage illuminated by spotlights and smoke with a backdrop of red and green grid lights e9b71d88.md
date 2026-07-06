@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Shirtless Freddie Mercury Performing On Stage Amidst Smoke And Lights 1fc736d3|Photograph Shirtless Freddie Mercury Performing On Stage Amidst Smoke And Lights]] — shared language: shirtless, smoke, lights
-- [[knowledge/wiki/images/Photograph Performer on a spherical stage with pink smoke and spotlights 394b5d4d|Photograph Performer on a spherical stage with pink smoke and spotlights]] — shared language: spotlights, smoke, stage
-- [[knowledge/wiki/images/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: lights, stage
-- [[knowledge/wiki/images/Photograph Two Electronic Grid Controllers With Illuminated Buttons 26cdee16|Photograph Two Electronic Grid Controllers With Illuminated Buttons]] — shared language: illuminated, grid
-- [[_archive/auto-generated/images-stale/aerial photograph of a city grid at night with golden lights f20cd72c|aerial photograph of a city grid at night with golden lights]] — shared language: lights, grid, lights.jpeg
+- [[knowledge/wiki/images/Photograph Shirtless Freddie Mercury Performing On Stage Amidst Smoke And Lights 1fc736d3|Photograph Shirtless Freddie Mercury Performing On Stage Amidst Smoke And Lights]] — shared language: shirtless, smoke, stage
+- [[knowledge/wiki/images/Performer on a spherical stage with pink smoke and spotlights 63e4b834|Performer on a spherical stage with pink smoke and spotlights]] — shared language: spotlights, smoke, stage
+- [[_archive/auto-generated/images-stale/Photograph Performer on a spherical stage with pink smoke and spotlights 394b5d4d|Photograph Performer on a spherical stage with pink smoke and spotlights]] — shared language: spotlights, smoke, stage
+- [[knowledge/wiki/images/Person On Stage Holding Microphone Under Blue Lights f1e7a11c|Person On Stage Holding Microphone Under Blue Lights]] — shared language: stage, lights
+- [[_archive/auto-generated/images-stale/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: stage, lights
 <!-- vault-crosslinks:end -->

@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: excel, word
 - [[knowledge/wiki/books/104-4-835|104-4-835]] — shared language: pdf
+- [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: excel, word
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: pdf
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: pdf
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: word

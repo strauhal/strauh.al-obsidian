@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion, striped
+- [[knowledge/wiki/images/Fashion Portrait Of A Woman In Striped Garment f20d3a92|Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion, striped
+- [[_archive/auto-generated/images-stale/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: fashion, striped
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: fashion
 - [[_archive/auto-generated/images-stale/fashion illustration of a woman crouching in a red and white striped turtleneck by rene gruau e1cef27c|fashion illustration of a woman crouching in a red and white striped turtleneck by rene gruau]] — shared language: fashion, striped
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: fashion
-- [[knowledge/wiki/images/Illustration Two Stylized Figures In Alternative Fashion 421666db|Illustration Two Stylized Figures In Alternative Fashion]] — shared language: fashion
 <!-- vault-crosslinks:end -->

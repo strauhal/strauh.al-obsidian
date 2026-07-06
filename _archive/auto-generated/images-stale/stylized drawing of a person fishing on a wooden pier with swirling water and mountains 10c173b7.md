@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — named in this note
-- [[knowledge/wiki/images/Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins 12fe5e3b|Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins]] — shared language: swirling, water, person
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[knowledge/wiki/images/Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins 12fe5e3b|Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins]] — shared language: swirling, water, stylized
 - [[knowledge/wiki/images/Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections 9aad0bea|Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections]] — shared language: mountains, water, stylized
-- [[knowledge/wiki/images/christen dalsgaard two girls at a boat pier 1859 bc3086d0|christen dalsgaard two girls at a boat pier 1859]] — shared language: pier
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 <!-- vault-crosslinks:end -->

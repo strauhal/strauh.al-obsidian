@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Lar
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Large Weathered Rock Formation With Arch And Green Vegetation e6093cb7|Photograph Large Weathered Rock Formation With Arch And Green Vegetation]] — shared language: weathered, vegetation, large
+- [[knowledge/wiki/images/Large Weathered Rock Formation With Arch And Green Vegetation b2be1ead|Large Weathered Rock Formation With Arch And Green Vegetation]] — shared language: weathered, vegetation, large
 - [[knowledge/wiki/images/Illustration Weathered Wooden Statue of an Ancient Man's Torso 5df590a8|Illustration Weathered Wooden Statue of an Ancient Man's Torso]] — shared language: weathered, wooden
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: wooden, large
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: wooden, large
 - [[knowledge/wiki/images/Document Modern Interior with Balcony and Large Windows in a Publication 868feb05|Document Modern Interior with Balcony and Large Windows in a Publication]] — shared language: balcony, large
-- [[knowledge/wiki/images/Photograph Escalator Structure on a Steep Overgrown Hillside 0f75febc|Photograph Escalator Structure on a Steep Overgrown Hillside]] — shared language: overgrown
+- [[knowledge/wiki/images/Escalator Structure on a Steep Overgrown Hillside 471760c9|Escalator Structure on a Steep Overgrown Hillside]] — shared language: overgrown
 <!-- vault-crosslinks:end -->

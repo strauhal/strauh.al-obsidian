@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Fer
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition 31303f2f|Photograph World's Columbian Exposition]] — shared language: world's, columbian, exposition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of World's Columbian Exposition, 1893 5eedd249|Photograph Black and White Photograph of World's Columbian Exposition, 1893]] — shared language: world's, columbian, exposition
 - [[knowledge/wiki/images/World's Columbian Exposition, Chicago (1893) 054ec074|World's Columbian Exposition, Chicago (1893)]] — shared language: world's, columbian, exposition
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: columbian, exposition
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts 5258293c|Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts]] — shared language: world's, columbian, exposition
+- [[knowledge/wiki/images/Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds 4cfdb83a|Photograph Statue of The Republic Overlooking World's Columbian Exposition Grounds]] — shared language: world's, columbian, exposition
 <!-- vault-crosslinks:end -->

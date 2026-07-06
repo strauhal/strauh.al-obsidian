@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: layered, white.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: layered
-- [[_archive/auto-generated/images-stale/black and white drawing of two abstract forms composed of layered lines c9eed070|black and white drawing of two abstract forms composed of layered lines]] — shared language: layered
 - [[knowledge/wiki/images/Illustration Layered Wooden Geometric Abstract Art Piece da07ac50|Illustration Layered Wooden Geometric Abstract Art Piece]] — shared language: layered
+- [[_archive/auto-generated/images-stale/black and white drawing of two abstract forms composed of layered lines c9eed070|black and white drawing of two abstract forms composed of layered lines]] — shared language: layered
 - [[_archive/auto-generated/images-stale/abstract painting of layered geometric shapes in yellow green and blue with dark figures 8cc82787|abstract painting of layered geometric shapes in yellow green and blue with dark figures]] — shared language: layered
 <!-- vault-crosslinks:end -->

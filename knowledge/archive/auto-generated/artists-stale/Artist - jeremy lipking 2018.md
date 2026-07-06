@@ -20,9 +20,9 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: lipking, jeremy, couple
+- [[_archive/auto-generated/images-stale/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2019|Artist - jeremy lipking 2019]] — shared language: lipking, jeremy
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking|Artist - jeremy lipking]] — shared language: lipking, jeremy, couple
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jeremy lipking 2014|Artist - jeremy lipking 2014]] — shared language: lipking, jeremy
 - [[_archive/auto-generated/images-stale/the letter by jeremy lipking 2019 20c05f0a|the letter by jeremy lipking 2019]] — shared language: lipking, jeremy
 - [[_archive/auto-generated/images-stale/antinous by jeremy lipking 2014 c36d38bc|antinous by jeremy lipking 2014]] — shared language: lipking, jeremy

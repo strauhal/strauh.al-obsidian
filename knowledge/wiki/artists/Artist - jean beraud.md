@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
+- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: jean
 - [[knowledge/wiki/artists/Artist - jean delville|Artist - jean delville]] — shared language: jean, des
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: jean
 - [[knowledge/wiki/books/jean-baudrillard-the-conspiracy-of-art|The Conspiracy of Art]] — shared language: jean
 - [[knowledge/wiki/books/jean-baudrillard-the-spirit-of-terrorism|The Spirit of Terrorism]] — shared language: jean
-- [[knowledge/wiki/images/l amour des ames by jean delville 1900 3ff3b194|l amour des ames by jean delville 1900]] — shared language: jean, des
 <!-- vault-crosslinks:end -->

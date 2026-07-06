@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, lights
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: dusk, street
 - [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: lights, street, city
-- [[knowledge/wiki/images/Photograph Cat Looking Right With Bokeh City Lights At Night f4539539|Photograph Cat Looking Right With Bokeh City Lights At Night]] — shared language: lights, city
-- [[knowledge/wiki/images/Photograph Purple Toned Street Scene with Buildings and Streaking Lights 10fb4e50|Photograph Purple Toned Street Scene with Buildings and Streaking Lights]] — shared language: lights, street
+- [[knowledge/wiki/images/Street Lamp And Archway Framed By Trees At Dusk c2490ab8|Street Lamp And Archway Framed By Trees At Dusk]] — shared language: dusk, street
 <!-- vault-crosslinks:end -->

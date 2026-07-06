@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the wake by faith ringgold 1972 de374d95|the wake by faith ringgold 1972]] — shared language: faith
-- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: faith
 - [[knowledge/wiki/artists/Artist - faith ringgold|Artist - faith ringgold]] — shared language: faith
+- [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: faith
 - [[knowledge/wiki/images/the lawrence story quilt by faith ringgold 1988 a4e5d758|the lawrence story quilt by faith ringgold 1988]] — shared language: faith
 - [[knowledge/wiki/images/Illustration Black and White Pixel Art Dog Cow Character by Susan Kare dd3f428c|Illustration Black and White Pixel Art Dog Cow Character by Susan Kare]] — shared language: pixel, character
 <!-- vault-crosslinks:end -->

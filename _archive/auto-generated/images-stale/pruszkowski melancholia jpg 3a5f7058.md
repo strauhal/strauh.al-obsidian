@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/pruszkowski_m
 - [[_archive/auto-generated/images-stale/melancholia by tadeusz pruszkowski 7cc30255|melancholia by tadeusz pruszkowski]] — shared language: pruszkowski, melancholia
 - [[knowledge/wiki/images/Melancholia by Tadeusz Pruszkowski 6b1e90ff|Melancholia by Tadeusz Pruszkowski]] — shared language: pruszkowski, melancholia
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tadeusz pruszkowski|Artist - Tadeusz Pruszkowski]] — shared language: pruszkowski, melancholia
+- [[knowledge/wiki/artists/Artist - Tadeusz Pruszkowski|Artist - Tadeusz Pruszkowski]] — shared language: pruszkowski, melancholia
 - [[_archive/auto-generated/images-stale/1 clpde odlazc0uhln02vuq jpg 3e7a507f|1 clpde odlazc0uhln02vuq jpg]] — shared language: jpg.jpg
-- [[_archive/auto-generated/images-stale/12 rw r cc ty 3598 original jpg 870ce0d1|12 rw r cc ty 3598 original jpg]] — shared language: jpg.jpg
 <!-- vault-crosslinks:end -->

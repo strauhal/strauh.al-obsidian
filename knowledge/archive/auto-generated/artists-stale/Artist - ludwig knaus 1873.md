@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — named in this note
 - [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — shared language: knaus, ludwig
 - [[knowledge/wiki/images/ludwig knaus a monastic siesta late 19th century 736825df|ludwig knaus a monastic siesta late 19th century]] — shared language: knaus, ludwig
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[_archive/auto-generated/images-stale/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

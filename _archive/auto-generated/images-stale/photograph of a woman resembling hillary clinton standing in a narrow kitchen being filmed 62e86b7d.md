@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Woman Resembling Hillary Clinton Filmed In Narrow Kitchen 791aad49|Photograph Woman Resembling Hillary Clinton Filmed In Narrow Kitchen]] — shared language: hillary, clinton, filmed
+- [[_archive/auto-generated/images-stale/Photograph Woman Resembling Hillary Clinton Filmed In Narrow Kitchen 791aad49|Photograph Woman Resembling Hillary Clinton Filmed In Narrow Kitchen]] — shared language: hillary, clinton, filmed
+- [[knowledge/wiki/images/Woman Resembling Hillary Clinton Filmed In Narrow Kitchen a4fde2e5|Woman Resembling Hillary Clinton Filmed In Narrow Kitchen]] — shared language: hillary, clinton, filmed
 - [[_archive/auto-generated/images-stale/black and white photographic spread featuring two portraits of a young man in dark clothing standing in a narrow urban alleyway with japanese signage f3d43b75|black and white photographic spread featuring two portraits of a young man in dark clothing standing in a narrow urban alleyway with japanese signage]] — shared language: narrow, standing
 - [[knowledge/wiki/images/Illustration Charcoal And Wash Sketch Of A Narrow City Street 1dd67440|Illustration Charcoal And Wash Sketch Of A Narrow City Street]] — shared language: narrow
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
 <!-- vault-crosslinks:end -->

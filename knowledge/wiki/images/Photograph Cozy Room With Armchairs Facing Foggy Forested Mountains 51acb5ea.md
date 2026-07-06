@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Coz
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Cozy Bedroom With Large Window And Many Plants c3b523b6|Illustration Cozy Bedroom With Large Window And Many Plants]] — shared language: cozy
-- [[knowledge/wiki/images/Photograph Cozy Bedroom with Plants and Open Industrial Windows at Dusk 0befb407|Photograph Cozy Bedroom with Plants and Open Industrial Windows at Dusk]] — shared language: cozy
+- [[knowledge/wiki/images/Cozy Bedroom with Plants and Open Industrial Windows at Dusk 40a1dfb7|Cozy Bedroom with Plants and Open Industrial Windows at Dusk]] — shared language: cozy
+- [[knowledge/wiki/images/Man in Red Chair Facing TV, Others Behind ebcb0004|Man in Red Chair Facing TV, Others Behind]] — shared language: facing
+- [[knowledge/wiki/images/Cemetery With Angel Statue And Foggy Trees 3e90f85c|Cemetery With Angel Statue And Foggy Trees]] — shared language: foggy
 - [[knowledge/wiki/images/Photograph Foggy Forest Edge with Field of Purple Flowers 6d0e483d|Photograph Foggy Forest Edge with Field of Purple Flowers]] — shared language: foggy
-- [[knowledge/wiki/images/Photograph Cemetery With Angel Statue And Foggy Trees 0cf6d51c|Photograph Cemetery With Angel Statue And Foggy Trees]] — shared language: foggy
-- [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 <!-- vault-crosslinks:end -->

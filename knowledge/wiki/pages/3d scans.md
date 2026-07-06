@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/3d_scans.html"
 source_relpath: "3d_scans.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # 3d scans
@@ -46,6 +46,6 @@ strauh.al/3d_scans
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits, pages, page
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: scans
 - [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
-- [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits
 - [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: scans, none, related
+- [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits
 <!-- vault-crosslinks:end -->

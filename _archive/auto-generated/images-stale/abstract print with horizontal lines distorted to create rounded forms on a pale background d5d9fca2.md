@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes 7a1cd769|Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes]] — shared language: rounded, horizontal, distorted
+- [[knowledge/wiki/images/Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes 7a1cd769|Illustration Abstract Print with Distorted Horizontal Lines Forming Rounded Shapes]] — shared language: rounded, distorted, horizontal
 - [[_archive/auto-generated/images-stale/abstract painting with concentric pale lines on dark background c5d4dc38|abstract painting with concentric pale lines on dark background]] — shared language: pale, lines, background
 - [[knowledge/wiki/images/Illustration Abstract Painting with Concentric Pale Lines on Dark Background 7d219e22|Illustration Abstract Painting with Concentric Pale Lines on Dark Background]] — shared language: pale, lines, background
 - [[knowledge/wiki/images/Illustration White Background With Many Wavy Horizontal Lines c2bf30a0|Illustration White Background With Many Wavy Horizontal Lines]] — shared language: horizontal, lines, background

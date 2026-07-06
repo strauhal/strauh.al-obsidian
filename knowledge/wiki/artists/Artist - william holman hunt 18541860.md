@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/After the Hunt by William Michael Harnett (1885) b0788d47|After the Hunt by William Michael Harnett (1885)]] — shared language: hunt, william
 - [[knowledge/wiki/images/peter nicolai arbo sgrdsreien the wild hunt of odin 1872 45f64bbe|peter nicolai arbo sgrdsreien the wild hunt of odin 1872]] — shared language: hunt
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
-- [[knowledge/wiki/images/The Buffalo Hunt by Albert Bierstadt (c. 1887 1888) 45790395|The Buffalo Hunt by Albert Bierstadt (c. 1887 1888)]] — shared language: hunt
+- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
 <!-- vault-crosslinks:end -->

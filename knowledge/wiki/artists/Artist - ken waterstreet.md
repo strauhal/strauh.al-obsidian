@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken
 - [[knowledge/wiki/images/the dragon by ken feingold 1987 999a5de0|the dragon by ken feingold 1987]] — shared language: ken
 - [[knowledge/wiki/images/inside macpaint by ken jenkins 1985 34dd5bb8|inside macpaint by ken jenkins 1985]] — shared language: ken
+- [[knowledge/wiki/images/UPS Truck Under Apocalyptic Red Sky From Wildfires d023d3cd|UPS Truck Under Apocalyptic Red Sky From Wildfires]] — shared language: ups
 - [[knowledge/wiki/images/Illustration Woman Holding Letter in Warm Light 3e5fc535|Illustration Woman Holding Letter in Warm Light]] — shared language: warm
-- [[knowledge/wiki/images/Warm Up by Mel Blue bcb3bde4|Warm Up by Mel Blue]] — shared language: warm
 <!-- vault-crosslinks:end -->

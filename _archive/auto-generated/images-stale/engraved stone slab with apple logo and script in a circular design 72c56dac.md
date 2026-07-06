@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script 979be1df|Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, stone, script
+- [[knowledge/wiki/images/Photograph of a Stone Tablet with Apple Logo and Tibetan Script 9faee5a6|Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, stone, script
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script 979be1df|Photograph Photograph of a Stone Tablet with Apple Logo and Tibetan Script]] — shared language: logo, stone, script
 - [[_archive/auto-generated/images-stale/digital collage of an inscribed stone slab and a black computer keyboard e2d37a90|digital collage of an inscribed stone slab and a black computer keyboard]] — shared language: slab, stone
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 - [[_archive/auto-generated/books-stale/demystifying-maxmsp|DEMYSTIFYING-MAXMSP]] — shared language: design
-- [[_archive/auto-generated/images-stale/circular black and white collage of astronaut and figures 211df9a0|circular black and white collage of astronaut and figures]] — shared language: circular
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Am
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, station
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
-- [[knowledge/wiki/images/Photograph Silhouetted Train Station Infrastructure Against a Pink Sky 98414f0a|Photograph Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: station, train
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/Silhouetted Train Station Infrastructure Against a Pink Sky 63802bff|Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: station, train
 - [[knowledge/wiki/images/Illustration Vibrant Sunset Over Road, Houses, and Palm Trees 6d79bef5|Illustration Vibrant Sunset Over Road, Houses, and Palm Trees]] — shared language: palm, trees, trees.jpeg
 <!-- vault-crosslinks:end -->

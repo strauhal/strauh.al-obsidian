@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Cozy Bedroom With Large Window And Many Plants c3b523b6|Illustration Cozy Bedroom With Large Window And Many Plants]] — shared language: bedroom, window, large
 - [[knowledge/wiki/images/Illustration Woman at Piano with Cat in Sunlit Room a0e6e525|Illustration Woman at Piano with Cat in Sunlit Room]] — shared language: sunlit
-- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/images/Illustration Modern Bedroom With City And River View 30e069a5|Illustration Modern Bedroom With City And River View]] — shared language: bedroom
+- [[knowledge/wiki/artists/Artist - Window|Artist - Window]] — shared language: window
 - [[knowledge/wiki/images/Illustration Person Stretching At Desk In Sunlit Room 9677e863|Illustration Person Stretching At Desk In Sunlit Room]] — shared language: sunlit
 <!-- vault-crosslinks:end -->

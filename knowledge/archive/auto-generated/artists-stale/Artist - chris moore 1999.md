@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - chris moore|Artist - chris moore]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ross moore|Artist - Ross Moore]] — shared language: moore
+- [[knowledge/wiki/artists/Artist - Ross Moore|Artist - Ross Moore]] — shared language: moore
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — shared language: chris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood 2020|Artist - chris hood 2020]] — shared language: chris
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili|Artist - chris ofili]] — shared language: chris
-- [[knowledge/archive/auto-generated/artists-stale/Artist - chris ofili 2017|Artist - chris ofili 2017]] — shared language: chris
 <!-- vault-crosslinks:end -->

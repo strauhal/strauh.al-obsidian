@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead c607ee45|Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead]] — shared language: airport, pine, suburban
+- [[_archive/auto-generated/images-stale/Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead c607ee45|Photograph Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead]] — shared language: airport, pine, suburban
+- [[knowledge/wiki/images/Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead 01dc4a53|Suburban Houses, Large Pine Tree, Airport, and Airplane Flying Overhead]] — shared language: airport, pine, suburban
 - [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree, large
 - [[knowledge/wiki/images/Photograph Aerial View of Suburban Houses and Green Lawns e6b2ab60|Photograph Aerial View of Suburban Houses and Green Lawns]] — shared language: suburban, houses
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-large-tree|Artist - a large tree]] — shared language: tree, large
-- [[knowledge/wiki/images/Photograph Muted Toned Image of Suburban Houses and Garages a81160cc|Photograph Muted Toned Image of Suburban Houses and Garages]] — shared language: suburban, houses
 <!-- vault-crosslinks:end -->

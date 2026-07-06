@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/Saint Jerome Writing by Caravaggio (1605 1606) fe9da554|Saint Jerome Writing by Caravaggio (1605 1606)]] — shared language: jerome, caravaggio, writing
 - [[knowledge/archive/auto-generated/artists-stale/Artist - caravaggio|Artist - caravaggio]] — shared language: caravaggio, saint
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint
 - [[_archive/auto-generated/images-stale/the calling of saint matthew by caravaggio 1599 1600 b55bd8d9|the calling of saint matthew by caravaggio 1599 1600]] — shared language: caravaggio, saint
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint
 <!-- vault-crosslinks:end -->

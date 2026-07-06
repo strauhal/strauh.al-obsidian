@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Diagra
 - [[knowledge/wiki/images/Diagram Diagram of Spider Webs Spun Under Influence of Various Chemicals 076fd300|Diagram Diagram of Spider Webs Spun Under Influence of Various Chemicals]] — shared language: webs, spider, diagram
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Diagram Two Diagrams Comparing Normal Spider Web to Drug Affected Web d9e8b1ed|Diagram Two Diagrams Comparing Normal Spider Web to Drug Affected Web]] — shared language: spider, drug, diagram
-- [[knowledge/wiki/images/Photograph Man Sitting On Floor With Drug Paraphernalia 7f8d6f3f|Photograph Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
+- [[knowledge/wiki/images/Man Sitting On Floor With Drug Paraphernalia 4f953f8e|Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Three Men Playing Guitars in a Room 626ea017|Photograph Three Men Playing Guitars in a Room]] — shared language: guitars, playing
+- [[knowledge/wiki/images/Three Men Playing Guitars in a Room 1bcb45d9|Three Men Playing Guitars in a Room]] — shared language: guitars, playing
 - [[knowledge/wiki/images/Illustration Rough Digital Sketches of Anime Style Female Characters db55f4cf|Illustration Rough Digital Sketches of Anime Style Female Characters]] — shared language: characters, anime, style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style

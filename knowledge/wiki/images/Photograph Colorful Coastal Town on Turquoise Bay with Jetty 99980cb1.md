@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Col
 - [[knowledge/wiki/books/david-foster-wallace-infinite-jest-back-bay-books|Infinite Jest-Back Bay Books]] — shared language: bay
 - [[knowledge/wiki/images/Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky 63c88f24|Illustration Pixel Art White House, Red Roof, Black Car, Turquoise Sky]] — shared language: turquoise
 - [[knowledge/wiki/images/Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure 2d830078|Illustration Detailed Sketch of a Futuristic Communications Bay Interior with Figure]] — shared language: bay
-- [[knowledge/wiki/images/Photograph Coastal City Before and After Destruction, Composite Photograph 1cfb630c|Photograph Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
+- [[knowledge/wiki/images/Coastal City Before and After Destruction, Composite Photograph bd9f8919|Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
 <!-- vault-crosslinks:end -->

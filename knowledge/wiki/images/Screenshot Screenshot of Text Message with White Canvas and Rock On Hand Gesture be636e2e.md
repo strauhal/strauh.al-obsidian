@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: gesture
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: canvas
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/images/Screenshot Dark Mode Text Message Conversation with Financial Chart and Distress b7f7a6af|Screenshot Dark Mode Text Message Conversation with Financial Chart and Distress]] — shared language: message, screenshot, text
+- [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: screenshot, text
 <!-- vault-crosslinks:end -->

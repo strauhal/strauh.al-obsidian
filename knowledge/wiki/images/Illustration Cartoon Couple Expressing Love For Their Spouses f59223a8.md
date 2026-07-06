@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: couple
 - [[knowledge/wiki/images/Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red 8670b001|Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red]] — shared language: cartoon
 - [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: cartoon
-- [[knowledge/wiki/images/Photograph Couple Walking On Busy Street At Night 1f305f0b|Photograph Couple Walking On Busy Street At Night]] — shared language: couple
+- [[knowledge/wiki/images/Couple in Small Motorboat on Water ba1facad|Couple in Small Motorboat on Water]] — shared language: couple
+- [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: couple
+- [[knowledge/wiki/images/hermann gradl river landscape with a couple under a tree c 1900 d3301912|hermann gradl river landscape with a couple under a tree c 1900]] — shared language: couple
 <!-- vault-crosslinks:end -->

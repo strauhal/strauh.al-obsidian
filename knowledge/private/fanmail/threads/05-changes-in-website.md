@@ -43,7 +43,7 @@ Thank you kindly,
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: like, internet, that's
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: changes, like, can't
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: website, changes, incoming
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say, like, even
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: say, can't, see
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say, like, even
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: like, that's, even
 <!-- vault-crosslinks:end -->

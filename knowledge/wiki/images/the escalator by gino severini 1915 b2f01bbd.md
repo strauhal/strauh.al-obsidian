@@ -30,5 +30,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_escalator_by
 - [[knowledge/wiki/images/still life with portrait by gino severini 1916 9cb0bab6|still life with portrait by gino severini 1916]] — same artist: gino severini
 - [[knowledge/wiki/images/gino severini lindustrie dans le paysage 1911 3303bcdc|gino severini lindustrie dans le paysage 1911]] — shared language: gino, severini
 - [[knowledge/wiki/images/Illustration Anime Style Character On Escalator Looking Up At Viewer d5b7f082|Illustration Anime Style Character On Escalator Looking Up At Viewer]] — shared language: escalator
-- [[knowledge/wiki/images/Photograph Escalator Structure on a Steep Overgrown Hillside 0f75febc|Photograph Escalator Structure on a Steep Overgrown Hillside]] — shared language: escalator
+- [[knowledge/wiki/images/Escalator Structure on a Steep Overgrown Hillside 471760c9|Escalator Structure on a Steep Overgrown Hillside]] — shared language: escalator
 <!-- vault-crosslinks:end -->

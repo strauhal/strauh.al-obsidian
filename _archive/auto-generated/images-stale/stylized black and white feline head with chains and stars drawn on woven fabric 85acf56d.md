@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Stylized Black and White Feline Head with Chains and Stars bf4c90de|Illustration Stylized Black and White Feline Head with Chains and Stars]] — shared language: chains, feline, stars
 - [[knowledge/archive/auto-generated/artists-stale/Artist - stars|Artist - Stars]] — shared language: stars, stylized
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars, stylized
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: stars
 - [[_archive/auto-generated/images-stale/black and white digital illustration of a stylized figure in a hood and chains 3af22c3e|black and white digital illustration of a stylized figure in a hood and chains]] — shared language: chains, stylized
-- [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: stars
 <!-- vault-crosslinks:end -->

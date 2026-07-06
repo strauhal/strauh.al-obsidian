@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - Y
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon 2a8c4293|Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon]] — shared language: crescent, moon
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
 - [[knowledge/wiki/images/Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below e829048b|Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below]] — shared language: crescent, moon
 - [[knowledge/wiki/images/Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630) 658a901f|Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630)]] — shared language: curly, hair
 - [[knowledge/wiki/images/Illustration Charcoal Sketch of a Woman's Face with Curly Hair c795d5f7|Illustration Charcoal Sketch of a Woman's Face with Curly Hair]] — shared language: curly, hair

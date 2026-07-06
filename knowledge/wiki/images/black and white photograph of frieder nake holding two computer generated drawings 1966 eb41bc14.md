@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/black_and_white_
 - [[knowledge/wiki/images/NAKE ERGE ZB+ by Frieder Nake (1965) ca0dd75d|NAKE ERGE ZB+ by Frieder Nake (1965)]] — shared language: nake, frieder
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: drawings, computer
-- [[knowledge/wiki/images/Photograph Person Holding Open Sketchbook with Drawings and Notes 54d0cc49|Photograph Person Holding Open Sketchbook with Drawings and Notes]] — shared language: drawings, holding
+- [[knowledge/wiki/images/Person Holding Open Sketchbook with Drawings and Notes 0eb2bd39|Person Holding Open Sketchbook with Drawings and Notes]] — shared language: drawings, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

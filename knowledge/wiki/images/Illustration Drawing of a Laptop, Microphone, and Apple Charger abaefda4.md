@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Photograph Microphone and Laptop in Anechoic Chamber 99a22536|Photograph Microphone and Laptop in Anechoic Chamber]] — shared language: microphone, laptop
 - [[knowledge/wiki/images/Photograph Scratched Silver Apple Laptop on White Background bf8239d3|Photograph Scratched Silver Apple Laptop on White Background]] — shared language: laptop, apple
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple
-- [[knowledge/wiki/images/Photograph Person On Stage Holding Microphone Under Blue Lights 1ba18852|Photograph Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
 - [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: apple
+- [[knowledge/wiki/images/Person On Stage Holding Microphone Under Blue Lights f1e7a11c|Person On Stage Holding Microphone Under Blue Lights]] — shared language: microphone
 <!-- vault-crosslinks:end -->

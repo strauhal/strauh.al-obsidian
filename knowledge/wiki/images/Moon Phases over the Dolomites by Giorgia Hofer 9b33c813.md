@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Moon Phases over
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
 - [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: moon
-- [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — shared language: moon
+- [[knowledge/wiki/images/The Sun, The Moon, The Star by David Glomba (2017) 04cda5d4|The Sun, The Moon, The Star by David Glomba (2017)]] — shared language: moon
 <!-- vault-crosslinks:end -->

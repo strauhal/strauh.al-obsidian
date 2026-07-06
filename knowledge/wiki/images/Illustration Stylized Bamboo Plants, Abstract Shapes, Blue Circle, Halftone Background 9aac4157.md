@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Glasses and Bamboo Background c6dcc1ac|Illustration Stylized Portrait of Person with Glasses and Bamboo Background]] — shared language: bamboo, stylized, background
-- [[knowledge/wiki/images/Diagram Yellow Circle Amidst Scattered Dark Shapes on Grey Background 94728588|Diagram Yellow Circle Amidst Scattered Dark Shapes on Grey Background]] — shared language: circle, shapes, background
+- [[knowledge/wiki/images/Yellow Circle Amidst Scattered Dark Shapes on Grey Background 78560b83|Yellow Circle Amidst Scattered Dark Shapes on Grey Background]] — shared language: circle, shapes, background
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, background
 - [[knowledge/wiki/images/Illustration Abstract Digital Shapes and Lines on Pink Background 40cd0107|Illustration Abstract Digital Shapes and Lines on Pink Background]] — shared language: shapes, background, background.png
 - [[knowledge/wiki/images/Illustration Line Drawing of Succulent Plants on Textured Paper 64a93c3d|Illustration Line Drawing of Succulent Plants on Textured Paper]] — shared language: plants

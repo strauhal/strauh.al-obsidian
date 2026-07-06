@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/richard-g-smith-the-baudrillard-dictionary|The Baudrillard Dictionary]] — shared language: smith
-- [[knowledge/wiki/images/Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience d2f3adc5|Photograph Katy Perry, Rihanna, Kesha, Jaden Smith, Justin Bieber In Audience]] — shared language: smith
-- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: smith
 - [[knowledge/wiki/artists/Artist - Charles Hugh Smith|Artist - Charles Hugh Smith]] — shared language: smith
+- [[knowledge/wiki/artists/Artist - pamela colman smith|Artist - pamela colman smith]] — shared language: smith
 - [[knowledge/wiki/images/the fool by pamela colman smith 1909 8dcd0825|the fool by pamela colman smith 1909]] — shared language: smith
 - [[knowledge/wiki/images/The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909) 5c8d2461|The Fool (Rider Waite Smith Tarot) by Pamela Colman Smith (1909)]] — shared language: smith
+- [[knowledge/wiki/images/The Dream of the Architect by Franklin Booth (1912) 7f0567f8|The Dream of the Architect by Franklin Booth (1912)]] — shared language: architect, dream
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above 190e8920|Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above]] — shared language: winged, eye
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
 - [[knowledge/wiki/images/Illustration Woman With A Sword In An Ornate Room fe703b09|Illustration Woman With A Sword In An Ornate Room]] — shared language: sword
-- [[knowledge/wiki/artists/Artist - Bonfire and Sword|Artist - Bonfire and Sword]] — shared language: sword
 <!-- vault-crosslinks:end -->

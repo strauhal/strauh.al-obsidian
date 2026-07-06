@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Modern Grey Building with External Staircases and Balconies ff064c42|Photograph Modern Grey Building with External Staircases and Balconies]] — shared language: staircases
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, scene
+- [[knowledge/wiki/images/Modern Grey Building with External Staircases and Balconies d8d8e92d|Modern Grey Building with External Staircases and Balconies]] — shared language: staircases
 - [[knowledge/wiki/images/Image Black and White Stylized Figures Walking Through Arches and Circles 5b025a37|Image Black and White Stylized Figures Walking Through Arches and Circles]] — shared language: arches
-- [[knowledge/wiki/images/Photograph Purple Toned Street Scene with Buildings and Streaking Lights 10fb4e50|Photograph Purple Toned Street Scene with Buildings and Streaking Lights]] — shared language: buildings, scene
 - [[knowledge/wiki/images/Illustration Surreal Fantasy Scene with Figures, Monsters, Buildings, and Explosions 9d77a7b1|Illustration Surreal Fantasy Scene with Figures, Monsters, Buildings, and Explosions]] — shared language: buildings, scene
 - [[knowledge/wiki/images/Illustration Abstract Generative Line Art of Layered Arches and Columns 8d929ca5|Illustration Abstract Generative Line Art of Layered Arches and Columns]] — shared language: arches
 <!-- vault-crosslinks:end -->

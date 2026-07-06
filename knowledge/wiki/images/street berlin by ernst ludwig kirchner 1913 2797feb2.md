@@ -27,8 +27,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/street_berlin_by
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/street dresden by ernst ludwig kirchner 1908 77a94dd3|street dresden by ernst ludwig kirchner 1908]] — same artist: ernst ludwig kirchner
 - [[knowledge/wiki/images/self portrait by ernst ludwig kirchner 1914 5cc7bba5|self portrait by ernst ludwig kirchner 1914]] — same artist: ernst ludwig kirchner
+- [[knowledge/wiki/images/street dresden by ernst ludwig kirchner 1908 77a94dd3|street dresden by ernst ludwig kirchner 1908]] — same artist: ernst ludwig kirchner
 - [[knowledge/wiki/images/straenszene by ernst ludwig kirchner 1913 158d31e6|straenszene by ernst ludwig kirchner 1913]] — same artist: ernst ludwig kirchner
 - [[knowledge/wiki/images/konigsallee dusseldorf by ernst ludwig kirchner 1917 404299ec|konigsallee dusseldorf by ernst ludwig kirchner 1917]] — same artist: ernst ludwig kirchner
 - [[knowledge/wiki/anchors/berlin-philharmonic|Berlin Philharmonic]] — named in this note

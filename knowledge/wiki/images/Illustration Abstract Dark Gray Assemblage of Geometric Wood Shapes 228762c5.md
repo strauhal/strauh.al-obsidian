@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes 9fea82c3|Illustration Abstract Geometric Painting with Blue, Grey, White, and Black Shapes]] — shared language: shapes, geometric, shapes.jpeg
 - [[knowledge/wiki/images/Photograph Two Dark Wood Display Cabinets with Geometric Shelves 04dcd253|Photograph Two Dark Wood Display Cabinets with Geometric Shelves]] — shared language: wood, geometric, dark
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Bright Geometric Shapes 7db191c0|Illustration Abstract Painting of Interlocking Bright Geometric Shapes]] — shared language: shapes, geometric
-- [[knowledge/wiki/images/Illustration Abstract Blue Shapes on Dark Canvas 05b5effb|Illustration Abstract Blue Shapes on Dark Canvas]] — shared language: shapes, dark
+- [[knowledge/wiki/images/Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones 2e16917a|Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones]] — shared language: gray, shapes
 <!-- vault-crosslinks:end -->

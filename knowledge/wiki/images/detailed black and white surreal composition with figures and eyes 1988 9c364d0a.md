@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/detailed_black_a
 
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: surreal, detailed
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: surreal, detailed
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: surreal
+- [[knowledge/wiki/images/Surreal Purple Landscape With Two Figures 18ed63b9|Surreal Purple Landscape With Two Figures]] — shared language: surreal
 <!-- vault-crosslinks:end -->

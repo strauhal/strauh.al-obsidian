@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Printout of Multiple Thermal Camera Images Showing Deer and Animals cc419873|Photograph Printout of Multiple Thermal Camera Images Showing Deer and Animals]] — shared language: thermal, deer, camera
+- [[knowledge/wiki/images/Photograph Printout of Multiple Thermal Camera Images Showing Deer and Animals cc419873|Photograph Printout of Multiple Thermal Camera Images Showing Deer and Animals]] — shared language: thermal, deer, animals
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/images/Diagram False Color Thermal Map with Red and Green Hues 362779b9|Diagram False Color Thermal Map with Red and Green Hues]] — shared language: thermal, color
+- [[knowledge/wiki/images/False Color Thermal Map with Red and Green Hues f5611f66|False Color Thermal Map with Red and Green Hues]] — shared language: thermal, color
 <!-- vault-crosslinks:end -->

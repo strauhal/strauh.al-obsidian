@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Artificial Flowers in Box and Bag with Wrapped Objects 2b8a785f|Photograph Artificial Flowers in Box and Bag with Wrapped Objects]] — shared language: wrapped, objects, flowers
+- [[knowledge/wiki/images/Artificial Flowers in Box and Bag with Wrapped Objects b496e280|Artificial Flowers in Box and Bag with Wrapped Objects]] — shared language: wrapped, objects, flowers
+- [[_archive/auto-generated/images-stale/Photograph Artificial Flowers in Box and Bag with Wrapped Objects 2b8a785f|Photograph Artificial Flowers in Box and Bag with Wrapped Objects]] — shared language: wrapped, objects, flowers
 - [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo of colorful childlike portrait with red scribbles c2b40dd5|gallery photo of colorful childlike portrait with red scribbles]] — shared language: gallery, photo
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
-- [[_archive/auto-generated/images-stale/moody photo of red flowers against dark background 8cd00314|moody photo of red flowers against dark background]] — shared language: photo, flowers
 <!-- vault-crosslinks:end -->

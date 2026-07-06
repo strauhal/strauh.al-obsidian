@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph, friedrich
 - [[knowledge/wiki/images/alexej von jawlensky abstract head 1919 70add417|alexej von jawlensky abstract head 1919]] — shared language: von
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 - [[knowledge/wiki/images/general von wolkern 1912 591100f1|general von wolkern 1912]] — shared language: von
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: joseph
-- [[knowledge/wiki/books/bueys-joseph-harlan-volker-what-is-art-conversation-with-joseph-beuys-clairview-books|What is Art Conversation with Joseph Beuys-Clairview Books]] — shared language: joseph
 <!-- vault-crosslinks:end -->

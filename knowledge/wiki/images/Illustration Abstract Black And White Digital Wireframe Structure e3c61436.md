@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: structure
 - [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: wireframe
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: structure
 - [[knowledge/wiki/images/Illustration Golden Stylized Human Head in Geometric Wireframe 145b43f8|Illustration Golden Stylized Human Head in Geometric Wireframe]] — shared language: wireframe
 - [[knowledge/wiki/images/Screenshot Colorful Wireframe 3D Model of a Bedroom Interior 8960d17e|Screenshot Colorful Wireframe 3D Model of a Bedroom Interior]] — shared language: wireframe
 <!-- vault-crosslinks:end -->

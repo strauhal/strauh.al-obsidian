@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Chen Shizeng|Artist - Chen Shizeng]] — named in this note
 - [[_archive/auto-generated/images-stale/plum blossoms by chen shizeng a2f19917|plum blossoms by chen shizeng]] — shared language: shizeng, chen, plum
 - [[knowledge/wiki/artists/Artist - chen yifei|Artist - chen yifei]] — shared language: chen
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chen yifei 1983|Artist - chen yifei 1983]] — shared language: chen
 - [[knowledge/wiki/images/young woman with a plant by chen yifei 1983 ff1d6606|young woman with a plant by chen yifei 1983]] — shared language: chen
 - [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: calligraphy, chinese, ink
-- [[_archive/auto-generated/images-stale/traditional chinese landscape painting of green hills and pink blossoms by a river 1ba9f3b3|traditional chinese landscape painting of green hills and pink blossoms by a river]] — shared language: blossoms, traditional, chinese
 <!-- vault-crosslinks:end -->

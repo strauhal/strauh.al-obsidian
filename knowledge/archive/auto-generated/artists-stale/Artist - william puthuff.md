@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Vibrant Flower Garden With Pink And Yellow Blooms 99b837fc|Illustration Vibrant Flower Garden With Pink And Yellow Blooms]] — shared language: blooms, flower, garden
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
-- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden, pink, oil
+- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden, oil, pink
 - [[knowledge/wiki/images/william herbert dunton the squall c 1923 e9d7455d|william herbert dunton the squall c 1923]] — shared language: william
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john william waterhouse 1886|Artist - john william waterhouse 1886]] — shared language: william, flower
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Woman with Bobbed Hair Resting Chin on Hands 78a3ff30|Illustration Pencil Sketch of Woman with Bobbed Hair Resting Chin on Hands]] — shared language: chin, resting, hands
 - [[knowledge/wiki/images/Illustration Mythological Figure Drawing Bow Amidst Fire and Debris faff3d86|Illustration Mythological Figure Drawing Bow Amidst Fire and Debris]] — shared language: bow
-- [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: bow
 - [[knowledge/wiki/images/Illustration Black Ink Line Drawing of Seated Woman Resting Head on Hand 2044ec92|Illustration Black Ink Line Drawing of Seated Woman Resting Head on Hand]] — shared language: resting
-- [[knowledge/wiki/images/Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow 636793f7|Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow]] — shared language: bow
+- [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: bow
+- [[knowledge/wiki/images/Still Life with Oysters, Wine, and a Cat by Clara Peeters (c. 1620) d0073055|Still Life with Oysters, Wine, and a Cat by Clara Peeters (c. 1620)]] — shared language: clara
 <!-- vault-crosslinks:end -->

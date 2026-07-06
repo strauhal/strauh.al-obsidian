@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: clouds, sunset, purple
 - [[knowledge/wiki/images/Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds b18bbe23|Illustration Vibrant Painting of Sunset Sky with Orange and Purple Clouds]] — shared language: clouds, sunset, purple
-- [[knowledge/wiki/images/Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays 5d42b171|Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays]] — shared language: clouds, sunset, sky
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: sunset, oil, landscape
-- [[_archive/auto-generated/images-stale/oil painting of dark mountains under blue sky 88fefb4d|oil painting of dark mountains under blue sky]] — shared language: sky, oil, dark
+- [[_archive/auto-generated/images-stale/oil painting of dark mountains under blue sky 88fefb4d|oil painting of dark mountains under blue sky]] — shared language: oil, sky, dark
+- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: sunset, oil, landscape
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: sunset, sky, dark
 <!-- vault-crosslinks:end -->

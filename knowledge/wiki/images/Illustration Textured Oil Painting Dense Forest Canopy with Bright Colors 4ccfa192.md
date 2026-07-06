@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 
 - [[knowledge/wiki/images/Illustration Highly Textured Painting of a Forest Canopy 7cce0d72|Illustration Highly Textured Painting of a Forest Canopy]] — shared language: canopy, textured, forest
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: colors
-- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors ce57a9f5|Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors]] — shared language: bright, colors
 - [[knowledge/wiki/images/Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge 2a72bf3e|Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge]] — shared language: dense, forest, oil
-- [[knowledge/wiki/images/Illustration Abstract Composition of Interlocking Polygons in Bright Colors 7fd6ff56|Illustration Abstract Composition of Interlocking Polygons in Bright Colors]] — shared language: bright, colors
+- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors ce57a9f5|Illustration Abstract Geometric Painting with Intersecting Polygons in Bright Colors]] — shared language: bright, colors
+- [[knowledge/wiki/images/Illustration Multiple Abstract Faces in Textured Pastel Colors e04d0b48|Illustration Multiple Abstract Faces in Textured Pastel Colors]] — shared language: textured, colors, colors.jpeg
 <!-- vault-crosslinks:end -->

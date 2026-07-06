@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, mountain
-- [[knowledge/wiki/images/Photograph Mountain Information Sign in Grassy Field with Snowy Peaks a016b539|Photograph Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: snowy, mountain
-- [[knowledge/wiki/images/Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range fa0c5fdd|Photograph SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — shared language: snowy, mountain
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, mountain
+- [[knowledge/wiki/images/Mountain Information Sign in Grassy Field with Snowy Peaks f3c2c504|Mountain Information Sign in Grassy Field with Snowy Peaks]] — shared language: snowy, mountain
+- [[knowledge/wiki/images/SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range 0e5a7cf9|SR 71 Blackbird Aircraft Flying Over Snowy Mountain Range]] — shared language: snowy, mountain
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy
 - [[knowledge/wiki/culture/reading-gothic-violence|Reading - Gothic Violence]] — shared language: gothic
 <!-- vault-crosslinks:end -->

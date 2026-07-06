@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_shop_girls_b
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/artists/Artist - Elizabeth Peyton|Artist - Elizabeth Peyton]] — shared language: elizabeth
 - [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — shared language: shop
 - [[knowledge/wiki/artists/Artist - paul haller jones|Artist - paul haller jones]] — shared language: jones
+- [[knowledge/wiki/books/elizabeth-grosz-chaos-territory-art-deleuze-and-the-framing-of-the-earth-excerpt|Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt)]] — shared language: elizabeth
 - [[knowledge/wiki/books/jones-eugene-michael-degenerate-moderns-modernity-as-rationalized-sexual-misbehavior-1-0-ignatius-press|Degenerate Moderns Modernity as Rationalized Sexual Misbehavior. 1.0-Ignatius Press]] — shared language: jones
 <!-- vault-crosslinks:end -->

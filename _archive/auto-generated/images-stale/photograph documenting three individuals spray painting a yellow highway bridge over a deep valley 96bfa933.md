@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Individuals Spray Painting Yellow Highway Bridge Over Valley 7f0c03da|Photograph Individuals Spray Painting Yellow Highway Bridge Over Valley]] — shared language: spray, highway, individuals
+- [[knowledge/wiki/images/Individuals Spray Painting Yellow Highway Bridge Over Valley e2308cf9|Individuals Spray Painting Yellow Highway Bridge Over Valley]] — shared language: spray, highway, individuals
+- [[_archive/auto-generated/images-stale/Photograph Individuals Spray Painting Yellow Highway Bridge Over Valley 7f0c03da|Photograph Individuals Spray Painting Yellow Highway Bridge Over Valley]] — shared language: spray, highway, individuals
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: documenting
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: deep
-- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: deep
 <!-- vault-crosslinks:end -->

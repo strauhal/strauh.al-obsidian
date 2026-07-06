@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/An Eagle by Rosa Bonheur (1870) 15d83cf0|An Eagle by Rosa Bonheur (1870)]] — shared language: eagle
 - [[knowledge/wiki/images/Illustration Abstract Painting Golden Sky Over Fiery, Textured Red Landscape e1ca54e5|Illustration Abstract Painting Golden Sky Over Fiery, Textured Red Landscape]] — shared language: golden, sky
-- [[knowledge/wiki/images/Photograph Rural Road Through Golden Fields with Trees Under Blue Sky ed13cea5|Photograph Rural Road Through Golden Fields with Trees Under Blue Sky]] — shared language: golden, sky, sky.jpg
+- [[_archive/auto-generated/images-stale/Photograph Rural Road Through Golden Fields with Trees Under Blue Sky ed13cea5|Photograph Rural Road Through Golden Fields with Trees Under Blue Sky]] — shared language: golden, sky, sky.jpg
+- [[knowledge/wiki/images/Rural Road Through Golden Fields with Trees Under Blue Sky 80664d80|Rural Road Through Golden Fields with Trees Under Blue Sky]] — shared language: golden, sky, sky.jpg
 - [[knowledge/wiki/images/Illustration Winding Road Through Golden Fields Under Dark Sky 4bc8388d|Illustration Winding Road Through Golden Fields Under Dark Sky]] — shared language: golden, sky
-- [[knowledge/wiki/images/Photograph Silhouette Of A Cat Against A Colorful Sunset Sky 22fa7b40|Photograph Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: against, sky, sky.jpg
 <!-- vault-crosslinks:end -->

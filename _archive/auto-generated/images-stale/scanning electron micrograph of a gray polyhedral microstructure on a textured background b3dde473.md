@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background 35c6a15f|Photograph Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background]] — shared language: electron, micrograph, polyhedral
+- [[_archive/auto-generated/images-stale/Photograph Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background 35c6a15f|Photograph Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background]] — shared language: electron, micrograph, polyhedral
+- [[knowledge/wiki/images/Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background fbb0eca0|Scanning Electron Micrograph of Polyhedral Microstructure on Textured Background]] — shared language: electron, micrograph, polyhedral
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, background
 - [[knowledge/wiki/images/Illustration Textured Walking Head Figure on White Background 5a0afdbd|Illustration Textured Walking Head Figure on White Background]] — shared language: textured, background
 - [[_archive/auto-generated/images-stale/ink drawing of a textured walking head figure on a white background f5ff3169|ink drawing of a textured walking head figure on a white background]] — shared language: textured, background
-- [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: textured, background
 <!-- vault-crosslinks:end -->

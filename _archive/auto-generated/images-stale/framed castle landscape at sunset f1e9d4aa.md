@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed monochromatic drawing of a treed landscape fe02eb96|framed monochromatic drawing of a treed landscape]] — shared language: framed, landscape
-- [[_archive/auto-generated/images-stale/framed tonal landscape with white cloaked figure at sunset ce661ced|framed tonal landscape with white cloaked figure at sunset]] — shared language: sunset, framed, landscape
 - [[_archive/auto-generated/images-stale/framed sunset river landscape with trees and reflections 53e831ee|framed sunset river landscape with trees and reflections]] — shared language: sunset, framed, landscape
+- [[_archive/auto-generated/images-stale/framed tonal landscape with white cloaked figure at sunset ce661ced|framed tonal landscape with white cloaked figure at sunset]] — shared language: sunset, framed, landscape
 - [[knowledge/wiki/images/Illustration Castle on Hill Overlooking River at Sunset b17972f8|Illustration Castle on Hill Overlooking River at Sunset]] — shared language: castle, sunset, sunset.jpeg
 - [[knowledge/wiki/images/Illustration Mountainous Landscape with Figures and Oxen at Sunset 9133d817|Illustration Mountainous Landscape with Figures and Oxen at Sunset]] — shared language: sunset, landscape, sunset.jpeg
 <!-- vault-crosslinks:end -->

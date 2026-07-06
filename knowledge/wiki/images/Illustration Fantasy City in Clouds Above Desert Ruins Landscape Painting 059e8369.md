@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, above
-- [[knowledge/wiki/images/Illustration Abstract Geometric Desert Landscape with House and Sun d40a7db6|Illustration Abstract Geometric Desert Landscape with House and Sun]] — shared language: desert, landscape
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
-- [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert, landscape
-- [[knowledge/wiki/images/Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above 190e8920|Illustration Winged Figure Kneeling On Clouds With All Seeing Eye Above]] — shared language: clouds, above
+- [[knowledge/wiki/images/Illustration Abstract Geometric Desert Landscape with House and Sun d40a7db6|Illustration Abstract Geometric Desert Landscape with House and Sun]] — shared language: desert, landscape
 <!-- vault-crosslinks:end -->

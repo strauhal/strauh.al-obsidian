@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Self-Portrait by Ludwig Wittgenstein.jpg]]
+![[media/strauh.al3.1/photography/Self-Portrait by Ludwig Wittgenstein.jpg]]
 
 ## Image Notes
 
-- [[Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]]
+- [[Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Animated Soldier In Gas Mask Using Computer 8ef6b57d|Illustration Animated Soldier In Gas Mask Using Computer]] — shared language: animated, gas, soldier
+- [[knowledge/wiki/images/Illustration Animated Soldier In Gas Mask Using Computer 8ef6b57d|Illustration Animated Soldier In Gas Mask Using Computer]] — shared language: animated, gas, mask
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: using, computer
-- [[_archive/auto-generated/images-stale/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: using, computer
+- [[_archive/auto-generated/images-stale/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: using, computer
 <!-- vault-crosslinks:end -->

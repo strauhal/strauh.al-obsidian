@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of a 3D Model of a Large Stone Building Complex 820e0b31|Screenshot Screenshot of a 3D Model of a Large Stone Building Complex]] — shared language: stone, model, complex
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, complex, large
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model 245b1c4c|Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model]] — shared language: modeling, model, screenshot
 - [[knowledge/wiki/images/Screenshot 3D Modeling Software Interface with Human Figure Model 2b4c9938|Screenshot 3D Modeling Software Interface with Human Figure Model]] — shared language: modeling, model, screenshot
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 <!-- vault-crosslinks:end -->

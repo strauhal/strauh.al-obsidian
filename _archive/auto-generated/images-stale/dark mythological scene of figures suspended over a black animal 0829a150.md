@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: animal
 - [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 - [[knowledge/wiki/images/Photograph Silhouette of Person Suspended on Power Lines at Sunset 06e62df5|Photograph Silhouette of Person Suspended on Power Lines at Sunset]] — shared language: suspended
-- [[knowledge/wiki/images/Photograph Performer On Suspended Stage Above Crowd At Concert e91f3354|Photograph Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended
+- [[knowledge/wiki/images/Performer On Suspended Stage Above Crowd At Concert 99525c2c|Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended
 <!-- vault-crosslinks:end -->

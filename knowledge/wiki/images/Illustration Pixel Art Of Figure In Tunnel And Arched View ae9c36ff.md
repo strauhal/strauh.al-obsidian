@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/tunnel b080ddec|tunnel]] — named in this note
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: pixel
-- [[knowledge/wiki/images/Photograph Interior View Of A Curved Road Tunnel With Lights 4abb5bc1|Photograph Interior View Of A Curved Road Tunnel With Lights]] — shared language: tunnel, view
+- [[knowledge/wiki/images/Interior View Of A Curved Road Tunnel With Lights c7f657e0|Interior View Of A Curved Road Tunnel With Lights]] — shared language: tunnel, view
 - [[knowledge/wiki/images/Illustration Stylized Figures In Room With Arched Window c94eecb8|Illustration Stylized Figures In Room With Arched Window]] — shared language: arched
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
 <!-- vault-crosslinks:end -->

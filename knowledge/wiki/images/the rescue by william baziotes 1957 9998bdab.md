@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_rescue_by_wi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/george frederic watts the rescue c 1898 9549dce4|george frederic watts the rescue c 1898]] — shared language: rescue
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: william
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: william
+- [[knowledge/wiki/images/george frederic watts the rescue c 1898 9549dce4|george frederic watts the rescue c 1898]] — shared language: rescue
 - [[knowledge/wiki/images/le sauvetage the rescue by pablo picasso 1933 f7159733|le sauvetage the rescue by pablo picasso 1933]] — shared language: rescue
 - [[knowledge/wiki/books/william-s-burroughs-naked-lunch|Naked lunch]] — shared language: william
 <!-- vault-crosslinks:end -->

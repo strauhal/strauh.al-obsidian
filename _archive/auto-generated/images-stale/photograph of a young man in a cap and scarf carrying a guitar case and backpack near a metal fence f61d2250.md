@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Man In Cap And Scarf Carrying Guitar Case 4d04d4ff|Photograph Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, carrying, guitar
+- [[_archive/auto-generated/images-stale/Photograph Young Man In Cap And Scarf Carrying Guitar Case 4d04d4ff|Photograph Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, guitar, carrying
+- [[knowledge/wiki/images/Young Man In Cap And Scarf Carrying Guitar Case 8dd2ea4c|Young Man In Cap And Scarf Carrying Guitar Case]] — shared language: scarf, guitar, carrying
 - [[_archive/auto-generated/images-stale/black and white photograph of a young man in a plaid scarf reading documents 4aa9cc07|black and white photograph of a young man in a plaid scarf reading documents]] — shared language: scarf, young
 - [[knowledge/wiki/images/Photograph Young Man in Plaid Scarf Reading Documents 4420ca8d|Photograph Young Man in Plaid Scarf Reading Documents]] — shared language: scarf, young
-- [[knowledge/wiki/images/Photograph Black Dog Lying In Bright Green Foliage Near Wooden Fence f6c86a5a|Photograph Black Dog Lying In Bright Green Foliage Near Wooden Fence]] — shared language: fence, near, fence.jpg
-- [[knowledge/wiki/images/self portrait in a cap and scarf with the face darkened bust by rembrandt van rijn 1633 60505e1f|self portrait in a cap and scarf with the face darkened bust by rembrandt van rijn 1633]] — shared language: scarf, cap
+- [[knowledge/wiki/images/Black Dog Lying In Bright Green Foliage Near Wooden Fence 9246877e|Black Dog Lying In Bright Green Foliage Near Wooden Fence]] — shared language: fence, near, fence.jpg
 <!-- vault-crosslinks:end -->

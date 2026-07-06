@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Rainy Day by Pas
 - [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
 - [[knowledge/wiki/images/Rainy Day, Boston by Childe Hassam (1885) 3aba74f6|Rainy Day, Boston by Childe Hassam (1885)]] — shared language: rainy, day
 - [[knowledge/wiki/images/rainy day in boston by childe hassam 1885 e437c23c|rainy day in boston by childe hassam 1885]] — shared language: rainy, day
-- [[knowledge/wiki/images/Photograph City Skyline Behind Lotus Pond on a Rainy Day 0a54955b|Photograph City Skyline Behind Lotus Pond on a Rainy Day]] — shared language: rainy, day
+- [[knowledge/wiki/images/City Skyline Behind Lotus Pond on a Rainy Day 446d59b7|City Skyline Behind Lotus Pond on a Rainy Day]] — shared language: rainy, day
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: rainy
 <!-- vault-crosslinks:end -->

@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, shadow.jpeg
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, shadow.jpeg
 - [[knowledge/wiki/images/Illustration Bent Chrome Metal Tubing Sculpture on Wooden Floor 98c4f8ee|Illustration Bent Chrome Metal Tubing Sculpture on Wooden Floor]] — shared language: metal, sculpture
 - [[knowledge/wiki/images/Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou 8943a3c5|Illustration Complex Abstract Sculpture of Interconnected Metal Shapes and Spheres by Lee Bontecou]] — shared language: metal, sculpture
 - [[knowledge/wiki/images/Illustration Outdoor Sculpture of Tree Trunk with Rectangular Metal Branching Structure 589f2d83|Illustration Outdoor Sculpture of Tree Trunk with Rectangular Metal Branching Structure]] — shared language: metal, sculpture

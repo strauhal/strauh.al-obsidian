@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, futuristic, street
-- [[knowledge/wiki/images/Diagram Map of Los Angeles City and Suburban Lines b2e35e77|Diagram Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los, city
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper
-- [[knowledge/wiki/images/Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline ecf6442c|Photograph Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: angeles, los, city
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper, city, futuristic
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
+- [[knowledge/wiki/images/Map of Los Angeles City and Suburban Lines a0ad140d|Map of Los Angeles City and Suburban Lines]] — shared language: angeles, los, city
+- [[knowledge/wiki/images/Waymo Self Driving Car on Los Angeles Freeway with City Skyline 9321590a|Waymo Self Driving Car on Los Angeles Freeway with City Skyline]] — shared language: angeles, los, city
 - [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — shared language: angeles, los
 <!-- vault-crosslinks:end -->

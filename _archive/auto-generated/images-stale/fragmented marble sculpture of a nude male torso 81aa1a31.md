@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Fragmented Marble Sculpture of a Nude Male Torso 640dace3|Illustration Fragmented Marble Sculpture of a Nude Male Torso]] — named in this note
 - [[_archive/auto-generated/images-stale/drawing and photograph of a fragmented male marble torso dae95452|drawing and photograph of a fragmented male marble torso]] — shared language: marble, fragmented, torso
 - [[knowledge/wiki/images/Document Pencil Drawing and Photograph of Fragmented Male Marble Torso 74a456dd|Document Pencil Drawing and Photograph of Fragmented Male Marble Torso]] — shared language: marble, fragmented, torso
-- [[knowledge/wiki/images/Photograph Marble Sculpture of a Male Torso on Display 504a0ace|Photograph Marble Sculpture of a Male Torso on Display]] — shared language: marble, torso, sculpture
-- [[_archive/auto-generated/images-stale/marble sculpture of a cherub covering a woman s eyes 59279847|marble sculpture of a cherub covering a woman s eyes]] — shared language: marble, sculpture
+- [[knowledge/wiki/images/Photograph Marble Sculpture of a Male Torso on Display 504a0ace|Photograph Marble Sculpture of a Male Torso on Display]] — shared language: marble, torso, male
+- [[knowledge/wiki/images/People Posing With A Large Marble Sculpture In A Museum 5a44c5ed|People Posing With A Large Marble Sculpture In A Museum]] — shared language: marble, sculpture
 <!-- vault-crosslinks:end -->

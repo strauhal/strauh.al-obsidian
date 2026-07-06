@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: against, yellow, background
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: lights
 - [[_archive/auto-generated/images-stale/red figure wearing yellow goggles against a blue background 66556983|red figure wearing yellow goggles against a blue background]] — shared language: against, yellow, background
 - [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: against, background
 - [[knowledge/archive/auto-generated/anchors-stale/artist-water-against-a-blue-background|Artist - water against a blue background]] — shared language: against, background
-- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: against, yellow, background
 <!-- vault-crosslinks:end -->

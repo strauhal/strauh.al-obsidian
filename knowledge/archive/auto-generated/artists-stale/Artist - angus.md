@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: moment
 - [[knowledge/wiki/images/aspen by toshi yoshida 1973 9c39469e|aspen by toshi yoshida 1973]] — shared language: aspen
 - [[knowledge/wiki/images/Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky 0eba5268|Illustration Vibrant Aspen Forest with Yellow and Orange Leaves Against Blue Sky]] — shared language: aspen
+- [[_archive/auto-generated/images-stale/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259-20260706163716|Document Page From A Book With Highlighted Text About The Aspen Incident]] — shared language: aspen
+- [[_archive/auto-generated/images-stale/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259-20260706165156|Document Page From A Book With Highlighted Text About The Aspen Incident]] — shared language: aspen
 - [[_archive/auto-generated/images-stale/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259|Document Page From A Book With Highlighted Text About The Aspen Incident]] — shared language: aspen
-- [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: perfect
-- [[knowledge/wiki/images/Screenshot Perfect Blue by Satoshi Kon 668e7179|Screenshot Perfect Blue by Satoshi Kon]] — shared language: perfect
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - N
 - [[knowledge/wiki/images/Illustration Ink Sketches of Draped Figures and Seated People c5c4563c|Illustration Ink Sketches of Draped Figures and Seated People]] — shared language: draped, seated
 - [[knowledge/wiki/artists/Artist - michelangelo|Artist - michelangelo]] — shared language: draped, nude
 - [[knowledge/wiki/images/Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing 0ce4c58d|Illustration Nude Reclining Figure on Draped Bed, Black and White Drawing]] — shared language: draped, nude
-- [[knowledge/wiki/images/Photograph Person Standing In Front Of Metal Shutter Looking Down f506f497|Photograph Person Standing In Front Of Metal Shutter Looking Down]] — shared language: looking, down, down.jpeg
+- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 <!-- vault-crosslinks:end -->

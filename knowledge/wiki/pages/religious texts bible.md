@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/religious_texts/bible.html"
 source_relpath: "religious_texts/bible.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # religious texts bible
@@ -72,5 +72,5 @@ Processing Bible Data...
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: religious, sacred
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: click, drag, theme
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click, drag, zoom
-- [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, highlight
+- [[knowledge/wiki/books/barnard-george-william-richards-william-a-sacred-knowledge-psychedelics-and-religious-experiences-columbia-university-press|Sacred knowledge psychedelics and religious experiences-Columbia University Press]] — shared language: religious, sacred
 <!-- vault-crosslinks:end -->

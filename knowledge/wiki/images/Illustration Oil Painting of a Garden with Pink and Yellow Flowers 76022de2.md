@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: garden, pink, oil
+- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: garden, oil, pink
 - [[knowledge/wiki/images/Illustration Vibrant Flower Garden With Pink And Yellow Blooms 99b837fc|Illustration Vibrant Flower Garden With Pink And Yellow Blooms]] — shared language: garden, pink, yellow
-- [[knowledge/wiki/images/Document Pink Flowers And A Yellow Butterfly On A Magazine Cover eee78522|Document Pink Flowers And A Yellow Butterfly On A Magazine Cover]] — shared language: pink, flowers, yellow
-- [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: pink, flowers
+- [[knowledge/wiki/images/Document Pink Flowers And A Yellow Butterfly On A Magazine Cover eee78522|Document Pink Flowers And A Yellow Butterfly On A Magazine Cover]] — shared language: flowers, pink, yellow
+- [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: flowers, pink
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: oil, yellow
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: river, landscape
-- [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
 - [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: river, landscape
+- [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
 - [[knowledge/wiki/images/Illustration River Landscape with Waterfall and Mountains at Sunset 56a7d8fe|Illustration River Landscape with Waterfall and Mountains at Sunset]] — shared language: river, landscape
 - [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 <!-- vault-crosslinks:end -->

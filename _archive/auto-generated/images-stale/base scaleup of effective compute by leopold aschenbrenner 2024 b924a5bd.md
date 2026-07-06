@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - leopold aschenbrenner 2024|Artist - leopold aschenbrenner 2024]] — named in this note
+- [[knowledge/wiki/artists/Artist - Leopold Aschenbrenner|Artist - Leopold Aschenbrenner]] — named in this note
 - [[knowledge/wiki/images/Diagram Graph of AI Effective Compute Growth and Capability Projections by Leopold Aschenbrenner 7be395d1|Diagram Graph of AI Effective Compute Growth and Capability Projections by Leopold Aschenbrenner]] — same artist: leopold
 - [[Welcome|strauh.al Knowledge Base]] — shared language: base
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: base
-- [[knowledge/wiki/artists/Artist - Leopold Schmutzler|Artist - Leopold Schmutzler]] — shared language: leopold
 <!-- vault-crosslinks:end -->

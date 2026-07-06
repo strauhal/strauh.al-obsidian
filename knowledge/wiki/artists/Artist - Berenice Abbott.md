@@ -11,19 +11,19 @@ Images attributed by filename: 2
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Black And White Portrait Of James Joyce by Berenice Abbott.jpg]]
+![[media/strauh.al3.1/photography/Black And White Portrait Of James Joyce by Berenice Abbott.jpg]]
 
-![[media/strauh.al3.1/photography/Photograph - James Joyce by Berenice Abbott.jpg]]
+![[media/strauh.al3.1/photography/James Joyce by Berenice Abbott.jpg]]
 
 ## Image Notes
 
-- [[Photograph Black And White Portrait Of James Joyce by Berenice Abbott a05d70f9|Photograph Black And White Portrait Of James Joyce by Berenice Abbott]]
-- [[Photograph James Joyce by Berenice Abbott 8bc13fda|Photograph James Joyce by Berenice Abbott]]
+- [[Black And White Portrait Of James Joyce by Berenice Abbott a2bca619|Black And White Portrait Of James Joyce by Berenice Abbott]]
+- [[James Joyce by Berenice Abbott 999d05c5|James Joyce by Berenice Abbott]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph James Joyce by Berenice Abbott (2) 62f7b3b6|Photograph James Joyce by Berenice Abbott (2)]] — named in this note
+- [[knowledge/wiki/images/James Joyce by Berenice Abbott (2) 22d2307d|James Joyce by Berenice Abbott (2)]] — named in this note
 - [[knowledge/wiki/anchors/eileen-joyce|Eileen Joyce]] — shared language: joyce
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: james

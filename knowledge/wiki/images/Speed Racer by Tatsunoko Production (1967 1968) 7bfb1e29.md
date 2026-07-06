@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Speed Racer by T
 
 - [[knowledge/wiki/anchors/speed-racer|speed racer]] — named in this note
 - [[knowledge/wiki/artists/Artist - Tatsunoko Production|Artist - Tatsunoko Production]] — shared language: tatsunoko, production
-- [[knowledge/wiki/images/Illustration Mach 5's Seven Secrets by Tatsunoko Production 88fb7a50|Illustration Mach 5's Seven Secrets by Tatsunoko Production]] — shared language: tatsunoko, production
 - [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: racer, speed
+- [[knowledge/wiki/images/Illustration Mach 5's Seven Secrets by Tatsunoko Production 88fb7a50|Illustration Mach 5's Seven Secrets by Tatsunoko Production]] — shared language: tatsunoko, production
 - [[knowledge/wiki/images/Illustration Impasto Painting of Speed Racer and Mach 5 a1bd195d|Illustration Impasto Painting of Speed Racer and Mach 5]] — shared language: racer, speed
 <!-- vault-crosslinks:end -->

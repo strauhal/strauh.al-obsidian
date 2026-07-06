@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/alexander_laktio
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: soldier
 - [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander roslin|Artist - alexander roslin]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: alexander
+- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 
 - [[knowledge/wiki/images/Illustration Two Stylized Black Cats on a Pink Background b3fafadc|Illustration Two Stylized Black Cats on a Pink Background]] — shared language: pink, background
 - [[knowledge/wiki/images/Illustration Abstract Digital Shapes and Lines on Pink Background 40cd0107|Illustration Abstract Digital Shapes and Lines on Pink Background]] — shared language: pink, background
-- [[knowledge/wiki/images/Illustration Stylized Illustration of a City with Many Towers Under a Sun 5bc79cab|Illustration Stylized Illustration of a City with Many Towers Under a Sun]] — shared language: towers
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge Towers Under Construction 68c8ac5c|Photograph Golden Gate Bridge Towers Under Construction]] — shared language: towers
+- [[knowledge/wiki/images/The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains 755a7767|The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains]] — shared language: skeletal
 - [[knowledge/wiki/images/Illustration Pixel Art of Skeletal Demon and Haloed Figure 338b7f04|Illustration Pixel Art of Skeletal Demon and Haloed Figure]] — shared language: skeletal
+- [[knowledge/wiki/images/Illustration Abstract Pink and White Particle Forms on Black Background 4c11fb99|Illustration Abstract Pink and White Particle Forms on Black Background]] — shared language: pink, background
 <!-- vault-crosslinks:end -->

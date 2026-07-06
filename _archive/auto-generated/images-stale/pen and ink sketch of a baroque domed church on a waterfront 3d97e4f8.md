@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, ink
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: domed
 - [[knowledge/wiki/images/Illustration Pen And Ink Sketch Of Three Figures In Conversation 24e6f821|Illustration Pen And Ink Sketch Of Three Figures In Conversation]] — shared language: pen, sketch, ink
 - [[_archive/auto-generated/images-stale/pen and ink sketch of three figures in conversation c58d12cc|pen and ink sketch of three figures in conversation]] — shared language: pen, sketch, ink
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: domed
 - [[knowledge/wiki/images/Illustration Pen and Ink Sketch of a Bearded Man Wearing a Cap 22c6b506|Illustration Pen and Ink Sketch of a Bearded Man Wearing a Cap]] — shared language: pen, sketch, ink
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier 3af7404f|Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: documents, raised, soldier
+- [[knowledge/wiki/images/Man With Raised Hands Holding Documents Walks Past Female Soldier 55fb4398|Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: documents, raised, past
+- [[_archive/auto-generated/images-stale/Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier 3af7404f|Photograph Man With Raised Hands Holding Documents Walks Past Female Soldier]] — shared language: documents, raised, past
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised, hands
-- [[_archive/auto-generated/images-stale/black and white photograph of an older man seated with both hands raised 27023b77|black and white photograph of an older man seated with both hands raised]] — shared language: raised, hands
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised, hands
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised, hands
 <!-- vault-crosslinks:end -->

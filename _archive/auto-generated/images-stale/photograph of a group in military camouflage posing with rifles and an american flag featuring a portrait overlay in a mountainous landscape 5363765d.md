@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Group In Military Camouflage Posing With Rifles And American Flag In Mountains 0dd8b14e|Photograph Group In Military Camouflage Posing With Rifles And American Flag In Mountains]] — shared language: camouflage, rifles, posing
+- [[knowledge/wiki/images/Group In Military Camouflage Posing With Rifles And American Flag In Mountains 73b55a5a|Group In Military Camouflage Posing With Rifles And American Flag In Mountains]] — shared language: camouflage, rifles, military
+- [[_archive/auto-generated/images-stale/Photograph Group In Military Camouflage Posing With Rifles And American Flag In Mountains 0dd8b14e|Photograph Group In Military Camouflage Posing With Rifles And American Flag In Mountains]] — shared language: camouflage, rifles, military
 - [[knowledge/wiki/images/Illustration Mountainous Landscape with Figures and Oxen at Sunset 9133d817|Illustration Mountainous Landscape with Figures and Oxen at Sunset]] — shared language: mountainous, landscape
-- [[knowledge/wiki/images/Photograph Two Soldiers Sitting in a Mountainous Landscape a58b549a|Photograph Two Soldiers Sitting in a Mountainous Landscape]] — shared language: mountainous, landscape, landscape.jpg
-- [[_archive/auto-generated/images-stale/photograph of a man and a woman posing 9cbbcba4|photograph of a man and a woman posing]] — shared language: posing
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: posing, group
+- [[_archive/auto-generated/images-stale/Photograph Two Soldiers Sitting in a Mountainous Landscape a58b549a|Photograph Two Soldiers Sitting in a Mountainous Landscape]] — shared language: mountainous, landscape, landscape.jpg
+- [[knowledge/wiki/images/Two Soldiers Sitting in a Mountainous Landscape 35fdaaef|Two Soldiers Sitting in a Mountainous Landscape]] — shared language: mountainous, landscape, landscape.jpg
 <!-- vault-crosslinks:end -->

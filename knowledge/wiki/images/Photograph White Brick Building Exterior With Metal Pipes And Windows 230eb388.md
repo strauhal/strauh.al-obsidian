@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Whi
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: brick, building
-- [[knowledge/wiki/images/Photograph Colorful Building Exterior with Red Sky and Strong Shadows 6560fe2d|Photograph Colorful Building Exterior with Red Sky and Strong Shadows]] — shared language: exterior, building
-- [[knowledge/wiki/images/Photograph Modern White Building with Curved Architecture and Large Windows d9a56800|Photograph Modern White Building with Curved Architecture and Large Windows]] — shared language: windows, building, windows.jpeg
+- [[knowledge/wiki/images/Colorful Building Exterior with Red Sky and Strong Shadows 4dbf3f07|Colorful Building Exterior with Red Sky and Strong Shadows]] — shared language: exterior, building
+- [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: windows, building, windows.jpeg
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: windows, building, windows.jpeg
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - goran tomasevic|Artist - Goran Tomasevic]] — named in this note
+- [[knowledge/wiki/artists/Artist - Goran Tomasevic|Artist - Goran Tomasevic]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - goran tomasevic|Artist - Goran Tomasevic]] — shared language: goran, tomasevic, syrian
 - [[knowledge/wiki/images/Photograph Syrian Rebel in Suit Holds Rifle in Aleppo Street by Goran Tomasevic e726b447|Photograph Syrian Rebel in Suit Holds Rifle in Aleppo Street by Goran Tomasevic]] — shared language: goran, tomasevic, syrian
 - [[knowledge/wiki/images/Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle 7da63720|Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle]] — shared language: rifle, suit
-- [[knowledge/wiki/images/Photograph Two Pilots Inspecting Fighter Jet with Nose Art 9c1f9042|Photograph Two Pilots Inspecting Fighter Jet with Nose Art]] — shared language: fighter
-- [[knowledge/wiki/images/Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar 75c60b3c|Photograph Shinto Blessing Ceremony for a Fighter Jet in a Hangar]] — shared language: fighter
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 <!-- vault-crosslinks:end -->

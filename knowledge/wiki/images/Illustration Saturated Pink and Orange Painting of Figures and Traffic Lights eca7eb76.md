@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: lights
+- [[knowledge/wiki/images/Man's Head Reflected With Traffic Lights In Window 886b5f88|Man's Head Reflected With Traffic Lights In Window]] — shared language: traffic, lights
 - [[knowledge/wiki/images/Illustration Highly Saturated Abstract Portrait Of A Woman 7f141f4c|Illustration Highly Saturated Abstract Portrait Of A Woman]] — shared language: saturated
 - [[knowledge/wiki/images/Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water 5ae95de7|Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water]] — shared language: orange, pink
 - [[knowledge/wiki/images/Illustration Highly Saturated Hillside Cityscape With Purple Cacti And Orange Sky 1595a1e6|Illustration Highly Saturated Hillside Cityscape With Purple Cacti And Orange Sky]] — shared language: saturated, orange
-- [[knowledge/wiki/images/Illustration Abstract Painting with Pink Floral Shapes on Orange and Green Background dc9333ad|Illustration Abstract Painting with Pink Floral Shapes on Orange and Green Background]] — shared language: orange, pink
-- [[knowledge/wiki/images/Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting f392c91e|Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting]] — shared language: orange, pink
 <!-- vault-crosslinks:end -->

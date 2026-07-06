@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - Cat w
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Illustration Muscular Man with Spear Standing Next to Lion by Robert G. K. (R.G.K.) 0958651e|Illustration Muscular Man with Spear Standing Next to Lion by Robert G. K. (R.G.K.)]] — shared language: muscular, standing
 - [[knowledge/wiki/images/standing nude arms crossed behind her back by gustav klimt c 1910 1912 b8701ab5|standing nude arms crossed behind her back by gustav klimt c 1910 1912]] — shared language: arms, standing
-- [[knowledge/wiki/images/Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall d885d785|Photograph Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: standing, human
+- [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: arms
+- [[knowledge/wiki/images/Distressed Silhouette Of A Standing Human Figure On A Yellow Wall c98bbe73|Distressed Silhouette Of A Standing Human Figure On A Yellow Wall]] — shared language: standing, human
 <!-- vault-crosslinks:end -->

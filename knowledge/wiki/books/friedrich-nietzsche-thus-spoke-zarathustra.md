@@ -9,8 +9,8 @@ metadata: curated
 aliases: [thus spoke zarathustra]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/thus spoke zarathustra.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Thus Spoke Zarathustra

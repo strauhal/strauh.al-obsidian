@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - Carlos Torres|Artist - Carlos Torres]] — shared language: carlos
 - [[knowledge/wiki/images/Casadores by Carlos Torres c3441b02|Casadores by Carlos Torres]] — shared language: carlos
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: traditional
-- [[knowledge/wiki/images/Photograph Man using Apple II computer in kitchen, woman in background ae28fcbc|Photograph Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
+- [[knowledge/wiki/images/Man using Apple II computer in kitchen, woman in background c941dc90|Man using Apple II computer in kitchen, woman in background]] — shared language: kitchen
 <!-- vault-crosslinks:end -->

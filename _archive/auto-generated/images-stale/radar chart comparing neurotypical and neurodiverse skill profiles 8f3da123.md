@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles 3feaf279|Diagram Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles]] — shared language: radar, skill, profiles
+- [[knowledge/wiki/images/Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles a83f3049|Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles]] — named in this note
+- [[_archive/auto-generated/images-stale/Diagram Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles 3feaf279|Diagram Radar Chart Comparing Neurotypical and Neurodiverse Skill Profiles]] — shared language: radar, skill, profiles
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: skill
-- [[knowledge/wiki/books/peter-hollins-the-science-of-rapid-skill-acquisition-pkcs-media-inc|The Science of Rapid Skill Acquisition-Pkcs Media, Inc.]] — shared language: skill
 - [[_archive/auto-generated/images-stale/black and white photomontage of overlapping human profiles 3ea5543f|black and white photomontage of overlapping human profiles]] — shared language: profiles
-- [[_archive/auto-generated/images-stale/framed grid of black and white head profiles e54dff33|framed grid of black and white head profiles]] — shared language: profiles
+- [[knowledge/wiki/books/peter-hollins-the-science-of-rapid-skill-acquisition-pkcs-media-inc|The Science of Rapid Skill Acquisition-Pkcs Media, Inc.]] — shared language: skill
 <!-- vault-crosslinks:end -->

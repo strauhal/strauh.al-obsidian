@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Three Stylized Figures 79ec4642|Illustration Black and White Drawing of Three Stylized Figures]] — shared language: three, stylized
 - [[knowledge/wiki/images/Illustration Surreal Painting with Figures, Crabs, Violin, and Playing Cards 7cf05326|Illustration Surreal Painting with Figures, Crabs, Violin, and Playing Cards]] — shared language: cards, cards.jpeg
-- [[knowledge/wiki/images/Photograph Young Man Sitting in Wicker Chair Indoors 8d5e5542|Photograph Young Man Sitting in Wicker Chair Indoors]] — shared language: indoors
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background 1a790fc0|Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background]] — shared language: three, stylized
+- [[knowledge/wiki/images/Three Shirtless Young Men With Trading Cards Flying From Ceiling Fan e113aff6|Three Shirtless Young Men With Trading Cards Flying From Ceiling Fan]] — shared language: cards, three
 <!-- vault-crosslinks:end -->

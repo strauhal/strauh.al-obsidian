@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Pencil Figure Studies of Seated Nude Figures 12ca1dba|Illustration Two Pencil Figure Studies of Seated Nude Figures]] — shared language: studies, seated, nude
+- [[knowledge/wiki/images/Illustration Two Pencil Figure Studies of Seated Nude Figures 12ca1dba|Illustration Two Pencil Figure Studies of Seated Nude Figures]] — shared language: studies, seated, pencil
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies

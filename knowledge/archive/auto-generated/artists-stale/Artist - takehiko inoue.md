@@ -23,10 +23,10 @@ Images attributed by filename: 2
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Takehiko Inoue|Artist - Takehiko Inoue]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a bearded man in kimono holding a sword by takehiko inoue 490d6eb8|black and white ink drawing of a bearded man in kimono holding a sword by takehiko inoue]] — shared language: takehiko, inoue
 - [[_archive/auto-generated/images-stale/panel from the manga vagabond depicting miyamoto musashi in a dynamic sword stance by takehiko inoue 53bf0be9|panel from the manga vagabond depicting miyamoto musashi in a dynamic sword stance by takehiko inoue]] — shared language: takehiko, inoue, vagabond
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, comic
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: takehiko, inoue, comic
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand
 - [[knowledge/archive/auto-generated/anchors-stale/artist-a-human-hand|Artist - a human hand]] — shared language: hand
 <!-- vault-crosslinks:end -->

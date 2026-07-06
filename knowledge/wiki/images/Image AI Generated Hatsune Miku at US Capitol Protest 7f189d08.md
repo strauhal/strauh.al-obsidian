@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - AI-Ge
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
-- [[knowledge/wiki/images/Photograph Crowd at Washington Monument and Capitol Reflecting Pool 7e439af8|Photograph Crowd at Washington Monument and Capitol Reflecting Pool]] — shared language: capitol
-- [[knowledge/wiki/images/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
-- [[knowledge/wiki/images/Photograph Vandalized Waymo Self Driving Car During Protest bfe7b90e|Photograph Vandalized Waymo Self Driving Car During Protest]] — shared language: protest, protest.webp
-- [[knowledge/wiki/images/Photograph Protest Signs Against Government Hacking and Elon Musk 31411221|Photograph Protest Signs Against Government Hacking and Elon Musk]] — shared language: protest
+- [[knowledge/wiki/images/Photograph of a Billboard with AI Artist Protest Message 578f8d9b|Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
+- [[knowledge/wiki/images/Crowd at Washington Monument and Capitol Reflecting Pool 20437650|Crowd at Washington Monument and Capitol Reflecting Pool]] — shared language: capitol
+- [[knowledge/wiki/images/Man Holding Protest Signs At Outdoor Gathering cd4a257a|Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
+- [[knowledge/wiki/images/Vandalized Waymo Self Driving Car During Protest 99ff9590|Vandalized Waymo Self Driving Car During Protest]] — shared language: protest, protest.webp
+- [[knowledge/wiki/images/the avenue looking north from the new york state capitol albany n y by detroit publishing co 1900 1910 8ee6890a|the avenue looking north from the new york state capitol albany n y by detroit publishing co 1900 1910]] — shared language: capitol
 <!-- vault-crosslinks:end -->

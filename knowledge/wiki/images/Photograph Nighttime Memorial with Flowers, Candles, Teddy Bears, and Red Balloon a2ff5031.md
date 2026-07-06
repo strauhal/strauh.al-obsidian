@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Nig
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: memorial
 - [[knowledge/wiki/artists/Artist - Candles|Artist - Candles]] — shared language: candles
 - [[knowledge/wiki/images/Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees 0e2923aa|Illustration Nighttime Cityscape with Buildings, Streetlights, and Trees]] — shared language: nighttime
-- [[knowledge/wiki/images/Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page d4b44a3b|Photograph Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: memorial
 - [[knowledge/wiki/images/Illustration Stylized Figures and Teddy Bear in Plaid Patterns 74e14a5c|Illustration Stylized Figures and Teddy Bear in Plaid Patterns]] — shared language: teddy
-- [[knowledge/wiki/images/Illustration Stylized View of Lighthouse on Hill with Memorial Bench c048fae5|Illustration Stylized View of Lighthouse on Hill with Memorial Bench]] — shared language: memorial
+- [[knowledge/wiki/images/Black and White Portrait of Steve Jobs on Apple Memorial Page 46f19871|Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: memorial
 <!-- vault-crosslinks:end -->

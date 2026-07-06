@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Donald Trump and Official View Trump Mugshot T Shirt Display 039ce2ab|Photograph Donald Trump and Official View Trump Mugshot T Shirt Display]] — shared language: official, view
 - [[knowledge/wiki/images/john linnell the summer sea 1856 5e67de7a|john linnell the summer sea 1856]] — shared language: summer
 - [[knowledge/wiki/artists/Artist - vincent van gogh summer|Artist - vincent van gogh summer]] — shared language: summer
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: poster
+- [[knowledge/wiki/images/Summer Clouds by Hiroshi Nagai (1980) 9982aef6|Summer Clouds by Hiroshi Nagai (1980)]] — shared language: summer
 <!-- vault-crosslinks:end -->

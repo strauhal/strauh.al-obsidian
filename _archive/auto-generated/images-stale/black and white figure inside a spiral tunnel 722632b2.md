@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/tunnel b080ddec|tunnel]] — named in this note
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: inside
+- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
 - [[knowledge/wiki/images/Illustration Pixel Art Of Figure In Tunnel And Arched View ae9c36ff|Illustration Pixel Art Of Figure In Tunnel And Arched View]] — shared language: tunnel
-- [[_archive/auto-generated/images-stale/black and white photograph of a glass spiral staircase from above e45ac679|black and white photograph of a glass spiral staircase from above]] — shared language: spiral
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral
 - [[knowledge/wiki/images/Photograph Minimalist White Tunnel With Statue Holding Black Flag 8453cb88|Photograph Minimalist White Tunnel With Statue Holding Black Flag]] — shared language: tunnel
 <!-- vault-crosslinks:end -->

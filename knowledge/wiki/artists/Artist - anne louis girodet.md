@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/portrait of madame de saint morys by anne louis girodet de roussy trioson 1806 1a0bf42a|portrait of madame de saint morys by anne louis girodet de roussy trioson 1806]] — shared language: girodet, anne, louis
 - [[knowledge/wiki/images/Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799) 5811c42a|Portrait of Mlle. Lange as Danae by Anne Louis Girodet de Roussy Trioson (1799)]] — shared language: girodet, anne, louis
 - [[knowledge/wiki/images/Sunlight on the Door Knob by Anne Beland (2023) d78b31fc|Sunlight on the Door Knob by Anne Beland (2023)]] — shared language: anne
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
 <!-- vault-crosslinks:end -->

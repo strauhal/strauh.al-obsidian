@@ -7,8 +7,8 @@ status: queued
 queue_order: 41
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Bruckner: Piano Works
@@ -37,5 +37,5 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-scriabin-the-complete-preludes-for-piano|Listening - Scriabin: The Complete Preludes for Piano]] — shared language: listening, piano, current
 - [[Welcome|strauh.al Knowledge Base]] — shared language: works, current, culture
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: works, current, culture
-- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: piano, works, current
+- [[knowledge/wiki/culture/music-computer-world|Listening - Computer World]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

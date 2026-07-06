@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
-- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: one
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: one
 <!-- vault-crosslinks:end -->

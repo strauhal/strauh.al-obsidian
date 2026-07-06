@@ -21,7 +21,7 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: orbiting, space
-- [[knowledge/wiki/images/Photograph Men in Suits Raising Hands in a Large Assembly Hall 2883973e|Photograph Men in Suits Raising Hands in a Large Assembly Hall]] — shared language: assembly
+- [[knowledge/wiki/images/Men in Suits Raising Hands in a Large Assembly Hall c1fbeaa4|Men in Suits Raising Hands in a Large Assembly Hall]] — shared language: assembly
 - [[knowledge/wiki/images/shakyamuni buddha and the assembly of the arhats 18th century c5cde75d|shakyamuni buddha and the assembly of the arhats 18th century]] — shared language: assembly
 - [[knowledge/wiki/images/great architecture in chicago poster for container corporation of america by john massey 1966 b8f1ac96|great architecture in chicago poster for container corporation of america by john massey 1966]] — shared language: corporation
 - [[knowledge/wiki/books/technically-man-dwells-upon-this-earth|Technically, Man Dwells Upon This Earth]] — shared language: earth

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/bruce_nauman_sus
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - bruce davidson|Artist - bruce davidson]] — shared language: bruce
+- [[knowledge/wiki/artists/Artist - Bruce Weber|Artist - Bruce Weber]] — shared language: bruce
 - [[knowledge/wiki/images/subway by bruce davidson 1980 cdf59370|subway by bruce davidson 1980]] — shared language: bruce
 - [[knowledge/wiki/images/Photograph Silhouette of Person Suspended on Power Lines at Sunset 06e62df5|Photograph Silhouette of Person Suspended on Power Lines at Sunset]] — shared language: suspended
-- [[knowledge/wiki/images/Photograph Performer On Suspended Stage Above Crowd At Concert e91f3354|Photograph Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended
-- [[knowledge/wiki/images/boy with glove times square new york by bruce davidson 1980 8427f886|boy with glove times square new york by bruce davidson 1980]] — shared language: bruce
+- [[knowledge/wiki/images/Performer On Suspended Stage Above Crowd At Concert 99525c2c|Performer On Suspended Stage Above Crowd At Concert]] — shared language: suspended
 <!-- vault-crosslinks:end -->

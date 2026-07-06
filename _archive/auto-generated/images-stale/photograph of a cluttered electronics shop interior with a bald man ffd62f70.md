@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cluttered Electronics Shop Interior With Bald Man d2dc1882|Photograph Cluttered Electronics Shop Interior With Bald Man]] — shared language: electronics, bald, shop
+- [[knowledge/wiki/images/Cluttered Electronics Shop Interior With Bald Man ef1f6424|Cluttered Electronics Shop Interior With Bald Man]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Cluttered Electronics Shop Interior With Bald Man d2dc1882|Photograph Cluttered Electronics Shop Interior With Bald Man]] — shared language: electronics, bald, shop
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: electronics, shop
 - [[_archive/auto-generated/images-stale/night photo of a shop window with white interior 13db62c2|night photo of a shop window with white interior]] — shared language: shop, interior
-- [[knowledge/wiki/images/Photograph Night Photo of a Shop Window with White Interior 1abda67b|Photograph Night Photo of a Shop Window with White Interior]] — shared language: shop, interior
 <!-- vault-crosslinks:end -->

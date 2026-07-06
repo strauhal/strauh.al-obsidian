@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: harry
 - [[knowledge/wiki/books/walter-benjamin-hannah-arendt-hannah-arendt-harry-zohn-illuminations-essays-and-reflections|Illuminations Essays and Reflections]] — shared language: harry
 - [[knowledge/wiki/books/nick-land-fanged-noumena-collected-writings-1987-2007-urbanomic-sequence-press|Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press]] — shared language: land
-- [[knowledge/wiki/anchors/nick-land|Nick Land]] — shared language: land
+- [[knowledge/wiki/images/LOSS OF LAND 991713f3|LOSS OF LAND]] — shared language: land
 <!-- vault-crosslinks:end -->

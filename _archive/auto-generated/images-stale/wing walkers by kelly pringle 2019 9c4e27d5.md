@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle 2019|Artist - kelly pringle 2019]] — named in this note
+- [[knowledge/wiki/artists/Artist - Kelly Pringle|Artist - Kelly Pringle]] — named in this note
 - [[knowledge/wiki/images/Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle 34d16624|Illustration Four Cats Sitting on Airplane Wing Over Fields by Kelly Pringle]] — same artist: kelly pringle
 - [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
 <!-- vault-crosslinks:end -->

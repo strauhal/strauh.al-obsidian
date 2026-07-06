@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange 608686be|Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: houston, siena, interchange
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, highway
+- [[knowledge/wiki/images/Aerial Comparison of Siena City Center and Houston Highway Interchange be855b27|Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: houston, siena, interchange
+- [[_archive/auto-generated/images-stale/Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange 608686be|Diagram Aerial Comparison of Siena City Center and Houston Highway Interchange]] — shared language: houston, siena, interchange
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, center
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city
 - [[knowledge/wiki/books/paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] — shared language: graphic, city
-- [[knowledge/wiki/images/Illustration Woman Floats Above Highway Interchange With Parody Brand Signs b0c9a5f9|Illustration Woman Floats Above Highway Interchange With Parody Brand Signs]] — shared language: interchange, highway
-- [[_archive/auto-generated/images-stale/aerial photograph of a city grid at night dd14d761|aerial photograph of a city grid at night]] — shared language: aerial, city
 <!-- vault-crosslinks:end -->

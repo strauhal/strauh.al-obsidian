@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 
 - [[knowledge/wiki/images/Illustration Colorful Patchwork Flag Flying Against Blue Sky (2) 0f7fa6aa|Illustration Colorful Patchwork Flag Flying Against Blue Sky (2)]] — shared language: patchwork, flag, flying
 - [[knowledge/wiki/images/Photograph Grid of Small Birds Flying Against Cloudy Blue Sky 759358f4|Photograph Grid of Small Birds Flying Against Cloudy Blue Sky]] — shared language: flying, against, sky
-- [[knowledge/wiki/images/Photograph Silhouette Of A Cat Against A Colorful Sunset Sky 22fa7b40|Photograph Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: colorful, against, sky
+- [[knowledge/wiki/images/Silhouette Of A Cat Against A Colorful Sunset Sky 08bfb852|Silhouette Of A Cat Against A Colorful Sunset Sky]] — shared language: colorful, against, sky
 - [[knowledge/wiki/images/Illustration White Dove and Bat Flying Against Dark Background 74eaf8c4|Illustration White Dove and Bat Flying Against Dark Background]] — shared language: flying, against
-- [[knowledge/wiki/images/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, against
+- [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: flag, against
 <!-- vault-crosslinks:end -->

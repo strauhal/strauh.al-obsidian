@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - You
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Steve Jobs Posing with Macintosh Computers at Event 1167a7b0|Photograph Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, steve, posing
-- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs, steve
+- [[knowledge/wiki/images/Steve Jobs Posing with Macintosh Computers at Event dbdea80b|Steve Jobs Posing with Macintosh Computers at Event]] — shared language: jobs, steve, posing
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: jobs
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: jobs
-- [[knowledge/wiki/images/Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson 748f2929|Photograph Black and White Portraits of Young and Older Steve Jobs by Albert Watson]] — shared language: jobs, steve, young
+- [[knowledge/wiki/images/Black and White Portraits of Young and Older Steve Jobs by Albert Watson 2feee9b0|Black and White Portraits of Young and Older Steve Jobs by Albert Watson]] — shared language: jobs, steve, young
+- [[knowledge/wiki/images/Black and White Portrait of Steve Jobs on Apple Memorial Page 46f19871|Black and White Portrait of Steve Jobs on Apple Memorial Page]] — shared language: jobs, steve
 <!-- vault-crosslinks:end -->

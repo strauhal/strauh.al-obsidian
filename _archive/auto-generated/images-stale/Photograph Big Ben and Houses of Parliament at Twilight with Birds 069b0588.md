@@ -1,0 +1,33 @@
+---
+title: "Photograph Big Ben and Houses of Parliament at Twilight with Birds"
+source_kind: "image"
+source_file: "/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Big Ben and Houses of Parliament at Twilight with Birds.jpeg"
+source_relpath: "photography/Photograph - Big Ben and Houses of Parliament at Twilight with Birds.jpeg"
+collection: "photography"
+inferred_year: ""
+artist: ""
+dimensions: ""
+compiled: "True"
+tags: ["strauhal", "source/image", "collection/photography"]
+---
+# Photograph Big Ben and Houses of Parliament at Twilight with Birds
+
+![[media/strauh.al3.1/photography/Photograph - Big Ben and Houses of Parliament at Twilight with Birds.jpeg]]
+
+Collection: [[Collection - photography]]
+
+Artist: Unknown
+
+Source: [[media/strauh.al3.1/photography/Photograph - Big Ben and Houses of Parliament at Twilight with Birds.jpeg|source file]]
+
+Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph - Big Ben and Houses of Parliament at Twilight with Birds.jpeg`
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/Big Ben and Houses of Parliament at Twilight with Birds f79a686c|Big Ben and Houses of Parliament at Twilight with Birds]] — named in this note
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: big
+- [[_archive/auto-generated/images-stale/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: parliament, houses
+- [[knowledge/wiki/images/The Houses of Parliament, Sunset by Claude Monet (1903) e58ff7ba|The Houses of Parliament, Sunset by Claude Monet (1903)]] — shared language: parliament, houses
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+<!-- vault-crosslinks:end -->

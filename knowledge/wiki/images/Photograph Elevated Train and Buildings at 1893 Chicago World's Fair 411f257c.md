@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Ele
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of the Administration Building at a World's Fair 65e047d7|Photograph Black and White Photograph of the Administration Building at a World's Fair]] — shared language: fair, world's, fair.jpg
-- [[knowledge/wiki/images/Photograph Green And White Train On Elevated Tracks In Chicago Skyline 76c51897|Photograph Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: elevated, buildings
+- [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/images/World's Columbian Exposition, Chicago (1893) 054ec074|World's Columbian Exposition, Chicago (1893)]] — shared language: world's, chicago
 <!-- vault-crosslinks:end -->

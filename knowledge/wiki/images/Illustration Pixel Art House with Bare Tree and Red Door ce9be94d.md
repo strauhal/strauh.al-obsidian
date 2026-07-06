@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Illustration Line Drawing of a Bare Tree with Small Objects Hanging 7686b399|Illustration Line Drawing of a Bare Tree with Small Objects Hanging]] — shared language: bare, tree
 - [[knowledge/wiki/images/Illustration Black And White ASCII Art Of A House And Tree 4f37e911|Illustration Black And White ASCII Art Of A House And Tree]] — shared language: house, tree
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
-- [[knowledge/wiki/images/Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 065caf42|Photograph Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: bare, tree
-- [[knowledge/wiki/images/Photograph Rainbow Gadsden Flag Hanging From Tree In Front Of House 4379d29f|Photograph Rainbow Gadsden Flag Hanging From Tree In Front Of House]] — shared language: tree, house
+- [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: bare, tree
+- [[knowledge/wiki/images/Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night 48c16123|Looking Up At Illuminated Skyscrapers And Bare Tree Branches At Night]] — shared language: bare, tree
 <!-- vault-crosslinks:end -->

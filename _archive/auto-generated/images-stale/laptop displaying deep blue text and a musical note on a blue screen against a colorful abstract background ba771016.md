@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: displaying, screen, text
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
-- [[_archive/auto-generated/images-stale/photograph of a screen displaying a text post from an online forum 2014 2382e881|photograph of a screen displaying a text post from an online forum 2014]] — shared language: displaying, screen, text
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: deep
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: deep
 <!-- vault-crosslinks:end -->

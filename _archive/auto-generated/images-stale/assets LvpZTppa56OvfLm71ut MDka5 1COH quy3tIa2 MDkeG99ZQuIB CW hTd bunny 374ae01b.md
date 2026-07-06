@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Four 3D Polygon Models of a Bunny with Varying Detail cde852ab|Diagram Four 3D Polygon Models of a Bunny with Varying Detail]] — shared language: bunny
+- [[knowledge/wiki/images/Four 3D Polygon Models of a Bunny with Varying Detail 2f28c032|Four 3D Polygon Models of a Bunny with Varying Detail]] — shared language: bunny
+- [[_archive/auto-generated/images-stale/Diagram Four 3D Polygon Models of a Bunny with Varying Detail cde852ab|Diagram Four 3D Polygon Models of a Bunny with Varying Detail]] — shared language: bunny
 - [[_archive/auto-generated/images-stale/assemblage of clothing and objects including an assault rifle a book and a t shirt reading i have a gun and am schizophrenic 7362dda2|assemblage of clothing and objects including an assault rifle a book and a t shirt reading i have a gun and am schizophrenic]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/at prayer jpg d2f84efc|at prayer jpg]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

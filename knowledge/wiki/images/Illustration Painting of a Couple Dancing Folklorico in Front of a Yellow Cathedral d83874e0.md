@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/couple 7689bc6f|couple]] — named in this note
 - [[knowledge/wiki/images/Photograph Cologne Cathedral 7aed0b7d|Photograph Cologne Cathedral]] — shared language: cathedral, cathedral.jpeg
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: couple
 - [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
+- [[knowledge/wiki/images/Couple in Small Motorboat on Water ba1facad|Couple in Small Motorboat on Water]] — shared language: couple
+- [[knowledge/wiki/images/Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers 510a82e6|Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers]] — shared language: dancing
 <!-- vault-crosslinks:end -->

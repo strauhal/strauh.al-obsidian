@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/On Love and Barley_ Haiku of Basho (Penguin Classics) -- Bashō Matsuo; Lucien Stryk -- 1986;1985 -- Penguin Books Ltd -- isbn13 9780140444599 -- 3268516241ae906d9e811df045bea9f4 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # On Love and Barley Haiku of Basho (Penguin Classics)

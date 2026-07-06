@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jessica Bruder - Nomadland_ Surviving America in the Twenty-First Century-W. W. Norton & Company (2017).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Nomadland Surviving America in the Twenty-First Century-W. W. Norton & Company
@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/m-h-abrams-the-norton-anthology-of-english-literature-vol-1-4th-edition|The Norton Anthology of English Literature, Vol. 1, 4th Edition]] — same category: unsorted
-- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
 - [[knowledge/wiki/books/jared-diamond-guns-germs-and-steel-the-fates-of-human-societies|Guns, Germs and Steel The Fates of Human Societies]] — same category: unsorted
+- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
 - [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
-- [[knowledge/wiki/books/1622209317013|1622209317013]] — same category: unsorted
 <!-- vault-crosslinks:end -->

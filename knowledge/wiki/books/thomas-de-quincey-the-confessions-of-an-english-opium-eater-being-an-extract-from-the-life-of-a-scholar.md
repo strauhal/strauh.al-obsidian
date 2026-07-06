@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Thomas De Quincey - The Confessions of an English Opium Eater_ Being an Extract from the Life of a Scholar.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Confessions of an English Opium Eater Being an Extract from the Life of a Scholar
@@ -41,8 +41,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/m-h-abrams-the-norton-anthology-of-english-literature-vol-1-4th-edition|The Norton Anthology of English Literature, Vol. 1, 4th Edition]] — same category: unsorted
 - [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — same category: unsorted
 - [[knowledge/wiki/books/thomas-moynihan-spinal-catastrophism|Spinal Catastrophism]] — same category: unsorted
+- [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
-- [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
 <!-- vault-crosslinks:end -->

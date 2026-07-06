@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald.webp]]
+![[media/strauh.al3.1/diagrams/Relationship_Between_Happiness_And_Age_Across_Surveys_by_Blanchflower_and_Oswald.webp]]
 
 ## Image Notes
 
-- [[Diagram Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald b6117756|Diagram Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald]]
+- [[Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald 3fb39410|Relationship Between Happiness And Age Across Surveys by Blanchflower and Oswald]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

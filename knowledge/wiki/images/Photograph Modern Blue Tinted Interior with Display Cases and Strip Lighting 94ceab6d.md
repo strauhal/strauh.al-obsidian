@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mod
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text 886356d1|Photograph Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text]] — shared language: tinted, modern, interior
+- [[knowledge/wiki/images/Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text a0ff4d31|Blue Tinted Modern Architectural Interior With Escalators And Overlaid Text]] — shared language: tinted, modern, interior
 - [[knowledge/wiki/images/Illustration Long Narrow Shop Interior With Display Cases, Stools, And Skylight 7458468b|Illustration Long Narrow Shop Interior With Display Cases, Stools, And Skylight]] — shared language: cases, display, interior
-- [[knowledge/wiki/images/Photograph Geometric Sculptures on Display in a Modern Art Gallery bca7de4e|Photograph Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: display, modern
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: modern, interior
-- [[knowledge/wiki/images/Photograph Modern Library Interior With Large Domed Light Fixture 41f67e0d|Photograph Modern Library Interior With Large Domed Light Fixture]] — shared language: modern, interior
+- [[knowledge/wiki/images/Geometric Sculptures on Display in a Modern Art Gallery a48bebe1|Geometric Sculptures on Display in a Modern Art Gallery]] — shared language: display, modern
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: modern, interior
+- [[knowledge/wiki/images/Interior of a shopping mall with pink lighting and fountain 75691f38|Interior of a shopping mall with pink lighting and fountain]] — shared language: lighting, interior
 <!-- vault-crosslinks:end -->

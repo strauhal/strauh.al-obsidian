@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Minimalist Photograph of a Single Tree in a Desert Landscape 4be5d872|Photograph Minimalist Photograph of a Single Tree in a Desert Landscape]] — shared language: minimalist, single, desert
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree, landscape, landscape.jpeg
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 - [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree, landscape
 - [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert, landscape, landscape.jpeg
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: single
 <!-- vault-crosslinks:end -->

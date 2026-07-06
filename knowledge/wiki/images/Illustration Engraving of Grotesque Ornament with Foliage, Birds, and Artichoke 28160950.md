@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - E
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena b1a6132c|Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena]] — shared language: ornament, foliage, birds
+- [[knowledge/wiki/images/Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena b1a6132c|Illustration Intricate Grotesque Ornament with Foliage, Birds, and Winged Creature by Francesco Villamena]] — shared language: ornament, birds, foliage
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: ornament
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[knowledge/wiki/images/artichoke picker 1961 0f33fad0|artichoke picker 1961]] — shared language: artichoke
-- [[knowledge/wiki/artists/Artist - Francesco Villamena|Artist - Francesco Villamena]] — shared language: ornament, foliage, birds
+- [[knowledge/wiki/artists/Artist - Francesco Villamena|Artist - Francesco Villamena]] — shared language: ornament, birds, foliage
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Golden Gate (1879) 2dde8620|The Golden Gate (1879)]] — named in this note
-- [[knowledge/wiki/images/Photograph Golden Gate Bridge Towers Under Construction 68c8ac5c|Photograph Golden Gate Bridge Towers Under Construction]] — shared language: gate, golden, bridge
-- [[knowledge/wiki/images/Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day 6abdc1d5|Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: gate, golden, bridge
-- [[knowledge/wiki/images/The Karaoke Torii Gate by Beno t Maubrey (2019) 17e10b1e|The Karaoke Torii Gate by Beno t Maubrey (2019)]] — shared language: gate
+- [[knowledge/wiki/images/Golden Gate Bridge Towers Under Construction f93aaa7b|Golden Gate Bridge Towers Under Construction]] — shared language: gate, golden, bridge
+- [[knowledge/wiki/images/Man Posing In Front Of Golden Gate Bridge, Sunny Day f30619f4|Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: gate, golden, bridge
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: wes
+- [[knowledge/wiki/images/The Karaoke Torii Gate by Beno t Maubrey (2019) 17e10b1e|The Karaoke Torii Gate by Beno t Maubrey (2019)]] — shared language: gate
 <!-- vault-crosslinks:end -->

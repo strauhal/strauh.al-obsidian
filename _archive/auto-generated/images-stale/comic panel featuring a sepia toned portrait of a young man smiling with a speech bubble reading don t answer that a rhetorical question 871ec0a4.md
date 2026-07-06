@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble 8913815b|Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble]] — shared language: speech, smiling, toned
+- [[knowledge/wiki/images/Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble 8913815b|Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble]] — shared language: speech, toned, smiling
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
-- [[_archive/auto-generated/images-stale/comic panel of a man in shadow with a speech bubble saying the man needs to talk to you 1d222eae|comic panel of a man in shadow with a speech bubble saying the man needs to talk to you]] — shared language: bubble, speech, panel
+- [[_archive/auto-generated/images-stale/comic panel of a man in shadow with a speech bubble saying the man needs to talk to you 1d222eae|comic panel of a man in shadow with a speech bubble saying the man needs to talk to you]] — shared language: speech, bubble, panel
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: question
 - [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: speech, bubble, comic
 <!-- vault-crosslinks:end -->

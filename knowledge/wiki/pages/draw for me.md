@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/draw_for_me.html"
 source_relpath: "draw_for_me.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # draw for me
@@ -38,6 +38,6 @@ rotatesquareundoredoclearsubmit
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, work, concepts
 - [[Welcome|strauh.al Knowledge Base]] — shared language: works, pages
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: works, pages
+- [[knowledge/wiki/images/How To Draw Text In Any Shape Tutorial 87667244|How To Draw Text In Any Shape Tutorial]] — shared language: draw
 - [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — shared language: draw, new
-- [[knowledge/private/fanmail/threads/07-draw-club|Private Correspondence - 07 - Draw club]] — shared language: draw, love
 <!-- vault-crosslinks:end -->

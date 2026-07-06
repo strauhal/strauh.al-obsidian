@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Pa
 
 - [[knowledge/wiki/anchors/bible|bible]] — named in this note
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
-- [[knowledge/wiki/images/Photograph Photograph of a Bible Page With 'The Old Testament' Title e38d1ae5|Photograph Photograph of a Bible Page With 'The Old Testament' Title]] — shared language: bible, page
+- [[knowledge/wiki/images/Photograph of a Bible Page With 'The Old Testament' Title d8b7d015|Photograph of a Bible Page With 'The Old Testament' Title]] — shared language: bible, page
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Document Exhibition Label Listing Artworks and Mediums on a White Wall 58046525|Document Exhibition Label Listing Artworks and Mediums on a White Wall]] — shared language: listing, document
+- [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
 <!-- vault-crosslinks:end -->

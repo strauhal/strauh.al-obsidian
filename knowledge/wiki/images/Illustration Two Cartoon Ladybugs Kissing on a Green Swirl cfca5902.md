@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Illustration Halftone Print of Two Figures Kissing with Text e0d30119|Illustration Halftone Print of Two Figures Kissing with Text]] — shared language: kissing
 - [[knowledge/wiki/images/Illustration Cartoon Girl Holding Green Umbrella 3625c4df|Illustration Cartoon Girl Holding Green Umbrella]] — shared language: cartoon, green
-- [[knowledge/wiki/images/Photograph Three Young People at Night, Two Kissing, One Alone 187dbbf6|Photograph Three Young People at Night, Two Kissing, One Alone]] — shared language: kissing
 - [[knowledge/wiki/images/Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red 8670b001|Illustration Colorful Abstract and Cartoon Figures in Yellow, Blue, and Red]] — shared language: cartoon
+- [[knowledge/wiki/images/Three Young People at Night, Two Kissing, One Alone c5cc7d6b|Three Young People at Night, Two Kissing, One Alone]] — shared language: kissing
 - [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: cartoon
 <!-- vault-crosslinks:end -->

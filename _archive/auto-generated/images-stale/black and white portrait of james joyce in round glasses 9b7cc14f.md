@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Photograph Sepia Photograph of a Man with Round Glasses and Goatee 4642c7cc|Photograph Sepia Photograph of a Man with Round Glasses and Goatee]] — shared language: round, glasses
 - [[_archive/auto-generated/images-stale/sepia photograph of a man with round glasses and a goatee 71dbaa23|sepia photograph of a man with round glasses and a goatee]] — shared language: round, glasses
-- [[knowledge/wiki/images/Photograph James Joyce by Berenice Abbott (2) 62f7b3b6|Photograph James Joyce by Berenice Abbott (2)]] — shared language: joyce, james
+- [[knowledge/wiki/images/James Joyce by Berenice Abbott (2) 22d2307d|James Joyce by Berenice Abbott (2)]] — shared language: joyce, james
+- [[_archive/auto-generated/images-stale/Photograph James Joyce by Berenice Abbott (2) 62f7b3b6|Photograph James Joyce by Berenice Abbott (2)]] — shared language: joyce, james
 - [[_archive/auto-generated/images-stale/round engraving of a mythological scene with figures 0352842d|round engraving of a mythological scene with figures]] — shared language: round
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of James Joyce by Berenice Abbott a05d70f9|Photograph Black And White Portrait Of James Joyce by Berenice Abbott]] — shared language: joyce, james
 <!-- vault-crosslinks:end -->

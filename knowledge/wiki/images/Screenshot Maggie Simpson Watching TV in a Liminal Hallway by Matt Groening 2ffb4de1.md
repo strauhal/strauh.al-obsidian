@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: simpson
-- [[knowledge/wiki/images/Photograph Long Hallway With Orange And White Geometric Wall Panels f0b2a7d9|Photograph Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
-- [[knowledge/wiki/images/Photograph Modern Minimalist Hallway with Mailboxes and Glass Door 675742f7|Photograph Modern Minimalist Hallway with Mailboxes and Glass Door]] — shared language: hallway
+- [[knowledge/wiki/images/Long Hallway With Orange And White Geometric Wall Panels 26467d69|Long Hallway With Orange And White Geometric Wall Panels]] — shared language: hallway
 - [[knowledge/wiki/images/Illustration Painting of a Long Arched Hallway with Strong Perspective 9df52e1f|Illustration Painting of a Long Arched Hallway with Strong Perspective]] — shared language: hallway
-- [[knowledge/wiki/images/Photograph Woman Watching World Trade Center Towers Smoking ea2b6f6c|Photograph Woman Watching World Trade Center Towers Smoking]] — shared language: watching
+- [[knowledge/wiki/images/Modern Minimalist Hallway with Mailboxes and Glass Door 83559587|Modern Minimalist Hallway with Mailboxes and Glass Door]] — shared language: hallway
+- [[knowledge/wiki/images/Grainy Black and White Photo of Person Watching Blurry Airplane 701f0370|Grainy Black and White Photo of Person Watching Blurry Airplane]] — shared language: watching
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pablo amaringo 2008|Artist - pablo amaringo 2008]] — named in this note
+- [[knowledge/wiki/artists/Artist - Pablo Amaringo|Artist - Pablo Amaringo]] — named in this note
 - [[knowledge/wiki/images/Illustration Colorful Visionary Painting with Winged Figures, Mythical Creatures, and Patterns by Pablo Amaringo 4ea404f5|Illustration Colorful Visionary Painting with Winged Figures, Mythical Creatures, and Patterns by Pablo Amaringo]] — same artist: pablo amaringo
 - [[knowledge/wiki/images/Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo 907dcc40|Illustration Vibrant Jungle Scene with Mythical Figures and Shamanic Elements by Pablo Amaringo]] — same artist: pablo amaringo
 - [[knowledge/wiki/images/El Templo de la Sabidur a by Pablo Amaringo (2008) 37b02fc2|El Templo de la Sabidur a by Pablo Amaringo (2008)]] — shared language: templo, amaringo, pablo
-- [[_archive/auto-generated/images-stale/acagalleries pablo amaringo unai shipash 2006 jpg 51114c03|acagalleries pablo amaringo unai shipash 2006 jpg]] — shared language: amaringo, pablo
 <!-- vault-crosslinks:end -->

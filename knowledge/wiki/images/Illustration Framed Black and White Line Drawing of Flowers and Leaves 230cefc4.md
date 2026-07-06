@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers 7f575245|Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers]] — shared language: leaves, flowers, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: framed, line
-- [[knowledge/wiki/images/Photograph Two Cluster Flowers Among Long Leaves 7ff0294b|Photograph Two Cluster Flowers Among Long Leaves]] — shared language: leaves, flowers
+- [[knowledge/wiki/images/Two Cluster Flowers Among Long Leaves 45f88fe6|Two Cluster Flowers Among Long Leaves]] — shared language: leaves, flowers
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Joe Madureira|Artist - Joe Madureira]] — named in this note
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Armored Figure on Rearing Horse in Ruins by Joe Madureira b9c192ae|Illustration Pencil Sketch of Armored Figure on Rearing Horse in Ruins by Joe Madureira]] — same artist: joe madureira
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: armored, sketch
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joe roberts|Artist - joe roberts]] — shared language: joe
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joe roberts 2018|Artist - joe roberts 2018]] — shared language: joe
-- [[_archive/auto-generated/images-stale/pencil sketch of a mechanical creature or armored figure with a separate head study a53e6413|pencil sketch of a mechanical creature or armored figure with a separate head study]] — shared language: armored, pencil, sketch
 <!-- vault-crosslinks:end -->

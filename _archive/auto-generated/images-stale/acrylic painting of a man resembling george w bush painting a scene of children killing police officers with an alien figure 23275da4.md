@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops 4e792313|Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops]] — shared language: bush, killing, alien
+- [[knowledge/wiki/images/Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops 4e792313|Screenshot George Bush Getting His Dick Sucked By An Alien While Painting Kids Killing Cops]] — shared language: bush, alien, killing
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/archive/auto-generated/artists-stale/Artist - police officers near a helicopter|Artist - police officers near a helicopter]] — shared language: officers, police
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — shared language: officers, police
-- [[knowledge/archive/auto-generated/artists-stale/Artist - police|Artist - Police]] — shared language: police
+- [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: officers
 <!-- vault-crosslinks:end -->

@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Black and Red Fantasy Illustration of Dragon and Heroes fb5a3076|Illustration Black and Red Fantasy Illustration of Dragon and Heroes]] — shared language: heroes, dragon
 - [[knowledge/wiki/images/the dragon slayer by frank frazetta 1982 15ff1d44|the dragon slayer by frank frazetta 1982]] — shared language: slayer, dragon
 - [[knowledge/wiki/images/dragon slayer by yoshikazu yasuhiko 1983 53636930|dragon slayer by yoshikazu yasuhiko 1983]] — shared language: slayer, dragon
-- [[knowledge/wiki/images/Diagram Colorful QR Code Structure Diagram With Legend ae8ca8d2|Diagram Colorful QR Code Structure Diagram With Legend]] — shared language: legend
+- [[knowledge/wiki/images/Colorful QR Code Structure Diagram With Legend a9f2ddc7|Colorful QR Code Structure Diagram With Legend]] — shared language: legend
 - [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: dragon
 - [[knowledge/wiki/images/marcus curtius on horseback from the roman heroes by hendrick goltzius 1586 b6312dc1|marcus curtius on horseback from the roman heroes by hendrick goltzius 1586]] — shared language: heroes
 <!-- vault-crosslinks:end -->

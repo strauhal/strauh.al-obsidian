@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 - [[knowledge/wiki/images/Illustration Horseman in Red Cloak on White Horse at Stone Well 4e00df5e|Illustration Horseman in Red Cloak on White Horse at Stone Well]] — shared language: stone, well
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: well
 - [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: horses, landscape
-- [[knowledge/wiki/artists/Artist - David Stone Martin|Artist - David Stone Martin]] — shared language: stone
+- [[knowledge/wiki/images/Illustration Rocky Landscape with Kneeling Figure, Tomb, Skeleton, and Distant City fb635cd6|Illustration Rocky Landscape with Kneeling Figure, Tomb, Skeleton, and Distant City]] — shared language: rocky, landscape
 <!-- vault-crosslinks:end -->

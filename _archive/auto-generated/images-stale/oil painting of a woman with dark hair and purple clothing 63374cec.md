@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair, dark
 - [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: hair, dark
 - [[_archive/auto-generated/images-stale/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: hair, dark
-- [[knowledge/wiki/images/Photograph Person in Dark Makeup and Clothing in Tractor Cab 74eb6e7b|Photograph Person in Dark Makeup and Clothing in Tractor Cab]] — shared language: clothing, dark
+- [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: purple, oil, dark
 <!-- vault-crosslinks:end -->

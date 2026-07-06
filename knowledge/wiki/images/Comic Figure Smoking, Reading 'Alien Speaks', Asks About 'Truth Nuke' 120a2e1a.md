@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Figure S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: alien
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito 9f3ca7dd|Comic Black and White Comic Panel of Man Smoking and Woman by Junji Ito]] — shared language: smoking, comic
 - [[knowledge/wiki/images/Comic Pixel Art Comic of Person Smoking and Blue Pony Flying f5d034b7|Comic Pixel Art Comic of Person Smoking and Blue Pony Flying]] — shared language: smoking, comic
 - [[knowledge/wiki/images/Illustration Two Stylized Alien Creatures in a Forest with Mechanical Details edf59b9e|Illustration Two Stylized Alien Creatures in a Forest with Mechanical Details]] — shared language: alien
+- [[knowledge/wiki/images/Comic Calvin Asks 'Define Well Adjusted' Next To Crucified Snowman by Bill Watterson f3d0c927|Comic Calvin Asks 'Define Well Adjusted' Next To Crucified Snowman by Bill Watterson]] — shared language: asks, comic
 <!-- vault-crosslinks:end -->

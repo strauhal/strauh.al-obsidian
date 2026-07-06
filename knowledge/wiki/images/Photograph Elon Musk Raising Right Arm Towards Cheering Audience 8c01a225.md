@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Elo
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right, audience
-- [[knowledge/wiki/images/Photograph Neuralink Presentation with Speaker, Elon Musk, and Audience 0c92731e|Photograph Neuralink Presentation with Speaker, Elon Musk, and Audience]] — shared language: musk, elon, audience
+- [[knowledge/wiki/images/Neuralink Presentation with Speaker, Elon Musk, and Audience 54d6700c|Neuralink Presentation with Speaker, Elon Musk, and Audience]] — shared language: musk, elon, audience
 - [[knowledge/wiki/images/Comic Blue Caricature of Elon Musk as a Rich Baby d5c04ed6|Comic Blue Caricature of Elon Musk as a Rich Baby]] — shared language: musk, elon
-- [[knowledge/wiki/images/Photograph Protest Signs Against Government Hacking and Elon Musk 31411221|Photograph Protest Signs Against Government Hacking and Elon Musk]] — shared language: elon, musk
+- [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — shared language: musk, elon
 <!-- vault-crosslinks:end -->

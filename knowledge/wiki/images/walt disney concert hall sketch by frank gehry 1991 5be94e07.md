@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/walt_disney_conc
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
-- [[knowledge/wiki/images/Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture bfe57cb8|Photograph Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: concert, hall
+- [[knowledge/wiki/images/Modern Concert Hall Interior with Grand Piano and Wooden Architecture fb385756|Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: concert, hall
 - [[knowledge/wiki/images/Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano f5d2ff12|Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano]] — shared language: concert, hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Person Slumped Over Bloody Desk in Messy Room 87c5a868|Illustration Person Slumped Over Bloody Desk in Messy Room]] — shared language: slumped
-- [[knowledge/wiki/images/Photograph Watermelon Slices With White Candies On Blue Cutting Board 19eb3b92|Photograph Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: board
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: standing
 - [[knowledge/wiki/images/Photograph Art Studies Pinned to a Board 8f314dba|Photograph Art Studies Pinned to a Board]] — shared language: board
+- [[knowledge/wiki/images/Illustration Standing by Apple 36474b23|Illustration Standing by Apple]] — shared language: standing
 <!-- vault-crosslinks:end -->

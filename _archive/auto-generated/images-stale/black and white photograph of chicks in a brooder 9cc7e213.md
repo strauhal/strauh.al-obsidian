@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Chicks On Wood Shavings fcf0cbae|Photograph Black And White Photograph Of Chicks On Wood Shavings]] — shared language: chicks
+- [[knowledge/wiki/images/Black And White Photograph Of Chicks On Wood Shavings 7dea8f01|Black And White Photograph Of Chicks On Wood Shavings]] — shared language: chicks
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Chicks On Wood Shavings fcf0cbae|Photograph Black And White Photograph Of Chicks On Wood Shavings]] — shared language: chicks
 - [[_archive/auto-generated/images-stale/black and white photograph of bicycles parked outside a building caa8ff83|black and white photograph of bicycles parked outside a building]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/black and white photograph of classical exhibition buildings along a waterway 802576f0|black and white photograph of classical exhibition buildings along a waterway]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/artists/Artist - wolf vostell|Artist - wolf vostell]] — shared language: wolf
 - [[knowledge/wiki/images/Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background 1a790fc0|Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background]] — shared language: creatures
 - [[knowledge/wiki/images/Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures d06cdfe1|Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures]] — shared language: creatures
-- [[knowledge/wiki/images/Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait ad61f95b|Photograph Woman in Elaborate Dress and Large Feathered Hat, Full Length Portrait]] — shared language: feathered
+- [[knowledge/wiki/images/Illustration Abstract Drawing of Stylized Flying Creatures and Objects bb4db2f9|Illustration Abstract Drawing of Stylized Flying Creatures and Objects]] — shared language: creatures
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Man Dining Alone with Projected Silhouette of Woman 98816f03|Photograph Man Dining Alone with Projected Silhouette of Woman]] — shared language: dining, projected, alone
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
-- [[knowledge/wiki/images/Photograph People Dining With Empire State Building View At Night 1032f775|Photograph People Dining With Empire State Building View At Night]] — shared language: dining
-- [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: projected
-- [[knowledge/wiki/images/Photograph Modern Apartment Interior with Kitchen, Dining, and Living Areas 804a074f|Photograph Modern Apartment Interior with Kitchen, Dining, and Living Areas]] — shared language: dining
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/People Dining With Empire State Building View At Night 455fe04a|People Dining With Empire State Building View At Night]] — shared language: dining
+- [[_archive/auto-generated/images-stale/Photograph People Dining With Empire State Building View At Night 1032f775|Photograph People Dining With Empire State Building View At Night]] — shared language: dining
 <!-- vault-crosslinks:end -->

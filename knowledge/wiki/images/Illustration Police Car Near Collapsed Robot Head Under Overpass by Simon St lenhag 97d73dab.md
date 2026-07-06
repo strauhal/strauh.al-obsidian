@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 
 - [[knowledge/wiki/artists/Artist - Police Officers Near Helicopter|Artist - Police Officers Near Helicopter]] — shared language: police, near
 - [[knowledge/wiki/images/Reader by Simon Leclerc (2025) e707afc5|Reader by Simon Leclerc (2025)]] — shared language: simon
+- [[knowledge/wiki/artists/Artist - Police|Artist - Police]] — shared language: police
 - [[knowledge/wiki/artists/Artist - simon vouet|Artist - simon vouet]] — shared language: simon
 - [[knowledge/wiki/images/Illustration Line Drawing of Man's Head and Armored Robot 49572eeb|Illustration Line Drawing of Man's Head and Armored Robot]] — shared language: robot, head
-- [[knowledge/wiki/artists/Artist - simon bisley|Artist - simon bisley]] — shared language: simon
 <!-- vault-crosslinks:end -->

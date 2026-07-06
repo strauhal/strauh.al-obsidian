@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_of_the_gran
 - [[knowledge/wiki/images/peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893 d233adbb|peristyle and arch of triumph world s columbian exposition chicago by charles dudley arnold 1893]] — same artist: charles dudley arnold
 - [[knowledge/wiki/images/the lagoon world s columbian exposition by c d arnold 1893 542cfae7|the lagoon world s columbian exposition by c d arnold 1893]] — shared language: arnold, exposition, columbian
 - [[knowledge/wiki/artists/Artist - c d arnold|Artist - c d arnold]] — shared language: arnold, exposition, columbian
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: exposition, columbian
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, view
 <!-- vault-crosslinks:end -->

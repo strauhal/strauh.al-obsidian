@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Photograph Gallery Interior with Wooden Artwork, Mirrored Section, and Hand Photo 43e3a5a6|Photograph Gallery Interior with Wooden Artwork, Mirrored Section, and Hand Photo]] — shared language: artwork, gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo of green thread installation with artist a45d8ecf|gallery photo of green thread installation with artist]] — shared language: gallery, photo
 - [[_archive/auto-generated/images-stale/gallery photo of colorful childlike portrait with red scribbles c2b40dd5|gallery photo of colorful childlike portrait with red scribbles]] — shared language: gallery, photo
-- [[knowledge/wiki/images/Photograph Black and White Photo Collage of Eyes and Hands 79c1143e|Photograph Black and White Photo Collage of Eyes and Hands]] — shared language: photo, hands
+- [[knowledge/wiki/images/Black and White Photo Collage of Eyes and Hands e48851bc|Black and White Photo Collage of Eyes and Hands]] — shared language: photo, hands
 <!-- vault-crosslinks:end -->

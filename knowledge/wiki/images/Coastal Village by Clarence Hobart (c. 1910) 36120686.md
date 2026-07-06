@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Coastal Village 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Coastal City Before and After Destruction, Composite Photograph 1cfb630c|Photograph Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
-- [[knowledge/wiki/images/Photograph Photograph of an oil painting on an easel outdoors, coastal scene b0744be9|Photograph Photograph of an oil painting on an easel outdoors, coastal scene]] — shared language: coastal
+- [[knowledge/wiki/images/Coastal City Before and After Destruction, Composite Photograph bd9f8919|Coastal City Before and After Destruction, Composite Photograph]] — shared language: coastal
 - [[knowledge/wiki/images/Illustration Stylized Village Scene With Church And Mountains 33c70dca|Illustration Stylized Village Scene With Church And Mountains]] — shared language: village
+- [[knowledge/wiki/images/Photograph of an oil painting on an easel outdoors, coastal scene eedec7c7|Photograph of an oil painting on an easel outdoors, coastal scene]] — shared language: coastal
 - [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: village
-- [[knowledge/wiki/images/Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay 07fc9c60|Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay]] — shared language: coastal
+- [[knowledge/wiki/images/The Village Lawyer by Richard Redgrave (1842) 64fcc59d|The Village Lawyer by Richard Redgrave (1842)]] — shared language: village
 <!-- vault-crosslinks:end -->

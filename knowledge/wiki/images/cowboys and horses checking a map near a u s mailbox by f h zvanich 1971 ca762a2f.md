@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/cowboys_and_hors
 - [[knowledge/wiki/images/landscape with yellow fields and snow capped mountains by frank zvanich 1949 bcc2aac2|landscape with yellow fields and snow capped mountains by frank zvanich 1949]] — shared language: zvanich
 - [[knowledge/wiki/books/ray-kurzweil-the-singularity-is-near-when-humans-transcend-biology-viking-adult|The Singularity Is Near When Humans Transcend Biology-Viking Adult]] — shared language: near
 - [[knowledge/wiki/images/two horses by edgar degas c 1880 1885 caf6b958|two horses by edgar degas c 1880 1885]] — shared language: horses
-- [[knowledge/wiki/images/Photograph Black and Orange Cats Near a Laptop ed290698|Photograph Black and Orange Cats Near a Laptop]] — shared language: near
+- [[knowledge/wiki/images/Black and Orange Cats Near a Laptop 548f19ea|Black and Orange Cats Near a Laptop]] — shared language: near
 <!-- vault-crosslinks:end -->

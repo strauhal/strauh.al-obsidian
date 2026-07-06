@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Cat in the Garde
 - [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
 - [[knowledge/wiki/images/The Garden by Julie Curtiss (2020) b6ee5599|The Garden by Julie Curtiss (2020)]] — shared language: garden
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: cat
-- [[knowledge/wiki/images/Man and Cat by Valeriy Kucherenko (2018) db752ad7|Man and Cat by Valeriy Kucherenko (2018)]] — shared language: cat
+- [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden
 <!-- vault-crosslinks:end -->

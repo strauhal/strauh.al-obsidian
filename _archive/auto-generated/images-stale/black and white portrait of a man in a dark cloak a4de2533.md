@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 - [[knowledge/wiki/images/Illustration Horseman in Red Cloak on White Horse at Stone Well 4e00df5e|Illustration Horseman in Red Cloak on White Horse at Stone Well]] — shared language: cloak
 - [[_archive/auto-generated/images-stale/oil painting of a horseman in a red cloak on a white horse at a stone well 2f39c900|oil painting of a horseman in a red cloak on a white horse at a stone well]] — shared language: cloak
-- [[knowledge/archive/auto-generated/anchors-stale/artist-the-dark-1989|Artist - the dark 1989]] — shared language: dark
+- [[knowledge/wiki/images/Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak 664712e4|Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak]] — shared language: cloak
 <!-- vault-crosslinks:end -->

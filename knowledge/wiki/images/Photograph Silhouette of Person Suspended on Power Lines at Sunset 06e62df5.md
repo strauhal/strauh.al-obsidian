@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sil
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/bruce nauman suspended fortitude c 1968 3f7a9fd0|bruce nauman suspended fortitude c 1968]] — shared language: suspended
 - [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: power
 <!-- vault-crosslinks:end -->

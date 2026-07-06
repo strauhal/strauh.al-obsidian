@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Large Trees on Bluff Overlooking Beach and Ocean b69430b2|Illustration Two Large Trees on Bluff Overlooking Beach and Ocean]] — shared language: overlooking, ocean, beach
+- [[knowledge/wiki/images/Illustration Two Large Trees on Bluff Overlooking Beach and Ocean b69430b2|Illustration Two Large Trees on Bluff Overlooking Beach and Ocean]] — shared language: ocean, overlooking, beach
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: phone
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
-- [[knowledge/wiki/images/Photograph View From Under Beach Umbrella Overlooking Lake With Mountains 3749fec5|Photograph View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: overlooking, beach
+- [[knowledge/wiki/images/View From Under Beach Umbrella Overlooking Lake With Mountains 9e9663ea|View From Under Beach Umbrella Overlooking Lake With Mountains]] — shared language: overlooking, beach
 <!-- vault-crosslinks:end -->

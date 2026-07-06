@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: form, sketch
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, form
 - [[knowledge/wiki/images/Illustration Sketch Of A Face Drawn With Vertical Lines Over Sheet Music c53ea6b3|Illustration Sketch Of A Face Drawn With Vertical Lines Over Sheet Music]] — shared language: vertical, sketch, lines
 - [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: vertical, lines, lines.jpeg
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: form

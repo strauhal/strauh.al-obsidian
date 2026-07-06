@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — shared language: virgil
 - [[knowledge/wiki/images/dante and virgil by william adolphe bouguereau 1850 297aa2bf|dante and virgil by william adolphe bouguereau 1850]] — shared language: virgil
 - [[knowledge/wiki/images/gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861 94edab78|gustave dor dante and virgil among the wrathful and the sullen inferno canto vii 1861]] — shared language: virgil
-- [[knowledge/wiki/collections/Collection - influences|Collection - influences]] — shared language: virgil
+- [[knowledge/wiki/images/Black And White Photo Of Boy Looking Into Mirror a25b261a|Black And White Photo Of Boy Looking Into Mirror]] — shared language: boy
 <!-- vault-crosslinks:end -->

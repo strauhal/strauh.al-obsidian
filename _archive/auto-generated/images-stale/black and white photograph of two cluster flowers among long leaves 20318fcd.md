@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Two Cluster Flowers Among Long Leaves 7ff0294b|Photograph Two Cluster Flowers Among Long Leaves]] — shared language: cluster, leaves, among
+- [[knowledge/wiki/images/Two Cluster Flowers Among Long Leaves 45f88fe6|Two Cluster Flowers Among Long Leaves]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Two Cluster Flowers Among Long Leaves 7ff0294b|Photograph Two Cluster Flowers Among Long Leaves]] — shared language: cluster, leaves, among
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: cluster
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: cluster
 - [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: leaves, flowers
-- [[knowledge/wiki/images/Illustration Framed Black and White Line Drawing of Flowers and Leaves 230cefc4|Illustration Framed Black and White Line Drawing of Flowers and Leaves]] — shared language: leaves, flowers
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed black and white group portrait of men in suits 478bf54d|framed black and white group portrait of men in suits]] — shared language: group, framed
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple
-- [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: framed, dark
 - [[_archive/auto-generated/images-stale/framed group scene with figures behind a railing 036e2c49|framed group scene with figures behind a railing]] — shared language: group, framed
+- [[_archive/auto-generated/images-stale/framed portrait of a woman in a white dress on a dark background 35506619|framed portrait of a woman in a white dress on a dark background]] — shared language: framed, dark
 - [[knowledge/wiki/images/Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches 1cc1c4f4|Photograph Photograph of Framed Sheet with Multiple Blue Ink Sketches]] — shared language: multiple, framed
 <!-- vault-crosslinks:end -->

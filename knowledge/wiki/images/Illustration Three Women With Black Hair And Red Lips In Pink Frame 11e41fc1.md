@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/artists/Artist - johann heinrich lips|Artist - johann heinrich lips]] — shared language: lips
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair
 - [[knowledge/wiki/images/Illustration Teal Hatching Illustration of a Woman's Face with Red Lips c2e28bf5|Illustration Teal Hatching Illustration of a Woman's Face with Red Lips]] — shared language: lips
-- [[knowledge/wiki/images/Sunday, Women Drying Their Hair by John Sloan (1912) 28f17b2d|Sunday, Women Drying Their Hair by John Sloan (1912)]] — shared language: women, hair
 - [[knowledge/wiki/images/Illustration Three Women in Flowing Garments, Central Figure Holding Sword 1128a4a0|Illustration Three Women in Flowing Garments, Central Figure Holding Sword]] — shared language: women, three
+- [[knowledge/wiki/images/Sunday, Women Drying Their Hair by John Sloan (1912) 28f17b2d|Sunday, Women Drying Their Hair by John Sloan (1912)]] — shared language: women, hair
 <!-- vault-crosslinks:end -->

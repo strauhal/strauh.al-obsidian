@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/yellow_iris_by_f
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of A Blue Human Iris And Pupil c7b924b1|Photograph Close Up Of A Blue Human Iris And Pupil]] — shared language: iris
 - [[knowledge/wiki/artists/Artist - hiroshi yoshida|Artist - hiroshi yoshida]] — shared language: yoshida
 - [[knowledge/wiki/artists/Artist - Toshi Yoshida|Artist - toshi yoshida]] — shared language: yoshida
 - [[knowledge/wiki/images/Regenschirme by Toshi Yoshida 74b55d4e|Regenschirme by Toshi Yoshida]] — shared language: yoshida
 - [[knowledge/wiki/artists/Artist - yoshida masaji|Artist - yoshida masaji]] — shared language: yoshida
+- [[knowledge/wiki/artists/Artist - Kokusai Yoshida|Artist - Kokusai Yoshida]] — shared language: yoshida
 <!-- vault-crosslinks:end -->

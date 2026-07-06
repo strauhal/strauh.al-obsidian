@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1990s"
 source_kind: "date_bucket"
-count: "153"
+count: "155"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1990s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 153
+Files: 155
 
 ## Sample
 

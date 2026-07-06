@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
-- [[knowledge/wiki/images/Illustration Ink and Marker Sketch of Interior Room with Orange Chair 1909bb5c|Illustration Ink and Marker Sketch of Interior Room with Orange Chair]] — shared language: room, interior, sketch
-- [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: interior, sketch
-- [[knowledge/wiki/images/Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings ac49cb4a|Photograph Interior View of an Art Exhibition Room with Sculptures and Paintings]] — shared language: room, interior, view
+- [[knowledge/wiki/images/Illustration Ink and Marker Sketch of Interior Room with Orange Chair 1909bb5c|Illustration Ink and Marker Sketch of Interior Room with Orange Chair]] — shared language: room, sketch, interior
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: sketch, interior
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 <!-- vault-crosslinks:end -->

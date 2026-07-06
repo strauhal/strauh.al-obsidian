@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/triumph_of_the_b
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Allegory of the Divine Providence and Barberini Power by Pietro da Cortona 0e62c5bc|Photograph Allegory of the Divine Providence and Barberini Power by Pietro da Cortona]] — same artist: pietro cortona
+- [[knowledge/wiki/images/Allegory of the Divine Providence and Barberini Power by Pietro da Cortona af22a583|Allegory of the Divine Providence and Barberini Power by Pietro da Cortona]] — same artist: pietro cortona
 - [[knowledge/wiki/images/the triumph of venus by francois boucher 1740 9337b605|the triumph of venus by francois boucher 1740]] — shared language: triumph
 - [[knowledge/wiki/images/the triumph of death by pieter bruegel the elder c 1562 b94feaad|the triumph of death by pieter bruegel the elder c 1562]] — shared language: triumph
 - [[knowledge/wiki/images/the triumph of venus by giovanni battista tiepolo c 1743 1ca842a0|the triumph of venus by giovanni battista tiepolo c 1743]] — shared language: triumph

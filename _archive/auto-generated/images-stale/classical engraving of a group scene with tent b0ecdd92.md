@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[_archive/auto-generated/images-stale/round engraving of a mythological scene with figures 0352842d|round engraving of a mythological scene with figures]] — shared language: engraving, scene
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: scene
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
-- [[_archive/auto-generated/images-stale/framed group scene with figures behind a railing 036e2c49|framed group scene with figures behind a railing]] — shared language: group, scene
 <!-- vault-crosslinks:end -->

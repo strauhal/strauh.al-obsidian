@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling cb5f0d39|Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling]] — shared language: crucifix, soldier, holding
+- [[_archive/auto-generated/images-stale/Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling cb5f0d39|Photograph Soldier Holding Crucifix To Lips, Another Soldier Yelling]] — shared language: soldier, crucifix, holding
+- [[knowledge/wiki/images/Soldier Holding Crucifix To Lips, Another Soldier Yelling 87efc047|Soldier Holding Crucifix To Lips, Another Soldier Yelling]] — shared language: soldier, crucifix, holding
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: soldier
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: soldier
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

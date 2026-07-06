@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/tatsuki-fujimoto|Tatsuki Fujimoto]] — named in this note
+- [[knowledge/wiki/artists/Artist - Tatsuki Fujimoto|Artist - Tatsuki Fujimoto]] — named in this note
 - [[knowledge/wiki/images/Comic Look Back by Tatsuki Fujimoto 5f04773b|Comic Look Back by Tatsuki Fujimoto]] — same artist: tatsuki fujimoto
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair, dark
 - [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: hair, dark
-- [[_archive/auto-generated/images-stale/black and white portrait of a woman with dark hair f20513c8|black and white portrait of a woman with dark hair]] — shared language: hair, dark
 <!-- vault-crosslinks:end -->

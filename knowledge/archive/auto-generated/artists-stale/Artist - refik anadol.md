@@ -28,8 +28,8 @@ Images attributed by filename: 3
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2022|Artist - refik anadol 2022]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - refik anadol 2019|Artist - refik anadol 2019]] — named in this note
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706163717|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
+- [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706165157|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 - [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 - [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: moma
-- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: moma
-- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: moma
 <!-- vault-crosslinks:end -->

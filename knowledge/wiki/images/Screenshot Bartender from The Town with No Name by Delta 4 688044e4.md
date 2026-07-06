@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Bar
 - [[knowledge/wiki/images/Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti ec855063|Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti]] — shared language: bartender
 - [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: town
 - [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: town
-- [[knowledge/wiki/images/Illustration Watercolor Painting of a Small Town with Church Steeple d45837cd|Illustration Watercolor Painting of a Small Town with Church Steeple]] — shared language: town
+- [[knowledge/private/fanmail/threads/14-name-change|Private Correspondence - 14 - Name change]] — shared language: name
 <!-- vault-crosslinks:end -->

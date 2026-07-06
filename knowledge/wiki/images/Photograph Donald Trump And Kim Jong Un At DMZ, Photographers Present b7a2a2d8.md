@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Don
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Donald Trump Backlit Against Bright Blue Sky 9f9c7c55|Photograph Donald Trump Backlit Against Bright Blue Sky]] — shared language: donald, trump
 - [[knowledge/wiki/images/Document Two Brazilian Passports with Photos of Kim Jong un and Kim Jong il 3305cc23|Document Two Brazilian Passports with Photos of Kim Jong un and Kim Jong il]] — shared language: jong, kim
-- [[knowledge/wiki/images/Photograph Donald Trump and Christian Bale Posing Indoors 89fcbcfb|Photograph Donald Trump and Christian Bale Posing Indoors]] — shared language: donald, trump
+- [[knowledge/wiki/images/Donald Trump Watches Boy Play With Fingerboard 37773606|Donald Trump Watches Boy Play With Fingerboard]] — shared language: donald, trump
 - [[knowledge/wiki/images/Photograph Donald Trump and Man Examine Trump Merchandise Display ef9f44bc|Photograph Donald Trump and Man Examine Trump Merchandise Display]] — shared language: trump, donald
-- [[knowledge/wiki/images/Photograph Donald Trump Standing in Oval Office with Staff ea928bb2|Photograph Donald Trump Standing in Oval Office with Staff]] — shared language: donald, trump
+- [[knowledge/wiki/images/Donald Trump Backlit Against Bright Blue Sky c1d03edc|Donald Trump Backlit Against Bright Blue Sky]] — shared language: donald, trump
+- [[knowledge/wiki/images/Donald Trump Standing in Oval Office with Staff 4b4c9ce6|Donald Trump Standing in Oval Office with Staff]] — shared language: donald, trump
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated, suit.png
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated, suit.png
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit, seated, suit.png
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[_archive/auto-generated/images-stale/framed portrait of a dark haired man in a black coat 1c9a469d|framed portrait of a dark haired man in a black coat]] — shared language: haired
 - [[_archive/auto-generated/images-stale/black and white print of a seated man reading e36f252b|black and white print of a seated man reading]] — shared language: seated
-- [[_archive/auto-generated/images-stale/framed landscape with trees and pale field e7db1ccb|framed landscape with trees and pale field]] — shared language: pale
 <!-- vault-crosslinks:end -->

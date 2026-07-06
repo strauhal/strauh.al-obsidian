@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Geomet
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle c3fe53de|Illustration Geometric Drawing of Interlocking Cubes and Lines within a Triangle]] — shared language: cubes, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Spiral and Angular Forms b3eb83ae|Illustration Abstract Geometric Composition with Spiral and Angular Forms]] — shared language: spiral, geometric
+- [[knowledge/wiki/images/Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay 7ac313f1|Motorcyclist Doing Wheelie with Fibonacci Spiral Overlay]] — shared language: spiral
 - [[knowledge/wiki/images/Illustration Golden Stylized Human Head in Geometric Wireframe 145b43f8|Illustration Golden Stylized Human Head in Geometric Wireframe]] — shared language: golden, geometric
-- [[knowledge/wiki/images/Diagram Diagram Illustrating A Three Stage Geometric Transformation Process ca4c805e|Diagram Diagram Illustrating A Three Stage Geometric Transformation Process]] — shared language: diagram, geometric
 <!-- vault-crosslinks:end -->

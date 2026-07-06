@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Histology of Placental Infarct at Intermediate Magnification b2bfdc9a|Photograph Histology of Placental Infarct at Intermediate Magnification]] — shared language: placental, infarct
+- [[knowledge/wiki/images/Histology of Placental Infarct at Intermediate Magnification 2ab3a1bd|Histology of Placental Infarct at Intermediate Magnification]] — shared language: placental, infarct
+- [[_archive/auto-generated/images-stale/Photograph Histology of Placental Infarct at Intermediate Magnification b2bfdc9a|Photograph Histology of Placental Infarct at Intermediate Magnification]] — shared language: placental, infarct
 - [[_archive/auto-generated/images-stale/h mag blog post only steichen perfection in black 12974030880340357017 jpg 9fb021a5|h mag blog post only steichen perfection in black 12974030880340357017 jpg]] — shared language: mag
-- [[_archive/auto-generated/images-stale/Photolautrec 76584685|Photolautrec]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

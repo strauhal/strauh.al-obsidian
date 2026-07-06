@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - eric boyer|Artist - eric boyer]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: eric
 - [[knowledge/wiki/anchors/eric-b-rakim|Eric B. & Rakim]] — shared language: eric
-- [[_archive/auto-generated/images-stale/female torso by eric boyer 6561ee08|female torso by eric boyer]] — shared language: eric
+- [[knowledge/wiki/artists/Artist - Eric Kogan|Artist - Eric Kogan]] — shared language: eric
 <!-- vault-crosslinks:end -->

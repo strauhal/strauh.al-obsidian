@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: bacon, francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1979|Artist - francis bacon 1979]] — shared language: bacon, francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1973|Artist - francis bacon 1973]] — shared language: bacon, francis
-- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1963|Artist - francis bacon 1963]] — shared language: bacon, francis
+- [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1952|Artist - francis bacon 1952]] — shared language: bacon, francis
 <!-- vault-crosslinks:end -->

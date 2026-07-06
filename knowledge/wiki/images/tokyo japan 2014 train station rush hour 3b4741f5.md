@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/daido_mori
 - [[knowledge/wiki/images/moriyama 5fe054a7|moriyama]] — named in this note
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train, station
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
-- [[knowledge/wiki/images/Photograph McDonald's and Eneos Gas Station at Night in Japan 09375d2a|Photograph McDonald's and Eneos Gas Station at Night in Japan]] — shared language: japan, station
+- [[knowledge/wiki/images/Silhouetted Train Station Infrastructure Against a Pink Sky 63802bff|Silhouetted Train Station Infrastructure Against a Pink Sky]] — shared language: station, train
 <!-- vault-crosslinks:end -->

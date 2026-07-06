@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/baby_videos.html"
 source_relpath: "baby_videos.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # baby videos
@@ -54,12 +54,12 @@ https://www.youtube.com/watch?v=IXXShCjOx8c
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/computers|computers]] — shared language: www.youtube.com, https, watch
+- [[knowledge/wiki/pages/computers|computers]] — shared language: www.youtube.com, watch, https
 - [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: videos, baby, none
-- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: https, www.youtube.com, watch
 - [[knowledge/raw/diary|Diary]] — shared language: https, www.youtube.com, watch
-- [[knowledge/wiki/images/Paglen they watch the moon 2010 CourtesyofArtist 3e731581|Paglen they watch the moon 2010 CourtesyofArtist]] — shared language: watch
-- [[knowledge/wiki/pages/diary|diary]] — shared language: www.youtube.com, https, watch
+- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: https, www.youtube.com, watch
+- [[knowledge/wiki/pages/diary|diary]] — shared language: www.youtube.com, watch, https
 - [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: https, www.youtube.com, watch
 - [[knowledge/wiki/images/Illustration Expressionistic Oil Painting of Baby in Striped Outfit 68dcf6cf|Illustration Expressionistic Oil Painting of Baby in Striped Outfit]] — shared language: baby
+- [[knowledge/wiki/images/Billboard Displaying 'https numbers ' Text Against Blue Sky f8adbedd|Billboard Displaying 'https numbers ' Text Against Blue Sky]] — shared language: https
 <!-- vault-crosslinks:end -->

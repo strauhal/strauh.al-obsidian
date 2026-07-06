@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Woman's Bust in Profile 8cdef8ee|Illustration Line Drawing of Woman's Bust in Profile]] — shared language: bust, profile, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[_archive/auto-generated/images-stale/black and white line drawing of a woman s head in front and profile view 8b441203|black and white line drawing of a woman s head in front and profile view]] — shared language: profile, line
-- [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 - [[_archive/auto-generated/images-stale/line engraving of a male bust in profile wearing a laurel wreath labeled ovid 1707117b|line engraving of a male bust in profile wearing a laurel wreath labeled ovid]] — shared language: bust, profile, line
+- [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 <!-- vault-crosslinks:end -->

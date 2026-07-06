@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Pink 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: event, document
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: event, document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings 15e51211|Illustration Abstract Painting With Purple, Pink, Beige, And Black Markings]] — shared language: purple, pink
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: event
+- [[knowledge/wiki/images/Document Flyer Announcing Art Burning Event In Front Yard efb9519a|Document Flyer Announcing Art Burning Event In Front Yard]] — shared language: event, document
 <!-- vault-crosslinks:end -->

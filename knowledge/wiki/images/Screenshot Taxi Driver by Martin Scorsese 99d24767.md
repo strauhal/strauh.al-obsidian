@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/martin-scorsese|Martin Scorsese]] — named in this note
+- [[knowledge/wiki/images/Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro a337797b|Martin Scorsese and Robert De Niro on the set of Taxi Driver by Steve Schapiro]] — shared language: scorsese, taxi, driver
 - [[knowledge/wiki/culture/movie-taxi-driver|Watchlist - Taxi Driver]] — shared language: taxi, driver, scorsese
 - [[knowledge/wiki/images/Illustration Crazy Taxi 2 c73e2404|Illustration Crazy Taxi 2]] — shared language: taxi
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: martin
-- [[knowledge/wiki/images/robert de niro as travis bickle taxi driver by steve schapiro 1975 b514e446|robert de niro as travis bickle taxi driver by steve schapiro 1975]] — shared language: taxi, driver
 <!-- vault-crosslinks:end -->

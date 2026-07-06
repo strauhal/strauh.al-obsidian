@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Frank O'Hara _ poet among painters -- Perloff, Marjorie -- 1977 -- New York _ G_ Braziller -- cbc789d239f7dc54a8fb9f4c48b27647 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Frank O'Hara poet among painters

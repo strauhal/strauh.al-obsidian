@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Julien Breton|Artist - Julien Breton]] — named in this note
 - [[knowledge/wiki/images/Illustration Light Calligraphy of Arabic Script Over Sunset Landscape by Julien Breton 3ef1e51e|Illustration Light Calligraphy of Arabic Script Over Sunset Landscape by Julien Breton]] — same artist: julien breton
 - [[knowledge/wiki/images/Illustration Abstract Black Arabic Calligraphy on Off White Background 070ac168|Illustration Abstract Black Arabic Calligraphy on Off White Background]] — shared language: arabic, calligraphy
 - [[_archive/auto-generated/images-stale/black modern arabic calligraphy on beige background c4e27cb1|black modern arabic calligraphy on beige background]] — shared language: arabic, calligraphy
 - [[knowledge/wiki/images/Illustration Modern Black Arabic Calligraphy on Beige Background bdd7ce45|Illustration Modern Black Arabic Calligraphy on Beige Background]] — shared language: arabic, calligraphy
-- [[knowledge/wiki/images/Photograph Red Arabic Calligraphy Mural On A Gray Wall bddcba61|Photograph Red Arabic Calligraphy Mural On A Gray Wall]] — shared language: arabic, calligraphy
 <!-- vault-crosslinks:end -->

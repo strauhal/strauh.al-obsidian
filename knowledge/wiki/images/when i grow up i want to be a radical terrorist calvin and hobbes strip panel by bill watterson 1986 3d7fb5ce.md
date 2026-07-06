@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/when_i_grow_up_i
 ## Discovered Connections
 
 - [[knowledge/wiki/images/when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986 ab03e280|when i grow up i want to be a radical terrorist calvin and hobbes by bill watterson 1986]] — same artist: bill watterson
-- [[knowledge/wiki/images/Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson 85b929bc|Photograph Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — same artist: bill watterson
+- [[knowledge/wiki/images/Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson b0fe62f2|Bill Watterson Drawing Calvin And Hobbes Comic Strip by Bill Watterson]] — same artist: bill watterson
 - [[knowledge/wiki/images/calvin and hobbes comic strip may 23 1994 by bill watterson 1994 f9406bed|calvin and hobbes comic strip may 23 1994 by bill watterson 1994]] — same artist: bill watterson
 - [[knowledge/wiki/images/calvin and hobbes january 31 1993 by bill watterson 1993 489d0d26|calvin and hobbes january 31 1993 by bill watterson 1993]] — same artist: bill watterson
 - [[knowledge/wiki/images/calvin is focused on his report daily strip by bill watterson 1992 c01db704|calvin is focused on his report daily strip by bill watterson 1992]] — same artist: bill watterson

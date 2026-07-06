@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Security|Artist - Security]] — shared language: security
 - [[knowledge/wiki/books/benjamin-graham-david-dodd-warren-buffett-security-analysis-2008-mcgraw-hill-libgenlc|Security Analysis 2008 McGraw-Hill - libgenlc]] — shared language: security
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: oil
+- [[knowledge/wiki/images/Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security a2ff99ac|Tetsuya Yamagami, Shinzo Abe's Assassin, Apprehended by Security]] — shared language: security
 - [[knowledge/wiki/images/Illustration Oil Painting of Three Figures in an Interior c259eaca|Illustration Oil Painting of Three Figures in an Interior]] — shared language: oil
-- [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: oil
 <!-- vault-crosslinks:end -->

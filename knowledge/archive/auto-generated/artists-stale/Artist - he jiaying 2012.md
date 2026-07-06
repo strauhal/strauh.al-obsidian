@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Summer Wind by Shiori Matsuura (2019) bf6943aa|Summer Wind by Shiori Matsuura (2019)]] — shared language: wind
 - [[knowledge/wiki/images/the west wind by tom thomson 1917 b179bc34|the west wind by tom thomson 1917]] — shared language: wind
 - [[_archive/auto-generated/images-stale/black and white photograph of a musician playing a wind instrument with motion blur a3e74d3f|black and white photograph of a musician playing a wind instrument with motion blur]] — shared language: wind
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: wind
-- [[_archive/auto-generated/images-stale/summer wind by kaho shishido 2019 f61818fc|summer wind by kaho shishido 2019]] — shared language: wind
+- [[knowledge/wiki/images/Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur f5972813|Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: wind
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur d3963ca1|Photograph Black And White Photograph Of Musician Playing Wind Instrument With Motion Blur]] — shared language: wind
 <!-- vault-crosslinks:end -->

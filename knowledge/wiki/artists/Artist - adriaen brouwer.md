@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - adriaen van der werff|Artist - adriaen van der werff]] — shared language: adriaen
 - [[knowledge/wiki/images/portrait of jacob cats 1651 1718 by adriaen van der werff c 1700 21e7376f|portrait of jacob cats 1651 1718 by adriaen van der werff c 1700]] — shared language: adriaen
 - [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: adriaen, brouwer
-- [[knowledge/wiki/images/Photograph Woman In Dark Clothing Holding Drink In Tiled Room 15673c9a|Photograph Woman In Dark Clothing Holding Drink In Tiled Room]] — shared language: drink
+- [[knowledge/wiki/images/Woman In Dark Clothing Holding Drink In Tiled Room 9a61b4ea|Woman In Dark Clothing Holding Drink In Tiled Room]] — shared language: drink
 <!-- vault-crosslinks:end -->

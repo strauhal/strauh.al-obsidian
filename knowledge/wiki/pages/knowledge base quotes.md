@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/quotes.html"
 source_relpath: "knowledge_base/quotes.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base quotes
@@ -528,7 +528,7 @@ A few of the adult guests wandered in, including Warhol and Haring. Warhol took 
 <!-- quote-links:start -->
 ## Connections
 
-*Each quote wired to the ideas, people, and books it touches — 184 of 251 quotes connected (43 nodes). The full text of each lives inside the node it connects to.*
+*Each quote wired to the ideas, people, and books it touches — 184 of 251 quotes connected (44 nodes). The full text of each lives inside the node it connects to.*
 
 **[[Art Fills the God-Shaped Hole]]** — "about neither concept nor beauty—instead relying on application, context and frequency t…" · "“It’s like a surface gleaning of little digital MP3 gems, and you’re harvesting them in…" · "A lot of people claim to have religious or transcendental experiences listening to your…" · "According to Kojève, this constitutes the first time in our history a new phase stratifi…" · "Being dubious about the sound and culture of ambient music (which you could just as easi…" · "Endless knot The endless knot (Sanskrit: śrīvatsa; Tibetan: དཔལ་བེའུ་, THL: pelbeu)(2) d…" · "I'm just here to repeat what I've already said the previous thread. I've studied music,…" · "It’s kind of a sensitive topic, but after 9/11 I was shooting a movie called Master Of D…" · "This is just a reminder to respect safety training when you're operating heavy duty mach…" · "Prostitutes did not fascinate the painters of the 19th century... they were simply using…" · "Simply on the basis that the creation of art is a theraputic process, one should strive…" · "The fundamental ego-substanceless-ness or not-self of all phenomena, anatta/anatman/nair…" · "The modern west is nothing more than an economic zone, its people nothing more than numb…" · "the pitchfork staff writer sat at the cafe and stared at the memo. it said: next the pit…" · "what can a body mean if we have the power to physically change the body and modify the p…" · "It's helpful to continually challenge your own process. If you had a good result using a…" · "The intellect may help complete the work, and it may decipher what is driving our deligh…" · "fixed in him. He is ready for change; in his very being, he is change, transcendence, tr…" · "An object that it knows to be external, opposed, to it, and that it tends to appropriate…" · "itself, and since, among entities within the world, only man is self-conscious, the abso…" · "(y) Thirdly, and lastly, the subject-matter of art is in a certain respect also drawn fr…" · "Fine art is not real art till it is in this sense free, and only achieves its highest ta…" · "The greatest carrier wave of progress for the last few centuries has been the central id…" · "Ruskin dwelled at length upon the differing quality of light when affected by the storm-…" · "Hunter Biden feeling such a genuine sense of calm while smoking crack with prostitutes t…" · "The usual defenses against the ravages of age—identification with ethical or artistic va…" · "Science on the contrary, the objectors admit, has, in its form, to do with the thinking…" · "One thing that strikes me when reading biographical articles of people is how they go th…" · "The prophet's voice possessed of god requires no ornament, no sweetening of tone, but ca…" · "Yet without obscurity or needless explanation the true prophet signifies. The prophet's…" · "ally holds. For Nietzsche, it is not "sovereign man" but the "last man" who exploits him…" · "But the froth itself was vital. Far from dampening the intellectual transformation wroug…" · "The document was not consulted for practical advice; the departure time of the Saint-Laz…" · "Where has all this beauty gone? Where is the tenderness? Where has human attainment gone…" · "The cool unconcern of Gatsby hides rage and terror underneath. This is why everything mu…" · "nature's spiritual resurrection in the viewers' consciousness. The text, recorded by Urs…" · "I don't know if you realize this, but there are some researchers - doctors - who are giv…" · "The LSD phenomenon, on the other hand, is—to me at least—more interesting. It is an inte…" · "Michael Bay has perfect penmanship but is illiterate. He writes beautiful calligraphy th…" · "One of the difficulties I had with Buddhism was how to live a life of non-attachment in…" …+4 more
 
@@ -583,6 +583,8 @@ A few of the adult guests wandered in, including Warhol and Haring. Warhol took 
 **[[Artist - Ludwig Wittgenstein]]** — "I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourse…"
 
 **[[Artist - Microsoft]]** — "whole. We don't see the forest when we search the Web. We don't even see the trees. We s…"
+
+**[[Artist - Security]]** — "The operation of surveillance, and our complicity in it, is one of the most fundamental…"
 
 **[[Artist - Thelonious Monk]]** — "Theory is an analytical tool and should never be deliberately thought of when writing mu…"
 

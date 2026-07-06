@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[knowledge/wiki/images/Illustration Detailed Etching of a Spiky Flower by M.C. Escher cdc48964|Illustration Detailed Etching of a Spiky Flower by M.C. Escher]] — shared language: etching, detailed
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: detailed, landscape
 - [[knowledge/wiki/images/Illustration White Toyota Prius in a Green Hilly Landscape by Toyota Motor Sales, U.S.A., Inc 716f5524|Illustration White Toyota Prius in a Green Hilly Landscape by Toyota Motor Sales, U.S.A., Inc]] — shared language: hilly, landscape
+- [[knowledge/wiki/images/Illustration Black And White Etching Of A Building Surrounded By Trees 49bb7d57|Illustration Black And White Etching Of A Building Surrounded By Trees]] — shared language: etching
 <!-- vault-crosslinks:end -->

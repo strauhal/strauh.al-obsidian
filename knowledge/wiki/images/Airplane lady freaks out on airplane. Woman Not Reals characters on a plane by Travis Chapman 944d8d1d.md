@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Airplane lady fr
 - [[knowledge/wiki/images/Illustration Woman Points Angrily at Fantastical Passengers on Airplane by Travis Chapman 9560f536|Illustration Woman Points Angrily at Fantastical Passengers on Airplane by Travis Chapman]] — same artist: travis chapman
 - [[knowledge/wiki/artists/Artist - Chapman|Artist - Chapman]] — shared language: chapman
 - [[knowledge/wiki/images/Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters 3cd42f5e|Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters]] — shared language: plane, characters
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
 - [[knowledge/wiki/artists/Artist - travis charest and richard friend|Artist - travis charest and richard friend]] — shared language: travis
 <!-- vault-crosslinks:end -->

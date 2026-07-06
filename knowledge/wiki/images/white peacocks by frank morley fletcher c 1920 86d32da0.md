@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/white_peacocks_b
 
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
 - [[knowledge/wiki/images/Fishing for Escher by James Fletcher (2018) b7e7a917|Fishing for Escher by James Fletcher (2018)]] — shared language: fletcher
+- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/books/michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
 <!-- vault-crosslinks:end -->

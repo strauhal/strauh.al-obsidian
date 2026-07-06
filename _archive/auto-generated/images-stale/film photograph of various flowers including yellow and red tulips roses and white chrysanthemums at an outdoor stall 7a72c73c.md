@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums dd9170c1|Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: tulips, stall, outdoor
+- [[knowledge/wiki/images/Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums 6282091e|Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: tulips, stall, roses
+- [[_archive/auto-generated/images-stale/Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums dd9170c1|Photograph Outdoor Flower Stall with Tulips, Roses, and Chrysanthemums]] — shared language: tulips, stall, roses
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film
 - [[_archive/auto-generated/images-stale/roses gaeta 2004 e6740a3b|roses gaeta 2004]] — shared language: roses
 - [[knowledge/archive/auto-generated/artists-stale/Artist - roses|Artist - roses]] — shared language: roses
-- [[knowledge/wiki/images/Illustration Oil Painting of Red and Yellow Roses in Glass Vase 4311fcba|Illustration Oil Painting of Red and Yellow Roses in Glass Vase]] — shared language: roses, yellow
 <!-- vault-crosslinks:end -->

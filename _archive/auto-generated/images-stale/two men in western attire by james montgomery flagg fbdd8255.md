@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - James Montgomery Flagg|Artist - James Montgomery Flagg]] — named in this note
 - [[knowledge/wiki/images/Illustration Two Men in Western Attire, Pen and Ink Drawing by James Montgomery Flagg bc0e5355|Illustration Two Men in Western Attire, Pen and Ink Drawing by James Montgomery Flagg]] — same artist: james montgomery flagg
 - [[knowledge/wiki/images/Illustration Portrait Painting of a Man in Clerical Attire e5689adb|Illustration Portrait Painting of a Man in Clerical Attire]] — shared language: attire
 - [[_archive/auto-generated/books-stale/history-of-western-philosophy|History Of Western Philosophy]] — shared language: western
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: montgomery
-- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — shared language: western
 <!-- vault-crosslinks:end -->

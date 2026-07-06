@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[_archive/auto-generated/images-stale/FTczn8rWYAA77a0 302c7929|FTczn8rWYAA77a0]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/FVBtsrIXEAA2pgX 12353db6|FVBtsrIXEAA2pgX]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/FRnAAZnUUAAJdXJ 54c0ce97|FRnAAZnUUAAJdXJ]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FT5RFuXUAAEF7Pr b6c7f27a|FT5RFuXUAAEF7Pr]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

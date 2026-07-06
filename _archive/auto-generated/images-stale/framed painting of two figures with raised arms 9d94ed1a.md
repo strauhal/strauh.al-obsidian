@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/studies of a male nude with arms raised and other studies by peter paul rubens c 16091610 32be115e|studies of a male nude with arms raised and other studies by peter paul rubens c 16091610]] — shared language: raised, arms
-- [[knowledge/wiki/images/standing female nude with arms raised by henri gaudier brzeska c 1913 400aa9c7|standing female nude with arms raised by henri gaudier brzeska c 1913]] — shared language: raised, arms
+- [[knowledge/wiki/images/studies of a male nude with arms raised and other studies by peter paul rubens c 16091610 32be115e|studies of a male nude with arms raised and other studies by peter paul rubens c 16091610]] — shared language: arms, raised
+- [[knowledge/wiki/images/standing female nude with arms raised by henri gaudier brzeska c 1913 400aa9c7|standing female nude with arms raised by henri gaudier brzeska c 1913]] — shared language: arms, raised
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
-- [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: arms
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
+- [[_archive/auto-generated/images-stale/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
 <!-- vault-crosslinks:end -->

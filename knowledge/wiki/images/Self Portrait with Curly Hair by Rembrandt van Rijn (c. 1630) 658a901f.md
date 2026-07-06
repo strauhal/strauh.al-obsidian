@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Self-Portrait wi
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn 1659 8ab2df95|self portrait by rembrandt van rijn 1659]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/head of an old man with curly hair looking down bust by rembrandt van rijn 1630 31133749|head of an old man with curly hair looking down bust by rembrandt van rijn 1630]] — shared language: curly, rijn, rembrandt
+- [[knowledge/wiki/images/head of an old man with curly hair looking down bust by rembrandt van rijn 1630 31133749|head of an old man with curly hair looking down bust by rembrandt van rijn 1630]] — shared language: rijn, curly, rembrandt
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn|Artist - rembrandt van rijn]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

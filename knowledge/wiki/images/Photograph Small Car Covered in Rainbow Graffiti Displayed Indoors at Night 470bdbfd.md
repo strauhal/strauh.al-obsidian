@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sma
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
-- [[knowledge/wiki/images/Photograph Graffiti Covered Car Exploding in Flames on a Street 437061ec|Photograph Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
-- [[knowledge/wiki/images/Photograph Burning, Graffiti Covered Police Car During Unrest e569beb7|Photograph Burning, Graffiti Covered Police Car During Unrest]] — shared language: covered, graffiti, car
+- [[knowledge/wiki/images/Graffiti Covered Car Exploding in Flames on a Street 6f361e0d|Graffiti Covered Car Exploding in Flames on a Street]] — shared language: covered, graffiti, car
+- [[knowledge/wiki/images/Burning, Graffiti Covered Police Car During Unrest 73ffc5b2|Burning, Graffiti Covered Police Car During Unrest]] — shared language: covered, graffiti, car
 - [[knowledge/wiki/images/Photograph Wall Covered in Graffiti Tags, Paint, and Stickers 978351fb|Photograph Wall Covered in Graffiti Tags, Paint, and Stickers]] — shared language: covered, graffiti
-- [[knowledge/wiki/images/Photograph White and Blue Car Engulfed in Flames with Graffiti 1bbabfce|Photograph White and Blue Car Engulfed in Flames with Graffiti]] — shared language: graffiti, car
+- [[knowledge/wiki/images/White and Blue Car Engulfed in Flames with Graffiti 0148607d|White and Blue Car Engulfed in Flames with Graffiti]] — shared language: graffiti, car
 <!-- vault-crosslinks:end -->

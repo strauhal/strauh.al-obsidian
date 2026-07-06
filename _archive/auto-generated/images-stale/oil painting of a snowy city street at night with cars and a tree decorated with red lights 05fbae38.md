@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, cars
 - [[knowledge/wiki/images/Illustration Snowy City Street at Night with Red Lit Tree and Cars by T. Str mndahl afbdc6d3|Illustration Snowy City Street at Night with Red Lit Tree and Cars by T. Str mndahl]] — shared language: snowy, cars, tree
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/images/Illustration Busy City Street at Night with Arch and Many Lights 4c0e108b|Illustration Busy City Street at Night with Arch and Many Lights]] — shared language: lights, night, street
-- [[knowledge/wiki/images/Photograph City Street After Flood With Piled Up Cars 1c1a9d7d|Photograph City Street After Flood With Piled Up Cars]] — shared language: cars, street, city
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: street, night, city
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: night, street, city
 <!-- vault-crosslinks:end -->

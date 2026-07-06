@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/green_mountain_l
 - [[knowledge/wiki/images/abstraction white rose no 1 by georgia o keeffe 1927 69302249|abstraction white rose no 1 by georgia o keeffe 1927]] — same artist: georgia keeffe
 - [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/New York Street with Moon by Georgia O'Keeffe (1925) 0f6e496b|New York Street with Moon by Georgia O'Keeffe (1925)]] — shared language: georgia
-- [[knowledge/wiki/images/Illustration Oil Painting of a Lake Landscape at Sunset with Ducks 779c539c|Illustration Oil Painting of a Lake Landscape at Sunset with Ducks]] — shared language: lake
+- [[knowledge/wiki/images/Lake Lucerne by Robert Z nd (c. 1880) 90d9f996|Lake Lucerne by Robert Z nd (c. 1880)]] — shared language: lake
 <!-- vault-crosslinks:end -->

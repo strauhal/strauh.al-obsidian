@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, pixel
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
 - [[knowledge/wiki/images/Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue a1321b69|Illustration Abstract Isometric Geometric Shapes in Pink, Yellow, Blue]] — shared language: isometric, pink
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[knowledge/wiki/images/Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen a34c85e0|Illustration Isometric Pixel Art Illustration of Robots Working in a Kitchen]] — shared language: isometric, pixel
+- [[knowledge/wiki/images/Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure 416df990|Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure]] — shared language: isometric, pixel
 <!-- vault-crosslinks:end -->

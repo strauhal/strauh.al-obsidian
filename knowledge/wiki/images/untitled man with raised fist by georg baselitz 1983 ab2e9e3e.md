@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/untitled_man_wit
 
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — shared language: georg
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
 - [[knowledge/wiki/images/Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel 3cf42ba3|Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel]] — shared language: georg
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: raised
 - [[knowledge/wiki/culture/movie-fist-of-fury|Watchlist - Fist of Fury]] — shared language: fist
 <!-- vault-crosslinks:end -->

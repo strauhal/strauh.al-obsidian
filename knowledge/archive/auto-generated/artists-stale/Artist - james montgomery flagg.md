@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - James Montgomery Flagg|Artist - James Montgomery Flagg]] — named in this note
 - [[_archive/auto-generated/images-stale/two men in western attire by james montgomery flagg fbdd8255|two men in western attire by james montgomery flagg]] — shared language: flagg, montgomery, james
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: montgomery
 - [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — shared language: montgomery
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: montgomery
-- [[knowledge/archive/auto-generated/artists-stale/Artist - james fletcher|Artist - james fletcher]] — shared language: james
 <!-- vault-crosslinks:end -->

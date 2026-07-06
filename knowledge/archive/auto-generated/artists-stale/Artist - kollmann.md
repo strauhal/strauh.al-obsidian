@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical, diagram
 - [[knowledge/wiki/images/Illustration Nude Figure Touching Glass Separating Her from Anatomical Figures d101e6c0|Illustration Nude Figure Touching Glass Separating Her from Anatomical Figures]] — shared language: anatomical, nude
 - [[knowledge/wiki/images/Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views 746ece0d|Diagram Two Anatomical Diagrams of Female Fat Distribution, Front and Rear Views]] — shared language: anatomical, diagram
 - [[knowledge/wiki/images/Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels 4040d86d|Diagram Anatomical Diagram of Male Figure's Back with Muscle Labels]] — shared language: anatomical, diagram
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Standing Nude Figure 85c93770|Illustration Abstract Painting of a Standing Nude Figure]] — shared language: nude
 - [[knowledge/wiki/images/Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton 99c06aeb|Diagram Black and White Anatomical Diagrams of Human Lower Limb Muscles and Skeleton]] — shared language: anatomical, diagram
-- [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: warrior
 <!-- vault-crosslinks:end -->

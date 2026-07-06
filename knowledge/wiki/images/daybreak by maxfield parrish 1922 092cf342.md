@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/daybreak_by_maxf
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the archer by maxfield parrish 1920 ce9804e2|the archer by maxfield parrish 1920]] — same artist: maxfield parrish
-- [[knowledge/wiki/images/the old glen mill by maxfield parrish 1950 bc44ec6e|the old glen mill by maxfield parrish 1950]] — same artist: maxfield parrish
 - [[knowledge/wiki/images/the spirit of the ancient oak by maxfield parrish 1920 891a52f9|the spirit of the ancient oak by maxfield parrish 1920]] — same artist: maxfield parrish
+- [[knowledge/wiki/images/the old glen mill by maxfield parrish 1950 bc44ec6e|the old glen mill by maxfield parrish 1950]] — same artist: maxfield parrish
 - [[knowledge/wiki/anchors/theo-parrish|Theo Parrish]] — shared language: parrish
 - [[knowledge/wiki/culture/music-first-floor|Listening - First Floor]] — shared language: parrish
 <!-- vault-crosslinks:end -->

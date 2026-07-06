@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Pho
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: case
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Red and White Flowers Inside Ribbed Clear Display Case 208c3c69|Illustration Red and White Flowers Inside Ribbed Clear Display Case]] — shared language: case, display
-- [[knowledge/wiki/images/Photograph Brown Porous Organic Sculpture in Museum Display Case 98705f88|Photograph Brown Porous Organic Sculpture in Museum Display Case]] — shared language: case, display
 <!-- vault-crosslinks:end -->

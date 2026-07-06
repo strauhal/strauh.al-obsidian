@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — shared language: sir
-- [[knowledge/wiki/artists/Artist - sir luke fildes|Artist - sir luke fildes]] — shared language: sir
+- [[knowledge/wiki/artists/Artist - sir joshua reynolds|Artist - sir joshua reynolds]] — shared language: sir
 <!-- vault-crosslinks:end -->

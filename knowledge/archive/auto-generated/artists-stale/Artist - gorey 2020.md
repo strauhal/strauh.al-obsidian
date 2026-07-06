@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gorey|Artist - gorey]] — named in this note
-- [[knowledge/wiki/images/Photograph Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks 86ae4995|Photograph Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks]] — shared language: dolls
 - [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: town
+- [[knowledge/wiki/images/Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks f4a59469|Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks]] — shared language: dolls
+- [[_archive/auto-generated/images-stale/Photograph Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks 86ae4995|Photograph Close up of a Sony Walkman with 'Guys and Dolls' headphone jacks]] — shared language: dolls
 - [[_archive/auto-generated/images-stale/framed seaside town painting with green water b98b47e9|framed seaside town painting with green water]] — shared language: town
 - [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: town
-- [[_archive/auto-generated/images-stale/baron town by waneella 2019 ef4c7cb5|baron town by waneella 2019]] — shared language: town
 <!-- vault-crosslinks:end -->

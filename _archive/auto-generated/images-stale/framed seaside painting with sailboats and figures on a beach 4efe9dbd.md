@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/painting of a woman standing on a seaside balcony 126475e8|painting of a woman standing on a seaside balcony]] — shared language: seaside
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
-- [[_archive/auto-generated/images-stale/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: beach, framed
+- [[_archive/auto-generated/images-stale/framed beach scene with reclining figure and water 3de79b10|framed beach scene with reclining figure and water]] — shared language: beach, framed
 <!-- vault-crosslinks:end -->

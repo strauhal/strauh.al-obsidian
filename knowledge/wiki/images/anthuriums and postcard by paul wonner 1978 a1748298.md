@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/anthuriums_and_p
 
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul
-- [[knowledge/wiki/images/Photograph Colorized Postcard of Hotel Traymore and Beach Scene 3565ab46|Photograph Colorized Postcard of Hotel Traymore and Beach Scene]] — shared language: postcard
 - [[knowledge/wiki/artists/Artist - paul rand|Artist - paul rand]] — shared language: paul
+- [[knowledge/wiki/images/Colorized Postcard of Hotel Traymore and Beach Scene e277df32|Colorized Postcard of Hotel Traymore and Beach Scene]] — shared language: postcard
 - [[knowledge/wiki/books/paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] — shared language: paul
 <!-- vault-crosslinks:end -->

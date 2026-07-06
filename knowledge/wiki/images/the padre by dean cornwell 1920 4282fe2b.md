@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_padre_by_dea
 - [[knowledge/wiki/artists/Artist - roger dean|Artist - roger dean]] — shared language: dean
 - [[knowledge/wiki/images/dean blunt 469c96bf|dean blunt]] — shared language: dean
 - [[knowledge/wiki/images/Photograph Black and White Portrait of James Dean Smoking a Cigarette 5e796a09|Photograph Black and White Portrait of James Dean Smoking a Cigarette]] — shared language: dean
-- [[knowledge/wiki/images/wanes on the dance by roger dean 1973 21c904ae|wanes on the dance by roger dean 1973]] — shared language: dean
+- [[knowledge/wiki/images/Soul on Fire by Dean Blunt (2018) bdbd3ac8|Soul on Fire by Dean Blunt (2018)]] — shared language: dean
 <!-- vault-crosslinks:end -->

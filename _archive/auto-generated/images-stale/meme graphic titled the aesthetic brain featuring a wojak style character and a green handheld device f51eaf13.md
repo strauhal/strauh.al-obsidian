@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/images/Image Wojak Style Character And Green Handheld Device With Text 840244a3|Image Wojak Style Character And Green Handheld Device With Text]] — shared language: wojak, handheld, device
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: aesthetic, style, brain
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Aesthetic of Process and Control|Constellation - The Aesthetic of Process and Control]] — shared language: aesthetic
 - [[knowledge/wiki/images/Image Black And White Vin Diesel Meme About AI Art e5246fb8|Image Black And White Vin Diesel Meme About AI Art]] — shared language: meme
+- [[_archive/auto-generated/images-stale/digital graphic design flyer in yellow and black featuring a large anime style character and video game screenshots 4aef3608|digital graphic design flyer in yellow and black featuring a large anime style character and video game screenshots]] — shared language: graphic, style, featuring
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: klee, paul
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: paul
 - [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1973|Artist - paul jenkins 1973]] — shared language: paul
-- [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1968|Artist - paul jenkins 1968]] — shared language: paul
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: paul
+- [[knowledge/archive/auto-generated/artists-stale/Artist - paul jenkins 1968|Artist - paul jenkins 1968]] — shared language: paul
 <!-- vault-crosslinks:end -->

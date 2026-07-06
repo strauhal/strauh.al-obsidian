@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Gas by Edward Ho
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Gas by Edward Hopper (1940) 896e6ae4|Gas by Edward Hopper (1940)]] — shared language: gas, hopper, edward
+- [[knowledge/wiki/images/Gas by Edward Hopper (1940) 896e6ae4|Gas by Edward Hopper (1940)]] — shared language: hopper, gas, edward
 - [[knowledge/wiki/images/edward hopper nighthawks 1942 c8352489|edward hopper nighthawks 1942]] — shared language: hopper, edward
 - [[knowledge/wiki/images/summer time by edward hopper 1943 77200d6e|summer time by edward hopper 1943]] — shared language: hopper, edward
 - [[knowledge/wiki/images/room in new york by edward hopper 1932 61bb08ac|room in new york by edward hopper 1932]] — shared language: hopper, edward

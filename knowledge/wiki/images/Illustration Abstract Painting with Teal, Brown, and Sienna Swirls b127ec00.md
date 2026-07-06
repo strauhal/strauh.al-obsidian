@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
+- [[knowledge/wiki/images/Blue and Purple Vase with Swirls 25a7d806|Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: swirls
 - [[knowledge/wiki/images/Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas b4070523|Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas]] — shared language: swirls, brown
 - [[knowledge/wiki/images/Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow a6da445d|Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow]] — shared language: swirls

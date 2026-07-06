@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: cruise, docked, ship
+- [[knowledge/wiki/images/Black And White Photograph Of A Cruise Ship Docked Near A Park 08061975|Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: cruise, docked, ship
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: cruise, docked, ship
 - [[_archive/auto-generated/images-stale/black and white photograph of a large sailing ship docked next to a classical building with statues fe782703|black and white photograph of a large sailing ship docked next to a classical building with statues]] — shared language: docked, ship, large
 - [[_archive/auto-generated/images-stale/illustration of two figures near a park bench 8346cf2d|illustration of two figures near a park bench]] — shared language: park, near
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park
-- [[_archive/auto-generated/images-stale/black and white photograph of a large amusement park or exposition grounds featuring a circular building and an elevated railway over water near a sho 2661ef78|black and white photograph of a large amusement park or exposition grounds featuring a circular building and an elevated railway over water near a sho]] — shared language: park, near, large
 <!-- vault-crosslinks:end -->

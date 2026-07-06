@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Southwestern Sen
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - Allen Wei|Artist - Allen Wei]] — shared language: allen
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: johnson
-- [[knowledge/wiki/images/The Sentinel by Edward Howard 99d2ab6d|The Sentinel by Edward Howard]] — shared language: sentinel
+- [[knowledge/wiki/artists/Artist - Allen Wei|Artist - Allen Wei]] — shared language: allen
 - [[knowledge/wiki/artists/Artist - John Johnson|Artist - John Johnson]] — shared language: johnson
-- [[knowledge/wiki/images/portrait of allen knapp by robert henri c 1914 e228e344|portrait of allen knapp by robert henri c 1914]] — shared language: allen
+- [[knowledge/wiki/images/The Sentinel by Edward Howard 99d2ab6d|The Sentinel by Edward Howard]] — shared language: sentinel
+- [[knowledge/wiki/artists/Artist - R. Kikuo Johnson|Artist - R. Kikuo Johnson]] — shared language: johnson
 <!-- vault-crosslinks:end -->

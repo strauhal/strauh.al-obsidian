@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Dense Group Of White Swans On Dark Water a87f6583|Illustration Dense Group Of White Swans On Dark Water]] — named in this note
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 - [[_archive/auto-generated/images-stale/framed dark group portrait with multiple figures 0ae8b3c7|framed dark group portrait with multiple figures]] — shared language: group, dark
 - [[knowledge/wiki/artists/Artist - Swans At Night|Artist - Swans At Night]] — shared language: swans
 - [[_archive/auto-generated/artists-noise/Artist - five white swans at night|Artist - five white swans at night]] — shared language: swans
-- [[knowledge/archive/auto-generated/artists-stale/Artist - five white swans at night|Artist - five white swans at night]] — shared language: swans
 <!-- vault-crosslinks:end -->

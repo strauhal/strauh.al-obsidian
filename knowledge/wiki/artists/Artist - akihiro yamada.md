@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: war
 - [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: war
-- [[knowledge/wiki/images/Photograph Clear Vinyl Record with White Abstract Patterns and Tracklist e7850158|Photograph Clear Vinyl Record with White Abstract Patterns and Tracklist]] — shared language: record
+- [[knowledge/wiki/artists/Artist - agostino veneziano|Artist - agostino veneziano]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

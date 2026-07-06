@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/martin_luther_ki
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Martin Luther King Jr. Speaking at March on Washington 7e2935e8|Photograph Martin Luther King Jr. Speaking at March on Washington]] — shared language: luther, king, martin
+- [[knowledge/wiki/images/Martin Luther King Jr. Speaking at March on Washington 6c2f498d|Martin Luther King Jr. Speaking at March on Washington]] — shared language: luther, king, martin
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream
 - [[knowledge/wiki/artists/Artist - theodore robinson about|Artist - theodore robinson about]] — shared language: robinson
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream

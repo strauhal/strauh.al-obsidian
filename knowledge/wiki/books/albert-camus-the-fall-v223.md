@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Albert Camus - The Fall  V223  (1963, Vintage) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Fall V223
@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — same author: albert camus
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
+- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 <!-- vault-crosslinks:end -->

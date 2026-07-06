@@ -28,7 +28,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/le_chevalier_aux
 ## Discovered Connections
 
 - [[knowledge/wiki/images/la dame aux ailes de chauve souris by felicien rops c 1883 236ca211|la dame aux ailes de chauve souris by felicien rops c 1883]] — shared language: ailes, aux
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Figure With Large Dark Wings 438266ca|Photograph Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: wings
+- [[knowledge/wiki/images/Black And White Photograph Of A Figure With Large Dark Wings cf67daa7|Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: wings
 - [[knowledge/wiki/books/jean-paul-sartre-existentialism-is-a-humanism|Existentialism Is a Humanism]] — shared language: paul
 - [[knowledge/wiki/artists/Artist - nick knight|Artist - nick knight]] — shared language: knight
 - [[knowledge/wiki/books/gallico-paul-the-story-of-jennie|The Story of Jennie]] — shared language: paul

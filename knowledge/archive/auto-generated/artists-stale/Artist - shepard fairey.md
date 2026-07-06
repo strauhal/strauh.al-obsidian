@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/blue flower painting with orange background 11a9245d|blue flower painting with orange background]] — shared language: flower
 - [[knowledge/wiki/images/Illustration Black and White Bone like Forms Radiating on Green Background a1693f7c|Illustration Black and White Bone like Forms Radiating on Green Background]] — shared language: bone
 - [[knowledge/wiki/images/Illustration Red Hibiscus Flower with Digital Data Overlay efc760f9|Illustration Red Hibiscus Flower with Digital Data Overlay]] — shared language: flower
-- [[_archive/auto-generated/images-stale/framed flower still life with red bouquet abe692ec|framed flower still life with red bouquet]] — shared language: flower
+- [[_archive/auto-generated/images-stale/bison in a yellow flower field bbd57728|bison in a yellow flower field]] — shared language: flower
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground db4489b0|Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground]] — shared language: waterway, along, buildings
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues 9c8e899b|Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues]] — shared language: waterway, along, buildings
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: waterway, exhibition, waterway.jpg
-- [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: exhibition, buildings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 <!-- vault-crosslinks:end -->

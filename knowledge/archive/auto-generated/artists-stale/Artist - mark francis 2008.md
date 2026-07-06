@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis|Artist - mark francis]] — named in this note
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[_archive/auto-generated/images-stale/mark roth current 2017 e80f6573|mark roth current 2017]] — shared language: mark
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: francis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - francis bacon 1975|Artist - francis bacon 1975]] — shared language: francis
 - [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: francis
+- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: francis
 <!-- vault-crosslinks:end -->

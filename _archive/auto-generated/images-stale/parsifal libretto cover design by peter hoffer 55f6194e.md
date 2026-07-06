@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/disegno per copertina di libretto disegno di peter hoffer per parsifal s d archivio storico ricordi icon012446 jpg 16b21fbb|disegno per copertina di libretto disegno di peter hoffer per parsifal s d archivio storico ricordi icon012446 jpg]] — shared language: hoffer, libretto, parsifal
+- [[_archive/auto-generated/images-stale/Parsifal (1882 retuschiert) 2693faf1|Parsifal (1882 retuschiert)]] — shared language: parsifal
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 - [[_archive/auto-generated/books-stale/demystifying-maxmsp|DEMYSTIFYING-MAXMSP]] — shared language: design
-- [[knowledge/wiki/images/Parsifal (1882 retuschiert) 2693faf1|Parsifal (1882 retuschiert)]] — shared language: parsifal
 <!-- vault-crosslinks:end -->

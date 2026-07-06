@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: dark, background
 - [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: dark, background
 - [[knowledge/wiki/images/Illustration Abstract Colorful Geometric Figure With Wires On Black Background 7c9c1bf9|Illustration Abstract Colorful Geometric Figure With Wires On Black Background]] — shared language: colorful, background
-- [[knowledge/wiki/images/Illustration Distorted Colorful Words on a White Background 1f297fd3|Illustration Distorted Colorful Words on a White Background]] — shared language: colorful, background
+- [[knowledge/wiki/images/Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay 07fc9c60|Illustration Stylized Coastal Landscape with Wildflowers, Grassy Hills, and Bay]] — shared language: wildflowers
 <!-- vault-crosslinks:end -->

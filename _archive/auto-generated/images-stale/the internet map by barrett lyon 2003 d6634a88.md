@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - barrett lyon 2003|Artist - barrett lyon 2003]] — named in this note
+- [[knowledge/wiki/artists/Artist - Barrett Lyon|Artist - Barrett Lyon]] — named in this note
 - [[knowledge/wiki/images/Diagram The Internet Map by Barrett Lyon b26d2dc4|Diagram The Internet Map by Barrett Lyon]] — same artist: barrett lyon
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: internet
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet
-- [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet
 <!-- vault-crosslinks:end -->

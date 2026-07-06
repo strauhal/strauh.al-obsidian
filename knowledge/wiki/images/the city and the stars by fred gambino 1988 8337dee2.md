@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_city_and_the
 - [[knowledge/wiki/images/cityscape by fred gambino 1984 ec7f3156|cityscape by fred gambino 1984]] — same artist: fred gambino
 - [[knowledge/wiki/images/the ship who searched by fred gambino 1992 1f79f6a4|the ship who searched by fred gambino 1992]] — same artist: fred gambino
 - [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — same artist: fred gambino
+- [[knowledge/wiki/artists/Artist - Stars|Artist - Stars]] — shared language: stars
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/images/Illustration Stylized Figure Holding Phone Surrounded By Stars e61ee9d9|Illustration Stylized Figure Holding Phone Surrounded By Stars]] — shared language: stars
 <!-- vault-crosslinks:end -->

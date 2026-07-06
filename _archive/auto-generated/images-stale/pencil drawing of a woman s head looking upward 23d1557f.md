@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
 - [[knowledge/wiki/images/Illustration Pencil Drawing of Male Head with Proportional Construction Lines 6dff7708|Illustration Pencil Drawing of Male Head with Proportional Construction Lines]] — shared language: pencil, head
 - [[_archive/auto-generated/images-stale/pencil drawing of a male head with proportional construction lines aa863b9e|pencil drawing of a male head with proportional construction lines]] — shared language: pencil, head
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
+- [[knowledge/wiki/images/Illustration Character Head Studies With Helmet And Upward Gazing Expressions 122aa508|Illustration Character Head Studies With Helmet And Upward Gazing Expressions]] — shared language: upward, head
 <!-- vault-crosslinks:end -->

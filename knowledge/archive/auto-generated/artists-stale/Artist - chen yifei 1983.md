@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - chen yifei|Artist - chen yifei]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chen shizeng|Artist - Chen Shizeng]] — shared language: chen
+- [[knowledge/wiki/artists/Artist - Chen Shizeng|Artist - Chen Shizeng]] — shared language: chen
 - [[_archive/auto-generated/images-stale/plum blossoms by chen shizeng a2f19917|plum blossoms by chen shizeng]] — shared language: chen
 - [[knowledge/wiki/images/Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng 536f22ca|Illustration Traditional Chinese Ink Painting of Plum Blossoms with Calligraphy by Chen Shizeng]] — shared language: chen
 - [[knowledge/wiki/images/Illustration Pixel Art Potted Plant With Red Flowers f156ff4e|Illustration Pixel Art Potted Plant With Red Flowers]] — shared language: plant
-- [[knowledge/wiki/images/Illustration Glowing Blue Stylized Plant With Two Yellow Flowers 0ad35ba2|Illustration Glowing Blue Stylized Plant With Two Yellow Flowers]] — shared language: plant
 <!-- vault-crosslinks:end -->

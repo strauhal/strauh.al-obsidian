@@ -45,7 +45,7 @@ that i can capture in html."
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (4).** [[Diagram Diagram of Online Services Mapped to Classifieds Categories a289bb38|Diagram Diagram of Online Services Mapped to Classifieds Categories]] · [[Diagram The Internet Map by Barrett Lyon b26d2dc4|Diagram The Internet Map by Barrett Lyon]] · [[Illustration Person Playing Online Card Game at Night b0b118f6|Illustration Person Playing Online Card Game at Night]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]]
+**Images (4).** [[Diagram The Internet Map by Barrett Lyon b26d2dc4|Diagram The Internet Map by Barrett Lyon]] · [[Diagram of Online Services Mapped to Classifieds Categories 8ea70870|Diagram of Online Services Mapped to Classifieds Categories]] · [[Illustration Person Playing Online Card Game at Night b0b118f6|Illustration Person Playing Online Card Game at Night]] · [[vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg 4e5d553d|vincent van gogh 1853 1890 cafeterras bij nacht place du forum kroller muller museum otterlo 23 8 2016 13 35 40 jpeg]]
 
 **Books (2).** [[the-internet-s-ai-slop-problem-is-only-going-to-get-worse|The Internet’s AI Slop Problem Is Only Going to Get Worse]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Black and White Print of Buildings and Dense Trees in Landscape 3e0dbe4a|Illustration Black and White Print of Buildings and Dense Trees in Landscape]] — shared language: dense, buildings, print
+- [[knowledge/wiki/images/Illustration Black and White Print of Buildings and Dense Trees in Landscape 3e0dbe4a|Illustration Black and White Print of Buildings and Dense Trees in Landscape]] — shared language: dense, print, buildings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, dense
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: print, landscape
 - [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[_archive/auto-generated/images-stale/oil painting of a rocky landscape with dense trees and cloudy sky b00e7903|oil painting of a rocky landscape with dense trees and cloudy sky]] — shared language: dense, trees, landscape
 <!-- vault-crosslinks:end -->

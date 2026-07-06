@@ -3,8 +3,8 @@ title: recent-dreams-before-ayahuasca
 type: source-index
 aliases: [Recent Dreams Before Ayahuasca]
 tags: [source, dreams, journal, provenance]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Recent Dreams Before Ayahuasca
@@ -24,7 +24,7 @@ The verbatim account is preserved in `knowledge/raw/recent-dreams-before-ayahuas
 ## Discovered Connections
 
 - [[knowledge/wiki/life/The Ceremony|The Ceremony]] — named in this note
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, ceremony, recent
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, recent, ceremony
 - [[Welcome|strauh.al Knowledge Base]] — shared language: dreams, knowledge
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: dreams, knowledge
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dreams, dream

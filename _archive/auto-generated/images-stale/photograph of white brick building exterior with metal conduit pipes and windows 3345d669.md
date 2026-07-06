@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph White Brick Building Exterior With Metal Pipes And Windows 230eb388|Photograph White Brick Building Exterior With Metal Pipes And Windows]] — shared language: pipes, exterior, brick
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: brick, building
-- [[knowledge/wiki/images/Photograph Colorful Building Exterior with Red Sky and Strong Shadows 6560fe2d|Photograph Colorful Building Exterior with Red Sky and Strong Shadows]] — shared language: exterior, building
-- [[knowledge/wiki/images/Photograph Modern White Building with Curved Architecture and Large Windows d9a56800|Photograph Modern White Building with Curved Architecture and Large Windows]] — shared language: windows, building, windows.jpeg
+- [[knowledge/wiki/images/Colorful Building Exterior with Red Sky and Strong Shadows 4dbf3f07|Colorful Building Exterior with Red Sky and Strong Shadows]] — shared language: exterior, building
+- [[_archive/auto-generated/images-stale/Photograph Colorful Building Exterior with Red Sky and Strong Shadows 6560fe2d|Photograph Colorful Building Exterior with Red Sky and Strong Shadows]] — shared language: exterior, building
 <!-- vault-crosslinks:end -->

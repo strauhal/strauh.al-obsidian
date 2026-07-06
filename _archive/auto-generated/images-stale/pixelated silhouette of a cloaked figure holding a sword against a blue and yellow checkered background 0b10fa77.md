@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/digital illustration of a man with a large mustache holding a sword against a red background aed6b5e0|digital illustration of a man with a large mustache holding a sword against a red background]] — shared language: sword, against, holding
 - [[knowledge/wiki/images/Illustration Stylized Man With Large Mustache Holding Sword Against Red Background 49acfe2c|Illustration Stylized Man With Large Mustache Holding Sword Against Red Background]] — shared language: sword, against, holding
 - [[_archive/auto-generated/images-stale/pixelated figure in dark hooded armor holding a sword on a pink striped background 94dc5460|pixelated figure in dark hooded armor holding a sword on a pink striped background]] — shared language: sword, pixelated, holding
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Illustration Pixelated Figure In Dark Hooded Armor Holding Sword fa2d50a4|Illustration Pixelated Figure In Dark Hooded Armor Holding Sword]] — shared language: sword, pixelated, holding
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure fad9e89f|Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, protein, symmetrical
+- [[knowledge/wiki/images/Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure 1d533be6|Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, protein, symmetrical
+- [[_archive/auto-generated/images-stale/Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure fad9e89f|Diagram Symmetrical Molecular Diagram of a Pink and Yellow Protein Structure]] — shared language: molecular, protein, symmetrical
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration 3D Model of a Protein Structure with Bound Ligand c93a551c|Illustration 3D Model of a Protein Structure with Bound Ligand]] — shared language: protein, structure
 - [[knowledge/wiki/images/Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center bfb9d14c|Diagram Scientific Visualization of Green Ribbon Protein Structure, Magenta Center]] — shared language: protein, structure, diagram
-- [[knowledge/wiki/images/Illustration Symmetrical Organic Structure With Central Dark Oval 48877cb1|Illustration Symmetrical Organic Structure With Central Dark Oval]] — shared language: symmetrical, structure
 <!-- vault-crosslinks:end -->

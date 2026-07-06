@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: deer, forest
 - [[knowledge/wiki/images/Illustration Isometric Forest Scene With Character Panels a0925eeb|Illustration Isometric Forest Scene With Character Panels]] — shared language: forest, scene
 - [[knowledge/wiki/images/Illustration Colorful Print of Buoy on Water with Forest Shoreline 6b8c6220|Illustration Colorful Print of Buoy on Water with Forest Shoreline]] — shared language: forest, colorful
-- [[knowledge/wiki/images/Illustration Retro futuristic LaserDisc Promotional Poster with a Colorful Disc and Laser Beam 0dff18ff|Illustration Retro futuristic LaserDisc Promotional Poster with a Colorful Disc and Laser Beam]] — shared language: beam, colorful
+- [[knowledge/wiki/images/Illustration White Deer With Pylon Antlers Against Dark Blue Background 96fffcd0|Illustration White Deer With Pylon Antlers Against Dark Blue Background]] — shared language: deer
 <!-- vault-crosslinks:end -->

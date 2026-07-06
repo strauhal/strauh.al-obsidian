@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Black and White Photograph of Margaret Kilgallen on Skateboard 333a7d98|Black and White Photograph of Margaret Kilgallen on Skateboard]] — shared language: kilgallen, margaret
 - [[knowledge/wiki/images/mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883 bff3e777|mrs henry white margaret stuyvesant rutherfurd by john singer sargent 1883]] — shared language: margaret
 - [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: big
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Geometric Sculpture with Small Figure f99bf22d|Photograph Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
-- [[knowledge/wiki/images/Photograph Couple in Small Motorboat on Water 1190aa48|Photograph Couple in Small Motorboat on Water]] — shared language: small
+- [[knowledge/wiki/images/Black and White Photograph of Geometric Sculpture with Small Figure e578cd32|Black and White Photograph of Geometric Sculpture with Small Figure]] — shared language: small
 - [[knowledge/wiki/images/Illustration Abstract Curvilinear Architectural Sketch with Small Figures 7d027290|Illustration Abstract Curvilinear Architectural Sketch with Small Figures]] — shared language: small
-- [[knowledge/wiki/images/Photograph Big Ben and Houses of Parliament at Twilight with Birds 069b0588|Photograph Big Ben and Houses of Parliament at Twilight with Birds]] — shared language: big
+- [[knowledge/wiki/images/Big Ben and Houses of Parliament at Twilight with Birds f79a686c|Big Ben and Houses of Parliament at Twilight with Birds]] — shared language: big
 <!-- vault-crosslinks:end -->

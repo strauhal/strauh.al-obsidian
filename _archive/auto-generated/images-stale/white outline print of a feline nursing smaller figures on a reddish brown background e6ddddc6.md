@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background 714f06b1|Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background]] — shared language: nursing, outline, reddish
+- [[knowledge/wiki/images/Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background 714f06b1|Illustration White Outline Feline Nursing Smaller Figures on Reddish Brown Background]] — shared language: nursing, outline, smaller
 - [[_archive/auto-generated/images-stale/black line sketch of a stylized feline on brown paper 307bb55b|black line sketch of a stylized feline on brown paper]] — shared language: feline, brown
 - [[knowledge/wiki/images/Illustration Black Line Sketch of Stylized Feline on Brown Paper 42b21323|Illustration Black Line Sketch of Stylized Feline on Brown Paper]] — shared language: feline, brown
 - [[_archive/auto-generated/images-stale/two sketches of a woman s head in blue ink and reddish brown marker on brown paper 33271e4f|two sketches of a woman s head in blue ink and reddish brown marker on brown paper]] — shared language: reddish, brown

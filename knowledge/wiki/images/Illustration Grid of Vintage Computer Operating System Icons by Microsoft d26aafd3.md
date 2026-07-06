@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft a695d84c|Screenshot Windows Media Player Displaying Red Abstract Sound Visualization And Radio Information by Microsoft]] — same artist: microsoft
 - [[knowledge/wiki/artists/Artist - vintage tech and icons|Artist - vintage tech and icons]] — shared language: icons, vintage, computer
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 <!-- vault-crosslinks:end -->

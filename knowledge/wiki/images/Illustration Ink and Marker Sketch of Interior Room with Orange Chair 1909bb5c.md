@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 - [[knowledge/wiki/images/Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes e6cc8dbb|Illustration Marker and Ink Sketch of a Woman's Head with Blue Eyes]] — shared language: marker, sketch, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Illustration Pencil Sketch of an Interior Room with Balcony View abc7ea25|Illustration Pencil Sketch of an Interior Room with Balcony View]] — shared language: room, interior, sketch
+- [[knowledge/wiki/images/Illustration Pencil Sketch of an Interior Room with Balcony View abc7ea25|Illustration Pencil Sketch of an Interior Room with Balcony View]] — shared language: room, sketch, interior
 <!-- vault-crosslinks:end -->

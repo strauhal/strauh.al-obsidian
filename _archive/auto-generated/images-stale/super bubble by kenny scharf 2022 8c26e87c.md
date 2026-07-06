@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf 2022|Artist - kenny scharf 2022]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kenny scharf 2021|Artist - kenny scharf 2021]] — named in this note
 - [[_archive/auto-generated/images-stale/mr goody goody by kenny scharf 2021 7de5ee79|mr goody goody by kenny scharf 2021]] — same artist: kenny scharf
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: bubble
 - [[knowledge/wiki/anchors/kenny-larkin|Kenny Larkin]] — shared language: kenny
+- [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
 <!-- vault-crosslinks:end -->

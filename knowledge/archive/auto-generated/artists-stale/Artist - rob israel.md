@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Rob Israel|Artist - Rob Israel]] — named in this note
 - [[_archive/auto-generated/images-stale/concerning by rob israel 81a50a29|concerning by rob israel]] — shared language: rob, israel, concerning
 - [[knowledge/wiki/images/Pulled Up by Rob Pointon (2016) ab382f11|Pulled Up by Rob Pointon (2016)]] — shared language: rob
 - [[knowledge/wiki/artists/Artist - Rob Pointon|Artist - Rob Pointon]] — shared language: rob
+- [[knowledge/wiki/artists/Artist - Rob Woodcox|Artist - Rob Woodcox]] — shared language: rob
 - [[knowledge/wiki/artists/Artist - rob verhorst|Artist - rob verhorst]] — shared language: rob
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rob verhorst 1992|Artist - rob verhorst 1992]] — shared language: rob
-- [[knowledge/wiki/images/Hills of Houses by Rob Pointon 53cab778|Hills of Houses by Rob Pointon]] — shared language: rob
 <!-- vault-crosslinks:end -->

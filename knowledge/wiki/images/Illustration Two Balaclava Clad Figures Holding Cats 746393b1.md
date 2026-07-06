@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Street Artist Drawing Man In Balaclava d1c362a3|Photograph Street Artist Drawing Man In Balaclava]] — shared language: balaclava
+- [[knowledge/wiki/images/Street Artist Drawing Man In Balaclava a74063dd|Street Artist Drawing Man In Balaclava]] — shared language: balaclava
+- [[knowledge/wiki/images/Person In Balaclava Holding Metal Chain With Chopsticks 000e77bb|Person In Balaclava Holding Metal Chain With Chopsticks]] — shared language: balaclava, holding
 - [[knowledge/wiki/images/Illustration Two Anthropomorphic Cats Dancing, Holding Hands 06f8510c|Illustration Two Anthropomorphic Cats Dancing, Holding Hands]] — shared language: cats, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings 3c914786|Illustration Dark Clad Figure in Mountainous Landscape with Distant Buildings]] — shared language: clad
-- [[knowledge/wiki/images/Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure ca79ea75|Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure]] — shared language: balaclava
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Frank Zappa Pointing at Viewer 88d2630c|Photograph Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: viewer, pointing, viewer.jpg
+- [[knowledge/wiki/images/Black and White Photograph of Frank Zappa Pointing at Viewer 09b26044|Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: viewer, pointing, viewer.jpg
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Frank Zappa Pointing at Viewer 88d2630c|Photograph Black and White Photograph of Frank Zappa Pointing at Viewer]] — shared language: viewer, pointing, viewer.jpg
 - [[_archive/auto-generated/images-stale/color photograph of four men in dark suits pointing at the viewer 1dae4994|color photograph of four men in dark suits pointing at the viewer]] — shared language: viewer, pointing, viewer.jpg
-- [[knowledge/wiki/images/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: viewer, pointing, viewer.jpg
-- [[_archive/auto-generated/images-stale/black and white photographic portrait of a woman with long dark hair b3cb3ff5|black and white photographic portrait of a woman with long dark hair]] — shared language: long, hair
-- [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: directly
+- [[knowledge/wiki/images/Four Men in Dark Suits Pointing Towards Viewer f314da73|Four Men in Dark Suits Pointing Towards Viewer]] — shared language: viewer, pointing, viewer.jpg
+- [[_archive/auto-generated/images-stale/Photograph Four Men in Dark Suits Pointing Towards Viewer 657e6423|Photograph Four Men in Dark Suits Pointing Towards Viewer]] — shared language: viewer, pointing, viewer.jpg
 <!-- vault-crosslinks:end -->

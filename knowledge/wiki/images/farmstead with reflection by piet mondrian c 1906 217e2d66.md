@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/farmstead_with_r
 - [[knowledge/wiki/images/composition no 10 pier and ocean by piet mondrian 1915 41913602|composition no 10 pier and ocean by piet mondrian 1915]] — same artist: piet mondrian
 - [[knowledge/wiki/images/piet mondrian composition no iv 1914 9c7d7b19|piet mondrian composition no iv 1914]] — shared language: mondrian, piet
 - [[knowledge/wiki/images/Broadway Boogie Woogie by Piet Mondrian (1942 1943) a719fbee|Broadway Boogie Woogie by Piet Mondrian (1942 1943)]] — shared language: mondrian, piet
-- [[knowledge/wiki/images/Photograph Golden Retriever Looking At Its Reflection In A Mirror 11fdd33c|Photograph Golden Retriever Looking At Its Reflection In A Mirror]] — shared language: reflection
+- [[knowledge/wiki/images/Illustration Black Dog Looking At Its Reflection In A Mirror d3153e0e|Illustration Black Dog Looking At Its Reflection In A Mirror]] — shared language: reflection
 <!-- vault-crosslinks:end -->

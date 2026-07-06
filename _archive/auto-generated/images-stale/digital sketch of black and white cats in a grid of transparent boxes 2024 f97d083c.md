@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[knowledge/wiki/images/Photograph Photograph of an Abstract Architectural Model with Transparent Panels 7ecaba44|Photograph Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: transparent
+- [[knowledge/wiki/images/Photograph of an Abstract Architectural Model with Transparent Panels 674ee24a|Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: transparent
 <!-- vault-crosslinks:end -->

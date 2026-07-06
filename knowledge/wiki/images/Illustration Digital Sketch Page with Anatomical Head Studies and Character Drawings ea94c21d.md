@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies, drawings
 - [[knowledge/wiki/images/Illustration Digital Sketch of Fantasy Figure with Multiple Head and Body Studies 3ccd85a5|Illustration Digital Sketch of Fantasy Figure with Multiple Head and Body Studies]] — shared language: studies, sketch, head
 - [[knowledge/wiki/images/Illustration Sketchbook Page with Multiple Character Studies and a Ram's Head a9fef596|Illustration Sketchbook Page with Multiple Character Studies and a Ram's Head]] — shared language: studies, character, page
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: anatomical
 <!-- vault-crosslinks:end -->

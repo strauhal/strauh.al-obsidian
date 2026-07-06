@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1976_291_time_un
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: time
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: time
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: time
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: time
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: time
+- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: time
 <!-- vault-crosslinks:end -->

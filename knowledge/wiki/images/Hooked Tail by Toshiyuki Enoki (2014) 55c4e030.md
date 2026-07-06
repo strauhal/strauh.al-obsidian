@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Hooked Tail by T
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent 7839d79b|Illustration Black and White Woodcut of Whale's Tail and Small Boat by Rockwell Kent]] — shared language: tail
-- [[knowledge/wiki/images/Hold Me by Malcolm T. Liepke (2023) 51d992e5|Hold Me by Malcolm T. Liepke (2023)]] — nearby note in the same source series
+- [[knowledge/wiki/images/Homeless Person Wearing VR Headset on San Francisco Street 5ea108a2|Homeless Person Wearing VR Headset on San Francisco Street]] — nearby note in the same source series
 - [[knowledge/wiki/images/Hoover Dam by William Smerchek (1940) 2f8e1bef|Hoover Dam by William Smerchek (1940)]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - gerry georgatos 1975|Artist - gerry georgatos 1975]] — shared language: gerry
 - [[knowledge/wiki/images/the great beast by gerry georgatos 1975 998148c9|the great beast by gerry georgatos 1975]] — shared language: gerry
 - [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: hands
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of An Older Man With Hands Raised 073ecd0b|Photograph Black And White Portrait Of An Older Man With Hands Raised]] — shared language: hands
+- [[knowledge/wiki/images/Black And White Portrait Of An Older Man With Hands Raised 669e2955|Black And White Portrait Of An Older Man With Hands Raised]] — shared language: hands
 <!-- vault-crosslinks:end -->

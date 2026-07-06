@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/darren-aronofsky|Darren Aronofsky]] — named in this note
-- [[knowledge/wiki/culture/movie-requiem-for-a-dream|Watchlist - Requiem for a Dream]] — shared language: requiem, darren, dream
+- [[knowledge/wiki/culture/movie-requiem-for-a-dream|Watchlist - Requiem for a Dream]] — shared language: requiem, dream, darren
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: dream
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream
-- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: requiem
+- [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
 <!-- vault-crosslinks:end -->

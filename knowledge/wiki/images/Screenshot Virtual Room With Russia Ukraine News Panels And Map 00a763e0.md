@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/images/Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict e9b02fc9|Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict]] — shared language: virtual, panels, screenshot
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/images/Screenshot Screenshot of News Article About Vacant Homes and Homelessness 422d2d7c|Screenshot Screenshot of News Article About Vacant Homes and Homelessness]] — shared language: news, screenshot
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: virtual
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: virtual

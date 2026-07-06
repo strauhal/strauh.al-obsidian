@@ -40,5 +40,5 @@ Images attributed by filename: 6
 - [[knowledge/wiki/images/The Snake Charmer by Henri Rousseau (1907) 0bc72ed3|The Snake Charmer by Henri Rousseau (1907)]] — shared language: charmer, snake
 - [[knowledge/wiki/images/The Veil by Santiago March n (2018) aaed0456|The Veil by Santiago March n (2018)]] — shared language: veil
 - [[knowledge/wiki/images/the offering by gilbert williams 1995 ae967606|the offering by gilbert williams 1995]] — shared language: offering
-- [[knowledge/wiki/images/Girl at a Fountain by L on Bonnat (1875) 093c2dac|Girl at a Fountain by L on Bonnat (1875)]] — shared language: fountain
+- [[knowledge/wiki/images/snake by richard serra 1994 1997 e026d525|snake by richard serra 1994 1997]] — shared language: snake
 <!-- vault-crosslinks:end -->

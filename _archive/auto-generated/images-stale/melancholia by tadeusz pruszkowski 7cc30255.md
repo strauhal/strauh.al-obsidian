@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Melancholia by Tadeusz Pruszkowski 6b1e90ff|Melancholia by Tadeusz Pruszkowski]] — same artist: tadeusz pruszkowski
+- [[knowledge/wiki/artists/Artist - Tadeusz Pruszkowski|Artist - Tadeusz Pruszkowski]] — named in this note
 - [[_archive/auto-generated/images-stale/pruszkowski melancholia jpg 3a5f7058|pruszkowski melancholia jpg]] — shared language: pruszkowski, melancholia
-- [[_archive/auto-generated/images-stale/mehrdad 08 jpg 5862844d|mehrdad 08 jpg]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

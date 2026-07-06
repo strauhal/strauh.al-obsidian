@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: creatures, surreal, detailed
 - [[knowledge/archive/auto-generated/artists-stale/Artist - armored figures|Artist - armored figures]] — shared language: armored, detailed
 - [[knowledge/wiki/images/Illustration Multi panel artwork depicting a surreal landscape with figures and text 7c8a85d2|Illustration Multi panel artwork depicting a surreal landscape with figures and text]] — shared language: surreal, depicting, landscape
-- [[knowledge/wiki/images/detailed black and white surreal composition with figures and eyes 1988 9c364d0a|detailed black and white surreal composition with figures and eyes 1988]] — shared language: surreal, detailed
+- [[knowledge/wiki/images/Illustration Detailed Black and White Cosmic Creatures and Abstract Forms 07d2f369|Illustration Detailed Black and White Cosmic Creatures and Abstract Forms]] — shared language: creatures, detailed
 <!-- vault-crosslinks:end -->

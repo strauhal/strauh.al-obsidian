@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/culture_society.html"
 source_relpath: "culture_society.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # culture society
@@ -471,11 +471,11 @@ strauh.al/culture_society
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/skrillex|Skrillex]] — named in this note
-- [[knowledge/wiki/images/13312890 1364959343517951 9080943046825273669 n a7dd21a0|13312890 1364959343517951 9080943046825273669 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/180913581 127556412765709 1144180134642286206 n d4b2bdd7|180913581 127556412765709 1144180134642286206 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/226192348 10220277890637972 2382098757685824163 n f18de750|226192348 10220277890637972 2382098757685824163 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/254972528 283287463806100 3463202423831714690 n 0cbe9586|254972528 283287463806100 3463202423831714690 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/255726861 10161484858398128 271362541008171646 n adc7b51a|255726861 10161484858398128 271362541008171646 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/257778344 10158210713927401 68173542825849642 n d1a742f1|257778344 10158210713927401 68173542825849642 n]] — shared language: n.jpg
-- [[knowledge/wiki/images/258188953 10221261808602764 1282305869196889281 n bc3c1c2c|258188953 10221261808602764 1282305869196889281 n]] — shared language: n.jpg
+- [[knowledge/wiki/pages/2024 downloadsfolder|2024 downloadsfolder]] — shared language: n.jpg, pm.png, shot
+- [[knowledge/wiki/images/Screen Shot 2020 10 10 at 6.36.47 PM 507cb295|Screen Shot 2020 10 10 at 6.36.47 PM]] — shared language: shot, screen, pm.png
+- [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: n.jpg, shot, pm.png
+- [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: society
+- [[knowledge/wiki/pages/san francisco|san francisco]] — shared language: n.jpg, o.jpg, none
+- [[knowledge/wiki/pages/comics|comics]] — shared language: n.jpg, n.png, o.jpg
+- [[knowledge/wiki/books/cia-rdp96-00792r000700130001-6|CIA-RDP96-00792R000700130001-6]] — shared language: society
 <!-- vault-crosslinks:end -->

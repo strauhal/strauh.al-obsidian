@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph Monumental Stone Sculpture Gateway with City Skyline in Background 36904290|Photograph Monumental Stone Sculpture Gateway with City Skyline in Background]] — shared language: gateway, monumental, stone
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
+- [[knowledge/wiki/images/Monumental Stone Sculpture Gateway with City Skyline in Background 7fdd7b2a|Monumental Stone Sculpture Gateway with City Skyline in Background]] — shared language: gateway, monumental, stone
+- [[_archive/auto-generated/images-stale/Photograph Monumental Stone Sculpture Gateway with City Skyline in Background 36904290|Photograph Monumental Stone Sculpture Gateway with City Skyline in Background]] — shared language: gateway, monumental, stone
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: monumental
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city, background
+- [[knowledge/wiki/images/Illustration Drawing of a Man's Head and Shoulders in Red and Black Pencil fa16c62c|Illustration Drawing of a Man's Head and Shoulders in Red and Black Pencil]] — shared language: shoulders, head
+- [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: shoulders, head
 <!-- vault-crosslinks:end -->

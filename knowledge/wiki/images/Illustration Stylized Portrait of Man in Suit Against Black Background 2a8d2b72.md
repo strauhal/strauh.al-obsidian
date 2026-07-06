@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Man With Large Mustache Holding Sword Against Red Background 49acfe2c|Illustration Stylized Man With Large Mustache Holding Sword Against Red Background]] — shared language: against, stylized, background
-- [[knowledge/wiki/images/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: suit, against
-- [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: against, background, background.jpeg
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
+- [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: suit, against
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
+- [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: against, background, background.jpeg
+- [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: stylized, background
 <!-- vault-crosslinks:end -->

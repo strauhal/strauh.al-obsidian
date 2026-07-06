@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Julien Breton|Artist - Julien Breton]] — named in this note
 - [[_archive/auto-generated/images-stale/light calligraphy of arabic script over a sunset landscape by julien breton c1f6eaf1|light calligraphy of arabic script over a sunset landscape by julien breton]] — shared language: julien, breton, arabic
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: breton
 - [[knowledge/wiki/images/Illustration Abstract Black Arabic Calligraphy on Off White Background 070ac168|Illustration Abstract Black Arabic Calligraphy on Off White Background]] — shared language: arabic, calligraphy
 - [[_archive/auto-generated/images-stale/black modern arabic calligraphy on beige background c4e27cb1|black modern arabic calligraphy on beige background]] — shared language: arabic, calligraphy
 - [[knowledge/wiki/images/Illustration Modern Black Arabic Calligraphy on Beige Background bdd7ce45|Illustration Modern Black Arabic Calligraphy on Beige Background]] — shared language: arabic, calligraphy
-- [[knowledge/wiki/images/Photograph Red Arabic Calligraphy Mural On A Gray Wall bddcba61|Photograph Red Arabic Calligraphy Mural On A Gray Wall]] — shared language: arabic, calligraphy
 <!-- vault-crosslinks:end -->

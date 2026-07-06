@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/digital death mask archive 1 d745068d|digital death mask archive 1]] — shared language: mask
 - [[_archive/auto-generated/images-stale/oil painting of a figure in a black mask and a dark creature 77978553|oil painting of a figure in a black mask and a dark creature]] — shared language: mask
 - [[_archive/auto-generated/images-stale/framed expressionist painting of three mask like heads 9c25bb65|framed expressionist painting of three mask like heads]] — shared language: mask
-- [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: mask
+- [[_archive/auto-generated/images-stale/person wearing a black monkey mask in a gallery 986a02de|person wearing a black monkey mask in a gallery]] — shared language: mask
 <!-- vault-crosslinks:end -->

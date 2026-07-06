@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Black Ink Diagram of Overlapping Outlines, Stippling, and Arrows e918d56e|Diagram Black Ink Diagram of Overlapping Outlines, Stippling, and Arrows]] — shared language: stippling, outlines, arrows
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, arrows
 - [[knowledge/wiki/images/Illustration Abstract Floral Outlines on Blue Background 73a87d23|Illustration Abstract Floral Outlines on Blue Background]] — shared language: outlines, background
 - [[_archive/auto-generated/images-stale/black ink drawing of intersecting lines arrows and abstract symbols on a light background cfae9ddc|black ink drawing of intersecting lines arrows and abstract symbols on a light background]] — shared language: arrows, ink, background
 - [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: overlapping, background, background.jpg

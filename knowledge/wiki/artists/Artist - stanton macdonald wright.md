@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780) af192adb|Vesuvius in Eruption by Joseph Wright of Derby (c. 1776 1780)]] — shared language: wright
 - [[knowledge/wiki/images/John Coasts Esq. by Joseph Wright of Derby (1770s) a57db780|John Coasts Esq. by Joseph Wright of Derby (1770s)]] — shared language: wright
 - [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: passing, train
-- [[knowledge/wiki/images/Photograph Young Woman Holding Camcorders on a Train with Sunlight 97e27b87|Photograph Young Woman Holding Camcorders on a Train with Sunlight]] — shared language: train
+- [[knowledge/wiki/images/Train with Headlights Inside Another Train Car 2d35357c|Train with Headlights Inside Another Train Car]] — shared language: train
 <!-- vault-crosslinks:end -->

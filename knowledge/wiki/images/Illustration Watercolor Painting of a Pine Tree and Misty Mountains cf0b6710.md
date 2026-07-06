@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Misty Mountains and Pine Trees in a Hazy Landscape e71270a6|Photograph Misty Mountains and Pine Trees in a Hazy Landscape]] — shared language: misty, pine, mountains
-- [[knowledge/wiki/images/Photograph Person With Blue Umbrella Walking On Path In Misty Mountains 73eda492|Photograph Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: misty, mountains, mountains.jpg
+- [[knowledge/wiki/images/Person With Blue Umbrella Walking On Path In Misty Mountains 93b3411c|Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: misty, mountains, mountains.jpg
+- [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: pine, mountains
 - [[knowledge/wiki/images/Illustration Misty Mountain Valley with Prominent Tree in Foreground f3739480|Illustration Misty Mountain Valley with Prominent Tree in Foreground]] — shared language: misty, tree
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field 440b52a5|Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field]] — shared language: pine, watercolor
-- [[knowledge/wiki/images/Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk 595024bc|Photograph Historic Hotel Surrounded By Snowy Pine Trees And Mountains At Dusk]] — shared language: pine, mountains
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person Standing on Icy Road in Snowy Mountain Landscape d90cb76c|Photograph Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, road, landscape
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
 - [[knowledge/wiki/images/Illustration Winding Road Through Golden Fields Under Dark Sky 4bc8388d|Illustration Winding Road Through Golden Fields Under Dark Sky]] — shared language: winding, road
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: snowy, road, landscape
 - [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: winding, landscape
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Photograph Winding Road Through Sunlit Forest with Hazy Light 7c3c76bc|Photograph Winding Road Through Sunlit Forest with Hazy Light]] — shared language: winding, road
 <!-- vault-crosslinks:end -->

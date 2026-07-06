@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - Alan Bean|Artist - Alan Bean]] — shared language: alan, pete
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bess duke|Artist - bess duke]] — shared language: bess
 - [[knowledge/archive/auto-generated/artists-stale/Artist - bess duke 2021|Artist - bess duke 2021]] — shared language: bess
-- [[knowledge/wiki/images/Photograph Pete Conrad Collecting Core Sample by Alan Bean 4bf47888|Photograph Pete Conrad Collecting Core Sample by Alan Bean]] — shared language: alan, pete
-- [[_archive/auto-generated/images-stale/cake by bess duke 2021 afb9398e|cake by bess duke 2021]] — shared language: bess
+- [[knowledge/wiki/artists/Artist - Alan Bean|Artist - Alan Bean]] — shared language: alan, pete
+- [[knowledge/wiki/images/Pete Conrad Collecting Core Sample by Alan Bean dcfba788|Pete Conrad Collecting Core Sample by Alan Bean]] — shared language: alan, pete
+- [[_archive/auto-generated/images-stale/Photograph Pete Conrad Collecting Core Sample by Alan Bean 4bf47888|Photograph Pete Conrad Collecting Core Sample by Alan Bean]] — shared language: alan, pete
 <!-- vault-crosslinks:end -->

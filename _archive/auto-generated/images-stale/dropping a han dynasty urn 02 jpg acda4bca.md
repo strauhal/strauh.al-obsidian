@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 1a9111e2|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: dropping, urn, han
-- [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 317cc6d9|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: dropping, urn, han
-- [[_archive/auto-generated/images-stale/Ai Weiwei Dropping a Han Dynasty Urn 1995 02db0613|Ai Weiwei Dropping a Han Dynasty Urn 1995]] — shared language: dropping, urn, han
+- [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 1a9111e2|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: urn, dropping, han
+- [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 317cc6d9|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: urn, dropping, han
+- [[_archive/auto-generated/images-stale/Ai Weiwei Dropping a Han Dynasty Urn 1995 02db0613|Ai Weiwei Dropping a Han Dynasty Urn 1995]] — shared language: urn, dropping, han
 - [[knowledge/wiki/books/stanford-briefs-byung-chul-han-the-burnout-society-stanford-university-press|The Burnout Society-Stanford University Press]] — shared language: han
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tang dynasty jpg|Artist - tang dynasty jpg]] — shared language: dynasty
 <!-- vault-crosslinks:end -->

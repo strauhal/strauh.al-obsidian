@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/images/Illustration Colorful Intricate Mandelbrot Fractal Pattern 21773895|Illustration Colorful Intricate Mandelbrot Fractal Pattern]] — shared language: fractal
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: design
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: design
-- [[knowledge/wiki/images/Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors 138237a2|Illustration Complex 3D Fractal Rendering of Swirling Forms in Warm Colors]] — shared language: fractal
+- [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: design
 <!-- vault-crosslinks:end -->

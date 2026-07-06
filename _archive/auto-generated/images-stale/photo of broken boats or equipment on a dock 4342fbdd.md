@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: broken
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: boats
 <!-- vault-crosslinks:end -->

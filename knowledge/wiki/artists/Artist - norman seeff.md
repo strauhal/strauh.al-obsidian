@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the lifesaver by norman rockwell 1959 d22630e8|the lifesaver by norman rockwell 1959]] — shared language: norman
 - [[knowledge/wiki/images/Picasso vs Sargent by Norman Rockwell (1966) 5a89c0fa|Picasso vs Sargent by Norman Rockwell (1966)]] — shared language: norman
 - [[knowledge/wiki/images/freedom of speech by norman rockwell 1943 75140841|freedom of speech by norman rockwell 1943]] — shared language: norman
-- [[knowledge/wiki/images/Photograph Steve Jobs and John Sculley with the Macintosh 611550d9|Photograph Steve Jobs and John Sculley with the Macintosh]] — shared language: jobs, steve, macintosh
+- [[knowledge/wiki/images/cover illustration for junkie ace double d 15 by norman saunders 1953 746eadbd|cover illustration for junkie ace double d 15 by norman saunders 1953]] — shared language: norman
 <!-- vault-crosslinks:end -->

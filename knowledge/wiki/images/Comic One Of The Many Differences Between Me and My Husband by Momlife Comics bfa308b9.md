@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - One O
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one, many, comic
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many, comic
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[knowledge/wiki/images/1612987042438 fbb7f373|1612987042438]] — shared language: comics
 - [[knowledge/wiki/images/1615349440196 6f5d7199|1615349440196]] — shared language: comics
+- [[knowledge/wiki/images/1615507414186 f9263130|1615507414186]] — shared language: comics
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: furniture, isometric
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: isometric
-- [[knowledge/wiki/images/Photograph Minimalist Concrete Interior with Modern Furniture and Plant e836ee66|Photograph Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: furniture, interior
+- [[knowledge/wiki/images/Minimalist Concrete Interior with Modern Furniture and Plant 249802ae|Minimalist Concrete Interior with Modern Furniture and Plant]] — shared language: furniture, interior
 - [[knowledge/wiki/images/Illustration Sketch of a Cafe Interior with Two Figures by a Window c4166d56|Illustration Sketch of a Cafe Interior with Two Figures by a Window]] — shared language: window, interior
+- [[knowledge/wiki/images/Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure 416df990|Illustration Isometric Pixel Art Building Interior with Staircase and Faint Figure]] — shared language: isometric, interior
 - [[knowledge/wiki/images/Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture 8eba43c8|Illustration Sunlit Interior of a Cafe with Arched Windows and Wooden Furniture]] — shared language: furniture, interior
 <!-- vault-crosslinks:end -->

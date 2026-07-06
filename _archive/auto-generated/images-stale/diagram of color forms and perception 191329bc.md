@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: perception, forms, color
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: perception, diagram
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: perception
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: perception
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Marlon Brando by
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: gonzalez
 - [[knowledge/wiki/images/The Future Is Now by Josan Gonzalez (2017) 227e430a|The Future Is Now by Josan Gonzalez (2017)]] — shared language: gonzalez
 - [[knowledge/wiki/artists/Artist - Josan Gonzalez and Laurie Greasley|Artist - Josan Gonzalez and Laurie Greasley]] — shared language: gonzalez
-- [[knowledge/wiki/images/Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez 75c84caa|Illustration Pencil Drawing of a Woman's Head and Shoulders by Pepe Gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/images/illustration of a man protecting a youth in an orange forest by jose gonzalez 1971 a1bb2f97|illustration of a man protecting a youth in an orange forest by jose gonzalez 1971]] — shared language: gonzalez
 <!-- vault-crosslinks:end -->

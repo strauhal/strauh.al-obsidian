@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Thomas Ligotti, Ray Brassier - The Conspiracy against the Human Race_ A Contrivance of Horror-Hippocampus Press (2011).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # The Conspiracy against the Human Race A Contrivance of Horror-Hippocampus Press
@@ -42,8 +42,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — same category: media technology
 - [[knowledge/wiki/books/ray-bradbury-7-there-will-come-soft-rains|7 There Will Come Soft Rains]] — same category: media technology
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
-- [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/thomas-g-wong-introduction-to-classical-and-quantum-computing|Introduction to Classical and Quantum Computing]] — same category: media technology
+- [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] — same category: media technology
 - [[knowledge/wiki/books/ray-kurzweil-the-singularity-is-near-when-humans-transcend-biology-viking-adult|The Singularity Is Near When Humans Transcend Biology-Viking Adult]] — same category: media technology
 - [[knowledge/wiki/books/thomas-pynchon-gravity-s-rainbow-penguin-classics-deluxe-edition-penguin-classics|Gravity's Rainbow (Penguin Classics Deluxe Edition)-Penguin Classics]] — same category: media technology

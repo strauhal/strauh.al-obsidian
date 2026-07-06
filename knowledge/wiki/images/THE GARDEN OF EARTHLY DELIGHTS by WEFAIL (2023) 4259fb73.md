@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/THE GARDEN OF EA
 - [[knowledge/wiki/images/The Garden by Julie Curtiss (2020) b6ee5599|The Garden by Julie Curtiss (2020)]] — shared language: garden
 - [[knowledge/wiki/images/Illustration Oil Painting of a Garden with Pink and Yellow Flowers 76022de2|Illustration Oil Painting of a Garden with Pink and Yellow Flowers]] — shared language: garden
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: garden
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Elderly Woman with Parasol in Garden 2b0dafb4|Illustration Impressionistic Painting of Elderly Woman with Parasol in Garden]] — shared language: garden
+- [[knowledge/wiki/images/View Through Window of Red Sunset and Dark Garden f67370bc|View Through Window of Red Sunset and Dark Garden]] — shared language: garden
 <!-- vault-crosslinks:end -->

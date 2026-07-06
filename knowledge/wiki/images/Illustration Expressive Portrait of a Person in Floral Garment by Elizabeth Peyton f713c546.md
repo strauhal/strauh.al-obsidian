@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Green Eyes and Orange Garment 4b09814d|Illustration Stylized Portrait of Person with Green Eyes and Orange Garment]] — shared language: garment, person
 - [[knowledge/wiki/images/Illustration Expressive Painting of Nude Figure in Landscape da18a7de|Illustration Expressive Painting of Nude Figure in Landscape]] — shared language: expressive
 - [[knowledge/wiki/artists/Artist - elizabeth sparhawk jones|Artist - elizabeth sparhawk jones]] — shared language: elizabeth
-- [[knowledge/wiki/images/Photograph Fashion Portrait Of A Woman In Striped Garment 6612fbf5|Photograph Fashion Portrait Of A Woman In Striped Garment]] — shared language: garment
 - [[knowledge/wiki/images/Illustration Abstract Floral Painting on Blue Green Background a677fd0b|Illustration Abstract Floral Painting on Blue Green Background]] — shared language: floral
+- [[knowledge/wiki/images/Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon 48461781|Illustration Expressive Figure Study Drawing in Black, Red, and Blue Crayon]] — shared language: expressive
 <!-- vault-crosslinks:end -->

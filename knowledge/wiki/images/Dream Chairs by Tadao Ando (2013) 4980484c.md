@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Dream Chairs by 
 - [[knowledge/wiki/images/jeanjulesantoine lecomte du nou the dream le rve 1874 0401a653|jeanjulesantoine lecomte du nou the dream le rve 1874]] — shared language: dream
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: dream
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream
-- [[knowledge/wiki/images/Photograph Man Seated In Tadao Ando's Church Of The Light Interior d645a683|Photograph Man Seated In Tadao Ando's Church Of The Light Interior]] — shared language: tadao
+- [[knowledge/wiki/images/The Poet's Dream by John Faed (c.1882) d4bbb323|The Poet's Dream by John Faed (c.1882)]] — shared language: dream
 <!-- vault-crosslinks:end -->

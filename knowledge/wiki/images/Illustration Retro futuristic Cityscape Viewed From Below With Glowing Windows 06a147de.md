@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, futuristic
 - [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: futuristic, cityscape
 - [[knowledge/wiki/images/Illustration Retro futuristic LaserDisc Promotional Poster with a Colorful Disc and Laser Beam 0dff18ff|Illustration Retro futuristic LaserDisc Promotional Poster with a Colorful Disc and Laser Beam]] — shared language: retro, futuristic, retro-futuristic
 - [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing
 - [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: glowing
+- [[knowledge/wiki/images/futuristic cityscape with flying vehicles and canal by mac grea 1984 6379fee1|futuristic cityscape with flying vehicles and canal by mac grea 1984]] — shared language: futuristic, cityscape
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[_archive/auto-generated/images-stale/illustration of five women with blonde hair and colorful birds on a pale pink background c411d8bd|illustration of five women with blonde hair and colorful birds on a pale pink background]] — shared language: blonde, hair, pink
 - [[knowledge/wiki/images/Photograph Blonde Woman From Behind Looking At Four Paintings On Wall 22006a1c|Photograph Blonde Woman From Behind Looking At Four Paintings On Wall]] — shared language: blonde, looking
-- [[knowledge/wiki/images/Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes 9f0b9a70|Illustration Painting of Woman with Exaggerated Features, Blonde Hair, Blue Eyes]] — shared language: blonde, hair
+- [[knowledge/wiki/artists/Artist - Xinlisupreme|Artist - Xinlisupreme]] — shared language: blonde, hair
 <!-- vault-crosslinks:end -->

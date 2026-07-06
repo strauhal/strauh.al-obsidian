@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1460s"
 source_kind: "date_bucket"
-count: "5"
+count: "4"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1460s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 5
+Files: 4
 
 ## Sample
 
@@ -20,8 +20,6 @@ Files: 5
 ![[media/strauh.al3.1/1400s/saint_john_on_patmos_by_master_e_s_c_1465.jpeg]]
 
 ![[media/strauh.al3.1/2000s/The Agony in the Garden by Andrea Mantegna (c. 1458-1460).jpg]]
-
-![[media/strauh.al3.1/photography/IMG_1468.JPG]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

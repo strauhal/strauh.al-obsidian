@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: attention, ink
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: attention
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: attention
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
+- [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: displays
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: attention
 <!-- vault-crosslinks:end -->

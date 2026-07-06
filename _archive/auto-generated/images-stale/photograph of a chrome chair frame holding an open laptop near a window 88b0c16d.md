@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop c0329433|Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop]] — shared language: chrome, frame, chair
 - [[_archive/auto-generated/images-stale/chrome framed stand holding an open laptop 45ce723a|chrome framed stand holding an open laptop]] — shared language: chrome, laptop, holding
 - [[knowledge/wiki/images/Screenshot Screenshot of Marketplace Listing for a Laptop on a Chrome Stand fd86e360|Screenshot Screenshot of Marketplace Listing for a Laptop on a Chrome Stand]] — shared language: chrome, laptop
-- [[knowledge/wiki/images/Photograph Black and Orange Cats Near a Laptop ed290698|Photograph Black and Orange Cats Near a Laptop]] — shared language: laptop, near
 - [[_archive/auto-generated/images-stale/photograph of a black cat and an orange cat near a laptop 25bc633f|photograph of a black cat and an orange cat near a laptop]] — shared language: laptop, near
+- [[knowledge/wiki/images/Black and Orange Cats Near a Laptop 548f19ea|Black and Orange Cats Near a Laptop]] — shared language: laptop, near
 <!-- vault-crosslinks:end -->

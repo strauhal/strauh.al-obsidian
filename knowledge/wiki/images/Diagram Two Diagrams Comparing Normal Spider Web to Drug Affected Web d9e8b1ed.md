@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Two Di
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web, diagram
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
 - [[knowledge/wiki/images/Diagram Diagram Of Two Spider Webs From Drug Experiment cff60bbc|Diagram Diagram Of Two Spider Webs From Drug Experiment]] — shared language: spider, drug, diagram
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: web
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web
 <!-- vault-crosslinks:end -->

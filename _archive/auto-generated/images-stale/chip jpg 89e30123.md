@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Apple WWDC22 M2 chip M1 chip 2up 220606 crop bf300f2a|Apple WWDC22 M2 chip M1 chip 2up 220606 crop]] — shared language: chip
-- [[knowledge/wiki/images/Photograph Microscopic View Of A Colorful Integrated Circuit Chip 54ffa243|Photograph Microscopic View Of A Colorful Integrated Circuit Chip]] — shared language: chip
+- [[knowledge/wiki/images/Microscopic View Of A Colorful Integrated Circuit Chip eb600f7a|Microscopic View Of A Colorful Integrated Circuit Chip]] — shared language: chip
+- [[_archive/auto-generated/images-stale/Photograph Microscopic View Of A Colorful Integrated Circuit Chip 54ffa243|Photograph Microscopic View Of A Colorful Integrated Circuit Chip]] — shared language: chip
 - [[knowledge/wiki/images/Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple 3ceb4c4a|Diagram Comparison of Apple M3, M3 Pro, and M3 Max Chip Dies by Apple]] — shared language: chip
 - [[knowledge/wiki/images/Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x 4d0bbbe0|Apple M1 chip family lineup 220308 big.jpg.slideshow medium 2x]] — shared language: chip
-- [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: chip
 <!-- vault-crosslinks:end -->

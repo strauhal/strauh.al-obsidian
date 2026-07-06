@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress, headdress.jpeg
 - [[knowledge/wiki/images/Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text 42858db4|Illustration Abstract Yellow Humanoid Figure With Fringed Arms And Text]] — shared language: fringed
-- [[knowledge/wiki/images/Photograph Man Next To Mr. Peanut Costume At Event 22196b16|Photograph Man Next To Mr. Peanut Costume At Event]] — shared language: costume
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress
-- [[knowledge/wiki/images/Illustration Vintage Poster Woman In White Costume With Musical Entertainers 50e61984|Illustration Vintage Poster Woman In White Costume With Musical Entertainers]] — shared language: costume
+- [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Colorf
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: neural, diagram, colorful
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: neural, brain, diagram
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: neural, brain
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: neural
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: neural
+- [[knowledge/wiki/images/Architecture Diagram Of Convolution And Deconvolution Neural Networks c2530418|Architecture Diagram Of Convolution And Deconvolution Neural Networks]] — shared language: neural, diagram
 <!-- vault-crosslinks:end -->

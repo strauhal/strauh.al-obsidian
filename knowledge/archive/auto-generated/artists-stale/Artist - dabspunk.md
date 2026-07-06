@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
+- [[knowledge/wiki/artists/Artist - Dabspunk|Artist - Dabspunk]] — named in this note
 - [[_archive/auto-generated/images-stale/cartoon of a person holding a canvas illustrating the concept your best work is not here brain and your best work will always be here canvas by dabspu f996dad0|cartoon of a person holding a canvas illustrating the concept your best work is not here brain and your best work will always be here canvas by dabspu]] — shared language: dabspunk, canvas, brain
 - [[knowledge/wiki/books/consanguinity-on-the-canvas-studying-inbreeding-in-the-habsburg|Consanguinity on the Canvas Studying Inbreeding in the Habsburg]] — shared language: canvas
 - [[knowledge/wiki/images/Illustration Abstract Blue Shapes on Dark Canvas 05b5effb|Illustration Abstract Blue Shapes on Dark Canvas]] — shared language: canvas

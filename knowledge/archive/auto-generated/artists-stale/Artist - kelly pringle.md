@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Kelly Pringle|Artist - Kelly Pringle]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly pringle 2019|Artist - kelly pringle 2019]] — named in this note
 - [[_archive/auto-generated/images-stale/wing walkers by kelly pringle 2019 9c4e27d5|wing walkers by kelly pringle 2019]] — shared language: pringle, kelly, wing
 - [[knowledge/wiki/artists/Artist - Mike Kelly|Artist - Mike Kelly]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore|Artist - kelly latimore]] — shared language: kelly
 - [[knowledge/archive/auto-generated/artists-stale/Artist - kelly latimore 2018|Artist - kelly latimore 2018]] — shared language: kelly
-- [[knowledge/archive/auto-generated/artists-stale/Artist - terri kelly moyers|Artist - terri kelly moyers]] — shared language: kelly
 <!-- vault-crosslinks:end -->

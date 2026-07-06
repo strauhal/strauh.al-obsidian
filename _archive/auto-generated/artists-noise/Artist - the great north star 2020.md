@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/anchors-stale/artist-the-great-north-star-2020|Artist - the great north star 2020]] — shared language: north, star, great
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: north
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: great
 - [[knowledge/archive/auto-generated/artists-stale/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: star
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: star
-- [[knowledge/wiki/images/Photograph Photograph of an abstract painting depicting a cityscape with a red star 38627cc2|Photograph Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
+- [[knowledge/wiki/images/Photograph of an abstract painting depicting a cityscape with a red star 73ec5f3b|Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
+- [[_archive/auto-generated/images-stale/Photograph Photograph of an abstract painting depicting a cityscape with a red star 38627cc2|Photograph Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
 <!-- vault-crosslinks:end -->

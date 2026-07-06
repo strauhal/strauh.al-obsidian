@@ -197,5 +197,5 @@ Files: 123
 - [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: old
 - [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: old
 - [[knowledge/wiki/images/Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet 39d0fedf|Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet]] — shared language: old
-- [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: old
+- [[knowledge/wiki/images/Document Pink And Purple Event Poster With Portrait Photos 9bfd939f|Document Pink And Purple Event Poster With Portrait Photos]] — shared language: photos
 <!-- vault-crosslinks:end -->

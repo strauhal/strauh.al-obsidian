@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
 - [[knowledge/wiki/images/Illustration Outdoor Sculpture of Giant Computer Keyboard Keys on Grassy Hill bdf510c2|Illustration Outdoor Sculpture of Giant Computer Keyboard Keys on Grassy Hill]] — shared language: grassy, hill
-- [[knowledge/wiki/images/Illustration Abstract Black And White Brushstroke Composition On White Background f73c3098|Illustration Abstract Black And White Brushstroke Composition On White Background]] — shared language: composition, background
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
+- [[knowledge/wiki/images/Illustration Abstract Black And White Brushstroke Composition On White Background f73c3098|Illustration Abstract Black And White Brushstroke Composition On White Background]] — shared language: composition, background
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: composition, digital
 <!-- vault-crosslinks:end -->

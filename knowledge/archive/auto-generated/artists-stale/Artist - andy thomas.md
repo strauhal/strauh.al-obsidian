@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1981|Artist - andy warhol 1981]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1973|Artist - andy warhol 1973]] — shared language: andy
 - [[knowledge/archive/auto-generated/artists-stale/Artist - andy warhol 1958|Artist - andy warhol 1958]] — shared language: andy
-- [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: andy
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — shared language: thomas
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Anime Style Maid Skateboarding In Mid Air Against Blurred Buildings by Suzushiro 3ed15ac4|Illustration Anime Style Maid Skateboarding In Mid Air Against Blurred Buildings by Suzushiro]] — shared language: maid, mid, air
 - [[knowledge/wiki/artists/Artist - Suzushiro|Artist - Suzushiro]] — shared language: maid, mid, air
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
 - [[knowledge/wiki/pages/mid century american|mid century american]] — shared language: mid
-- [[_archive/auto-generated/images-stale/photograph of a person in a maid outfit operating dj equipment 84f44540|photograph of a person in a maid outfit operating dj equipment]] — shared language: maid
-- [[knowledge/wiki/images/Photograph Person In Maid Outfit Operating DJ Equipment 854b4cde|Photograph Person In Maid Outfit Operating DJ Equipment]] — shared language: maid
+- [[knowledge/wiki/images/Person In Maid Outfit Operating DJ Equipment 0c9455fc|Person In Maid Outfit Operating DJ Equipment]] — shared language: maid
 <!-- vault-crosslinks:end -->

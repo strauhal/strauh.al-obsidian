@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky 8df70443|Illustration Watercolor Landscape of a Meadow with Trees and Blue Sky]] — shared language: watercolor, trees, landscape
-- [[knowledge/wiki/images/Photograph Man with Eyepatch Covering Ears in Grassy Field 2ce47366|Photograph Man with Eyepatch Covering Ears in Grassy Field]] — shared language: grassy, field, field.jpg
 - [[knowledge/wiki/images/Photograph Misty Mountains and Pine Trees in a Hazy Landscape e71270a6|Photograph Misty Mountains and Pine Trees in a Hazy Landscape]] — shared language: pine, trees, landscape
 - [[knowledge/wiki/images/Illustration Watercolor Painting of a Pine Tree and Misty Mountains cf0b6710|Illustration Watercolor Painting of a Pine Tree and Misty Mountains]] — shared language: pine, watercolor
-- [[knowledge/wiki/images/Photograph Snowy Hillside with Bare Trees, Building, and Black Railing 82d659f3|Photograph Snowy Hillside with Bare Trees, Building, and Black Railing]] — shared language: hillside, trees
+- [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: pine, trees
+- [[knowledge/wiki/images/Trees with White Bands in a Grassy Landscape by Zander Olsen 4693b0e2|Trees with White Bands in a Grassy Landscape by Zander Olsen]] — shared language: grassy, trees, landscape
 <!-- vault-crosslinks:end -->

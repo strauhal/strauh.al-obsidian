@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Hewlett Packard Spaceball 3D Input Device ba42b4b2|Photograph Hewlett Packard Spaceball 3D Input Device]] — shared language: hewlett, spaceball, packard
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: input
+- [[knowledge/wiki/images/Hewlett Packard Spaceball 3D Input Device 2c2b9f2f|Hewlett Packard Spaceball 3D Input Device]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Hewlett Packard Spaceball 3D Input Device ba42b4b2|Photograph Hewlett Packard Spaceball 3D Input Device]] — shared language: hewlett, spaceball, packard
 - [[knowledge/wiki/artists/Artist - Packard|Artist - Packard]] — shared language: packard
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: input
 - [[knowledge/wiki/images/Illustration Black and White Print of Seated Man Reading by Packard f873ed4b|Illustration Black and White Print of Seated Man Reading by Packard]] — shared language: packard

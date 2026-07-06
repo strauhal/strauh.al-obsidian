@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sof
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Soft Focus Black And White Portrait Of A Person c4a638ca|Photograph Soft Focus Black And White Portrait Of A Person]] — shared language: focus, soft
+- [[knowledge/wiki/images/Soft Focus Black And White Portrait Of A Person 8ca53a39|Soft Focus Black And White Portrait Of A Person]] — shared language: focus, soft
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: focus
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: focus
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: focus
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: focus
 <!-- vault-crosslinks:end -->

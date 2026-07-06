@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — named in this note
 - [[knowledge/wiki/artists/Artist - evelyn de morgan|Artist - evelyn de morgan]] — shared language: morgan
 - [[knowledge/archive/auto-generated/artists-stale/Artist - evelyn de morgan 1881|Artist - evelyn de morgan 1881]] — shared language: morgan
-- [[knowledge/archive/auto-generated/artists-stale/Artist - morgan penza|Artist - morgan penza]] — shared language: morgan
-- [[knowledge/archive/auto-generated/artists-stale/Artist - morgan penza 2021|Artist - morgan penza 2021]] — shared language: morgan
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
+- [[knowledge/archive/auto-generated/artists-stale/Artist - frederick booth 1918|Artist - frederick booth 1918]] — shared language: frederick
+- [[knowledge/archive/auto-generated/artists-stale/Artist - morgan penza|Artist - morgan penza]] — shared language: morgan
 <!-- vault-crosslinks:end -->

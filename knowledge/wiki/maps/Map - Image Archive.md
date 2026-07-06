@@ -2,8 +2,8 @@
 title: Map - Image Archive
 type: map
 tags: [map, images, archive]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Map - Image Archive
@@ -23,10 +23,10 @@ The image archive is indexed without copying the 15 GB source folder. Notes embe
 ## Generated Layers
 
 - [[Generated Corpus Stats]]
-- Image notes: 12864
-- Artist notes inferred from filenames: 1816
-- Collection/date-bucket notes: 95
-- HTML page notes: 75
+- Image notes: 8562
+- Artist notes inferred from filenames: 1443
+- Collection/date-bucket notes: 92
+- HTML page notes: 77
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

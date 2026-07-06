@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Comparison of Sparse Hub and Spoke and Dense Networks 978293e1|Diagram Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: hub, sparse, spoke
+- [[_archive/auto-generated/images-stale/Diagram Comparison of Sparse Hub and Spoke and Dense Networks 978293e1|Diagram Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: hub, sparse, spoke
+- [[knowledge/wiki/images/Comparison of Sparse Hub and Spoke and Dense Networks ef504307|Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: hub, sparse, spoke
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network, diagram
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: network
 - [[_archive/auto-generated/images-stale/deconvolution network architecture diagram 788230db|deconvolution network architecture diagram]] — shared language: network, diagram
-- [[knowledge/wiki/images/Diagram Dense Network Diagram of Interconnected Text Labels cc9db1cc|Diagram Dense Network Diagram of Interconnected Text Labels]] — shared language: network, dense, diagram
 <!-- vault-crosslinks:end -->

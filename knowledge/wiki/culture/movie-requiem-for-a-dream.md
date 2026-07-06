@@ -7,8 +7,8 @@ status: queued
 queue_order: 37
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Requiem for a Dream
@@ -30,7 +30,7 @@ This is an active film in Ernest's current cultural diet. Add dates, reactions, 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Requiem for a Dream by Darren Aronofsky 0c551f62|Screenshot Requiem for a Dream by Darren Aronofsky]] — shared language: requiem, darren, dream
+- [[knowledge/wiki/images/Screenshot Requiem for a Dream by Darren Aronofsky 0c551f62|Screenshot Requiem for a Dream by Darren Aronofsky]] — shared language: requiem, dream, darren
 - [[knowledge/wiki/culture/movie-trainspotting|Watchlist - Trainspotting]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-koyaanisqatsi|Watchlist - Koyaanisqatsi]] — shared language: watchlist, film, current
 - [[knowledge/wiki/culture/movie-young-frankenstein|Watchlist - Young Frankenstein]] — shared language: watchlist, film, current

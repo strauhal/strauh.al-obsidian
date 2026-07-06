@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/Fky4hWiaMAAuoEy 39c76c9a|Fky4hWiaMAAuoEy]] — nearby note in the same source series
-- [[_archive/auto-generated/images-stale/Flyday Chinatown ( ) 1c91e9d5|Flyday Chinatown ( )]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/FlyH6gDWAAAfFGe 13a8f353|FlyH6gDWAAAfFGe]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/FkDHvg0XgAkkoIW 3544e8cd|FkDHvg0XgAkkoIW]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

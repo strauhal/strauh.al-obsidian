@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, amidst
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, trash, amidst
 - [[knowledge/wiki/images/Illustration Mythological Figure Drawing Bow Amidst Fire and Debris faff3d86|Illustration Mythological Figure Drawing Bow Amidst Fire and Debris]] — shared language: debris, amidst
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/images/Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office 1e742f23|Illustration Detailed Black and White Illustration of Girl Drawing in Cluttered Office]] — shared language: detailed, girl
+- [[knowledge/wiki/images/Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery 64d7c25f|Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery]] — shared language: sad, girl
 <!-- vault-crosslinks:end -->

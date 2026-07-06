@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/charcoal_drawing
 
 - [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 e1b887ce|drawing of a stepped art deco skyscraper illuminated at night 1930]] — shared language: stepped, deco, skyscraper
 - [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 2 47c413ed|drawing of a stepped art deco skyscraper illuminated at night 1930 2]] — shared language: stepped, deco, skyscraper
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper, stepped, deco
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
-- [[knowledge/wiki/pages/even more art|even more art]] — shared language: skyscraper, stepped, deco
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper
+- [[knowledge/wiki/pages/even more art|even more art]] — shared language: stepped, skyscraper, deco
 <!-- vault-crosslinks:end -->

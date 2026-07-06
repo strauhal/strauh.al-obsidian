@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/crimson_cowboy_b
 - [[knowledge/wiki/artists/Artist - thien keel|Artist - thien keel]] — shared language: keel
 - [[knowledge/wiki/images/king crimson abad7a5c|king crimson]] — shared language: crimson
 - [[knowledge/wiki/images/snow leopard poster for the minnesota opera new music theater ensemble by thien keel 1989 c2866e9c|snow leopard poster for the minnesota opera new music theater ensemble by thien keel 1989]] — shared language: keel
-- [[knowledge/wiki/images/Photograph Person in Cowboy Hat Lying in Dry Grass d2dbc8ce|Photograph Person in Cowboy Hat Lying in Dry Grass]] — shared language: cowboy
+- [[knowledge/wiki/images/Person in Cowboy Hat Lying in Dry Grass 794759cb|Person in Cowboy Hat Lying in Dry Grass]] — shared language: cowboy
 - [[knowledge/wiki/images/Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape f4ad718e|Illustration Cowboy Herding Wild Horses Through Desert Canyon Landscape]] — shared language: cowboy
 <!-- vault-crosslinks:end -->

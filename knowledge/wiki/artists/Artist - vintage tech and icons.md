@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Susan Kare with feet on computer, surrounded by vintage tech and icons.jpg]]
+![[media/strauh.al3.1/photography/Susan Kare with feet on computer, surrounded by vintage tech and icons.jpg]]
 
 ## Image Notes
 
-- [[Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons a0f5ab4e|Photograph Susan Kare with feet on computer, surrounded by vintage tech and icons]]
+- [[Susan Kare with feet on computer, surrounded by vintage tech and icons 115309b5|Susan Kare with feet on computer, surrounded by vintage tech and icons]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

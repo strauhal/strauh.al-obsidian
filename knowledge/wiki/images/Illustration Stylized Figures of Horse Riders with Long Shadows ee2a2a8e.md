@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: shadows, long, shadows.jpeg
 - [[knowledge/wiki/images/Screenshot Silhouettes of Horse Riders Against a Cloudy Sky 2fb25aa7|Screenshot Silhouettes of Horse Riders Against a Cloudy Sky]] — shared language: riders, horse
-- [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: shadows, shadows.jpeg
+- [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: shadows, long, shadows.jpeg
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
-- [[knowledge/wiki/images/Photograph Person Looking Up Against Wall With Shadows 132dcf26|Photograph Person Looking Up Against Wall With Shadows]] — shared language: shadows
+- [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: shadows, shadows.jpeg
+- [[knowledge/wiki/images/Black And White Pigeons And Their Shadows On Ground 8cafc7b8|Black And White Pigeons And Their Shadows On Ground]] — shared language: shadows
 <!-- vault-crosslinks:end -->

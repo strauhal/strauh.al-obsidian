@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - tony crisp|Artist - tony crisp]] — shared language: tony
 - [[knowledge/wiki/images/the cathedral by tony crisp 1989 d223c400|the cathedral by tony crisp 1989]] — shared language: tony
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: frank
-- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/artists/Artist - Frank Gilbreth|Artist - Frank Gilbreth]] — shared language: frank
+- [[knowledge/wiki/artists/Artist - frank miller 19911992|Artist - frank miller 19911992]] — shared language: frank
 - [[knowledge/wiki/images/frank miller 1f32b801|frank miller]] — shared language: frank
 <!-- vault-crosslinks:end -->

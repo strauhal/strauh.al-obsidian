@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/four black and white relief prints of a portrait on fabric 93ffac92|four black and white relief prints of a portrait on fabric]] — shared language: prints, four
 - [[knowledge/wiki/images/Illustration Four Black and White Relief Prints of a Portrait on Fabric 0e850100|Illustration Four Black and White Relief Prints of a Portrait on Fabric]] — shared language: prints, four
 - [[_archive/auto-generated/images-stale/installation of ten framed paintings depicting stylized black and brown figures on textured white backgrounds 06717a7f|installation of ten framed paintings depicting stylized black and brown figures on textured white backgrounds]] — shared language: backgrounds, framed, backgrounds.jpeg
-- [[knowledge/wiki/images/Photograph Two Framed Hand Colored Woodcuts on a Textured Wall e6a3ed38|Photograph Two Framed Hand Colored Woodcuts on a Textured Wall]] — shared language: colored, framed
+- [[_archive/auto-generated/images-stale/nine framed black and white prints depicting draped fabric folds in a grid installation 10472a72|nine framed black and white prints depicting draped fabric folds in a grid installation]] — shared language: prints, framed
 <!-- vault-crosslinks:end -->

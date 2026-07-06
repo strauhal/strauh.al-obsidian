@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts 2024|Artist - michael james roberts 2024]] — shared language: roberts
 - [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts 2024 2|Artist - michael james roberts 2024 2]] — shared language: roberts
 - [[knowledge/archive/auto-generated/artists-stale/Artist - joe madureira|Artist - Joe Madureira]] — shared language: joe
-- [[knowledge/archive/auto-generated/artists-stale/Artist - michael james roberts|Artist - Michael James Roberts]] — shared language: roberts
+- [[knowledge/wiki/artists/Artist - Joe Madureira|Artist - Joe Madureira]] — shared language: joe
 <!-- vault-crosslinks:end -->

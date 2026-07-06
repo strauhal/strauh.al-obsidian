@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Child With Falling Pants Amidst Roses And Distant Houses a36aa009|Illustration Child With Falling Pants Amidst Roses And Distant Houses]] — shared language: pants, roses, falling
 - [[_archive/auto-generated/images-stale/roses gaeta 2004 e6740a3b|roses gaeta 2004]] — shared language: roses
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: falling
-- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: roses
-- [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: falling
+- [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: falling
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Person Falling From Airplane 2f49f9e9|Photograph Black And White Photograph Of Person Falling From Airplane]] — shared language: falling
 <!-- vault-crosslinks:end -->

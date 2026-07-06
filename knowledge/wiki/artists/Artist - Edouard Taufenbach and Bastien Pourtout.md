@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - jules bastien lepage|Artist - jules bastien lepage]] — shared language: bastien
 - [[knowledge/wiki/artists/Artist - edouard manet|Artist - edouard manet]] — shared language: edouard
 - [[knowledge/wiki/images/portrait of a woman in a black hat by edouard manet c 1880 cd817736|portrait of a woman in a black hat by edouard manet c 1880]] — shared language: edouard
-- [[knowledge/wiki/artists/Artist - jean edouard vuillard|Artist - jean edouard vuillard]] — shared language: edouard
 - [[knowledge/wiki/images/the balcony by edouard manet 18681869 3df73757|the balcony by edouard manet 18681869]] — shared language: edouard
+- [[knowledge/wiki/artists/Artist - jean edouard vuillard|Artist - jean edouard vuillard]] — shared language: edouard
 <!-- vault-crosslinks:end -->

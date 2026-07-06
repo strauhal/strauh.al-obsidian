@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ad
 - [[knowledge/wiki/images/Illustration Original iTunes Icon by Apple Inc 82bddf97|Illustration Original iTunes Icon by Apple Inc]] — same artist: apple inc
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — named in this note
 - [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — same artist: apple inc
-- [[knowledge/wiki/images/Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: tagline, apple
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline d76016df|Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: tagline, apple
 <!-- vault-crosslinks:end -->

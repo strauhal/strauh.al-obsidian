@@ -39,9 +39,9 @@ last shared American experience.
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, jobs, quotes
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, quotes, jobs
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, look, attention
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, diary, yeah
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: quotes, instead
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: quotes, attention
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: quotes, instead
 <!-- vault-crosslinks:end -->

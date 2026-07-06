@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: arcade
 - [[_archive/auto-generated/images-stale/black and white sketch of perspective cubes and abstract arrows 73a6be20|black and white sketch of perspective cubes and abstract arrows]] — shared language: perspective
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows 8b01490f|Illustration Black and White Sketch of Perspective Cubes and Abstract Arrows]] — shared language: perspective
-- [[knowledge/wiki/images/Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines 4eddf114|Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines]] — shared language: perspective
 - [[_archive/auto-generated/images-stale/instructional diagram showing human proportions and foreshortening in perspective 679b1dac|instructional diagram showing human proportions and foreshortening in perspective]] — shared language: perspective
+- [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: perspective
 <!-- vault-crosslinks:end -->

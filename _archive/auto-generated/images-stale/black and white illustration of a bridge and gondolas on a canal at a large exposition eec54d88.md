@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Gondolas on a Canal at an Exposition 62db731f|Illustration Black and White Illustration of Gondolas on a Canal at an Exposition]] — shared language: gondolas, canal, exposition
 - [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: gondolas, canal, exposition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings e2b4dce0|Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings]] — shared language: gondolas, canal
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, exposition, large
 - [[_archive/auto-generated/artists-noise/Artist - a canal 1893|Artist - a canal 1893]] — shared language: canal, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, large
 <!-- vault-crosslinks:end -->

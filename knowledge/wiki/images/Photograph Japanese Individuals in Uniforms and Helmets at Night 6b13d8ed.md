@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Jap
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: individuals
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Figures in Military Uniforms 1bffd224|Illustration Pencil Sketches of Figures in Military Uniforms]] — shared language: uniforms
+- [[knowledge/wiki/images/Night Baseball Game with Japanese Castle in Background 349bfe49|Night Baseball Game with Japanese Castle in Background]] — shared language: japanese, night
 - [[knowledge/wiki/images/Illustration Two Male Characters in School Uniforms on a Rooftop 1a21041d|Illustration Two Male Characters in School Uniforms on a Rooftop]] — shared language: uniforms
-- [[knowledge/wiki/images/Photograph Night Baseball Game with Japanese Castle in Background 6dd8ea8b|Photograph Night Baseball Game with Japanese Castle in Background]] — shared language: japanese, night
 <!-- vault-crosslinks:end -->

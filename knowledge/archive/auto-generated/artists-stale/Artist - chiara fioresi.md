@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Chiara Fioresi|Artist - Chiara Fioresi]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white pixelated illustration of the palazzo vecchio by chiara fioresi b9ca6a0a|black and white pixelated illustration of the palazzo vecchio by chiara fioresi]] — shared language: chiara, fioresi, vecchio
-- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: chiara, fioresi
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Black And White Image Of A Woman In A Dress 59dd1095|Illustration Pixelated Black And White Image Of A Woman In A Dress]] — shared language: pixelated
 - [[knowledge/wiki/images/palazzo della civilta italiana by giovanni guerrini ernesto bruno la padula mario romano 19381943 8d6fc0b7|palazzo della civilta italiana by giovanni guerrini ernesto bruno la padula mario romano 19381943]] — shared language: palazzo

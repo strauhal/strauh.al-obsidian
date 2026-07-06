@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures 9bcf8ee2|Illustration Abstract Painting Pixelated Cursors, Red Head, Blue and Red Figures]] — shared language: pixelated
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pixelated
-- [[knowledge/wiki/images/Illustration Portrait of a Woman in Black Dress and White Shawl 4e0dc87e|Illustration Portrait of a Woman in Black Dress and White Shawl]] — shared language: dress
 - [[knowledge/wiki/images/Illustration Digital Illustration of a Woman in Green Dress 19879809|Illustration Digital Illustration of a Woman in Green Dress]] — shared language: dress
+- [[knowledge/wiki/images/Illustration Portrait of a Woman in Black Dress and White Shawl 4e0dc87e|Illustration Portrait of a Woman in Black Dress and White Shawl]] — shared language: dress
 <!-- vault-crosslinks:end -->

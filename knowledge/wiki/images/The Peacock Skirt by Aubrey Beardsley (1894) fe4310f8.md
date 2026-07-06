@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/The Peacock Skir
 - [[knowledge/wiki/images/only love and death change all things by aubrey beardsley 1894 38590c67|only love and death change all things by aubrey beardsley 1894]] — shared language: beardsley, aubrey
 - [[knowledge/wiki/images/the toilet illustration for the rape of the lock by aubrey beardsley 1896 ce3a6aa0|the toilet illustration for the rape of the lock by aubrey beardsley 1896]] — shared language: beardsley, aubrey
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
-- [[knowledge/wiki/images/Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell 8eb4d01b|Photograph Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: aubrey
+- [[knowledge/wiki/images/Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell b6b7b89d|Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: aubrey
 <!-- vault-crosslinks:end -->

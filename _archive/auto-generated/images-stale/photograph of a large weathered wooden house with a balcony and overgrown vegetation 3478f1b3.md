@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Large Weathered Wooden House With Balcony And Overgrown Vegetation 68165c45|Photograph Large Weathered Wooden House With Balcony And Overgrown Vegetation]] — shared language: overgrown, weathered, vegetation
-- [[knowledge/wiki/images/Photograph Large Weathered Rock Formation With Arch And Green Vegetation e6093cb7|Photograph Large Weathered Rock Formation With Arch And Green Vegetation]] — shared language: weathered, vegetation, large
+- [[knowledge/wiki/images/Large Weathered Rock Formation With Arch And Green Vegetation b2be1ead|Large Weathered Rock Formation With Arch And Green Vegetation]] — shared language: weathered, vegetation, large
+- [[_archive/auto-generated/images-stale/Photograph Large Weathered Rock Formation With Arch And Green Vegetation e6093cb7|Photograph Large Weathered Rock Formation With Arch And Green Vegetation]] — shared language: weathered, vegetation, large
 - [[knowledge/wiki/images/Illustration Weathered Wooden Statue of an Ancient Man's Torso 5df590a8|Illustration Weathered Wooden Statue of an Ancient Man's Torso]] — shared language: weathered, wooden
-- [[knowledge/wiki/images/Photograph Interior of a large, modern library with wooden structure cff9c93c|Photograph Interior of a large, modern library with wooden structure]] — shared language: wooden, large
-- [[knowledge/wiki/images/Document Modern Interior with Balcony and Large Windows in a Publication 868feb05|Document Modern Interior with Balcony and Large Windows in a Publication]] — shared language: balcony, large
+- [[knowledge/wiki/images/Interior of a large, modern library with wooden structure b5a1b809|Interior of a large, modern library with wooden structure]] — shared language: wooden, large
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: ink
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Landscape with a Path 593f0069|Illustration Black and White Ink Drawing of a Landscape with a Path]] — shared language: ink
+- [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: ink
 <!-- vault-crosslinks:end -->

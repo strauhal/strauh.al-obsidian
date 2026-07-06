@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Blue 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
-- [[knowledge/wiki/images/Photograph Neuralink Presentation with Speaker, Elon Musk, and Audience 0c92731e|Photograph Neuralink Presentation with Speaker, Elon Musk, and Audience]] — shared language: musk, elon
-- [[knowledge/wiki/images/Photograph Protest Signs Against Government Hacking and Elon Musk 31411221|Photograph Protest Signs Against Government Hacking and Elon Musk]] — shared language: elon, musk
+- [[knowledge/wiki/images/Neuralink Presentation with Speaker, Elon Musk, and Audience 54d6700c|Neuralink Presentation with Speaker, Elon Musk, and Audience]] — shared language: musk, elon
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — shared language: musk, elon
+- [[knowledge/wiki/images/Protest Signs Against Government Hacking and Elon Musk 289043b2|Protest Signs Against Government Hacking and Elon Musk]] — shared language: elon, musk
 - [[knowledge/wiki/images/Photograph Elon Musk Raising Right Arm Towards Cheering Audience 8c01a225|Photograph Elon Musk Raising Right Arm Towards Cheering Audience]] — shared language: musk, elon
 <!-- vault-crosslinks:end -->

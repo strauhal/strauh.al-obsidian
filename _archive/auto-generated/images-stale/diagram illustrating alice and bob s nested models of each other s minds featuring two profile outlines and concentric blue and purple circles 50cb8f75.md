@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Diagram Illustrating Alice And Bob's Nested Models Of Each Other's Minds 7ce6cf6c|Diagram Diagram Illustrating Alice And Bob's Nested Models Of Each Other's Minds]] — shared language: nested, alice, minds
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, models
-- [[knowledge/wiki/images/Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles ec7bc797|Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, diagram
-- [[knowledge/wiki/images/Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol fdd7edd3|Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: concentric, circles, diagram
-- [[_archive/auto-generated/images-stale/black and white diagram of concentric circles with tibetan script and central vajra symbol 973781e7|black and white diagram of concentric circles with tibetan script and central vajra symbol]] — shared language: concentric, circles, diagram
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, circles
+- [[_archive/auto-generated/images-stale/Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles ec7bc797|Diagram Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, diagram
+- [[knowledge/wiki/images/Intricate Alchemical Diagram with Central Figure and Concentric Circles 06999cb7|Intricate Alchemical Diagram with Central Figure and Concentric Circles]] — shared language: concentric, circles, diagram
+- [[_archive/auto-generated/images-stale/Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol fdd7edd3|Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: concentric, circles, diagram
 <!-- vault-crosslinks:end -->

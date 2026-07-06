@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling ae08c57c|Photograph Long Architectural Corridor with Fluted Columns and Coffered Ceiling]] — shared language: fluted, coffered, corridor
 - [[_archive/auto-generated/images-stale/black and white photograph of a long colonnade with coffered ceiling 60e91263|black and white photograph of a long colonnade with coffered ceiling]] — shared language: coffered, ceiling, long
 - [[knowledge/wiki/images/Photograph Long Colonnade with Coffered Ceiling, Designed by Albert Speer c31c0e2c|Photograph Long Colonnade with Coffered Ceiling, Designed by Albert Speer]] — shared language: coffered, ceiling, long
+- [[knowledge/wiki/artists/Artist - Albert Speer|Artist - Albert Speer]] — shared language: coffered, ceiling, long
 - [[knowledge/wiki/images/Illustration Sketch Of A Figure On Horseback On Lined Paper 93013978|Illustration Sketch Of A Figure On Horseback On Lined Paper]] — shared language: lined
-- [[_archive/auto-generated/images-stale/sketch of a figure on horseback on lined paper 6fbf3a64|sketch of a figure on horseback on lined paper]] — shared language: lined
 <!-- vault-crosslinks:end -->

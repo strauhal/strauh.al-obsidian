@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: showing
 - [[knowledge/wiki/images/Illustration LIGHTING GUIDE MASTER PRO PORTRAIT LIGHTING WITH THESE 24 ESSENTIAL STUDIO SET UPS by Ben Brain, James Paterson, Andy McLaughlin, Roddy L 54dfae85|Illustration LIGHTING GUIDE MASTER PRO PORTRAIT LIGHTING WITH THESE 24 ESSENTIAL STUDIO SET UPS by Ben Brain, James Paterson, Andy McLaughlin, Roddy L]] — shared language: lighting, studio
 - [[knowledge/wiki/images/Illustration Two Figures Lighting Cigarette At Sunset By Lake fc5de742|Illustration Two Figures Lighting Cigarette At Sunset By Lake]] — shared language: lighting
 - [[knowledge/wiki/images/Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting f392c91e|Illustration Figures in a Room with Dramatic Blue, Pink, and Orange Lighting]] — shared language: lighting
-- [[knowledge/wiki/images/Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting f858ebf5|Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting]] — shared language: lighting
+- [[_archive/auto-generated/images-stale/86 busted poster png 23102ee7|86 busted poster png]] — shared language: poster
+- [[knowledge/wiki/images/Live Performance With Red Stage Lighting And Audience ce17a2f7|Live Performance With Red Stage Lighting And Audience]] — shared language: lighting
 <!-- vault-crosslinks:end -->

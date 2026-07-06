@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Per
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Person's Wrist Wearing Bracelet With Tech Logos f2789fad|Photograph Person's Wrist Wearing Bracelet With Tech Logos]] — shared language: bracelet, wrist, person's
-- [[knowledge/wiki/images/Photograph Casio Wrist Camera on wrist displaying a person's face d205a413|Photograph Casio Wrist Camera on wrist displaying a person's face]] — shared language: wrist, person's
+- [[knowledge/wiki/images/Person's Wrist Wearing Bracelet With Tech Logos 47e512d3|Person's Wrist Wearing Bracelet With Tech Logos]] — shared language: bracelet, wrist, person's
+- [[knowledge/wiki/images/Casio Wrist Camera on wrist displaying a person's face 5ecb1683|Casio Wrist Camera on wrist displaying a person's face]] — shared language: wrist, person's
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: technology
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology

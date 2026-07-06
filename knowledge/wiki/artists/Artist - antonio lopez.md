@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - antonio canova|Artist - antonio canova]] — shared language: antonio
 - [[knowledge/wiki/artists/Artist - Antonio Rubino|Artist - Antonio Rubino]] — shared language: antonio
 - [[knowledge/wiki/images/Illustration A Church Without God by Israel Lopez Balan 91f9d032|Illustration A Church Without God by Israel Lopez Balan]] — shared language: lopez
-- [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: antonio
 - [[knowledge/wiki/images/cupid and psyche by antonio canova 1787 93 ac853e63|cupid and psyche by antonio canova 1787 93]] — shared language: antonio
+- [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: antonio
 <!-- vault-crosslinks:end -->

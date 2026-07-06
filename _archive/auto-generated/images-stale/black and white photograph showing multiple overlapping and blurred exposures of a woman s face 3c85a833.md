@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple
 - [[_archive/auto-generated/images-stale/oil painting of a seated figure with blurred face holding a cigarette and drink 5a8265cd|oil painting of a seated figure with blurred face holding a cigarette and drink]] — shared language: blurred, face
 - [[_archive/auto-generated/images-stale/blurred black and white photo of a reclining figure 7c5ff3df|blurred black and white photo of a reclining figure]] — shared language: blurred
-- [[knowledge/wiki/images/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
-- [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: overlapping
+- [[knowledge/wiki/images/Blurred Black And White Photo Of A Reclining Figure f61afd75|Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
+- [[_archive/auto-generated/images-stale/Photograph Blurred Black And White Photo Of A Reclining Figure 0b280fa3|Photograph Blurred Black And White Photo Of A Reclining Figure]] — shared language: blurred
 <!-- vault-crosslinks:end -->

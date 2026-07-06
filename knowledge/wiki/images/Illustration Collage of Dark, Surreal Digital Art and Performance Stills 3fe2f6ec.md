@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: performance
 - [[knowledge/wiki/images/Illustration Surreal Collage with Highway, Face, Phone, and Mushroom 8dcc1478|Illustration Surreal Collage with Highway, Face, Phone, and Mushroom]] — shared language: surreal, collage
-- [[knowledge/wiki/images/Illustration Surreal Painting with Draped Dark Form and Various Figures 5d450c71|Illustration Surreal Painting with Draped Dark Form and Various Figures]] — shared language: surreal, dark
 - [[knowledge/wiki/images/Illustration Surreal Collage of Masked and Headless Women by Water b86cea51|Illustration Surreal Collage of Masked and Headless Women by Water]] — shared language: surreal, collage
+- [[knowledge/wiki/images/Illustration Surreal Painting with Draped Dark Form and Various Figures 5d450c71|Illustration Surreal Painting with Draped Dark Form and Various Figures]] — shared language: surreal, dark
 - [[knowledge/wiki/images/Illustration Digital Collage of Various Character and Landscape Studies 459e9f34|Illustration Digital Collage of Various Character and Landscape Studies]] — shared language: collage, digital
 <!-- vault-crosslinks:end -->

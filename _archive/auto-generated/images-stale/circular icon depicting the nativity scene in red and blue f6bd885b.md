@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: icon
-- [[knowledge/wiki/images/Photograph Photograph of a Tattoo Depicting a Broken Image File Icon d179dee7|Photograph Photograph of a Tattoo Depicting a Broken Image File Icon]] — shared language: icon, depicting
+- [[knowledge/wiki/images/Photograph of a Tattoo Depicting a Broken Image File Icon 24bf386c|Photograph of a Tattoo Depicting a Broken Image File Icon]] — shared language: icon, depicting
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Tattoo Depicting a Broken Image File Icon d179dee7|Photograph Photograph of a Tattoo Depicting a Broken Image File Icon]] — shared language: icon, depicting
 - [[_archive/auto-generated/images-stale/circular icon of the virgin mary sheltering figures pokrov ea89ede1|circular icon of the virgin mary sheltering figures pokrov]] — shared language: icon, circular
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: icon
-- [[_archive/auto-generated/images-stale/circular black and white collage of astronaut and figures 211df9a0|circular black and white collage of astronaut and figures]] — shared language: circular
+- [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: icon
 <!-- vault-crosslinks:end -->

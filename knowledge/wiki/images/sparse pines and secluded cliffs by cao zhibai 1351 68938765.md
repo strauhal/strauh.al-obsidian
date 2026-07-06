@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1300s/sparse_pines_and
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs 02def084|Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs]] — shared language: cliffs
 - [[knowledge/wiki/images/RMB City A Second Life City Planning 04 by Cao Fei (2007) d83c2da6|RMB City A Second Life City Planning 04 by Cao Fei (2007)]] — shared language: cao
 - [[knowledge/wiki/images/secluded landscape at sunset by frederick edwin church 1860 b5b86164|secluded landscape at sunset by frederick edwin church 1860]] — shared language: secluded
-- [[knowledge/wiki/images/Diagram Comparison of Sparse Hub and Spoke and Dense Networks 978293e1|Diagram Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: sparse
+- [[knowledge/wiki/images/Comparison of Sparse Hub and Spoke and Dense Networks ef504307|Comparison of Sparse Hub and Spoke and Dense Networks]] — shared language: sparse
 - [[knowledge/wiki/images/Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty) 81e18892|Remote Stream and Cold Pines by Ni Zan (late Yuan early Ming dynasty)]] — shared language: pines
 <!-- vault-crosslinks:end -->

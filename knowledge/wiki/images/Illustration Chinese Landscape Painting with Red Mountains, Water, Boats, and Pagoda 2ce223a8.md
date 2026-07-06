@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Boats in Water with Trees fc55556f|Illustration Impressionistic Painting of Boats in Water with Trees]] — shared language: boats, water
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: chinese, landscape
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: landscape, chinese
 - [[knowledge/wiki/images/Illustration Ancient East Asian Pagoda Amidst Mountains and Trees f7c3a95c|Illustration Ancient East Asian Pagoda Amidst Mountains and Trees]] — shared language: pagoda, mountains
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: water, landscape
-- [[knowledge/wiki/images/Illustration Moonlit Bay with Mountains, Boats, and Shoreline Buildings 86a9608e|Illustration Moonlit Bay with Mountains, Boats, and Shoreline Buildings]] — shared language: boats, mountains
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: mountains, landscape
 <!-- vault-crosslinks:end -->

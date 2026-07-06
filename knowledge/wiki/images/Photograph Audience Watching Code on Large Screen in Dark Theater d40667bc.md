@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aud
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: code
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Figure With Large Dark Wings 438266ca|Photograph Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: large, dark
-- [[knowledge/wiki/books/epub-golan-levin-tega-brain-code-as-creative-medium-a-handbook-for-computational-art-and-design-mit-press|Code as Creative Medium A Handbook for Computational Art and Design-MIT Press]] — shared language: code
+- [[knowledge/wiki/images/Black And White Photograph Of A Figure With Large Dark Wings cf67daa7|Black And White Photograph Of A Figure With Large Dark Wings]] — shared language: large, dark
 <!-- vault-crosslinks:end -->

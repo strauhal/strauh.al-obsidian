@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/westward_the_cou
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: takes
 - [[knowledge/wiki/artists/Artist - emanuel de witte|Artist - emanuel de witte]] — shared language: emanuel
 - [[knowledge/wiki/images/Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur 9e570b90|Image Altered Thomas Cole 'Course of Empire' Series with Dinosaur]] — shared language: course, empire
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: way
 - [[knowledge/wiki/images/thomas cole the consummation of empire 1836 4a6c936f|thomas cole the consummation of empire 1836]] — shared language: empire
-- [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — shared language: way
 <!-- vault-crosslinks:end -->

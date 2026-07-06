@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/images/Illustration Expressive Painting of Figures Dancing Amidst Classical Columns 52a083d8|Illustration Expressive Painting of Figures Dancing Amidst Classical Columns]] — shared language: dancing, classical
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical
 - [[knowledge/wiki/images/the offering by gilbert williams 1995 ae967606|the offering by gilbert williams 1995]] — shared language: offering
-- [[knowledge/wiki/images/the offering by theodoros ralli c 1890 d9081207|the offering by theodoros ralli c 1890]] — shared language: offering
+- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: classical
 <!-- vault-crosslinks:end -->

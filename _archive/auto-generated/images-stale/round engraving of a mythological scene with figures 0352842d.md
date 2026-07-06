@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/round engraving of an angel or winged figure 6d14acb7|round engraving of an angel or winged figure]] — shared language: round, engraving
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 - [[_archive/auto-generated/images-stale/classical engraving of a group scene with tent b0ecdd92|classical engraving of a group scene with tent]] — shared language: engraving, scene
-- [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: engraving
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: scene
 <!-- vault-crosslinks:end -->

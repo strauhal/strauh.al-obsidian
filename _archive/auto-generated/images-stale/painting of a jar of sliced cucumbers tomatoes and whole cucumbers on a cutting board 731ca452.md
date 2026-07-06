@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Still Life with Jar of Sliced Cucumbers and Tomatoes 6919e427|Illustration Still Life with Jar of Sliced Cucumbers and Tomatoes]] — shared language: cucumbers, sliced, tomatoes
-- [[knowledge/wiki/images/Photograph Watermelon Slices With White Candies On Blue Cutting Board 19eb3b92|Photograph Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: cutting, board, board.jpg
-- [[knowledge/wiki/images/Photograph Book Page Showing Photograph and Painting of Man Cutting Hair 847448bd|Photograph Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: cutting
-- [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: jar
-- [[_archive/auto-generated/images-stale/close up photograph of a yellow and green circuit board a9513ebb|close up photograph of a yellow and green circuit board]] — shared language: board, board.jpg
+- [[_archive/auto-generated/images-stale/Photograph Watermelon Slices With White Candies On Blue Cutting Board 19eb3b92|Photograph Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: cutting, board, board.jpg
+- [[knowledge/wiki/images/Watermelon Slices With White Candies On Blue Cutting Board f0acc62e|Watermelon Slices With White Candies On Blue Cutting Board]] — shared language: cutting, board, board.jpg
+- [[knowledge/wiki/images/Book Page Showing Photograph and Painting of Man Cutting Hair 475fd06f|Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: cutting
+- [[_archive/auto-generated/images-stale/Photograph Book Page Showing Photograph and Painting of Man Cutting Hair 847448bd|Photograph Book Page Showing Photograph and Painting of Man Cutting Hair]] — shared language: cutting
 <!-- vault-crosslinks:end -->

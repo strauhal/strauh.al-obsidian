@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Geomet
 
 - [[knowledge/wiki/images/Illustration Abstract Drawing with Central Stippled Pattern and Geometric Architectural Forms f82841fd|Illustration Abstract Drawing with Central Stippled Pattern and Geometric Architectural Forms]] — shared language: stippled, pattern, geometric
 - [[knowledge/wiki/images/Image Black And White Stippled Portrait Of A Man ff954a92|Image Black And White Stippled Portrait Of A Man]] — shared language: stippled
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration Abstract Shapes with Stippled Texture in Red, Black, and Cream 3750723b|Illustration Abstract Shapes with Stippled Texture in Red, Black, and Cream]] — shared language: stippled, shapes
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/images/Illustration Geometric Pattern Drawing with Red and Black Shapes on Aged Paper 83547c90|Illustration Geometric Pattern Drawing with Red and Black Shapes on Aged Paper]] — shared language: pattern, shapes, geometric
 <!-- vault-crosslinks:end -->

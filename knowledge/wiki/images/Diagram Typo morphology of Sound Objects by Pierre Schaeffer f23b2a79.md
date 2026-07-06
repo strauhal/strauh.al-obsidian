@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Diagram - Typ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: sound
-- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: sound
+- [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: pierre
 - [[knowledge/wiki/books/piano|piano]] — shared language: sound
+- [[knowledge/wiki/books/basic-notation|basic-notation]] — shared language: sound
 <!-- vault-crosslinks:end -->

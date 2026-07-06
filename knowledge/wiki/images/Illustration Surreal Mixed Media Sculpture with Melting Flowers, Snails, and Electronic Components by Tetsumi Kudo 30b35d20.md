@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Stylized Hands Interacting With Electronic Components, Vibrant Colors 7e2f1deb|Illustration Stylized Hands Interacting With Electronic Components, Vibrant Colors]] — shared language: components, electronic
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
+- [[knowledge/wiki/images/Illustration Stylized Hands Interacting With Electronic Components, Vibrant Colors 7e2f1deb|Illustration Stylized Hands Interacting With Electronic Components, Vibrant Colors]] — shared language: components, electronic
 - [[knowledge/wiki/images/Illustration Two Framed Mixed Media Artworks with Comic Like Panels and Figures 3b63c4e8|Illustration Two Framed Mixed Media Artworks with Comic Like Panels and Figures]] — shared language: mixed, media, mixed-media
-- [[knowledge/wiki/images/Diagram Cross Sectional View Of An Electronic Device With Internal Components c1f96df7|Diagram Cross Sectional View Of An Electronic Device With Internal Components]] — shared language: components, electronic
 - [[knowledge/wiki/images/Illustration Mixed Media Floral Still Life with Yellow Impasto and Red Halftone Flowers 5cafaffa|Illustration Mixed Media Floral Still Life with Yellow Impasto and Red Halftone Flowers]] — shared language: mixed, media, flowers
+- [[knowledge/wiki/images/Cross Sectional View Of An Electronic Device With Internal Components 9fe0f476|Cross Sectional View Of An Electronic Device With Internal Components]] — shared language: components, electronic
 <!-- vault-crosslinks:end -->

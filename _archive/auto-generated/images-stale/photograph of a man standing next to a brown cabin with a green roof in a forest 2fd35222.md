@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Standing Next To A Brown Cabin In A Forest cadf0dc3|Photograph Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin, next, brown
+- [[knowledge/wiki/images/Man Standing Next To A Brown Cabin In A Forest 7a06523c|Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin, next, brown
+- [[_archive/auto-generated/images-stale/Photograph Man Standing Next To A Brown Cabin In A Forest cadf0dc3|Photograph Man Standing Next To A Brown Cabin In A Forest]] — shared language: cabin, next, brown
 - [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
 - [[_archive/auto-generated/images-stale/photograph of a bearded man and a woman in a black coat standing next to a toilet in a green tiled room 99b5f21c|photograph of a bearded man and a woman in a black coat standing next to a toilet in a green tiled room]] — shared language: next, standing, green
 - [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: roof, green
-- [[_archive/auto-generated/images-stale/statue of a man on a building roof d3aca278|statue of a man on a building roof]] — shared language: roof
 <!-- vault-crosslinks:end -->

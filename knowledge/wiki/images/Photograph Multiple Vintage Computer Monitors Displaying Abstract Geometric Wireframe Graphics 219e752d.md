@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mul
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS f997ba85|Photograph Vintage Apple PenLite Prototype Computer Displaying Classic OS]] — shared language: vintage, displaying, computer
-- [[knowledge/wiki/artists/Artist - Computer Circuit Boards and Monitors|Artist - Computer Circuit Boards and Monitors]] — shared language: monitors, computer
+- [[knowledge/wiki/images/Illustration Black and White Print of Two Stacked Wireframe Waveform Graphics e5bc7be4|Illustration Black and White Print of Two Stacked Wireframe Waveform Graphics]] — shared language: wireframe, graphics, graphics.jpeg
 <!-- vault-crosslinks:end -->

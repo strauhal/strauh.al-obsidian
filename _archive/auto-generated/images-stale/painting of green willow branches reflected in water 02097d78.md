@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Classical Building Reflected In Water 8da6b944|Photograph Black And White Photograph Of Classical Building Reflected In Water]] — shared language: reflected, water, water.jpg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree branches|Artist - tree branches]] — shared language: branches, water
 - [[knowledge/wiki/images/Illustration Abstract Mountains Reflected in Water Under a Gradient Sky e6b3366e|Illustration Abstract Mountains Reflected in Water Under a Gradient Sky]] — shared language: reflected, water
-- [[knowledge/wiki/images/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: willow
+- [[_archive/auto-generated/images-stale/Photograph White Plate With Blue Willow Pattern Design 29fbaccd|Photograph White Plate With Blue Willow Pattern Design]] — shared language: willow
 <!-- vault-crosslinks:end -->

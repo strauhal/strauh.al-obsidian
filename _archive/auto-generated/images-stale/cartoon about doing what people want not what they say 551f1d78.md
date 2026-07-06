@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: want, people
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: want, people
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say, people
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: say
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: want
+- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: say
 <!-- vault-crosslinks:end -->

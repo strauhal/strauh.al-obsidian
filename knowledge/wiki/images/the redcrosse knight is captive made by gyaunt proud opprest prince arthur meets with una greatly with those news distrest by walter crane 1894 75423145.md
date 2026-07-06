@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_redcrosse_kn
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: arthur
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: arthur
 - [[knowledge/wiki/books/walter-benjamin-the-arcades-project|The Arcades Project]] — shared language: walter
-- [[knowledge/wiki/artists/Artist - arthur dove|Artist - arthur dove]] — shared language: arthur
+- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: walter
 <!-- vault-crosslinks:end -->

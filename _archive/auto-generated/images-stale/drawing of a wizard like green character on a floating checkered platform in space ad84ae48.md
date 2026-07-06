@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space, like
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: space
-- [[knowledge/wiki/culture/movie-the-wizard-of-oz|Watchlist - The Wizard of Oz]] — shared language: wizard
+- [[knowledge/wiki/images/Illustration Old Computer Monitor Shaped Like a House Floating in Sky 6c613df2|Illustration Old Computer Monitor Shaped Like a House Floating in Sky]] — shared language: floating, like
 <!-- vault-crosslinks:end -->

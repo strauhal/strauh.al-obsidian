@@ -45,7 +45,7 @@ Images attributed by filename: 9
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Natura morta (Still Life) by Giorgio Morandi (1956) fe6899f4|Natura morta (Still Life) by Giorgio Morandi (1956)]] — named in this note
-- [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: morandi, giorgio, objects
+- [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: morandi, giorgio, still
 - [[knowledge/wiki/images/Illustration Still Life With Bottles And Containers by Giorgio Morandi 7fab5a89|Illustration Still Life With Bottles And Containers by Giorgio Morandi]] — shared language: morandi, giorgio, still
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/images/Illustration Black and White Etching of Pears and Grapes on Plate by Giorgio Morandi dd200266|Illustration Black and White Etching of Pears and Grapes on Plate by Giorgio Morandi]] — shared language: morandi, giorgio

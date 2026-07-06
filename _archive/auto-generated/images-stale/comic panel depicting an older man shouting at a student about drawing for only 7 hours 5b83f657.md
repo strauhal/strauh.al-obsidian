@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Comic Older Man Shouting At Student About Drawing Hours 4e756f0d|Comic Older Man Shouting At Student About Drawing Hours]] — shared language: shouting, student, older
+- [[knowledge/wiki/images/Comic Older Man Shouting At Student About Drawing Hours 4e756f0d|Comic Older Man Shouting At Student About Drawing Hours]] — shared language: shouting, student, hours
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
 - [[knowledge/wiki/images/Comic Black and White Comic Panel of Crying Woman 4f909488|Comic Black and White Comic Panel of Crying Woman]] — shared language: comic, panel

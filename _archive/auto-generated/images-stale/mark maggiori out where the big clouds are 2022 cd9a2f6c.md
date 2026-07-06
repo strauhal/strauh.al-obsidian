@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori 2015|Artist - mark maggiori 2015]] — shared language: maggiori, mark
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark maggiori|Artist - Mark Maggiori]] — shared language: maggiori, mark
+- [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — shared language: maggiori, mark
 - [[_archive/auto-generated/images-stale/the canyon by mark maggiori 2015 e6296053|the canyon by mark maggiori 2015]] — shared language: maggiori, mark
 - [[knowledge/wiki/images/Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori 52455f1d|Photograph Artist Mark Maggiori Posing With His Western Painting by Mark Maggiori]] — shared language: maggiori, mark
-- [[knowledge/wiki/images/Mesmerized by Mark Maggiori 22c69996|Mesmerized by Mark Maggiori]] — shared language: maggiori, mark
 <!-- vault-crosslinks:end -->

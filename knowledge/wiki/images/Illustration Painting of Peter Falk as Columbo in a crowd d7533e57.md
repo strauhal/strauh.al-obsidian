@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - peter doig|Artist - peter doig]] — shared language: peter
-- [[knowledge/wiki/images/Illustration Crowd of People in Blue and Red Tones 5c82143b|Illustration Crowd of People in Blue and Red Tones]] — shared language: crowd
 <!-- vault-crosslinks:end -->

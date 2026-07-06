@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - charles graham|Artist - charles graham]] — named in this note
 - [[knowledge/wiki/artists/Artist - robert graham|Artist - robert graham]] — shared language: graham
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert graham 1993|Artist - robert graham 1993]] — shared language: graham
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, exposition, columbian
 - [[knowledge/wiki/images/two nudes by robert graham 1993 dbb4ecd1|two nudes by robert graham 1993]] — shared language: graham
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles, chicago
+- [[knowledge/wiki/artists/Artist - charles dudley arnold|Artist - charles dudley arnold]] — shared language: charles, columbian, exposition
 <!-- vault-crosslinks:end -->

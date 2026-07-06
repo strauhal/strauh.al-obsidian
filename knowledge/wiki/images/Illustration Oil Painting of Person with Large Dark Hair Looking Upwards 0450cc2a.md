@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair, dark
 - [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: hair, dark
-- [[knowledge/wiki/images/Photograph Dithered Photograph of a Cat Looking Upwards 0b41b7cb|Photograph Dithered Photograph of a Cat Looking Upwards]] — shared language: upwards, looking
+- [[knowledge/wiki/images/Dithered Photograph of a Cat Looking Upwards 3e6c4494|Dithered Photograph of a Cat Looking Upwards]] — shared language: upwards, looking
 - [[knowledge/wiki/images/Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing e6a7614c|Illustration Oil Painting of a Woman with Dark Hair and Purple Clothing]] — shared language: hair, oil, dark
-- [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: hair, person, dark
+- [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: hair, dark, person
 <!-- vault-crosslinks:end -->

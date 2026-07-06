@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/lawrence-e-cahoone-from-modernism-to-postmodernism-blackwell-philosophy-anthologies-wiley|From Modernism to Postmodernism (Blackwell Philosophy Anthologies)-Wiley]] — shared language: wiley
 - [[_archive/auto-generated/images-stale/oil portrait of a young man in a black shirt 6eda48d5|oil portrait of a young man in a black shirt]] — shared language: young
 - [[_archive/auto-generated/images-stale/framed portrait of a young man in a black coat 0698ffec|framed portrait of a young man in a black coat]] — shared language: young
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
-- [[knowledge/archive/auto-generated/artists-stale/Artist - young thug|Artist - young thug]] — shared language: young
+- [[_archive/auto-generated/images-stale/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 <!-- vault-crosslinks:end -->

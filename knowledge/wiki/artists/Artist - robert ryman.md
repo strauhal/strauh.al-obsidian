@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/ryman a1ecb8ba|ryman]] — named in this note
+- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 - [[knowledge/wiki/images/girl in white by robert henri 1906 f331b6a1|girl in white by robert henri 1906]] — shared language: robert
 - [[knowledge/wiki/images/the girl in white by robert henri 1905 3c1bf632|the girl in white by robert henri 1905]] — shared language: robert
-- [[knowledge/wiki/books/henri-robert-the-art-spirit|The Art Spirit]] — shared language: robert
 - [[knowledge/wiki/artists/Artist - robert strange|Artist - robert strange]] — shared language: robert
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robert
 <!-- vault-crosslinks:end -->

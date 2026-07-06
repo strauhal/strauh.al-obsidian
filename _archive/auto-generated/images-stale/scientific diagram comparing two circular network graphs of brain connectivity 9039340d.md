@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — named in this note
 - [[knowledge/wiki/images/Diagram Two Circular Network Graphs Comparing Brain Connectivity Under Placebo And Psilocybin 26d06bd7|Diagram Two Circular Network Graphs Comparing Brain Connectivity Under Placebo And Psilocybin]] — shared language: graphs, circular, comparing
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, diagram
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, network, diagram
-- [[knowledge/wiki/images/Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects f709219d|Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — shared language: comparing, brain, network
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, network
+- [[_archive/auto-generated/images-stale/Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects f709219d|Diagram Brain Network Diagrams Comparing Placebo and Psilocybin Effects]] — shared language: comparing, brain, network
+- [[_archive/auto-generated/images-stale/deconvolution network architecture diagram 788230db|deconvolution network architecture diagram]] — shared language: network, diagram
 <!-- vault-crosslinks:end -->

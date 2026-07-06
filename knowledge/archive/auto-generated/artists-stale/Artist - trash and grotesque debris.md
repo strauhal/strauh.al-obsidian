@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris d8f01c79|Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris]] — shared language: trash, debris, sad
+- [[knowledge/wiki/images/Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris d8f01c79|Illustration Detailed Black And White Drawing Of Sad Girl Amidst Trash And Debris]] — shared language: debris, trash, sad
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chaotic grotesque imagery and debris|Artist - chaotic grotesque imagery and debris]] — shared language: debris, grotesque, sad
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris, trash
 - [[_archive/auto-generated/images-stale/pencil drawing of a sad girl with a skull shirt surrounded by chaotic grotesque imagery and debris 035bdcac|pencil drawing of a sad girl with a skull shirt surrounded by chaotic grotesque imagery and debris]] — shared language: debris, grotesque, sad
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: grotesque
 - [[knowledge/wiki/images/Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery 64d7c25f|Illustration Pencil Drawing of Sad Girl Surrounded by Chaotic Grotesque Imagery]] — shared language: grotesque, sad, surrounded
 <!-- vault-crosslinks:end -->

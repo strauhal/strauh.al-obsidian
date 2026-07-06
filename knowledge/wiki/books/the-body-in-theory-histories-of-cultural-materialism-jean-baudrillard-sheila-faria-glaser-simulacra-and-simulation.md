@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[The Body, In Theory_ Histories of Cultural Materialism] Jean Baudrillard, Sheila Faria Glaser - Simulacra and Simulation  (1995, University of Michigan Press) - libgen.lc.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Simulacra and Simulation
@@ -45,6 +45,6 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — same category: philosophy
-- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/cambridge-texts-in-the-history-of-philosophy-williams-bernard-nietzsche-the-gay-science-cambridge-university-press|Nietzsche The Gay Science-Cambridge University Press]] — same category: philosophy
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 <!-- vault-crosslinks:end -->

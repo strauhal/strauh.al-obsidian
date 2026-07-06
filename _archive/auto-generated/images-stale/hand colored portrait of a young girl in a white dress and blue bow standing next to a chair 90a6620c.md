@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow 636793f7|Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow]] — shared language: bow, colored, dress
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
-- [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
 - [[knowledge/wiki/images/Illustration Line Drawing of Girl at Computer with Big Bow 0ea19ff4|Illustration Line Drawing of Girl at Computer with Big Bow]] — shared language: bow, girl
+- [[knowledge/wiki/images/Photograph Man Standing Next to Abstract Blue and Black Sculpture 5f5d5193|Photograph Man Standing Next to Abstract Blue and Black Sculpture]] — shared language: next, standing
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 <!-- vault-crosslinks:end -->

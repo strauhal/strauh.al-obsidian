@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - joseph mallord william turner|Artist - joseph mallord william turner]] — named in this note
 - [[knowledge/wiki/artists/Artist - j m w turner|Artist - j m w turner]] — shared language: turner
 - [[knowledge/archive/auto-generated/artists-stale/Artist - j m w turner 1812|Artist - j m w turner 1812]] — shared language: turner
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/books/jean-baudrillard-chris-turner-the-spirit-of-terrorism-new-revised-edition|The Spirit of Terrorism, New Revised Edition]] — shared language: turner
-- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 <!-- vault-crosslinks:end -->

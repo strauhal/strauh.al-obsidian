@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - joan mitchell|Artist - joan mitchell]] — named in this note
 - [[_archive/auto-generated/images-stale/joan mitchell in her studio 1956 9aae0df7|joan mitchell in her studio 1956]] — shared language: mitchell, joan
 - [[_archive/auto-generated/images-stale/21 portrait of joan mitchell in her studio 1956 jpg 9cecff11|21 portrait of joan mitchell in her studio 1956 jpg]] — shared language: mitchell, joan
-- [[knowledge/wiki/images/Photograph Joan Mitchell In Her Studio 8ac2a42c|Photograph Joan Mitchell In Her Studio]] — shared language: mitchell, joan
+- [[knowledge/wiki/images/Joan Mitchell In Her Studio de07b6b9|Joan Mitchell In Her Studio]] — shared language: mitchell, joan
+- [[_archive/auto-generated/images-stale/Photograph Joan Mitchell In Her Studio 8ac2a42c|Photograph Joan Mitchell In Her Studio]] — shared language: mitchell, joan
 - [[_archive/auto-generated/images-stale/joan mitchell musee giverny 2 jpg 4174f538|joan mitchell musee giverny 2 jpg]] — shared language: mitchell, joan
-- [[knowledge/wiki/artists/Artist - joan brown|Artist - joan brown]] — shared language: joan
 <!-- vault-crosslinks:end -->

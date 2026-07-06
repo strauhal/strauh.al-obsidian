@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/anchors/artist-a-e|Artist - A.E]] — named in this note
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - A-20260706163558|Artist - A.E]] — shared language: a.e, spirits, masked
+- [[knowledge/archive/auto-generated/artists-stale/Artist - A-20260706165112|Artist - A.E]] — shared language: a.e, spirits, masked
 - [[knowledge/wiki/images/the flute player and the reclining nude by pablo picasso 1932 a200fc8e|the flute player and the reclining nude by pablo picasso 1932]] — shared language: flute, player
 - [[_archive/auto-generated/images-stale/oil painting of nude figures dancing in a dark forest bf880719|oil painting of nude figures dancing in a dark forest]] — shared language: dancing, forest
-- [[knowledge/wiki/images/Illustration Nude Figures Dancing in a Dark, Expressive Forest 7e8f7717|Illustration Nude Figures Dancing in a Dark, Expressive Forest]] — shared language: dancing, forest
-- [[knowledge/wiki/images/Illustration Masked Figure With Green Eyes And Dark Creature 5057007d|Illustration Masked Figure With Green Eyes And Dark Creature]] — shared language: masked
 <!-- vault-crosslinks:end -->

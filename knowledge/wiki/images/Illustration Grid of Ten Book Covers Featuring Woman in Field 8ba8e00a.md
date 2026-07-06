@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Image Collage of Book Covers, Diagrams, Text, and Photograph 425f1e5e|Image Collage of Book Covers, Diagrams, Text, and Photograph]] — shared language: covers, book
 - [[knowledge/wiki/images/Diagram Ten Geometric Projections of a Polyhedron on a Book Page 34c6942d|Diagram Ten Geometric Projections of a Polyhedron on a Book Page]] — shared language: ten, book
 - [[knowledge/wiki/images/Image Grid of M and M's Characters and Various Music Album Covers 650b70ca|Image Grid of M and M's Characters and Various Music Album Covers]] — shared language: covers, grid
-- [[knowledge/wiki/images/0004436455 10 345a04a4|0004436455 10]] — shared language: covers
+- [[knowledge/wiki/images/Photograph Installation of Ten Framed Paintings of Stylized Figures d0802470|Photograph Installation of Ten Framed Paintings of Stylized Figures]] — shared language: ten
 <!-- vault-crosslinks:end -->

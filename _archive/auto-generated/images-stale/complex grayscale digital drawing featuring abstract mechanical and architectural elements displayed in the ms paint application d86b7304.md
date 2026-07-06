@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/digital illustration of complex abstract and mechanical forms in red and yellow displayed in ms paint interface f5cc6f5e|digital illustration of complex abstract and mechanical forms in red and yellow displayed in ms paint interface]] — shared language: displayed, mechanical, paint
 - [[_archive/auto-generated/images-stale/complex black and white abstract composition featuring geometric and organic patterns displayed in the microsoft paint application window ad5877f6|complex black and white abstract composition featuring geometric and organic patterns displayed in the microsoft paint application window]] — shared language: application, displayed, paint
 - [[knowledge/wiki/images/Screenshot Complex Abstract Illustration Displayed in MS Paint Interface 749790d3|Screenshot Complex Abstract Illustration Displayed in MS Paint Interface]] — shared language: displayed, paint, complex
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — named in this note
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — named in this note
-- [[knowledge/wiki/images/Image Black and White Portrait of Hegel with Humorous Text 9f12b49d|Image Black and White Portrait of Hegel with Humorous Text]] — shared language: humorous, hegel, text
 - [[knowledge/wiki/images/Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel 3cf42ba3|Illustration Serious Portrait of Georg Wilhelm Friedrich Hegel]] — shared language: georg, wilhelm, hegel
+- [[knowledge/wiki/images/Image Black and White Portrait of Hegel with Humorous Text 9f12b49d|Image Black and White Portrait of Hegel with Humorous Text]] — shared language: humorous, hegel, text
 - [[knowledge/wiki/books/bosanquet-bernard-hegel-georg-wilhelm-friedrich-inwood-michael-introductory-lectures-on-aesthetics|Introductory Lectures on Aesthetics]] — shared language: georg, wilhelm, hegel
 <!-- vault-crosslinks:end -->

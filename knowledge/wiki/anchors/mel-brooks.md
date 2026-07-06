@@ -16,7 +16,7 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 
 - [[knowledge/wiki/artists/Artist - Mel Blue|Artist - Mel Blue]] — shared language: mel
 - [[knowledge/wiki/images/Warm Up by Mel Blue bcb3bde4|Warm Up by Mel Blue]] — shared language: mel
+- [[knowledge/wiki/artists/Artist - Charles Brooks|Artist - Charles Brooks]] — shared language: brooks
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

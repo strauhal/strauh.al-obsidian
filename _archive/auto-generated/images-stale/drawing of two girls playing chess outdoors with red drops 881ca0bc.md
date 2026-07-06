@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Girls Playing Chess Outdoors With Red Drops 8347629b|Illustration Two Girls Playing Chess Outdoors With Red Drops]] — shared language: chess, drops, outdoors
-- [[knowledge/wiki/images/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess, playing
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: outdoors
+- [[knowledge/wiki/images/Illustration Two Girls Playing Chess Outdoors With Red Drops 8347629b|Illustration Two Girls Playing Chess Outdoors With Red Drops]] — shared language: drops, chess, girls
+- [[knowledge/wiki/images/Person Playing Chess On Checkered Bathroom Floor 98837a51|Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess, playing
+- [[_archive/auto-generated/images-stale/Photograph Person Playing Chess On Checkered Bathroom Floor 35b6711d|Photograph Person Playing Chess On Checkered Bathroom Floor]] — shared language: chess, playing
 - [[knowledge/wiki/images/Illustration Two Girls Playing In Ocean With Inner Tubes e803a119|Illustration Two Girls Playing In Ocean With Inner Tubes]] — shared language: girls, playing
-- [[knowledge/wiki/images/Photograph Man In Loincloth Meditating Outdoors, Black And White b8aa832f|Photograph Man In Loincloth Meditating Outdoors, Black And White]] — shared language: outdoors
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: outdoors
 <!-- vault-crosslinks:end -->

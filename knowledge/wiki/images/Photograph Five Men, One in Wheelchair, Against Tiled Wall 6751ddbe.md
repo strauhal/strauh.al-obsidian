@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Fiv
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/images/Image Five Men Feasting at a Golden Table 03b86987|Image Five Men Feasting at a Golden Table]] — shared language: five, men
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
-- [[knowledge/wiki/images/Photograph Group of Men Posing Against a Brick Wall, Faces Obscured a1d7fd24|Photograph Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: men, wall, against
-- [[knowledge/wiki/images/Photograph Portrait Photo of Two People Against a Wall e2c4a994|Photograph Portrait Photo of Two People Against a Wall]] — shared language: wall, against
-- [[knowledge/wiki/images/Photograph Two Wheelchair Fencers Engaged In A Match Indoors cab7ed92|Photograph Two Wheelchair Fencers Engaged In A Match Indoors]] — shared language: wheelchair
+- [[knowledge/wiki/images/Group of Men Posing Against a Brick Wall, Faces Obscured 6bcc44cc|Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: men, wall, against
+- [[knowledge/wiki/images/Portrait Photo of Two People Against a Wall 1590b907|Portrait Photo of Two People Against a Wall]] — shared language: wall, against
 <!-- vault-crosslinks:end -->

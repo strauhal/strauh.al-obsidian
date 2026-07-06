@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, interior, framed
-- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, interior, framed
-- [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: table, interior, framed
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/images/Photograph Modern Office Interior with Chair, Desk, and City View 2f13a114|Photograph Modern Office Interior with Chair, Desk, and City View]] — shared language: interior, city, view
+- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: table, framed, interior
+- [[_archive/auto-generated/images-stale/framed red table interior still life with flowers ed3f2c10|framed red table interior still life with flowers]] — shared language: table, framed, interior
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, view
+- [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: table, framed, interior
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, view
 <!-- vault-crosslinks:end -->

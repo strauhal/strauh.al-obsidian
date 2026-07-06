@@ -40,7 +40,7 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 
 *Images and books connected to this idea by filename (auto-generated).*
 
-**Images (6).** [[Diagram Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys ac614cfb|Diagram Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys]] · [[Diagram How To Draw Text In Any Shape Tutorial 3eb41749|Diagram How To Draw Text In Any Shape Tutorial]] · [[Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head 5ace7c9a|Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head]] · [[Photograph Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys 54a413d9|Photograph Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys]] · [[The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
+**Images (11).** [[Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys 5bb0013e|Chalkboard Drawing With Figures, Text, And Geometric Shapes by Joseph Beuys]] · [[Close Up Of A Blue Human Iris And Pupil 29c72aa9|Close Up Of A Blue Human Iris And Pupil]] · [[How To Draw Text In Any Shape Tutorial 87667244|How To Draw Text In Any Shape Tutorial]] · [[Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head 5ace7c9a|Illustration Four Panel Digital Drawing Tutorial Of A Stylized Male Head]] · [[Joseph Beuys Drawing on Blackboard During Performance b9a63ef7|Joseph Beuys Drawing on Blackboard During Performance]] · [[Joseph Beuys Drawing on a Blackboard 9eec7e3d|Joseph Beuys Drawing on a Blackboard]] · [[Joseph Beuys Lecturing At A Blackboard 9b0e2611|Joseph Beuys Lecturing At A Blackboard]] · [[Joseph Beuys Lecturing with Chalkboard Diagrams e5e0737b|Joseph Beuys Lecturing with Chalkboard Diagrams]] · [[Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys 28bc5432|Joseph Beuys Lecturing with Chalkboard Diagrams by Joseph Beuys]] · [[The Music Lesson by Frederic Leighton (1877) ea2bc43f|The Music Lesson by Frederic Leighton (1877)]] · [[lesson 3 d street scene by georges clement 1984 8dc9c573|lesson 3 d street scene by georges clement 1984]]
 
 <!-- archive-links:end -->
 
@@ -59,12 +59,12 @@ about *holding* authorship, this is about *giving it away* — and it rhymes wit
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Joseph Beuys Lecturing with Chalkboard Diagrams 1f5c3b6f|Photograph Joseph Beuys Lecturing with Chalkboard Diagrams]] — named in this note
+- [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, likely, school
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: fathers, school, child's
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: knot, wisdom, quotes
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: unnecessary, render, authorship
 <!-- vault-crosslinks:end -->

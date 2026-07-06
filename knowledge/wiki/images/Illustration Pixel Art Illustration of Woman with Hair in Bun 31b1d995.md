@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/images/Photograph Blurry Color Photograph of Hair Bun in Slide Mount 3168e0ee|Photograph Blurry Color Photograph of Hair Bun in Slide Mount]] — shared language: bun, hair
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: pixel
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: pixel
 - [[knowledge/wiki/images/Illustration Portrait Of A Woman With Dark Hair And White Blouse c2afd84d|Illustration Portrait Of A Woman With Dark Hair And White Blouse]] — shared language: hair
 - [[knowledge/wiki/images/Illustration Portrait of a Woman with Voluminous Dark Hair 955224ec|Illustration Portrait of a Woman with Voluminous Dark Hair]] — shared language: hair
+- [[knowledge/wiki/images/Illustration Illustration of a Woman With Red Hair And Turtleneck f33df37a|Illustration Illustration of a Woman With Red Hair And Turtleneck]] — shared language: hair
 <!-- vault-crosslinks:end -->

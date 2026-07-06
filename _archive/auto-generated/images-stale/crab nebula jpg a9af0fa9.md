@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/crab_nebula_j
 - [[_archive/auto-generated/images-stale/filaments in the crab nebula df47279a|filaments in the crab nebula]] — shared language: nebula, crab
 - [[_archive/auto-generated/images-stale/crab nebula space telescope image 9328cf64|crab nebula space telescope image]] — shared language: nebula, crab
 - [[knowledge/wiki/images/Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned c857aca6|Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned]] — shared language: nebula, crab
-- [[knowledge/wiki/images/Photograph Colorful Filaments In The Crab Nebula by Hubble Space Telescope 64ca8e68|Photograph Colorful Filaments In The Crab Nebula by Hubble Space Telescope]] — shared language: nebula, crab
+- [[knowledge/wiki/images/Colorful Filaments In The Crab Nebula by Hubble Space Telescope 39b49624|Colorful Filaments In The Crab Nebula by Hubble Space Telescope]] — shared language: nebula, crab
 <!-- vault-crosslinks:end -->

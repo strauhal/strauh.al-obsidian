@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
 - [[_archive/auto-generated/images-stale/black and white photomontage of overlapping human profiles 3ea5543f|black and white photomontage of overlapping human profiles]] — shared language: profiles
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
-- [[_archive/auto-generated/images-stale/framed ink drawing of a horse head with motion lines 712198cb|framed ink drawing of a horse head with motion lines]] — shared language: framed, head
+- [[knowledge/wiki/images/Illustration Framed Oil Painting of a Person with Striped Head Covering 7d2a60e6|Illustration Framed Oil Painting of a Person with Striped Head Covering]] — shared language: framed, head
 <!-- vault-crosslinks:end -->

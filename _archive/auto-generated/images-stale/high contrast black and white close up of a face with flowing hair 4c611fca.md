@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, flowing, high
+- [[knowledge/wiki/images/High Contrast Black And White Close Up Of Face With Flowing Hair e38a9631|High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, flowing, high
+- [[_archive/auto-generated/images-stale/Photograph High Contrast Black And White Close Up Of Face With Flowing Hair b9259f9f|Photograph High Contrast Black And White Close Up Of Face With Flowing Hair]] — shared language: contrast, flowing, high
 - [[_archive/auto-generated/images-stale/high contrast black and white pixelated portrait of a woman 6aaefc34|high contrast black and white pixelated portrait of a woman]] — shared language: contrast, high
 - [[_archive/auto-generated/images-stale/woven textile featuring a high contrast portrait of a downcast face 2d0e8543|woven textile featuring a high contrast portrait of a downcast face]] — shared language: contrast, high, face
 - [[knowledge/wiki/images/Illustration Two Minimalist Figures With Long Flowing Hair 9265bb8c|Illustration Two Minimalist Figures With Long Flowing Hair]] — shared language: flowing, hair, hair.jpg
-- [[_archive/auto-generated/images-stale/illustration of a character with flowing purple hair and heterochromia cd2870e0|illustration of a character with flowing purple hair and heterochromia]] — shared language: flowing, hair
 <!-- vault-crosslinks:end -->

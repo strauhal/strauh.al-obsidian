@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph People Cross Bridge Over Massive Garbage Pile in Urban Area 0a87a3ad|Photograph People Cross Bridge Over Massive Garbage Pile in Urban Area]] — shared language: garbage, pile, area
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, densely
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, large
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, built
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
+- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: pile, built
 <!-- vault-crosslinks:end -->

@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/photography/Photograph - Pete Conrad Collecting Core Sample by Alan Bean.jpg]]
+![[media/strauh.al3.1/photography/Pete Conrad Collecting Core Sample by Alan Bean.jpg]]
 
 ## Image Notes
 
-- [[Photograph Pete Conrad Collecting Core Sample by Alan Bean 4bf47888|Photograph Pete Conrad Collecting Core Sample by Alan Bean]]
+- [[Pete Conrad Collecting Core Sample by Alan Bean dcfba788|Pete Conrad Collecting Core Sample by Alan Bean]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

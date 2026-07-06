@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Night Revels
 ## Discovered Connections
 
 - [[knowledge/wiki/books/stanford-briefs-byung-chul-han-the-burnout-society-stanford-university-press|The Burnout Society-Stanford University Press]] — shared language: han
-- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
 - [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 1a9111e2|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: han
 - [[knowledge/wiki/images/Dropping a Han Dynasty Urn by Ai Weiwei (1995) 317cc6d9|Dropping a Han Dynasty Urn by Ai Weiwei (1995)]] — shared language: han
+- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
 - [[knowledge/wiki/artists/Artist - Swans At Night|Artist - Swans At Night]] — shared language: night
 <!-- vault-crosslinks:end -->

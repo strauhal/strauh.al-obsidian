@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Giorgia Hofer|Artist - Giorgia Hofer]] — named in this note
 - [[_archive/auto-generated/images-stale/moon phases over the dolomites by giorgia hofer c7de64b9|moon phases over the dolomites by giorgia hofer]] — shared language: hofer, giorgia, dolomites
 - [[knowledge/wiki/images/Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021) 94a17fa2|Ye and Travis Scott at SoFi Stadium by Giorgia Rose (2021)]] — shared language: giorgia
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon
 - [[knowledge/wiki/artists/Artist - sarah moon|Artist - sarah moon]] — shared language: moon
 - [[knowledge/archive/auto-generated/artists-stale/Artist - sarah moon 1995|Artist - sarah moon 1995]] — shared language: moon
-- [[knowledge/wiki/images/coffee by sarah moon 1995 36f0a098|coffee by sarah moon 1995]] — shared language: moon
 <!-- vault-crosslinks:end -->

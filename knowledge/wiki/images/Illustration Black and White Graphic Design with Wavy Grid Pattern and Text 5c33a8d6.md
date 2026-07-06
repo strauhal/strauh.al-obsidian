@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/images/Illustration Pink Poster with Wavy Pattern of Repeated Figures and Text ae235189|Illustration Pink Poster with Wavy Pattern of Repeated Figures and Text]] — shared language: wavy, pattern, text
-- [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: wavy, pattern
 - [[knowledge/wiki/images/Illustration Black And White Abstract Pattern Of Wavy Horizontal Bands 76d5e797|Illustration Black And White Abstract Pattern Of Wavy Horizontal Bands]] — shared language: wavy, pattern
+- [[knowledge/wiki/images/Illustration Op Art Pattern of Wavy Lines in Dark Gray and White bb9a007c|Illustration Op Art Pattern of Wavy Lines in Dark Gray and White]] — shared language: wavy, pattern
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 <!-- vault-crosslinks:end -->

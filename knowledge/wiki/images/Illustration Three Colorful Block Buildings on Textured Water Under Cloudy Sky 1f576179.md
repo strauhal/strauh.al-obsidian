@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Colorful Water Droplets On A Textured Surface cb7b1503|Photograph Colorful Water Droplets On A Textured Surface]] — shared language: textured, water, colorful
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings, sky
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
 - [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: cloudy, water, sky
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky
+- [[knowledge/wiki/images/Colorful Water Droplets On A Textured Surface bff02129|Colorful Water Droplets On A Textured Surface]] — shared language: textured, colorful, water
 - [[knowledge/wiki/images/Illustration Stylized Figure With Textured Background And Colorful Embellishments bf0f9634|Illustration Stylized Figure With Textured Background And Colorful Embellishments]] — shared language: textured, colorful
 <!-- vault-crosslinks:end -->

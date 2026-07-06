@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, buildings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, buildings, cars
 - [[knowledge/wiki/images/Illustration Simple Line Drawing of Bent Over Figure 8be25f58|Illustration Simple Line Drawing of Bent Over Figure]] — shared language: simple, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/Photograph Street View Of Buildings And Parked Cars Under Blue Sky 304e1c5b|Photograph Street View Of Buildings And Parked Cars Under Blue Sky]] — shared language: cars, buildings
+- [[knowledge/wiki/images/Street View Of Buildings And Parked Cars Under Blue Sky 486d2b9b|Street View Of Buildings And Parked Cars Under Blue Sky]] — shared language: cars, buildings
 - [[knowledge/wiki/images/Illustration Simple Line Drawing of a Person with Messy Hair and Glasses 945077b0|Illustration Simple Line Drawing of a Person with Messy Hair and Glasses]] — shared language: simple, line
 <!-- vault-crosslinks:end -->

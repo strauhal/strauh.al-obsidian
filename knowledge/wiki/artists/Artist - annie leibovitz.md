@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
+- [[knowledge/wiki/images/Yoko Ono by Annie Leibovitz 52b8d4df|Yoko Ono by Annie Leibovitz]] — shared language: leibovitz, annie
 - [[knowledge/wiki/books/annie-besant-thought-forms-bibliobazaar|Thought-Forms-BiblioBazaar]] — shared language: annie
 - [[knowledge/wiki/images/PXL CON by Jimmy Hinson (2012) 86231716|PXL CON by Jimmy Hinson (2012)]] — shared language: jimmy
 - [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: cliff

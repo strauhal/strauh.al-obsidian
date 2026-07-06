@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Dark Room With Bright Window And Door Overlooking Water de2a2769|Photograph Dark Room With Bright Window And Door Overlooking Water]] — shared language: overlooking, bright, water
+- [[knowledge/wiki/images/Dark Room With Bright Window And Door Overlooking Water c2eb47a1|Dark Room With Bright Window And Door Overlooking Water]] — shared language: overlooking, bright, water
+- [[_archive/auto-generated/images-stale/Photograph Dark Room With Bright Window And Door Overlooking Water de2a2769|Photograph Dark Room With Bright Window And Door Overlooking Water]] — shared language: overlooking, bright, water
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, water
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house, water, water.jpeg
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees, surrounded
-- [[knowledge/wiki/images/Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water 5ae95de7|Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water]] — shared language: orange, water, water.jpeg
 <!-- vault-crosslinks:end -->

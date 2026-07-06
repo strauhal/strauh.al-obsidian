@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards, walking, construction.jpg
+- [[knowledge/wiki/images/Man Walking Towards Atomium Under Construction fa4e7faa|Man Walking Towards Atomium Under Construction]] — shared language: towards, walking, construction.jpg
+- [[_archive/auto-generated/images-stale/Photograph Man Walking Towards Atomium Under Construction d357771c|Photograph Man Walking Towards Atomium Under Construction]] — shared language: towards, walking, construction.jpg
 - [[knowledge/wiki/images/Illustration Woman And Cat Walking Towards White House In Colorful Garden 10d37711|Illustration Woman And Cat Walking Towards White House In Colorful Garden]] — shared language: towards, walking
 - [[knowledge/wiki/images/Illustration Person Walking Up Stairs Towards Large Cloud in Blue Sky by Seong Ryul e854f6a2|Illustration Person Walking Up Stairs Towards Large Cloud in Blue Sky by Seong Ryul]] — shared language: towards, walking, large
-- [[_archive/auto-generated/images-stale/digital illustration of a head profile containing a castle legs and text walking towards b843dee0|digital illustration of a head profile containing a castle legs and text walking towards]] — shared language: towards, walking
-- [[knowledge/wiki/images/Photograph Performer on a spherical stage with pink smoke and spotlights 394b5d4d|Photograph Performer on a spherical stage with pink smoke and spotlights]] — shared language: spherical
+- [[knowledge/wiki/images/Architectural Diagrams of Structures in Thessaloniki and Ephesus 9396cf62|Architectural Diagrams of Structures in Thessaloniki and Ephesus]] — shared language: structures
 <!-- vault-crosslinks:end -->

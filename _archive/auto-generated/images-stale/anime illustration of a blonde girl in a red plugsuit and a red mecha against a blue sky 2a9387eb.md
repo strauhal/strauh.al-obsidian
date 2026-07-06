@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto 90a714f8|Illustration Anime Girl Asuka in Red Plugsuit on Mech by Yoshiyuki Sadamoto]] — shared language: plugsuit, anime, girl
 - [[_archive/auto-generated/images-stale/anime style character standing on a mecha head b46c57d9|anime style character standing on a mecha head]] — shared language: mecha, anime
 - [[_archive/auto-generated/images-stale/illustration of two large mecha figures grappling in a dynamic pose against a bright sky baa239fd|illustration of two large mecha figures grappling in a dynamic pose against a bright sky]] — shared language: mecha, against, sky
-- [[_archive/auto-generated/images-stale/silhouette of a giant mecha in a ruined city against a fiery orange sky c54efd74|silhouette of a giant mecha in a ruined city against a fiery orange sky]] — shared language: mecha, against, sky
+- [[_archive/auto-generated/images-stale/digital illustration of an elderly man drawing an anime girl 2020 239ef40c|digital illustration of an elderly man drawing an anime girl 2020]] — shared language: anime, girl
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Textile Art of Boat Hull Reflected in Rippling Water 7a505a2d|Illustration Textile Art of Boat Hull Reflected in Rippling Water]] — shared language: rippling, hull, reflected
+- [[knowledge/wiki/images/Illustration Textile Art of Boat Hull Reflected in Rippling Water 7a505a2d|Illustration Textile Art of Boat Hull Reflected in Rippling Water]] — shared language: rippling, hull, boat
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Classical Building Reflected In Water 8da6b944|Photograph Black And White Photograph Of Classical Building Reflected In Water]] — shared language: reflected, water, water.jpg
 - [[_archive/auto-generated/images-stale/woven textile depicting steps and railing submerged in blue water 774d67c2|woven textile depicting steps and railing submerged in blue water]] — shared language: textile, depicting, water
+- [[knowledge/wiki/images/Illustration Graphic Print of Rippling Ocean Water and Coastal Rocks 44d1ebc1|Illustration Graphic Print of Rippling Ocean Water and Coastal Rocks]] — shared language: rippling, water
 - [[knowledge/wiki/images/Illustration Abstract Mountains Reflected in Water Under a Gradient Sky e6b3366e|Illustration Abstract Mountains Reflected in Water Under a Gradient Sky]] — shared language: reflected, water
-- [[knowledge/wiki/images/Illustration Green Willow Branches Reflected in Water 1865aaeb|Illustration Green Willow Branches Reflected in Water]] — shared language: reflected, water, water.jpg
 <!-- vault-crosslinks:end -->

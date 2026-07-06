@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: detailed
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
 - [[knowledge/wiki/images/Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll c3856a4a|Illustration Two Stylized Figures Kneeling Before Japanese Calligraphy Scroll]] — shared language: scroll, japanese

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - oneen 2020|Artist - oneen 2020]] — named in this note
+- [[knowledge/wiki/artists/Artist - Oneen|Artist - Oneen]] — named in this note
 - [[knowledge/wiki/images/Illustration Stylized Person Wearing Headphones and Baggy Jeans by Oneen ba0df9c1|Illustration Stylized Person Wearing Headphones and Baggy Jeans by Oneen]] — same artist: oneen
-- [[_archive/auto-generated/images-stale/op art pattern of horizontal wavy lines in dark gray and white e7755905|op art pattern of horizontal wavy lines in dark gray and white]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

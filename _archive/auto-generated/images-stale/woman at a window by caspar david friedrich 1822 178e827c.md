@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Woman at a Window by Caspar David Friedrich (1822) 003cf6f5|Woman at a Window by Caspar David Friedrich (1822)]] — named in this note
 - [[knowledge/wiki/images/marsh in the evening by caspar david friedrich c 1821 1c174ede|marsh in the evening by caspar david friedrich c 1821]] — same artist: caspar david friedrich
 - [[knowledge/wiki/images/oak tree in the moonlight by caspar david friedrich c 18301835 30723622|oak tree in the moonlight by caspar david friedrich c 18301835]] — same artist: caspar david friedrich
-- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: caspar, friedrich, david
 - [[knowledge/wiki/images/The Rainbow by Caspar David Friedrich (1810) 5e4a9177|The Rainbow by Caspar David Friedrich (1810)]] — shared language: caspar, friedrich, david
+- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: caspar, friedrich, david
 <!-- vault-crosslinks:end -->

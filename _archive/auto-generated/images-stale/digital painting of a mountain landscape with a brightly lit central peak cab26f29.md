@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/mountain landscape painting with snowy peak and mist 0c706339|mountain landscape painting with snowy peak and mist]] — shared language: peak, mountain, landscape
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
-- [[knowledge/wiki/images/Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture f1c2bfd2|Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit
+- [[knowledge/wiki/images/Interior of a large, brightly lit shopping mall with Art Deco architecture 3bb890b7|Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit
+- [[_archive/auto-generated/images-stale/Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture f1c2bfd2|Photograph Interior of a large, brightly lit shopping mall with Art Deco architecture]] — shared language: brightly, lit
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/composite image of three interior scenes including a dark gallery a white office lounge and a white suited figure standing in a brightly lit white roo 5a99f98f|composite image of three interior scenes including a dark gallery a white office lounge and a white suited figure standing in a brightly lit white roo]] — shared language: brightly, lit
 <!-- vault-crosslinks:end -->

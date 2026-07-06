@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/nepenthes_by_wal
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: walter
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: walter
-- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: walter
+- [[knowledge/wiki/artists/Artist - walter gay|Artist - walter gay]] — shared language: walter
 <!-- vault-crosslinks:end -->

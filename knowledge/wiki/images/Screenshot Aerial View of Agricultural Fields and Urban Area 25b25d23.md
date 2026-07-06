@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View Of Colorful Striped Agricultural Fields e63703cf|Photograph Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, aerial, view
-- [[knowledge/wiki/images/Photograph Aerial View of Heavily Damaged Urban Area with Smoke Plumes cbd3c4ef|Photograph Aerial View of Heavily Damaged Urban Area with Smoke Plumes]] — shared language: area, urban, aerial
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, aerial, view
+- [[knowledge/wiki/images/Aerial View Of Colorful Striped Agricultural Fields ccc6a845|Aerial View Of Colorful Striped Agricultural Fields]] — shared language: fields, aerial, view
+- [[knowledge/wiki/images/Aerial View of Heavily Damaged Urban Area with Smoke Plumes 3d81196e|Aerial View of Heavily Damaged Urban Area with Smoke Plumes]] — shared language: area, urban, aerial
 - [[knowledge/wiki/images/Photograph Aerial View of Train Passing Through Densely Populated Urban Area 31e2db6f|Photograph Aerial View of Train Passing Through Densely Populated Urban Area]] — shared language: area, urban, aerial
-- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view, screenshot
-- [[knowledge/wiki/images/Illustration Aerial View Of A Green River Winding Through Fields 8dcac42e|Illustration Aerial View Of A Green River Winding Through Fields]] — shared language: fields, aerial, view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

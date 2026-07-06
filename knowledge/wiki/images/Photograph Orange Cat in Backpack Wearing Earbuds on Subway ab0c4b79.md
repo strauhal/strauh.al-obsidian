@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Ora
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 1972ef65|Photograph Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: wearing, cat, orange
-- [[knowledge/wiki/images/Photograph Cat Wearing Makeup Sitting On A Chair 15771ad5|Photograph Cat Wearing Makeup Sitting On A Chair]] — shared language: wearing, cat
-- [[knowledge/wiki/images/Photograph Man Posing In Vintage Style Outfit With Backpack 6e541806|Photograph Man Posing In Vintage Style Outfit With Backpack]] — shared language: backpack
-- [[knowledge/wiki/images/Photograph Orange And White Cat Lying Down Looking At Camera ae6e7fa0|Photograph Orange And White Cat Lying Down Looking At Camera]] — shared language: cat, orange
-- [[knowledge/wiki/images/Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak 664712e4|Illustration Cartoon Cat Wearing Blue Wizard Hat and Red Cloak]] — shared language: wearing, cat
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: subway
+- [[knowledge/wiki/images/Fluffy Orange Cat Wearing Wizard Hat And Holding Staff 616ecd4e|Fluffy Orange Cat Wearing Wizard Hat And Holding Staff]] — shared language: wearing, cat, orange
+- [[knowledge/wiki/images/Cat Wearing Makeup Sitting On A Chair 749321ef|Cat Wearing Makeup Sitting On A Chair]] — shared language: wearing, cat
+- [[knowledge/wiki/images/Man Posing In Vintage Style Outfit With Backpack 10fa7fb5|Man Posing In Vintage Style Outfit With Backpack]] — shared language: backpack
+- [[knowledge/wiki/images/Orange And White Cat Lying Down Looking At Camera 8a710d85|Orange And White Cat Lying Down Looking At Camera]] — shared language: cat, orange
 <!-- vault-crosslinks:end -->

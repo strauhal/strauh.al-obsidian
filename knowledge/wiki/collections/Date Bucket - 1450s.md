@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1450s"
 source_kind: "date_bucket"
-count: "2"
+count: "1"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,13 +9,11 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1450s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 2
+Files: 1
 
 ## Sample
 
 ![[media/strauh.al3.1/1400s/The Crucifixion by Andrea Mantegna (1457–1459).jpg]]
-
-![[media/strauh.al3.1/photography/IMG_1454.JPG]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

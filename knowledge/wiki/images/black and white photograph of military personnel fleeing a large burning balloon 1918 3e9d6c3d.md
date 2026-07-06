@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/black_and_white_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: military, large
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: burning, large
 - [[knowledge/wiki/images/Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster 61ade3f0|Illustration Pen and Ink Illustration of Man Fleeing Grotesque Monster]] — shared language: fleeing
+- [[knowledge/wiki/images/large oil portrait of a man in 18th century military uniform d337dc9f|large oil portrait of a man in 18th century military uniform]] — shared language: military, large
 - [[knowledge/wiki/images/Illustration Portrait of a Man in Red Military Uniform 8c69a201|Illustration Portrait of a Man in Red Military Uniform]] — shared language: military
-- [[knowledge/wiki/images/Photograph Man Posing With Pink Balloon Letters On Blue Wall 45235ac8|Photograph Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: balloon
-- [[knowledge/wiki/images/Photograph Red Heart Balloon Inside Blue Dumpster At Night 55e457d0|Photograph Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: balloon
+- [[knowledge/wiki/images/Man Posing With Pink Balloon Letters On Blue Wall 56cc195c|Man Posing With Pink Balloon Letters On Blue Wall]] — shared language: balloon
 <!-- vault-crosslinks:end -->

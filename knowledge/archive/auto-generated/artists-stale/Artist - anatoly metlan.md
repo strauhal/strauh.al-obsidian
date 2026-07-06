@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of Standing Male Figure Draped in Cloth by Anatoly Ryzhkin 38bd7c5c|Illustration Charcoal Drawing of Standing Male Figure Draped in Cloth by Anatoly Ryzhkin]] — shared language: anatoly
 - [[_archive/auto-generated/images-stale/watercolor illustration of a figure holding a green umbrella f6436f28|watercolor illustration of a figure holding a green umbrella]] — shared language: umbrella
 - [[knowledge/wiki/images/Illustration Cartoon Girl Holding Green Umbrella 3625c4df|Illustration Cartoon Girl Holding Green Umbrella]] — shared language: umbrella
-- [[knowledge/wiki/images/Photograph Person With Blue Umbrella Walking On Path In Misty Mountains 73eda492|Photograph Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: umbrella
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Stylized Girl with Crow, Umbrella, and Pug 4ef186f5|Illustration Pencil Sketch of Stylized Girl with Crow, Umbrella, and Pug]] — shared language: umbrella
+- [[knowledge/wiki/images/Person With Blue Umbrella Walking On Path In Misty Mountains 93b3411c|Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: umbrella
+- [[_archive/auto-generated/images-stale/Photograph Person With Blue Umbrella Walking On Path In Misty Mountains 73eda492|Photograph Person With Blue Umbrella Walking On Path In Misty Mountains]] — shared language: umbrella
 <!-- vault-crosslinks:end -->

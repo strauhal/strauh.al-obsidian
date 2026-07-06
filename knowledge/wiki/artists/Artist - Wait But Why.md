@@ -11,11 +11,11 @@ Images attributed by filename: 1
 
 ## Sample
 
-![[media/strauh.al3.1/diagrams/Diagram - Diagram of Life Paths: Past, Present, and Future Choices by Wait But Why.jpeg]]
+![[media/strauh.al3.1/diagrams/Diagram_of_Life_Paths:_Past,_Present,_and_Future_Choices_by_Wait_But_Why.jpeg]]
 
 ## Image Notes
 
-- [[Diagram Diagram of Life Paths Past, Present, and Future Choices by Wait But Why 16b0b9a4|Diagram Diagram of Life Paths Past, Present, and Future Choices by Wait But Why]]
+- [[Diagram of Life Paths Past, Present, and Future Choices by Wait But Why 7b02d06a|Diagram of Life Paths Past, Present, and Future Choices by Wait But Why]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — shared language: wait
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 3d4a4e05|it+moves +just+wait+for+it+ + +)]] — shared language: wait
 - [[knowledge/wiki/images/Illustration Windows Wait Cursor 39bafddc|Illustration Windows Wait Cursor]] — shared language: wait
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: wait
-- [[knowledge/wiki/images/Diagram Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser bfeb0211|Diagram Hourglass Visualization of Humanity's Past and Present Population Data by Max Roser]] — shared language: present, past, diagram
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
+- [[knowledge/wiki/books/douglas-rushkoff-present-shock-when-everything-happens-now-current-hardcover|Present Shock When Everything Happens Now-Current Hardcover]] — shared language: present
 <!-- vault-crosslinks:end -->

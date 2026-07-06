@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_walker_by_fa
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/fan-ho|fan ho]] — shared language: fan
-- [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: fan
 - [[knowledge/wiki/artists/Artist - chuck walker|Artist - chuck walker]] — shared language: walker
+- [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: fan
 - [[knowledge/wiki/images/03 w1959 e4579efc|03 w1959]] — shared language: fan
 - [[knowledge/wiki/images/06 private1960 f530a3cb|06 private1960]] — shared language: fan
 <!-- vault-crosslinks:end -->

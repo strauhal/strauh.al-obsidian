@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/three_men_sittin
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/robert-hood|Robert Hood]] — shared language: hood
-- [[knowledge/wiki/images/Photograph Dog Sitting on Stool with Pipe in Mouth 65d33657|Photograph Dog Sitting on Stool with Pipe in Mouth]] — shared language: mouth, sitting
-- [[knowledge/wiki/images/Photograph Man With Bloody Mouth Holding Clear Sheet 577021e2|Photograph Man With Bloody Mouth Holding Clear Sheet]] — shared language: mouth, holding
-- [[knowledge/wiki/images/Photograph Young Woman Holding Rifle with Armed Figures Behind Her e8da5881|Photograph Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: rifle, holding
+- [[knowledge/wiki/images/Dog Sitting on Stool with Pipe in Mouth 1491abde|Dog Sitting on Stool with Pipe in Mouth]] — shared language: mouth, sitting
+- [[knowledge/wiki/images/Man With Bloody Mouth Holding Clear Sheet b430059c|Man With Bloody Mouth Holding Clear Sheet]] — shared language: mouth, holding
+- [[knowledge/wiki/images/Young Woman Holding Rifle with Armed Figures Behind Her 9f11a848|Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: rifle, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 <!-- vault-crosslinks:end -->

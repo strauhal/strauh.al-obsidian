@@ -21,7 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - yves tanguy|Artist - yves tanguy]] — named in this note
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
-- [[knowledge/wiki/images/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
+- [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent at Christian Dior's Funeral ad4ae1c9|Photograph Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
+- [[knowledge/wiki/images/Yves Saint Laurent at Christian Dior's Funeral b280d98c|Yves Saint Laurent at Christian Dior's Funeral]] — shared language: yves
+- [[_archive/auto-generated/images-stale/Photograph Yves Saint Laurent, Paris by Jeanloup Sieff 21b474b4|Photograph Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
+- [[knowledge/wiki/images/Yves Saint Laurent, Paris by Jeanloup Sieff cc2334e8|Yves Saint Laurent, Paris by Jeanloup Sieff]] — shared language: yves
 - [[knowledge/wiki/artists/Artist - Jeanloup Sieff|Artist - Jeanloup Sieff]] — shared language: yves
 <!-- vault-crosslinks:end -->

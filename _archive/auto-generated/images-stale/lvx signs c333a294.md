@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: signs
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: signs
 - [[knowledge/wiki/images/Illustration Figures in Robes Demonstrating Esoteric Elemental, L.V.X., and N.O.X. Signs 105c62a8|Illustration Figures in Robes Demonstrating Esoteric Elemental, L.V.X., and N.O.X. Signs]] — shared language: signs
-- [[knowledge/wiki/images/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: signs
-- [[knowledge/wiki/images/Diagram Mathematical Signs, Abbreviations, and Geometric Formulas Reference Sheet 22303e29|Diagram Mathematical Signs, Abbreviations, and Geometric Formulas Reference Sheet]] — shared language: signs
+- [[knowledge/wiki/images/Mathematical Signs, Abbreviations, and Geometric Formulas Reference Sheet 4efe9910|Mathematical Signs, Abbreviations, and Geometric Formulas Reference Sheet]] — shared language: signs
+- [[knowledge/wiki/images/Man Holding Protest Signs At Outdoor Gathering cd4a257a|Man Holding Protest Signs At Outdoor Gathering]] — shared language: signs
 <!-- vault-crosslinks:end -->

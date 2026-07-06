@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 
 - [[knowledge/wiki/images/Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting f858ebf5|Illustration Oil Painting of Young Man with Dark Hair and Dramatic Lighting]] — shared language: dramatic, oil, dark
 - [[knowledge/wiki/images/Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape 2e28f5bd|Illustration Large Orange And Pink Cumulonimbus Cloud Over Dark Desert Landscape]] — shared language: cloud, dark, landscape
-- [[knowledge/wiki/images/Photograph Dramatic Red Sky Over Dark Garden at Dusk b5024496|Photograph Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dramatic, dark
+- [[knowledge/wiki/images/Dramatic Red Sky Over Dark Garden at Dusk 620412ac|Dramatic Red Sky Over Dark Garden at Dusk]] — shared language: dramatic, dark
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: oil, dark
 - [[knowledge/wiki/images/Illustration Monochromatic Oil Study of Three Female Heads with Dramatic Lighting 2e44138a|Illustration Monochromatic Oil Study of Three Female Heads with Dramatic Lighting]] — shared language: dramatic, oil
 <!-- vault-crosslinks:end -->

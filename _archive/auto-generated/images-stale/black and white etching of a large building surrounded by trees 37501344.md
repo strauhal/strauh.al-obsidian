@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — named in this note
 - [[knowledge/wiki/images/Illustration Black And White Etching Of A Building Surrounded By Trees 49bb7d57|Illustration Black And White Etching Of A Building Surrounded By Trees]] — same artist: trees
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees, large
 - [[knowledge/wiki/images/Illustration Etching of a Rustic House with a Large Log Shed 3dbed2a5|Illustration Etching of a Rustic House with a Large Log Shed]] — shared language: etching, large
-- [[knowledge/wiki/images/Photograph Brutalist Concrete Building with Tall Conifer Trees b827b38a|Photograph Brutalist Concrete Building with Tall Conifer Trees]] — shared language: trees, building, trees.jpeg
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 <!-- vault-crosslinks:end -->

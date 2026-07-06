@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_toilet_illus
 - [[knowledge/wiki/images/The Peacock Skirt by Aubrey Beardsley (1894) fe4310f8|The Peacock Skirt by Aubrey Beardsley (1894)]] — shared language: beardsley, aubrey
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
 - [[knowledge/wiki/images/untitled rape of the sabines by cy twombly 1960 0f53a0b2|untitled rape of the sabines by cy twombly 1960]] — shared language: rape
-- [[knowledge/wiki/images/Photograph Bathroom with Toilet, Shower, and Vanity 66439eb6|Photograph Bathroom with Toilet, Shower, and Vanity]] — shared language: toilet
+- [[knowledge/wiki/images/the rape of europa by luca giordano c 16751680 4760ab48|the rape of europa by luca giordano c 16751680]] — shared language: rape
 <!-- vault-crosslinks:end -->

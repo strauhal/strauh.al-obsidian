@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 2010s"
 source_kind: "date_bucket"
-count: "75"
+count: "76"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 2010s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 75
+Files: 76
 
 ## Sample
 

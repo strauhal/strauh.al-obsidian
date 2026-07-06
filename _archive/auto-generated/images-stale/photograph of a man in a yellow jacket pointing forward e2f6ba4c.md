@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Freddie Mercury in Yellow Jacket Pointing Forward 5339326c|Photograph Freddie Mercury in Yellow Jacket Pointing Forward]] — shared language: forward, pointing, jacket
+- [[knowledge/wiki/images/Freddie Mercury in Yellow Jacket Pointing Forward dae3da47|Freddie Mercury in Yellow Jacket Pointing Forward]] — shared language: forward, pointing, jacket
+- [[_archive/auto-generated/images-stale/Photograph Freddie Mercury in Yellow Jacket Pointing Forward 5339326c|Photograph Freddie Mercury in Yellow Jacket Pointing Forward]] — shared language: forward, pointing, jacket
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: jacket
 - [[knowledge/wiki/images/Illustration Portrait of a Man in Dark Jacket and Blue Shirt 3cec8479|Illustration Portrait of a Man in Dark Jacket and Blue Shirt]] — shared language: jacket
 - [[knowledge/wiki/images/Photograph Person in Yellow Jacket and Goggles Squatting on Road 42667225|Photograph Person in Yellow Jacket and Goggles Squatting on Road]] — shared language: jacket, yellow
-- [[_archive/auto-generated/images-stale/framed painting of a woman in blue bending forward c0157486|framed painting of a woman in blue bending forward]] — shared language: forward
 <!-- vault-crosslinks:end -->

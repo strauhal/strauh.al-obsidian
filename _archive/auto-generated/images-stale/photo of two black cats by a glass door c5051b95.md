@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/photo of two black cats by a glass door 2 c84476a3|photo of two black cats by a glass door 2]] — named in this note
 - [[_archive/auto-generated/images-stale/photo through a screen door of trees bbe51fd4|photo through a screen door of trees]] — shared language: door, photo
-- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
+- [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
 <!-- vault-crosslinks:end -->

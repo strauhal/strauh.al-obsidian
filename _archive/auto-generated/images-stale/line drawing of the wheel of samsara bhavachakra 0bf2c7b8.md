@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/tibetan thangka depicting the wheel of life bhavachakra 5ffa6d7d|tibetan thangka depicting the wheel of life bhavachakra]] — shared language: bhavachakra, wheel, bhavachakra.jpeg
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Photograph Ferris Wheel at the World's Columbian Exposition 45c0fb8a|Photograph Ferris Wheel at the World's Columbian Exposition]] — shared language: wheel
-- [[knowledge/wiki/images/Photograph Early iPod Prototype In Beige Casing With Click Wheel df14cb94|Photograph Early iPod Prototype In Beige Casing With Click Wheel]] — shared language: wheel
+- [[knowledge/wiki/images/Illustration Colorful Buddhist Thangka Depicting Wheel of Life Held by Yama 783d1c98|Illustration Colorful Buddhist Thangka Depicting Wheel of Life Held by Yama]] — shared language: wheel
 <!-- vault-crosslinks:end -->

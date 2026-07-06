@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: organic, female, forms
 - [[_archive/auto-generated/images-stale/continuous line drawing of organic forms 2023 c6ec5dca|continuous line drawing of organic forms 2023]] — shared language: organic, forms, line
 - [[_archive/auto-generated/images-stale/black and white line drawing of a female face in ms paint eac655ba|black and white line drawing of a female face in ms paint]] — shared language: female, face, line
-- [[knowledge/archive/auto-generated/artists-stale/Artist - branching organic forms|Artist - Branching Organic Forms]] — shared language: organic, forms, face
 - [[knowledge/wiki/images/Illustration Continuous Line Drawing of Abstract Organic Forms on Paper c89e4e81|Illustration Continuous Line Drawing of Abstract Organic Forms on Paper]] — shared language: organic, forms, line
+- [[knowledge/archive/auto-generated/artists-stale/Artist - branching organic forms|Artist - Branching Organic Forms]] — shared language: organic, forms, face
 <!-- vault-crosslinks:end -->

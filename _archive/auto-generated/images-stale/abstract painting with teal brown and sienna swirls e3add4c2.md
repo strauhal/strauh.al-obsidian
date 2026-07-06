@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Painting with Teal, Brown, and Sienna Swirls b127ec00|Illustration Abstract Painting with Teal, Brown, and Sienna Swirls]] — named in this note
 - [[_archive/auto-generated/images-stale/large abstract painting with red black blue and yellow swirls 627a7a7b|large abstract painting with red black blue and yellow swirls]] — shared language: swirls, swirls.jpeg
-- [[knowledge/wiki/images/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
-- [[_archive/auto-generated/images-stale/painting of a brown teddy bear stencil and brown swirls on a pale green canvas 2efdfa63|painting of a brown teddy bear stencil and brown swirls on a pale green canvas]] — shared language: swirls, brown
+- [[knowledge/wiki/images/Blue and Purple Vase with Swirls 25a7d806|Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
+- [[_archive/auto-generated/images-stale/Photograph Blue and Purple Vase with Swirls 7cc2ecbc|Photograph Blue and Purple Vase with Swirls]] — shared language: swirls, swirls.jpeg
 - [[_archive/auto-generated/images-stale/sketchy floral study in brown on teal canvas f6c60ad5|sketchy floral study in brown on teal canvas]] — shared language: teal, brown
 <!-- vault-crosslinks:end -->

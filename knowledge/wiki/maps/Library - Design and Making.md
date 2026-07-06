@@ -2,8 +2,8 @@
 title: Library - Design and Making
 type: map
 tags: [map, library, books]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Library - Design and Making
@@ -33,5 +33,5 @@ Books/files: 10
 - [[knowledge/wiki/books/g-w-f-hegel-george-di-giovanni-the-science-of-logic-cambridge-university-press|The Science of Logic-Cambridge University Press]] — shared language: science
 - [[knowledge/wiki/books/james-bridle-ways-of-being-penguin-books-ltd|Ways of Being-Penguin Books Ltd]] — shared language: being-penguin
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — shared language: science
-- [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: techniques
+- [[knowledge/wiki/images/Young Woman In Kimono Making Peace Sign 452dfd42|Young Woman In Kimono Making Peace Sign]] — shared language: making
 <!-- vault-crosslinks:end -->

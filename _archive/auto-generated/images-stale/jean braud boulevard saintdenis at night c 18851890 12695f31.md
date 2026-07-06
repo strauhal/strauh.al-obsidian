@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/boulevard des capucines at night by jean beraud c 1880 8036b64d|boulevard des capucines at night by jean beraud c 1880]] — shared language: boulevard, jean, night
 - [[knowledge/wiki/artists/Artist - jean beraud|Artist - jean beraud]] — shared language: jean, boulevard, night
 - [[knowledge/wiki/images/jean harlow 1983 95d2d8b8|jean harlow 1983]] — shared language: jean
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: night
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: night
+- [[knowledge/wiki/culture/movie-sunset-boulevard|Watchlist - Sunset Boulevard]] — shared language: boulevard
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: field
 - [[knowledge/wiki/images/Illustration Brown Horse Grazing in a Field 8ad84393|Illustration Brown Horse Grazing in a Field]] — shared language: field
 - [[knowledge/wiki/images/Illustration Green Field With Fire And Black Smoke Against Blue Sky 57e457c2|Illustration Green Field With Fire And Black Smoke Against Blue Sky]] — shared language: field
-- [[knowledge/wiki/images/Photograph White House in a Field with a Lake Under a Twilight Sky 8b6060a1|Photograph White House in a Field with a Lake Under a Twilight Sky]] — shared language: field
+- [[knowledge/wiki/images/White House in a Field with a Lake Under a Twilight Sky f1895434|White House in a Field with a Lake Under a Twilight Sky]] — shared language: field
 <!-- vault-crosslinks:end -->

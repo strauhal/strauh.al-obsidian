@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape 709ee67d|Photograph Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
+- [[knowledge/wiki/images/Colorful Sunset Sky with Crescent Moon Over Dark Landscape 325696e0|Colorful Sunset Sky with Crescent Moon Over Dark Landscape]] — shared language: crescent, moon
 - [[knowledge/wiki/images/Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background 98c00cdf|Illustration Young Woman With Curly Hair And Crescent Moon In Golden Background]] — shared language: crescent, moon
+- [[knowledge/wiki/images/Illustration Line Art Poster of Man in Suit with Text and Symbols 3bc598dd|Illustration Line Art Poster of Man in Suit with Text and Symbols]] — shared language: symbols, line
 - [[knowledge/wiki/images/moon aa55e4b4|moon]] — shared language: moon, moon.jpg
-- [[knowledge/wiki/images/Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below e829048b|Illustration Stylized Figure Fishing From Crescent Moon With Colorful Fish Below]] — shared language: crescent, moon
 <!-- vault-crosslinks:end -->

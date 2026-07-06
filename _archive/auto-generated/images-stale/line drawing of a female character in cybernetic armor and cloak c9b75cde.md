@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak 4d2c26b9|Illustration Line Drawing of Female Character in Cybernetic Armor and Cloak]] — shared language: cybernetic, cloak, armor
 - [[_archive/auto-generated/images-stale/black and white portrait of a man in a dark cloak a4de2533|black and white portrait of a man in a dark cloak]] — shared language: cloak
 - [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In A Dark Cloak 623d3648|Photograph Black And White Portrait Of A Man In A Dark Cloak]] — shared language: cloak
-- [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: female, line
 - [[_archive/auto-generated/images-stale/black and white line drawing of a female face in ms paint eac655ba|black and white line drawing of a female face in ms paint]] — shared language: female, line
+- [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: female, line
 <!-- vault-crosslinks:end -->

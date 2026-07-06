@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - josef albers|Artist - josef albers]] — named in this note
 - [[knowledge/wiki/artists/Artist - Anton Josef Tr ka|Artist - Anton Josef Tr ka]] — shared language: josef
-- [[knowledge/wiki/images/Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: josef
+- [[knowledge/wiki/images/Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 3119ee5a|Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: josef
+- [[_archive/auto-generated/images-stale/Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka 484d2093|Photograph Egon Schiele in his Studio with Sculpture by Anton Josef Tr ka]] — shared language: josef
 - [[knowledge/wiki/images/Beethoven on his Deathbed by Josef Danhauser (1827) f4130bf8|Beethoven on his Deathbed by Josef Danhauser (1827)]] — shared language: josef
 - [[knowledge/wiki/images/kumagaya o ikazuchi shrine by kawase hasui 1921 397c67a0|kumagaya o ikazuchi shrine by kawase hasui 1921]] — shared language: shrine
-- [[knowledge/wiki/images/Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi 50c36bd8|Illustration Stylized Illustration of Dancing Figures in a Room with Phone Shrine by Muhammad Fatchurofi]] — shared language: shrine
 <!-- vault-crosslinks:end -->

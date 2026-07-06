@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Aerial View of Large Outdoor Crowd and Spiral Formation a96021da|Photograph Aerial View of Large Outdoor Crowd and Spiral Formation]] — shared language: crowd, aerial, large
-- [[knowledge/wiki/images/Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field 02c8155f|Photograph Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: crowd, aerial, large
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, aerial
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
-- [[_archive/auto-generated/images-stale/aerial photo of a crowd and police in a street a56ef99d|aerial photo of a crowd and police in a street]] — shared language: crowd, aerial
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, large
+- [[knowledge/wiki/images/Aerial View of Large Outdoor Crowd and Spiral Formation 312b3d7a|Aerial View of Large Outdoor Crowd and Spiral Formation]] — shared language: crowd, aerial, large
+- [[_archive/auto-generated/images-stale/Photograph Aerial View of Large Outdoor Crowd and Spiral Formation a96021da|Photograph Aerial View of Large Outdoor Crowd and Spiral Formation]] — shared language: crowd, aerial, large
 <!-- vault-crosslinks:end -->

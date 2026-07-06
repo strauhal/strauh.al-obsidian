@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/THE TRAIN OF THE
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
-- [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
 - [[knowledge/wiki/books/leopold-aschenbrenner-situational-awareness-the-decade-ahead|Situational Awareness: The Decade Ahead]] — shared language: ahead
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
+- [[knowledge/wiki/books/theodore-kaczynski-industrial-society-and-its-future|Industrial Society and Its Future]] — shared language: future
 <!-- vault-crosslinks:end -->

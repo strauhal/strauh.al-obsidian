@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 
 - [[knowledge/wiki/images/photograph of a person revealing a tattoo reading r mutt 1917 on their torso c86ba463|photograph of a person revealing a tattoo reading r mutt 1917 on their torso]] — shared language: revealing
 - [[knowledge/wiki/images/Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth 61057e28|Screenshot Close Up Of Face With Red Triangle Over Nose And Mouth]] — shared language: mouth, face
-- [[knowledge/wiki/images/Photograph Black And White Landscape With Sun Rays Over Cracked Earth f903fec2|Photograph Black And White Landscape With Sun Rays Over Cracked Earth]] — shared language: cracked
-- [[knowledge/wiki/images/Photograph Cracked Storefront Window with Handwritten Messages and Reflections 00db0fe2|Photograph Cracked Storefront Window with Handwritten Messages and Reflections]] — shared language: cracked
 - [[knowledge/wiki/images/Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E' 42d43431|Illustration Stylized Keyboard With Lifted Enter Key Revealing Red 'E']] — shared language: revealing
+- [[knowledge/wiki/images/Photograph Black And White Landscape With Sun Rays Over Cracked Earth f903fec2|Photograph Black And White Landscape With Sun Rays Over Cracked Earth]] — shared language: cracked
+- [[knowledge/wiki/images/Illustration Hairy Monstrous Figure in Hat Playing Saxophone 71ac4398|Illustration Hairy Monstrous Figure in Hat Playing Saxophone]] — shared language: monstrous
 <!-- vault-crosslinks:end -->

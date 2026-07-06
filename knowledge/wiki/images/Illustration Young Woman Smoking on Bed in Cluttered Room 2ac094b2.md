@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cluttered Attic Room With Computer Desk And Bed 37331f90|Photograph Cluttered Attic Room With Computer Desk And Bed]] — shared language: cluttered, bed, room
-- [[knowledge/wiki/images/Photograph Room Cluttered With Synthesizers And Electronic Music Equipment cb243c5d|Photograph Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: cluttered, room
-- [[knowledge/wiki/images/Photograph Man In Sunglasses Sits In Yellow Room With Bed 4904b155|Photograph Man In Sunglasses Sits In Yellow Room With Bed]] — shared language: bed, room
-- [[knowledge/wiki/images/Photograph Highly Cluttered Room With Computer Desk And Trash c4d7a90b|Photograph Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, room
+- [[knowledge/wiki/images/Cluttered Attic Room With Computer Desk And Bed 57dafd01|Cluttered Attic Room With Computer Desk And Bed]] — shared language: bed, cluttered, room
+- [[knowledge/wiki/images/Man In Sunglasses Sits In Yellow Room With Bed 7ed7c478|Man In Sunglasses Sits In Yellow Room With Bed]] — shared language: bed, room
+- [[knowledge/wiki/images/Room Cluttered With Synthesizers And Electronic Music Equipment 77bf9207|Room Cluttered With Synthesizers And Electronic Music Equipment]] — shared language: cluttered, room
 - [[knowledge/wiki/images/Illustration Person in Red Beanie Sits at Desk in Cluttered Room 8fb5b104|Illustration Person in Red Beanie Sits at Desk in Cluttered Room]] — shared language: cluttered, room, room.jpg
+- [[knowledge/wiki/images/Highly Cluttered Room With Computer Desk And Trash 0503be2c|Highly Cluttered Room With Computer Desk And Trash]] — shared language: cluttered, room
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/sketch of a woman s face in teal hatching with red lips f1abb210|sketch of a woman s face in teal hatching with red lips]] — shared language: teal, face, sketch
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colored
+- [[knowledge/wiki/images/Illustration Expressive Sketch of Woman's Face with Colored Hatching 1bbe855a|Illustration Expressive Sketch of Woman's Face with Colored Hatching]] — shared language: colored, face, sketch
 <!-- vault-crosslinks:end -->

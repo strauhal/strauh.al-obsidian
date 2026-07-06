@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: scene, interior, framed
-- [[_archive/auto-generated/images-stale/framed interior scene with a bending figure c9b92e96|framed interior scene with a bending figure]] — shared language: scene, interior, framed
-- [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: scene, interior, framed
-- [[_archive/auto-generated/images-stale/framed modernist interior scene with star and furniture 0e626380|framed modernist interior scene with star and furniture]] — shared language: scene, interior, framed
-- [[_archive/auto-generated/images-stale/framed interior painting with a woman at a table and city view a00dbc63|framed interior painting with a woman at a table and city view]] — shared language: interior, framed
+- [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: scene, framed, interior
+- [[_archive/auto-generated/images-stale/framed interior scene with a bending figure c9b92e96|framed interior scene with a bending figure]] — shared language: scene, framed, interior
+- [[_archive/auto-generated/images-stale/framed historical interior scene with figures around a table 6aa64bf7|framed historical interior scene with figures around a table]] — shared language: scene, framed, interior
+- [[_archive/auto-generated/images-stale/framed modernist interior scene with star and furniture 0e626380|framed modernist interior scene with star and furniture]] — shared language: scene, framed, interior
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: scene
 <!-- vault-crosslinks:end -->

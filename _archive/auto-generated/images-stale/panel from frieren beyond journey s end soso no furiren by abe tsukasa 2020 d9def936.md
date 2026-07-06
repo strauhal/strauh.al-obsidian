@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - abe tsukasa 2020|Artist - abe tsukasa 2020]] — named in this note
+- [[knowledge/wiki/artists/Artist - Abe Tsukasa|Artist - Abe Tsukasa]] — named in this note
 - [[knowledge/wiki/images/Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa e7a6f9ce|Comic Black and White Manga Panel of Long Haired Woman Lying Down by Abe Tsukasa]] — same artist: abe tsukasa
 - [[_archive/auto-generated/books-stale/beyond-good-evil|beyond good & evil]] — shared language: beyond
 - [[knowledge/wiki/books/friedrich-nietzsche-beyond-good-and-evil|Beyond Good and Evil]] — shared language: beyond
-- [[knowledge/wiki/books/epicurus-epicurus-klein-daniel-m-klein-daniel-m-travels-with-epicurus-journey-to-a-greek-island-in-search-of-an-authentic-old-age|Travels with Epicurus journey to a Greek island in search of an authentic old age]] — shared language: journey
 <!-- vault-crosslinks:end -->

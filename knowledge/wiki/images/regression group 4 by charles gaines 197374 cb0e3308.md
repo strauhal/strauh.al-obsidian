@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/regression_group
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
 - [[knowledge/wiki/images/the staircase group by charles willson peale 1795 409af89d|the staircase group by charles willson peale 1795]] — shared language: charles, group
 - [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: group
-- [[knowledge/wiki/artists/Artist - charles willson peale|Artist - charles willson peale]] — shared language: charles, group
+- [[knowledge/wiki/books/charles-darwin-the-origin-of-species|The Origin of Species]] — shared language: charles
 <!-- vault-crosslinks:end -->

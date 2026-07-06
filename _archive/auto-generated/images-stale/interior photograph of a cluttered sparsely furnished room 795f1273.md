@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Interior View of a Cluttered, Sparsely Furnished Room 63fb940d|Photograph Interior View of a Cluttered, Sparsely Furnished Room]] — shared language: sparsely, furnished, cluttered
-- [[knowledge/wiki/images/Photograph Person Lying On Floor In Sparsely Furnished Room 87ec1620|Photograph Person Lying On Floor In Sparsely Furnished Room]] — shared language: sparsely, furnished, room
-- [[knowledge/wiki/images/Photograph Sparsely Furnished Room With Air Mattress And Fan f9b5b109|Photograph Sparsely Furnished Room With Air Mattress And Fan]] — shared language: sparsely, furnished, room
-- [[_archive/auto-generated/images-stale/black and white drawing of a cluttered studio room c77d1351|black and white drawing of a cluttered studio room]] — shared language: cluttered, room
-- [[knowledge/wiki/images/Illustration Young Woman Smoking on Bed in Cluttered Room 2ac094b2|Illustration Young Woman Smoking on Bed in Cluttered Room]] — shared language: cluttered, room
+- [[knowledge/wiki/images/Interior View of a Cluttered, Sparsely Furnished Room c82c4f8e|Interior View of a Cluttered, Sparsely Furnished Room]] — shared language: sparsely, furnished, cluttered
+- [[_archive/auto-generated/images-stale/Photograph Interior View of a Cluttered, Sparsely Furnished Room 63fb940d|Photograph Interior View of a Cluttered, Sparsely Furnished Room]] — shared language: sparsely, furnished, cluttered
+- [[knowledge/wiki/images/Person Lying On Floor In Sparsely Furnished Room 7c92fa0f|Person Lying On Floor In Sparsely Furnished Room]] — shared language: sparsely, furnished, room
+- [[_archive/auto-generated/images-stale/Photograph Person Lying On Floor In Sparsely Furnished Room 87ec1620|Photograph Person Lying On Floor In Sparsely Furnished Room]] — shared language: sparsely, furnished, room
+- [[_archive/auto-generated/images-stale/Photograph Sparsely Furnished Room With Air Mattress And Fan f9b5b109|Photograph Sparsely Furnished Room With Air Mattress And Fan]] — shared language: sparsely, furnished, room
 <!-- vault-crosslinks:end -->

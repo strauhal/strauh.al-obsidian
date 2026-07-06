@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Fl
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: flyer, event, document
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: yard
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
-- [[knowledge/wiki/images/Document Pink And Purple Event Poster With Portrait Photos 9bfd939f|Document Pink And Purple Event Poster With Portrait Photos]] — shared language: event, document
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
-- [[knowledge/wiki/images/Image Facebook Post Announcing Dog Drawing Contest Winners d24eed52|Image Facebook Post Announcing Dog Drawing Contest Winners]] — shared language: announcing
+- [[knowledge/wiki/images/Document Pink And Purple Event Poster With Portrait Photos 9bfd939f|Document Pink And Purple Event Poster With Portrait Photos]] — shared language: event, document
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby e6547e78|Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby]] — shared language: nearby, costume, bear
+- [[knowledge/wiki/images/Man In Yellow Bear Costume Body Holding Phone, Head Nearby e1789372|Man In Yellow Bear Costume Body Holding Phone, Head Nearby]] — shared language: nearby, costume, bear
+- [[_archive/auto-generated/images-stale/Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby e6547e78|Photograph Man In Yellow Bear Costume Body Holding Phone, Head Nearby]] — shared language: nearby, costume, bear
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: bear
 - [[knowledge/wiki/images/Illustration Panda Bear Resting on Bookshelf Filled with Red and White Books 0821ded4|Illustration Panda Bear Resting on Bookshelf Filled with Red and White Books]] — shared language: resting, bear
-- [[_archive/auto-generated/images-stale/black ink line drawing of a seated woman resting her head on her hand acd69549|black ink line drawing of a seated woman resting her head on her hand]] — shared language: resting, head
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape, lines, yellow
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: lines, background
 - [[knowledge/wiki/images/Illustration Abstract Drawing Overlapping Dark Lines On White Background 8b6f7d16|Illustration Abstract Drawing Overlapping Dark Lines On White Background]] — shared language: lines, background, background.jpg
+- [[knowledge/wiki/images/Digital Visualization Of Orange And Yellow Lines On Dark Blue 0926db1d|Digital Visualization Of Orange And Yellow Lines On Dark Blue]] — shared language: lines, yellow
 - [[knowledge/wiki/images/Illustration Abstract Pattern of Vertical Lines and Central Oval Shape b267d167|Illustration Abstract Pattern of Vertical Lines and Central Oval Shape]] — shared language: shape, lines
-- [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: lines, background
 <!-- vault-crosslinks:end -->

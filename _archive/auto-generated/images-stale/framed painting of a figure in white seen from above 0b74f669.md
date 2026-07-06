@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Person Submerged in Water, Seen From Above 42080cfe|Photograph Person Submerged in Water, Seen From Above]] — shared language: seen, above, above.jpeg
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: above
 - [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
 - [[_archive/auto-generated/images-stale/painting of a woman at a piano seen from behind 5ae9730d|painting of a woman at a piano seen from behind]] — shared language: seen
-- [[knowledge/wiki/images/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: seen
+- [[_archive/auto-generated/images-stale/Photograph Trees Seen Through A Screen Door ba568ea0|Photograph Trees Seen Through A Screen Door]] — shared language: seen
+- [[knowledge/wiki/images/Trees Seen Through A Screen Door 5e2666be|Trees Seen Through A Screen Door]] — shared language: seen
 <!-- vault-crosslinks:end -->

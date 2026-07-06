@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Ernest Henry Shackleton - South_ the story of Shackleton's last expedition, 1914-1917-Duke Classics (2012).epub"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # South the story of Shackleton's last expedition, 1914-1917-Duke Classics
@@ -43,8 +43,8 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/aldous-huxley-brave-new-world-harper-perennial-modern-classics|Brave New World-Harper Perennial Modern Classics]] — same category: unsorted
 - [[knowledge/wiki/books/will-durant-the-story-of-philosophy-the-lives-and-opinions-of-the-world-s-greatest-philosophers|The Story of Philosophy The Lives and Opinions of the World's Greatest Philosophers]] — same category: unsorted
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — same category: unsorted
+- [[knowledge/wiki/books/06-25-19harris-testimony|06 25 19Harris Testimony]] — same category: unsorted
+- [[knowledge/wiki/books/104-4-835|104-4-835]] — same category: unsorted
 - [[knowledge/wiki/books/1611354422128|1611354422128]] — same category: unsorted
 - [[knowledge/wiki/books/1619646949926|1619646949926]] — same category: unsorted
-- [[knowledge/wiki/books/1619925797187|1619925797187]] — same category: unsorted
-- [[knowledge/wiki/books/1620685278614|1620685278614]] — same category: unsorted
 <!-- vault-crosslinks:end -->

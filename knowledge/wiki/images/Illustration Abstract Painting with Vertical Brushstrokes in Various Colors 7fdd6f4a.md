@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: colors
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: colors
 - [[knowledge/wiki/images/Illustration Abstract Sketch of Deconstructed Form with Vertical Lines 942643f1|Illustration Abstract Sketch of Deconstructed Form with Vertical Lines]] — shared language: vertical
-- [[knowledge/wiki/images/Illustration Abstract Print with Vertical and Curved Black Lines c428fda5|Illustration Abstract Print with Vertical and Curved Black Lines]] — shared language: vertical
+- [[knowledge/wiki/images/Car Colors By Year 5d8c6a27|Car Colors By Year]] — shared language: colors
 <!-- vault-crosslinks:end -->

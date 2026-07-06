@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
-- [[knowledge/wiki/images/Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays 5d42b171|Photograph Vibrant Sunset Sky with Clouds and Crepuscular Rays]] — shared language: rays
 - [[knowledge/wiki/images/Photograph Black And White Landscape With Sun Rays Over Cracked Earth f903fec2|Photograph Black And White Landscape With Sun Rays Over Cracked Earth]] — shared language: rays
 - [[knowledge/wiki/books/demystifying-max-msp|Demystifying Max/MSP]] — shared language: design
 - [[knowledge/wiki/books/chris-lefteri-making-it-manufacturing-techniques-for-product-design|Making it manufacturing techniques for product design]] — shared language: design
+- [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — shared language: design
 <!-- vault-crosslinks:end -->

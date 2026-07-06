@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/The Battle of the Alma by Louis Toussaint (1855 1856) 5d596876|The Battle of the Alma by Louis Toussaint (1855 1856)]] — shared language: toussaint, battle, louis
-- [[knowledge/wiki/images/Photograph Street Artist Drawing Man In Balaclava d1c362a3|Photograph Street Artist Drawing Man In Balaclava]] — shared language: balaclava
-- [[knowledge/wiki/images/Illustration Two Balaclava Clad Figures Holding Cats 746393b1|Illustration Two Balaclava Clad Figures Holding Cats]] — shared language: balaclava
+- [[_archive/auto-generated/images-stale/Photograph Street Artist Drawing Man In Balaclava d1c362a3|Photograph Street Artist Drawing Man In Balaclava]] — shared language: balaclava
+- [[knowledge/wiki/images/Street Artist Drawing Man In Balaclava a74063dd|Street Artist Drawing Man In Balaclava]] — shared language: balaclava
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle
-- [[knowledge/wiki/images/Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure ca79ea75|Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure]] — shared language: balaclava
+- [[knowledge/wiki/images/Black and White Photo of Woman Licking Man in Balaclava 7b84f081|Black and White Photo of Woman Licking Man in Balaclava]] — shared language: balaclava
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/yang_kuei_fei_by
 - [[knowledge/wiki/artists/Artist - oda kazuma|Artist - oda kazuma]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - Eiichiro Oda|Artist - Eiichiro Oda]] — shared language: oda
 - [[knowledge/wiki/artists/Artist - Fei Danxu|Artist - Fei Danxu]] — shared language: fei
-- [[knowledge/wiki/images/8 by Fei Danxu a8545081|8 by Fei Danxu]] — shared language: fei
+- [[knowledge/wiki/artists/Artist - Fei Lihua|Artist - Fei Lihua]] — shared language: fei
 <!-- vault-crosslinks:end -->

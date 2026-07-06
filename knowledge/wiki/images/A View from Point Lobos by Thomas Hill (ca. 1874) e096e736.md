@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/A View from Poin
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: point
 - [[knowledge/wiki/images/Still Life with Game and Vegetables by Thomas Hill (c. 1880) 4c7fbb68|Still Life with Game and Vegetables by Thomas Hill (c. 1880)]] — shared language: hill, thomas
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
+- [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — shared language: thomas
 - [[knowledge/wiki/images/a view of the catskills by thomas cole 1833 2a060d14|a view of the catskills by thomas cole 1833]] — shared language: thomas, view
 <!-- vault-crosslinks:end -->

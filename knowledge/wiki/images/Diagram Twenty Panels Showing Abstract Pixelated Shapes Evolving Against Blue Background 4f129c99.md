@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Twenty
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, showing
 - [[knowledge/wiki/images/Illustration Abstract Red and Blue Geometric Shapes on Black Background 825d4435|Illustration Abstract Red and Blue Geometric Shapes on Black Background]] — shared language: shapes, background
 - [[knowledge/wiki/images/Illustration Pixelated Dogs with Pink Abstract Shapes 371929d9|Illustration Pixelated Dogs with Pink Abstract Shapes]] — shared language: pixelated, shapes
-- [[knowledge/wiki/artists/Artist - Abstract Shapes|Artist - Abstract Shapes]] — shared language: shapes, diagram
-- [[knowledge/wiki/images/Diagram Diagram Showing Perceived Shapes Under Various Substance Influences d5ddaa2a|Diagram Diagram Showing Perceived Shapes Under Various Substance Influences]] — shared language: showing, shapes, diagram
+- [[knowledge/wiki/images/Diagram Showing Perceived Shapes Under Various Substance Influences 32cefe42|Diagram Showing Perceived Shapes Under Various Substance Influences]] — shared language: shapes, showing, diagram
+- [[knowledge/wiki/images/Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes 78f0a1a2|Comic Surreal Black And White Ink Comic Panels With Figures And Organic Shapes]] — shared language: panels, shapes
+- [[knowledge/wiki/images/Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts fa6d1ab9|Diagram Grid of Pixelated Images Illustrating Deconvolution Artifacts]] — shared language: pixelated, diagram
 <!-- vault-crosslinks:end -->

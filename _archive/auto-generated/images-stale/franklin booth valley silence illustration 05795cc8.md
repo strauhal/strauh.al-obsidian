@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Valley of Silence by Franklin Booth (1919) 15082c83|Valley of Silence by Franklin Booth (1919)]] — shared language: silence, valley, franklin
+- [[knowledge/wiki/images/Valley of Silence by Franklin Booth (1919) 15082c83|Valley of Silence by Franklin Booth (1919)]] — shared language: silence, franklin, valley
 - [[_archive/auto-generated/images-stale/booth valley silence jpg 39d7b26c|booth valley silence jpg]] — shared language: silence, valley, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — shared language: franklin, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1914|Artist - franklin booth 1914]] — shared language: franklin, booth

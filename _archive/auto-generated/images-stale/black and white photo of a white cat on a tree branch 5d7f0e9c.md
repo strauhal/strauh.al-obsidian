@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph White Cat Perched on Tree Branch with Fruit 1c3251f2|Photograph White Cat Perched on Tree Branch with Fruit]] — shared language: branch, tree, cat
+- [[_archive/auto-generated/images-stale/Photograph White Cat Perched on Tree Branch with Fruit 1c3251f2|Photograph White Cat Perched on Tree Branch with Fruit]] — shared language: branch, tree, cat
+- [[knowledge/wiki/images/White Cat Perched on Tree Branch with Fruit cb7e5668|White Cat Perched on Tree Branch with Fruit]] — shared language: branch, tree, cat
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 <!-- vault-crosslinks:end -->

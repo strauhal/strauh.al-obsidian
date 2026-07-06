@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Dark Sports Car Drawing With Pencil Sketch Of Station Wagon fc3cf0ff|Illustration Dark Sports Car Drawing With Pencil Sketch Of Station Wagon]] — shared language: wagon, sports, station
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station
 - [[knowledge/wiki/images/Illustration Stylized Figures in Yellow and White Around Black Sports Car c57cbf53|Illustration Stylized Figures in Yellow and White Around Black Sports Car]] — shared language: sports, car
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
 - [[_archive/auto-generated/images-stale/pencil sketch of two figures embracing 2d8602db|pencil sketch of two figures embracing]] — shared language: pencil, sketch
-- [[_archive/auto-generated/images-stale/pencil sketch of two rear views of a hatchback car e9194fb9|pencil sketch of two rear views of a hatchback car]] — shared language: pencil, car, sketch
 <!-- vault-crosslinks:end -->

@@ -67,5 +67,5 @@ Images attributed by filename: 15
 - [[knowledge/wiki/images/The Fall of Phaeton by Peter Paul Rubens (1604 1605) 9784f51c|The Fall of Phaeton by Peter Paul Rubens (1604 1605)]] — shared language: rubens, peter, paul
 - [[knowledge/wiki/images/Two Satyrs by Peter Paul Rubens (c. 1618 1619) ffe5ebe6|Two Satyrs by Peter Paul Rubens (c. 1618 1619)]] — shared language: rubens, peter, paul
 - [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — shared language: rubens, peter, paul
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint, baptist, virgin
+- [[knowledge/wiki/images/Caritas (Charity) by Peter Paul Rubens (c. 1612 1613) ede3aeb4|Caritas (Charity) by Peter Paul Rubens (c. 1612 1613)]] — shared language: rubens, peter, paul
 <!-- vault-crosslinks:end -->

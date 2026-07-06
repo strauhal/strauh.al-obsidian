@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Black And White Pixelated Geometric Pattern 7b97ac9c|Illustration Abstract Black And White Pixelated Geometric Pattern]] — shared language: pixelated, pattern
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, pattern
 - [[knowledge/wiki/images/Photograph Grey Fabric with Pixelated Anti Surveillance Pattern f08a1486|Photograph Grey Fabric with Pixelated Anti Surveillance Pattern]] — shared language: pixelated, pattern, pattern.jpeg
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: dense
 - [[knowledge/wiki/images/Illustration Abstract Symmetrical Pattern with Pixelated Texture in Red, Orange, Black 118f7e94|Illustration Abstract Symmetrical Pattern with Pixelated Texture in Red, Orange, Black]] — shared language: pixelated, pattern
-- [[knowledge/wiki/images/Illustration Intricate Pixelated Pattern Forming A Large Triangle 737f0f9e|Illustration Intricate Pixelated Pattern Forming A Large Triangle]] — shared language: pixelated, pattern
 <!-- vault-crosslinks:end -->

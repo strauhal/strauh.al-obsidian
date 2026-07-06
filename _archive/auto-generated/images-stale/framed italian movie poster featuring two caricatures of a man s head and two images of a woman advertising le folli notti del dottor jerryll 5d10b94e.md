@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Le Folli Notti del Dottor Jerryll (1963) afd52692|Le Folli Notti del Dottor Jerryll (1963)]] — named in this note
 - [[knowledge/wiki/images/italian movie poster for la pantera rosa 1963 7354e625|italian movie poster for la pantera rosa 1963]] — shared language: italian, movie, poster
-- [[knowledge/wiki/images/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del, poster
 - [[_archive/auto-generated/images-stale/framed italian villa landscape with mountains 8149e895|framed italian villa landscape with mountains]] — shared language: italian, framed
-- [[knowledge/wiki/images/escape from the planet of the apes movie poster 1971 8e87332e|escape from the planet of the apes movie poster 1971]] — shared language: movie, poster
+- [[knowledge/wiki/images/Photograph of An s del Mono Poster in a Book 394b3a03|Photograph of An s del Mono Poster in a Book]] — shared language: del, poster
+- [[_archive/auto-generated/images-stale/Photograph Photograph of An s del Mono Poster in a Book 310f8112|Photograph Photograph of An s del Mono Poster in a Book]] — shared language: del, poster
 <!-- vault-crosslinks:end -->

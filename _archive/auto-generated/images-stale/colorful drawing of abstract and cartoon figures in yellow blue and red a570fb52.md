@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements 13d469de|Illustration Colorful Chaotic Cartoon Figures with Yellow, Blue, Red Elements]] — shared language: cartoon, colorful, yellow
 - [[_archive/auto-generated/images-stale/chaotic cartoon drawing with yellow figure blue figure and red nose ac1d7ed0|chaotic cartoon drawing with yellow figure blue figure and red nose]] — shared language: cartoon, yellow
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
-- [[_archive/auto-generated/images-stale/colorful ink and marker drawing of chaotic cartoon figures including a large yellow figure with a red nose a blue and white figure and red conical hat ebb9fe50|colorful ink and marker drawing of chaotic cartoon figures including a large yellow figure with a red nose a blue and white figure and red conical hat]] — shared language: cartoon, yellow, colorful
+- [[knowledge/archive/auto-generated/artists-stale/Artist - yellow and red flames smoke|Artist - yellow and red flames smoke]] — shared language: yellow, cartoon, colorful
 <!-- vault-crosslinks:end -->

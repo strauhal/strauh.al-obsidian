@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/blade_runner_str
 - [[knowledge/wiki/images/future cityscape by syd mead 1970 ba707be6|future cityscape by syd mead 1970]] — same artist: syd mead
 - [[knowledge/wiki/images/los angeles 2010 by syd mead 1983 03cf86c4|los angeles 2010 by syd mead 1983]] — same artist: syd mead
 - [[knowledge/wiki/images/future freeway by syd mead 1983 34f91b3d|future freeway by syd mead 1983]] — same artist: syd mead
-- [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: scene, street
-- [[knowledge/wiki/images/Illustration Painting of a Sunny Street Scene with a Dark Car a56db2b3|Illustration Painting of a Sunny Street Scene with a Dark Car]] — shared language: scene, street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Abstract Painting of Architectural Forms and a Brown Box aa8b5b85|Illustration Abstract Painting of Architectural Forms and a Brown Box]] — shared language: forms, brown
 - [[knowledge/wiki/images/Illustration Abstract Blue Organic Forms On Geometric Grid eddf9ac2|Illustration Abstract Blue Organic Forms On Geometric Grid]] — shared language: forms, geometric
 - [[knowledge/wiki/images/Illustration Abstract Geometric Drawing Of Crystal Like Forms b1859085|Illustration Abstract Geometric Drawing Of Crystal Like Forms]] — shared language: forms, geometric
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
+- [[knowledge/wiki/images/Illustration Abstract Painting Of Geometric Shapes And Flowing Forms 70d054c6|Illustration Abstract Painting Of Geometric Shapes And Flowing Forms]] — shared language: forms, geometric
 <!-- vault-crosslinks:end -->

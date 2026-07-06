@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/a_lady_holding_a
 
 - [[knowledge/wiki/pages/mid century american|mid century american]] — shared language: mid, century
 - [[knowledge/wiki/images/Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon fb0259f1|Illustration Japanese Woodblock Print of Flowering Branch Against Large Moon]] — shared language: flowering, branch
-- [[knowledge/wiki/images/Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet c2f9fc89|Photograph Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions ab8f188f|Photograph Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: mid, century
+- [[knowledge/wiki/images/Mid Century Modern Living Room with Wood Paneling and Red Carpet ffdcfe7f|Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: mid, century
+- [[knowledge/wiki/images/Mid Century Modern Office Interior with Multiple Levels and Glass Partitions 62dd5fd9|Mid Century Modern Office Interior with Multiple Levels and Glass Partitions]] — shared language: mid, century
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Cat Sitting on a Large Pile of Hot Dogs 42511cac|Photograph Cat Sitting on a Large Pile of Hot Dogs]] — shared language: pile, hot, dogs
-- [[knowledge/wiki/images/Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor 42887272|Photograph Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: tabby, cat
+- [[knowledge/wiki/images/Cat Sitting on a Large Pile of Hot Dogs 867d1e43|Cat Sitting on a Large Pile of Hot Dogs]] — named in this note
+- [[_archive/auto-generated/images-stale/Photograph Cat Sitting on a Large Pile of Hot Dogs 42511cac|Photograph Cat Sitting on a Large Pile of Hot Dogs]] — shared language: hot, pile, dogs
 - [[_archive/auto-generated/images-stale/paravent cat 2025 3873e090|paravent cat 2025]] — shared language: cat
-- [[knowledge/wiki/images/Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup 5839e5e9|Photograph Gray Tabby Cat With Head Stuck In Starbucks Cup]] — shared language: tabby, cat
-- [[knowledge/wiki/images/Photograph Tabby Cat Next To Decanter And Glass Of Amber Liquid 43371eb0|Photograph Tabby Cat Next To Decanter And Glass Of Amber Liquid]] — shared language: tabby, cat
+- [[knowledge/wiki/images/Two Men Standing on a Large Pile of Buffalo Skulls 36dec6e4|Two Men Standing on a Large Pile of Buffalo Skulls]] — shared language: pile, large
+- [[knowledge/wiki/images/Gray Tabby Cat With Head Stuck In Starbucks Cup ce916c15|Gray Tabby Cat With Head Stuck In Starbucks Cup]] — shared language: tabby, cat
 <!-- vault-crosslinks:end -->

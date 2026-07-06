@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
-- [[knowledge/wiki/images/Photograph People Sunbathing By Water With City Skyline In Background 9033f250|Photograph People Sunbathing By Water With City Skyline In Background]] — shared language: skyline, city
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Seated Kannon on Mythical Creature Amidst Clouds bc6413df|Illustration Black and White Drawing of Seated Kannon on Mythical Creature Amidst Clouds]] — shared language: amidst, clouds, clouds.jpeg
+- [[knowledge/wiki/images/skyline 5e243130|skyline]] — shared language: skyline
+- [[knowledge/wiki/images/Illustration Stylized City Skyline Against Red Sky and Full Moon c080b1b4|Illustration Stylized City Skyline Against Red Sky and Full Moon]] — shared language: skyline, city
 <!-- vault-crosslinks:end -->

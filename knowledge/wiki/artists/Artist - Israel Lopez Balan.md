@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - antonio lopez|Artist - antonio lopez]] — shared language: lopez
 - [[knowledge/wiki/images/man in trench coat by antonio lopez c 1982 a51ac36f|man in trench coat by antonio lopez c 1982]] — shared language: lopez
+- [[knowledge/wiki/artists/Artist - Rob Israel|Artist - Rob Israel]] — shared language: israel
 - [[knowledge/wiki/books/israel-regardie-the-middle-pillar-the-balance-between-mind-and-magic|The Middle Pillar: The Balance Between Mind and Magic]] — shared language: israel
 - [[knowledge/wiki/images/Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel 8e265d31|Illustration Black and White Line Drawing of Elon Musk with 'Concerning ' Text by Rob Israel]] — shared language: israel
 - [[knowledge/wiki/images/Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict e9b02fc9|Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict]] — shared language: israel
-- [[knowledge/wiki/images/Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans 90810815|Photograph Pickup Truck With Anti Israel And Pro Palestine Slogans]] — shared language: israel
 <!-- vault-crosslinks:end -->

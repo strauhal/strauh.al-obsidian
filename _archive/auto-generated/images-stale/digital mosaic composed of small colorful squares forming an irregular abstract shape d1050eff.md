@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: shape
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: squares, colorful
-- [[knowledge/wiki/images/Photograph Murmuration of Starlings Over Water Forming Abstract Shape bb2fd6e3|Photograph Murmuration of Starlings Over Water Forming Abstract Shape]] — shared language: forming, shape
+- [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 <!-- vault-crosslinks:end -->

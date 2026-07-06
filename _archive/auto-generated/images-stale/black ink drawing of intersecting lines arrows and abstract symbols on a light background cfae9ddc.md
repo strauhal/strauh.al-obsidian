@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols 68a3af5b|Illustration Abstract Black Ink Drawing with Lines, Arrows, and Symbols]] — shared language: arrows, symbols, lines
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: arrows
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
 - [[_archive/auto-generated/artists-noise/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background
-- [[knowledge/archive/auto-generated/artists-stale/Artist - white lines on a black background|Artist - white lines on a black background]] — shared language: lines, background
-- [[knowledge/wiki/images/Illustration Abstract Swirling Lines And Dots On Light Background fa07b355|Illustration Abstract Swirling Lines And Dots On Light Background]] — shared language: light, lines, background
 <!-- vault-crosslinks:end -->

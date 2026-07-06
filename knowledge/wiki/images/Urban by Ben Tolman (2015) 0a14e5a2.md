@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Urban by Ben Tol
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: ben
 - [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: urban
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
 <!-- vault-crosslinks:end -->

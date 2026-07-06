@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night a6c70bdd|Photograph Aerial View of Chicago City Grid at Night]] — shared language: aerial, grid, night
 - [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: aerial, grid, night
 - [[_archive/auto-generated/images-stale/aerial photograph of a city grid at night with golden lights f20cd72c|aerial photograph of a city grid at night with golden lights]] — shared language: aerial, grid, night
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, night
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, night
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - raphael|Artist - raphael]] — shared language: raphael
 - [[knowledge/wiki/images/Illustration Abstract Landscape with Red and Blue Mountains and Green Fields 34daa5a4|Illustration Abstract Landscape with Red and Blue Mountains and Green Fields]] — shared language: fields, landscape
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: fields

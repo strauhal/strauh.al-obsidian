@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Man and Cat by V
 - [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
 - [[knowledge/wiki/maps/Map - Recent Dreams|Map - Recent Dreams]] — shared language: cat
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: cat
-- [[knowledge/wiki/images/Photograph DECtalk DTC01 with Cat for Scale 09a20f16|Photograph DECtalk DTC01 with Cat for Scale]] — shared language: cat
+- [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: cat
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol 94eefb49|Photograph Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol]] — shared language: splattered, jeans, sweater
+- [[_archive/auto-generated/images-stale/Photograph Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol 94eefb49|Photograph Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol]] — shared language: splattered, jeans, sweater
+- [[knowledge/wiki/images/Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol e7b326df|Young Man In Blue Sweater And Paint Splattered Jeans In Studio by Andy Warhol]] — shared language: splattered, jeans, sweater
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: color
+- [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: color
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Synesthesia of Culture and Form|Constellation - The Synesthesia of Culture and Form]] — shared language: color
 <!-- vault-crosslinks:end -->

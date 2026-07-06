@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Anime Girls Driving Desert Car, One Biting Cigarette d0bef568|Illustration Two Anime Girls Driving Desert Car, One Biting Cigarette]] — shared language: biting, girls, cigarette
+- [[knowledge/wiki/images/Illustration Two Anime Girls Driving Desert Car, One Biting Cigarette d0bef568|Illustration Two Anime Girls Driving Desert Car, One Biting Cigarette]] — shared language: biting, girls, desert
 - [[_archive/auto-generated/images-stale/digital illustration of three anime style girls wearing jackets and skirts against a pink and blue gradient background with a grid pattern c18adcfd|digital illustration of three anime style girls wearing jackets and skirts against a pink and blue gradient background with a grid pattern]] — shared language: girls, anime, style
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 - [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: hat, wearing
-- [[knowledge/wiki/images/Illustration Two Figures Sitting By a River, One With Red Hat 82df3ccf|Illustration Two Figures Sitting By a River, One With Red Hat]] — shared language: hat, one
+- [[_archive/auto-generated/images-stale/digital sketch compilation of multiple anime style female characters f84503ed|digital sketch compilation of multiple anime style female characters]] — shared language: anime, style, digital
 <!-- vault-crosslinks:end -->

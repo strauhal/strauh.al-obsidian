@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[knowledge/wiki/images/Illustration Lush Trees in a Sunny Landscape d210b7b6|Illustration Lush Trees in a Sunny Landscape]] — shared language: sunny
-- [[knowledge/wiki/images/Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day 6abdc1d5|Photograph Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: sunny
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Man Posing In Front Of Golden Gate Bridge, Sunny Day f30619f4|Man Posing In Front Of Golden Gate Bridge, Sunny Day]] — shared language: sunny
 - [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: scene, street
-- [[knowledge/wiki/artists/Artist - Weapon Icons In Dark Street|Artist - Weapon Icons In Dark Street]] — shared language: street, dark
 <!-- vault-crosslinks:end -->

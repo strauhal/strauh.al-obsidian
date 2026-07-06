@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Digital Portrait of a Woman's Face with Dramatic Light and Shadow f9a7eac6|Illustration Digital Portrait of a Woman's Face with Dramatic Light and Shadow]] — shared language: dramatic, shadow, light
-- [[knowledge/wiki/images/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
+- [[_archive/auto-generated/images-stale/Photograph Abstract Composition Of Red And Green Light And Shadow 66540bc8|Photograph Abstract Composition Of Red And Green Light And Shadow]] — shared language: shadow, light
 - [[knowledge/wiki/images/Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange d56edbe1|Photograph Grainy Abstract Light and Shadow Through Window, Blue and Orange]] — shared language: shadow, light
 - [[_archive/auto-generated/images-stale/abstract photograph of light and shadow through a window showing blue and orange colors 95443fb9|abstract photograph of light and shadow through a window showing blue and orange colors]] — shared language: shadow, light
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 <!-- vault-crosslinks:end -->

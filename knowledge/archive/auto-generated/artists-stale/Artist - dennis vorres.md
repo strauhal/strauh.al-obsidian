@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dennis oppenheim 2001|Artist - dennis oppenheim 2001]] — shared language: dennis
 - [[knowledge/wiki/artists/Artist - dennis stock|Artist - dennis stock]] — shared language: dennis
 - [[knowledge/archive/auto-generated/artists-stale/Artist - dennis stock 1955|Artist - dennis stock 1955]] — shared language: dennis
+- [[knowledge/wiki/artists/Artist - Danfung Dennis|Artist - Danfung Dennis]] — shared language: dennis
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: coke
-- [[_archive/auto-generated/images-stale/heavy dog kiss by dennis oppenheim 2001 fae56618|heavy dog kiss by dennis oppenheim 2001]] — shared language: dennis
 <!-- vault-crosslinks:end -->

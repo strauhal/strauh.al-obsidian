@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: scene
 - [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: impasto
-- [[knowledge/wiki/images/Photograph Misty Canal Scene with Illuminated Building and Outdoor Seating deaff033|Photograph Misty Canal Scene with Illuminated Building and Outdoor Seating]] — shared language: canal, scene
+- [[knowledge/wiki/images/Misty Canal Scene with Illuminated Building and Outdoor Seating 7deda6d5|Misty Canal Scene with Illuminated Building and Outdoor Seating]] — shared language: canal, scene
 - [[knowledge/wiki/images/Illustration Impasto Oil Painting of a Southwestern Mesa Landscape b14a539f|Illustration Impasto Oil Painting of a Southwestern Mesa Landscape]] — shared language: impasto
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Gondolas on a Canal at an Exposition 62db731f|Illustration Black and White Illustration of Gondolas on a Canal at an Exposition]] — shared language: canal
-- [[knowledge/wiki/images/Illustration Impasto Painting of Dense Green and Yellow Foliage 95839914|Illustration Impasto Painting of Dense Green and Yellow Foliage]] — shared language: impasto
 <!-- vault-crosslinks:end -->

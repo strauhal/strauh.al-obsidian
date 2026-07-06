@@ -9,8 +9,8 @@ metadata: curated
 aliases: [critique of judgement]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/critique of judgement.pdf"
 sources: ["[[books]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Critique of Judgment
@@ -45,7 +45,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/roger-scruton-kant-a-very-short-introduction|Kant: A Very Short Introduction]] — same category: philosophy
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — same category: philosophy
 - [[knowledge/wiki/books/boethius-the-consolation-of-philosophy|The Consolation of Philosophy]] — same category: philosophy
+- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — same category: philosophy
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — same category: philosophy
-- [[knowledge/wiki/books/bertrand-russell-a-history-of-western-philosophy|A History of Western Philosophy]] — same category: philosophy
 <!-- vault-crosslinks:end -->

@@ -20,6 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Taiyo Matsumoto|Artist - Taiyo Matsumoto]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - taiyo matsumoto 2018|Artist - taiyo matsumoto 2018]] — named in this note
 - [[_archive/auto-generated/images-stale/tekkon kinkreet omnibus cover illustration by taiyo matsumoto 2018 e4b793f4|tekkon kinkreet omnibus cover illustration by taiyo matsumoto 2018]] — shared language: taiyo, matsumoto, omnibus
 - [[knowledge/wiki/artists/Artist - Taiy Matsumoto|Artist - Taiy Matsumoto]] — shared language: matsumoto

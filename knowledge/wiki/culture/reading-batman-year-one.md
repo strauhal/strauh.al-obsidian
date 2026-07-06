@@ -7,8 +7,8 @@ status: queued
 queue_order: 6
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Batman: Year One
@@ -33,9 +33,9 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/images/batman year one chapter one opening spread original art by david mazzucchelli 1987 b5527e08|batman year one chapter one opening spread original art by david mazzucchelli 1987]] — shared language: batman, one, year
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — shared language: batman, one, david
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
+- [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — shared language: year
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/images/Batman The Dark Knight Returns by Frank Miller (1986) cf0a21d1|Batman The Dark Knight Returns by Frank Miller (1986)]] — shared language: batman, miller, frank
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: one, ernest's
 - [[knowledge/wiki/culture/music-one-nation|Listening - One Nation]] — shared language: one, current, stronger
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
 <!-- vault-crosslinks:end -->

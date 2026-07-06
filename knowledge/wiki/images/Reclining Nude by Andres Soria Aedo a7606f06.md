@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Reclining Nude b
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: nude, reclining
 - [[knowledge/wiki/images/Illustration Line Drawing Of Reclining Nude Woman 60246e28|Illustration Line Drawing Of Reclining Nude Woman]] — shared language: reclining, nude
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: reclining, nude
-- [[knowledge/wiki/images/Reclining Nude by Egon Schiele (1917) eea756fd|Reclining Nude by Egon Schiele (1917)]] — shared language: reclining, nude
+- [[knowledge/wiki/artists/Artist - Andres Serrano|Artist - Andres Serrano]] — shared language: andres
 - [[knowledge/wiki/images/Illustration Nude Figure Reclining on Brown Surface with Blue Drape cae4ac9e|Illustration Nude Figure Reclining on Brown Surface with Blue Drape]] — shared language: reclining, nude
 <!-- vault-crosslinks:end -->

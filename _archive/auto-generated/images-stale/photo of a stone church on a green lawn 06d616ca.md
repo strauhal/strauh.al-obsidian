@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Stone Building with Tall Tower and Ivy on Green Lawn 91d6f156|Photograph Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: lawn, stone, green
+- [[_archive/auto-generated/images-stale/Photograph Stone Building with Tall Tower and Ivy on Green Lawn 91d6f156|Photograph Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: lawn, stone, green
+- [[knowledge/wiki/images/Stone Building with Tall Tower and Ivy on Green Lawn b74b703a|Stone Building with Tall Tower and Ivy on Green Lawn]] — shared language: lawn, stone, green
 - [[_archive/auto-generated/images-stale/photo on 1 26 24 at 6 06 pm jpg eadbc972|photo on 1 26 24 at 6 06 pm jpg]] — shared language: photo
 - [[_archive/auto-generated/images-stale/gallery photo of a reclining stone sculpture 94a15857|gallery photo of a reclining stone sculpture]] — shared language: stone, photo
 - [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 2 7e276340|PHOTO 2024 03 02 20 46 54 2]] — shared language: photo
-- [[_archive/auto-generated/images-stale/PHOTO 2024 03 02 20 46 54 3 db18f68c|PHOTO 2024 03 02 20 46 54 3]] — shared language: photo
 <!-- vault-crosslinks:end -->

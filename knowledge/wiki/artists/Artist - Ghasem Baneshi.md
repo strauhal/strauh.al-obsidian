@@ -40,8 +40,8 @@ Images attributed by filename: 7
 
 - [[knowledge/wiki/images/Photograph Intricate Tiled Ceiling of Shah Mosque, Isfahan 93d7b3f6|Photograph Intricate Tiled Ceiling of Shah Mosque, Isfahan]] — shared language: intricate, tiled, ceiling
 - [[knowledge/wiki/images/Photograph Intricate Colorful Tilework Ceiling with Geometric and Floral Patterns aa2a47c8|Photograph Intricate Colorful Tilework Ceiling with Geometric and Floral Patterns]] — shared language: intricate, tilework, ceiling
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: intricate, iranian
 - [[knowledge/wiki/images/Photograph Ceiling of Shah Mosque, Isfahan by Ghasem Ganeshi 6f79e41f|Photograph Ceiling of Shah Mosque, Isfahan by Ghasem Ganeshi]] — shared language: ghasem, ceiling, mosque
 - [[knowledge/wiki/artists/Artist - Ghasem Ganeshi|Artist - Ghasem Ganeshi]] — shared language: ghasem, ceiling, mosque
 - [[knowledge/wiki/images/Photograph Intricate Geometric and Floral Patterned Ceiling in Iranian Mosque Architecture by Mehrdad Rasoulifard 91a62d41|Photograph Intricate Geometric and Floral Patterned Ceiling in Iranian Mosque Architecture by Mehrdad Rasoulifard]] — shared language: intricate, iranian, ceiling
+- [[knowledge/wiki/images/Photograph Interior Archway with Intricate Muqarnas and Colorful Floral Tilework a97ef350|Photograph Interior Archway with Intricate Muqarnas and Colorful Floral Tilework]] — shared language: intricate, tilework, colorful
 <!-- vault-crosslinks:end -->

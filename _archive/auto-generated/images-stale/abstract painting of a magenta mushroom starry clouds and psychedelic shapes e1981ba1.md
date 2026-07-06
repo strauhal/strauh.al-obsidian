@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes 559b1e26|Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes]] — shared language: psychedelic, shapes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds
+- [[knowledge/wiki/images/Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes 559b1e26|Illustration Psychedelic Digital Landscape with Colorful Trees and Abstract Shapes]] — shared language: psychedelic, shapes
 - [[knowledge/wiki/images/Illustration Surreal Collage with Highway, Face, Phone, and Mushroom 8dcc1478|Illustration Surreal Collage with Highway, Face, Phone, and Mushroom]] — shared language: mushroom
-- [[knowledge/wiki/images/Photograph Person Sits On Beach Watching Mushroom Cloud Over Ocean b811839a|Photograph Person Sits On Beach Watching Mushroom Cloud Over Ocean]] — shared language: mushroom
+- [[_archive/auto-generated/images-stale/black and white pixel art city skyline under a starry sky f3cd1195|black and white pixel art city skyline under a starry sky]] — shared language: starry
 - [[knowledge/wiki/books/timothy-francis-leary-ralph-metzner-richard-alpert-the-psychedelic-experience-a-manual-based-on-the-tibetan-book-of-the-dead|The Psychedelic Experience A Manual Based on the Tibetan Book of the Dead]] — shared language: psychedelic
 <!-- vault-crosslinks:end -->

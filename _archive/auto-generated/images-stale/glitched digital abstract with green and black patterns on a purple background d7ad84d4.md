@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: purple, green, digital
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, green, background
+- [[knowledge/wiki/images/Illustration Abstract Digital Glitch Art with Green and Black on Purple 65ea1f78|Illustration Abstract Digital Glitch Art with Green and Black on Purple]] — shared language: purple, digital, green
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, green, background
+- [[_archive/auto-generated/images-stale/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: purple, green, background
 - [[_archive/auto-generated/images-stale/abstract painting with swirling white and purple brushstrokes on a blue background b5b25944|abstract painting with swirling white and purple brushstrokes on a blue background]] — shared language: purple, background, background.jpeg
-- [[knowledge/wiki/images/Photograph Purple And Green Excavator On A Construction Site dc2f864b|Photograph Purple And Green Excavator On A Construction Site]] — shared language: purple, green
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
 <!-- vault-crosslinks:end -->

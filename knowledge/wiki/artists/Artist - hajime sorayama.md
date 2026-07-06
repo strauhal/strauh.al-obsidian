@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Pygmalion by Hajime Sorayama (2018) f275ff19|Pygmalion by Hajime Sorayama (2018)]] — shared language: hajime, sorayama
 - [[knowledge/wiki/images/Mask of the Warrior by Paul Klee (1924) 181e0bac|Mask of the Warrior by Paul Klee (1924)]] — shared language: mask
-- [[knowledge/wiki/images/Photograph Figure In White Robe And Metallic Mask Raising A Hand f8b6501c|Photograph Figure In White Robe And Metallic Mask Raising A Hand]] — shared language: mask
-- [[knowledge/wiki/images/Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants 5fd82a75|Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants]] — shared language: mask
+- [[knowledge/wiki/images/Figure In White Robe And Metallic Mask Raising A Hand 5a93bb61|Figure In White Robe And Metallic Mask Raising A Hand]] — shared language: mask
 - [[knowledge/wiki/images/Illustration Animated Soldier In Gas Mask Using Computer 8ef6b57d|Illustration Animated Soldier In Gas Mask Using Computer]] — shared language: mask
-- [[knowledge/wiki/images/Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt 56406355|Photograph Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: mask
+- [[knowledge/wiki/images/Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants 5fd82a75|Illustration Vibrant Psychedelic Painting with Red Mask, Figures, Snakes, and Plants]] — shared language: mask
+- [[knowledge/wiki/images/Contact Sheet of MF DOOM in Silver Mask and Red Shirt 27fb91f0|Contact Sheet of MF DOOM in Silver Mask and Red Shirt]] — shared language: mask
 <!-- vault-crosslinks:end -->

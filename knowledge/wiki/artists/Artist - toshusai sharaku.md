@@ -31,8 +31,8 @@ Images attributed by filename: 4
 
 - [[knowledge/wiki/collections/Collection - 1700s|Collection - 1700s]] — shared language: toshusai, sharaku, actors
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
-- [[knowledge/wiki/images/Photograph Two Actors In Hooded Robes From Star Wars f184c73c|Photograph Two Actors In Hooded Robes From Star Wars]] — shared language: actors
-- [[knowledge/wiki/images/Photograph Two Actors Filming A Scene On A Green Screen Set c1fe33f4|Photograph Two Actors Filming A Scene On A Green Screen Set]] — shared language: actors
+- [[knowledge/wiki/images/Two Actors Filming A Scene On A Green Screen Set 7a621baa|Two Actors Filming A Scene On A Green Screen Set]] — shared language: actors
+- [[knowledge/wiki/images/Two Actors In Hooded Robes From Star Wars b97c6acb|Two Actors In Hooded Robes From Star Wars]] — shared language: actors
 - [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — shared language: iii
 - [[knowledge/wiki/artists/Artist - nakamura daizaburo|Artist - nakamura daizaburo]] — shared language: nakamura
 <!-- vault-crosslinks:end -->

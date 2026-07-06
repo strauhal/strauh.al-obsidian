@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Painting of a Woman in a Field with a Cloudy Sky 37b1a982|Illustration Painting of a Woman in a Field with a Cloudy Sky]] — shared language: cloudy, sky
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: beach
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: beach
-- [[knowledge/wiki/images/Photograph White Cat Sitting Among Flowers Under Cloudy Sky bc1cbc76|Photograph White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky, sky.jpg
-- [[knowledge/wiki/images/Illustration Village By Water Under Cloudy Sky With Animals 994c3e5f|Illustration Village By Water Under Cloudy Sky With Animals]] — shared language: cloudy, sky
+- [[_archive/auto-generated/images-stale/Photograph White Cat Sitting Among Flowers Under Cloudy Sky bc1cbc76|Photograph White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky, sky.jpg
+- [[knowledge/wiki/images/White Cat Sitting Among Flowers Under Cloudy Sky 5b045cc4|White Cat Sitting Among Flowers Under Cloudy Sky]] — shared language: cloudy, sky, sky.jpg
 <!-- vault-crosslinks:end -->

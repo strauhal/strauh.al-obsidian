@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Anime Gi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Tattoo Of Anime Girl With Text 186b12ce|Photograph Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl, text
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: anime, girl, text
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/images/Illustration Elderly Man Drawing Anime Girl on Digital Tablet dfed7a3e|Illustration Elderly Man Drawing Anime Girl on Digital Tablet]] — shared language: anime, girl
 - [[knowledge/wiki/images/Illustration Anime Girl With Green Pigtails And Sunflowers 5872a275|Illustration Anime Girl With Green Pigtails And Sunflowers]] — shared language: anime, girl

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles 55c9eb50|Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles]] — shared language: trunk, muscles, skeleton
-- [[knowledge/wiki/images/Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles 5bddca2d|Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles]] — shared language: muscles, skeleton, anatomical
-- [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: trunk, skeleton, anatomical
-- [[_archive/auto-generated/images-stale/anatomical diagrams of the upper limb arm and hand showing surface form skeleton and muscles 3e828570|anatomical diagrams of the upper limb arm and hand showing surface form skeleton and muscles]] — shared language: muscles, skeleton, anatomical
-- [[_archive/auto-generated/images-stale/anatomical illustrations of the back view of the human trunk skeleton and musculature 29cba1e8|anatomical illustrations of the back view of the human trunk skeleton and musculature]] — shared language: trunk, skeleton, anatomical
+- [[knowledge/wiki/images/Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles 55c9eb50|Diagram Four Labeled Anatomical Diagrams of Human Trunk Skeleton, Surface Form, and Muscles]] — shared language: trunk, anatomical, skeleton
+- [[knowledge/wiki/images/Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles 5bddca2d|Diagram Anatomical Diagrams of Upper Limb Surface Form, Skeleton, and Muscles]] — shared language: anatomical, skeleton, muscles
+- [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: trunk, anatomical, skeleton
+- [[_archive/auto-generated/images-stale/anatomical diagrams of the upper limb arm and hand showing surface form skeleton and muscles 3e828570|anatomical diagrams of the upper limb arm and hand showing surface form skeleton and muscles]] — shared language: anatomical, skeleton, muscles
+- [[_archive/auto-generated/images-stale/anatomical illustrations of the back view of the human trunk skeleton and musculature 29cba1e8|anatomical illustrations of the back view of the human trunk skeleton and musculature]] — shared language: trunk, anatomical, skeleton
 <!-- vault-crosslinks:end -->

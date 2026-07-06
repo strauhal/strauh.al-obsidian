@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_three_graces
 - [[knowledge/wiki/images/head of a man with a ruff by peter paul rubens c 1618 1620 2f6da972|head of a man with a ruff by peter paul rubens c 1618 1620]] — same artist: peter paul rubens
 - [[knowledge/wiki/images/the adoration of the shepherds by peter paul rubens c 1617 16a29789|the adoration of the shepherds by peter paul rubens c 1617]] — same artist: peter paul rubens
 - [[knowledge/wiki/images/the fall of the damned by peter paul rubens c 1620 1621 a3b0b180|the fall of the damned by peter paul rubens c 1620 1621]] — same artist: peter paul rubens
-- [[knowledge/wiki/images/venus and adonis by peter paul rubens c 1614 817cf2dd|venus and adonis by peter paul rubens c 1614]] — same artist: peter paul rubens
+- [[knowledge/wiki/images/the entombment of christ by peter paul rubens c 1612 73d9b265|the entombment of christ by peter paul rubens c 1612]] — same artist: peter paul rubens
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Cut 2 by Hideo T
 
 - [[knowledge/wiki/images/hideo kojima d3de540b|hideo kojima]] — shared language: hideo
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: hideo
-- [[knowledge/wiki/images/Photograph Two Laptops Cut Into Interlocking Puzzle Pieces d58d2979|Photograph Two Laptops Cut Into Interlocking Puzzle Pieces]] — shared language: cut
+- [[knowledge/wiki/images/Two Laptops Cut Into Interlocking Puzzle Pieces 22903629|Two Laptops Cut Into Interlocking Puzzle Pieces]] — shared language: cut
 - [[knowledge/wiki/books/hideo-kojima-nathan-collins-the-creative-gene-how-books-movies-and-music-inspired|The creative gene how books, movies, and music inspired]] — shared language: hideo
-- [[knowledge/wiki/images/Photograph Hideo Kojima, Timoth e Chalamet, and Person in Futuristic Suit 1ab0984b|Photograph Hideo Kojima, Timoth e Chalamet, and Person in Futuristic Suit]] — shared language: hideo
+- [[knowledge/wiki/images/Hideo Kojima, Timoth e Chalamet, and Person in Futuristic Suit 6a2375d5|Hideo Kojima, Timoth e Chalamet, and Person in Futuristic Suit]] — shared language: hideo
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/ron-howard|Ron Howard]] — shared language: ron
 - [[knowledge/wiki/images/Skybox by Ron Cobb (1990) b8ea567f|Skybox by Ron Cobb (1990)]] — shared language: ron
 - [[knowledge/wiki/artists/Artist - John Lennon|Artist - John Lennon]] — shared language: lennon, john
-- [[knowledge/wiki/images/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: yoko, ono
 - [[_archive/auto-generated/images-stale/lennon jpg 48304f57|lennon jpg]] — shared language: lennon
+- [[_archive/auto-generated/images-stale/Photograph Yoko Ono by Annie Leibovitz 0d0ecc37|Photograph Yoko Ono by Annie Leibovitz]] — shared language: yoko, ono
 <!-- vault-crosslinks:end -->

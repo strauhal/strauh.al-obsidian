@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Sketch of a Person with Dark Hair Tied Back b8b9f039|Illustration Sketch of a Person with Dark Hair Tied Back]] — shared language: tied, back, hair
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
-- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: hair, sketch
-- [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: hair, person
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[_archive/auto-generated/images-stale/pencil sketch of two figures of a man with textured hair 903a3552|pencil sketch of two figures of a man with textured hair]] — shared language: sketch, hair
 <!-- vault-crosslinks:end -->

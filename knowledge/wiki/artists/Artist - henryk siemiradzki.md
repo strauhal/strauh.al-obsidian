@@ -28,5 +28,5 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
 - [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: christian
-- [[knowledge/wiki/images/Photograph Crime Scene Under Bridge with Body and Investigators f1f81c55|Photograph Crime Scene Under Bridge with Body and Investigators]] — shared language: body
+- [[knowledge/wiki/images/Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde b92fd565|Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde]] — shared language: torches
 <!-- vault-crosslinks:end -->

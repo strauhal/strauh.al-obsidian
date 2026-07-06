@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: school
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: school
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: school
-- [[knowledge/wiki/images/Photograph Street Scene with Yale Shuttle, Cameraman, and Police 6873798d|Photograph Street Scene with Yale Shuttle, Cameraman, and Police]] — shared language: yale
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: school
 <!-- vault-crosslinks:end -->

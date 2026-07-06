@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/deer_at_night_by
 - [[knowledge/wiki/images/Deer in the Forest II by Franz Marc (1914) 41d384db|Deer in the Forest II by Franz Marc (1914)]] — shared language: deer
 - [[knowledge/wiki/images/Illustration White Deer With Pylon Antlers Against Dark Blue Background 96fffcd0|Illustration White Deer With Pylon Antlers Against Dark Blue Background]] — shared language: deer
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
-- [[knowledge/wiki/images/Photograph Fawn Sleeping Next To Damaged Deer Archery Target f8eeff86|Photograph Fawn Sleeping Next To Damaged Deer Archery Target]] — shared language: deer
+- [[knowledge/wiki/images/Illustration Stylized Landscape with Deer, Tall Grass, Trees, and Red Sun 3cdaff40|Illustration Stylized Landscape with Deer, Tall Grass, Trees, and Red Sun]] — shared language: deer
 <!-- vault-crosslinks:end -->

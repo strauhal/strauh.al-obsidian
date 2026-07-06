@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Close Up Of An Intel i486 DX2 Microprocessor 0f69e471|Photograph Close Up Of An Intel i486 DX2 Microprocessor]] — shared language: close, close-up
-- [[knowledge/wiki/images/Photograph Close Up Portrait Of Two Men With Beards Looking At Camera cfabb6c1|Photograph Close Up Portrait Of Two Men With Beards Looking At Camera]] — shared language: looking, close, close-up
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Two Figures Embracing 7d27ddde|Illustration Pencil Sketch of Two Figures Embracing]] — shared language: pencil, sketch
+- [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, sketch
+- [[knowledge/wiki/images/Illustration Pencil Sketch of Two Men with Textured Hair b7fe34e0|Illustration Pencil Sketch of Two Men with Textured Hair]] — shared language: pencil, sketch
 - [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: close, face, close-up
-- [[knowledge/wiki/images/Illustration Digital Sketch of Woman with Blue Face and Braids 2751907e|Illustration Digital Sketch of Woman with Blue Face and Braids]] — shared language: face, sketch
 <!-- vault-crosslinks:end -->

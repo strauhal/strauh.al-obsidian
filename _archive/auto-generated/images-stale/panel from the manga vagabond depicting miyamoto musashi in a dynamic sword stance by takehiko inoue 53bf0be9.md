@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Takehiko Inoue|Artist - Takehiko Inoue]] — named in this note
 - [[knowledge/wiki/images/Comic Vagabond by Takehiko Inoue 25e76e62|Comic Vagabond by Takehiko Inoue]] — same artist: takehiko inoue
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a bearded man in kimono holding a sword by takehiko inoue 490d6eb8|black and white ink drawing of a bearded man in kimono holding a sword by takehiko inoue]] — same artist: takehiko inoue
 - [[knowledge/wiki/images/Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue 1efa02d7|Comic Two Men In Intense Hand To Hand Combat by Takehiko Inoue]] — same artist: takehiko inoue
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: manga, panel
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
 <!-- vault-crosslinks:end -->

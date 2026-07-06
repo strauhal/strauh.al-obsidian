@@ -17,6 +17,6 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: microdosing, depression, appears
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: work
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
+- [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: appears
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work
-- [[knowledge/archive/auto-generated/anchors-stale/artist-a-demonstrator|Artist - a demonstrator]] — shared language: wikilink, merge, unresolved
 <!-- vault-crosslinks:end -->

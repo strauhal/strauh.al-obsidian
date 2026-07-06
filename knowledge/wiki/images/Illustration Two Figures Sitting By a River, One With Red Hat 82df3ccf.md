@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
-- [[knowledge/wiki/images/Illustration Man in Hat Sitting on Bench in Shadow 1730a348|Illustration Man in Hat Sitting on Bench in Shadow]] — shared language: hat, sitting
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: one
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one
 <!-- vault-crosslinks:end -->

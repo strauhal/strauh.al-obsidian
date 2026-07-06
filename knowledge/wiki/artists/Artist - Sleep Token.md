@@ -22,7 +22,7 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/williamadolphe bouguereau the sleep le sommeil 1873 31c1aa27|williamadolphe bouguereau the sleep le sommeil 1873]] — shared language: sleep
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: sleep
-- [[knowledge/wiki/images/Diagram Cycle of Wake Up and Sleep Represented by Abstract Shapes 84288ce9|Diagram Cycle of Wake Up and Sleep Represented by Abstract Shapes]] — shared language: sleep
+- [[knowledge/wiki/images/Cycle of Wake Up and Sleep Represented by Abstract Shapes 70b72934|Cycle of Wake Up and Sleep Represented by Abstract Shapes]] — shared language: sleep
 - [[knowledge/wiki/artists/Artist - Abstract Shapes|Artist - Abstract Shapes]] — shared language: sleep
 - [[knowledge/wiki/images/Illustration Person Drawing Stylized 'S' Symbol on Whiteboard f2470d09|Illustration Person Drawing Stylized 'S' Symbol on Whiteboard]] — shared language: symbol, stylized
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/der_tanz_im_obst
 - [[knowledge/wiki/artists/Artist - Ludwig Wittgenstein|Artist - Ludwig Wittgenstein]] — named in this note
 - [[knowledge/wiki/images/the holy day by ludwig knaus 1871 22887e5b|the holy day by ludwig knaus 1871]] — same artist: ludwig knaus
 - [[knowledge/wiki/images/ludwig knaus a monastic siesta late 19th century 736825df|ludwig knaus a monastic siesta late 19th century]] — shared language: knaus, ludwig
-- [[knowledge/wiki/images/Photograph Self Portrait by Ludwig Wittgenstein 86e600ea|Photograph Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
+- [[knowledge/wiki/images/Self Portrait by Ludwig Wittgenstein 2519ab89|Self Portrait by Ludwig Wittgenstein]] — shared language: ludwig
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ludwig van Beethoven 4a0cc80c|Illustration Black and White Drawing of Ludwig van Beethoven]] — shared language: ludwig
 <!-- vault-crosslinks:end -->

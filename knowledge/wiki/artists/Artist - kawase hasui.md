@@ -55,5 +55,5 @@ Images attributed by filename: 11
 - [[knowledge/wiki/images/kawase hasui heirin temple nobidome 452c379c|kawase hasui heirin temple nobidome]] — shared language: hasui, kawase, temple
 - [[knowledge/wiki/images/anastasiavonseiboldjapaneseart kawase hasui 1883 1957 evening rain at kawarago kawarago no yau 1947 1270d71b|anastasiavonseiboldjapaneseart kawase hasui 1883 1957 evening rain at kawarago kawarago no yau 1947]] — shared language: hasui, kawase, rain
 - [[knowledge/wiki/images/enoshima island kawase hasui 5 e1fdd336|enoshima island kawase hasui 5]] — shared language: hasui, kawase
-- [[knowledge/wiki/images/kawase hasui evening at tagonoura 1341e144|kawase hasui evening at tagonoura]] — shared language: hasui, kawase
+- [[knowledge/wiki/images/Pine Trees at Omiya Hikawa Park by Kawase Hasui (1929) 69085826|Pine Trees at Omiya Hikawa Park by Kawase Hasui (1929)]] — shared language: hasui, kawase, omiya
 <!-- vault-crosslinks:end -->

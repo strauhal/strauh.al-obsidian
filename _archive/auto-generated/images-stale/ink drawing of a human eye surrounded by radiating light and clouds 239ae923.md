@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds, surrounded
-- [[knowledge/wiki/images/Illustration Abstract Print with Spheres, Radiating Light, and Philosophical Text 4d022f7d|Illustration Abstract Print with Spheres, Radiating Light, and Philosophical Text]] — shared language: radiating, light
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Stylized Eye With Radiating Lines And Cloud Shapes 320cb247|Illustration Stylized Eye With Radiating Lines And Cloud Shapes]] — shared language: radiating, eye
+- [[knowledge/wiki/images/Illustration Abstract Print with Spheres, Radiating Light, and Philosophical Text 4d022f7d|Illustration Abstract Print with Spheres, Radiating Light, and Philosophical Text]] — shared language: radiating, light
 - [[_archive/auto-generated/artists-noise/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: clouds, eye, surrounded
-- [[knowledge/archive/auto-generated/artists-stale/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: clouds, eye, surrounded
 <!-- vault-crosslinks:end -->

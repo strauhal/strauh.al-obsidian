@@ -20,7 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/archive/auto-generated/artists-stale/Artist - tuca vieira|Artist - Tuca Vieira]] — named in this note
+- [[knowledge/wiki/artists/Artist - Tuca Vieira|Artist - Tuca Vieira]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tuca vieira|Artist - Tuca Vieira]] — shared language: tuca, vieira
 - [[knowledge/wiki/images/Photograph Aerial View of Favela Next to Luxury Condominium by Tuca Vieira 39d824b2|Photograph Aerial View of Favela Next to Luxury Condominium by Tuca Vieira]] — shared language: tuca, vieira
 - [[knowledge/wiki/artists/Artist - marie helene vieira da silva|Artist - marie helene vieira da silva]] — shared language: vieira
 - [[knowledge/archive/auto-generated/artists-stale/Artist - marie helene vieira da silva 1950|Artist - marie helene vieira da silva 1950]] — shared language: vieira

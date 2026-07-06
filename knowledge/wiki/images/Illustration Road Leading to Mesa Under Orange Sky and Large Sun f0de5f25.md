@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Dirt Road Leading To Bush In Field Under Blue Sky c1ca03a3|Photograph Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: leading, road, sky
+- [[knowledge/wiki/images/Dirt Road Leading To Bush In Field Under Blue Sky 6b591200|Dirt Road Leading To Bush In Field Under Blue Sky]] — shared language: leading, road, sky
 - [[knowledge/wiki/images/Illustration Stylized Orange Mesa Against Layered Pastel Hills 9a7403ff|Illustration Stylized Orange Mesa Against Layered Pastel Hills]] — shared language: mesa, orange
 - [[knowledge/wiki/images/Illustration Stylized Orange and Pink Mesa Against Layered Purple Hills d40771a2|Illustration Stylized Orange and Pink Mesa Against Layered Purple Hills]] — shared language: mesa, orange
 - [[knowledge/wiki/images/Illustration Impasto Oil Painting of a Southwestern Mesa Landscape b14a539f|Illustration Impasto Oil Painting of a Southwestern Mesa Landscape]] — shared language: mesa

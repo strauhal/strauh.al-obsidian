@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — shared language: jung, gustav, carl
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — shared language: jung, carl
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: jung, gustav, carl
-- [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung, carl, gustav
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: jung, carl
 <!-- vault-crosslinks:end -->

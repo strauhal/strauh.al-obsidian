@@ -7,8 +7,8 @@ status: queued
 queue_order: 15
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-02
-updated: 2026-07-02
+created: 2026-07-06
+updated: 2026-07-06
 ---
 
 # Playing the Piano 12122020
@@ -35,7 +35,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, listening, current
 - [[knowledge/wiki/culture/music-scriabin-the-complete-preludes-for-piano|Listening - Scriabin: The Complete Preludes for Piano]] — shared language: listening, piano, current
 - [[knowledge/wiki/culture/music-computer-world|Listening - Computer World]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-chopin-preludes-piano-sonata-no-2|Listening - Chopin: Preludes & Piano Sonata No. 2]] — shared language: listening, piano, current
 - [[knowledge/wiki/culture/music-consumed|Listening - Consumed]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-mutant|Listening - Mutant]] — shared language: listening, current, performer
+- [[knowledge/wiki/culture/music-elseq|Listening - elseq]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

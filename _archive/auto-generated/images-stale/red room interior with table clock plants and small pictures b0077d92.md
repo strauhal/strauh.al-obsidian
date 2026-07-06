@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — named in this note
 - [[_archive/auto-generated/images-stale/colorful room illustration with table and plants d3bec09f|colorful room illustration with table and plants]] — shared language: plants, table, room
 - [[knowledge/wiki/images/Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers 7f575245|Illustration Line Drawing of Trailing Plants with Small Leaves and Flowers]] — shared language: plants, small
-- [[knowledge/wiki/images/Photograph Bright Room with Desk, Plants, and Shelves df08cf10|Photograph Bright Room with Desk, Plants, and Shelves]] — shared language: plants, room
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
+- [[knowledge/wiki/images/Bright Room with Desk, Plants, and Shelves d35cfbfa|Bright Room with Desk, Plants, and Shelves]] — shared language: plants, room
 <!-- vault-crosslinks:end -->

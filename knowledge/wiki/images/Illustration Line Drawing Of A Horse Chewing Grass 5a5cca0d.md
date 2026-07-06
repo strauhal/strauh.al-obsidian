@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 - [[knowledge/wiki/images/Illustration Creature With Long Snout, Hat, And Staff In Tall Grass 78667003|Illustration Creature With Long Snout, Hat, And Staff In Tall Grass]] — shared language: grass, grass.png
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: horse
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: horse
 <!-- vault-crosslinks:end -->

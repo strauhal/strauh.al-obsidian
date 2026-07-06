@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: human
+- [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: human, head, stylized
 <!-- vault-crosslinks:end -->

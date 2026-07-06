@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Ye and Travis Sc
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Giorgia Hofer|Artist - Giorgia Hofer]] — shared language: giorgia
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - guy rose|Artist - guy rose]] — shared language: rose
 - [[knowledge/wiki/books/f-scott-fitzgerald-the-great-gatsby|The Great Gatsby]] — shared language: scott
 - [[knowledge/wiki/artists/Artist - Travis Chapman|Artist - Travis Chapman]] — shared language: travis
-- [[knowledge/wiki/images/Moon Phases over the Dolomites by Giorgia Hofer 9b33c813|Moon Phases over the Dolomites by Giorgia Hofer]] — shared language: giorgia
 <!-- vault-crosslinks:end -->

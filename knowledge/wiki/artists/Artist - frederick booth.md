@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Man Reading in Library by Franklin Booth 80d2848d|Illustration Black and White Illustration of Man Reading in Library by Franklin Booth]] — shared language: booth
 - [[knowledge/wiki/artists/Artist - frederick hollyer|Artist - frederick hollyer]] — shared language: frederick
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: booth
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: booth
 <!-- vault-crosslinks:end -->

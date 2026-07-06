@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/lesson_3_d_stree
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, scene
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: lesson
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement

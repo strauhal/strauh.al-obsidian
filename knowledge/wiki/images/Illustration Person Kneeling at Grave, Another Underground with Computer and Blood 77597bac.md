@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: another
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: another
 - [[knowledge/wiki/books/leo-bersani-is-the-rectum-a-grave|Is the Rectum a Grave?]] — shared language: grave
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: kneeling
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Rinko Kawauchi|Artist - Rinko Kawauchi]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi 2001|Artist - rinko kawauchi 2001]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rinko kawauchi 2012|Artist - rinko kawauchi 2012]] — named in this note
 - [[_archive/auto-generated/images-stale/untitled from the series ametsuchi by rinko kawauchi 2012 68973bc4|untitled from the series ametsuchi by rinko kawauchi 2012]] — shared language: rinko, kawauchi
 - [[_archive/auto-generated/images-stale/untitled from the series utatane by rinko kawauchi 2001 25b34190|untitled from the series utatane by rinko kawauchi 2001]] — shared language: rinko, kawauchi
-- [[knowledge/wiki/images/Photograph Two People Posing With Firearms Against Patterned Wall c6e3b74d|Photograph Two People Posing With Firearms Against Patterned Wall]] — shared language: patterned, people
-- [[knowledge/wiki/images/Photograph Couple Walking On Busy Street At Night 1f305f0b|Photograph Couple Walking On Busy Street At Night]] — shared language: walking, night
+- [[_archive/auto-generated/images-stale/Photograph Two People Posing With Firearms Against Patterned Wall c6e3b74d|Photograph Two People Posing With Firearms Against Patterned Wall]] — shared language: patterned, people
 <!-- vault-crosslinks:end -->

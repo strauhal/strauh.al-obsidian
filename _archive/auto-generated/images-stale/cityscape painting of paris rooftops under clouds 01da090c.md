@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
 - [[knowledge/archive/auto-generated/artists-stale/Artist - clouds|Artist - clouds]] — shared language: clouds
-- [[knowledge/wiki/images/Photograph Black and White Urban Landscape with Buildings and Rooftops 2e18e4fa|Photograph Black and White Urban Landscape with Buildings and Rooftops]] — shared language: rooftops
-- [[knowledge/wiki/images/Photograph Purple Sunset Over Rooftops and Distant Mountains 7ccca5a3|Photograph Purple Sunset Over Rooftops and Distant Mountains]] — shared language: rooftops
-- [[_archive/auto-generated/images-stale/watercolor and ink sketch of parisian rooftops with sacre cur 3dda7ce8|watercolor and ink sketch of parisian rooftops with sacre cur]] — shared language: rooftops
+- [[knowledge/wiki/images/Black and White Urban Landscape with Buildings and Rooftops c54a96ee|Black and White Urban Landscape with Buildings and Rooftops]] — shared language: rooftops
+- [[_archive/auto-generated/images-stale/Photograph Black and White Urban Landscape with Buildings and Rooftops 2e18e4fa|Photograph Black and White Urban Landscape with Buildings and Rooftops]] — shared language: rooftops
+- [[knowledge/wiki/images/Panoramic View of Paris with Sacr C ur Basilica and Cityscape 26dce0ee|Panoramic View of Paris with Sacr C ur Basilica and Cityscape]] — shared language: paris, cityscape
 <!-- vault-crosslinks:end -->

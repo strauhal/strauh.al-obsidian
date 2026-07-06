@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Colorful Water Droplets On A Textured Surface cb7b1503|Photograph Colorful Water Droplets On A Textured Surface]] — shared language: water, colorful
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections 9aad0bea|Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections]] — shared language: forest, water
-- [[knowledge/wiki/images/Illustration Colorful Houses and Water in Expressive Illustration Style b3b5c50f|Illustration Colorful Houses and Water in Expressive Illustration Style]] — shared language: water, colorful
 - [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
-- [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: water, colorful
+- [[knowledge/wiki/images/Illustration Colorful Houses and Water in Expressive Illustration Style b3b5c50f|Illustration Colorful Houses and Water in Expressive Illustration Style]] — shared language: colorful, water
+- [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: colorful, water
 <!-- vault-crosslinks:end -->

@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione 5d1de772|Photograph Protester Holds Yellow 'Innocent Until Proven Guilty' Sign for Luigi Mangione]] — shared language: proven, guilty, innocent
-- [[knowledge/wiki/images/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
-- [[knowledge/wiki/images/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
+- [[knowledge/wiki/images/Photograph of a Billboard with AI Artist Protest Message 578f8d9b|Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
+- [[_archive/auto-generated/images-stale/Photograph Photograph of a Billboard with AI Artist Protest Message 6bebf7c2|Photograph Photograph of a Billboard with AI Artist Protest Message]] — shared language: protest
 - [[knowledge/wiki/images/Comic Innocent by Shin'ichi Sakamoto 34da5112|Comic Innocent by Shin'ichi Sakamoto]] — shared language: innocent
-- [[_archive/auto-generated/images-stale/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: sign, yellow
-- [[knowledge/wiki/images/Photograph Protest Signs Against Government Hacking and Elon Musk 31411221|Photograph Protest Signs Against Government Hacking and Elon Musk]] — shared language: protest
+- [[knowledge/wiki/images/Man Holding Protest Signs At Outdoor Gathering cd4a257a|Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
+- [[_archive/auto-generated/images-stale/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: protest
 <!-- vault-crosslinks:end -->

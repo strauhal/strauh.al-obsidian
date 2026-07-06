@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Horse In Snowy Landscape With Red Light 119aea13|Photograph Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
 - [[knowledge/wiki/images/Screenshot Man in Suit Speaking with Subtitles to Another Person 0d9d4b9c|Screenshot Man in Suit Speaking with Subtitles to Another Person]] — shared language: subtitles, screenshot
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: outdoors
+- [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: snowy, landscape
+- [[knowledge/wiki/images/Man Kneeling Before Woman Outdoors bfeac1b4|Man Kneeling Before Woman Outdoors]] — shared language: outdoors
+- [[knowledge/wiki/images/Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road 10b73046|Illustration Black And White Pixel Art Of Snowy Landscape With Winding Road]] — shared language: snowy, landscape
 - [[knowledge/wiki/artists/Artist - Thelonious Monk|Artist - Thelonious Monk]] — shared language: monk
-- [[knowledge/wiki/images/Photograph Man In Loincloth Meditating Outdoors, Black And White b8aa832f|Photograph Man In Loincloth Meditating Outdoors, Black And White]] — shared language: outdoors
 <!-- vault-crosslinks:end -->

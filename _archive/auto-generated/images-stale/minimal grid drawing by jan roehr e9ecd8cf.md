@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/roehr gr6 korr jpg 49e0f2b3|roehr gr6 korr jpg]] — shared language: roehr
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
+- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: minimal
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jan saenredam 1599|Artist - jan saenredam 1599]] — shared language: jan
 - [[knowledge/wiki/artists/Artist - jan sadeler i|Artist - jan sadeler i]] — shared language: jan
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jan sadeler i 1594|Artist - jan sadeler i 1594]] — shared language: jan
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/colorful expressionist portrait of a figure in a large white headdress e0643a97|colorful expressionist portrait of a figure in a large white headdress]] — shared language: headdress, large
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress, headdress.jpg
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 - [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress, headdress.jpg
-- [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress
 <!-- vault-crosslinks:end -->

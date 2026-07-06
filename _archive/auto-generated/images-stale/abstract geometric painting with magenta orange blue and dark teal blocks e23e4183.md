@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks 30608ec4|Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks]] — shared language: magenta, teal, blocks
+- [[knowledge/wiki/images/Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks 30608ec4|Illustration Abstract Geometric Painting with Magenta, Orange, Blue, and Teal Blocks]] — shared language: magenta, blocks, teal
 - [[_archive/auto-generated/images-stale/hard edge geometric abstract painting with magenta lime green yellow and purple blocks 38b8c404|hard edge geometric abstract painting with magenta lime green yellow and purple blocks]] — shared language: magenta, blocks, geometric
 - [[knowledge/wiki/images/Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks f2eecf7b|Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks]] — shared language: magenta, blocks
 - [[_archive/auto-generated/images-stale/line drawing portrait with pixelated cyan and magenta blocks 0f1dd1a3|line drawing portrait with pixelated cyan and magenta blocks]] — shared language: magenta, blocks

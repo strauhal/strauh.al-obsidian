@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_angel_of_dea
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: angel
 - [[knowledge/wiki/artists/Artist - hugo van lawick|Artist - hugo van lawick]] — shared language: hugo
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
+- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: death
 - [[knowledge/wiki/images/the angel of death by evelyn de morgan 1881 1dbbcb78|the angel of death by evelyn de morgan 1881]] — shared language: angel, death
-- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
-- [[knowledge/wiki/books/chris-cutrone-the-death-of-the-millennial-left-interventions-2006-2022-sublation-press|The Death of the Millennial Left Interventions 2006-2022-Sublation Press]] — shared language: death
 <!-- vault-crosslinks:end -->

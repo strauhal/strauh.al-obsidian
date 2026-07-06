@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
-- [[knowledge/wiki/images/Photograph Group of Men Posing Against a Brick Wall, Faces Obscured a1d7fd24|Photograph Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: faces, men
+- [[knowledge/wiki/images/Group of Men Posing Against a Brick Wall, Faces Obscured 6bcc44cc|Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: faces, men
 - [[knowledge/wiki/images/Illustration Three Figures With Obscured Faces in a Painting de85553b|Illustration Three Figures With Obscured Faces in a Painting]] — shared language: faces
 - [[knowledge/wiki/images/Illustration Black And White Ink Sketches Of Human Faces And Figures 2144f811|Illustration Black And White Ink Sketches Of Human Faces And Figures]] — shared language: faces
-- [[knowledge/wiki/images/Illustration Stylized Abstract Figurative Painting of Multiple Faces and Figures 0dafb259|Illustration Stylized Abstract Figurative Painting of Multiple Faces and Figures]] — shared language: faces
+- [[knowledge/wiki/images/Black and White Photo of Building Covered in Coats a79a8a08|Black and White Photo of Building Covered in Coats]] — shared language: covered
 <!-- vault-crosslinks:end -->

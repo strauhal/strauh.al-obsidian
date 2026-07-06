@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Group of Men Posing Against a Brick Wall, Faces Obscured a1d7fd24|Photograph Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: obscured, faces
+- [[knowledge/wiki/images/Group of Men Posing Against a Brick Wall, Faces Obscured 6bcc44cc|Group of Men Posing Against a Brick Wall, Faces Obscured]] — shared language: obscured, faces
 - [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Obscured Face And Hands 03312e8f|Illustration Abstract Black And White Figure With Obscured Face And Hands]] — shared language: obscured
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: faces
 - [[knowledge/wiki/images/faces edb813cb|faces]] — shared language: faces

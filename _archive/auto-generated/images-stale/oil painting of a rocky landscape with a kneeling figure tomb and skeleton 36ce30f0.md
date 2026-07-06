@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/oil painting of a rocky landscape with dense trees and cloudy sky b00e7903|oil painting of a rocky landscape with dense trees and cloudy sky]] — shared language: rocky, oil, landscape
 - [[_archive/auto-generated/images-stale/oil painting of figures horses and goats gathered at a stone well in a rocky landscape 133383dc|oil painting of figures horses and goats gathered at a stone well in a rocky landscape]] — shared language: rocky, oil, landscape
 - [[_archive/auto-generated/images-stale/oil painting of a rocky coastline with a pine tree e97fea42|oil painting of a rocky coastline with a pine tree]] — shared language: rocky, oil
-- [[knowledge/wiki/images/Photograph Man Kneeling Before Woman Outdoors 800ffe32|Photograph Man Kneeling Before Woman Outdoors]] — shared language: kneeling
+- [[_archive/auto-generated/images-stale/rocky mountain landscape painting with steep cliffs c5234a34|rocky mountain landscape painting with steep cliffs]] — shared language: rocky, landscape
 <!-- vault-crosslinks:end -->

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/johannes vermeer view of delft c 1660 1661 bd05bd82|johannes vermeer view of delft c 1660 1661]] — shared language: johannes, vermeer
 - [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: johannes
 - [[knowledge/wiki/collections/Collection - 1600s|Collection - 1600s]] — shared language: johannes, vermeer
-- [[knowledge/wiki/images/Photograph Two Young People At A DJ Booth c976d861|Photograph Two Young People At A DJ Booth]] — shared language: young
+- [[knowledge/wiki/images/Two Young People At A DJ Booth 9ed50b39|Two Young People At A DJ Booth]] — shared language: young
 - [[knowledge/wiki/images/Portrait of a Young Man by Richard Dadd (1853) 6bd1aebf|Portrait of a Young Man by Richard Dadd (1853)]] — shared language: young
 <!-- vault-crosslinks:end -->

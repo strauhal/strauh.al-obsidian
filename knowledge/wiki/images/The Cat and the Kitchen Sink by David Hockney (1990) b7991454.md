@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Cat and the 
 
 - [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: hockney, david
 - [[knowledge/wiki/artists/Artist - david hockney|Artist - david hockney]] — shared language: hockney, david
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window c510f766|Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window]] — shared language: sink, kitchen
 - [[knowledge/wiki/images/The Room, Tarzana by David Hockney (1967) 560f3290|The Room, Tarzana by David Hockney (1967)]] — shared language: hockney, david
 - [[knowledge/wiki/images/the beach by david hockney 1978 7bd352a3|the beach by david hockney 1978]] — shared language: hockney, david
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window c510f766|Illustration Impressionistic Painting of Kitchen Sink with Bright Sunset Through Window]] — shared language: sink, kitchen
 <!-- vault-crosslinks:end -->

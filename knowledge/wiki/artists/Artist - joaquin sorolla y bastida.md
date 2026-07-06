@@ -32,7 +32,7 @@ Images attributed by filename: 4
 - [[knowledge/wiki/artists/Artist - Joaquin Sorolla|Artist - Joaquin Sorolla]] — named in this note
 - [[knowledge/wiki/images/Walk on the Beach by Joaquin Sorolla 67fbb78c|Walk on the Beach by Joaquin Sorolla]] — shared language: joaquin, sorolla
 - [[knowledge/wiki/images/The Bathers by Joaqu n Sorolla (1897) d88cab43|The Bathers by Joaqu n Sorolla (1897)]] — shared language: sorolla
-- [[knowledge/wiki/images/Photograph Photograph of Joaqu n Sorolla Painting of Spanish Dancers on Screen 8a4adf4e|Photograph Photograph of Joaqu n Sorolla Painting of Spanish Dancers on Screen]] — shared language: sorolla
+- [[knowledge/wiki/images/Photograph of Joaqu n Sorolla Painting of Spanish Dancers on Screen b9e28e76|Photograph of Joaqu n Sorolla Painting of Spanish Dancers on Screen]] — shared language: sorolla
 - [[knowledge/wiki/images/Two Sisters, Valencia by Joaqu n Sorolla (1909) c22e8bdd|Two Sisters, Valencia by Joaqu n Sorolla (1909)]] — shared language: sorolla
 - [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: sick
 <!-- vault-crosslinks:end -->

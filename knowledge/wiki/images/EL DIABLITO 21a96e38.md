@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/EL DIABLITO.jpeg
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/E9uUIEtVEAkfh0p dbdf6e3f|E9uUIEtVEAkfh0p]] — nearby note in the same source series
-- [[knowledge/wiki/images/EZn20q1UEAALWLj 77c34f5c|EZn20q1UEAALWLj]] — nearby note in the same source series
 - [[knowledge/wiki/images/E96kiEnVgAAxXh bb9d5eac|E96kiEnVgAAxXh]] — nearby note in the same source series
+- [[knowledge/wiki/images/EZn20q1UEAALWLj 77c34f5c|EZn20q1UEAALWLj]] — nearby note in the same source series
+- [[knowledge/wiki/images/E74VddW Imgur e17172a9|E74VddW Imgur]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

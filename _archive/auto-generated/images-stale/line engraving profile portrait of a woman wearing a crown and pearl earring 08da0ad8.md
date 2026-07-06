@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring 525f4811|Illustration Profile Portrait of Woman Wearing Crown and Pearl Earring]] — shared language: earring, pearl, crown
 - [[knowledge/wiki/images/Illustration Stylized Profile of Woman with Gold Earring and Necklace 531f6f09|Illustration Stylized Profile of Woman with Gold Earring and Necklace]] — shared language: earring, profile
-- [[_archive/auto-generated/images-stale/line engraving of a male bust in profile wearing a laurel wreath labeled ovid 1707117b|line engraving of a male bust in profile wearing a laurel wreath labeled ovid]] — shared language: engraving, profile, wearing
 - [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
+- [[_archive/auto-generated/images-stale/line engraving of a male bust in profile wearing a laurel wreath labeled ovid 1707117b|line engraving of a male bust in profile wearing a laurel wreath labeled ovid]] — shared language: engraving, profile, wearing
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
 <!-- vault-crosslinks:end -->

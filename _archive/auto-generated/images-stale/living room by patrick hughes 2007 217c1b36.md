@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living, room
 - [[knowledge/wiki/artists/Artist - W. Preston Hughes|Artist - W. Preston Hughes]] — shared language: hughes
 - [[knowledge/archive/auto-generated/artists-stale/Artist - w preston hughes|Artist - w preston hughes]] — shared language: hughes
-- [[knowledge/wiki/artists/Artist - Patrick Nagel|Artist - Patrick Nagel]] — shared language: patrick
+- [[knowledge/wiki/artists/Artist - Patrick E. Leahy|Artist - Patrick E. Leahy]] — shared language: patrick
 <!-- vault-crosslinks:end -->

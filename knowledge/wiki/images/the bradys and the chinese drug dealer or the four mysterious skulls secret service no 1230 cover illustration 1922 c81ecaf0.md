@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_bradys_and_t
 
 - [[knowledge/wiki/books/david-hockney-secret-knowledge-rediscovering-the-lost-techniques-of-the|Secret knowledge - rediscovering the lost techniques of the]] — shared language: secret
 - [[knowledge/wiki/images/the forever drug cover art by fred gambino 1999 b170914d|the forever drug cover art by fred gambino 1999]] — shared language: drug, cover
-- [[knowledge/wiki/images/Photograph Man Sitting On Floor With Drug Paraphernalia 7f8d6f3f|Photograph Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
+- [[knowledge/wiki/images/Man Sitting On Floor With Drug Paraphernalia 4f953f8e|Man Sitting On Floor With Drug Paraphernalia]] — shared language: drug
 - [[knowledge/wiki/images/Illustration Line Drawing Study of Three Human Skulls in Different Poses db6bb175|Illustration Line Drawing Study of Three Human Skulls in Different Poses]] — shared language: skulls
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper b5fe4627|Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper]] — shared language: skulls
 <!-- vault-crosslinks:end -->

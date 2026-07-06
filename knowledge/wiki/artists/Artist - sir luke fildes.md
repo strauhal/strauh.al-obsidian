@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — shared language: luke
-- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - Anna Mill and Luke Jones|Artist - Anna Mill and Luke Jones]] — shared language: luke
+- [[knowledge/wiki/images/sir lawrence almatadema the roses of heliogabalus 1888 7671b476|sir lawrence almatadema the roses of heliogabalus 1888]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir robert strange|Artist - sir robert strange]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir thomas lawrence|Artist - sir thomas lawrence]] — shared language: sir
 - [[knowledge/wiki/artists/Artist - sir william beechey|Artist - sir william beechey]] — shared language: sir

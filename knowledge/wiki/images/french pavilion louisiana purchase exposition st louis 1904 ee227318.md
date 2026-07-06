@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/french_pavilion_
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: french
 - [[knowledge/wiki/images/menier chocolate pavilion world s columbian exposition chicago 1893 edffad82|menier chocolate pavilion world s columbian exposition chicago 1893]] — shared language: pavilion, exposition
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: french
-- [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
+- [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 <!-- vault-crosslinks:end -->

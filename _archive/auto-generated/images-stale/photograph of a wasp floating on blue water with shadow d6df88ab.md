@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Wasp Floating on Blue Water with Shadow 1d8dd101|Photograph Wasp Floating on Blue Water with Shadow]] — named in this note
 - [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: floating, water
 - [[_archive/auto-generated/images-stale/oil painting of a woman in a white dress floating in dark water fcc1f0f0|oil painting of a woman in a white dress floating in dark water]] — shared language: floating, water
-- [[knowledge/wiki/images/Photograph Man Painting On Floating Easel In Water Near City 1813972e|Photograph Man Painting On Floating Easel In Water Near City]] — shared language: floating, water
-- [[_archive/auto-generated/images-stale/photograph of a shirtless man painting on a floating easel in the water near a distant city e01f6b75|photograph of a shirtless man painting on a floating easel in the water near a distant city]] — shared language: floating, water
+- [[knowledge/wiki/images/Man Painting On Floating Easel In Water Near City ff2eaf60|Man Painting On Floating Easel In Water Near City]] — shared language: floating, water
+- [[_archive/auto-generated/images-stale/Photograph Man Painting On Floating Easel In Water Near City 1813972e|Photograph Man Painting On Floating Easel In Water Near City]] — shared language: floating, water
 <!-- vault-crosslinks:end -->

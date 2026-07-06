@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Woman at a Window by Caspar David Friedrich (1822) 003cf6f5|Woman at a Window by Caspar David Friedrich (1822)]] — shared language: caspar
 - [[knowledge/wiki/artists/Artist - caspar david friedrich|Artist - caspar david friedrich]] — shared language: caspar
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: gustav
-- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: caspar
 - [[knowledge/wiki/images/The Rainbow by Caspar David Friedrich (1810) 5e4a9177|The Rainbow by Caspar David Friedrich (1810)]] — shared language: caspar
+- [[knowledge/wiki/images/Morning by Caspar David Friedrich (c. 1820) 1cb277d2|Morning by Caspar David Friedrich (c. 1820)]] — shared language: caspar
 - [[knowledge/wiki/artists/Artist - gustav klimt 19101915|Artist - gustav klimt 19101915]] — shared language: gustav
 <!-- vault-crosslinks:end -->

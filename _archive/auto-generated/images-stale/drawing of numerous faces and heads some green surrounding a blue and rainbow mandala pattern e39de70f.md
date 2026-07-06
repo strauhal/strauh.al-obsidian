@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala 4a194268|Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala]] — shared language: numerous, surrounding, mandala
+- [[knowledge/wiki/images/Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala 4a194268|Illustration Drawing of Numerous Faces and Heads Surrounding a Blue Mandala]] — shared language: surrounding, mandala, numerous
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: rainbow
 - [[knowledge/archive/auto-generated/artists-stale/Artist - faces|Artist - faces]] — shared language: faces
-- [[_archive/auto-generated/images-stale/aerial photograph of numerous bodies lying on the ground surrounding a large open sided structure with a white roof 15bb22b4|aerial photograph of numerous bodies lying on the ground surrounding a large open sided structure with a white roof]] — shared language: numerous, surrounding
 - [[knowledge/wiki/images/Taima Mandala (1615 1868) 432454a4|Taima Mandala (1615 1868)]] — shared language: mandala
+- [[_archive/auto-generated/images-stale/taima mandala ac731547|taima mandala]] — shared language: mandala
 <!-- vault-crosslinks:end -->

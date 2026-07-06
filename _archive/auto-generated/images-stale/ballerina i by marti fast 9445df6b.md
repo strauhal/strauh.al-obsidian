@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of a Ballerina in a Tutu 08f25bb7|Illustration Line Drawing of a Ballerina in a Tutu]] — shared language: ballerina
 - [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: fast
 - [[knowledge/wiki/images/Document Police Officer Eating Fast Food on Magazine Cover 23c9bdcf|Document Police Officer Eating Fast Food on Magazine Cover]] — shared language: fast
-- [[knowledge/wiki/images/Photograph Donald Trump with Fast Food Spread for Clemson Tigers by Doug Mills a7453217|Photograph Donald Trump with Fast Food Spread for Clemson Tigers by Doug Mills]] — shared language: fast
+- [[knowledge/wiki/images/Donald Trump with Fast Food Spread for Clemson Tigers by Doug Mills 8082f4c8|Donald Trump with Fast Food Spread for Clemson Tigers by Doug Mills]] — shared language: fast
 <!-- vault-crosslinks:end -->

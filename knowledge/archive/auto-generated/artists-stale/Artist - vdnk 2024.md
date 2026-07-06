@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - vdnk|Artist - vdnk]] — named in this note
 - [[knowledge/wiki/images/Neco raid by Vodnik (2024) 7222e829|Neco raid by Vodnik (2024)]] — shared language: raid
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house
+- [[knowledge/wiki/images/Ready for the House by Jandek (1978) 833bc59b|Ready for the House by Jandek (1978)]] — shared language: house
 - [[knowledge/wiki/images/The Raid by Josan Gonzalez and Laurie Greasley 67421a4b|The Raid by Josan Gonzalez and Laurie Greasley]] — shared language: raid
 - [[_archive/auto-generated/images-stale/framed geometric painting of a blue house form 0aaa4f94|framed geometric painting of a blue house form]] — shared language: house
-- [[knowledge/wiki/images/Illustration Monochromatic Still Life Painting of a House and Objects 81f5d538|Illustration Monochromatic Still Life Painting of a House and Objects]] — shared language: house
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/colorized_photog
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, buildings
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, buildings, tall
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall, street
 - [[knowledge/wiki/images/The Anastasis (late 15th early 16th century) 5ce02497|The Anastasis (late 15th early 16th century)]] — shared language: early, century
 - [[knowledge/wiki/images/Illustration Portrait Painting of a Man in Clerical Attire e5689adb|Illustration Portrait Painting of a Man in Clerical Attire]] — shared language: attire
-- [[knowledge/wiki/images/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: tall, buildings, street
-- [[knowledge/wiki/artists/Artist - antonio canova early 19th century|Artist - antonio canova early 19th century]] — shared language: early, century
+- [[knowledge/wiki/images/City Street Lined With Tall Buildings Leading To Water 929dcd0d|City Street Lined With Tall Buildings Leading To Water]] — shared language: tall, buildings, street
 <!-- vault-crosslinks:end -->

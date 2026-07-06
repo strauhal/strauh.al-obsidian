@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Amazi
 
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: amazing, romita, vol
 - [[knowledge/wiki/artists/Artist - Hanna K|Artist - Hanna K]] — shared language: hanna
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: vol
-- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: vol
 <!-- vault-crosslinks:end -->

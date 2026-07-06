@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: wavy, lines, orange
+- [[knowledge/wiki/images/Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange 07501440|Illustration Abstract Composition of Wavy Black Lines Over Blue and Orange]] — shared language: wavy, orange, lines
 - [[knowledge/wiki/images/Illustration Black Wavy Lines on White Background 989a4fe6|Illustration Black Wavy Lines on White Background]] — shared language: wavy, lines
 - [[knowledge/wiki/images/Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors 7a392a42|Illustration Abstract Wavy Lines with Orange, Pink, and Teal Colors]] — shared language: wavy, orange, lines
 - [[knowledge/wiki/images/Illustration Abstract Wavy Black Lines On Grey Background cd77ee55|Illustration Abstract Wavy Black Lines On Grey Background]] — shared language: wavy, lines

@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: water, hair, person
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, hair, person
 - [[knowledge/wiki/images/Illustration Profile Of A Person With Flowing Hair And Dark Headpiece c4a1acd3|Illustration Profile Of A Person With Flowing Hair And Dark Headpiece]] — shared language: profile, hair, person
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
 - [[knowledge/wiki/artists/Artist - Ruth Wolf Rehfeldt|Artist - Ruth Wolf Rehfeldt]] — shared language: ruth

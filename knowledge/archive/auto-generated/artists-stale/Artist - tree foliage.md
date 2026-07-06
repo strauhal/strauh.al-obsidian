@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — named in this note
 - [[_archive/auto-generated/images-stale/black and white photograph of a classical exposition building across water framed by tree foliage 307e2a64|black and white photograph of a classical exposition building across water framed by tree foliage]] — shared language: foliage, tree, across
 - [[_archive/auto-generated/images-stale/black and white photograph of a classical building across a body of water framed by tree branches cbd08a5a|black and white photograph of a classical building across a body of water framed by tree branches]] — shared language: tree, across, classical
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree branches|Artist - tree branches]] — shared language: tree, across, classical
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, exposition, across
-- [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree
-- [[_archive/auto-generated/images-stale/painting of classical figures gathered under a tree 81b46a38|painting of classical figures gathered under a tree]] — shared language: tree, classical
+- [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: foliage, tree
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
 <!-- vault-crosslinks:end -->

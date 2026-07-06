@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage a0863c9c|Screenshot Mark Zuckerberg and Jesse Eisenberg on Saturday Night Live Stage]] — shared language: zuckerberg, mark
 - [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: drinking
 - [[knowledge/wiki/images/Illustration Woman Points Angrily at Fantastical Passengers on Airplane by Travis Chapman 9560f536|Illustration Woman Points Angrily at Fantastical Passengers on Airplane by Travis Chapman]] — shared language: chapman, chapman.jpg
-- [[knowledge/wiki/books/mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]] — shared language: mark
+- [[knowledge/wiki/images/Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman 944d8d1d|Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman]] — shared language: chapman, chapman.jpg
 <!-- vault-crosslinks:end -->

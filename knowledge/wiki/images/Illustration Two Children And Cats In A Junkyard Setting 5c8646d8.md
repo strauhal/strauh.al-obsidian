@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children
 - [[knowledge/wiki/images/Illustration Two Stylized Black Cats on a Pink Background b3fafadc|Illustration Two Stylized Black Cats on a Pink Background]] — shared language: cats
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: children
 - [[knowledge/wiki/images/Illustration Cartoon Children Thanking Each Other For Music bffdab86|Illustration Cartoon Children Thanking Each Other For Music]] — shared language: children
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: children
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: generation
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: information
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: information
-- [[knowledge/wiki/images/Photograph Music Studio Setup with Mountain View 5820d20b|Photograph Music Studio Setup with Mountain View]] — shared language: setup
 - [[knowledge/wiki/images/2023 03 MJ ImageGrid Generation 2303fc7d|2023 03 MJ ImageGrid Generation]] — shared language: generation
+- [[knowledge/wiki/images/Music Studio Setup with Mountain View f52299c8|Music Studio Setup with Mountain View]] — shared language: setup
 <!-- vault-crosslinks:end -->

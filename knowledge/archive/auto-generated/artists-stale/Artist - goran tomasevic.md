@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Goran Tomasevic|Artist - Goran Tomasevic]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - goran tomasevic 2012|Artist - goran tomasevic 2012]] — named in this note
 - [[_archive/auto-generated/images-stale/free syrian army fighter in a suit holds an ak 47 rifle in aleppo by goran tomasevic 2012 01f8515e|free syrian army fighter in a suit holds an ak 47 rifle in aleppo by goran tomasevic 2012]] — shared language: goran, tomasevic, syrian
 - [[knowledge/wiki/images/Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle 7da63720|Illustration Mural of Man in Sombrero and Charro Suit Holding Rifle]] — shared language: rifle, suit
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Seated Man In A Suit 03405762|Photograph Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Cat in a Suit 389c33c6|Illustration Black and White Ink Drawing of a Cat in a Suit]] — shared language: suit
-- [[_archive/auto-generated/images-stale/black and white ink drawing of a cat in a suit walking down a city street holding a bottle d9a50b67|black and white ink drawing of a cat in a suit walking down a city street holding a bottle]] — shared language: suit, street
+- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
+- [[knowledge/wiki/images/Black And White Portrait Of A Seated Man In A Suit 3f78b4fd|Black And White Portrait Of A Seated Man In A Suit]] — shared language: suit
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage 4cbf6ab8|Illustration Abstract Painting of Red Figure Overlaid on Old Map with Green Foliage]] — shared language: foliage, green, foliage.jpeg
 - [[knowledge/wiki/images/Illustration Impasto Painting of Dense Green and Yellow Foliage 95839914|Illustration Impasto Painting of Dense Green and Yellow Foliage]] — shared language: foliage, green, foliage.jpeg
 - [[_archive/auto-generated/images-stale/impasto painting of dense green and yellow foliage 53282517|impasto painting of dense green and yellow foliage]] — shared language: foliage, green, foliage.jpeg
-- [[knowledge/wiki/images/Photograph Green Foliage And Purple Flowers Against A Red Background 2da11818|Photograph Green Foliage And Purple Flowers Against A Red Background]] — shared language: foliage, green
+- [[knowledge/wiki/images/Green Foliage And Purple Flowers Against A Red Background f674ceb1|Green Foliage And Purple Flowers Against A Red Background]] — shared language: foliage, green
 <!-- vault-crosslinks:end -->

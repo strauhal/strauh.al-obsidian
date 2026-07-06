@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture d586d8de|Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture]] — shared language: adobe, sculpture
-- [[knowledge/wiki/images/Illustration Abstract Painting of Figures in Sombreros Near a Mission Building 831daa7f|Illustration Abstract Painting of Figures in Sombreros Near a Mission Building]] — shared language: near, building, building.jpeg
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
+- [[knowledge/wiki/images/Illustration Abstract Painting of Figures in Sombreros Near a Mission Building 831daa7f|Illustration Abstract Painting of Figures in Sombreros Near a Mission Building]] — shared language: near, building, building.jpeg
 <!-- vault-crosslinks:end -->

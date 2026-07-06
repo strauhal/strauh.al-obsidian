@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_eye_of_the_c
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Enrico Marini|Artist - Enrico Marini]] — shared language: enrico
 - [[knowledge/wiki/artists/Artist - Enrico Robusti|Artist - Enrico Robusti]] — shared language: enrico
 - [[knowledge/wiki/images/Illustration The Battle of the Teutoburg Forest by Enrico Marini 6ebc0f30|Illustration The Battle of the Teutoburg Forest by Enrico Marini]] — shared language: enrico
 - [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye
 - [[knowledge/wiki/images/Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti ec855063|Illustration Bar Scene with Distorted Figures and Bartender by Enrico Robusti]] — shared language: enrico
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
 <!-- vault-crosslinks:end -->

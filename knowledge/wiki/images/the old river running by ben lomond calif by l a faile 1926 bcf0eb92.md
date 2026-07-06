@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_old_river_ru
 ## Discovered Connections
 
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
-- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
 - [[knowledge/wiki/books/ben-lerner-10-04-a-novel|10 04 A Novel]] — shared language: ben
+- [[knowledge/wiki/images/ben hur 1960 finnish original film art 1600x jpg 36362ebe|ben hur 1960 finnish original film art 1600x jpg]] — shared language: ben
 - [[knowledge/wiki/images/Photograph Old Main Library, Cincinnati bf464e16|Photograph Old Main Library, Cincinnati]] — shared language: old
 - [[knowledge/wiki/artists/Artist - ben nicholson|Artist - ben nicholson]] — shared language: ben
 <!-- vault-crosslinks:end -->

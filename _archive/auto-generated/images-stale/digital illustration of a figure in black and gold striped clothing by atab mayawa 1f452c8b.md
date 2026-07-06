@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/artists/Artist - Atab Mayawa|Artist - Atab Mayawa]] — named in this note
 - [[knowledge/wiki/images/Illustration Stylized Figure in Black and Gold Striped Clothing by Atab Mayawa 1ae61212|Illustration Stylized Figure in Black and Gold Striped Clothing by Atab Mayawa]] — same artist: atab mayawa
 - [[_archive/auto-generated/images-stale/digital illustration of a black silhouette figure in gold striped garment against a blue background 287804d4|digital illustration of a black silhouette figure in gold striped garment against a blue background]] — shared language: gold, striped, digital
 - [[knowledge/wiki/images/Illustration Stylized Woman in Black and Gold Striped Garment e870827d|Illustration Stylized Woman in Black and Gold Striped Garment]] — shared language: gold, striped
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/fashion portrait of a woman in a striped wrap 712f7973|fashion portrait of a woman in a striped wrap]] — shared language: striped
 <!-- vault-crosslinks:end -->

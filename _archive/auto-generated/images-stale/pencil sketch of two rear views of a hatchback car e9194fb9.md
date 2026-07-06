@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Two Pencil Sketches of Rear Views of a Hatchback Car 2afa882b|Illustration Two Pencil Sketches of Rear Views of a Hatchback Car]] — shared language: hatchback, rear, views
 - [[knowledge/wiki/images/Illustration Marker And Ink Drawing Of A Grey Hatchback Car 8c5bc718|Illustration Marker And Ink Drawing Of A Grey Hatchback Car]] — shared language: hatchback, car, car.jpg
 - [[_archive/auto-generated/images-stale/marker and ink drawing of a grey hatchback car 9d51990e|marker and ink drawing of a grey hatchback car]] — shared language: hatchback, car, car.jpg
-- [[knowledge/wiki/images/Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights 8c903117|Photograph Close Up Of Hyundai Car Rear With Illuminated Taillights]] — shared language: rear, car
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[_archive/auto-generated/images-stale/two anatomical illustrations of a female figure showing fat distribution front and rear views figures 150 and 151 6ca9120f|two anatomical illustrations of a female figure showing fat distribution front and rear views figures 150 and 151]] — shared language: rear, views
 <!-- vault-crosslinks:end -->

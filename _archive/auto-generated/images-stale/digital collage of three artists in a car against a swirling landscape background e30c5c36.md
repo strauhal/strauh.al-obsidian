@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir aba02a2b|Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir]] — shared language: collage, car, artists
+- [[knowledge/wiki/images/Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir aba02a2b|Image Digital Collage of Artists in Car with Starry Night Background and Text by Anwir]] — shared language: collage, artists, car
 - [[_archive/auto-generated/images-stale/abstract painting with swirling white and purple brushstrokes on a blue background b5b25944|abstract painting with swirling white and purple brushstrokes on a blue background]] — shared language: swirling, background
 - [[knowledge/wiki/images/Illustration Three Nude Figures On A Bed With Landscape Background 275c607c|Illustration Three Nude Figures On A Bed With Landscape Background]] — shared language: three, landscape, background
 - [[_archive/auto-generated/images-stale/digital collage of various character and landscape studies 63cf3992|digital collage of various character and landscape studies]] — shared language: collage, digital, landscape

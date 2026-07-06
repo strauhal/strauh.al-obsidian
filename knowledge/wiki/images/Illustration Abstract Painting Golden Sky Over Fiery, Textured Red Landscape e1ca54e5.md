@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Rocket Launching With Fiery Exhaust Against Dark Sky f5478249|Photograph Rocket Launching With Fiery Exhaust Against Dark Sky]] — shared language: fiery, sky
 - [[knowledge/wiki/images/Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky 31ffa0e1|Illustration Blurred Landscape With Golden Grass And Pale Foggy Sky]] — shared language: golden, sky, landscape
 - [[knowledge/wiki/images/Illustration Abstract Textured Mountain Landscape in Orange and Yellow 7da7b2b9|Illustration Abstract Textured Mountain Landscape in Orange and Yellow]] — shared language: textured, landscape
-- [[knowledge/wiki/images/Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky ee47461f|Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky]] — shared language: textured, sky
 - [[knowledge/wiki/images/Illustration Abstract Painting of a Fiery Human Figure Against Dark Background e2338cf6|Illustration Abstract Painting of a Fiery Human Figure Against Dark Background]] — shared language: fiery
+- [[knowledge/wiki/images/Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky ee47461f|Illustration Abstract Stylized Cityscape With Vibrant Lines And Textured Sky]] — shared language: textured, sky
+- [[knowledge/wiki/images/Illustration Evangelion Unit 01 In Ruined City Against Fiery Orange Sky 3bb46aba|Illustration Evangelion Unit 01 In Ruined City Against Fiery Orange Sky]] — shared language: fiery, sky
 <!-- vault-crosslinks:end -->

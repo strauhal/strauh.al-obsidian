@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: sun, geometric, landscape
+- [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: desert, landscape
 - [[knowledge/wiki/images/Illustration Abstract Landscape Painting of White House by Water a3a9bd97|Illustration Abstract Landscape Painting of White House by Water]] — shared language: house, landscape
 - [[knowledge/wiki/images/Illustration Geometric Mountain Landscape with a House and Conical Trees 38382882|Illustration Geometric Mountain Landscape with a House and Conical Trees]] — shared language: house, geometric, landscape
 - [[knowledge/wiki/images/Illustration Framed Painting Of Horseman In Desert Landscape be59aa1f|Illustration Framed Painting Of Horseman In Desert Landscape]] — shared language: desert, landscape
-- [[knowledge/wiki/images/Photograph Minimalist Photograph of a Single Tree in a Desert Landscape 4be5d872|Photograph Minimalist Photograph of a Single Tree in a Desert Landscape]] — shared language: desert, landscape
 <!-- vault-crosslinks:end -->

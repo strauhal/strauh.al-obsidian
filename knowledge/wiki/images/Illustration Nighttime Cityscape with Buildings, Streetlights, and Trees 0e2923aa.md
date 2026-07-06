@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 3653fe48|Photograph Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, cityscape, buildings
+- [[knowledge/wiki/images/Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails 7ef22f26|Nighttime Cityscape with Illuminated Buildings and Vehicle Light Trails]] — shared language: nighttime, cityscape, buildings
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, buildings
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
-- [[knowledge/wiki/images/Photograph Dense Cityscape with Traditional and Modern Buildings 5f18df01|Photograph Dense Cityscape with Traditional and Modern Buildings]] — shared language: cityscape, buildings
+- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: cityscape, buildings
 - [[knowledge/wiki/images/Illustration Black and White Print of Buildings and Dense Trees in Landscape 3e0dbe4a|Illustration Black and White Print of Buildings and Dense Trees in Landscape]] — shared language: buildings, trees
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 <!-- vault-crosslinks:end -->

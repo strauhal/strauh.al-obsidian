@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, night
-- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, street, framed
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, night
+- [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, framed, street
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[_archive/auto-generated/images-stale/framed theater or concert scene with a performer on stage 2deefa45|framed theater or concert scene with a performer on stage]] — shared language: theater, scene, framed
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: street, night, city
-- [[_archive/auto-generated/images-stale/framed city river scene with bridge and smoky sky b0eb6ac7|framed city river scene with bridge and smoky sky]] — shared language: scene, framed, city
 <!-- vault-crosslinks:end -->

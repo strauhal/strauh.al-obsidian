@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Smiling Woman Holding Large Yellow and White Python a0749ab7|Photograph Smiling Woman Holding Large Yellow and White Python]] — shared language: python, smiling, yellow
+- [[_archive/auto-generated/images-stale/Photograph Smiling Woman Holding Large Yellow and White Python a0749ab7|Photograph Smiling Woman Holding Large Yellow and White Python]] — shared language: python, smiling, yellow
+- [[knowledge/wiki/images/Smiling Woman Holding Large Yellow and White Python f8da8ebe|Smiling Woman Holding Large Yellow and White Python]] — shared language: python, smiling, yellow
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — shared language: python
 - [[knowledge/wiki/images/Illustration Nude Bald Figure Smiling and Holding a Cup 6384d755|Illustration Nude Bald Figure Smiling and Holding a Cup]] — shared language: smiling, holding
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[_archive/auto-generated/images-stale/large abstract painting with red black blue and yellow swirls 627a7a7b|large abstract painting with red black blue and yellow swirls]] — shared language: yellow, large
 <!-- vault-crosslinks:end -->

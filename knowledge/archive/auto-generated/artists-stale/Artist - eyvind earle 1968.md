@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/photograph of a village and grazing cows in rolling green hills under a blue sky 7a222d5c|photograph of a village and grazing cows in rolling green hills under a blue sky]] — shared language: grazing, rolling, hills
 - [[knowledge/wiki/images/Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky 59246cfb|Photograph Village and Grazing Cows in Rolling Green Hills Under Blue Sky]] — shared language: grazing, rolling, hills
 - [[_archive/auto-generated/images-stale/framed landscape with sheep on rolling green hills a1941bc7|framed landscape with sheep on rolling green hills]] — shared language: rolling, hills, green
+- [[knowledge/wiki/images/Rolling Hills With Green And Golden Grass Under Cloudy Sky 98ec0863|Rolling Hills With Green And Golden Grass Under Cloudy Sky]] — shared language: rolling, hills, green
 - [[knowledge/wiki/images/Illustration Bright Green Hills Under Blue Sky 7282ac0e|Illustration Bright Green Hills Under Blue Sky]] — shared language: hills, green
-- [[knowledge/wiki/images/Photograph Horses Grazing in a Green Field with Snow Capped Mountains 7113fa12|Photograph Horses Grazing in a Green Field with Snow Capped Mountains]] — shared language: grazing, green
 <!-- vault-crosslinks:end -->

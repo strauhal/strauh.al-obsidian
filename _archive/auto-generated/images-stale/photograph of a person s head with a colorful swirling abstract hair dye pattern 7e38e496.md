@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Back of Head with Colorful Swirling Abstract Hair Dye 8943a709|Photograph Back of Head with Colorful Swirling Abstract Hair Dye]] — shared language: dye, swirling, hair
-- [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: hair, person, head
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
-- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard 8ba09056|Illustration Abstract Geometric Pattern with Colorful Squares and Checkerboard]] — shared language: pattern, colorful
-- [[knowledge/wiki/images/Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins 12fe5e3b|Illustration Stylized Profile of a Person with Swirling Hair and Water by Ruth Robbins]] — shared language: swirling, hair, person
+- [[knowledge/wiki/images/Illustration Head and Shoulders Portrait of a Person with Dark Hair 6dfe50f5|Illustration Head and Shoulders Portrait of a Person with Dark Hair]] — shared language: hair, head, person
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[_archive/auto-generated/images-stale/Photograph Black and White Photograph of Person with Water on Hair ddd1c8f5|Photograph Black and White Photograph of Person with Water on Hair]] — shared language: hair, person
+- [[knowledge/wiki/images/Illustration Woman with Dark Hair Against Yellow and Grey Pattern 97bac4c0|Illustration Woman with Dark Hair Against Yellow and Grey Pattern]] — shared language: pattern, hair, pattern.jpeg
 <!-- vault-crosslinks:end -->

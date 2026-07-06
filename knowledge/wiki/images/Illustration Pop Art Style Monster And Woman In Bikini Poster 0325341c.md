@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
 - [[knowledge/wiki/books/robert-bringhurst-the-elements-of-typographic-style|The Elements of Typographic Style]] — shared language: style
-- [[knowledge/wiki/images/Photograph Crow With Monster Energy Can In Puddle aeeeac6e|Photograph Crow With Monster Energy Can In Puddle]] — shared language: monster
+- [[knowledge/wiki/images/Ergonomic Mousepad With Man's Head On Woman's Bikini Body 322f1e49|Ergonomic Mousepad With Man's Head On Woman's Bikini Body]] — shared language: bikini
 <!-- vault-crosslinks:end -->

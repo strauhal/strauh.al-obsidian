@@ -26,6 +26,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: e9f5iw5vubovtfo.jpg
-- [[_archive/auto-generated/images-stale/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259|Document Page From A Book With Highlighted Text About The Aspen Incident]] — nearby note in the same source series
+- [[_archive/auto-generated/images-stale/E3EtBs3VoAUj0aY 0e4834eb|E3EtBs3VoAUj0aY]] — nearby note in the same source series
 - [[_archive/auto-generated/images-stale/E9lPD29WEAMGlAP ada22cc2|E9lPD29WEAMGlAP]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

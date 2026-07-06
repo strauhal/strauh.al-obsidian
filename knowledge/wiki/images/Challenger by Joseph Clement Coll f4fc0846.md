@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Challenger by Jo
 - [[knowledge/wiki/images/Illustration Smiling Woman in Large Hat, Pen and Ink Illustration by Joseph Clement Coll c629d324|Illustration Smiling Woman in Large Hat, Pen and Ink Illustration by Joseph Clement Coll]] — same artist: joseph clement coll
 - [[knowledge/wiki/images/Illustration The Blackest Spot in Christendom by Joseph Clement Coll 29e9c981|Illustration The Blackest Spot in Christendom by Joseph Clement Coll]] — same artist: joseph clement coll
 - [[knowledge/wiki/images/Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll 1758eb62|Illustration Men In A Boat On Rapids With Birds Flying by Joseph Clement Coll]] — same artist: joseph clement coll
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: joseph
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Abstract Red And White Organic Figures On Black Background 161d994c|Illustration Two Abstract Red And White Organic Figures On Black Background]] — shared language: background, background.jpg
+- [[knowledge/wiki/images/Illustration Flat Illustration Portrait of a Woman on Blue Background 18532ea8|Illustration Flat Illustration Portrait of a Woman on Blue Background]] — shared language: background, background.jpg
 - [[knowledge/wiki/images/Illustration Abstract Black Scribbles On White Background bf477ae7|Illustration Abstract Black Scribbles On White Background]] — shared language: background, background.jpg
 - [[knowledge/wiki/images/Illustration Abstract White Scribbles on Black Background b4de029f|Illustration Abstract White Scribbles on Black Background]] — shared language: background, background.jpg
-- [[knowledge/wiki/images/Illustration Flat Illustration Portrait of a Woman on Blue Background 18532ea8|Illustration Flat Illustration Portrait of a Woman on Blue Background]] — shared language: background, background.jpg
 - [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: background, background.jpg
 <!-- vault-crosslinks:end -->

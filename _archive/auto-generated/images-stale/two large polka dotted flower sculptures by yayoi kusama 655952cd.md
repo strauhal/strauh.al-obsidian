@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery 19b76ef3|Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery]] — shared language: dotted, sculptures, polka
-- [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: dotted, sculptures, polka
+- [[knowledge/wiki/images/Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery 19b76ef3|Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery]] — shared language: dotted, polka, sculptures
+- [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: dotted, polka, sculptures
 - [[_archive/auto-generated/images-stale/two large colorful polka dotted flower sculptures displayed in a gallery f4b7e312|two large colorful polka dotted flower sculptures displayed in a gallery]] — shared language: dotted, polka, sculptures
 - [[_archive/auto-generated/images-stale/black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models be747d3a|black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models]] — shared language: sculptures, large
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large

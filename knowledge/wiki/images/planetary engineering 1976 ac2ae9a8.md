@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/planetary_engine
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth e159f9f8|Diagram Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth]] — shared language: planetary
+- [[knowledge/wiki/images/Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth 029d9f64|Geocentric Diagram Illustrating Complex Planetary Orbits and Epicycles Around Earth]] — shared language: planetary
 - [[knowledge/wiki/images/place vendome by jean dufy 1928 a28fa90f|place vendome by jean dufy 1928]] — nearby note in the same source series
 - [[knowledge/wiki/images/plate 97 by carl jung c 19151930 23e3cedd|plate 97 by carl jung c 19151930]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

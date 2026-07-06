@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Sun roars in
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view
 - [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: sun
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: view
-- [[knowledge/wiki/images/Illustration Eyes Over Water With Setting Sun And Tear b3458669|Illustration Eyes Over Water With Setting Sun And Tear]] — shared language: sun
+- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
 - [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: sun
 <!-- vault-crosslinks:end -->

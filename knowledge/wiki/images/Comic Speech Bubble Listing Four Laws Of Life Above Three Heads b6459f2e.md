@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Speec
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: above, comic
 - [[knowledge/wiki/images/Comic Person Looking Out Window at Cityscape with Speech Bubble 8d69e92f|Comic Person Looking Out Window at Cityscape with Speech Bubble]] — shared language: speech, bubble, comic
 - [[knowledge/wiki/images/Comic Man in Shadow, Another Man by Car, Speech Bubble 7010de3e|Comic Man in Shadow, Another Man by Car, Speech Bubble]] — shared language: speech, bubble, comic
 - [[knowledge/wiki/images/Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble 8913815b|Comic Sepia Toned Comic Panel of Smiling Man with Speech Bubble]] — shared language: speech, bubble, comic
 - [[knowledge/wiki/images/Comic Woman Standing Against Yellow Food Pattern Background With Speech Bubble c6eb9059|Comic Woman Standing Against Yellow Food Pattern Background With Speech Bubble]] — shared language: speech, bubble, comic
+- [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: speech, bubble
 <!-- vault-crosslinks:end -->

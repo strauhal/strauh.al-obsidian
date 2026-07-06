@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - O
 - [[knowledge/wiki/images/Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel ea6e4a83|Illustration Ornate Carved Wood Fire Screen With Floral Needlepoint Panel]] — shared language: carved, ornate
 - [[knowledge/wiki/images/Illustration Vibrant Psychedelic Painting of Figures, Animals, and Intricate Patterns f615b9d2|Illustration Vibrant Psychedelic Painting of Figures, Animals, and Intricate Patterns]] — shared language: intricate, patterns, patterns.jpg
 - [[knowledge/wiki/images/Photograph Intricate Colorful Tilework Ceiling with Geometric and Floral Patterns aa2a47c8|Photograph Intricate Colorful Tilework Ceiling with Geometric and Floral Patterns]] — shared language: intricate, patterns, patterns.jpg
-- [[knowledge/wiki/images/Photograph Hand Holding E Reader Displaying Fish Skeletons a62836a3|Photograph Hand Holding E Reader Displaying Fish Skeletons]] — shared language: skeletons
 - [[knowledge/wiki/images/Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard 9accda7c|Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard]] — shared language: ornate, intricate
+- [[knowledge/wiki/images/Hand Holding E Reader Displaying Fish Skeletons 902062cb|Hand Holding E Reader Displaying Fish Skeletons]] — shared language: skeletons
 <!-- vault-crosslinks:end -->

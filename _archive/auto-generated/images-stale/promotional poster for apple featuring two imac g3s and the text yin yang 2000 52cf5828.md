@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Two iMac G3 Computers, One Clear, One Opaque, With Yin Yang Text d3e0d867|Illustration Two iMac G3 Computers, One Clear, One Opaque, With Yin Yang Text]] — shared language: yin, yang, imac
 - [[knowledge/wiki/images/Photograph White Apple iMac G4 Computer on White Background 9fa92b0d|Photograph White Apple iMac G4 Computer on White Background]] — shared language: imac, apple
-- [[knowledge/wiki/images/Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: imac, apple
 - [[knowledge/wiki/images/Illustration Promotional Poster for 'SPLAT' Film Premiere 7fed9c71|Illustration Promotional Poster for 'SPLAT' Film Premiere]] — shared language: promotional, poster
-- [[_archive/auto-generated/images-stale/promotional poster for splat film premiere with pixelated figures 61c167db|promotional poster for splat film premiere with pixelated figures]] — shared language: promotional, poster
+- [[knowledge/wiki/images/Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline d76016df|Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: imac, apple
+- [[_archive/auto-generated/images-stale/Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline 039fc758|Photograph Apple iMac G3 Advertisement with 'The Rebirth of Cool' Tagline]] — shared language: imac, apple
 <!-- vault-crosslinks:end -->

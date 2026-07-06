@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/black and white line drawing of a woman in a trench coat aiming a pistol d185017f|black and white line drawing of a woman in a trench coat aiming a pistol]] — shared language: trench, pistol, coat
 - [[knowledge/wiki/artists/Artist - Pistol|Artist - Pistol]] — shared language: pistol
 - [[knowledge/wiki/images/man in trench coat by antonio lopez c 1982 a51ac36f|man in trench coat by antonio lopez c 1982]] — shared language: trench, coat
-- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: against, yellow, holding
 - [[knowledge/wiki/images/Illustration Chibi Character in Fedora, Trench Coat, Holding Gun and Sunflowers aef6114d|Illustration Chibi Character in Fedora, Trench Coat, Holding Gun and Sunflowers]] — shared language: trench, coat, holding
+- [[knowledge/wiki/images/Illustration Hooded Figure Holding Scythe Against Yellow Background d0b83d0e|Illustration Hooded Figure Holding Scythe Against Yellow Background]] — shared language: against, yellow, holding
 <!-- vault-crosslinks:end -->

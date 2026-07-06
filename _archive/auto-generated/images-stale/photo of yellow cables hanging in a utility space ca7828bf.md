@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Yellow Network Cables Braided and Hanging in a Server Rack 5e9e985a|Photograph Yellow Network Cables Braided and Hanging in a Server Rack]] — shared language: cables, hanging, yellow
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
+- [[_archive/auto-generated/images-stale/Photograph Yellow Network Cables Braided and Hanging in a Server Rack 5e9e985a|Photograph Yellow Network Cables Braided and Hanging in a Server Rack]] — shared language: cables, hanging, yellow
+- [[knowledge/wiki/images/Yellow Network Cables Braided and Hanging in a Server Rack 4d899771|Yellow Network Cables Braided and Hanging in a Server Rack]] — shared language: cables, hanging, yellow
 - [[knowledge/wiki/images/Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka 77adf1ae|Photograph Dense Black Cables Covering Building Facade and Utility Pole in Dhaka]] — shared language: cables, utility
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
 <!-- vault-crosslinks:end -->

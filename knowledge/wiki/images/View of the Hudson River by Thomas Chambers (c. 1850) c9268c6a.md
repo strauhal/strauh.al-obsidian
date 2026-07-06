@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/View of the Huds
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: hudson
 - [[knowledge/wiki/images/On the Hudson by John George Brown (1879) 9c8945ca|On the Hudson by John George Brown (1879)]] — shared language: hudson
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: thomas
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
+- [[knowledge/wiki/images/Illustration Modern Bedroom With City And River View 30e069a5|Illustration Modern Bedroom With City And River View]] — shared language: river, view
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Black and White Drawing of a Central Figure in a Crowded Scene a93acf89|Illustration Black and White Drawing of a Central Figure in a Crowded Scene]] — shared language: crowded
 - [[knowledge/wiki/images/Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones 2e16917a|Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones]] — shared language: peach
 - [[knowledge/wiki/images/princess ozma by john r neill 1909 08c4ee40|princess ozma by john r neill 1909]] — shared language: princess
-- [[knowledge/wiki/images/Illustration Surreal Black And White Ink Drawing Of Smoking Figures 6005cb96|Illustration Surreal Black And White Ink Drawing Of Smoking Figures]] — shared language: smoking
+- [[knowledge/wiki/images/peach blossoms by winslow homer 1878 4933476e|peach blossoms by winslow homer 1878]] — shared language: peach
 <!-- vault-crosslinks:end -->

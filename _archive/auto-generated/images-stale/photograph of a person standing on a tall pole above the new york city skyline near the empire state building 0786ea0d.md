@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
-- [[knowledge/wiki/images/Photograph Person Standing on Tall Pole Above New York City Skyline e58da947|Photograph Person Standing on Tall Pole Above New York City Skyline]] — shared language: pole, tall, skyline
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, skyline, above
-- [[_archive/auto-generated/images-stale/photograph of a tall ornate cathedral structure under construction above a city skyline 42bb0118|photograph of a tall ornate cathedral structure under construction above a city skyline]] — shared language: tall, skyline, above
-- [[knowledge/wiki/images/Photograph Person at desk overlooking Central Park and New York City skyline 74f91637|Photograph Person at desk overlooking Central Park and New York City skyline]] — shared language: skyline, york, new
+- [[knowledge/wiki/images/Person Standing on Tall Pole Above New York City Skyline b74071ae|Person Standing on Tall Pole Above New York City Skyline]] — shared language: pole, tall, skyline
+- [[_archive/auto-generated/images-stale/Photograph Person Standing on Tall Pole Above New York City Skyline e58da947|Photograph Person Standing on Tall Pole Above New York City Skyline]] — shared language: pole, tall, skyline
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall, city
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, tall
+- [[knowledge/wiki/images/Person at desk overlooking Central Park and New York City skyline af2d49c1|Person at desk overlooking Central Park and New York City skyline]] — shared language: skyline, york, new
 <!-- vault-crosslinks:end -->

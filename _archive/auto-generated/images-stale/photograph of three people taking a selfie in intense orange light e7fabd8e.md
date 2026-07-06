@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/artists/Artist - Thomas Wu|Artist - Thomas Wu]] — shared language: selfie, intense, taking
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: selfie, taking
 - [[knowledge/wiki/images/Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin 047f0795|Illustration Person's Hand Holding Phone Taking Selfie in Open Coffin]] — shared language: selfie, taking
-- [[knowledge/wiki/images/Photograph Large Group Of People Posing For A Selfie 80552a43|Photograph Large Group Of People Posing For A Selfie]] — shared language: selfie, people
+- [[knowledge/wiki/images/Large Group Of People Posing For A Selfie 08232790|Large Group Of People Posing For A Selfie]] — shared language: selfie, people
 <!-- vault-crosslinks:end -->

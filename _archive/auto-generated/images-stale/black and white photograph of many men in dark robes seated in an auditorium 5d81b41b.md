@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Many Men in Robes Seated in Auditorium ab8049eb|Photograph Black and White Photograph of Many Men in Robes Seated in Auditorium]] — shared language: auditorium, robes, many
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: many
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — shared language: seated
 - [[_archive/auto-generated/artists-noise/Artist - the dark 1989|Artist - the dark 1989]] — shared language: dark
 - [[_archive/auto-generated/images-stale/photograph of a research paper title slide projected onto a large screen in a dark auditorium 436e5fd5|photograph of a research paper title slide projected onto a large screen in a dark auditorium]] — shared language: auditorium, dark, auditorium.jpeg
+- [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
 <!-- vault-crosslinks:end -->

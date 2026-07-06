@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Portrait Of A Man In Silhouette 8bd44a96|Photograph Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 - [[knowledge/wiki/images/Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat c5f25588|Illustration Stylized Figure With Yellow Hair, Red Eyes, And Red Coat]] — shared language: coat, eyes
-- [[knowledge/wiki/images/Photograph Person In Hat And Coat Walking Through A Misty Field 0a471f2c|Photograph Person In Hat And Coat Walking Through A Misty Field]] — shared language: coat, hat
-- [[knowledge/wiki/images/Photograph Man in winter coat and fur lined hat on Ainslie Street a4c24dfe|Photograph Man in winter coat and fur lined hat on Ainslie Street]] — shared language: coat, hat
+- [[knowledge/wiki/images/Person In Hat And Coat Walking Through A Misty Field 06bfea6f|Person In Hat And Coat Walking Through A Misty Field]] — shared language: coat, hat
 - [[knowledge/wiki/images/Screenshot Person In Long Coat And Hat Walking Through Barren Landscape e362b727|Screenshot Person In Long Coat And Hat Walking Through Barren Landscape]] — shared language: coat, hat
+- [[knowledge/wiki/images/Illustration Blue Demonic Figure With Red Eyes And Halo Facing Silhouette c21e5939|Illustration Blue Demonic Figure With Red Eyes And Halo Facing Silhouette]] — shared language: silhouette, eyes
 <!-- vault-crosslinks:end -->

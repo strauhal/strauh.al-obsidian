@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
-- [[knowledge/wiki/images/Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems ea0751e4|Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems]] — shared language: integrated, civilian, electronic
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/images/Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems ea0751e4|Diagram Complex Diagram Illustrating Integrated Military And Civilian Electronic Warfare Systems]] — shared language: integrated, civilian, systems
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: technical, systems
 - [[_archive/auto-generated/images-stale/multicolor diagram of complex electronic circuitry or integrated circuit layout fdee8a2f|multicolor diagram of complex electronic circuitry or integrated circuit layout]] — shared language: integrated, electronic, diagram
+- [[knowledge/wiki/images/Military Vehicles And Civilian Cars At A Gas Station At Night 2a2a088f|Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: civilian, military
 <!-- vault-crosslinks:end -->

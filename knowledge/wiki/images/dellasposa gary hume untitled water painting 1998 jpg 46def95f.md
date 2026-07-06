@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/dellasposa_gary_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: water
 - [[knowledge/wiki/images/abstract expressionist by gary larson 1986 34af8119|abstract expressionist by gary larson 1986]] — shared language: gary
 - [[knowledge/wiki/artists/Artist - gary larson|Artist - gary larson]] — shared language: gary
 - [[knowledge/wiki/books/gary-webb-dark-alliance-1999|Dark Alliance - 1999]] — shared language: gary
 - [[knowledge/wiki/images/david hume by allan ramsay 1754 2afa5ab9|david hume by allan ramsay 1754]] — shared language: hume
+- [[knowledge/wiki/images/cow tools by gary larson 1982 13190ff5|cow tools by gary larson 1982]] — shared language: gary
 <!-- vault-crosslinks:end -->

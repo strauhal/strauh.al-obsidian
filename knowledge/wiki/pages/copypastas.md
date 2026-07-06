@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/copypastas.html"
 source_relpath: "knowledge_base/copypastas.html"
 compiled: "True"
-compiled_at: "2026-07-02T22:03:46"
+compiled_at: "2026-07-06T16:51:07"
 tags: ["strauhal", "source/html"]
 ---
 # copypastas
@@ -61,5 +61,5 @@ strauh.al/copypastas
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: even, nothing, know
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck, like, play
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: you're, play, like
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: you're, like, nothing
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: you're, say, can't
 <!-- vault-crosslinks:end -->

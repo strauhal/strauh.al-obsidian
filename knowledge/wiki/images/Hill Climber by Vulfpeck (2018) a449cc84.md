@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Hill Climber by 
 - [[knowledge/wiki/images/Illustration Impasto Painting of a Green Hill and Cloudy Blue Sky ad5a3246|Illustration Impasto Painting of a Green Hill and Cloudy Blue Sky]] — shared language: hill
 - [[knowledge/wiki/images/Illustration Castle on Hill Overlooking River at Sunset b17972f8|Illustration Castle on Hill Overlooking River at Sunset]] — shared language: hill
 - [[knowledge/wiki/images/Potrero Hill by Robert Bechtle (1980) 6531de4c|Potrero Hill by Robert Bechtle (1980)]] — shared language: hill
-- [[knowledge/wiki/images/richard diebenkorn potrero hill 1955 a06cf7f8|richard diebenkorn potrero hill 1955]] — shared language: hill
+- [[knowledge/wiki/images/A View from Point Lobos by Thomas Hill (ca. 1874) e096e736|A View from Point Lobos by Thomas Hill (ca. 1874)]] — shared language: hill
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Armored Figure with Sword 2d2e4200|Illustration Black and White Sketch of Armored Figure with Sword]] — shared language: armored, sword
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, pixel
 - [[knowledge/wiki/images/Illustration Pixel Art Knight Resting by Bonfire and Sword 7e6106c0|Illustration Pixel Art Knight Resting by Bonfire and Sword]] — shared language: sword, knight, pixel
-- [[knowledge/wiki/artists/Artist - John Provencher|Artist - John Provencher]] — shared language: armored, knight, pixel
+- [[knowledge/wiki/images/Illustration Pixelated Knight in Retro Computer Window 057d6713|Illustration Pixelated Knight in Retro Computer Window]] — shared language: knight, computer, window
 <!-- vault-crosslinks:end -->

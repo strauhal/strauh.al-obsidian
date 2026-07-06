@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Three Costumed Figures, One Kneeling, One Standing, One Seated 0c031df4|Three Costumed Figures, One Kneeling, One Standing, One Seated]] — shared language: one, standing, three
 - [[_archive/auto-generated/images-stale/oil painting of two female figures one crouching and one reclining against a yellow background 36e16294|oil painting of two female figures one crouching and one reclining against a yellow background]] — shared language: one, reclining, female
 - [[knowledge/wiki/images/Illustration Line Drawing of Reclining Female Nude f62392b9|Illustration Line Drawing of Reclining Female Nude]] — shared language: reclining, female
 - [[_archive/auto-generated/images-stale/black and white ink drawing of a multi armed figure holding swords on a mound 39325d20|black and white ink drawing of a multi armed figure holding swords on a mound]] — shared language: swords, holding
 - [[_archive/auto-generated/images-stale/abstract painting depicting two stylized figures one blue and one green kneeling 10566527|abstract painting depicting two stylized figures one blue and one green kneeling]] — shared language: one, depicting
-- [[_archive/auto-generated/images-stale/print 1000px jpg 38f00329|print 1000px jpg]] — shared language: print
 <!-- vault-crosslinks:end -->

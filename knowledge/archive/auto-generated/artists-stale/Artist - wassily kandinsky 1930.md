@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1911|Artist - wassily kandinsky 1911]] — shared language: kandinsky, wassily
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1935|Artist - wassily kandinsky 1935]] — shared language: kandinsky, wassily
 - [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1925|Artist - wassily kandinsky 1925]] — shared language: kandinsky, wassily
-- [[knowledge/archive/auto-generated/artists-stale/Artist - wassily kandinsky 1923|Artist - wassily kandinsky 1923]] — shared language: kandinsky, wassily
+- [[knowledge/wiki/images/Yellow Red Blue by Wassily Kandinsky (1925) 39dc2dc0|Yellow Red Blue by Wassily Kandinsky (1925)]] — shared language: kandinsky, wassily
 <!-- vault-crosslinks:end -->

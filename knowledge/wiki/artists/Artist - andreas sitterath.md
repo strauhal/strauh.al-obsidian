@@ -25,5 +25,4 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/A Woman with a Rake in a Mountain Landscape by Hans Andreas Dahl (1919) 0f207179|A Woman with a Rake in a Mountain Landscape by Hans Andreas Dahl (1919)]] — shared language: andreas
 - [[knowledge/wiki/images/hong kong and shanghai bank by andreas gursky 1994 23f0808e|hong kong and shanghai bank by andreas gursky 1994]] — shared language: andreas
 - [[knowledge/wiki/images/view from illinois bldg sep 18 1892 1892 2ecc4dd8|view from illinois bldg sep 18 1892 1892]] — shared language: view
-- [[knowledge/wiki/images/The Sun roars into View by Anna Loginova (2024) e271a490|The Sun roars into View by Anna Loginova (2024)]] — shared language: view
 <!-- vault-crosslinks:end -->

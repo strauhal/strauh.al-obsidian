@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Black And White Figure With Obscured Face And Hands 03312e8f|Illustration Abstract Black And White Figure With Obscured Face And Hands]] — shared language: obscured, face
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: partially
-- [[knowledge/wiki/images/Photograph Black and White Photograph of Man with Partially Shaved Head 9d985665|Photograph Black and White Photograph of Man with Partially Shaved Head]] — shared language: partially
-- [[knowledge/wiki/images/Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise 5a99ed4e|Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: partially, obscured
+- [[knowledge/wiki/images/Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise d8e63519|Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: partially, obscured
+- [[_archive/auto-generated/images-stale/Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise 5a99ed4e|Photograph Cat Wearing Futuristic Helmet, Image Partially Obscured By Noise]] — shared language: partially, obscured
 - [[knowledge/archive/auto-generated/artists-stale/Artist - chris hood|Artist - chris hood]] — shared language: hood
 <!-- vault-crosslinks:end -->

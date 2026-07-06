@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Screenshot Screenshot Of Text, Binary Code, And Symbols In A Digital Interface 149cddc9|Screenshot Screenshot Of Text, Binary Code, And Symbols In A Digital Interface]] — shared language: code, screenshot
 - [[knowledge/wiki/artists/Artist - jeremykoleske7853|Artist - jeremykoleske7853]] — shared language: data, screenshot
 - [[knowledge/wiki/images/Screenshot YouTube Comment About Data Centers by jeremykoleske7853 a58628cb|Screenshot YouTube Comment About Data Centers by jeremykoleske7853]] — shared language: data, screenshot
-- [[knowledge/wiki/books/epub-golan-levin-tega-brain-code-as-creative-medium-a-handbook-for-computational-art-and-design-mit-press|Code as Creative Medium A Handbook for Computational Art and Design-MIT Press]] — shared language: code
+- [[knowledge/wiki/images/screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993 a25792c4|screenshot of a 1990s era computer interface displaying movie data visualization filmfinder 1993]] — shared language: data, screenshot
 <!-- vault-crosslinks:end -->

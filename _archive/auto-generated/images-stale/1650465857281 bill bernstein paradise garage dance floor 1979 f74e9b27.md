@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 ## Discovered Connections
 
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
-- [[knowledge/wiki/images/Photograph Paradise Garage Dance Floor by Bill Bernstein 2c3877a1|Photograph Paradise Garage Dance Floor by Bill Bernstein]] — shared language: bernstein, garage, paradise
+- [[knowledge/wiki/images/Paradise Garage Dance Floor by Bill Bernstein e43ec8b2|Paradise Garage Dance Floor by Bill Bernstein]] — shared language: bernstein, garage, paradise
+- [[_archive/auto-generated/images-stale/Photograph Paradise Garage Dance Floor by Bill Bernstein 2c3877a1|Photograph Paradise Garage Dance Floor by Bill Bernstein]] — shared language: bernstein, garage, paradise
 - [[knowledge/wiki/artists/Artist - Bill Bernstein|Artist - Bill Bernstein]] — shared language: bernstein, bill, garage
 - [[knowledge/wiki/images/Paradise Cove 39cc66d1|Paradise Cove]] — shared language: paradise
-- [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 <!-- vault-crosslinks:end -->

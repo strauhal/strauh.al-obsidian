@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/skyline 5e243130|skyline]] — named in this note
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds 0a5c5d57|Illustration Black and White Illustration of Window Showing City Skyline Amidst Clouds]] — shared language: clouds, skyline, showing
 - [[_archive/auto-generated/images-stale/framed portrait of two people in front of clouds 57ae9733|framed portrait of two people in front of clouds]] — shared language: clouds
 - [[knowledge/archive/auto-generated/artists-stale/Artist - radiating light and clouds|Artist - radiating light and clouds]] — shared language: clouds, surrounded
 - [[_archive/auto-generated/artists-noise/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: clouds, surrounded
 - [[knowledge/archive/auto-generated/artists-stale/Artist - four cherubs on clouds|Artist - four cherubs on clouds]] — shared language: clouds, surrounded
+- [[_archive/auto-generated/images-stale/ink drawing of a human eye surrounded by radiating light and clouds 239ae923|ink drawing of a human eye surrounded by radiating light and clouds]] — shared language: clouds, surrounded
 <!-- vault-crosslinks:end -->

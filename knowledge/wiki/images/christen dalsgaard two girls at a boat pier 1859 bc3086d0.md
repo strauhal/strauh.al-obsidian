@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/christen_dalsgaa
 
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: boat
 - [[knowledge/wiki/images/Illustration Stylized Drawing of a Person Fishing on a Wooden Pier 4267567a|Illustration Stylized Drawing of a Person Fishing on a Wooden Pier]] — shared language: pier
-- [[knowledge/wiki/images/Illustration Colorful Abstract Drawing With A Pink Boat Like Shape 63947203|Illustration Colorful Abstract Drawing With A Pink Boat Like Shape]] — shared language: boat
 - [[knowledge/wiki/images/Illustration Woman in Red Bathing Suit on Pier with Men Swimming d8aba314|Illustration Woman in Red Bathing Suit on Pier with Men Swimming]] — shared language: pier
-- [[knowledge/wiki/images/the boat by odd nerdrum 1985 f9aa9d90|the boat by odd nerdrum 1985]] — shared language: boat
+- [[knowledge/wiki/images/Illustration Colorful Abstract Drawing With A Pink Boat Like Shape 63947203|Illustration Colorful Abstract Drawing With A Pink Boat Like Shape]] — shared language: boat
+- [[knowledge/wiki/images/illustration of a red haired youth crouching on a pier near a red building 1970 79005a0e|illustration of a red haired youth crouching on a pier near a red building 1970]] — shared language: pier
 <!-- vault-crosslinks:end -->

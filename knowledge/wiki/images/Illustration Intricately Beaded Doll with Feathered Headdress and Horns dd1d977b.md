@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Colorful Expressionist Portrait of Figure in White Headdress 1595ba03|Illustration Colorful Expressionist Portrait of Figure in White Headdress]] — shared language: headdress
+- [[knowledge/wiki/images/Black and White Portrait of a Young Woman in Elaborate Headdress cf32474c|Black and White Portrait of a Young Woman in Elaborate Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: headdress
-- [[knowledge/wiki/images/Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements 150d10ca|Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements]] — shared language: doll
-- [[knowledge/wiki/images/Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress c7a485cd|Illustration Ornate Figure With Multiple Eyes And Elaborate Headdress]] — shared language: headdress
 - [[knowledge/wiki/images/Photograph Intricately Tiled Islamic Dome And Archway Interior With Blue And Yellow Patterns 94f55f36|Photograph Intricately Tiled Islamic Dome And Archway Interior With Blue And Yellow Patterns]] — shared language: intricately
+- [[knowledge/wiki/images/Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements 150d10ca|Illustration Vibrant Surreal Artwork with Doll Characters and Fantasy Elements]] — shared language: doll
 <!-- vault-crosslinks:end -->

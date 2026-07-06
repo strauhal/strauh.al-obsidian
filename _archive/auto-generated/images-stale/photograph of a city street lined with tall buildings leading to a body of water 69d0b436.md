@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading, tall
-- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street, buildings
-- [[knowledge/wiki/images/Photograph Street Leading To Sea Between Two Old Buildings With Shops 2fa030ad|Photograph Street Leading To Sea Between Two Old Buildings With Shops]] — shared language: leading, buildings, street
+- [[knowledge/wiki/images/City Street Lined With Tall Buildings Leading To Water 929dcd0d|City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading, tall
+- [[_archive/auto-generated/images-stale/Photograph City Street Lined With Tall Buildings Leading To Water 6db98a8a|Photograph City Street Lined With Tall Buildings Leading To Water]] — shared language: lined, leading, tall
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, buildings
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall, city, street
 - [[_archive/auto-generated/images-stale/charcoal and wash sketch of a narrow city street with tall buildings 849eff4d|charcoal and wash sketch of a narrow city street with tall buildings]] — shared language: tall, buildings, street
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
 <!-- vault-crosslinks:end -->

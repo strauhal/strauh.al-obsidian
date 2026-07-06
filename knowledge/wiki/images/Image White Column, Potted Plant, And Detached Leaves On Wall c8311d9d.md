@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - White Co
 - [[knowledge/wiki/images/Illustration Painting Window View of Figures, Dogs, and Potted Plant a79e22d2|Illustration Painting Window View of Figures, Dogs, and Potted Plant]] — shared language: potted, plant
 - [[knowledge/wiki/images/Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element a714b01a|Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element]] — shared language: potted, plant
 - [[knowledge/wiki/images/Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds da981ed0|Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds]] — shared language: potted, plant
-- [[knowledge/wiki/images/Photograph CD R Disc Wall Decor with Plant and Skincare Products b63294f7|Photograph CD R Disc Wall Decor with Plant and Skincare Products]] — shared language: plant, wall
+- [[knowledge/wiki/images/Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes 44e1ae2f|Photograph Potted Pilea Plant Next to Building Covered in Satellite Dishes]] — shared language: potted, plant
 <!-- vault-crosslinks:end -->

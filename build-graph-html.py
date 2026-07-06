@@ -30,15 +30,7 @@ def to_raw_url(p):
 IMG_EMBED_RE = re.compile(r'!\[\[([^\]\|\n]+\.(?:jpe?g|png|gif|webp|bmp|tiff?))(?:\|[^\]]*)?\]\]', re.I)
 
 VAULT = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
-# The graph data (nodes/links/full text/image URLs -- currently ~5MB of JSON) is always
-# exported here, inside the vault, so it rides along with the vault's own auto-commit/
-# auto-push. brain.html (wherever OUT points, e.g. into the strauh.al4 site repo) is a
-# lightweight shell that fetches this JSON from GitHub raw at load time instead of
-# embedding it, so the HTML file itself stays small and never needs to be regenerated
-# just because vault content changed -- only re-run this when the *page itself* changes.
-JSON_OUT = os.path.join(VAULT, "knowledge", "output", "brain-data.json")
-HTML_OUT = os.path.abspath(sys.argv[2]) if len(sys.argv) > 2 else None
-DATA_URL = "https://raw.githubusercontent.com/strauhal/strauh.al-obsidian/refs/heads/main/knowledge/output/brain-data.json"
+OUT = os.path.abspath(sys.argv[2] if len(sys.argv) > 2 else os.path.join(VAULT, "brain.html"))
 
 EXCLUDE_DIR_PREFIXES = (".git", ".obsidian", ".trash")
 WIKILINK_RE = re.compile(r'(!?)\[\[([^\]\|#\^]+)(?:[#\^][^\]\|]*)?(?:\|[^\]]*)?\]\]')
@@ -244,17 +236,12 @@ def main():
     print("groups:", {g: sum(1 for r in rel_list if notes[r]['group']==g) for g in group_names})
 
     json_str = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
+    json_str = json_str.replace("</", "<\\/")  # guard against </script>
 
-    os.makedirs(os.path.dirname(JSON_OUT), exist_ok=True)
-    with open(JSON_OUT, "w", encoding="utf-8") as fh:
-        fh.write(json_str)
-    print(f"wrote {JSON_OUT} ({os.path.getsize(JSON_OUT)/1e6:.2f} MB)")
-
-    if HTML_OUT:
-        html = TEMPLATE.replace("%%DATA_URL%%", DATA_URL)
-        with open(HTML_OUT, "w", encoding="utf-8") as fh:
-            fh.write(html)
-        print(f"wrote {HTML_OUT} ({os.path.getsize(HTML_OUT)/1e3:.1f} KB)")
+    html = TEMPLATE.replace("/*__DATA__*/null", json_str)
+    with open(OUT, "w", encoding="utf-8") as fh:
+        fh.write(html)
+    print(f"wrote {OUT} ({os.path.getsize(OUT)/1e6:.2f} MB)")
 
 
 TEMPLATE = r"""<!DOCTYPE html>
@@ -438,33 +425,8 @@ TEMPLATE = r"""<!DOCTYPE html>
 <div id="hint">scroll = zoom · <b>drag = rotate 3D</b> · <b>right-drag = pan</b> · drag node = move · hover = highlight · <b>click = open note</b></div>
 
 <script>
-// DATA is fetched at load time instead of baked into the page, so this file stays a
-// few dozen KB regardless of how large the vault grows. Override with ?data=<url> for
-// local testing (e.g. against a dev server) without touching the shipped default.
-var DATA_URL = new URLSearchParams(location.search).get("data") || "%%DATA_URL%%";
-var DATA = null;
-function showBootStatus(msg){
-  var el = document.getElementById("bootstatus");
-  if(!el){
-    el = document.createElement("div"); el.id = "bootstatus";
-    el.style.cssText = "position:fixed;inset:0;z-index:20;display:flex;align-items:center;"+
-      "justify-content:center;color:#fff;font-family:'Times New Roman',Times,Georgia,serif;"+
-      "font-size:16px;text-align:center;padding:20px;pointer-events:none;";
-    document.body.appendChild(el);
-  }
-  el.textContent = msg;
-}
-showBootStatus("loading the archive…");
-fetch(DATA_URL)
-  .then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
-  .then(function(d){
-    DATA = d;
-    var el = document.getElementById("bootstatus"); if(el) el.remove();
-    boot();
-  })
-  .catch(function(e){ showBootStatus("couldn't load the graph (" + e.message + "). refresh to retry."); });
-
-function boot(){
+var DATA = /*__DATA__*/null;
+(function(){
 "use strict";
 
 // ---------- palette (One Dark / Nord-ish, tuned for dark bg) ----------
@@ -1433,7 +1395,7 @@ computeHighlight();
 fitView();        // initial framing; loop() keeps re-fitting until first user interaction
 ensureLoop();
 
-}
+})();
 </script>
 </body>
 </html>

@@ -36,7 +36,6 @@ def main() -> None:
     run("tools/wiki_search.py")
     run("tools/wiki_graph3d.py")
     run("tools/wiki_browser_graph.py")
-    run("build-graph-html.py")
     print("\nVault refresh complete.")
 
 

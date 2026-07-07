@@ -101,24 +101,28 @@ def is_omitted_note(relpath, fm, name):
             return True
     return False
 
-def main():
+def build_data(vault):
+    """Scan the vault and assemble the graph `data` dict. Shared by main() (bakes
+    it inline into brain.html) and any other consumer (e.g. an export that ships
+    it as a standalone JSON for a lightweight fetch-based page) so both stay
+    byte-for-byte in sync with a single source of truth."""
     md_files = []
-    for root, dirs, files in os.walk(VAULT):
+    for root, dirs, files in os.walk(vault):
         dirs[:] = [d for d in dirs if not any(
-            os.path.relpath(os.path.join(root, d), VAULT).startswith(p)
+            os.path.relpath(os.path.join(root, d), vault).startswith(p)
             for p in EXCLUDE_DIR_PREFIXES)]
         for f in files:
             if f.endswith(".md"):
                 md_files.append(os.path.join(root, f))
 
-    notes = {}        # relpath -> {name, group, folder, fm, ex}
+    notes = {}        # relpath -> {name, group, folder, fm, ex, unsorted}
     by_basename = {}
     by_relpath = {}
     raw = {}
     omit_count = 0
 
     for path in sorted(md_files):
-        rel = os.path.relpath(path, VAULT).replace(os.sep, "/")
+        rel = os.path.relpath(path, vault).replace(os.sep, "/")
         try:
             with open(path, "r", encoding="utf-8", errors="replace") as fh:
                 text = fh.read()
@@ -150,11 +154,16 @@ def main():
             # individual painting node: clean title, slim metadata, no excerpt (the painting IS the content)
             disp = (fm.get("title") or base).strip()
             slim = {k: fm[k] for k in ("artist", "collection", "inferred_year", "dimensions") if fm.get(k)}
+            # images still sitting in the source archive's un-triaged "unsorted/"
+            # folder are hidden from the default graph view (too numerous/noisy to
+            # be useful as stars) but stay fully in the data, so they still surface
+            # normally in another node's connections/images list when relevant.
+            unsorted_img = fm.get("source_relpath", "").startswith("unsorted/")
             notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
-                          "fm": slim, "ex": "", "images": images}
+                          "fm": slim, "ex": "", "images": images, "unsorted": unsorted_img}
         else:
             notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
-                          "fm": fm, "ex": make_excerpt(body), "images": images}
+                          "fm": fm, "ex": make_excerpt(body), "images": images, "unsorted": False}
         by_basename.setdefault(base.lower(), []).append(rel)
         by_relpath[relnoext.lower()] = rel
 
@@ -217,6 +226,7 @@ def main():
     names = [notes[r]["name"] for r in rel_list]
     groups = [gidx[notes[r]["group"]] for r in rel_list]
     paths = rel_list
+    unsorted_flags = [notes[r]["unsorted"] for r in rel_list]
     # per-node metadata for the click popup: [frontmatter dict, excerpt, image urls]
     meta = [[notes[r]["fm"], notes[r]["ex"], notes[r]["images"]] for r in rel_list]
 
@@ -228,12 +238,19 @@ def main():
         "groupNames": group_names,
         "links": links,
         "meta": meta,
+        "unsorted": unsorted_flags,
     }
 
     connected = sum(1 for d in deg if d > 0)
     print(f"scanned md: {len(md_files)} | omitted (images/buckets/archive): {omit_count}")
     print(f"nodes: {len(names)} (connected {connected}, orphans {len(names)-connected}) | links: {len(links)}")
     print("groups:", {g: sum(1 for r in rel_list if notes[r]['group']==g) for g in group_names})
+    print(f"unsorted-sourced images (hidden by default in the graph): {sum(unsorted_flags)}")
+    return data
+
+
+def main():
+    data = build_data(VAULT)
 
     json_str = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
     json_str = json_str.replace("</", "<\\/")  # guard against </script>
@@ -447,7 +464,7 @@ for (var i=0;i<N;i++){
   nodes[i] = {
     i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
     x:0, y:0, z:0, vx:0, vy:0, vz:0, fx:null, fy:null, fz:null,
-    r:1, col:groupColor(DATA.groups[i])
+    r:1, col:groupColor(DATA.groups[i]), unsorted:!!(DATA.unsorted && DATA.unsorted[i])
   };
 }
 // initial positions: 3D spherical Fibonacci spiral (gives the layout volume to inflate)
@@ -706,9 +723,15 @@ function computeHighlight(){
 var needsDraw=true, running=true, rafId=null;
 function ensureLoop(){ if(rafId==null) rafId=requestAnimationFrame(loop); }
 
+// Images still sitting in the source archive's un-triaged "unsorted/" folder are
+// hidden from the default view (too numerous/noisy to be useful stars) -- but
+// they're never removed from the data, so they still show up normally in the
+// info popup's connections/images list for whatever node references them.
+var showUnsorted = false;
 function nodeVisible(n){
   if(!groupVisible[n.g]) return false;
   if(!showOrphans && n.deg===0) return false;
+  if(n.unsorted && !showUnsorted) return false;
   return true;
 }
 
@@ -927,15 +950,24 @@ var pendingDraw=false;
 function requestDraw(){ needsDraw=true; pendingDraw=true; ensureLoop(); }
 
 // ----- cinematic "fly to node": duck-and-weave through 3D, nodes vibrate, quick -----
+// If the target is already close to centred at roughly the right zoom (e.g. you
+// clicked a neighbouring connection you're already looking at), the full swoop
+// is an unnecessary, jarring flourish -- ease there quickly and plainly instead.
 function flyTo(n){
   stopAutoFit();
   focusNode=n; hoverNode=null; searchSet=null; computeHighlight();
   var targetK = Math.max(0.95, Math.min(1.7, view.k<0.55 ? 1.15 : view.k*1.25));
+  var alreadyClose = false;
+  if(n._sx!==undefined){
+    var ddx=n._sx-W/2, ddy=n._sy-H/2;
+    var dist=Math.sqrt(ddx*ddx+ddy*ddy);
+    alreadyClose = dist < Math.min(W,H)*0.22 && view.k >= targetK*0.85;
+  }
   flight = {
-    mode:'node', t0: nowMs(), dur: 780,
+    mode:'node', t0: nowMs(), dur: alreadyClose ? 260 : 780, soft: alreadyClose,
     fromK:view.k, fromTx:view.tx, fromTy:view.ty, fromYaw:rot.yaw, fromPitch:rot.pitch,
     toK:targetK, node:n,
-    // a little randomised banking so each flight weaves differently
+    // a little randomised banking so each flight weaves differently (soft flights skip it)
     swayYaw: (n.i%2?1:-1)*(0.6+0.35*((n.i%5)/5)),
     swayPitch: (n.i%3?1:-1)*(0.36+0.2*((n.i%7)/7))
   };
@@ -978,8 +1010,10 @@ function stepFlight(){
   }
   // e is a smooth S-curve (zero velocity at both ends => no jerk at the start)
   var e=easeInOut(p);
-  // bell: 0 -> 1 -> 0 with zero slope at both ends; envelopes every perturbation
-  var bell = 0.5 - 0.5*Math.cos(2*Math.PI*p);
+  // bell: 0 -> 1 -> 0 with zero slope at both ends; envelopes every perturbation.
+  // Soft flights (target already close/in-view) zero the bell so the duck, weave,
+  // and shiver all disappear -- just a plain, quick ease to the destination.
+  var bell = f.soft ? 0 : (0.5 - 0.5*Math.cos(2*Math.PI*p));
   var pw=projWorldRest(f.node);
   var toTx=W/2 - pw.x*f.toK, toTy=H/2 - pw.y*f.toK;
   // duck: ease the camera back mid-flight then push in (enveloped, so it eases in)

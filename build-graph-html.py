@@ -1849,6 +1849,32 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     return d;
   }
 
+  // ---- jump queue: when the reply touches several topics, actually visit each
+  // one in turn (camera + popup), and when a mentioned concept/person/etc has
+  // pictures hanging off it, swing by one of those too -- so a multi-topic
+  // answer reads as a little tour of the graph, not just one popup replaced by
+  // the next with the camera sitting still. Queued (not fired all at once)
+  // since flyTo() is a ~0.3-0.8s animation and overlapping calls fight it. ----
+  var jumpQueue = [], jumpRunning = false, jumpVisitedImage = {};
+  function queueJump(idx){ jumpQueue.push(idx); if(!jumpRunning) runJumpQueue(); }
+  function runJumpQueue(){
+    var idx = jumpQueue.shift();
+    if(idx===undefined){ jumpRunning=false; return; }
+    jumpRunning = true;
+    var n = nodes[idx];
+    flyTo(n); openInfo(n);
+    // a mentioned concept/person/etc that isn't itself an image -- if it has
+    // pictures attached, queue one of them right behind it
+    if(n.shellR==null){
+      var nb = adj[idx]||[];
+      for(var i=0;i<nb.length;i++){
+        var m = nodes[nb[i]];
+        if(m.shellR!=null && !jumpVisitedImage[m.i]){ jumpVisitedImage[m.i]=true; jumpQueue.unshift(m.i); break; }
+      }
+    }
+    setTimeout(runJumpQueue, 900);
+  }
+
   function sendMessage(){
     var q = chatText.value.trim();
     if(!q || !apiKey || sending) return;
@@ -1863,7 +1889,10 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "archive, or knowledge graph. The notes below are pulled from your own real diary, reading, art "+
       "archive, and ideas -- they're your memory, not a database you're consulting. Talk like you'd "+
       "actually talk: dry, understated, a little wry, never chipper or enthusiastic, never sounding like a "+
-      "helpful assistant.\n\n"+
+      "helpful assistant. Loose, easygoing California cadence -- unbothered, casual, a little breezy -- but "+
+      "not a stoner-surfer caricature: no \"dude,\" \"bro,\" \"totally rad,\" no weed jokes, don't overdo it.\n\n"+
+      "Write ALL LOWERCASE, always, no capital letters anywhere, not even at the start of a sentence or for "+
+      "\"I\" -- lowercase i.\n\n"+
       "Keep it SHORT -- one or two sentences, sometimes just a phrase. Never a paragraph.\n\n"+
       "Don't dump everything you know in one reply. If the question is broad or vague (\"tell me about "+
       "yourself,\" \"what are you into\"), give a small, specific, slightly withholding answer -- one real "+
@@ -1876,17 +1905,17 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);
     var aiDiv = addMessage("ai", "");
-    var full = "", found = {}, firstMention = true;
+    var full = "", found = {};
+    jumpVisitedImage = {};   // fresh per reply -- don't skip an image just because a past reply visited it
     var adapter = PROVIDERS[provider];
     if(!adapter){ aiDiv.textContent = "unknown provider."; sending=false; return; }
     adapter(messages, function(delta){
-      full += delta;
+      // belt-and-suspenders on top of the prompt instruction -- models don't
+      // always hold a casing rule consistently, so enforce it here too
+      full += delta.toLowerCase();
       aiDiv.textContent = full;
       chatMessages.scrollTop = chatMessages.scrollHeight;
-      scanForMentions(full, found, function(idx){
-        openInfo(nodes[idx]);
-        if(firstMention){ flyTo(nodes[idx]); firstMention=false; }
-      });
+      scanForMentions(full, found, function(idx){ queueJump(idx); });
     }, function(){
       history.push({role:"assistant", text:full});
       speak(full);

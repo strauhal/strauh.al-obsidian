@@ -467,6 +467,31 @@ for (var i=0;i<N;i++){
     r:1, col:groupColor(DATA.groups[i]), unsorted:!!(DATA.unsorted && DATA.unsorted[i])
   };
 }
+
+// ---------- ring shells for images (computed from the real degree distribution,
+// not fixed numbers, so this stays sane as the archive grows) ----------
+// Rather than one weak, uniform pull-to-centre for every image (which just piles
+// them all into one chaotic mass once most images pick up a handful of links),
+// bucket images into concentric shells by how connected they are: barely-linked
+// images form a wide outer dust ring, well-linked ones sit closer in, forming
+// distinct rings rather than a single blob -- while repulsion/link forces still
+// govern each node's position WITHIN its ring, so the rings stay organic, not
+// perfect wireframe spheres.
+var imgDegs = [];
+for (var i=0;i<N;i++) if (nodes[i].g===IMAGE_GROUP) imgDegs.push(nodes[i].deg);
+imgDegs.sort(function(a,b){return a-b;});
+function pct(p){ if(!imgDegs.length) return 0; return imgDegs[Math.min(imgDegs.length-1, Math.floor(imgDegs.length*p))]; }
+var RING_CUTS = [pct(0.50), pct(0.85), pct(0.97)];   // degree thresholds between rings
+var RING_R    = [420, 260, 145, 70];                  // outer -> inner shell radius per tier
+// tight jitter (+/-7%) so each ring stays a distinct band with real empty space
+// between it and its neighbours, instead of one continuous gradient
+for (var i=0;i<N;i++){
+  var n=nodes[i];
+  if(n.g!==IMAGE_GROUP){ n.shellR=null; continue; }
+  var tier = n.deg<=RING_CUTS[0]?0 : n.deg<=RING_CUTS[1]?1 : n.deg<=RING_CUTS[2]?2 : 3;
+  var jitter = 0.93 + 0.14*(((i*2654435761)>>>0)%1000)/1000;
+  n.shellR = RING_R[tier]*jitter;
+}
 // initial positions: 3D spherical Fibonacci spiral (gives the layout volume to inflate)
 var GA = Math.PI*(3-Math.sqrt(5));
 for (var i=0;i<N;i++){
@@ -669,6 +694,9 @@ function tick(){
     var dist=Math.sqrt(dx*dx+dy*dy+dz*dz)||1e-6;
     var ds=degCount[s.i], dt=degCount[t.i];
     var strength=P.linkForce/Math.min(ds||1,dt||1);
+    // links touching a ringed image pull much less strongly -- the ring's radial
+    // spring should decide its depth; the link should only nudge its angle
+    if(s.shellR!=null || t.shellR!=null) strength*=0.3;
     var l=(dist-P.linkDist)/dist*alpha*strength;
     dx*=l; dy*=l; dz*=l;
     var bias=(ds||1)/((ds||1)+(dt||1));
@@ -683,13 +711,18 @@ function tick(){
   if(baseCG>0){
     for(var i=0;i<N;i++){
       var n=nodes[i]; if(n.fx!=null) continue;
+      if(n.shellR!=null){
+        // images: a radial spring toward this node's assigned ring radius, not a
+        // pull toward the origin -- this is what keeps the rings distinct instead
+        // of everything collapsing into whatever the link forces want.
+        var r=Math.sqrt(n.x*n.x+n.y*n.y+n.z*n.z)||1e-6;
+        var springF=(n.shellR-r)*baseCG*0.85;
+        n.vx+=(n.x/r)*springF; n.vy+=(n.y/r)*springF; n.vz+=(n.z/r)*springF;
+        continue;
+      }
       var coreness=Math.sqrt(n.deg/maxDeg);                 // 0 leaf .. 1 hub
-      // layered shells: knowledge hubs sink to the CORE, artists form an inner shell,
-      // and individual paintings float on the OUTERMOST surface (weakest inward pull).
-      var w;
-      if(n.g===IMAGE_GROUP) w=0.28;
-      else if(n.g===ARTIST_GROUP) w=0.55;
-      else w=0.7+2.2*coreness;
+      // layered shells: knowledge hubs sink to the CORE, artists form an inner shell.
+      var w = (n.g===ARTIST_GROUP) ? 0.55 : 0.7+2.2*coreness;
       var cg=baseCG*w;
       n.vx+=-n.x*cg; n.vy+=-n.y*cg; n.vz+=-n.z*cg;
     }

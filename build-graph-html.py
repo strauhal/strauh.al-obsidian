@@ -475,10 +475,16 @@ function hexRgb(h){ return [parseInt(h.slice(1,3),16), parseInt(h.slice(3,5),16)
 // ---------- build node/link arrays ----------
 var N = DATA.names.length;
 var nodes = new Array(N);
-var maxDeg = 1;
-for (var i=0;i<N;i++) maxDeg = Math.max(maxDeg, DATA.deg[i]);
 var ARTIST_GROUP = DATA.groupNames.indexOf("artists");   // pushed to the surface shell
 var IMAGE_GROUP  = DATA.groupNames.indexOf("images");    // paintings: outermost floating shell
+// maxDeg for the core's own "coreness" gradient is taken over non-image nodes
+// only -- a handful of images sit at very high degree (dozens of concept
+// crosslinks) and would otherwise wash out how core a genuine knowledge hub is.
+var maxDeg = 1, maxCoreDeg = 1;
+for (var i=0;i<N;i++){
+  maxDeg = Math.max(maxDeg, DATA.deg[i]);
+  if (DATA.groups[i]!==IMAGE_GROUP) maxCoreDeg = Math.max(maxCoreDeg, DATA.deg[i]);
+}
 for (var i=0;i<N;i++){
   nodes[i] = {
     i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
@@ -497,21 +503,21 @@ for (var i=0;i<N;i++){
 // distinct rings rather than a single blob -- while repulsion/link forces still
 // govern each node's position WITHIN its ring, so the rings stay organic, not
 // perfect wireframe spheres.
-// percentiles are computed from the VISIBLE (kb-connected, sorted) image
-// population, since that's what the rings actually need to organise well
 var imgDegs = [];
-for (var i=0;i<N;i++) if (nodes[i].g===IMAGE_GROUP && nodes[i].kbConnected && !nodes[i].unsorted) imgDegs.push(nodes[i].deg);
+for (var i=0;i<N;i++) if (nodes[i].g===IMAGE_GROUP) imgDegs.push(nodes[i].deg);
 imgDegs.sort(function(a,b){return a-b;});
 function pct(p){ if(!imgDegs.length) return 0; return imgDegs[Math.min(imgDegs.length-1, Math.floor(imgDegs.length*p))]; }
 var RING_CUTS = [pct(0.50), pct(0.85), pct(0.97)];   // degree thresholds between rings
-var RING_R    = [420, 260, 145, 70];                  // outer -> inner shell radius per tier
-// tight jitter (+/-7%) so each ring stays a distinct band with real empty space
-// between it and its neighbours, instead of one continuous gradient
+// Pushed well out from where the knowledge-base core settles (see the cohesion
+// weights below), with a wide deliberate GAP before the innermost ring starts,
+// so the core is visible through open space, not crowded right up against it.
+var RING_R    = [900, 650, 450, 300];                 // outer -> inner shell radius per tier
+// tight jitter (+/-5%) so each ring stays a distinct band, not a gradient
 for (var i=0;i<N;i++){
   var n=nodes[i];
   if(n.g!==IMAGE_GROUP){ n.shellR=null; continue; }
   var tier = n.deg<=RING_CUTS[0]?0 : n.deg<=RING_CUTS[1]?1 : n.deg<=RING_CUTS[2]?2 : 3;
-  var jitter = 0.93 + 0.14*(((i*2654435761)>>>0)%1000)/1000;
+  var jitter = 0.95 + 0.10*(((i*2654435761)>>>0)%1000)/1000;
   n.shellR = RING_R[tier]*jitter;
 }
 // initial positions: 3D spherical Fibonacci spiral (gives the layout volume to inflate)
@@ -718,7 +724,7 @@ function tick(){
     var strength=P.linkForce/Math.min(ds||1,dt||1);
     // links touching a ringed image pull much less strongly -- the ring's radial
     // spring should decide its depth; the link should only nudge its angle
-    if(s.shellR!=null || t.shellR!=null) strength*=0.3;
+    if(s.shellR!=null || t.shellR!=null) strength*=0.15;
     var l=(dist-P.linkDist)/dist*alpha*strength;
     dx*=l; dy*=l; dz*=l;
     var bias=(ds||1)/((ds||1)+(dt||1));
@@ -738,13 +744,15 @@ function tick(){
         // pull toward the origin -- this is what keeps the rings distinct instead
         // of everything collapsing into whatever the link forces want.
         var r=Math.sqrt(n.x*n.x+n.y*n.y+n.z*n.z)||1e-6;
-        var springF=(n.shellR-r)*baseCG*0.85;
+        var springF=(n.shellR-r)*baseCG*1.6;
         n.vx+=(n.x/r)*springF; n.vy+=(n.y/r)*springF; n.vz+=(n.z/r)*springF;
         continue;
       }
-      var coreness=Math.sqrt(n.deg/maxDeg);                 // 0 leaf .. 1 hub
-      // layered shells: knowledge hubs sink to the CORE, artists form an inner shell.
-      var w = (n.g===ARTIST_GROUP) ? 0.55 : 0.7+2.2*coreness;
+      var coreness=Math.sqrt(n.deg/maxCoreDeg);             // 0 leaf .. 1 hub, among non-image nodes
+      // layered shells: knowledge hubs sink to the CORE, artists form an inner shell,
+      // pulled noticeably harder than before so there's real open space before the
+      // image rings start.
+      var w = (n.g===ARTIST_GROUP) ? 0.75 : 1.1+2.6*coreness;
       var cg=baseCG*w;
       n.vx+=-n.x*cg; n.vy+=-n.y*cg; n.vz+=-n.z*cg;
     }
@@ -778,19 +786,11 @@ function computeHighlight(){
 var needsDraw=true, running=true, rafId=null;
 function ensureLoop(){ if(rafId==null) rafId=requestAnimationFrame(loop); }
 
-// Images still sitting in the source archive's un-triaged "unsorted/" folder, and
-// images whose only links are to other images or an auto-generated artist stub
-// (i.e. never touch a real concept/diary/book/page), are hidden from the default
-// view -- but never removed from the data, so they still show up normally in the
-// info popup's connections/images list for whatever node references them.
-var showUnsorted = false, showAllImages = false;
+// All images are shown -- kept out of the knowledge-base's way by the ring
+// shells (see below) instead of being filtered out of the view entirely.
 function nodeVisible(n){
   if(!groupVisible[n.g]) return false;
   if(!showOrphans && n.deg===0) return false;
-  if(!showAllImages && n.g===IMAGE_GROUP){
-    if(n.unsorted) return false;
-    if(!n.kbConnected) return false;
-  } else if(n.unsorted && !showUnsorted) return false;
   return true;
 }
 
@@ -799,8 +799,19 @@ function nodeVisible(n){
 // triggers a Chrome tessellation artifact (circles render as teardrops/polygons),
 // so we keep the CTM at dpr and bake the projection into the coordinates instead.
 var vib=0, vibPhase=0;                 // vibration during fly animation (screen px)
-var drawOrder=new Int32Array(N);
-for(var i=0;i<N;i++) drawOrder[i]=i;
+// Split into "image" vs "core" (everything else) for a two-pass draw: core notes
+// and their connections always render ON TOP of images, regardless of raw Z
+// depth, and images render translucent -- so the knowledge base reads clearly
+// through the image layer instead of being buried under however many paintings
+// happen to be in front of it in 3D.
+var imageDrawOrder=[], coreDrawOrder=[];
+for(var i=0;i<N;i++) (nodes[i].shellR!=null ? imageDrawOrder : coreDrawOrder).push(i);
+var imageLinkOrder=[], coreLinkOrder=[];
+for(var i=0;i<links.length;i++){
+  var L=links[i];
+  (L.s.shellR!=null || L.t.shellR!=null ? imageLinkOrder : coreLinkOrder).push(i);
+}
+var IMAGE_NODE_ALPHA = 0.55;   // translucency multiplier for image dots specifically
 var zMin=0, zMax=0, cenZ=0;
 
 // Project every node from its real 3D position to screen px (perspective),
@@ -859,62 +870,82 @@ function draw(){
   var TAU=6.283185307;
 
   // ---- links ---- (always 1px wide regardless of zoom)
+  // Drawn in two passes: image-touching links first (faded), core-to-core links
+  // second so they always sit visually on top of the image mesh underneath.
   var baseLW = 1;
   var litLW = 1.8;   // highlighted/connection links a touch heavier so they read
-  for(var i=0;i<links.length;i++){
-    var L=links[i], s=L.s, t=L.t;
-    if(!nodeVisible(s)||!nodeVisible(t)) continue;
-    var sx=s._sx, sy=s._sy, txx=t._sx, tyy=t._sy;
-    if((sx<0&&txx<0)||(sx>W&&txx>W)||(sy<0&&tyy<0)||(sy>H&&tyy>H)) continue;
-    var lit = hiNodes ? (hiNodes[s.i]!==undefined && hiNodes[t.i]!==undefined) : false;
-    if(groupHi!=null && s.g===groupHi && t.g===groupHi) lit=true;   // intra-group web lights up
-    var conn = (connHi!=null && (s.i===connHi||t.i===connHi));
-    if(conn){ ctx.strokeStyle="rgba(255,255,255,1)"; ctx.lineWidth=litLW*1.35; }      // hovered connection blazes
-    else if(connHi!=null && lit){ ctx.strokeStyle="rgba(255,255,255,0.18)"; ctx.lineWidth=baseLW; } // others recede while a conn is hovered
-    else if(hasHi && !lit){ ctx.strokeStyle="rgba(255,255,255,0.05)"; ctx.lineWidth=baseLW; }
-    else if(lit){ ctx.strokeStyle="rgba(255,255,255,0.9)"; ctx.lineWidth=litLW; }
-    else {  // normal link: coloured as the midpoint of the two notes it connects
-      var la = 0.45+0.35*fogAlpha((s._z+t._z)*0.5);
-      ctx.strokeStyle="rgba("+L.cm+","+la.toFixed(3)+")"; ctx.lineWidth=baseLW;
-    }
-    ctx.beginPath();
-    ctx.moveTo(sx,sy); ctx.lineTo(txx,tyy);
-    ctx.stroke();
-    if(P.arrows && (!hasHi || lit)) drawArrow(sx,sy,txx,tyy,t._sr,baseLW);
-  }
-
-  // ---- nodes (always depth-sorted far -> near) ----
-  Array.prototype.sort.call(drawOrder, function(a,b){ return nodes[b]._z - nodes[a]._z; });
-  for(var oi=0;oi<N;oi++){
-    var n = nodes[drawOrder[oi]];
-    if(!nodeVisible(n)) continue;
-    var sx=n._sx, sy=n._sy, r=n._sr;
-    if(sx<-r-2||sx>W+r+2||sy<-r-2||sy>H+r+2) continue;
-    if(r<0.4) r=0.4;
-    var dim=false, full=false, ring=false;
-    if(hiNodes){ if(hiNodes[n.i]===undefined) dim=true; else if(hiNodes[n.i]===2){ full=true; ring=true; } }
-    if(searchSet){ if(!searchSet[n.i]) dim=true; else { full=true; ring=true; } }
-    if(groupHi!=null){ if(n.g===groupHi){ dim=false; full=true; } else dim=true; }  // group lights up in its colour (no ring)
-    var isConn=(n.i===connHi);
-    if(isConn){ dim=false; full=true; ring=true; r=Math.max(r*1.5, r+5); }   // pop out of the focus web
-    ctx.globalAlpha = dim?0.12 : (full?1:fogAlpha(n._z));
-    ctx.beginPath();
-    ctx.arc(sx,sy,r,0,TAU);
-    ctx.fillStyle = n.col;
-    ctx.fill();
-    if(isConn){ // bright halo on the connection being hovered in the popup
-      ctx.globalAlpha=1;
-      ctx.lineWidth=Math.max(2, r*0.3);
-      ctx.strokeStyle="#fff"; ctx.stroke();
-      ctx.globalAlpha=0.55; ctx.lineWidth=Math.max(1.2,r*0.16);
-      ctx.beginPath(); ctx.arc(sx,sy,r+Math.max(5,r*0.8),0,TAU); ctx.stroke();
-    } else if(ring){
-      ctx.globalAlpha=1;
-      ctx.lineWidth=Math.max(1.4, r*0.18);
-      ctx.strokeStyle="rgba(255,255,255,0.95)";
+  function drawLinkPass(order, isImagePass){
+    for(var oi=0;oi<order.length;oi++){
+      var L=links[order[oi]], s=L.s, t=L.t;
+      if(!nodeVisible(s)||!nodeVisible(t)) continue;
+      var sx=s._sx, sy=s._sy, txx=t._sx, tyy=t._sy;
+      if((sx<0&&txx<0)||(sx>W&&txx>W)||(sy<0&&tyy<0)||(sy>H&&tyy>H)) continue;
+      var lit = hiNodes ? (hiNodes[s.i]!==undefined && hiNodes[t.i]!==undefined) : false;
+      if(groupHi!=null && s.g===groupHi && t.g===groupHi) lit=true;   // intra-group web lights up
+      var conn = (connHi!=null && (s.i===connHi||t.i===connHi));
+      if(conn){ ctx.strokeStyle="rgba(255,255,255,1)"; ctx.lineWidth=litLW*1.35; }      // hovered connection blazes
+      else if(connHi!=null && lit){ ctx.strokeStyle="rgba(255,255,255,0.18)"; ctx.lineWidth=baseLW; } // others recede while a conn is hovered
+      else if(hasHi && !lit){ ctx.strokeStyle="rgba(255,255,255,0.05)"; ctx.lineWidth=baseLW; }
+      else if(lit){ ctx.strokeStyle="rgba(255,255,255,0.9)"; ctx.lineWidth=litLW; }
+      else {  // normal link: coloured as the midpoint of the two notes it connects
+        var la = 0.45+0.35*fogAlpha((s._z+t._z)*0.5);
+        // links reaching out to a ringed image are the vast majority of all links
+        // (tens of thousands of them) -- drawn at full strength they fill in every
+        // gap between the core and the image shells. Fade them right down by
+        // default; hovering/focusing still lights the relevant ones up normally
+        // via the `lit`/`conn` branches above.
+        if(isImagePass) la *= 0.12;
+        ctx.strokeStyle="rgba("+L.cm+","+la.toFixed(3)+")"; ctx.lineWidth=baseLW;
+      }
+      ctx.beginPath();
+      ctx.moveTo(sx,sy); ctx.lineTo(txx,tyy);
       ctx.stroke();
+      if(P.arrows && (!hasHi || lit)) drawArrow(sx,sy,txx,tyy,t._sr,baseLW);
     }
   }
+  drawLinkPass(imageLinkOrder, true);
+  drawLinkPass(coreLinkOrder, false);
+
+  // ---- nodes ---- (each pass depth-sorted far -> near within itself; the core
+  // pass always draws after/on top of the image pass, regardless of raw Z, and
+  // image nodes are drawn translucent so the core reads clearly through them)
+  function drawNodePass(order, isImagePass){
+    order.sort(function(a,b){ return nodes[b]._z - nodes[a]._z; });
+    for(var oi=0;oi<order.length;oi++){
+      var n = nodes[order[oi]];
+      if(!nodeVisible(n)) continue;
+      var sx=n._sx, sy=n._sy, r=n._sr;
+      if(sx<-r-2||sx>W+r+2||sy<-r-2||sy>H+r+2) continue;
+      if(r<0.4) r=0.4;
+      var dim=false, full=false, ring=false;
+      if(hiNodes){ if(hiNodes[n.i]===undefined) dim=true; else if(hiNodes[n.i]===2){ full=true; ring=true; } }
+      if(searchSet){ if(!searchSet[n.i]) dim=true; else { full=true; ring=true; } }
+      if(groupHi!=null){ if(n.g===groupHi){ dim=false; full=true; } else dim=true; }  // group lights up in its colour (no ring)
+      var isConn=(n.i===connHi);
+      if(isConn){ dim=false; full=true; ring=true; r=Math.max(r*1.5, r+5); }   // pop out of the focus web
+      var a = dim?0.12 : (full?1:fogAlpha(n._z));
+      if(isImagePass && !full) a *= IMAGE_NODE_ALPHA;
+      ctx.globalAlpha = a;
+      ctx.beginPath();
+      ctx.arc(sx,sy,r,0,TAU);
+      ctx.fillStyle = n.col;
+      ctx.fill();
+      if(isConn){ // bright halo on the connection being hovered in the popup
+        ctx.globalAlpha=1;
+        ctx.lineWidth=Math.max(2, r*0.3);
+        ctx.strokeStyle="#fff"; ctx.stroke();
+        ctx.globalAlpha=0.55; ctx.lineWidth=Math.max(1.2,r*0.16);
+        ctx.beginPath(); ctx.arc(sx,sy,r+Math.max(5,r*0.8),0,TAU); ctx.stroke();
+      } else if(ring){
+        ctx.globalAlpha=1;
+        ctx.lineWidth=Math.max(1.4, r*0.18);
+        ctx.strokeStyle="rgba(255,255,255,0.95)";
+        ctx.stroke();
+      }
+    }
+  }
+  drawNodePass(imageDrawOrder, true);
+  drawNodePass(coreDrawOrder, false);
   ctx.globalAlpha=1;
 
   // ---- hover: a single white outline ring on the node under the cursor ----
@@ -1093,15 +1124,22 @@ var dragNode=null, dragZ=0, panning=false, rotating=false, last={x:0,y:0}, downA
 
 // pick using PROJECTED screen positions (works while rotated in pseudo-3D)
 function pickNode(sx,sy){
-  var best=null, bestD=Infinity;
+  // Knowledge-base nodes take priority over images at the cursor: track the
+  // closest hit of each kind separately and prefer a core hit whenever there is
+  // one, even if a nearer image dot is technically closer to the pointer --
+  // otherwise the dense image layer would constantly steal hover/click from the
+  // core sitting right behind it.
+  var bestCore=null, bestCoreD=Infinity, bestImg=null, bestImgD=Infinity;
   for(var i=N-1;i>=0;i--){
     var n=nodes[i];
     if(!nodeVisible(n) || n._sx===undefined) continue;
     var dx=n._sx-sx, dy=n._sy-sy, d=dx*dx+dy*dy;
     var rr=(n._sr||1)+7;
-    if(d<=rr*rr && d<bestD){ bestD=d; best=n; }
+    if(d>rr*rr) continue;
+    if(n.shellR!=null){ if(d<bestImgD){ bestImgD=d; bestImg=n; } }
+    else { if(d<bestCoreD){ bestCoreD=d; bestCore=n; } }
   }
-  return best;
+  return bestCore || bestImg;
 }
 function setCursor(c){ if(cv.style.cursor!==c) cv.style.cursor=c; }
 

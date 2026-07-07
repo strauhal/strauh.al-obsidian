@@ -1685,20 +1685,44 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 
   // ---- retrieval: score every node's name+excerpt against the query's terms,
   // hand the top handful to the model as grounding context ----
+  // A real attributed artwork is almost always titled "Title by Artist (Year)"
+  // -- the word "painting"/"artwork" essentially never appears IN that title.
+  // Pure keyword retrieval means a literal "show me a painting" query matches
+  // nothing at all and the model (correctly, given empty context) claims
+  // there aren't any, which is wrong -- there are thousands. Detect that kind
+  // of generic visual request and sample real attributed-artwork images
+  // directly instead of relying on keyword overlap for them.
+  var ARTWORK_NAME_RE = /\bby\s+[^(]{2,40}\(\s*c?\.?\s*\d{3,4}/i;
+  var VISUAL_REQUEST_RE = /\b(photo|photograph|picture|painting|paintings|artwork|drawing|illustration|image|images)\b/i;
+  function sampleArtworks(n){
+    var pool = [];
+    for(var i=0;i<N;i++){ if(nodes[i].shellR!=null && ARTWORK_NAME_RE.test(nodes[i].name)) pool.push(i); }
+    var out = [];
+    for(var k=0;k<n && pool.length;k++){
+      var pick = ((k*2654435761 + pool.length)>>>0) % pool.length;
+      out.push(pool.splice(pick, 1)[0]);
+    }
+    return out;
+  }
   function retrieve(query){
     var terms = query.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
-    if(!terms.length) return [];
     var scored = [];
-    for(var i=0;i<N;i++){
-      var n = nodes[i];
-      var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
-      var text = (n.name + " " + ex).toLowerCase();
-      var score = 0;
-      for(var t=0;t<terms.length;t++){ if(text.indexOf(terms[t])!==-1) score++; }
-      if(score>0){ scored.push([score + Math.min(2, n.deg/20), i]); }
+    if(terms.length){
+      for(var i=0;i<N;i++){
+        var n = nodes[i];
+        var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
+        var text = (n.name + " " + ex).toLowerCase();
+        var score = 0;
+        for(var t=0;t<terms.length;t++){ if(text.indexOf(terms[t])!==-1) score++; }
+        if(score>0){ scored.push([score + Math.min(2, n.deg/20), i]); }
+      }
+      scored.sort(function(a,b){ return b[0]-a[0]; });
     }
-    scored.sort(function(a,b){ return b[0]-a[0]; });
-    return scored.slice(0,8).map(function(s){ return s[1]; });
+    var idxs = scored.slice(0,8).map(function(s){ return s[1]; });
+    if(VISUAL_REQUEST_RE.test(query)){
+      sampleArtworks(6).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
+    }
+    return idxs;
   }
   function buildContext(idxs){
     return idxs.map(function(i){
@@ -1845,33 +1869,67 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // picture of you" the moment some OTHER Ernest, e.g. Ernest Becker, comes
   // up is exactly the wrong kind of surprise) to ever trigger on automatically.
   var MENTION_STOPLIST = {"ernest":1, "about":1, "home":1, "life":1, "works":1, "sources":1};
+  // Artwork titles end "...by Artist (Year)", but a model saying the same
+  // thing out loud paraphrases the date near-universally ("from 1950",
+  // "circa 1950", "made in 1950") -- exact-string matching against the full
+  // title then fails, and whatever SHORT node happens to occur nearby in
+  // the (now-unclaimed) text fires instead. So also register the "Title by
+  // Artist" portion with the trailing "(...)" stripped as a second,
+  // independent candidate for the same node -- either form matching is
+  // enough, and the full form still wins if the model happens to say it.
+  var TRAILING_YEAR_RE = /\s*\([^()]*\)\s*$/;
   var sortedNames = null;
   function getSortedNames(){
     if(sortedNames) return sortedNames;
     sortedNames = [];
     for(var i=0;i<N;i++){
       var nm = nodes[i].name;
-      if(nm.length>=5 && !MENTION_STOPLIST[nm.toLowerCase()]) sortedNames.push([nm, i]);
+      if(nm.length<5 || MENTION_STOPLIST[nm.toLowerCase()]) continue;
+      sortedNames.push([nm, i]);
+      var stripped = nm.replace(TRAILING_YEAR_RE, "");
+      if(stripped!==nm && stripped.length>=5) sortedNames.push([stripped, i]);
     }
     sortedNames.sort(function(a,b){ return b[0].length-a[0].length; });
     return sortedNames;
   }
+  // Matching longest-first isn't enough by itself: a completely unrelated,
+  // separate node like a stray anchor titled just "ascension" would still
+  // fire on its own, independent of a longer match, purely because its name
+  // happens to occur AS A SUBSTRING inside e.g. "...the Ascension of the
+  // Virgin by Peter Paul Rubens..." even after that whole title already
+  // matched. So: once a longer name claims a stretch of text, no shorter
+  // name is allowed to fire from anywhere inside that same stretch.
+  // The model routinely wraps a title in quotes when saying it out loud
+  // ("there's 'the last supper' by...") even though the actual note title
+  // has none -- stripping every quote character from both sides before
+  // comparing means that decoration can't break an otherwise-good match.
+  function stripQuotes(s){ return s.replace(/['"‘’“”`]/g, ""); }
   function scanForMentions(fullText, alreadyFound, onFound){
-    var names = getSortedNames(), lower = fullText.toLowerCase();
+    var names = getSortedNames(), lower = stripQuotes(fullText.toLowerCase());
+    var consumed = [];   // [start,end) ranges already claimed by a longer match
+    function withinConsumed(s,e){
+      for(var k=0;k<consumed.length;k++){ if(s<consumed[k][1] && e>consumed[k][0]) return true; }
+      return false;
+    }
     for(var i=0;i<names.length;i++){
       var idx = names[i][1];
       if(alreadyFound[idx]) continue;
-      var needle = names[i][0].toLowerCase();
+      var needle = stripQuotes(names[i][0].toLowerCase());
       var pos = lower.indexOf(needle);
-      // require a real whole-word match, not "cat" inside "concatenate"
+      var matchedAt = -1;
       while(pos!==-1){
         var end = pos+needle.length;
         var before = pos===0 ? "" : lower[pos-1];
         var after = end>=lower.length ? "" : lower[end];
-        if(!/[a-z0-9]/i.test(before) && !/[a-z0-9]/i.test(after)) break;
+        // require a real whole-word match, not "cat" inside "concatenate",
+        // and skip any span a longer, already-matched name already claimed
+        if(!/[a-z0-9]/i.test(before) && !/[a-z0-9]/i.test(after) && !withinConsumed(pos,end)){ matchedAt=pos; break; }
         pos = lower.indexOf(needle, pos+1);
       }
-      if(pos!==-1){ alreadyFound[idx]=true; onFound(idx); }
+      if(matchedAt!==-1){
+        consumed.push([matchedAt, matchedAt+needle.length]);
+        alreadyFound[idx]=true; onFound(idx);
+      }
     }
   }
 

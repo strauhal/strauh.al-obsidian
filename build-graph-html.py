@@ -230,6 +230,21 @@ def build_data(vault):
     # per-node metadata for the click popup: [frontmatter dict, excerpt, image urls]
     meta = [[notes[r]["fm"], notes[r]["ex"], notes[r]["images"]] for r in rel_list]
 
+    # An image is "knowledge-base connected" if at least one of its links lands on
+    # something that ISN'T itself an image or an artist stub (i.e. a real concept,
+    # diary/book/page, person, etc.) -- images whose only links are to other images
+    # (crosslink "shared language" noise) or to an auto-generated artist index are
+    # hidden from the default graph view, same idea as the unsorted-folder hiding.
+    img_gi = gidx.get("images")
+    artist_gi = gidx.get("artists")
+    kb_connected = [False] * len(rel_list)
+    for ia, ib in links:
+        ga, gb = groups[ia], groups[ib]
+        if ga == img_gi and gb != img_gi and gb != artist_gi:
+            kb_connected[ia] = True
+        if gb == img_gi and ga != img_gi and ga != artist_gi:
+            kb_connected[ib] = True
+
     data = {
         "names": names,
         "paths": paths,
@@ -239,6 +254,7 @@ def build_data(vault):
         "links": links,
         "meta": meta,
         "unsorted": unsorted_flags,
+        "kbConnected": kb_connected,
     }
 
     connected = sum(1 for d in deg if d > 0)
@@ -246,6 +262,9 @@ def build_data(vault):
     print(f"nodes: {len(names)} (connected {connected}, orphans {len(names)-connected}) | links: {len(links)}")
     print("groups:", {g: sum(1 for r in rel_list if notes[r]['group']==g) for g in group_names})
     print(f"unsorted-sourced images (hidden by default in the graph): {sum(unsorted_flags)}")
+    n_images = sum(1 for g in groups if g == img_gi)
+    print(f"images connected to the knowledge base: {sum(kb_connected)}/{n_images} "
+          f"({n_images - sum(kb_connected)} hidden as image/artist-only noise)")
     return data
 
 
@@ -464,7 +483,8 @@ for (var i=0;i<N;i++){
   nodes[i] = {
     i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
     x:0, y:0, z:0, vx:0, vy:0, vz:0, fx:null, fy:null, fz:null,
-    r:1, col:groupColor(DATA.groups[i]), unsorted:!!(DATA.unsorted && DATA.unsorted[i])
+    r:1, col:groupColor(DATA.groups[i]), unsorted:!!(DATA.unsorted && DATA.unsorted[i]),
+    kbConnected:!!(DATA.kbConnected && DATA.kbConnected[i])
   };
 }
 
@@ -477,8 +497,10 @@ for (var i=0;i<N;i++){
 // distinct rings rather than a single blob -- while repulsion/link forces still
 // govern each node's position WITHIN its ring, so the rings stay organic, not
 // perfect wireframe spheres.
+// percentiles are computed from the VISIBLE (kb-connected, sorted) image
+// population, since that's what the rings actually need to organise well
 var imgDegs = [];
-for (var i=0;i<N;i++) if (nodes[i].g===IMAGE_GROUP) imgDegs.push(nodes[i].deg);
+for (var i=0;i<N;i++) if (nodes[i].g===IMAGE_GROUP && nodes[i].kbConnected && !nodes[i].unsorted) imgDegs.push(nodes[i].deg);
 imgDegs.sort(function(a,b){return a-b;});
 function pct(p){ if(!imgDegs.length) return 0; return imgDegs[Math.min(imgDegs.length-1, Math.floor(imgDegs.length*p))]; }
 var RING_CUTS = [pct(0.50), pct(0.85), pct(0.97)];   // degree thresholds between rings
@@ -756,15 +778,19 @@ function computeHighlight(){
 var needsDraw=true, running=true, rafId=null;
 function ensureLoop(){ if(rafId==null) rafId=requestAnimationFrame(loop); }
 
-// Images still sitting in the source archive's un-triaged "unsorted/" folder are
-// hidden from the default view (too numerous/noisy to be useful stars) -- but
-// they're never removed from the data, so they still show up normally in the
+// Images still sitting in the source archive's un-triaged "unsorted/" folder, and
+// images whose only links are to other images or an auto-generated artist stub
+// (i.e. never touch a real concept/diary/book/page), are hidden from the default
+// view -- but never removed from the data, so they still show up normally in the
 // info popup's connections/images list for whatever node references them.
-var showUnsorted = false;
+var showUnsorted = false, showAllImages = false;
 function nodeVisible(n){
   if(!groupVisible[n.g]) return false;
   if(!showOrphans && n.deg===0) return false;
-  if(n.unsorted && !showUnsorted) return false;
+  if(!showAllImages && n.g===IMAGE_GROUP){
+    if(n.unsorted) return false;
+    if(!n.kbConnected) return false;
+  } else if(n.unsorted && !showUnsorted) return false;
   return true;
 }
 
@@ -1273,8 +1299,15 @@ function openInfo(n){
   document.getElementById("infoX").addEventListener("click", closeInfo);
   Array.prototype.forEach.call(infoEl.querySelectorAll(".cn[data-j]"), function(el){
     var j=+el.getAttribute("data-j");
-    el.addEventListener("mouseenter", function(){ connHi=j; requestDraw(); });
-    el.addEventListener("mouseleave", function(){ if(connHi===j){ connHi=null; requestDraw(); } });
+    // if the connection IS an image, preview it on hover exactly like the Images list below
+    var cm=(DATA.meta&&DATA.meta[j])||[{}, "", []];
+    var cImgs=cm[2]||[];
+    var connImg = (nodes[j].g===IMAGE_GROUP && cImgs.length) ? cImgs[0] : null;
+    el.addEventListener("mouseenter", function(){ connHi=j; requestDraw(); if(connImg) showImg(connImg); });
+    el.addEventListener("mouseleave", function(){
+      if(connHi===j){ connHi=null; requestDraw(); }
+      if(connImg){ if(imgPinnedSrc) showImg(imgPinnedSrc); else hideImg(); }
+    });
     el.addEventListener("click", function(){ connHi=null; flyTo(nodes[j]); openInfo(nodes[j]); });
   });
   Array.prototype.forEach.call(infoEl.querySelectorAll(".il[data-u]"), function(el){

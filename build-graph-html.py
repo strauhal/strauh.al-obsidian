@@ -475,7 +475,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <div class="iconbtn" id="btnChat" title="Chat with the archive">chat</div>
 
 <div id="chatwrap">
-  <div class="chd"><span class="ttl">chat with the archive</span><span class="x" id="chatClose" title="Close">×</span></div>
+  <div class="chd"><span class="ttl">chat with strauh.al/brain</span><span class="x" id="chatClose" title="Close">×</span></div>
   <div id="chatSetup">
     <div class="hint">paste an API key to talk to this archive. it's stored only in this browser (until you clear site data) and only ever sent to the provider you pick below — never anywhere else.</div>
     <select id="chatProvider">
@@ -1960,7 +1960,11 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "But if the question is specific and someone's clearly and genuinely asking for a real answer, just "+
       "give it straight -- don't be coy or dodge a direct question, that's a different kind of annoying. "+
       "When you do reference a specific note, mention its exact title somewhere in the sentence so it can "+
-      "be found and shown.\n\nRelevant notes:\n"+
+      "be found and shown. This is real: if someone asks to see a photo, painting, or image, you CAN show "+
+      "one -- just say its exact title from the notes below in your reply (e.g. \"there's this photograph, "+
+      "Photograph - X\") and it'll actually appear on screen. Never say you can't show images -- if nothing "+
+      "in the notes below actually fits what they're asking for, say that instead of claiming it's not "+
+      "possible in general.\n\nRelevant notes:\n"+
       (context || "(nothing closely matched -- answer from a general sense of the archive, or say you're not sure)");
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);

@@ -1736,7 +1736,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       var contents = messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
         return {role: m.role==="assistant"?"model":"user", parts:[{text:m.text}]};
       });
-      var body = {contents: contents};
+      // gemini-2.5-flash "thinks" by default -- without turning that off, its
+      // internal reasoning ("thoughts: i need to be careful here not to sound
+      // like an assistant...") comes back as real parts and was leaking
+      // straight into the visible/spoken reply. thinkingBudget:0 disables it
+      // outright; filtering out any part explicitly marked thought:true below
+      // is just a belt-and-suspenders backstop.
+      var body = {contents: contents, generationConfig: {thinkingConfig: {thinkingBudget: 0}}};
       if(sys) body.systemInstruction = {parts:[{text:sys.text}]};
       fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse&key="+encodeURIComponent(apiKey), {
         method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)
@@ -1746,7 +1752,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
           try{
             var d = JSON.parse(payload);
             var parts = d.candidates && d.candidates[0] && d.candidates[0].content && d.candidates[0].content.parts;
-            var t = parts ? parts.map(function(p){ return p.text||""; }).join("") : "";
+            var t = parts ? parts.filter(function(p){ return !p.thought; }).map(function(p){ return p.text||""; }).join("") : "";
             if(t) onDelta(t);
           }catch(e){}
         });
@@ -1833,11 +1839,20 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // appearing in the newly-arrived text and light each one up (highlight +
   // open its info popup / image) the moment it's said, matching longest names
   // first so e.g. "The Oedipal Screen" wins over a bare "Screen" ----
+  // A handful of node titles are too generic (ordinary English words that'll
+  // appear in almost any reply) or too personally loaded (a page/photo
+  // literally named "ernest" -- talking AS Ernest and then popping up "a
+  // picture of you" the moment some OTHER Ernest, e.g. Ernest Becker, comes
+  // up is exactly the wrong kind of surprise) to ever trigger on automatically.
+  var MENTION_STOPLIST = {"ernest":1, "about":1, "home":1, "life":1, "works":1, "sources":1};
   var sortedNames = null;
   function getSortedNames(){
     if(sortedNames) return sortedNames;
     sortedNames = [];
-    for(var i=0;i<N;i++){ if(nodes[i].name.length>=4) sortedNames.push([nodes[i].name, i]); }
+    for(var i=0;i<N;i++){
+      var nm = nodes[i].name;
+      if(nm.length>=5 && !MENTION_STOPLIST[nm.toLowerCase()]) sortedNames.push([nm, i]);
+    }
     sortedNames.sort(function(a,b){ return b[0].length-a[0].length; });
     return sortedNames;
   }
@@ -1846,7 +1861,17 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     for(var i=0;i<names.length;i++){
       var idx = names[i][1];
       if(alreadyFound[idx]) continue;
-      if(lower.indexOf(names[i][0].toLowerCase())!==-1){ alreadyFound[idx]=true; onFound(idx); }
+      var needle = names[i][0].toLowerCase();
+      var pos = lower.indexOf(needle);
+      // require a real whole-word match, not "cat" inside "concatenate"
+      while(pos!==-1){
+        var end = pos+needle.length;
+        var before = pos===0 ? "" : lower[pos-1];
+        var after = end>=lower.length ? "" : lower[end];
+        if(!/[a-z0-9]/i.test(before) && !/[a-z0-9]/i.test(after)) break;
+        pos = lower.indexOf(needle, pos+1);
+      }
+      if(pos!==-1){ alreadyFound[idx]=true; onFound(idx); }
     }
   }
 
@@ -1923,7 +1948,9 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "archive, and ideas -- they're your memory, not a database you're consulting. Talk like you'd "+
       "actually talk: dry, understated, a little wry, never chipper or enthusiastic, never sounding like a "+
       "helpful assistant. Loose, easygoing California cadence -- unbothered, casual, a little breezy -- but "+
-      "not a stoner-surfer caricature: no \"dude,\" \"bro,\" \"totally rad,\" no weed jokes, don't overdo it.\n\n"+
+      "not a stoner-surfer caricature: no \"dude,\" \"bro,\" \"totally rad,\" no weed jokes, don't overdo it. "+
+      "Output ONLY the reply itself -- never narrate your own reasoning, never write things like \"thoughts:\" "+
+      "or explain how you're deciding what to say, that should never appear in the output at all.\n\n"+
       "Write ALL LOWERCASE, always, no capital letters anywhere, not even at the start of a sentence or for "+
       "\"I\" -- lowercase i.\n\n"+
       "Keep it SHORT -- one or two sentences, sometimes just a phrase. Never a paragraph.\n\n"+

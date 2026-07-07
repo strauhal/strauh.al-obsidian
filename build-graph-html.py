@@ -78,6 +78,12 @@ def make_excerpt(body):
     b = re.sub(r'`+', '', b)
     b = re.sub(r'^#{1,6}\s*', '', b, flags=re.M)             # drop heading marks
     b = re.sub(r'^\s*[-*]\s+', '• ', b, flags=re.M)          # bullets -> •
+    # source prose is hard-wrapped at ~80 cols with literal newlines; rendered
+    # verbatim (pre-wrap) that reads as broken mid-sentence returns. Collapse a
+    # single newline (not a blank-line paragraph break, not a bullet boundary)
+    # into a space so it reflows as one paragraph; keep real paragraph/bullet
+    # breaks intact.
+    b = re.sub(r'(?<!\n)\n(?!\n)(?!\s*•)', ' ', b)
     b = re.sub(r'[ \t]+', ' ', b)
     b = re.sub(r'\n{3,}', '\n\n', b).strip()
     if len(b) > EXCERPT_CHARS:
@@ -286,6 +292,10 @@ TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>strauh.al/brain</title>
+
+<!-- kept so this page matches the rest of the site when embedded there; the
+     <style> block below is what actually renders it correctly standalone -->
+<link rel="stylesheet" href="./style.css">
 <style>
   /* --- strauh.al design language: white text on animated blue, 1px borders, serif ---
      These page-level rules mirror strauh.al so the graph looks right standalone;
@@ -423,6 +433,35 @@ TEMPLATE = r"""<!DOCTYPE html>
   #imgview .ix:hover{color:#fff;}
   #imgview img{display:block;max-width:min(46vw,560px);max-height:calc(100vh - 150px);width:auto;height:auto;}
   #imgview .miss{padding:20px;color:#fff;font-size:13px;max-width:300px;}
+
+  /* Chat (bottom-right) */
+  #btnChat{top:134px}
+  #chatwrap{position:fixed;bottom:16px;right:16px;z-index:9;width:360px;max-width:calc(100vw - 32px);
+    max-height:min(64vh,620px);background:var(--panel);border:1px solid var(--line);
+    display:none;flex-direction:column;font-size:14px;}
+  #chatwrap.open{display:flex;}
+  #chatwrap .chd{display:flex;align-items:center;gap:9px;padding:10px 13px;border-bottom:1px solid var(--line);flex:0 0 auto;}
+  #chatwrap .chd .ttl{flex:1;font-size:11px;text-transform:uppercase;letter-spacing:.7px;color:var(--muted);}
+  #chatwrap .chd .x{cursor:pointer;color:var(--muted);font-size:18px;line-height:1;}
+  #chatwrap .chd .x:hover{color:#fff;}
+  #chatSetup{padding:14px;display:flex;flex-direction:column;gap:9px;}
+  #chatSetup select,#chatSetup input,#chatInputRow input{background:transparent;border:1px solid var(--line);
+    color:#fff;padding:8px 10px;font-size:13px;font-family:inherit;outline:none;}
+  #chatSetup select:focus,#chatSetup input:focus,#chatInputRow input:focus{border-color:#fff;}
+  #chatSetup select option{color:#000;}
+  #chatSetup button,#chatInputRow button{background:var(--panel);border:1px solid var(--line);color:#fff;
+    padding:8px 11px;font-size:13px;cursor:pointer;font-family:inherit;flex:0 0 auto;}
+  #chatSetup button:hover,#chatInputRow button:hover{background:#fff;color:#00f;}
+  #chatSetup .hint{color:var(--muted);font-size:11px;line-height:1.45;}
+  #chatMessages{flex:1;overflow-y:auto;padding:11px 13px;display:none;flex-direction:column;gap:10px;min-height:80px;}
+  #chatMessages.show{display:flex;}
+  #chatMessages .m{max-width:88%;padding:7px 10px;line-height:1.45;font-size:13px;white-space:pre-wrap;word-break:break-word;}
+  #chatMessages .m.user{align-self:flex-end;background:#fff;color:#00f;}
+  #chatMessages .m.ai{align-self:flex-start;border:1px solid var(--line);color:#fff;}
+  #chatInputRow{display:none;border-top:1px solid var(--line);padding:9px 10px;gap:7px;flex:0 0 auto;}
+  #chatInputRow.show{display:flex;}
+  #chatInputRow input{flex:1;}
+  #chatMute.muted{opacity:.4;}
 </style>
 </head>
 <body>
@@ -433,6 +472,27 @@ TEMPLATE = r"""<!DOCTYPE html>
 <div class="iconbtn" id="btnSettings" title="Settings">settings</div>
 <div class="iconbtn" id="btnReset" title="Reset view (R)">reset</div>
 <div class="iconbtn" id="btnSearch" title="Search (/)">search</div>
+<div class="iconbtn" id="btnChat" title="Chat with the archive">chat</div>
+
+<div id="chatwrap">
+  <div class="chd"><span class="ttl">chat with the archive</span><span class="x" id="chatClose" title="Close">×</span></div>
+  <div id="chatSetup">
+    <div class="hint">paste an API key to talk to this archive. it's stored only in this browser (until you clear site data) and only ever sent to the provider you pick below — never anywhere else.</div>
+    <select id="chatProvider">
+      <option value="gemini">Gemini</option>
+      <option value="openai">OpenAI</option>
+      <option value="anthropic">Anthropic</option>
+    </select>
+    <input id="chatKeyInput" type="password" placeholder="API key" autocomplete="off" spellcheck="false">
+    <button id="chatKeySave">connect</button>
+  </div>
+  <div id="chatMessages"></div>
+  <div id="chatInputRow">
+    <input id="chatText" type="text" placeholder="ask about anything in here…" autocomplete="off" spellcheck="false">
+    <button id="chatSend">send</button>
+    <button id="chatMute" title="mute voice">🔊</button>
+  </div>
+</div>
 
 <div id="searchwrap">
   <input id="search" type="text" placeholder="Search notes…" autocomplete="off" spellcheck="false">
@@ -477,6 +537,14 @@ var N = DATA.names.length;
 var nodes = new Array(N);
 var ARTIST_GROUP = DATA.groupNames.indexOf("artists");   // pushed to the surface shell
 var IMAGE_GROUP  = DATA.groupNames.indexOf("images");    // paintings: outermost floating shell
+// Only the vault's structural hubs are worth hand-repositioning -- concepts and
+// the library/index maps. Everything else (images, artists, books, people,
+// culture bookmarks, archive, works, dreams, etc.) is click-to-open + rotate
+// only; there are thousands of them and letting any of them grab a drag makes
+// it nearly impossible to just orbit the camera.
+var DRAGGABLE_GROUPS = {};
+["concepts","maps"].forEach(function(g){ var gi=DATA.groupNames.indexOf(g); if(gi>=0) DRAGGABLE_GROUPS[gi]=true; });
+function isDraggable(n){ return !!DRAGGABLE_GROUPS[n.g]; }
 // maxDeg for the core's own "coreness" gradient is taken over non-image nodes
 // only -- a handful of images sit at very high degree (dozens of concept
 // crosslinks) and would otherwise wash out how core a genuine knowledge hub is.
@@ -1162,12 +1230,14 @@ cv.addEventListener("mousedown", function(e){
   }
   var n=pickNode(e.clientX,e.clientY);
   pickedAtDown=n;
-  // Images are numerous enough to blanket the whole view -- don't let clicking
-  // near one hijack what's meant to be a camera-rotate drag. Only core
-  // (knowledge-base) nodes are drag-repositionable; an image still opens on a
-  // plain click (handled in mouseup below), it just never captures the drag.
-  if(n && n.shellR==null){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
-  else { rotating=true; setCursor("grabbing"); }   // left-drag on empty (or an image) = rotate 3D
+  // Most of the graph (images, artists, books, people, culture bookmarks, etc.)
+  // is numerous enough to blanket the whole view -- don't let clicking near one
+  // hijack what's meant to be a camera-rotate drag. Only structural hubs
+  // (concepts, library maps) are drag-repositionable; anything else still
+  // opens on a plain click (handled in mouseup below), it just never captures
+  // the drag.
+  if(n && isDraggable(n)){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
+  else { rotating=true; setCursor("grabbing"); }   // left-drag on empty (or a non-draggable node) = rotate 3D
 });
 window.addEventListener("mousemove", function(e){
   if(rotating){
@@ -1230,7 +1300,7 @@ cv.addEventListener("touchstart",function(e){
     touchStart={x:t.clientX,y:t.clientY}; touchMoved=false;
     var n=pickNode(t.clientX,t.clientY);
     pickedAtDown=n;
-    if(n && n.shellR==null){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
+    if(n && isDraggable(n)){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
     else {rotating=true;}
     last={x:t.clientX,y:t.clientY};
   } else if(e.touches.length===2){
@@ -1547,6 +1617,262 @@ window.addEventListener("keydown",function(e){
 // ---------- stat (appended to the hint bar) ----------
 var hintEl=document.getElementById("hint");
 hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.length.toLocaleString()+" links";
+
+// ---------- chat: bring-your-own-key conversational front end over this
+// same in-memory graph. The key never leaves the browser except in a request
+// to whichever provider it belongs to; retrieval, mention-detection and
+// highlight-sync all run against the DATA already loaded for the graph itself,
+// no server round-trip beyond the LLM call. ----------
+(function(){
+  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted";
+  var chatWrap=$("chatwrap"), chatSetup=$("chatSetup"), chatMessages=$("chatMessages"),
+      chatInputRow=$("chatInputRow"), providerSel=$("chatProvider"), keyInput=$("chatKeyInput"),
+      keySave=$("chatKeySave"), chatText=$("chatText"), chatSend=$("chatSend"), chatMute=$("chatMute");
+  var apiKey = localStorage.getItem(LS_KEY) || "";
+  var provider = localStorage.getItem(LS_PROVIDER) || "gemini";
+  var muted = localStorage.getItem(LS_MUTE) === "1";
+  var history = [];   // {role:"user"|"assistant", text}
+  var sending = false;
+
+  function updateMuteBtn(){ chatMute.textContent = muted?"🔇":"🔊"; chatMute.classList.toggle("muted", muted); }
+  function showChatUI(){
+    if(apiKey){
+      chatSetup.style.display="none";
+      chatMessages.classList.add("show"); chatInputRow.classList.add("show");
+    } else {
+      chatSetup.style.display="flex";
+      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show");
+    }
+  }
+  providerSel.value = provider;
+  updateMuteBtn();
+  showChatUI();
+
+  $("btnChat").addEventListener("click", function(){ chatWrap.classList.toggle("open"); });
+  $("chatClose").addEventListener("click", function(){ chatWrap.classList.remove("open"); });
+
+  keySave.addEventListener("click", function(){
+    var k = keyInput.value.trim();
+    if(!k) return;
+    apiKey = k; provider = providerSel.value;
+    localStorage.setItem(LS_KEY, apiKey);
+    localStorage.setItem(LS_PROVIDER, provider);
+    keyInput.value = "";
+    showChatUI();
+  });
+  keyInput.addEventListener("keydown", function(e){ if(e.key==="Enter") keySave.click(); });
+
+  chatMute.addEventListener("click", function(){
+    muted = !muted; localStorage.setItem(LS_MUTE, muted?"1":"0"); updateMuteBtn();
+    if(muted && window.speechSynthesis) window.speechSynthesis.cancel();
+  });
+
+  // ---- retrieval: score every node's name+excerpt against the query's terms,
+  // hand the top handful to the model as grounding context ----
+  function retrieve(query){
+    var terms = query.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
+    if(!terms.length) return [];
+    var scored = [];
+    for(var i=0;i<N;i++){
+      var n = nodes[i];
+      var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
+      var text = (n.name + " " + ex).toLowerCase();
+      var score = 0;
+      for(var t=0;t<terms.length;t++){ if(text.indexOf(terms[t])!==-1) score++; }
+      if(score>0){ scored.push([score + Math.min(2, n.deg/20), i]); }
+    }
+    scored.sort(function(a,b){ return b[0]-a[0]; });
+    return scored.slice(0,8).map(function(s){ return s[1]; });
+  }
+  function buildContext(idxs){
+    return idxs.map(function(i){
+      var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
+      return "### " + nodes[i].name + "\n" + ex.slice(0,500);
+    }).join("\n\n");
+  }
+
+  // ---- SSE line reader; Gemini/OpenAI/Anthropic all frame streamed chunks the
+  // same way ("data: {...}\n\n"), so one reader covers all three ----
+  function readSSE(response, onPayload){
+    var reader = response.body.getReader(), decoder = new TextDecoder(), buf = "";
+    function pump(){
+      return reader.read().then(function(res){
+        if(res.done) return;
+        buf += decoder.decode(res.value, {stream:true});
+        var lines = buf.split("\n");
+        buf = lines.pop();
+        for(var i=0;i<lines.length;i++){
+          var line = lines[i].trim();
+          if(line.indexOf("data:")===0){
+            var payload = line.slice(5).trim();
+            if(payload) onPayload(payload);
+          }
+        }
+        return pump();
+      });
+    }
+    return pump();
+  }
+
+  var PROVIDERS = {
+    gemini: function(messages, onDelta, onDone, onError){
+      var sys = messages.filter(function(m){ return m.role==="system"; })[0];
+      var contents = messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
+        return {role: m.role==="assistant"?"model":"user", parts:[{text:m.text}]};
+      });
+      var body = {contents: contents};
+      if(sys) body.systemInstruction = {parts:[{text:sys.text}]};
+      fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse&key="+encodeURIComponent(apiKey), {
+        method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)
+      }).then(function(r){
+        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+        return readSSE(r, function(payload){
+          try{
+            var d = JSON.parse(payload);
+            var parts = d.candidates && d.candidates[0] && d.candidates[0].content && d.candidates[0].content.parts;
+            var t = parts ? parts.map(function(p){ return p.text||""; }).join("") : "";
+            if(t) onDelta(t);
+          }catch(e){}
+        });
+      }).then(onDone).catch(onError);
+    },
+    openai: function(messages, onDelta, onDone, onError){
+      var body = {model:"gpt-4o-mini", stream:true,
+        messages: messages.map(function(m){ return {role:m.role, content:m.text}; })};
+      fetch("https://api.openai.com/v1/chat/completions", {
+        method:"POST", headers:{"Content-Type":"application/json","Authorization":"Bearer "+apiKey},
+        body: JSON.stringify(body)
+      }).then(function(r){
+        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+        return readSSE(r, function(payload){
+          if(payload==="[DONE]") return;
+          try{
+            var d = JSON.parse(payload);
+            var t = d.choices && d.choices[0] && d.choices[0].delta && d.choices[0].delta.content || "";
+            if(t) onDelta(t);
+          }catch(e){}
+        });
+      }).then(onDone).catch(onError);
+    },
+    anthropic: function(messages, onDelta, onDone, onError){
+      var sys = messages.filter(function(m){ return m.role==="system"; })[0];
+      var body = {model:"claude-3-5-sonnet-20241022", max_tokens:1024, stream:true,
+        messages: messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
+          return {role:m.role, content:m.text};
+        })};
+      if(sys) body.system = sys.text;
+      fetch("https://api.anthropic.com/v1/messages", {
+        method:"POST", headers:{"Content-Type":"application/json","x-api-key":apiKey,
+          "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
+        body: JSON.stringify(body)
+      }).then(function(r){
+        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+        return readSSE(r, function(payload){
+          try{
+            var d = JSON.parse(payload);
+            if(d.type==="content_block_delta" && d.delta && d.delta.text) onDelta(d.delta.text);
+          }catch(e){}
+        });
+      }).then(onDone).catch(onError);
+    }
+  };
+
+  // ---- voice: best available "assistant"-flavoured system voice, not literally
+  // Siri (no browser exposes that), but the closest natural analogue ----
+  var chosenVoice = null;
+  function pickVoice(){
+    if(!window.speechSynthesis) return;
+    var voices = window.speechSynthesis.getVoices();
+    if(!voices.length) return;
+    var pref = voices.filter(function(v){ return /en/i.test(v.lang); })
+      .sort(function(a,b){
+        function score(v){ return /Samantha|Siri|Ava|Nicky|Karen|Female/i.test(v.name) ? 2 : (/Google|Natural/i.test(v.name)?1:0); }
+        return score(b)-score(a);
+      });
+    chosenVoice = pref[0] || voices[0];
+  }
+  if(window.speechSynthesis){ pickVoice(); window.speechSynthesis.onvoiceschanged = pickVoice; }
+  function speak(text){
+    if(muted || !window.speechSynthesis || !text.trim()) return;
+    window.speechSynthesis.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    if(chosenVoice) u.voice = chosenVoice;
+    u.rate = 1.03; u.pitch = 1.06;
+    window.speechSynthesis.speak(u);
+  }
+
+  // ---- mention detection: as the answer streams in, check for note names
+  // appearing in the newly-arrived text and light each one up (highlight +
+  // open its info popup / image) the moment it's said, matching longest names
+  // first so e.g. "The Oedipal Screen" wins over a bare "Screen" ----
+  var sortedNames = null;
+  function getSortedNames(){
+    if(sortedNames) return sortedNames;
+    sortedNames = [];
+    for(var i=0;i<N;i++){ if(nodes[i].name.length>=4) sortedNames.push([nodes[i].name, i]); }
+    sortedNames.sort(function(a,b){ return b[0].length-a[0].length; });
+    return sortedNames;
+  }
+  function scanForMentions(fullText, alreadyFound, onFound){
+    var names = getSortedNames(), lower = fullText.toLowerCase();
+    for(var i=0;i<names.length;i++){
+      var idx = names[i][1];
+      if(alreadyFound[idx]) continue;
+      if(lower.indexOf(names[i][0].toLowerCase())!==-1){ alreadyFound[idx]=true; onFound(idx); }
+    }
+  }
+
+  function addMessage(role, text){
+    var d = document.createElement("div");
+    d.className = "m " + (role==="user"?"user":"ai");
+    d.textContent = text;
+    chatMessages.appendChild(d);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+    return d;
+  }
+
+  function sendMessage(){
+    var q = chatText.value.trim();
+    if(!q || !apiKey || sending) return;
+    sending = true;
+    chatText.value = "";
+    addMessage("user", q);
+    history.push({role:"user", text:q});
+
+    var context = buildContext(retrieve(q));
+    var sysPrompt = "You're a warm, casual conversational guide to Ernest's personal knowledge graph -- his "+
+      "diary, reading, art archive, and ideas, pulled from his real notes below. Answer naturally, like a "+
+      "friend who just happens to know this stuff well -- don't announce that you're consulting a database "+
+      "or a knowledge base, don't over-cite, just weave in specifics naturally. When you do reference a "+
+      "specific note, mention its exact title somewhere in your sentence so it can be found and shown. Keep "+
+      "answers conversational and fairly short (a few sentences) unless asked for more.\n\nRelevant notes:\n"+
+      (context || "(nothing closely matched -- answer from a general sense of the archive, or say you're not sure)");
+
+    var messages = [{role:"system", text:sysPrompt}].concat(history);
+    var aiDiv = addMessage("ai", "");
+    var full = "", found = {}, firstMention = true;
+    var adapter = PROVIDERS[provider];
+    if(!adapter){ aiDiv.textContent = "unknown provider."; sending=false; return; }
+    adapter(messages, function(delta){
+      full += delta;
+      aiDiv.textContent = full;
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+      scanForMentions(full, found, function(idx){
+        openInfo(nodes[idx]);
+        if(firstMention){ flyTo(nodes[idx]); firstMention=false; }
+      });
+    }, function(){
+      history.push({role:"assistant", text:full});
+      speak(full);
+      sending = false;
+    }, function(err){
+      aiDiv.textContent = (full?full+"\n\n":"") + "[couldn't reach "+provider+": "+err.message+"]";
+      sending = false;
+    });
+  }
+  chatSend.addEventListener("click", sendMessage);
+  chatText.addEventListener("keydown", function(e){ if(e.key==="Enter") sendMessage(); });
+})();
 
 // ---------- boot ----------
 resize();

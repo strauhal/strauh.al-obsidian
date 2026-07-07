@@ -462,11 +462,6 @@ TEMPLATE = r"""<!DOCTYPE html>
   #chatInputRow.show{display:flex;}
   #chatInputRow input{flex:1;}
   #chatMute.muted{opacity:.4;}
-  #chatVoiceRow{display:none;padding:0 10px;flex:0 0 auto;}
-  #chatVoiceRow.show{display:block;}
-  #chatVoice{width:100%;background:transparent;border:1px solid var(--line);color:#fff;
-    padding:5px 8px;font-size:11px;font-family:inherit;outline:none;}
-  #chatVoice option{color:#000;}
 </style>
 </head>
 <body>
@@ -492,9 +487,6 @@ TEMPLATE = r"""<!DOCTYPE html>
     <button id="chatKeySave">connect</button>
   </div>
   <div id="chatMessages"></div>
-  <div id="chatVoiceRow">
-    <select id="chatVoice" title="voice"></select>
-  </div>
   <div id="chatInputRow">
     <input id="chatText" type="text" placeholder="ask about anything in here…" autocomplete="off" spellcheck="false">
     <button id="chatSend">send</button>
@@ -1647,15 +1639,14 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 // highlight-sync all run against the DATA already loaded for the graph itself,
 // no server round-trip beyond the LLM call. ----------
 (function(){
-  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted", LS_VOICE="brainChatVoiceURI";
+  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted";
   var chatWrap=$("chatwrap"), chatSetup=$("chatSetup"), chatMessages=$("chatMessages"),
-      chatInputRow=$("chatInputRow"), chatVoiceRow=$("chatVoiceRow"), voiceSel=$("chatVoice"),
+      chatInputRow=$("chatInputRow"),
       providerSel=$("chatProvider"), keyInput=$("chatKeyInput"),
       keySave=$("chatKeySave"), chatText=$("chatText"), chatSend=$("chatSend"), chatMute=$("chatMute");
   var apiKey = localStorage.getItem(LS_KEY) || "";
   var provider = localStorage.getItem(LS_PROVIDER) || "gemini";
   var muted = localStorage.getItem(LS_MUTE) === "1";
-  var savedVoiceURI = localStorage.getItem(LS_VOICE) || "";
   var history = [];   // {role:"user"|"assistant", text}
   var sending = false;
 
@@ -1663,17 +1654,12 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   function showChatUI(){
     if(apiKey){
       chatSetup.style.display="none";
-      chatMessages.classList.add("show"); chatInputRow.classList.add("show"); chatVoiceRow.classList.add("show");
+      chatMessages.classList.add("show"); chatInputRow.classList.add("show");
     } else {
       chatSetup.style.display="flex";
-      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show"); chatVoiceRow.classList.remove("show");
+      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show");
     }
   }
-  voiceSel.addEventListener("change", function(){
-    savedVoiceURI = voiceSel.value;
-    localStorage.setItem(LS_VOICE, savedVoiceURI);
-    chosenVoice = allVoices.filter(function(v){ return v.voiceURI===savedVoiceURI; })[0] || chosenVoice;
-  });
   providerSel.value = provider;
   updateMuteBtn();
   showChatUI();
@@ -1807,60 +1793,40 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
   };
 
-  // ---- voice: prefer whatever OS-level "enhanced/premium/neural" tier voice
-  // is installed -- those are the ones that don't sound like a screen reader.
-  // The default compact voices most browsers fall back to are the robotic-
-  // sounding ones; rate/pitch left at natural defaults, since pushing either
-  // away from 1.0 is what makes a synthetic voice sound MORE artificial, not
-  // more expressive. ----
-  // Heuristics can only rank what's actually installed -- most OSes ship a
-  // robotic-sounding compact voice by default and hide the genuinely natural
-  // "enhanced/premium/neural" ones behind a one-time download (macOS: System
-  // Settings -> Accessibility -> Spoken Content -> System Voice -> Manage
-  // Voices). No amount of rate/pitch tweaking fixes that gap, so: auto-pick
-  // the best-scoring guess, but also expose every installed voice in a
-  // dropdown so you can just pick whichever one actually sounds right.
-  var chosenVoice = null, allVoices = [];
-  function scoreVoice(v){
-    var n = v.name, s = 0;
-    if(/en/i.test(v.lang)) s += 1;
-    if(/enhanced|premium|neural|natural/i.test(n)) s += 6;
-    if(/Samantha|Ava|Serena|Zoe|Allison|Nicky|Karen|Moira|Tessa/i.test(n)) s += 3;
-    if(/female/i.test(n)) s += 1;
-    if(/compact/i.test(n)) s -= 3;
-    return s;
-  }
+  // ---- voice: locked to "Ralph" -- picked and settled on directly, no more
+  // heuristic guessing or a dropdown to fuss with. ----
+  var chosenVoice = null;
   function pickVoice(){
     if(!window.speechSynthesis) return;
     var voices = window.speechSynthesis.getVoices();
     if(!voices.length) return;
-    allVoices = voices;
-    chosenVoice = voices.slice().sort(function(a,b){ return scoreVoice(b)-scoreVoice(a); })[0] || voices[0];
-    var saved = voices.filter(function(v){ return v.voiceURI===savedVoiceURI; })[0];
-    if(saved) chosenVoice = saved;
-    // repopulate the dropdown, ranked best-guess first, keeping the current selection
-    voiceSel.innerHTML = "";
-    voices.slice().sort(function(a,b){ return scoreVoice(b)-scoreVoice(a); }).forEach(function(v){
-      var o = document.createElement("option");
-      o.value = v.voiceURI; o.textContent = v.name + " (" + v.lang + ")";
-      if(v.voiceURI === chosenVoice.voiceURI) o.selected = true;
-      voiceSel.appendChild(o);
-    });
+    chosenVoice = voices.filter(function(v){ return /ralph/i.test(v.name) && /en-US/i.test(v.lang); })[0]
+      || voices.filter(function(v){ return /ralph/i.test(v.name); })[0]
+      || voices[0];
   }
   if(window.speechSynthesis){ pickVoice(); window.speechSynthesis.onvoiceschanged = pickVoice; }
-  function speak(text){
-    if(muted || !window.speechSynthesis || !text.trim()) return;
+  // speak() splits into clauses (not just sentences) so there's a breath-like
+  // gap at each pause, and reports back exactly when each clause STARTS via
+  // the browser's own utterance event -- onClauseStart -- rather than
+  // guessing at timing, so anything synced to it (the graph jump queue)
+  // tracks Ralph's actual cadence instead of a blind timer.
+  function speak(text, onClauseStart, onAllDone){
+    if(!window.speechSynthesis){ if(onAllDone) onAllDone(); return; }
     window.speechSynthesis.cancel();
-    // one utterance per clause (not just per sentence) -- the brief gap at
-    // each pause reads as a breath instead of a flat, unbroken run
-    var clauses = text.match(/[^,.!?;]+[,.!?;]*/g) || [text];
-    clauses.forEach(function(s){
-      s = s.trim(); if(!s) return;
+    var clauses = (text.match(/[^,.!?;]+[,.!?;]*/g) || [text]).map(function(s){ return s.trim(); }).filter(Boolean);
+    if(!clauses.length || muted){ if(onAllDone) onAllDone(); return; }
+    var i = 0;
+    function next(){
+      if(i>=clauses.length){ if(onAllDone) onAllDone(); return; }
+      var s = clauses[i++];
       var u = new SpeechSynthesisUtterance(s);
       if(chosenVoice) u.voice = chosenVoice;
       u.rate = 0.93; u.pitch = 1.0;
+      u.onstart = function(){ if(onClauseStart) onClauseStart(s); };
+      u.onend = next; u.onerror = next;
       window.speechSynthesis.speak(u);
-    });
+    }
+    next();
   }
 
   // ---- mention detection: as the answer streams in, check for note names
@@ -1898,7 +1864,12 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // pictures hanging off it, swing by one of those too -- so a multi-topic
   // answer reads as a little tour of the graph, not just one popup replaced by
   // the next with the camera sitting still. Queued (not fired all at once)
-  // since flyTo() is a ~0.3-0.8s animation and overlapping calls fight it. ----
+  // since flyTo() is a ~0.3-0.8s animation and overlapping calls fight it.
+  // New mentions only get pushed onto this queue as each speech clause
+  // actually STARTS (see speak()'s onClauseStart below), so the tour tracks
+  // Ralph's real cadence rather than racing ahead of him; the pacing between
+  // jumps here is doubled on top of that so it never finishes well before he
+  // does even on a short reply. ----
   var jumpQueue = [], jumpRunning = false, jumpVisitedImage = {};
   function queueJump(idx){ jumpQueue.push(idx); if(!jumpRunning) runJumpQueue(); }
   function runJumpQueue(){
@@ -1916,7 +1887,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
         if(m.shellR!=null && !jumpVisitedImage[m.i]){ jumpVisitedImage[m.i]=true; jumpQueue.unshift(m.i); break; }
       }
     }
-    setTimeout(runJumpQueue, 900);
+    setTimeout(runJumpQueue, 1800);
   }
 
   function sendMessage(){
@@ -1949,8 +1920,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);
     var aiDiv = addMessage("ai", "");
-    var full = "", found = {};
-    jumpVisitedImage = {};   // fresh per reply -- don't skip an image just because a past reply visited it
+    var full = "";
     var adapter = PROVIDERS[provider];
     if(!adapter){ aiDiv.textContent = "unknown provider."; sending=false; return; }
     adapter(messages, function(delta){
@@ -1959,10 +1929,18 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       full += delta.toLowerCase();
       aiDiv.textContent = full;
       chatMessages.scrollTop = chatMessages.scrollHeight;
-      scanForMentions(full, found, function(idx){ queueJump(idx); });
+      // graph jumps are NOT fired here -- they're synced to when Ralph
+      // actually speaks each clause, below, not to how fast the text streams in
     }, function(){
       history.push({role:"assistant", text:full});
-      speak(full);
+      var found = {};
+      jumpVisitedImage = {};   // fresh per reply -- don't skip an image just because a past reply visited it
+      speak(full, function(clause){
+        // fires the instant this clause STARTS being spoken -- queue a jump for
+        // any mention that's new as of this clause, so the graph moves in step
+        // with Ralph's own cadence instead of racing ahead of or lagging him
+        scanForMentions(clause, found, function(idx){ queueJump(idx); });
+      });
       sending = false;
     }, function(err){
       aiDiv.textContent = (full?full+"\n\n":"") + "[couldn't reach "+provider+": "+err.message+"]";

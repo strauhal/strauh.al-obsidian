@@ -1608,7 +1608,11 @@ searchInput.addEventListener("keydown",function(e){
   }
 });
 window.addEventListener("keydown",function(e){
-  if(e.target===searchInput) return;
+  // don't hijack keystrokes meant for any text field (search, chat, API key
+  // entry, etc.) -- typing "r" or "/" while chatting shouldn't reset the view
+  // or pop open search out from under you
+  var tag = e.target && e.target.tagName;
+  if(tag==="INPUT" || tag==="TEXTAREA" || (e.target && e.target.isContentEditable)) return;
   if(e.key==="/"){ e.preventDefault(); openSearch(); }
   else if(e.key==="r"||e.key==="R"){ flyHome(); }
   else if(e.key==="Escape"){ focusNode=null;searchSet=null;hoverNode=null;computeHighlight();closeSearch();closeInfo();requestDraw(); }
@@ -1777,28 +1781,42 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
   };
 
-  // ---- voice: best available "assistant"-flavoured system voice, not literally
-  // Siri (no browser exposes that), but the closest natural analogue ----
+  // ---- voice: prefer whatever OS-level "enhanced/premium/neural" tier voice
+  // is installed -- those are the ones that don't sound like a screen reader.
+  // The default compact voices most browsers fall back to are the robotic-
+  // sounding ones; rate/pitch left at natural defaults, since pushing either
+  // away from 1.0 is what makes a synthetic voice sound MORE artificial, not
+  // more expressive. ----
   var chosenVoice = null;
   function pickVoice(){
     if(!window.speechSynthesis) return;
     var voices = window.speechSynthesis.getVoices();
     if(!voices.length) return;
-    var pref = voices.filter(function(v){ return /en/i.test(v.lang); })
-      .sort(function(a,b){
-        function score(v){ return /Samantha|Siri|Ava|Nicky|Karen|Female/i.test(v.name) ? 2 : (/Google|Natural/i.test(v.name)?1:0); }
-        return score(b)-score(a);
-      });
-    chosenVoice = pref[0] || voices[0];
+    function score(v){
+      var n = v.name, s = 0;
+      if(/en/i.test(v.lang)) s += 1;
+      if(/enhanced|premium|neural|natural/i.test(n)) s += 6;
+      if(/Samantha|Ava|Serena|Zoe|Allison|Nicky|Karen|Moira|Tessa/i.test(n)) s += 3;
+      if(/female/i.test(n)) s += 1;
+      if(/compact/i.test(n)) s -= 3;
+      return s;
+    }
+    chosenVoice = voices.slice().sort(function(a,b){ return score(b)-score(a); })[0] || voices[0];
   }
   if(window.speechSynthesis){ pickVoice(); window.speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(text){
     if(muted || !window.speechSynthesis || !text.trim()) return;
     window.speechSynthesis.cancel();
-    var u = new SpeechSynthesisUtterance(text);
-    if(chosenVoice) u.voice = chosenVoice;
-    u.rate = 1.03; u.pitch = 1.06;
-    window.speechSynthesis.speak(u);
+    // one utterance per sentence, not one long blob -- the small gap between
+    // utterances reads as a natural breath/pause instead of a flat monotone run
+    var sentences = text.match(/[^.!?]+[.!?]*/g) || [text];
+    sentences.forEach(function(s){
+      s = s.trim(); if(!s) return;
+      var u = new SpeechSynthesisUtterance(s);
+      if(chosenVoice) u.voice = chosenVoice;
+      u.rate = 0.97; u.pitch = 1.0;
+      window.speechSynthesis.speak(u);
+    });
   }
 
   // ---- mention detection: as the answer streams in, check for note names
@@ -1840,12 +1858,20 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     history.push({role:"user", text:q});
 
     var context = buildContext(retrieve(q));
-    var sysPrompt = "You're a warm, casual conversational guide to Ernest's personal knowledge graph -- his "+
-      "diary, reading, art archive, and ideas, pulled from his real notes below. Answer naturally, like a "+
-      "friend who just happens to know this stuff well -- don't announce that you're consulting a database "+
-      "or a knowledge base, don't over-cite, just weave in specifics naturally. When you do reference a "+
-      "specific note, mention its exact title somewhere in your sentence so it can be found and shown. Keep "+
-      "answers conversational and fairly short (a few sentences) unless asked for more.\n\nRelevant notes:\n"+
+    var sysPrompt = "You ARE Ernest Strauhal, talking directly to whoever's asking -- first person, always "+
+      "\"I,\" never \"he\" or \"Ernest\" or third person, and never refer to yourself as an AI, assistant, "+
+      "archive, or knowledge graph. The notes below are pulled from your own real diary, reading, art "+
+      "archive, and ideas -- they're your memory, not a database you're consulting. Talk like you'd "+
+      "actually talk: dry, understated, a little wry, never chipper or enthusiastic, never sounding like a "+
+      "helpful assistant.\n\n"+
+      "Keep it SHORT -- one or two sentences, sometimes just a phrase. Never a paragraph.\n\n"+
+      "Don't dump everything you know in one reply. If the question is broad or vague (\"tell me about "+
+      "yourself,\" \"what are you into\"), give a small, specific, slightly withholding answer -- one real "+
+      "detail, not a summary -- the kind of thing that makes someone want to ask a follow-up, not a rundown. "+
+      "But if the question is specific and someone's clearly and genuinely asking for a real answer, just "+
+      "give it straight -- don't be coy or dodge a direct question, that's a different kind of annoying. "+
+      "When you do reference a specific note, mention its exact title somewhere in the sentence so it can "+
+      "be found and shown.\n\nRelevant notes:\n"+
       (context || "(nothing closely matched -- answer from a general sense of the archive, or say you're not sure)");
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);

@@ -462,6 +462,11 @@ TEMPLATE = r"""<!DOCTYPE html>
   #chatInputRow.show{display:flex;}
   #chatInputRow input{flex:1;}
   #chatMute.muted{opacity:.4;}
+  #chatVoiceRow{display:none;padding:0 10px;flex:0 0 auto;}
+  #chatVoiceRow.show{display:block;}
+  #chatVoice{width:100%;background:transparent;border:1px solid var(--line);color:#fff;
+    padding:5px 8px;font-size:11px;font-family:inherit;outline:none;}
+  #chatVoice option{color:#000;}
 </style>
 </head>
 <body>
@@ -487,6 +492,9 @@ TEMPLATE = r"""<!DOCTYPE html>
     <button id="chatKeySave">connect</button>
   </div>
   <div id="chatMessages"></div>
+  <div id="chatVoiceRow">
+    <select id="chatVoice" title="voice"></select>
+  </div>
   <div id="chatInputRow">
     <input id="chatText" type="text" placeholder="ask about anything in here…" autocomplete="off" spellcheck="false">
     <button id="chatSend">send</button>
@@ -1272,9 +1280,17 @@ window.addEventListener("mouseup", function(e){
     dragNode=null; setCursor("pointer"); reheat(0.3);
   } else if(rotating){
     rotating=false; setCursor("grab");
-    // a plain click that landed on an image (not draggable, but still clickable)
-    // opens it, same as clicking a core node would
-    if(!moved){ if(pickedAtDown) openInfo(pickedAtDown); else blankClick(); }
+    if(!moved){
+      // With thousands of nodes packed in, "empty space" barely exists -- a
+      // click meant to dismiss the open popup would otherwise almost always
+      // land near some other node and just swap to ITS popup instead. So:
+      // while a popup is already open, any plain click anywhere just closes
+      // it (like clicking outside a modal), full stop. Only when nothing is
+      // open yet does a click actually pick whatever's under the cursor.
+      if(infoEl.classList.contains("open")) blankClick();
+      else if(pickedAtDown) openInfo(pickedAtDown);
+      else blankClick();
+    }
   } else if(panning){
     panning=false; setCursor("grab");
     if(!moved) blankClick();   // right-click on empty space
@@ -1333,8 +1349,11 @@ cv.addEventListener("touchend",function(e){
     if(dragNode){
       if(!touchMoved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // tap = open note; drag = stay pinned
       dragNode=null;
-    } else if(rotating && !touchMoved && pickedAtDown){
-      openInfo(pickedAtDown);   // a tap that landed on an image (not draggable) still opens it
+    } else if(rotating && !touchMoved){
+      // same "tap outside closes it" rule as the desktop click handler above
+      if(infoEl.classList.contains("open")) blankClick();
+      else if(pickedAtDown) openInfo(pickedAtDown);
+      else blankClick();
     }
     rotating=false; panning=false; touchState=null; reheat(0.2);
   }
@@ -1628,13 +1647,15 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 // highlight-sync all run against the DATA already loaded for the graph itself,
 // no server round-trip beyond the LLM call. ----------
 (function(){
-  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted";
+  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted", LS_VOICE="brainChatVoiceURI";
   var chatWrap=$("chatwrap"), chatSetup=$("chatSetup"), chatMessages=$("chatMessages"),
-      chatInputRow=$("chatInputRow"), providerSel=$("chatProvider"), keyInput=$("chatKeyInput"),
+      chatInputRow=$("chatInputRow"), chatVoiceRow=$("chatVoiceRow"), voiceSel=$("chatVoice"),
+      providerSel=$("chatProvider"), keyInput=$("chatKeyInput"),
       keySave=$("chatKeySave"), chatText=$("chatText"), chatSend=$("chatSend"), chatMute=$("chatMute");
   var apiKey = localStorage.getItem(LS_KEY) || "";
   var provider = localStorage.getItem(LS_PROVIDER) || "gemini";
   var muted = localStorage.getItem(LS_MUTE) === "1";
+  var savedVoiceURI = localStorage.getItem(LS_VOICE) || "";
   var history = [];   // {role:"user"|"assistant", text}
   var sending = false;
 
@@ -1642,12 +1663,17 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   function showChatUI(){
     if(apiKey){
       chatSetup.style.display="none";
-      chatMessages.classList.add("show"); chatInputRow.classList.add("show");
+      chatMessages.classList.add("show"); chatInputRow.classList.add("show"); chatVoiceRow.classList.add("show");
     } else {
       chatSetup.style.display="flex";
-      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show");
+      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show"); chatVoiceRow.classList.remove("show");
     }
   }
+  voiceSel.addEventListener("change", function(){
+    savedVoiceURI = voiceSel.value;
+    localStorage.setItem(LS_VOICE, savedVoiceURI);
+    chosenVoice = allVoices.filter(function(v){ return v.voiceURI===savedVoiceURI; })[0] || chosenVoice;
+  });
   providerSel.value = provider;
   updateMuteBtn();
   showChatUI();
@@ -1787,34 +1813,52 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // sounding ones; rate/pitch left at natural defaults, since pushing either
   // away from 1.0 is what makes a synthetic voice sound MORE artificial, not
   // more expressive. ----
-  var chosenVoice = null;
+  // Heuristics can only rank what's actually installed -- most OSes ship a
+  // robotic-sounding compact voice by default and hide the genuinely natural
+  // "enhanced/premium/neural" ones behind a one-time download (macOS: System
+  // Settings -> Accessibility -> Spoken Content -> System Voice -> Manage
+  // Voices). No amount of rate/pitch tweaking fixes that gap, so: auto-pick
+  // the best-scoring guess, but also expose every installed voice in a
+  // dropdown so you can just pick whichever one actually sounds right.
+  var chosenVoice = null, allVoices = [];
+  function scoreVoice(v){
+    var n = v.name, s = 0;
+    if(/en/i.test(v.lang)) s += 1;
+    if(/enhanced|premium|neural|natural/i.test(n)) s += 6;
+    if(/Samantha|Ava|Serena|Zoe|Allison|Nicky|Karen|Moira|Tessa/i.test(n)) s += 3;
+    if(/female/i.test(n)) s += 1;
+    if(/compact/i.test(n)) s -= 3;
+    return s;
+  }
   function pickVoice(){
     if(!window.speechSynthesis) return;
     var voices = window.speechSynthesis.getVoices();
     if(!voices.length) return;
-    function score(v){
-      var n = v.name, s = 0;
-      if(/en/i.test(v.lang)) s += 1;
-      if(/enhanced|premium|neural|natural/i.test(n)) s += 6;
-      if(/Samantha|Ava|Serena|Zoe|Allison|Nicky|Karen|Moira|Tessa/i.test(n)) s += 3;
-      if(/female/i.test(n)) s += 1;
-      if(/compact/i.test(n)) s -= 3;
-      return s;
-    }
-    chosenVoice = voices.slice().sort(function(a,b){ return score(b)-score(a); })[0] || voices[0];
+    allVoices = voices;
+    chosenVoice = voices.slice().sort(function(a,b){ return scoreVoice(b)-scoreVoice(a); })[0] || voices[0];
+    var saved = voices.filter(function(v){ return v.voiceURI===savedVoiceURI; })[0];
+    if(saved) chosenVoice = saved;
+    // repopulate the dropdown, ranked best-guess first, keeping the current selection
+    voiceSel.innerHTML = "";
+    voices.slice().sort(function(a,b){ return scoreVoice(b)-scoreVoice(a); }).forEach(function(v){
+      var o = document.createElement("option");
+      o.value = v.voiceURI; o.textContent = v.name + " (" + v.lang + ")";
+      if(v.voiceURI === chosenVoice.voiceURI) o.selected = true;
+      voiceSel.appendChild(o);
+    });
   }
   if(window.speechSynthesis){ pickVoice(); window.speechSynthesis.onvoiceschanged = pickVoice; }
   function speak(text){
     if(muted || !window.speechSynthesis || !text.trim()) return;
     window.speechSynthesis.cancel();
-    // one utterance per sentence, not one long blob -- the small gap between
-    // utterances reads as a natural breath/pause instead of a flat monotone run
-    var sentences = text.match(/[^.!?]+[.!?]*/g) || [text];
-    sentences.forEach(function(s){
+    // one utterance per clause (not just per sentence) -- the brief gap at
+    // each pause reads as a breath instead of a flat, unbroken run
+    var clauses = text.match(/[^,.!?;]+[,.!?;]*/g) || [text];
+    clauses.forEach(function(s){
       s = s.trim(); if(!s) return;
       var u = new SpeechSynthesisUtterance(s);
       if(chosenVoice) u.voice = chosenVoice;
-      u.rate = 0.97; u.pitch = 1.0;
+      u.rate = 0.93; u.pitch = 1.0;
       window.speechSynthesis.speak(u);
     });
   }

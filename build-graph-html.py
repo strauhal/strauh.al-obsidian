@@ -1694,13 +1694,27 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // directly instead of relying on keyword overlap for them.
   var ARTWORK_NAME_RE = /\bby\s+[^(]{2,40}\(\s*c?\.?\s*\d{3,4}/i;
   var VISUAL_REQUEST_RE = /\b(photo|photograph|picture|painting|paintings|artwork|drawing|illustration|image|images)\b/i;
-  function sampleArtworks(n){
+  // BUG this was fixing: this previously picked by a formula depending only
+  // on the loop index and pool size -- both constant across every call -- so
+  // it silently returned the exact same handful of artworks (always Rubens,
+  // always the same Blumenfeld photo) no matter what was actually asked.
+  // Now: if the query names an actual subject (dogs, cats, whatever), search
+  // for artworks whose title genuinely matches that first; only for a truly
+  // generic "show me a painting" with nothing to go on does it fall back to
+  // a real (Math.random-based, different every call) sample.
+  function sampleArtworks(n, terms){
     var pool = [];
     for(var i=0;i<N;i++){ if(nodes[i].shellR!=null && ARTWORK_NAME_RE.test(nodes[i].name)) pool.push(i); }
-    var out = [];
-    for(var k=0;k<n && pool.length;k++){
-      var pick = ((k*2654435761 + pool.length)>>>0) % pool.length;
-      out.push(pool.splice(pick, 1)[0]);
+    if(terms && terms.length){
+      var relevant = pool.filter(function(i){
+        var nm = nodes[i].name.toLowerCase();
+        return terms.some(function(t){ return nm.indexOf(t)!==-1; });
+      });
+      if(relevant.length) pool = relevant;
+    }
+    var copy = pool.slice(), out = [];
+    for(var k=0;k<n && copy.length;k++){
+      out.push(copy.splice(Math.floor(Math.random()*copy.length), 1)[0]);
     }
     return out;
   }
@@ -1720,7 +1734,11 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
     var idxs = scored.slice(0,8).map(function(s){ return s[1]; });
     if(VISUAL_REQUEST_RE.test(query)){
-      sampleArtworks(6).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
+      // strip the generic visual-request words themselves before treating
+      // what's left as a "subject" to search artworks for -- "paintings of
+      // dogs and cats" should search for dog/cat art, not "paintings" art
+      var subjectTerms = terms.filter(function(t){ return !VISUAL_REQUEST_RE.test(t); });
+      sampleArtworks(6, subjectTerms).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
     }
     return idxs;
   }

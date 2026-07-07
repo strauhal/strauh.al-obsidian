@@ -1881,13 +1881,31 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     // a mentioned concept/person/etc that isn't itself an image -- if it has
     // pictures attached, queue one of them right behind it
     if(n.shellR==null){
-      var nb = adj[idx]||[];
-      for(var i=0;i<nb.length;i++){
-        var m = nodes[nb[i]];
-        if(m.shellR!=null && !jumpVisitedImage[m.i]){ jumpVisitedImage[m.i]=true; jumpQueue.unshift(m.i); break; }
-      }
+      var pic = pickRelevantImage(idx);
+      if(pic){ jumpVisitedImage[pic.i]=true; jumpQueue.unshift(pic.i); }
     }
     setTimeout(runJumpQueue, 1800);
+  }
+  // adj[idx] is in whatever arbitrary order the underlying edges happened to
+  // be discovered in -- NOT ranked by relevance, so "just take the first
+  // image neighbor" was pulling up connections that only share a crosslink's
+  // vaguest "shared language" match, i.e. genuinely random-looking pictures.
+  // Score every connected image by literal word-overlap with the mentioned
+  // node's own name instead, and only attach one if something actually
+  // overlaps -- silence (no image) beats a weakly-related one.
+  function pickRelevantImage(idx){
+    var nb = adj[idx]||[];
+    var nameTerms = nodes[idx].name.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
+    if(!nameTerms.length) return null;
+    var best = null, bestScore = 0;
+    for(var i=0;i<nb.length;i++){
+      var m = nodes[nb[i]];
+      if(m.shellR==null || jumpVisitedImage[m.i]) continue;
+      var mLower = m.name.toLowerCase(), score = 0;
+      for(var t=0;t<nameTerms.length;t++){ if(mLower.indexOf(nameTerms[t])!==-1) score++; }
+      if(score>bestScore){ bestScore=score; best=m; }
+    }
+    return best;
   }
 
   function sendMessage(){

@@ -957,11 +957,14 @@ function flyTo(n){
   stopAutoFit();
   focusNode=n; hoverNode=null; searchSet=null; computeHighlight();
   var targetK = Math.max(0.95, Math.min(1.7, view.k<0.55 ? 1.15 : view.k*1.25));
+  // "already close" means the node is already visible on screen (not clipped at
+  // the edges) at a zoom level in the ballpark of where flyTo would land it --
+  // i.e. you were already looking at it, not that it's dead-centre.
   var alreadyClose = false;
   if(n._sx!==undefined){
-    var ddx=n._sx-W/2, ddy=n._sy-H/2;
-    var dist=Math.sqrt(ddx*ddx+ddy*ddy);
-    alreadyClose = dist < Math.min(W,H)*0.22 && view.k >= targetK*0.85;
+    var onScreen = n._sx>W*0.12 && n._sx<W*0.88 && n._sy>H*0.12 && n._sy<H*0.88;
+    var zoomClose = view.k >= targetK*0.6 && view.k <= targetK*1.4;
+    alreadyClose = onScreen && zoomClose;
   }
   flight = {
     mode:'node', t0: nowMs(), dur: alreadyClose ? 260 : 780, soft: alreadyClose,

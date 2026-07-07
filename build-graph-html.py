@@ -570,10 +570,17 @@ function clampPitch(p){ return p<-1.35?-1.35:(p>1.35?1.35:p); }
 // camera distance for the CURRENT zoom: as you zoom in (k>fitK) the camera dollies
 // closer (FOCAL shrinks) so perspective strengthens and you fly forward through depth.
 // The low floor keeps the dolly progressive across the whole zoom range.
-function effFocal(){ return Math.max(MAXD*0.25, Math.min(FOCAL_BASE, FOCAL_BASE*fitK/view.k)); }
-// perspective scale for a node at rotated depth z; clamp the denominator so very near
-// nodes magnify hard (fly past) without inverting / going behind the camera.
-function perspOf(z){ var d=FOCAL+z, m=FOCAL*0.14; return FOCAL/(d<m?m:d); }
+// floor raised from 0.25 -> 0.45: at high zoom the old floor let a node's depth
+// get close enough to -FOCAL that perspOf's clamp kicked in hard and often,
+// which read as the whole web "folding" through itself mid-rotation.
+function effFocal(){ return Math.max(MAXD*0.45, Math.min(FOCAL_BASE, FOCAL_BASE*fitK/view.k)); }
+// perspective scale for a node at rotated depth z. Two safeguards against the
+// "folding" artifact: a much gentler near-plane clamp (0.35 instead of 0.14, so
+// the denominator never gets razor-thin), and a hard cap on the resulting
+// magnification -- no single node can balloon past ~2.2x, so a node sweeping
+// through the near side of a rotation eases up smoothly instead of suddenly
+// snapping huge.
+function perspOf(z){ var d=FOCAL+z, m=FOCAL*0.35; return Math.min(2.2, FOCAL/(d<m?m:d)); }
 // idle "living" animation energy: 1 = spinning, 0 = still. Eased, never snapped.
 var idleTarget=1, idleEnergy=1, autoPitchPrev=0;
 // breathing (node drift) is gated by ZOOM, not interaction: alive when viewing from a
@@ -1121,6 +1128,7 @@ function stepFlight(){
 
 // ---------- interaction ----------
 var dragNode=null, dragZ=0, panning=false, rotating=false, last={x:0,y:0}, downAt=null, moved=false;
+var pickedAtDown=null;   // whatever pickNode found at gesture start, draggable or not (for click-to-open)
 
 // pick using PROJECTED screen positions (works while rotated in pseudo-3D)
 function pickNode(sx,sy){
@@ -1153,8 +1161,13 @@ cv.addEventListener("mousedown", function(e){
     panning=true; setCursor("grabbing"); e.preventDefault(); return;
   }
   var n=pickNode(e.clientX,e.clientY);
-  if(n){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
-  else { rotating=true; setCursor("grabbing"); }   // left-drag on empty = rotate 3D
+  pickedAtDown=n;
+  // Images are numerous enough to blanket the whole view -- don't let clicking
+  // near one hijack what's meant to be a camera-rotate drag. Only core
+  // (knowledge-base) nodes are drag-repositionable; an image still opens on a
+  // plain click (handled in mouseup below), it just never captures the drag.
+  if(n && n.shellR==null){ dragNode=n; dragZ=n._z; n.fx=n.x; n.fy=n.y; n.fz=n.z; reheat(0.45); setCursor("grabbing"); }
+  else { rotating=true; setCursor("grabbing"); }   // left-drag on empty (or an image) = rotate 3D
 });
 window.addEventListener("mousemove", function(e){
   if(rotating){
@@ -1189,7 +1202,9 @@ window.addEventListener("mouseup", function(e){
     dragNode=null; setCursor("pointer"); reheat(0.3);
   } else if(rotating){
     rotating=false; setCursor("grab");
-    if(!moved) blankClick();   // left-click on empty space
+    // a plain click that landed on an image (not draggable, but still clickable)
+    // opens it, same as clicking a core node would
+    if(!moved){ if(pickedAtDown) openInfo(pickedAtDown); else blankClick(); }
   } else if(panning){
     panning=false; setCursor("grab");
     if(!moved) blankClick();   // right-click on empty space
@@ -1214,7 +1229,8 @@ cv.addEventListener("touchstart",function(e){
   if(e.touches.length===1){ var t=e.touches[0];
     touchStart={x:t.clientX,y:t.clientY}; touchMoved=false;
     var n=pickNode(t.clientX,t.clientY);
-    if(n){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
+    pickedAtDown=n;
+    if(n && n.shellR==null){dragNode=n;dragZ=n._z;n.fx=n.x;n.fy=n.y;n.fz=n.z;reheat(0.45);}
     else {rotating=true;}
     last={x:t.clientX,y:t.clientY};
   } else if(e.touches.length===2){
@@ -1247,6 +1263,8 @@ cv.addEventListener("touchend",function(e){
     if(dragNode){
       if(!touchMoved){ dragNode.fx=null; dragNode.fy=null; dragNode.fz=null; openInfo(dragNode); } // tap = open note; drag = stay pinned
       dragNode=null;
+    } else if(rotating && !touchMoved && pickedAtDown){
+      openInfo(pickedAtDown);   // a tap that landed on an image (not draggable) still opens it
     }
     rotating=false; panning=false; touchState=null; reheat(0.2);
   }

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Art Installation with Framed Drawings and Smaller Pieces b0d50e31|Photograph Art Installation with Framed Drawings and Smaller Pieces]] — shared language: smaller, drawings, framed
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches, alongside
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: alongside, line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: alongside, line
 - [[_archive/auto-generated/images-stale/framed abstract painting with red blue and black forms 8e25d9a8|framed abstract painting with red blue and black forms]] — shared language: framed, forms
-- [[_archive/auto-generated/images-stale/continuous line drawing of organic forms 2023 c6ec5dca|continuous line drawing of organic forms 2023]] — shared language: organic, forms, line
-- [[_archive/auto-generated/images-stale/framed black and white abstract painting with large oval forms f9980788|framed black and white abstract painting with large oval forms]] — shared language: framed, forms, large
 <!-- vault-crosslinks:end -->

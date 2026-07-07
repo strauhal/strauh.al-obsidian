@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Line Drawing of Pig with Snorkel Swimming Underwater Among Coral 5f6b07f6|Illustration Line Drawing of Pig with Snorkel Swimming Underwater Among Coral]] — shared language: snorkel, coral, underwater
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among, line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, line
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: among, life
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: among, line
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/henryk_siemiradz
 
 - [[knowledge/wiki/artists/Artist - henryk siemiradzki|Artist - henryk siemiradzki]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: martha
 - [[knowledge/wiki/images/the body of a christian martyr in the catacombs by henryk siemiradzki 1875 65488a8d|the body of a christian martyr in the catacombs by henryk siemiradzki 1875]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/nero s torches pochodnie nerona by henryk siemiradzki 1876 b23bab83|nero s torches pochodnie nerona by henryk siemiradzki 1876]] — shared language: henryk, siemiradzki
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: martha
 <!-- vault-crosslinks:end -->

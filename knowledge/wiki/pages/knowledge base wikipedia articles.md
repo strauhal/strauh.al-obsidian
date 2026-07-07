@@ -604,7 +604,7 @@ strauh.al/knowledge_base/wikipedia_articles
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 38 of 545 links connected (29 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 39 of 545 links connected (30 nodes).*
 
 **[[Art Fills the God-Shaped Hole]]** — [Sacred geometry](https://en.wikipedia.org/wiki/Sacred_geometry) · [Christ of Saint John of the Cross](https://en.wikipedia.org/wiki/Christ_of_Saint_John_of_the_Cross) · [God and Man at Yale](https://en.wikipedia.org/wiki/God_and_Man_at_Yale) · [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy) · [Unfulfilled Christian religious predictions](https://en.wikipedia.org/wiki/Unfulfilled_Christian_religious_predictions) · [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language#Shakespeare) · [Spiritual bypass](https://en.wikipedia.org/wiki/Spiritual_bypass) · [Religious views on capitalism](https://en.wikipedia.org/wiki/Religious_views_on_capitalism) · [God Shammgod](https://en.wikipedia.org/wiki/God_Shammgod) · [Soul City, NC](https://en.wikipedia.org/wiki/Soul_City,_North_Carolina)
 
@@ -650,6 +650,8 @@ strauh.al/knowledge_base/wikipedia_articles
 
 **[[Marcel Proust]]** — [Marcel Proust](https://en.wikipedia.org/wiki/Marcel_Proust)
 
+**[[Martha Argerich]]** — [Martha Argerich](https://en.wikipedia.org/wiki/Martha_Argerich)
+
 **[[Naked lunch]]** — [Naked Lunch](https://en.wikipedia.org/wiki/Naked_Lunch)
 
 **[[The Archive as Consciousness]]** — [Memex](https://en.wikipedia.org/wiki/Memex)
@@ -674,7 +676,7 @@ strauh.al/knowledge_base/wikipedia_articles
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 - [[knowledge/wiki/artists/Artist - john m kohlenberger|Artist - john m kohlenberger]] — named in this note
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
 <!-- vault-crosslinks:end -->

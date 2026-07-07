@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 - [[knowledge/wiki/images/Illustration Creature With Long Snout, Hat, And Staff In Tall Grass 78667003|Illustration Creature With Long Snout, Hat, And Staff In Tall Grass]] — shared language: grass, grass.png
 - [[knowledge/wiki/images/Horse In Snowy Landscape With Red Light 0ce214ea|Horse In Snowy Landscape With Red Light]] — shared language: horse

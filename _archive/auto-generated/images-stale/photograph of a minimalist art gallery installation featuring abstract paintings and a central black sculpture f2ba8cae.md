@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture 9c824eed|Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture]] — shared language: minimalist, paintings, gallery
 - [[knowledge/wiki/images/Photograph Photograph of two paintings featuring figures in red rooms e53637cd|Photograph Photograph of two paintings featuring figures in red rooms]] — shared language: paintings, featuring
 - [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: minimalist, gallery
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[_archive/auto-generated/images-stale/gallery photo of a reclining stone sculpture 94a15857|gallery photo of a reclining stone sculpture]] — shared language: gallery, sculpture, sculpture.jpeg
-- [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: paintings, gallery
 <!-- vault-crosslinks:end -->

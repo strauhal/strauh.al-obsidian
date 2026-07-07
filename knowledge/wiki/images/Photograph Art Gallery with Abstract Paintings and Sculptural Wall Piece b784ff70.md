@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Art
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: piece
 - [[knowledge/wiki/images/Illustration Contemporary Art Installation Featuring Painting and Sculptural Elements 2472759f|Illustration Contemporary Art Installation Featuring Painting and Sculptural Elements]] — shared language: sculptural
 - [[knowledge/wiki/images/Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture 9c824eed|Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture]] — shared language: paintings, gallery
-- [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: paintings, gallery
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: train
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: train
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 <!-- vault-crosslinks:end -->

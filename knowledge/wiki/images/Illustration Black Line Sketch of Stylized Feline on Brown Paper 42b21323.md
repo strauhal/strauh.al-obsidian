@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, line
 - [[knowledge/wiki/images/Illustration Stylized Black and White Feline Head with Chains and Stars bf4c90de|Illustration Stylized Black and White Feline Head with Chains and Stars]] — shared language: feline, stylized
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: sketch, stylized
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Human Skeleton Torso and Pelvis on Brown Paper a54c3664|Illustration Pencil Sketch of Human Skeleton Torso and Pelvis on Brown Paper]] — shared language: brown, paper, sketch
-- [[knowledge/wiki/images/Illustration Sketch Of A Figure On Horseback On Lined Paper 93013978|Illustration Sketch Of A Figure On Horseback On Lined Paper]] — shared language: paper, sketch, paper.jpeg
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Line Drawing of Man's Head and Armored Robot 49572eeb|Illustration Line Drawing of Man's Head and Armored Robot]] — shared language: armored, robot, head
 - [[knowledge/wiki/images/Illustration Line Drawing of Armored Mecha Figure in Action 236f9417|Illustration Line Drawing of Armored Mecha Figure in Action]] — shared language: mecha, armored, line
 - [[_archive/auto-generated/images-stale/line drawing of a heavily armored mecha figure in action 8273f61e|line drawing of a heavily armored mecha figure in action]] — shared language: mecha, armored, line
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
+- [[_archive/auto-generated/images-stale/black and white ink drawing of a horned armored mecha monster character b00ddbf7|black and white ink drawing of a horned armored mecha monster character]] — shared language: mecha, armored
 <!-- vault-crosslinks:end -->

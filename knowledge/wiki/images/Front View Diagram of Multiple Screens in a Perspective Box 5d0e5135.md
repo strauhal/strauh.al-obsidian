@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Front_View_Di
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: screens
 - [[knowledge/wiki/images/Screenshot Virtual Newsroom With Multiple Data Screens And Avatar 6750560e|Screenshot Virtual Newsroom With Multiple Data Screens And Avatar]] — shared language: screens, multiple
 - [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: perspective, diagram
 - [[knowledge/wiki/images/Diagram of Curved Screen Array Inside Dashed Box 0e9a9c74|Diagram of Curved Screen Array Inside Dashed Box]] — shared language: box, diagram, box.png
-- [[knowledge/wiki/images/Illustration Abstract Painting of Architectural Forms and a Brown Box aa8b5b85|Illustration Abstract Painting of Architectural Forms and a Brown Box]] — shared language: box
 <!-- vault-crosslinks:end -->

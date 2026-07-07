@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background 1a790fc0|Illustration Three Colorful Stylized Illustrations of Figures and Creatures on White Background]] — shared language: creatures
 - [[knowledge/wiki/images/Illustration Portrait of Hooded Figure Smoking with Swirling Smoke 0268f050|Illustration Portrait of Hooded Figure Smoking with Swirling Smoke]] — shared language: hooded
-- [[knowledge/wiki/images/Illustration Abstract Drawing of Stylized Flying Creatures and Objects bb4db2f9|Illustration Abstract Drawing of Stylized Flying Creatures and Objects]] — shared language: creatures
 <!-- vault-crosslinks:end -->

@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/bartholomeus_joh
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: dutch
 - [[knowledge/wiki/artists/Artist - johannes vermeer|Artist - johannes vermeer]] — shared language: johannes
-- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: van
 - [[knowledge/wiki/images/The Art of Painting by Johannes Vermeer (c. 1666 1668) 75172f11|The Art of Painting by Johannes Vermeer (c. 1666 1668)]] — shared language: johannes
 - [[knowledge/wiki/images/portrait of a young woman by johannes vermeer c 16651667 a9be5781|portrait of a young woman by johannes vermeer c 16651667]] — shared language: johannes
+- [[knowledge/wiki/images/johannes vermeer view of delft c 1660 1661 bd05bd82|johannes vermeer view of delft c 1660 1661]] — shared language: johannes
 <!-- vault-crosslinks:end -->

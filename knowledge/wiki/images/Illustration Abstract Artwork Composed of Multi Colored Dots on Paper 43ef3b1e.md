@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Multi Colored Pen Sketches of Three Faces 5588ce5b|Illustration Multi Colored Pen Sketches of Three Faces]] — shared language: multi, colored, multi-colored
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Face Composed of Figures bd6759f4|Illustration Black and White Ink Drawing of a Face Composed of Figures]] — shared language: composed
 - [[knowledge/wiki/images/Illustration Multi panel artwork depicting a surreal landscape with figures and text 7c8a85d2|Illustration Multi panel artwork depicting a surreal landscape with figures and text]] — shared language: artwork, multi
+- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of a Face Composed of Figures bd6759f4|Illustration Black and White Ink Drawing of a Face Composed of Figures]] — shared language: composed
 - [[knowledge/wiki/images/Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots 2feae159|Illustration Complex Symmetrical Geometric Design on Grid Paper with Lines and Dots]] — shared language: dots, paper
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, paper.jpeg
 <!-- vault-crosslinks:end -->

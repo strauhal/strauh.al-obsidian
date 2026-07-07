@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: model
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: panels, panels.jpeg
-- [[knowledge/wiki/images/Transparent Sign Showing Reconstructed Tower Over Ruins 4d0e4100|Transparent Sign Showing Reconstructed Tower Over Ruins]] — shared language: transparent
 <!-- vault-crosslinks:end -->

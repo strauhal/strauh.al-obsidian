@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Op
 - [[knowledge/wiki/images/Woman Combing Hair by Susan Kare (1984) 944ab1cb|Woman Combing Hair by Susan Kare (1984)]] — shared language: combing, hair
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: paintings, book
 - [[knowledge/wiki/images/Document Open Book Showing Black and White Tibetan Prayer Flag Illustration 85cb029a|Document Open Book Showing Black and White Tibetan Prayer Flag Illustration]] — shared language: showing, document, book
-- [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 <!-- vault-crosslinks:end -->

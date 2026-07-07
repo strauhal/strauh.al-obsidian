@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: mary
 - [[knowledge/wiki/images/Reliquary Bust of Mary Magdalene 1fc24f29|Reliquary Bust of Mary Magdalene]] — shared language: mary
 - [[knowledge/wiki/images/mary magdalene by moretto da brescia 1540 50 21639dd7|mary magdalene by moretto da brescia 1540 50]] — shared language: mary
-- [[knowledge/wiki/images/Illustration Byzantine Style Icon of Virgin Mary in Red Veil 7f905f23|Illustration Byzantine Style Icon of Virgin Mary in Red Veil]] — shared language: mary
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: mary
+- [[knowledge/wiki/images/Illustration Byzantine Style Icon of Virgin Mary in Red Veil 7f905f23|Illustration Byzantine Style Icon of Virgin Mary in Red Veil]] — shared language: mary
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: video
-- [[knowledge/wiki/images/Illustration Dynamic Sketch of Men and Bulls in Action bd65eb9a|Illustration Dynamic Sketch of Men and Bulls in Action]] — shared language: men, sketch
 <!-- vault-crosslinks:end -->

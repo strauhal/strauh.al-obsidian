@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: reality
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: reality
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: figurative
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: figurative
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: reality
 <!-- vault-crosslinks:end -->

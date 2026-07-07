@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: instrument
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: instrument
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[knowledge/wiki/images/still life with book by stuart davis 1922 baba5765|still life with book by stuart davis 1922]] — shared language: still, book, life
-- [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, life
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Diagram Black And White Diagram Of SWAT Officer Equipment 37635e6b|Diagram Black And White Diagram Of SWAT Officer Equipment]] — shared language: officer, equipment, equipment.png
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[_archive/auto-generated/images-stale/line drawing of five groups of abstract and geometric shapes labeled a through e illustration 9 2 53199ee3|line drawing of five groups of abstract and geometric shapes labeled a through e illustration 9 2]] — shared language: labeled, line
-- [[_archive/auto-generated/images-stale/Photograph Two Men Operating DJ Equipment At An Event f9b7c3fd|Photograph Two Men Operating DJ Equipment At An Event]] — shared language: equipment
 <!-- vault-crosslinks:end -->

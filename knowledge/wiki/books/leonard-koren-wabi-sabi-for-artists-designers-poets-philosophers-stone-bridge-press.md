@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/art-reading|art reading]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 - [[knowledge/wiki/books/oxford-world-s-classics-rene-descartes-michael-moriarty-meditations-first-philosophy-oxford-university-press-usa|Meditations First Philosophy-Oxford University Press, USA]] — same category: art aesthetics
+- [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — same category: art aesthetics
 - [[knowledge/wiki/books/sauer-notations-selections-part-1-2-1|Sauer-Notations-selections-part-1&2 (1)]] — same category: art aesthetics
 - [[knowledge/wiki/books/epub-golan-levin-tega-brain-code-as-creative-medium-a-handbook-for-computational-art-and-design-mit-press|Code as Creative Medium A Handbook for Computational Art and Design-MIT Press]] — same category: art aesthetics
-- [[knowledge/wiki/books/andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] — same category: art aesthetics
 - [[knowledge/wiki/books/ambient-art|Ambient art]] — same category: art aesthetics
 - [[knowledge/wiki/books/9009675-01-ab-9009700-01-art-as-a-form-of-reality|9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

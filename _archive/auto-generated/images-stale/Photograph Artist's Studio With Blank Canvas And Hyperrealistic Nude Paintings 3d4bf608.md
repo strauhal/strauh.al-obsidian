@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/artists-noise/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
 - [[knowledge/archive/auto-generated/artists-stale/Artist - hyperrealistic paintings of nude figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude, blank
 - [[_archive/auto-generated/images-stale/photograph of an artist s studio featuring a large blank canvas on an easel surrounded by hyperrealistic paintings of nude figures b93a17d4|photograph of an artist s studio featuring a large blank canvas on an easel surrounded by hyperrealistic paintings of nude figures]] — shared language: blank, canvas, paintings
-- [[knowledge/archive/auto-generated/anchors-stale/artist-hyperrealistic-paintings-of-nude-figures|Artist - hyperrealistic paintings of nude figures]] — shared language: paintings, nude
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: artist's, paintings
 <!-- vault-crosslinks:end -->

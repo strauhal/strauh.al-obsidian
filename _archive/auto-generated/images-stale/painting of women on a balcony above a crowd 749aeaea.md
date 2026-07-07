@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
+- [[_archive/auto-generated/images-stale/framed painting of a woman leaning on a balcony e96b994f|framed painting of a woman leaning on a balcony]] — shared language: balcony
 - [[knowledge/wiki/images/Performer On Suspended Stage Above Crowd At Concert 99525c2c|Performer On Suspended Stage Above Crowd At Concert]] — shared language: crowd, above
 - [[_archive/auto-generated/images-stale/Photograph Performer On Suspended Stage Above Crowd At Concert e91f3354|Photograph Performer On Suspended Stage Above Crowd At Concert]] — shared language: crowd, above
-- [[_archive/auto-generated/images-stale/framed painting of a woman leaning on a balcony e96b994f|framed painting of a woman leaning on a balcony]] — shared language: balcony
 <!-- vault-crosslinks:end -->

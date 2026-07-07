@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - louis emile pean de grandchamps|Artist - louis emile pean de grandchamps]] — named in this note
 - [[knowledge/wiki/images/La Jeune Fille au Bouquet by Emile Frandsen (1970) 304f55e9|La Jeune Fille au Bouquet by Emile Frandsen (1970)]] — shared language: emile, fille, jeune
-- [[knowledge/wiki/images/portrait of a woman by jacques emile blanche 1895 a8a22c57|portrait of a woman by jacques emile blanche 1895]] — shared language: emile
 - [[knowledge/wiki/artists/Artist - jacques emile blanche|Artist - jacques emile blanche]] — shared language: emile
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques emile blanche 1895|Artist - jacques emile blanche 1895]] — shared language: emile
+- [[knowledge/wiki/images/portrait of a woman by jacques emile blanche 1895 a8a22c57|portrait of a woman by jacques emile blanche 1895]] — shared language: emile
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jacques louis david 1787|Artist - jacques louis david 1787]] — shared language: louis
 <!-- vault-crosslinks:end -->

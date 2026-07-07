@@ -43,5 +43,5 @@ strauh.al/knowledge_base/speed_racer
 - [[knowledge/wiki/images/Photograph Woman Sits in Cafe with Large Speed Racer Wall Art f9bd5a6e|Photograph Woman Sits in Cafe with Large Speed Racer Wall Art]] — shared language: racer, speed
 - [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
 - [[knowledge/wiki/culture/movie-speed-racer-2008|Watchlist - Speed Racer (2008)]] — shared language: racer, speed
-- [[knowledge/wiki/images/Speed Racer in the Mach 5 by Tatsuo Yoshida (1967 1968) eb0fc321|Speed Racer in the Mach 5 by Tatsuo Yoshida (1967 1968)]] — shared language: racer, speed
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, page
 <!-- vault-crosslinks:end -->

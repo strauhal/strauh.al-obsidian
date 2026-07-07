@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Young Girl
 
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: vintage
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: creation
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: creation
 - [[knowledge/wiki/images/GIRL (2019) 22df6850|GIRL (2019)]] — shared language: girl
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/books/nyt-our-oppenheimer-moment-the-creation-of-a-i-weapons|Our Oppenheimer Moment- The Creation of A.I. Weapons]] — shared language: creation
 <!-- vault-crosslinks:end -->

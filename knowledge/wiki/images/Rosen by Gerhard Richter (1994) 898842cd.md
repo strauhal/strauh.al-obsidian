@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Rosen by Gerhard
 
 - [[knowledge/wiki/images/Youth Portrait (Jugendbildnis) by Gerhard Richter (1988) 29732f94|Youth Portrait (Jugendbildnis) by Gerhard Richter (1988)]] — shared language: gerhard, richter
 - [[knowledge/wiki/images/Jalousie (Blinds) by Gerhard Richter (1971) c9fd959c|Jalousie (Blinds) by Gerhard Richter (1971)]] — shared language: gerhard, richter
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: richter
 - [[knowledge/wiki/anchors/sviatoslav-richter|Sviatoslav Richter]] — shared language: richter
-- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: richter
 - [[knowledge/wiki/culture/music-j-s-bach-the-well-tempered-clavier-books-i-ii|Listening - J. S. Bach: The Well-Tempered Clavier, Books I & II]] — shared language: richter
 <!-- vault-crosslinks:end -->

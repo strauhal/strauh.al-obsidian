@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Cat Sits A
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits, among
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, sits
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
-- [[knowledge/wiki/images/Photograph Bladee Sits Among His Abstract Paintings In Pink Hoodie f5a01d13|Photograph Bladee Sits Among His Abstract Paintings In Pink Hoodie]] — shared language: sits, among
 <!-- vault-crosslinks:end -->

@@ -37,5 +37,5 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/culture/reading-the-dark-enlightenment|Reading - The Dark Enlightenment]] — shared language: current, stronger, develops
 - [[knowledge/wiki/books/kandinsky-wassily-concerning-the-spiritual-in-art|Concerning the Spiritual in Art]] — shared language: spiritual
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
-- [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
+- [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: spiritual
 <!-- vault-crosslinks:end -->

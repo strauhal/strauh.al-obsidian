@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: leaves, flowers
 - [[knowledge/wiki/images/Illustration Line Drawing of Succulent Plants on Textured Paper 64a93c3d|Illustration Line Drawing of Succulent Plants on Textured Paper]] — shared language: plants, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/images/Two Cluster Flowers Among Long Leaves 45f88fe6|Two Cluster Flowers Among Long Leaves]] — shared language: leaves, flowers
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 <!-- vault-crosslinks:end -->

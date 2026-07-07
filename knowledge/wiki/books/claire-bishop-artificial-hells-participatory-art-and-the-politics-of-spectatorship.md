@@ -51,7 +51,7 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/e-h-gombrich-the-story-of-art|The Story of Art]] — same category: art aesthetics
 - [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — same category: art aesthetics
 - [[knowledge/wiki/books/melanie-mitchell-artificial-intelligence-a-guide-for-thinking-humans-picador|Artificial Intelligence A Guide for Thinking Humans-Picador]] — same category: art aesthetics
-- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception|Art and Visual Perception]] — same category: art aesthetics
 - [[knowledge/wiki/books/max-tegmark-life-3-0-being-human-in-the-age-of-artificial-intelligence-alfred-a-knopf|Life 3.0 Being Human in the Age of Artificial Intelligence-Alfred A. Knopf]] — same category: art aesthetics
+- [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception|Art and Visual Perception]] — same category: art aesthetics
 - [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — same category: art aesthetics
 <!-- vault-crosslinks:end -->

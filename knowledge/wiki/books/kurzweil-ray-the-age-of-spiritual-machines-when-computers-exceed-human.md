@@ -46,5 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/ai-dating|ai dating]] — same category: media technology
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — same category: media technology
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — same category: media technology
-- [[knowledge/wiki/books/neil-postman-technopoly-the-surrender-of-culture-to-technology|Technopoly The Surrender of Culture to Technology]] — same category: media technology
+- [[knowledge/wiki/books/perloff-marjorie-frank-o-hara-poet-among-painters|Frank O'Hara poet among painters]] — same category: media technology
 <!-- vault-crosslinks:end -->

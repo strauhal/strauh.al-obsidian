@@ -112,7 +112,7 @@ that [[AI Slop]] inverts — slop is all output and no process — and the value
 - [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — named in this note
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — named in this note
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 <!-- vault-crosslinks:end -->

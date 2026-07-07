@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among, line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, line
 - [[knowledge/wiki/images/Man Sitting On Chair Underwater In Swimming Pool 7ddb39c8|Man Sitting On Chair Underwater In Swimming Pool]] — shared language: underwater, swimming
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: among, line
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
-- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
 <!-- vault-crosslinks:end -->

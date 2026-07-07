@@ -35,7 +35,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: preludes, piano, current
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, listening, current
 - [[knowledge/wiki/culture/music-bruckner-piano-works|Listening - Bruckner: Piano Works]] — shared language: listening, piano, current
-- [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: listening, piano, current
 - [[knowledge/wiki/culture/music-schumann-kinderszenen-kreisleriana|Listening - Schumann: Kinderszenen & Kreisleriana]] — shared language: listening, current, argerich
+- [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: listening, piano, current
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 <!-- vault-crosslinks:end -->

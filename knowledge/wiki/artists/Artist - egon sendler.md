@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: egon
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: egon
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: egon
-- [[knowledge/wiki/images/the desk by egon schiele 1910 26d500e1|the desk by egon schiele 1910]] — shared language: egon
 - [[knowledge/wiki/images/egon schiele 15e6f3ec|egon schiele]] — shared language: egon
+- [[knowledge/wiki/images/the desk by egon schiele 1910 26d500e1|the desk by egon schiele 1910]] — shared language: egon
 <!-- vault-crosslinks:end -->

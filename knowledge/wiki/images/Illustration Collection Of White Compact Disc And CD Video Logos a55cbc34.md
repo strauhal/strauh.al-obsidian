@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: compact
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: video
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: compact
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Ballet Girl 
 - [[knowledge/wiki/images/1931 571 ballet dancers jpg 07cb4ee6|1931 571 ballet dancers jpg]] — shared language: ballet
 - [[knowledge/wiki/artists/Artist - louis de silvestre|Artist - louis de silvestre]] — shared language: louis
 - [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
+- [[knowledge/wiki/images/the school of ballet by edgar degas c 1873 5c029783|the school of ballet by edgar degas c 1873]] — shared language: ballet
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/line drawing of a reclining female nude by augustus john f24af68e|line drawing of a reclining female nude by augustus john]] — shared language: augustus
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: vincent
 - [[knowledge/wiki/images/portrait of augustus ii the strong by louis de silvestre 1715 c2077d67|portrait of augustus ii the strong by louis de silvestre 1715]] — shared language: augustus
-- [[_archive/auto-generated/images-stale/portrait of a woman in blue by vincent van gogh 1885 5b000063|portrait of a woman in blue by vincent van gogh 1885]] — shared language: vincent
+- [[knowledge/wiki/images/Portrait of a Woman in Blue by Vincent van Gogh (1885) 7f72f315|Portrait of a Woman in Blue by Vincent van Gogh (1885)]] — shared language: vincent
 <!-- vault-crosslinks:end -->

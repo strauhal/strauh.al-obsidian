@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - otto dix 1912|Artist - otto dix 1912]] — named in this note
 - [[knowledge/wiki/images/The Lovers by Otto Dix (1925) f3c9af5a|The Lovers by Otto Dix (1925)]] — shared language: dix, otto
 - [[knowledge/wiki/images/self portrait with carnation by otto dix 1912 8bf976e1|self portrait with carnation by otto dix 1912]] — shared language: dix, otto
-- [[knowledge/wiki/images/Illustration Distressed Soldier Lying in Trench, Eyes Wide Open by Otto Dix 0b27bf0f|Illustration Distressed Soldier Lying in Trench, Eyes Wide Open by Otto Dix]] — shared language: dix, otto, soldier
+- [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: dix, otto, soldier
 <!-- vault-crosslinks:end -->

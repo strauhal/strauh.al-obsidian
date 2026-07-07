@@ -116,5 +116,5 @@ Files: 42
 - [[knowledge/wiki/artists/Artist - Genre and Album Covers|Artist - Genre and Album Covers]] — shared language: covers, album
 - [[knowledge/wiki/images/Music Recommendation Chart by Genre and Album Covers 06e15bbd|Music Recommendation Chart by Genre and Album Covers]] — shared language: covers, album
 - [[knowledge/wiki/images/Illustration Pixel Art Collage of Nine Album Covers and Other Images 4c7ddd67|Illustration Pixel Art Collage of Nine Album Covers and Other Images]] — shared language: covers, album
-- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip, glass, solo
+- [[knowledge/wiki/images/Image Grid of M and M's Characters and Various Music Album Covers 650b70ca|Image Grid of M and M's Characters and Various Music Album Covers]] — shared language: covers, album
 <!-- vault-crosslinks:end -->

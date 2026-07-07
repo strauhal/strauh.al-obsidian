@@ -31,9 +31,9 @@ Japanese-avant-garde fashion lineage.
 - [[knowledge/wiki/images/rei kawakubo 10a189ab|rei kawakubo]] — shared language: kawakubo, rei, influences
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, kawakubo, rei
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: influences, listed, among
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, diary, whose
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: influences, whose, diary
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, listed, ernest's
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, listed, among
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: influences, whose, diary
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: influences, diary, listed
-- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: influences, diary, whose
 <!-- vault-crosslinks:end -->

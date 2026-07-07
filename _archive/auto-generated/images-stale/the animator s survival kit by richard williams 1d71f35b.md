@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/artists/Artist - richard anuszkiewicz|Artist - richard anuszkiewicz]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - richard anuszkiewicz 1965|Artist - richard anuszkiewicz 1965]] — named in this note
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: animator
 - [[knowledge/wiki/images/Rhapsody by Richard Mayhew (2011) e22cf7c8|Rhapsody by Richard Mayhew (2011)]] — shared language: richard
 - [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams|Artist - robert williams]] — shared language: williams
-- [[knowledge/archive/auto-generated/artists-stale/Artist - robert williams 2017|Artist - robert williams 2017]] — shared language: williams
 <!-- vault-crosslinks:end -->

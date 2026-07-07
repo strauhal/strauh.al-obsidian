@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Han
 
 - [[knowledge/wiki/images/Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers a13c17b5|Photograph Photograph of Hand Holding Sketchbook with Drawing of Butchers]] — shared language: sketchbook, hand, holding
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, sketchbook
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: real, sketchbook
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: boat
 <!-- vault-crosslinks:end -->

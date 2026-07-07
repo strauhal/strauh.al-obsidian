@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/The Oracle by Amanda Sage (2012) e2eeda72|The Oracle by Amanda Sage (2012)]] — named in this note
 - [[knowledge/wiki/artists/Artist - Sage|Artist - Sage]] — shared language: sage
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: sage
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: sage
 - [[knowledge/wiki/images/Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage e3a89bee|Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage]] — shared language: sage
-- [[_archive/auto-generated/images-stale/the oracle by monica kim garza 2020 1463d919|the oracle by monica kim garza 2020]] — shared language: oracle
 <!-- vault-crosslinks:end -->

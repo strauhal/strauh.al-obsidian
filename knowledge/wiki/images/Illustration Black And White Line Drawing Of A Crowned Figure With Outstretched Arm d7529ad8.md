@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: line
-- [[knowledge/wiki/images/Illustration Crowned Woman Comforting Man in Armor, Distressed Woman Nearby 778628c5|Illustration Crowned Woman Comforting Man in Armor, Distressed Woman Nearby]] — shared language: crowned
-- [[knowledge/wiki/images/Self Portrait with Arm Twisted by Egon Schiele (1910) 0be10d37|Self Portrait with Arm Twisted by Egon Schiele (1910)]] — shared language: arm
 <!-- vault-crosslinks:end -->

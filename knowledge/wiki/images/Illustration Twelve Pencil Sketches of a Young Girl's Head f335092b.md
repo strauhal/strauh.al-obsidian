@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pencil
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies 908351c4|Illustration Sheet of Multiple Ink and Pencil Sketches Featuring Figures and Head Studies]] — shared language: sketches, pencil, head
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Two Sketches of a Woman's Head in Blue Ink 1c8043a3|Illustration Two Sketches of a Woman's Head in Blue Ink]] — shared language: sketches, head
-- [[knowledge/wiki/images/Illustration Four Pencil Sketches of a Cartoon Skunk Character 5af40d26|Illustration Four Pencil Sketches of a Cartoon Skunk Character]] — shared language: sketches, pencil
 <!-- vault-crosslinks:end -->

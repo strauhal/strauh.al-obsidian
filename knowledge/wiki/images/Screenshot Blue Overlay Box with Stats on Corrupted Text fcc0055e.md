@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Blu
 - [[knowledge/wiki/maps/Map - Image Archive|Map - Image Archive]] — shared language: stats
 - [[knowledge/wiki/maps/Generated Corpus Stats|Generated Corpus Stats]] — shared language: stats
 - [[knowledge/wiki/images/White Dog with Red 'Suffocation' Text Overlay ebc50cdf|White Dog with Red 'Suffocation' Text Overlay]] — shared language: overlay, text
-- [[knowledge/wiki/images/Image Two Men In 1980s Neon Grid Background With Text Overlay f89c6f59|Image Two Men In 1980s Neon Grid Background With Text Overlay]] — shared language: overlay, text
 - [[knowledge/wiki/images/screenshot of macromedia flash 4 about dialog box 1999 932fb402|screenshot of macromedia flash 4 about dialog box 1999]] — shared language: box, screenshot
+- [[knowledge/wiki/images/Image Two Men In 1980s Neon Grid Background With Text Overlay f89c6f59|Image Two Men In 1980s Neon Grid Background With Text Overlay]] — shared language: overlay, text
 <!-- vault-crosslinks:end -->

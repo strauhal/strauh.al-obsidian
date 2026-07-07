@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/black_and_white_
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: waterway, grand
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues 9c8e899b|Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues]] — shared language: waterway, grand
 - [[knowledge/wiki/images/Photograph High Angle Black and White Photograph of a Grand Exposition Complex 17afa330|Photograph High Angle Black and White Photograph of a Grand Exposition Complex]] — shared language: grand, complex
-- [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: waterway
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: waterway
 <!-- vault-crosslinks:end -->

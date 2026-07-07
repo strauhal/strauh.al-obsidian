@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_execution_by
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - david mazzucchelli|Artist - david mazzucchelli]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: execution
 - [[knowledge/wiki/anchors/david-mazzucchelli|David Mazzucchelli]] — shared language: david
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
 - [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
-- [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: david
 <!-- vault-crosslinks:end -->

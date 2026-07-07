@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: studio, large
 - [[knowledge/wiki/images/Photograph Artist in Studio with Large Abstract Painting and Forest View 10548d8c|Photograph Artist in Studio with Large Abstract Painting and Forest View]] — shared language: studio, large
 - [[_archive/auto-generated/images-stale/oil painting depicting two seated women one wearing a white garment with blue polka dots and the other wearing a solid blue garment 0e98a9ba|oil painting depicting two seated women one wearing a white garment with blue polka dots and the other wearing a solid blue garment]] — shared language: garment, wearing
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: model
 <!-- vault-crosslinks:end -->

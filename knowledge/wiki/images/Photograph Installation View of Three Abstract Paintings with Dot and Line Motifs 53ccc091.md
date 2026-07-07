@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Ins
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: dot, paintings
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: dot
 - [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: paintings, view
-- [[knowledge/wiki/images/Illustration Continuous Line Drawing of Three Flowers 923caf9b|Illustration Continuous Line Drawing of Three Flowers]] — shared language: three, line
 <!-- vault-crosslinks:end -->

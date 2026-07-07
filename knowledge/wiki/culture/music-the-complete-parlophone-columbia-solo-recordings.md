@@ -30,6 +30,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: recordings, listening
 - [[knowledge/wiki/culture/music-philip-glass-solo|Listening - Philip Glass Solo]] — shared language: solo, listening, current
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: recordings, ernest's
 - [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: solo, complete, current
@@ -37,5 +38,4 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-scriabin-the-complete-preludes-for-piano|Listening - Scriabin: The Complete Preludes for Piano]] — shared language: complete, listening, current
 - [[knowledge/wiki/culture/music-computer-world|Listening - Computer World]] — shared language: listening, current, performer
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: listening, current
-- [[knowledge/wiki/culture/music-consumed|Listening - Consumed]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

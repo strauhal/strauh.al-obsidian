@@ -36,8 +36,8 @@ The process makes authorship sequential rather than singular. Hand drawing estab
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, color, studies
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: color, gan, studies
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: color, gan, studies
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: read, result, described
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies, process
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: color
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: output, slop, model
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: color, output, slop
 <!-- vault-crosslinks:end -->

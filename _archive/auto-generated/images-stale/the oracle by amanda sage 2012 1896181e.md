@@ -31,5 +31,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - amanda sage 2012|Artist - amanda sage 2012]] — named in this note
 - [[knowledge/wiki/artists/Artist - Sage|Artist - Sage]] — shared language: sage
 - [[knowledge/wiki/anchors/eric-le-sage|Eric Le Sage]] — shared language: sage
-- [[knowledge/wiki/images/Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage e3a89bee|Illustration Warrior in Armor Holding Sword Against Fiery, Stormy Background by Sage]] — shared language: sage
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: sage
 <!-- vault-crosslinks:end -->

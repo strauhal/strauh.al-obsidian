@@ -18,5 +18,5 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/maps/books|books]] — shared language: anchor
-- [[knowledge/wiki/images/Youth Portrait (Jugendbildnis) by Gerhard Richter (1988) 29732f94|Youth Portrait (Jugendbildnis) by Gerhard Richter (1988)]] — shared language: richter
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: richter
 <!-- vault-crosslinks:end -->

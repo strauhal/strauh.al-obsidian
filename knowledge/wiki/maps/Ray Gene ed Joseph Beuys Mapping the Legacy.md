@@ -17,6 +17,6 @@ See [[Ray Gene ed Joseph Beuys Mapping the Legacy]].
 - [[knowledge/wiki/books/joseph-beuys-beuys-on-drawing|Beuys on Drawing]] — shared language: beuys, joseph
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: beuys, joseph
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: beuys, joseph
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: ray
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: beuys, joseph
-- [[knowledge/wiki/images/Joseph Beuys Drawing on a Blackboard 9eec7e3d|Joseph Beuys Drawing on a Blackboard]] — shared language: beuys, joseph
 <!-- vault-crosslinks:end -->

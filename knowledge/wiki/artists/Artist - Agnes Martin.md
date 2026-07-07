@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Im Maschinenbau by Friedrich G. Martin (c. 1910) dd2d2b7f|Im Maschinenbau by Friedrich G. Martin (c. 1910)]] — shared language: martin
 - [[knowledge/wiki/images/strawberry picker by agnes packard 1970 2569c788|strawberry picker by agnes packard 1970]] — shared language: agnes
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
-- [[knowledge/wiki/images/the resurrection by martin schongauer c 1475 1480 6ba685bc|the resurrection by martin schongauer c 1475 1480]] — shared language: martin
+- [[knowledge/wiki/artists/Artist - martin schongauer|Artist - martin schongauer]] — shared language: martin
 <!-- vault-crosslinks:end -->

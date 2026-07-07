@@ -37,5 +37,5 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-musik|Listening - Musik]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-settle|Listening - Settle]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-madvillainy|Listening - Madvillainy]] — shared language: listening, current, performer
+- [[knowledge/wiki/culture/music-schumann-kinderszenen-kreisleriana|Listening - Schumann: Kinderszenen & Kreisleriana]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

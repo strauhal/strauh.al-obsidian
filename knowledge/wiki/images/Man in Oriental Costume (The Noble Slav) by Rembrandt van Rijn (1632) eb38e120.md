@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/Man in Oriental 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn 1659 8ab2df95|self portrait by rembrandt van rijn 1659]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/bathsheba by rembrandt van rijn 1635 38605633|bathsheba by rembrandt van rijn 1635]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

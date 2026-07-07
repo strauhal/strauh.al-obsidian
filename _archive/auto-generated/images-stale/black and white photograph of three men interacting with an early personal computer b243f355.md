@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: early
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: personal
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: personal
+- [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: restricted
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: access
 - [[knowledge/wiki/images/auguste renoir en ete la bohemienne google art projectfxd jpg 50681e2b|auguste renoir en ete la bohemienne google art projectfxd jpg]] — shared language: google
 - [[knowledge/wiki/artists/Artist - Google DeepDream|Artist - Google DeepDream]] — shared language: google
 - [[knowledge/wiki/books/andrea-agostinelli-et-al-google-research-musiclm-generating-music-from-text|MusicLM: Generating Music From Text]] — shared language: google
-- [[_archive/auto-generated/images-stale/Jan Vermeer The Art of Painting Google Art Project 5469cdbd|Jan Vermeer The Art of Painting Google Art Project]] — shared language: google
 <!-- vault-crosslinks:end -->

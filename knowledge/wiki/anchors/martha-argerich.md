@@ -14,9 +14,9 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/images/martha argerich erich auerbach 2 fee3aa02|martha argerich erich auerbach 2]] — shared language: argerich, martha
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: argerich, martha
 <!-- vault-crosslinks:end -->

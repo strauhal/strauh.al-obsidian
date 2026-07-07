@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Behind-The
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: creation
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: creation
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 - [[Welcome|strauh.al Knowledge Base]] — shared language: behind
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: behind
-- [[knowledge/wiki/images/Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting e26ecfca|Behind The Scenes Photograph of Ewan McGregor Filming Trainspotting]] — shared language: scenes, behind, behind-the-scenes
 <!-- vault-crosslinks:end -->

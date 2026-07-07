@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: spread, sketchbook, organic
+- [[knowledge/wiki/images/Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread 26388df1|Illustration Abstract Geometric Pattern with Dark Organic Shapes on Sketchbook Spread]] — shared language: spread, organic, sketchbook
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook, pen, ink
 - [[_archive/auto-generated/images-stale/ink drawing of abstract shapes on geometric cross hatching in a sketchbook 5c301044|ink drawing of abstract shapes on geometric cross hatching in a sketchbook]] — shared language: sketchbook, shapes, geometric
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
+- [[_archive/auto-generated/images-stale/black and white geometric op art pattern 63adac02|black and white geometric op art pattern]] — shared language: pattern, geometric
 <!-- vault-crosslinks:end -->

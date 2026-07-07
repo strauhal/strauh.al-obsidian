@@ -15,8 +15,8 @@ Generated anchor note for an otherwise unresolved wikilink. Expand or merge this
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/eric-b-rakim|Eric B. & Rakim]] — shared language: eric, wikilink, merge
-- [[knowledge/wiki/artists/Artist - Sage|Artist - Sage]] — shared language: sage
 - [[knowledge/wiki/anchors/gesaffelstein|Gesaffelstein]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/html-source|HTML Source]] — shared language: wikilink, merge, unresolved
 - [[knowledge/wiki/anchors/source-manifest|source-manifest]] — shared language: wikilink, merge, unresolved
+- [[knowledge/wiki/artists/Artist - Sage|Artist - Sage]] — shared language: sage
 <!-- vault-crosslinks:end -->

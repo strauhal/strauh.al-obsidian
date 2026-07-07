@@ -47,10 +47,10 @@ Images attributed by filename: 10
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630) 658a901f|Self Portrait with Curly Hair by Rembrandt van Rijn (c. 1630)]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, self
 - [[knowledge/wiki/images/A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/images/Young Woman at Her Toilet by Rembrandt van Rijn 5220c9b3|Young Woman at Her Toilet by Rembrandt van Rijn]] — shared language: rembrandt, rijn, van
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Two Panel Sketch Hooded Figure on Peak, Then Path with Faces 48ff1e00|Illustration Two Panel Sketch Hooded Figure on Peak, Then Path with Faces]] — shared language: hooded, sketch
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Digital Sketch of Angry Woman with Braids on Tan Background fe477d0d|Illustration Digital Sketch of Angry Woman with Braids on Tan Background]] — shared language: braids, sketch, digital
 - [[knowledge/wiki/images/Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips 19f9c949|Illustration Digital Sketch and Diagrams Illustrating Face Drawing Tips]] — shared language: face, sketch, digital
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 - [[knowledge/wiki/images/Screenshot Screenshot of a Digital Line Drawing of a Female Face 9f41c2e2|Screenshot Screenshot of a Digital Line Drawing of a Female Face]] — shared language: face, digital
-- [[knowledge/wiki/images/Illustration Colored Sketch of a Woman's Face with Teal Eyes faa24b99|Illustration Colored Sketch of a Woman's Face with Teal Eyes]] — shared language: face, sketch
 <!-- vault-crosslinks:end -->

@@ -138,12 +138,12 @@ Files: 71
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/pictures of musicians|pictures of musicians]] — named in this note
 - [[knowledge/wiki/images/pete swanson 2606fb2c|pete swanson]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: talking
+- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — shared language: argerich, martha
 - [[knowledge/wiki/images/Merzbeat by Merzbow (2002) 77ba3975|Merzbeat by Merzbow (2002)]] — shared language: merzbow
 - [[knowledge/wiki/images/tumblr 41b0e89d195f636f8607619b5e365314 172060ff 500 41c4e971|tumblr 41b0e89d195f636f8607619b5e365314 172060ff 500]] — shared language: tumblr
-- [[knowledge/wiki/images/tumblr 455dfd274aeb9b2773c2970c637a4c99 1f3ee9f0 250 9f68e6b9|tumblr 455dfd274aeb9b2773c2970c637a4c99 1f3ee9f0 250]] — shared language: tumblr
 <!-- vault-crosslinks:end -->

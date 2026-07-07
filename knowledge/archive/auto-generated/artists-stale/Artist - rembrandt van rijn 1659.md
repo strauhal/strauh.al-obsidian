@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — named in this note
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1635|Artist - rembrandt van rijn 1635]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn about 1640 2|Artist - rembrandt van rijn about 1640 2]] — shared language: rijn, rembrandt, van
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1633|Artist - rembrandt van rijn 1633]] — shared language: rijn, rembrandt, van
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1630|Artist - rembrandt van rijn 1630]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

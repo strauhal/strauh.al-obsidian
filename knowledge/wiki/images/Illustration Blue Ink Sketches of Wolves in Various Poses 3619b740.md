@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Human Figures in Various Poses on a Board 891c6413|Illustration Pencil Sketches of Human Figures in Various Poses on a Board]] — shared language: poses, various, sketches
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Two Sketches of a Woman's Head in Blue Ink 1c8043a3|Illustration Two Sketches of a Woman's Head in Blue Ink]] — shared language: sketches, ink
-- [[knowledge/wiki/images/Illustration Blue Pencil Sketches of Various Pig Characters 07dfcc66|Illustration Blue Pencil Sketches of Various Pig Characters]] — shared language: various, sketches
 <!-- vault-crosslinks:end -->

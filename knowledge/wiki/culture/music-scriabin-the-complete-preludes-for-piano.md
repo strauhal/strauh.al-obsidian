@@ -35,7 +35,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-ravel-the-complete-piano-works|Listening - Ravel: The Complete Piano Works]] — shared language: complete, listening, piano
 - [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, piano, current
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: scriabin, ernest's
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: listening, preludes
 - [[knowledge/wiki/culture/music-scriabin-vers-la-flamme|Listening - Scriabin: Vers la flamme]] — shared language: scriabin, listening, current
 - [[knowledge/wiki/culture/music-bruckner-piano-works|Listening - Bruckner: Piano Works]] — shared language: listening, piano, current
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, listening, current
 <!-- vault-crosslinks:end -->

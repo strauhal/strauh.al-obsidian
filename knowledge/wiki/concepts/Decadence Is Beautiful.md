@@ -74,11 +74,11 @@ the Decadents made their subject.
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self, already, archive-links
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links
 - [[knowledge/wiki/artists/Artist - kees van dongen|Artist - kees van dongen]] — shared language: dongen, kees, van
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon
 <!-- vault-crosslinks:end -->

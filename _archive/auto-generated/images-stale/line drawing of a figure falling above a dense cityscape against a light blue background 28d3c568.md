@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Line Drawing of Figure Falling Above Dense Cityscape 1a17e27e|Illustration Line Drawing of Figure Falling Above Dense Cityscape]] — shared language: falling, dense, above
+- [[knowledge/wiki/images/Illustration Line Drawing of Figure Falling Above Dense Cityscape 1a17e27e|Illustration Line Drawing of Figure Falling Above Dense Cityscape]] — shared language: falling, dense, cityscape
 - [[knowledge/wiki/images/Illustration Abstract Line Drawing with Dense Central Pattern on Light Background a227a6b3|Illustration Abstract Line Drawing with Dense Central Pattern on Light Background]] — shared language: dense, light, line
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, dense
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: falling

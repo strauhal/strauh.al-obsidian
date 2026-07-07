@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/The Execution of
 
 - [[knowledge/wiki/artists/Artist - antoine plamondon|Artist - antoine plamondon]] — shared language: antoine
 - [[knowledge/wiki/artists/Artist - pierre mignard|Artist - pierre mignard]] — shared language: pierre, louis
-- [[knowledge/wiki/images/the execution by david s goodsell 1985 92faf099|the execution by david s goodsell 1985]] — shared language: execution
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-phenomenon-of-man|The phenomenon of man]] — shared language: pierre
+- [[knowledge/wiki/images/the execution by david s goodsell 1985 92faf099|the execution by david s goodsell 1985]] — shared language: execution
 - [[knowledge/wiki/images/portrait of louis xiv in armour by pierre mignard c 1690 49d48441|portrait of louis xiv in armour by pierre mignard c 1690]] — shared language: pierre, louis
 <!-- vault-crosslinks:end -->

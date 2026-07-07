@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagrams_Illu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model, effects
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: generation
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: model
 - [[knowledge/wiki/images/Screenshot AI Image Generation Parameters and Setup Information 482c71ad|Screenshot AI Image Generation Parameters and Setup Information]] — shared language: generation
-- [[knowledge/wiki/images/2023 03 MJ ImageGrid Generation 2303fc7d|2023 03 MJ ImageGrid Generation]] — shared language: generation
 <!-- vault-crosslinks:end -->

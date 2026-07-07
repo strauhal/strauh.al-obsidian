@@ -39,8 +39,8 @@ People from the influence wall and the diary-linked constellation.
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, baudelaire
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, schiele, egon
 - [[knowledge/wiki/images/yohji yamamoto 86e1cd12|yohji yamamoto]] — shared language: influences, yohji, yamamoto
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: influences
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: influences, mcgee, barry
 - [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: influences, playboi, carti
 - [[knowledge/wiki/images/rei kawakubo 10a189ab|rei kawakubo]] — shared language: influences, kawakubo, rei
-- [[knowledge/wiki/images/yoji shinkawa b786eab1|yoji shinkawa]] — shared language: influences, yoji, shinkawa
 <!-- vault-crosslinks:end -->

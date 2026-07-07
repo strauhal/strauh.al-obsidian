@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Oil Painting of a Classical Bust on Dark Background ba85c2b8|Illustration Oil Painting of a Classical Bust on Dark Background]] — shared language: classical, dark, background
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: gold
 - [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: head, dark, background
 - [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: head, dark, background
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: head
-- [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: dark, background, background.jpeg
 <!-- vault-crosslinks:end -->

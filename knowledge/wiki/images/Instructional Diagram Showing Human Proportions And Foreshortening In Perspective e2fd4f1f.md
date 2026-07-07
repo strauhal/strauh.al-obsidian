@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Instructional
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Front View Diagram of Multiple Screens in a Perspective Box 5d0e5135|Front View Diagram of Multiple Screens in a Perspective Box]] — shared language: perspective, diagram
+- [[knowledge/wiki/images/Diagram Medical Scan of Obese Human Figure Showing Skeleton and Organs 9b11c75b|Diagram Medical Scan of Obese Human Figure Showing Skeleton and Organs]] — shared language: showing, human, diagram
 <!-- vault-crosslinks:end -->

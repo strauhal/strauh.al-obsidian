@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/Jalousie (Blinds
 
 - [[knowledge/wiki/images/Youth Portrait (Jugendbildnis) by Gerhard Richter (1988) 29732f94|Youth Portrait (Jugendbildnis) by Gerhard Richter (1988)]] — shared language: gerhard, richter
 - [[knowledge/wiki/images/Rosen by Gerhard Richter (1994) 898842cd|Rosen by Gerhard Richter (1994)]] — shared language: gerhard, richter
-- [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: richter
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: richter
 - [[knowledge/wiki/anchors/sviatoslav-richter|Sviatoslav Richter]] — shared language: richter
 - [[knowledge/wiki/images/Cat Sits Among Destroyed Window Blinds 320cc45c|Cat Sits Among Destroyed Window Blinds]] — shared language: blinds
 <!-- vault-crosslinks:end -->

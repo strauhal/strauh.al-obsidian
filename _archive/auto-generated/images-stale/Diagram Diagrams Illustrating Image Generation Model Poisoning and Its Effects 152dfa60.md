@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dia
 
 - [[knowledge/wiki/images/Diagrams Illustrating Image Generation Model Poisoning and Its Effects b7df17e8|Diagrams Illustrating Image Generation Model Poisoning and Its Effects]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model, effects
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: generation
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: model
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Purple and Black Skeleton Figure Dissolving 06bcd2cd|Illustration Abstract Purple and Black Skeleton Figure Dissolving]] — shared language: dissolving, skeleton, purple
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: dissolving
 - [[knowledge/wiki/images/Illustration Fragmented Figures Dissolving Against Blurry Pink and Blue Background 969d7192|Illustration Fragmented Figures Dissolving Against Blurry Pink and Blue Background]] — shared language: dissolving
 - [[knowledge/wiki/images/Illustration Surreal Painting of Dissolving Head with Exposed Brain and Internal Candle 427962bc|Illustration Surreal Painting of Dissolving Head with Exposed Brain and Internal Candle]] — shared language: dissolving
 - [[knowledge/wiki/images/Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue a1c6d24f|Illustration Abstract Painting with Swirling White and Purple Brushstrokes on Blue]] — shared language: purple
-- [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: skeleton
 <!-- vault-crosslinks:end -->

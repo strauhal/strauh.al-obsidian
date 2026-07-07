@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Illustration Line Drawing Of A Horse Chewing Grass 5a5cca0d|Illustration Line Drawing Of A Horse Chewing Grass]] — named in this note
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/images/Illustration Colorful Illustration of Woman on White Horse with Dog 19e74511|Illustration Colorful Illustration of Woman on White Horse with Dog]] — shared language: horse
 - [[_archive/auto-generated/images-stale/photograph of a horse in snow with red light 9de8a985|photograph of a horse in snow with red light]] — shared language: horse
 <!-- vault-crosslinks:end -->

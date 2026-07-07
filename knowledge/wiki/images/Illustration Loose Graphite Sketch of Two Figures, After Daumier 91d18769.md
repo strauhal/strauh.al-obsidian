@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Loose Pencil Sketch of Standing Woman with Wavy Hair ed11a886|Illustration Loose Pencil Sketch of Standing Woman with Wavy Hair]] — shared language: loose, sketch
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: loose
-- [[knowledge/wiki/artists/Artist - honore daumier|Artist - honore daumier]] — shared language: daumier
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 <!-- vault-crosslinks:end -->

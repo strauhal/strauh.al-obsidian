@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: phone
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: one
 <!-- vault-crosslinks:end -->

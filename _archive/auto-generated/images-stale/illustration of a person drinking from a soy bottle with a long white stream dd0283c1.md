@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/digital painting of a person drinking and smoking 39b04b4e|digital painting of a person drinking and smoking]] — shared language: drinking, person
 - [[knowledge/wiki/images/Illustration Painting of a Person with Long Hair at a Table 2b334d18|Illustration Painting of a Person with Long Hair at a Table]] — shared language: long, person
 - [[knowledge/wiki/images/Illustration Painterly Portrait of Person Drinking and Smoking a3bf8957|Illustration Painterly Portrait of Person Drinking and Smoking]] — shared language: drinking, person
-- [[_archive/auto-generated/images-stale/oil painting of a man resembling mark zuckerberg drinking barbecue sauce directly from a bottle df8c15bd|oil painting of a man resembling mark zuckerberg drinking barbecue sauce directly from a bottle]] — shared language: bottle, drinking
+- [[knowledge/wiki/books/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee-wired|Microdosing for Depression Appears to Work About as Well as Drinking Coffee - WIRED]] — shared language: drinking
 <!-- vault-crosslinks:end -->

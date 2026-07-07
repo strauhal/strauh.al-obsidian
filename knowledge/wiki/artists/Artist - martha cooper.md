@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: martha
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — shared language: martha
 - [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: cooper
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: martha
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: martha
 - [[knowledge/wiki/images/martha argerich erich auerbach 2 fee3aa02|martha argerich erich auerbach 2]] — shared language: martha
-- [[knowledge/raw/current-cultural-diet|Current Cultural Diet]] — shared language: martha
 <!-- vault-crosslinks:end -->

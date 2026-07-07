@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Image White Text on Orange Textured Background with Illegible Symbols 34d803bb|Image White Text on Orange Textured Background with Illegible Symbols]] — shared language: symbols, text
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/images/Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon 2a8c4293|Illustration Surreal Line Drawing of Abstract Figures, Symbols, and a Crescent Moon]] — shared language: symbols, line
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 <!-- vault-crosslinks:end -->

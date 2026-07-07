@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Ins
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: ten, framed
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[knowledge/wiki/images/Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes 59448dfa|Photograph Ten Framed Black And White Rocky Landscapes With Neon Geometric Shapes]] — shared language: ten, framed
 - [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: paintings, framed
 - [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: paintings, framed
-- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: paintings
 <!-- vault-crosslinks:end -->

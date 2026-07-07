@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1659|Artist - rembrandt van rijn 1659]] — shared language: rembrandt
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1635|Artist - rembrandt van rijn 1635]] — shared language: rembrandt
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rembrandt
 - [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn about 1640 2|Artist - rembrandt van rijn about 1640 2]] — shared language: rembrandt
-- [[knowledge/archive/auto-generated/artists-stale/Artist - rembrandt van rijn 1630|Artist - rembrandt van rijn 1630]] — shared language: rembrandt
 <!-- vault-crosslinks:end -->

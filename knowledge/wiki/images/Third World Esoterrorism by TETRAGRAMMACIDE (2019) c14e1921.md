@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Third World Esot
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[knowledge/wiki/images/the third of may 1808 by francisco de goya 1814 9beaa601|the third of may 1808 by francisco de goya 1814]] — shared language: third
-- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: world
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: world
 <!-- vault-crosslinks:end -->

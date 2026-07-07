@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: lined
 - [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: lined, paper, paper.jpeg
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit 7cea7f94|Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit]] — shared language: lined, paper
-- [[knowledge/wiki/images/Illustration Abstract Black Ink Brushstrokes on Paper 9523aa16|Illustration Abstract Black Ink Brushstrokes on Paper]] — shared language: paper, paper.jpeg
 <!-- vault-crosslinks:end -->

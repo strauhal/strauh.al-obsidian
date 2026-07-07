@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_Compa
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: sound
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: sound
-- [[knowledge/wiki/books/piano|piano]] — shared language: sound
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: analog
 <!-- vault-crosslinks:end -->

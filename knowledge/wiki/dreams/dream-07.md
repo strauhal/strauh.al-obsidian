@@ -44,11 +44,11 @@ No fixed interpretation has been assigned. Add remembered details, waking associ
 ## Discovered Connections
 
 - [[knowledge/wiki/images/frederic chopin 48920806|frederic chopin]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: chopin, listening, spontaneity
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams, recent, live
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: dreams, elegance, spontaneity
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: piano, elegance, spontaneity
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — shared language: account, become
 - [[knowledge/wiki/collections/Collection - dreams|Collection - dreams]] — shared language: dream, dreams
 - [[knowledge/wiki/images/dream 00000 9811348f|dream 00000]] — shared language: dream, dreams
-- [[knowledge/wiki/images/dream 00001 0401c221|dream 00001]] — shared language: dream, dreams
 <!-- vault-crosslinks:end -->

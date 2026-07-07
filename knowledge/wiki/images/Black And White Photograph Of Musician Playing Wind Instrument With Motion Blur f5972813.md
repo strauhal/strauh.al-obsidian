@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black And 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion, blur.jpg
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: instrument
 - [[knowledge/wiki/images/Photograph Red Digital Display With Motion Blur And Keypad 70244867|Photograph Red Digital Display With Motion Blur And Keypad]] — shared language: blur, motion
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Running Cheetah with Motion Blur 59d3c158|Illustration Pencil Sketch of Running Cheetah with Motion Blur]] — shared language: blur, motion, blur.jpg
 - [[knowledge/wiki/images/Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights 90596a6b|Illustration Pastel Drawing of a Dark Road with Motion Blur and Red Lights]] — shared language: blur, motion
-- [[knowledge/wiki/images/Illustration Abstract Dark Figure in Motion on White Background 1d147126|Illustration Abstract Dark Figure in Motion on White Background]] — shared language: motion
 <!-- vault-crosslinks:end -->

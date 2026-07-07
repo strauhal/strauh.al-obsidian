@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 42079976|Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]] — shared language: supplies, sits, amidst
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits
 - [[knowledge/wiki/images/Art Studio Setup with Easel, Pixelated Painting, and Supplies 6ab59421|Art Studio Setup with Easel, Pixelated Painting, and Supplies]] — shared language: supplies, studio
-- [[_archive/auto-generated/images-stale/Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies 02981a21|Photograph Art Studio Setup with Easel, Pixelated Painting, and Supplies]] — shared language: supplies, studio
 <!-- vault-crosslinks:end -->

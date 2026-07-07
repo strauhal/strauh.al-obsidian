@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Byzantine Style Icon of Virgin Mary in Red Veil 7f905f23|Illustration Byzantine Style Icon of Virgin Mary in Red Veil]] — shared language: byzantine, veil, icon
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: virgin, gold
 - [[_archive/auto-generated/images-stale/circular icon of the virgin mary sheltering figures pokrov ea89ede1|circular icon of the virgin mary sheltering figures pokrov]] — shared language: icon, mary, virgin
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: icon
 - [[knowledge/wiki/images/Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf 44e472d1|Illustration Detail of Old Master Painting with Angel, Figures, and Gold Leaf]] — shared language: leaf, gold
-- [[_archive/auto-generated/images-stale/icon of the virgin mary and christ child giving the rosary to saint dominic eadf6b70|icon of the virgin mary and christ child giving the rosary to saint dominic]] — shared language: icon, mary, virgin
 <!-- vault-crosslinks:end -->

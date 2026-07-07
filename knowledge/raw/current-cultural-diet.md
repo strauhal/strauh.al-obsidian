@@ -147,10 +147,10 @@ Supplied by Ernest on 2026-06-22. Wording is lightly normalized in compiled note
 
 - [[knowledge/wiki/anchors/yuval-noah-harari|Yuval Noah Harari]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
 - [[knowledge/wiki/anchors/ayn-rand|Ayn Rand]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 <!-- vault-crosslinks:end -->

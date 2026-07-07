@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/The Rider by Zolt n Magyar (2020) 3a927ee7|The Rider by Zolt n Magyar (2020)]] — shared language: rider
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
-- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 <!-- vault-crosslinks:end -->

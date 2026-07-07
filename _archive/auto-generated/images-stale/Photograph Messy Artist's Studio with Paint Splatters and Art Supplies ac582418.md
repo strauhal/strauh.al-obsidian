@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Messy Artist's Studio with Paint Splatters and Art Supplies 9d81cfa0|Messy Artist's Studio with Paint Splatters and Art Supplies]] — shared language: splatters, messy, artist's
 - [[knowledge/wiki/images/Photograph Messy Interior of Francis Bacon's Art Studio 0b90607e|Photograph Messy Interior of Francis Bacon's Art Studio]] — shared language: messy, studio
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: artist's
 - [[knowledge/wiki/images/The Artist's Studio by Raoul Dufy (1935) 4af52f46|The Artist's Studio by Raoul Dufy (1935)]] — shared language: artist's, studio
 - [[knowledge/wiki/images/Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 42079976|Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]] — shared language: supplies, studio
-- [[_archive/auto-generated/images-stale/Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio 15448d0a|Photograph Artist Sits Amidst Abstract Paintings and Art Supplies in Studio]] — shared language: supplies, studio
 <!-- vault-crosslinks:end -->

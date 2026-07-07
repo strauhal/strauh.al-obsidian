@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/view_from_illino
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
 - [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: view
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: illinois
+- [[knowledge/wiki/images/The Sun roars into View by Anna Loginova (2024) e271a490|The Sun roars into View by Anna Loginova (2024)]] — shared language: view
 <!-- vault-crosslinks:end -->

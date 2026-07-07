@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Red Armored Character Crouching with Glowing Sword by Yoji Shinkawa 960bfded|Illustration Red Armored Character Crouching with Glowing Sword by Yoji Shinkawa]] — shared language: armored, sword
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 - [[knowledge/wiki/images/Illustration Woman With A Sword In An Ornate Room fe703b09|Illustration Woman With A Sword In An Ornate Room]] — shared language: sword
 - [[knowledge/wiki/artists/Artist - Bonfire and Sword|Artist - Bonfire and Sword]] — shared language: sword
-- [[knowledge/wiki/images/Illustration Purple Line Sketch of Armored Winged Creature with Horns and Claws 6f6dc577|Illustration Purple Line Sketch of Armored Winged Creature with Horns and Claws]] — shared language: armored, sketch
 <!-- vault-crosslinks:end -->

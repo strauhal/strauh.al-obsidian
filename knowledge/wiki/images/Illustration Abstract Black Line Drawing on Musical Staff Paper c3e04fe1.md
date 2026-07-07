@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Document Abstract Graphic Score on Musical Staff Paper with Text 545ca683|Document Abstract Graphic Score on Musical Staff Paper with Text]] — shared language: staff, musical, paper
 - [[knowledge/wiki/images/Illustration Line Drawing of Figure with Staff and Dove 81d9af6d|Illustration Line Drawing of Figure with Staff and Dove]] — shared language: staff, line
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 <!-- vault-crosslinks:end -->

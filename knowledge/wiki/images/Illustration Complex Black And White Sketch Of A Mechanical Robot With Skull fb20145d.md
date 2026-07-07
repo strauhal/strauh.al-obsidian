@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Large Robot Figure Above Stylized Face With Mechanical Details 5cdea146|Illustration Large Robot Figure Above Stylized Face With Mechanical Details]] — shared language: robot, mechanical
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
-- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 <!-- vault-crosslinks:end -->

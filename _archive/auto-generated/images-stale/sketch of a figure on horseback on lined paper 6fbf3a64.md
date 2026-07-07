@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: lined
 - [[knowledge/wiki/images/Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper 92cf19d0|Illustration Collage of Handwritten Notes, Sketches, Diagrams, and Drawings on Lined Paper]] — shared language: lined, paper, paper.jpeg
-- [[knowledge/wiki/images/Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit 7cea7f94|Illustration Multiple Pencil and Ink Sketches on Lined Paper Portrait, Nudes, Rabbit]] — shared language: lined, paper
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketch
 <!-- vault-crosslinks:end -->

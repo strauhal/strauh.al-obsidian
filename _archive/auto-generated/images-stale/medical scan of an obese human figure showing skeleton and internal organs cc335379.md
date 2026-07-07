@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/pen and ink drawing of a female figure with surreal internal organs and two heads 2022 2bb3c309|pen and ink drawing of a female figure with surreal internal organs and two heads 2022]] — shared language: organs, internal
 - [[knowledge/wiki/images/Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan d276ff6e|Illustration Close up of Eyes and Hair Amidst Abstract Digital Collage and Medical Scan]] — shared language: medical, scan
 - [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: internal, human
-- [[knowledge/wiki/images/drawing of a human head in profile showing internal structure by pavel tchelitchew 1948 29ee6d4c|drawing of a human head in profile showing internal structure by pavel tchelitchew 1948]] — shared language: internal, showing, human
+- [[knowledge/wiki/books/jasbir-k-puar-bodies-with-new-organs|Bodies with New Organs]] — shared language: organs
 <!-- vault-crosslinks:end -->

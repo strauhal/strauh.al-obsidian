@@ -26,8 +26,8 @@ A retained library bridge for Walter Benjamin's essay and its place in the vault
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media, aesthetics
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: aura, human
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: aura, human
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: work, elegance, spontaneity
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: benjamin's, vault's, work
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: essay, human, retained
-- [[knowledge/wiki/books/james-bridle-new-dark-age-technology-and-the-end-of-the-future-verso-books|New Dark Age - Technology and the End of the Future-Verso Books]] — shared language: age, technology, media
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: spontaneity, vault's, elegance
 <!-- vault-crosslinks:end -->

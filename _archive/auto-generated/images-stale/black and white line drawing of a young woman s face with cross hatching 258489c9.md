@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/sketch of a woman s face using blue purple and orange cross hatching 791d9126|sketch of a woman s face using blue purple and orange cross hatching]] — shared language: hatching, cross, face
-- [[_archive/auto-generated/images-stale/hatching drawing 69d57999|hatching drawing]] — shared language: hatching
 - [[knowledge/wiki/images/Illustration Abstract Ink Drawing on Geometric Cross Hatching in Sketchbook ee47e4d4|Illustration Abstract Ink Drawing on Geometric Cross Hatching in Sketchbook]] — shared language: hatching, cross
+- [[_archive/auto-generated/images-stale/hatching drawing 69d57999|hatching drawing]] — shared language: hatching
 - [[_archive/auto-generated/images-stale/black and white cross hatching illustration of a muscular figure looming over a person in bed 1944cec1|black and white cross hatching illustration of a muscular figure looming over a person in bed]] — shared language: hatching, cross
 - [[_archive/auto-generated/images-stale/ink drawing of abstract shapes on geometric cross hatching in a sketchbook 5c301044|ink drawing of abstract shapes on geometric cross hatching in a sketchbook]] — shared language: hatching, cross
 <!-- vault-crosslinks:end -->

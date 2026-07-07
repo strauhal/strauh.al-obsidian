@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/one_for_the_road
 - [[knowledge/wiki/artists/Artist - Ruth Wolf Rehfeldt|Artist - Ruth Wolf Rehfeldt]] — shared language: wolf
 - [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
 - [[knowledge/wiki/images/1947 112 a turn in the road jpg b2b94a86|1947 112 a turn in the road jpg]] — shared language: road
-- [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: one
+- [[knowledge/wiki/images/Match Made in Wolf Heaven by John Nieto (2011) f4a78011|Match Made in Wolf Heaven by John Nieto (2011)]] — shared language: wolf
 <!-- vault-crosslinks:end -->

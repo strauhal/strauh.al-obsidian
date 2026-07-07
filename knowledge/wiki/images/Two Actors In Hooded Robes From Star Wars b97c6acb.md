@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Actors
 - [[knowledge/wiki/images/Illustration Collage of Black Panther and Star Wars The Force Awakens Movie Posters 623c4c6f|Illustration Collage of Black Panther and Star Wars The Force Awakens Movie Posters]] — shared language: wars, star
 - [[knowledge/wiki/images/Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures d06cdfe1|Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures]] — shared language: hooded
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
-- [[knowledge/wiki/images/Two Actors Filming A Scene On A Green Screen Set 7a621baa|Two Actors Filming A Scene On A Green Screen Set]] — shared language: actors
+- [[knowledge/wiki/images/Photograph of an abstract painting depicting a cityscape with a red star 73ec5f3b|Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
 <!-- vault-crosslinks:end -->

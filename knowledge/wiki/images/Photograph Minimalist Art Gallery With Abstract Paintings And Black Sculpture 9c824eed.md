@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Min
 - [[knowledge/wiki/images/Photograph Gallery View of Ten Framed Minimalist Figure Drawings c9b7edcf|Photograph Gallery View of Ten Framed Minimalist Figure Drawings]] — shared language: minimalist, gallery
 - [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: paintings, gallery
 - [[knowledge/wiki/images/Photograph People Viewing Landscape Paintings In A Gallery ab1096c2|Photograph People Viewing Landscape Paintings In A Gallery]] — shared language: paintings, gallery
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[knowledge/wiki/images/Photograph Two Paintings Displayed on White Gallery Wall with Concrete Floor fa2d52b5|Photograph Two Paintings Displayed on White Gallery Wall with Concrete Floor]] — shared language: paintings, gallery
-- [[knowledge/wiki/images/Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece b784ff70|Photograph Art Gallery with Abstract Paintings and Sculptural Wall Piece]] — shared language: paintings, gallery
 <!-- vault-crosslinks:end -->

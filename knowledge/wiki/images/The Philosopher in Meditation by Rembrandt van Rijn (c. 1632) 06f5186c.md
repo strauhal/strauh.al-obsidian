@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/The Philosopher 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 - [[knowledge/wiki/images/A Philosopher in Contemplation by Rembrandt van Rijn (1632) 7277ff24|A Philosopher in Contemplation by Rembrandt van Rijn (1632)]] — shared language: philosopher, rijn, rembrandt
 - [[knowledge/wiki/artists/Artist - rembrandt van rijn about|Artist - rembrandt van rijn about]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn 1659 8ab2df95|self portrait by rembrandt van rijn 1659]] — shared language: rijn, rembrandt, van
 - [[knowledge/wiki/images/self portrait by rembrandt van rijn c 1628 fde9c459|self portrait by rembrandt van rijn c 1628]] — shared language: rijn, rembrandt, van
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: rijn, rembrandt, van
 <!-- vault-crosslinks:end -->

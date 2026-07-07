@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Installation View of Three Abstract Paintings with Dot and Line Motifs 53ccc091|Photograph Installation View of Three Abstract Paintings with Dot and Line Motifs]] — shared language: dot, motifs, paintings
 - [[knowledge/wiki/images/Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery 71ab7c81|Illustration Multiple Colorful Abstract Dot Paintings Displayed in a Gallery]] — shared language: dot, paintings
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
 - [[knowledge/wiki/images/Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots da1e21ac|Illustration Installation of Multiple Square Abstract Paintings with Colorful Dots]] — shared language: square, paintings
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: dot
 <!-- vault-crosslinks:end -->

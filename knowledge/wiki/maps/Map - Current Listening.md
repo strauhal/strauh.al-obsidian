@@ -59,8 +59,8 @@ Entries: 43
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/images/wes montgomery 9d9c9143|wes montgomery]] — named in this note
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — named in this note
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — named in this note

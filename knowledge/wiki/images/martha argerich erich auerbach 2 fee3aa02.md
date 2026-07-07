@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/pictures_of_musicians/
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/pictures of musicians|pictures of musicians]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/images/1604281125278 75105d6a|1604281125278]] — same collection: pictures musicians
 - [[knowledge/wiki/images/1613232158052 23f46596|1613232158052]] — same collection: pictures musicians
 - [[knowledge/wiki/images/1614161973622 9ad7e764|1614161973622]] — same collection: pictures musicians

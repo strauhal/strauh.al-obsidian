@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[_archive/auto-generated/images-stale/Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective 0287d748|Diagram Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: proportions, perspective, showing
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
+- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 <!-- vault-crosslinks:end -->

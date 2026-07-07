@@ -30,6 +30,7 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: listening
 - [[knowledge/wiki/culture/music-computer-world|Listening - Computer World]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-consumed|Listening - Consumed]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-mutant|Listening - Mutant]] — shared language: listening, current, performer
@@ -37,5 +38,4 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-anoyo|Listening - Anoyo]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-musik|Listening - Musik]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-settle|Listening - Settle]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

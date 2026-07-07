@@ -49,7 +49,7 @@ strauh.al/artists/degas
 - [[knowledge/wiki/images/CIA CIA P 1934 SC 89 001 1251da5d|CIA CIA P 1934 SC 89 001]] — named in this note
 - [[knowledge/wiki/images/'Ballet Rehearsal' by Edgar Degas, pastel, Pushkin Museum efcddbe2|'Ballet Rehearsal' by Edgar Degas, pastel, Pushkin Museum]] — shared language: degas, edgar, ballet
 - [[knowledge/wiki/images/Edgar Degas Ballet (L' toile) 21617ea7|Edgar Degas Ballet (L' toile)]] — shared language: degas, edgar, ballet
-- [[knowledge/wiki/images/201223160806 01 edgar degas ballet dancers artsy 64d787c8|201223160806 01 edgar degas ballet dancers artsy]] — shared language: degas, edgar, artists
-- [[knowledge/wiki/images/201223162422 04 edgar degas ballet dancers artsy 2f0f541c|201223162422 04 edgar degas ballet dancers artsy]] — shared language: degas, edgar, artists
-- [[knowledge/wiki/images/201223162545 05 edgar degas ballet dancers artsy 8a5414ac|201223162545 05 edgar degas ballet dancers artsy]] — shared language: degas, edgar, artists
+- [[knowledge/wiki/images/201223160806 01 edgar degas ballet dancers artsy 64d787c8|201223160806 01 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/201223162422 04 edgar degas ballet dancers artsy 2f0f541c|201223162422 04 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
+- [[knowledge/wiki/images/201223162545 05 edgar degas ballet dancers artsy 8a5414ac|201223162545 05 edgar degas ballet dancers artsy]] — shared language: degas, edgar, ballet
 <!-- vault-crosslinks:end -->

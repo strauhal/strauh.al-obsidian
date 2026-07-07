@@ -56,5 +56,5 @@ Books/files: 33
 - [[knowledge/wiki/books/plato-the-republic|The Republic]] — named in this note
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age, technology, media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, media, internet
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: age, internet, press
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: ray
 <!-- vault-crosslinks:end -->

@@ -35,6 +35,6 @@ Ernest's interest in translating one sense into another (see [[Latent Space]]).
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, ideas-sketchbook, ernest's
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, space, temporal
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, influences, space
-- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, ernest's
 - [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: scriabin, alexander, influences
+- [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: influences, listed, ernest's
 <!-- vault-crosslinks:end -->

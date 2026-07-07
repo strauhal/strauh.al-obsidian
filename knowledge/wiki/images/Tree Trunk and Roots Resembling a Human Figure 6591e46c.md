@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Tree Trunk
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/images/Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature 9992562d|Illustration Two Anatomical Illustrations of Human Trunk Skeleton and Musculature]] — shared language: trunk, human
 - [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: roots
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: resembling, tree
+- [[knowledge/wiki/images/Illustration Outdoor Sculpture of Tree Trunk with Rectangular Metal Branching Structure 589f2d83|Illustration Outdoor Sculpture of Tree Trunk with Rectangular Metal Branching Structure]] — shared language: trunk, tree
 <!-- vault-crosslinks:end -->

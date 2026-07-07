@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/susaninglettgall
 - [[knowledge/wiki/artists/Artist - Congo|Artist - Congo]] — shared language: congo
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: work
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo 7f77a1c1|Illustration Abstract Painting with Black, Blue, White, and Red Brushstrokes by Congo]] — shared language: congo
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: work
 <!-- vault-crosslinks:end -->

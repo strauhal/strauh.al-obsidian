@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-06T16:52:52",
-  "markdownFiles": 19377,
-  "existingDirectedLinks": 34542,
-  "discoveredDirectedLinks": 99400,
-  "totalDirectedLinks": 133942,
-  "uniqueConnectedPairs": 110622,
-  "filesWithDiscoveredLinks": 19377,
+  "generated": "2026-07-06T22:47:55",
+  "markdownFiles": 19380,
+  "existingDirectedLinks": 34558,
+  "discoveredDirectedLinks": 99425,
+  "totalDirectedLinks": 133983,
+  "uniqueConnectedPairs": 110690,
+  "filesWithDiscoveredLinks": 19380,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -66,7 +66,7 @@
     },
     "html": {
       "files": 77,
-      "existingOutbound": 439,
+      "existingOutbound": 442,
       "discoveredOutbound": 616
     },
     "ideas": {
@@ -77,7 +77,7 @@
     "image": {
       "files": 14114,
       "existingOutbound": 20380,
-      "discoveredOutbound": 68435
+      "discoveredOutbound": 68436
     },
     "image-analysis": {
       "files": 1,
@@ -145,9 +145,9 @@
       "discoveredOutbound": 10
     },
     "person": {
-      "files": 20,
-      "existingOutbound": 93,
-      "discoveredOutbound": 160
+      "files": 23,
+      "existingOutbound": 104,
+      "discoveredOutbound": 184
     },
     "private-correspondence": {
       "files": 22,
@@ -191,7 +191,7 @@
     },
     "report": {
       "files": 10,
-      "existingOutbound": 9,
+      "existingOutbound": 11,
       "discoveredOutbound": 80
     },
     "review-queue": {
@@ -60441,9 +60441,9 @@
     "knowledge/output/wiki-lint-report.md": {
       "title": "wiki-lint-report",
       "type": "report",
-      "existingOutbound": 0,
+      "existingOutbound": 2,
       "discoveredOutbound": 8,
-      "totalOutbound": 8
+      "totalOutbound": 10
     },
     "knowledge/private/fanmail/Private Fanmail Index.md": {
       "title": "Private Fanmail Index",
@@ -114055,8 +114055,8 @@
       "title": "The Oracle by Amanda Sage (2012)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 4,
-      "totalOutbound": 6
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/The Peacock Skirt by Aubrey Beardsley (1894) fe4310f8.md": {
       "title": "The Peacock Skirt by Aubrey Beardsley (1894)",
@@ -135383,9 +135383,9 @@
     "knowledge/wiki/pages/knowledge base 2024 misc bookmarks.md": {
       "title": "knowledge base 2024 misc bookmarks",
       "type": "html",
-      "existingOutbound": 51,
+      "existingOutbound": 53,
       "discoveredOutbound": 8,
-      "totalOutbound": 59
+      "totalOutbound": 61
     },
     "knowledge/wiki/pages/knowledge base art.md": {
       "title": "knowledge base art",
@@ -135446,9 +135446,9 @@
     "knowledge/wiki/pages/knowledge base wikipedia articles.md": {
       "title": "knowledge base wikipedia articles",
       "type": "html",
-      "existingOutbound": 33,
+      "existingOutbound": 34,
       "discoveredOutbound": 8,
-      "totalOutbound": 41
+      "totalOutbound": 42
     },
     "knowledge/wiki/pages/knowledge base.md": {
       "title": "knowledge base",
@@ -135709,6 +135709,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 12
     },
+    "knowledge/wiki/people/Martha Argerich.md": {
+      "title": "Martha Argerich",
+      "type": "person",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
+    },
     "knowledge/wiki/people/Megan.md": {
       "title": "Megan",
       "type": "person",
@@ -135730,8 +135737,22 @@
       "discoveredOutbound": 8,
       "totalOutbound": 12
     },
+    "knowledge/wiki/people/Ray Harryhausen.md": {
+      "title": "Ray Harryhausen",
+      "type": "person",
+      "existingOutbound": 4,
+      "discoveredOutbound": 8,
+      "totalOutbound": 12
+    },
     "knowledge/wiki/people/Rei Kawakubo.md": {
       "title": "Rei Kawakubo",
+      "type": "person",
+      "existingOutbound": 4,
+      "discoveredOutbound": 8,
+      "totalOutbound": 12
+    },
+    "knowledge/wiki/people/Rembrandt.md": {
+      "title": "Rembrandt",
       "type": "person",
       "existingOutbound": 4,
       "discoveredOutbound": 8,

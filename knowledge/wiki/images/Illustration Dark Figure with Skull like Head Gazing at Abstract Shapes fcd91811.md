@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/Illustration Skull like Sun Setting Over Dark Forest 0d2f90b8|Illustration Skull like Sun Setting Over Dark Forest]] — shared language: skull, like, dark
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
+- [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: skull, like, skull-like
 <!-- vault-crosslinks:end -->

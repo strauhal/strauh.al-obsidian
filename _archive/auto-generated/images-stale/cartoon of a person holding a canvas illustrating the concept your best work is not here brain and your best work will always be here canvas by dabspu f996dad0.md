@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Cartoon of Person Holding Canvas, Brain and Canvas Labeled by Dabspunk 31d1a017|Illustration Cartoon of Person Holding Canvas, Brain and Canvas Labeled by Dabspunk]] — same artist: dabspunk
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: concept
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: work, person
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: best
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: work
 <!-- vault-crosslinks:end -->

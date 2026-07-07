@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: woodblock, print
 - [[_archive/auto-generated/images-stale/blue tree woodblock print ce799c3e|blue tree woodblock print]] — shared language: woodblock, print
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tibetan script|Artist - tibetan script]] — shared language: tibetan, surrounded
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
+- [[knowledge/wiki/books/john-powers-introduction-to-tibetan-buddhism|Introduction to Tibetan Buddhism]] — shared language: tibetan
 <!-- vault-crosslinks:end -->

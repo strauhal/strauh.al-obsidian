@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - helene schjerfbeck|Artist - helene schjerfbeck]] — shared language: helene
 - [[knowledge/wiki/images/the convalescent by helene schjerfbeck 1880 0d7b5dec|the convalescent by helene schjerfbeck 1880]] — shared language: helene
+- [[knowledge/wiki/artists/Artist - helene schjerfbeck|Artist - helene schjerfbeck]] — shared language: helene
 - [[knowledge/wiki/artists/Artist - Tuca Vieira|Artist - Tuca Vieira]] — shared language: vieira
 - [[knowledge/wiki/artists/Artist - jean baptiste marie pierre|Artist - jean baptiste marie pierre]] — shared language: marie
 - [[knowledge/wiki/images/Portrait of Mariana de Silva y Sarmiento, Duchess of Huescar (Unfinished) by Anton Raphael Mengs (c. 1775) a93807c7|Portrait of Mariana de Silva y Sarmiento, Duchess of Huescar (Unfinished) by Anton Raphael Mengs (c. 1775)]] — shared language: silva

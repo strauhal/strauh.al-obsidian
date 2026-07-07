@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway 519af011|Photograph Sepia Photograph of Grand Neoclassical Exhibition Building and Waterway]] — shared language: waterway, grand
 - [[_archive/auto-generated/images-stale/sepia photograph of a grand neoclassical exhibition building and waterway e07c0340|sepia photograph of a grand neoclassical exhibition building and waterway]] — shared language: waterway, grand
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues 9c8e899b|Photograph Grand Neoclassical Buildings Along a Waterway with Bridges and Statues]] — shared language: waterway, grand
-- [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: waterway
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: waterway
+- [[_archive/auto-generated/images-stale/black and white photograph of a grand neoclassical exposition site featuring a central waterway bridges and statues 4687ea6e|black and white photograph of a grand neoclassical exposition site featuring a central waterway bridges and statues]] — shared language: waterway, grand
 <!-- vault-crosslinks:end -->

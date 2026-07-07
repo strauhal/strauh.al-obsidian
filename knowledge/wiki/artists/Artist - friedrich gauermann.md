@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: friedrich
 - [[knowledge/wiki/artists/Artist - friedrich voltz|Artist - friedrich voltz]] — shared language: friedrich
 - [[knowledge/wiki/books/friedrich-engels-dialectics-of-nature|Dialectics of Nature]] — shared language: friedrich
-- [[knowledge/wiki/images/waldschlucht by carl friedrich lessing 1836 46aa5cd0|waldschlucht by carl friedrich lessing 1836]] — shared language: friedrich
+- [[knowledge/wiki/artists/Artist - carl friedrich lessing|Artist - carl friedrich lessing]] — shared language: friedrich
 <!-- vault-crosslinks:end -->

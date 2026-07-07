@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: death, world
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
-- [[knowledge/wiki/images/Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II d444d2c0|Illustration Dopey on the emblem for the 341st Bombardment Squadron during World War II]] — shared language: war, world
+- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: death
 <!-- vault-crosslinks:end -->

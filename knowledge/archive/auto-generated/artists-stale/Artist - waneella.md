@@ -28,8 +28,8 @@ Images attributed by filename: 3
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - waneella 2019|Artist - waneella 2019]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - waneella 2015|Artist - waneella 2015]] — named in this note
-- [[knowledge/wiki/images/bartholomeus johannes van hove a dutch town on a waterway c 1850 cdd7c2b9|bartholomeus johannes van hove a dutch town on a waterway c 1850]] — shared language: town
 - [[_archive/auto-generated/images-stale/framed seaside town painting with green water b98b47e9|framed seaside town painting with green water]] — shared language: town
 - [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night
 - [[knowledge/wiki/images/dancing in the town by auguste renoir 1883 070822ea|dancing in the town by auguste renoir 1883]] — shared language: town
+- [[_archive/auto-generated/images-stale/the town of the dolls by gorey 2020 7fd1295e|the town of the dolls by gorey 2020]] — shared language: town
 <!-- vault-crosslinks:end -->

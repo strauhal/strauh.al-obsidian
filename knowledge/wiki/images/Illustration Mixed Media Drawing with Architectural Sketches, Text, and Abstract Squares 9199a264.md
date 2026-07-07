@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden 5b0fd90b|Illustration Abstract Mixed Media Painting of a Silhouette Figure, Red Sun, Text. by Hunter Biden]] — shared language: mixed, media, text
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
 - [[knowledge/wiki/images/Illustration Mixed Media Painting of Two Women in Hats Smoking 6bf6be0e|Illustration Mixed Media Painting of Two Women in Hats Smoking]] — shared language: mixed, media
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
 <!-- vault-crosslinks:end -->

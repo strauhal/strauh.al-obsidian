@@ -62,5 +62,5 @@ might read it (see [[The Internet as Confidant]]).
 - [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
 - [[knowledge/wiki/images/otto dix 52f77c29|otto dix]] — named in this note
 - [[knowledge/wiki/images/untitled by willem de kooning c 1949 1950 2942c6bb|untitled by willem de kooning c 1949 1950]] — named in this note
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
 <!-- vault-crosslinks:end -->

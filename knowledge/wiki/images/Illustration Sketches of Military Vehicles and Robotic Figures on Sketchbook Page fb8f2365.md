@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketchbook, sketches
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: sketchbook
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook
 - [[knowledge/wiki/images/Illustration Architectural Sketches of Buildings and Details in a Sketchbook 2a3702e2|Illustration Architectural Sketches of Buildings and Details in a Sketchbook]] — shared language: sketchbook, sketches
-- [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 <!-- vault-crosslinks:end -->

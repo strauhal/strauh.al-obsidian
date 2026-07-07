@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Map_of_Manhat
 
 - [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: interest
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: interest
 - [[knowledge/wiki/images/Person Next To Car With Manhattan Bridge In Background 5254d0a8|Person Next To Car With Manhattan Bridge In Background]] — shared language: manhattan
 - [[knowledge/wiki/images/manhattan by tamara de lempicka 1929 d0afc316|manhattan by tamara de lempicka 1929]] — shared language: manhattan
-- [[knowledge/wiki/images/manhattan bridge construction d 194 by irving underhill 1909 28d82fbb|manhattan bridge construction d 194 by irving underhill 1909]] — shared language: manhattan
 <!-- vault-crosslinks:end -->

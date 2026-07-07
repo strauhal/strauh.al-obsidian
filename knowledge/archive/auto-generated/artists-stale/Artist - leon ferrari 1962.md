@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - leon ferrari 1964|Artist - leon ferrari 1964]] — named in this note
 - [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — named in this note
+- [[knowledge/archive/auto-generated/artists-stale/Artist - leon ferrari 1964|Artist - leon ferrari 1964]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1987|Artist - mark j ferrari 1987]] — shared language: ferrari
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1989|Artist - mark j ferrari 1989]] — shared language: ferrari
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1990|Artist - mark j ferrari 1990]] — shared language: ferrari

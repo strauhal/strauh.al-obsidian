@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_Ha
 - [[knowledge/wiki/images/Diagram of Harmonic Series Above Radiographic Image of Seashell 27ed0a79|Diagram of Harmonic Series Above Radiographic Image of Seashell]] — shared language: harmonic, seashell, series
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: series
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: ray
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
-- [[knowledge/wiki/artists/Artist - man ray|Artist - man ray]] — shared language: ray
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
 - [[knowledge/wiki/images/1931 571 ballet dancers jpg 07cb4ee6|1931 571 ballet dancers jpg]] — shared language: dancers
 - [[_archive/auto-generated/images-stale/interior view of a modern building lounge with floor to ceiling windows terrazzo floor and five upholstered wooden chairs arranged around small tables 412a4545|interior view of a modern building lounge with floor to ceiling windows terrazzo floor and five upholstered wooden chairs arranged around small tables]] — shared language: floor, five, wooden
-- [[knowledge/wiki/images/two dancers by edgar degas c 1890 1895 9a3d0914|two dancers by edgar degas c 1890 1895]] — shared language: dancers
+- [[_archive/auto-generated/images-stale/bent chrome metal tubing sculpture on wooden floor 79172f8c|bent chrome metal tubing sculpture on wooden floor]] — shared language: wooden, floor, floor.jpeg
 <!-- vault-crosslinks:end -->

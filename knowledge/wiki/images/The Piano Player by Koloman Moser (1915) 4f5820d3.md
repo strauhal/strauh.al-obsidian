@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Piano Player
 - [[knowledge/wiki/artists/Artist - koloman moser|Artist - koloman moser]] — shared language: koloman, moser
 - [[knowledge/wiki/images/medea by koloman moser 1898 3347c774|medea by koloman moser 1898]] — shared language: koloman, moser
 - [[knowledge/wiki/images/medea by koloman moser 1898 999ac304|medea by koloman moser 1898]] — shared language: koloman, moser
-- [[knowledge/wiki/books/piano|piano]] — shared language: piano
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 <!-- vault-crosslinks:end -->

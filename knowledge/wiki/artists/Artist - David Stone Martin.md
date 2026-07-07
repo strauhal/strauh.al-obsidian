@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/the rainbow by john martin 1837 fe2de1d9|the rainbow by john martin 1837]] — shared language: martin
 - [[knowledge/wiki/artists/Artist - Agnes Martin|Artist - Agnes Martin]] — shared language: martin
 - [[knowledge/wiki/images/Illustration Untitled by Agnes Martin 03c5d4b8|Illustration Untitled by Agnes Martin]] — shared language: martin
-- [[knowledge/wiki/images/the resurrection by martin schongauer c 1475 1480 6ba685bc|the resurrection by martin schongauer c 1475 1480]] — shared language: martin
+- [[knowledge/wiki/artists/Artist - martin schongauer|Artist - martin schongauer]] — shared language: martin
 <!-- vault-crosslinks:end -->

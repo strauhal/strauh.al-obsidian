@@ -453,7 +453,7 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 <!-- kb-links:start -->
 ## Connections
 
-*Every bookmark on this page wired to the ideas, people, and books it touches — 99 of 395 links connected (47 nodes).*
+*Every bookmark on this page wired to the ideas, people, and books it touches — 100 of 395 links connected (49 nodes).*
 
 **[[The Internet as Confidant]]** — [The Art of Metal Gear Solid V : Konami Yoji Shinkawa : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the_Art_Of_Metal_Gear_Solid_V/mode/2up) · [If You Don’t Understand Conceptual Art, It’s Not Your Fault / Artsy](https://www.artsy.net/article/artsy-editorial-if-you-don-t-understand-conceptual-art-it-s-not-your-fault) · [Make WordArt - Online word art generator](https://www.makewordart.com/) · [CLOG](https://www.clog-online.com/) · [Vaporwave / Aesthetics Wiki / Fandom](https://aesthetics.fandom.com/wiki/Vaporwave) · [The Web Export Target / Cycling '74](https://rnbo.cycling74.com/learn/the-web-export-target) · [Students defeat new 'Barnacle' parking clamp, skip fines and get free internet / Driving](https://driving.ca/auto-news/news/students-defeat-new-barnacle-parking-boot-skip-fines-and-get-free-internet) · [LiveLeak, the internet’s font of gore and violence, has shut down - The Verge](https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix) · [The Online Hell of Amazon's Mechanical Turk - The Atlantic](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/) · [How China's most enduring meme has lasted a decade / Mashable](https://mashable.com/article/china-reaction-images-4chan) · [I Wish I Didn't Miss the '90s-00s Internet / rohan ganapavarapu](https://rohan.ga/blog/early-internet/?utm_source=tldrnewsletter) · [German Idealism / Internet Encyclopedia of Philosophy](https://iep.utm.edu/germidea/) · [Deep depression after ten day vipassana retreat. : r/vipassana](https://www.reddit.com/r/vipassana/comments/91hj9w/deep_depression_after_ten_day_vipassana_retreat/) · [Frontiers / Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.732028/full) · [Psychedelic Experiences During the Early COVID-19 Pandemic: Findings From an International Online Survey - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8599818/) · [THE 7th VOYAGE OF SINBAD (1958) 2008 BDRip - Ray Harryhausen : Morningside Productions : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the-7-th-voyage-of-sinbad-1958-ray-harryhausen) · [(6) What is this black square on the left? : cinematography](https://www.reddit.com/r/cinematography/comments/12aiok9/what_is_this_black_square_on_the_left/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [In 50 years, what movies do you think will be the "classics" of the last 10-15 years? : AskReddit](https://www.reddit.com/r/AskReddit/comments/cmad2/comment/c0tlmx9/) · [(16) Repost: A Parallel Life / Awoken By A Lamp : Glitch_in_the_Matrix](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/30t9kd/repost_a_parallel_life_awoken_by_a_lamp/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) · [Create Your Own Quantum Mechanics Simulation (With Python) / by Philip Mocz / Level Up Coding](https://levelup.gitconnected.com/create-your-own-quantum-mechanics-simulation-with-python-51e215346798) · [Reddit thinks ChatGPT-like AI will ‘complement’ human connection, not replace it - The Verge](https://www.theverge.com/2023/2/10/23594786/reddit-bing-chatgpt-ai-google-search-bard)
 
@@ -529,7 +529,11 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 **[[Human-Machine Tug of War]]** — [Gucci to collaborate with bootlegger Dapper Dan / Gucci / The Guardian](https://www.theguardian.com/fashion/2017/sep/11/gucci-to-collaborate-with-bootlegger-dapper-dan)
 
+**[[Martha Argerich]]** — [Martha Argerich is a legend of the classical music world. But she doesn’t act like one. - The Washington Post](https://www.washingtonpost.com/entertainment/music/martha-argerich-is-a-legend-of-the-classical-music-world-but-she-doesnt-act-like-one/2016/12/01/117095b4-b104-11e6-be1c-8cec35b1ad25_story.html)
+
 **[[Piero Scaruffi]]** — [The History of Rock Music. Arca: biography, discography, review, links](https://www.scaruffi.com/vol8/arca.html)
+
+**[[Ray Harryhausen]]** — [THE 7th VOYAGE OF SINBAD (1958) 2008 BDRip - Ray Harryhausen : Morningside Productions : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/the-7-th-voyage-of-sinbad-1958-ray-harryhausen)
 
 **[[Ryuichi Sakamoto]]** — [Riot in Lagos by Ryuichi Sakamoto — Hip Hop Electronic](https://www.hiphopelectronic.com/no-daw-its-old-school-bangers/electro-songs-ryuichi-sakamoto-riot-in-lagos)
 
@@ -560,6 +564,6 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 - [[knowledge/wiki/pages/culture society|culture society]] — named in this note
 - [[knowledge/wiki/anchors/james-bridle|James Bridle]] — named in this note
 - [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
-- [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — named in this note
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/images/y2k aesthetic b9239207|y2k aesthetic]] — named in this note
 <!-- vault-crosslinks:end -->

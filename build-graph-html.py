@@ -70,6 +70,27 @@ def parse_frontmatter(text):
                 fm[key] = val
     return fm, body
 
+# Books and culture-diet entries (movies, albums) are individually compiled
+# notes with a real "work"/"title" + "creator"/"author" in frontmatter -- but
+# the node's display name defaulted to the raw filename slug (e.g.
+# "movie-a-beautiful-mind", "0-gilles-deleuze-difference-and-repetition")
+# instead of that clean metadata. Nobody says a slug out loud in
+# conversation, so the chat could never actually land on these when it
+# mentioned them naturally. Format as "Work by Creator" -- same convention as
+# artwork titles -- so the client's existing "strip trailing by X" paraphrase
+# fallback covers these too, for free.
+_JUNKY_TITLE_RE = re.compile(r'^[0-9a-f\s._-]{6,}$', re.I)   # bare numbers/hashes, not a real title
+def clean_work_name(fm, base):
+    title = (fm.get("work") or fm.get("title") or "").strip()
+    title = re.sub(r'^(watchlist|listening|reading)\s*-\s*', '', title, flags=re.I).strip()
+    if not title or _JUNKY_TITLE_RE.match(title):
+        return base   # junk/placeholder title (scraped PDF, no real metadata) -- filename is honest, at least
+    creator = (fm.get("creator") or fm.get("author") or "").strip()
+    creator = re.sub(r'^\d+\s+', '', creator)   # strip a leading ordinal-scrape artifact ("0 Gilles Deleuze")
+    if creator and creator.lower() not in ("unknown", "n/a", "none"):
+        return title + " by " + creator
+    return title
+
 # A handful of pages (diary, sketchbook) are dense, singular, personal-journal
 # sources tens of KB long -- capping their searchable excerpt at EXCERPT_CHARS
 # like every other note truncates them to their first ~900 characters, making
@@ -179,7 +200,8 @@ def build_data(vault):
                           "fm": slim, "ex": "", "images": images, "unsorted": unsorted_img}
         else:
             cap = DEEP_EXCERPT_CHARS if rel in DEEP_EXCERPT_RELPATHS else EXCERPT_CHARS
-            notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
+            disp = clean_work_name(fm, base) if group in ("books", "culture") else base
+            notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
                           "fm": fm, "ex": make_excerpt(body, cap), "images": images, "unsorted": False}
         by_basename.setdefault(base.lower(), []).append(rel)
         by_relpath[relnoext.lower()] = rel
@@ -1752,6 +1774,16 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       scored.sort(function(a,b){ return b[0]-a[0]; });
     }
     var idxs = scored.slice(0,8).map(function(s){ return s[1]; });
+    // Be generous about surfacing paintings/photographs even in ordinary
+    // conversation, not only when someone explicitly says "show me" -- but
+    // gated on an actual keyword match (score>0 from the same scoring pass
+    // above), never just tacked on regardless of topic. Images compete for
+    // the top-8 on equal footing with text notes, but a rich prose excerpt
+    // gives a concept/diary entry far more surface area to match a query
+    // than an image's bare title -- so reserve a couple of slots specifically
+    // for the best-scoring images that didn't otherwise make the cut.
+    var topImages = scored.filter(function(s){ return nodes[s[1]].shellR!=null; }).slice(0,2);
+    topImages.forEach(function(s){ if(idxs.indexOf(s[1])===-1) idxs.push(s[1]); });
     if(VISUAL_REQUEST_RE.test(query)){
       // strip the generic visual-request words themselves before treating
       // what's left as a "subject" to search artworks for -- "paintings of
@@ -2127,7 +2159,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "one -- just say its exact title from the notes below in your reply (e.g. \"there's this photograph, "+
       "Photograph - X\") and it'll actually appear on screen. Never say you can't show images -- if nothing "+
       "in the notes below actually fits what they're asking for, say that instead of claiming it's not "+
-      "possible in general.\n\nRelevant notes:\n"+
+      "possible in general. You don't need to be asked first, either -- if a painting or photograph in the "+
+      "notes below genuinely fits what's being talked about, bring it up on your own, the same way you'd "+
+      "casually gesture at something while telling a story. But only when it actually fits -- naming some "+
+      "unrelated image just to have a picture on screen is worse than not showing one at all.\n\n"+
+      "The same goes for a specific book, movie, or album if one's in the notes below: say the specific "+
+      "work by name (not a vague \"a book about X\") so it actually opens, but only when the conversation is "+
+      "genuinely about it.\n\nRelevant notes:\n"+
       (context || "(nothing closely matched -- answer from a general sense of the archive, or say you're not sure)");
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);

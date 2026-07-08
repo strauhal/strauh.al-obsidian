@@ -2009,14 +2009,15 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       // Titles are usually "Description by Artist (Year)" -- the model
       // reliably says the description when talking naturally but doesn't
       // always tack the exact " by Artist (Year)" suffix back on, so match
-      // on each successively-shorter real chunk of the title too. Each
-      // fallback is still a specific multi-word phrase (min length keeps
-      // rising as more gets stripped), not a generic word, so this adds
-      // recall for genuine paraphrases without opening the door to noise.
+      // on each successively-shorter real chunk of the title too. Same min
+      // length (5) at every fallback level, not a rising one -- a short but
+      // specific proper-noun title ("Akira", "Crumb") is exactly the case
+      // this fallback exists for; a stricter bar for shorter strings was
+      // silently excluding the single-word titles that needed it the most.
       var stripped = nm.replace(TRAILING_YEAR_RE, "");
       if(stripped!==nm && stripped.length>=5) sortedNames.push([stripped, i]);
       var descOnly = stripped.replace(TRAILING_BY_RE, "");
-      if(descOnly!==stripped && descOnly.length>=8) sortedNames.push([descOnly, i]);
+      if(descOnly!==stripped && descOnly.length>=5) sortedNames.push([descOnly, i]);
     }
     sortedNames.sort(function(a,b){ return b[0].length-a[0].length; });
     return sortedNames;

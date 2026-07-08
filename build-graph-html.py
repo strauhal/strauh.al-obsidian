@@ -317,6 +317,7 @@ TEMPLATE = r"""<!DOCTYPE html>
     --line:rgba(255,255,255,0.55);
     --panel:#00f;
     --accent:#fff;
+    --edge:16px;   /* one shared margin for every fixed panel's outer edge */
   }
   *{box-sizing:border-box}
   @keyframes changeColor{0%{background-color:#00f}50%{background-color:#20f}100%{background-color:#00f}}
@@ -337,17 +338,22 @@ TEMPLATE = r"""<!DOCTYPE html>
   h1 a{pointer-events:auto;}
 
   /* Buttons top-right (text labels) */
-  .iconbtn{position:fixed;right:16px;z-index:6;
+  .iconbtn{position:fixed;right:var(--edge);z-index:6;
     background:var(--panel);border:1px solid var(--line);color:#fff;
     display:flex;align-items:center;justify-content:center;cursor:pointer;
     font-size:15px;padding:5px 13px;white-space:nowrap;}
   .iconbtn:hover{background:#fff;color:#00f;}
-  #btnSettings{top:14px}
-  #btnReset{top:54px}
-  #btnSearch{top:94px}
+  #btnSettings{top:var(--edge)}
+  #btnReset{top:calc(var(--edge) + 40px)}
+  #btnSearch{top:calc(var(--edge) + 80px)}
 
-  /* Settings panel */
-  #panel{position:fixed;top:14px;right:60px;z-index:7;width:288px;max-height:calc(100vh - 28px);
+  /* Settings panel -- sits left of the button column with a clearance wide
+     enough that the two never crowd each other even at narrow widths, and its
+     own max-height leaves the SAME edge margin at the bottom as at the top so
+     it reads as a centred column rather than stretching to fill whatever
+     space happens to be free. */
+  #panel{position:fixed;top:var(--edge);right:calc(var(--edge) + 84px);z-index:7;width:288px;
+    max-height:min(calc(100vh - 2*var(--edge)), 70vh);
     overflow-y:auto;background:var(--panel);border:1px solid var(--line);
     padding:12px 15px 15px;display:none;font-size:14px;}
   #panel.open{display:block}
@@ -372,7 +378,7 @@ TEMPLATE = r"""<!DOCTYPE html>
   .legend .lg:hover .ct{color:#00f;}
 
   /* Search (fixed width so long paths clip instead of overflowing the page) */
-  #searchwrap{position:fixed;top:14px;left:50%;transform:translateX(-50%);z-index:7;display:none;
+  #searchwrap{position:fixed;top:var(--edge);left:50%;transform:translateX(-50%);z-index:7;display:none;
     width:min(460px,calc(100vw - 130px));}
   #searchwrap.open{display:block;}
   #search{width:100%;background:var(--panel);border:1px solid var(--line);
@@ -399,8 +405,8 @@ TEMPLATE = r"""<!DOCTYPE html>
   #hint b{color:#fff;font-weight:400;}
 
   /* Node info popup (top-left) */
-  #info{position:fixed;top:62px;left:16px;z-index:9;width:370px;max-width:calc(100vw - 32px);
-    max-height:calc(100vh - 90px);overflow-y:auto;background:var(--panel);
+  #info{position:fixed;top:62px;left:var(--edge);z-index:9;width:370px;max-width:calc(100vw - 2*var(--edge));
+    max-height:calc(100vh - 62px - var(--edge));overflow-y:auto;background:var(--panel);
     border:1px solid var(--line);display:none;font-size:14px;
     transform:translateY(-6px);opacity:0;transition:opacity .16s ease,transform .16s ease;}
   #info.open{display:block;transform:none;opacity:1;}
@@ -434,8 +440,9 @@ TEMPLATE = r"""<!DOCTYPE html>
   #info .il:hover,#info .il.on{background:#fff;color:#00f;}
 
   /* image viewer (to the right of the note popup) — same language as #info */
-  #imgview{position:fixed;top:62px;left:402px;z-index:9;max-width:calc(100vw - 418px);
-    max-height:calc(100vh - 90px);background:#00f;border:1px solid var(--line);display:none;}
+  #imgview{position:fixed;top:62px;left:calc(2*var(--edge) + 370px);z-index:9;
+    max-width:calc(100vw - 3*var(--edge) - 370px);
+    max-height:calc(100vh - 62px - var(--edge));background:#00f;border:1px solid var(--line);display:none;}
   #imgview.open{display:block;}
   #imgview .ihd{display:flex;align-items:center;gap:9px;padding:9px 12px;border-bottom:1px solid var(--line);}
   #imgview .ittl{flex:1;font-size:13px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
@@ -446,9 +453,10 @@ TEMPLATE = r"""<!DOCTYPE html>
   #imgview .miss{padding:20px;color:#fff;font-size:13px;max-width:300px;}
 
   /* Chat (bottom-right) */
-  #btnChat{top:134px}
-  #chatwrap{position:fixed;bottom:16px;right:16px;z-index:9;width:360px;max-width:calc(100vw - 32px);
-    max-height:min(64vh,620px);background:var(--panel);border:1px solid var(--line);
+  #btnChat{top:calc(var(--edge) + 120px)}
+  #chatwrap{position:fixed;bottom:var(--edge);right:var(--edge);z-index:9;width:360px;
+    max-width:calc(100vw - 2*var(--edge));
+    max-height:min(55vh,560px);background:var(--panel);border:1px solid var(--line);
     display:none;flex-direction:column;font-size:14px;}
   #chatwrap.open{display:flex;}
   #chatwrap .chd{display:flex;align-items:center;gap:9px;padding:10px 13px;border-bottom:1px solid var(--line);flex:0 0 auto;}

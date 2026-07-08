@@ -70,7 +70,17 @@ def parse_frontmatter(text):
                 fm[key] = val
     return fm, body
 
-def make_excerpt(body):
+# A handful of pages (diary, sketchbook) are dense, singular, personal-journal
+# sources tens of KB long -- capping their searchable excerpt at EXCERPT_CHARS
+# like every other note truncates them to their first ~900 characters, making
+# everything past that point (the large majority of the file) structurally
+# invisible to retrieval, no matter how well a query's keywords would have
+# matched it. There are only a few of these, so a much larger cap costs
+# almost nothing in total JSON size.
+DEEP_EXCERPT_RELPATHS = {"knowledge/raw/diary.md", "knowledge/raw/ideas-sketchbook.md"}
+DEEP_EXCERPT_CHARS = 20000
+
+def make_excerpt(body, cap=EXCERPT_CHARS):
     b = re.sub(r'<!--.*?-->', '', body, flags=re.S)          # html comments
     b = re.sub(r'!\[\[[^\]]*\]\]', '', b)                     # image/embed transclusions
     b = re.sub(r'\[\[([^\]\|]+)\|([^\]]+)\]\]', r'\2', b)     # [[a|b]] -> b
@@ -86,8 +96,8 @@ def make_excerpt(body):
     b = re.sub(r'(?<!\n)\n(?!\n)(?!\s*•)', ' ', b)
     b = re.sub(r'[ \t]+', ' ', b)
     b = re.sub(r'\n{3,}', '\n\n', b).strip()
-    if len(b) > EXCERPT_CHARS:
-        b = b[:EXCERPT_CHARS].rstrip() + " …"
+    if len(b) > cap:
+        b = b[:cap].rstrip() + " …"
     return b
 
 def is_omitted_note(relpath, fm, name):
@@ -168,8 +178,9 @@ def build_data(vault):
             notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
                           "fm": slim, "ex": "", "images": images, "unsorted": unsorted_img}
         else:
+            cap = DEEP_EXCERPT_CHARS if rel in DEEP_EXCERPT_RELPATHS else EXCERPT_CHARS
             notes[rel] = {"name": base, "group": group, "folder": "/".join(parts[:-1]),
-                          "fm": fm, "ex": make_excerpt(body), "images": images, "unsorted": False}
+                          "fm": fm, "ex": make_excerpt(body, cap), "images": images, "unsorted": False}
         by_basename.setdefault(base.lower(), []).append(rel)
         by_relpath[relnoext.lower()] = rel
 
@@ -1742,10 +1753,60 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
     return idxs;
   }
-  function buildContext(idxs){
+  // Most notes' excerpts are short (<=900 chars) so slicing the first 500 was
+  // fine. But the few DEEP_EXCERPT notes (diary, sketchbook) are now up to
+  // 20,000 chars specifically so the actual matching passage can be *found* --
+  // and always taking chars[0:500] would still only ever show that passage's
+  // opening lines, never the part that actually matched. Instead: locate
+  // wherever the query's terms actually hit inside the excerpt and take a
+  // window around THAT, falling back to the start only if nothing hit.
+  // NOT just "the earliest match wins" -- generic query words ("about", "with",
+  // "your") show up almost immediately in any sufficiently long text, so the
+  // first pass of this (picking whichever term hit first) kept anchoring on
+  // those instead of the specific, meaningful term ("cafe", "dad") that
+  // actually mattered, several thousand characters later. Instead: find every
+  // occurrence of every distinct query term, then pick the occurrence with the
+  // most OTHER distinct terms clustered near it -- "cafe" and "dad" sitting a
+  // few words apart outscores an isolated "about" with nothing else around it.
+  // Generic filler words are common enough that SEVERAL of them cluster
+  // together purely by chance in almost any stretch of a long personal diary
+  // -- so even the distinct-term-density scoring above kept getting outvoted
+  // by an accidental pile-up of "tell"/"about"/"with"/"your" near the start,
+  // never actually reaching the one place "cafe" and "dad" sit near each
+  // other. Filtering these out before anchoring is what actually fixes it --
+  // only genuinely specific words should get a say in WHERE to look.
+  var GENERIC_TERMS = {"tell":1,"about":1,"you":1,"your":1,"used":1,"with":1,"the":1,"and":1,
+    "that":1,"this":1,"have":1,"has":1,"had":1,"were":1,"was":1,"are":1,"for":1,"from":1,
+    "what":1,"when":1,"where":1,"which":1,"who":1,"how":1,"why":1,"can":1,"could":1,"would":1,
+    "should":1,"will":1,"just":1,"like":1,"know":1,"think":1,"really":1,"much":1,"more":1,
+    "some":1,"any":1,"all":1,"one":1,"get":1,"got":1,"going":1,"go":1,"went":1,"say":1,"said":1};
+  function relevantSlice(ex, terms, maxLen){
+    if(ex.length<=maxLen) return ex;
+    var specific = terms.filter(function(t){ return !GENERIC_TERMS[t]; });
+    if(specific.length) terms = specific;   // only fall back to generic terms if nothing specific was asked
+    var low = ex.toLowerCase(), occ = [], seen = {};
+    terms.forEach(function(t){
+      if(seen[t]) return; seen[t]=true;
+      var p = low.indexOf(t);
+      while(p!==-1){ occ.push({pos:p, term:t}); p = low.indexOf(t, p+1); }
+    });
+    if(!occ.length) return ex.slice(0,maxLen).trim()+" …";
+    var half = maxLen/2, bestPos = occ[0].pos, bestScore = -1;
+    occ.forEach(function(o){
+      var distinct = {};
+      occ.forEach(function(o2){ if(Math.abs(o2.pos-o.pos)<=half) distinct[o2.term]=true; });
+      var score = Object.keys(distinct).length;
+      if(score>bestScore){ bestScore=score; bestPos=o.pos; }
+    });
+    var start = Math.max(0, bestPos - Math.floor(maxLen*0.35));
+    var end = Math.min(ex.length, start+maxLen);
+    var snippet = ex.slice(start,end).trim();
+    return (start>0?"… ":"")+snippet+(end<ex.length?" …":"");
+  }
+  function buildContext(idxs, terms){
     return idxs.map(function(i){
       var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
-      return "### " + nodes[i].name + "\n" + ex.slice(0,500);
+      return "### " + nodes[i].name + "\n" + relevantSlice(ex, terms||[], 900);
     }).join("\n\n");
   }
 
@@ -1896,6 +1957,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // independent candidate for the same node -- either form matching is
   // enough, and the full form still wins if the model happens to say it.
   var TRAILING_YEAR_RE = /\s*\([^()]*\)\s*$/;
+  var TRAILING_BY_RE = /\s+by\s+[a-z][^,]*$/i;
   var sortedNames = null;
   function getSortedNames(){
     if(sortedNames) return sortedNames;
@@ -1904,8 +1966,17 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       var nm = nodes[i].name;
       if(nm.length<5 || MENTION_STOPLIST[nm.toLowerCase()]) continue;
       sortedNames.push([nm, i]);
+      // Titles are usually "Description by Artist (Year)" -- the model
+      // reliably says the description when talking naturally but doesn't
+      // always tack the exact " by Artist (Year)" suffix back on, so match
+      // on each successively-shorter real chunk of the title too. Each
+      // fallback is still a specific multi-word phrase (min length keeps
+      // rising as more gets stripped), not a generic word, so this adds
+      // recall for genuine paraphrases without opening the door to noise.
       var stripped = nm.replace(TRAILING_YEAR_RE, "");
       if(stripped!==nm && stripped.length>=5) sortedNames.push([stripped, i]);
+      var descOnly = stripped.replace(TRAILING_BY_RE, "");
+      if(descOnly!==stripped && descOnly.length>=8) sortedNames.push([descOnly, i]);
     }
     sortedNames.sort(function(a,b){ return b[0].length-a[0].length; });
     return sortedNames;
@@ -2017,7 +2088,8 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     addMessage("user", q);
     history.push({role:"user", text:q});
 
-    var context = buildContext(retrieve(q));
+    var qTerms = q.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
+    var context = buildContext(retrieve(q), qTerms);
     var sysPrompt = "You ARE Ernest Strauhal, talking directly to whoever's asking -- first person, always "+
       "\"I,\" never \"he\" or \"Ernest\" or third person, and never refer to yourself as an AI, assistant, "+
       "archive, or knowledge graph. The notes below are pulled from your own real diary, reading, art "+
@@ -2027,6 +2099,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "not a stoner-surfer caricature: no \"dude,\" \"bro,\" \"totally rad,\" no weed jokes, don't overdo it. "+
       "Output ONLY the reply itself -- never narrate your own reasoning, never write things like \"thoughts:\" "+
       "or explain how you're deciding what to say, that should never appear in the output at all.\n\n"+
+      "HARD RULE, no exceptions: never state a specific biographical fact -- where you grew up, family "+
+      "details, a specific past event, a relationship, a date, a place you lived -- unless it is explicitly "+
+      "written in the notes below. Do not infer, guess, round up, or fill in a plausible-sounding detail from "+
+      "general pattern-matching (e.g. a relative's history is NOT your own history -- never blend the two). "+
+      "If a specific fact isn't in the notes and you're not certain of it, say plainly you don't have that "+
+      "written down or aren't sure, rather than answering with something invented. Getting a hard fact wrong "+
+      "is much worse than admitting you don't know.\n\n"+
       "Write ALL LOWERCASE, always, no capital letters anywhere, not even at the start of a sentence or for "+
       "\"I\" -- lowercase i.\n\n"+
       "Keep it SHORT -- one or two sentences, sometimes just a phrase. Never a paragraph.\n\n"+

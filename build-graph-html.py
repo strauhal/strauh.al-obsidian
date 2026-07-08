@@ -1942,8 +1942,19 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
   };
 
-  // ---- voice: locked to "Ralph" -- picked and settled on directly, no more
-  // heuristic guessing or a dropdown to fuss with. ----
+  // ---- voice: Ernest's actual cloned voice via Gradium, with the browser's
+  // built-in "Ralph" as a fallback if the call fails (rate limit, quota,
+  // offline, etc.) so a bad network moment doesn't just go silent. This key
+  // is deliberately baked into the page (not entered per-visitor like the
+  // chat LLM key): it needs to speak in the same voice for everyone who
+  // visits, not whoever happens to paste a key in. Known, accepted tradeoff:
+  // since this is a public static page, the key is extractable via view-
+  // source by anyone who looks for it. ----
+  var GRADIUM_KEY = "gsk_a471d5f9cfb8e81305442cefe89e2dbdcfe6b1414e6d45fa0d0b03ea41bb7dfe";
+  var GRADIUM_VOICE_ID = "ZG9zLaTKhQ0tLNq6";
+  var GRADIUM_TTS_URL = "https://api.gradium.ai/api/post/speech/tts";
+  var currentAudio = null;
+
   var chosenVoice = null;
   function pickVoice(){
     if(!window.speechSynthesis) return;
@@ -1954,16 +1965,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       || voices[0];
   }
   if(window.speechSynthesis){ pickVoice(); window.speechSynthesis.onvoiceschanged = pickVoice; }
-  // speak() splits into clauses (not just sentences) so there's a breath-like
-  // gap at each pause, and reports back exactly when each clause STARTS via
-  // the browser's own utterance event -- onClauseStart -- rather than
-  // guessing at timing, so anything synced to it (the graph jump queue)
-  // tracks Ralph's actual cadence instead of a blind timer.
-  function speak(text, onClauseStart, onAllDone){
+
+  // Browser-TTS fallback path (unchanged from before): splits into clauses so
+  // there's a breath-like gap at each pause, reporting each clause's actual
+  // start via the browser's own utterance event.
+  function speakBrowser(clauses, onClauseStart, onAllDone){
     if(!window.speechSynthesis){ if(onAllDone) onAllDone(); return; }
     window.speechSynthesis.cancel();
-    var clauses = (text.match(/[^,.!?;]+[,.!?;]*/g) || [text]).map(function(s){ return s.trim(); }).filter(Boolean);
-    if(!clauses.length || muted){ if(onAllDone) onAllDone(); return; }
     var i = 0;
     function next(){
       if(i>=clauses.length){ if(onAllDone) onAllDone(); return; }
@@ -1976,6 +1984,51 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       window.speechSynthesis.speak(u);
     }
     next();
+  }
+
+  // Real cloned-voice path: fetch each clause's audio from Gradium and play
+  // it via an <audio> element, prefetching the NEXT clause while the current
+  // one plays so there's minimal dead air between them. Falls back to the
+  // browser voice (from whichever clause failed, onward) if a request errors
+  // -- a quota/network hiccup shouldn't mean total silence.
+  function speakGradium(clauses, onClauseStart, onAllDone){
+    var i = 0, pending = null;
+    function fetchClause(s){
+      return fetch(GRADIUM_TTS_URL, {
+        method: "POST",
+        headers: {"x-api-key": GRADIUM_KEY, "Content-Type": "application/json"},
+        body: JSON.stringify({text: s, voice_id: GRADIUM_VOICE_ID, output_format: "wav", only_audio: true})
+      }).then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.blob(); });
+    }
+    function next(){
+      if(i>=clauses.length){ if(onAllDone) onAllDone(); return; }
+      var s = clauses[i++];
+      var audioPromise = pending || fetchClause(s);
+      pending = null;
+      audioPromise.then(function(blob){
+        var url = URL.createObjectURL(blob);
+        currentAudio = new Audio(url);
+        if(onClauseStart) onClauseStart(s);
+        if(i<clauses.length) pending = fetchClause(clauses[i]).catch(function(){ return null; });
+        currentAudio.onended = function(){ URL.revokeObjectURL(url); next(); };
+        currentAudio.onerror = function(){ URL.revokeObjectURL(url); next(); };
+        currentAudio.play();
+      }).catch(function(){
+        // this clause's real-voice request failed -- read just this one
+        // clause (and only this one) in the fallback voice, then resume
+        // trying Gradium for whatever's left
+        speakBrowser([s], onClauseStart, next);
+      });
+    }
+    next();
+  }
+
+  function speak(text, onClauseStart, onAllDone){
+    if(currentAudio){ currentAudio.pause(); currentAudio = null; }
+    var clauses = (text.match(/[^,.!?;]+[,.!?;]*/g) || [text]).map(function(s){ return s.trim(); }).filter(Boolean);
+    if(!clauses.length || muted){ if(onAllDone) onAllDone(); return; }
+    if(GRADIUM_KEY && GRADIUM_VOICE_ID) speakGradium(clauses, onClauseStart, onAllDone);
+    else speakBrowser(clauses, onClauseStart, onAllDone);
   }
 
   // ---- mention detection: as the answer streams in, check for note names

@@ -503,6 +503,12 @@ TEMPLATE = r"""<!DOCTYPE html>
   #chatInputRow.show{display:flex;}
   #chatInputRow input{flex:1;}
   #chatMute.muted{opacity:.4;}
+  #chatVoiceRow{display:none;border-top:1px solid var(--line);padding:8px 10px;flex:0 0 auto;}
+  #chatVoiceRow.show{display:block;}
+  #chatVoiceRow input{width:100%;background:transparent;border:1px solid var(--line);color:#fff;
+    padding:6px 9px;font-size:12px;font-family:inherit;outline:none;}
+  #chatVoiceRow input:focus{border-color:#fff;}
+  #chatVoiceRow .hint{color:var(--muted);font-size:10.5px;line-height:1.4;margin-top:4px;}
 </style>
 </head>
 <body>
@@ -528,6 +534,10 @@ TEMPLATE = r"""<!DOCTYPE html>
     <button id="chatKeySave">connect</button>
   </div>
   <div id="chatMessages"></div>
+  <div id="chatVoiceRow">
+    <input id="chatGradiumKey" type="password" placeholder="optional: paste a Gradium API key to hear this in the real voice" autocomplete="off" spellcheck="false">
+    <div class="hint">stored only in this browser, same as the chat key above. leave blank to keep the fallback voice.</div>
+  </div>
   <div id="chatInputRow">
     <input id="chatText" type="text" placeholder="ask about anything in here…" autocomplete="off" spellcheck="false">
     <button id="chatSend">send</button>
@@ -1680,14 +1690,15 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
 // highlight-sync all run against the DATA already loaded for the graph itself,
 // no server round-trip beyond the LLM call. ----------
 (function(){
-  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted";
+  var LS_KEY="brainChatKey", LS_PROVIDER="brainChatProvider", LS_MUTE="brainChatMuted", LS_GRADIUM="brainGradiumKey";
   var chatWrap=$("chatwrap"), chatSetup=$("chatSetup"), chatMessages=$("chatMessages"),
-      chatInputRow=$("chatInputRow"),
+      chatInputRow=$("chatInputRow"), chatVoiceRow=$("chatVoiceRow"), gradiumKeyInput=$("chatGradiumKey"),
       providerSel=$("chatProvider"), keyInput=$("chatKeyInput"),
       keySave=$("chatKeySave"), chatText=$("chatText"), chatSend=$("chatSend"), chatMute=$("chatMute");
   var apiKey = localStorage.getItem(LS_KEY) || "";
   var provider = localStorage.getItem(LS_PROVIDER) || "gemini";
   var muted = localStorage.getItem(LS_MUTE) === "1";
+  var gradiumKey = localStorage.getItem(LS_GRADIUM) || "";
   var history = [];   // {role:"user"|"assistant", text}
   var sending = false;
 
@@ -1695,12 +1706,21 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   function showChatUI(){
     if(apiKey){
       chatSetup.style.display="none";
-      chatMessages.classList.add("show"); chatInputRow.classList.add("show");
+      chatMessages.classList.add("show"); chatInputRow.classList.add("show"); chatVoiceRow.classList.add("show");
     } else {
       chatSetup.style.display="flex";
-      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show");
+      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show"); chatVoiceRow.classList.remove("show");
     }
   }
+  gradiumKeyInput.value = gradiumKey;
+  function saveGradiumKey(){
+    gradiumKey = gradiumKeyInput.value.trim();
+    if(gradiumKey) localStorage.setItem(LS_GRADIUM, gradiumKey); else localStorage.removeItem(LS_GRADIUM);
+  }
+  gradiumKeyInput.addEventListener("change", saveGradiumKey);   // fires on blur
+  gradiumKeyInput.addEventListener("keydown", function(e){      // fires on Enter -- this input isn't
+    if(e.key==="Enter"){ saveGradiumKey(); gradiumKeyInput.blur(); }   // in a <form>, so Enter alone does nothing otherwise
+  });
   providerSel.value = provider;
   updateMuteBtn();
   showChatUI();
@@ -1942,15 +1962,14 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
   };
 
-  // ---- voice: Ernest's actual cloned voice via Gradium, with the browser's
-  // built-in "Ralph" as a fallback if the call fails (rate limit, quota,
-  // offline, etc.) so a bad network moment doesn't just go silent. This key
-  // is deliberately baked into the page (not entered per-visitor like the
-  // chat LLM key): it needs to speak in the same voice for everyone who
-  // visits, not whoever happens to paste a key in. Known, accepted tradeoff:
-  // since this is a public static page, the key is extractable via view-
-  // source by anyone who looks for it. ----
-  var GRADIUM_KEY = "gsk_a471d5f9cfb8e81305442cefe89e2dbdcfe6b1414e6d45fa0d0b03ea41bb7dfe";
+  // ---- voice: Ernest's actual cloned voice via Gradium, bring-your-own-key
+  // same as the chat LLM key above -- each visitor pastes their own Gradium
+  // key (optional; stored the same way, same place), so there's no shared
+  // secret sitting in the page for anyone to extract. The voice ID isn't a
+  // credential -- it's just which clone to speak as -- so that one alone is
+  // fine to bake in; it always resolves to Ernest's voice regardless of
+  // whose key is paying for the call. Falls back to the browser's built-in
+  // "Ralph" voice if no key is set, or if a Gradium call fails. ----
   var GRADIUM_VOICE_ID = "ZG9zLaTKhQ0tLNq6";
   var GRADIUM_TTS_URL = "https://api.gradium.ai/api/post/speech/tts";
   var currentAudio = null;
@@ -1996,7 +2015,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     function fetchClause(s){
       return fetch(GRADIUM_TTS_URL, {
         method: "POST",
-        headers: {"x-api-key": GRADIUM_KEY, "Content-Type": "application/json"},
+        headers: {"x-api-key": gradiumKey, "Content-Type": "application/json"},
         body: JSON.stringify({text: s, voice_id: GRADIUM_VOICE_ID, output_format: "wav", only_audio: true})
       }).then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.blob(); });
     }
@@ -2027,7 +2046,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     if(currentAudio){ currentAudio.pause(); currentAudio = null; }
     var clauses = (text.match(/[^,.!?;]+[,.!?;]*/g) || [text]).map(function(s){ return s.trim(); }).filter(Boolean);
     if(!clauses.length || muted){ if(onAllDone) onAllDone(); return; }
-    if(GRADIUM_KEY && GRADIUM_VOICE_ID) speakGradium(clauses, onClauseStart, onAllDone);
+    if(gradiumKey) speakGradium(clauses, onClauseStart, onAllDone);
     else speakBrowser(clauses, onClauseStart, onAllDone);
   }
 

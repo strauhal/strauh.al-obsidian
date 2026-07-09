@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/two sided print design featuring a sketch of a brown bear and 100 sto dinara text c7b7a5fd|two sided print design featuring a sketch of a brown bear and 100 sto dinara text]] — shared language: dinara, bear, featuring
+- [[_archive/auto-generated/images-stale/two sided print design featuring a sketch of a brown bear and 100 sto dinara text c7b7a5fd|two sided print design featuring a sketch of a brown bear and 100 sto dinara text]] — shared language: dinara, bear, brown
 - [[knowledge/wiki/images/Document Conceptual Design for Serbian 100 Dinar Banknote with Bear Sketch 0bafef42|Document Conceptual Design for Serbian 100 Dinar Banknote with Bear Sketch]] — shared language: banknote, conceptual, bear
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 - [[_archive/failed-intelligence-tests/Constellation - Ursa Major|Constellation - Ursa Major]] — shared language: bear

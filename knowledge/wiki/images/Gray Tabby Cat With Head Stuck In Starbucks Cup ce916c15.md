@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Gray Tabby
 - [[knowledge/wiki/images/Tabby Cat Next To Decanter And Glass Of Amber Liquid 0cd70187|Tabby Cat Next To Decanter And Glass Of Amber Liquid]] — shared language: tabby, cat
 - [[knowledge/wiki/images/Tabby Cat Covered In White Packing Peanuts On Wooden Floor 8fed930e|Tabby Cat Covered In White Packing Peanuts On Wooden Floor]] — shared language: tabby, cat
 - [[knowledge/wiki/images/oedipus and the sphinx by franz stuck 1891 02090465|oedipus and the sphinx by franz stuck 1891]] — shared language: stuck
-- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
+- [[knowledge/wiki/images/der froschkonig the frog king by franz stuck 1899 62fcd95e|der froschkonig the frog king by franz stuck 1899]] — shared language: stuck
 <!-- vault-crosslinks:end -->

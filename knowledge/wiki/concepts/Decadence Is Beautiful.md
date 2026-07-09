@@ -59,17 +59,6 @@ the Decadents made their subject.
 **Books (2).** [[egon-schiele-schiele-drawings-dover-publications|Schiele Drawings-Dover Publications]] · [[paglia-camille-sexual-personae-art-and-decadence-from-nefertiti-to-emily-dickinson|Sexual personae art and decadence from Nefertiti to Emily Dickinson]]
 
 <!-- archive-links:end -->
-
-<!-- quotes:start -->
-## Quotes
-
-*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
-
-> pagan flaunting. Behind the trashiest Decadent painting are complex Romantic assumptions about nature and society overlooked by textbook accounts of nineteenth-century art. Modernist culture-heroes like Cézanne are overemphasized. Cézanne's plainness and 'honesty,' homely Protestant values, are in the Rousseauist-Wordsworthian line.
->
-> Western culture's hard, defined personalities suffer from inflammation of the eye. They are so numerous that they have never been catalogued, except in our magnificent portrait art. Western sexual personae are nodes of power, but they have made a torment of eroticism. From this torment has come our grand tradition of literature and art. Unfortunately, there is no way to separate the whistling ass on his girder from the rapt visionary at his easel. In accepting the gifts of culture, women may have to take the worm with the apple.
-<!-- quotes:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -80,5 +69,15 @@ the Decadents made their subject.
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self, already, archive-links
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links
-- [[knowledge/wiki/artists/Artist - kees van dongen|Artist - kees van dongen]] — shared language: dongen, kees, van
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon, rather
 <!-- vault-crosslinks:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> pagan flaunting. Behind the trashiest Decadent painting are complex Romantic assumptions about nature and society overlooked by textbook accounts of nineteenth-century art. Modernist culture-heroes like Cézanne are overemphasized. Cézanne's plainness and 'honesty,' homely Protestant values, are in the Rousseauist-Wordsworthian line.
+>
+> Western culture's hard, defined personalities suffer from inflammation of the eye. They are so numerous that they have never been catalogued, except in our magnificent portrait art. Western sexual personae are nodes of power, but they have made a torment of eroticism. From this torment has come our grand tradition of literature and art. Unfortunately, there is no way to separate the whistling ass on his girder from the rapt visionary at his easel. In accepting the gifts of culture, women may have to take the worm with the apple.
+<!-- quotes:end -->

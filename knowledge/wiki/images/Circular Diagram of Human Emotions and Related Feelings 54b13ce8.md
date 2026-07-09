@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Circular_Diag
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/In Memory of My Feelings by Jasper Johns (1961) 4981a0bc|In Memory of My Feelings by Jasper Johns (1961)]] — shared language: feelings
 - [[knowledge/wiki/images/Instructional Diagram Showing Human Proportions And Foreshortening In Perspective e2fd4f1f|Instructional Diagram Showing Human Proportions And Foreshortening In Perspective]] — shared language: human, diagram
+- [[knowledge/wiki/images/Diagram of Post Singularity Human and Machine Civilizations 401848bc|Diagram of Post Singularity Human and Machine Civilizations]] — shared language: human, diagram
 <!-- vault-crosslinks:end -->

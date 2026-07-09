@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Painting of Figures in Sombreros Near a Mission Building 831daa7f|Illustration Abstract Painting of Figures in Sombreros Near a Mission Building]] — shared language: sombreros, mission, building
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
-- [[knowledge/wiki/images/Illustration Textured Abstract Geometric Art with Zigzag and Parallel Lines 7c07207c|Illustration Textured Abstract Geometric Art with Zigzag and Parallel Lines]] — shared language: zigzag
+- [[_archive/auto-generated/images-stale/Photograph Two Men In Sombreros With Mexican Flag Screenshot 705f5eee|Photograph Two Men In Sombreros With Mexican Flag Screenshot]] — shared language: sombreros
+- [[knowledge/wiki/images/Two Men In Sombreros With Mexican Flag Screenshot fa3633fa|Two Men In Sombreros With Mexican Flag Screenshot]] — shared language: sombreros
 <!-- vault-crosslinks:end -->

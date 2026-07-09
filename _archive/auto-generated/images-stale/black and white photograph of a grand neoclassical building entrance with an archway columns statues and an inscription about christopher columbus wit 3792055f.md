@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription 7604f750|Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription]] — shared language: columbus, inscription, grand
 - [[_archive/auto-generated/images-stale/black and white photograph of a grand neoclassical building entrance with columns statues flags and crowds of people 09095f2e|black and white photograph of a grand neoclassical building entrance with columns statues flags and crowds of people]] — shared language: statues, columns, entrance
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/books-stale/christopher-dorner-s-manifesto|Christopher Dorner's Manifesto]] — shared language: christopher
+- [[knowledge/wiki/books/christopher-dorner-christopher-dorner-s-manifesto|Christopher Dorner's Manifesto]] — shared language: christopher
 <!-- vault-crosslinks:end -->

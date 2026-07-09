@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes 19b134c0|Illustration Abstract Composition of Blue, Red, Yellow, and Black Fluid Shapes]] — shared language: fluid, shapes
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: fluid
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: layered, shapes
 - [[knowledge/wiki/images/Illustration Intricate Abstract Painting with Geometric Shapes, Symbols, and Figures d9c4b0bd|Illustration Intricate Abstract Painting with Geometric Shapes, Symbols, and Figures]] — shared language: intricate, shapes
-- [[knowledge/wiki/images/Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text c3e4165b|Illustration Abstract Rainbow Colored Layered Shapes on Light Background with Text]] — shared language: layered, shapes
 <!-- vault-crosslinks:end -->

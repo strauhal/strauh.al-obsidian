@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Statue
 ## Discovered Connections
 
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
+- [[knowledge/wiki/books/power-of-full-engagement|power of full engagement]] — shared language: power
 <!-- vault-crosslinks:end -->

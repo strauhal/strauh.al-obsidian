@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: connection
 - [[_archive/removed-ollama-integration/output/connection-critic|connection-critic]] — shared language: connection
-- [[knowledge/wiki/life/The Ceremony|The Ceremony]] — shared language: connection
+- [[_archive/removed-ollama-integration/output/Evolution of Ernest's Thinking|Evolution of Ernest's Thinking]] — shared language: connection
 <!-- vault-crosslinks:end -->

@@ -20,10 +20,10 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: prior
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
 - [[knowledge/wiki/images/Vase of Flowers by George Henry Hall (1879) cd735ae4|Vase of Flowers by George Henry Hall (1879)]] — shared language: hall
 - [[knowledge/wiki/images/Illustration Woman In Ornate Gown In Grand Hall With Armored Figures 64e197be|Illustration Woman In Ornate Gown In Grand Hall With Armored Figures]] — shared language: hall
-- [[knowledge/wiki/images/The Hall of Arcana by Annibale Siconolfi (2020) f834df9a|The Hall of Arcana by Annibale Siconolfi (2020)]] — shared language: hall
 <!-- vault-crosslinks:end -->

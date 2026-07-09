@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/banner 46fc8e74|banner]] — named in this note
 - [[knowledge/wiki/images/Two People Hanging Banner With Peace Message On Tall Building 88c5d23c|Two People Hanging Banner With Peace Message On Tall Building]] — shared language: banner, message, peace
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
+- [[knowledge/wiki/images/Hand Holding Ethernet Cable Against Tall Building 0f4a5bfa|Hand Holding Ethernet Cable Against Tall Building]] — shared language: tall, building
 - [[knowledge/wiki/images/1998 152 allegory of peace and war jpg e5c9d52f|1998 152 allegory of peace and war jpg]] — shared language: peace
+- [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 <!-- vault-crosslinks:end -->

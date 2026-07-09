@@ -47,6 +47,18 @@ that [[AI Slop]] inverts — slop is all output and no process — and the value
 **Books (3).** [[0-gilles-deleuze-difference-and-repetition|Difference and Repetition]] · [[gilles-deleuze-difference-and-repetition-excerpt|Difference and Repetition (excerpt)]] · [[james-williams-gilles-deleuzes-difference-and-repetition-a-critical-introduction-and-guide|Gilles Deleuzes Difference and Repetition A Critical Introduction and Guide]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
+- [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — named in this note
+- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — named in this note
+- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -103,16 +115,3 @@ that [[AI Slop]] inverts — slop is all output and no process — and the value
 >
 > Theory is an analytical tool and should never be deliberately thought of when writing music. Jacob's [Collier] music is written in a theoretically well thought out and deliberate manner. It lacks spontaneity, inspiration and any part of the natural creative process. I can guarantee most classical/jazz masterpieces began with the composer drunkenly fucking around on his instrument or randomly humming a melody. My proof for this is the fact that Jacob can give an in-depth theoretical analysis of any minute detail of his songs in a heartbeat. If you asked someone like Thelonious Monk to explain why he played a certain chord, he would probably answer something along the lines of 'it sounded good'. Actual masterful composers have the necessary theory internalized and never use it as a starting point when writing music.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/john singer sargent 8a202b36|john singer sargent]] — named in this note
-- [[knowledge/wiki/images/The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500) 64ba36bb|The Virgin and Child with Saint Anne by Leonardo da Vinci (c. 1500)]] — named in this note
-- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/images/seated man c 1939 77f1c10f|seated man c 1939]] — named in this note
-- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — named in this note
-- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-<!-- vault-crosslinks:end -->

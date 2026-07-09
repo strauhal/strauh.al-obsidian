@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Four Palm Trees in Sandy Landscape Under Blue Sky 6634a976|Illustration Four Palm Trees in Sandy Landscape Under Blue Sky]] — shared language: palm, four, trees
 - [[knowledge/wiki/images/The Sea by Gottardo Piazzoni (1914) 2fcd3e29|The Sea by Gottardo Piazzoni (1914)]] — shared language: sea
 - [[_archive/auto-generated/artists-noise/Artist - the sea|Artist - the sea]] — shared language: sea
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[_archive/auto-generated/artists-noise/Artist - the sea 1951|Artist - the sea 1951]] — shared language: sea
+- [[knowledge/wiki/artists/Artist - Sea|Artist - Sea]] — shared language: sea
 <!-- vault-crosslinks:end -->

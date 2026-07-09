@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: exposition, buildings, large
 - [[knowledge/wiki/images/Photograph Ferris Wheel at the World's Columbian Exposition 45c0fb8a|Photograph Ferris Wheel at the World's Columbian Exposition]] — shared language: exposition, ferris, wheel
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: exposition, buildings
-- [[_archive/auto-generated/images-stale/illustration of a horseman and a serpent rising from water a04fb995|illustration of a horseman and a serpent rising from water]] — shared language: rising
+- [[knowledge/wiki/images/Illustration Volcano Erupting With Large Plume Of Smoke And Ash a4f798d5|Illustration Volcano Erupting With Large Plume Of Smoke And Ash]] — shared language: smoke, large
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Cluttered 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/bald ernest 431626f7|bald ernest]] — shared language: bald
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: shop
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: electronics, shop
 - [[knowledge/wiki/images/Night Photo of a Shop Window with White Interior 59560dcb|Night Photo of a Shop Window with White Interior]] — shared language: shop, interior
 - [[knowledge/wiki/books/forrest-m-mims-iii-radio-shack-electronics-learning-lab|Radio Shack Electronics Learning Lab]] — shared language: electronics
-- [[knowledge/wiki/images/Photograph Black and White Photograph of a Bald Person Covering Face f2eda825|Photograph Black and White Photograph of a Bald Person Covering Face]] — shared language: bald
 <!-- vault-crosslinks:end -->

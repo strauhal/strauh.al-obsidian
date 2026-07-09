@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/unnamed
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/1495393481842 3737ec4a|1495393481842]] — shared language: gif
-- [[knowledge/wiki/images/1575092763780 f5180021|1575092763780]] — shared language: gif
-- [[knowledge/wiki/images/1577606301673 e2decef5|1577606301673]] — shared language: gif
-- [[knowledge/wiki/images/1597875701165 354e806a|1597875701165]] — shared language: gif
-- [[knowledge/wiki/images/1600315763302 8a0df992|1600315763302]] — shared language: gif
+- [[knowledge/wiki/collections/Collection - unnamed|Collection - unnamed]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0036 96d694ea|IMG 0036]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0062 1745a9a8|IMG 0062]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0063 684125f8|IMG 0063]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0065 c4e42a83|IMG 0065]] — shared language: unnamed
 <!-- vault-crosslinks:end -->

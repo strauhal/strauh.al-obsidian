@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, children, stone
+- [[knowledge/wiki/images/Stone Relief Sculpture of a Woman and Two Children in a Park 14e6118f|Stone Relief Sculpture of a Woman and Two Children in a Park]] — shared language: relief, stone, children
 - [[_archive/auto-generated/images-stale/stone relief sculpture of a highly textured corpus on a cross mounted on a stone wall bd655d06|stone relief sculpture of a highly textured corpus on a cross mounted on a stone wall]] — shared language: relief, stone, sculpture
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: children
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: children

@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/books/1801-4007-1-sm|1801-4007-1-SM]] — shared language: year
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: colors
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: colors
-- [[knowledge/wiki/artists/Artist - Insurance Company Bar Chart|Artist - Insurance Company Bar Chart]] — shared language: bar, chart
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vertical Brushstrokes in Various Colors 7fdd6f4a|Illustration Abstract Painting with Vertical Brushstrokes in Various Colors]] — shared language: colors
+- [[knowledge/wiki/artists/Artist - Insurance Company Bar Chart|Artist - Insurance Company Bar Chart]] — shared language: bar, chart
 - [[knowledge/wiki/images/Illustration Abstract Painting of Interlocking Wavy Shapes in Multiple Colors 6eefcf85|Illustration Abstract Painting of Interlocking Wavy Shapes in Multiple Colors]] — shared language: colors
 <!-- vault-crosslinks:end -->

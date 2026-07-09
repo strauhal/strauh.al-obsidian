@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/a group of artists by mason chamberlin 1767 2ac686d8|a group of artists by mason chamberlin 1767]] — shared language: mason
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: james
 - [[knowledge/wiki/books/the-spectral-music-of-james-tenney|The Spectral Music of James Tenney]] — shared language: james
-- [[knowledge/wiki/images/f 111 by james rosenquist 196465 2ba838ca|f 111 by james rosenquist 196465]] — shared language: james
 - [[knowledge/wiki/artists/Artist - james rosenquist 196465|Artist - james rosenquist 196465]] — shared language: james
+- [[knowledge/wiki/images/f 111 by james rosenquist 196465 2ba838ca|f 111 by james rosenquist 196465]] — shared language: james
 <!-- vault-crosslinks:end -->

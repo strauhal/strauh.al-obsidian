@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: tall
 - [[knowledge/wiki/images/Illustration Creature With Long Snout, Hat, And Staff In Tall Grass 78667003|Illustration Creature With Long Snout, Hat, And Staff In Tall Grass]] — shared language: tall, creature
 - [[knowledge/wiki/images/Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments 0a60c25e|Comic Four Panel Pencil Drawing of Stitched Figures and Surreal Environments]] — shared language: stitched
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
+- [[knowledge/wiki/images/Comic Four Panel Pencil Drawing of Stitched Figures in Industrial Setting 7b032717|Comic Four Panel Pencil Drawing of Stitched Figures in Industrial Setting]] — shared language: stitched
 <!-- vault-crosslinks:end -->

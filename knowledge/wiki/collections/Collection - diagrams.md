@@ -276,5 +276,5 @@ _Only the first 200 image notes are listed here; search covers all 212._
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/images/drowning 0f69e744|drowning]] — named in this note
-- [[knowledge/wiki/images/manhattan 084f63e4|manhattan]] — named in this note
+- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
 <!-- vault-crosslinks:end -->

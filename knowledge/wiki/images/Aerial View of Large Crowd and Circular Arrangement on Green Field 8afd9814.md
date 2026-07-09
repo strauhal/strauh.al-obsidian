@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view, large
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[knowledge/wiki/images/Illustration Distant White House With Red Roof In Green Field, Circular View dfa43fb5|Illustration Distant White House With Red Roof In Green Field, Circular View]] — shared language: circular, field, green
 - [[knowledge/wiki/images/Aerial View of Large Outdoor Crowd and Spiral Formation 312b3d7a|Aerial View of Large Outdoor Crowd and Spiral Formation]] — shared language: crowd, aerial, view
+- [[knowledge/wiki/images/Aerial View of Large Building Complex Amidst Green Landscape 6ae5aab7|Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: aerial, view, large
 <!-- vault-crosslinks:end -->

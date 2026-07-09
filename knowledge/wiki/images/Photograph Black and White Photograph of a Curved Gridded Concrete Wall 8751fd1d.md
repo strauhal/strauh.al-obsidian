@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, curved
 - [[knowledge/wiki/images/Illustration White Stencil of a Cat on a Concrete Wall 6af36582|Illustration White Stencil of a Cat on a Concrete Wall]] — shared language: concrete, wall, wall.png
 - [[knowledge/wiki/images/Brutalist Concrete Building with Curved Ramps and Arches 589dbe9d|Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: curved, concrete
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: gridded
 - [[knowledge/wiki/images/Interior with Curved Brown Sofa, Green Floor, and Concrete Walls 7f13b3c0|Interior with Curved Brown Sofa, Green Floor, and Concrete Walls]] — shared language: curved, concrete
+- [[knowledge/wiki/images/Diagram Black And White Visualization Of Curved Lines In 3D cbca891d|Diagram Black And White Visualization Of Curved Lines In 3D]] — shared language: curved
 <!-- vault-crosslinks:end -->

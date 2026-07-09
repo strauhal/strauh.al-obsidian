@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photoshop 
 
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: physical
 - [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: mountains, mountains.jpeg
-- [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: sign
 - [[knowledge/wiki/images/Screenshot Adobe Genuine Service Alert Window For Old Photoshop Version 3bd6d59e|Screenshot Adobe Genuine Service Alert Window For Old Photoshop Version]] — shared language: photoshop
+- [[knowledge/wiki/images/Illustration Blue Road Sign With White Abstract Knot Design d9d4f20a|Illustration Blue Road Sign With White Abstract Knot Design]] — shared language: sign
 - [[knowledge/wiki/images/White Building in Desert Landscape with Mountains and Cactus 94e2a594|White Building in Desert Landscape with Mountains and Cactus]] — shared language: mountains
 <!-- vault-crosslinks:end -->

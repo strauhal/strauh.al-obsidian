@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cru
 - [[knowledge/wiki/images/Close up of a Minnie Mouse tattoo on a person's leg ed41e3dd|Close up of a Minnie Mouse tattoo on a person's leg]] — shared language: tattoo, person's
 - [[knowledge/wiki/images/Screenshot Crude Crayon Drawing of Distressed Face with Wide Eyes 91085564|Screenshot Crude Crayon Drawing of Distressed Face with Wide Eyes]] — shared language: crude
 - [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: tattoo
-- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
 - [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's
+- [[knowledge/wiki/images/Black And White Tattoo Of Anime Girl With Text 871741f2|Black And White Tattoo Of Anime Girl With Text]] — shared language: tattoo
 <!-- vault-crosslinks:end -->

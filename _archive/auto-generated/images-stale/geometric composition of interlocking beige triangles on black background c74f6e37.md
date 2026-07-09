@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Geometric Composition of Interlocking Beige Triangles on Black Background 0929471a|Illustration Geometric Composition of Interlocking Beige Triangles on Black Background]] — named in this note
 - [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Colorful Rectangles and Triangles 0783ad65|Illustration Abstract Geometric Composition with Colorful Rectangles and Triangles]] — shared language: triangles, composition, geometric
-- [[_archive/auto-generated/images-stale/abstract composition of concentric wavy beige lines on a dark background 046c9a5c|abstract composition of concentric wavy beige lines on a dark background]] — shared language: beige, composition, background
 - [[_archive/auto-generated/images-stale/black and beige geometric print of interlocking parallelograms aef8933a|black and beige geometric print of interlocking parallelograms]] — shared language: beige, geometric
 - [[knowledge/wiki/images/Illustration Black and Beige Geometric Print of Interlocking Parallelograms a9eb011b|Illustration Black and Beige Geometric Print of Interlocking Parallelograms]] — shared language: beige, geometric
+- [[_archive/auto-generated/images-stale/abstract composition of concentric wavy beige lines on a dark background 046c9a5c|abstract composition of concentric wavy beige lines on a dark background]] — shared language: beige, composition, background
 <!-- vault-crosslinks:end -->

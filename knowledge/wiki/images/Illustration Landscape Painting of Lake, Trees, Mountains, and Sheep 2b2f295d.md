@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/artists/Artist - Lake|Artist - Lake]] — shared language: lake
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle b9d4031d|Illustration Stylized Landscape with Three Horsemen, Lake, Mountains, and Castle]] — shared language: lake, mountains, landscape
 - [[knowledge/wiki/images/Illustration Stylized Landscape Painting of Bay, Beach, Trees, and Mountains 37c94e8e|Illustration Stylized Landscape Painting of Bay, Beach, Trees, and Mountains]] — shared language: mountains, trees, landscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
+- [[knowledge/wiki/images/Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections 9aad0bea|Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections]] — shared language: lake, mountains
 <!-- vault-crosslinks:end -->

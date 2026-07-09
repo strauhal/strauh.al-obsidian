@@ -9,8 +9,8 @@ metadata: curated
 aliases: [2015.187696.A-Vision]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/2015.187696.A-Vision.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # A Vision

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Halftone Blue Flowers on Geometric Background with Pink Painted Element f0ecf5ff|Illustration Halftone Blue Flowers on Geometric Background with Pink Painted Element]] — shared language: painted, halftone, flowers
 - [[knowledge/wiki/images/Illustration Oil Painting of Pink Roses in a Garden f171b4f7|Illustration Oil Painting of Pink Roses in a Garden]] — shared language: roses, pink
 - [[knowledge/wiki/images/Photograph Soft Focus Close Up of Two Pink Roses e2db2178|Photograph Soft Focus Close Up of Two Pink Roses]] — shared language: roses, pink, roses.jpeg
-- [[knowledge/wiki/images/Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element a714b01a|Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element]] — shared language: halftone, collage
 - [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: flowers, pink
+- [[knowledge/wiki/images/Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element a714b01a|Illustration Painting of a Potted Plant, Flower, and Halftone Collage Element]] — shared language: halftone, collage
 <!-- vault-crosslinks:end -->

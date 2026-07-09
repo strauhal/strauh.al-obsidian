@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Pixel Art Potted Plant With Red Flowers f156ff4e|Illustration Pixel Art Potted Plant With Red Flowers]] — shared language: potted, flowers
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tall
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panel
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: tall
 - [[_archive/auto-generated/images-stale/framed painting of white flowers in a yellow vase 1f344c95|framed painting of white flowers in a yellow vase]] — shared language: flowers, framed
+- [[knowledge/archive/auto-generated/artists-stale/Artist - red flowers|Artist - red flowers]] — shared language: flowers
 <!-- vault-crosslinks:end -->

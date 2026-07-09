@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/le_serment_by_ni
 - [[knowledge/wiki/images/le serment d amour by nicolas de launay c 1775 89a8a26c|le serment d amour by nicolas de launay c 1775]] — same artist: nicolas launay
 - [[knowledge/wiki/artists/Artist - nicolas de largilliere|Artist - nicolas de largilliere]] — shared language: nicolas
 - [[knowledge/wiki/images/portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720 5669ddf8|portrait of a man holding a portrait of a woman by nicolas de largilliere 1715 1720]] — shared language: nicolas
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: nicolas
 - [[knowledge/wiki/images/portrait of the artist s family by nicolas de largilliere c 1704 fbaafd94|portrait of the artist s family by nicolas de largilliere c 1704]] — shared language: nicolas
+- [[knowledge/wiki/images/portrait of the family of the artist by nicolas de largilliere c 1715 76794547|portrait of the family of the artist by nicolas de largilliere c 1715]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: economy
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: economy
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: economy
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: economy
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: economy
 <!-- vault-crosslinks:end -->

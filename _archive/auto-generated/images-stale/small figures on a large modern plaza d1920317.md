@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, large
 - [[_archive/auto-generated/images-stale/michelangelo1 small png c90fc661|michelangelo1 small png]] — shared language: small
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: small
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 - [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: small, large
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: modern
 <!-- vault-crosslinks:end -->

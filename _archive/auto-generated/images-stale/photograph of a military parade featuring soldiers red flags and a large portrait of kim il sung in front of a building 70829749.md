@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5fc8da6b|Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: sung, parade, kim
 - [[_archive/auto-generated/images-stale/Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait 5ae00f83|Photograph Military Parade with Soldiers, Red Flags, and Kim Il Sung Portrait]] — shared language: sung, parade, kim
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[_archive/auto-generated/images-stale/black and white photograph of a parade featuring a large bust of franklin d roosevelt b14ccde6|black and white photograph of a parade featuring a large bust of franklin d roosevelt]] — shared language: parade, featuring, large
 - [[_archive/auto-generated/images-stale/digital collage of a limousine carrying a boy s portrait in a military parade b812d77c|digital collage of a limousine carrying a boy s portrait in a military parade]] — shared language: parade, military
+- [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building, building.jpg
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, sketchbook
 - [[_archive/auto-generated/images-stale/black and white line drawing of a young woman s face with cross hatching 258489c9|black and white line drawing of a young woman s face with cross hatching]] — shared language: hatching, cross
 - [[_archive/auto-generated/images-stale/hatching drawing 69d57999|hatching drawing]] — shared language: hatching
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: sketchbook
+- [[_archive/auto-generated/images-stale/black and white cross hatching illustration of a muscular figure looming over a person in bed 1944cec1|black and white cross hatching illustration of a muscular figure looming over a person in bed]] — shared language: hatching, cross
 <!-- vault-crosslinks:end -->

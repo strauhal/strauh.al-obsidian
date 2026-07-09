@@ -1,12 +1,12 @@
 # Wiki Lint Report
 
-Generated: 2026-07-06T22:47:57
+Generated: 2026-07-08T19:52:39
 
 ## Summary
 
-- Notes checked: 10742
+- Notes checked: 10803
 - Missing frontmatter: 0
-- Broken wikilinks: 5
+- Broken wikilinks: 4
 - Orphan notes: 0
 
 ## Missing Frontmatter
@@ -16,10 +16,9 @@ Generated: 2026-07-06T22:47:57
 ## Broken Wikilinks
 
 - `knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna.md` -> `[[media/strauh.al3.1/unsorted/Comic - Amazing Spider-Man Vol 2]]`
-- `knowledge/wiki/collections/Collection - 2000s.md` -> `[[Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c]]`
 - `knowledge/wiki/collections/Collection - unsorted.md` -> `[[media/strauh.al3.1/unsorted/Comic - Amazing Spider-Man Vol 2]]`
-- `knowledge/wiki/collections/Collection - unsorted.md` -> `[[Document Page From A Book With Highlighted Text About The Aspen Incident 00847259]]`
 - `knowledge/wiki/images/Comic Amazing Spider Man Vol 2 36 by John Romita Jr. and Scott Hanna 2dd4c650.md` -> `[[media/strauh.al3.1/unsorted/Comic - Amazing Spider-Man Vol 2]]`
+- `knowledge/wiki/images/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4.md` -> `[[media/strauh.al3.1/photography/Screen Displaying Philip Pearlstein's "Positano]]`
 
 ## Orphan Notes
 

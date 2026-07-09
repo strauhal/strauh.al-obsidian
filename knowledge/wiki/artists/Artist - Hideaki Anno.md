@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign 8af30509|Photograph Hayao Miyazaki and Hideaki Anno on a Porch with Pig Sign]] — shared language: hideaki, anno
 - [[knowledge/wiki/culture/movie-the-end-of-evangelion|Watchlist - The End of Evangelion]] — shared language: hideaki, anno
 - [[knowledge/wiki/books/daoist-alchemy-in-the-west-the-esoteric-paradigms|Daoist Alchemy in the West: The Esoteric Paradigms]] — shared language: esoteric
-- [[knowledge/wiki/pages/knowledge base art|knowledge base art]] — shared language: hideaki, anno
 - [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: purple, screenshot
+- [[knowledge/wiki/images/Illustration Giant Robot In Destroyed City With Swirling Ribbons 80749d2f|Illustration Giant Robot In Destroyed City With Swirling Ribbons]] — shared language: giant, robot
 <!-- vault-crosslinks:end -->

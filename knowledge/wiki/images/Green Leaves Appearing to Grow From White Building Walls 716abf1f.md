@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Green Leav
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Illustration Painting of Pink Flowers and Green Leaves a9b14692|Illustration Painting of Pink Flowers and Green Leaves]] — shared language: leaves, green
 - [[knowledge/wiki/images/Illustration Painting of Large Green and Reddish Leaves with Patterned Background 5c3929f2|Illustration Painting of Large Green and Reddish Leaves with Patterned Background]] — shared language: leaves, green
 - [[knowledge/wiki/images/Interior with Curved Brown Sofa, Green Floor, and Concrete Walls 7f13b3c0|Interior with Curved Brown Sofa, Green Floor, and Concrete Walls]] — shared language: walls, green, walls.jpg
 - [[knowledge/wiki/images/Interior of a Modernist Building with Curved Walls and Conference Room dc58e14c|Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: walls, building
+- [[knowledge/wiki/images/People's Heads And Hands Appearing From A Table bc4874fe|People's Heads And Hands Appearing From A Table]] — shared language: appearing
 <!-- vault-crosslinks:end -->

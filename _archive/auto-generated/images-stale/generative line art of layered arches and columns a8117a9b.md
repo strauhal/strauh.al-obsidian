@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Abstract Generative Line Art of Layered Arches and Columns 8d929ca5|Illustration Abstract Generative Line Art of Layered Arches and Columns]] — shared language: arches, columns, generative
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
 - [[_archive/auto-generated/images-stale/black and white generative line drawing of abstract kinetic forms 0f796110|black and white generative line drawing of abstract kinetic forms]] — shared language: generative, line
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 <!-- vault-crosslinks:end -->

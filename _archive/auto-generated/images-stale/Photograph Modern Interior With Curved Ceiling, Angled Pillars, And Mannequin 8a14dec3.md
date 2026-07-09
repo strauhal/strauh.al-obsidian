@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/pillars 43e3e1eb|pillars]] — named in this note
 - [[knowledge/wiki/images/Modern Interior With Curved Ceiling, Angled Pillars, And Mannequin 99a35af0|Modern Interior With Curved Ceiling, Angled Pillars, And Mannequin]] — shared language: angled, pillars, mannequin
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, curved
 - [[_archive/auto-generated/images-stale/pillars jpg 1fd9b09e|pillars jpg]] — shared language: pillars
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: curved, modern
+- [[_archive/auto-generated/images-stale/Photograph Modern White Building with Curved Architecture and Large Windows d9a56800|Photograph Modern White Building with Curved Architecture and Large Windows]] — shared language: curved, modern
 <!-- vault-crosslinks:end -->

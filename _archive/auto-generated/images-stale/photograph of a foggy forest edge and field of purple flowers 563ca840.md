@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Foggy Forest Edge with Field of Purple Flowers 6d0e483d|Photograph Foggy Forest Edge with Field of Purple Flowers]] — shared language: foggy, edge, field
+- [[knowledge/wiki/images/Photograph Foggy Forest Edge with Field of Purple Flowers 6d0e483d|Photograph Foggy Forest Edge with Field of Purple Flowers]] — shared language: edge, foggy, field
 - [[_archive/auto-generated/images-stale/impressionistic painting of a field of flowers by the sea e049bc94|impressionistic painting of a field of flowers by the sea]] — shared language: field, flowers
 - [[knowledge/wiki/images/Illustration Textured Abstract Painting of Colorful Flowers in a Field 2b700985|Illustration Textured Abstract Painting of Colorful Flowers in a Field]] — shared language: field, flowers
 - [[knowledge/wiki/images/Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge 2a72bf3e|Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge]] — shared language: edge, forest

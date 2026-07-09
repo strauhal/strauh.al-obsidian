@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/watercolor_rende
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: public
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor
 - [[knowledge/wiki/books/neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] — shared language: public
 - [[knowledge/wiki/artists/Artist - FRAGILETEMPORARY|Artist - FRAGILETEMPORARY]] — shared language: rendering
+- [[knowledge/wiki/images/Illustration Watercolor Painting of Stylized Female Figure with Red Flowers 23aafe47|Illustration Watercolor Painting of Stylized Female Figure with Red Flowers]] — shared language: watercolor
 <!-- vault-crosslinks:end -->

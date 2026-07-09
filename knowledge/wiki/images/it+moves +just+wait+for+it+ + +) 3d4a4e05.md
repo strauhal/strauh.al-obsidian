@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/it+move
 - [[knowledge/wiki/artists/Artist - Wait But Why|Artist - Wait But Why]] — shared language: wait
 - [[knowledge/wiki/pages/gif collection|gif collection]] — shared language: gif, moves, wait
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: wait
-- [[knowledge/wiki/images/Illustration Windows Wait Cursor 39bafddc|Illustration Windows Wait Cursor]] — shared language: wait
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: moves
 <!-- vault-crosslinks:end -->

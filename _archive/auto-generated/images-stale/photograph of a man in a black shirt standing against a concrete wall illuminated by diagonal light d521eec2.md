@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pink and blue light|Artist - pink and blue light]] — shared language: light, illuminated
 - [[knowledge/wiki/images/Rack of Black Clothing Against a Light Blue Wall dc20d739|Rack of Black Clothing Against a Light Blue Wall]] — shared language: light, wall, against
 - [[_archive/auto-generated/images-stale/Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall bfdbe85b|Photograph Young Man in Black Hoodie and Sweatpants Standing Against Wall]] — shared language: standing, wall, against
 - [[knowledge/wiki/images/Young Man in Black Hoodie and Sweatpants Standing Against Wall d67f5b71|Young Man in Black Hoodie and Sweatpants Standing Against Wall]] — shared language: standing, wall, against
+- [[knowledge/wiki/images/Illustration White Stencil of a Cat on a Concrete Wall 6af36582|Illustration White Stencil of a Cat on a Concrete Wall]] — shared language: concrete, wall
 <!-- vault-crosslinks:end -->

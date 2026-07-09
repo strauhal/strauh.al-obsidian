@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, signs
 - [[knowledge/wiki/images/Illustration Vibrant Surreal Cityscape With Figures, Cats, And Japanese Advertisements 5429165c|Illustration Vibrant Surreal Cityscape With Figures, Cats, And Japanese Advertisements]] — shared language: vibrant, japanese, cityscape
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/images/Illustration Detailed Isometric Cityscape with Buildings, Tram, and Neon Signs e6e5dd65|Illustration Detailed Isometric Cityscape with Buildings, Tram, and Neon Signs]] — shared language: signs, cityscape, detailed
+- [[knowledge/wiki/images/Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways c83538a1|Illustration Futuristic Cityscape With Modern Architecture And Elevated Highways]] — shared language: elevated, cityscape
 <!-- vault-crosslinks:end -->

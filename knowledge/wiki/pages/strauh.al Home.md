@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/index.html"
 source_relpath: "index.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # strauh.al Home
@@ -47,13 +47,13 @@ strauh.al
 
 ## [/draw_for_me](https://strauh.al/draw_for_me)
 
-## [/computers](https://strauh.al/computers)
-
 ## [/photography](https://strauh.al/photography)
 
 ## [/diagrams](https://strauh.al/diagrams)
 
 ## [/artists](https://strauh.al/artists)
+
+## [/computers](https://strauh.al/computers)
 
 ## [/scripts](https://strauh.al/scripts)
 

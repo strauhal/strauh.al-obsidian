@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Dark Outdoor Staircase with Blue Railings Leading Up Foggy Slope 6df3e8ca|Dark Outdoor Staircase with Blue Railings Leading Up Foggy Slope]] — shared language: railings, slope, leading
 - [[_archive/auto-generated/images-stale/Photograph Dark Outdoor Staircase with Blue Railings Leading Up Foggy Slope 8632b481|Photograph Dark Outdoor Staircase with Blue Railings Leading Up Foggy Slope]] — shared language: railings, slope, leading
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, trees
 - [[knowledge/wiki/images/Dark Stairwell Leading to Bright Outdoor Tree 3036028e|Dark Stairwell Leading to Bright Outdoor Tree]] — shared language: leading, outdoor, dark
 - [[_archive/auto-generated/images-stale/Photograph Dark Stairwell Leading to Bright Outdoor Tree 1503f73a|Photograph Dark Stairwell Leading to Bright Outdoor Tree]] — shared language: leading, outdoor, dark
+- [[_archive/auto-generated/images-stale/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: bare, trees
 <!-- vault-crosslinks:end -->

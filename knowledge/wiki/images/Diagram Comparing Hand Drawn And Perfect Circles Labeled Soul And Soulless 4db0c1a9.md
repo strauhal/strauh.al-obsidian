@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_Compa
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, circles
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: perfect
 - [[knowledge/wiki/images/Complex Geometric Diagram with Intersecting Circles and Lines 6a399687|Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: circles, diagram
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand, hand-drawn
-- [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — shared language: soul
 <!-- vault-crosslinks:end -->

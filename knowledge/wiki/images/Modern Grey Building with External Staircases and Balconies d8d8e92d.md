@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Gre
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
 - [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: balconies, building
 - [[knowledge/wiki/images/Peach Art Deco Building with Rounded Balconies in Miami 75dfff1b|Peach Art Deco Building with Rounded Balconies in Miami]] — shared language: balconies, building
 - [[knowledge/wiki/artists/Artist - alex grey|Artist - alex grey]] — shared language: grey
-- [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: modern, building
+- [[knowledge/wiki/images/Theologue by Alex Grey (2001) 4e5a6ce8|Theologue by Alex Grey (2001)]] — shared language: grey
+- [[knowledge/wiki/images/Tyger by Alex Grey (2001) 2163b548|Tyger by Alex Grey (2001)]] — shared language: grey
 <!-- vault-crosslinks:end -->

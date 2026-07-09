@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - molly soda 2016|Artist - molly soda 2016]] — named in this note
+- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: end
 - [[_archive/auto-generated/books-stale/schopenhauer-world-as-will|schopenhauer world as will]] — shared language: world
 - [[knowledge/wiki/images/Illustration Blue and White Ceramic Soda Cans with Traditional Patterns 67d3630c|Illustration Blue and White Ceramic Soda Cans with Traditional Patterns]] — shared language: soda
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
-- [[knowledge/wiki/images/the soda fountain by william glackens 1935 19b80d08|the soda fountain by william glackens 1935]] — shared language: soda
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate, tall, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, tall
 - [[knowledge/wiki/images/Person Standing on Tall Pole Above New York City Skyline b74071ae|Person Standing on Tall Pole Above New York City Skyline]] — shared language: tall, skyline, above
 - [[_archive/auto-generated/images-stale/Photograph Person Standing on Tall Pole Above New York City Skyline e58da947|Photograph Person Standing on Tall Pole Above New York City Skyline]] — shared language: tall, skyline, above
 - [[knowledge/wiki/images/Illustration Ink Wash Drawing of Abstract Swirling Forms Above a City Skyline c62e43b3|Illustration Ink Wash Drawing of Abstract Swirling Forms Above a City Skyline]] — shared language: skyline, above, city
+- [[_archive/auto-generated/images-stale/ink wash drawing of abstract swirling forms above a city skyline 4b7c0379|ink wash drawing of abstract swirling forms above a city skyline]] — shared language: skyline, above, city
 <!-- vault-crosslinks:end -->

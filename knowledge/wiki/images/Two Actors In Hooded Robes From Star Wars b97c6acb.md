@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Actors
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph The Hooded Man ec92241b|Photograph The Hooded Man]] — shared language: hooded
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: actors
 - [[knowledge/wiki/images/Illustration Collage of Black Panther and Star Wars The Force Awakens Movie Posters 623c4c6f|Illustration Collage of Black Panther and Star Wars The Force Awakens Movie Posters]] — shared language: wars, star
 - [[knowledge/wiki/images/Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures d06cdfe1|Illustration Monochromatic Sketches of Hooded Figures and Abstract Creatures]] — shared language: hooded
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
-- [[knowledge/wiki/images/Photograph of an abstract painting depicting a cityscape with a red star 73ec5f3b|Photograph of an abstract painting depicting a cityscape with a red star]] — shared language: star
 <!-- vault-crosslinks:end -->

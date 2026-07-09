@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle fc144e23|Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle]] — shared language: monster, winged, castle
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruin, castle
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ruin, castle
 - [[knowledge/wiki/images/Castle Ruin in the Mountains by Carl Blechen (c. 1827 1828) acc15a5e|Castle Ruin in the Mountains by Carl Blechen (c. 1827 1828)]] — shared language: ruin, castle
 - [[knowledge/wiki/images/Illustration Village Street Scene with Church Tower, Castle Ruin, and Figures bbc7ac6c|Illustration Village Street Scene with Church Tower, Castle Ruin, and Figures]] — shared language: ruin, castle
+- [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster, forest
 <!-- vault-crosslinks:end -->

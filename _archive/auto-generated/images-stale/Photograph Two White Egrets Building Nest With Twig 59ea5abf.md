@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Two White Egrets Building Nest With Twig 698cbd9e|Two White Egrets Building Nest With Twig]] — named in this note
 - [[_archive/auto-generated/images-stale/photograph of two white egrets with a twig on a bush nest c6b3f11a|photograph of two white egrets with a twig on a bush nest]] — shared language: egrets, twig, nest
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 - [[knowledge/wiki/images/The Wasps Nest by William Adolphe Bouguereau (1892) 6ac5dbe1|The Wasps Nest by William Adolphe Bouguereau (1892)]] — shared language: nest
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: building
 <!-- vault-crosslinks:end -->

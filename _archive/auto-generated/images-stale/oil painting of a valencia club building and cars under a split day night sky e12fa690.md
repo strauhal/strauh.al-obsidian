@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Valencia Club Building and Cars Under Split Day Night Sky e4d09f7f|Illustration Valencia Club Building and Cars Under Split Day Night Sky]] — shared language: valencia, club, split
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cars, night
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/Photograph Two Women Jumping At Night With Cars And Building 9a238a2f|Photograph Two Women Jumping At Night With Cars And Building]] — shared language: cars, night, building
 - [[knowledge/wiki/images/Two Women Jumping At Night With Cars And Building f3ffc1c7|Two Women Jumping At Night With Cars And Building]] — shared language: cars, night, building
+- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: club
 <!-- vault-crosslinks:end -->

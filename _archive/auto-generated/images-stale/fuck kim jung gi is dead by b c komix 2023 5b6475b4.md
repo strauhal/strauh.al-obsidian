@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - b c komix 2023|Artist - b c komix 2023]] — named in this note
 - [[knowledge/wiki/artists/Artist - Kim Jung Gi|Artist - Kim Jung Gi]] — shared language: kim, jung
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: fuck
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 <!-- vault-crosslinks:end -->

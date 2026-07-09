@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1500s/study_of_two_fig
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/artists/Artist - agostino carracci|Artist - agostino carracci]] — shared language: carracci
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
 <!-- vault-crosslinks:end -->

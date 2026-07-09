@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagrams_Illu
 
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative, order
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative, order
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
-- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
+- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
+- [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
 <!-- vault-crosslinks:end -->

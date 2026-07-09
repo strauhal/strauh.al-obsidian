@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Outdoor View With Trees, Road, And Prism Light Effect 114205ad|Outdoor View With Trees, Road, And Prism Light Effect]] — shared language: prism, effect, outdoor
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, view
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[_archive/auto-generated/images-stale/aerial view of a road intersection with long shadows dcbbdf53|aerial view of a road intersection with long shadows]] — shared language: road, view
+- [[knowledge/wiki/images/Photograph Aerial View of a Road Intersection with Long Shadows 0271b623|Photograph Aerial View of a Road Intersection with Long Shadows]] — shared language: road, view
 <!-- vault-crosslinks:end -->

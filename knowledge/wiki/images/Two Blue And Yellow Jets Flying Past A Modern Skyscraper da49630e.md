@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Blue A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: skyscraper, modern
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/Illustration Fantasy Rider on Flying Fish Past Waterfall Castle c0ab69b7|Illustration Fantasy Rider on Flying Fish Past Waterfall Castle]] — shared language: past, flying
 - [[knowledge/wiki/artists/Artist - Officers Past Photographers|Artist - Officers Past Photographers]] — shared language: past
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
+- [[knowledge/wiki/images/Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky 8fc6b033|Illustration Birds Flying Towards a Yellow Moon in a Starry Night Sky]] — shared language: flying, yellow
 <!-- vault-crosslinks:end -->

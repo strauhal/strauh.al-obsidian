@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: futuristic, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/books/daniel-kolitz-the-goon-squad|The Goon Squad,]] — shared language: daniel
 - [[knowledge/wiki/artists/Artist - Daniel Landin|Artist - Daniel Landin]] — shared language: daniel
 - [[knowledge/wiki/books/this-is-your-brain-on-music-daniel-levitin-userupload-net|Daniel Levitin UserUpload Net]] — shared language: daniel
+- [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: daniel
 <!-- vault-crosslinks:end -->

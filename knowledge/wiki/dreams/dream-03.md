@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["recognition", "technical failure", "childhood church", "community", "surveillance"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Dream 3 - The Broken strauh.al Award Demo

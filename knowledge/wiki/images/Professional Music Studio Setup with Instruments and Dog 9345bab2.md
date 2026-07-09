@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Profession
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: music
-- [[knowledge/wiki/images/Home Music Studio Setup With Laptop, Speakers, And Modular Synthesizer 9d462e18|Home Music Studio Setup With Laptop, Speakers, And Modular Synthesizer]] — shared language: setup, studio, music
+- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: instruments
 <!-- vault-crosslinks:end -->

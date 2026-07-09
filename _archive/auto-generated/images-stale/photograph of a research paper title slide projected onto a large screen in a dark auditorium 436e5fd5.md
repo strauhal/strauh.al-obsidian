@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: projected, slide, auditorium
+- [[knowledge/wiki/images/Photograph Research Paper Title Slide Projected in Auditorium df95e62b|Photograph Research Paper Title Slide Projected in Auditorium]] — shared language: projected, slide, research
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
 - [[_archive/auto-generated/images-stale/animated graphic of a glowing esoteric diagram with hebrew and latin text projected onto a blue sky 1570c626|animated graphic of a glowing esoteric diagram with hebrew and latin text projected onto a blue sky]] — shared language: projected, onto
 - [[_archive/auto-generated/images-stale/glitch slide original jpg cf6b854a|glitch slide original jpg]] — shared language: slide

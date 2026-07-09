@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/La Débâcle_ (reissue) (Oxford World's Classics) -- Émile Zola; Elinor Dorday (trans_); Robert Lethbridge (ed_) -- Rougon-Macquart #19, 2017 -- IRL -- 9780192522092 -- 73b46c1935e6a529c1713e4606692c83 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # La Débâcle (reissue) (Oxford World's Classics)

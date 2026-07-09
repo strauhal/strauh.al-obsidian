@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sno
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees
 - [[knowledge/wiki/images/Snowy Forest with Bare Trees and Sunlight on Ground d8bc26a9|Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: bare, snowy, trees
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees, building
 - [[knowledge/wiki/images/Photograph Aerial View of Colorful Houses on Snowy Hillside d6b5849c|Photograph Aerial View of Colorful Houses on Snowy Hillside]] — shared language: hillside, snowy
 - [[knowledge/wiki/artists/Artist - Snowy Pine Trees And Mountains At Dusk|Artist - Snowy Pine Trees And Mountains At Dusk]] — shared language: snowy, trees
+- [[knowledge/wiki/images/Architectural Cross Sections of a Modern Building on a Hillside 31e77ee7|Architectural Cross Sections of a Modern Building on a Hillside]] — shared language: hillside, building
 <!-- vault-crosslinks:end -->

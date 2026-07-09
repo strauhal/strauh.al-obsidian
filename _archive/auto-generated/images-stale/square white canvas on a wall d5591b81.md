@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: canvas
 - [[knowledge/wiki/books/consanguinity-on-the-canvas-studying-inbreeding-in-the-habsburg|Consanguinity on the Canvas Studying Inbreeding in the Habsburg]] — shared language: canvas
 - [[knowledge/wiki/images/Illustration Abstract Blue Shapes on Dark Canvas 05b5effb|Illustration Abstract Blue Shapes on Dark Canvas]] — shared language: canvas
-- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
 - [[knowledge/wiki/images/Illustration Black Canvas with Swirling White Dashes 76f7ae58|Illustration Black Canvas with Swirling White Dashes]] — shared language: canvas
+- [[knowledge/wiki/images/Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes 029cb097|Illustration Abstract Oil Painting of a Sunset Landscape with Square Brushstrokes]] — shared language: square
 <!-- vault-crosslinks:end -->

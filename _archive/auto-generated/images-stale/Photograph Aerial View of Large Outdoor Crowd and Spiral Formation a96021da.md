@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Aerial View of Large Outdoor Crowd and Spiral Formation 312b3d7a|Aerial View of Large Outdoor Crowd and Spiral Formation]] — shared language: formation, spiral, outdoor
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd, aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view, large
 - [[_archive/auto-generated/images-stale/large black and white aerial or crowd texture aa7c6e1a|large black and white aerial or crowd texture]] — shared language: crowd, aerial, large
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
+- [[knowledge/wiki/images/Aerial View of Large Crowd and Circular Arrangement on Green Field 8afd9814|Aerial View of Large Crowd and Circular Arrangement on Green Field]] — shared language: crowd, aerial, view
 <!-- vault-crosslinks:end -->

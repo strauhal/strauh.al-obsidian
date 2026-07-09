@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: macintosh
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: summary
 - [[knowledge/wiki/images/Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon b18eb4cb|Illustration Pixel Art Witch Flying With Macintosh Computer Against Moon]] — shared language: macintosh, moon
 - [[knowledge/wiki/books/michael-green-zen-and-the-art-of-the-macintosh|Zen and the Art of the Macintosh]] — shared language: macintosh
 - [[knowledge/wiki/images/Illustration Abstract Painting of Figures in Sombreros Near a Mission Building 831daa7f|Illustration Abstract Painting of Figures in Sombreros Near a Mission Building]] — shared language: mission
+- [[knowledge/wiki/images/Mission Bay Lights by Adam Forfang (2024) a2487117|Mission Bay Lights by Adam Forfang (2024)]] — shared language: mission
 <!-- vault-crosslinks:end -->

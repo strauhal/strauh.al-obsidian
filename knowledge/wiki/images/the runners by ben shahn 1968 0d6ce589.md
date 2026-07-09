@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_runners_by_b
 
 - [[knowledge/wiki/images/The Red Stairway by Ben Shahn (1944) 6e9f6f40|The Red Stairway by Ben Shahn (1944)]] — shared language: shahn, ben
 - [[knowledge/wiki/images/Shopping Carts by Ben Shahn (1957) 414ee588|Shopping Carts by Ben Shahn (1957)]] — shared language: shahn, ben
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ben
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: ben
-- [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: ben
 <!-- vault-crosslinks:end -->

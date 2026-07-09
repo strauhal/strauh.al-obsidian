@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - evgeny kiselev 2014|Artist - evgeny kiselev 2014]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[knowledge/wiki/images/tower a810b293|tower]] — shared language: tower
+- [[knowledge/wiki/images/Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach 8b72e48e|Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach]] — shared language: tower
 - [[knowledge/wiki/images/the red tower by giorgio de chirico 1925 ace7da61|the red tower by giorgio de chirico 1925]] — shared language: tower
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: tower
 <!-- vault-crosslinks:end -->

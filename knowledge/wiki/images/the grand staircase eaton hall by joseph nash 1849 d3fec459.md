@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/the_grand_stairc
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: joseph
 - [[knowledge/wiki/images/the grand staircase by j c leyendecker 1930 9fe50e78|the grand staircase by j c leyendecker 1930]] — shared language: staircase, grand
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
-- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 - [[knowledge/wiki/images/Illustration Woman In Ornate Gown In Grand Hall With Armored Figures 64e197be|Illustration Woman In Ornate Gown In Grand Hall With Armored Figures]] — shared language: hall, grand
+- [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: joseph
 <!-- vault-crosslinks:end -->

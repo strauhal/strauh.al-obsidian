@@ -44,6 +44,18 @@ shades into dread, too — the inherited compulsions of his stock-obsessed grand
 **Books (5).** [[michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] · [[alain-de-botton-how-proust-can-change-your-life-vintage|How Proust Can Change Your Life-Vintage]] · [[alan-w-watts-timothy-leary-richard-alpert-the-joyous-cosmology-adventures-in-the-chemistry-of-consciousness-vintage|The Joyous Cosmology Adventures in the Chemistry of Consciousness-Vintage]] · [[albert-camus-the-stranger-vintage|The Stranger-Vintage]] · [[yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
+- [[knowledge/wiki/books/alan-w-watts-timothy-leary-richard-alpert-the-joyous-cosmology-adventures-in-the-chemistry-of-consciousness|The Joyous Cosmology Adventures in the Chemistry of Consciousness]] — named in this note
+- [[knowledge/wiki/pages/grandmas house|grandmas house]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -82,16 +94,3 @@ shades into dread, too — the inherited compulsions of his stock-obsessed grand
 >
 > Taste, like judgement in general, is the discipline (or corrective) of genius. It severely clips its wings, and makes it seemly or polished; but at the same time it gives it guidance, directing and controlling its flight, so that it may preserve its purposive character. It introduces a clearness and order into the plenitude of thought, and in so doing gives stability to the ideas, and qualifies them at once for permanent and universal approval, for being followed by others, and for a continually progressive culture. And so, where the interests of both these qualities clash in a product, and there has to be a sacrifice of something, then it should rather be on the side of genius; and judgement, which in matters of fine art bases its decision on its own proper principles, will more readily endure an infringement of the freedom and wealth of the imagination, than that the understanding should be compromised. The requisites for fine art are, therefore, imagination, understanding, spirit, and taste.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
-- [[knowledge/wiki/books/alan-w-watts-timothy-leary-richard-alpert-the-joyous-cosmology-adventures-in-the-chemistry-of-consciousness|The Joyous Cosmology Adventures in the Chemistry of Consciousness]] — named in this note
-- [[knowledge/wiki/pages/grandmas house|grandmas house]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-<!-- vault-crosslinks:end -->

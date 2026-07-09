@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Photograph of M.C. Escher's Gravestone with Tessellating Bird Design b663841e|Photograph Photograph of M.C. Escher's Gravestone with Tessellating Bird Design]] — shared language: m.c
-- [[knowledge/wiki/images/Image Grumpy White Cat With Spiky Hair 0b7aeaf3|Image Grumpy White Cat With Spiky Hair]] — shared language: spiky
 - [[knowledge/wiki/images/Illustration Detailed Etching of Hilly Landscape with Village and Seated Figure cb24424d|Illustration Detailed Etching of Hilly Landscape with Village and Seated Figure]] — shared language: etching, detailed
+- [[knowledge/wiki/images/Image Grumpy White Cat With Spiky Hair 0b7aeaf3|Image Grumpy White Cat With Spiky Hair]] — shared language: spiky
 - [[knowledge/wiki/images/mc escher other world 1947 9ee92a93|mc escher other world 1947]] — shared language: escher
 - [[knowledge/wiki/images/dragon by m c escher 1952 11838c05|dragon by m c escher 1952]] — shared language: escher
 <!-- vault-crosslinks:end -->

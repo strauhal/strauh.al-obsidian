@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Photograph Layered Abstract Photograph with Distorted Figures in Blue and White fe530814|Photograph Layered Abstract Photograph with Distorted Figures in Blue and White]] — shared language: layered
+- [[knowledge/wiki/images/Image Black and White Stylized Figures Walking Through Arches and Circles 5b025a37|Image Black and White Stylized Figures Walking Through Arches and Circles]] — shared language: arches
 <!-- vault-crosslinks:end -->

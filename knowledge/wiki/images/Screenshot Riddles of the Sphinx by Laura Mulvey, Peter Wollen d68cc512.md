@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Rid
 
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
 - [[knowledge/wiki/artists/Artist - laura wheeler waring|Artist - laura wheeler waring]] — shared language: laura
-- [[knowledge/wiki/images/oedipus and the sphinx by franz stuck 1891 02090465|oedipus and the sphinx by franz stuck 1891]] — shared language: sphinx
 - [[knowledge/wiki/images/jeanlon grme bonaparte before the sphinx 1867 a3211d95|jeanlon grme bonaparte before the sphinx 1867]] — shared language: sphinx
 - [[knowledge/wiki/images/jeanlon grme bonaparte before the sphinx 1867 2 7a84209c|jeanlon grme bonaparte before the sphinx 1867 2]] — shared language: sphinx
+- [[knowledge/wiki/images/oedipus and the sphinx by franz stuck 1891 02090465|oedipus and the sphinx by franz stuck 1891]] — shared language: sphinx
 <!-- vault-crosslinks:end -->

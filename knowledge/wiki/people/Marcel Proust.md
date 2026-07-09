@@ -24,17 +24,6 @@ move — a memory milked from a single sensory detail — is everywhere in Ernes
 
 ## Sources
 - [[influences]]
-
-<!-- quotes:start -->
-## Quotes
-
-*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
-
-> The possibility of making such visual connections between people circulating in apparently wholly different worlds explains Proust's suggestion: Aesthetically, the number of human types is so restricted that we must constantly, wherever we may be, have the pleasure of seeing people we know. And such pleasure is not simply visual, for the restricted number of human types also means that we are repeatedly able to read about people we know, in places we might never have expected to do so.
->
-> The document was not consulted for practical advice; the departure time of the Saint-Lazare train was of no immediate importance to a man who found no reason to leave Paris in the last eight years of his life. Rather, this timetable was read and enjoyed as though it were a gripping novel about country life, because the mere names of provincial train stations provided Proust's imagination with enough material to elaborate entire worlds, to picture domestic dramas in rural villages, shenanigans in local government, and life out in the fields.
-<!-- quotes:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -47,3 +36,13 @@ move — a memory milked from a single sensory detail — is everywhere in Ernes
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, know, see
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, know, people
 <!-- vault-crosslinks:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> The possibility of making such visual connections between people circulating in apparently wholly different worlds explains Proust's suggestion: Aesthetically, the number of human types is so restricted that we must constantly, wherever we may be, have the pleasure of seeing people we know. And such pleasure is not simply visual, for the restricted number of human types also means that we are repeatedly able to read about people we know, in places we might never have expected to do so.
+>
+> The document was not consulted for practical advice; the departure time of the Saint-Lazare train was of no immediate importance to a man who found no reason to leave Paris in the last eight years of his life. Rather, this timetable was read and enjoyed as though it were a gripping novel about country life, because the mere names of provincial train stations provided Proust's imagination with enough material to elaborate entire worlds, to picture domestic dramas in rural villages, shenanigans in local government, and life out in the fields.
+<!-- quotes:end -->

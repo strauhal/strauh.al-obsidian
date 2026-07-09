@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Con
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, skyscraper
 - [[knowledge/wiki/images/Multi Level Concrete Building with Complex Walkways and Skyscraper d7ccedd8|Multi Level Concrete Building with Complex Walkways and Skyscraper]] — shared language: skyscraper, building
 - [[knowledge/wiki/images/Illustration Man Warns Worker About Foreigner Wanting His Cookie 85358b56|Illustration Man Warns Worker About Foreigner Wanting His Cookie]] — shared language: worker
 - [[knowledge/wiki/images/Illustration Black Line Drawing of Stylized Profile Head on Beige Beam cb1168dc|Illustration Black Line Drawing of Stylized Profile Head on Beige Beam]] — shared language: beam
 - [[knowledge/wiki/images/charcoal drawing of a stepped art deco skyscraper at night 1930 5fd24baa|charcoal drawing of a stepped art deco skyscraper at night 1930]] — shared language: skyscraper
+- [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 e1b887ce|drawing of a stepped art deco skyscraper illuminated at night 1930]] — shared language: skyscraper
 <!-- vault-crosslinks:end -->

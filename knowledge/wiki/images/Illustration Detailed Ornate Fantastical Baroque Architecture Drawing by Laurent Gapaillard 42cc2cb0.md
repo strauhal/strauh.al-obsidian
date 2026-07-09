@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 
 - [[knowledge/wiki/images/Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard 9accda7c|Illustration Intricate Ornate Fantasy Architecture Drawing in Grayscale by Laurent Gapaillard]] — same artist: laurent gapaillard
 - [[knowledge/wiki/images/Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard 29cd68eb|Illustration Intricate Pencil Drawing of a Floating Fantasy City by Laurent Gapaillard]] — same artist: laurent gapaillard
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: gapaillard, laurent, ornate
 - [[knowledge/wiki/images/Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs a9a09cab|Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs]] — shared language: baroque, ornate
 - [[knowledge/wiki/books/gilles-deleuze-the-fold-leibniz-and-the-baroque|The Fold: Leibniz and the Baroque]] — shared language: baroque
+- [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: ornate
 <!-- vault-crosslinks:end -->

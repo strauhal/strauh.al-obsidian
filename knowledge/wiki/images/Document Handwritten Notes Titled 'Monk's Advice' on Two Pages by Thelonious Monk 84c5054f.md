@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Ha
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes ad5323cb|Document Lined Paper with Handwritten Text, Doodles, and Sticky Notes]] — shared language: handwritten, document
 - [[knowledge/wiki/images/Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text 12185c76|Illustration Painting of a Crumpled Note with Handwritten 'I Love You' Text]] — shared language: handwritten
-- [[knowledge/wiki/images/Document Open Book with Handwritten Musical Score by Wolfgang Amadeus Mozart 49f01eca|Document Open Book with Handwritten Musical Score by Wolfgang Amadeus Mozart]] — shared language: handwritten, document
+- [[knowledge/wiki/images/Document Script Draft with Handwritten Revisions for The Simpsons by Thomas Pynchon 66c774fe|Document Script Draft with Handwritten Revisions for The Simpsons by Thomas Pynchon]] — shared language: handwritten, document
 <!-- vault-crosslinks:end -->

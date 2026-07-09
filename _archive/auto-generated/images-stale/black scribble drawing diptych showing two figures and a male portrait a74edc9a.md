@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Abstract Black Scribble on White Background 433a80a3|Illustration Abstract Black Scribble on White Background]] — shared language: scribble
 - [[_archive/auto-generated/images-stale/black scribble drawing suggesting a face on white paper c176ccd7|black scribble drawing suggesting a face on white paper]] — shared language: scribble
 - [[knowledge/wiki/images/Illustration Black Scribble Drawing Suggesting a Face on White Paper 08a4da29|Illustration Black Scribble Drawing Suggesting a Face on White Paper]] — shared language: scribble
-- [[_archive/auto-generated/images-stale/black ink scribble drawing of a figure with a halo of connected faces 2022 d6755b87|black ink scribble drawing of a figure with a halo of connected faces 2022]] — shared language: scribble
+- [[knowledge/wiki/images/Diagram Grid of Male Faces Showing Progressive AI Distortion 28867952|Diagram Grid of Male Faces Showing Progressive AI Distortion]] — shared language: male, showing
 <!-- vault-crosslinks:end -->

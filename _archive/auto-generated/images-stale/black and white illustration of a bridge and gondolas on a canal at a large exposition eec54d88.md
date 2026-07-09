@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/black and white photograph of gondolas on a canal in front of large exposition buildings 1604df11|black and white photograph of gondolas on a canal in front of large exposition buildings]] — shared language: gondolas, canal, exposition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings e2b4dce0|Photograph Black and White Photograph of Gondolas on Canal, Grand Buildings]] — shared language: gondolas, canal
 - [[_archive/auto-generated/artists-noise/Artist - a canal 1893|Artist - a canal 1893]] — shared language: canal, large
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, large
+- [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: canal, bridge, large
 <!-- vault-crosslinks:end -->

@@ -25,4 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Underlined Text '(You)' on Light Background 02efe092|Screenshot Underlined Text '(You)' on Light Background]] — shared language: light
 - [[knowledge/wiki/images/Photograph of a Book Page with an Illustration of Light and Color 755352db|Photograph of a Book Page with an Illustration of Light and Color]] — shared language: light
 - [[knowledge/wiki/images/Illustration Abstract Tiled Map of Light Blue Water and Light Green Land c9bba04e|Illustration Abstract Tiled Map of Light Blue Water and Light Green Land]] — shared language: light
+- [[knowledge/wiki/images/Abstract Composition Of Red And Green Light And Shadow 2da52a41|Abstract Composition Of Red And Green Light And Shadow]] — shared language: light
 <!-- vault-crosslinks:end -->

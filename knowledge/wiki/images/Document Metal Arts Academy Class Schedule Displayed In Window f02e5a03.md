@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Me
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/books/matthew-b-crawford-shop-class-as-soulcraft|Shop Class as Soulcraft]] — shared language: class
 - [[knowledge/wiki/books/susan-magsamen-ivy-ross-your-brain-on-art-how-the-arts-transform-us-hardcover|Your Brain on Art How the Arts Transform Us Hardcover]] — shared language: arts
-- [[knowledge/wiki/images/THE TRAIN OF THE FUTURE IS YEARS AHEAD OF SCHEDULE (1970s) c0cf3379|THE TRAIN OF THE FUTURE IS YEARS AHEAD OF SCHEDULE (1970s)]] — shared language: schedule
+- [[knowledge/wiki/images/The Document of Metal Gear Solid 2 by Yoji Shinkawa (2002) 085b93ef|The Document of Metal Gear Solid 2 by Yoji Shinkawa (2002)]] — shared language: metal, document
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/detroit michigan skyline ca 1929 png 2ea2a3f7|detroit michigan skyline ca 1929 png]] — shared language: michigan, skyline
 - [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: chicago, aerial, view
 - [[knowledge/wiki/images/Aerial View Of A Rectangular Iceberg In Frozen Sea e57021c0|Aerial View Of A Rectangular Iceberg In Frozen Sea]] — shared language: frozen, aerial, view
+- [[knowledge/wiki/images/Photograph Aerial View of Chicago City Grid at Night by thefacetpixel 391f7c96|Photograph Aerial View of Chicago City Grid at Night by thefacetpixel]] — shared language: chicago, aerial, view
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/scripts.html"
 source_relpath: "scripts.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # scripts
@@ -46,10 +46,10 @@ strauh.al/scripts
 
 - [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: scripts, none, related
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/san francisco|san francisco]] — shared language: txt.txt, none, related
 - [[knowledge/wiki/images/ezgif.com resize f1cec9c6|ezgif.com resize]] — shared language: resize
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/random quote|random quote]] — shared language: none, related, yet
 - [[knowledge/raw/about|About strauh.al]] — shared language: scripts, rename
 <!-- vault-crosslinks:end -->

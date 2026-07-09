@@ -55,6 +55,6 @@ shared nervous system.
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: mind, drive, less
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: mind, confidant, internet
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: latent, autofiction, confidant
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: mind, it's
-- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: it's, latent, literal
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: already, latent, makes
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: archive-links, space, corpus
 <!-- vault-crosslinks:end -->

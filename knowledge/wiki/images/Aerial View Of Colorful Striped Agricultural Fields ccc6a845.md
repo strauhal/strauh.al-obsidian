@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 - [[knowledge/wiki/images/Screenshot Aerial View of Agricultural Fields and Urban Area 25b25d23|Screenshot Aerial View of Agricultural Fields and Urban Area]] — shared language: fields, aerial, view
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski bb6228ef|Photograph Aerial View of Su oszowa Village and Striped Fields by Kacper Kowalski]] — shared language: fields, striped, aerial
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 <!-- vault-crosslinks:end -->

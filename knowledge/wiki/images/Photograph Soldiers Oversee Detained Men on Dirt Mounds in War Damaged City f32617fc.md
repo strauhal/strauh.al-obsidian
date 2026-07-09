@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Sol
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: damaged, city
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/images/Illustration Black and White Ink Sketch of a Bus on a Dirt Path 8be5ad46|Illustration Black and White Ink Sketch of a Bus on a Dirt Path]] — shared language: dirt
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Soldiers Running Through Smoke a2fa9512|Photograph Black and White Photograph of Soldiers Running Through Smoke]] — shared language: soldiers
 - [[knowledge/wiki/books/the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] — shared language: men
-- [[knowledge/wiki/images/Aerial View of Heavily Damaged City with People Walking Through Rubble 41f494ff|Aerial View of Heavily Damaged City with People Walking Through Rubble]] — shared language: damaged, city
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1100s/auspicious_crane
 - [[knowledge/wiki/images/Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty) 4c4b9a12|Lady Guoguo's Spring Outing by Emperor Huizong (Northern Song dynasty)]] — shared language: huizong, emperor
 - [[knowledge/wiki/images/The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty) ebe87eb6|The Kangxi Emperor on His Southern Inspection Tour, section of a handscroll by Wang Hui and others (Qing dynasty)]] — shared language: emperor, section
 - [[knowledge/wiki/images/Sunset Cranes by Carolyn Lujan (2022) ff4ef062|Sunset Cranes by Carolyn Lujan (2022)]] — shared language: cranes
-- [[knowledge/wiki/images/Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape 16ce9498|Illustration Woman In Long Dress Looking At Scroll From Clouds In Landscape]] — shared language: scroll
+- [[knowledge/wiki/images/Screenshot Screenshot of a See Also section listing art genres 39460bbb|Screenshot Screenshot of a See Also section listing art genres]] — shared language: section
 <!-- vault-crosslinks:end -->

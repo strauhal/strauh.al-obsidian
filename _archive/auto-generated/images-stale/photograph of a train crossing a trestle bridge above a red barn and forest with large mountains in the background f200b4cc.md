@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains 30462e12|Photograph Train Crossing Trestle Bridge Above Red Barn and Mountains]] — shared language: trestle, barn, crossing
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, large
 - [[knowledge/wiki/images/Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines 4eddf114|Illustration Ink Sketch of Figure Drawing Barn and Mountains with Perspective Lines]] — shared language: barn, mountains
 - [[_archive/auto-generated/images-stale/ink sketch of a figure drawing a barn and mountains using perspective lines b556ba63|ink sketch of a figure drawing a barn and mountains using perspective lines]] — shared language: barn, mountains
+- [[knowledge/wiki/images/Photograph Artist in Studio with Large Abstract Painting and Forest View 10548d8c|Photograph Artist in Studio with Large Abstract Painting and Forest View]] — shared language: forest, large
 <!-- vault-crosslinks:end -->

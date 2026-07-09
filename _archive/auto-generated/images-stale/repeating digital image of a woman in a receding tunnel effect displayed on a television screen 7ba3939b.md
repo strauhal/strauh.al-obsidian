@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Screenshot Japanese Weather Presenter With Digital Tunnel Effect On Screen 050b588c|Screenshot Japanese Weather Presenter With Digital Tunnel Effect On Screen]] — shared language: tunnel, effect, screen
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen, digital
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital
-- [[_archive/auto-generated/images-stale/digital abstract of receding red and orange neon squares on dark background 26eaa3b7|digital abstract of receding red and orange neon squares on dark background]] — shared language: receding, digital
+- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: screen, digital
 <!-- vault-crosslinks:end -->

@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, document
 - [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: press
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: press
-- [[knowledge/wiki/images/Document Newspaper Clipping With Halftone Photo Of A Man And Text 6a8e12e7|Document Newspaper Clipping With Halftone Photo Of A Man And Text]] — shared language: clipping, newspaper, document
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: press
+- [[knowledge/wiki/images/Document Newspaper Clipping With Halftone Photo Of A Man And Text 6a8e12e7|Document Newspaper Clipping With Halftone Photo Of A Man And Text]] — shared language: clipping, newspaper, document
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: press
 <!-- vault-crosslinks:end -->

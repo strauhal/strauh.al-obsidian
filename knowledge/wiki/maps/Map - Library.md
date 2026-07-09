@@ -2,8 +2,8 @@
 title: Map - Library
 type: map
 tags: [map, library, books]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Map - Library
@@ -51,5 +51,5 @@ Total entries: 419
 - [[knowledge/output/library-build-report|library-build-report]] — shared language: technology, esoterica, media
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, philosophy, total
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: elegance, spontaneity, latent
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, read
+- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
 <!-- vault-crosslinks:end -->

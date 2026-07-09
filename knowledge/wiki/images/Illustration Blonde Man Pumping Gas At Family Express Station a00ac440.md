@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Man Pumping Gas At Family Express Station At Night c7a2a92c|Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, express, gas
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station, family
 - [[knowledge/wiki/images/Man Pumping Gas And Smoking At Night f372e20c|Man Pumping Gas And Smoking At Night]] — shared language: pumping, gas
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station, family
 - [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas, station
 - [[knowledge/wiki/images/Military Vehicles And Civilian Cars At A Gas Station At Night 2a2a088f|Military Vehicles And Civilian Cars At A Gas Station At Night]] — shared language: gas, station
 <!-- vault-crosslinks:end -->

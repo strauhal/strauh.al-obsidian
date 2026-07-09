@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: francis
 - [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: francis
 - [[knowledge/wiki/books/athlone-contemporary-european-thinkers-gilles-deleuze-francis-bacon-the-logic-of-sensation-continuum|Francis Bacon The Logic of Sensation-Continuum]] — shared language: francis
-- [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: francis
+- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: francis
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_machine_gun_
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: machine
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: machine
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: machine
 - [[knowledge/wiki/images/Photograph ASML EUV Lithography Machine by ASML Holding f4b7fce2|Photograph ASML EUV Lithography Machine by ASML Holding]] — shared language: machine
+- [[knowledge/wiki/artists/Artist - peter saul|Artist - peter saul]] — shared language: peter
 <!-- vault-crosslinks:end -->

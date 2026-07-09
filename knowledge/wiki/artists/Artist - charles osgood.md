@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/images/mrs fiske warren gretchen osgood by john singer sargent 1903 79d8f533|mrs fiske warren gretchen osgood by john singer sargent 1903]] — shared language: osgood
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 <!-- vault-crosslinks:end -->

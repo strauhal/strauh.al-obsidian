@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/flap/flap.html"
 source_relpath: "flap/flap.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # Flapping Animation Grid
@@ -30,6 +30,6 @@ Flapping Animation Grid
 - [[knowledge/wiki/artists/Artist - Toei Animation|Artist - Toei Animation]] — shared language: animation
 - [[knowledge/wiki/images/Screenshot Animated Blue Dragon Lighting a Cigar by Toei Animation d4546f7e|Screenshot Animated Blue Dragon Lighting a Cigar by Toei Animation]] — shared language: animation
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/images/Illustration Page with Black Organic Shapes and Grid of Circles 4b6399a5|Illustration Page with Black Organic Shapes and Grid of Circles]] — shared language: grid, page
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

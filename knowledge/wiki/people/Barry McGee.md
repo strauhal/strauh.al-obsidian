@@ -37,5 +37,5 @@ and anonymous at once.
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: influences, internet, listed
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, whose, diary
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, confidant, whose
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: mcgee, influences, barry
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: diary, internet, confidant
 <!-- vault-crosslinks:end -->

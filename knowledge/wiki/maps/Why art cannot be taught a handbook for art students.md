@@ -15,8 +15,8 @@ See [[Why art cannot be taught a handbook for art students]].
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: taught
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: cannot
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: taught
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: handbook
 - [[knowledge/wiki/books/the-complete-chord-formulas-handbook|The Complete Chord Formulas Handbook]] — shared language: handbook
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: handbook
 <!-- vault-crosslinks:end -->

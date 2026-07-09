@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Jean-Claude Larchet_ Archibald Andrew Torrance - The New Media Epidemic_ The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev (2019).epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # The New Media Epidemic The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev

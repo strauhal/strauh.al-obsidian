@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Pink Art D
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Light Blue Art Deco Building with Rounded Corners and White Trim 7ed1d037|Light Blue Art Deco Building with Rounded Corners and White Trim]] — shared language: rounded, corners, deco
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Peach Art Deco Building with Rounded Balconies in Miami 75dfff1b|Peach Art Deco Building with Rounded Balconies in Miami]] — shared language: rounded, deco, building
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: windows, building, windows.jpeg
 - [[knowledge/wiki/images/Photograph Building on Fire with Flames and Smoke Pouring from Windows 32dbee25|Photograph Building on Fire with Flames and Smoke Pouring from Windows]] — shared language: windows, building, windows.jpeg
+- [[knowledge/wiki/images/Photograph White Brick Building Exterior With Metal Pipes And Windows 230eb388|Photograph White Brick Building Exterior With Metal Pipes And Windows]] — shared language: windows, building, windows.jpeg
 <!-- vault-crosslinks:end -->

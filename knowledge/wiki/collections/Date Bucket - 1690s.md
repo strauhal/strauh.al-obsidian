@@ -1,7 +1,7 @@
 ---
 title: "Date Bucket - 1690s"
 source_kind: "date_bucket"
-count: "4"
+count: "5"
 compiled: "True"
 tags: ["strauhal", "date-bucket"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "date-bucket"]
 
 Artworks dated 1690s, by filename. Part of [[strauh.al Image Archive]].
 
-Files: 4
+Files: 5
 
 ## Sample
 
@@ -20,6 +20,8 @@ Files: 4
 ![[media/strauh.al3.1/1600s/portrait_of_jules_hardouin_mansart_by_hyacinthe_rigaud_c_1699.jpg]]
 
 ![[media/strauh.al3.1/1600s/portrait_of_louis_xiv_in_armour_by_pierre_mignard_c_1690.jpg]]
+
+![[media/strauh.al3.1/ernest/IMG_1693.jpg]]
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

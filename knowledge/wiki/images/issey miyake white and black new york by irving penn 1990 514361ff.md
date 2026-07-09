@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/issey_miyake_whi
 
 - [[knowledge/wiki/images/pleats please issey miyake new york by irving penn 1995 98328768|pleats please issey miyake new york by irving penn 1995]] — same artist: irving penn
 - [[knowledge/wiki/artists/Artist - irving underhill|Artist - irving underhill]] — shared language: irving
-- [[knowledge/wiki/images/New York by Franklin Booth (1920) ddc53aaa|New York by Franklin Booth (1920)]] — shared language: york, new
 - [[knowledge/wiki/images/manhattan bridge construction d 194 by irving underhill 1909 28d82fbb|manhattan bridge construction d 194 by irving underhill 1909]] — shared language: irving
+- [[knowledge/wiki/images/New York by Franklin Booth (1920) ddc53aaa|New York by Franklin Booth (1920)]] — shared language: york, new
 - [[knowledge/wiki/images/edward hopper room in new york 1932 c71312da|edward hopper room in new york 1932]] — shared language: york, new
 <!-- vault-crosslinks:end -->

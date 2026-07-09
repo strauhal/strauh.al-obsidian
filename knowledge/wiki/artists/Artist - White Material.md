@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: material
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: material
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: material
 - [[knowledge/wiki/images/Illustration Arrangement of Material Swatches and Color Samples 6bf54a4a|Illustration Arrangement of Material Swatches and Color Samples]] — shared language: material
 - [[knowledge/wiki/images/Illustration Grotesque Creature Covered In Organic Material Hanging From Tree Branch 698bb58f|Illustration Grotesque Creature Covered In Organic Material Hanging From Tree Branch]] — shared language: material
-- [[knowledge/wiki/images/Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag 4fdbed48|Black Cat With Glowing Eyes, Spilled Green Material, Plastic Bag]] — shared language: material
 <!-- vault-crosslinks:end -->

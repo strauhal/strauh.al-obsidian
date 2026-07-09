@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid
 - [[knowledge/wiki/images/Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes 88cef3ee|Illustration Nine Black and White Ink Drawings of Urban and Suburban Scenes]] — shared language: nine, drawings
 - [[_archive/auto-generated/images-stale/oil painting portrait of a man wearing glasses and a keffiyeh 9ccde60a|oil painting portrait of a man wearing glasses and a keffiyeh]] — shared language: glasses, wearing
-- [[knowledge/wiki/images/Illustration Four Line Drawings of a Man with Glasses and Mustache 754ed340|Illustration Four Line Drawings of a Man with Glasses and Mustache]] — shared language: glasses, drawings
+- [[_archive/auto-generated/images-stale/black and white drawing of an old man in profile wearing a helmet a211a290|black and white drawing of an old man in profile wearing a helmet]] — shared language: profile, wearing
 <!-- vault-crosslinks:end -->

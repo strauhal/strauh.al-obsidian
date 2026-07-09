@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - Essen
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: essential
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: core
-- [[knowledge/wiki/images/Pete Conrad Collecting Core Sample by Alan Bean dcfba788|Pete Conrad Collecting Core Sample by Alan Bean]] — shared language: core
 - [[knowledge/wiki/images/Illustration LIGHTING GUIDE MASTER PRO PORTRAIT LIGHTING WITH THESE 24 ESSENTIAL STUDIO SET UPS by Ben Brain, James Paterson, Andy McLaughlin, Roddy L 54dfae85|Illustration LIGHTING GUIDE MASTER PRO PORTRAIT LIGHTING WITH THESE 24 ESSENTIAL STUDIO SET UPS by Ben Brain, James Paterson, Andy McLaughlin, Roddy L]] — shared language: essential
+- [[knowledge/wiki/images/Pete Conrad Collecting Core Sample by Alan Bean dcfba788|Pete Conrad Collecting Core Sample by Alan Bean]] — shared language: core
 - [[knowledge/wiki/artists/Artist - Alan Bean|Artist - Alan Bean]] — shared language: core
 <!-- vault-crosslinks:end -->

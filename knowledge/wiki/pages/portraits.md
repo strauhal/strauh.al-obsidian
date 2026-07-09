@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/portraits.html"
 source_relpath: "portraits.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # portraits
@@ -27,6 +27,12 @@ strauh.al/portraits
 
 [Portrait of Nick, 2025](https://strauh.al/portraits/nick.html)
 
+[benjamin.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/portraits/benjamin.png)
+[ernest.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/portraits/ernest.png)
+[megan.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/portraits/megan.png)
+[nick1.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/portraits/nick1.png)
+[wedding.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/portraits/wedding.png)
+
 ## Related Local Pages
 
 - None yet
@@ -36,10 +42,10 @@ strauh.al/portraits
 
 - [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/people/Megan|Megan]] — named in this note
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
-- [[knowledge/wiki/images/megan 1b531387|megan]] — shared language: portraits, megan
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits, ernest.png
+- [[knowledge/wiki/images/megan 1b531387|megan]] — shared language: portraits, megan, megan.png
 - [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits, megan, benjamin
+- [[knowledge/wiki/images/wedding 55ff7e55|wedding]] — shared language: portraits, wedding.png
+- [[knowledge/wiki/images/nick1 f861772f|nick1]] — shared language: portraits, nick1.png
 - [[knowledge/wiki/pages/3d scans|3d scans]] — shared language: portraits, none, related
-- [[knowledge/wiki/images/wedding 55ff7e55|wedding]] — shared language: portraits
-- [[knowledge/wiki/images/nick1 f861772f|nick1]] — shared language: portraits
 <!-- vault-crosslinks:end -->

@@ -44,6 +44,18 @@ machine logic he critiques as [[AI Slop]].
 **Books (4).** [[cal-newport-deep-work-rules-for-focused-success-in-a-distracted-world|Deep Work Rules for focused success in a distracted world]] · [[gabor-mat-scattered-minds-the-origins-and-healing-of-attention-deficit-disorder|Scattered Minds The Origins and Healing of Attention Deficit Disorder]] · [[neil-postman-amusing-ourselves-to-death-public-discourse-in-the-age-of-show-business|Amusing Ourselves to Death Public Discourse in the Age of Show Business]] · [[nicholas-carr-the-shallows-what-the-internet-is-doing-to-our-brains|The Shallows What the Internet Is Doing to Our Brains]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/books/essays|essays]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -76,16 +88,3 @@ machine logic he critiques as [[AI Slop]].
 >
 > A FATHER'S IMPACT Education and neuroscience researchers report a father's engagement impacts a child's social and emotional competencies such as personal awareness, self-esteem, social skills, relationship building, decision-making, self-control and good behavior. A child's achievement in school is positively impacted when fathers take an active role in school-related events. Fathers who attend school meetings, participate in parent-teacher conferences, show support by attending school events or serve as school volunteers positively impact their child's academic achievement. Where in-school behavior is a concern, fathers can also effectively advocate for individualized discipline procedures and alternatives instead of accepting blanket punitive policies. However, when fathers are absent it produces disturbing outcomes. Fatherless children are: twice as likely to drop out of school, twice as likely to go to jail, and four times more likely to need help with emotional or behavioral problems. Children who have a poor relationship with their father who lives in the household are 68% more likely to smoke, drink, or use drugs compared to teens living in emotionally healthy two-parent families. Adolescent boys living in single-parent families experience a higher risk of delinquency as well. Those raised without a father in their lives are twice as likely to end up in jail. Children whose fathers are not present are twice as likely to repeat a grade. 71% percent of all high school dropouts were raised in fatherless homes (nine times the national average). 85% of children who exhibit behavioral disorders reside in fatherless homes. 63% of youth suicide are from fatherless homes. 70% of juveniles in state-operated institutions are from father-absent homes. The balance between a mother's focus on nurturing and a father's emphasis on achievement works in tandem to foster the healthy growth and development of children. Whether a biological adoptive or stepfather, children whose fathers have been in their lives since infancy are more prone to be independent and emotionally secure. They are less likely to suffer from depression and are open to experiences outside of their comfort zone. Fathers who spend quality time at play with their children help reduce the incidence of behavioral problems among their sons and influence a healthy self-esteem among their daughters. Fathers' personal time with children enables young boys and girls to better manage their emotions and regulate their behavior. Fathers have significant influence over the development and health of their children. A child's identity is also enhanced, which bodes well for their attaining academic and career success. Adolescents whose fathers were involved during high school years were more likely to graduate from college.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/books/essays|essays]] — named in this note
-- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
-- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-<!-- vault-crosslinks:end -->

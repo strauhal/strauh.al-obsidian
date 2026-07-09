@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Bla
 
 - [[knowledge/wiki/images/Black and White Grid of Adversarial Examples 7d052f86|Black and White Grid of Adversarial Examples]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, adversarial, diagram
-- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: grid, diagram
 - [[_archive/auto-generated/images-stale/Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty 4f85736a|Diagram Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] — shared language: adversarial, diagram
+- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: grid, diagram
 - [[knowledge/wiki/images/Diagram of a Generative Adversarial Network (GAN) with Hello Kitty be131da7|Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] — shared language: adversarial, diagram
 <!-- vault-crosslinks:end -->

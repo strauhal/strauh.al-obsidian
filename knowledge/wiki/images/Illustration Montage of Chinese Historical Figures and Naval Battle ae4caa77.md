@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/battle 03c2ec28|battle]] — shared language: battle, battle.jpg
 - [[knowledge/wiki/images/Diagram Historical Chinese Acupuncture Meridian Diagram 3c3adb25|Diagram Historical Chinese Acupuncture Meridian Diagram]] — shared language: historical, chinese
 - [[knowledge/wiki/images/Illustration Historical Chinese Illustrations of Traditional Medicine and Martial Arts 4c58faa6|Illustration Historical Chinese Illustrations of Traditional Medicine and Martial Arts]] — shared language: historical, chinese
-- [[knowledge/wiki/images/Photograph Photograph of a Slide Showing Two Historical Corsets 9432622c|Photograph Photograph of a Slide Showing Two Historical Corsets]] — shared language: historical
+- [[knowledge/wiki/images/Illustration Chinese Calligraphy in Black Ink on White Paper 7f0bf24b|Illustration Chinese Calligraphy in Black Ink on White Paper]] — shared language: chinese
 <!-- vault-crosslinks:end -->

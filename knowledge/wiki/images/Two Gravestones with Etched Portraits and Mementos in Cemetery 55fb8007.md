@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Graves
 - [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits
 - [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits
 <!-- vault-crosslinks:end -->

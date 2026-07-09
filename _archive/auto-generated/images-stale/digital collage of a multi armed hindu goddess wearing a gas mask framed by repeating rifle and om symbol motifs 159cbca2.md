@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[_archive/auto-generated/images-stale/painting of a multi armed hindu goddess durga in a red sari standing next to a tiger in a mountainous landscape a0cc85b7|painting of a multi armed hindu goddess durga in a red sari standing next to a tiger in a mountainous landscape]] — shared language: hindu, goddess, armed
 - [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: hindu, multi, armed
-- [[_archive/auto-generated/images-stale/devotional print of a multi headed multi armed hindu deity ad618387|devotional print of a multi headed multi armed hindu deity]] — shared language: hindu, armed, multi
+- [[_archive/auto-generated/images-stale/devotional print of a multi headed multi armed hindu deity ad618387|devotional print of a multi headed multi armed hindu deity]] — shared language: hindu, multi, armed
 - [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: goddess, armed, multi
 - [[_archive/auto-generated/images-stale/Photograph Young Woman Holding Rifle with Armed Figures Behind Her e8da5881|Photograph Young Woman Holding Rifle with Armed Figures Behind Her]] — shared language: rifle, armed
 <!-- vault-crosslinks:end -->

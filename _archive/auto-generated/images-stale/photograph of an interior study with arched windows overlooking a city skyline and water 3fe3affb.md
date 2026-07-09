@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: arched, overlooking, windows
 - [[knowledge/wiki/images/Interior Room With Arched Windows Overlooking Sea And Coastal Plain db993a24|Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, overlooking, windows
 - [[_archive/auto-generated/images-stale/Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain 294789ec|Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, overlooking, windows
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, study, water
 - [[_archive/auto-generated/images-stale/interior view of a room with arched windows and columns overlooking the sea and coastal plain 2e5145c4|interior view of a room with arched windows and columns overlooking the sea and coastal plain]] — shared language: arched, overlooking, windows
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 <!-- vault-crosslinks:end -->

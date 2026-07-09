@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Neo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Portrait of Terentius Neo (c. 79 AD) 3c93930a|Portrait of Terentius Neo (c. 79 AD)]] — shared language: neo
 - [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: dome, building
 - [[knowledge/wiki/artists/Artist - River|Artist - River]] — shared language: river
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Tower and Dome from Rooftop 27d35d6f|Photograph Black and White Photograph of Classical Tower and Dome from Rooftop]] — shared language: dome
+- [[knowledge/wiki/culture/reading-gothic-violence|Reading - Gothic Violence]] — shared language: gothic
 <!-- vault-crosslinks:end -->

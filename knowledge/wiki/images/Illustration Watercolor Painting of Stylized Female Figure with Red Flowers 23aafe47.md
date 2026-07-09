@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/images/Illustration Black and White Stylized Female Face with Organic Forms 3fc608d8|Illustration Black and White Stylized Female Face with Organic Forms]] — shared language: female, stylized
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers, flowers.jpg
 - [[knowledge/wiki/images/Illustration Glowing Blue Stylized Plant With Two Yellow Flowers 0ad35ba2|Illustration Glowing Blue Stylized Plant With Two Yellow Flowers]] — shared language: flowers, stylized, flowers.jpg
-- [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor
+- [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 <!-- vault-crosslinks:end -->

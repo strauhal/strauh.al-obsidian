@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/woman_in_subway_
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: subway
 - [[knowledge/wiki/anchors/martha-argerich|Martha Argerich]] — shared language: martha
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: martha
-- [[knowledge/wiki/books/cooper-jean-c-an-illustrated-encyclopaedia-of-traditional-symbols-thames-and-hudson|An illustrated encyclopaedia of traditional symbols-Thames and Hudson]] — shared language: cooper
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: martha
 <!-- vault-crosslinks:end -->

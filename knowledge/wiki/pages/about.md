@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/about.html"
 source_relpath: "about.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # about
@@ -43,8 +43,8 @@ strauh.al/about
 - [[knowledge/wiki/pages/donate|donate]] — named in this note
 - [[knowledge/wiki/pages/scripts|scripts]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, closest, capture
-- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
 - [[knowledge/raw/about|About strauh.al]] — shared language: site, donations, enjoy
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, website, link
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: site
 - [[knowledge/wiki/books/machine-learning-mastery-jason-brownlee-deep-learning-with-python-theano-tensorflow-keras-develop-deep-learning-models-on-theano-and-tensorf|Deep Learning with Python (Theano, TensorFlow, Keras) Develop Deep Learning Models on Theano and TensorFlow Using Keras]] — shared language: using, python
 - [[knowledge/wiki/images/your name 40009423|your name]] — shared language: name

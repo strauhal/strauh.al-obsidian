@@ -13,7 +13,7 @@ This note exists because generated pages linked this spelling or alias. The rich
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen, oedipal
+- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: oedipal, screen
 - [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages

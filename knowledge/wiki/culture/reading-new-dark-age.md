@@ -7,8 +7,8 @@ status: queued
 queue_order: 29
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # New Dark Age
@@ -35,7 +35,7 @@ This is an active book in Ernest's current cultural diet. Add dates, reactions, 
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: age
 - [[knowledge/wiki/culture/reading-my-first-book|Reading - My First Book]] — shared language: current, book, stronger
 - [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: current, stronger, develops
-- [[knowledge/wiki/culture/reading-the-art-spirit|Reading - The Art Spirit]] — shared language: current, stronger, develops
 - [[knowledge/wiki/books/michelle-alexander-the-new-jim-crow-mass-incarceration-in-the-age-of-colorblindness|The New Jim Crow: Mass Incarceration in the Age of Colorblindness]] — shared language: age, new
+- [[knowledge/wiki/culture/reading-the-art-spirit|Reading - The Art Spirit]] — shared language: current, stronger, develops
 - [[knowledge/wiki/culture/reading-tomie|Reading - Tomie]] — shared language: current, stronger, develops
 <!-- vault-crosslinks:end -->

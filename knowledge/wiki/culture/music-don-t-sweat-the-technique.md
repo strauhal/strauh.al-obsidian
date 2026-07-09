@@ -7,8 +7,8 @@ status: queued
 queue_order: 25
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Don't Sweat the Technique

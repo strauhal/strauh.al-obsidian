@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/People Eat
 - [[knowledge/wiki/images/Among the Flowers by Paul Fries (1956) c1a2ee00|Among the Flowers by Paul Fries (1956)]] — shared language: fries
 - [[knowledge/wiki/books/french-modernist-library-andr-breton-mary-ann-caws-mad-love|Mad Love]] — shared language: french
 - [[knowledge/wiki/images/Man Eating And Wearing Headphones In Cafe 420d0bb8|Man Eating And Wearing Headphones In Cafe]] — shared language: eating
-- [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Figures at a Table 9687cd6e|Illustration Black and White Ink Drawing of Figures at a Table]] — shared language: table
+- [[knowledge/wiki/images/People In A Meeting Room With Laptops On A Table 363e30d1|People In A Meeting Room With Laptops On A Table]] — shared language: table, people
 <!-- vault-crosslinks:end -->

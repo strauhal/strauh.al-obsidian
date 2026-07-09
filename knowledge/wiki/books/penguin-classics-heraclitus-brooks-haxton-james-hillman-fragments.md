@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[Penguin Classics] Heraclitus, Brooks Haxton, James Hillman - Fragments (2003, Penguin Classics) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Fragments

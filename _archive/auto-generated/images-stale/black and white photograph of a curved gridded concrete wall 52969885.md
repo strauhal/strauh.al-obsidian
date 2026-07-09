@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Curved Gridded Concrete Wall 8751fd1d|Photograph Black and White Photograph of a Curved Gridded Concrete Wall]] — shared language: gridded, curved, concrete
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, curved
 - [[knowledge/wiki/images/Illustration White Stencil of a Cat on a Concrete Wall 6af36582|Illustration White Stencil of a Cat on a Concrete Wall]] — shared language: concrete, wall, wall.png
 - [[_archive/auto-generated/images-stale/white stencil of a cat on a concrete wall 514b90fe|white stencil of a cat on a concrete wall]] — shared language: concrete, wall, wall.png
 - [[knowledge/wiki/images/Brutalist Concrete Building with Curved Ramps and Arches 589dbe9d|Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: curved, concrete
+- [[_archive/auto-generated/images-stale/Photograph Brutalist Concrete Building with Curved Ramps and Arches a4e5db6f|Photograph Brutalist Concrete Building with Curved Ramps and Arches]] — shared language: curved, concrete
 <!-- vault-crosslinks:end -->

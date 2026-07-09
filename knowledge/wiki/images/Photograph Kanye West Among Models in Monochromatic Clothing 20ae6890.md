@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Kan
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among
-- [[knowledge/wiki/images/Kanye West Exiting Car, Looking At Phone b118f26f|Kanye West Exiting Car, Looking At Phone]] — shared language: kanye, west
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among
+- [[knowledge/wiki/images/Kanye West Exiting Car, Looking At Phone b118f26f|Kanye West Exiting Car, Looking At Phone]] — shared language: kanye, west
 <!-- vault-crosslinks:end -->

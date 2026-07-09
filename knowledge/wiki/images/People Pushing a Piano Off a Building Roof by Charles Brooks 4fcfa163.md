@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/People Pus
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people, charles
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
+- [[knowledge/wiki/books/piano|piano]] — shared language: piano
 <!-- vault-crosslinks:end -->

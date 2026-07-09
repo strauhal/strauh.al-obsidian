@@ -4,8 +4,8 @@ type: work
 year: 2024
 tags: [work, video, voice, stylegan, gan, self-portrait]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Vocal Study 3
@@ -32,6 +32,6 @@ Read frames the result as an uncanny doppelganger: voice, body, and movement rem
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, human-machine, tug
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: voice, may, control
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, work, human
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: read, result, described
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: read, described, result
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, less, space
 <!-- vault-crosslinks:end -->

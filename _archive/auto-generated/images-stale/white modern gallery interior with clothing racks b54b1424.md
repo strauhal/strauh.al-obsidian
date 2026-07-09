@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Modern Clothing Store Interior with Racks and Mannequins 8def1e29|Modern Clothing Store Interior with Racks and Mannequins]] — shared language: racks, clothing, modern
 - [[_archive/auto-generated/images-stale/Photograph Modern Clothing Store Interior with Racks and Mannequins 74f56aca|Photograph Modern Clothing Store Interior with Racks and Mannequins]] — shared language: racks, clothing, modern
 - [[knowledge/wiki/images/Photograph Interior View of a Modern Art Gallery or Office Space 9aa654e7|Photograph Interior View of a Modern Art Gallery or Office Space]] — shared language: gallery, modern, interior
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/images/Modern Minimalist Clothing Store Interior with Concrete and Black Accents 29c047db|Modern Minimalist Clothing Store Interior with Concrete and Black Accents]] — shared language: clothing, modern, interior
+- [[_archive/auto-generated/images-stale/Photograph Modern Minimalist Clothing Store Interior with Concrete and Black Accents ce1adf94|Photograph Modern Minimalist Clothing Store Interior with Concrete and Black Accents]] — shared language: clothing, modern, interior
 <!-- vault-crosslinks:end -->

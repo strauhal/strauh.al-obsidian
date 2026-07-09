@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, street
 - [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street, street.jpg
-- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: urban, street
 - [[knowledge/wiki/images/Black and White Photo of Building Covered in Coats a79a8a08|Black and White Photo of Building Covered in Coats]] — shared language: coats
+- [[knowledge/wiki/images/Photograph Two Framed Oil Paintings of Urban Street Scenes 18578cee|Photograph Two Framed Oil Paintings of Urban Street Scenes]] — shared language: urban, street
 - [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: walking, street
 <!-- vault-crosslinks:end -->

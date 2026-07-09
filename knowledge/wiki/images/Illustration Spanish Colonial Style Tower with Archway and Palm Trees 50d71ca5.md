@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, trees
 - [[knowledge/wiki/images/Street Lamp And Archway Framed By Trees At Dusk c2490ab8|Street Lamp And Archway Framed By Trees At Dusk]] — shared language: archway, trees
 - [[knowledge/wiki/artists/Artist - Trees At Dusk|Artist - Trees At Dusk]] — shared language: trees, archway
 - [[knowledge/wiki/images/Illustration Four Palm Trees in Sandy Landscape Under Blue Sky 6634a976|Illustration Four Palm Trees in Sandy Landscape Under Blue Sky]] — shared language: palm, trees
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
+- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
 <!-- vault-crosslinks:end -->

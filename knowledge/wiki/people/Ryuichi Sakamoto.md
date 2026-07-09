@@ -32,9 +32,9 @@ and the more serious work of [[Implicit Distance]].
 ## Discovered Connections
 
 - [[knowledge/wiki/images/ryuichi sakamoto 9feaef1f|ryuichi sakamoto]] — shared language: ryuichi, sakamoto, influences
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, sakamoto, ryuichi
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit, hinge
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, whose, diary
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, sakamoto, ryuichi
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, influences, distance
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, composer, hecker
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: music, ambient, hecker

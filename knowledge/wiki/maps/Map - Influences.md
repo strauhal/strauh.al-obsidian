@@ -2,8 +2,8 @@
 title: Map - Influences
 type: map
 tags: [map, influences, people]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Map - Influences
@@ -21,10 +21,13 @@ People from the influence wall and the diary-linked constellation.
 - [[Clyfford Still]]
 - [[Egon Schiele]]
 - [[Marcel Proust]]
+- [[Martha Argerich]]
 - [[Megan]]
 - [[Piero Scaruffi]]
 - [[Playboi Carti]]
+- [[Ray Harryhausen]]
 - [[Rei Kawakubo]]
+- [[Rembrandt]]
 - [[Ryuichi Sakamoto]]
 - [[Terry A. Davis]]
 - [[Tim Hecker]]
@@ -37,10 +40,10 @@ People from the influence wall and the diary-linked constellation.
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: kandinsky, wassily, people
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: schiele, egon, baudelaire
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, schiele, egon
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: warhol, rembrandt, schiele
+- [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: argerich, martha, scriabin
 - [[knowledge/wiki/images/yohji yamamoto 86e1cd12|yohji yamamoto]] — shared language: influences, yohji, yamamoto
-- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: influences
+- [[knowledge/wiki/images/ray harryhausen b1a61e72|ray harryhausen]] — shared language: influences, harryhausen, ray
 - [[knowledge/wiki/images/barry mcgee 70e40c76|barry mcgee]] — shared language: influences, mcgee, barry
 - [[knowledge/wiki/images/playboi carti 67497c45|playboi carti]] — shared language: influences, playboi, carti
-- [[knowledge/wiki/images/rei kawakubo 10a189ab|rei kawakubo]] — shared language: influences, kawakubo, rei
 <!-- vault-crosslinks:end -->

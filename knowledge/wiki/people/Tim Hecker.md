@@ -26,6 +26,18 @@ one weekend. absolutely unreal stuff" — an appraisal that doubles as a stateme
 ## Sources
 - [[influences]]
 - [[diary]]
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
+- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
+- [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck, writer, hecker
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -40,16 +52,3 @@ one weekend. absolutely unreal stuff" — an appraisal that doubles as a stateme
 >
 > you were just a child then, the day you met brian eno. he bounced you on his knee and let you play on his dx7. he whispered in your ear: one day i'm going to make a coldplay record. he seemed old. when he touched you a buzz of radiation coursed through your body. years later, the doctors would diagnose you with stage four colorectal cancer, terminal. a gift from the master. as you lay dying, eno appears before you. "it was me all along. i was tim hecker. i was ben frost. on occasion, when i could muster up the energy to give a shit, i was even oneohtrix point never." he crawls up your deathbed like a night terror and stares into your eyes. "i control the pieces on the board. there's no such thing as influence. awepittance, in all his delusion, was right about one thing. the world is a puzzle. i am the key." you begin to whimper. "and what of my favorite obscure band? what of loveliescrushing?" eno waves his hand, dismissive. "dust in the wind. nothing more than a footnote in a loveless 33 1/3 book." you begin to accept. "what is life then, without my special band?" "oh child, life is meaningless." brian eno holds you as you drift off into oblivion, viva la vida pumping on the hospital speakers.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/pages/2026 updates|2026 updates]] — named in this note
-- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
-- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
-- [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck, writer, hecker
-<!-- vault-crosslinks:end -->

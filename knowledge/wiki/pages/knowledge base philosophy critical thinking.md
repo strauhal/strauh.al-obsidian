@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/philosophy_critical_thinking.html"
 source_relpath: "knowledge_base/philosophy_critical_thinking.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base philosophy critical thinking
@@ -113,11 +113,11 @@ strauh.al/knowledge_base/philosophy_critical_thinking
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/books/mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]] — named in this note
 - [[knowledge/wiki/anchors/georg-wilhelm-friedrich-hegel|Georg Wilhelm Friedrich Hegel]] — named in this note
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — named in this note
+- [[knowledge/wiki/books/the-body-in-theory-histories-of-cultural-materialism-jean-baudrillard-sheila-faria-glaser-simulacra-and-simulation|Simulacra and Simulation]] — named in this note
 - [[knowledge/wiki/anchors/camille-paglia|Camille Paglia]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
 - [[knowledge/wiki/books/phenomenology-of-spirit-g-w-f-hegel-0|G. W. F. Hegel 0]] — named in this note
-- [[knowledge/wiki/books/suicide-note|suicide note]] — named in this note
-- [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: deleuze, philosophy, guattari
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: philosophy, amor, fati
 <!-- vault-crosslinks:end -->

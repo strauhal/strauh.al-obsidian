@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[_archive/auto-generated/images-stale/black and white photograph of chicks in a brooder 9cc7e213|black and white photograph of chicks in a brooder]] — shared language: chicks
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: wood
-- [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: wood
 <!-- vault-crosslinks:end -->

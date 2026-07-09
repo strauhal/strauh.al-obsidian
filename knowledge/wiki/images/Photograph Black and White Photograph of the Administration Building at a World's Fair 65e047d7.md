@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Elevated Train and Buildings at 1893 Chicago World's Fair 411f257c|Photograph Elevated Train and Buildings at 1893 Chicago World's Fair]] — shared language: fair, world's, fair.jpg
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: fair
 - [[knowledge/wiki/images/Photograph Black and White Photograph of World's Columbian Exposition, 1893 5eedd249|Photograph Black and White Photograph of World's Columbian Exposition, 1893]] — shared language: world's
 - [[knowledge/wiki/images/Photograph World's Columbian Exposition 31303f2f|Photograph World's Columbian Exposition]] — shared language: world's
+- [[knowledge/wiki/images/Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts 5258293c|Photograph World's Columbian Exposition, Administration Building and Palace of Mechanic Arts]] — shared language: world's, building
 <!-- vault-crosslinks:end -->

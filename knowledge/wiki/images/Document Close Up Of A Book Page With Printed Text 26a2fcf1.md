@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Close
 - [[knowledge/wiki/images/Photograph Photograph of an Open Book Page with Illustrations 4016926f|Photograph Photograph of an Open Book Page with Illustrations]] — shared language: book, page
 - [[knowledge/wiki/images/Document Page From Book With Spanish Text And Illustration Of Philosopher 901d0a5e|Document Page From Book With Spanish Text And Illustration Of Philosopher]] — shared language: document, book, page
 - [[knowledge/wiki/images/Document Open Book Page Displaying Abstract Scribble Drawings and Text 4519fbfd|Document Open Book Page Displaying Abstract Scribble Drawings and Text]] — shared language: document, book, page
-- [[knowledge/wiki/images/Document Book Page with Japanese Text and Two Prehistoric Venus Figurines 699fb385|Document Book Page with Japanese Text and Two Prehistoric Venus Figurines]] — shared language: document, book, page
+- [[knowledge/wiki/images/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259|Document Page From A Book With Highlighted Text About The Aspen Incident]] — shared language: document, book, page
 <!-- vault-crosslinks:end -->

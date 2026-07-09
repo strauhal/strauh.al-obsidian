@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/cool_words.html"
 source_relpath: "knowledge_base/cool_words.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base cool words
@@ -56,8 +56,8 @@ strauh.al/knowledge_base/cool_words
 - [[knowledge/wiki/images/finder 75a55db0|finder]] — named in this note
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: knowledge, meaning
 - [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, none
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
 - [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
-- [[knowledge/wiki/pages/knowledge base web art|knowledge base web art]] — shared language: base, knowledge, page
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: knowledge, concepts
 <!-- vault-crosslinks:end -->

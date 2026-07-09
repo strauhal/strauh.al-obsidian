@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_anne
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: alexander
+- [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: alexander
 <!-- vault-crosslinks:end -->

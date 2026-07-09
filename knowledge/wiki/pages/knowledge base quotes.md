@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/quotes.html"
 source_relpath: "knowledge_base/quotes.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base quotes
@@ -629,6 +629,6 @@ A few of the adult guests wandered in, including Warhol and Haring. Warhol took 
 - [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
 - [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
 - [[knowledge/wiki/images/cemetery 5775776a|cemetery]] — named in this note
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, people
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, hecker
+- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: slave, ilwaco, recognition
 <!-- vault-crosslinks:end -->

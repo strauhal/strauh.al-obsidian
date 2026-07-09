@@ -6,11 +6,11 @@ tags: ["strauhal", "index"]
 ---
 # Generated Corpus Stats
 
-HTML pages compiled: 77
+HTML pages compiled: 76
 
-Images compiled: 8349
+Images compiled: 8403
 
-Collections compiled: 31
+Collections compiled: 33
 
 Browse from [[Map - Image Archive]] or search with `tools/wiki_search.py`.
 

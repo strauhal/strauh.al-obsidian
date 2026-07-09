@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Tower and Dome from Rooftop 27d35d6f|Photograph Black and White Photograph of Classical Tower and Dome from Rooftop]] — shared language: rooftop, dome, tower
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[_archive/auto-generated/images-stale/illustration of two male characters in school uniforms on a rooftop with a red transmission tower 9094e03a|illustration of two male characters in school uniforms on a rooftop with a red transmission tower]] — shared language: rooftop, tower
 - [[knowledge/wiki/books/h-s-harris-hegel-s-ladder-the-odyssey-of-spirit-vol-2|Hegel's Ladder :The Odyssey of Spirit (Vol 2)]] — shared language: ladder
 - [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: dome, classical
+- [[_archive/auto-generated/images-stale/black and white photograph of a large classical revival building with a central dome and bridge over a canal 95e6e90b|black and white photograph of a large classical revival building with a central dome and bridge over a canal]] — shared language: dome, classical
 <!-- vault-crosslinks:end -->

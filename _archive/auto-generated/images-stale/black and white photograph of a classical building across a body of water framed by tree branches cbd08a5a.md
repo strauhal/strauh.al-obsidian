@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: across, tree, classical
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
 - [[knowledge/wiki/artists/Artist - Tree Foliage|Artist - Tree Foliage]] — shared language: tree, across, classical
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
 <!-- vault-crosslinks:end -->

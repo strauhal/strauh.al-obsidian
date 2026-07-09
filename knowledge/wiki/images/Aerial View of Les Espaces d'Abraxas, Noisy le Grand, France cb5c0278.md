@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: france
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: france
 - [[knowledge/wiki/images/Aerial View of Mecca with Grand Mosque and Clock Tower 5b93164c|Aerial View of Mecca with Grand Mosque and Clock Tower]] — shared language: grand, aerial, view
+- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

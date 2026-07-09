@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Aerial Vie
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Photograph Aerial View of Mont Saint Michel Abbey and Town on Island f6ff9e3d|Photograph Aerial View of Mont Saint Michel Abbey and Town on Island]] — shared language: town, aerial, view
 - [[knowledge/wiki/images/Illustration Black And White Op Art Diamond With Wavy Lines c8fc98d8|Illustration Black And White Op Art Diamond With Wavy Lines]] — shared language: diamond
 - [[knowledge/wiki/books/jared-diamond-guns-germs-and-steel-the-fates-of-human-societies|Guns, Germs and Steel The Fates of Human Societies]] — shared language: diamond
+- [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

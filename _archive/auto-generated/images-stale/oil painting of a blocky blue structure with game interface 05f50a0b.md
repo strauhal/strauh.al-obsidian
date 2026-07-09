@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: structure
 - [[_archive/auto-generated/images-stale/oil painting of a white block structure against a red background 8e8c9d6a|oil painting of a white block structure against a red background]] — shared language: structure, oil
 - [[_archive/auto-generated/images-stale/screenshot of a sailor moon digital dress up game interface 6f2b7945|screenshot of a sailor moon digital dress up game interface]] — shared language: game, interface
 - [[knowledge/wiki/images/Illustration Pixel Art Undead Creature With Game Interface And Inventory Slots 64acc22b|Illustration Pixel Art Undead Creature With Game Interface And Inventory Slots]] — shared language: game, interface
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: structure
-- [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: interface
 <!-- vault-crosslinks:end -->

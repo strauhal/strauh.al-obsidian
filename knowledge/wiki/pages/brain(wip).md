@@ -57,11 +57,11 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 ## Discovered Connections
 
 - [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, node
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, pages
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, pages
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: drag, click, highlight
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: drag, click, highlight
-- [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: drag, click, highlight
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/War Games by Pet
 ## Discovered Connections
 
 - [[knowledge/wiki/images/War Games by Petrina Ryan Kleid (2008) 87f9d01b|War Games by Petrina Ryan Kleid (2008)]] — named in this note
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: war
 - [[knowledge/wiki/artists/Artist - lucasfilm games|Artist - lucasfilm games]] — shared language: games
 - [[knowledge/wiki/artists/Artist - Ryan Pagelow|Artist - Ryan Pagelow]] — shared language: ryan
-- [[knowledge/wiki/images/Stargazer by Ryan Bliss (2000) a074d7ce|Stargazer by Ryan Bliss (2000)]] — shared language: ryan
 <!-- vault-crosslinks:end -->

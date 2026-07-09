@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black And White Stepped Hotel Panorama Building 43c1efea|Photograph Black And White Stepped Hotel Panorama Building]] — shared language: panorama, stepped, hotel
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/animated panorama 1537355822 gif 71e708dd|animated panorama 1537355822 gif]] — shared language: panorama
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building, building.jpg
 - [[knowledge/wiki/images/charcoal drawing of a stepped art deco skyscraper at night 1930 5fd24baa|charcoal drawing of a stepped art deco skyscraper at night 1930]] — shared language: stepped
+- [[knowledge/wiki/images/drawing of a stepped art deco skyscraper illuminated at night 1930 e1b887ce|drawing of a stepped art deco skyscraper illuminated at night 1930]] — shared language: stepped
 <!-- vault-crosslinks:end -->

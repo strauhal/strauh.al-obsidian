@@ -24,5 +24,5 @@ Files: 3
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/collections/Collection - wallpapers|Collection - wallpapers]] — nearby note in the same source series
-- [[knowledge/wiki/collections/Date Bucket - 1430s|Date Bucket - 1430s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1420s|Date Bucket - 1420s]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

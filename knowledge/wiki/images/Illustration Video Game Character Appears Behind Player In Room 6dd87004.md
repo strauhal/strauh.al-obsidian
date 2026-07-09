@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: appears
 - [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: game, video, character
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: behind
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Recursivity and Contingency (Media Philosophy) -- Yuk Hui -- Media philosophy, London, United Kingdom, 2019 -- Rowman & Littlefield International, Ltd -- 9781786600523 -- 86b8ee841b153de193168b14745ac70f -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Recursivity and Contingency (Media Philosophy)

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 
 - [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City 36086b23|Photograph Aerial View of Densely Packed Buildings in Cairo's Garbage City]] — shared language: packed, densely, aerial
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, cityscape, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, densely
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: packed, densely
+- [[knowledge/wiki/images/Illustration Aerial View of Densely Populated City with Apartment Buildings ad5caea8|Illustration Aerial View of Densely Populated City with Apartment Buildings]] — shared language: densely, aerial, view
 <!-- vault-crosslinks:end -->

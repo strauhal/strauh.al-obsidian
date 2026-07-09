@@ -33,8 +33,8 @@ losing control of one's own image/output to the machine.
 
 - [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: voice, kits.ai, control
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: control, it's, nothing
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: it's, control, slop
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: control, slop, model
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: it's, online, diary
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: it's, latent, literal
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: output, slop, model

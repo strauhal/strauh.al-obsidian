@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Overhead View of a Large Computer LAN Party Event 000fe694|Overhead View of a Large Computer LAN Party Event]] — shared language: lan, party, overhead
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, large
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: overhead, view
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
+- [[knowledge/wiki/images/Overhead View of Modern Interior with High Windows, Staircase, Bookshelf 66d33ff5|Overhead View of Modern Interior with High Windows, Staircase, Bookshelf]] — shared language: overhead, view
 <!-- vault-crosslinks:end -->

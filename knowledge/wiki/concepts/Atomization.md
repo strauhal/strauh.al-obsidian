@@ -46,6 +46,18 @@ neighbors are gone.
 **Books (2).** [[michel-houellebecq-frank-wynne-atomised-vintage|Atomised-Vintage]] · [[mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
+- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social, society, law
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -68,16 +80,3 @@ neighbors are gone.
 >
 > One of the reasons so many great artists die of overdoses early in their lives is because they're using drugs to numb a very painful existence. The reason it's painful is the reason they became artists in the first place: their incredible sensitivity. If you see tremendous beauty or tremendous pain where other people see little or nothing at all, you're confronted with big feelings all the time. These emotions can be confusing and overwhelming. When those around you don't see what you see and feel what you feel, this can lead to a sense of isolation and a general feeling of not belonging, of otherness. These charged emotions, powerful when expressed in the work, are the same dark clouds that beg to be numbed to allow sleep or to get out of bed and face the day in the morning. It's a blessing and a curse.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/anchors/junji-ito|Junji Ito]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/spinoza-baruch-ethics|Ethics]] — named in this note
-- [[knowledge/wiki/images/rainy d77c0eab|rainy]] — named in this note
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: social, society, rather
-<!-- vault-crosslinks:end -->

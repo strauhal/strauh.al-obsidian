@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/images/Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks f2eecf7b|Illustration Line Drawing Portrait with Pixelated Cyan and Magenta Blocks]] — shared language: magenta, pixelated
 - [[knowledge/wiki/images/Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan 01e9d08a|Illustration Pixelated Figure with Spiked Crown in Blue, Magenta, and Cyan]] — shared language: magenta, pixelated
+- [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
 <!-- vault-crosslinks:end -->

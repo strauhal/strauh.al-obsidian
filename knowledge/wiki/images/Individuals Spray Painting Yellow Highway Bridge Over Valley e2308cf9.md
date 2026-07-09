@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Individual
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: individuals
 - [[knowledge/wiki/images/Illustration Abstract Painting with Black Spray Marks on Light Background f3c47e9b|Illustration Abstract Painting with Black Spray Marks on Light Background]] — shared language: spray
 - [[knowledge/wiki/images/Illustration Stylized City Skyline and Highway with Cars at Dusk 03e9f154|Illustration Stylized City Skyline and Highway with Cars at Dusk]] — shared language: highway
-- [[knowledge/wiki/images/Valley by MVRDV 4ac5439a|Valley by MVRDV]] — shared language: valley
-- [[knowledge/wiki/images/Illustration Surreal Collage with Highway, Face, Phone, and Mushroom 8dcc1478|Illustration Surreal Collage with Highway, Face, Phone, and Mushroom]] — shared language: highway
+- [[knowledge/wiki/images/Photograph Japanese Individuals in Uniforms and Helmets at Night 6b13d8ed|Photograph Japanese Individuals in Uniforms and Helmets at Night]] — shared language: individuals
+- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 <!-- vault-crosslinks:end -->

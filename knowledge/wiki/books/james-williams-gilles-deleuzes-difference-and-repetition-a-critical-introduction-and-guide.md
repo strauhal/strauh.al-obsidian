@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Gilles Deleuzes  Difference and Repetition A Critical Introduction and Guide by James Williams (z-lib.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Gilles Deleuzes Difference and Repetition A Critical Introduction and Guide
@@ -44,5 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/gilles-deleuze-postscript-on-the-societies-of-control|Postscript on the Societies of Control]] — same category: philosophy
 - [[knowledge/wiki/books/gilles-deleuze-cinema-2-the-time-image-excerpt|Cinema 2: The Time-Image (excerpt)]] — same category: philosophy
 - [[knowledge/wiki/books/gilles-deleuze-f-lix-guattari-a-thousand-plateaus|A Thousand Plateaus]] — same category: philosophy
-- [[knowledge/wiki/books/gilles-deleuze-the-fold-leibniz-and-the-baroque|The Fold: Leibniz and the Baroque]] — same category: philosophy
+- [[knowledge/wiki/books/gilles-deleuze-felix-guattari-a-thousand-plateaus-capitalism-and-schizophrenia|A Thousand Plateaus Capitalism and Schizophrenia]] — same category: philosophy
 <!-- vault-crosslinks:end -->

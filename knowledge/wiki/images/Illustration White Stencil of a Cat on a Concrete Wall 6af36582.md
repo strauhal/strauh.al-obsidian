@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall 6f067f1c|Illustration Stencil of a Brown and White Cow Grazing on a Concrete Wall]] — shared language: stencil, concrete, wall
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Curved Gridded Concrete Wall 8751fd1d|Photograph Black and White Photograph of a Curved Gridded Concrete Wall]] — shared language: concrete, wall, wall.png
 - [[knowledge/wiki/images/Photograph Two Paintings Displayed on White Gallery Wall with Concrete Floor fa2d52b5|Photograph Two Paintings Displayed on White Gallery Wall with Concrete Floor]] — shared language: concrete, wall
 - [[knowledge/wiki/images/Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs 224d013d|Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs]] — shared language: concrete, wall
+- [[knowledge/wiki/images/cat a443393d|cat]] — shared language: cat
 <!-- vault-crosslinks:end -->

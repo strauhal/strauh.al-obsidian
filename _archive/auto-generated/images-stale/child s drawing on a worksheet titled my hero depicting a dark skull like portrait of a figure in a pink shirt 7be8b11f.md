@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: skull, shirt, like
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: child, like
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: like, child
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
 - [[knowledge/wiki/images/Illustration Skull like Sun Setting Over Dark Forest 0d2f90b8|Illustration Skull like Sun Setting Over Dark Forest]] — shared language: skull, like, dark
 - [[knowledge/wiki/images/Illustration Dark Figure with Skull like Head Gazing at Abstract Shapes fcd91811|Illustration Dark Figure with Skull like Head Gazing at Abstract Shapes]] — shared language: skull, like, dark

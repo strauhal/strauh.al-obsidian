@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/images/Photograph Red Arabic Calligraphy Mural On A Gray Wall bddcba61|Photograph Red Arabic Calligraphy Mural On A Gray Wall]] — shared language: arabic, calligraphy
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: arabic
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: arabic
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
+- [[knowledge/wiki/images/Illustration Geometric Composition of Interlocking Beige Triangles on Black Background 0929471a|Illustration Geometric Composition of Interlocking Beige Triangles on Black Background]] — shared language: beige, background, background.jpeg
 <!-- vault-crosslinks:end -->

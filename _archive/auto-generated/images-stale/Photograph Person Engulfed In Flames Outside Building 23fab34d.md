@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Person Engulfed In Flames Outside Building 63ac1d4a|Person Engulfed In Flames Outside Building]] — named in this note
 - [[_archive/auto-generated/images-stale/Photograph White and Blue Car Engulfed in Flames with Graffiti 1bbabfce|Photograph White and Blue Car Engulfed in Flames with Graffiti]] — shared language: engulfed, flames
 - [[knowledge/wiki/images/White and Blue Car Engulfed in Flames with Graffiti 0148607d|White and Blue Car Engulfed in Flames with Graffiti]] — shared language: engulfed, flames
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[_archive/auto-generated/images-stale/Photograph White Car And Scooter Engulfed In Flames And Smoke 867d65e7|Photograph White Car And Scooter Engulfed In Flames And Smoke]] — shared language: engulfed, flames
+- [[knowledge/wiki/images/White Car And Scooter Engulfed In Flames And Smoke 160ee2e0|White Car And Scooter Engulfed In Flames And Smoke]] — shared language: engulfed, flames
 <!-- vault-crosslinks:end -->

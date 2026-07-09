@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: revival, dome, canal
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, bridge, large
 - [[_archive/auto-generated/images-stale/black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue bc9934c8|black and white photograph of a large neoclassical exhibition building with central dome and equestrian statue]] — shared language: dome, central, building
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
 - [[_archive/auto-generated/images-stale/black and white illustration of a bridge and gondolas on a canal at a large exposition eec54d88|black and white illustration of a bridge and gondolas on a canal at a large exposition]] — shared language: canal, bridge, large
+- [[_archive/auto-generated/artists-noise/Artist - a canal 1893|Artist - a canal 1893]] — shared language: canal, large
 <!-- vault-crosslinks:end -->

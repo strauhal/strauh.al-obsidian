@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's, social
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: social
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: social
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: social
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: social
 <!-- vault-crosslinks:end -->

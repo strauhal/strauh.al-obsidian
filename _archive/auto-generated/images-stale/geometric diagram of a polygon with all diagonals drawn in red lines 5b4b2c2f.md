@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Geometric Diagram of a Polygon with All Diagonals 26b83f3f|Geometric Diagram of a Polygon with All Diagonals]] — named in this note
 - [[_archive/auto-generated/images-stale/Diagram Geometric Diagram of a Polygon with All Diagonals f1ce45d3|Diagram Geometric Diagram of a Polygon with All Diagonals]] — shared language: diagonals, polygon, diagram
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: drawn
 - [[_archive/auto-generated/images-stale/Diagram Complex Geometric Diagram with Intersecting Circles and Lines 74da075e|Diagram Complex Geometric Diagram with Intersecting Circles and Lines]] — shared language: diagram, geometric, lines
-- [[knowledge/wiki/images/Diagram Complex Wireframe Geometric Form Drawn on Grid Paper 150c7dca|Diagram Complex Wireframe Geometric Form Drawn on Grid Paper]] — shared language: drawn, geometric, diagram
 <!-- vault-crosslinks:end -->

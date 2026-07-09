@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Man Painting On Floating Easel In Water Near City ff2eaf60|Man Painting On Floating Easel In Water Near City]] — shared language: easel, floating, near
 - [[_archive/auto-generated/images-stale/Photograph Man Painting On Floating Easel In Water Near City 1813972e|Photograph Man Painting On Floating Easel In Water Near City]] — shared language: easel, floating, near
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, water
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Woman in White Dress Floating in Dark Water 45a8d74e|Illustration Woman in White Dress Floating in Dark Water]] — shared language: floating, water
+- [[_archive/auto-generated/images-stale/oil painting of a woman in a white dress floating in dark water fcc1f0f0|oil painting of a woman in a white dress floating in dark water]] — shared language: floating, water
 <!-- vault-crosslinks:end -->

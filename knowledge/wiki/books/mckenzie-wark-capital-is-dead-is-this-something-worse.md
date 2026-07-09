@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Wark McKenzie Capital Is Dead Is This Something Worse 2019]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Wark_McKenzie_Capital_Is_Dead_Is_This_Something_Worse_2019.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Capital Is Dead: Is This Something Worse?

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Shadows on Do
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/artists/Artist - Open Door|Artist - Open Door]] — shared language: door
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 <!-- vault-crosslinks:end -->

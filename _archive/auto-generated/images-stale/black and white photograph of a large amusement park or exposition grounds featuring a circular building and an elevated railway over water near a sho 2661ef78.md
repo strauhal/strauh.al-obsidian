@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Aerial View of Exposition Grounds, Elevated Railway, and Lake bce0726a|Photograph Black and White Aerial View of Exposition Grounds, Elevated Railway, and Lake]] — shared language: grounds, railway, elevated
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water, large
 - [[_archive/auto-generated/images-stale/black and white photograph of a cityscape with an elevated train residential buildings and large exposition structures near a shoreline 075dedcd|black and white photograph of a cityscape with an elevated train residential buildings and large exposition structures near a shoreline]] — shared language: elevated, exposition, near
 - [[_archive/auto-generated/images-stale/illustration of two figures near a park bench 8346cf2d|illustration of two figures near a park bench]] — shared language: park, near
 - [[knowledge/wiki/images/Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue b5c60d34|Photograph Neoclassical Exposition Grounds with Central Basin, Viewed from Statue]] — shared language: grounds, exposition
+- [[_archive/auto-generated/artists-noise/Artist - the elevated lines 1927|Artist - the elevated lines 1927]] — shared language: elevated
 <!-- vault-crosslinks:end -->

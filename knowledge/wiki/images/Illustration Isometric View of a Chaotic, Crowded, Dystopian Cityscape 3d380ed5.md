@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - I
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, view
 - [[knowledge/wiki/images/Illustration Black and White Drawing of a Central Figure in a Crowded Scene a93acf89|Illustration Black and White Drawing of a Central Figure in a Crowded Scene]] — shared language: crowded
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cityscape with Buildings, Tram, and Neon Signs e6e5dd65|Illustration Detailed Isometric Cityscape with Buildings, Tram, and Neon Signs]] — shared language: isometric, cityscape
 - [[knowledge/wiki/artists/Artist - Chaotic Grotesque Imagery|Artist - Chaotic Grotesque Imagery]] — shared language: chaotic
+- [[knowledge/wiki/images/Illustration Detailed Isometric View of a Bustling Steampunk Inspired City f4f97db2|Illustration Detailed Isometric View of a Bustling Steampunk Inspired City]] — shared language: isometric, view
 <!-- vault-crosslinks:end -->

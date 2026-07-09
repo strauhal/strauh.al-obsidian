@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: human, head
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: human, head, stylized
+- [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: wireframe, head
 <!-- vault-crosslinks:end -->

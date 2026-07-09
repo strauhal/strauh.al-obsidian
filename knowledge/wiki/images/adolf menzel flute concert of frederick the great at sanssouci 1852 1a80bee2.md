@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/adolf_menzel_flu
 - [[knowledge/wiki/artists/Artist - frederick booth|Artist - frederick booth]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - frederick morgan|Artist - frederick morgan]] — shared language: frederick
 - [[knowledge/wiki/artists/Artist - adolf wolfli|Artist - adolf wolfli]] — shared language: adolf
-- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — shared language: adolf
 - [[knowledge/wiki/images/The Audience in the Theatre by Adolph Menzel (1856) c4facf1a|The Audience in the Theatre by Adolph Menzel (1856)]] — shared language: menzel
+- [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — shared language: adolf
 <!-- vault-crosslinks:end -->

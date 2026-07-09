@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-06T22:47:55",
-  "markdownFiles": 19380,
-  "existingDirectedLinks": 34558,
-  "discoveredDirectedLinks": 99425,
-  "totalDirectedLinks": 133983,
-  "uniqueConnectedPairs": 110690,
-  "filesWithDiscoveredLinks": 19380,
+  "generated": "2026-07-08T19:52:30",
+  "markdownFiles": 19442,
+  "existingDirectedLinks": 34400,
+  "discoveredDirectedLinks": 99707,
+  "totalDirectedLinks": 134107,
+  "uniqueConnectedPairs": 110898,
+  "filesWithDiscoveredLinks": 19442,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -20,9 +20,9 @@
       "discoveredOutbound": 885
     },
     "artist": {
-      "files": 3516,
-      "existingOutbound": 4575,
-      "discoveredOutbound": 20456
+      "files": 3517,
+      "existingOutbound": 4576,
+      "discoveredOutbound": 20464
     },
     "book": {
       "files": 520,
@@ -31,7 +31,7 @@
     },
     "concept": {
       "files": 32,
-      "existingOutbound": 1148,
+      "existingOutbound": 1076,
       "discoveredOutbound": 256
     },
     "criticism": {
@@ -40,9 +40,9 @@
       "discoveredOutbound": 8
     },
     "date_bucket": {
-      "files": 582,
-      "existingOutbound": 921,
-      "discoveredOutbound": 1746
+      "files": 583,
+      "existingOutbound": 922,
+      "discoveredOutbound": 1749
     },
     "diary": {
       "files": 1,
@@ -66,7 +66,7 @@
     },
     "html": {
       "files": 77,
-      "existingOutbound": 442,
+      "existingOutbound": 230,
       "discoveredOutbound": 616
     },
     "ideas": {
@@ -75,9 +75,9 @@
       "discoveredOutbound": 8
     },
     "image": {
-      "files": 14114,
-      "existingOutbound": 20380,
-      "discoveredOutbound": 68436
+      "files": 14172,
+      "existingOutbound": 20443,
+      "discoveredOutbound": 68696
     },
     "image-analysis": {
       "files": 1,
@@ -85,13 +85,13 @@
       "discoveredOutbound": 8
     },
     "image_collection": {
-      "files": 35,
-      "existingOutbound": 3445,
-      "discoveredOutbound": 275
+      "files": 37,
+      "existingOutbound": 3501,
+      "discoveredOutbound": 286
     },
     "index": {
       "files": 5,
-      "existingOutbound": 255,
+      "existingOutbound": 257,
       "discoveredOutbound": 40
     },
     "influences": {
@@ -121,7 +121,7 @@
     },
     "map": {
       "files": 45,
-      "existingOutbound": 933,
+      "existingOutbound": 936,
       "discoveredOutbound": 360
     },
     "memory-summary": {
@@ -46179,6 +46179,13 @@
       "discoveredOutbound": 6,
       "totalOutbound": 7
     },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260708195206.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
     "knowledge/archive/auto-generated/artists-stale/Artist - A.md": {
       "title": "Artist - A.E",
       "type": "artist",
@@ -60714,9 +60721,9 @@
     "knowledge/wiki/_index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 111,
+      "existingOutbound": 112,
       "discoveredOutbound": 8,
-      "totalOutbound": 119
+      "totalOutbound": 120
     },
     "knowledge/wiki/anchors/2024-misc-bookmarks.md": {
       "title": "2024 misc bookmarks",
@@ -65188,8 +65195,8 @@
       "title": "Artist - angelica kauffman",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 5,
-      "totalOutbound": 6
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
     },
     "knowledge/wiki/artists/Artist - anne louis girodet de roussy trioson.md": {
       "title": "Artist - anne louis girodet de roussy trioson",
@@ -70970,8 +70977,8 @@
       "title": "Artist - tetsuya nomura",
       "type": "artist",
       "existingOutbound": 1,
-      "discoveredOutbound": 5,
-      "totalOutbound": 6
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
     },
     "knowledge/wiki/artists/Artist - thefacetpixel.md": {
       "title": "Artist - thefacetpixel",
@@ -74781,6 +74788,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 52
     },
+    "knowledge/wiki/collections/Collection - ernest.md": {
+      "title": "Collection - ernest",
+      "type": "image_collection",
+      "existingOutbound": 16,
+      "discoveredOutbound": 8,
+      "totalOutbound": 24
+    },
     "knowledge/wiki/collections/Collection - gif collection.md": {
       "title": "Collection - gif collection",
       "type": "image_collection",
@@ -74844,6 +74858,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 105
     },
+    "knowledge/wiki/collections/Collection - unnamed.md": {
+      "title": "Collection - unnamed",
+      "type": "image_collection",
+      "existingOutbound": 40,
+      "discoveredOutbound": 3,
+      "totalOutbound": 43
+    },
     "knowledge/wiki/collections/Collection - unsorted.md": {
       "title": "Collection - unsorted",
       "type": "image_collection",
@@ -74860,6 +74881,13 @@
     },
     "knowledge/wiki/collections/Date Bucket - 1410s.md": {
       "title": "Date Bucket - 1410s",
+      "type": "date_bucket",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
+    "knowledge/wiki/collections/Date Bucket - 1420s.md": {
+      "title": "Date Bucket - 1420s",
       "type": "date_bucket",
       "existingOutbound": 1,
       "discoveredOutbound": 3,
@@ -75323,9 +75351,9 @@
     "knowledge/wiki/concepts/Dead Architecture.md": {
       "title": "Dead Architecture",
       "type": "concept",
-      "existingOutbound": 67,
+      "existingOutbound": 6,
       "discoveredOutbound": 8,
-      "totalOutbound": 75
+      "totalOutbound": 14
     },
     "knowledge/wiki/concepts/Decadence Is Beautiful.md": {
       "title": "Decadence Is Beautiful",
@@ -75337,9 +75365,9 @@
     "knowledge/wiki/concepts/Human-Machine Tug of War.md": {
       "title": "Human-Machine Tug of War",
       "type": "concept",
-      "existingOutbound": 17,
+      "existingOutbound": 6,
       "discoveredOutbound": 8,
-      "totalOutbound": 25
+      "totalOutbound": 14
     },
     "knowledge/wiki/concepts/Interpolating the Instruction Set.md": {
       "title": "Interpolating the Instruction Set",
@@ -76397,6 +76425,20 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/000003070022 (edited) df9a83ef.md": {
+      "title": "000003070022 (edited)",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
+    "knowledge/wiki/images/000003070027 (edited) 99118aa6.md": {
+      "title": "000003070027 (edited)",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/0004436455 10 345a04a4.md": {
       "title": "0004436455 10",
@@ -80514,6 +80556,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/30DBFB5E 7C68 4E1D 8A6B 28CBC3B32341 bf2ded7f.md": {
+      "title": "30DBFB5E 7C68 4E1D 8A6B 28CBC3B32341",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
     "knowledge/wiki/images/321747b4c999e8c0e800baba885b5f97 66af61be.md": {
       "title": "321747b4c999e8c0e800baba885b5f97",
       "type": "image",
@@ -81239,8 +81288,8 @@
       "title": "Aggregate A by Toru Kurokawa (2016)",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 5,
-      "totalOutbound": 7
+      "discoveredOutbound": 4,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman 944d8d1d.md": {
       "title": "Airplane lady freaks out on airplane. Woman Not Reals characters on a plane by Travis Chapman",
@@ -86051,6 +86100,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c.md": {
+      "title": "Document Informational Text About Refik Anadol's Unsupervised Art Installation",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/Document Instructional Page with Drawings of Pears and Blocks, Outlined vs. Shaded b7db03f4.md": {
       "title": "Document Instructional Page with Drawings of Pears and Blocks, Outlined vs. Shaded",
       "type": "image",
@@ -86197,6 +86253,13 @@
       "existingOutbound": 2,
       "discoveredOutbound": 5,
       "totalOutbound": 7
+    },
+    "knowledge/wiki/images/Document Page From A Book With Highlighted Text About The Aspen Incident 00847259.md": {
+      "title": "Document Page From A Book With Highlighted Text About The Aspen Incident",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Document Page From Book With Spanish Text And Illustration Of Philosopher 901d0a5e.md": {
       "title": "Document Page From Book With Spanish Text And Illustration Of Philosopher",
@@ -88200,8 +88263,78 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 0036 96d694ea.md": {
+      "title": "IMG 0036",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/IMG 0041 f2648ba2.md": {
       "title": "IMG 0041",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0062 1745a9a8.md": {
+      "title": "IMG 0062",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0063 684125f8.md": {
+      "title": "IMG 0063",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0065 c4e42a83.md": {
+      "title": "IMG 0065",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0066 d783812f.md": {
+      "title": "IMG 0066",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0067 c813aa22.md": {
+      "title": "IMG 0067",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0068 3e9c1b24.md": {
+      "title": "IMG 0068",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0069 980ff6cd.md": {
+      "title": "IMG 0069",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0072 73b61d29.md": {
+      "title": "IMG 0072",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0073 c17e174c.md": {
+      "title": "IMG 0073",
       "type": "image",
       "existingOutbound": 1,
       "discoveredOutbound": 5,
@@ -88214,8 +88347,120 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 0186 b038a9ff.md": {
+      "title": "IMG 0186",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
+    "knowledge/wiki/images/IMG 0217 ecc7a096.md": {
+      "title": "IMG 0217",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
     "knowledge/wiki/images/IMG 0239 2 a65e37b4.md": {
       "title": "IMG 0239 2",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0254 4be206c4.md": {
+      "title": "IMG 0254",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0255 309fa3d4.md": {
+      "title": "IMG 0255",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0256 8ea022ec.md": {
+      "title": "IMG 0256",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0257 0d446831.md": {
+      "title": "IMG 0257",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0258 de277baf.md": {
+      "title": "IMG 0258",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0259 d5aefd69.md": {
+      "title": "IMG 0259",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0260 7bff4d3c.md": {
+      "title": "IMG 0260",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0261 706b3d7b.md": {
+      "title": "IMG 0261",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0262 0aa37901.md": {
+      "title": "IMG 0262",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0263 1135a609.md": {
+      "title": "IMG 0263",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0264 a8d374ca.md": {
+      "title": "IMG 0264",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0265 1922cfe6.md": {
+      "title": "IMG 0265",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0266 f5035912.md": {
+      "title": "IMG 0266",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0268 b878dddd.md": {
+      "title": "IMG 0268",
       "type": "image",
       "existingOutbound": 1,
       "discoveredOutbound": 5,
@@ -88291,6 +88536,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 0470 a28a7008.md": {
+      "title": "IMG 0470",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
     "knowledge/wiki/images/IMG 0557 2 923e5674.md": {
       "title": "IMG 0557 2",
       "type": "image",
@@ -88361,8 +88613,78 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 0786 8a77e1de.md": {
+      "title": "IMG 0786",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0787 a8577207.md": {
+      "title": "IMG 0787",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/IMG 0787 e60ab015.md": {
       "title": "IMG 0787",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0788 f86f59db.md": {
+      "title": "IMG 0788",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0789 e3302dac.md": {
+      "title": "IMG 0789",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0790 0adb3067.md": {
+      "title": "IMG 0790",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0791 ecf4292b.md": {
+      "title": "IMG 0791",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0792 8a1e6781.md": {
+      "title": "IMG 0792",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0793 bd05c31c.md": {
+      "title": "IMG 0793",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0794 b277787c.md": {
+      "title": "IMG 0794",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 0814 483d372a.md": {
+      "title": "IMG 0814",
       "type": "image",
       "existingOutbound": 1,
       "discoveredOutbound": 5,
@@ -88424,6 +88746,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 1213 1659954d.md": {
+      "title": "IMG 1213",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/IMG 1215 8a2209c1.md": {
       "title": "IMG 1215",
       "type": "image",
@@ -88437,6 +88766,34 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 1424 72be9f61.md": {
+      "title": "IMG 1424",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
+    },
+    "knowledge/wiki/images/IMG 1425 f368887b.md": {
+      "title": "IMG 1425",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
+    },
+    "knowledge/wiki/images/IMG 1426 5ada5840.md": {
+      "title": "IMG 1426",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
+    },
+    "knowledge/wiki/images/IMG 1427 78e75b1e.md": {
+      "title": "IMG 1427",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 5,
+      "totalOutbound": 7
     },
     "knowledge/wiki/images/IMG 1474 fe5c745f.md": {
       "title": "IMG 1474",
@@ -88458,6 +88815,13 @@
       "existingOutbound": 2,
       "discoveredOutbound": 5,
       "totalOutbound": 7
+    },
+    "knowledge/wiki/images/IMG 1693 0020dc59.md": {
+      "title": "IMG 1693",
+      "type": "image",
+      "existingOutbound": 2,
+      "discoveredOutbound": 3,
+      "totalOutbound": 5
     },
     "knowledge/wiki/images/IMG 1853 c07ef2db.md": {
       "title": "IMG 1853",
@@ -88809,6 +89173,20 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/IMG 3154 edc60272.md": {
+      "title": "IMG 3154",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
+    "knowledge/wiki/images/IMG 3182 fdf6a11d.md": {
+      "title": "IMG 3182",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
     "knowledge/wiki/images/IMG 3824 1c044a6f.md": {
       "title": "IMG 3824",
       "type": "image",
@@ -88822,6 +89200,20 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 4789 6a892796.md": {
+      "title": "IMG 4789",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
+    },
+    "knowledge/wiki/images/IMG 5293 2dda7a53.md": {
+      "title": "IMG 5293",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/IMG 5445 db08677e.md": {
       "title": "IMG 5445",
@@ -88843,6 +89235,13 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/IMG 6617 2dca5d20.md": {
+      "title": "IMG 6617",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/INFORMATION by Carl Andre (1970) e57a9dbd.md": {
       "title": "INFORMATION by Carl Andre (1970)",
@@ -102568,8 +102967,8 @@
       "title": "Image Black And White Vin Diesel Meme About AI Art",
       "type": "image",
       "existingOutbound": 1,
-      "discoveredOutbound": 4,
-      "totalOutbound": 5
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/Image Black and White Photo of Deleuze, Guattari, and Michael Cera 6bd04e73.md": {
       "title": "Image Black and White Photo of Deleuze, Guattari, and Michael Cera",
@@ -110607,6 +111006,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4.md": {
+      "title": "Screen Displaying Philip Pearlstein's Positano 4 Artwork",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/Screen Shot 2020 10 10 at 6.36.47 PM 507cb295.md": {
       "title": "Screen Shot 2020 10 10 at 6.36.47 PM",
       "type": "image",
@@ -111684,6 +112090,13 @@
       "existingOutbound": 2,
       "discoveredOutbound": 5,
       "totalOutbound": 7
+    },
+    "knowledge/wiki/images/Screenshot Screenshot of a See Also section listing art genres 39460bbb.md": {
+      "title": "Screenshot Screenshot of a See Also section listing art genres",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Screenshot Screenshot of a Social Media Post by User 'osman' d7781126.md": {
       "title": "Screenshot Screenshot of a Social Media Post by User 'osman'",
@@ -117299,6 +117712,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/bald ernest 431626f7.md": {
+      "title": "bald ernest",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/balthus b2c34a2c.md": {
       "title": "balthus",
       "type": "image",
@@ -117879,6 +118299,13 @@
       "existingOutbound": 2,
       "discoveredOutbound": 3,
       "totalOutbound": 5
+    },
+    "knowledge/wiki/images/byasvin byasvin R1 009 3 90b0a29f.md": {
+      "title": "byasvin byasvin R1 009 3",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/byeshinzo 62f264a6.md": {
       "title": "byeshinzo",
@@ -120014,6 +120441,13 @@
       "existingOutbound": 1,
       "discoveredOutbound": 5,
       "totalOutbound": 6
+    },
+    "knowledge/wiki/images/essence dbff3c59.md": {
+      "title": "essence",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 3,
+      "totalOutbound": 4
     },
     "knowledge/wiki/images/esther by edwin longsden long 1878 48de1a40.md": {
       "title": "esther by edwin longsden long 1878",
@@ -134998,9 +135432,9 @@
     "knowledge/wiki/maps/Map - Influences.md": {
       "title": "Map - Influences",
       "type": "map",
-      "existingOutbound": 19,
+      "existingOutbound": 22,
       "discoveredOutbound": 8,
-      "totalOutbound": 27
+      "totalOutbound": 30
     },
     "knowledge/wiki/maps/Map - Library.md": {
       "title": "Map - Library",
@@ -135383,16 +135817,16 @@
     "knowledge/wiki/pages/knowledge base 2024 misc bookmarks.md": {
       "title": "knowledge base 2024 misc bookmarks",
       "type": "html",
-      "existingOutbound": 53,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 61
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base art.md": {
       "title": "knowledge base art",
       "type": "html",
-      "existingOutbound": 56,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 64
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base cool words.md": {
       "title": "knowledge base cool words",
@@ -135404,30 +135838,30 @@
     "knowledge/wiki/pages/knowledge base music.md": {
       "title": "knowledge base music",
       "type": "html",
-      "existingOutbound": 24,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 32
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base philosophy critical thinking.md": {
       "title": "knowledge base philosophy critical thinking",
       "type": "html",
-      "existingOutbound": 18,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 26
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base psychology.md": {
       "title": "knowledge base psychology",
       "type": "html",
-      "existingOutbound": 6,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 14
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base quotes.md": {
       "title": "knowledge base quotes",
       "type": "html",
-      "existingOutbound": 48,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 56
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base speed racer.md": {
       "title": "knowledge base speed racer",
@@ -135439,16 +135873,16 @@
     "knowledge/wiki/pages/knowledge base web art.md": {
       "title": "knowledge base web art",
       "type": "html",
-      "existingOutbound": 5,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 13
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base wikipedia articles.md": {
       "title": "knowledge base wikipedia articles",
       "type": "html",
-      "existingOutbound": 34,
+      "existingOutbound": 4,
       "discoveredOutbound": 8,
-      "totalOutbound": 42
+      "totalOutbound": 12
     },
     "knowledge/wiki/pages/knowledge base.md": {
       "title": "knowledge base",
@@ -135810,9 +136244,9 @@
     "knowledge/wiki/strauh.al Index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 111,
+      "existingOutbound": 112,
       "discoveredOutbound": 8,
-      "totalOutbound": 119
+      "totalOutbound": 120
     },
     "knowledge/wiki/works/Arcades Project (Revisited).md": {
       "title": "Arcades Project (Revisited)",

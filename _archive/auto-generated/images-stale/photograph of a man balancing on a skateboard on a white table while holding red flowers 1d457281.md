@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Man Balancing On Skateboard On Table Holding Red Flowers 1b9cb00d|Man Balancing On Skateboard On Table Holding Red Flowers]] — shared language: balancing, skateboard, table
 - [[_archive/auto-generated/images-stale/Photograph Man Balancing On Skateboard On Table Holding Red Flowers 5e20f4f3|Photograph Man Balancing On Skateboard On Table Holding Red Flowers]] — shared language: balancing, skateboard, table
 - [[knowledge/wiki/images/Photograph Blue Parakeet Balancing on a Toy Skateboard f6f8f6f3|Photograph Blue Parakeet Balancing on a Toy Skateboard]] — shared language: balancing, skateboard
-- [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard
+- [[_archive/auto-generated/images-stale/Photograph Black And White Photo Of Person On Skateboard In Front Of Building 2ebace70|Photograph Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard
 <!-- vault-crosslinks:end -->

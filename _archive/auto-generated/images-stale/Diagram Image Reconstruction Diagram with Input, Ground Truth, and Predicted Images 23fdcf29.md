@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Ima
 - [[_archive/auto-generated/images-stale/Diagram Comparison of Input, Ground Truth, and Predicted Images a8920654|Diagram Comparison of Input, Ground Truth, and Predicted Images]] — shared language: predicted, input, truth
 - [[knowledge/wiki/images/Comparison of Input, Ground Truth, and Predicted Images 40bf1874|Comparison of Input, Ground Truth, and Predicted Images]] — shared language: predicted, input, truth
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: input
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: predicted
 <!-- vault-crosslinks:end -->

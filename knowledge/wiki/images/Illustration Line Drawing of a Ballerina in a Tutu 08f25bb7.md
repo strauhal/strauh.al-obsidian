@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
+- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
 - [[knowledge/wiki/images/Ronald Reagan Meeting With Desmond Tutu fa75ac45|Ronald Reagan Meeting With Desmond Tutu]] — shared language: tutu
 <!-- vault-crosslinks:end -->

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/museum/mockup.html"
 source_relpath: "museum/mockup.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # museum mockup
@@ -36,7 +36,7 @@ Toggle Mode
 - [[knowledge/wiki/images/Photograph Photograph Of Museum Label With Artwork Information 882b1dcc|Photograph Photograph Of Museum Label With Artwork Information]] — shared language: museum
 - [[knowledge/wiki/images/museum by saul steinberg 1971 e266df8b|museum by saul steinberg 1971]] — shared language: museum
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: click, rotate, concepts
-- [[knowledge/wiki/pages/brain|brain]] — shared language: click, rotate, pan
+- [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: click, rotate, pan
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: click, rotate, pan
-- [[knowledge/wiki/pages/religious texts dhammapada|religious texts dhammapada]] — shared language: click, rotate, pan
+- [[knowledge/wiki/images/Photograph Museum Gallery With Visitors Viewing Artworks b1b28849|Photograph Museum Gallery With Visitors Viewing Artworks]] — shared language: museum
 <!-- vault-crosslinks:end -->

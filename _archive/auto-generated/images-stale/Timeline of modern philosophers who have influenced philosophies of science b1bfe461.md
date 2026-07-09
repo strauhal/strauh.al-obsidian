@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
 - [[knowledge/wiki/images/Timeline of Modern Philosophers and Their Influences 26ec9142|Timeline of Modern Philosophers and Their Influences]] — shared language: timeline, modern
 - [[_archive/auto-generated/images-stale/Diagram Timeline of Modern Philosophers and Their Influences 283323b6|Diagram Timeline of Modern Philosophers and Their Influences]] — shared language: timeline, modern
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: timeline
+- [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: science
 <!-- vault-crosslinks:end -->

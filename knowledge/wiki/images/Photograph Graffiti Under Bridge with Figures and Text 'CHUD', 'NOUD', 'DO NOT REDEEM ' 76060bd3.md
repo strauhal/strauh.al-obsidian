@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Photograph - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, graffiti
-- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: bridge
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
 - [[knowledge/wiki/images/Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text 03a203a0|Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text]] — shared language: bridge, text
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: graffiti
 - [[knowledge/wiki/images/Concrete Pillar with Grey Paint and Humorous Graffiti Text e5a13174|Concrete Pillar with Grey Paint and Humorous Graffiti Text]] — shared language: graffiti, text
+- [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: bridge
 <!-- vault-crosslinks:end -->

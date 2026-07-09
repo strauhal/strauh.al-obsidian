@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - T
 
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, panels, like
 - [[knowledge/wiki/images/Comic Black and White Comic Art with Figures in Multiple Panels a7b76d96|Comic Black and White Comic Art with Figures in Multiple Panels]] — shared language: panels, comic
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
 <!-- vault-crosslinks:end -->

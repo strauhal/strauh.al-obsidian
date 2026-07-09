@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink
 - [[knowledge/wiki/images/Illustration Abstract Painting with Vertical Green and Yellow Strokes on Pink Background df94bda5|Illustration Abstract Painting with Vertical Green and Yellow Strokes on Pink Background]] — shared language: strokes, green
 - [[knowledge/wiki/images/Illustration Watercolor Sketch of a Woman in Dark Drapery 44f499b9|Illustration Watercolor Sketch of a Woman in Dark Drapery]] — shared language: watercolor, dark
-- [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings 2605579c|Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings]] — shared language: watercolor, ink
+- [[knowledge/wiki/images/Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry cc101935|Illustration Watercolor and Ink Portrait of Woman in Hat with Red Jewelry]] — shared language: watercolor, ink
 <!-- vault-crosslinks:end -->

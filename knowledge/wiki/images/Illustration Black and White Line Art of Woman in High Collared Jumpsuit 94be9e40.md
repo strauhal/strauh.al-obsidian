@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 
 - [[knowledge/wiki/images/Illustration Pencil Sketch of Seated Woman in High Collared Dress f9d6417a|Illustration Pencil Sketch of Seated Woman in High Collared Dress]] — shared language: collared, high, high-collared
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Young Man in Fur Collared Jacket c14b2ad7|Illustration Black and White Illustration of Young Man in Fur Collared Jacket]] — shared language: collared
 - [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: high
-- [[knowledge/wiki/images/Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police c710fa1a|Photograph Luigi Mangione In Orange Jumpsuit Escorted By Police]] — shared language: jumpsuit
 <!-- vault-crosslinks:end -->

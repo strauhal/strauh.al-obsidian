@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: ornate, interior
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: child
 - [[knowledge/wiki/images/Illustration Ornate Interior With Figure Seated In Sunlight b66c58e5|Illustration Ornate Interior With Figure Seated In Sunlight]] — shared language: ornate, interior
 - [[knowledge/wiki/images/Illustration Child Offers Drawings to Indifferent Adults by mimi n 11ca1cda|Illustration Child Offers Drawings to Indifferent Adults by mimi n]] — shared language: adults, child
+- [[knowledge/wiki/images/Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs a9a09cab|Illustration Black and White Drawing of Ornate Baroque Interior with Figure on Stairs]] — shared language: ornate, interior
 <!-- vault-crosslinks:end -->

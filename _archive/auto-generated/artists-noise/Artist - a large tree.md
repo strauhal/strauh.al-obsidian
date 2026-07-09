@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/framed river landscape with large tree and clouds 17409edd|framed river landscape with large tree and clouds]] — shared language: tree, large, landscape
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 - [[knowledge/wiki/images/Illustration Two Figures, Tree, and Goose in a Surreal Landscape 3ada5d1a|Illustration Two Figures, Tree, and Goose in a Surreal Landscape]] — shared language: tree, landscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large
+- [[knowledge/archive/auto-generated/artists-stale/Artist - tree foliage|Artist - Tree Foliage]] — shared language: tree
 <!-- vault-crosslinks:end -->

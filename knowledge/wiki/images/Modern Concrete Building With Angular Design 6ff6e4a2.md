@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Con
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, building, angular
 - [[knowledge/wiki/images/Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape da05ca20|Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape]] — shared language: concrete, modern, building
 - [[knowledge/wiki/images/Interior of a building with angular architecture and warm color palette 5894e2f3|Interior of a building with angular architecture and warm color palette]] — shared language: angular, building
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
 - [[knowledge/wiki/books/bruno-munari-design-as-art-penguin-modern-classics|Design as Art (Penguin Modern Classics)]] — shared language: modern, design
+- [[knowledge/wiki/images/Illustration Abstract Geometric Composition with Spiral and Angular Forms b3eb83ae|Illustration Abstract Geometric Composition with Spiral and Angular Forms]] — shared language: angular
 <!-- vault-crosslinks:end -->

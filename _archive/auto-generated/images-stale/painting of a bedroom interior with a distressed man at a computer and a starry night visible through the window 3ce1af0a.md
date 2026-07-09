@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Distressed Man at Computer in Van Gogh Style Bedroom 12f435ac|Illustration Distressed Man at Computer in Van Gogh Style Bedroom]] — shared language: distressed, bedroom, computer
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Illustration Bedroom at Night with Warm Interior Light f81e6afb|Illustration Bedroom at Night with Warm Interior Light]] — shared language: bedroom, night, interior
-- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: window, night
-- [[_archive/auto-generated/images-stale/night photo of a shop window with white interior 13db62c2|night photo of a shop window with white interior]] — shared language: window, night, interior
+- [[knowledge/wiki/artists/Artist - Window at Night|Artist - Window at Night]] — shared language: night, window
+- [[_archive/auto-generated/images-stale/night photo of a shop window with white interior 13db62c2|night photo of a shop window with white interior]] — shared language: night, window, interior
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Snowy Hillside with Bare Trees, Building, and Black Railing 82d659f3|Photograph Snowy Hillside with Bare Trees, Building, and Black Railing]] — shared language: bare, hillside, railing
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, trees
 - [[_archive/auto-generated/images-stale/Photograph Snowy Forest with Bare Trees and Sunlight on Ground 60827ead|Photograph Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: bare, snowy, trees
 - [[knowledge/wiki/images/Snowy Forest with Bare Trees and Sunlight on Ground d8bc26a9|Snowy Forest with Bare Trees and Sunlight on Ground]] — shared language: bare, snowy, trees
 - [[knowledge/archive/auto-generated/artists-stale/Artist - trees|Artist - Trees]] — shared language: trees, building
+- [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees, building
 <!-- vault-crosslinks:end -->

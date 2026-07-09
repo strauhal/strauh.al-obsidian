@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Oil Painting of Person with Large Dark Hair Looking Upwards 0450cc2a|Illustration Oil Painting of Person with Large Dark Hair Looking Upwards]] — shared language: looking, oil, dark
 - [[_archive/auto-generated/images-stale/oil painting of a person with large dark hair looking upwards against a blurred background 4ba382cd|oil painting of a person with large dark hair looking upwards against a blurred background]] — shared language: looking, oil, dark
 - [[_archive/auto-generated/images-stale/video still of a person in a mask and hoodie looking through a vehicle partition 915eaba8|video still of a person in a mask and hoodie looking through a vehicle partition]] — shared language: hoodie, looking, person
-- [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
+- [[knowledge/wiki/images/Person Standing In Front Of Metal Shutter Looking Down 90b40866|Person Standing In Front Of Metal Shutter Looking Down]] — shared language: down, looking, person
 <!-- vault-crosslinks:end -->

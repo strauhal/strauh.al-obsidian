@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Pink T-Shi
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — named in this note
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: child's, shirt, pink
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: scaruffi, piero
+- [[knowledge/wiki/images/scaruffi 215ee781|scaruffi]] — shared language: scaruffi
 <!-- vault-crosslinks:end -->

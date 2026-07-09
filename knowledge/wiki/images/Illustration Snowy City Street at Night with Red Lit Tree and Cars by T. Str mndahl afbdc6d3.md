@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, cars
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Rainy City Street at Night 21ad9f43|Illustration Impressionistic Painting of Rainy City Street at Night]] — shared language: night, street, city
 - [[knowledge/wiki/images/City Street After Flood With Piled Up Cars 338a4db9|City Street After Flood With Piled Up Cars]] — shared language: cars, street, city
+- [[knowledge/wiki/images/Blue House with Lit Windows at Night f6f95007|Blue House with Lit Windows at Night]] — shared language: lit, night
 <!-- vault-crosslinks:end -->

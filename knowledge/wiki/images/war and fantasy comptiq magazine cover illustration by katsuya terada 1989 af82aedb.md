@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/war_and_fantasy_
 ## Discovered Connections
 
 - [[knowledge/wiki/images/re co by katsuya terada 1999 c63e7f25|re co by katsuya terada 1999]] — same artist: katsuya terada
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
 - [[knowledge/wiki/books/martin-butler-the-corporeal-fantasy|The Corporeal Fantasy]] — shared language: fantasy
 - [[knowledge/wiki/images/Elks Magazine Cover by Franklin Booth (1926) 5e24620b|Elks Magazine Cover by Franklin Booth (1926)]] — shared language: magazine, cover
 - [[knowledge/wiki/images/Document Pink Flowers And A Yellow Butterfly On A Magazine Cover eee78522|Document Pink Flowers And A Yellow Butterfly On A Magazine Cover]] — shared language: magazine, cover
-- [[knowledge/wiki/images/Document TIME Magazine Cover with Computer Monitor and Video Player 9a68f45c|Document TIME Magazine Cover with Computer Monitor and Video Player]] — shared language: magazine, cover
 <!-- vault-crosslinks:end -->

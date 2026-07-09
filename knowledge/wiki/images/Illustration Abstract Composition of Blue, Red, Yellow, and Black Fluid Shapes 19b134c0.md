@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 
 - [[knowledge/wiki/images/Illustration Abstract Black Ink Drawing With Layered, Fluid, Intricate Shapes 857ee6a3|Illustration Abstract Black Ink Drawing With Layered, Fluid, Intricate Shapes]] — shared language: fluid, shapes
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: fluid
 - [[knowledge/wiki/images/Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds f0a53489|Illustration Abstract Composition with Geometric and Organic Shapes on Yellow and Brown Backgrounds]] — shared language: composition, shapes, yellow
 - [[knowledge/wiki/images/Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue 0e042ece|Illustration Abstract Painting of Layered Geometric Shapes in Yellow, Green, Blue]] — shared language: shapes, yellow
-- [[knowledge/wiki/images/Illustration Abstract Composition with Blended Red, Yellow, and Dark Colors 9ea6814f|Illustration Abstract Composition with Blended Red, Yellow, and Dark Colors]] — shared language: composition, yellow
 <!-- vault-crosslinks:end -->

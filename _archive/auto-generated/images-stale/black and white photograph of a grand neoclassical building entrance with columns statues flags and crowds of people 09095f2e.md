@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Crowds f9257c1a|Photograph Black and White Photograph of Grand Neoclassical Building with Crowds]] — shared language: crowds, grand, building
 - [[_archive/auto-generated/images-stale/black and white photograph of a grand neoclassical building entrance with an archway columns statues and an inscription about christopher columbus wit 3792055f|black and white photograph of a grand neoclassical building entrance with an archway columns statues and an inscription about christopher columbus wit]] — shared language: statues, columns, entrance
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Building with Flags and Street Lamps eaf406d2|Photograph Grand Neoclassical Building with Flags and Street Lamps]] — shared language: flags, grand, building
+- [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: grand, building
 <!-- vault-crosslinks:end -->

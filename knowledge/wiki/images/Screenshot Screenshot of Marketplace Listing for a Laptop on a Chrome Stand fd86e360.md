@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Scr
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop c0329433|Screenshot Screenshot of a Chrome Chair Frame Holding an Open Laptop]] — shared language: chrome, laptop, screenshot
-- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: listing
+- [[knowledge/wiki/images/Screenshot Screenshot of a See Also section listing art genres 39460bbb|Screenshot Screenshot of a See Also section listing art genres]] — shared language: listing, screenshot
 - [[knowledge/wiki/images/Screenshot Man In Suit Looking At Laptop Above Demanding Text 98086b6c|Screenshot Man In Suit Looking At Laptop Above Demanding Text]] — shared language: laptop, screenshot
+- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: listing
 - [[knowledge/wiki/images/Document Exhibition Label Listing Artworks and Mediums on a White Wall 58046525|Document Exhibition Label Listing Artworks and Mediums on a White Wall]] — shared language: listing
-- [[knowledge/wiki/images/Document Page Listing 60 Lies With Bible Verses f63feb60|Document Page Listing 60 Lies With Bible Verses]] — shared language: listing
 <!-- vault-crosslinks:end -->

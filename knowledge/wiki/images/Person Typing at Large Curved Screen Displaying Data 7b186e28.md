@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Person Typ
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: curved, large
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
 - [[knowledge/wiki/images/Illustration Cartoon Person Angrily Typing At Computer, 'DIE ' On Screen 34b976e1|Illustration Cartoon Person Angrily Typing At Computer, 'DIE ' On Screen]] — shared language: typing, screen, person
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: curved, large
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: screen
+- [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: displaying, screen
 <!-- vault-crosslinks:end -->

@@ -20,7 +20,7 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: screenshot, game, interface
+- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: screenshot, interface, game
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: screenshot, interface
 - [[knowledge/wiki/images/Screenshot Complex Abstract Illustration Displayed in MS Paint Interface 749790d3|Screenshot Complex Abstract Illustration Displayed in MS Paint Interface]] — shared language: screenshot, interface
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model 245b1c4c|Screenshot Screenshot of 3D Modeling Software Interface with Human Figure Model]] — shared language: screenshot, interface

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Person In Maid Outfit Operating DJ Equipment 0c9455fc|Person In Maid Outfit Operating DJ Equipment]] — shared language: operating, equipment
 - [[_archive/auto-generated/images-stale/photograph of a person in a maid outfit operating dj equipment 84f44540|photograph of a person in a maid outfit operating dj equipment]] — shared language: operating, equipment
 - [[_archive/auto-generated/images-stale/Photograph Person In Maid Outfit Operating DJ Equipment 854b4cde|Photograph Person In Maid Outfit Operating DJ Equipment]] — shared language: operating, equipment
-- [[knowledge/wiki/images/Man Using Music Production Equipment In A Room 867cdc04|Man Using Music Production Equipment In A Room]] — shared language: equipment
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: event
 <!-- vault-crosslinks:end -->

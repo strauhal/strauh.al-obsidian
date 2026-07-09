@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Comparison_of
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Image Reconstruction Diagram with Input, Ground Truth, and Predicted Images 7a0b60b3|Image Reconstruction Diagram with Input, Ground Truth, and Predicted Images]] — shared language: predicted, input, truth
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: predicted
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: input
 - [[knowledge/wiki/images/1976 291 time unveiling truth jpg a0bdd131|1976 291 time unveiling truth jpg]] — shared language: truth
 - [[knowledge/wiki/images/Comparison of Generated Images with Deconvolution Artifacts 5be9023f|Comparison of Generated Images with Deconvolution Artifacts]] — shared language: comparison
-- [[knowledge/wiki/images/Comparison Chart of Dithered Cloud Images 6c63a4a3|Comparison Chart of Dithered Cloud Images]] — shared language: comparison, images.png
 <!-- vault-crosslinks:end -->

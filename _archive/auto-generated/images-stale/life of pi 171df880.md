@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2023
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: life
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: life
 - [[_archive/auto-generated/books-stale/designing-your-life|Designing Your Life]] — shared language: life
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: life
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: life
+- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: life
+- [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: life
 <!-- vault-crosslinks:end -->

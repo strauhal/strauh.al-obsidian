@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Deer in the Fore
 
 - [[knowledge/wiki/artists/Artist - franz marc|Artist - franz marc]] — shared language: marc, franz
 - [[knowledge/wiki/images/reiter auf blauem pferd mit rehen by franz marc 1913 de296284|reiter auf blauem pferd mit rehen by franz marc 1913]] — shared language: marc, franz
-- [[knowledge/wiki/images/Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono 91279c5b|Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono]] — shared language: deer, forest
 - [[knowledge/wiki/artists/Artist - franz xaver winterhalter|Artist - franz xaver winterhalter]] — shared language: franz
+- [[knowledge/wiki/images/Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono 91279c5b|Illustration Forest Scene with Deer and Colorful Light Beam by Hiro Isono]] — shared language: deer, forest
 - [[knowledge/wiki/artists/Artist - franz stuck|Artist - franz stuck]] — shared language: franz
 <!-- vault-crosslinks:end -->

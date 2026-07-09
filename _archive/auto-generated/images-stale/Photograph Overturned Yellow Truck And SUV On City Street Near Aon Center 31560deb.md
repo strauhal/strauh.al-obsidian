@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Overturned Yellow Truck And SUV On City Street Near Aon Center e8bb3385|Overturned Yellow Truck And SUV On City Street Near Aon Center]] — shared language: aon, suv, overturned
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, center
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/images/Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass c6d45247|Photograph Road Covered In Red Liquid From Overturned Truck Under Overpass]] — shared language: overturned, truck
 - [[_archive/auto-generated/images-stale/photograph of a road covered in spilled red liquid under an overpass with an overturned truck efc0539b|photograph of a road covered in spilled red liquid under an overpass with an overturned truck]] — shared language: overturned, truck
+- [[knowledge/wiki/images/Illustration Grid of White SUV and Crossover Vehicle Illustrations cb512ce5|Illustration Grid of White SUV and Crossover Vehicle Illustrations]] — shared language: suv
 <!-- vault-crosslinks:end -->

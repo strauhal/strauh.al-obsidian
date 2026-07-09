@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/implicit_distance.html"
 source_relpath: "implicit_distance.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # implicit distance
@@ -23,6 +23,9 @@ this is a composition i made in 2023 called "implicit distance." i arrived at th
 
 implicit distance can be streamed here: [https://music.apple.com/us/album/implicit-distance-ep/1855735897](https://music.apple.com/us/album/implicit-distance-ep/1855735897)
 
+[impdist_daw.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/implicitdistance/impdist_daw.png)
+[mockup.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/implicitdistance/mockup.png)
+
 Loading audio stems...
 
 playpausestop
@@ -35,11 +38,11 @@ playpausestop
 ## Discovered Connections
 
 - [[knowledge/wiki/anchors/visuals|visuals]] — named in this note
-- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: implicit, distance, https
+- [[knowledge/raw/implicit-distance|Implicit Distance]] — shared language: implicit, distance, audio
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: distance, implicit
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: implicit, distance
 - [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — shared language: implicit, distance
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: implicit, neural, algorithm
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: implicit, distance
-- [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: implicit, distance
 <!-- vault-crosslinks:end -->

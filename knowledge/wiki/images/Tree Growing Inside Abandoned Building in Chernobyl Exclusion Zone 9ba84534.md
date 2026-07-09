@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Tree Growi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: abandoned
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: abandoned
 - [[knowledge/wiki/books/ashley-montagu-growing-young-mcgraw-hill|Growing Young-McGraw-Hill]] — shared language: growing
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: abandoned
+- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: abandoned
 <!-- vault-crosslinks:end -->

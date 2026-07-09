@@ -25,4 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Multicolored Fractal Design on Black Background 03dbff8e|Illustration Multicolored Fractal Design on Black Background]] — shared language: design
 - [[knowledge/wiki/artists/Artist - Frog Design|Artist - Frog Design]] — shared language: design
 - [[knowledge/wiki/culture/reading-design-as-art|Reading - Design as Art]] — shared language: design
+- [[knowledge/wiki/images/Illustration Stylized Geometric And Arabesque Design On Page 93 8a7d20cd|Illustration Stylized Geometric And Arabesque Design On Page 93]] — shared language: design
 <!-- vault-crosslinks:end -->

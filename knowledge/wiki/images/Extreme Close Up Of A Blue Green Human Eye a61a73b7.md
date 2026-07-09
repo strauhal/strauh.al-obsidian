@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Extreme Cl
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/images/Photograph Close Up Of Human Eye With Severe Conjunctival Injection 43fd9759|Photograph Close Up Of Human Eye With Severe Conjunctival Injection]] — shared language: eye, human, close
 - [[knowledge/wiki/images/Black and White Close Up of an Eye with Finger 579c387f|Black and White Close Up of an Eye with Finger]] — shared language: eye, close, close-up
 - [[knowledge/wiki/images/eye c23dde29|eye]] — shared language: eye, eye.jpg
+- [[knowledge/wiki/images/Illustration Close Up Of Pixelated Eye And Face On Dark Background e708a0f4|Illustration Close Up Of Pixelated Eye And Face On Dark Background]] — shared language: eye, close, close-up
 <!-- vault-crosslinks:end -->

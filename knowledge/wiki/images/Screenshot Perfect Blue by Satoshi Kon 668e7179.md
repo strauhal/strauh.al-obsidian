@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Screenshot - Per
 - [[knowledge/wiki/anchors/satoshi-kon|Satoshi Kon]] — named in this note
 - [[knowledge/wiki/culture/movie-perfect-blue|Watchlist - Perfect Blue]] — shared language: perfect, satoshi, kon
 - [[knowledge/wiki/maps/Map - Current Culture|Map - Current Culture]] — shared language: perfect
-- [[knowledge/wiki/pages/knowledge base wikipedia articles|knowledge base wikipedia articles]] — shared language: satoshi, kon
 - [[knowledge/wiki/images/Screenshot Screenshot of a Webpage About Bunkers in Albania 4bc53bb8|Screenshot Screenshot of a Webpage About Bunkers in Albania]] — shared language: screenshot
+- [[knowledge/wiki/images/Screenshot Screenshot of Abstract White Lines on Purple Background e006d48d|Screenshot Screenshot of Abstract White Lines on Purple Background]] — shared language: screenshot
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Interior o
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, large
 - [[knowledge/wiki/images/Modern Concert Hall Interior with Grand Piano and Wooden Architecture fb385756|Modern Concert Hall Interior with Grand Piano and Wooden Architecture]] — shared language: wooden, modern, interior
 - [[knowledge/wiki/images/Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight cda45386|Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight]] — shared language: wooden, modern, interior
 - [[knowledge/wiki/images/Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano f5d2ff12|Illustration Modern Concert Hall Interior with Wooden Panels and Grand Piano]] — shared language: wooden, modern, interior
 - [[knowledge/wiki/images/Modern Library Interior With Large Domed Light Fixture d18193cc|Modern Library Interior With Large Domed Light Fixture]] — shared language: modern, interior, large
+- [[knowledge/wiki/images/Document Modern Interior with Balcony and Large Windows in a Publication 868feb05|Document Modern Interior with Balcony and Large Windows in a Publication]] — shared language: modern, interior, large
 <!-- vault-crosslinks:end -->

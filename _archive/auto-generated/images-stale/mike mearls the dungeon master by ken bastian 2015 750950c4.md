@@ -28,8 +28,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ken bastian 2015|Artist - ken bastian 2015]] — named in this note
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: master
 - [[knowledge/wiki/artists/Artist - ken jenkins|Artist - ken jenkins]] — shared language: ken
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ken jenkins 1985|Artist - ken jenkins 1985]] — shared language: ken
 - [[knowledge/wiki/artists/Artist - master e s|Artist - master e s]] — shared language: master
-- [[knowledge/wiki/artists/Artist - ken feingold|Artist - ken feingold]] — shared language: ken
 <!-- vault-crosslinks:end -->

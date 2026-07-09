@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Men Wo
 - [[knowledge/wiki/images/Men Working In A Modernist Art Studio With Abstract Art 9b6ceec3|Men Working In A Modernist Art Studio With Abstract Art]] — shared language: working, men
 - [[knowledge/wiki/images/Men Working At Drafting Tables In Large Office 4d27aa9b|Men Working At Drafting Tables In Large Office]] — shared language: working, men, large
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: working
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: working
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: floor
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: working
 <!-- vault-crosslinks:end -->

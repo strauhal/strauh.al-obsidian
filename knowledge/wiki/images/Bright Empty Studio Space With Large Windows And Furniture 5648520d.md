@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Bright Emp
 ## Discovered Connections
 
 - [[knowledge/wiki/images/empty 42051b21|empty]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: furniture, large
 - [[knowledge/wiki/images/Empty White Room with Large Windows and Light Stand 1ffb998a|Empty White Room with Large Windows and Light Stand]] — shared language: empty, windows, large
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: space
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: space
+- [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: space
 <!-- vault-crosslinks:end -->

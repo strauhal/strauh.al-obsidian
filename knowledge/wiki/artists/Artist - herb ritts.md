@@ -20,8 +20,8 @@ Images attributed by filename: 1
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - herb lubalin|Artist - herb lubalin]] — shared language: herb
 - [[knowledge/wiki/images/the by herb lubalin 1974 0e9841ee|the by herb lubalin 1974]] — shared language: herb
+- [[knowledge/wiki/artists/Artist - herb lubalin|Artist - herb lubalin]] — shared language: herb
 - [[knowledge/wiki/images/herb alpert 2d9ce349|herb alpert]] — shared language: herb
 - [[knowledge/wiki/images/Photograph Isabella Rossellini and David Lynch, His Face Obscured 6e506493|Photograph Isabella Rossellini and David Lynch, His Face Obscured]] — shared language: isabella, rossellini
 - [[knowledge/wiki/collections/Collection - influences|Collection - influences]] — shared language: herb

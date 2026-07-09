@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - V
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cars, night
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Two Women Jumping At Night With Cars And Building f3ffc1c7|Two Women Jumping At Night With Cars And Building]] — shared language: cars, night, building
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: club
 - [[knowledge/wiki/images/mc escher day and night 1938 48508803|mc escher day and night 1938]] — shared language: day, night
+- [[knowledge/wiki/images/Street View Of Buildings And Parked Cars Under Blue Sky 486d2b9b|Street View Of Buildings And Parked Cars Under Blue Sky]] — shared language: cars, sky, sky.jpeg
 <!-- vault-crosslinks:end -->

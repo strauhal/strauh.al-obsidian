@@ -45,6 +45,6 @@ itself.
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: line, spontaneity, authorship
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: sketchbook, line, worth
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: spontaneity, line, elegance
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: argerich, martha
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line, spontaneity, elegance
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: listening, spontaneity, thought
 <!-- vault-crosslinks:end -->

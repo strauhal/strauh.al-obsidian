@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: large, water
 - [[knowledge/wiki/images/the breaking wave by winslow homer circa 1895 1c3054ee|the breaking wave by winslow homer circa 1895]] — shared language: breaking, wave
 - [[knowledge/wiki/images/Illustration Impasto Painting of Ocean Wave Crashing on Rocks cdf47edb|Illustration Impasto Painting of Ocean Wave Crashing on Rocks]] — shared language: ocean, wave
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave
+- [[_archive/auto-generated/images-stale/black and white wave like abstract drawing 99faf310|black and white wave like abstract drawing]] — shared language: wave
 <!-- vault-crosslinks:end -->

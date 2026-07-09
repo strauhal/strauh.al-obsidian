@@ -31,8 +31,8 @@ Ernest's interest in translating one sense into another (see [[Latent Space]]).
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: scriabin, color, wassily
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, color, space
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, scriabin, alexander
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: influences, ideas-sketchbook, ernest's
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, scriabin, alexander
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, space, temporal
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, influences, space
 - [[knowledge/wiki/images/alexander scriabin 7b5fafb8|alexander scriabin]] — shared language: scriabin, alexander, influences

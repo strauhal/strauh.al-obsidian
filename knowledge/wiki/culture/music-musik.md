@@ -7,8 +7,8 @@ status: queued
 queue_order: 36
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Musik
@@ -36,6 +36,6 @@ This is an active recording in Ernest's current cultural diet. Add dates, reacti
 - [[knowledge/wiki/culture/music-elseq|Listening - elseq]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-anoyo|Listening - Anoyo]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-playing-the-piano-12122020|Listening - Playing the Piano 12122020]] — shared language: listening, current, performer
-- [[knowledge/wiki/culture/music-settle|Listening - Settle]] — shared language: listening, current, performer
 - [[knowledge/wiki/culture/music-schumann-kinderszenen-kreisleriana|Listening - Schumann: Kinderszenen & Kreisleriana]] — shared language: listening, current, performer
+- [[knowledge/wiki/culture/music-settle|Listening - Settle]] — shared language: listening, current, performer
 <!-- vault-crosslinks:end -->

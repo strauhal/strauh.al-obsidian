@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Tall Pinki
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, signs, tall
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall
 - [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: urban, tall, setting
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: signs, urban
 - [[knowledge/wiki/images/Portrait of a Person with Short Dark Hair in Urban Setting 9689643c|Portrait of a Person with Short Dark Hair in Urban Setting]] — shared language: urban, setting, setting.jpeg
+- [[knowledge/wiki/images/The School Bus by John Falter (1950) 7a8e8329|The School Bus by John Falter (1950)]] — shared language: bus
 <!-- vault-crosslinks:end -->

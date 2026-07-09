@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_world_of_the
 ## Discovered Connections
 
 - [[knowledge/wiki/images/toshio saeki jpg ad71c0fe|toshio saeki jpg]] — shared language: toshio
+- [[knowledge/wiki/people/Balthus|Balthus]] — shared language: word
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: world
 - [[knowledge/wiki/books/elliot-rodger-my-twisted-world|My Twisted World]] — shared language: world
-- [[knowledge/wiki/books/elliot-rodger-my-twisted-world-manifesto|My Twisted World (manifesto)]] — shared language: world
 <!-- vault-crosslinks:end -->

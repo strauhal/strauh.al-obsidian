@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: settings
 - [[knowledge/wiki/images/Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble 22531545|Screenshot Video Game Scene With Character In Sunglasses And Speech Bubble]] — shared language: game, video, screenshot
 - [[knowledge/wiki/images/Comic Black and White Manga Panels Featuring Three Faces by Junji Ito 800f036c|Comic Black and White Manga Panels Featuring Three Faces by Junji Ito]] — shared language: panels, featuring, three
-- [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game, video
 <!-- vault-crosslinks:end -->

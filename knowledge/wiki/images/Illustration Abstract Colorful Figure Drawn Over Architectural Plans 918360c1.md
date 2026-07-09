@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: drawn
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: drawn
 - [[knowledge/wiki/images/Elementary School Floor Plans and Optimized Layouts 782a7570|Elementary School Floor Plans and Optimized Layouts]] — shared language: plans
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn
-- [[knowledge/wiki/images/Colorful Map of Chicago Neighborhoods cab6a5f7|Colorful Map of Chicago Neighborhoods]] — shared language: colorful
 <!-- vault-crosslinks:end -->

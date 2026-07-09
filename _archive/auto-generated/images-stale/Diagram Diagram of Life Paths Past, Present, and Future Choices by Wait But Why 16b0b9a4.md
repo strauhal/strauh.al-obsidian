@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Dia
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram of Life Paths Past, Present, and Future Choices by Wait But Why 7b02d06a|Diagram of Life Paths Past, Present, and Future Choices by Wait But Why]] — same artist: wait
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future, life
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: past
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — shared language: wait
+- [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 3d4a4e05|it+moves +just+wait+for+it+ + +)]] — shared language: wait
 <!-- vault-crosslinks:end -->

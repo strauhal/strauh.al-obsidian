@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol 55f1bfb8|Illustration Stylized Tower with Glowing Concentric Circles and Winged Symbol]] — shared language: concentric, winged, circles
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[_archive/auto-generated/images-stale/black and white diagram of concentric circles with tibetan script and central vajra symbol 973781e7|black and white diagram of concentric circles with tibetan script and central vajra symbol]] — shared language: concentric, circles, symbol
 - [[knowledge/wiki/images/Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol 610bd17b|Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: concentric, circles, symbol
 - [[_archive/auto-generated/images-stale/Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol fdd7edd3|Diagram Black And White Diagram Of Concentric Circles With Tibetan Script And Central Vajra Symbol]] — shared language: concentric, circles, symbol
+- [[_archive/auto-generated/images-stale/animated style painting of a dark city skyline against a red sky 3a6191fb|animated style painting of a dark city skyline against a red sky]] — shared language: animated, against, sky
 <!-- vault-crosslinks:end -->

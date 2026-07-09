@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/diary.html"
 source_relpath: "diary.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # diary
@@ -25,7 +25,7 @@ strauh.al/diary
 
  i called walgreens today about my prescription and i could tell the person on the other end was getting fed up with how slow my brain was moving because of the drug.
 
- anyway, the reason i'm messing around with wellbutrin is because my psychiatrist diagnosed me with a whole grab bag of mental disorders. in all honesty, i should have asked for something more fun like [ritalin or adderall](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/ritalin.jpg)
+ anyway, the reason i'm messing around with wellbutrin is because my psychiatrist diagnosed me with a whole grab bag of mental disorders. in all honesty, i should have asked for something more fun like [ritalin or adderall](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/ritalin.jpg)
 
  i'm sure i'll probably forget about this journal in a week when i inevitably find something new to hyperfixate on
 
@@ -37,7 +37,7 @@ strauh.al/diary
 
 [is it sad that i prefer virtual reality over actual reality? i can't explain the feeling, but when i'm in the web browser on the headset, i feel disappointed that i am unable to be sucked entirely into the website.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/247424134_4622366904474315_1086021457600591051_n.jpg) i guess this makes me cringe and bluepilled, but that's just how i feel.
 
-[my dream one of these days is that they'll figure out how to get rid of my body and just keep my brain hooked up to a computer.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/3995203629_26fb31e2e2_z.jpg)
+[my dream one of these days is that they'll figure out how to get rid of my body and just keep my brain hooked up to a computer.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/3995203629_26fb31e2e2_z.jpg)
 
 ## august 29th, 2024
 
@@ -47,13 +47,13 @@ strauh.al/diary
 
  at this point i’ve gotten accustomed to wellbutrin so i am now able to pull off a pretty convincing fluoride stare
 
-[how do i feel when i’m on this drug? well, i no longer want to make art anymore. any creative impulses that were lingering in my brain have now been beaten out. i just stare at my fucking computer all day and do nothing. i wish i were dead](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/54dfc0cbd9b761fb276b428b99dc9589.jpg)
+[how do i feel when i’m on this drug? well, i no longer want to make art anymore. any creative impulses that were lingering in my brain have now been beaten out. i just stare at my fucking computer all day and do nothing. i wish i were dead](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/54dfc0cbd9b761fb276b428b99dc9589.jpg)
 
  https://www.youtube.com/watch?v=4FY-57Gt1TM
 
 ## september 1st, 2024
 
-[i am seething.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/writhing-seething.gif) malding. [no more copium in the tank.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/FsAc3uOWYA8qQTA.jpg) i generally feel like a leper . anger is the only thing keeping me awake. . no matter how much i try to change things, [Nothing Ever Happens™.!](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/GLOVzqiXoAAi_-u.jpg) the wellbutrin has worn off and i see the ugliness in my heart reflected in the world around me
+[i am seething.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/writhing-seething.gif) malding. [no more copium in the tank.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/FsAc3uOWYA8qQTA.jpg) i generally feel like a leper . anger is the only thing keeping me awake. . no matter how much i try to change things, [Nothing Ever Happens™.!](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/GLOVzqiXoAAi_-u.jpg) the wellbutrin has worn off and i see the ugliness in my heart reflected in the world around me
 
  **update (september 7th): i think i was trying to be really angsty when i wrote this.;. i can't remember if this was meant to be sincere, ironic, or post-ironic
 
@@ -61,7 +61,7 @@ strauh.al/diary
 
 ## september 2nd, 2024
 
- for the past 23 years, i have been a very reactive person. i would intake stimuli, and just react without being fully present in the moment. [i was like a raw nerve for two decades, and i was unknowingly taken advantage of by people for this reason.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/old_photos/oldphotos 50.png)
+ for the past 23 years, i have been a very reactive person. i would intake stimuli, and just react without being fully present in the moment. [i was like a raw nerve for two decades, and i was unknowingly taken advantage of by people for this reason.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/old_photos/oldphotos%2050.png)
 
  i feel like if i talk to other people about this they’ll say something like the only person you can blame is yourself. And they're right. it just feels so good to have someone or some thing to blame though. i have largely forgotten what has happened in those years . [The main emotions i feel now are a mixture of shame and regret knowing that i have probably been a burden to everyone i’ve met in my life.](https://strauh.al/more_fine_art/FzBluNCWYAE5dtT.jpeg)
 
@@ -69,13 +69,13 @@ strauh.al/diary
 
 ## september 3rd, 2024
 
- i’ve been taking the metra a lot recently. [there tends to be a large number of amish people that travel through the station. they look so quaint.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/hf_1_2021_06_16.jpg) right now i’m looking at an amish family and the husband and wife are wearing these strange hats and the son is dressed up in a pair of adorable overalls.
+ i’ve been taking the metra a lot recently. [there tends to be a large number of amish people that travel through the station. they look so quaint.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/hf_1_2021_06_16.jpg) right now i’m looking at an amish family and the husband and wife are wearing these strange hats and the son is dressed up in a pair of adorable overalls.
 
  i’m thinking that they probably have better mental health than most terminally online American people do. Maybe we should all be amish.
 
 ## september 4th, 2024
 
-[thinking about this quote today:](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/90.jpeg)
+[thinking about this quote today:](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/90.jpeg)
 
  “For the new year. – i’m still alive; i still think: i must still be alive because i still have to think. Sum, ergo cogito: cogito, ergo sum.1 Today everyone allows himself to express his dearest wish and thoughts: so i, too, want to say what i wish from myself today and what thought first crossed my heart – what thought shall be the reason, warrant, and sweetness of the rest of my life! i want to learn more and more how to see what is necessary in things as what is beautiful in them – thus i will be one of those who make things beautiful. Amor fati:2 let that be my love from now on! i do not want to wage war against ugliness. i do not want to accuse; i do not even want to accuse the accusers. Let looking away be my only negation! And, all in all and on the whole: some day i want only to be a Yes-sayer!”
 
@@ -87,7 +87,7 @@ strauh.al/diary
 
 ## september 8th, 2024
 
- when i look back at all the music i made the past couple of years, i think 2022-early2023 was my slop period. i would just take 15 second snippets of obscure songs and stretch them out to 6 minutes. truly artistically bankrupt. [it wasn't until ryuichi sakamoto died that i realized i needed to put more effort into my music.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/album_covers/thousand_knives.jpg)
+ when i look back at all the music i made the past couple of years, i think 2022-early2023 was my slop period. i would just take 15 second snippets of obscure songs and stretch them out to 6 minutes. truly artistically bankrupt. [it wasn't until ryuichi sakamoto died that i realized i needed to put more effort into my music.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/album_covers/thousand_knives.jpg)
 
 [1688930341400506.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/2023_downloadsfolder/1688930341400506.jpg)
 
@@ -103,13 +103,13 @@ strauh.al/diary
 
 [was eating dim sum with my mother at a chinese restaurant across the street today and i saw on the tv behind her that tiktok was gonna be banned in the u.s.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1682197610836760.jpg)
 
-[good ; they should also ban instagram reels and youtube shorts as well. it might suck for everyone in the short term but millions (perhaps billions) of man-hours will be taken back. think of all the things we could accomplish [collectively]](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/iMG_4371.JPG)
+[good ; they should also ban instagram reels and youtube shorts as well. it might suck for everyone in the short term but millions (perhaps billions) of man-hours will be taken back. think of all the things we could accomplish [collectively]](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/IMG_4371.JPG)
 
  also now that i think about it, that's probably the reason i gave up on starting a record label haha. how can artists/musicians compete with an endless stream of entertainment that is tailored to the user? i should have realized this well before i even started working on the webpage/bandcamp page for the label considering that tiktok was already around for a few years
 
 ## september 14th, 2024
 
- thinking about [playboi carti](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/pictures_of_musicians/1624659455849.jpg) and [clyfford still](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/still.jpg) today.
+ thinking about [playboi carti](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/pictures_of_musicians/1624659455849.jpg) and [clyfford still](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/still.jpg) today.
 
  they are very similar to each other.
 
@@ -117,9 +117,9 @@ strauh.al/diary
 
 ## september 16th, 2024
 
-[was driving a few miles away from my parents house today](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/art_misc/iMG_7661.jpeg) and was captivated by the new communities being built everywhere. just people handling heavy machinery and hanging off houses with staple guns. good stuff.
+[was driving a few miles away from my parents house today](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/art_misc/IMG_7661.jpeg) and was captivated by the new communities being built everywhere. just people handling heavy machinery and hanging off houses with staple guns. good stuff.
 
- side note : [i normally consider myself a very trainpilled individual](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/thedamntrain.jpeg) but cruising down the i5 at 80 miles per hour is one of the more therapeutic activities i've engaged in recently. nothing like it.
+ side note : [i normally consider myself a very trainpilled individual](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/thedamntrain.jpeg) but cruising down the i5 at 80 miles per hour is one of the more therapeutic activities i've engaged in recently. nothing like it.
 
  also, speaking of therapy, i should probably get back into therapy sometime. my health insurance ran out a month ago so i kind of need to get my shit together.
 
@@ -127,13 +127,13 @@ strauh.al/diary
 
  in the future, everyone will either be an uber driver, a doordasher or an onlyfans model. perhaps a combination of those things all at once. everyone will also be genderfluid / nonbinary as well. this fluidity will extend to politics, sports, language, employment, art, music, sexuality, religion, nationality, and race too .
 
- i think that would be so based. [each of these characteristics will be labeled as vector coordinates in some sort of latent space. people will be able to see the distances they've covered in each dimension of the latent space and they'll be able to see their own trajectories in the future (along with everyone elses) through the space based on their current and past movement.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/laion-clusters.jpeg)
+ i think that would be so based. [each of these characteristics will be labeled as vector coordinates in some sort of latent space. people will be able to see the distances they've covered in each dimension of the latent space and they'll be able to see their own trajectories in the future (along with everyone elses) through the space based on their current and past movement.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/laion-clusters.jpeg)
 
-[we'll no longer have to worry about ever misunderstanding each other ever again](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/computers/1620707908904.jpg)
+[we'll no longer have to worry about ever misunderstanding each other ever again](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/computers/1620707908904.jpg)
 
 ## september 19th, 2024
 
-[...there's a japanese woman who records these vlogs from her apartment.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/rot2.jpeg) there's usually cockroaches and other small bugs on the walls. [a recurring object in these videos is a stuffed bear that is kept inside of a plastic bag so that the insects don't eat it.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/rot1.jpeg) this lady clearly takes care of herself, she records herself cooking food and brushing her teeth. perhaps that teddy bear is the last thing keeping her going.
+[...there's a japanese woman who records these vlogs from her apartment.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/rot2.jpeg) there's usually cockroaches and other small bugs on the walls. [a recurring object in these videos is a stuffed bear that is kept inside of a plastic bag so that the insects don't eat it.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/rot1.jpeg) this lady clearly takes care of herself, she records herself cooking food and brushing her teeth. perhaps that teddy bear is the last thing keeping her going.
 
  https://www.youtube.com/watch?v=7vF64hsGkYY
 
@@ -171,13 +171,13 @@ strauh.al/diary
 
 ## september 27th, 2024
 
- thinking about a comment i saw on a music forum one time. [people were discussing "the right thing to say" when asked about what music they listened to.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/averagemusician.JPG) now, this question was posed to a forum with a ... ..strange taste in music, think destroy all monsters, gerogerigegege, pere ubu, etc.
+ thinking about a comment i saw on a music forum one time. [people were discussing "the right thing to say" when asked about what music they listened to.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/averagemusician.JPG) now, this question was posed to a forum with a ... ..strange taste in music, think destroy all monsters, gerogerigegege, pere ubu, etc.
 
  anyway, someone said that the best answer to that question in any situation is "a tribe called quest"
 
  apparently, if you say that, 100% of the time, people will nod their heads inquisitively and go "ah yes, a tribe called quest...."
 
-[if i remember correctly, this commenter said that they've never actually listened to a tribe called quest in their life, however they did say this trick has never failed them in any social situation.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/covidflute.JPG)
+[if i remember correctly, this commenter said that they've never actually listened to a tribe called quest in their life, however they did say this trick has never failed them in any social situation.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/covidflute.JPG)
 
  https://www.youtube.com/watch?v=gcuUn2zka3w
 
@@ -193,17 +193,17 @@ strauh.al/diary
 
 ## september 30th, 2024
 
-[i keep on falling into cliches but they are cliches worth experiencing](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/drawings.png)
+[i keep on falling into cliches but they are cliches worth experiencing](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/drawings.png)
 
 ## october 1st, 2024
 
-[i love living in america. everyone is the same here (to a degree).](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1640710767775.jpg) when i’m walking around in the city i can’t tell if a crazy person is talking to themselves or if they have earphones in and they're talking to a friend. [i’ve also seen BMWs next to 20 year old corollas in the McDonald’s drive-through.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1639579031417.jpg)[i think warhol said something like this some time ago about coke,](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/coke.JPG) but nowadays instead of coke, everyone (rich and poor) doomscrolls on the same apps on the same phones.
+[i love living in america. everyone is the same here (to a degree).](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1640710767775.jpg) when i’m walking around in the city i can’t tell if a crazy person is talking to themselves or if they have earphones in and they're talking to a friend. [i’ve also seen BMWs next to 20 year old corollas in the McDonald’s drive-through.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1639579031417.jpg)[i think warhol said something like this some time ago about coke,](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/coke.JPG) but nowadays instead of coke, everyone (rich and poor) doomscrolls on the same apps on the same phones.
 
  https://www.youtube.com/watch?v=_0AUpCq-UEA
 
 ## october 3rd, 2024
 
- what have i done recently? [haven’t really made any art or music.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/vangoghlautrec.jpeg) i’ve just been writing in this diary. and yes, writing may be an art form, but what i’m doing right now isn’t writing. [i’m just twiddling my fingers being a little hater](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/278864869_183753870649681_2951331152844803432_n.jpg)
+ what have i done recently? [haven’t really made any art or music.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/vangoghlautrec.jpeg) i’ve just been writing in this diary. and yes, writing may be an art form, but what i’m doing right now isn’t writing. [i’m just twiddling my fingers being a little hater](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/278864869_183753870649681_2951331152844803432_n.jpg)
 
 ## october 5th, 2024
 
@@ -215,7 +215,7 @@ strauh.al/diary
 
 ## october 6th, 2024
 
- i’ve been feeling more in touch with my high school self recently. [what do i mean by this..?](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/old_photos/oldphotos 55.png)
+ i’ve been feeling more in touch with my high school self recently. [what do i mean by this..?](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/old_photos/oldphotos%2055.png)
 
  when i was going to college for an undergraduate degree, i was slowly discovering myself and becoming more sociable. however, i ended up regressing when the pandemic happened. i often think back to high school in the mornings at 6am. [my band director switched me from the trumpet to the tuba, so i made a habit of bringing this massive instrument home every day only for it to just sit in the corner of my room.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/fine_art/Adolph_Menzel_-_Flötenkonzert_Friedrichs_des_Großen_in_Sanssouci_-_Google_Art_Project.jpg)
 
@@ -231,27 +231,27 @@ strauh.al/diary
 
 ## october 9th, 2024
 
-[i guess i should explain this picture before i suddenly develop dementia or something.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/old_photos/oldphotos 16.png)
+[i guess i should explain this picture before i suddenly develop dementia or something.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/old_photos/oldphotos%2016.png)
 
  this picture was taken of me on the first day of kindergarten and this might also be the first drawing i’ve ever made. the teacher had provided a bunch of coloring sheets for all the students and everyone was doing a great job of coloring inside the lines… …except for me. this isn’t a metaphor for anything by the way, my parents saw the wall of coloring sheets that were stapled to the wall and my drawing stood out from the rest, and not in a good way.
 
  apparently, i had wrapped all 5 of my pudgy fingers around a green crayon and took the coloring sheet to task. whether the sheet of paper had any outlines on it didn't matter at all because i covered the entire thing with scribbles. now that i think about it, that might be why my kindergarten teacher told my parents that i might have been autistic (or maybe because i was nonverbal for the first 5 years of my life hahah).
 
- also this first art memory reminds me of my first memory of pain. a year after kindergarten when i was in the first grade, my mother told me to doodle something on a piece of paper for a city wide drawing competition. anyway, i probably made something in less than 30 minutes and went back to doing whatever it is that five year olds do. [what i had not expected was that my drawing was chosen over every other first grader’s drawing in the school district. i mean really, this was not a technically skilled drawing for a five year old, especially compared to my classmates who had probably spent more time doing better drawings.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/old_photos/oldphotos 117.png)
+ also this first art memory reminds me of my first memory of pain. a year after kindergarten when i was in the first grade, my mother told me to doodle something on a piece of paper for a city wide drawing competition. anyway, i probably made something in less than 30 minutes and went back to doing whatever it is that five year olds do. [what i had not expected was that my drawing was chosen over every other first grader’s drawing in the school district. i mean really, this was not a technically skilled drawing for a five year old, especially compared to my classmates who had probably spent more time doing better drawings.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/old_photos/oldphotos%20117.png)
 
  anyway, i had received a ribbon as an award for this drawing which hung on the top shelf in my bedroom. one night, i climbed up the shelf to grab the ribbon and was swishing the ribbon through the air by its string. however, the string that was attached to the ribbon snagged on the doorknob and tore all of the skin off of my ring finger. not fun
 
  hopefully this entry sheds some light on an early moment that might have led me to become the self indulgent, egomaniac piece of shit "artist" i am today.
 
-[also, to create art requires love. and pain.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/jacfast3.png)
+[also, to create art requires love. and pain.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/jacfast3.png)
 
  something that these dork ass losers making ai art have probably never felt .
 
 ## october 10th, 2024
 
- added a page to the site at [strauh.al/influences](https://strauh.al/influences). [this page is just a collection of visual artists, musicians, and writers that have left a lasting impression on me.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/influences/rei_kawakubo.jpg) might add a list of my favorite movies to the site in the future. i hate leaving things up to interpretation.
+ added a page to the site at [strauh.al/influences](https://strauh.al/influences). [this page is just a collection of visual artists, musicians, and writers that have left a lasting impression on me.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/influences/rei_kawakubo.jpg) might add a list of my favorite movies to the site in the future. i hate leaving things up to interpretation.
 
- ...[i'm slowly turning into scaruffi.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/scaruffi.jpg)
+ ...[i'm slowly turning into scaruffi.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/scaruffi.jpg)
 
 ## october 11th, 2024
 
@@ -289,7 +289,7 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
  i should get my laptop battery fixed. it does this thing where the battery will be at 40% and then it’ll drop to 1% after that.
 
-[actually, now that i think about it maybe i shouldn’t get the battery replaced. i kind of like the urgency i feel when i’m working when my battery is at 1% it feels like i have a human skull on my desk.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/computers/god.png)
+[actually, now that i think about it maybe i shouldn’t get the battery replaced. i kind of like the urgency i feel when i’m working when my battery is at 1% it feels like i have a human skull on my desk.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/computers/god.png)
 
  https://www.youtube.com/watch?v=iO_8n5y5edk
 
@@ -303,9 +303,9 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## october 20th, 2024
 
- i think i realized that most social media activism was bogus after that [“all eyes on rafah” post . a few months ago, someone had used an ai generated image of a bunch of refugee encampments that spelled out “all eyes on rafah"](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/rafah.jpg)
+ i think i realized that most social media activism was bogus after that [“all eyes on rafah” post . a few months ago, someone had used an ai generated image of a bunch of refugee encampments that spelled out “all eyes on rafah"](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/rafah.jpg)
 
- this image blew up in popularity (47 million reposts) and soon these ai sloppers were arguing over who created this image first. [social media activism was always a race to the bottom](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/noshitsherlock.jpg) but at least people were pretending to keep up the facade of actual effort by creating art or slides specifically for these issues.
+ this image blew up in popularity (47 million reposts) and soon these ai sloppers were arguing over who created this image first. [social media activism was always a race to the bottom](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/noshitsherlock.jpg) but at least people were pretending to keep up the facade of actual effort by creating art or slides specifically for these issues.
 
  i still keep myself up to date on this stuff, but after 1 or 2 performative gestures on my end, i realized that i was being a bit cringe. everyone already has come to a general consensus that "war bad. genocide bad." like everything else after that point is just for optics
 
@@ -315,15 +315,15 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## october 23rd, 2024
 
- i see gwis and pedal together a lot. zwon seems to be having a field day in this part of chicago; scratch that, [he seems to be having a field day everywhere.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/zwon.jpg) i don’t see mr mr fungi together anymore, it’s only mr mr or fungi.
+ i see gwis and pedal together a lot. zwon seems to be having a field day in this part of chicago; scratch that, [he seems to be having a field day everywhere.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/zwon.jpg) i don’t see mr mr fungi together anymore, it’s only mr mr or fungi.
 
 ## october 24th, 2024
 
- i’m going to throw out some buzz words and describe my current art practice as "video portraiture” . it’s really not that complex, I’m just doing video captures of peoples faces, and tracing various frames on vellum. [i guess i can milk this technique for all it's worth for the next few years](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/zine1.jpg)
+ i’m going to throw out some buzz words and describe my current art practice as "video portraiture” . it’s really not that complex, I’m just doing video captures of peoples faces, and tracing various frames on vellum. [i guess i can milk this technique for all it's worth for the next few years](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/zine1.jpg)
 
 ## october 25th, 2024
 
-[i like some of rembrandt’s sketches more than his actual paintings.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/youngrembrandt.jpg) same reason why i love piano pieces by composers more than actual orchestral arrangements. just pure unfiltered captures of the artist’s mind at work
+[i like some of rembrandt’s sketches more than his actual paintings.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/youngrembrandt.jpg) same reason why i love piano pieces by composers more than actual orchestral arrangements. just pure unfiltered captures of the artist’s mind at work
 
  reminds me of this quote:
 
@@ -342,7 +342,7 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## october 27th, 2024
 
- decided to bite the bullet and blow $20 on a salad at sweetgreen today. so this is what millennials like to eat. [anyway i’m seated at the window and there’s a war memorial outside with all the names of the wars america has been involved in with all the list of names of casualties .](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/icespice4ever.jpg)
+ decided to bite the bullet and blow $20 on a salad at sweetgreen today. so this is what millennials like to eat. [anyway i’m seated at the window and there’s a war memorial outside with all the names of the wars america has been involved in with all the list of names of casualties .](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/icespice4ever.jpg)
 
  the names aren’t even carved into stone or anything. they’re printed on a vinyl paste up stuck on some piece of glass. anyway, i noticed a strange new name at the bottom of a war that took place from 2001 to 2014. it’s called “operation enduring freedom.” that’s strange,.; i always thought it was called “the war on terror.”
 
@@ -356,13 +356,13 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
  there’s been a recent trend of “artists” looking at their feet and pathetically mumbling ”installation” or “arduino” or some other drivel when showing off a pile of trash from their studio as a work of art (i used to do this).
 
-[and to that, i have a quote from the late (and great) terry davis:](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/terry1.jpg)
+[and to that, i have a quote from the late (and great) terry davis:](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/terry1.jpg)
 
  “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius”
 
-[take Ramanujan for example. mathematicians are “discovering” what had already come to him in dreams a hundred years after the fact.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/dream.jpg) elegance is a virtue
+[take Ramanujan for example. mathematicians are “discovering” what had already come to him in dreams a hundred years after the fact.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/dream.jpg) elegance is a virtue
 
-[diary/bird_ideas.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/bird_ideas.jpg)
+[diary/bird_ideas.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/bird_ideas.jpg)
 
 ## october 31st, 2024
 
@@ -370,7 +370,7 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## november 2nd, 2024
 
- i don't even like twitter. at this point, i probably use social media the same way other people do. [any frustration in my mind can be numbed with an endless feed of jokes, references, or arguments.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/batmanvillains.jpeg)
+ i don't even like twitter. at this point, i probably use social media the same way other people do. [any frustration in my mind can be numbed with an endless feed of jokes, references, or arguments.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/batmanvillains.jpeg)
 
 ## november 3rd, 2024
 
@@ -390,33 +390,33 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## november 7th, 2024
 
-[it has now been around 5 months since i made any visual art or music. usually, i fill my art and music with my all my various neuroses, frustrations and other fun things.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/together.jpeg) but now I’m just left baring everything in HTML. it’s ugly. I don’t like what I see. maybe that's the point
+[it has now been around 5 months since i made any visual art or music. usually, i fill my art and music with my all my various neuroses, frustrations and other fun things.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/together.jpeg) but now I’m just left baring everything in HTML. it’s ugly. I don’t like what I see. maybe that's the point
 
 ## november 12th, 2024
 
-[got this free balthus book from my school’s library. nice and big, great print quality. i leafed through the entire thing a few months ago, and some things just felt... off about his paintings.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/balthus.jpg) when my parents visited my apartment in chicago, i let my dad flip through it and he also told me that he got a strange feeling from the paintings.
+[got this free balthus book from my school’s library. nice and big, great print quality. i leafed through the entire thing a few months ago, and some things just felt... off about his paintings.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/balthus.jpg) when my parents visited my apartment in chicago, i let my dad flip through it and he also told me that he got a strange feeling from the paintings.
 
  there might have been one or two paintings i slightly liked out of the hundred that were in the book but i decided to leave it at the bottom of the stairs in my apartment building for someone else to take. fast forward to today, and i found a couple of decade old articles calling balthus a pedophile. hm. interesting how art can say so much without saying a word at all
 
 ## november 14th, 2024
 
- was back in California for the past 5 days hanging out with my dad. [during our last dinner before my flight back to chicago, he mentioned that his third grade teacher told his mother that he needed to be put on ritalin. craaaazy that ritalin has been around that long. also it’s strange that it happened to me too (also in third grade).](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/adderall.gif)
+ was back in California for the past 5 days hanging out with my dad. [during our last dinner before my flight back to chicago, he mentioned that his third grade teacher told his mother that he needed to be put on ritalin. craaaazy that ritalin has been around that long. also it’s strange that it happened to me too (also in third grade).](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/adderall.gif)
 
- maybe it’s not strange. i am my father’s son after all and have probably inherited some of his mental patterns and neuroses. [anyway, my grandma didn’t turn my father into a zombie so good on her.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/dive.jpg)
+ maybe it’s not strange. i am my father’s son after all and have probably inherited some of his mental patterns and neuroses. [anyway, my grandma didn’t turn my father into a zombie so good on her.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/dive.jpg)
 
 ## november 17th, 2024
 
  you know, i don’t consider myself to be super religious, but an anecdote from my birth still sticks around in my head. before i was born, my parents, being the strange christians they are, prayed for a “painless birth” which is pretty .. interesting. but lo and behold, on the morning of october 15th, 2000, the umbilical cord wrapped around my neck and i was losing oxygen, fast. they got my mother hopped up on oxycontin and cut me right out. [it literally was, a painless birth.
 
- if it weren’t for the quick work of the doctors, i probably would have been my mother’s fourth miscarriage.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/renoirsketches.jpg) i guess this makes me not only an only child, but also the youngest and oldest child of four, all at the same time
+ if it weren’t for the quick work of the doctors, i probably would have been my mother’s fourth miscarriage.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/renoirsketches.jpg) i guess this makes me not only an only child, but also the youngest and oldest child of four, all at the same time
 
  https://www.youtube.com/watch?v=7MsT2uNJ2hA
 
 ## november 18th, 2024
 
- gave my girlfriend my ipad a few months ago and wanted to watch youtube. damn. automatic update. can’t open youtube. [my fingers hover over the tablet and i open the music app expecting to see my apple music library. hm! what are these albums?](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/seattle.jpg)
+ gave my girlfriend my ipad a few months ago and wanted to watch youtube. damn. automatic update. can’t open youtube. [my fingers hover over the tablet and i open the music app expecting to see my apple music library. hm! what are these albums?](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/seattle.jpg)
 
- ah, i see. when my gf logged in with her apple id, all of her old itunes store purchases from the 2010s were archived in all their trite millenial glory . [incredible, a whole generation of people really listened to this stuff huh. . the black keys. lmfao. christina aguilera. onerepublic. maroon 5. the black eyed peas.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/redguys.jpg)
+ ah, i see. when my gf logged in with her apple id, all of her old itunes store purchases from the 2010s were archived in all their trite millenial glory . [incredible, a whole generation of people really listened to this stuff huh. . the black keys. lmfao. christina aguilera. onerepublic. maroon 5. the black eyed peas.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/redguys.jpg)
 
  viva la vida starts playing. as i stared at the album cover and listened to viva la vida, it became apparent to me how grotesque our aesthetics were in the past and how their ugliness has snowballed into the present . delacroix’s liberty leading the people is used as the album cover. VIVA LA VIDA is written in graffiti marker over it. a violin overlaid on a kick drum plays on loop. vague gestures towards religious and historical figures. the aspirations of revolution, transcendence, and meaning sold as a commercial product. i think i have developed a perverse appreciation for coldplay because of this. a paradoxical loop of revulsion and attraction
 
@@ -424,9 +424,9 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## november 22nd, 2024
 
- why am i so drawn towards the vr headset? could it be that i'm trying to grasp towards the source of power in the oedipal love triangle? [normally, the child sees the father as the source of power blocking the child from the mother, but now both the father and the mother have succumbed to a greater power: the screen](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/hellyeah.jpg) (memeanalysis).
+ why am i so drawn towards the vr headset? could it be that i'm trying to grasp towards the source of power in the oedipal love triangle? [normally, the child sees the father as the source of power blocking the child from the mother, but now both the father and the mother have succumbed to a greater power: the screen](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/hellyeah.jpg) (memeanalysis).
 
-[i’ll never forget the first time i saw the blue glow of the computer screen against my father’s face.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/tip.JPG) it had an otherworldly draw to it ; as a 5 year old, i intuitively knew there was a kind of sacred energy about the computer . [after what felt like an hour of begging and crying to use the computer, my father finally put me on his lap and let me experience the internet for the first time.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/old_photos/oldphotos 116.png)
+[i’ll never forget the first time i saw the blue glow of the computer screen against my father’s face.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/tip.JPG) it had an otherworldly draw to it ; as a 5 year old, i intuitively knew there was a kind of sacred energy about the computer . [after what felt like an hour of begging and crying to use the computer, my father finally put me on his lap and let me experience the internet for the first time.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/old_photos/oldphotos%20116.png)
 
  to me, a vr headset feels like the most visceral, uncompromising exposure to that oedipal power. like riding a missile through cyberspace.
 
@@ -434,21 +434,21 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## november 25th, 2024
 
-[there is something quite spiritual about using the internet, especially if you’re a creative person that shares their work.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/warhol.png) bits of your mind, pieces of art, created both physically and digitally are leaving through your fingers traveling at near light speed around the globe to thousands of other people.
+[there is something quite spiritual about using the internet, especially if you’re a creative person that shares their work.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/warhol.png) bits of your mind, pieces of art, created both physically and digitally are leaving through your fingers traveling at near light speed around the globe to thousands of other people.
 
 ## november 26th, 2024
 
- had another strange VR dream last night. i was casually talking to people in the headset, and i noticed someone sitting next to me in the room. i just figured they were another digital avatar in the world and i glanced away. however, something felt different about their avatar and I looked back in their direction and took the headset off; [they were an actual real person in the dream instead of in VR. somehow, i could see their form in the dream and inside of a vr headset in the dream](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/systems.jpg)
+ had another strange VR dream last night. i was casually talking to people in the headset, and i noticed someone sitting next to me in the room. i just figured they were another digital avatar in the world and i glanced away. however, something felt different about their avatar and I looked back in their direction and took the headset off; [they were an actual real person in the dream instead of in VR. somehow, i could see their form in the dream and inside of a vr headset in the dream](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/systems.jpg)
 
  the combination of Wellbutrin and virtual reality has really made my dreams quite interesting.
 
 ## november 28th, 2024
 
- this diary began as an earnest (heh) attempt at recording daily events, but has morphed into autofiction. i am actively narrativizing in my life. don’t believe half the things you read in this diary. [i mean obviously, pretty much everyone on social media is spoonfeeding you a narrativized version of their life, but when you have to type it out and read it back in your head, it's a bit more mental, isn't it?](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/dance.jpg) taking pictures of yourself and sharing them is much easier than actively verbalizing what's going on.
+ this diary began as an earnest (heh) attempt at recording daily events, but has morphed into autofiction. i am actively narrativizing in my life. don’t believe half the things you read in this diary. [i mean obviously, pretty much everyone on social media is spoonfeeding you a narrativized version of their life, but when you have to type it out and read it back in your head, it's a bit more mental, isn't it?](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/dance.jpg) taking pictures of yourself and sharing them is much easier than actively verbalizing what's going on.
 
 ## november 29th, 2024
 
- i don't really care about money. chinese people have this thing where they tell you to hold your hand up to the light, and the more light that shines through the cracks between your fingers, the more easily money will fall through your fingers. true . [it feels like every time i breathe, money leaves my bank account.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/head.jpg)
+ i don't really care about money. chinese people have this thing where they tell you to hold your hand up to the light, and the more light that shines through the cracks between your fingers, the more easily money will fall through your fingers. true . [it feels like every time i breathe, money leaves my bank account.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/head.jpg)
 
 ## december 13th, 2024
 
@@ -456,7 +456,7 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## december 14th, 2024
 
- this writing has grown too cyclical, i need to look forward, not back. it feels like a broken record; [i’m either dunking on contemporary artists, moping about my mental health, or fantasizing about vr.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/faces.jpg) i'm spiraling
+ this writing has grown too cyclical, i need to look forward, not back. it feels like a broken record; [i’m either dunking on contemporary artists, moping about my mental health, or fantasizing about vr.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/faces.jpg) i'm spiraling
 
 ## december 16th, 2024
 
@@ -464,11 +464,11 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## december 18th, 2024
 
- as I brush my teeth, I notice the strange flavor of the baking soda flavored toothpaste in my mouth. i also taste the bitter anti nailbiting polish on my fingernails rub against my tongue when i floss my teeth. before I put my retainer in my mouth to stop my teeth from grinding, I wash them in dish soap. [All very strange flavors, I bet no human has ever tasted this specific flavor before.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/violin.jpg)
+ as I brush my teeth, I notice the strange flavor of the baking soda flavored toothpaste in my mouth. i also taste the bitter anti nailbiting polish on my fingernails rub against my tongue when i floss my teeth. before I put my retainer in my mouth to stop my teeth from grinding, I wash them in dish soap. [All very strange flavors, I bet no human has ever tasted this specific flavor before.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/violin.jpg)
 
 ## december 21st, 2024
 
- was up until 2 AM going down a rabbit hole of watching videos on my vr headset about commercial humanoid robots being and brain chip interfacing technology and rocket ships that dock themselves and artificial intelligence and all that. [i take off my vr headset and I see prints of claude monet’s paintings hanging on the walls of the guest room in my aunt and uncle’s basement.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/show.jpg) suddenly everything feels fine
+ was up until 2 AM going down a rabbit hole of watching videos on my vr headset about commercial humanoid robots being and brain chip interfacing technology and rocket ships that dock themselves and artificial intelligence and all that. [i take off my vr headset and I see prints of claude monet’s paintings hanging on the walls of the guest room in my aunt and uncle’s basement.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/show.jpg) suddenly everything feels fine
 
 ## december 22nd, 2024
 
@@ -484,9 +484,9 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 
 ## december 29th, 2024
 
- a few days ago, i was driving my mother somewhere to get groceries. [she was telling me about the last hours of my grandfather’s life in hong kong. apparently, he was still asking about stock prices hours before he died.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/deathbed.jpg) when he was a younger man, he would listen to the radio in the morning and then head to the stock market with an abacus. incredibly locked in behavior. my grandfather didn’t really care for his children’s names or for his grandchildren considering that he had 8 children and those children probably made over 20 or 30 grandchildren and those grandchildren are having grandchildren. makes sense, it’s a lot of things to remember i guess.
+ a few days ago, i was driving my mother somewhere to get groceries. [she was telling me about the last hours of my grandfather’s life in hong kong. apparently, he was still asking about stock prices hours before he died.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/deathbed.jpg) when he was a younger man, he would listen to the radio in the morning and then head to the stock market with an abacus. incredibly locked in behavior. my grandfather didn’t really care for his children’s names or for his grandchildren considering that he had 8 children and those children probably made over 20 or 30 grandchildren and those grandchildren are having grandchildren. makes sense, it’s a lot of things to remember i guess.
 
- anyway, my mom quoted him saying one time how it was more important for him to remember the names of stocks instead of the names for his grandchildren. . i can’t make fun of him though. [i know more about stocks than I’d like to admit. i have a strange compulsive habit where i take out my phone and buy and sell shares when i’m bored. maybe part of my distaste for my grandfather's legacy is driven by a bit of paranoia that i may be closer to him than I think.](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/diary/rei.jpg)
+ anyway, my mom quoted him saying one time how it was more important for him to remember the names of stocks instead of the names for his grandchildren. . i can’t make fun of him though. [i know more about stocks than I’d like to admit. i have a strange compulsive habit where i take out my phone and buy and sell shares when i’m bored. maybe part of my distaste for my grandfather's legacy is driven by a bit of paranoia that i may be closer to him than I think.](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/rei.jpg)
 
  I mean the guys literally my grandfather. there are many underlying traits that I have probably inherited. nothing’s changed. we’re just repeating the same behavior but with faster tools. maybe one day everyone on the planet will have a brain chip interface and we’ll be jacked into the market all the time. everyone is a shareholder . spin the wheels of capitalism so fast that we approach it from behind.
 
@@ -629,6 +629,40 @@ The invention did not catch on immediately. Men found them effeminate; women fou
 a year or two ago, the thought of publishing my writing occurred to me but i dismissed it because i felt that there were so many other talented writers and i didn’t quite feel like my writing was up to their level. self pity aside, regarding the current literary climate which is currently drowning in AI generated sludge and fantasy themed smut, i think there might be some people out there that might benefit from reading my writings which are painfully human and were made during a pivotal time in my life
 
 thank you for reading
+
+## additional photographs
+
+ images from the archive not yet woven into an entry above.
+
+[1fd.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/1fd.png)
+[2ui17a4ychd51.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/2ui17a4ychd51.jpg)
+[6b8ec1cdf337f0ee342e9ed63d3ebffe88d604be.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/6b8ec1cdf337f0ee342e9ed63d3ebffe88d604be.jpg)
+[GXev5N0XkAAlFE-.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/GXev5N0XkAAlFE-.jpeg)
+[Strauhal_Ernest_5.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/Strauhal_Ernest_5.png)
+[alpha.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/alpha.png)
+[boredangel.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/boredangel.jpg)
+[byeshinzo.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/byeshinzo.jpg)
+[ccef35970a1b37ba992357c18a803529b4d97b52c15b1bafc48fe4bb1f78bfc1_1.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/ccef35970a1b37ba992357c18a803529b4d97b52c15b1bafc48fe4bb1f78bfc1_1.jpg)
+[creature.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/creature.png)
+[diary_sofar.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/diary_sofar.png)
+[fallen.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/fallen.jpeg)
+[fltues.JPG](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/fltues.JPG)
+[ghost.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/ghost.jpg)
+[guggenheim.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/guggenheim.jpeg)
+[hippies.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/hippies.jpeg)
+[justhiking.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/justhiking.jpg)
+[maxresdefault.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/maxresdefault.jpg)
+[mmmyummy.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/mmmyummy.jpg)
+[mycanvas.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/mycanvas.png)
+[palak5.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/palak5.png)
+[pp,504x498-pad,600x600,f8f8f8.u1.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/pp%2C504x498-pad%2C600x600%2Cf8f8f8.u1.jpg)
+[pullingship.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/pullingship.jpg)
+[randomstore.JPG](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/randomstore.JPG)
+[ryman.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/ryman.jpeg)
+[skate1.png](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/skate1.png)
+[tomie.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/tomie.jpeg)
+[unrequited.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/unrequited.jpeg)
+[vangoghchair.jpeg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/diary/vangoghchair.jpeg)
 
 ## Related Local Pages
 

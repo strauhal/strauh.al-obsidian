@@ -8,8 +8,8 @@ temporal_context: after marriage and before an ayahuasca ceremony
 motifs: ["Chopin", "piano", "bowling", "YouTube", "anime"]
 tags: [dream, journal, threshold]
 sources: ["[[recent-dreams-before-ayahuasca]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Dream 7 - Chopin Goes Bowling

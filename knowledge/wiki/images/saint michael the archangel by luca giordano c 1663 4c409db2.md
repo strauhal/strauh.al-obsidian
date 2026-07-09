@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/saint_michael_th
 - [[knowledge/wiki/images/the rape of europa by luca giordano c 16751680 4760ab48|the rape of europa by luca giordano c 16751680]] — same artist: luca giordano
 - [[knowledge/wiki/images/the virgin and child with saints sebastian and januarius by luca giordano c 1660 1665 786b3168|the virgin and child with saints sebastian and januarius by luca giordano c 1660 1665]] — same artist: luca giordano
 - [[knowledge/wiki/images/luca giordano the archangel michael c 1680 35423279|luca giordano the archangel michael c 1680]] — shared language: giordano, luca, archangel
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: saint
+- [[knowledge/wiki/images/saint michael the archangel by guido reni c 1635 a6f70e14|saint michael the archangel by guido reni c 1635]] — shared language: archangel, michael, saint
 <!-- vault-crosslinks:end -->

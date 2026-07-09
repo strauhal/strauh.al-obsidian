@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Architectural
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
 - [[knowledge/wiki/images/Photograph Snowy Hillside with Bare Trees, Building, and Black Railing 82d659f3|Photograph Snowy Hillside with Bare Trees, Building, and Black Railing]] — shared language: hillside, building
 - [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: modern, building
 - [[knowledge/wiki/images/Modern White Building with Curved Architecture and Large Windows 90e19def|Modern White Building with Curved Architecture and Large Windows]] — shared language: modern, building
 - [[knowledge/wiki/images/Modern Concrete Building With Angular Design 6ff6e4a2|Modern Concrete Building With Angular Design]] — shared language: modern, building
+- [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: modern
 <!-- vault-crosslinks:end -->

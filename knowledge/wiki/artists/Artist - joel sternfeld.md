@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 - [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: san, francisco
 - [[knowledge/wiki/images/Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums bf14c0b5|Illustration Man Using Phone At Beach Bar Overlooking Ocean And Condominiums]] — shared language: ocean, overlooking
-- [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: san, francisco
+- [[knowledge/wiki/images/Illustration Two Large Trees on Bluff Overlooking Beach and Ocean b69430b2|Illustration Two Large Trees on Bluff Overlooking Beach and Ocean]] — shared language: ocean, overlooking
 <!-- vault-crosslinks:end -->

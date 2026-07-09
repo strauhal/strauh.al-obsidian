@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Kit
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase, modern
 - [[knowledge/wiki/images/Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure e0feefc0|Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure]] — shared language: spiral, staircase, modern
 - [[knowledge/wiki/images/Modern White Curvilinear Building with Balcony and Spiral Staircase 817c8aeb|Modern White Curvilinear Building with Balcony and Spiral Staircase]] — shared language: spiral, staircase, modern
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral, staircase
 - [[knowledge/wiki/images/Modern Kitchen Interior with Panoramic Window View 2b45032c|Modern Kitchen Interior with Panoramic Window View]] — shared language: kitchen, modern, interior
+- [[knowledge/wiki/images/Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight cda45386|Modern Library Interior with Spiral Wooden Ceiling and Circular Skylight]] — shared language: spiral, modern, interior
 <!-- vault-crosslinks:end -->

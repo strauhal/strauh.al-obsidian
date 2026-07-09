@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Aerial View of Large Building Complex Amidst Green Landscape 6ae5aab7|Aerial View of Large Building Complex Amidst Green Landscape]] — shared language: amidst, complex, aerial
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, aerial, complex
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
 - [[knowledge/wiki/images/Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape da05ca20|Photograph Modern Concrete Building Resembling Open Book Amidst Green Landscape]] — shared language: amidst, building, green
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
 <!-- vault-crosslinks:end -->

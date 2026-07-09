@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[_archive/auto-generated/images-stale/black and white photograph of a large classical revival building with a central dome and bridge over a canal 95e6e90b|black and white photograph of a large classical revival building with a central dome and bridge over a canal]] — shared language: dome, central, building
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: exhibition, building
 - [[knowledge/wiki/artists/Artist - neoclassical exhibition halls|Artist - neoclassical exhibition halls]] — shared language: exhibition, central, building
 - [[knowledge/archive/auto-generated/artists-stale/Artist - neoclassical exhibition halls 1893|Artist - neoclassical exhibition halls 1893]] — shared language: exhibition, central, building
+- [[_archive/auto-generated/images-stale/photograph of a large neo gothic building with a central dome and spires along a blue river under a pale blue sky ff0976f9|photograph of a large neo gothic building with a central dome and spires along a blue river under a pale blue sky]] — shared language: dome, central, building
 <!-- vault-crosslinks:end -->

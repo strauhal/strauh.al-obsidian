@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet.html"
 source_relpath: "nyce/banquet.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet
@@ -37,5 +37,5 @@ strauh.al/nyce/banquet
 - [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, compiled
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: new
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: related, compiled, concepts
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: related, compiled, concepts
+- [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: click, related, compiled
 <!-- vault-crosslinks:end -->

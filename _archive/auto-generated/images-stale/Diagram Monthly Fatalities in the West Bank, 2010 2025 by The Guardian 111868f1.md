@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Mon
 - [[knowledge/wiki/images/Monthly Fatalities in the West Bank, 2010 2025 by The Guardian 099e53c1|Monthly Fatalities in the West Bank, 2010 2025 by The Guardian]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1768|Artist - benjamin west 1768]] — shared language: west
 - [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1802|Artist - benjamin west 1802]] — shared language: west
-- [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1770|Artist - benjamin west 1770]] — shared language: west
-- [[knowledge/archive/auto-generated/artists-stale/Artist - benjamin west 1770 2|Artist - benjamin west 1770 2]] — shared language: west
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kanye west|Artist - kanye west]] — shared language: west
+- [[knowledge/archive/auto-generated/artists-stale/Artist - kanye west 2013|Artist - kanye west 2013]] — shared language: west
 <!-- vault-crosslinks:end -->

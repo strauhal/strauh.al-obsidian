@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Liv
 ## Discovered Connections
 
 - [[knowledge/wiki/images/the living room by Paul Heaston (2009) 06093bca|the living room by Paul Heaston (2009)]] — shared language: living, room
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, view
 - [[knowledge/wiki/images/Dimly Lit Modern Living Room with TV and Speakers a06a8fad|Dimly Lit Modern Living Room with TV and Speakers]] — shared language: living, modern, room
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: living
 - [[knowledge/wiki/images/Mid Century Modern Living Room with Wood Paneling and Red Carpet ffdcfe7f|Mid Century Modern Living Room with Wood Paneling and Red Carpet]] — shared language: living, modern, room
+- [[knowledge/wiki/images/Illustration Line Drawing of a Living Room with Sunlight and Shadows e1a682d5|Illustration Line Drawing of a Living Room with Sunlight and Shadows]] — shared language: living, room
 <!-- vault-crosslinks:end -->

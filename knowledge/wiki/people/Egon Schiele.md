@@ -35,5 +35,5 @@ recipe for a personal figurative style, prized for the nervous immediacy of his 
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: schiele, egon
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: influences, ideas-sketchbook, ernest's
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: influences, listed, ernest's
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: influences, schiele, egon
+- [[knowledge/wiki/books/egon-schiele-schiele-drawings-dover-publications|Schiele Drawings-Dover Publications]] — shared language: schiele, egon
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Classical Building Reflected In Water 8da6b944|Photograph Black And White Photograph Of Classical Building Reflected In Water]] — shared language: classical, building
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: classical, building
 - [[knowledge/wiki/images/Photograph Large Classical Revival Building with Dome and Bridge Over Canal 2aeff0fc|Photograph Large Classical Revival Building with Dome and Bridge Over Canal]] — shared language: classical, building
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: classical, building
+- [[knowledge/wiki/books/the-use-of-folk-instruments-alongside-classical-instruments|The Use of Folk Instruments Alongside Classical Instruments]] — shared language: classical
 <!-- vault-crosslinks:end -->

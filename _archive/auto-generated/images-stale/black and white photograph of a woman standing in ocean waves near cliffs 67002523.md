@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs 02def084|Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs]] — shared language: cliffs, waves, ocean
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs 02def084|Photograph Black And White Photograph Of Woman In Ocean Waves Near Cliffs]] — shared language: waves, cliffs, ocean
 - [[knowledge/archive/auto-generated/artists-stale/Artist - blue waves|Artist - blue waves]] — shared language: waves
 - [[knowledge/archive/auto-generated/artists-stale/Artist - blue waves and a star|Artist - blue waves and a star]] — shared language: waves
 - [[_archive/auto-generated/images-stale/painting of cypress trees on cliffs above water 75aa5267|painting of cypress trees on cliffs above water]] — shared language: cliffs

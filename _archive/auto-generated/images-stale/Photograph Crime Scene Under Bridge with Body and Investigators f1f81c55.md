@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Crime Scene Under Bridge with Body and Investigators 1af52ccf|Crime Scene Under Bridge with Body and Investigators]] — named in this note
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: body
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: body
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: body
+- [[_archive/auto-generated/images-stale/framed city river scene with bridge and smoky sky b0eb6ac7|framed city river scene with bridge and smoky sky]] — shared language: bridge, scene
 <!-- vault-crosslinks:end -->

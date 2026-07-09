@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[_archive/auto-generated/images-stale/digital painting of a cyberpunk cityscape viewed from below 7eb7e70a|digital painting of a cyberpunk cityscape viewed from below]] — shared language: viewed, below, below.jpeg
 - [[knowledge/wiki/images/Illustration Retro futuristic Cityscape Viewed From Below With Glowing Windows 06a147de|Illustration Retro futuristic Cityscape Viewed From Below With Glowing Windows]] — shared language: viewed, below
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: below
 - [[_archive/auto-generated/images-stale/gkqrxepxoaaecm jpg large jpeg 40e48b35|gkqrxepxoaaecm jpg large jpeg]] — shared language: large
 - [[_archive/auto-generated/images-stale/black and white photograph of a large fairground complex with classical architecture and a central lagoon viewed from a high angle 94fcb597|black and white photograph of a large fairground complex with classical architecture and a central lagoon viewed from a high angle]] — shared language: viewed, large
+- [[_archive/auto-generated/images-stale/engraving of a large complex of exhibition buildings surrounding a body of water viewed from above c7b50997|engraving of a large complex of exhibition buildings surrounding a body of water viewed from above]] — shared language: viewed, large
 <!-- vault-crosslinks:end -->

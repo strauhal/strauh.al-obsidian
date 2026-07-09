@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_rope_dancer_
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: ray
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
 - [[knowledge/wiki/images/Illustration Red Rope Like Figure Merging With Textured Painting 864c9fbc|Illustration Red Rope Like Figure Merging With Textured Painting]] — shared language: rope
-- [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — shared language: ray
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: ray
 <!-- vault-crosslinks:end -->

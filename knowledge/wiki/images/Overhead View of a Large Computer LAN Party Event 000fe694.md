@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Overhead V
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view, large
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: overhead, view
 - [[knowledge/wiki/images/Overhead View of Modern Interior with High Windows, Staircase, Bookshelf 66d33ff5|Overhead View of Modern Interior with High Windows, Staircase, Bookshelf]] — shared language: overhead, view
 - [[knowledge/wiki/images/kanye party cd913a48|kanye party]] — shared language: party
+- [[knowledge/wiki/images/Photograph Artist in Studio with Large Abstract Painting and Forest View 10548d8c|Photograph Artist in Studio with Large Abstract Painting and Forest View]] — shared language: large, view
 <!-- vault-crosslinks:end -->

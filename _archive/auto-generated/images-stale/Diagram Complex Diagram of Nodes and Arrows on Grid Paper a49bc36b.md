@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Com
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Complex Diagram of Nodes and Arrows on Grid Paper 5e521ede|Complex Diagram of Nodes and Arrows on Grid Paper]] — named in this note
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram, nodes, complex
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: nodes, diagram, complex
 - [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper bdcc2559|Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: nodes, complex, diagram
-- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: complex, diagram, grid
 - [[knowledge/wiki/images/Complex Network Diagram with Nodes and Directed Edges on Graph Paper aee24062|Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: nodes, complex, paper
+- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram on Grid 0bf522f7|Diagram Complex Network Diagram on Grid]] — shared language: complex, diagram, grid
 <!-- vault-crosslinks:end -->

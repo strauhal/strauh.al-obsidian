@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/artists/hieronymous_cock.html"
 source_relpath: "artists/hieronymous_cock.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # artists hieronymous cock
@@ -19,13 +19,13 @@ strauh.al/artists/hieronymous_cock
 
 # [strauh.al](https://strauh.al)/[artists](https://strauh.al/artists.html)/hieronymous_cock
 
-[54036.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/54036.jpg)
-[Barrett5.2-FI.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/Barrett5.2-FI.jpg)
-[Cock_Mercury&Argus_sheet_small.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/Cock_Mercury&Argus_sheet_small.jpg)
-[DP823111.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/DP823111.jpg)
-[DP825988.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/DP825988.jpg)
-[DP828807.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/DP828807.jpg)
-[Hieronymus_Cock.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/artists/hieronymous_cock/Hieronymus_Cock.jpg)
+[54036.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/54036.jpg)
+[Barrett5.2-FI.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/Barrett5.2-FI.jpg)
+[Cock_Mercury&Argus_sheet_small.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/Cock_Mercury%26Argus_sheet_small.jpg)
+[DP823111.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/DP823111.jpg)
+[DP825988.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/DP825988.jpg)
+[DP828807.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/DP828807.jpg)
+[Hieronymus_Cock.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/artists/hieronymous_cock/Hieronymus_Cock.jpg)
 
 ## Related Local Pages
 

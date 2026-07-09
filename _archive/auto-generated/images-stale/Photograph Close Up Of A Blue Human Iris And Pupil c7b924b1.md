@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Close Up Of A Blue Human Iris And Pupil 29c72aa9|Close Up Of A Blue Human Iris And Pupil]] — named in this note
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: human
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/images/Extreme Close Up Of A Blue Green Human Eye a61a73b7|Extreme Close Up Of A Blue Green Human Eye]] — shared language: human, close, close-up
+- [[_archive/auto-generated/images-stale/Photograph Extreme Close Up Of A Blue Green Human Eye b96ffe0a|Photograph Extreme Close Up Of A Blue Green Human Eye]] — shared language: human, close, close-up
 <!-- vault-crosslinks:end -->

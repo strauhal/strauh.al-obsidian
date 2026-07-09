@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Art Spirit -- Henri, Robert -- 2007 -- Basic Books -- e2635c44235209cff7c8667ee825e274 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # The Art Spirit

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 - [[knowledge/wiki/artists/Artist - fan ho|Artist - fan ho]] — shared language: fan
 - [[knowledge/wiki/anchors/fan-ho|fan ho]] — shared language: fan
 - [[knowledge/wiki/images/the walker by fan ho 1956 c15cdc1b|the walker by fan ho 1956]] — shared language: fan
+- [[knowledge/wiki/pages/photography fan ho|photography fan ho]] — shared language: fan
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: river, landscape
-- [[knowledge/wiki/artists/Artist - Winding River in Purple Twilight Landscape|Artist - Winding River in Purple Twilight Landscape]] — shared language: river, landscape
 <!-- vault-crosslinks:end -->

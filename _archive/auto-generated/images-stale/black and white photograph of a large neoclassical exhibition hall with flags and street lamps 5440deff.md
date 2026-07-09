@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Grand Neoclassical Building with Flags and Street Lamps eaf406d2|Photograph Grand Neoclassical Building with Flags and Street Lamps]] — shared language: lamps, flags, street
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: exhibition, hall, large
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: street, large
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street
 - [[_archive/auto-generated/images-stale/black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models be747d3a|black and white photograph of a large exhibition hall interior with paintings sculptures and architectural models]] — shared language: exhibition, hall, large
+- [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Twelve Pencil Sketches of a Young Girl's Head f335092b|Illustration Twelve Pencil Sketches of a Young Girl's Head]] — shared language: twelve, sketches, pencil
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: sketches
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: sketches
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 <!-- vault-crosslinks:end -->

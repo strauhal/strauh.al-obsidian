@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/franklin_boot
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/franklin booth master study pen and ink a253b2bd|franklin booth master study pen and ink]] — shared language: franklin, master, booth
+- [[_archive/auto-generated/images-stale/franklin booth master study pen and ink a253b2bd|franklin booth master study pen and ink]] — shared language: master, franklin, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1918|Artist - franklin booth 1918]] — shared language: franklin, booth
 - [[knowledge/archive/auto-generated/artists-stale/Artist - franklin booth 1914|Artist - franklin booth 1914]] — shared language: franklin, booth
 - [[knowledge/wiki/artists/Artist - franklin booth|Artist - franklin booth]] — shared language: franklin, booth

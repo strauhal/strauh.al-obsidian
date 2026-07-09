@@ -20,5 +20,6 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/AI Slop|AI Slop]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/Memory and Preservation|Memory and Preservation]] — shared language: canonical, alias, richer
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: voice
+- [[_archive/auto-generated/concept-stubs/The Internet
+as Confidant|The Internet]] — shared language: canonical, alias, richer
 <!-- vault-crosslinks:end -->

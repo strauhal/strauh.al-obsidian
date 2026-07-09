@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains 1569f555|Illustration Multi Armed Goddess in Red Sari Standing with Tiger in Mountains]] — shared language: sari, goddess, tiger
 - [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: hindu, multi, armed
 - [[_archive/auto-generated/images-stale/digital collage of a multi armed hindu goddess wearing a gas mask framed by repeating rifle and om symbol motifs 159cbca2|digital collage of a multi armed hindu goddess wearing a gas mask framed by repeating rifle and om symbol motifs]] — shared language: hindu, goddess, armed
-- [[_archive/auto-generated/images-stale/devotional print of a multi headed multi armed hindu deity ad618387|devotional print of a multi headed multi armed hindu deity]] — shared language: hindu, armed, multi
+- [[_archive/auto-generated/images-stale/devotional print of a multi headed multi armed hindu deity ad618387|devotional print of a multi headed multi armed hindu deity]] — shared language: hindu, multi, armed
 - [[knowledge/wiki/images/Illustration Mountainous Landscape with Figures and Oxen at Sunset 9133d817|Illustration Mountainous Landscape with Figures and Oxen at Sunset]] — shared language: mountainous, landscape
 <!-- vault-crosslinks:end -->

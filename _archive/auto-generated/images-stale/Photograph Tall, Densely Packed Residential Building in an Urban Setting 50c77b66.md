@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Tall, Densely Packed Residential Building in an Urban Setting 7269ae48|Tall, Densely Packed Residential Building in an Urban Setting]] — shared language: packed, residential, densely
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, tall
 - [[knowledge/wiki/images/Tall Pinkish Building with Signs and Bus in Urban Setting 06413287|Tall Pinkish Building with Signs and Bus in Urban Setting]] — shared language: urban, tall, setting
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, tall
 - [[_archive/auto-generated/images-stale/aerial photograph of a densely packed cityscape 55f1d533|aerial photograph of a densely packed cityscape]] — shared language: packed, densely
+- [[knowledge/wiki/images/Photograph Aerial View of Densely Packed Cairo Cityscape d55e687b|Photograph Aerial View of Densely Packed Cairo Cityscape]] — shared language: packed, densely
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, large
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: sepia
 - [[knowledge/wiki/images/Illustration Painting of a Large Red Rock Cliff with a Small Building 400c246c|Illustration Painting of a Large Red Rock Cliff with a Small Building]] — shared language: cliff, building, large
 - [[_archive/auto-generated/images-stale/framed landscape painting of a beach path and green cliff f60c7a28|framed landscape painting of a beach path and green cliff]] — shared language: cliff, beach
 - [[knowledge/wiki/images/Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground db4489b0|Photograph Sepia Photograph of Neoclassical Buildings Along Waterway with Rocky Foreground]] — shared language: rocky, sepia
+- [[_archive/auto-generated/images-stale/sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground 4ec9d879|sepia photograph of neoclassical exposition buildings along a waterway with a rocky foreground]] — shared language: rocky, sepia
 <!-- vault-crosslinks:end -->

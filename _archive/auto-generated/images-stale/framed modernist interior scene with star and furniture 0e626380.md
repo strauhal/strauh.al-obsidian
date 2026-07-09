@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/framed interior scene with a woman and a mirror f67ee31d|framed interior scene with a woman and a mirror]] — shared language: scene, framed, interior
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: furniture
 - [[_archive/auto-generated/images-stale/framed colorful abstract interior scene with red table 69530f2e|framed colorful abstract interior scene with red table]] — shared language: scene, framed, interior
 - [[_archive/auto-generated/images-stale/framed interior scene with a bending figure c9b92e96|framed interior scene with a bending figure]] — shared language: scene, framed, interior
 - [[_archive/auto-generated/images-stale/framed painting of a modernist staircase and city buildings da63bc24|framed painting of a modernist staircase and city buildings]] — shared language: modernist, framed
+- [[_archive/auto-generated/images-stale/framed modernist harbor painting with boats and figures e23af236|framed modernist harbor painting with boats and figures]] — shared language: modernist, framed
 <!-- vault-crosslinks:end -->

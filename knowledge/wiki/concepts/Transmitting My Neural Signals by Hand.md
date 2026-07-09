@@ -46,6 +46,18 @@ on this seam — a human hand re-transmitting a captured face, frame by frame �
 **Books (5).** [[joseph-beuys-beuys-on-drawing|Beuys on Drawing]] · [[engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] · [[engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] · [[andrew-loomis-figure-drawing-for-all-it-s-worth|Figure Drawing for All It's Worth]] · [[basic-notation|basic-notation]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
+- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -94,16 +106,3 @@ on this seam — a human hand re-transmitting a captured face, frame by frame �
 >
 > Michael Bay has perfect penmanship but is illiterate. He writes beautiful calligraphy that spells out gibberish.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/images/three friends of winter by zhao mengjian c 1250 9e59e391|three friends of winter by zhao mengjian c 1250]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/books/handwriting|handwriting]] — named in this note
-- [[knowledge/wiki/books/g-w-f-hegel-phenomenology-of-spirit|Phenomenology of Spirit]] — named in this note
-- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
-<!-- vault-crosslinks:end -->

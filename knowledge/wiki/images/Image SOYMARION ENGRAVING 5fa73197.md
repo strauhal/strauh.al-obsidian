@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Image - SOYMA
 - [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: engraving
 - [[knowledge/wiki/images/the flammarion engraving 1888 4dfca67f|the flammarion engraving 1888]] — shared language: engraving
 - [[knowledge/wiki/images/the flammarion engraving 1888 74a013de|the flammarion engraving 1888]] — shared language: engraving
-- [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: engraving
+- [[knowledge/wiki/images/Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach 8b72e48e|Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach]] — shared language: engraving
 <!-- vault-crosslinks:end -->

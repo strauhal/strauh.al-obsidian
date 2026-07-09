@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Red Digital Display With Motion Blur And Keypad 70244867|Photograph Red Digital Display With Motion Blur And Keypad]] — shared language: keypad, keypad.jpeg
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset
 - [[_archive/auto-generated/images-stale/Photograph Man Wearing VR Headset Playing Video Game 0eed6dae|Photograph Man Wearing VR Headset Playing Video Game]] — shared language: headset
-- [[_archive/auto-generated/images-stale/Photograph Side Profile of Person Wearing a Modern VR Headset 46d4e0e6|Photograph Side Profile of Person Wearing a Modern VR Headset]] — shared language: headset
+- [[_archive/auto-generated/images-stale/red orange kaleidoscopic pattern 69c4dd8c|red orange kaleidoscopic pattern]] — shared language: orange
 <!-- vault-crosslinks:end -->

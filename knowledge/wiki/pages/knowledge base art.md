@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/art.html"
 source_relpath: "knowledge_base/art.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base art
@@ -618,12 +618,12 @@ strauh.al/knowledge_base/art
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/hideaki-anno|Hideaki Anno]] — named in this note
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
 - [[knowledge/wiki/images/The End of Evangelion (1997) 97513b0f|The End of Evangelion (1997)]] — named in this note
 - [[knowledge/wiki/images/virgil abloh 0a467cdb|virgil abloh]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
 - [[knowledge/wiki/anchors/vincent-van-gogh|Vincent van Gogh]] — named in this note
+- [[knowledge/wiki/anchors/hideaki-anno|Hideaki Anno]] — named in this note
+- [[knowledge/wiki/artists/Artist - joseph beuys|Artist - joseph beuys]] — named in this note
 - [[knowledge/wiki/images/Coyote by Joseph Beuys (1974) 6ca766fe|Coyote by Joseph Beuys (1974)]] — named in this note
-- [[knowledge/wiki/images/Illustration Untitled by Zdzis aw Beksi ski 726ae928|Illustration Untitled by Zdzis aw Beksi ski]] — named in this note
-- [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
 <!-- vault-crosslinks:end -->

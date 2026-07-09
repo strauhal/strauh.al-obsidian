@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds da981ed0|Illustration Line Drawing of Hanging Potted Plant in Room Corner with Blinds]] — shared language: corner, room
 - [[_archive/auto-generated/images-stale/line drawing of a hanging potted plant in a room corner with blinds b5164567|line drawing of a hanging potted plant in a room corner with blinds]] — shared language: corner, room
 - [[knowledge/wiki/images/Photograph Street Scene With AI Ad And Person Sitting On Sidewalk dc50791b|Photograph Street Scene With AI Ad And Person Sitting On Sidewalk]] — shared language: sitting, person
-- [[_archive/auto-generated/images-stale/Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley 52a5617c|Photograph Young Woman In Dark Suit Holding Cigarette In Dim Alley]] — shared language: dim
+- [[_archive/auto-generated/images-stale/red room 676d93b8|red room]] — shared language: room
 <!-- vault-crosslinks:end -->

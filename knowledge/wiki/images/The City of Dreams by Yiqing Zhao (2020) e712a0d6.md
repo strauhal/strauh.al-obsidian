@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The City of Drea
 - [[knowledge/wiki/artists/Artist - zhao mengjian|Artist - zhao mengjian]] — shared language: zhao
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — shared language: zhao
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: dreams
 <!-- vault-crosslinks:end -->

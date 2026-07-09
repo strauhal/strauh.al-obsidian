@@ -20,5 +20,5 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: mcgee, barry
+- [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
 <!-- vault-crosslinks:end -->

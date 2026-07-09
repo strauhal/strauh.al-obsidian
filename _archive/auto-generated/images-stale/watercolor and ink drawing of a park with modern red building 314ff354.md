@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings 2605579c|Illustration Watercolor and Ink Drawing of a Park with Modern Red Buildings]] — shared language: park, watercolor, modern
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, modern
 - [[knowledge/wiki/images/Illustration Abstract Watercolor and Ink Sketch of a Woman dca3f6d7|Illustration Abstract Watercolor and Ink Sketch of a Woman]] — shared language: watercolor, ink
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: ink
+- [[knowledge/wiki/images/watercolor rendering of the arcadia public library building 1997 c73d68ca|watercolor rendering of the arcadia public library building 1997]] — shared language: watercolor, building
 <!-- vault-crosslinks:end -->

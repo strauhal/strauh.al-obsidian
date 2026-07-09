@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Charcoal Portraits of an Elderly Man and Woman e814e9e5|Illustration Charcoal Portraits of an Elderly Man and Woman]] — shared language: elderly, charcoal, portraits
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[_archive/auto-generated/images-stale/digital illustration of an elderly man drawing an anime girl 2020 239ef40c|digital illustration of an elderly man drawing an anime girl 2020]] — shared language: elderly
 <!-- vault-crosslinks:end -->

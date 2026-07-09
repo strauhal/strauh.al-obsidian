@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
 - [[knowledge/wiki/images/Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas 0932adc5|Illustration Painting of a Chevron Sign with an Airplane and Classic Cars by Robert Vancas]] — shared language: airplane, cars
 - [[knowledge/wiki/images/Black And White Photograph Of Person Falling From Airplane bead4a67|Black And White Photograph Of Person Falling From Airplane]] — shared language: airplane
+- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 - [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
-- [[knowledge/wiki/images/Warship on Fire During Battle of Okinawa, Sailors on Deck e207a424|Warship on Fire During Battle of Okinawa, Sailors on Deck]] — shared language: fire
 <!-- vault-crosslinks:end -->

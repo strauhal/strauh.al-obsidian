@@ -26,7 +26,7 @@ Images attributed by filename: 2
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
 - [[knowledge/wiki/images/Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi 8c1270cd|Keith Haring Painting Bill T. Jones' Body by Tseng Kwong Chi]] — shared language: haring, keith
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 - [[knowledge/wiki/artists/Artist - Tseng Kwong Chi|Artist - Tseng Kwong Chi]] — shared language: haring, keith
 - [[knowledge/wiki/books/mckenzie-wark-capital-is-dead-is-this-something-worse|Capital Is Dead: Is This Something Worse?]] — shared language: dead
-- [[knowledge/wiki/images/Illustration Soundwave, Birds, and Constellations Against Dark Background with Text b6951907|Illustration Soundwave, Birds, and Constellations Against Dark Background with Text]] — shared language: birds
 <!-- vault-crosslinks:end -->

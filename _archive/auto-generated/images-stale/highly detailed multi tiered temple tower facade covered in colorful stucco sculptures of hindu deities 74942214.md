@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities c70f3184|Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities]] — shared language: tiered, deities, temple
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, facade
 - [[_archive/auto-generated/images-stale/indian miniature painting of a multi tiered palace and garden complex with cityscape fa138d8e|indian miniature painting of a multi tiered palace and garden complex with cityscape]] — shared language: tiered, multi
 - [[knowledge/wiki/images/Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods 3faf254d|Illustration Multi Headed, Multi Armed Hindu Deity with Many Faces and Cobra Hoods]] — shared language: hindu, multi
 - [[_archive/auto-generated/images-stale/devotional print of a multi headed multi armed hindu deity ad618387|devotional print of a multi headed multi armed hindu deity]] — shared language: hindu, multi
+- [[_archive/auto-generated/images-stale/screenshot of a highly detailed abstract monochromatic digital drawing in microsoft paint 72093172|screenshot of a highly detailed abstract monochromatic digital drawing in microsoft paint]] — shared language: highly, detailed
 <!-- vault-crosslinks:end -->

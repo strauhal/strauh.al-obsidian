@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Mus
 - [[knowledge/wiki/images/Photograph Museum Gallery Corner with Three Framed Landscape Paintings aad9e365|Photograph Museum Gallery Corner with Three Framed Landscape Paintings]] — shared language: museum, gallery, paintings
 - [[knowledge/wiki/images/Photograph Four Framed Paintings Displayed In A Museum Gallery 858ac780|Photograph Four Framed Paintings Displayed In A Museum Gallery]] — shared language: museum, paintings, gallery
 - [[knowledge/wiki/images/Photograph Installation View of a Long White Gallery Space with Abstract Paintings 7c95dda0|Photograph Installation View of a Long White Gallery Space with Abstract Paintings]] — shared language: gallery, paintings, paintings.jpeg
-- [[knowledge/wiki/people/Rembrandt|Rembrandt]] — shared language: paintings
+- [[knowledge/wiki/images/Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture 9c824eed|Photograph Minimalist Art Gallery With Abstract Paintings And Black Sculpture]] — shared language: paintings, gallery
 <!-- vault-crosslinks:end -->

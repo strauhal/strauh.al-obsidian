@@ -28,8 +28,8 @@ Images attributed by filename: 3
 
 - [[knowledge/wiki/artists/Artist - nicolas de launay|Artist - nicolas de launay]] — shared language: nicolas
 - [[knowledge/wiki/images/le serment by nicolas de launay 1780 6e5ef2b5|le serment by nicolas de launay 1780]] — shared language: nicolas
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: nicolas
 - [[knowledge/wiki/images/le serment d amour by nicolas de launay c 1775 89a8a26c|le serment d amour by nicolas de launay c 1775]] — shared language: nicolas
 - [[knowledge/wiki/artists/Artist - Nicolas Winding Refn|Artist - Nicolas Winding Refn]] — shared language: nicolas
 - [[knowledge/wiki/books/nicolas-slonimsky-thesaurus-of-scales-and-melodic-patterns-text-schirmer-trade-books|Thesaurus of Scales and Melodic Patterns (Text)-Schirmer Trade Books]] — shared language: nicolas
+- [[knowledge/wiki/images/portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700 23b1c90b|portrait of nicolas boileau despreaux by hyacinthe rigaud c 1700]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

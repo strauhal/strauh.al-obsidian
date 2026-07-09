@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Interior with Curved Brown Sofa, Green Floor, and Concrete Walls 7f13b3c0|Interior with Curved Brown Sofa, Green Floor, and Concrete Walls]] — shared language: sofa, walls, curved
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete, curved
 - [[knowledge/wiki/images/Woman on a Sofa by Hirokin (1970) 0e12e7ea|Woman on a Sofa by Hirokin (1970)]] — shared language: sofa
 - [[knowledge/wiki/images/Interior of a Modernist Building with Curved Walls and Conference Room dc58e14c|Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: walls, curved, interior
 - [[_archive/auto-generated/images-stale/Photograph Interior of a Modernist Building with Curved Walls and Conference Room 58f52562|Photograph Interior of a Modernist Building with Curved Walls and Conference Room]] — shared language: walls, curved, interior
+- [[_archive/auto-generated/images-stale/black and white photograph of a curved gridded concrete wall 52969885|black and white photograph of a curved gridded concrete wall]] — shared language: curved, concrete
 <!-- vault-crosslinks:end -->

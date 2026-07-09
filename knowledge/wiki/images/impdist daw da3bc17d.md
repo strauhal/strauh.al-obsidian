@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/implicitdistance/impdi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: impdist, daw.png
 - [[knowledge/wiki/images/immanuel kant by johann friedrich bause 1791 b3dcf921|immanuel kant by johann friedrich bause 1791]] — nearby note in the same source series
 - [[knowledge/wiki/images/in the corner by abram arkhipov 1891 7559310e|in the corner by abram arkhipov 1891]] — nearby note in the same source series
-- [[knowledge/wiki/images/image0 551ce0a3|image0]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

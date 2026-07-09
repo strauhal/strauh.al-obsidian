@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Blurry POV
 
 - [[knowledge/wiki/books/lit-wiki|lit wiki]] — shared language: lit
 - [[knowledge/wiki/images/Grainy, Blurry View of Light Through a Dark Opening eac43c5a|Grainy, Blurry View of Light Through a Dark Opening]] — shared language: blurry, dark
-- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Illustration Fragmented Portrait of a Person's Face c30cf128|Illustration Fragmented Portrait of a Person's Face]] — shared language: person's
+- [[knowledge/wiki/images/Blurry Monochrome Portrait Of A Person 73b597eb|Blurry Monochrome Portrait Of A Person]] — shared language: blurry
 - [[knowledge/wiki/images/Photograph Blurry Night Photograph of Buildings with Red and Blue Lights 4dc72be0|Photograph Blurry Night Photograph of Buildings with Red and Blue Lights]] — shared language: blurry
 <!-- vault-crosslinks:end -->

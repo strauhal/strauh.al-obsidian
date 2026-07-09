@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Interior o
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist, building
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
 - [[knowledge/wiki/images/Modern Brutalist Building on a City Street ec1167f3|Modern Brutalist Building on a City Street]] — shared language: brutalist, building
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: brutalist, building
 - [[knowledge/wiki/books/engraving-style-drawing-vol-1|Engraving Style Drawing Vol. 1]] — shared language: style
+- [[knowledge/wiki/books/engraving-style-drawing-vol-2|Engraving Style Drawing Vol. 2]] — shared language: style
 <!-- vault-crosslinks:end -->

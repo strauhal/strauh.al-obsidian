@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Chris Carter, Rupert Sheldrake - Science and Psychic Phenomena_ The Fall of the House of Skeptics-Inner Traditions (2012).epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Science and Psychic Phenomena The Fall of the House of Skeptics-Inner Traditions

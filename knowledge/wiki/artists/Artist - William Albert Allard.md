@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: albert
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: albert
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: albert
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: albert
 - [[knowledge/wiki/books/albert-camus-the-stranger|The Stranger]] — shared language: albert
 - [[knowledge/wiki/books/albert-camus-the-plague|The Plague]] — shared language: albert
 - [[knowledge/wiki/books/albert-camus-the-stranger-vintage|The Stranger-Vintage]] — shared language: albert

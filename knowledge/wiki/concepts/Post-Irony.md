@@ -37,15 +37,6 @@ and the thing he keeps trying to write his way out of.
 **Books (1).** [[stoic-4chan|stoic 4chan]]
 
 <!-- archive-links:end -->
-
-<!-- quotes:start -->
-## Quotes
-
-*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
-
-> I'm just going to warn zoomers, all your slang and memes seem like semi-ironic fun, but one of these days McDonald's is going to call their McRib Based and H&R Block is going to say their competitor's transactions fees are cringe. You'll live to see it commodified and seeing a 64 year old oil executive in a tailored suit talking about their favorite vtubers and say only simps support green energy will make you realize nothing can escape the decrepit reach of capital.
-<!-- quotes:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -55,6 +46,14 @@ and the thing he keeps trying to write his way out of.
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: quotes, you're, see
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: quotes, going, say
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, can't, you're
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: quotes, archive-links
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: quotes, can't
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: quotes, can't
 <!-- vault-crosslinks:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> I'm just going to warn zoomers, all your slang and memes seem like semi-ironic fun, but one of these days McDonald's is going to call their McRib Based and H&R Block is going to say their competitor's transactions fees are cringe. You'll live to see it commodified and seeing a 64 year old oil executive in a tailored suit talking about their favorite vtubers and say only simps support green energy will make you realize nothing can escape the decrepit reach of capital.
+<!-- quotes:end -->

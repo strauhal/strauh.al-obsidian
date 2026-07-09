@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
 - [[knowledge/wiki/images/Illustration Abstract Mountains Reflected in Water Under a Gradient Sky e6b3366e|Illustration Abstract Mountains Reflected in Water Under a Gradient Sky]] — shared language: reflected, water
 - [[knowledge/wiki/images/Illustration Green Willow Branches Reflected in Water 1865aaeb|Illustration Green Willow Branches Reflected in Water]] — shared language: reflected, water, water.jpg
 - [[knowledge/wiki/images/Photograph Classical Exposition Building Across Water, Framed by Tree Foliage 77e5f3d3|Photograph Classical Exposition Building Across Water, Framed by Tree Foliage]] — shared language: classical, building, water
+- [[knowledge/wiki/images/Photograph Ornate Exhibition Buildings Reflected in Water with Arched Bridge 377e5d1b|Photograph Ornate Exhibition Buildings Reflected in Water with Arched Bridge]] — shared language: reflected, water
 <!-- vault-crosslinks:end -->

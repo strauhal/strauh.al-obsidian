@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_a_ma
 - [[knowledge/wiki/images/portrait of the family of the artist by nicolas de largilliere c 1715 76794547|portrait of the family of the artist by nicolas de largilliere c 1715]] — same artist: nicolas largilliere
 - [[knowledge/wiki/artists/Artist - nicolas de launay|Artist - nicolas de launay]] — shared language: nicolas
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: nicolas
+- [[knowledge/wiki/images/le serment by nicolas de launay 1780 6e5ef2b5|le serment by nicolas de launay 1780]] — shared language: nicolas
 <!-- vault-crosslinks:end -->

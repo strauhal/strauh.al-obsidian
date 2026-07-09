@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
-- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical
 <!-- vault-crosslinks:end -->

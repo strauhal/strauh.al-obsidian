@@ -4,8 +4,8 @@ type: concept
 aliases: [tug of war, machine collaboration, negotiated authorship]
 tags: [concept, ai-art, authorship, control]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Human-Machine Tug of War
@@ -31,6 +31,19 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 **Images (10).** [[Diagram of a Generative Adversarial Network (GAN) with Hello Kitty be131da7|Diagram of a Generative Adversarial Network (GAN) with Hello Kitty]] · [[Diagram Showing Pix2pix Converting Cat Sketch To Realistic Image 7746c7b2|Diagram Showing Pix2pix Converting Cat Sketch To Realistic Image]] · [[Diagrams Illustrating Complexity, Order, Disorder, and Generative Art Systems by Philip Galanter 58d325b0|Diagrams Illustrating Complexity, Order, Disorder, and Generative Art Systems by Philip Galanter]] · [[Illustration Abstract Generative Art With Colorful Pixels And Geometric Patterns 31deacd9|Illustration Abstract Generative Art With Colorful Pixels And Geometric Patterns]] · [[Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines bc3e2f33|Illustration Abstract Generative Drawing Of Concentric Hexagonal Lines]] · [[Illustration Abstract Generative Line Art of Layered Arches and Columns 8d929ca5|Illustration Abstract Generative Line Art of Layered Arches and Columns]] · [[Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight 802c47b1|Illustration Abstract Generative Lines with Yellow Green Gradient and Orange Highlight]] · [[Illustration Surreal DeepDream Image of Dog like Creatures and Fish Patterns by Google DeepDream 92aa0708|Illustration Surreal DeepDream Image of Dog like Creatures and Fish Patterns by Google DeepDream]] · [[Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream 69ecd0d8|Illustration Surreal DeepDream Image of Multi Eyed Dog Like Creatures in Space by Google DeepDream]] · [[Timeline of Generative Adversarial Networks (GANs) Evolution be491b96|Timeline of Generative Adversarial Networks (GANs) Evolution]]
 
 <!-- archive-links:end -->
+
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: human-machine, tug, war
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: human-machine, tug, war
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: movement, produces, vocal
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, work
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: work, vocal, gan
+- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies, gan, ben
+- [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, slop, model
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: human-machine, tug, latent
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -79,16 +92,3 @@ The machine is neither an autonomous author nor a neutral brush. It is a tempora
 >
 > Theory is an analytical tool and should never be deliberately thought of when writing music. Jacob's [Collier] music is written in a theoretically well thought out and deliberate manner. It lacks spontaneity, inspiration and any part of the natural creative process. I can guarantee most classical/jazz masterpieces began with the composer drunkenly fucking around on his instrument or randomly humming a melody. My proof for this is the fact that Jacob can give an in-depth theoretical analysis of any minute detail of his songs in a heartbeat. If you asked someone like Thelonious Monk to explain why he played a certain chord, he would probably answer something along the lines of 'it sounded good'. Actual masterful composers have the necessary theory internalized and never use it as a starting point when writing music.
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/images/amazing 9104b34b|amazing]] — named in this note
-- [[knowledge/wiki/images/deathbed b3013235|deathbed]] — named in this note
-- [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
-<!-- vault-crosslinks:end -->

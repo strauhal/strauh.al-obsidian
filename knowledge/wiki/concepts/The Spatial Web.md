@@ -50,10 +50,10 @@ tools that realize it.
 
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — named in this note
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: spatial, web, space
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: archive-links, space, corpus
 - [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, built
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: spatial, web, space
 - [[knowledge/wiki/artists/Artist - Fjodor van Veen and Stefan Leijnen|Artist - Fjodor van Veen and Stefan Leijnen]] — shared language: fjodor, veen, leijnen
 - [[Welcome|strauh.al Knowledge Base]] — shared language: atlas, graph, built
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: atlas, graph, built
-- [[knowledge/wiki/collections/Collection - diagrams|Collection - diagrams]] — shared language: network, diagram, complex
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Black And White Photograph Of Brutalist Concrete Staircase Monument 3b1f75cc|Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist, staircase, monument
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument ae0ea94c|Photograph Black And White Photograph Of Brutalist Concrete Staircase Monument]] — shared language: brutalist, staircase, monument
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist, concrete, staircase
 - [[knowledge/wiki/images/Photograph Brutalist Concrete Monument Overlooking City With Lone Figure bcf162ec|Photograph Brutalist Concrete Monument Overlooking City With Lone Figure]] — shared language: brutalist, monument, concrete
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
+- [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: brutalist, staircase
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - m s corley 2018|Artist - m s corley 2018]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[_archive/auto-generated/images-stale/anand kulkarni vimana city contemporary eb6947dd|anand kulkarni vimana city contemporary]] — shared language: city
 - [[knowledge/wiki/images/The City by Vladimir Kush (2000) 0ef7d3d6|The City by Vladimir Kush (2000)]] — shared language: city
+- [[knowledge/wiki/books/paul-auster-city-of-glass-graphic-novel-faber-and-faber|City of Glass Graphic Novel-Faber and Faber]] — shared language: city
 <!-- vault-crosslinks:end -->

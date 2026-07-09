@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Aerial View of Dense City Surrounding a Large Hill 1704900d|Photograph Aerial View of Dense City Surrounding a Large Hill]] — shared language: surrounding, hill, dense
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, aerial, dense
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, city, large
 - [[knowledge/wiki/images/Aerial View of World Trade Center Twin Towers and Surrounding City f905d3bf|Aerial View of World Trade Center Twin Towers and Surrounding City]] — shared language: surrounding, aerial, city
 - [[_archive/auto-generated/images-stale/aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field 0a894eea|aerial photograph of a large crowd surrounding a central group of people arranged in circles on a green field]] — shared language: surrounding, aerial, large
+- [[_archive/auto-generated/images-stale/aerial photograph of a city grid at night dd14d761|aerial photograph of a city grid at night]] — shared language: aerial, city
 <!-- vault-crosslinks:end -->

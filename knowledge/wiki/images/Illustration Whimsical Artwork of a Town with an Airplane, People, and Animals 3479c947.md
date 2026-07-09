@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/images/Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text 2623b751|Illustration Vibrant Collage Artwork with Landscapes, Figures, Animals, and Text]] — shared language: animals, artwork
 - [[knowledge/wiki/images/Illustration Long Artwork Showing Continuous Transformation Of Patterns, Animals, And Townscape fd5d2b4a|Illustration Long Artwork Showing Continuous Transformation Of Patterns, Animals, And Townscape]] — shared language: animals, artwork
 - [[knowledge/wiki/images/Illustration Detailed Black and White Panoramic Drawing of Figures and Animals 9d6fc5c1|Illustration Detailed Black and White Panoramic Drawing of Figures and Animals]] — shared language: animals, animals.jpeg
 - [[knowledge/wiki/images/Photograph Woman Painting Large Abstract Artwork in Studio 05ce36ea|Photograph Woman Painting Large Abstract Artwork in Studio]] — shared language: artwork
+- [[knowledge/wiki/images/Illustration Stylized Artwork People, Dog, Snow Outside Brick Building 7069372e|Illustration Stylized Artwork People, Dog, Snow Outside Brick Building]] — shared language: artwork, people
 <!-- vault-crosslinks:end -->

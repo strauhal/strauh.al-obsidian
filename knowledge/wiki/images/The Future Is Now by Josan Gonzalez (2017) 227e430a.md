@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Future Is No
 
 - [[knowledge/wiki/artists/Artist - Josan Gonzalez and Laurie Greasley|Artist - Josan Gonzalez and Laurie Greasley]] — shared language: josan, gonzalez
 - [[knowledge/wiki/images/The Raid by Josan Gonzalez and Laurie Greasley 67421a4b|The Raid by Josan Gonzalez and Laurie Greasley]] — shared language: josan, gonzalez
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future
 - [[knowledge/wiki/artists/Artist - Pepe Gonzalez|Artist - Pepe Gonzalez]] — shared language: gonzalez
 - [[knowledge/wiki/artists/Artist - jose gonzalez|Artist - jose gonzalez]] — shared language: gonzalez
+- [[knowledge/wiki/books/pierre-teilhard-de-chardin-the-future-of-man-image|The Future of Man-Image]] — shared language: future
 <!-- vault-crosslinks:end -->

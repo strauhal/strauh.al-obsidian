@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: charcoal
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits
 - [[knowledge/wiki/images/Illustration Charcoal Drawing of a Reclining Figure 34f5b84a|Illustration Charcoal Drawing of a Reclining Figure]] — shared language: charcoal
+- [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/images/Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface 0c512e48|Screenshot Three Virtual Avatars with Usernames in Apple Vision Pro Interface]] — shared language: pro, vision, apple
 - [[knowledge/wiki/images/Screenshot Complex Abstract Illustration Displayed in MS Paint Interface 749790d3|Screenshot Complex Abstract Illustration Displayed in MS Paint Interface]] — shared language: displayed, interface, screenshot
 - [[knowledge/wiki/artists/Artist - Apple|Artist - Apple]] — shared language: apple, pro
-- [[knowledge/wiki/images/Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc edc7ccde|Screenshot Mac OS X 10.0 Cheetah Interface by Apple Inc]] — shared language: apple, interface, screenshot
+- [[knowledge/wiki/images/Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture d586d8de|Photograph Parking Lot with Adobe Buildings, Cars, and Abstract Sculpture]] — shared language: parking, lot
 <!-- vault-crosslinks:end -->

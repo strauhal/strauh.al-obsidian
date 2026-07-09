@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Turandot by David Hockney (1992) 34576ee5|Turandot by David Hockney (1992)]] — shared language: david
 - [[knowledge/wiki/images/david johnson the haymakers 1867 68a80a47|david johnson the haymakers 1867]] — shared language: david
 - [[knowledge/wiki/artists/Artist - david scott|Artist - david scott]] — shared language: david
-- [[knowledge/wiki/images/the art of painting by david bardia 1997 3519d787|the art of painting by david bardia 1997]] — shared language: david
+- [[knowledge/wiki/artists/Artist - david bardia|Artist - david bardia]] — shared language: david
 <!-- vault-crosslinks:end -->

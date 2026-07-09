@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: monumental
 - [[knowledge/wiki/images/Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard 42cc2cb0|Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard]] — shared language: fantastical, baroque
-- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de largilliere 1715 1720|Artist - nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[_archive/auto-generated/images-stale/framed baroque painting of figures with a child 4b0b7a67|framed baroque painting of figures with a child]] — shared language: baroque
+- [[knowledge/archive/auto-generated/artists-stale/Artist - nicolas de largilliere 1715 1720|Artist - nicolas de largilliere 1715 1720]] — shared language: nicolas
 - [[knowledge/wiki/books/gilles-deleuze-the-fold-leibniz-and-the-baroque|The Fold: Leibniz and the Baroque]] — shared language: baroque
 <!-- vault-crosslinks:end -->

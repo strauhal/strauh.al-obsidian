@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - Com
 
 - [[knowledge/wiki/images/Complex Network Graph with Nodes and Edges 7a003cde|Complex Network Graph with Nodes and Edges]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, nodes, complex
-- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper bdcc2559|Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: edges, nodes, graph
-- [[knowledge/wiki/images/Complex Network Diagram with Nodes and Directed Edges on Graph Paper aee24062|Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: edges, nodes, graph
+- [[_archive/auto-generated/images-stale/Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper bdcc2559|Diagram Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: nodes, edges, graph
+- [[knowledge/wiki/images/Complex Network Diagram with Nodes and Directed Edges on Graph Paper aee24062|Complex Network Diagram with Nodes and Directed Edges on Graph Paper]] — shared language: nodes, edges, graph
 - [[_archive/auto-generated/images-stale/Diagram Complex Network Graph With Colored Nodes And Numerical Labels 71fba1b8|Diagram Complex Network Graph With Colored Nodes And Numerical Labels]] — shared language: nodes, graph, network
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: computer, screen
 - [[knowledge/wiki/images/Screenshot Cuddling With Multiple Devices b0197fd8|Screenshot Cuddling With Multiple Devices]] — shared language: devices, screenshot
 - [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: displaying, screen, computer
-- [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: displaying, screenshot, computer
 - [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: displaying, screen, text
+- [[knowledge/wiki/images/Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern 19f0aa8e|Screenshot Screenshot of a Computer Desktop Displaying an Abstract Pattern]] — shared language: displaying, screenshot, computer
 <!-- vault-crosslinks:end -->

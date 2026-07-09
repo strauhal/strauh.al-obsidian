@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Image - Black an
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: circles
 - [[knowledge/wiki/images/Illustration Stippled Illustration of Stylized Person with Stars and Circles c5f6a528|Illustration Stippled Illustration of Stylized Person with Stars and Circles]] — shared language: circles, stylized, circles.jpg
-- [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: walking
 - [[knowledge/wiki/images/Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson 3298111d|Illustration Stylized Landscape with Red Flowers, Steps, and Figure Under Arches by R. Kikuo Johnson]] — shared language: arches, stylized
+- [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: walking
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 <!-- vault-crosslinks:end -->

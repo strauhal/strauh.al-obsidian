@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon 4c5bf3fd|Illustration Still Life with Flowers, Grapes, Wheat, and Blue Ribbon]] — shared language: wheat, grapes, ribbon
 - [[_archive/auto-generated/images-stale/oil painting of a still life with pink flowers green grapes and a blue and white jar a60f57f5|oil painting of a still life with pink flowers green grapes and a blue and white jar]] — shared language: grapes, still, flowers
-- [[knowledge/wiki/images/Illustration Still Life Painting of Red Grapes and Leaves 0e1ec0ae|Illustration Still Life Painting of Red Grapes and Leaves]] — shared language: grapes, still, life
 - [[knowledge/wiki/images/Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar e0c2cdcd|Illustration Still Life with Pink Flowers, Green Grapes, and Blue Jar]] — shared language: grapes, still, flowers
+- [[knowledge/wiki/images/Illustration Still Life Painting of Red Grapes and Leaves 0e1ec0ae|Illustration Still Life Painting of Red Grapes and Leaves]] — shared language: grapes, still, life
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 <!-- vault-crosslinks:end -->

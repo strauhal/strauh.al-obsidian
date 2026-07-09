@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/Since-A
 - [[knowledge/wiki/artists/Artist - Noise|Artist - Noise]] — shared language: noise
 - [[knowledge/wiki/artists/Artist - august malmstrom|Artist - august malmstrom]] — shared language: august
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: noise
-- [[knowledge/wiki/books/jacques-attali-noise-the-political-economy-of-music|Noise: The Political Economy of Music]] — shared language: noise
+- [[knowledge/wiki/images/alvalek by august malmstrom 1866 11235e69|alvalek by august malmstrom 1866]] — shared language: august
 <!-- vault-crosslinks:end -->

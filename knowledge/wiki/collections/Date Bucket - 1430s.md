@@ -19,6 +19,6 @@ Files: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[knowledge/wiki/collections/Date Bucket - 1410s|Date Bucket - 1410s]] — nearby note in the same source series
+- [[knowledge/wiki/collections/Date Bucket - 1420s|Date Bucket - 1420s]] — nearby note in the same source series
 - [[knowledge/wiki/collections/Date Bucket - 1440s|Date Bucket - 1440s]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

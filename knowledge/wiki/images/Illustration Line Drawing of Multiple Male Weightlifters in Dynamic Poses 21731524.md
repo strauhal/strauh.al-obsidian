@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dynamic
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: multiple
 - [[knowledge/wiki/images/Illustration Ink Sketch of Multiple Dynamic Mecha Figures and Head Studies daef3e08|Illustration Ink Sketch of Multiple Dynamic Mecha Figures and Head Studies]] — shared language: dynamic, multiple
-- [[knowledge/wiki/images/Illustration Line Drawing Study of Three Human Skulls in Different Poses db6bb175|Illustration Line Drawing Study of Three Human Skulls in Different Poses]] — shared language: poses, line, poses.png
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Black and White Sketch of Ornate Architectural Interior with Figures e4528559|Illustration Black and White Sketch of Ornate Architectural Interior with Figures]] — shared language: ornate, interior
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: ornate
 - [[knowledge/wiki/images/the stairs by the dark 1989 71958ceb|the stairs by the dark 1989]] — shared language: stairs
 - [[knowledge/wiki/images/Illustration Ornate Interior With Figure Seated In Sunlight b66c58e5|Illustration Ornate Interior With Figure Seated In Sunlight]] — shared language: ornate, interior
 - [[knowledge/wiki/images/Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard 42cc2cb0|Illustration Detailed Ornate Fantastical Baroque Architecture Drawing by Laurent Gapaillard]] — shared language: baroque, ornate
+- [[knowledge/wiki/images/Illustration Two Adults And Child In Ornate Interior 13088a66|Illustration Two Adults And Child In Ornate Interior]] — shared language: ornate, interior
 <!-- vault-crosslinks:end -->

@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Street Cleaner Sweeping Debris Into Heart Shape 21373626|Photograph Street Cleaner Sweeping Debris Into Heart Shape]] — shared language: sweeping, cleaner, debris
+- [[knowledge/wiki/images/Photograph Street Cleaner Sweeping Debris Into Heart Shape 21373626|Photograph Street Cleaner Sweeping Debris Into Heart Shape]] — shared language: cleaner, sweeping, debris
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: debris
 - [[knowledge/wiki/images/Paved Road and Sidewalk with Green Hills Under Blue Sky aa92c13c|Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: paved, sidewalk
 - [[_archive/auto-generated/images-stale/Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky 6a762a20|Photograph Paved Road and Sidewalk with Green Hills Under Blue Sky]] — shared language: paved, sidewalk

@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Geometric 
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/images/Gallery Wall Installation with Ceramic Sculptures and Pedestals a31e4f92|Gallery Wall Installation with Ceramic Sculptures and Pedestals]] — shared language: sculptures, gallery
 - [[knowledge/wiki/images/Photograph Person Viewing Art Installation in a Modern Gallery ef4623a0|Photograph Person Viewing Art Installation in a Modern Gallery]] — shared language: gallery, modern
 - [[knowledge/wiki/images/Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space 59c4a66c|Photograph Two Large Polka Dotted Flower Sculptures in Gallery Space]] — shared language: sculptures, gallery
+- [[knowledge/wiki/images/Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery 19b76ef3|Illustration Two Large Colorful Polka Dotted Flower Sculptures In Gallery]] — shared language: sculptures, gallery
 <!-- vault-crosslinks:end -->

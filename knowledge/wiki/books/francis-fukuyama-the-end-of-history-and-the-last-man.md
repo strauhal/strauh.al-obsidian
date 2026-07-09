@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Fukuyama-The-End-of-History]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Fukuyama-The-End-of-History.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # The End of History and the Last Man

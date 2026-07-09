@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/City Street After Flood With Piled Up Cars 338a4db9|City Street After Flood With Piled Up Cars]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, cars
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
 - [[knowledge/wiki/images/Burning Self Driving Cars on City Street with Onlookers ceccd11b|Burning Self Driving Cars on City Street with Onlookers]] — shared language: cars, street, city
 - [[_archive/auto-generated/images-stale/Photograph Burning Self Driving Cars on City Street with Onlookers 20c8f5ab|Photograph Burning Self Driving Cars on City Street with Onlookers]] — shared language: cars, street, city
+- [[_archive/auto-generated/images-stale/oil painting of a snowy city street at night with cars and a tree decorated with red lights 05fbae38|oil painting of a snowy city street at night with cars and a tree decorated with red lights]] — shared language: cars, street, city
 <!-- vault-crosslinks:end -->

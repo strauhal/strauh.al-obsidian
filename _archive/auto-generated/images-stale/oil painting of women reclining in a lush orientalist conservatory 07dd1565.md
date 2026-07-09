@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Abstract Oil Painting of Reclining Figure cee29e55|Illustration Abstract Oil Painting of Reclining Figure]] — shared language: reclining, oil
 - [[knowledge/wiki/images/Illustration Lush Trees in a Sunny Landscape d210b7b6|Illustration Lush Trees in a Sunny Landscape]] — shared language: lush
-- [[knowledge/wiki/images/Illustration Orientalist Watercolor of Men in an Apothecary Shop 1f08a568|Illustration Orientalist Watercolor of Men in an Apothecary Shop]] — shared language: orientalist
 - [[knowledge/wiki/images/Illustration Lush Landscape Painting with Trees and Distant Building on Hill e0b352c6|Illustration Lush Landscape Painting with Trees and Distant Building on Hill]] — shared language: lush
+- [[knowledge/wiki/images/Illustration Orientalist Watercolor of Men in an Apothecary Shop 1f08a568|Illustration Orientalist Watercolor of Men in an Apothecary Shop]] — shared language: orientalist
 - [[_archive/auto-generated/images-stale/orientalist watercolor of men gathered in an apothecary shop c7f2b0a8|orientalist watercolor of men gathered in an apothecary shop]] — shared language: orientalist
 <!-- vault-crosslinks:end -->

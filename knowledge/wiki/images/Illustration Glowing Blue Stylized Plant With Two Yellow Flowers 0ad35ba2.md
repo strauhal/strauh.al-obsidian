@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/images/Illustration Watercolor Painting of Stylized Female Figure with Red Flowers 23aafe47|Illustration Watercolor Painting of Stylized Female Figure with Red Flowers]] — shared language: flowers, stylized, flowers.jpg
 - [[knowledge/wiki/images/Illustration Blue Glowing Abstract Figure on Dark Background bab4a6d9|Illustration Blue Glowing Abstract Figure on Dark Background]] — shared language: glowing
 - [[knowledge/wiki/images/flowers 9ddd69be|flowers]] — shared language: flowers, flowers.jpg
-- [[knowledge/wiki/images/Illustration Black Cat With Glowing Eyes And Two Orbs 6da566be|Illustration Black Cat With Glowing Eyes And Two Orbs]] — shared language: glowing
+- [[knowledge/wiki/images/Illustration Stylized Blue City With Angel Statue And Glowing Data Grid e91f95a6|Illustration Stylized Blue City With Angel Statue And Glowing Data Grid]] — shared language: glowing, stylized
 <!-- vault-crosslinks:end -->

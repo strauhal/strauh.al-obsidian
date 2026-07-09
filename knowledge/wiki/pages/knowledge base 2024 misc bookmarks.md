@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/2024_misc_bookmarks.html"
 source_relpath: "knowledge_base/2024_misc_bookmarks.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base 2024 misc bookmarks
@@ -560,10 +560,10 @@ strauh.al/knowledge_base/2024_misc_bookmarks
 
 - [[knowledge/wiki/images/jesse kanda 3f3393b2|jesse kanda]] — named in this note
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
+- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — named in this note
+- [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — named in this note
+- [[knowledge/wiki/people/Ryuichi Sakamoto|Ryuichi Sakamoto]] — named in this note
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — named in this note
+- [[knowledge/wiki/books/ambient-art|Ambient art]] — named in this note
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
-- [[knowledge/wiki/pages/culture society|culture society]] — named in this note
-- [[knowledge/wiki/anchors/james-bridle|James Bridle]] — named in this note
-- [[knowledge/wiki/anchors/katsuhiro-otomo|Katsuhiro Otomo]] — named in this note
-- [[knowledge/wiki/pages/san francisco|san francisco]] — named in this note
-- [[knowledge/wiki/images/y2k aesthetic b9239207|y2k aesthetic]] — named in this note
 <!-- vault-crosslinks:end -->

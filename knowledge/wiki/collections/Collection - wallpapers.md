@@ -225,6 +225,6 @@ Files: 152
 - [[knowledge/wiki/images/1458239495 607 copy bba5c1e0|1458239495 607 copy]] — shared language: copy
 - [[knowledge/wiki/images/Vibrant Green Aurora Borealis Over Dark Landscape 350e610d|Vibrant Green Aurora Borealis Over Dark Landscape]] — shared language: aurora
 - [[knowledge/wiki/images/aurora borealis by frederic edwin church 1865 1cf377bb|aurora borealis by frederic edwin church 1865]] — shared language: aurora
-- [[knowledge/wiki/pages/wallpapers|wallpapers]] — shared language: wallpapers, estrauhal
 - [[knowledge/wiki/images/the chariot of aurora by herbert james draper c 1900 360caf88|the chariot of aurora by herbert james draper c 1900]] — shared language: aurora
+- [[knowledge/wiki/images/Aurora and Cephalus by Pierre Narcisse Gu rin (1810) 6a7f502d|Aurora and Cephalus by Pierre Narcisse Gu rin (1810)]] — shared language: aurora
 <!-- vault-crosslinks:end -->

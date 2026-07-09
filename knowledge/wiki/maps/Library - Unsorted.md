@@ -2,8 +2,8 @@
 title: Library - Unsorted
 type: map
 tags: [map, library, books]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Library - Unsorted
@@ -132,9 +132,9 @@ Books/files: 113
 - [[knowledge/wiki/anchors/james-bridle|James Bridle]] — named in this note
 - [[knowledge/wiki/anchors/nick-land|Nick Land]] — named in this note
 - [[knowledge/wiki/books/augustine-of-hippo-confessions|Confessions]] — named in this note
+- [[knowledge/wiki/images/essence dbff3c59|essence]] — named in this note
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: press, norton, classics
 - [[knowledge/wiki/maps/Library - Philosophy|Library - Philosophy]] — shared language: press, philosophy, writings
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: press, classics, thomas
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: press, classics, story
-- [[knowledge/wiki/maps/Library - Spirituality and Esoterica|Library - Spirituality and Esoterica]] — shared language: press, university, richard
 <!-- vault-crosslinks:end -->

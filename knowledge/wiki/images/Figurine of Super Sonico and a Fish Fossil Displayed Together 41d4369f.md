@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Figurine o
 - [[knowledge/wiki/artists/Artist - janet fish|Artist - janet fish]] — shared language: fish
 - [[knowledge/wiki/images/Close Up of Ornate Dragon Figurine with Glowing Red Eyes d1b9beac|Close Up of Ornate Dragon Figurine with Glowing Red Eyes]] — shared language: figurine
 - [[knowledge/wiki/images/Image Diptych Comparing Ancient Figurine to Modern Anime Figure b2529a50|Image Diptych Comparing Ancient Figurine to Modern Anime Figure]] — shared language: figurine
-- [[knowledge/wiki/images/Illustration Super Breakout by John Enright 132b0894|Illustration Super Breakout by John Enright]] — shared language: super
+- [[knowledge/wiki/images/john george brown a fish cleaning station 1877 00e7336d|john george brown a fish cleaning station 1877]] — shared language: fish
 <!-- vault-crosslinks:end -->

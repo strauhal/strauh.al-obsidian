@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Protesters with Mexican Flags and Burning Cars on Street 33255fed|Protesters with Mexican Flags and Burning Cars on Street]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, cars
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: burning, street
 - [[knowledge/wiki/images/Multiple Cars Burning on a Street with Thick Smoke ff3e1d14|Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, cars, street
 - [[_archive/auto-generated/images-stale/Photograph Multiple Cars Burning on a Street with Thick Smoke daaec58c|Photograph Multiple Cars Burning on a Street with Thick Smoke]] — shared language: burning, cars, street
+- [[knowledge/wiki/images/Multiple Cars Burning on Street with Thick Black Smoke 270b946a|Multiple Cars Burning on Street with Thick Black Smoke]] — shared language: burning, cars, street
 <!-- vault-crosslinks:end -->

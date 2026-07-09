@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Busy Stree
 - [[knowledge/wiki/images/Busy Street Scene with Numerous Neon Signs and Traffic 6dccc2ba|Busy Street Scene with Numerous Neon Signs and Traffic]] — shared language: numerous, busy, signs
 - [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs 5ea1b2ad|Night Street Scene with Numerous Bright Neon Signs]] — shared language: numerous, signs, scene
 - [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs and Traffic 13c00b4d|Night Street Scene with Numerous Bright Neon Signs and Traffic]] — shared language: numerous, signs, scene
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city, street
+- [[knowledge/wiki/images/Busy City Street with Prudential Building and Flags 67c124a0|Busy City Street with Prudential Building and Flags]] — shared language: busy, street, city
 <!-- vault-crosslinks:end -->

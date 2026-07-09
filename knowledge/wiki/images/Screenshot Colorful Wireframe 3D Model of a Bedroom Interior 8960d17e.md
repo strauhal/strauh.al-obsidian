@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe, colorful
 - [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: wireframe, model
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: model
-- [[knowledge/wiki/images/Illustration Bedroom at Night with Warm Interior Light f81e6afb|Illustration Bedroom at Night with Warm Interior Light]] — shared language: bedroom, interior
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: model
+- [[knowledge/wiki/images/Illustration Bedroom at Night with Warm Interior Light f81e6afb|Illustration Bedroom at Night with Warm Interior Light]] — shared language: bedroom, interior
 <!-- vault-crosslinks:end -->

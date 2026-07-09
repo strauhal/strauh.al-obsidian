@@ -16,7 +16,7 @@ Stub concept created to keep the Obsidian graph connected. Expand this when the 
 - [[knowledge/wiki/images/54036 dd04e9b0|54036]] — shared language: hieronymous, cock
 - [[knowledge/wiki/images/Hieronymus Cock 2ddf967c|Hieronymus Cock]] — shared language: cock, hieronymous
 - [[_archive/auto-generated/concept-stubs/strauh.al Archive|strauh.al Archive]] — shared language: obsidian, concept
-- [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: obsidian
 - [[_archive/auto-generated/concept-stubs/degas|degas]] — shared language: stub, obsidian, created
+- [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: obsidian
 - [[_archive/auto-generated/concept-stubs/moebius|moebius]] — shared language: stub, obsidian, created
 <!-- vault-crosslinks:end -->

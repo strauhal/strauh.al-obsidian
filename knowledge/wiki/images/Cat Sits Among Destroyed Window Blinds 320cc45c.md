@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Cat Sits A
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits, among
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: among, sits
+- [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: sits, among
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: among
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: among
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: among

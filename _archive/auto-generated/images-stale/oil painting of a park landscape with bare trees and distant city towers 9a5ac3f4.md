@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees, city
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/images/Illustration Oil Painting of a Vineyard Landscape with Distant Hills 9c10d1f8|Illustration Oil Painting of a Vineyard Landscape with Distant Hills]] — shared language: distant, oil, landscape
 - [[_archive/auto-generated/images-stale/oil painting of a vineyard landscape with distant hills d58354c4|oil painting of a vineyard landscape with distant hills]] — shared language: distant, oil, landscape
 - [[knowledge/wiki/images/Illustration Lush Landscape Painting with Trees and Distant Building on Hill e0b352c6|Illustration Lush Landscape Painting with Trees and Distant Building on Hill]] — shared language: distant, trees, landscape
+- [[_archive/auto-generated/images-stale/impasto oil painting of red and orange trees in a landscape 535e7fea|impasto oil painting of red and orange trees in a landscape]] — shared language: trees, oil, landscape
 <!-- vault-crosslinks:end -->

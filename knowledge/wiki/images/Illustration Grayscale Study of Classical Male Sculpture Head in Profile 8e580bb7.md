@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study, head
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/images/Illustration Wireframe 3D Model of Classical Sculpture Head 223b9db4|Illustration Wireframe 3D Model of Classical Sculpture Head]] — shared language: classical, sculpture, head
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: study
-- [[knowledge/wiki/images/Illustration Pencil Drawing of Male Head with Proportional Construction Lines 6dff7708|Illustration Pencil Drawing of Male Head with Proportional Construction Lines]] — shared language: male, head
 <!-- vault-crosslinks:end -->

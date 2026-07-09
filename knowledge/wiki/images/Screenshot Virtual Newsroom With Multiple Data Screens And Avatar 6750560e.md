@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict e9b02fc9|Screenshot Virtual Newsroom Interface With Panels About Israel Gaza Conflict]] — shared language: newsroom, virtual, screenshot
 - [[knowledge/wiki/images/Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background 592bbf5e|Screenshot Mixed Reality Interface with Virtual Screens and Tropical Beach Background]] — shared language: screens, virtual, screenshot
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: virtual
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: virtual
 - [[knowledge/wiki/images/Front View Diagram of Multiple Screens in a Perspective Box 5d0e5135|Front View Diagram of Multiple Screens in a Perspective Box]] — shared language: screens, multiple
-- [[knowledge/wiki/images/Screenshot Virtual Room With Russia Ukraine News Panels And Map 00a763e0|Screenshot Virtual Room With Russia Ukraine News Panels And Map]] — shared language: virtual, screenshot
 <!-- vault-crosslinks:end -->

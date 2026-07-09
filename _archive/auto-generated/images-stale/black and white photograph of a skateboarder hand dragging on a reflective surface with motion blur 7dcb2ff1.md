@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface 88017b08|Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: dragging, reflective, surface
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface ac3f5e52|Photograph Black And White Photograph Of Skateboarder Hand Dragging On Reflective Surface]] — shared language: dragging, reflective, surface
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: motion
 - [[_archive/auto-generated/images-stale/black and white photograph of figures with extreme motion blur 2fe70cce|black and white photograph of figures with extreme motion blur]] — shared language: blur, motion, blur.jpg
 - [[knowledge/wiki/images/Black And White Photograph Of Figures With Extreme Motion Blur 6853a58e|Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion, blur.jpg
-- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of Figures With Extreme Motion Blur 04594385|Photograph Black And White Photograph Of Figures With Extreme Motion Blur]] — shared language: blur, motion, blur.jpg
 <!-- vault-crosslinks:end -->

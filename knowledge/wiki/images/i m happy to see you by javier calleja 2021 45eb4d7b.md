@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/i_m_happy_to_see
 - [[knowledge/wiki/images/HEROIN MAKES HAPPY demo 2000 (2000) 5ba15482|HEROIN MAKES HAPPY demo 2000 (2000)]] — shared language: happy
 - [[knowledge/wiki/culture/movie-happy-as-lazzaro|Watchlist - Happy as Lazzaro]] — shared language: happy
 - [[knowledge/wiki/images/i am happy because every one loves me by louis wain c 1900 9382a08b|i am happy because every one loves me by louis wain c 1900]] — shared language: happy
+- [[knowledge/wiki/images/Screenshot Screenshot of a See Also section listing art genres 39460bbb|Screenshot Screenshot of a See Also section listing art genres]] — shared language: see
 - [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: happy
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — shared language: happy
 <!-- vault-crosslinks:end -->

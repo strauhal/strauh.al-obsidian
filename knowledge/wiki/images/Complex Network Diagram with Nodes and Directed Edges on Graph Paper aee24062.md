@@ -26,7 +26,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Complex_Netwo
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: network, nodes, complex
-- [[knowledge/wiki/images/Complex Network Graph with Nodes and Edges 7a003cde|Complex Network Graph with Nodes and Edges]] — shared language: edges, nodes, graph
+- [[knowledge/wiki/images/Complex Network Graph with Nodes and Edges 7a003cde|Complex Network Graph with Nodes and Edges]] — shared language: nodes, edges, graph
 - [[knowledge/wiki/images/Complex Diagram of Nodes and Arrows on Grid Paper 5e521ede|Complex Diagram of Nodes and Arrows on Grid Paper]] — shared language: nodes, complex, paper
 - [[knowledge/wiki/images/Complex Network Graph With Colored Nodes And Numerical Labels c1cb6399|Complex Network Graph With Colored Nodes And Numerical Labels]] — shared language: nodes, graph, network
 - [[knowledge/wiki/images/Complex Network Diagram on Grid 6975378a|Complex Network Diagram on Grid]] — shared language: network, complex, diagram

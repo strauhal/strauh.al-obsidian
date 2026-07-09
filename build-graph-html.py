@@ -196,13 +196,18 @@ def build_data(vault):
             # be useful as stars) but stay fully in the data, so they still surface
             # normally in another node's connections/images list when relevant.
             unsorted_img = fm.get("source_relpath", "").startswith("unsorted/")
+            # photos of Ernest himself, specifically meant to be pulled up when
+            # the chat is asked about him personally (per the archive's own
+            # ernest_pictures.txt: "these images are for strauh.al/brain to
+            # bring up when asked questions about me")
+            personal_img = fm.get("source_relpath", "").startswith("ernest/")
             notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
-                          "fm": slim, "ex": "", "images": images, "unsorted": unsorted_img}
+                          "fm": slim, "ex": "", "images": images, "unsorted": unsorted_img, "personal": personal_img}
         else:
             cap = DEEP_EXCERPT_CHARS if rel in DEEP_EXCERPT_RELPATHS else EXCERPT_CHARS
             disp = clean_work_name(fm, base) if group in ("books", "culture") else base
             notes[rel] = {"name": disp, "group": group, "folder": "/".join(parts[:-1]),
-                          "fm": fm, "ex": make_excerpt(body, cap), "images": images, "unsorted": False}
+                          "fm": fm, "ex": make_excerpt(body, cap), "images": images, "unsorted": False, "personal": False}
         by_basename.setdefault(base.lower(), []).append(rel)
         by_relpath[relnoext.lower()] = rel
 
@@ -266,6 +271,7 @@ def build_data(vault):
     groups = [gidx[notes[r]["group"]] for r in rel_list]
     paths = rel_list
     unsorted_flags = [notes[r]["unsorted"] for r in rel_list]
+    personal_flags = [notes[r]["personal"] for r in rel_list]
     # per-node metadata for the click popup: [frontmatter dict, excerpt, image urls]
     meta = [[notes[r]["fm"], notes[r]["ex"], notes[r]["images"]] for r in rel_list]
 
@@ -294,6 +300,7 @@ def build_data(vault):
         "meta": meta,
         "unsorted": unsorted_flags,
         "kbConnected": kb_connected,
+        "personal": personal_flags,
     }
 
     connected = sum(1 for d in deg if d > 0)
@@ -609,7 +616,8 @@ for (var i=0;i<N;i++){
     i:i, name:DATA.names[i], path:DATA.paths[i], g:DATA.groups[i], deg:DATA.deg[i],
     x:0, y:0, z:0, vx:0, vy:0, vz:0, fx:null, fy:null, fz:null,
     r:1, col:groupColor(DATA.groups[i]), unsorted:!!(DATA.unsorted && DATA.unsorted[i]),
-    kbConnected:!!(DATA.kbConnected && DATA.kbConnected[i])
+    kbConnected:!!(DATA.kbConnected && DATA.kbConnected[i]),
+    personal:!!(DATA.personal && DATA.personal[i])
   };
 }
 
@@ -1784,6 +1792,23 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
     return out;
   }
+  // Photos of Ernest himself (the archive's own "ernest/" folder, added
+  // specifically -- per its own ernest_pictures.txt -- "for strauh.al/brain
+  // to bring up when asked questions about me"). Filenames are plain camera
+  // junk (IMG_0186 etc.) so keyword retrieval alone would never surface them;
+  // gated tightly on an actual "what do you look like / picture of you" style
+  // ask, not just any message containing the word "you", to avoid becoming
+  // the kind of noise that's worse than not showing a photo at all.
+  var PERSONAL_PHOTO_RE = /(what.{0,15}look like|pictures? of (you|yourself)|photos? of (you|yourself)|see (you|your face)|show (me )?(a )?(picture|photo) of (you|yourself))/i;
+  function samplePersonalPhotos(n){
+    var pool = [];
+    for(var i=0;i<N;i++){ if(nodes[i].personal) pool.push(i); }
+    var copy = pool.slice(), out = [];
+    for(var k=0;k<n && copy.length;k++){
+      out.push(copy.splice(Math.floor(Math.random()*copy.length), 1)[0]);
+    }
+    return out;
+  }
   function retrieve(query){
     var terms = query.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
     var scored = [];
@@ -1815,6 +1840,9 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       // dogs and cats" should search for dog/cat art, not "paintings" art
       var subjectTerms = terms.filter(function(t){ return !VISUAL_REQUEST_RE.test(t); });
       sampleArtworks(6, subjectTerms).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
+    }
+    if(PERSONAL_PHOTO_RE.test(query)){
+      samplePersonalPhotos(3).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
     }
     return idxs;
   }

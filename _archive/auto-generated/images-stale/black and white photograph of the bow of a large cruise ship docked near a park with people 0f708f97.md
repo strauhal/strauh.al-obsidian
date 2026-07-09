@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Black And White Photograph Of A Cruise Ship Docked Near A Park 08061975|Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: cruise, docked, ship
 - [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park 390c6e90|Photograph Black And White Photograph Of A Cruise Ship Docked Near A Park]] — shared language: cruise, docked, ship
-- [[_archive/auto-generated/images-stale/black and white photograph of a large sailing ship docked next to a classical building with statues fe782703|black and white photograph of a large sailing ship docked next to a classical building with statues]] — shared language: docked, ship, large
 - [[_archive/auto-generated/images-stale/illustration of two figures near a park bench 8346cf2d|illustration of two figures near a park bench]] — shared language: park, near
+- [[_archive/auto-generated/images-stale/black and white photograph of a large sailing ship docked next to a classical building with statues fe782703|black and white photograph of a large sailing ship docked next to a classical building with statues]] — shared language: docked, ship, large
 - [[knowledge/wiki/images/Illustration Impressionistic Painting of Figures Walking in a Park 8abc5fe7|Illustration Impressionistic Painting of Figures Walking in a Park]] — shared language: park
 <!-- vault-crosslinks:end -->

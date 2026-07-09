@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Bald 
 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: don't
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
+- [[knowledge/wiki/images/bald ernest 431626f7|bald ernest]] — shared language: bald
 - [[knowledge/wiki/images/Comic Older Man Shouting At Student About Drawing Hours 4e756f0d|Comic Older Man Shouting At Student About Drawing Hours]] — shared language: shouting, comic
 - [[knowledge/wiki/images/Desert Landscape View From Inside Vehicle With Open Door 6da24456|Desert Landscape View From Inside Vehicle With Open Door]] — shared language: vehicle, inside
-- [[knowledge/wiki/images/Comic Two Characters In A Vehicle With Speech Bubbles 5c9c591b|Comic Two Characters In A Vehicle With Speech Bubbles]] — shared language: vehicle, comic
 <!-- vault-crosslinks:end -->

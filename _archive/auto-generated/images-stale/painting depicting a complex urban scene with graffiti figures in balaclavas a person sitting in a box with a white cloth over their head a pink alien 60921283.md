@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure ca79ea75|Illustration Urban Scene with Graffiti, Balaclava Figures, Alien, and Military Figure]] — shared language: alien, graffiti, urban
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: urban, scene
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: complex, graffiti
 - [[knowledge/wiki/images/Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti 7b6b1747|Illustration Urban Scene with Masked Figures, Soldier, Boxed Person, and Graffiti]] — shared language: urban, graffiti, scene
 - [[_archive/auto-generated/images-stale/painting of a seated person in a white cloth 5bb04367|painting of a seated person in a white cloth]] — shared language: cloth, person
+- [[_archive/auto-generated/images-stale/painting of figures in an urban setting with graffiti including masked men a soldier and a figure in a box b6380c13|painting of figures in an urban setting with graffiti including masked men a soldier and a figure in a box]] — shared language: box, graffiti, urban
 <!-- vault-crosslinks:end -->

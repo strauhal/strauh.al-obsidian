@@ -46,11 +46,11 @@ from a dead theorist and turned on the present.
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/books/penguin-classics-heraclitus-brooks-haxton-james-hillman-fragments|Fragments]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
 - [[knowledge/wiki/images/Screenshots 2021 04 08 20 41 35 0c9d8544|Screenshots 2021 04 08 20 41 35]] — named in this note
 - [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: arcades, project, revisited
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: arcades, web, feed
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, feed, internet
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: internet, feed, confidant
 <!-- vault-crosslinks:end -->

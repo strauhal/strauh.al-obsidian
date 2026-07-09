@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram - AI 
 - [[knowledge/wiki/images/AI Image Processing Demonstration Pixelated Face and Enhanced Result ee0d6d48|AI Image Processing Demonstration Pixelated Face and Enhanced Result]] — named in this note
 - [[_archive/auto-generated/images-stale/processing 94d5794d|processing]] — named in this note
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: result
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: result
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: result
 <!-- vault-crosslinks:end -->

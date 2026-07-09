@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Whi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, staircase, modern
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: balcony, staircase, building
 - [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, modern
 - [[knowledge/wiki/images/Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure e0feefc0|Photograph Modern Glass and Steel Spiral Staircase with Blurred Figure]] — shared language: spiral, staircase, modern
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral, staircase
+- [[knowledge/wiki/images/Illustration Abstract Curvilinear Architectural Sketch with Small Figures 7d027290|Illustration Abstract Curvilinear Architectural Sketch with Small Figures]] — shared language: curvilinear
 <!-- vault-crosslinks:end -->

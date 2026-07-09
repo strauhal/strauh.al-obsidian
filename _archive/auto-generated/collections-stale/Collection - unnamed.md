@@ -270,11 +270,11 @@ _Only the first 200 image notes are listed here; search covers all 311._
 ## Discovered Connections
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
-- [[_archive/auto-generated/images-stale/IMG 0298 dfe4aa3e|IMG 0298]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0299 f523b103|IMG 0299]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0300 25e65672|IMG 0300]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0301 63f8a28a|IMG 0301]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0302 ead867e8|IMG 0302]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0303 aedbc964|IMG 0303]] — shared language: unnamed
-- [[_archive/auto-generated/images-stale/IMG 0304 79591b1e|IMG 0304]] — shared language: unnamed
+- [[knowledge/wiki/collections/Collection - unnamed|Collection - unnamed]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0036 96d694ea|IMG 0036]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0062 1745a9a8|IMG 0062]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0063 684125f8|IMG 0063]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0065 c4e42a83|IMG 0065]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0066 d783812f|IMG 0066]] — shared language: unnamed
+- [[knowledge/wiki/images/IMG 0067 c813aa22|IMG 0067]] — shared language: unnamed
 <!-- vault-crosslinks:end -->

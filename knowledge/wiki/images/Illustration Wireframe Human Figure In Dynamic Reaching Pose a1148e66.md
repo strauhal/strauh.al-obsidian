@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 - [[knowledge/wiki/images/Illustration Two Stylized Figures in Dynamic Pose from a Book bfe74b12|Illustration Two Stylized Figures in Dynamic Pose from a Book]] — shared language: pose, dynamic
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: wireframe
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: human
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dynamic, human
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dynamic
 <!-- vault-crosslinks:end -->

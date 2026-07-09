@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Le Ministère de
 
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: charles
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 <!-- vault-crosslinks:end -->

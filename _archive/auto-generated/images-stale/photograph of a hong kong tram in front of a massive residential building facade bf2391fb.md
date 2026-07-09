@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Hong Kong Zhuhai Macao Bridge 8be627e4|Photograph Hong Kong Zhuhai Macao Bridge]] — shared language: hong, kong
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
 - [[_archive/auto-generated/images-stale/ramon prat armani hong kong fuksas 007 2 jpg 56b99425|ramon prat armani hong kong fuksas 007 2 jpg]] — shared language: hong, kong
 - [[knowledge/wiki/images/Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings 6377cbc7|Photograph Hong Kong Street Scene with Trams and Densely Packed Buildings]] — shared language: hong, kong
 - [[knowledge/wiki/images/hong kong and shanghai bank by andreas gursky 1994 23f0808e|hong kong and shanghai bank by andreas gursky 1994]] — shared language: hong, kong
+- [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: facade, building
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration White Geometric String Like Form on Dark Background 23b8cc3a|Illustration White Geometric String Like Form on Dark Background]] — shared language: string, form, like
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: form, like
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
+- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Grainy Black And White Building Facade With Geometric Distortion ee184a3d|Photograph Grainy Black And White Building Facade With Geometric Distortion]] — shared language: distortion, facade, grainy
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, facade
-- [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: facade, building
 - [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: facade, building
+- [[knowledge/wiki/images/Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group dceb46f1|Photograph Vintage Photograph of Classical Sculpture on Building Facade with Seated Group]] — shared language: facade, building
 - [[_archive/auto-generated/images-stale/large geometric pointillist painting with repeating kaleidoscopic patterns in yellow orange red and blue 7bc5bf25|large geometric pointillist painting with repeating kaleidoscopic patterns in yellow orange red and blue]] — shared language: repeating, geometric
+- [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building
 <!-- vault-crosslinks:end -->

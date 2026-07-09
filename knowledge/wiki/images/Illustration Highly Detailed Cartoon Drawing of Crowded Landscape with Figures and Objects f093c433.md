@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - H
 - [[knowledge/wiki/images/Illustration Black and White Drawing of a Central Figure in a Crowded Scene a93acf89|Illustration Black and White Drawing of a Central Figure in a Crowded Scene]] — shared language: crowded
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: detailed, landscape
 - [[knowledge/wiki/images/Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects 2fcf7b39|Illustration Vibrant, Chaotic Cartoon Artwork With Various Characters And Objects]] — shared language: cartoon, objects
-- [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: highly
+- [[knowledge/wiki/images/Illustration A Detailed, Circular Artwork Depicting Various Objects On A Grill 1951fb63|Illustration A Detailed, Circular Artwork Depicting Various Objects On A Grill]] — shared language: objects, detailed
 <!-- vault-crosslinks:end -->

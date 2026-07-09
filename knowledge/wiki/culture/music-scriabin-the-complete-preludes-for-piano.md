@@ -7,8 +7,8 @@ status: queued
 queue_order: 6
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Scriabin: The Complete Preludes for Piano

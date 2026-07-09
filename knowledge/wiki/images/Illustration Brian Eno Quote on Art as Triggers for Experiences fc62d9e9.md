@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: eno, brian
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: eno
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: eno
 - [[knowledge/wiki/books/brian-massumi-on-affect-divine-curation|Brian Massumi on Affect - divine curation]] — shared language: brian
 - [[knowledge/wiki/books/confucius-trans-robert-eno-the-analects-of-confucius|The Analects of Confucius]] — shared language: eno
+- [[knowledge/wiki/artists/Artist - Brian Ferneyhough|Artist - Brian Ferneyhough]] — shared language: brian
 <!-- vault-crosslinks:end -->

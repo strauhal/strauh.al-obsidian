@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/Portrait of Alex
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: alexander
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: alexander
 - [[knowledge/wiki/images/alexander laktionov a soldier in the hermitage 1938 a3fbc84c|alexander laktionov a soldier in the hermitage 1938]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander rodchenko|Artist - alexander rodchenko]] — shared language: alexander
 - [[knowledge/wiki/artists/Artist - alexander roslin|Artist - alexander roslin]] — shared language: alexander
+- [[knowledge/wiki/artists/Artist - alexander ivanov|Artist - alexander ivanov]] — shared language: alexander
 <!-- vault-crosslinks:end -->

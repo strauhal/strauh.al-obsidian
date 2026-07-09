@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: game, interface, screenshot
+- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: interface, game, screenshot
 - [[knowledge/wiki/images/Illustration Portrait of a Woman in a White Dress c6374fdf|Illustration Portrait of a Woman in a White Dress]] — shared language: dress
 - [[knowledge/wiki/images/Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face dd219d5a|Screenshot Screenshot of Digital Painting Software Interface with Stylized Female Face]] — shared language: interface, screenshot
 - [[knowledge/wiki/images/Screenshot Complex Abstract Illustration Displayed in MS Paint Interface 749790d3|Screenshot Complex Abstract Illustration Displayed in MS Paint Interface]] — shared language: interface, screenshot

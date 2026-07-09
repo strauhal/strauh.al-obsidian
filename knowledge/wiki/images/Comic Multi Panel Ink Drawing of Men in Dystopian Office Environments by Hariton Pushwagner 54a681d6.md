@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Multi-Pa
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, comic
 - [[knowledge/wiki/images/Comic Multi Panel Comic Page of Figures in a Desolate Forest 6901bede|Comic Multi Panel Comic Page of Figures in a Desolate Forest]] — shared language: multi, comic, panel
 - [[knowledge/wiki/images/Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout 180d3afa|Comic Black And White Ink Drawing Of Four Figures In Comic Panel Layout]] — shared language: comic, panel, ink
-- [[knowledge/wiki/images/Comic Black And White Comic Panel Of Crying Woman (2) 58837ea7|Comic Black And White Comic Panel Of Crying Woman (2)]] — shared language: comic, panel
+- [[knowledge/wiki/images/Illustration Multi Panel Painting with Symbolic Figures and Text 949a6c9c|Illustration Multi Panel Painting with Symbolic Figures and Text]] — shared language: multi, panel, multi-panel
 <!-- vault-crosslinks:end -->

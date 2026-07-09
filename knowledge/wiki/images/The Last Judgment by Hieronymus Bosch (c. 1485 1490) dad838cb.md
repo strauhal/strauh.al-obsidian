@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1400s/The Last Judgmen
 
 - [[knowledge/wiki/images/hieronymus bosch the garden of earthly delights c 1490 a01510 af92baf9|hieronymus bosch the garden of earthly delights c 1490 a01510]] — shared language: bosch, hieronymus
 - [[knowledge/wiki/images/the last judgment by michelangelo buonarroti 15361541 375de414|the last judgment by michelangelo buonarroti 15361541]] — shared language: judgment, last
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: judgment
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: judgment
 - [[knowledge/wiki/images/The Last Judgment by Hans Memling (c. 1467 1471) 63b644b8|The Last Judgment by Hans Memling (c. 1467 1471)]] — shared language: judgment, last
-- [[knowledge/wiki/images/Hieronymus Cock 2ddf967c|Hieronymus Cock]] — shared language: hieronymus
 <!-- vault-crosslinks:end -->

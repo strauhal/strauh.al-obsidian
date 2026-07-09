@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/wiki/artists/Artist - charles m russell|Artist - charles m russell]] — shared language: charles
 - [[knowledge/wiki/images/cityscape by charles sheeler 1922 5d012594|cityscape by charles sheeler 1922]] — shared language: charles
 - [[knowledge/wiki/images/cityscape by charles sheeler 1922 2 c273f61f|cityscape by charles sheeler 1922 2]] — shared language: charles
+- [[knowledge/wiki/images/Le Minist re de la Marine (Fictions and Voeux) by Charles M ryon (1865) 6152c9c9|Le Minist re de la Marine (Fictions and Voeux) by Charles M ryon (1865)]] — shared language: charles
 <!-- vault-crosslinks:end -->

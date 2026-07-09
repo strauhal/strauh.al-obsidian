@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Black And 
 - [[knowledge/wiki/images/Document Futuristic Book Cover with Blue Light Streaks and Circles 4afdd795|Document Futuristic Book Cover with Blue Light Streaks and Circles]] — shared language: streaks, light
 - [[knowledge/wiki/images/Photograph Streaks of Light Across Dark Sky Above Silhouetted Trees dceac4cd|Photograph Streaks of Light Across Dark Sky Above Silhouetted Trees]] — shared language: streaks, light
 - [[knowledge/wiki/images/photo 3270 96ff2ef1|photo 3270]] — shared language: photo
-- [[knowledge/wiki/images/Blurry Photo of Blonde Woman with Cigarette in Red Light 3841cca1|Blurry Photo of Blonde Woman with Cigarette in Red Light]] — shared language: photo, light
 - [[knowledge/wiki/images/Illustration Abstract White Streaks Suggesting Architecture on Blue Background 14e19d2d|Illustration Abstract White Streaks Suggesting Architecture on Blue Background]] — shared language: streaks
+- [[knowledge/wiki/images/Blurry Photo of Blonde Woman with Cigarette in Red Light 3841cca1|Blurry Photo of Blonde Woman with Cigarette in Red Light]] — shared language: photo, light
 <!-- vault-crosslinks:end -->

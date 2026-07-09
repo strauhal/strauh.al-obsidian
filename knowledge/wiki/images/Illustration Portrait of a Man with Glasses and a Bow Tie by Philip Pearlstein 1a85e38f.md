@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
 - [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 - [[knowledge/wiki/anchors/philip-glass|Philip Glass]] — shared language: philip
-- [[knowledge/wiki/artists/Artist - Philip Galanter|Artist - Philip Galanter]] — shared language: philip
+- [[knowledge/wiki/images/Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD) 47041d67|Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD)]] — shared language: tie
 <!-- vault-crosslinks:end -->

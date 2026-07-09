@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/gif_collection/Light_d
 ## Discovered Connections
 
 - [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: waves
-- [[knowledge/wiki/images/Photograph Woman Using Conceptual Apple Computer System 4f8f60b4|Photograph Woman Using Conceptual Apple Computer System]] — shared language: conceptual
 - [[knowledge/wiki/images/Illustration Quilted Lighthouse Emitting Light Waves Over Stormy Sea with Ship f1b667db|Illustration Quilted Lighthouse Emitting Light Waves Over Stormy Sea with Ship]] — shared language: waves, light
+- [[knowledge/wiki/images/Photograph Woman Using Conceptual Apple Computer System 4f8f60b4|Photograph Woman Using Conceptual Apple Computer System]] — shared language: conceptual
 - [[knowledge/wiki/images/1495393481842 3737ec4a|1495393481842]] — shared language: gif
 - [[knowledge/wiki/images/1575092763780 f5180021|1575092763780]] — shared language: gif
 <!-- vault-crosslinks:end -->

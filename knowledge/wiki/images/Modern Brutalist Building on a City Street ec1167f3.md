@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Modern Bru
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: brutalist, building, modern
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, street
 - [[knowledge/wiki/images/00081 brutalist architecture 1960 png 205768a0|00081 brutalist architecture 1960 png]] — shared language: brutalist
 - [[knowledge/wiki/images/People on a Staircase and Balcony in a Brutalist Building 363f6659|People on a Staircase and Balcony in a Brutalist Building]] — shared language: brutalist, building
+- [[knowledge/wiki/images/Brutalist Concrete Building with Tall Conifer Trees cb97be41|Brutalist Concrete Building with Tall Conifer Trees]] — shared language: brutalist, building
 - [[knowledge/wiki/images/Busy City Street with Prudential Building and Flags 67c124a0|Busy City Street with Prudential Building and Flags]] — shared language: building, street, city
 <!-- vault-crosslinks:end -->

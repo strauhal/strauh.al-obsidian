@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Making it _ manufacturing techniques for product design -- [Chris Lefteri] -- London, England, 2007 -- Laurence King Pub_; Laurence King -- 9781856695060 -- d97ad44587091f02b565ce02611eb32b -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Making it manufacturing techniques for product design

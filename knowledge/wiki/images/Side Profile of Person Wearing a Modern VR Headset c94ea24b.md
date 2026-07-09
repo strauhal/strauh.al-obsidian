@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Side Profi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern
 - [[knowledge/wiki/images/Homeless Person Wearing VR Headset on San Francisco Street 5ea108a2|Homeless Person Wearing VR Headset on San Francisco Street]] — shared language: headset, wearing, person
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: headset, wearing
 - [[knowledge/wiki/images/Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet 39d0fedf|Illustration Black and White Drawing of an Old Man in Profile Wearing a Helmet]] — shared language: profile, wearing
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
+- [[knowledge/wiki/images/Man Wearing VR Headset And Smoking Hookah In Restaurant c26e060c|Man Wearing VR Headset And Smoking Hookah In Restaurant]] — shared language: headset, wearing
 <!-- vault-crosslinks:end -->

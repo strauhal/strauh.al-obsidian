@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo 55c9e642|Pink T Shirt With 'Piero Scaruffi' Text And Child's Photo]] — shared language: scaruffi, child's, piero
 - [[knowledge/wiki/images/Illustration Child's Drawing of Skull like Figure in Pink Shirt e9e70b03|Illustration Child's Drawing of Skull like Figure in Pink Shirt]] — shared language: child's, shirt, pink
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: child's
-- [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: child's
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: scaruffi, piero
 <!-- vault-crosslinks:end -->

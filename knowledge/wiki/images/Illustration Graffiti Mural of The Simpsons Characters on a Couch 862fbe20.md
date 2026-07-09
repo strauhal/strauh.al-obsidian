@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Two Figures Embracing on a Couch, Stylized Painting 9e3bdb95|Illustration Two Figures Embracing on a Couch, Stylized Painting]] — shared language: couch
+- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: graffiti
 - [[knowledge/wiki/images/Illustration Black, White, And Grey Geometric Op Art Wall Mural aaeef571|Illustration Black, White, And Grey Geometric Op Art Wall Mural]] — shared language: mural
 - [[knowledge/wiki/images/Illustration Mural of Goku as Chef for Taqueria Goku 19071bdf|Illustration Mural of Goku as Chef for Taqueria Goku]] — shared language: mural
 - [[knowledge/wiki/images/Illustration Mural of a Woman with Elaborate Headdress and Flowers a014e2e4|Illustration Mural of a Woman with Elaborate Headdress and Flowers]] — shared language: mural
-- [[knowledge/wiki/images/Document Script Draft with Handwritten Revisions for The Simpsons by Thomas Pynchon 66c774fe|Document Script Draft with Handwritten Revisions for The Simpsons by Thomas Pynchon]] — shared language: simpsons
 <!-- vault-crosslinks:end -->

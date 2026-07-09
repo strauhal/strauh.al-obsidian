@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Transparent Sign Showing Reconstructed Tower Over Ruins 4d0e4100|Transparent Sign Showing Reconstructed Tower Over Ruins]] — named in this note
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins, tower
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower
 - [[_archive/auto-generated/images-stale/engraving of a large domed tower and ruins on a bridge with figures fb3478e6|engraving of a large domed tower and ruins on a bridge with figures]] — shared language: ruins, tower
 - [[knowledge/wiki/images/The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains 755a7767|The Ruins of Sikandar Bagh Palace Showing the Skeletal Remains]] — shared language: ruins, showing
+- [[knowledge/wiki/images/Photograph of an Abstract Architectural Model with Transparent Panels 674ee24a|Photograph of an Abstract Architectural Model with Transparent Panels]] — shared language: transparent
 <!-- vault-crosslinks:end -->

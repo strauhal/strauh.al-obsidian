@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
 - [[knowledge/wiki/books/timothy-francis-leary-the-game-of-life-new-falcon-publications|The Game of Life-New Falcon Publications]] — shared language: game
-- [[knowledge/wiki/images/Screenshot Screenshot of a Sailor Moon dress up game interface. by Avi 7f0a2280|Screenshot Screenshot of a Sailor Moon dress up game interface. by Avi]] — shared language: game, interface
-- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: game, interface
+- [[knowledge/wiki/images/Screenshot Screenshot of a Sailor Moon dress up game interface. by Avi 7f0a2280|Screenshot Screenshot of a Sailor Moon dress up game interface. by Avi]] — shared language: interface, game
+- [[knowledge/wiki/images/Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue b5cbcc44|Screenshot Isometric Grid Puzzle Video Game Interface with Digital Displays on Blue]] — shared language: interface, game
 - [[knowledge/wiki/artists/Artist - t l|Artist - t l]] — shared language: game
 <!-- vault-crosslinks:end -->

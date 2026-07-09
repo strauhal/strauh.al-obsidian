@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach 8b72e48e|Illustration Engraving of Domed Tower, Bridge, and Figures in Andernach]] — shared language: domed, engraving, tower
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: tower, domed, bridge
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: ruins, tower
 - [[knowledge/wiki/images/black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893 0e9d54e0|black and white photograph of a crowded bridge leading to a large domed neoclassical building 1893]] — shared language: domed, bridge, large
 - [[knowledge/wiki/images/Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins b9974d71|Illustration Black Cube Superimposed on an Old Architectural Engraving of Ruins]] — shared language: ruins, engraving
+- [[knowledge/wiki/images/Image SOYMARION ENGRAVING 5fa73197|Image SOYMARION ENGRAVING]] — shared language: engraving
 <!-- vault-crosslinks:end -->

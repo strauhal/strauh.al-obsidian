@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/lanterns_on_the_
 
 - [[knowledge/wiki/images/self portrait with chinese lanterns by egon schiele 1912 905716a0|self portrait with chinese lanterns by egon schiele 1912]] — shared language: lanterns
 - [[knowledge/wiki/books/leonard-koren-wabi-sabi-for-artists-designers-poets-philosophers-stone-bridge-press|Wabi-Sabi for Artists, Designers, Poets & Philosophers-Stone Bridge Press]] — shared language: bridge
+- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 - [[knowledge/wiki/images/Black and White Photograph of a Bridge, Water, and Birds Flying 3d5e0ef6|Black and White Photograph of a Bridge, Water, and Birds Flying]] — shared language: bridge
 - [[knowledge/wiki/images/Photograph Hong Kong Zhuhai Macao Bridge 8be627e4|Photograph Hong Kong Zhuhai Macao Bridge]] — shared language: bridge
-- [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: bridge
 <!-- vault-crosslinks:end -->

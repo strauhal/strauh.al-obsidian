@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/the_grand_stairc
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase
 - [[knowledge/wiki/images/the grand staircase eaton hall by joseph nash 1849 d3fec459|the grand staircase eaton hall by joseph nash 1849]] — shared language: staircase, grand
 - [[knowledge/wiki/images/design for a stage set with a grand staircase by giuseppe galli bibiena c 1740 1f491d39|design for a stage set with a grand staircase by giuseppe galli bibiena c 1740]] — shared language: staircase, grand
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: grand
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: staircase
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Crowds f9257c1a|Photograph Black and White Photograph of Grand Neoclassical Building with Crowds]] — shared language: grand
 <!-- vault-crosslinks:end -->

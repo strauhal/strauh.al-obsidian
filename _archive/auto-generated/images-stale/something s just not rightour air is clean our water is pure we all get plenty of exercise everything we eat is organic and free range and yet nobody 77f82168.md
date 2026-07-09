@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/archive/auto-generated/artists-stale/Artist - alex gregory 2001|Artist - alex gregory 2001]] — named in this note
 - [[knowledge/wiki/artists/Artist - Alex|Artist - Alex]] — named in this note
 - [[knowledge/wiki/images/Comic Something's just not right our air is clean, our water is pure, we all get plenty of exercise, everything we eat is organic and free range, and 851f069d|Comic Something's just not right our air is clean, our water is pure, we all get plenty of exercise, everything we eat is organic and free range, and]] — shared language: plenty, exercise, eat
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: free, something, pure
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: something, free, pure
 - [[knowledge/wiki/books/kant-immanuel-critique-of-pure-reason|Critique of Pure Reason]] — shared language: pure
 <!-- vault-crosslinks:end -->

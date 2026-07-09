@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Photograph Photograph of Islamic Tilework with Scalloped Medallion and Hexagonal Tiles 84c2dea9|Photograph Photograph of Islamic Tilework with Scalloped Medallion and Hexagonal Tiles]] — shared language: medallion, scalloped, islamic
-- [[_archive/auto-generated/images-stale/circular islamic geometric and arabesque tile mosaic on a background of turquoise hexagonal tiles d8e93877|circular islamic geometric and arabesque tile mosaic on a background of turquoise hexagonal tiles]] — shared language: arabesque, islamic, turquoise
+- [[_archive/auto-generated/images-stale/circular islamic geometric and arabesque tile mosaic on a background of turquoise hexagonal tiles d8e93877|circular islamic geometric and arabesque tile mosaic on a background of turquoise hexagonal tiles]] — shared language: arabesque, islamic, hexagonal
 - [[knowledge/wiki/images/Photograph Circular Islamic Geometric and Arabesque Tile Mosaic cb82b8ef|Photograph Circular Islamic Geometric and Arabesque Tile Mosaic]] — shared language: arabesque, islamic
 - [[_archive/auto-generated/images-stale/stylized geometric design featuring red and blue central motif over blue swirling patterns 52387c65|stylized geometric design featuring red and blue central motif over blue swirling patterns]] — shared language: central, patterns, featuring
 - [[knowledge/wiki/images/Illustration Stylized Geometric And Arabesque Design On Page 93 8a7d20cd|Illustration Stylized Geometric And Arabesque Design On Page 93]] — shared language: arabesque

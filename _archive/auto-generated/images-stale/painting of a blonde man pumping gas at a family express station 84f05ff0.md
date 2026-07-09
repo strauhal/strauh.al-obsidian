@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/images/Man Pumping Gas At Family Express Station At Night c7a2a92c|Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, express, gas
 - [[_archive/auto-generated/images-stale/Photograph Man Pumping Gas At Family Express Station At Night 656a7443|Photograph Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, express, gas
 - [[_archive/auto-generated/images-stale/photo of a man outside family express gas station 260ac7a8|photo of a man outside family express gas station]] — shared language: express, gas, station
-- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: station, family
+- [[knowledge/wiki/images/Man Pumping Gas And Smoking At Night f372e20c|Man Pumping Gas And Smoking At Night]] — shared language: pumping, gas
 <!-- vault-crosslinks:end -->

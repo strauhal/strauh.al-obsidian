@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: staircase
 - [[knowledge/wiki/images/Illustration Overhead View Of A Spiral Staircase With Patterned Floor 51d715ee|Illustration Overhead View Of A Spiral Staircase With Patterned Floor]] — shared language: spiral, staircase, floor
 - [[knowledge/wiki/images/Modern Kitchen And Spiral Staircase In Open Plan Interior f090fe5d|Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, interior
 - [[_archive/auto-generated/images-stale/Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior 026a54e5|Photograph Modern Kitchen And Spiral Staircase In Open Plan Interior]] — shared language: spiral, staircase, interior
 - [[_archive/auto-generated/images-stale/black and white photograph of a glass spiral staircase from above e45ac679|black and white photograph of a glass spiral staircase from above]] — shared language: spiral, staircase
+- [[knowledge/wiki/images/Photograph Black And White Photograph Of A Glass Spiral Staircase From Above 1afe4347|Photograph Black And White Photograph Of A Glass Spiral Staircase From Above]] — shared language: spiral, staircase
 <!-- vault-crosslinks:end -->

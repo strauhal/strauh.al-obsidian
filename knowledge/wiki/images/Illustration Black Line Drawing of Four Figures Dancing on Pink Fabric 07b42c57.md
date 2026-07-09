@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 - [[knowledge/wiki/images/Illustration Four Black and White Relief Prints of a Portrait on Fabric 0e850100|Illustration Four Black and White Relief Prints of a Portrait on Fabric]] — shared language: fabric, four, fabric.jpeg
 - [[knowledge/wiki/images/Photograph Line Drawing Tattoo of Two Nude Figures Dancing b9ec4aa1|Photograph Line Drawing Tattoo of Two Nude Figures Dancing]] — shared language: dancing, line
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Technician
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
 - [[knowledge/wiki/images/Illustration Abstract Graphic Design with Warped American Flag Elements cbdc758e|Illustration Abstract Graphic Design with Warped American Flag Elements]] — shared language: flag, american
 - [[knowledge/wiki/images/Man with Red Marks on Face, Raising Fist, American Flag 8cb1a488|Man with Red Marks on Face, Raising Fist, American Flag]] — shared language: american, flag
-- [[knowledge/wiki/images/Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket f50f650f|Screenshot Social Media Post Featuring Vanilla Ice in American Flag Jacket]] — shared language: flag, american
+- [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: reflecting
 <!-- vault-crosslinks:end -->

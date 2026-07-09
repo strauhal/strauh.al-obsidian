@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Photograph Black and White Photographic Spread of Young Man in Urban Alleyway 473bb9bf|Photograph Black and White Photographic Spread of Young Man in Urban Alleyway]] — shared language: alleyway, spread, urban
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[knowledge/wiki/people/Yohji Yamamoto|Yohji Yamamoto]] — shared language: japanese
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[_archive/auto-generated/images-stale/photograph of a woman in black techwear clothing standing on a paved walkway in an urban park 4519428b|photograph of a woman in black techwear clothing standing on a paved walkway in an urban park]] — shared language: clothing, urban, standing
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 <!-- vault-crosslinks:end -->

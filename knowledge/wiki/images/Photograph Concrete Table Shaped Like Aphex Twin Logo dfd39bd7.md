@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Con
 
 - [[knowledge/wiki/anchors/aphex-twin|Aphex Twin]] — named in this note
 - [[knowledge/wiki/images/Black And White Portrait Of Aphex Twin With Reflections 49911b6f|Black And White Portrait Of Aphex Twin With Reflections]] — shared language: aphex, twin
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/wiki/images/Illustration Hand Drawn Sketches for Aphex Twin Logo and Typography by Paul Nicholson e1d872bf|Illustration Hand Drawn Sketches for Aphex Twin Logo and Typography by Paul Nicholson]] — shared language: aphex, twin, logo
 - [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: like
+- [[knowledge/wiki/images/Ageispolis Music Video Still by Aphex Twin (1992) 1eb9f76d|Ageispolis Music Video Still by Aphex Twin (1992)]] — shared language: aphex, twin
 <!-- vault-crosslinks:end -->

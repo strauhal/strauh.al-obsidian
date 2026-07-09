@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/photography/daido_moriyama.html"
 source_relpath: "photography/daido_moriyama.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # photography daido moriyama daido moriyama
@@ -19,19 +19,19 @@ strauh.al/photography/daido_moriyama/daido_moriyama
 
 # [strauh.al](https://strauh.al)/[photography](https://strauh.al/photography)/daido_moriyama
 
-[1619523650404.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/1619523650404.jpg)
-[1619523682056.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/1619523682056.jpg)
-[1619523714707.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/1619523714707.jpg)
-[1619523906322.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/1619523906322.jpg)
-[1619538399749.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/1619538399749.jpg)
-[20180908182403.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/20180908182403.jpg)
-[20180908182415.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/20180908182415.jpg)
-[20180908182427.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/20180908182427.jpg)
-[20180908182438.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/20180908182438.jpg)
-[998ed10e9d5e2ac321f1205914bee9e6101fb3ac.webp](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/998ed10e9d5e2ac321f1205914bee9e6101fb3ac.webp)
-[items.txt](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/items.txt)
-[moriyama.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/moriyama.jpg)
-[tokyo-japan-2014-train-station-rush-hour.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg)
+[1619523650404.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/1619523650404.jpg)
+[1619523682056.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/1619523682056.jpg)
+[1619523714707.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/1619523714707.jpg)
+[1619523906322.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/1619523906322.jpg)
+[1619538399749.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/1619538399749.jpg)
+[20180908182403.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/20180908182403.jpg)
+[20180908182415.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/20180908182415.jpg)
+[20180908182427.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/20180908182427.jpg)
+[20180908182438.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/20180908182438.jpg)
+[998ed10e9d5e2ac321f1205914bee9e6101fb3ac.webp](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/998ed10e9d5e2ac321f1205914bee9e6101fb3ac.webp)
+[items.txt](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/items.txt)
+[moriyama.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/moriyama.jpg)
+[tokyo-japan-2014-train-station-rush-hour.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/daido_moriyama/tokyo-japan-2014-train-station-rush-hour.jpg)
 
 ## Related Local Pages
 

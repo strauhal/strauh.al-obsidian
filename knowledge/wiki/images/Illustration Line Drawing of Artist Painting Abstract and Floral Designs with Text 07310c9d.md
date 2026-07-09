@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: line
 - [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text, text.jpeg
 - [[knowledge/wiki/people/Martha Argerich|Martha Argerich]] — shared language: line
-- [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line
 <!-- vault-crosslinks:end -->

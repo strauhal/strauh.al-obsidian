@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The City by Vlad
 - [[knowledge/wiki/artists/Artist - vladimir bonacic|Artist - vladimir bonacic]] — shared language: vladimir
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city
 - [[knowledge/wiki/books/vladimir-mayakovsky-a-cloud-in-trousers|A Cloud in Trousers]] — shared language: vladimir
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[knowledge/wiki/maps/Library - Literature|Library - Literature]] — shared language: vladimir
+- [[knowledge/wiki/images/cross kors by vladimir bonacic 1969 f3a80881|cross kors by vladimir bonacic 1969]] — shared language: vladimir
 <!-- vault-crosslinks:end -->

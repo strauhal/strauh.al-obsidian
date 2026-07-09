@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Ernest Henry Shackleton - South_ the story of Shackleton's last expedition, 1914-1917-Duke Classics (2012).epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # South the story of Shackleton's last expedition, 1914-1917-Duke Classics

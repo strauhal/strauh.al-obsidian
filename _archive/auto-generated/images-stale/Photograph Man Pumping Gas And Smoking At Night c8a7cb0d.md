@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Man Pumping Gas And Smoking At Night f372e20c|Man Pumping Gas And Smoking At Night]] — named in this note
 - [[knowledge/wiki/images/Man Pumping Gas At Family Express Station At Night c7a2a92c|Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, gas, night
 - [[_archive/auto-generated/images-stale/Photograph Man Pumping Gas At Family Express Station At Night 656a7443|Photograph Man Pumping Gas At Family Express Station At Night]] — shared language: pumping, gas, night
-- [[knowledge/wiki/images/Black And White Photograph Of A Gas Station At Night 7d4d415b|Black And White Photograph Of A Gas Station At Night]] — shared language: gas, night
-- [[_archive/auto-generated/images-stale/Photograph Black And White Photograph Of A Gas Station At Night 91f54635|Photograph Black And White Photograph Of A Gas Station At Night]] — shared language: gas, night
+- [[knowledge/wiki/images/Illustration Blonde Man Pumping Gas At Family Express Station a00ac440|Illustration Blonde Man Pumping Gas At Family Express Station]] — shared language: pumping, gas
+- [[_archive/auto-generated/images-stale/painting of a blonde man pumping gas at a family express station 84f05ff0|painting of a blonde man pumping gas at a family express station]] — shared language: pumping, gas
 <!-- vault-crosslinks:end -->

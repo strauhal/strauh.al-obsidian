@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Screen Dis
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/images/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — named in this note
 - [[_archive/auto-generated/images-stale/Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork 41b296ee|Photograph Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: pearlstein's, positano, philip
 - [[_archive/auto-generated/images-stale/Screen Displaying Philip Pearlstein's Positano 4 Artwork 89864fc4|Screen Displaying Philip Pearlstein's Positano 4 Artwork]] — shared language: pearlstein's, positano, philip
 - [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
 - [[_archive/auto-generated/images-stale/Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 91e41558|Photograph Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
-- [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Body, The Screen, and Displacement|Constellation - The Body, The Screen, and Displacement]] — shared language: screen
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - D
 - [[knowledge/wiki/images/cyberpunk 5cf1f5a5|cyberpunk]] — named in this note
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, scene
 - [[knowledge/wiki/images/Illustration Detailed Isometric Cyberpunk Building With Many Characters And Activities e1b17a62|Illustration Detailed Isometric Cyberpunk Building With Many Characters And Activities]] — shared language: cyberpunk, isometric, detailed
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: isometric, city, street
 - [[knowledge/wiki/images/Illustration Detailed Isometric Illustration of a Bustling Futuristic City eb32de33|Illustration Detailed Isometric Illustration of a Bustling Futuristic City]] — shared language: isometric, detailed, city
+- [[knowledge/wiki/images/Illustration Detailed Isometric View of a Bustling Steampunk Inspired City f4f97db2|Illustration Detailed Isometric View of a Bustling Steampunk Inspired City]] — shared language: isometric, detailed, city
 <!-- vault-crosslinks:end -->

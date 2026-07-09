@@ -15,8 +15,8 @@ This note exists because generated pages linked this spelling or alias. The rich
 
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: latent, space, idea
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: latent, space
-- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, space
+- [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, space

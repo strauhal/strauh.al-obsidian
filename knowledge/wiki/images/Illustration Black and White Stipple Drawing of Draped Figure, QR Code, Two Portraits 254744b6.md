@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - B
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: code
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
+- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/images/Illustration Black and White Stipple Drawing of Three Cats Looking Up f32cba37|Illustration Black and White Stipple Drawing of Three Cats Looking Up]] — shared language: stipple
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits
+- [[knowledge/wiki/collections/Collection - portraits|Collection - portraits]] — shared language: portraits
 <!-- vault-crosslinks:end -->

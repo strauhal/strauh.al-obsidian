@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Aer
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, view
 - [[knowledge/wiki/images/Aerial View Of Urban Sprawl Next To Dense Forest 44220ae9|Aerial View Of Urban Sprawl Next To Dense Forest]] — shared language: next, aerial, view
 - [[knowledge/wiki/images/Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza a8c5164f|Screenshot Aerial View of Chappell Roan's Performance at Lollapalooza]] — shared language: aerial, view
 - [[knowledge/wiki/artists/Artist - marie helene vieira da silva|Artist - marie helene vieira da silva]] — shared language: vieira
+- [[knowledge/wiki/artists/Artist - thefacetpixel|Artist - thefacetpixel]] — shared language: aerial, view
 <!-- vault-crosslinks:end -->

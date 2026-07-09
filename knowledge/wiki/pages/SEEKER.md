@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/seeker.html"
 source_relpath: "seeker.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # SEEKER
@@ -46,5 +46,5 @@ Original FilenameStructured TitleStatus
 - [[knowledge/wiki/pages/SEEKER 2 local folder renamer|SEEKER 2 local folder renamer]] — shared language: seeker, generate, none
 - [[knowledge/wiki/books/the-lost-generation-compact|The Lost Generation - Compact]] — shared language: generation
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
+- [[knowledge/wiki/books/we-used-to-read-things-in-this-country-noah-mccormack|We Used to Read Things in This Country - Noah McCormack]] — shared language: used
 <!-- vault-crosslinks:end -->

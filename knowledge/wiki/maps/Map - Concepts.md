@@ -3,8 +3,8 @@ title: Map - Concepts
 type: map
 aliases: [Idea Atlas, The Idea Atlas, Concept Atlas]
 tags: [map, concepts, atlas]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # The Idea Atlas
@@ -118,7 +118,7 @@ Orbiting: [[Barry McGee]] · [[Egon Schiele]] · [[Yohji Yamamoto]] · [[Rei Kaw
 - [[Welcome|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — shared language: ideas, works, knowledge
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: attention, economy, feed
-- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, authorship, human-machine
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: tug, works, knowledge
+- [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: works, authorship, human-machine
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: latent, attention, internet
 <!-- vault-crosslinks:end -->

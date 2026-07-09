@@ -9,8 +9,8 @@ metadata: curated
 aliases: [excerpt from Grosz Chaos-Territory-Art]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/excerpt_from_Grosz_Chaos-Territory-Art.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Chaos, Territory, Art: Deleuze and the Framing of the Earth (excerpt)

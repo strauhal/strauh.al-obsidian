@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Knight & Stiny-Making Grammars]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Knight & Stiny-Making Grammars.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Making Grammars: From Computing with Shapes to Computing with Things

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/web_art.html"
 source_relpath: "knowledge_base/web_art.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base web art
@@ -52,11 +52,11 @@ strauh.al/knowledge_base/web_art
 ## Discovered Connections
 
 - [[knowledge/wiki/Home|strauh.al Knowledge Base]] — named in this note
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web, nodes, neural
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, ideas
-- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, ideas
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: web, end, people
-- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: knowledge, start, end
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: knowledge, people
-- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, page
+- [[knowledge/wiki/pages/knowledge base speed racer|knowledge base speed racer]] — shared language: base, knowledge, none
+- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base, pages
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: web
+- [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: web, knowledge, concepts
+- [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: web
+- [[knowledge/wiki/works/Arcades Project (Revisited)|Arcades Project (Revisited)]] — shared language: web, websites
 <!-- vault-crosslinks:end -->

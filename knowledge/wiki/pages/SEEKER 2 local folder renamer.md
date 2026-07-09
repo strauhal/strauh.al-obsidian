@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/seeker2.html"
 source_relpath: "seeker2.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # SEEKER 2 local folder renamer
@@ -45,6 +45,6 @@ OriginalTypeProposed name (editable)Status
 - [[knowledge/wiki/books/adolf-hitler-mein-kampf-the-original-accurate-and-complete-english|Mein Kampf- The Original, Accurate, and Complete English]] — shared language: accurate
 - [[knowledge/wiki/books/daniel-kahneman-thinking-fast-and-slow|Thinking, Fast and Slow]] — shared language: fast
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
 - [[knowledge/wiki/pages/scripts|scripts]] — shared language: rename, none, related
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

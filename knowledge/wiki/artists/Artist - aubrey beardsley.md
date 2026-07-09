@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
 - [[knowledge/wiki/images/Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell b6b7b89d|Man Aims Device At Flying Pig Between Industrial Smokestacks by Aubrey Powell]] — shared language: aubrey
 - [[knowledge/wiki/books/alain-de-botton-how-proust-can-change-your-life-vintage|How Proust Can Change Your Life-Vintage]] — shared language: change
-- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 - [[knowledge/wiki/books/we-used-to-read-things-in-this-country-noah-mccormack|We Used to Read Things in This Country - Noah McCormack]] — shared language: things
+- [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — shared language: death
 <!-- vault-crosslinks:end -->

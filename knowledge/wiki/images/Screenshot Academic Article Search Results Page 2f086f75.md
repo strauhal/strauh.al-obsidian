@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: academic
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: page
 - [[knowledge/wiki/images/Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned c857aca6|Screenshot Google Images Search Results Showing Crab Nebula and The Fall of the Damned]] — shared language: results, search, screenshot
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: search
 - [[knowledge/wiki/images/Screenshot Screenshot of News Article About Vacant Homes and Homelessness 422d2d7c|Screenshot Screenshot of News Article About Vacant Homes and Homelessness]] — shared language: article, screenshot
-- [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: results
 <!-- vault-crosslinks:end -->

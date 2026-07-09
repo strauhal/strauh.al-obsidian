@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - W
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field 440b52a5|Illustration Watercolor Landscape of Pine Trees on Grassy Hillside Overlooking Field]] — shared language: watercolor, trees, landscape
 - [[knowledge/wiki/artists/Artist - Trees|Artist - Trees]] — shared language: trees
 - [[knowledge/wiki/images/Illustration Four Palm Trees in Sandy Landscape Under Blue Sky 6634a976|Illustration Four Palm Trees in Sandy Landscape Under Blue Sky]] — shared language: trees, sky, landscape
+- [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: trees, landscape
 - [[knowledge/wiki/images/Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge 2a72bf3e|Illustration Oil Painting of a Grassy Meadow and Dense Forest Edge]] — shared language: meadow
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Sexual personae  art and decadence from Nefertiti to Emily Dickinson by Paglia, Camille (z-lib.org).epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Sexual personae art and decadence from Nefertiti to Emily Dickinson

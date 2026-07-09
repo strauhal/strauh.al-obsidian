@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Egon Schiele|Egon Schiele]] — shared language: working, line
+- [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: line, working
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — shared language: jung
 - [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: jung
-- [[knowledge/wiki/images/Comic Four Panel Comic Discussing AI Art Versus Human Drawing And Kim Jung Gi 3fa261e8|Comic Four Panel Comic Discussing AI Art Versus Human Drawing And Kim Jung Gi]] — shared language: kim, jung
 <!-- vault-crosslinks:end -->

@@ -37,5 +37,5 @@ Images attributed by filename: 5
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: davis
 - [[knowledge/wiki/books/mill-john-stuart-utilitarianism|Utilitarianism]] — shared language: stuart
 - [[knowledge/wiki/artists/Artist - Terry A. Davis|Artist - Terry A. Davis]] — shared language: davis
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: davis, still
+- [[knowledge/wiki/images/Illustration Still Life Drawing of Three Bottles 34eeb5f1|Illustration Still Life Drawing of Three Bottles]] — shared language: still, life, bottles
 <!-- vault-crosslinks:end -->

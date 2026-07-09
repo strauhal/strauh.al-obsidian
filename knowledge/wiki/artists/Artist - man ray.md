@@ -27,6 +27,6 @@ Images attributed by filename: 2
 - [[knowledge/wiki/images/ray harryhausen b1a61e72|ray harryhausen]] — shared language: ray
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: ray
 - [[knowledge/wiki/books/gene-ray-ed-joseph-beuys-mapping-the-legacy|Joseph Beuys: Mapping the Legacy]] — shared language: ray
+- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: ray
 - [[knowledge/wiki/books/ray-bradbury-7-there-will-come-soft-rains|7 There Will Come Soft Rains]] — shared language: ray
-- [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — shared language: ray
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Two
 - [[knowledge/wiki/images/Photograph Two Framed Oil Paintings Hanging on a Textured Wall c46f3c7d|Photograph Two Framed Oil Paintings Hanging on a Textured Wall]] — shared language: textured, wall, framed
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
-- [[knowledge/wiki/images/Photograph White Information Label On A Textured Grey Wall 88a7383b|Photograph White Information Label On A Textured Grey Wall]] — shared language: textured, wall, wall.jpeg
 - [[knowledge/wiki/images/Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow 636793f7|Photograph Hand Colored Portrait of Young Girl in White Dress and Blue Bow]] — shared language: colored, hand, hand-colored
+- [[knowledge/wiki/images/Photograph White Information Label On A Textured Grey Wall 88a7383b|Photograph White Information Label On A Textured Grey Wall]] — shared language: textured, wall, wall.jpeg
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: human
 - [[knowledge/wiki/books/james-clear-atomic-habits-tiny-changes-remarkable-results|Atomic Habits Tiny Changes, Remarkable Results]] — shared language: atomic
-- [[knowledge/wiki/images/Cat Biting Scratched Human Hand 95c15047|Cat Biting Scratched Human Hand]] — shared language: hand, human, hand.jpeg
+- [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: hand, hand.jpeg
 <!-- vault-crosslinks:end -->

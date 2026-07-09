@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Digital Collage of Woman Smoking Above Drifting Grey Sedan d19508b3|Illustration Digital Collage of Woman Smoking Above Drifting Grey Sedan]] — shared language: sedan, smoking, above
+- [[knowledge/wiki/images/Illustration Digital Collage of Woman Smoking Above Drifting Grey Sedan d19508b3|Illustration Digital Collage of Woman Smoking Above Drifting Grey Sedan]] — shared language: sedan, smoking, collage
 - [[_archive/auto-generated/images-stale/digital composite of woman s eyes in keffiyeh over a driving gray sedan f39050fd|digital composite of woman s eyes in keffiyeh over a driving gray sedan]] — shared language: sedan, driving, gray
 - [[_archive/auto-generated/images-stale/digital composite of a red sedan and a woman s eyes 2a447679|digital composite of a red sedan and a woman s eyes]] — shared language: sedan, digital
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - Memory, Selfhood, and Digital Preservation|Constellation - Memory, Selfhood, and Digital Preservation]] — shared language: digital

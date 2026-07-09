@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: anime
 - [[knowledge/wiki/images/Illustration Anime Style Character On Escalator Looking Up At Viewer d5b7f082|Illustration Anime Style Character On Escalator Looking Up At Viewer]] — shared language: anime, style, character
 - [[knowledge/wiki/images/Illustration Anime style Character Holding Sword in Front of Castle by Elyvees 640363ac|Illustration Anime style Character Holding Sword in Front of Castle by Elyvees]] — shared language: anime, style, character
-- [[_archive/auto-generated/images-stale/black and white ink drawing of a mecha and a woman s face e9d3894e|black and white ink drawing of a mecha and a woman s face]] — shared language: mecha
+- [[_archive/auto-generated/images-stale/anime illustration of a blonde girl in a red plugsuit and a red mecha against a blue sky 2a9387eb|anime illustration of a blonde girl in a red plugsuit and a red mecha against a blue sky]] — shared language: mecha, anime
 <!-- vault-crosslinks:end -->

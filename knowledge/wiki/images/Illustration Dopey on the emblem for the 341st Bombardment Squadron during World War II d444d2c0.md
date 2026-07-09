@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: war
 - [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: war
+- [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: war
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: world
 - [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: world
 - [[knowledge/wiki/images/fire emblem genealogy of the holy war illustration by mayumi hirota 1996 5919e54e|fire emblem genealogy of the holy war illustration by mayumi hirota 1996]] — shared language: emblem, war

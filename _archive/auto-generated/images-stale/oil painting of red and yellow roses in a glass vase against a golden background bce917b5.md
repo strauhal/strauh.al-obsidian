@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/oil painting of red and yellow roses in a glass vase d6ffd810|oil painting of red and yellow roses in a glass vase]] — shared language: roses, vase, glass
 - [[knowledge/wiki/images/Illustration Still Life of Red and Yellow Roses in Glass Vase 1961a58a|Illustration Still Life of Red and Yellow Roses in Glass Vase]] — shared language: roses, vase, glass
 - [[knowledge/wiki/images/Illustration Oil Painting of Two Female Figures Against a Yellow Background fc753884|Illustration Oil Painting of Two Female Figures Against a Yellow Background]] — shared language: oil, against, yellow
-- [[_archive/auto-generated/images-stale/oil painting of a colorful floral bouquet in a glass vase 37b61983|oil painting of a colorful floral bouquet in a glass vase]] — shared language: vase, glass, oil
+- [[_archive/auto-generated/images-stale/roses gaeta 2004 e6740a3b|roses gaeta 2004]] — shared language: roses
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: modern, futuristic
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: cityscape
 - [[knowledge/wiki/images/ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992 892bafb7|ink and marker drawing of a futuristic city street with elevated train and flying taxis 1992]] — shared language: elevated, futuristic
-- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: cityscape, modern
 - [[knowledge/wiki/images/Illustration Vibrant Solarpunk Cityscape with Elevated Transport and Lush Greenery 1c748e42|Illustration Vibrant Solarpunk Cityscape with Elevated Transport and Lush Greenery]] — shared language: elevated, cityscape
+- [[knowledge/wiki/images/Dense Cityscape with Traditional and Modern Buildings 22e16419|Dense Cityscape with Traditional and Modern Buildings]] — shared language: cityscape, modern
+- [[knowledge/wiki/images/Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs 018288aa|Illustration Detailed Vibrant Solarpunk Cityscape with Elevated Roads and Japanese Signs]] — shared language: elevated, cityscape
 <!-- vault-crosslinks:end -->

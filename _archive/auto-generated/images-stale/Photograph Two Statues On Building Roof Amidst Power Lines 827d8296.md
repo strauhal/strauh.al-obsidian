@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/statues ea676b1d|statues]] — named in this note
 - [[knowledge/wiki/images/Two Statues On Building Roof Amidst Power Lines 8380a322|Two Statues On Building Roof Amidst Power Lines]] — shared language: statues, roof, amidst
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: power
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: power
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: amidst
 <!-- vault-crosslinks:end -->

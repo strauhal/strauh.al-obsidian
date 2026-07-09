@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Impasto Painting of Red and Orange Trees in a Landscape 1a0b4643|Illustration Impasto Painting of Red and Orange Trees in a Landscape]] — shared language: impasto, trees, orange
 - [[knowledge/wiki/images/Illustration Impasto Oil Painting of a Southwestern Mesa Landscape b14a539f|Illustration Impasto Oil Painting of a Southwestern Mesa Landscape]] — shared language: impasto, oil, landscape
 - [[_archive/auto-generated/images-stale/impasto oil painting of a southwestern mesa landscape e6dc8e58|impasto oil painting of a southwestern mesa landscape]] — shared language: impasto, oil, landscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: trees
 - [[_archive/auto-generated/images-stale/oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape c7c2eac4|oil painting of a large orange and pink cumulonimbus cloud over a dark desert landscape]] — shared language: orange, oil, landscape
+- [[knowledge/wiki/images/Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape ad828e13|Illustration Oil Painting of a Sunset Sky with Purple and Orange Clouds Over a Dark Landscape]] — shared language: orange, oil, landscape
 <!-- vault-crosslinks:end -->

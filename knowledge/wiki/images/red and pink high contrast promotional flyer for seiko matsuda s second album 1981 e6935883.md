@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/red_and_pink_hig
 - [[knowledge/wiki/images/Document Event Flyer With Colorful Abstract Background f0f8aabb|Document Event Flyer With Colorful Abstract Background]] — shared language: flyer
 - [[knowledge/wiki/images/Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face e54b617b|Illustration Woven Textile Featuring High Contrast Portrait of Downcast Face]] — shared language: contrast, high
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
-- [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: promotional
+- [[knowledge/wiki/books/leary-timothy-timothy-leary-high-priest-ronin-publishing|High Priest-Ronin Publishing]] — shared language: high
 <!-- vault-crosslinks:end -->

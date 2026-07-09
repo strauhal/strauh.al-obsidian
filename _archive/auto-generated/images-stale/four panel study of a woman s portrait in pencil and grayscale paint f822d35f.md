@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: study
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: study
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: paint
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panel
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: study
 <!-- vault-crosslinks:end -->

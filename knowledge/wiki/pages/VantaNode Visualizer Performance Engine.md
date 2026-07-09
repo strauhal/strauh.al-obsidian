@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/visuals.html"
 source_relpath: "visuals.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # VantaNode Visualizer Performance Engine
@@ -31,5 +31,5 @@ VantaNode Visualizer // Performance Engine
 - [[knowledge/wiki/images/Joseph Beuys Drawing on Blackboard During Performance b9a63ef7|Joseph Beuys Drawing on Blackboard During Performance]] — shared language: performance
 - [[knowledge/wiki/images/Live Performance With Red Stage Lighting And Audience ce17a2f7|Live Performance With Red Stage Lighting And Audience]] — shared language: performance
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: none, related, yet
+- [[knowledge/wiki/pages/artists escher|artists escher]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

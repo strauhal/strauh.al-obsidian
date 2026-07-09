@@ -27,5 +27,5 @@ Files: 2
 
 - [[knowledge/wiki/works/strauh.al Archive|strauh.al Archive]] — named in this note
 - [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: mockup
-- [[knowledge/wiki/collections/Collection - gif collection|Collection - gif collection]] — nearby note in the same source series
+- [[knowledge/wiki/pages/implicit distance|implicit distance]] — shared language: impdist
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: record
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: design
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
+- [[_archive/auto-generated/images-stale/abstract graphic design featuring warped red white and blue flag elements e7f66b2d|abstract graphic design featuring warped red white and blue flag elements]] — shared language: graphic, featuring, design
 <!-- vault-crosslinks:end -->

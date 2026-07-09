@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Fo
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits
 - [[knowledge/wiki/images/marilyn monroe by richard avedon 1957 663916db|marilyn monroe by richard avedon 1957]] — shared language: marilyn, monroe
 - [[knowledge/wiki/artists/Artist - richard avedon|Artist - richard avedon]] — shared language: marilyn, monroe, hepburn
-- [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
+- [[knowledge/wiki/images/marilyn monroe new york by richard avedon 1954 6d2da2e5|marilyn monroe new york by richard avedon 1954]] — shared language: marilyn, monroe
 <!-- vault-crosslinks:end -->

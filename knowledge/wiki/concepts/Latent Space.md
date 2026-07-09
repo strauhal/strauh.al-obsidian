@@ -51,6 +51,18 @@ trained on his life, and warping audio "interpolates between each audio sample."
 **Books (1).** [[aaron-van-den-oord-oriol-vinyals-koray-kavukcuoglu-neural-discrete-representation-learning-vq-vae|Neural Discrete Representation Learning (VQ-VAE)]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
+- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
+- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
+- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -83,16 +95,3 @@ trained on his life, and warping audio "interpolates between each audio sample."
 >
 > "The death of a social machine has never been heralded by a disharmony or a dysfunction; on the contrary, social machines make a habit of feeding on the contradictions they give rise to, on the crises they provoke, on the anxieties they engender, and on the infernal operations they regenerate. Capitalism has learned this, and has ceased doubting itself, while even socialists have abandoned belief in the possibility of capitalism's natural death by attrition. No one has ever died from contradictions. And the more it breaks down, the more it schizophrenizes, the better it works, the American way." - Gilles Deleuze, Anti-Oedipus: Capitalism and Schizophrenia
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — named in this note
-- [[knowledge/wiki/books/gilles-deleuze-anti-oedipus-capitalism-and-schizophrenia|Anti-Oedipus Capitalism and Schizophrenia]] — named in this note
-- [[knowledge/wiki/books/john-berger-ways-of-seeing|Ways of Seeing]] — named in this note
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-- [[knowledge/wiki/images/benjamin 55d136b2|benjamin]] — named in this note
-<!-- vault-crosslinks:end -->

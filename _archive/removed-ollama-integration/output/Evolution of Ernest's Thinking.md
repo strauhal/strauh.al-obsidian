@@ -80,6 +80,6 @@ The management of attention—both receiving it and giving it—is a primary dri
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — named in this note
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — named in this note
 - [[knowledge/wiki/images/systems 5559be10|systems]] — named in this note
-- [[knowledge/wiki/images/rafah e5f8f25b|rafah]] — named in this note
 - [[_archive/auto-generated/images-stale/connection map 409fea96|connection map]] — named in this note
+- [[knowledge/wiki/images/rafah e5f8f25b|rafah]] — named in this note
 <!-- vault-crosslinks:end -->

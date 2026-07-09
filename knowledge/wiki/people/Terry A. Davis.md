@@ -25,15 +25,6 @@ come to him in dreams" — to argue that "elegance is a virtue."
 
 ## Sources
 - [[diary]]
-
-<!-- quotes:start -->
-## Quotes
-
-*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
-
-> "What's reality? I don't know. When my bird was looking at my computer monitor I thought "That bird has no idea what he's looking at." And yet what does the bird do? Does he panic? No, he can't really panic, he just does the best he can. Is he able to live in a world where he's so ignorant? Well, he doesn't really have a choice. The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, I can figure this out. Maybe you have some bird ideas. Maybe that's the best you can do. Terry Davis
-<!-- quotes:end -->
-
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
@@ -44,5 +35,13 @@ come to him in dreams" — to argue that "elegance is a virtue."
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, you're, can't
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: quotes, you're, that's
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: quotes, maybe, monitor
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: quotes, you're, able
+- [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: quotes, diary
 <!-- vault-crosslinks:end -->
+
+<!-- quotes:start -->
+## Quotes
+
+*Collected quotes that speak to this — see all on [[knowledge base quotes]].*
+
+> "What's reality? I don't know. When my bird was looking at my computer monitor I thought "That bird has no idea what he's looking at." And yet what does the bird do? Does he panic? No, he can't really panic, he just does the best he can. Is he able to live in a world where he's so ignorant? Well, he doesn't really have a choice. The bird is okay even though he doesn't understand the world. You're that bird looking at the monitor, and you're thinking to yourself, I can figure this out. Maybe you have some bird ideas. Maybe that's the best you can do. Terry Davis
+<!-- quotes:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/The Future World
 - [[knowledge/wiki/artists/Artist - robert mccall|Artist - robert mccall]] — shared language: mccall, robert
 - [[knowledge/wiki/images/space station v by robert mccall 1968 1d4be7f1|space station v by robert mccall 1968]] — shared language: mccall, robert
 - [[knowledge/wiki/images/interior of discovery one by robert mccall 1968 504bb933|interior of discovery one by robert mccall 1968]] — shared language: mccall, robert
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: future
 - [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: world
+- [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 <!-- vault-crosslinks:end -->

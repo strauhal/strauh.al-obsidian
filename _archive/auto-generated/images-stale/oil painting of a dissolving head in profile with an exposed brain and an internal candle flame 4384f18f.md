@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: exposed
 - [[_archive/auto-generated/images-stale/oil painting of a pot boiling on a gas stove with blue flame 26ce79e8|oil painting of a pot boiling on a gas stove with blue flame]] — shared language: flame, oil, flame.jpg
 - [[knowledge/wiki/images/drawing of a human head in profile showing internal structure by pavel tchelitchew 1948 29ee6d4c|drawing of a human head in profile showing internal structure by pavel tchelitchew 1948]] — shared language: internal, profile, head
-- [[_archive/auto-generated/images-stale/black and white print of a woman s head in profile b8887c17|black and white print of a woman s head in profile]] — shared language: profile, head
+- [[knowledge/wiki/images/Illustration Stylized Blue and Green Human Head with Internal Structures 333fc01c|Illustration Stylized Blue and Green Human Head with Internal Structures]] — shared language: internal, head
 <!-- vault-crosslinks:end -->

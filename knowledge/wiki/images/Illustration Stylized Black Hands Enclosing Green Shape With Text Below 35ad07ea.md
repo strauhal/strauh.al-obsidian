@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Illustration Man and Woman Holding Hands in Green Field 70a05cf1|Illustration Man and Woman Holding Hands in Green Field]] — shared language: hands, green
 - [[knowledge/wiki/images/How To Draw Text In Any Shape Tutorial 87667244|How To Draw Text In Any Shape Tutorial]] — shared language: shape, text
 - [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: stylized, text
-- [[knowledge/wiki/images/Image Tiktaalik Illustration with 'Doing My Own Thang' Text f1bcb090|Image Tiktaalik Illustration with 'Doing My Own Thang' Text]] — shared language: text
+- [[knowledge/wiki/images/Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines e2602731|Illustration Abstract Painting with Yellow Shape and Intersecting Black Lines]] — shared language: shape
 <!-- vault-crosslinks:end -->

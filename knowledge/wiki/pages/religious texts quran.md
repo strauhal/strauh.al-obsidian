@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/religious_texts/quran.html"
 source_relpath: "religious_texts/quran.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # religious texts quran
@@ -71,6 +71,6 @@ Processing Quran Data...
 - [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: texts, click, explore
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: click, drag, theme
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: click, drag, zoom
-- [[knowledge/wiki/pages/brain|brain]] — shared language: drag, click, highlight
+- [[knowledge/wiki/pages/brain(wip)|brain(wip)]] — shared language: drag, click, highlight
 - [[knowledge/wiki/pages/museum mockup|museum mockup]] — shared language: click, rotate, concepts
 <!-- vault-crosslinks:end -->

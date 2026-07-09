@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Szeliski CVAABook 2ndEd]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Szeliski_CVAABook_2ndEd.pdf"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # Computer Vision: Algorithms and Applications

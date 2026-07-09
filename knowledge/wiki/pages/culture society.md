@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/culture_society.html"
 source_relpath: "culture_society.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # culture society
@@ -36,7 +36,6 @@ strauh.al/culture_society
 [1620137279265.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620137279265.jpg)
 [1620229889339.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620229889339.jpg)
 [1620302939550.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620302939550.jpg)
-[1620326854251.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620326854251.jpg)
 [1620352586019.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620352586019.jpg)
 [1620352874655.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620352874655.jpg)
 [1620421737769.png](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/1620421737769.png)
@@ -117,7 +116,6 @@ strauh.al/culture_society
 [172608332_10157581090936286_2324081374420282851_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/172608332_10157581090936286_2324081374420282851_n.jpg)
 [17362496_10155215803220159_310752744081207624_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/17362496_10155215803220159_310752744081207624_n.jpg)
 [179912861_1802902013223321_1789875186165446705_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/179912861_1802902013223321_1789875186165446705_n.jpg)
-[180643.fig.004.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/180643.fig.004.jpg)
 [180821566_1841484509356109_437417976580848247_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/180821566_1841484509356109_437417976580848247_n.jpg)
 [181471931_1389351201447113_5945831387254833276_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/181471931_1389351201447113_5945831387254833276_n.jpg)
 [182366975_10226391756725422_3284814529639144341_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/182366975_10226391756725422_3284814529639144341_n.jpg)
@@ -128,7 +126,6 @@ strauh.al/culture_society
 [187114466_10223049528338907_7104258537037094387_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/187114466_10223049528338907_7104258537037094387_n.jpg)
 [193589843_2819272158387430_899062515405074179_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/193589843_2819272158387430_899062515405074179_n.jpg)
 [194891014_4158487150882093_7608108060595937461_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/194891014_4158487150882093_7608108060595937461_n.jpg)
-[20210526_100727.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/20210526_100727.jpg)
 [203891821_162567899264560_567212787746141606_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/203891821_162567899264560_567212787746141606_n.jpg)
 [213607854_175015161353167_8019330070418289787_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/213607854_175015161353167_8019330070418289787_n.jpg)
 [214801971_172764844911532_2988849111541190918_n.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/culture_society/214801971_172764844911532_2988849111541190918_n.jpg)

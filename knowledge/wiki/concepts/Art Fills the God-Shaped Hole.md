@@ -47,6 +47,18 @@ beauty mass-produced until it re-empties the room.
 **Books (10).** [[barnard-george-william-richards-william-a-sacred-knowledge-psychedelics-and-religious-experiences-columbia-university-press|Sacred knowledge psychedelics and religious experiences-Columbia University Press]] · [[the-saint-and-the-slut-why-men-suffer-from-the-madonna-complex|The Saint And The Slut: Why Men Suffer From The Madonna Complex]] · [[brian-massumi-on-affect-divine-curation|Brian Massumi on Affect - divine curation]] · [[gautama-buddha-translated-by-john-richards-buddhism-gautama-buddha-the-dhammapada-buddha-dharma-education-association-inc|Buddhism Gautama Buddha - The Dhammapada-Buddha Dharma Education Association Inc.]] · [[immanuel-kant-critique-of-judgment|Critique of Judgment]] · [[athlone-contemporary-european-thinkers-gilles-deleuze-francis-bacon-the-logic-of-sensation-continuum|Francis Bacon The Logic of Sensation-Continuum]] · [[bhikkhu-bodhi-in-the-buddha-s-words-an-anthology-of-discourses-from-the-pali-canon-wisdom-publications|In the Buddha's Words An Anthology of Discourses From the Pali Canon-Wisdom Publications]] · [[tr-meredith-kant-critique-of-judgment-oup|Kant. Critique of Judgment-OUP]] · [[yukio-mishima-ivan-morris-nancy-wilson-ross-fumi-komatsu-the-temple-of-the-golden-pavilion-vintage|The Temple of the Golden Pavilion-Vintage]] · [[lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]]
 
 <!-- archive-links:end -->
+<!-- vault-crosslinks:start -->
+## Discovered Connections
+
+- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
+- [[knowledge/wiki/images/The Annunciation by Fra Angelico (c. 1440 1445) 3b38a5e6|The Annunciation by Fra Angelico (c. 1440 1445)]] — named in this note
+- [[knowledge/wiki/images/the annunciation by hendrick goltzius 1594 8fc0932c|the annunciation by hendrick goltzius 1594]] — named in this note
+- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
+- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
+- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
+- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
+- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
+<!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->
 ## Quotes
@@ -105,16 +117,3 @@ beauty mass-produced until it re-empties the room.
 
 *…and 19 more on [[knowledge base quotes]].*
 <!-- quotes:end -->
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/wiki/pages/knowledge base|knowledge base]] — named in this note
-- [[knowledge/wiki/images/The Annunciation by Fra Angelico (c. 1440 1445) 3b38a5e6|The Annunciation by Fra Angelico (c. 1440 1445)]] — named in this note
-- [[knowledge/wiki/images/the annunciation by hendrick goltzius 1594 8fc0932c|the annunciation by hendrick goltzius 1594]] — named in this note
-- [[knowledge/wiki/images/beautiful 346568ec|beautiful]] — named in this note
-- [[knowledge/wiki/books/w-b-yeats-a-vision|A Vision]] — named in this note
-- [[knowledge/wiki/books/mahrsweigart-final|MahrSweigart FINAL]] — named in this note
-- [[knowledge/wiki/books/narrative|Narrative]] — named in this note
-- [[knowledge/wiki/anchors/quotes|quotes]] — named in this note
-<!-- vault-crosslinks:end -->

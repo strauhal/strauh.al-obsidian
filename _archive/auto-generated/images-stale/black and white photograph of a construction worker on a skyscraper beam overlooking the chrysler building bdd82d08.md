@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building 01b03424|Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building]] — shared language: chrysler, worker, skyscraper
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, skyscraper
+- [[knowledge/wiki/images/Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building 01b03424|Photograph Construction Worker on Skyscraper Beam Overlooking Chrysler Building]] — shared language: chrysler, skyscraper, worker
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building, building.jpg
 - [[knowledge/wiki/images/Multi Level Concrete Building with Complex Walkways and Skyscraper d7ccedd8|Multi Level Concrete Building with Complex Walkways and Skyscraper]] — shared language: skyscraper, building
 - [[_archive/auto-generated/images-stale/Photograph Multi Level Concrete Building with Complex Walkways and Skyscraper f3f52d5d|Photograph Multi Level Concrete Building with Complex Walkways and Skyscraper]] — shared language: skyscraper, building
+- [[_archive/auto-generated/images-stale/black and white photograph of a statue overlooking a waterway towards a large domed building 1223ef45|black and white photograph of a statue overlooking a waterway towards a large domed building]] — shared language: overlooking, building, building.jpg
 <!-- vault-crosslinks:end -->

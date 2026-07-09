@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: aerial, cityscape
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: aerial, large
 - [[knowledge/wiki/images/Photograph Cologne Cathedral 7aed0b7d|Photograph Cologne Cathedral]] — shared language: cathedral
 - [[_archive/auto-generated/images-stale/photograph of the ornate gothic spires and rooftop of a cathedral e3187370|photograph of the ornate gothic spires and rooftop of a cathedral]] — shared language: gothic, cathedral
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
+- [[_archive/auto-generated/images-stale/aerial photograph of a densely packed cityscape 55f1d533|aerial photograph of a densely packed cityscape]] — shared language: aerial, cityscape, cityscape.jpeg
 <!-- vault-crosslinks:end -->

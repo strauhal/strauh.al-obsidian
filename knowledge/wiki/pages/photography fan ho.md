@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/photography/fan_ho.html"
 source_relpath: "photography/fan_ho.html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T19:52:01"
 tags: ["strauhal", "source/html"]
 ---
 # photography fan ho
@@ -19,13 +19,12 @@ strauh.al/photography/fan_ho
 
 # [strauh.al](https://strauh.al)/[photography](https://strauh.al/photography)/fan_ho
 
-[03-w1959.jpg.webp](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/03-w1959.jpg.webp)
-[06-private1960.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/06-private1960.jpg)
-[09-the-search1960.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/09-the-search1960.jpg)
-[14-danger1965.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/14-danger1965.jpg)
-[Smokey+World-2+copy.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/Smokey+World-2+copy.jpg)
-[fanho.jpg](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/fanho.jpg)
-[items.txt](https://raw.githubusercontent.com/strauhal/strauh.al/refs/heads/main/photography/fan_ho/items.txt)
+[03-w1959.jpg.webp](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/03-w1959.jpg.webp)
+[06-private1960.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/06-private1960.jpg)
+[09-the-search1960.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/09-the-search1960.jpg)
+[14-danger1965.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/14-danger1965.jpg)
+[Smokey+World-2+copy.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/Smokey%2BWorld-2%2Bcopy.jpg)
+[fanho.jpg](https://raw.githubusercontent.com/strauhal/strauh.al3.1/refs/heads/main/photography/fan_ho/fanho.jpg)
 
 ## Related Local Pages
 

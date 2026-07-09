@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Chi
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — shared language: video, game, playing
 - [[knowledge/wiki/images/promotional art for riot video game 1992 628547e2|promotional art for riot video game 1992]] — shared language: game, video
 - [[knowledge/wiki/images/Illustration Figure in Red Shirt in Warm Orange and Yellow Room b7593c05|Illustration Figure in Red Shirt in Warm Orange and Yellow Room]] — shared language: shirt, yellow
-- [[knowledge/wiki/images/Photograph Black And White Halftone Print Of A Chimpanzee 5dafe70f|Photograph Black And White Halftone Print Of A Chimpanzee]] — shared language: chimpanzee
 <!-- vault-crosslinks:end -->

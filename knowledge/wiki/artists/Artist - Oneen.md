@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text 34b9a427|Screenshot Screenshot of a Person on Omegle Wearing a Hat With Text]] — shared language: wearing, person
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Man in Hoodie with Device Connected to Woman with Headphones 0e29ec36|Man in Hoodie with Device Connected to Woman with Headphones]] — shared language: headphones
-- [[knowledge/wiki/images/Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear 25f81b43|Illustration Nintendo Game Boy Pocket Ad with Jeans and Underwear]] — shared language: jeans
+- [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Glasses and Bamboo Background c6dcc1ac|Illustration Stylized Portrait of Person with Glasses and Bamboo Background]] — shared language: stylized, person
 <!-- vault-crosslinks:end -->

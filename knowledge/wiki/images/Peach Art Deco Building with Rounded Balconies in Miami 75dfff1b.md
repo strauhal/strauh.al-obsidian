@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Peach Art 
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Light Blue Art Deco Building with Rounded Corners and White Trim 7ed1d037|Light Blue Art Deco Building with Rounded Corners and White Trim]] — shared language: rounded, deco, building
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building
 - [[knowledge/wiki/images/Pink Art Deco Building With Rounded Corners And Circular Windows 48655ccd|Pink Art Deco Building With Rounded Corners And Circular Windows]] — shared language: rounded, deco, building
 - [[knowledge/wiki/images/Repetitive Pattern of Balconies on a Building Facade 03182353|Repetitive Pattern of Balconies on a Building Facade]] — shared language: balconies, building
 - [[knowledge/wiki/images/Modern Grey Building with External Staircases and Balconies d8d8e92d|Modern Grey Building with External Staircases and Balconies]] — shared language: balconies, building
+- [[knowledge/wiki/images/Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones 2e16917a|Illustration Abstract Interlocking Shapes in Peach, Blue, and Gray Tones]] — shared language: peach
 <!-- vault-crosslinks:end -->

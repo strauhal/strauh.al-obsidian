@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, comic
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic
 - [[_archive/auto-generated/images-stale/black and white ink drawing of interconnected surreal comic panels 09e8234c|black and white ink drawing of interconnected surreal comic panels]] — shared language: surreal, comic
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: city
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: comic
+- [[knowledge/wiki/images/Illustration Stylized Black And White Drawing Of Figures In Two Scenes 3006c273|Illustration Stylized Black And White Drawing Of Figures In Two Scenes]] — shared language: scenes, scenes.jpg
 <!-- vault-crosslinks:end -->

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ T. Stevens, Michael - The Art Of Psychological Warfare_ How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal (2016, Make Profits Easy LLC) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-06
-updated: 2026-07-06
+created: 2026-07-08
+updated: 2026-07-08
 ---
 
 # The Art Of Psychological Warfare How To Skillfully Influence People Undetected And How To Mentally Subdue Your Enemies In Steal

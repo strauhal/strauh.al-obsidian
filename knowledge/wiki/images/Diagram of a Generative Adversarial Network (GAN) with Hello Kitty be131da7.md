@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_of_a_
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: gan, generative
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: generative, network
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: gan
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: generative
+- [[knowledge/wiki/artists/Artist - Hello Kitty Characters by Junji Ito|Artist - Hello Kitty Characters by Junji Ito]] — shared language: hello, kitty
 <!-- vault-crosslinks:end -->

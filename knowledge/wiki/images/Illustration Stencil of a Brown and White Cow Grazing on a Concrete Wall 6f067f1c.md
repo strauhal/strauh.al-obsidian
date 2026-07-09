@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration White Stencil of a Cat on a Concrete Wall 6af36582|Illustration White Stencil of a Cat on a Concrete Wall]] — shared language: stencil, concrete, wall
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: concrete
 - [[knowledge/wiki/images/Illustration Brown Horse Grazing in a Field 8ad84393|Illustration Brown Horse Grazing in a Field]] — shared language: grazing, brown
 - [[knowledge/wiki/images/Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs 224d013d|Modern Room With Green Carpet, Concrete Wall, White Table, Brown Chairs]] — shared language: concrete, brown, wall
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Curved Gridded Concrete Wall 8751fd1d|Photograph Black and White Photograph of a Curved Gridded Concrete Wall]] — shared language: concrete, wall, wall.png
+- [[knowledge/wiki/images/Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas b4070523|Illustration Brown Teddy Bear Stencil with Swirls on Pale Green Canvas]] — shared language: stencil, brown
 <!-- vault-crosslinks:end -->

@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/dead_birds_a_war
 
 - [[knowledge/wiki/images/cindy sherman by keith haring 1985 81fe23fc|cindy sherman by keith haring 1985]] — same artist: keith haring
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: haring, keith
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — shared language: haring, keith
 - [[knowledge/wiki/concepts/Interpolating the Instruction Set|Interpolating the Instruction Set]] — shared language: dead, war
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 <!-- vault-crosslinks:end -->

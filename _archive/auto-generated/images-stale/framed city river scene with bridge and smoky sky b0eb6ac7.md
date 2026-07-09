@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[_archive/auto-generated/images-stale/framed river scene with people in a boat c7c2829d|framed river scene with people in a boat]] — shared language: river, scene, framed
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: city, scene
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: bridge, city
 - [[_archive/auto-generated/images-stale/framed city street scene with crowd and buildings 1c10003d|framed city street scene with crowd and buildings]] — shared language: scene, framed, city
 - [[knowledge/wiki/images/Illustration Textured Painting of a River Landscape with Bridge and Tower 4a5a27db|Illustration Textured Painting of a River Landscape with Bridge and Tower]] — shared language: river, bridge
+- [[_archive/auto-generated/images-stale/framed modern city crowd scene with white clothed figures a580c326|framed modern city crowd scene with white clothed figures]] — shared language: scene, framed, city
 <!-- vault-crosslinks:end -->

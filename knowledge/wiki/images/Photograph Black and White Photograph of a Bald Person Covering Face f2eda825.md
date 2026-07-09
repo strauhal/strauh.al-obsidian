@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Bla
 
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Person Covering Face With Hands a1b907d2|Photograph Black And White Photograph Of Person Covering Face With Hands]] — shared language: covering, face, person
 - [[knowledge/wiki/images/Illustration Black and White Ink Drawing of Person with Halo Covering Face 652b26b1|Illustration Black and White Ink Drawing of Person with Halo Covering Face]] — shared language: covering, face, person
+- [[knowledge/wiki/images/bald ernest 431626f7|bald ernest]] — shared language: bald
 - [[knowledge/wiki/images/Person Holding Blank White Square Covering Face cb47370e|Person Holding Blank White Square Covering Face]] — shared language: covering, face, person
 - [[knowledge/wiki/images/Illustration Framed Oil Painting of a Person with Striped Head Covering 7d2a60e6|Illustration Framed Oil Painting of a Person with Striped Head Covering]] — shared language: covering, person
-- [[knowledge/wiki/images/Illustration Stylized Sketch of Person's Face With Hand Covering Eye f18dce98|Illustration Stylized Sketch of Person's Face With Hand Covering Eye]] — shared language: covering, face
 <!-- vault-crosslinks:end -->

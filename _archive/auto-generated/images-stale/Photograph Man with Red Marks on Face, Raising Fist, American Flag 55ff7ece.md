@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Close Up Of Older Man In Suit Against American Flag d726f08d|Close Up Of Older Man In Suit Against American Flag]] — shared language: american, flag, flag.jpg
 - [[_archive/auto-generated/images-stale/Photograph Close Up Of Older Man In Suit Against American Flag 0b1c1411|Photograph Close Up Of Older Man In Suit Against American Flag]] — shared language: american, flag, flag.jpg
 - [[_archive/auto-generated/images-stale/abstract pastel painting with red and blue marks 4afc662e|abstract pastel painting with red and blue marks]] — shared language: marks
-- [[knowledge/wiki/images/Illustration Abstract Graphic Design with Warped American Flag Elements cbdc758e|Illustration Abstract Graphic Design with Warped American Flag Elements]] — shared language: flag, american
+- [[_archive/auto-generated/images-stale/abstract painting of dense orange marks on black background d88acdef|abstract painting of dense orange marks on black background]] — shared language: marks
 <!-- vault-crosslinks:end -->

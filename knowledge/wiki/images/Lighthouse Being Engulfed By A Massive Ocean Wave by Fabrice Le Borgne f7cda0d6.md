@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Lighthouse
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/artists/Artist - delphi fabrice|Artist - delphi fabrice]] — shared language: fabrice
 - [[knowledge/wiki/images/Large Ocean Wave Breaking in Blue Water fe043270|Large Ocean Wave Breaking in Blue Water]] — shared language: ocean, wave
+- [[knowledge/wiki/artists/Artist - delphi fabrice|Artist - delphi fabrice]] — shared language: fabrice
 - [[knowledge/wiki/images/Illustration Lighthouse And Buildings Under A Blue Sky be6ea595|Illustration Lighthouse And Buildings Under A Blue Sky]] — shared language: lighthouse
 - [[knowledge/wiki/images/Illustration Impasto Painting of Ocean Wave Crashing on Rocks cdf47edb|Illustration Impasto Painting of Ocean Wave Crashing on Rocks]] — shared language: ocean, wave
 - [[knowledge/wiki/images/wave c8640d58|wave]] — shared language: wave

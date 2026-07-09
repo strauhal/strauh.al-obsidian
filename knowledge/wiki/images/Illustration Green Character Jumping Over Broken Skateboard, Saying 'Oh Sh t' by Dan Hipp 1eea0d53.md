@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - G
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken
+- [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, hipp
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: broken
 - [[knowledge/wiki/images/Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can c2c5edc7|Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can]] — shared language: jumping, character
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard

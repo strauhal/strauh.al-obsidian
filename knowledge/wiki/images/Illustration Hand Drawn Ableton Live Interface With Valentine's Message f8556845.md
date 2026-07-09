@@ -25,8 +25,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand, drawn
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: live, hand
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Geometric Shapes and Patterns 8e8fcb7f|Illustration Grid of Hand Drawn Geometric Shapes and Patterns]] — shared language: drawn, hand, hand-drawn
 - [[knowledge/wiki/images/Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline ea11657d|Illustration Hand Drawn Cubes Transitioning from Solid Black to White Outline]] — shared language: drawn, hand, hand-drawn
 - [[knowledge/wiki/images/Illustration Grid of Hand Drawn Perspective Sketches of Interior Rooms 466a0aab|Illustration Grid of Hand Drawn Perspective Sketches of Interior Rooms]] — shared language: drawn, hand, hand-drawn

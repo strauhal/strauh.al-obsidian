@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Sun roars in
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: view
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: view
 - [[knowledge/wiki/images/Illustration Abstract Geometric Landscape with Sun and Mountains a7dfbc02|Illustration Abstract Geometric Landscape with Sun and Mountains]] — shared language: sun
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: view
 - [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: sun
+- [[knowledge/wiki/artists/Artist - Anna Mill and Luke Jones|Artist - Anna Mill and Luke Jones]] — shared language: anna
 <!-- vault-crosslinks:end -->

@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow a6da445d|Illustration Abstract Painting with Dynamic Swirls of Dark Blue, Pink, and Yellow]] — shared language: swirls, dynamic, pink
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: dynamic
 - [[_archive/auto-generated/images-stale/large abstract painting with red black blue and yellow swirls 627a7a7b|large abstract painting with red black blue and yellow swirls]] — shared language: swirls, yellow
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dynamic
 - [[knowledge/wiki/images/Illustration Abstract Pastel Swirls with Pink, Blue, and Green Hues cbc5f651|Illustration Abstract Pastel Swirls with Pink, Blue, and Green Hues]] — shared language: swirls, pink
-- [[knowledge/wiki/images/Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes 34dd38cc|Illustration Abstract Painting with Green Swirls, Grids, and Colorful Shapes]] — shared language: swirls
 <!-- vault-crosslinks:end -->

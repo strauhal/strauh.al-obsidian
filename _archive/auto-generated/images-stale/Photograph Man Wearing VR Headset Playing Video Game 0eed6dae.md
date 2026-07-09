@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Man Wearing VR Headset Playing Video Game 6819790d|Man Wearing VR Headset Playing Video Game]] — named in this note
 - [[_archive/auto-generated/images-stale/photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user c25cff9b|photograph of a chimpanzee wearing a yellow shirt and playing a video game under a sign reading user]] — shared language: video, game, playing
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 - [[knowledge/wiki/images/Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign 1ef78e8d|Photograph Chimpanzee In Yellow Shirt Playing Video Game Under 'USER' Sign]] — shared language: video, game, playing
-- [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video
 <!-- vault-crosslinks:end -->

@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Cla
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Classical Building Under Construction 99341c75|Photograph Black and White Photograph of a Classical Building Under Construction]] — shared language: classical, building
 - [[knowledge/wiki/images/Photograph Black And White Photograph Of Classical Building Reflected In Water 8da6b944|Photograph Black And White Photograph Of Classical Building Reflected In Water]] — shared language: classical, building, water
 - [[knowledge/wiki/images/black and white photograph of a large classical building electricity building under construction with extensive scaffolding viewed from across a water 4f87cf59|black and white photograph of a large classical building electricity building under construction with extensive scaffolding viewed from across a water]] — shared language: across, classical, building
 - [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: foliage, tree, foliage.jpg
+- [[knowledge/wiki/images/Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway 0ff3a1a1|Photograph Black and White Photograph of Classical Exposition Buildings Along Waterway]] — shared language: exposition, classical
 <!-- vault-crosslinks:end -->

@@ -1799,7 +1799,7 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // gated tightly on an actual "what do you look like / picture of you" style
   // ask, not just any message containing the word "you", to avoid becoming
   // the kind of noise that's worse than not showing a photo at all.
-  var PERSONAL_PHOTO_RE = /(what.{0,15}look like|pictures? of (you|yourself)|photos? of (you|yourself)|see (you|your face)|show (me )?(a )?(picture|photo) of (you|yourself))/i;
+  var PERSONAL_PHOTO_RE = /(what.{0,15}look like|pictures? of (you|yourself|ernest)|photos? of (you|yourself|ernest)|see (you|your face)|show (me )?(a )?(picture|photo) of (you|yourself|ernest))/i;
   function samplePersonalPhotos(n){
     var pool = [];
     for(var i=0;i<N;i++){ if(nodes[i].personal) pool.push(i); }
@@ -1818,9 +1818,18 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // "Ernest Strauhal" life note (the vault's own curated bio synthesis)
   // regardless of keyword overlap, so it's available to correct a wrong
   // premise, not just confirm a right one.
-  var BIO_TOPIC_RE = /\b(siblings?|brothers?|sisters?|mother|mom|fathers?|dad|parents?|family|grow up|grew up|childhood|born|birthday|age|old are you|schools?|colleges?|universit(y|ies)|studied?|major|degrees?|went to|attend|grad(uate|uated)?|alma mater|jobs?|works?|career|profession|teach(er|ing)?|married|marriage|engaged|fianc|girlfriend|boyfriend|partners?|relationships?|dating|single|live|hometown|piano)\b/i;
-  var bioNoteIdx = -1;
-  for(var i=0;i<N;i++){ if(nodes[i].path==="knowledge/wiki/life/Ernest Strauhal.md"){ bioNoteIdx=i; break; } }
+  var BIO_TOPIC_RE = /\b(siblings?|brothers?|sisters?|mother|mom|fathers?|dad|parents?|family|grow up|grew up|childhood|born|birthday|age|old are you|schools?|colleges?|universit(y|ies)|studied?|major|degrees?|went to|attend|grad(uate|uated)?|alma mater|jobs?|works?|career|profession|teach(er|ing)?|married|marriage|engaged|fianc|girlfriend|boyfriend|partners?|relationships?|dating|single|live|hometown|piano|god|gods|religion|religious|atheis(t|m)|believ|belief|politic|worldview|values|opinions?|decisions?|decide|intuition|deliberat|afraid|fears?|insecur|confiden|optimis|pessimis|realis(t|m)|absurdis|mbti|enneagram|astrology|self.typ|personality|temperament|laugh|humor|humour|funny|conflict|argu|habits?|regrets?|proudest|proud of|influenc(e|ed)|friends?)\b/i;
+  // The vault has grown a small cluster of short "life" notes that between
+  // them hold most of what a visitor might ask about Ernest directly (bio,
+  // beliefs/temperament, PAS personality result) -- keyword overlap alone
+  // can miss all three for a query anchored on an unfamiliar term or a wrong
+  // premise, so any note in this bundle is unconditionally available once the
+  // query is recognizably personal, not just the single bio note.
+  var BIO_NOTE_PATHS = ["knowledge/wiki/life/Ernest Strauhal.md","knowledge/wiki/life/Beliefs and Temperament.md","knowledge/wiki/life/Personality (PAS).md"];
+  var bioNoteIdxs = BIO_NOTE_PATHS.map(function(p){
+    for(var i=0;i<N;i++){ if(nodes[i].path===p) return i; }
+    return -1;
+  }).filter(function(i){ return i!==-1; });
   function retrieve(query){
     var terms = query.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
     var scored = [];
@@ -1856,8 +1865,12 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     if(PERSONAL_PHOTO_RE.test(query)){
       samplePersonalPhotos(3).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
     }
-    if(bioNoteIdx!==-1 && BIO_TOPIC_RE.test(query) && idxs.indexOf(bioNoteIdx)===-1){
-      idxs.unshift(bioNoteIdx);   // front of the list: this is the anchor fact-check, not a maybe
+    if(BIO_TOPIC_RE.test(query)){
+      // front of the list, in reverse so Ernest Strauhal.md ends up first:
+      // this is the anchor fact-check, not a maybe
+      for(var b=bioNoteIdxs.length-1;b>=0;b--){
+        if(idxs.indexOf(bioNoteIdxs[b])===-1) idxs.unshift(bioNoteIdxs[b]);
+      }
     }
     return idxs;
   }
@@ -2288,7 +2301,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "unrelated image just to have a picture on screen is worse than not showing one at all.\n\n"+
       "The same goes for a specific book, movie, or album if one's in the notes below: say the specific "+
       "work by name (not a vague \"a book about X\") so it actually opens, but only when the conversation is "+
-      "genuinely about it.\n\nRelevant notes:\n"+
+      "genuinely about it.\n\n"+
+      "One more real thing, separate from all of that: if someone asks to see a picture of you/yourself/"+
+      "ernest specifically, a real personal photo gets shown automatically, behind the scenes -- you don't "+
+      "control this and the photo's title won't be a normal sentence (camera-generated junk like \"IMG_0186\"), "+
+      "so don't try to name it or describe it. Just respond like the photo is already there, casually -- "+
+      "something like \"here you go\" or a one-line reaction -- never claim you don't have one or couldn't "+
+      "find one for this specific case.\n\nRelevant notes:\n"+
       (context || "(nothing closely matched -- answer from a general sense of the archive, or say you're not sure)");
 
     var messages = [{role:"system", text:sysPrompt}].concat(history);
@@ -2308,6 +2327,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       history.push({role:"assistant", text:full});
       var found = {};
       jumpVisitedImage = {};   // fresh per reply -- don't skip an image just because a past reply visited it
+      // Personal photos are named after camera junk (IMG_0186 etc.) -- no one
+      // would ever naturally say that title out loud, so waiting for the model
+      // to mention it verbatim (the normal mechanism below) would never fire.
+      // Trigger this one directly off the query itself instead.
+      if(PERSONAL_PHOTO_RE.test(q)){
+        samplePersonalPhotos(1).forEach(function(i){ queueJump(i); });
+      }
       speak(full, function(clause){
         // fires the instant this clause STARTS being spoken -- queue a jump for
         // any mention that's new as of this clause, so the graph moves in step

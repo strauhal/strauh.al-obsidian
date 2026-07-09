@@ -37,7 +37,7 @@ mentally and physically handicapped children and adults. The full sequence lives
 
 ## Connections
 - [[Family]] — the lineage behind the name (and behind [[Trainpilled]]).
-- [[Megan]] — his fiancée; the center of the present.
+- [[Megan]] — proposed in 2026; he now refers to her as his wife. The single biggest influence on how he thinks, by his own account, outside the artists/philosophers already in the archive. The center of the present.
 - [[Map - Timeline]] — the life as a sequence.
 - [[Failures and Abandoned Projects]] · [[The Ceremony]] — the fall and the threshold.
 - [[strauh.al Archive]] — "the closest thing to my consciousness that i can capture in html."
@@ -56,8 +56,8 @@ mentally and physically handicapped children and adults. The full sequence lives
 - [[knowledge/wiki/anchors/california|california]] — named in this note
 - [[knowledge/wiki/people/Balthus|Balthus]] — shared language: diary, left, school
 - [[knowledge/wiki/people/Rei Kawakubo|Rei Kawakubo]] — shared language: lineage, left, diary
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: diary, san, francisco
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
 - [[knowledge/wiki/books/elkins-james-why-art-cannot-be-taught-a-handbook-for-art-students|Why art cannot be taught a handbook for art students]] — shared language: taught
 - [[knowledge/wiki/chatgpt/Memory Review|ChatGPT Memory Review]] — shared language: sacramento, school, diary
+- [[knowledge/wiki/images/Photograph of San Francisco Street Art About Gentrification db35ca3f|Photograph of San Francisco Street Art About Gentrification]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

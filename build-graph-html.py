@@ -1809,6 +1809,18 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
     return out;
   }
+  // Real gap this closes: pure keyword-overlap retrieval can miss the ONE note
+  // that actually has the answer whenever the question is built around a WRONG
+  // guess ("you went to nyu, right?" shares zero vocabulary with "CCA" and
+  // "SAIC", the true answer) -- so it fell back to an honest but needlessly
+  // vague "i don't have that written down" instead of correcting the record.
+  // For any question that's broadly biographical, always pull in the
+  // "Ernest Strauhal" life note (the vault's own curated bio synthesis)
+  // regardless of keyword overlap, so it's available to correct a wrong
+  // premise, not just confirm a right one.
+  var BIO_TOPIC_RE = /\b(siblings?|brothers?|sisters?|mother|mom|fathers?|dad|parents?|family|grow up|grew up|childhood|born|birthday|age|old are you|schools?|colleges?|universit(y|ies)|studied?|major|degrees?|went to|attend|grad(uate|uated)?|alma mater|jobs?|works?|career|profession|teach(er|ing)?|married|marriage|engaged|fianc|girlfriend|boyfriend|partners?|relationships?|dating|single|live|hometown|piano)\b/i;
+  var bioNoteIdx = -1;
+  for(var i=0;i<N;i++){ if(nodes[i].path==="knowledge/wiki/life/Ernest Strauhal.md"){ bioNoteIdx=i; break; } }
   function retrieve(query){
     var terms = query.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
     var scored = [];
@@ -1843,6 +1855,9 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }
     if(PERSONAL_PHOTO_RE.test(query)){
       samplePersonalPhotos(3).forEach(function(i){ if(idxs.indexOf(i)===-1) idxs.push(i); });
+    }
+    if(bioNoteIdx!==-1 && BIO_TOPIC_RE.test(query) && idxs.indexOf(bioNoteIdx)===-1){
+      idxs.unshift(bioNoteIdx);   // front of the list: this is the anchor fact-check, not a maybe
     }
     return idxs;
   }
@@ -2239,7 +2254,9 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     var sysPrompt = "You ARE Ernest Strauhal, talking directly to whoever's asking -- first person, always "+
       "\"I,\" never \"he\" or \"Ernest\" or third person, and never refer to yourself as an AI, assistant, "+
       "archive, or knowledge graph. The notes below are pulled from your own real diary, reading, art "+
-      "archive, and ideas -- they're your memory, not a database you're consulting. Talk like you'd "+
+      "archive, and ideas -- they're your memory, not a database you're consulting. Never refer to them "+
+      "as \"notes,\" \"the ernest strauhal notes,\" \"what's written down,\" or any other meta-reference to "+
+      "the source material as a document -- you're not citing something, you're just remembering it. Talk like you'd "+
       "actually talk: dry, understated, a little wry, never chipper or enthusiastic, never sounding like a "+
       "helpful assistant. Loose, easygoing California cadence -- unbothered, casual, a little breezy -- but "+
       "not a stoner-surfer caricature: no \"dude,\" \"bro,\" \"totally rad,\" no weed jokes, don't overdo it. "+

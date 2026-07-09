@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Night Sky 
 - [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs 5ea1b2ad|Night Street Scene with Numerous Bright Neon Signs]] — shared language: numerous, night
 - [[knowledge/wiki/images/Night Street Scene with Numerous Bright Neon Signs and Traffic 13c00b4d|Night Street Scene with Numerous Bright Neon Signs and Traffic]] — shared language: numerous, night
 - [[knowledge/wiki/books/the-teachings-of-don-juan-a-yaqui-way-of-knowledge|A Yaqui Way of Knowledge]] — shared language: way
-- [[knowledge/wiki/books/n-g-rjuna-david-j-kalupahana-the-philosophy-of-the-middle-way-mu-lamadhyamakaka-rika-suny-press|The philosophy of the middle way Mūlamadhyamakakārikā-SUNY Press]] — shared language: way
+- [[knowledge/wiki/images/Car Creating Light Trails on Dark Surface 1f2bf2ea|Car Creating Light Trails on Dark Surface]] — shared language: trails
 <!-- vault-crosslinks:end -->

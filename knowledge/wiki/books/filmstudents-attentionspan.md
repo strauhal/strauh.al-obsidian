@@ -37,7 +37,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
@@ -45,4 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — same category: psychology
 - [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — same category: psychology
 - [[knowledge/wiki/books/elliot-rodger-my-twisted-world|My Twisted World]] — same category: psychology
+- [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — same category: psychology
 <!-- vault-crosslinks:end -->

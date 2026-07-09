@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/Concrete with 'SACARMNETO' Inscription and Utility Plate 496e1c1b|Concrete with 'SACARMNETO' Inscription and Utility Plate]] — named in this note
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: utility
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription 7604f750|Photograph Black and White Photograph of Grand Neoclassical Building with Columbus Inscription]] — shared language: inscription
-- [[_archive/auto-generated/images-stale/ink drawing of a residential street with utility poles and houses 5c57b1b2|ink drawing of a residential street with utility poles and houses]] — shared language: utility
 - [[knowledge/wiki/images/Black and White Photograph of Crucifix on Utility Pole with Wires ec021f7e|Black and White Photograph of Crucifix on Utility Pole with Wires]] — shared language: utility
+- [[_archive/auto-generated/images-stale/black and white drawing of pears and grapes on a plate 52d50b2e|black and white drawing of pears and grapes on a plate]] — shared language: plate, plate.jpg
 <!-- vault-crosslinks:end -->

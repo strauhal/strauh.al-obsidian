@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Andy Warhol|Andy Warhol]] — named in this note
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: law
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: law
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: law
 - [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague 2021|Artist - lisa clague 2021]] — shared language: lisa
+- [[knowledge/archive/auto-generated/artists-stale/Artist - lisa clague 2021 3|Artist - lisa clague 2021 3]] — shared language: lisa
 <!-- vault-crosslinks:end -->

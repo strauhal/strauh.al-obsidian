@@ -39,7 +39,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/christopher-lasch-the-culture-of-narcissism-w-w-norton-company|The Culture of Narcissism-W. W. Norton & Company]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
@@ -47,4 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/barnard-george-william-richards-william-a-sacred-knowledge-psychedelics-and-religious-experiences-columbia-university-press|Sacred knowledge psychedelics and religious experiences-Columbia University Press]] — same category: psychology
 - [[knowledge/wiki/books/gabriel-tupinamba-the-desire-of-psychoanalysis-exercises-in-lacanian-thinking-diaeresis-northwestern-university-press|The Desire of Psychoanalysis Exercises in Lacanian Thinking (Diaeresis)-Northwestern University Press]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
+- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 <!-- vault-crosslinks:end -->

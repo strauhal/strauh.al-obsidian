@@ -6,7 +6,7 @@ tags: ["strauhal", "manifest"]
 ---
 # Raw Source Manifest
 
-- HTML root: `/Users/erneststrauhal/GitHub/strauh.al4` (76 HTML files)
+- HTML root: `/Users/erneststrauhal/GitHub/strauh.al4` (78 HTML files)
 - Image root: `/Users/erneststrauhal/GitHub/strauh.al3.1` (8403 image files)
 - Media symlinks live in `media/` so Obsidian can render source files without copying the archive.
 

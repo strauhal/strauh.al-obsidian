@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/ecstasy_of_st_fr
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: francis
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: francis
 - [[knowledge/wiki/images/1983 372 saint francis jpg 8db44989|1983 372 saint francis jpg]] — shared language: francis
-- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: francis
+- [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: francis
 <!-- vault-crosslinks:end -->

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/images/Photograph Photograph of a Framed Line Drawing of Still Life f8da881e|Photograph Photograph of a Framed Line Drawing of Still Life]] — shared language: still, life
 - [[knowledge/wiki/images/Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi 84a3ef9e|Illustration Still Life Painting of Various Vessels and Objects by Giorgio Morandi]] — shared language: objects, still, life
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
-- [[knowledge/wiki/images/Illustration Still Life Drawing of Three Bottles 34eeb5f1|Illustration Still Life Drawing of Three Bottles]] — shared language: still, life
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: life
 <!-- vault-crosslinks:end -->

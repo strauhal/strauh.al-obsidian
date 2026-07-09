@@ -100,9 +100,9 @@ Temple on Monday at 5 sounds good though. I'll be there
 - [[knowledge/private/fanmail/threads/16-pleasure-to-meet-you-peets|Private Correspondence - 16 - Pleasure to Meet you (Peets)]] — same category: private-correspondence
 - [[knowledge/private/fanmail/threads/06-dinner-tmrw|Private Correspondence - 06 - Dinner tmrw]] — same category: private-correspondence
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: able, music, hear
-- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: think, it's, time
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: think, time, it's
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: think, able, time
 - [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: sounds, music, temple
-- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: hey, it's, that's
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: it's, that's, play
+- [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: hey, that's, it's
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: that's, it's, play
 <!-- vault-crosslinks:end -->

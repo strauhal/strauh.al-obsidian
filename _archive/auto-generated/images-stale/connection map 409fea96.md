@@ -27,5 +27,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2024
 
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: connection
 - [[_archive/removed-ollama-integration/output/connection-critic|connection-critic]] — shared language: connection
-- [[_archive/removed-ollama-integration/output/Evolution of Ernest's Thinking|Evolution of Ernest's Thinking]] — shared language: connection
+- [[_archive/auto-generated/images-stale/concrete interior room with skylight modular seating and large window view of pine trees and water 423dfffa|concrete interior room with skylight modular seating and large window view of pine trees and water]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

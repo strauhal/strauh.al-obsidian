@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — same category: psychology
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
+- [[knowledge/wiki/books/elliot-rodger-my-twisted-world|My Twisted World]] — same category: psychology
 <!-- vault-crosslinks:end -->

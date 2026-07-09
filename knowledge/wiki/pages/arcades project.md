@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/arcades_project.html"
 source_relpath: "arcades_project.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # arcades project
@@ -281,5 +281,5 @@ Skrillex and Jordan Peterson
 - [[knowledge/wiki/books/ai-dating|ai dating]] — named in this note
 - [[knowledge/wiki/images/autechre 0591ce6c|autechre]] — named in this note
 - [[knowledge/wiki/images/dance bb4fa441|dance]] — named in this note
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
+- [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 <!-- vault-crosslinks:end -->

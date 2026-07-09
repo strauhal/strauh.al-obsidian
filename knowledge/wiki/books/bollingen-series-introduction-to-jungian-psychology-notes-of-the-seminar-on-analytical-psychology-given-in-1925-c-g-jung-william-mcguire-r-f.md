@@ -39,7 +39,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 - [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — same category: psychology
@@ -47,4 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — same category: psychology
+- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 <!-- vault-crosslinks:end -->

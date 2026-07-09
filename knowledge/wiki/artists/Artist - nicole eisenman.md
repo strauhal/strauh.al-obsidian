@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Two Horses Running in Snowy Landscape with Digital Overlay 99e837cb|Illustration Two Horses Running in Snowy Landscape with Digital Overlay]] — shared language: running
 - [[knowledge/wiki/images/running free by faith ringgold 1973 87b56ea2|running free by faith ringgold 1973]] — shared language: running
 - [[knowledge/wiki/images/two women running on the beach the race by pablo picasso 1922 2a3e7a34|two women running on the beach the race by pablo picasso 1922]] — shared language: running
-- [[knowledge/wiki/images/Illustration Pencil Sketch of Running Cheetah with Motion Blur 59d3c158|Illustration Pencil Sketch of Running Cheetah with Motion Blur]] — shared language: running
+- [[knowledge/wiki/images/Two Men Working On Large Map On Floor 061e118e|Two Men Working On Large Map On Floor]] — shared language: men
 <!-- vault-crosslinks:end -->

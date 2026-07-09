@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Document - Docum
 - [[knowledge/wiki/books/pdf-document-2|PDF document 2]] — shared language: document
 - [[knowledge/wiki/images/Document Title Page with Stylized Figures and Text 0a3a6470|Document Title Page with Stylized Figures and Text]] — shared language: document, page
 - [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: suit, dark
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: panels
 <!-- vault-crosslinks:end -->

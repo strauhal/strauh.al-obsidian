@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Person in 
 - [[knowledge/wiki/images/Person Hunched Over on Street Surrounded by Plastic Bottles a2e9a7f9|Person Hunched Over on Street Surrounded by Plastic Bottles]] — shared language: bottles, person
 - [[knowledge/wiki/images/Photograph Older Person Looking at Laptop Displaying Family Photos d4ecd53e|Photograph Older Person Looking at Laptop Displaying Family Photos]] — shared language: laptop, person
 - [[knowledge/wiki/images/Illustration Still Life Drawing of Three Bottles 34eeb5f1|Illustration Still Life Drawing of Three Bottles]] — shared language: bottles
-- [[knowledge/wiki/images/Dog Sitting on Stool with Pipe in Mouth 1491abde|Dog Sitting on Stool with Pipe in Mouth]] — shared language: pipe
+- [[knowledge/wiki/images/Image Graphic Design of Pipe and Text 'I Can't Believe It's Not une pipe ' 4764abfb|Image Graphic Design of Pipe and Text 'I Can't Believe It's Not une pipe ']] — shared language: pipe
 <!-- vault-crosslinks:end -->

@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: charles
 - [[knowledge/wiki/maps/Map - Current Reading|Map - Current Reading]] — shared language: charles
-- [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922|Artist - charles sheeler 1922]] — shared language: charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1922 2|Artist - charles sheeler 1922 2]] — shared language: charles
 - [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1930|Artist - charles sheeler 1930]] — shared language: charles
+- [[knowledge/archive/auto-generated/artists-stale/Artist - charles sheeler 1947|Artist - charles sheeler 1947]] — shared language: charles
 <!-- vault-crosslinks:end -->

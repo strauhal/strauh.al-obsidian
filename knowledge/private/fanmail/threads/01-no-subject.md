@@ -31,6 +31,6 @@ hi
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — shared language: private, incoming, direction
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: subject
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: subject
 <!-- vault-crosslinks:end -->

@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern e8f40279|Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern]] — shared language: camouflage, poly, armed
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: low
 - [[_archive/auto-generated/images-stale/3d rendering of a low poly city street with pink car 1362af3f|3d rendering of a low poly city street with pink car]] — shared language: poly, low
 - [[knowledge/wiki/images/Screenshot Low Poly 3D City Street with Pink Car and Street View UI dde70352|Screenshot Low Poly 3D City Street with Pink Car and Street View UI]] — shared language: poly, low
 - [[_archive/auto-generated/images-stale/diptych of abstract colorful fabric panels with camouflage like pattern 771abb91|diptych of abstract colorful fabric panels with camouflage like pattern]] — shared language: camouflage, pattern, pattern.jpeg
-- [[knowledge/wiki/images/Illustration Diptych of Abstract Colorful Fabric Panels with Camouflage like Pattern 17f455e2|Illustration Diptych of Abstract Colorful Fabric Panels with Camouflage like Pattern]] — shared language: camouflage, pattern, pattern.jpeg
 <!-- vault-crosslinks:end -->

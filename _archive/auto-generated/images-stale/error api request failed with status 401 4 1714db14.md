@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[_archive/auto-generated/images-stale/error api request failed with status 401 bb2a8c1d|error api request failed with status 401]] — shared language: request, failed, api
-- [[_archive/auto-generated/images-stale/error api request failed with status 401 c3868c42|error api request failed with status 401]] — shared language: request, failed, api
-- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 41a3baf7|error api request failed with status 401 2]] — shared language: request, failed, api
-- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 c63b70f6|error api request failed with status 401 2]] — shared language: request, failed, api
-- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 da9aa702|error api request failed with status 401 2]] — shared language: request, failed, api
+- [[_archive/auto-generated/images-stale/error api request failed with status 401 bb2a8c1d|error api request failed with status 401]] — shared language: request, failed, error
+- [[_archive/auto-generated/images-stale/error api request failed with status 401 c3868c42|error api request failed with status 401]] — shared language: request, failed, error
+- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 41a3baf7|error api request failed with status 401 2]] — shared language: request, failed, error
+- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 c63b70f6|error api request failed with status 401 2]] — shared language: request, failed, error
+- [[_archive/auto-generated/images-stale/error api request failed with status 401 2 da9aa702|error api request failed with status 401 2]] — shared language: request, failed, error
 <!-- vault-crosslinks:end -->

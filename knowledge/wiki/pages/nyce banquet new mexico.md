@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet/new_mexico.html"
 source_relpath: "nyce/banquet/new_mexico.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet new mexico
@@ -38,6 +38,6 @@ strauh.al/nyce/banquet/new_mexico
 - [[knowledge/wiki/_index|strauh.al Index]] — shared language: nyce, banquet, compiled
 - [[knowledge/wiki/strauh.al Index|strauh.al Index]] — shared language: nyce, banquet, compiled
 - [[knowledge/raw/dreams|Dreams Series]] — shared language: refs, raw.githubusercontent.com, https
-- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: new
+- [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
 <!-- vault-crosslinks:end -->

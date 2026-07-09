@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/friends_album_co
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: friends
 - [[knowledge/wiki/artists/Artist - rick guidice|Artist - rick guidice]] — shared language: rick
 - [[knowledge/wiki/maps/Library - Design and Making|Library - Design and Making]] — shared language: rick
 - [[knowledge/wiki/anchors/rick-tetzeli|Rick Tetzeli]] — shared language: rick
 - [[knowledge/wiki/books/rick-rubin-the-creative-act-a-way-of-being-penguin-publishing-group|The Creative Act A Way of Being-Penguin Publishing Group]] — shared language: rick
-- [[knowledge/wiki/images/Screenshot Screenshot of Apple Music album cover with abstract geometric art 10c2d77e|Screenshot Screenshot of Apple Music album cover with abstract geometric art]] — shared language: album, cover
 <!-- vault-crosslinks:end -->

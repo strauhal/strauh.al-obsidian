@@ -29,7 +29,7 @@ Sent from my iPhone
 - [[knowledge/private/fanmail/threads/16-pleasure-to-meet-you-peets|Private Correspondence - 16 - Pleasure to Meet you (Peets)]] — same category: private-correspondence
 - [[knowledge/private/fanmail/threads/04-catching-up|Private Correspondence - 04 - Catching Up]] — same category: private-correspondence
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, sent
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private, sent
+- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, incoming, direction
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: private-correspondence, private, tmrw

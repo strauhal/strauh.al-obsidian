@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd, people
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
 - [[_archive/auto-generated/images-stale/oil painting of interlocking abstract shapes in peach blue and gray tones e31ef166|oil painting of interlocking abstract shapes in peach blue and gray tones]] — shared language: tones, oil, tones.jpeg
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
+- [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
 <!-- vault-crosslinks:end -->

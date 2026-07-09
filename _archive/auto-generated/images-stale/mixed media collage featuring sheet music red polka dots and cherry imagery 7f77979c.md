@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/concept-stubs/Image Archive|Image Archive]] — shared language: media
 - [[knowledge/wiki/images/Illustration Two Seated Women, One In Polka Dots, One In Blue b9a012c8|Illustration Two Seated Women, One In Polka Dots, One In Blue]] — shared language: polka, dots
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music
-- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: music, media
+- [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, music
 <!-- vault-crosslinks:end -->

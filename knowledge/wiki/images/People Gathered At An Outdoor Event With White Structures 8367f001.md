@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/People Gat
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: event
 - [[knowledge/wiki/images/Illustration Oil Painting of Five People Gathered Around a Table 5f1ad987|Illustration Oil Painting of Five People Gathered Around a Table]] — shared language: gathered, people
 - [[knowledge/wiki/images/Performer Singing To Crowd At Outdoor Event With Phones d83cf466|Performer Singing To Crowd At Outdoor Event With Phones]] — shared language: event, outdoor
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: people
 - [[knowledge/wiki/images/People Attending An AI Artists Showcase Event 6689d958|People Attending An AI Artists Showcase Event]] — shared language: event, people
+- [[knowledge/wiki/images/Architectural Diagrams of Structures in Thessaloniki and Ephesus 9396cf62|Architectural Diagrams of Structures in Thessaloniki and Ephesus]] — shared language: structures
 <!-- vault-crosslinks:end -->

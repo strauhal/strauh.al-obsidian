@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 - [[knowledge/wiki/images/San Francisco Street Scene by John Howard (1937) d027e1a3|San Francisco Street Scene by John Howard (1937)]] — shared language: san, francisco, street
 - [[knowledge/wiki/images/Homeless Person Wearing VR Headset on San Francisco Street 5ea108a2|Homeless Person Wearing VR Headset on San Francisco Street]] — shared language: san, francisco, street
 - [[knowledge/wiki/images/Photograph Cliff House, San Francisco 72dfb6d5|Photograph Cliff House, San Francisco]] — shared language: san, francisco
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: san, francisco
+- [[knowledge/wiki/images/Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text 03a203a0|Illustration Black And White Pixelated San Francisco Skyline And Bridge With Text]] — shared language: san, francisco
 <!-- vault-crosslinks:end -->

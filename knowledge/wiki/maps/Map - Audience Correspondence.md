@@ -52,7 +52,7 @@ Full messages, pseudonymized thread notes, and attachments are stored under `kno
 
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — named in this note
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: internet, stored, site
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: completed, assembled, traces
 - [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, messages
 - [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: unique, messages, fanmail
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, private

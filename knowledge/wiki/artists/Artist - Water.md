@@ -32,8 +32,8 @@ Images attributed by filename: 5
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple, ink, landscape
 - [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, person
+- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple, ink, landscape
 - [[knowledge/wiki/images/water cd9d9b2f|water]] — shared language: water
 - [[knowledge/wiki/images/Black And White Photograph Of Person Submerged In Water f59fbb2a|Black And White Photograph Of Person Submerged In Water]] — shared language: water, person
 - [[knowledge/wiki/images/Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water 5ae95de7|Illustration Abstract Painting with Pink and Orange Horizon Over Blue Water]] — shared language: water

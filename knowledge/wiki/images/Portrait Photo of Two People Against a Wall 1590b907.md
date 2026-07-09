@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Portrait P
 - [[knowledge/wiki/images/Two People Posing With Firearms Against Patterned Wall 24a6d8aa|Two People Posing With Firearms Against Patterned Wall]] — shared language: people, wall, against
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
 - [[knowledge/wiki/images/Photograph Two People in Traditional Attire Against Corrugated Wall e28f32e6|Photograph Two People in Traditional Attire Against Corrugated Wall]] — shared language: people, wall, against
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 <!-- vault-crosslinks:end -->

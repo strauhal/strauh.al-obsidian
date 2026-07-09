@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/iannis_xenakis_a
 ## Discovered Connections
 
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: worlds
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: fair
 - [[knowledge/wiki/artists/Artist - le corbusier|Artist - le corbusier]] — shared language: corbusier
 - [[knowledge/wiki/images/Some Worlds Have Two Suns by Andrew McConnell (2015 2024) 93b25be4|Some Worlds Have Two Suns by Andrew McConnell (2015 2024)]] — shared language: worlds
 - [[knowledge/wiki/images/femme et accordeon by le corbusier 1932 a367938d|femme et accordeon by le corbusier 1932]] — shared language: corbusier
-- [[knowledge/wiki/images/Photograph Black and White Photograph of the Administration Building at a World's Fair 65e047d7|Photograph Black and White Photograph of the Administration Building at a World's Fair]] — shared language: fair
 <!-- vault-crosslinks:end -->

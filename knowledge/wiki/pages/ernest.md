@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/ernest.html"
 source_relpath: "ernest.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # ernest
@@ -43,7 +43,7 @@ strauh.al/ernest
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: i've, hear, work
-- [[knowledge/raw/ernest|Ernest (bio)]] — shared language: i'm, oriented, fluent
+- [[knowledge/raw/ernest|Ernest (bio)]] — shared language: i'm, fluent, resevoir
 - [[knowledge/wiki/books/bill-burnett-dave-evans-designing-your-life|Designing Your Life]] — shared language: designing
 - [[knowledge/wiki/pages/donate|donate]] — shared language: stamp.png, referenced, preserved
 - [[knowledge/wiki/pages/disclaimer|disclaimer]] — shared language: i'm, stamp.png, currently

@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Close Up Of Golden Grain Stalk Against Dual Toned Background afd7196a|Photograph Close Up Of Golden Grain Stalk Against Dual Toned Background]] — shared language: stalk, dual, grain
 - [[_archive/auto-generated/images-stale/oil painting of red and yellow roses in a glass vase against a golden background bce917b5|oil painting of red and yellow roses in a glass vase against a golden background]] — shared language: golden, against, background
-- [[_archive/auto-generated/images-stale/close up photograph of an older man in a suit and tie against a red white and blue background 0b130d86|close up photograph of an older man in a suit and tie against a red white and blue background]] — shared language: close, against, background
 - [[knowledge/wiki/images/Illustration Warm Toned Bedroom Interior With Open Door And Golden Light 344775d7|Illustration Warm Toned Bedroom Interior With Open Door And Golden Light]] — shared language: toned, golden
+- [[_archive/auto-generated/images-stale/close up photograph of an older man in a suit and tie against a red white and blue background 0b130d86|close up photograph of an older man in a suit and tie against a red white and blue background]] — shared language: close, against, background
 - [[_archive/auto-generated/images-stale/painting of a golden eagle against a blue sky d5f2b18f|painting of a golden eagle against a blue sky]] — shared language: golden, against
 <!-- vault-crosslinks:end -->

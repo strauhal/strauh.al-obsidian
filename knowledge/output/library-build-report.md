@@ -1,6 +1,6 @@
 # Library Build Report
 
-Generated: 2026-07-08T19:52:03
+Generated: 2026-07-08T23:12:54
 
 Entries parsed: 419
 
@@ -18,7 +18,6 @@ Entries parsed: 419
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: technology, esoterica, media
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: music, sound
 - [[knowledge/wiki/books/music-reading|music reading]] — shared language: music, sound
@@ -26,4 +25,5 @@ Entries parsed: 419
 - [[knowledge/wiki/maps/Library - Music and Sound|Library - Music and Sound]] — shared language: music, sound
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, aesthetics, media
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: music, sound
+- [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
 <!-- vault-crosslinks:end -->

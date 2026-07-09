@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Graph_of_Pian
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: graph
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: graph
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: piano
 - [[knowledge/wiki/books/piano|piano]] — shared language: piano
+- [[knowledge/wiki/images/Technical Chart for Piano Stretch Tuning 44d4b7a0|Technical Chart for Piano Stretch Tuning]] — shared language: tuning, piano
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - TI
 
 - [[knowledge/wiki/images/player 6b321c3d|player]] — named in this note
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: monitor, computer, time
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: video, time
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: video, time
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: video
 <!-- vault-crosslinks:end -->

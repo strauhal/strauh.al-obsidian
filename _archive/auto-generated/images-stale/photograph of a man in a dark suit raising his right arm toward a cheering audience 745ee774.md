@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — named in this note
 - [[knowledge/wiki/images/Photograph Elon Musk Raising Right Arm Towards Cheering Audience 8c01a225|Photograph Elon Musk Raising Right Arm Towards Cheering Audience]] — shared language: cheering, raising, arm
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right, audience
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: toward
 - [[_archive/removed-ollama-integration/generated-notes/maps/Constellation - The Observer in the Age of Overload|Constellation - The Observer in the Age of Overload]] — shared language: audience
-- [[knowledge/wiki/images/Illustration Oil Painting Portrait of a Man in a Dark Suit 7fe75fd9|Illustration Oil Painting Portrait of a Man in a Dark Suit]] — shared language: suit, dark
 <!-- vault-crosslinks:end -->

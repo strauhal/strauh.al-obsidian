@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/The Conversion o
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: way
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: way
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: way
 - [[knowledge/wiki/artists/Artist - michelangelo merisi da caravaggio|Artist - michelangelo merisi da caravaggio]] — shared language: caravaggio
 - [[knowledge/wiki/images/The Taking of Christ by Caravaggio (c. 1602) bd22729b|The Taking of Christ by Caravaggio (c. 1602)]] — shared language: caravaggio
-- [[knowledge/wiki/images/medusa by michelangelo merisi da caravaggio 1597 1598 eb9c51ba|medusa by michelangelo merisi da caravaggio 1597 1598]] — shared language: caravaggio
 <!-- vault-crosslinks:end -->

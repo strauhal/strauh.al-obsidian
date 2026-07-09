@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper b5fe4627|Illustration Pencil Sketches of Animal Skulls and Female Faces on White Paper]] — shared language: skulls, animal, faces
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: studies
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: studies
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: studies
-- [[knowledge/wiki/images/Illustration Black and White Sketch of Two Stylized Female Figures b5a29636|Illustration Black and White Sketch of Two Stylized Female Figures]] — shared language: female, sketch
 <!-- vault-crosslinks:end -->

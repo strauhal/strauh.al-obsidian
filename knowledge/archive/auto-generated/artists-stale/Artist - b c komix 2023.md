@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - b c komix|Artist - b c komix]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: fuck
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: fuck
 - [[knowledge/wiki/people/Tim Hecker|Tim Hecker]] — shared language: fuck
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: jung
-- [[knowledge/wiki/artists/Artist - Kim Jung Gi|Artist - Kim Jung Gi]] — shared language: kim, jung
 <!-- vault-crosslinks:end -->

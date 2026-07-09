@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - L
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: low
 - [[knowledge/wiki/images/Screenshot Low Poly 3D City Street with Pink Car and Street View UI dde70352|Screenshot Low Poly 3D City Street with Pink Car and Street View UI]] — shared language: poly, low, low-poly
 - [[knowledge/wiki/images/Illustration Diptych of Abstract Colorful Fabric Panels with Camouflage like Pattern 17f455e2|Illustration Diptych of Abstract Colorful Fabric Panels with Camouflage like Pattern]] — shared language: camouflage, pattern, pattern.jpeg
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig f0a0d4a8|Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig]] — shared language: poly, low, low-poly
 - [[knowledge/wiki/images/Illustration Low Poly Torso Against Hot Pink Background by Gao Hang e02b7458|Illustration Low Poly Torso Against Hot Pink Background by Gao Hang]] — shared language: poly, low, low-poly
-- [[knowledge/wiki/images/Illustration Yantra Illustration of Rahu, Garuda, and a Four Armed Deity 764c2a09|Illustration Yantra Illustration of Rahu, Garuda, and a Four Armed Deity]] — shared language: armed, four, four-armed
 <!-- vault-crosslinks:end -->

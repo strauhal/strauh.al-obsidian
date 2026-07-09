@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two People
 
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: plain, people
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: plain
 - [[knowledge/wiki/images/Two People Posing With Firearms Against Patterned Wall 24a6d8aa|Two People Posing With Firearms Against Patterned Wall]] — shared language: posing, people, against
+- [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: plain
 - [[knowledge/wiki/images/Portrait Photo of Two People Against a Wall 1590b907|Portrait Photo of Two People Against a Wall]] — shared language: people, against
 <!-- vault-crosslinks:end -->

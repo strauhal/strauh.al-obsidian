@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - F
 
 - [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: rain
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: people
 <!-- vault-crosslinks:end -->

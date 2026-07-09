@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Diagram_Illus
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: diagram
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: adaptive
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: metadata
 - [[knowledge/wiki/artists/Artist - Tatsunoko Production|Artist - Tatsunoko Production]] — shared language: production
 - [[knowledge/wiki/images/Man Using Music Production Equipment In A Room 867cdc04|Man Using Music Production Equipment In A Room]] — shared language: production
-- [[knowledge/wiki/images/Speed Racer by Tatsunoko Production (1967 1968) 7bfb1e29|Speed Racer by Tatsunoko Production (1967 1968)]] — shared language: production
 <!-- vault-crosslinks:end -->

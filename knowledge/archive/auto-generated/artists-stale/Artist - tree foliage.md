@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/black and white photograph of a classical building across a body of water framed by tree branches cbd08a5a|black and white photograph of a classical building across a body of water framed by tree branches]] — shared language: tree, across, classical
 - [[knowledge/archive/auto-generated/artists-stale/Artist - tree branches|Artist - tree branches]] — shared language: tree, across, classical
 - [[knowledge/wiki/images/Bare Tree Against Blue Sky With Cloud Resembling Foliage f2fcce3f|Bare Tree Against Blue Sky With Cloud Resembling Foliage]] — shared language: foliage, tree
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: building, water
+- [[_archive/auto-generated/artists-noise/Artist - a large tree|Artist - a large tree]] — shared language: tree
 <!-- vault-crosslinks:end -->

@@ -31,5 +31,5 @@ Images attributed by filename: 3
 - [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706163717|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 - [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c-20260706165157|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 - [[_archive/auto-generated/images-stale/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
-- [[_archive/auto-generated/books-stale/drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MOMA)]] — shared language: moma
+- [[knowledge/wiki/images/Document Informational Text About Refik Anadol's Unsupervised Art Installation 1f9dac5c|Document Informational Text About Refik Anadol's Unsupervised Art Installation]] — shared language: refik
 <!-- vault-crosslinks:end -->

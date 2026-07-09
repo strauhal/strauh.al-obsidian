@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - barbara simonsen 1986|Artist - barbara simonsen 1986]] — shared language: barbara
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2017|Artist - jonas wood 2017]] — shared language: wood
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2020|Artist - jonas wood 2020]] — shared language: wood
+- [[knowledge/archive/auto-generated/artists-stale/Artist - jonas wood 2018|Artist - jonas wood 2018]] — shared language: wood
 - [[knowledge/wiki/artists/Artist - walter t wood|Artist - walter t wood]] — shared language: wood
-- [[knowledge/archive/auto-generated/artists-stale/Artist - walter t wood 1924|Artist - walter t wood 1924]] — shared language: wood
 <!-- vault-crosslinks:end -->

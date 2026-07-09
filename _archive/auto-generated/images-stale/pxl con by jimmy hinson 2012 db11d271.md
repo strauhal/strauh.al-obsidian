@@ -30,6 +30,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/PXL CON by Jimmy Hinson (2012) 86231716|PXL CON by Jimmy Hinson (2012)]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - jimmy hinson 2012|Artist - jimmy hinson 2012]] — named in this note
 - [[knowledge/wiki/images/jimmy cliff by annie leibovitz 1992 9580f2ef|jimmy cliff by annie leibovitz 1992]] — shared language: jimmy
-- [[knowledge/wiki/images/Ni a con Fruta by Diego Rivera (1943) 98d56567|Ni a con Fruta by Diego Rivera (1943)]] — shared language: con
 - [[knowledge/wiki/images/Image Chart Explaining Literary Conflict with Jimmy Neutron and Conan O'Brien 99f707ce|Image Chart Explaining Literary Conflict with Jimmy Neutron and Conan O'Brien]] — shared language: jimmy
+- [[knowledge/wiki/images/Ni a con Fruta by Diego Rivera (1943) 98d56567|Ni a con Fruta by Diego Rivera (1943)]] — shared language: con
 <!-- vault-crosslinks:end -->

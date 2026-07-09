@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - clement serveau|Artist - clement serveau]] — named in this note
+- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: clement
 - [[knowledge/archive/auto-generated/artists-stale/Artist - christian clement 1985|Artist - christian clement 1985]] — shared language: clement
-- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: clement
 - [[knowledge/wiki/artists/Artist - georges clement|Artist - georges clement]] — shared language: clement
 - [[knowledge/archive/auto-generated/artists-stale/Artist - georges clement 1984|Artist - georges clement 1984]] — shared language: clement
 <!-- vault-crosslinks:end -->

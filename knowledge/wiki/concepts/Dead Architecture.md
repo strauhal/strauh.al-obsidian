@@ -40,7 +40,7 @@ The generated body seems to move, but the motion is a pixel structure assembled 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — shared language: study, video, work
 - [[knowledge/wiki/maps/Map - Writing About Ernest|Map - Writing About Ernest]] — shared language: dead, study, vocal
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: already, latent, makes
-- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: makes, latent, read
+- [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: makes, latent, ben
 - [[knowledge/wiki/maps/Map - Reading Constellations|Map - Reading Constellations]] — shared language: implicit, latent, distance
 - [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: dead, latent
 <!-- vault-crosslinks:end -->

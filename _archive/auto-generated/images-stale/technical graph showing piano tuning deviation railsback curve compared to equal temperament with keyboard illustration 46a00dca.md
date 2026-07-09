@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard 02ba4b64|Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard]] — shared language: deviation, railsback, tuning
 - [[_archive/auto-generated/images-stale/Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard ed45b559|Diagram Graph of Piano Tuning Deviation (Railsback Curve) with Keyboard]] — shared language: deviation, railsback, tuning
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: temperament
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: technical, piano
 - [[knowledge/wiki/images/Technical Chart for Piano Stretch Tuning 44d4b7a0|Technical Chart for Piano Stretch Tuning]] — shared language: tuning, technical, piano
-- [[_archive/auto-generated/images-stale/Diagram Technical Chart for Piano Stretch Tuning 9585c4cf|Diagram Technical Chart for Piano Stretch Tuning]] — shared language: tuning, technical, piano
 <!-- vault-crosslinks:end -->

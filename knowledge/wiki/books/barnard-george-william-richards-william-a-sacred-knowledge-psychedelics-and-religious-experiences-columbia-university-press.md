@@ -39,7 +39,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/gabriel-tupinamba-the-desire-of-psychoanalysis-exercises-in-lacanian-thinking-diaeresis-northwestern-university-press|The Desire of Psychoanalysis Exercises in Lacanian Thinking (Diaeresis)-Northwestern University Press]] — same category: psychology
 - [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — same category: psychology
@@ -47,4 +46,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/christopher-simpson-science-of-coercion-communication-research-and-psychological-warfare-1945-1960|Science of Coercion Communication Research and Psychological Warfare, 1945-1960]] — same category: psychology
 - [[knowledge/wiki/books/bollingen-series-introduction-to-jungian-psychology-notes-of-the-seminar-on-analytical-psychology-given-in-1925-c-g-jung-william-mcguire-r-f|C. G. Jung & William McGuire & R. F. C. Hull & Sonu Shamdasani]] — same category: psychology
+- [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 <!-- vault-crosslinks:end -->

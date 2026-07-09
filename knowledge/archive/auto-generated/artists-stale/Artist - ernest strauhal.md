@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - ernest strauhal 2017|Artist - ernest strauhal 2017]] — shared language: fire, eyes, like
 - [[knowledge/wiki/images/Photograph DJ Turntables on Fire with a Hand f49886ce|Photograph DJ Turntables on Fire with a Hand]] — shared language: fire
-- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: like
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: like
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: like
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: like
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: like
 <!-- vault-crosslinks:end -->

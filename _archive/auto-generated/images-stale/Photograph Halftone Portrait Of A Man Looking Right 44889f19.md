@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Halftone Portrait Of A Man Looking Right f7d963ba|Halftone Portrait Of A Man Looking Right]] — named in this note
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: right
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/images/Cat Looking Right With Bokeh City Lights At Night c564d9e2|Cat Looking Right With Bokeh City Lights At Night]] — shared language: right, looking
-- [[_archive/auto-generated/images-stale/Photograph Cat Looking Right With Bokeh City Lights At Night f4539539|Photograph Cat Looking Right With Bokeh City Lights At Night]] — shared language: right, looking
 <!-- vault-crosslinks:end -->

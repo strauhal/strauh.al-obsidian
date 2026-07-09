@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1700s/portrait_of_augu
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: strong
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: strong
 - [[knowledge/wiki/artists/Artist - augustus vincent tack|Artist - augustus vincent tack]] — shared language: augustus
 - [[knowledge/wiki/images/girl in a garden by augustus vincent tack 1892 1c2a7e5e|girl in a garden by augustus vincent tack 1892]] — shared language: augustus
 - [[knowledge/wiki/artists/Artist - louis ernest barrias|Artist - louis ernest barrias]] — shared language: louis
-- [[knowledge/wiki/artists/Artist - louis wain|Artist - louis wain]] — shared language: louis
 <!-- vault-crosslinks:end -->

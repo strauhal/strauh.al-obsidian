@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/art.html"
 source_relpath: "knowledge_base/art.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base art

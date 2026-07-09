@@ -69,7 +69,7 @@ the Decadents made their subject.
 - [[knowledge/wiki/images/together 69d2c852|together]] — named in this note
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self, already, archive-links
 - [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: quotes, archive-links
-- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: schiele, egon, rather
+- [[knowledge/wiki/artists/Artist - kees van dongen|Artist - kees van dongen]] — shared language: dongen, kees, van
 <!-- vault-crosslinks:end -->
 
 <!-- quotes:start -->

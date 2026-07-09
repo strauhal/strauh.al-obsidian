@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - S
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: brick, building
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: outside, people
 - [[knowledge/wiki/images/Illustration Stylized Figures in Front of a Brick Wall 5dbf6ea5|Illustration Stylized Figures in Front of a Brick Wall]] — shared language: brick, stylized
 - [[knowledge/wiki/images/Person Engulfed In Flames Outside Building 63ac1d4a|Person Engulfed In Flames Outside Building]] — shared language: outside, building, building.jpeg
 - [[knowledge/wiki/books/neal-stephenson-snow-crash-bantam-books|Snow Crash-Bantam Books]] — shared language: snow
-- [[knowledge/wiki/images/Black Custom Car with Whitewall Tires Parked by Brick Building 25b16326|Black Custom Car with Whitewall Tires Parked by Brick Building]] — shared language: brick, building, building.jpeg
 <!-- vault-crosslinks:end -->

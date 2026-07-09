@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: screenshot, media
 - [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: wife
 - [[knowledge/wiki/images/City Buildings at Night with Heart Shape in Windows d1d0ba49|City Buildings at Night with Heart Shape in Windows]] — shared language: heart
-- [[knowledge/wiki/images/Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt ce8a742e|Louis Armstrong Plays Trumpet For Wife Lucille By Sphinx, Egypt]] — shared language: wife
+- [[knowledge/wiki/images/Red Heart Balloon Inside Blue Dumpster At Night cf863b79|Red Heart Balloon Inside Blue Dumpster At Night]] — shared language: heart
 <!-- vault-crosslinks:end -->

@@ -37,5 +37,5 @@ Images attributed by filename: 5
 - [[knowledge/wiki/images/Person With Green Skin And Red Sunglasses Splashed By Water 41963806|Person With Green Skin And Red Sunglasses Splashed By Water]] — shared language: water, splashed, skin
 - [[_archive/auto-generated/images-stale/photograph of a person with green skin and red sunglasses being splashed by water against a blue background 4ad59eca|photograph of a person with green skin and red sunglasses being splashed by water against a blue background]] — shared language: water, splashed, skin
 - [[_archive/auto-generated/artists-noise/Artist - water against a blue background|Artist - water against a blue background]] — shared language: water, splashed, skin
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: temple, ink, landscape
+- [[knowledge/wiki/images/Black and White Photograph of Person with Water on Hair 5de43358|Black and White Photograph of Person with Water on Hair]] — shared language: water, person
 <!-- vault-crosslinks:end -->

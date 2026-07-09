@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1930|Artist - pavel tchelitchew 1930]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/artists/Artist - pavel tchelitchew|Artist - pavel tchelitchew]] — shared language: pavel, tchelitchew, horses
 - [[knowledge/wiki/images/the music by pavel tchelitchew 1930 02456c6d|the music by pavel tchelitchew 1930]] — shared language: pavel, tchelitchew
-- [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1948|Artist - pavel tchelitchew 1948]] — shared language: pavel, tchelitchew
 - [[knowledge/wiki/images/st george by pavel tchelitchew 1920 bc2b53dc|st george by pavel tchelitchew 1920]] — shared language: pavel, tchelitchew
+- [[knowledge/archive/auto-generated/artists-stale/Artist - pavel tchelitchew 1948|Artist - pavel tchelitchew 1948]] — shared language: pavel, tchelitchew
 <!-- vault-crosslinks:end -->

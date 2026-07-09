@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/administration building d797c4c3|administration building]] — shared language: building, building.jpg
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: outside
 - [[knowledge/wiki/images/Person Engulfed In Flames Outside Building 63ac1d4a|Person Engulfed In Flames Outside Building]] — shared language: outside, building
 - [[_archive/auto-generated/images-stale/Photograph Person Engulfed In Flames Outside Building 23fab34d|Photograph Person Engulfed In Flames Outside Building]] — shared language: outside, building
 - [[knowledge/wiki/artists/Artist - Brick Building|Artist - Brick Building]] — shared language: building, parked
-- [[knowledge/wiki/images/Black Custom Car with Whitewall Tires Parked by Brick Building 25b16326|Black Custom Car with Whitewall Tires Parked by Brick Building]] — shared language: parked, building
 <!-- vault-crosslinks:end -->

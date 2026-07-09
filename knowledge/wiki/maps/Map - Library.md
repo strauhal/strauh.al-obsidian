@@ -44,7 +44,6 @@ Total entries: 419
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: technology, media, aesthetics
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: entries, confidant, read
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: confidant, latent, internet
@@ -52,4 +51,5 @@ Total entries: 419
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, philosophy, total
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: elegance, spontaneity, latent
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
+- [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, read
 <!-- vault-crosslinks:end -->

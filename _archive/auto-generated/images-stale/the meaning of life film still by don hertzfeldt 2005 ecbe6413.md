@@ -28,7 +28,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - don hertzfeldt 2005|Artist - don hertzfeldt 2005]] — named in this note
-- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: meaning
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: meaning, life
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: still
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: still
 - [[knowledge/wiki/maps/Map - Film Watchlist|Map - Film Watchlist]] — shared language: film

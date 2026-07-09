@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 
 - [[knowledge/wiki/images/Multi Level Concrete Building with Complex Walkways and Skyscraper d7ccedd8|Multi Level Concrete Building with Complex Walkways and Skyscraper]] — shared language: walkways, skyscraper, level
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: complex
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: level
 - [[knowledge/wiki/images/Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot 09910ad6|Illustration Indian Miniature Painting of Figures in Multi Level Palace with Chariot]] — shared language: level, multi, multi-level
 - [[knowledge/wiki/images/Modern Concrete Building With Angular Design 6ff6e4a2|Modern Concrete Building With Angular Design]] — shared language: concrete, building
-- [[_archive/auto-generated/images-stale/Photograph Modern Concrete Building With Angular Design 51a69817|Photograph Modern Concrete Building With Angular Design]] — shared language: concrete, building
 <!-- vault-crosslinks:end -->

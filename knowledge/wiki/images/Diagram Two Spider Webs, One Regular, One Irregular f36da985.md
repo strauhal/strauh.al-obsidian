@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Diagram - Two Sp
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Diagram Diagram Of Two Spider Webs From Drug Experiment cff60bbc|Diagram Diagram Of Two Spider Webs From Drug Experiment]] — shared language: webs, spider, diagram
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/images/Diagram Diagram of Spider Webs Spun Under Influence of Various Chemicals 076fd300|Diagram Diagram of Spider Webs Spun Under Influence of Various Chemicals]] — shared language: webs, spider, diagram
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: one
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: one
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: one
 <!-- vault-crosslinks:end -->

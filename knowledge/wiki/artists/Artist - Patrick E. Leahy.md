@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys bd2589c4|Image Three Panel Collage of Patrick Bateman and Pok mon Plush Toys]] — shared language: patrick
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation|The World as Will and Representation]] — shared language: world
 - [[knowledge/wiki/books/arthur-schopenhauer-the-world-as-will-and-representation-vol-1-dover-publications|The World as Will and Representation, Vol. 1-Dover Publications]] — shared language: world
-- [[knowledge/wiki/books/elliot-rodger-my-twisted-world|My Twisted World]] — shared language: world
+- [[knowledge/wiki/images/Woman Watching World Trade Center Towers Smoking 4ff2ea42|Woman Watching World Trade Center Towers Smoking]] — shared language: center, world
 <!-- vault-crosslinks:end -->

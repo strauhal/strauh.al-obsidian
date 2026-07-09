@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 
 - [[knowledge/wiki/images/Man Holding Protest Signs At Outdoor Gathering cd4a257a|Man Holding Protest Signs At Outdoor Gathering]] — shared language: gathering, outdoor, signs
 - [[_archive/auto-generated/images-stale/Photograph Man Holding Protest Signs At Outdoor Gathering 8b0d42be|Photograph Man Holding Protest Signs At Outdoor Gathering]] — shared language: gathering, outdoor, signs
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: get
 - [[_archive/auto-generated/images-stale/2019 06 30t173116z 1555039684 rc1d3097bea0 rtrmadp 3 northkorea usa southkorea jpg webp e9872126|2019 06 30t173116z 1555039684 rc1d3097bea0 rtrmadp 3 northkorea usa southkorea jpg webp]] — shared language: usa
 - [[knowledge/wiki/books/michael-heim-the-metaphysics-of-virtual-reality-oxford-university-press-usa|The Metaphysics of Virtual Reality-Oxford University Press, USA]] — shared language: usa
-- [[knowledge/wiki/books/richard-dawkins-the-selfish-gene-volume-2-oxford-university-press-usa|The Selfish Gene . Volume 2-Oxford University Press, USA]] — shared language: usa
 <!-- vault-crosslinks:end -->

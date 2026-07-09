@@ -26,7 +26,7 @@ The image archive is indexed without copying the 15 GB source folder. Notes embe
 - Image notes: 8404
 - Artist notes inferred from filenames: 1443
 - Collection/date-bucket notes: 95
-- HTML page notes: 77
+- HTML page notes: 78
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

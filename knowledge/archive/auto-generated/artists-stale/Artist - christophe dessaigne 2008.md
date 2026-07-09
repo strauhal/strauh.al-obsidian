@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/woman killed in car crash by weegee 1940 bd06a11b|woman killed in car crash by weegee 1940]] — shared language: crash
 - [[_archive/auto-generated/images-stale/the plane by sarah green 2023 68da45b7|the plane by sarah green 2023]] — shared language: plane
 - [[_archive/auto-generated/images-stale/that woman is back on the plane by fernando 2023 bbf379e6|that woman is back on the plane by fernando 2023]] — shared language: plane
+- [[knowledge/wiki/images/Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ' 76060bd3|Photograph Graffiti Under Bridge with Figures and Text 'CHUD', 'NOUD', 'DO NOT REDEEM ']] — shared language: bridge
 - [[knowledge/wiki/images/Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters 3cd42f5e|Illustration Child's Drawing of Pineapple Buildings, Plane, and Spongebob Characters]] — shared language: plane
-- [[knowledge/wiki/images/regular division of the plane vi by m c escher 1938 ea9a0659|regular division of the plane vi by m c escher 1938]] — shared language: plane
 <!-- vault-crosslinks:end -->

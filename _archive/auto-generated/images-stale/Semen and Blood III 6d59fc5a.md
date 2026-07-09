@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Semen_and_
 
 - [[knowledge/wiki/images/Semen and Blood III by Andres Serrano (1990) 08f38102|Semen and Blood III by Andres Serrano (1990)]] — shared language: semen, blood, iii
 - [[knowledge/wiki/books/cormac-mccarthy-blood-meridian-or-the-evening-redness-in-the-west|Blood Meridian - Or the Evening Redness in the West]] — shared language: blood
-- [[knowledge/wiki/images/Fish Blood by Gustav Klimt (1898) d91744d0|Fish Blood by Gustav Klimt (1898)]] — shared language: blood
 - [[knowledge/wiki/books/karl-marx-capital-volume-iii|Capital, Volume III]] — shared language: iii
+- [[knowledge/wiki/images/Fish Blood by Gustav Klimt (1898) d91744d0|Fish Blood by Gustav Klimt (1898)]] — shared language: blood
 - [[knowledge/wiki/artists/Artist - J. H. Williams III|Artist - J. H. Williams III]] — shared language: iii
 <!-- vault-crosslinks:end -->

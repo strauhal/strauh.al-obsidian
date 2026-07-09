@@ -37,10 +37,10 @@ Status: available in the local iCloud Readings folder.
 
 - [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — same category: psychology
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — same category: psychology
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/routledge-classics-jacques-lacan-ecrits-a-selection|Ecrits A Selection]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/barnard-george-william-richards-william-a-sacred-knowledge-psychedelics-and-religious-experiences-columbia-university-press|Sacred knowledge psychedelics and religious experiences-Columbia University Press]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
+- [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 <!-- vault-crosslinks:end -->

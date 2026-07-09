@@ -42,9 +42,9 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — same author: carl gustav jung
 - [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — same author: carl gustav jung
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/routledge-classics-jacques-lacan-ecrits-a-selection|Ecrits A Selection]] — same category: psychology
 - [[knowledge/wiki/books/john-marks-the-search-for-the-manchurian-candidate|The Search for the Manchurian Candidate]] — same category: psychology
 - [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — same category: psychology
+- [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 <!-- vault-crosslinks:end -->

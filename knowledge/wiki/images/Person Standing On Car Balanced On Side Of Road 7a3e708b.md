@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Person Sta
 - [[knowledge/wiki/images/Person Standing on Icy Road in Snowy Mountain Landscape a1bf5434|Person Standing on Icy Road in Snowy Mountain Landscape]] — shared language: road, standing, person
 - [[knowledge/wiki/images/Illustration Ink Sketch of a Car with Pop Up Headlights on a Road be1bab18|Illustration Ink Sketch of a Car with Pop Up Headlights on a Road]] — shared language: road, car, road.jpg
 - [[knowledge/wiki/images/Side Profile of Person Wearing a Modern VR Headset c94ea24b|Side Profile of Person Wearing a Modern VR Headset]] — shared language: side, person
-- [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
 - [[knowledge/wiki/images/Standing 3d0a82bd|Standing]] — shared language: standing
+- [[knowledge/wiki/books/jack-kerouac-on-the-road-penguin-modern-classics|On the Road (Penguin Modern Classics)]] — shared language: road
 <!-- vault-crosslinks:end -->

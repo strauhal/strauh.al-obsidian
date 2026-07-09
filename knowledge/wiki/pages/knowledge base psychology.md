@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/knowledge_base/psychology.html"
 source_relpath: "knowledge_base/psychology.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # knowledge base psychology
@@ -89,6 +89,6 @@ strauh.al/knowledge_base/psychology
 - [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
 - [[knowledge/wiki/maps/Library - Psychoanalysis and Psychology|Library - Psychoanalysis and Psychology]] — shared language: psychology, knowledge, thinking
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: personality, thinking
 - [[knowledge/wiki/books/jacques-lacan-lacan-on-paranoiac-knowledge|Lacan on Paranoiac Knowledge]] — shared language: psychology, knowledge, paranoiac
-- [[Welcome|strauh.al Knowledge Base]] — shared language: knowledge, base
 <!-- vault-crosslinks:end -->

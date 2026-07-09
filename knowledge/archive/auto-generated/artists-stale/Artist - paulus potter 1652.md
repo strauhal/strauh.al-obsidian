@@ -22,8 +22,8 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/artists/Artist - paulus potter|Artist - paulus potter]] — named in this note
 - [[knowledge/wiki/artists/Artist - paulus pontius|Artist - paulus pontius]] — shared language: paulus
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: dead
 - [[knowledge/wiki/images/the raising of the cross by paulus pontius c 1631 e969d810|the raising of the cross by paulus pontius c 1631]] — shared language: paulus
 - [[knowledge/wiki/images/the capture of field marshal paulus by boris efimovich efimov 1943 5b681d4b|the capture of field marshal paulus by boris efimovich efimov 1943]] — shared language: paulus
 - [[_archive/auto-generated/books-stale/wark-mckenzie-capital-is-dead-is-this-something-worse-2019|Wark McKenzie Capital Is Dead Is This Something Worse 2019]] — shared language: dead
-- [[knowledge/wiki/books/mckenzie-wark-capital-is-dead-is-this-something-worse|Capital Is Dead: Is This Something Worse?]] — shared language: dead
 <!-- vault-crosslinks:end -->

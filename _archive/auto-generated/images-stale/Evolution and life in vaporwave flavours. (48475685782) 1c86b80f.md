@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[_archive/auto-generated/images-stale/human evolution vf png f3f47e82|human evolution vf png]] — shared language: evolution
+- [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: life
 - [[_archive/auto-generated/images-stale/human evolution diagram 93d1b55d|human evolution diagram]] — shared language: evolution
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: life
 - [[_archive/removed-ollama-integration/generated-notes/maps/Map - Local Intelligence|Map - Local Intelligence]] — shared language: evolution
-- [[_archive/auto-generated/images-stale/life of pi 171df880|life of pi]] — shared language: life
 <!-- vault-crosslinks:end -->

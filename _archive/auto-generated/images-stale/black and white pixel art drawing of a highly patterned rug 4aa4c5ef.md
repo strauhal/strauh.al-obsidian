@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[_archive/auto-generated/images-stale/installation view of gallery with black and white patterned artworks d8c2f66f|installation view of gallery with black and white patterned artworks]] — shared language: patterned
 - [[knowledge/wiki/images/Photograph Installation View of Gallery with Black and White Patterned Artworks 6ca8f555|Photograph Installation View of Gallery with Black and White Patterned Artworks]] — shared language: patterned
 - [[knowledge/wiki/images/Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange 0d729a12|Illustration Highly Stylized Abstract Portrait of a Man in Blue and Orange]] — shared language: highly
-- [[knowledge/wiki/images/Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man 12158df6|Illustration Highly Stylized Blue And Orange Digital Portrait Of A Man]] — shared language: highly
+- [[_archive/auto-generated/images-stale/framed portrait of a woman in a patterned yellow dress ed445186|framed portrait of a woman in a patterned yellow dress]] — shared language: patterned
 <!-- vault-crosslinks:end -->

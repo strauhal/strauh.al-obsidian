@@ -33,6 +33,6 @@ Images attributed by filename: 4
 - [[knowledge/wiki/images/fallen 84cf3b93|fallen]] — named in this note
 - [[knowledge/wiki/images/The Policeman by Leon Golub (1981) 7bfd1c51|The Policeman by Leon Golub (1981)]] — shared language: golub, leon
 - [[knowledge/wiki/images/Illustration Five Men in Blue Uniforms on Red Background by Leon Golub 9f84daac|Illustration Five Men in Blue Uniforms on Red Background by Leon Golub]] — shared language: golub, leon
+- [[knowledge/wiki/artists/Artist - leon ferrari|Artist - leon ferrari]] — shared language: leon
 - [[knowledge/wiki/images/untitled by leon ferrari 1962 a1432dc1|untitled by leon ferrari 1962]] — shared language: leon
-- [[knowledge/wiki/images/untitled by leon ferrari 1964 85b401cd|untitled by leon ferrari 1964]] — shared language: leon
 <!-- vault-crosslinks:end -->

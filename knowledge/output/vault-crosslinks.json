@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-08T19:52:30",
-  "markdownFiles": 19442,
-  "existingDirectedLinks": 34400,
-  "discoveredDirectedLinks": 99707,
-  "totalDirectedLinks": 134107,
-  "uniqueConnectedPairs": 110898,
-  "filesWithDiscoveredLinks": 19442,
+  "generated": "2026-07-08T23:13:23",
+  "markdownFiles": 19446,
+  "existingDirectedLinks": 34413,
+  "discoveredDirectedLinks": 99737,
+  "totalDirectedLinks": 134150,
+  "uniqueConnectedPairs": 110926,
+  "filesWithDiscoveredLinks": 19446,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -20,9 +20,9 @@
       "discoveredOutbound": 885
     },
     "artist": {
-      "files": 3517,
-      "existingOutbound": 4576,
-      "discoveredOutbound": 20464
+      "files": 3518,
+      "existingOutbound": 4577,
+      "discoveredOutbound": 20470
     },
     "book": {
       "files": 520,
@@ -65,9 +65,9 @@
       "discoveredOutbound": 8
     },
     "html": {
-      "files": 77,
-      "existingOutbound": 230,
-      "discoveredOutbound": 616
+      "files": 78,
+      "existingOutbound": 232,
+      "discoveredOutbound": 624
     },
     "ideas": {
       "files": 1,
@@ -91,7 +91,7 @@
     },
     "index": {
       "files": 5,
-      "existingOutbound": 257,
+      "existingOutbound": 261,
       "discoveredOutbound": 40
     },
     "influences": {
@@ -145,9 +145,9 @@
       "discoveredOutbound": 10
     },
     "person": {
-      "files": 23,
-      "existingOutbound": 104,
-      "discoveredOutbound": 184
+      "files": 25,
+      "existingOutbound": 112,
+      "discoveredOutbound": 200
     },
     "private-correspondence": {
       "files": 22,
@@ -191,7 +191,7 @@
     },
     "report": {
       "files": 10,
-      "existingOutbound": 11,
+      "existingOutbound": 9,
       "discoveredOutbound": 80
     },
     "review-queue": {
@@ -46186,6 +46186,13 @@
       "discoveredOutbound": 6,
       "totalOutbound": 7
     },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260708231256.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
     "knowledge/archive/auto-generated/artists-stale/Artist - A.md": {
       "title": "Artist - A.E",
       "type": "artist",
@@ -60448,9 +60455,9 @@
     "knowledge/output/wiki-lint-report.md": {
       "title": "wiki-lint-report",
       "type": "report",
-      "existingOutbound": 2,
+      "existingOutbound": 0,
       "discoveredOutbound": 8,
-      "totalOutbound": 10
+      "totalOutbound": 8
     },
     "knowledge/private/fanmail/Private Fanmail Index.md": {
       "title": "Private Fanmail Index",
@@ -60721,9 +60728,9 @@
     "knowledge/wiki/_index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 112,
+      "existingOutbound": 114,
       "discoveredOutbound": 8,
-      "totalOutbound": 120
+      "totalOutbound": 122
     },
     "knowledge/wiki/anchors/2024-misc-bookmarks.md": {
       "title": "2024 misc bookmarks",
@@ -135226,6 +135233,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/life/Beliefs and Temperament.md": {
+      "title": "Beliefs and Temperament",
+      "type": "person",
+      "existingOutbound": 5,
+      "discoveredOutbound": 8,
+      "totalOutbound": 13
+    },
     "knowledge/wiki/life/Ernest Strauhal.md": {
       "title": "Ernest Strauhal",
       "type": "person",
@@ -135246,6 +135260,13 @@
       "existingOutbound": 10,
       "discoveredOutbound": 8,
       "totalOutbound": 18
+    },
+    "knowledge/wiki/life/Personality (PAS).md": {
+      "title": "Personality (PAS)",
+      "type": "person",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
     },
     "knowledge/wiki/life/The Ceremony.md": {
       "title": "The Ceremony",
@@ -135676,6 +135697,13 @@
     },
     "knowledge/wiki/pages/baby videos.md": {
       "title": "baby videos",
+      "type": "html",
+      "existingOutbound": 2,
+      "discoveredOutbound": 8,
+      "totalOutbound": 10
+    },
+    "knowledge/wiki/pages/brain debug test.md": {
+      "title": "brain debug test",
       "type": "html",
       "existingOutbound": 2,
       "discoveredOutbound": 8,
@@ -136244,9 +136272,9 @@
     "knowledge/wiki/strauh.al Index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 112,
+      "existingOutbound": 114,
       "discoveredOutbound": 8,
-      "totalOutbound": 120
+      "totalOutbound": 122
     },
     "knowledge/wiki/works/Arcades Project (Revisited).md": {
       "title": "Arcades Project (Revisited)",

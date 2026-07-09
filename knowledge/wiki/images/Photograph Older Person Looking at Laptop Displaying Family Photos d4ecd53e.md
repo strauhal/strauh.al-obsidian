@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Old
 ## Discovered Connections
 
 - [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family, photos
-- [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: family
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: looking
 - [[knowledge/wiki/maps/Map - Timeline|Map - Timeline]] — shared language: family
 - [[knowledge/wiki/images/family highres 9064fbef|family highres]] — shared language: family, photos
+- [[knowledge/wiki/images/Screenshot Man In Suit Looking At Laptop Above Demanding Text 98086b6c|Screenshot Man In Suit Looking At Laptop Above Demanding Text]] — shared language: laptop, looking
 <!-- vault-crosslinks:end -->

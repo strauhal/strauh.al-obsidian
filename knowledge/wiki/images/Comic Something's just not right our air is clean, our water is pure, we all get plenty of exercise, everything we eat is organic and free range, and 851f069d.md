@@ -25,7 +25,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Comic - Somethin
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, get
+- [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: comic, get, right
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: right, get
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: pure, free
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: get, comic

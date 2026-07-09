@@ -27,8 +27,8 @@ Images attributed by filename: 3
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Red Robot Fighting White Monster in Forest 058004f3|Illustration Red Robot Fighting White Monster in Forest]] — shared language: monster
-- [[knowledge/wiki/images/the monster by bernie wrightson 1973 6de53a6a|the monster by bernie wrightson 1973]] — shared language: monster
 - [[knowledge/wiki/images/Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle fc144e23|Illustration Black And White Ink Drawing Of Winged Monster Over Forest And Castle]] — shared language: monster
+- [[knowledge/wiki/images/the monster by bernie wrightson 1973 6de53a6a|the monster by bernie wrightson 1973]] — shared language: monster
 - [[knowledge/wiki/images/Crow With Monster Energy Can In Puddle 95055da0|Crow With Monster Energy Can In Puddle]] — shared language: monster
 - [[knowledge/wiki/images/Illustration Pop Art Style Monster And Woman In Bikini Poster 0325341c|Illustration Pop Art Style Monster And Woman In Bikini Poster]] — shared language: monster
 - [[knowledge/wiki/images/Illustration Black and White Illustration of Multi Headed Monster on House of Sins bb087085|Illustration Black and White Illustration of Multi Headed Monster on House of Sins]] — shared language: monster

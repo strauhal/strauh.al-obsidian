@@ -43,11 +43,11 @@ Books/files: 26
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - ChatGPT Conversations|Map - ChatGPT Conversations]] — named in this note
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/anchors/ernest-becker|Ernest Becker]] — named in this note
 - [[knowledge/wiki/artists/Artist - carl gustav jung|Artist - carl gustav jung]] — shared language: jung, carl, gustav
 - [[knowledge/wiki/maps/Library - Unsorted|Library - Unsorted]] — shared language: press, norton, classics
 - [[knowledge/raw/books|Books Folder Title List]] — shared language: routledge, jung, lacan
 - [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: classics, william, press
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: classics, thinking, press
+- [[knowledge/wiki/artists/Artist - carl jung|Artist - carl jung]] — shared language: jung, carl
 <!-- vault-crosslinks:end -->

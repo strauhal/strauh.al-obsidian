@@ -40,11 +40,11 @@ Status: available in the local iCloud Readings folder.
 ## Discovered Connections
 
 - [[knowledge/wiki/books/christopher-lasch-the-culture-of-narcissism-w-w-norton-company|The Culture of Narcissism-W. W. Norton & Company]] — same category: psychology
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/dr-carl-jung-psychological-types|Psychological Types]] — same category: psychology
 - [[knowledge/wiki/books/carl-gustav-jung-man-and-his-symbols-doubleday|Man and His Symbols-Doubleday]] — same category: psychology
 - [[knowledge/wiki/books/carl-gustav-jung-psychology-and-the-occult-routledge-classics-routledge|Psychology and the Occult (Routledge Classics)-Routledge]] — same category: psychology
 - [[knowledge/wiki/books/carl-gustav-jung-modern-man-in-search-of-a-soul-routledge|Modern Man in Search of a Soul -Routledge]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
+- [[knowledge/wiki/books/bollingen-series-introduction-to-jungian-psychology-notes-of-the-seminar-on-analytical-psychology-given-in-1925-c-g-jung-william-mcguire-r-f|C. G. Jung & William McGuire & R. F. C. Hull & Sonu Shamdasani]] — same category: psychology
 <!-- vault-crosslinks:end -->

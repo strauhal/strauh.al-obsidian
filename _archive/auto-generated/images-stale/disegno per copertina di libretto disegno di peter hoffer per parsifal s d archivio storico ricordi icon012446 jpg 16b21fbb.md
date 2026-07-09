@@ -28,6 +28,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/disegno_per_c
 - [[knowledge/archive/auto-generated/artists-stale/Artist - peter hoffer|Artist - peter hoffer]] — shared language: hoffer, peter, libretto
 - [[_archive/auto-generated/images-stale/parsifal libretto cover design by peter hoffer 55f6194e|parsifal libretto cover design by peter hoffer]] — shared language: hoffer, libretto, parsifal
 - [[_archive/auto-generated/images-stale/Parsifal (1882 retuschiert) 2693faf1|Parsifal (1882 retuschiert)]] — shared language: parsifal
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: per
 - [[knowledge/wiki/images/The Watchers by Peter Preussler (1985) 08b72da0|The Watchers by Peter Preussler (1985)]] — shared language: peter
-- [[knowledge/archive/auto-generated/artists-stale/Artist - peter saul 1991|Artist - peter saul 1991]] — shared language: peter
 <!-- vault-crosslinks:end -->

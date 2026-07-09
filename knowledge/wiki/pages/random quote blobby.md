@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/random_quote/blobby.html"
 source_relpath: "random_quote/blobby.html"
 compiled: "True"
-compiled_at: "2026-07-08T19:52:01"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # random quote blobby
@@ -33,5 +33,5 @@ strauh.al/random_quote/blobby
 - [[knowledge/wiki/images/Screenshot Black And White Photo Of Young Thomas Pynchon With Quote 12afea67|Screenshot Black And White Photo Of Young Thomas Pynchon With Quote]] — shared language: quote
 - [[knowledge/wiki/images/Illustration Morgan Housel Quote Graphic on Excel and Word 9031e9d2|Illustration Morgan Housel Quote Graphic on Excel and Word]] — shared language: quote
 - [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
-- [[knowledge/wiki/_index|strauh.al Index]] — shared language: random, quote, compiled
+- [[knowledge/wiki/books/pynchon-thomas-the-crying-of-lot-49|The Crying of Lot 49]] — shared language: random
 <!-- vault-crosslinks:end -->

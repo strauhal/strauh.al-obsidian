@@ -32,5 +32,5 @@ Many thanks.......Have a nice day!!!!!!!!!!!!!!!!!!!!
 - [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/20-submit-me-daddy|Private Correspondence - 20 - submit me daddy]] — same category: drawing-submission
 - [[knowledge/private/fanmail/threads/15-new-draw-for-youu|Private Correspondence - 15 - New Draw_for_YOUU]] — same category: drawing-submission
-- [[knowledge/private/fanmail/threads/09-i-drewed-a-picur|Private Correspondence - 09 - I drewed a picur]] — same category: drawing-submission
+- [[knowledge/private/fanmail/threads/19-submission|Private Correspondence - 19 - Submission]] — same category: drawing-submission
 <!-- vault-crosslinks:end -->

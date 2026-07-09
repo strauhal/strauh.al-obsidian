@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/1983_372_saint_f
 - [[knowledge/wiki/images/Saint Francis Expelling the Devils 01fd1f73|Saint Francis Expelling the Devils]] — shared language: francis, saint
 - [[knowledge/wiki/images/saint francis in the desert by giovanni bellini c 14801485 1ae5688e|saint francis in the desert by giovanni bellini c 14801485]] — shared language: francis, saint
 - [[knowledge/wiki/images/saint francis in meditation by francisco de zurbaran c 1639 3be6b519|saint francis in meditation by francisco de zurbaran c 1639]] — shared language: francis, saint
-- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: francis
+- [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: francis
 <!-- vault-crosslinks:end -->

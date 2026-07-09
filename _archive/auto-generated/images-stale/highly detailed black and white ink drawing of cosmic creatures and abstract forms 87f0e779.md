@@ -29,5 +29,5 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink
 - [[knowledge/wiki/images/Illustration Detailed Black and White Surreal Landscape with Figures and Creatures ec50ccba|Illustration Detailed Black and White Surreal Landscape with Figures and Creatures]] — shared language: creatures, detailed
 - [[knowledge/wiki/images/Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures 9e0dd894|Illustration Detailed Pen And Ink Drawing Of Many Grotesque, Surreal Creatures]] — shared language: creatures, detailed, ink
-- [[knowledge/wiki/images/Illustration Abstract Swirling Cosmic Forms with Glowing Particles and Spheres 245ae5d1|Illustration Abstract Swirling Cosmic Forms with Glowing Particles and Spheres]] — shared language: cosmic, forms
+- [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: forms
 <!-- vault-crosslinks:end -->

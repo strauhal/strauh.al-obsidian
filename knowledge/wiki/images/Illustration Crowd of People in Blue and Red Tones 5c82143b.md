@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd, people
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: crowd
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: people
 <!-- vault-crosslinks:end -->

@@ -28,8 +28,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/francis_bacon_in
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Portrait of Francis Bacon in his studio f806513e|Portrait of Francis Bacon in his studio]] — shared language: bacon, francis, studio
-- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: bacon, francis
 - [[knowledge/wiki/images/Man in Blue I by Francis Bacon (1954) 3601d594|Man in Blue I by Francis Bacon (1954)]] — shared language: bacon, francis
+- [[knowledge/wiki/images/two figures by francis bacon 1975 2134ab79|two figures by francis bacon 1975]] — shared language: bacon, francis
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: bacon, francis
 - [[knowledge/wiki/images/two figures in a room by francis bacon 1968 6576d12e|two figures in a room by francis bacon 1968]] — shared language: bacon, francis
 <!-- vault-crosslinks:end -->

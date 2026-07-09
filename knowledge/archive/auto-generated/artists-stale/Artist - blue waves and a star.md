@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/symmetrical esoteric drawing of a flower like symbol floating above a black triangle surrounded by blue waves 44f4be8e|symmetrical esoteric drawing of a flower like symbol floating above a black triangle surrounded by blue waves]] — shared language: waves, symmetrical, flower
 - [[knowledge/wiki/images/rolling waves d61ff2f1|rolling waves]] — shared language: waves
 - [[knowledge/wiki/images/Illustration Stylized Mandala with Flower Motif, Wavy Lines, Star, and Triangle by Carl Jung b700acbb|Illustration Stylized Mandala with Flower Motif, Wavy Lines, Star, and Triangle by Carl Jung]] — shared language: star, mandala, flower
-- [[_archive/auto-generated/images-stale/great north star ii by the great north star 2020 051afcd0|great north star ii by the great north star 2020]] — shared language: star
+- [[_archive/auto-generated/artists-noise/Artist - the great north star 2020|Artist - the great north star 2020]] — shared language: star
 <!-- vault-crosslinks:end -->

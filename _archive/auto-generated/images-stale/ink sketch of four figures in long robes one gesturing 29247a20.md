@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Illustration Ink Sketch of Four Figures in Long Robes 37704dd6|Illustration Ink Sketch of Four Figures in Long Robes]] — named in this note
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: ink, one
+- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch, one
 - [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: one, long
-- [[knowledge/wiki/concepts/Spontaneity and Elegance|Spontaneity and Elegance]] — shared language: sketch
 - [[_archive/auto-generated/images-stale/meme image about ai generated art with man gesturing 1e81515b|meme image about ai generated art with man gesturing]] — shared language: gesturing
 <!-- vault-crosslinks:end -->

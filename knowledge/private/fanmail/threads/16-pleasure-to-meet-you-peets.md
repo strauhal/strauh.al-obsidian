@@ -49,6 +49,6 @@ Right on. Have fun with it brother.
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private, sent
 - [[knowledge/wiki/people/Marcel Proust|Marcel Proust]] — shared language: pleasure, time
 - [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: incoming
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private, sent
 - [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, direction, incoming
+- [[knowledge/private/fanmail/threads/01-no-subject|Private Correspondence - 01 - (No Subject)]] — shared language: private, direction, incoming
 <!-- vault-crosslinks:end -->

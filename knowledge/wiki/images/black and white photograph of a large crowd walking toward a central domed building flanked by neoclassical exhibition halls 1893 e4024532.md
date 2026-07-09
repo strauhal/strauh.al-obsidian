@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/black_and_white_
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: crowd
 - [[knowledge/wiki/images/black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893 58d3f569|black and white photograph of large neoclassical exhibition buildings and a domed structure by a canal 1893]] — shared language: domed, exhibition, large
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: toward
 - [[knowledge/wiki/images/Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls 3173df70|Photograph Crowded Lagoon Area in Front of Neoclassical Exhibition Halls]] — shared language: halls, exhibition
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building 7fa929f6|Photograph Black and White Photograph of a Grand Neoclassical Exhibition Building]] — shared language: exhibition, building
-- [[knowledge/wiki/images/black and white photograph of the steel framework of a large domed building under construction 1892 b927698c|black and white photograph of the steel framework of a large domed building under construction 1892]] — shared language: domed, building, large
 <!-- vault-crosslinks:end -->

@@ -30,6 +30,6 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1800s/only_love_and_de
 - [[knowledge/wiki/images/the toilet illustration for the rape of the lock by aubrey beardsley 1896 ce3a6aa0|the toilet illustration for the rape of the lock by aubrey beardsley 1896]] — same artist: aubrey beardsley
 - [[knowledge/wiki/images/The Peacock Skirt by Aubrey Beardsley (1894) fe4310f8|The Peacock Skirt by Aubrey Beardsley (1894)]] — shared language: beardsley, aubrey
 - [[knowledge/wiki/concepts/Amor Fati|Amor Fati]] — shared language: things, death
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: things
 - [[knowledge/wiki/artists/Artist - Aubrey Powell|Artist - Aubrey Powell]] — shared language: aubrey
-- [[knowledge/wiki/books/alain-de-botton-how-proust-can-change-your-life-vintage|How Proust Can Change Your Life-Vintage]] — shared language: change
 <!-- vault-crosslinks:end -->

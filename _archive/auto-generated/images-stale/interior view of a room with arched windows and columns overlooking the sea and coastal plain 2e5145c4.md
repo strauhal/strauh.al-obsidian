@@ -25,8 +25,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Interior Room With Arched Windows Overlooking Sea And Coastal Plain db993a24|Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: plain, arched, coastal
-- [[_archive/auto-generated/images-stale/Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain 294789ec|Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: plain, arched, coastal
+- [[knowledge/wiki/images/Interior Room With Arched Windows Overlooking Sea And Coastal Plain db993a24|Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, plain, coastal
+- [[_archive/auto-generated/images-stale/Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain 294789ec|Photograph Interior Room With Arched Windows Overlooking Sea And Coastal Plain]] — shared language: arched, plain, coastal
 - [[_archive/auto-generated/images-stale/photograph of an interior study with arched windows overlooking a city skyline and water 3fe3affb|photograph of an interior study with arched windows overlooking a city skyline and water]] — shared language: arched, overlooking, windows
 - [[knowledge/wiki/works/SEEKER|SEEKER]] — shared language: plain
 - [[knowledge/wiki/images/Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai 24977561|Photograph Interior Study with Arched Windows Overlooking City and Water by Mac Baconai]] — shared language: arched, overlooking, windows

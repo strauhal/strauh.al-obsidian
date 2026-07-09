@@ -53,7 +53,7 @@ grouped into four themes. This is the front door; read the vault *through* the i
 
 ## Current counts
 
-people 22 · concepts 28 · works 11 · books 414 · culture 120 · dreams 7 · images 8404 · pages 77 · collections 95
+people 22 · concepts 28 · works 11 · books 414 · culture 120 · dreams 7 · images 8404 · pages 78 · collections 95
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

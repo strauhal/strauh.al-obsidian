@@ -26,8 +26,8 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: people
-- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: people
+- [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: people
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: people
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: people
 <!-- vault-crosslinks:end -->

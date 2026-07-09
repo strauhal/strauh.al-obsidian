@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/concepts/Autofiction|Autofiction]] — shared language: self
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: self
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: self
-- [[_archive/auto-generated/images-stale/self awareness b06279e4|self awareness]] — shared language: self
 - [[knowledge/wiki/images/Photograph Self immolation of Aaron Bushnell 52d2ce78|Photograph Self immolation of Aaron Bushnell]] — shared language: self
+- [[_archive/auto-generated/images-stale/self awareness b06279e4|self awareness]] — shared language: self
 <!-- vault-crosslinks:end -->

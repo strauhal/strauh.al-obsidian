@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/brain(wip).html"
 source_relpath: "brain(wip).html"
 compiled: "True"
-compiled_at: "2026-07-06T16:51:07"
+compiled_at: "2026-07-08T23:12:51"
 tags: ["strauhal", "source/html"]
 ---
 # brain(wip)
@@ -24,6 +24,17 @@ settings
 reset
 
 search
+
+chat
+
+chat with strauh.al/brain×
+
+paste an API key to talk to this archive. it's stored only in this browser (until you clear site data) and only ever sent to the provider you pick below — never anywhere else.
+GeminiOpenAIAnthropicconnect
+
+stored only in this browser, same as the chat key above. leave blank to keep the fallback voice.
+
+send🔊
 
 ### Forces
 
@@ -56,12 +67,12 @@ scroll = zoom · drag = rotate 3D · right-drag = pan · drag node = move · hov
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, node
-- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain
+- [[knowledge/wiki/pages/brain|brain]] — shared language: brain, force, chat
+- [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: stored, link, it's
+- [[knowledge/wiki/pages/brain debug test|brain debug test]] — shared language: brain, force, chat
+- [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: brain, ever
 - [[knowledge/wiki/maps/Map - Living Graph|Map - Living Graph]] — shared language: drag, click, settings
 - [[knowledge/wiki/people/Clyfford Still|Clyfford Still]] — shared language: force
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: node, link, pages
+- [[knowledge/wiki/maps/Map - Site Feedback|Map - Site Feedback]] — shared language: site, link
 - [[knowledge/wiki/maps/Map - 3D Graph|Map - 3D Graph]] — shared language: drag, click
-- [[knowledge/wiki/pages/philosophical texts phenomenology of spirit|philosophical texts phenomenology of spirit]] — shared language: drag, click, highlight
-- [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: drag, click, highlight
 <!-- vault-crosslinks:end -->

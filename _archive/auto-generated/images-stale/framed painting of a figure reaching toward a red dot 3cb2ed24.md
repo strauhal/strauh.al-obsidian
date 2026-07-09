@@ -25,9 +25,9 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/unso
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: toward
 - [[knowledge/wiki/people/Megan|Megan]] — shared language: toward
 - [[_archive/auto-generated/images-stale/photograph of a man in a suit pointing toward a crowd reaching out to him flanked by american flags and blue curtains 3513be0e|photograph of a man in a suit pointing toward a crowd reaching out to him flanked by american flags and blue curtains]] — shared language: toward, reaching
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-rene-hague-toward-the-future-mariner-books|Toward The Future-Mariner Books]] — shared language: toward
 - [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: dot
-- [[_archive/auto-generated/images-stale/framed blue and black abstract painting cb5fd197|framed blue and black abstract painting]] — shared language: framed
 <!-- vault-crosslinks:end -->

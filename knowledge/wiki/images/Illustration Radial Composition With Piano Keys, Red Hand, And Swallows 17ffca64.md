@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - R
 ## Discovered Connections
 
 - [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: hand
+- [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: hand
 - [[knowledge/wiki/life/Ernest Strauhal|Ernest Strauhal]] — shared language: piano
 - [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: keys
 - [[knowledge/wiki/images/Suprematist Composition White on White by Kazimir Malevich (1918) 251b09cc|Suprematist Composition White on White by Kazimir Malevich (1918)]] — shared language: composition
-- [[knowledge/wiki/books/piano|piano]] — shared language: piano
 <!-- vault-crosslinks:end -->

@@ -11,8 +11,8 @@ Stub concept created to keep the Obsidian graph connected. Expand this when the 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — shared language: psychology
+- [[knowledge/wiki/anchors/psychology|psychology]] — shared language: psychology, important, becomes
 - [[_archive/auto-generated/concept-stubs/degas|degas]] — shared language: stub, obsidian, created
 - [[_archive/auto-generated/concept-stubs/moebius|moebius]] — shared language: stub, obsidian, created
 - [[_archive/auto-generated/concept-stubs/museum|museum]] — shared language: stub, obsidian, created

@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Comic - Famil
 - [[knowledge/wiki/images/at the rat mort by walter sickert 1904 1906 f98cf836|at the rat mort by walter sickert 1904 1906]] — shared language: rat
 - [[knowledge/wiki/books/kurzweil-ray-the-age-of-spiritual-machines-when-computers-exceed-human|The age of spiritual machines - when computers exceed human]] — shared language: human
 - [[knowledge/wiki/books/jared-diamond-guns-germs-and-steel-the-fates-of-human-societies|Guns, Germs and Steel The Fates of Human Societies]] — shared language: human
-- [[knowledge/wiki/books/jean-claude-larchet-archibald-andrew-torrance-the-new-media-epidemic-the-undermining-of-society-family-and-our-own-soul-the-printshop-of-st-|The New Media Epidemic The Undermining of Society, Family, and Our Own Soul-The Printshop of St Job of Pochaev]] — shared language: family
+- [[knowledge/wiki/images/family 99fa1418|family]] — shared language: family
 <!-- vault-crosslinks:end -->

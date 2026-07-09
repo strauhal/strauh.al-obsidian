@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/Photograph Skeleton with material on head, dark background b1cd0aa9|Photograph Skeleton with material on head, dark background]] — shared language: material
 - [[knowledge/wiki/images/Skeleton with material on head, dark background ba1af680|Skeleton with material on head, dark background]] — shared language: material
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: material
-- [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: material
+- [[knowledge/wiki/concepts/Human-Machine Tug of War|Human-Machine Tug of War]] — shared language: material
 <!-- vault-crosslinks:end -->

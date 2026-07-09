@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Two Soldie
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Maintenance|Map - Maintenance]] — shared language: one
 - [[knowledge/wiki/images/Soldiers Running Across Field with Helicopter and Washington Monument 8be6452c|Soldiers Running Across Field with Helicopter and Washington Monument]] — shared language: soldiers, field
 - [[knowledge/wiki/images/The Pencil As A Measuring Stick e111e7d8|The Pencil As A Measuring Stick]] — shared language: stick
 - [[knowledge/wiki/images/Two Figures in Black Leather Coats and Helmets with Rifle 8614f3e9|Two Figures in Black Leather Coats and Helmets with Rifle]] — shared language: helmets
 - [[knowledge/wiki/images/Photograph Black and White Photograph of Soldiers Running Through Smoke a2fa9512|Photograph Black and White Photograph of Soldiers Running Through Smoke]] — shared language: soldiers
+- [[knowledge/wiki/books/patricia-lockwood-no-one-is-talking-about-this|No One Is Talking About This]] — shared language: one
 <!-- vault-crosslinks:end -->

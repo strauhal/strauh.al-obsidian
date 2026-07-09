@@ -27,7 +27,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 
 - [[knowledge/wiki/images/Photograph Robotic Dog With Rifle Attachment At Trade Show b3ad7035|Photograph Robotic Dog With Rifle Attachment At Trade Show]] — shared language: attachment, robotic, rifle
 - [[knowledge/wiki/books/harold-cohen-robotic-artist-1995|Harold Cohen, Robotic Artist, 1995]] — shared language: robotic
-- [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show, show.jpg
 - [[knowledge/wiki/books/harold-cohen-harold-cohen-robotic-artist|Harold Cohen, Robotic Artist]] — shared language: robotic
+- [[knowledge/wiki/images/show 4ebe1817|show]] — shared language: show, show.jpg
 - [[knowledge/wiki/maps/Library - Art and Aesthetics|Library - Art and Aesthetics]] — shared language: robotic
 <!-- vault-crosslinks:end -->

@@ -33,7 +33,7 @@ How the act of creation—whether technical or artistic—reveals a tension betw
 - [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: process, control, machine
 - [[knowledge/wiki/sources/No More Human Art|No More Human Art - Source Essay]] — shared language: control, judgment, tug
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: process, machine, generative
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, study
 - [[knowledge/wiki/works/Vocal Study 3|Vocal Study 3]] — shared language: control, study, human-machine
+- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: process, studies, study
 - [[knowledge/wiki/works/kits.ai Voice|kits.ai Voice]] — shared language: control, output, model
 <!-- vault-crosslinks:end -->

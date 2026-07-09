@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: street, city, view
 - [[knowledge/wiki/images/Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig f0a0d4a8|Screenshot Screenshot of 3D Modeling Software with Low Poly Female Character Rig]] — shared language: poly, low, screenshot
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: low
 - [[knowledge/wiki/images/Illustration Low Poly Torso Against Hot Pink Background by Gao Hang e02b7458|Illustration Low Poly Torso Against Hot Pink Background by Gao Hang]] — shared language: poly, low, pink
 - [[knowledge/wiki/images/Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern e8f40279|Illustration Low Poly Four Armed Figure With Blue Head And Camouflage Pattern]] — shared language: poly, low, low-poly
-- [[knowledge/wiki/images/Lombard Street 077b89b2|Lombard Street]] — shared language: street
 <!-- vault-crosslinks:end -->

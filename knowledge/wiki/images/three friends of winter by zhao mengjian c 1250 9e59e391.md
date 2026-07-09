@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1200s/three_friends_of
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Beliefs and Temperament|Beliefs and Temperament]] — shared language: friends
 - [[knowledge/wiki/images/The City of Dreams by Yiqing Zhao (2020) e712a0d6|The City of Dreams by Yiqing Zhao (2020)]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao mengfu|Artist - zhao mengfu]] — shared language: zhao
 - [[knowledge/wiki/artists/Artist - zhao yan early 10th century|Artist - zhao yan early 10th century]] — shared language: zhao
 - [[knowledge/wiki/images/water village shuicun tu by zhao mengfu 1302 72f5898c|water village shuicun tu by zhao mengfu 1302]] — shared language: zhao
-- [[knowledge/wiki/images/eight gentlemen on horseback by zhao yan early 10th century b96a65d5|eight gentlemen on horseback by zhao yan early 10th century]] — shared language: zhao
 <!-- vault-crosslinks:end -->

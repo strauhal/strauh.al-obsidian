@@ -18,7 +18,7 @@ This note exists because generated pages linked this spelling or alias. The rich
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: latent, space
 - [[_archive/auto-generated/concept-stubs/Diary|Diary]] — shared language: canonical, alias, richer
 - [[_archive/auto-generated/concept-stubs/music|music]] — shared language: canonical, alias, richer
-- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[knowledge/wiki/people/Playboi Carti|Playboi Carti]] — shared language: latent, space
+- [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: linked, pages
 - [[_archive/auto-generated/concept-stubs/escher|escher]] — shared language: canonical, alias, richer
 <!-- vault-crosslinks:end -->

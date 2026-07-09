@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/artists/Artist - edmund blair leighton|Artist - edmund blair leighton]] — named in this note
 - [[knowledge/archive/auto-generated/artists-stale/Artist - edmund blair leighton 1901|Artist - edmund blair leighton 1901]] — named in this note
 - [[knowledge/wiki/images/the accolade by edmund blair leighton 1901 bd8e347b|the accolade by edmund blair leighton 1901]] — shared language: blair, edmund, leighton
-- [[knowledge/wiki/images/edmund blair leighton the accolade 1901 66d93460|edmund blair leighton the accolade 1901]] — shared language: blair, edmund, leighton
 - [[_archive/auto-generated/images-stale/god speed by edmund blair leighton 1900 77aa4125|god speed by edmund blair leighton 1900]] — shared language: blair, edmund, leighton
+- [[knowledge/wiki/images/edmund blair leighton the accolade 1901 66d93460|edmund blair leighton the accolade 1901]] — shared language: blair, edmund, leighton
 - [[knowledge/wiki/images/God Speed by Edmund Blair Leighton (1900) 4c2c30bb|God Speed by Edmund Blair Leighton (1900)]] — shared language: blair, edmund, leighton
 <!-- vault-crosslinks:end -->

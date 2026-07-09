@@ -26,7 +26,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Illustration Grid of 24 Sketchbook Pages with Various Pen and Ink Drawings 9abe0fdd|Illustration Grid of 24 Sketchbook Pages with Various Pen and Ink Drawings]] — shared language: sketchbook, pen, various
-- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: sketchbook, pen, ink
+- [[knowledge/wiki/concepts/Transmitting My Neural Signals by Hand|Transmitting My Neural Signals by Hand]] — shared language: pen, sketchbook, ink
 - [[knowledge/wiki/images/Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer 916fbeae|Illustration Sketchbook Page with Pen and Ink Nature Drawings and Timer]] — shared language: sketchbook, pen, drawings
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: grid, various
 - [[_archive/auto-generated/concept-stubs/HTML Source|HTML Source]] — shared language: pages

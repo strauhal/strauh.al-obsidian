@@ -37,7 +37,6 @@ Status: available in the local iCloud Readings folder.
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/anchors/psychology|psychology]] — named in this note
 - [[knowledge/wiki/books/filmstudents-attentionspan|filmstudents attentionspan]] — same category: psychology
 - [[knowledge/wiki/books/suicide-note|suicide note]] — same category: psychology
 - [[knowledge/wiki/books/c-g-jung-the-red-book-a-reader-s-edition-w-w-norton-company|The Red Book A Reader's Edition-W. W. Norton & Company]] — same category: psychology
@@ -45,4 +44,5 @@ Status: available in the local iCloud Readings folder.
 - [[knowledge/wiki/books/chatgpt-suicide-rtfd|chatgpt suicide.rtfd]] — same category: psychology
 - [[knowledge/wiki/books/leo-bersani-is-the-rectum-a-grave|Is the Rectum a Grave?]] — same category: psychology
 - [[knowledge/wiki/books/ernest-becker-the-denial-of-death|The Denial of Death]] — same category: psychology
+- [[knowledge/wiki/books/luke-caldwell-schizophrenizing-lacan|Schizophrenizing Lacan]] — same category: psychology
 <!-- vault-crosslinks:end -->

@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Screen Dis
 
 - [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: artwork, displaying, screen
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: screen
+- [[knowledge/output/wiki-lint-report|wiki-lint-report]] — shared language: pearlstein's, positano, philip
 - [[knowledge/wiki/maps/Map - Current Listening|Map - Current Listening]] — shared language: philip
 - [[knowledge/wiki/images/Photograph Photograph of a Screen Displaying a Text Post and eBay Listing 17940cef|Photograph Photograph of a Screen Displaying a Text Post and eBay Listing]] — shared language: displaying, screen
-- [[knowledge/wiki/artists/Artist - philip glass|Artist - philip glass]] — shared language: philip
 <!-- vault-crosslinks:end -->

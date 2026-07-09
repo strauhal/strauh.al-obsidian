@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Photograph
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Big Ben and Houses of Parliament at Twilight with Birds f79a686c|Big Ben and Houses of Parliament at Twilight with Birds]] — named in this note
-- [[knowledge/wiki/concepts/Memory and Preservation|Memory and Preservation]] — shared language: big
 - [[_archive/auto-generated/images-stale/monet houses of parliament sunset jpg 9b2c5e81|monet houses of parliament sunset jpg]] — shared language: parliament, houses
 - [[knowledge/wiki/images/The Houses of Parliament, Sunset by Claude Monet (1903) e58ff7ba|The Houses of Parliament, Sunset by Claude Monet (1903)]] — shared language: parliament, houses
 - [[knowledge/wiki/works/Untitled 15 - Dynamic Color Study 1|Untitled 15 - Dynamic Color Study 1]] — shared language: ben
+- [[_archive/auto-generated/images-stale/the houses of parliament sunset by claude monet 1903 12b1d3c1|the houses of parliament sunset by claude monet 1903]] — shared language: parliament, houses
 <!-- vault-crosslinks:end -->

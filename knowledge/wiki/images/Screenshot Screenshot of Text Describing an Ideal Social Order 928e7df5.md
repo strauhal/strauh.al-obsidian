@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 - [[knowledge/wiki/concepts/Latent Space|Latent Space]] — shared language: order, social
 - [[knowledge/wiki/concepts/Atomization|Atomization]] — shared language: social
 - [[knowledge/wiki/concepts/To Render Myself Unnecessary|To Render Myself Unnecessary]] — shared language: ideal
-- [[knowledge/wiki/concepts/The Tedium of the Art Is the Goal|The Tedium of the Art Is the Goal]] — shared language: social
+- [[knowledge/wiki/images/Screenshot Text Describing The Killing Of Tim McLean 8ebc610d|Screenshot Text Describing The Killing Of Tim McLean]] — shared language: describing, screenshot, text
 <!-- vault-crosslinks:end -->

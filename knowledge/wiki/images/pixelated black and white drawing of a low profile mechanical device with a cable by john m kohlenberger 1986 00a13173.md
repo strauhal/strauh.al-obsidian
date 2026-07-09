@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/pixelated_black_
 
 - [[knowledge/wiki/images/mactruck 1984 and 1987 comparison by john m kohlenberger 1984 and 1987 32dc715a|mactruck 1984 and 1987 comparison by john m kohlenberger 1984 and 1987]] — same artist: john
 - [[knowledge/wiki/maps/06b benjamin-work of art in the age of mechanical reproduction|06b benjamin-work of art in the age of mechanical reproduction]] — shared language: mechanical
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: low
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: profile
 - [[knowledge/wiki/books/timbre-as-a-structural-device-in-compositions|Timbre as a Structural Device in Compositions]] — shared language: device
-- [[knowledge/wiki/books/walter-benjamin-the-work-of-art-in-the-age-of-mechanical-reproduction|The Work of Art in the Age of Mechanical Reproduction]] — shared language: mechanical
 <!-- vault-crosslinks:end -->

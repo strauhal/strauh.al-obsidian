@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - M
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/images/Illustration Expressive Painting of Woman with Large Eyes and Dark Dress 98eb098f|Illustration Expressive Painting of Woman with Large Eyes and Dark Dress]] — shared language: eyes, dark
 - [[knowledge/wiki/images/creature 64ad9ca4|creature]] — shared language: creature
+- [[knowledge/wiki/images/Illustration Expressive Painting of Woman with Large Eyes and Dark Dress 98eb098f|Illustration Expressive Painting of Woman with Large Eyes and Dark Dress]] — shared language: eyes, dark
 - [[knowledge/wiki/images/Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background b82e7926|Illustration Painting of a Person with Green Eyes, Orange Sun, Abstract Background]] — shared language: eyes, green
-- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: masked
 - [[knowledge/wiki/images/Illustration Stylized Portrait of Person with Green Eyes and Orange Garment 4b09814d|Illustration Stylized Portrait of Person with Green Eyes and Orange Garment]] — shared language: eyes, green
+- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: masked
 <!-- vault-crosslinks:end -->

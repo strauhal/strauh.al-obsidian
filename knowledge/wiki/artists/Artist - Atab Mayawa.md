@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Stylized Desk Setup with Night Landscape Painting on Striped Wall 37ab5126|Illustration Stylized Desk Setup with Night Landscape Painting on Striped Wall]] — shared language: striped, stylized
 - [[knowledge/wiki/images/Illustration Stylized Black And White Illustration Of Two Figures b28807d0|Illustration Stylized Black And White Illustration Of Two Figures]] — shared language: stylized
 - [[knowledge/wiki/images/Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou 7ed58cdb|Illustration Black Silhouette Figure in Gold Striped Garment Against Blue Background by Attat Mayou]] — shared language: gold, striped
-- [[knowledge/wiki/images/Illustration Woman in Red Glasses and Blue Striped Top b2c3c981|Illustration Woman in Red Glasses and Blue Striped Top]] — shared language: striped
+- [[knowledge/wiki/images/Illustration Stylized Figures, Animals, and Patterns in Blue, Gold, and Orange by Marcel Dzama 177ec186|Illustration Stylized Figures, Animals, and Patterns in Blue, Gold, and Orange by Marcel Dzama]] — shared language: gold, stylized
 <!-- vault-crosslinks:end -->

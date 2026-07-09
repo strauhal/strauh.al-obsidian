@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - sydney prior hall|Artist - sydney prior hall]] — named in this note
+- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: prior
 - [[knowledge/wiki/artists/Artist - john g hall|Artist - john g hall]] — shared language: hall
 - [[knowledge/archive/auto-generated/artists-stale/Artist - john g hall 1980|Artist - john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/images/blue door by john g hall 1980 d9cc98a9|blue door by john g hall 1980]] — shared language: hall
 - [[knowledge/wiki/images/Photograph Black and White Photograph of a Large Exhibition Hall Interior c2700266|Photograph Black and White Photograph of a Large Exhibition Hall Interior]] — shared language: hall
-- [[knowledge/archive/auto-generated/artists-stale/Artist - jeff hall|Artist - jeff hall]] — shared language: hall
 <!-- vault-crosslinks:end -->

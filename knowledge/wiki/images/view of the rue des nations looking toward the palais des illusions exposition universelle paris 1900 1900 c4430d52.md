@@ -27,9 +27,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/view_of_the_rue_
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/life/Personality (PAS)|Personality (PAS)]] — shared language: toward
 - [[knowledge/wiki/images/in the salon at the rue des moulins by henri de toulouse lautrec 1894 09413551|in the salon at the rue des moulins by henri de toulouse lautrec 1894]] — shared language: rue, des
 - [[knowledge/wiki/books/pierre-teilhard-de-chardin-rene-hague-toward-the-future-mariner-books|Toward The Future-Mariner Books]] — shared language: toward
 - [[knowledge/wiki/images/reception de l empereur et de l imperatrice au palais des tuileries by jean baptiste isabey c 1810 2e1abdbf|reception de l empereur et de l imperatrice au palais des tuileries by jean baptiste isabey c 1810]] — shared language: palais, des
 - [[knowledge/wiki/images/williamadolphe bouguereau nymphes des sources 1902 ed0e3352|williamadolphe bouguereau nymphes des sources 1902]] — shared language: des
-- [[knowledge/wiki/books/lewis-carroll-through-the-looking-glass-icon-group-international-inc|Through the Looking Glass -ICON Group International, Inc.]] — shared language: looking
 <!-- vault-crosslinks:end -->

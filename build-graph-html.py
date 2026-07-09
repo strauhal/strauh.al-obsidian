@@ -1706,16 +1706,21 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   function showChatUI(){
     if(apiKey){
       chatSetup.style.display="none";
-      chatMessages.classList.add("show"); chatInputRow.classList.add("show"); chatVoiceRow.classList.add("show");
+      chatMessages.classList.add("show"); chatInputRow.classList.add("show");
     } else {
       chatSetup.style.display="flex";
-      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show"); chatVoiceRow.classList.remove("show");
+      chatMessages.classList.remove("show"); chatInputRow.classList.remove("show");
     }
+    // the Gradium row itself only needs to exist until a key's been saved --
+    // once it's set there's nothing left to fill in, so it just disappears
+    // rather than sitting there as a redundant already-filled-in field
+    chatVoiceRow.classList.toggle("show", !!apiKey && !gradiumKey);
   }
   gradiumKeyInput.value = gradiumKey;
   function saveGradiumKey(){
     gradiumKey = gradiumKeyInput.value.trim();
     if(gradiumKey) localStorage.setItem(LS_GRADIUM, gradiumKey); else localStorage.removeItem(LS_GRADIUM);
+    showChatUI();
   }
   gradiumKeyInput.addEventListener("change", saveGradiumKey);   // fires on blur
   gradiumKeyInput.addEventListener("keydown", function(e){      // fires on Enter -- this input isn't

@@ -6,6 +6,12 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["-m", "http.server", "8734", "--directory", "/Users/erneststrauhal/GitHub/strauh.al4"],
       "port": 8734
+    },
+    {
+      "name": "offline-static-site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8735", "--directory", "/Users/erneststrauhal/GitHub"],
+      "port": 8735
     }
   ]
 }

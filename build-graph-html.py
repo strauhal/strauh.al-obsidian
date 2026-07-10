@@ -1853,8 +1853,15 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     // gives a concept/diary entry far more surface area to match a query
     // than an image's bare title -- so reserve a couple of slots specifically
     // for the best-scoring images that didn't otherwise make the cut.
-    var topImages = scored.filter(function(s){ return nodes[s[1]].shellR!=null; }).slice(0,2);
-    topImages.forEach(function(s){ if(idxs.indexOf(s[1])===-1) idxs.push(s[1]); });
+    // Randomly draw 2 from the top *8* image matches rather than always the
+    // literal top 2 -- otherwise any query that scores similarly keeps
+    // surfacing the identical pair of images every single time.
+    var imageBand = scored.filter(function(s){ return nodes[s[1]].shellR!=null; }).slice(0,8);
+    var addedImages = 0;
+    while(addedImages<2 && imageBand.length){
+      var pick = imageBand.splice(Math.floor(Math.random()*imageBand.length),1)[0][1];
+      if(idxs.indexOf(pick)===-1){ idxs.push(pick); addedImages++; }
+    }
     if(VISUAL_REQUEST_RE.test(query)){
       // strip the generic visual-request words themselves before treating
       // what's left as a "subject" to search artworks for -- "paintings of
@@ -1924,11 +1931,36 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     var snippet = ex.slice(start,end).trim();
     return (start>0?"… ":"")+snippet+(end<ex.length?" …":"");
   }
+  // Every entry gets a stable numeric [id] (just its node index) printed
+  // alongside the title -- this is what "show" actually keys off, NOT the
+  // title text. Real archive titles are often auto-generated camera junk or
+  // mangled/OCR'd strings ("1956armon a autorretrato sugerente painted in "+
+  // "1956 jpg large jpg" for what's really "Armonía"), or the model
+  // paraphrases/describes an image instead of reproducing its exact title --
+  // either way, fuzzy string-matching a title back to a node was a silent
+  // failure mode: the reply describes something real, nothing ever shows.
+  // An id the model just echoes back removes that whole class of mismatch.
   function buildContext(idxs, terms){
     return idxs.map(function(i){
       var ex = (DATA.meta[i] && DATA.meta[i][1]) || "";
-      return "### " + nodes[i].name + "\n" + relevantSlice(ex, terms||[], 900);
+      return "### [" + i + "] " + nodes[i].name + "\n" + relevantSlice(ex, terms||[], 900);
     }).join("\n\n");
+  }
+  // Deterministic keyword-scoring means near-identical questions keep
+  // surfacing the exact same handful of notes/images every time -- fine for
+  // an explicit search, but conversationally it makes the archive feel much
+  // smaller than it is. Mixed into the static context alongside whatever
+  // actually scored: a few genuinely random connected nodes each message, so
+  // there's always fresh, real material to riff on beyond the same repeat
+  // offenders, without ever displacing what actually matched the question.
+  function sampleRandomSpark(n, exclude){
+    var pool = [];
+    for(var i=0;i<N;i++){ if(exclude.indexOf(i)===-1) pool.push(i); }
+    var out = [];
+    for(var k=0;k<n && pool.length;k++){
+      out.push(pool.splice(Math.floor(Math.random()*pool.length), 1)[0]);
+    }
+    return out;
   }
 
   // ---- tool-calling: the static context above is a keyword-scored guess,
@@ -1954,10 +1986,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     },
     {
       name: "show",
-      description: "Actually display a specific photo, painting, or note on screen by its exact title. "+
-        "This is the reliable way to make something appear -- use it whenever you're about to reference "+
-        "a specific image or note, in addition to naming it in your reply, not instead of.",
-      params: {title: {type:"string", description:"the exact title of the note/image to show, verbatim"}}
+      description: "Actually display a specific photo, painting, or note on screen, using the [id] number "+
+        "printed right next to it below (or in a search_archive result) -- e.g. for \"### [4213] Some Title\" "+
+        "call show with id 4213. Use the id, NOT the title text -- real titles are sometimes messy/auto-"+
+        "generated and won't match. This is the reliable way to make something appear -- use it whenever "+
+        "you're about to reference a specific image or note, in addition to naming it in your reply, not "+
+        "instead of.",
+      params: {id: {type:"integer", description:"the [id] number printed next to the note/image, e.g. 4213"}}
     }
   ];
   function execTool(name, args){
@@ -1968,17 +2003,8 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       return {result: ctx || "nothing matched that search."};
     }
     if(name==="show"){
-      var title = ((args && args.title) || "").trim(), low = title.toLowerCase();
-      if(!low) return {found:false};
-      var idx = -1, i;
-      for(i=0;i<N;i++){ if(nodes[i].name.toLowerCase()===low){ idx=i; break; } }
-      if(idx===-1){
-        for(i=0;i<N;i++){
-          var nlow = nodes[i].name.toLowerCase();
-          if(nlow.indexOf(low)!==-1 || low.indexOf(nlow)!==-1){ idx=i; break; }
-        }
-      }
-      if(idx===-1) return {found:false};
+      var idx = parseInt(args && args.id, 10);
+      if(isNaN(idx) || idx<0 || idx>=N || !nodes[idx]) return {found:false};
       queueJump(idx);
       return {found:true, title:nodes[idx].name};
     }
@@ -2317,6 +2343,30 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
   // has none -- stripping every quote character from both sides before
   // comparing means that decoration can't break an otherwise-good match.
   function stripQuotes(s){ return s.replace(/['"‘’“”`]/g, ""); }
+  // Belt-and-suspenders for the tool call itself: models don't reliably call
+  // "show" every time even when explicitly told to, and exact-substring
+  // mention detection breaks on the smallest rewording (a title says "Under
+  // Dark Sky", the model naturally says "under A dark sky" mid-sentence --
+  // one added word and the whole match misses). But we know exactly which
+  // notes/images were actually offered to the model this turn (the static
+  // context + random spark) -- a small, bounded pool -- so a much fuzzier
+  // word-overlap match is safe to run ONLY against that pool, where a false
+  // positive is basically impossible (these are the very things the reply is
+  // supposed to be about), instead of the whole graph where "drowning" used
+  // as a metaphor could wrongly match a node literally titled "drowning".
+  function fuzzyMatchCandidates(text, candidateIdxs, alreadyFound){
+    var lower = " " + stripQuotes(text.toLowerCase()) + " ";
+    var hits = [];
+    candidateIdxs.forEach(function(idx){
+      if(alreadyFound[idx]) return;
+      var words = stripQuotes(nodes[idx].name.toLowerCase()).match(/[a-z0-9']{4,}/g) || [];
+      if(!words.length) return;
+      var matched = words.filter(function(w){ return lower.indexOf(" "+w) !== -1 || lower.indexOf(w+" ") !== -1; });
+      var need = words.length<=3 ? words.length : Math.max(3, Math.ceil(words.length*0.6));
+      if(matched.length>=need) hits.push(idx);
+    });
+    return hits;
+  }
   function scanForMentions(fullText, alreadyFound, onFound){
     var names = getSortedNames(), lower = stripQuotes(fullText.toLowerCase());
     var consumed = [];   // [start,end) ranges already claimed by a longer match
@@ -2413,7 +2463,13 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     history.push({role:"user", text:q});
 
     var qTerms = q.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
-    var context = buildContext(retrieve(q), qTerms);
+    var matchedIdxs = retrieve(q);
+    var context = buildContext(matchedIdxs, qTerms);
+    var spark = sampleRandomSpark(3, matchedIdxs);
+    if(spark.length){
+      context += "\n\n(and scattered elsewhere across the wider archive, only bring one of these up if it "+
+        "genuinely fits -- don't force it in:)\n\n" + buildContext(spark, qTerms);
+    }
     var sysPrompt = "You ARE Ernest Strauhal, talking directly to whoever's asking -- first person, always "+
       "\"I,\" never \"he\" or \"Ernest\" or third person, and never refer to yourself as an AI, assistant, "+
       "archive, or knowledge graph. The notes below are pulled from your own real diary, reading, art "+
@@ -2453,15 +2509,19 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "detail, not a summary -- the kind of thing that makes someone want to ask a follow-up, not a rundown. "+
       "But if the question is specific and someone's clearly and genuinely asking for a real answer, just "+
       "give it straight -- don't be coy or dodge a direct question, that's a different kind of annoying. "+
-      "You also have a show tool -- call it with a note or image's exact title to actually put it on screen. "+
-      "This is real: if someone asks to see a photo, painting, or image, you CAN show one. Call show with "+
-      "the exact title from the notes below (or from a search_archive result), AND still mention it by name "+
-      "in your reply the normal way -- do both, don't rely on just one. Never say you can't show images -- "+
-      "if nothing below actually fits what they're asking for, say that instead of claiming it's not possible "+
-      "in general. You don't need to be asked first, either -- if a painting or photograph genuinely fits "+
-      "what's being talked about, bring it up (and show it) on your own, the same way you'd casually gesture "+
-      "at something while telling a story. But only when it actually fits -- showing some unrelated image "+
-      "just to have a picture on screen is worse than not showing one at all.\n\n"+
+      "You also have a show tool -- this is what ACTUALLY puts something on screen, not just naming it in "+
+      "your reply. Every note/image below is printed as \"### [1234] Title\" -- call show with that id number "+
+      "(not the title text, real titles are often messy or auto-generated and won't match anything). This is "+
+      "real: if someone asks to see a photo, painting, or image, you CAN show one -- call show with its id "+
+      "AND still mention it by name in your reply the normal way, do both, don't rely on just one. Never say "+
+      "you can't show images -- if nothing below actually fits what they're asking for, say that instead of "+
+      "claiming it's not possible in general. You don't need to be asked first, either -- if something below "+
+      "genuinely fits what's being talked about, bring it up (and show it, by id) on your own, the same way "+
+      "you'd casually gesture at something while telling a story. But only when it actually fits -- showing "+
+      "some unrelated image just to have a picture on screen is worse than not showing one at all. And don't "+
+      "let the same handful of things keep coming up: the archive is huge, most of what's below rotates every "+
+      "message (including a few scattered wildcards, marked as such) specifically so you're not stuck reaching "+
+      "for the same few examples in every conversation -- actually look at what's in front of you each time.\n\n"+
       "The same goes for a specific book, movie, or album if one's in the notes below: say the specific "+
       "work by name (not a vague \"a book about X\") so it actually opens, but only when the conversation is "+
       "genuinely about it.\n\n"+
@@ -2497,6 +2557,12 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       if(PERSONAL_PHOTO_RE.test(q)){
         samplePersonalPhotos(1).forEach(function(i){ queueJump(i); });
       }
+      // catches whatever the exact-match scan below and the model's own show
+      // calls both missed -- see fuzzyMatchCandidates' comment for why this
+      // is safe to run against this specific bounded pool
+      fuzzyMatchCandidates(full, matchedIdxs.concat(spark), found).forEach(function(idx){
+        found[idx] = true; queueJump(idx);
+      });
       speak(full, function(clause){
         // fires the instant this clause STARTS being spoken -- queue a jump for
         // any mention that's new as of this clause, so the graph moves in step

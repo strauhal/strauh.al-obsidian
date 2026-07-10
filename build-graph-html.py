@@ -101,8 +101,8 @@ def clean_work_name(fm, base):
 DEEP_EXCERPT_RELPATHS = {"knowledge/raw/diary.md", "knowledge/raw/ideas-sketchbook.md"}
 DEEP_EXCERPT_CHARS = 20000
 
-def make_excerpt(body, cap=EXCERPT_CHARS):
-    b = re.sub(r'<!--.*?-->', '', body, flags=re.S)          # html comments
+def _clean_prose(b, cap):
+    b = re.sub(r'<!--.*?-->', '', b, flags=re.S)              # html comments
     b = re.sub(r'!\[\[[^\]]*\]\]', '', b)                     # image/embed transclusions
     b = re.sub(r'\[\[([^\]\|]+)\|([^\]]+)\]\]', r'\2', b)     # [[a|b]] -> b
     b = re.sub(r'\[\[([^\]]+)\]\]', r'\1', b)                 # [[a]] -> a
@@ -119,6 +119,29 @@ def make_excerpt(body, cap=EXCERPT_CHARS):
     b = re.sub(r'\n{3,}', '\n\n', b).strip()
     if len(b) > cap:
         b = b[:cap].rstrip() + " …"
+    return b
+
+# tools/wiki_quotes.py wires the actual quote text directly into whichever
+# concept/person/book/artist note it matches (a "<!-- quotes:start -->...
+# <!-- quotes:end -->" block) -- 184 of 251 quotes, 44 nodes, as of the last
+# vault refresh. But it appends that block wherever it lands in the raw file,
+# often past this note's own EXCERPT_CHARS: a substantive concept note's own
+# prose already spends most of that budget, so the very quote text a query
+# might be searching for was structurally invisible to retrieval, no matter
+# how well it matched. Pulling it out and capping it separately means it
+# always survives into the searchable excerpt regardless of where it sits.
+QUOTES_BLOCK_RE = re.compile(r'<!--\s*quotes:start\s*-->(.*?)<!--\s*quotes:end\s*-->', re.S)
+QUOTES_EXCERPT_CHARS = 3000
+
+def make_excerpt(body, cap=EXCERPT_CHARS):
+    m = QUOTES_BLOCK_RE.search(body)
+    quotes_text = ""
+    if m:
+        body = body[:m.start()] + body[m.end():]
+        quotes_text = _clean_prose(m.group(1), QUOTES_EXCERPT_CHARS)
+    b = _clean_prose(body, cap)
+    if quotes_text:
+        b = (b + "\n\n" + quotes_text) if b else quotes_text
     return b
 
 def is_omitted_note(relpath, fm, name):

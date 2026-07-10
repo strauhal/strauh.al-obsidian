@@ -1931,6 +1931,60 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     }).join("\n\n");
   }
 
+  // ---- tool-calling: the static context above is a keyword-scored guess,
+  // capped at 8 notes, computed ONCE before the model has said anything --
+  // it's the reason every one of these retrieval bugs so far has been "the
+  // right note existed, the guess just didn't surface it." Giving the model
+  // an actual search tool means it can go look for itself when what's in
+  // front of it doesn't cover the question, instead of a human having to
+  // notice the gap and hand-wire another always-include special case.
+  // "show" is the same idea for the OTHER long-running fragile mechanism
+  // (mention-detection below, which only fires if the model happens to
+  // reproduce a note's exact title inside a normal sentence) -- an explicit
+  // tool call is a much more reliable trigger. Mention-detection is kept
+  // as-is, not replaced: not every provider/model calls tools reliably every
+  // time, so this is a second, better path layered on top, not a swap.
+  var TOOL_DEFS = [
+    {
+      name: "search_archive",
+      description: "Search your own memory (diary, art, reading, ideas) for anything relevant that "+
+        "wasn't already handed to you below. Use this whenever a question reaches beyond what you've "+
+        "already got -- look it up rather than guessing or saying you don't know too early.",
+      params: {query: {type:"string", description:"what to search for"}}
+    },
+    {
+      name: "show",
+      description: "Actually display a specific photo, painting, or note on screen by its exact title. "+
+        "This is the reliable way to make something appear -- use it whenever you're about to reference "+
+        "a specific image or note, in addition to naming it in your reply, not instead of.",
+      params: {title: {type:"string", description:"the exact title of the note/image to show, verbatim"}}
+    }
+  ];
+  function execTool(name, args){
+    if(name==="search_archive"){
+      var q = (args && args.query) || "";
+      var terms = q.toLowerCase().match(/[a-z0-9']{3,}/g) || [];
+      var ctx = buildContext(retrieve(q).slice(0,12), terms);
+      return {result: ctx || "nothing matched that search."};
+    }
+    if(name==="show"){
+      var title = ((args && args.title) || "").trim(), low = title.toLowerCase();
+      if(!low) return {found:false};
+      var idx = -1, i;
+      for(i=0;i<N;i++){ if(nodes[i].name.toLowerCase()===low){ idx=i; break; } }
+      if(idx===-1){
+        for(i=0;i<N;i++){
+          var nlow = nodes[i].name.toLowerCase();
+          if(nlow.indexOf(low)!==-1 || low.indexOf(nlow)!==-1){ idx=i; break; }
+        }
+      }
+      if(idx===-1) return {found:false};
+      queueJump(idx);
+      return {found:true, title:nodes[idx].name};
+    }
+    return {error:"unknown tool"};
+  }
+
   // ---- SSE line reader; Gemini/OpenAI/Anthropic all frame streamed chunks the
   // same way ("data: {...}\n\n"), so one reader covers all three ----
   function readSSE(response, onPayload){
@@ -1954,72 +2008,168 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
     return pump();
   }
 
+  // Tool-call rounds happen BEFORE any text is allowed to reach onDelta for
+  // that round -- a round that only returns function calls has no text parts
+  // at all, so nothing gets shown prematurely; the recursive round only
+  // stops (and calls onDone) once a round comes back with plain text and no
+  // further calls, or the depth cap is hit. Capped at 4 rounds total so a
+  // model that won't stop calling tools can't loop forever on someone's key.
+  var TOOL_DEPTH_CAP = 4;
   var PROVIDERS = {
     gemini: function(messages, onDelta, onDone, onError){
       var sys = messages.filter(function(m){ return m.role==="system"; })[0];
       var contents = messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
         return {role: m.role==="assistant"?"model":"user", parts:[{text:m.text}]};
       });
+      var tools = [{functionDeclarations: TOOL_DEFS.map(function(t){
+        var props = {}; Object.keys(t.params).forEach(function(k){
+          props[k] = {type: t.params[k].type.toUpperCase(), description: t.params[k].description};
+        });
+        return {name:t.name, description:t.description,
+          parameters:{type:"OBJECT", properties:props, required:Object.keys(t.params)}};
+      })}];
+      var sysPart = sys ? {parts:[{text:sys.text}]} : null;
       // gemini-2.5-flash "thinks" by default -- without turning that off, its
       // internal reasoning ("thoughts: i need to be careful here not to sound
       // like an assistant...") comes back as real parts and was leaking
       // straight into the visible/spoken reply. thinkingBudget:0 disables it
       // outright; filtering out any part explicitly marked thought:true below
       // is just a belt-and-suspenders backstop.
-      var body = {contents: contents, generationConfig: {thinkingConfig: {thinkingBudget: 0}}};
-      if(sys) body.systemInstruction = {parts:[{text:sys.text}]};
-      fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse&key="+encodeURIComponent(apiKey), {
-        method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)
-      }).then(function(r){
-        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
-        return readSSE(r, function(payload){
-          try{
-            var d = JSON.parse(payload);
-            var parts = d.candidates && d.candidates[0] && d.candidates[0].content && d.candidates[0].content.parts;
-            var t = parts ? parts.filter(function(p){ return !p.thought; }).map(function(p){ return p.text||""; }).join("") : "";
-            if(t) onDelta(t);
-          }catch(e){}
-        });
-      }).then(onDone).catch(onError);
+      function round(contents, depth){
+        var body = {contents: contents, tools: tools, generationConfig: {thinkingConfig: {thinkingBudget: 0}}};
+        if(sysPart) body.systemInstruction = sysPart;
+        var calls = [];
+        fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?alt=sse&key="+encodeURIComponent(apiKey), {
+          method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body)
+        }).then(function(r){
+          if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+          return readSSE(r, function(payload){
+            try{
+              var d = JSON.parse(payload);
+              var parts = d.candidates && d.candidates[0] && d.candidates[0].content && d.candidates[0].content.parts;
+              if(!parts) return;
+              parts.forEach(function(p){
+                if(p.thought) return;
+                if(p.functionCall) calls.push(p.functionCall);
+                else if(p.text) onDelta(p.text);
+              });
+            }catch(e){}
+          });
+        }).then(function(){
+          if(calls.length && depth<TOOL_DEPTH_CAP){
+            var next = contents.concat([
+              {role:"model", parts: calls.map(function(c){ return {functionCall:c}; })},
+              {role:"user", parts: calls.map(function(c){
+                return {functionResponse:{name:c.name, response: execTool(c.name, c.args||{})}};
+              })}
+            ]);
+            round(next, depth+1);
+          } else onDone();
+        }).catch(onError);
+      }
+      round(contents, 0);
     },
     openai: function(messages, onDelta, onDone, onError){
-      var body = {model:"gpt-4o-mini", stream:true,
-        messages: messages.map(function(m){ return {role:m.role, content:m.text}; })};
-      fetch("https://api.openai.com/v1/chat/completions", {
-        method:"POST", headers:{"Content-Type":"application/json","Authorization":"Bearer "+apiKey},
-        body: JSON.stringify(body)
-      }).then(function(r){
-        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
-        return readSSE(r, function(payload){
-          if(payload==="[DONE]") return;
-          try{
-            var d = JSON.parse(payload);
-            var t = d.choices && d.choices[0] && d.choices[0].delta && d.choices[0].delta.content || "";
-            if(t) onDelta(t);
-          }catch(e){}
-        });
-      }).then(onDone).catch(onError);
+      var tools = TOOL_DEFS.map(function(t){
+        var props = {}; Object.keys(t.params).forEach(function(k){ props[k] = t.params[k]; });
+        return {type:"function", function:{name:t.name, description:t.description,
+          parameters:{type:"object", properties:props, required:Object.keys(t.params)}}};
+      });
+      function round(msgs, depth){
+        var body = {model:"gpt-4o-mini", stream:true, messages: msgs, tools: tools};
+        var toolCalls = {};
+        fetch("https://api.openai.com/v1/chat/completions", {
+          method:"POST", headers:{"Content-Type":"application/json","Authorization":"Bearer "+apiKey},
+          body: JSON.stringify(body)
+        }).then(function(r){
+          if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+          return readSSE(r, function(payload){
+            if(payload==="[DONE]") return;
+            try{
+              var d = JSON.parse(payload);
+              var delta = d.choices && d.choices[0] && d.choices[0].delta;
+              if(!delta) return;
+              if(delta.content) onDelta(delta.content);
+              if(delta.tool_calls){
+                delta.tool_calls.forEach(function(tc){
+                  var slot = toolCalls[tc.index] || (toolCalls[tc.index] = {id:"", name:"", args:""});
+                  if(tc.id) slot.id = tc.id;
+                  if(tc.function && tc.function.name) slot.name += tc.function.name;
+                  if(tc.function && tc.function.arguments) slot.args += tc.function.arguments;
+                });
+              }
+            }catch(e){}
+          });
+        }).then(function(){
+          var calls = Object.keys(toolCalls).map(function(k){ return toolCalls[k]; }).filter(function(c){ return c.name; });
+          if(calls.length && depth<TOOL_DEPTH_CAP){
+            var assistantMsg = {role:"assistant", content:null, tool_calls: calls.map(function(c){
+              return {id:c.id, type:"function", function:{name:c.name, arguments:c.args||"{}"}};
+            })};
+            var toolMsgs = calls.map(function(c){
+              var args = {}; try{ args = JSON.parse(c.args||"{}"); }catch(e){}
+              return {role:"tool", tool_call_id:c.id, content: JSON.stringify(execTool(c.name, args))};
+            });
+            round(msgs.concat([assistantMsg]).concat(toolMsgs), depth+1);
+          } else onDone();
+        }).catch(onError);
+      }
+      round(messages.map(function(m){ return {role:m.role, content:m.text}; }), 0);
     },
     anthropic: function(messages, onDelta, onDone, onError){
       var sys = messages.filter(function(m){ return m.role==="system"; })[0];
-      var body = {model:"claude-3-5-sonnet-20241022", max_tokens:1024, stream:true,
-        messages: messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
-          return {role:m.role, content:m.text};
-        })};
-      if(sys) body.system = sys.text;
-      fetch("https://api.anthropic.com/v1/messages", {
-        method:"POST", headers:{"Content-Type":"application/json","x-api-key":apiKey,
-          "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
-        body: JSON.stringify(body)
-      }).then(function(r){
-        if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
-        return readSSE(r, function(payload){
-          try{
-            var d = JSON.parse(payload);
-            if(d.type==="content_block_delta" && d.delta && d.delta.text) onDelta(d.delta.text);
-          }catch(e){}
-        });
-      }).then(onDone).catch(onError);
+      var tools = TOOL_DEFS.map(function(t){
+        var props = {}; Object.keys(t.params).forEach(function(k){ props[k] = t.params[k]; });
+        return {name:t.name, description:t.description,
+          input_schema:{type:"object", properties:props, required:Object.keys(t.params)}};
+      });
+      function round(msgs, depth){
+        var body = {model:"claude-3-5-sonnet-20241022", max_tokens:1024, stream:true, messages: msgs, tools: tools};
+        if(sys) body.system = sys.text;
+        var blocks = {};
+        fetch("https://api.anthropic.com/v1/messages", {
+          method:"POST", headers:{"Content-Type":"application/json","x-api-key":apiKey,
+            "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
+          body: JSON.stringify(body)
+        }).then(function(r){
+          if(!r.ok) return r.text().then(function(t){ throw new Error("HTTP "+r.status+" "+t.slice(0,200)); });
+          return readSSE(r, function(payload){
+            try{
+              var d = JSON.parse(payload);
+              if(d.type==="content_block_start"){
+                blocks[d.index] = (d.content_block.type==="tool_use")
+                  ? {type:"tool_use", id:d.content_block.id, name:d.content_block.name, json:""}
+                  : {type:"text", text:""};
+              } else if(d.type==="content_block_delta"){
+                var b = blocks[d.index]; if(!b) return;
+                if(d.delta.type==="text_delta"){ b.text += d.delta.text; onDelta(d.delta.text); }
+                else if(d.delta.type==="input_json_delta"){ b.json += d.delta.partial_json||""; }
+              }
+            }catch(e){}
+          });
+        }).then(function(){
+          var idxs = Object.keys(blocks).sort(function(a,b){ return a-b; });
+          var calls = idxs.map(function(k){ return blocks[k]; }).filter(function(b){ return b.type==="tool_use"; });
+          if(calls.length && depth<TOOL_DEPTH_CAP){
+            var assistantContent = idxs.map(function(k){
+              var b = blocks[k];
+              if(b.type==="tool_use"){
+                var input = {}; try{ input = JSON.parse(b.json||"{}"); }catch(e){}
+                return {type:"tool_use", id:b.id, name:b.name, input:input};
+              }
+              return {type:"text", text:b.text};
+            });
+            var toolResults = calls.map(function(b){
+              var args = {}; try{ args = JSON.parse(b.json||"{}"); }catch(e){}
+              return {type:"tool_result", tool_use_id:b.id, content: JSON.stringify(execTool(b.name, args))};
+            });
+            round(msgs.concat([{role:"assistant", content:assistantContent}, {role:"user", content:toolResults}]), depth+1);
+          } else onDone();
+        }).catch(onError);
+      }
+      round(messages.filter(function(m){ return m.role!=="system"; }).map(function(m){
+        return {role:m.role, content:m.text};
+      }), 0);
     }
   };
 
@@ -2284,11 +2434,17 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "or explain how you're deciding what to say, that should never appear in the output at all.\n\n"+
       "HARD RULE, no exceptions: never state a specific biographical fact -- where you grew up, family "+
       "details, a specific past event, a relationship, a date, a place you lived -- unless it is explicitly "+
-      "written in the notes below. Do not infer, guess, round up, or fill in a plausible-sounding detail from "+
-      "general pattern-matching (e.g. a relative's history is NOT your own history -- never blend the two). "+
-      "If a specific fact isn't in the notes and you're not certain of it, say plainly you don't have that "+
-      "written down or aren't sure, rather than answering with something invented. Getting a hard fact wrong "+
-      "is much worse than admitting you don't know.\n\n"+
+      "written in the notes below, or comes back from a search_archive call. Do not infer, guess, round up, "+
+      "or fill in a plausible-sounding detail from general pattern-matching (e.g. a relative's history is NOT "+
+      "your own history -- never blend the two). You have a search_archive tool: if a question reaches beyond "+
+      "what's already in front of you, use it and check before saying you don't know -- but if you've "+
+      "genuinely searched (or the answer clearly isn't the kind of thing that would be written down) and "+
+      "still don't have it, say plainly you don't have that written down or aren't sure, rather than "+
+      "answering with something invented. Getting a hard fact wrong is much worse than admitting you don't "+
+      "know. This covers texture, not just facts: when you do recount something real, use the actual "+
+      "specific details in the notes (names, places, objects) rather than inventing generic sensory "+
+      "flourish -- smells, imagined dialogue, scenery -- that isn't written anywhere. A real memory "+
+      "described vaguely beats a fake-feeling one dressed up with made-up detail.\n\n"+
       "Write ALL LOWERCASE, always, no capital letters anywhere, not even at the start of a sentence or for "+
       "\"I\" -- lowercase i.\n\n"+
       "Keep it SHORT -- one or two sentences, sometimes just a phrase. Never a paragraph.\n\n"+
@@ -2297,15 +2453,15 @@ hintEl.innerHTML += " &nbsp;·&nbsp; "+N.toLocaleString()+" notes · "+links.len
       "detail, not a summary -- the kind of thing that makes someone want to ask a follow-up, not a rundown. "+
       "But if the question is specific and someone's clearly and genuinely asking for a real answer, just "+
       "give it straight -- don't be coy or dodge a direct question, that's a different kind of annoying. "+
-      "When you do reference a specific note, mention its exact title somewhere in the sentence so it can "+
-      "be found and shown. This is real: if someone asks to see a photo, painting, or image, you CAN show "+
-      "one -- just say its exact title from the notes below in your reply (e.g. \"there's this photograph, "+
-      "Photograph - X\") and it'll actually appear on screen. Never say you can't show images -- if nothing "+
-      "in the notes below actually fits what they're asking for, say that instead of claiming it's not "+
-      "possible in general. You don't need to be asked first, either -- if a painting or photograph in the "+
-      "notes below genuinely fits what's being talked about, bring it up on your own, the same way you'd "+
-      "casually gesture at something while telling a story. But only when it actually fits -- naming some "+
-      "unrelated image just to have a picture on screen is worse than not showing one at all.\n\n"+
+      "You also have a show tool -- call it with a note or image's exact title to actually put it on screen. "+
+      "This is real: if someone asks to see a photo, painting, or image, you CAN show one. Call show with "+
+      "the exact title from the notes below (or from a search_archive result), AND still mention it by name "+
+      "in your reply the normal way -- do both, don't rely on just one. Never say you can't show images -- "+
+      "if nothing below actually fits what they're asking for, say that instead of claiming it's not possible "+
+      "in general. You don't need to be asked first, either -- if a painting or photograph genuinely fits "+
+      "what's being talked about, bring it up (and show it) on your own, the same way you'd casually gesture "+
+      "at something while telling a story. But only when it actually fits -- showing some unrelated image "+
+      "just to have a picture on screen is worse than not showing one at all.\n\n"+
       "The same goes for a specific book, movie, or album if one's in the notes below: say the specific "+
       "work by name (not a vague \"a book about X\") so it actually opens, but only when the conversation is "+
       "genuinely about it.\n\n"+

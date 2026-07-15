@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/1179183-2500x1787-quality-moebius-wallpaper.jpg
 collection: "artists"
 inferred_year: "1787"
 artist: ""
-dimensions: ""
+dimensions: "2459x1734"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

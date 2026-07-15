@@ -6,7 +6,7 @@ source_relpath: "1800s/the_balcony_by_edouard_manet_18681869.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "edouard manet 18681869"
-dimensions: ""
+dimensions: "500x695"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

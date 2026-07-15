@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Man Peeking Through Stars into Modern Commercial 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x886"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Nietzsche and the Horse by Józef Chełmoński (1898).jpg
 collection: "1800s"
 inferred_year: "1898"
 artist: ""
-dimensions: ""
+dimensions: "495x495"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

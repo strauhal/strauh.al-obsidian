@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Bra with Laptop and Bottles in Concrete P
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x1004"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

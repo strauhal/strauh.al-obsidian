@@ -6,7 +6,7 @@ source_relpath: "1900s/gaston_bussire_the_whispering_winds_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "1280x974"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dream_peddlers_by_robert_stanley_1956.jpeg"
 collection: "1900s"
 inferred_year: "1956"
 artist: "robert stanley"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/1_Bedroom_Rent_By_County_In_The_United_States.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: "County In The United States"
-dimensions: ""
+dimensions: "1600x1016"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Distorted Aerial View of Farmhouse and Hay Bales by
 collection: "photography"
 inferred_year: ""
 artist: "Ayd n B y kta"
-dimensions: ""
+dimensions: "472x680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

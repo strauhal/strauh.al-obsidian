@@ -6,7 +6,7 @@ source_relpath: "1900s/museum_new_york_by_elliott_erwitt_1954.jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: "elliott erwitt"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

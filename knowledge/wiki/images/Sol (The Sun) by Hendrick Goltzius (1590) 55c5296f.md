@@ -6,7 +6,7 @@ source_relpath: "1500s/Sol (The Sun) by Hendrick Goltzius (1590).jpg"
 collection: "1500s"
 inferred_year: "1590"
 artist: ""
-dimensions: ""
+dimensions: "883x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

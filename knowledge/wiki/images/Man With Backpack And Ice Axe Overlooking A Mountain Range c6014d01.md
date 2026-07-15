@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Backpack And Ice Axe Overlooking A Mountai
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "775x799"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouetted Diners at Open-Air Restaurant with Diam
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1366"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

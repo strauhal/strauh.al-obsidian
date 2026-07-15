@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Digital Painting Software I
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1226x978"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

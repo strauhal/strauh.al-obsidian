@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_the_violinist_pierre_gavinies_by_joseph_ducre
 collection: "1700s"
 inferred_year: "1765"
 artist: "joseph ducreux"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Dimly Lit Kitchen Interior With Beige Wal
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x806"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

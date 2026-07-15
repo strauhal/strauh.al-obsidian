@@ -6,7 +6,7 @@ source_relpath: "photography/People Attending An AI Artists Showcase Event.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1371x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

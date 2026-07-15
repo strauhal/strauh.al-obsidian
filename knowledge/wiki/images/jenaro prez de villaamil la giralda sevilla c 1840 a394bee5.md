@@ -6,7 +6,7 @@ source_relpath: "1800s/jenaro_prez_de_villaamil_la_giralda_sevilla_c_1840.jpg"
 collection: "1800s"
 inferred_year: "1840"
 artist: ""
-dimensions: ""
+dimensions: "2300x3278"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

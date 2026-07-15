@@ -6,7 +6,7 @@ source_relpath: "1900s/kawase_hasui_cryptomeria_avenue_at_nikko_1930.png"
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: ""
+dimensions: "640x973"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

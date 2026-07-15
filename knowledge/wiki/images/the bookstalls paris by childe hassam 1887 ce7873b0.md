@@ -6,7 +6,7 @@ source_relpath: "1800s/the_bookstalls_paris_by_childe_hassam_1887.jpg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "childe hassam"
-dimensions: ""
+dimensions: "4000x3094"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

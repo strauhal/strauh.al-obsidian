@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Social Media Feed Showing News Headlines 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "712x444"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

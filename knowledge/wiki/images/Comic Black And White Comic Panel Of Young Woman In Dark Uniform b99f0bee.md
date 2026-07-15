@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Black And White Comic Panel Of Young Woman In Dar
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Curvilinear Architectural Sket
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x482"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

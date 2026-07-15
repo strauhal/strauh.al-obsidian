@@ -6,7 +6,7 @@ source_relpath: "influences/dean_blunt.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "660x440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

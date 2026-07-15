@@ -6,7 +6,7 @@ source_relpath: "photography/Homeless Person Wearing VR Headset on San Francisco
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

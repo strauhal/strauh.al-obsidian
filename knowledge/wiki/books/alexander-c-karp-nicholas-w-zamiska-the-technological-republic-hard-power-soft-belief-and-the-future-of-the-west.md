@@ -9,8 +9,8 @@ metadata: curated
 aliases: [dokumen.pub the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west-9780593798706-9780593798690-9798217086269]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/dokumen.pub_the-technological-republic-hard-power-soft-belief-and-the-future-of-the-west-9780593798706-9780593798690-9798217086269.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # The Technological Republic: Hard Power, Soft Belief, and the Future of the West

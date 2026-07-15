@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Large Office Space Under Vaulted Brick Arche
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1000x562"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

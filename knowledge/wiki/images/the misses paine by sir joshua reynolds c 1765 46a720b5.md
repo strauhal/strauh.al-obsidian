@@ -6,7 +6,7 @@ source_relpath: "1700s/the_misses_paine_by_sir_joshua_reynolds_c_1765.jpeg"
 collection: "1700s"
 inferred_year: "1765"
 artist: "sir joshua reynolds"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

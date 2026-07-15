@@ -6,7 +6,7 @@ source_relpath: "1900s/man_controller_of_the_universe_by_diego_rivera_1934.jpg"
 collection: "1900s"
 inferred_year: "1934"
 artist: "diego rivera"
-dimensions: ""
+dimensions: "3149x1324"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

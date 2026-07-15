@@ -6,7 +6,7 @@ source_relpath: "2000s/The Bathroom by Olivier Neuray (2025).webp"
 collection: "2000s"
 inferred_year: "2025"
 artist: ""
-dimensions: ""
+dimensions: "1440x1787"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

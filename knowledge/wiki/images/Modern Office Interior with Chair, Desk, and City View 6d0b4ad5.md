@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Office Interior with Chair, Desk, and City V
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2400x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

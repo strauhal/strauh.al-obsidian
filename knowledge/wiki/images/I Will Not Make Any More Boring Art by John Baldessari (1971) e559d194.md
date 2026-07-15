@@ -6,7 +6,7 @@ source_relpath: "1900s/I Will Not Make Any More Boring Art by John Baldessari (1
 collection: "1900s"
 inferred_year: "1971"
 artist: ""
-dimensions: ""
+dimensions: "600x477"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

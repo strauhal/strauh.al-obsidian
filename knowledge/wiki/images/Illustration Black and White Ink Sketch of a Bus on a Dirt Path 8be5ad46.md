@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Ink Sketch of a Bus on 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4080x3072"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/A Bigger Hotel Garden by David Hockney (1967).jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: ""
-dimensions: ""
+dimensions: "1008x1017"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

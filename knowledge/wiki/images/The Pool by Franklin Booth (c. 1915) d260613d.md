@@ -6,7 +6,7 @@ source_relpath: "1900s/The Pool by Franklin Booth (c. 1915).jpg"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: ""
+dimensions: "2245x2988"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

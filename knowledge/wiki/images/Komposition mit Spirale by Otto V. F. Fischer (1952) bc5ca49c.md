@@ -6,7 +6,7 @@ source_relpath: "1900s/Komposition mit Spirale by Otto V. F. Fischer (1952).jpeg
 collection: "1900s"
 inferred_year: "1952"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

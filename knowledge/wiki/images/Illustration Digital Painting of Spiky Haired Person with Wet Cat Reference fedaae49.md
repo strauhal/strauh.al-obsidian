@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Painting of Spiky-Haired Person
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1605x1470"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

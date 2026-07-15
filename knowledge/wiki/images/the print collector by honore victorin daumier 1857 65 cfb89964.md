@@ -6,7 +6,7 @@ source_relpath: "1800s/the_print_collector_by_honore_victorin_daumier_1857_65.jp
 collection: "1800s"
 inferred_year: "1857"
 artist: "honore victorin daumier"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

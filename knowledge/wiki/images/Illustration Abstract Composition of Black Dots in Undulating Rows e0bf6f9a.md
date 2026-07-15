@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Composition of Black Dots in Undu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1085x1390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

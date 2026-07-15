@@ -6,7 +6,7 @@ source_relpath: "1900s/zwei_frauen_im_garten_two_women_in_the_garden_by_emil_nol
 collection: "1900s"
 inferred_year: "1915"
 artist: "emil nolde"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

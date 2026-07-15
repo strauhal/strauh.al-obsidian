@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/moebius-aka-jean-giraud-36-of-41.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2500x1838"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

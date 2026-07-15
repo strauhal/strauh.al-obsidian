@@ -6,7 +6,7 @@ source_relpath: "1500s/the_return_of_the_herd_by_pieter_bruegel_the_elder_1566.j
 collection: "1500s"
 inferred_year: "1566"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "2560x1871"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

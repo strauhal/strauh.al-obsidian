@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Painting of Intertwined Mythica
 collection: "unsorted"
 inferred_year: ""
 artist: "Aaron Johnson"
-dimensions: ""
+dimensions: "1280x1160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

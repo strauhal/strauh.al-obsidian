@@ -6,7 +6,7 @@ source_relpath: "1800s/henryk_siemiradzki_christ_in_the_house_of_martha_and_mary
 collection: "1800s"
 inferred_year: "1886"
 artist: ""
-dimensions: ""
+dimensions: "3000x1688"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

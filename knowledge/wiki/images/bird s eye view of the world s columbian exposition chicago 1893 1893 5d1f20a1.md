@@ -6,7 +6,7 @@ source_relpath: "1800s/bird_s_eye_view_of_the_world_s_columbian_exposition_chica
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4000x3058"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

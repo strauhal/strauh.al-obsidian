@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Tactical Gear Holding Pistol, Red Lightin
 collection: "photography"
 inferred_year: ""
 artist: "Kai Archer"
-dimensions: ""
+dimensions: "670x903"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

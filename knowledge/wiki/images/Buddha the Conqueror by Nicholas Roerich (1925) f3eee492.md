@@ -6,7 +6,7 @@ source_relpath: "1900s/Buddha the Conqueror by Nicholas Roerich (1925).jpg"
 collection: "1900s"
 inferred_year: "1925"
 artist: ""
-dimensions: ""
+dimensions: "1800x1117"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

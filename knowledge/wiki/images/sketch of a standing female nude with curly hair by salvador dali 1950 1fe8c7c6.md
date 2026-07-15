@@ -6,7 +6,7 @@ source_relpath: "1900s/sketch_of_a_standing_female_nude_with_curly_hair_by_salva
 collection: "1900s"
 inferred_year: "1950"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

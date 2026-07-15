@@ -6,7 +6,7 @@ source_relpath: "1700s/james_brydges_16731744_1st_duke_of_chandos_by_sir_godfrey
 collection: "1700s"
 inferred_year: "1718"
 artist: "sir godfrey kneller"
-dimensions: ""
+dimensions: "1528x2560"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Library Interior with Spiral Wooden Ceiling 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "514x771"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

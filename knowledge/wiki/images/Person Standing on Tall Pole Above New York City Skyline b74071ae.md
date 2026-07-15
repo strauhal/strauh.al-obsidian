@@ -6,7 +6,7 @@ source_relpath: "photography/Person Standing on Tall Pole Above New York City Sk
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2957x3948"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

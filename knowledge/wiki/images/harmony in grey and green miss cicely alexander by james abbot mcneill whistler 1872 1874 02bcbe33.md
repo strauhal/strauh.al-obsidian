@@ -6,7 +6,7 @@ source_relpath: "1800s/harmony_in_grey_and_green_miss_cicely_alexander_by_james_
 collection: "1800s"
 inferred_year: "1874"
 artist: "james abbot mcneill whistler"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

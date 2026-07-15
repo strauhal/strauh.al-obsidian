@@ -6,7 +6,7 @@ source_relpath: "diagrams/Cycle_of_Wake_Up_and_Sleep_Represented_by_Abstract_Sha
 collection: "diagrams"
 inferred_year: ""
 artist: "Abstract Shapes"
-dimensions: ""
+dimensions: "644x511"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

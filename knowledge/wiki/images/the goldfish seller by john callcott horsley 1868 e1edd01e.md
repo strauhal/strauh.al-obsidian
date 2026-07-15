@@ -6,7 +6,7 @@ source_relpath: "1800s/the_goldfish_seller_by_john_callcott_horsley_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
 artist: "john callcott horsley"
-dimensions: ""
+dimensions: "2000x1347"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

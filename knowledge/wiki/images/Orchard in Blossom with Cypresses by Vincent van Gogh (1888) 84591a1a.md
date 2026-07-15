@@ -6,7 +6,7 @@ source_relpath: "1800s/Orchard in Blossom with Cypresses by Vincent van Gogh (18
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: ""
+dimensions: "1440x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

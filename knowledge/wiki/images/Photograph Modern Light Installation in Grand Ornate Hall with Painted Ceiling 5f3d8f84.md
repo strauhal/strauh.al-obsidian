@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Modern Light Installation in Grand Ornate Ha
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1440x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

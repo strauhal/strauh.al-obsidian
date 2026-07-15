@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Two Sides of a Serbian 100 Dinar Banknote D
 collection: "unsorted"
 inferred_year: ""
 artist: "Milos Zlatanovic"
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

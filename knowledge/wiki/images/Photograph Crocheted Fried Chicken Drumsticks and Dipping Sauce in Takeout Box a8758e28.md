@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Crocheted Fried Chicken Drumsticks and Dippi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1315x999"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/Portrait of Johann Wolfgang von Goethe by Georg Melchior 
 collection: "1700s"
 inferred_year: "1775"
 artist: ""
-dimensions: ""
+dimensions: "2326x3085"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

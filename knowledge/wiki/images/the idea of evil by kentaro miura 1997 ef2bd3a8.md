@@ -6,7 +6,7 @@ source_relpath: "1900s/the_idea_of_evil_by_kentaro_miura_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "kentaro miura"
-dimensions: ""
+dimensions: "736x1118"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

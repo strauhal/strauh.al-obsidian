@@ -6,7 +6,7 @@ source_relpath: "1800s/vercingetorix_jette_ses_armes_aux_pieds_de_cesar_by_lione
 collection: "1800s"
 inferred_year: "1899"
 artist: "lionel royer"
-dimensions: ""
+dimensions: "2204x1469"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

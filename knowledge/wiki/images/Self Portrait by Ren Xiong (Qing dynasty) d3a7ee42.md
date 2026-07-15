@@ -6,7 +6,7 @@ source_relpath: "2000s/Self-Portrait by Ren Xiong (Qing dynasty).jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

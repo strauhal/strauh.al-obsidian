@@ -6,7 +6,7 @@ source_relpath: "photography/Black Cat With Glowing Eyes, Spilled Green Material
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x670"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

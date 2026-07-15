@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Fedora Hat and Vest.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1257x1390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

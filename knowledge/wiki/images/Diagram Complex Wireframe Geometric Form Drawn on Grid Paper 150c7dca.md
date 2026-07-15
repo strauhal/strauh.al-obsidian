@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Complex Wireframe Geometric Form Drawn on Grid 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2922x1564"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

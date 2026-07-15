@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Yale University School of A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1292x827"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

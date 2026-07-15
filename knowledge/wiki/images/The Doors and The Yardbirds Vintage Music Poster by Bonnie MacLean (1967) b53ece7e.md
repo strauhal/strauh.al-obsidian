@@ -6,7 +6,7 @@ source_relpath: "2000s/The Doors & The Yardbirds Vintage Music Poster by Bonnie 
 collection: "2000s"
 inferred_year: "1967"
 artist: ""
-dimensions: ""
+dimensions: "1300x1956"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

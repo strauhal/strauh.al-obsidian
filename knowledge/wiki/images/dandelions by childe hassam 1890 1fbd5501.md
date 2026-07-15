@@ -6,7 +6,7 @@ source_relpath: "1800s/dandelions_by_childe_hassam_1890.png"
 collection: "1800s"
 inferred_year: "1890"
 artist: "childe hassam"
-dimensions: ""
+dimensions: "2000x1443"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

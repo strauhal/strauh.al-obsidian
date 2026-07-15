@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouetted Person Sitting in Dark, Empty Room with
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x525"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "gif_collection/bafkreifjn3djsuh6g4ztq46fampftlvz24je733l5pgy47q
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/keiryu_mountain_stream_by_hiroshi_yoshida_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "hiroshi yoshida"
-dimensions: ""
+dimensions: "2000x1318"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

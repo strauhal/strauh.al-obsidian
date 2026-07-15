@@ -6,7 +6,7 @@ source_relpath: "2000s/Matangi.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2608x3504"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

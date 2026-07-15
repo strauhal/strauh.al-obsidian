@@ -6,7 +6,7 @@ source_relpath: "1900s/abstraction_blue_and_green_by_georgia_o_keeffe_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: "georgia o keeffe"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

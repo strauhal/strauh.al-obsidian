@@ -6,7 +6,7 @@ source_relpath: "photography/Race Car Number 7 Kicking Up Dust at 1906 Vanderbil
 collection: "photography"
 inferred_year: "1906"
 artist: ""
-dimensions: ""
+dimensions: "2407x1735"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

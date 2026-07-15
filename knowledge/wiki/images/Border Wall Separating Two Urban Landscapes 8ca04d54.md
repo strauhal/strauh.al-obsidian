@@ -6,7 +6,7 @@ source_relpath: "photography/Border Wall Separating Two Urban Landscapes.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x468"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

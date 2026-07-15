@@ -6,7 +6,7 @@ source_relpath: "photography/Person Painting Horizontal Colored Lines on a Brick
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x818"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

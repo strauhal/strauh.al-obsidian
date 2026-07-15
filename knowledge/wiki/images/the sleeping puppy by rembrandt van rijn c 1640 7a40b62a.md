@@ -6,7 +6,7 @@ source_relpath: "1600s/the_sleeping_puppy_by_rembrandt_van_rijn_c_1640.jpg"
 collection: "1600s"
 inferred_year: "1640"
 artist: "rembrandt van rijn"
-dimensions: ""
+dimensions: "800x396"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

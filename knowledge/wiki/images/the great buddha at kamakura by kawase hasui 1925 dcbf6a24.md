@@ -6,7 +6,7 @@ source_relpath: "1900s/the_great_buddha_at_kamakura_by_kawase_hasui_1925.jpeg"
 collection: "1900s"
 inferred_year: "1925"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

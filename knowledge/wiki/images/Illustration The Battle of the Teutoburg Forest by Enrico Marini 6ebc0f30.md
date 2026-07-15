@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - The Battle of the Teutoburg Forest by Enri
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Enrico Marini"
-dimensions: ""
+dimensions: "1280x844"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

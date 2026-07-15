@@ -6,7 +6,7 @@ source_relpath: "influences/dick_dale.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

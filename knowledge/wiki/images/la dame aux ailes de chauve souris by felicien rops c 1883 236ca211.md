@@ -6,7 +6,7 @@ source_relpath: "1800s/la_dame_aux_ailes_de_chauve_souris_by_felicien_rops_c_188
 collection: "1800s"
 inferred_year: "1883"
 artist: "felicien rops"
-dimensions: ""
+dimensions: "1131x1451"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

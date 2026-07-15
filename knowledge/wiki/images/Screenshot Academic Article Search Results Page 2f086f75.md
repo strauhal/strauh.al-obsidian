@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Academic Article Search Results Page.jpeg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

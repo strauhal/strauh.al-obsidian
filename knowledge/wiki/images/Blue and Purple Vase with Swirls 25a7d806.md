@@ -6,7 +6,7 @@ source_relpath: "photography/Blue and Purple Vase with Swirls.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "350x479"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

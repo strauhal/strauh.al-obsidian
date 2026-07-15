@@ -6,7 +6,7 @@ source_relpath: "photography/Panoramic Sunset Sky with Silhouetted Trees.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x502"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

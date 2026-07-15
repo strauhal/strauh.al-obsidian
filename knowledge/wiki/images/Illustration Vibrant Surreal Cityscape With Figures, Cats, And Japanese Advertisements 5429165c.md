@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Surreal Cityscape With Figures,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

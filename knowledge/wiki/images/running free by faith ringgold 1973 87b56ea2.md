@@ -6,7 +6,7 @@ source_relpath: "1900s/running_free_by_faith_ringgold_1973.jpeg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "faith ringgold"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

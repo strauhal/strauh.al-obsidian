@@ -6,7 +6,7 @@ source_relpath: "1500s/the_prophet_abraham_in_the_fire_of_nimrod_c_1570.jpg"
 collection: "1500s"
 inferred_year: "1570"
 artist: ""
-dimensions: ""
+dimensions: "2491x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

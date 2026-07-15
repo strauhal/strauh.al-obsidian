@@ -6,7 +6,7 @@ source_relpath: "1100s/a_thousand_li_of_rivers_and_mountains_by_wang_ximeng_1113
 collection: "1100s"
 inferred_year: "1100s"
 artist: "wang ximeng"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---

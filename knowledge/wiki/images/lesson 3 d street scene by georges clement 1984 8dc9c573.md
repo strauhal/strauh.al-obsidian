@@ -6,7 +6,7 @@ source_relpath: "1900s/lesson_3_d_street_scene_by_georges_clement_1984.png"
 collection: "1900s"
 inferred_year: "1984"
 artist: "georges clement"
-dimensions: ""
+dimensions: "2304x2880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

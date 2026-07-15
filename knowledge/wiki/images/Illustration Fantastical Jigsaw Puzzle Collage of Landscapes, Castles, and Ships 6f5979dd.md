@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Fantastical Jigsaw Puzzle Collage of La
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2100x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/L'Atelier de l'artiste ``` is a very common artwork by He
 collection: "1900s"
 inferred_year: "1952"
 artist: ""
-dimensions: ""
+dimensions: "1423x1076"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -2,13 +2,13 @@
 title: Library - Unsorted
 type: map
 tags: [map, library, books]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Library - Unsorted
 
-Books/files: 113
+Books/files: 114
 
 ## Titles
 
@@ -32,6 +32,7 @@ Books/files: 113
 - [[2408.04681v1]]
 - [[2410.01131v1]]
 - [[2509.11391v2]]
+- [[2607.02317v1]]
 - [[54b7f9bf8681400300255cab original]]
 - [[990ff2a8-737a-4981-8f3f-08a82b17d082]]
 - [[Brian Massumi on Affect - divine curation]]

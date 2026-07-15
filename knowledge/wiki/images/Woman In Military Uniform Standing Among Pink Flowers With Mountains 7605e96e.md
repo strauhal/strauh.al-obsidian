@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Military Uniform Standing Among Pink Flowe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "629x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

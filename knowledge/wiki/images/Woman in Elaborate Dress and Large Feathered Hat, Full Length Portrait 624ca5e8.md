@@ -6,7 +6,7 @@ source_relpath: "photography/Woman in Elaborate Dress and Large Feathered Hat, F
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x2191"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

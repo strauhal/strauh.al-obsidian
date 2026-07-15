@@ -6,7 +6,7 @@ source_relpath: "1600s/judith_slaying_holofernes_by_artemisia_gentileschi_c_1612
 collection: "1600s"
 inferred_year: "1600s"
 artist: "artemisia gentileschi"
-dimensions: ""
+dimensions: "2000x2519"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

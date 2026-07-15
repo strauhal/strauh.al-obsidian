@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Ink Illustration Of Two
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3086x2159"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

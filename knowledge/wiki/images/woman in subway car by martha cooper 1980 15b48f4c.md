@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_in_subway_car_by_martha_cooper_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "martha cooper"
-dimensions: ""
+dimensions: "1024x716"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/a_grotesque_head_and_a_profile_of_a_youth_by_leonardo_da_
 collection: "1400s"
 inferred_year: "1490"
 artist: "leonardo da vinci"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/juanita_by_kenneth_m_adams_1939.jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: "kenneth m adams"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

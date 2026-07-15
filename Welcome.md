@@ -3,8 +3,8 @@ title: strauh.al Knowledge Base
 type: map
 aliases: [Atlas, strauh.al Atlas, home]
 tags: [map, home, strauhal, atlas]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # strauh.al — an atlas, not a feed
@@ -12,7 +12,7 @@ updated: 2026-07-08
 A knowledge system built the opposite way from the old web. Instead of a flat pile
 of pages linking to index pages, this is a **layered atlas**: a spine of *ideas* at
 the center, and everything else — people, works, reading, images — arranged as what
-*feeds* those ideas. From here, any of ~10261 notes is three hops away.
+*feeds* those ideas. From here, any of ~10263 notes is three hops away.
 
 ## ① The spine — start here
 
@@ -53,7 +53,7 @@ grouped into four themes. This is the front door; read the vault *through* the i
 
 ## Current counts
 
-people 22 · concepts 28 · works 11 · books 414 · culture 120 · dreams 7 · images 8404 · pages 78 · collections 95
+people 22 · concepts 28 · works 11 · books 415 · culture 120 · dreams 7 · images 8405 · pages 79 · collections 95
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

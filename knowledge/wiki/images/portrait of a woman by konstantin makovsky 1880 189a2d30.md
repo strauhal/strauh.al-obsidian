@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_a_woman_by_konstantin_makovsky_1880.jpeg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "konstantin makovsky"
-dimensions: ""
+dimensions: "734x979"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

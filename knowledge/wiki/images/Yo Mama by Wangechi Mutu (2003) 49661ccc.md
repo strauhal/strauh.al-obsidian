@@ -6,7 +6,7 @@ source_relpath: "2000s/Yo Mama by Wangechi Mutu (2003).jpg"
 collection: "2000s"
 inferred_year: "2003"
 artist: ""
-dimensions: ""
+dimensions: "7529x5202"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

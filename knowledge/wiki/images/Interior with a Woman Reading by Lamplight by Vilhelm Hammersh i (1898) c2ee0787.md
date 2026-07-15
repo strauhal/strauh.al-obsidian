@@ -6,7 +6,7 @@ source_relpath: "1800s/Interior with a Woman Reading by Lamplight by Vilhelm Ham
 collection: "1800s"
 inferred_year: "1898"
 artist: ""
-dimensions: ""
+dimensions: "783x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

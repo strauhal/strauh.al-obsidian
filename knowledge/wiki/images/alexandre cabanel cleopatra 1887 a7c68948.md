@@ -6,7 +6,7 @@ source_relpath: "1800s/alexandre_cabanel_cleopatra_1887.jpg"
 collection: "1800s"
 inferred_year: "1887"
 artist: ""
-dimensions: ""
+dimensions: "2090x1430"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/two_figures_in_a_room_by_francis_bacon_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "francis bacon"
-dimensions: ""
+dimensions: "843x1135"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

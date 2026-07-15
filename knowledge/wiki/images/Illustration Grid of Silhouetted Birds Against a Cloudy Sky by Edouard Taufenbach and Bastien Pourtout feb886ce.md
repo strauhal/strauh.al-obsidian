@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grid of Silhouetted Birds Against a Cloudy
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Edouard Taufenbach and Bastien Pourtout"
-dimensions: ""
+dimensions: "720x721"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

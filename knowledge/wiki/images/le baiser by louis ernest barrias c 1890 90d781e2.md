@@ -6,7 +6,7 @@ source_relpath: "1800s/le_baiser_by_louis_ernest_barrias_c_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "louis ernest barrias"
-dimensions: ""
+dimensions: "330x472"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

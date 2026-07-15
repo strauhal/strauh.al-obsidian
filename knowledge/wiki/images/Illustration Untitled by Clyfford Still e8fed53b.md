@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Untitled by Clyfford Still.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Clyfford Still"
-dimensions: ""
+dimensions: "3319x4000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

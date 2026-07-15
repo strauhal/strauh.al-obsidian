@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Police Car Near Collapsed Robot Head Under
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Simon St lenhag"
-dimensions: ""
+dimensions: "1536x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Stencil of a Cat on a Concrete Wall.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1003x1063"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

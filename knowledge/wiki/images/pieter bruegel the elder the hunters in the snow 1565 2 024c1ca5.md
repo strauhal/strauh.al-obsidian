@@ -6,7 +6,7 @@ source_relpath: "1500s/pieter_bruegel_the_elder_the_hunters_in_the_snow_1565_2.j
 collection: "1500s"
 inferred_year: "1565"
 artist: ""
-dimensions: ""
+dimensions: "1200x854"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/portrait_of_a_young_woman_by_petrus_christus_c_1470.jpeg"
 collection: "1400s"
 inferred_year: "1470"
 artist: "petrus christus"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

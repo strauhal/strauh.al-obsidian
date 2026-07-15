@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Person with Water on 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "794x529"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

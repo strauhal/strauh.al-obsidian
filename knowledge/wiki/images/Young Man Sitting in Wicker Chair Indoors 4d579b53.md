@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man Sitting in Wicker Chair Indoors.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1442"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

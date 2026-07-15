@@ -6,7 +6,7 @@ source_relpath: "1900s/The City of Ambition by Alfred Stieglitz (1910).jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "385x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

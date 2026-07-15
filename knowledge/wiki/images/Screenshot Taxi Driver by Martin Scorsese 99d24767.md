@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Taxi Driver by Martin Scorsese.png"
 collection: "unsorted"
 inferred_year: ""
 artist: "Martin Scorsese"
-dimensions: ""
+dimensions: "1280x692"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

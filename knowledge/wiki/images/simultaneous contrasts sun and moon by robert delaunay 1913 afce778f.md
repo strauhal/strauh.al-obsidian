@@ -6,7 +6,7 @@ source_relpath: "1900s/simultaneous_contrasts_sun_and_moon_by_robert_delaunay_19
 collection: "1900s"
 inferred_year: "1913"
 artist: "robert delaunay"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

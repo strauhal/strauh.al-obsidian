@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo of Person Diving Towards Wate
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

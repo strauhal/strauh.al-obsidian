@@ -6,7 +6,7 @@ source_relpath: "photography/Cracked Storefront Window with Handwritten Messages
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

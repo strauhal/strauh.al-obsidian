@@ -6,7 +6,7 @@ source_relpath: "photography/Two Escalators In Subway Station With Pink And Blue
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "853x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

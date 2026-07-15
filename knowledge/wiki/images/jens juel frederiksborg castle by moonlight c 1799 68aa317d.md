@@ -6,7 +6,7 @@ source_relpath: "1700s/jens_juel_frederiksborg_castle_by_moonlight_c_1799.jpg"
 collection: "1700s"
 inferred_year: "1799"
 artist: "moonlight"
-dimensions: ""
+dimensions: "2560x1618"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

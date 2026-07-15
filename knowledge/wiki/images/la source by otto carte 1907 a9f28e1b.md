@@ -6,7 +6,7 @@ source_relpath: "1900s/la_source_by_otto_carte_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "otto carte"
-dimensions: ""
+dimensions: "1015x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

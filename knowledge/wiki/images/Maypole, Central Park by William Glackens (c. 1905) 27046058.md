@@ -6,7 +6,7 @@ source_relpath: "1900s/Maypole, Central Park by William Glackens (c. 1905).jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

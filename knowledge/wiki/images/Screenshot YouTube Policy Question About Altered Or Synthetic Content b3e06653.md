@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - YouTube Policy Question About Altered Or 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1208x630"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

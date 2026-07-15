@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Mechanisms, Descriptions, and Examples of P
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "870x642"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red Robot Fighting White Monster in For
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4000x3200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

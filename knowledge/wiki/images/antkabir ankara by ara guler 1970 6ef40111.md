@@ -6,7 +6,7 @@ source_relpath: "1900s/antkabir_ankara_by_ara_guler_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "ara guler"
-dimensions: ""
+dimensions: "928x1232"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

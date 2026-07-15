@@ -6,7 +6,7 @@ source_relpath: "1900s/ys_iv_the_dawn_of_ys_by_koji_1993.jpg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "koji"
-dimensions: ""
+dimensions: "3090x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

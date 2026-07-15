@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Four Illustrated Portraits of Different
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2292x3156"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

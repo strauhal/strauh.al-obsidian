@@ -6,7 +6,7 @@ source_relpath: "1900s/the_houses_of_parliament_fog_effect_by_claude_monet_1903.
 collection: "1900s"
 inferred_year: "1903"
 artist: "claude monet"
-dimensions: ""
+dimensions: "1080x950"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

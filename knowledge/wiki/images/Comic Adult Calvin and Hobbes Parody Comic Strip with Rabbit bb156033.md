@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Adult Calvin and Hobbes Parody Comic Strip with R
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "611x755"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Colorful_Map_of_Chicago_Neighborhoods.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "518x771"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

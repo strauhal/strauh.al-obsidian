@@ -6,7 +6,7 @@ source_relpath: "photography/David Bowie Using a Computer at a Desk.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1935x1497"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

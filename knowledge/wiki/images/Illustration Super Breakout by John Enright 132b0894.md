@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Super Breakout by John Enright.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "John Enright"
-dimensions: ""
+dimensions: "1373x1143"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

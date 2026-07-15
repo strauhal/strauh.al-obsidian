@@ -6,7 +6,7 @@ source_relpath: "diagrams/Freud's_Structural_Model_of_the_Psyche_Diagram.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "300x404"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

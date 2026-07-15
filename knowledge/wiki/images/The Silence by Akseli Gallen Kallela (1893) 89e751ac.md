@@ -6,7 +6,7 @@ source_relpath: "1800s/The Silence by Akseli Gallen-Kallela (1893).jpg"
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "1280x1281"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

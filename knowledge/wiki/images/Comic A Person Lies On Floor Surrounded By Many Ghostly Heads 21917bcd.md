@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - A Person Lies On Floor Surrounded By Many Ghostly
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Many Ghostly Heads"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -1,0 +1,7 @@
+# SQLite rollback-journal artifacts (this filesystem's locking semantics can
+# leave these behind after a rebuild; they're transient and shouldn't be committed)
+knowledge/output/*.sqlite-journal
+knowledge/output/*.sqlite-journal.stale
+
+# Debris from Cowork automation git-plumbing probes (see site-sync-log.md)
+/__test_git_add_probe.txt

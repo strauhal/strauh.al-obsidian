@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Magibook Ad Simplifying The
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

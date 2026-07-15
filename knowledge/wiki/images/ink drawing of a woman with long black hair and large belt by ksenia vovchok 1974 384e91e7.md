@@ -6,7 +6,7 @@ source_relpath: "1900s/ink_drawing_of_a_woman_with_long_black_hair_and_large_bel
 collection: "1900s"
 inferred_year: "1974"
 artist: "ksenia vovchok"
-dimensions: ""
+dimensions: "700x1039"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

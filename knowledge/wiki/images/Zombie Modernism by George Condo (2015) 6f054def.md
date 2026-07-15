@@ -6,7 +6,7 @@ source_relpath: "2000s/Zombie Modernism by George Condo (2015).jpg"
 collection: "2000s"
 inferred_year: "2015"
 artist: ""
-dimensions: ""
+dimensions: "1024x1076"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

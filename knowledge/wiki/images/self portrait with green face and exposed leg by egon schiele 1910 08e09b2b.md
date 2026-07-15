@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_with_green_face_and_exposed_leg_by_egon_sch
 collection: "1900s"
 inferred_year: "1910"
 artist: "egon schiele"
-dimensions: ""
+dimensions: "653x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

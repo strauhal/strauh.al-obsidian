@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Ink Drawing of a Cat in
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "758x1183"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

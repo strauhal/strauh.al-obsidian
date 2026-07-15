@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Musician Playing Wind
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1322x1060"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

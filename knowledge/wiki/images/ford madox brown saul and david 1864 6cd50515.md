@@ -6,7 +6,7 @@ source_relpath: "1800s/ford_madox_brown_saul_and_david_1864.jpg"
 collection: "1800s"
 inferred_year: "1864"
 artist: ""
-dimensions: ""
+dimensions: "3526x2740"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

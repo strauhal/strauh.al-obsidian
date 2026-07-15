@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Modern Concert Hall Interior with Woode
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x736"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

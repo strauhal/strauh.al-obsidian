@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of an oil painting on an easel outdoors,
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

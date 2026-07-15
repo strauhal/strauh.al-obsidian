@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait of a Woman in Black Dress and 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

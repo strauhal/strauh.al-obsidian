@@ -6,7 +6,7 @@ source_relpath: "1900s/le_pin_de_saint_tropez_by_paul_signac_1909.jpeg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "paul signac"
-dimensions: ""
+dimensions: "1280x1021"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

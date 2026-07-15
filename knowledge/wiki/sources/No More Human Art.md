@@ -6,8 +6,8 @@ subject: Ernest Strauhal
 status: compiled
 tags: [criticism, ai-art, gan, authorship]
 sources: []
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # No More Human Art

@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up Of A Baby Lying On A Quilted Surface.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

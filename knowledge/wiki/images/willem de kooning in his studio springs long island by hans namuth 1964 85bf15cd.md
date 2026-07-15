@@ -6,7 +6,7 @@ source_relpath: "1900s/willem_de_kooning_in_his_studio_springs_long_island_by_ha
 collection: "1900s"
 inferred_year: "1964"
 artist: "hans namuth"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Blurry Monochrome Portrait Of A Person.webp"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2235x2560"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vintage Illustration of Two Red Poppies
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "664x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

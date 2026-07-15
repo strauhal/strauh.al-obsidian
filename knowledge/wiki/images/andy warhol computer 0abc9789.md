@@ -6,7 +6,7 @@ source_relpath: "computers/andy warhol computer.png"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x899"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

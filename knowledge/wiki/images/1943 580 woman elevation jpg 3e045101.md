@@ -6,7 +6,7 @@ source_relpath: "1900s/1943_580_woman_elevation_jpg.jpg"
 collection: "1900s"
 inferred_year: "1943"
 artist: ""
-dimensions: ""
+dimensions: "2105x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

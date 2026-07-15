@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_by_leon_ferrari_1962.jpeg"
 collection: "1900s"
 inferred_year: "1962"
 artist: "leon ferrari"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

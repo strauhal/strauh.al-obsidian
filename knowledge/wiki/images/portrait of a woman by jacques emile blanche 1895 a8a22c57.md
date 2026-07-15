@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_a_woman_by_jacques_emile_blanche_1895.jpeg"
 collection: "1800s"
 inferred_year: "1895"
 artist: "jacques emile blanche"
-dimensions: ""
+dimensions: "734x979"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

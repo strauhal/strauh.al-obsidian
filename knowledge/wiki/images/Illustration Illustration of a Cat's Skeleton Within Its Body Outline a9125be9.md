@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Illustration of a Cat's Skeleton Within
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3317x2514"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

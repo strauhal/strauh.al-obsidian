@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves and Carrie-Anne Moss Promotional Photo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x786"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

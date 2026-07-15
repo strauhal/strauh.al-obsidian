@@ -6,7 +6,7 @@ source_relpath: "1800s/Max Stirner by Friedrich Engels (1845-1846).jpg"
 collection: "1800s"
 inferred_year: "1846"
 artist: ""
-dimensions: ""
+dimensions: "220x567"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

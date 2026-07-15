@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Mark Fisher Capitalist Realism Is There no Alte(BookZZ.org)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/[Mark_Fisher]_Capitalist_Realism_Is_There_no_Alte(BookZZ.org).pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Capitalist Realism: Is There No Alternative?

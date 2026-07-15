@@ -6,7 +6,7 @@ source_relpath: "2000s/Aurora and Cephalus by Pierre-Narcisse Guérin (1810).jpg
 collection: "2000s"
 inferred_year: "1810"
 artist: ""
-dimensions: ""
+dimensions: "1372x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

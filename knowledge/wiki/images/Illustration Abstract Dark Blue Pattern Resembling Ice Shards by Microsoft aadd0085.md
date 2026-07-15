@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Dark Blue Pattern Resembling I
 collection: "unsorted"
 inferred_year: ""
 artist: "Microsoft"
-dimensions: ""
+dimensions: "256x256"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

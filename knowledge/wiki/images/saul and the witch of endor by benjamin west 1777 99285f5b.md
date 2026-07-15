@@ -6,7 +6,7 @@ source_relpath: "1700s/saul_and_the_witch_of_endor_by_benjamin_west_1777.jpeg"
 collection: "1700s"
 inferred_year: "1777"
 artist: "benjamin west"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

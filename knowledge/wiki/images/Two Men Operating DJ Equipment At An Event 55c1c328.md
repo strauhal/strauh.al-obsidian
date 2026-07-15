@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Operating DJ Equipment At An Event.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x1439"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

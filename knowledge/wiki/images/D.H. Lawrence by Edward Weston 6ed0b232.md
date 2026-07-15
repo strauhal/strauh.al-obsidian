@@ -6,7 +6,7 @@ source_relpath: "photography/D.H. Lawrence by Edward Weston.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Edward Weston"
-dimensions: ""
+dimensions: "1200x1784"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

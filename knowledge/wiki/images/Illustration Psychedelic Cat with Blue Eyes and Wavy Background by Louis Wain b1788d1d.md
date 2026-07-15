@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Psychedelic Cat with Blue Eyes and Wavy
 collection: "unsorted"
 inferred_year: ""
 artist: "Louis Wain"
-dimensions: ""
+dimensions: "848x1099"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

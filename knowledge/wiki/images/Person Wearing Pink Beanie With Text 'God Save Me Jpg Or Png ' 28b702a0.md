@@ -6,7 +6,7 @@ source_relpath: "photography/Person Wearing Pink Beanie With Text 'God Save Me J
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

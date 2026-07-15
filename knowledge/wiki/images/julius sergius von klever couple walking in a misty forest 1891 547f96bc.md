@@ -6,7 +6,7 @@ source_relpath: "1800s/julius_sergius_von_klever_couple_walking_in_a_misty_fores
 collection: "1800s"
 inferred_year: "1891"
 artist: ""
-dimensions: ""
+dimensions: "2111x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black and White Portrait of Clara Bow Restin
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "736x1058"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

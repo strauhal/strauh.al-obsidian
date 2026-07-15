@@ -6,7 +6,7 @@ source_relpath: "1800s/The Superlative Laugh, or Highest Degree of Laughter by G
 collection: "1800s"
 inferred_year: "1826"
 artist: ""
-dimensions: ""
+dimensions: "517x756"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

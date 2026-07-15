@@ -6,7 +6,7 @@ source_relpath: "2000s/Sunlight by Richard Edward Miller (c. 1913).jpg"
 collection: "2000s"
 inferred_year: "1913"
 artist: ""
-dimensions: ""
+dimensions: "843x657"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

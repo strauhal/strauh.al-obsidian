@@ -6,7 +6,7 @@ source_relpath: "1800s/otto_bache_soldiers_return_the_volunteers_return_home_189
 collection: "1800s"
 inferred_year: "1894"
 artist: ""
-dimensions: ""
+dimensions: "4298x3165"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

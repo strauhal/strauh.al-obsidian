@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Dithered Noise Pattern With Greenish-Gr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "389x389"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

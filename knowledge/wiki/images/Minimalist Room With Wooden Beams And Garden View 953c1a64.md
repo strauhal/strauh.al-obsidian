@@ -6,7 +6,7 @@ source_relpath: "photography/Minimalist Room With Wooden Beams And Garden View.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1083x915"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

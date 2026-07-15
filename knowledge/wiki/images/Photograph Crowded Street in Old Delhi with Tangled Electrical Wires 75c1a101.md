@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Crowded Street in Old Delhi with Tangled Ele
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1616x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

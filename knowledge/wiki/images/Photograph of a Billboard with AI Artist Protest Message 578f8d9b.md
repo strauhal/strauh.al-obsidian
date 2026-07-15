@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of a Billboard with AI Artist Protest Me
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

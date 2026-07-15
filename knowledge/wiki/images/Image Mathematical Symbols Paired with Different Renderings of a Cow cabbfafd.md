@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Mathematical Symbols Paired with Different Ren
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x844"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

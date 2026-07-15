@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Distressed Soldier Lying in Trench, Eyes W
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Otto Dix"
-dimensions: ""
+dimensions: "800x562"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

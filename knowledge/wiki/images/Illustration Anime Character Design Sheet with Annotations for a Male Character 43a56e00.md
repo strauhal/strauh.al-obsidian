@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Character Design Sheet with Annot
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x875"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

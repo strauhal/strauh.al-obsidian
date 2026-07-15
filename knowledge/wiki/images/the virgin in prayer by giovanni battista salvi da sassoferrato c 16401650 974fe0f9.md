@@ -6,7 +6,7 @@ source_relpath: "1600s/the_virgin_in_prayer_by_giovanni_battista_salvi_da_sassof
 collection: "1600s"
 inferred_year: "1600s"
 artist: "giovanni battista salvi da sassoferrato"
-dimensions: ""
+dimensions: "954x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

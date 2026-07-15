@@ -6,7 +6,7 @@ source_relpath: "1900s/Absolut P.U.L.S.E. by Paul Lee (1990).jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: ""
-dimensions: ""
+dimensions: "1080x1344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

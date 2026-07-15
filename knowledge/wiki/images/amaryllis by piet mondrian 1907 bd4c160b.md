@@ -6,7 +6,7 @@ source_relpath: "1900s/amaryllis_by_piet_mondrian_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "piet mondrian"
-dimensions: ""
+dimensions: "762x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

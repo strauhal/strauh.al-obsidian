@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black and White Close-Up Portrait of Stan Br
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1581x2117"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/victor_frankenstein_in_his_laboratory_by_bernie_wrightson
 collection: "1900s"
 inferred_year: "1976"
 artist: "bernie wrightson"
-dimensions: ""
+dimensions: "939x1381"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

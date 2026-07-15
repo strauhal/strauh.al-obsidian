@@ -6,7 +6,7 @@ source_relpath: "1800s/en_route_pour_la_peche_setting_out_to_fish_by_john_singer
 collection: "1800s"
 inferred_year: "1878"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "1800x1146"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

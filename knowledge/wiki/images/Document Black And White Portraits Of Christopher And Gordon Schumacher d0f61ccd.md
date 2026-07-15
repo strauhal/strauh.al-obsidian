@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Black And White Portraits Of Christopher And G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1179x968"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

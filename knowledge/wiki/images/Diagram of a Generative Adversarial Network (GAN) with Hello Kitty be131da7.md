@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_a_Generative_Adversarial_Network_(GAN)_with
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1596x1060"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

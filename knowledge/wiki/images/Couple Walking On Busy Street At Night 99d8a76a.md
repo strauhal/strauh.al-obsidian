@@ -6,7 +6,7 @@ source_relpath: "photography/Couple Walking On Busy Street At Night.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "483x701"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

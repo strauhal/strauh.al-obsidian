@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Cartoon Man Sits on Crate in Trash-Filled Urban L
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Robert Crumb"
-dimensions: ""
+dimensions: "564x791"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

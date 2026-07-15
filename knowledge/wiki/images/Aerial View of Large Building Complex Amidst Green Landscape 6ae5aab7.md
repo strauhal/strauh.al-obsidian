@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Large Building Complex Amidst Green 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2296x942"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

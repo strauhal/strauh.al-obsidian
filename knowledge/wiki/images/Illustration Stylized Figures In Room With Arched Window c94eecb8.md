@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Figures In Room With Arched Wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "503x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

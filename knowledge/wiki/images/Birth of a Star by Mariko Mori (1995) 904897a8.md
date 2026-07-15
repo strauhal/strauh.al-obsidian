@@ -6,7 +6,7 @@ source_relpath: "1900s/Birth of a Star by Mariko Mori (1995).webp"
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: ""
+dimensions: "524x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

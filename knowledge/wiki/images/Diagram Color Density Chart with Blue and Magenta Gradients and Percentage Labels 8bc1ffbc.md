@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Color Density Chart with Blue and Magenta Gradi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "584x558"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Activation Atlas by Chris Olah, Nick Ca
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x589"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

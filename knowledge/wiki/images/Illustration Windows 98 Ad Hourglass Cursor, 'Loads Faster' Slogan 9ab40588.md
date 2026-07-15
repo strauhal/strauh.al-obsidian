@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Windows 98 Ad: Hourglass Cursor, 'Loads
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1677x2310"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

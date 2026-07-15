@@ -6,7 +6,7 @@ source_relpath: "1900s/The School Bus by John Falter (1950).jpg"
 collection: "1900s"
 inferred_year: "1950"
 artist: ""
-dimensions: ""
+dimensions: "1730x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

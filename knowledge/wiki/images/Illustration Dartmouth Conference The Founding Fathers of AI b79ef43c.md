@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Dartmouth Conference: The Founding Fath
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

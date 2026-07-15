@@ -6,7 +6,7 @@ source_relpath: "photography/Young Sergei Rachmaninoff in a Formal Portrait.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "820x1076"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

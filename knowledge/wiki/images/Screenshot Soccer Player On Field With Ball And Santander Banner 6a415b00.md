@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Soccer Player On Field With Ball And Sant
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1124x1120"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

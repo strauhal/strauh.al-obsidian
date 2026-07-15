@@ -6,7 +6,7 @@ source_relpath: "1800s/jeanjulesantoine_lecomte_du_nou_the_dream_le_rve_1874.jpg
 collection: "1800s"
 inferred_year: "1874"
 artist: ""
-dimensions: ""
+dimensions: "1710x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

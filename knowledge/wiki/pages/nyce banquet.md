@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/nyce/banquet.html"
 source_relpath: "nyce/banquet.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # nyce banquet

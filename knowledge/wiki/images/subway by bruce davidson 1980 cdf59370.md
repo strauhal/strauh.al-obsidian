@@ -6,7 +6,7 @@ source_relpath: "1900s/subway_by_bruce_davidson_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "bruce davidson"
-dimensions: ""
+dimensions: "991x645"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

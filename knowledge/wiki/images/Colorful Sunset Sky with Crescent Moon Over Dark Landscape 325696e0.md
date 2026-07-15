@@ -6,7 +6,7 @@ source_relpath: "photography/Colorful Sunset Sky with Crescent Moon Over Dark La
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

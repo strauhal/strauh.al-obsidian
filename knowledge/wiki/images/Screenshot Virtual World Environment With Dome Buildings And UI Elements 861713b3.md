@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Virtual World Environment With Dome Build
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1251x603"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

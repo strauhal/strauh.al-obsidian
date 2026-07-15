@@ -6,7 +6,7 @@ source_relpath: "photography/Highly Pixelated Close-Up Of A Blue And White Bird'
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "483x372"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

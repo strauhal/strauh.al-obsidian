@@ -6,7 +6,7 @@ source_relpath: "photography/Mural on Pink Building with Disco Ball and Humorous
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1283x1359"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

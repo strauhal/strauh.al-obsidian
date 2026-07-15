@@ -6,7 +6,7 @@ source_relpath: "photography/Drake Performing On Stage With Fans Holding Signs b
 collection: "photography"
 inferred_year: ""
 artist: "Drake"
-dimensions: ""
+dimensions: "1080x1327"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

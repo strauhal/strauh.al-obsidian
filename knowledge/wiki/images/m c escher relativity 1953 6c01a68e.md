@@ -6,7 +6,7 @@ source_relpath: "1900s/m_c_escher_relativity_1953.webp"
 collection: "1900s"
 inferred_year: "1953"
 artist: ""
-dimensions: ""
+dimensions: "5711x3212"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_gallery_of_the_louvre_by_samuel_f_b_morse_18311833.jp
 collection: "1800s"
 inferred_year: "1800s"
 artist: "samuel f b morse 18311833"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Nick Land - Fanged Noumena_ Collected Writings 1987-2007-Urbanomic_Sequence Press (2013).epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Fanged Noumena Collected Writings 1987-2007-Urbanomic Sequence Press

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Text Describing Euthanasia 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "662x652"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

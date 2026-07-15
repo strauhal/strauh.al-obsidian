@@ -6,7 +6,7 @@ source_relpath: "photography/Men Jumping Into A Rocky River.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1366"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

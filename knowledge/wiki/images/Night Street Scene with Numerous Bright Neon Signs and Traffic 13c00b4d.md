@@ -6,7 +6,7 @@ source_relpath: "photography/Night Street Scene with Numerous Bright Neon Signs 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "679x452"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

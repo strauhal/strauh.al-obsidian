@@ -6,7 +6,7 @@ source_relpath: "1200s/three_friends_of_winter_by_zhao_mengjian_c_1250.jpg"
 collection: "1200s"
 inferred_year: "1200s"
 artist: "zhao mengjian"
-dimensions: ""
+dimensions: "2464x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1200s"]
 ---

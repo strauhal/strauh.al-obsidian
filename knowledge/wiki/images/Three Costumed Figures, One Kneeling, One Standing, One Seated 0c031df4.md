@@ -6,7 +6,7 @@ source_relpath: "photography/Three Costumed Figures, One Kneeling, One Standing,
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "420x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

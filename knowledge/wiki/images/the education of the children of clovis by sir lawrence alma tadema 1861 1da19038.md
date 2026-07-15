@@ -6,7 +6,7 @@ source_relpath: "1800s/the_education_of_the_children_of_clovis_by_sir_lawrence_a
 collection: "1800s"
 inferred_year: "1861"
 artist: "sir lawrence alma tadema"
-dimensions: ""
+dimensions: "4000x2910"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

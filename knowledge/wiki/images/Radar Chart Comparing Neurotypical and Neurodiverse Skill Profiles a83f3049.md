@@ -6,7 +6,7 @@ source_relpath: "diagrams/Radar_Chart_Comparing_Neurotypical_and_Neurodiverse_Sk
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

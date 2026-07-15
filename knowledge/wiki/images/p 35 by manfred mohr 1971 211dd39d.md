@@ -6,7 +6,7 @@ source_relpath: "1900s/p_35_by_manfred_mohr_1971.jpeg"
 collection: "1900s"
 inferred_year: "1971"
 artist: "manfred mohr"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/bamboo_rock_and_bird_by_hua_yan_1737.jpeg"
 collection: "1700s"
 inferred_year: "1737"
 artist: "hua yan"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

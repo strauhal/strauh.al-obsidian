@@ -6,7 +6,7 @@ source_relpath: "1800s/l_hotel_de_la_plage_by_claude_monet_1870.jpeg"
 collection: "1800s"
 inferred_year: "1870"
 artist: "claude monet"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

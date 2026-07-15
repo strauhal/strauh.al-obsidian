@@ -6,7 +6,7 @@ source_relpath: "2000s/Study for The Virgin and Child with Saint Anne by Leonard
 collection: "2000s"
 inferred_year: "1500"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

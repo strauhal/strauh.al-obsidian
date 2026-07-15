@@ -6,7 +6,7 @@ source_relpath: "photography/Laptop On Carpet In Empty Room With Curtains.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

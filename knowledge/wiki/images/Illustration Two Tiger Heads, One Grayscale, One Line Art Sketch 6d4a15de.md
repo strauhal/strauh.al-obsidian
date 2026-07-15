@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Tiger Heads, One Grayscale, One Line A
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2150x1356"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

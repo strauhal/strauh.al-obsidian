@@ -6,7 +6,7 @@ source_relpath: "photography/Tove Jansson Looking Through a Telescope Outdoors.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x1004"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

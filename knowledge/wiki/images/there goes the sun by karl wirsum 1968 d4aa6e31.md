@@ -6,7 +6,7 @@ source_relpath: "1900s/there_goes_the_sun_by_karl_wirsum_1968.jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "karl wirsum"
-dimensions: ""
+dimensions: "1400x1988"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

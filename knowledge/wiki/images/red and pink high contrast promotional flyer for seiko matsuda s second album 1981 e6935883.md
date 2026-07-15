@@ -6,7 +6,7 @@ source_relpath: "1900s/red_and_pink_high_contrast_promotional_flyer_for_seiko_ma
 collection: "1900s"
 inferred_year: "1981"
 artist: ""
-dimensions: ""
+dimensions: "517x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

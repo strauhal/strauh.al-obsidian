@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_s_lair_by_sue_miller_1997.jpg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "sue miller"
-dimensions: ""
+dimensions: "3122x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

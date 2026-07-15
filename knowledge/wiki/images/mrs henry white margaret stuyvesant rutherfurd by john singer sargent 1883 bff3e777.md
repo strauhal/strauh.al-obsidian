@@ -6,7 +6,7 @@ source_relpath: "1800s/mrs_henry_white_margaret_stuyvesant_rutherfurd_by_john_si
 collection: "1800s"
 inferred_year: "1883"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

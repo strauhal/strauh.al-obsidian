@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Painting: Dirt Path, Fence Post
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1754x1010"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

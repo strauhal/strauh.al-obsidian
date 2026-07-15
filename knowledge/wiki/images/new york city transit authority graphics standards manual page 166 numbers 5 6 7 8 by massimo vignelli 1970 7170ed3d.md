@@ -6,7 +6,7 @@ source_relpath: "1900s/new_york_city_transit_authority_graphics_standards_manual
 collection: "1900s"
 inferred_year: "1970"
 artist: "massimo vignelli"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

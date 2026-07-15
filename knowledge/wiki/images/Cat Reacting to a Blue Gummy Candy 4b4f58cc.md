@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Reacting to a Blue Gummy Candy.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1538x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

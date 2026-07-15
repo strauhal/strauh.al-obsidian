@@ -6,7 +6,7 @@ source_relpath: "diagrams/Computational_Fluid_Dynamics_Simulation_of_a_Beaver-li
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1044x496"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

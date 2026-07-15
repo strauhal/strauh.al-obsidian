@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Requiem for a Dream by Darren Aronofsky.j
 collection: "unsorted"
 inferred_year: ""
 artist: "Darren Aronofsky"
-dimensions: ""
+dimensions: "2048x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

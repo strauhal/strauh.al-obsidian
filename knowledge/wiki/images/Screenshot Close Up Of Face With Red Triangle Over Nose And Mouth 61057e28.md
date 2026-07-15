@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Close-Up Of Face With Red Triangle Over N
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1236x1168"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

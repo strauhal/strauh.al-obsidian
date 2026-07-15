@@ -6,7 +6,7 @@ source_relpath: "1800s/Le Paysan by Eugène Burnand (1894).jpg"
 collection: "1800s"
 inferred_year: "1894"
 artist: ""
-dimensions: ""
+dimensions: "3617x2686"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

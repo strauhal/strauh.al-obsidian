@@ -6,7 +6,7 @@ source_relpath: "photography/Modern White Minimalist House with Garage Doors and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

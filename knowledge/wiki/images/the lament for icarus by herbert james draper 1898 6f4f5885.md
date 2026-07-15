@@ -6,7 +6,7 @@ source_relpath: "1800s/the_lament_for_icarus_by_herbert_james_draper_1898.jpeg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "herbert james draper"
-dimensions: ""
+dimensions: "2285x2703"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

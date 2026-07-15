@@ -6,7 +6,7 @@ source_relpath: "1900s/bruce_nauman_suspended_fortitude_c_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: ""
-dimensions: ""
+dimensions: "1280x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

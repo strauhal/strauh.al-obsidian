@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves as Neo Holding Rifle in Crouched Stanc
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1036x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

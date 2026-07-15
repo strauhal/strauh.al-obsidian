@@ -6,7 +6,7 @@ source_relpath: "photography/Police Officers Confronting Man Holding Objects In 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x995"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

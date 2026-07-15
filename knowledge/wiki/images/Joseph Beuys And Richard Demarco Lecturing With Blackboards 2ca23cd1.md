@@ -6,7 +6,7 @@ source_relpath: "photography/Joseph Beuys And Richard Demarco Lecturing With Bla
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "753x535"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

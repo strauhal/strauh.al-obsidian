@@ -6,7 +6,7 @@ source_relpath: "photography/Young Woman With Bottles And Cigarette Packs On Flo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x450"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

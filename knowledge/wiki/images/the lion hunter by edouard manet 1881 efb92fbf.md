@@ -6,7 +6,7 @@ source_relpath: "1800s/the_lion_hunter_by_edouard_manet_1881.png"
 collection: "1800s"
 inferred_year: "1881"
 artist: "edouard manet"
-dimensions: ""
+dimensions: "1230x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

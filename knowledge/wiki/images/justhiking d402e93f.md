@@ -6,7 +6,7 @@ source_relpath: "diary/justhiking.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "775x799"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

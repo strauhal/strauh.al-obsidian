@@ -6,7 +6,7 @@ source_relpath: "1900s/Fjordlandskap med båt og jente by Hans A. Dahl (c. 1900)
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "1875x1255"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

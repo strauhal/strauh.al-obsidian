@@ -6,7 +6,7 @@ source_relpath: "1900s/f_111_by_james_rosenquist_196465.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "james rosenquist 196465"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

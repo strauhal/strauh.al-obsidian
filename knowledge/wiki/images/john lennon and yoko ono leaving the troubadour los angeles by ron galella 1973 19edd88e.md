@@ -6,7 +6,7 @@ source_relpath: "1900s/john_lennon_and_yoko_ono_leaving_the_troubadour_los_angel
 collection: "1900s"
 inferred_year: "1973"
 artist: "ron galella"
-dimensions: ""
+dimensions: "640x906"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -24,6 +24,6 @@ Images attributed by filename: 1
 - [[knowledge/wiki/images/Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can c2c5edc7|Illustration Stylized Marker Drawing of Character Beat Jumping with Spray Can]] — shared language: jumping, character
 - [[knowledge/wiki/images/Black And White Photo Of Person On Skateboard In Front Of Building 03c8818b|Black And White Photo Of Person On Skateboard In Front Of Building]] — shared language: skateboard
 - [[knowledge/wiki/images/Men Jumping Into A Rocky River bdc61fff|Men Jumping Into A Rocky River]] — shared language: jumping
-- [[knowledge/wiki/images/Photograph Blue Parakeet Balancing on a Toy Skateboard f6f8f6f3|Photograph Blue Parakeet Balancing on a Toy Skateboard]] — shared language: skateboard
 - [[knowledge/wiki/images/Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background a2a89723|Illustration Stylized Blue Elephant Figures and Broken Pieces on Yellow Green Background]] — shared language: broken, green
+- [[knowledge/wiki/images/Photograph Blue Parakeet Balancing on a Toy Skateboard f6f8f6f3|Photograph Blue Parakeet Balancing on a Toy Skateboard]] — shared language: skateboard
 <!-- vault-crosslinks:end -->

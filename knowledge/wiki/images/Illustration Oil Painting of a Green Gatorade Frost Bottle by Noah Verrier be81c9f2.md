@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Oil Painting of a Green Gatorade Frost Bot
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Noah Verrier"
-dimensions: ""
+dimensions: "1602x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

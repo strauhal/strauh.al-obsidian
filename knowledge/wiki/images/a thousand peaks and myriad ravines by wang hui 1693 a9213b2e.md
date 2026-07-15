@@ -6,7 +6,7 @@ source_relpath: "1600s/a_thousand_peaks_and_myriad_ravines_by_wang_hui_1693.jpeg
 collection: "1600s"
 inferred_year: "1693"
 artist: "wang hui"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

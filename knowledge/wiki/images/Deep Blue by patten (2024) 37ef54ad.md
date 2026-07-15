@@ -6,7 +6,7 @@ source_relpath: "2000s/Deep Blue by patten (2024).jpg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

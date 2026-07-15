@@ -6,7 +6,7 @@ source_relpath: "1800s/aurora_borealis_by_frederic_edwin_church_1865.jpeg"
 collection: "1800s"
 inferred_year: "1865"
 artist: "frederic edwin church"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

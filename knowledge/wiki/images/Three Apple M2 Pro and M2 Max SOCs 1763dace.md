@@ -6,7 +6,7 @@ source_relpath: "photography/Three Apple M2 Pro and M2 Max SOCs.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2560x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

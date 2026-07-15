@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Person with Red Glasses
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "320x216"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

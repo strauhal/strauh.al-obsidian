@@ -6,7 +6,7 @@ source_relpath: "1700s/a_shipwreck_by_claude_joseph_vernet_1765.jpg"
 collection: "1700s"
 inferred_year: "1765"
 artist: "claude joseph vernet"
-dimensions: ""
+dimensions: "4237x3259"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

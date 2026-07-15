@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Village By Water Under Cloudy Sky With 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2577x1592"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

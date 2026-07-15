@@ -6,7 +6,7 @@ source_relpath: "1900s/first_flag_raising_on_iwo_jima_by_louis_r_lowery_1945.jpg
 collection: "1900s"
 inferred_year: "1945"
 artist: "louis r lowery"
-dimensions: ""
+dimensions: "2949x3747"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

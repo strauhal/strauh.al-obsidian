@@ -6,7 +6,7 @@ source_relpath: "photography/Large Yellow And Red Offshore Oil Platform In Rough
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

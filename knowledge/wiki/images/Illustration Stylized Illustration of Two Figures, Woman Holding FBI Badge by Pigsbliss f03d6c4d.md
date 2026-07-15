@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Illustration of Two Figures, W
 collection: "unsorted"
 inferred_year: ""
 artist: "Pigsbliss"
-dimensions: ""
+dimensions: "1608x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

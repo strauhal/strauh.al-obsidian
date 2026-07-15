@@ -6,7 +6,7 @@ source_relpath: "photography/Window Seat With Pillows, Books, And Green Landscap
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2143"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

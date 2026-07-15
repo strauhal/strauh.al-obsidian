@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Mario and Penguin with 'You Cheated' Dial
 collection: "unsorted"
 inferred_year: ""
 artist: "Nintendo"
-dimensions: ""
+dimensions: "1200x628"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

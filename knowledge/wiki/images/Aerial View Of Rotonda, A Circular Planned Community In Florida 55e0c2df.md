@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of Rotonda, A Circular Planned Communit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1410x1262"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/geese_and_hollyhocks_by_jessie_arms_botke_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "jessie arms botke"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

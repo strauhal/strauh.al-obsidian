@@ -6,7 +6,7 @@ source_relpath: "1900s/stel_by_jean_giraud_moebius_1988.jpg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "jean giraud moebius"
-dimensions: ""
+dimensions: "774x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

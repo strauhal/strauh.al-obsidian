@@ -6,7 +6,7 @@ source_relpath: "1900s/passage_from_modest_witness_second_millennium_femaleman_m
 collection: "1900s"
 inferred_year: "1997"
 artist: "donna haraway"
-dimensions: ""
+dimensions: "394x358"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

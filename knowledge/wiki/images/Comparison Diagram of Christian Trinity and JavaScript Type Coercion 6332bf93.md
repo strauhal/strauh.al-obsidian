@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_Diagram_of_Christian_Trinity_and_JavaScript
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1501x762"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

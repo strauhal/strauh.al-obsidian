@@ -6,7 +6,7 @@ source_relpath: "photography/Crowd Outside Regal Theater with Car in Foreground.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

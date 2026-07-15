@@ -6,7 +6,7 @@ source_relpath: "1600s/head_of_an_old_man_in_profile_to_the_right_wearing_a_fur_
 collection: "1600s"
 inferred_year: "1630"
 artist: "jan lievens"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

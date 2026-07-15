@@ -6,7 +6,7 @@ source_relpath: "1800s/asher_b_durand_a_home_in_the_wilderness_1845.jpg"
 collection: "1800s"
 inferred_year: "1845"
 artist: ""
-dimensions: ""
+dimensions: "3840x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Apple iPod Nano In Clear Plastic Packaging.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1773x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

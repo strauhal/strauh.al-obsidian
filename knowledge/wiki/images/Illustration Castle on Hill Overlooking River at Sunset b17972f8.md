@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Castle on Hill Overlooking River at Sun
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x2268"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

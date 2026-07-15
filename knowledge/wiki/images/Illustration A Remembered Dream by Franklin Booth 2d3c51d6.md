@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - A Remembered Dream by Franklin Booth.jp
 collection: "unsorted"
 inferred_year: ""
 artist: "Franklin Booth"
-dimensions: ""
+dimensions: "1215x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

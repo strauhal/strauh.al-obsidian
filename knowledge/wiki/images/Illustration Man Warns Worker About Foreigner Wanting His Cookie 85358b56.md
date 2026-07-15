@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Man Warns Worker About Foreigner Wantin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1284x1926"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

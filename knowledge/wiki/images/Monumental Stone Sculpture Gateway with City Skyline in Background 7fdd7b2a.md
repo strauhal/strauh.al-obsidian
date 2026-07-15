@@ -6,7 +6,7 @@ source_relpath: "photography/Monumental Stone Sculpture Gateway with City Skylin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "928x1232"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

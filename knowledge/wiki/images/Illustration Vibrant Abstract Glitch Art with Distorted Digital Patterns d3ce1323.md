@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Abstract Glitch Art with Distor
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1630x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

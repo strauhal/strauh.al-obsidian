@@ -6,7 +6,7 @@ source_relpath: "photography/Laptop Screen Cluttered With Many Folder And Docume
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1164x1077"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

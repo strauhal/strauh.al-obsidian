@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Watching World Trade Center Towers During 9-1
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

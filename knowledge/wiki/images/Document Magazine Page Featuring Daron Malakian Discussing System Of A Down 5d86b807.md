@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Magazine Page Featuring Daron Malakian Disc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "460x507"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

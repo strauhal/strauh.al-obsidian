@@ -6,7 +6,7 @@ source_relpath: "diagrams/Breakdown_Of_Granular_Conversation_Topic_Shares.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1274x804"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

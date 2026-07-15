@@ -6,7 +6,7 @@ source_relpath: "1500s/study_for_the_virgin_and_child_with_st_anne_by_leonardo_d
 collection: "1500s"
 inferred_year: "1500"
 artist: "leonardo da vinci"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

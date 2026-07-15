@@ -6,7 +6,7 @@ source_relpath: "photography/Person In Hat And Coat Walking Through A Misty Fiel
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "564x705"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

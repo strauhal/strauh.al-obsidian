@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Person In PlayStation Shirt Lo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

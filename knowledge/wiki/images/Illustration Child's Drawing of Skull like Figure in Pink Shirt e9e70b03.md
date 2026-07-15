@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Child's Drawing of Skull-like Figure in Pi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "640x853"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

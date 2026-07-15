@@ -6,7 +6,7 @@ source_relpath: "1900s/konigsallee_dusseldorf_by_ernst_ludwig_kirchner_1917.jpeg
 collection: "1900s"
 inferred_year: "1917"
 artist: "ernst ludwig kirchner"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

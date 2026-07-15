@@ -6,7 +6,7 @@ source_relpath: "1700s/george_washington_the_lansdowne_portrait_by_gilbert_stuar
 collection: "1700s"
 inferred_year: "1796"
 artist: "gilbert stuart"
-dimensions: ""
+dimensions: "2767x4440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

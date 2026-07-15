@@ -6,7 +6,7 @@ source_relpath: "photography/Black T-Shirt with Provocative Image and Text.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1950x2047"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

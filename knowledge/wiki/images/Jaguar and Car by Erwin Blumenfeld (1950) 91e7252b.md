@@ -6,7 +6,7 @@ source_relpath: "1900s/Jaguar and Car by Erwin Blumenfeld (1950).jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: ""
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

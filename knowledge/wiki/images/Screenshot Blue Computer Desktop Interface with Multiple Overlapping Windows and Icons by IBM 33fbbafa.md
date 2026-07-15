@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Blue Computer Desktop Interface with Multipl
 collection: "2000s"
 inferred_year: "2000s"
 artist: "IBM"
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

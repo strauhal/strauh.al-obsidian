@@ -6,7 +6,7 @@ source_relpath: "1700s/Mrs. John Rogers (Elizabeth Rodman) by James Earl (c. 179
 collection: "1700s"
 inferred_year: "1795"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

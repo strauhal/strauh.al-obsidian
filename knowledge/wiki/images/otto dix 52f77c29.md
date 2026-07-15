@@ -6,7 +6,7 @@ source_relpath: "influences/otto_dix.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x946"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

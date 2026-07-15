@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black Ink Sketch of People at a City In
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1178x870"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

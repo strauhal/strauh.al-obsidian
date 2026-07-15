@@ -6,7 +6,7 @@ source_relpath: "influences/rei_kawakubo.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "630x657"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

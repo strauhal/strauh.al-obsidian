@@ -2,8 +2,8 @@
 title: Map - Maintenance
 type: map
 tags: [map, maintenance]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Map - Maintenance
@@ -14,7 +14,7 @@ A second brain that isn't updated becomes an archive of who you *were* — and t
 already one of those. This one should track who you're *becoming*. So the simplest,
 load-bearing habit: **re-open the vault about every 30 days and add what changed.**
 
-- Last refresh: **2026-07-08** · next review due: **2026-08-07**
+- Last refresh: **2026-07-15** · next review due: **2026-08-14**
 - Add new work/event/idea nodes; date every entry ([[Map - Timeline]]).
 - Log what stopped in [[Failures and Abandoned Projects]]; write the *after* of [[The Ceremony]] once there is one.
 - Then rebuild (below) and confirm the lint is still clean.

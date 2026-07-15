@@ -6,7 +6,7 @@ source_relpath: "photography/Digitally Manipulated Photograph Of A Burning White
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

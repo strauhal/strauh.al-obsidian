@@ -6,7 +6,7 @@ source_relpath: "1800s/evening_cool_at_ryogoku_bridge_ryogoku_yusuzumi_no_zu_by_
 collection: "1800s"
 inferred_year: "1800s"
 artist: "utagawa toyokuni i"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

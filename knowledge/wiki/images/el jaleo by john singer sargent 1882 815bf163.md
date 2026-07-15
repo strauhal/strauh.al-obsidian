@@ -6,7 +6,7 @@ source_relpath: "1800s/el_jaleo_by_john_singer_sargent_1882.jpg"
 collection: "1800s"
 inferred_year: "1882"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "3000x2028"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

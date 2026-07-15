@@ -6,7 +6,7 @@ source_relpath: "photography/Man with Eyepatch Covering Ears in Grassy Field.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x478"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

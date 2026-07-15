@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Unity Engine Screenshot Showing 3D Scene 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1876x1054"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

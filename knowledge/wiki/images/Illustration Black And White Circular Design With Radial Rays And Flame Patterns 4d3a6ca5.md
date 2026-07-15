@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Circular Design With Ra
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "859x865"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/the_fall_of_the_damned_by_peter_paul_rubens_c_1620_1621.j
 collection: "1600s"
 inferred_year: "1621"
 artist: "peter paul rubens"
-dimensions: ""
+dimensions: "1592x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

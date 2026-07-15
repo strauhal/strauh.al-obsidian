@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Colorful Geometric Figure With
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1012x807"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

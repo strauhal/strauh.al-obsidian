@@ -6,7 +6,7 @@ source_relpath: "2000s/Dream Library by Malene Reynolds Laugesen (2013).jpg"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: ""
+dimensions: "1550x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

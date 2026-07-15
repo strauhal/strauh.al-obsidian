@@ -6,7 +6,7 @@ source_relpath: "wallpapers/gosling2059.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2764x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

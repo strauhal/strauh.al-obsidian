@@ -6,7 +6,7 @@ source_relpath: "photography/Steve Jobs Leaning Over iMac G4 In Cluttered Study.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

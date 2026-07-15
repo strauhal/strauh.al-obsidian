@@ -6,7 +6,7 @@ source_relpath: "1900s/figure_in_a_plaid_dress_by_henri_matisse_1939.jpeg"
 collection: "1900s"
 inferred_year: "1939"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

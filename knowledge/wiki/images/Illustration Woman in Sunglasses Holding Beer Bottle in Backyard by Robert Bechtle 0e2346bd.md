@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman in Sunglasses Holding Beer Bottle in
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Robert Bechtle"
-dimensions: ""
+dimensions: "4000x2837"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

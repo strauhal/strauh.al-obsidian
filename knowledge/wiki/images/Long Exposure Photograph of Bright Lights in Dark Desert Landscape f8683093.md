@@ -6,7 +6,7 @@ source_relpath: "photography/Long Exposure Photograph of Bright Lights in Dark D
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "788x740"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

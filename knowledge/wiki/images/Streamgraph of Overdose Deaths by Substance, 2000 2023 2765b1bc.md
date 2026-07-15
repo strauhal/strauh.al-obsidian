@@ -6,7 +6,7 @@ source_relpath: "diagrams/Streamgraph_of_Overdose_Deaths_by_Substance,_2000-2023
 collection: "diagrams"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "900x559"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

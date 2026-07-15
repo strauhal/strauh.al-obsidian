@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_s_bride_by_michael_whelan_1980.png"
 collection: "1900s"
 inferred_year: "1980"
 artist: "michael whelan"
-dimensions: ""
+dimensions: "1254x835"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

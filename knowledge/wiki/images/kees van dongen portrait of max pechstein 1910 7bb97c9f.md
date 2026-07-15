@@ -6,7 +6,7 @@ source_relpath: "1900s/kees_van_dongen_portrait_of_max_pechstein_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "1404x1701"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

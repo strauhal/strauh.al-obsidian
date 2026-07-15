@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_red_sweep_by_paul_jenkins_1973.jpeg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "paul jenkins"
-dimensions: ""
+dimensions: "822x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

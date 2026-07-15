@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Ottoman Soldier Stands Over Fallen Knight 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1465x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

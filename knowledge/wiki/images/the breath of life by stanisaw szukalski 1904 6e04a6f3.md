@@ -6,7 +6,7 @@ source_relpath: "1900s/the_breath_of_life_by_stanisaw_szukalski_1904.jpg"
 collection: "1900s"
 inferred_year: "1904"
 artist: "stanisaw szukalski"
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

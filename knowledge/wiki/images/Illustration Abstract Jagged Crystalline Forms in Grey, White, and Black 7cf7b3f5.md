@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Jagged Crystalline Forms in Gr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

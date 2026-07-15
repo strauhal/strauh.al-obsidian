@@ -6,7 +6,7 @@ source_relpath: "photography/Rural Road Through Golden Fields with Trees Under B
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x515"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

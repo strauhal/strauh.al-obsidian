@@ -6,7 +6,7 @@ source_relpath: "photography/Two Actors In Hooded Robes From Star Wars.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x990"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

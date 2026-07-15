@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Lewis Carroll - Through the Looking Glass -ICON Group International, Inc. (2006).pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Through the Looking Glass -ICON Group International, Inc.

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Elderly Woman Sitting on Bench with Reflecti
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1280x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Drawing of a Fantasy Castle and 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2673x1703"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

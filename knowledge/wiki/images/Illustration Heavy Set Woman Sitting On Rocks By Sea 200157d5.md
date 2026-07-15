@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Heavy-Set Woman Sitting On Rocks By Sea
 collection: "unsorted"
 inferred_year: ""
 artist: "Sea"
-dimensions: ""
+dimensions: "600x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

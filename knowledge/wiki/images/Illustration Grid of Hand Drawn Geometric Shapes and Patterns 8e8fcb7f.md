@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Hand-Drawn Geometric Shapes and
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1094x671"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

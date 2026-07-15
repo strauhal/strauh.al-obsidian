@@ -6,7 +6,7 @@ source_relpath: "1600s/The Art of Painting by Johannes Vermeer (c. 1666-1668).jp
 collection: "1600s"
 inferred_year: "1668"
 artist: ""
-dimensions: ""
+dimensions: "1920x2281"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

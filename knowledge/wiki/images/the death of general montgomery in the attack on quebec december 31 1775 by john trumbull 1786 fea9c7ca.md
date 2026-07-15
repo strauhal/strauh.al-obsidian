@@ -6,7 +6,7 @@ source_relpath: "1700s/the_death_of_general_montgomery_in_the_attack_on_quebec_d
 collection: "1700s"
 inferred_year: "1786"
 artist: "john trumbull"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

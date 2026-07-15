@@ -6,7 +6,7 @@ source_relpath: "1900s/galloping_horse_by_xu_beihong_1941.jpeg"
 collection: "1900s"
 inferred_year: "1941"
 artist: "xu beihong"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of a Tattoo Depicting a Broken Image Fil
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "303x485"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

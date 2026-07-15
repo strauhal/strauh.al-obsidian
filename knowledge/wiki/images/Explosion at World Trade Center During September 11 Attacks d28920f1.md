@@ -6,7 +6,7 @@ source_relpath: "photography/Explosion at World Trade Center During September 11
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1346"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

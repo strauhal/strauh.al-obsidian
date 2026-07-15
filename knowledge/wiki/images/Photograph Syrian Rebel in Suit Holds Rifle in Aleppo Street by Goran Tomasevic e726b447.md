@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Syrian Rebel in Suit Holds Rifle in Aleppo S
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Goran Tomasevic"
-dimensions: ""
+dimensions: "1950x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

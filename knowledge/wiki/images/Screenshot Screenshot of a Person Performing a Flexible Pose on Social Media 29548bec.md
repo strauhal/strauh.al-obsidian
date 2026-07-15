@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Person Performing a Flexi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "517x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Production Setup with Sunset Backdrop Over Pool by 
 collection: "photography"
 inferred_year: ""
 artist: "Davi Rutenberg"
-dimensions: ""
+dimensions: "640x361"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

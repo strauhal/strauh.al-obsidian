@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Artist Mark Maggiori Posing With His Western
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Mark Maggiori"
-dimensions: ""
+dimensions: "1024x961"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

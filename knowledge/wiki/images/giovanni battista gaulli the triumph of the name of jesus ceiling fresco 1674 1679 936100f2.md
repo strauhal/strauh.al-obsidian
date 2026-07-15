@@ -6,7 +6,7 @@ source_relpath: "1600s/giovanni_battista_gaulli_the_triumph_of_the_name_of_jesus
 collection: "1600s"
 inferred_year: "1679"
 artist: ""
-dimensions: ""
+dimensions: "1663x2648"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

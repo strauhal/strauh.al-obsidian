@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Dark-Haired Character Holding Glowing Device
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "640x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

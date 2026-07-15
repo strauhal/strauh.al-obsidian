@@ -6,7 +6,7 @@ source_relpath: "1600s/Still Life with Flowers in a Terracotta Vase by Marie Bla
 collection: "1600s"
 inferred_year: "1650"
 artist: ""
-dimensions: ""
+dimensions: "3337x4226"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

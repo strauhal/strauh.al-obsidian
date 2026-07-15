@@ -6,7 +6,7 @@ source_relpath: "2000s/Hooked Tail by Toshiyuki Enoki (2014).jpeg"
 collection: "2000s"
 inferred_year: "2014"
 artist: ""
-dimensions: ""
+dimensions: "1280x889"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

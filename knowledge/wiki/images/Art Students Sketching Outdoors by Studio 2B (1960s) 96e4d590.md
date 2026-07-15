@@ -6,7 +6,7 @@ source_relpath: "photography/Art Students Sketching Outdoors by Studio 2B (1960s
 collection: "photography"
 inferred_year: "1960"
 artist: ""
-dimensions: ""
+dimensions: "1900x2344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

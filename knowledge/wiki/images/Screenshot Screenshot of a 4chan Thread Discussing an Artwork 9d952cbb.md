@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of a 4chan Thread Discussing an A
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1348x723"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

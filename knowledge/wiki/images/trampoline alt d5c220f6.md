@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/trampoline_alt.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1344x1680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

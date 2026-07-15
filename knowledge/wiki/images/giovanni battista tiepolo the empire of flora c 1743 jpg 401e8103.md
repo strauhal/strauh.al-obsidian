@@ -6,7 +6,7 @@ source_relpath: "1700s/giovanni_battista_tiepolo_the_empire_of_flora_c_1743_jpg.
 collection: "1700s"
 inferred_year: "1743"
 artist: ""
-dimensions: ""
+dimensions: "4664x3720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

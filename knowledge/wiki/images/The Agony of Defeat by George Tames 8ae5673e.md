@@ -6,7 +6,7 @@ source_relpath: "photography/The Agony of Defeat by George Tames.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "George Tames"
-dimensions: ""
+dimensions: "1400x1306"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

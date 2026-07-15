@@ -6,7 +6,7 @@ source_relpath: "1900s/the_glory_of_the_kings_by_erol_akyavas_1959.jpeg"
 collection: "1900s"
 inferred_year: "1959"
 artist: "erol akyavas"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

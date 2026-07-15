@@ -6,7 +6,7 @@ source_relpath: "diagrams/Relationship_Between_Happiness_And_Age_Across_Surveys_
 collection: "diagrams"
 inferred_year: ""
 artist: "Blanchflower and Oswald"
-dimensions: ""
+dimensions: "1080x817"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/a_young_couple_armed_with_rifles_walk_along_the_shore_of_
 collection: "1900s"
 inferred_year: "1968"
 artist: "philip jones griffiths"
-dimensions: ""
+dimensions: "1024x1019"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

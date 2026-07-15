@@ -6,7 +6,7 @@ source_relpath: "1500s/the_temptation_of_saint_anthony_by_jan_mandijn_c_15301540
 collection: "1500s"
 inferred_year: "1500s"
 artist: "jan mandijn"
-dimensions: ""
+dimensions: "1920x1405"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Four People In Blue Tracksuits With Foam Shapes On 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "360x351"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

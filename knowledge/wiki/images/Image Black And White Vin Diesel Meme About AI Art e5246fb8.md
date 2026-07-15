@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Black And White Vin Diesel Meme About AI Art.j
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "425x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

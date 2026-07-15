@@ -6,7 +6,7 @@ source_relpath: "1900s/adolf_hitler_karlskirche_vienna_in_winter_c_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "1600x1142"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

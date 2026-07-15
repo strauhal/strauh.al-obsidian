@@ -6,7 +6,7 @@ source_relpath: "1900s/the_flower_hana_by_tadanori_yokoo_1966.jpeg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "tadanori yokoo"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

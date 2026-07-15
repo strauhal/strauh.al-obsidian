@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal DeepDream Image of Multi-Eyed D
 collection: "unsorted"
 inferred_year: ""
 artist: "Google DeepDream"
-dimensions: ""
+dimensions: "789x1040"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

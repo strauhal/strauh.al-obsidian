@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_lord_byron_by_richard_westall_1813.jpg"
 collection: "1800s"
 inferred_year: "1813"
 artist: "richard westall"
-dimensions: ""
+dimensions: "2400x3138"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

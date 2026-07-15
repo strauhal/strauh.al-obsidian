@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Walter Benjamin, Hannah Arendt, Hannah Arendt, Harry Zohn - Illuminations_ Essays and Reflections (1969, Schocken) - libgen.li.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Illuminations Essays and Reflections

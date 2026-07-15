@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Drawing: Overlapping Dark Line
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1616x2109"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

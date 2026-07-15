@@ -6,7 +6,7 @@ source_relpath: "photography/Person in traditional robe smoking on stones near p
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "681x1027"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

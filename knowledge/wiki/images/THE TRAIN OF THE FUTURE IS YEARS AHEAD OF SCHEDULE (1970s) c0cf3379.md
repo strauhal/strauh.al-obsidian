@@ -6,7 +6,7 @@ source_relpath: "1900s/THE TRAIN OF THE FUTURE IS YEARS AHEAD OF SCHEDULE (1970s
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "480x761"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

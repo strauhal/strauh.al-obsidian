@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/mizutani/DoJlMkIUYAAkqiN.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "639x630"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

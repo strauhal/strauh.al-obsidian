@@ -6,7 +6,7 @@ source_relpath: "photography/Four Women Posing In Patterned Jackets And Pants.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

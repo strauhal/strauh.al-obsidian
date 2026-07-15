@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/(EPUB)%20Golan%20Levin_%20Tega%20Brain%20-%20Code%20as%20Creative%20Medium_%20A%20Handbook%20for%20Computational%20Art%20and%20Design-MIT%20Press%20(2021).epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Code as Creative Medium A Handbook for Computational Art and Design-MIT Press

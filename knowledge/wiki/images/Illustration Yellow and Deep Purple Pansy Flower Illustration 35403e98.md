@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Yellow and Deep Purple Pansy Flower Illust
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "735x1158"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

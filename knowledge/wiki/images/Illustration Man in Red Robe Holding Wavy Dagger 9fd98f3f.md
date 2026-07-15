@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Man in Red Robe Holding Wavy Dagger.web
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "450x334"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

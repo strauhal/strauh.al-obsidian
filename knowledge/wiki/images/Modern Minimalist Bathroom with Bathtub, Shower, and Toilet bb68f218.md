@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Minimalist Bathroom with Bathtub, Shower, an
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

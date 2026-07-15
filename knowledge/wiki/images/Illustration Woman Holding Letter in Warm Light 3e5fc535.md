@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman Holding Letter in Warm Light.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3072x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

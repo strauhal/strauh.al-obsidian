@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Complex Musical Score for Flute and Voice b
 collection: "unsorted"
 inferred_year: ""
 artist: "Brian Ferneyhough"
-dimensions: ""
+dimensions: "1600x1160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

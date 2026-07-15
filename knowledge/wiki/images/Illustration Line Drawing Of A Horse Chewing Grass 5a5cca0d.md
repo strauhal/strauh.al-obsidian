@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing Of A Horse Chewing Grass.p
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "921x746"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

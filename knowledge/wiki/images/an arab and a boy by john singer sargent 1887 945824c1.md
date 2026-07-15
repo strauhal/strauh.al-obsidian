@@ -6,7 +6,7 @@ source_relpath: "1800s/an_arab_and_a_boy_by_john_singer_sargent_1887.jpeg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "2327x3307"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

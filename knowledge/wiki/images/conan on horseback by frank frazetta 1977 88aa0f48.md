@@ -6,7 +6,7 @@ source_relpath: "1900s/conan_on_horseback_by_frank_frazetta_1977.jpg"
 collection: "1900s"
 inferred_year: "1977"
 artist: "frank frazetta"
-dimensions: ""
+dimensions: "2509x2510"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

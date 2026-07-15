@@ -6,7 +6,7 @@ source_relpath: "photography/Two Wheelchair Fencers Engaged In A Match Indoors.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1345"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

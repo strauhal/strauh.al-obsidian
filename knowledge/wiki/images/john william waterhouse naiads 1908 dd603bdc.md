@@ -6,7 +6,7 @@ source_relpath: "1900s/john_william_waterhouse_naiads_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: ""
-dimensions: ""
+dimensions: "640x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

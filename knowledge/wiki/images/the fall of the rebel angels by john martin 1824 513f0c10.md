@@ -6,7 +6,7 @@ source_relpath: "1800s/the_fall_of_the_rebel_angels_by_john_martin_1824.jpg"
 collection: "1800s"
 inferred_year: "1824"
 artist: "john martin"
-dimensions: ""
+dimensions: "2048x1456"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

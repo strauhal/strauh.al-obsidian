@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Expressive Painting of Figures Dancing 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

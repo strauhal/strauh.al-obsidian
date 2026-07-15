@@ -6,7 +6,7 @@ source_relpath: "diagrams/Timeline_of_Western_Art_Movements_with_Example_Artwork
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1373x955"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

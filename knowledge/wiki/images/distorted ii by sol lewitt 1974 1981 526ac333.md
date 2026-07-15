@@ -6,7 +6,7 @@ source_relpath: "1900s/distorted_ii_by_sol_lewitt_1974_1981.jpeg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "sol lewitt"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

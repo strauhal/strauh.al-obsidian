@@ -6,7 +6,7 @@ source_relpath: "1900s/The Golden Wall by Hans Hofmann (1961).jpg"
 collection: "1900s"
 inferred_year: "1961"
 artist: ""
-dimensions: ""
+dimensions: "1166x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

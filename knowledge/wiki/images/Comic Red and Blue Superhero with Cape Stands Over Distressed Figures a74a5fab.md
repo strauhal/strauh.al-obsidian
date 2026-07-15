@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Red and Blue Superhero with Cape Stands Over D
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2575"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

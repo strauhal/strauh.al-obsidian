@@ -6,7 +6,7 @@ source_relpath: "diagrams/Grid_of_Abstract_Visualizations_with_Technical_Labels.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "638x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

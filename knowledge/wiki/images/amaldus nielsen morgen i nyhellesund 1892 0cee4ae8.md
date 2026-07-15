@@ -6,7 +6,7 @@ source_relpath: "1800s/amaldus_nielsen_morgen_i_nyhellesund_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: ""
+dimensions: "3543x2116"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

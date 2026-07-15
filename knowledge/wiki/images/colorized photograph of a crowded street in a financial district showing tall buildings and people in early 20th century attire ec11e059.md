@@ -6,7 +6,7 @@ source_relpath: "1900s/colorized_photograph_of_a_crowded_street_in_a_financial_d
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: ""
+dimensions: "1500x1037"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

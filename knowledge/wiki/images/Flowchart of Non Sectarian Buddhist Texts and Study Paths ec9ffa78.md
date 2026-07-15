@@ -6,7 +6,7 @@ source_relpath: "diagrams/Flowchart_of_Non-Sectarian_Buddhist_Texts_and_Study_Pa
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2712x5224"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

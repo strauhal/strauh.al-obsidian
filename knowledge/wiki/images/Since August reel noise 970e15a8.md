@@ -6,7 +6,7 @@ source_relpath: "gif_collection/Since-August_reel-noise.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "450x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

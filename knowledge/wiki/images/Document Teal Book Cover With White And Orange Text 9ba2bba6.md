@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Teal Book Cover With White And Orange Text.
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "429x648"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

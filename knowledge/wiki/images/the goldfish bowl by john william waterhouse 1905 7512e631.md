@@ -6,7 +6,7 @@ source_relpath: "1900s/the_goldfish_bowl_by_john_william_waterhouse_1905.jpg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "4096x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

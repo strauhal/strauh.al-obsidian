@@ -6,7 +6,7 @@ source_relpath: "diagrams/Man_with_Face_and_Hand_Tracking_Overlays.gif"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "469x279"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

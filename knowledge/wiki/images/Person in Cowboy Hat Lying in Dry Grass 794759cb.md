@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Cowboy Hat Lying in Dry Grass.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

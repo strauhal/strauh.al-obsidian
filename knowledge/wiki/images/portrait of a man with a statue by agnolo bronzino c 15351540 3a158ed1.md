@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_a_man_with_a_statue_by_agnolo_bronzino_c_1535
 collection: "1500s"
 inferred_year: "1500s"
 artist: "agnolo bronzino"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

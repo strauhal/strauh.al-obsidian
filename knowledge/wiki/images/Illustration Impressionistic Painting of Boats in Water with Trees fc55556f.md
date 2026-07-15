@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impressionistic Painting of Boats in Wa
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Geometric_Diagram_with_Intersecting_Circles_an
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

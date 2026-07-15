@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Seagull Drinking From 'Dogs Only' Water Bowl
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "654x680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/edward_hopper_rooms_by_the_sea_1951.jpg"
 collection: "1900s"
 inferred_year: "1951"
 artist: ""
-dimensions: ""
+dimensions: "1970x1445"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

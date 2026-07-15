@@ -6,7 +6,7 @@ source_relpath: "1700s/shakyamuni_buddha_and_the_assembly_of_the_arhats_18th_cen
 collection: "1700s"
 inferred_year: "1700s"
 artist: ""
-dimensions: ""
+dimensions: "2628x3800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

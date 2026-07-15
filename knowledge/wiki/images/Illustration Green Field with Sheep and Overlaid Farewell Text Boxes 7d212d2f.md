@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Green Field with Sheep and Overlaid Farewe
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "500x501"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

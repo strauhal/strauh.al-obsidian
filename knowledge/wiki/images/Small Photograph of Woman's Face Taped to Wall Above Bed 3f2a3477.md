@@ -6,7 +6,7 @@ source_relpath: "photography/Small Photograph of Woman's Face Taped to Wall Abov
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

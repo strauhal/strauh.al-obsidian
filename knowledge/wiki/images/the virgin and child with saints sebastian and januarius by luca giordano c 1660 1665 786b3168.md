@@ -6,7 +6,7 @@ source_relpath: "1600s/the_virgin_and_child_with_saints_sebastian_and_januarius_
 collection: "1600s"
 inferred_year: "1665"
 artist: "luca giordano"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

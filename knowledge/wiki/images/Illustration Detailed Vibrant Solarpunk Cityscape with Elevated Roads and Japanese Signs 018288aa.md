@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Vibrant Solarpunk Cityscape wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2800x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

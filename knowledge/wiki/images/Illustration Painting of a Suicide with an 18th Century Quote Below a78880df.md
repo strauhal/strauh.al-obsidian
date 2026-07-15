@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Suicide with an 18th-Cent
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x796"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

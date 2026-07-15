@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Grainy, Blurry Figure with Crescent Shape an
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1366x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

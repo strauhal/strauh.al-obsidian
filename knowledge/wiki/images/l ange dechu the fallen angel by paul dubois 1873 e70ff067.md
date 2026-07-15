@@ -6,7 +6,7 @@ source_relpath: "1800s/l_ange_dechu_the_fallen_angel_by_paul_dubois_1873.jpg"
 collection: "1800s"
 inferred_year: "1873"
 artist: "paul dubois"
-dimensions: ""
+dimensions: "2560x2078"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

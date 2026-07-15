@@ -6,7 +6,7 @@ source_relpath: "photography/Dark Outdoor Staircase with Blue Railings Leading U
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

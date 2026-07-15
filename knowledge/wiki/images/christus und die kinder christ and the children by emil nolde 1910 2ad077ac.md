@@ -6,7 +6,7 @@ source_relpath: "1900s/christus_und_die_kinder_christ_and_the_children_by_emil_n
 collection: "1900s"
 inferred_year: "1910"
 artist: "emil nolde"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

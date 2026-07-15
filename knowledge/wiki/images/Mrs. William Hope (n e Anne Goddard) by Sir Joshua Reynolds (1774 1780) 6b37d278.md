@@ -6,7 +6,7 @@ source_relpath: "1700s/Mrs. William Hope (née Anne Goddard) by Sir Joshua Reyno
 collection: "1700s"
 inferred_year: "1780"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

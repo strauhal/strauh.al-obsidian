@@ -6,7 +6,7 @@ source_relpath: "photography/Soldier Shaking Hands With Service Dog Outside Dugo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x655"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

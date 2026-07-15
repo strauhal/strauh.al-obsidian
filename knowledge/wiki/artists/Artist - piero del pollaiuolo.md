@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/people/Piero Scaruffi|Piero Scaruffi]] — shared language: piero
 - [[knowledge/wiki/artists/Artist - piero di cosimo|Artist - piero di cosimo]] — shared language: piero
 - [[knowledge/wiki/maps/Map - Influences|Map - Influences]] — shared language: piero
-- [[knowledge/wiki/images/the annunciation by piero della francesca c 14501455 920f0618|the annunciation by piero della francesca c 14501455]] — shared language: piero
 - [[knowledge/wiki/artists/Artist - piero della francesca|Artist - piero della francesca]] — shared language: piero
+- [[knowledge/wiki/images/the annunciation by piero della francesca c 14501455 920f0618|the annunciation by piero della francesca c 14501455]] — shared language: piero
 - [[knowledge/wiki/books/hofstadter-douglas-r-ga-del-escher-bach-an-eternal-golden-braid|GÃ¶del, Escher, Bach An Eternal Golden Braid]] — shared language: del
 <!-- vault-crosslinks:end -->

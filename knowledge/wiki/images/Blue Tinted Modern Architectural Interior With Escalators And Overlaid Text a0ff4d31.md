@@ -6,7 +6,7 @@ source_relpath: "photography/Blue-Tinted Modern Architectural Interior With Esca
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2487x3316"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

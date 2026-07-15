@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Landscape with Figures Carrying O
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Bob Thompson"
-dimensions: ""
+dimensions: "3324x2502"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

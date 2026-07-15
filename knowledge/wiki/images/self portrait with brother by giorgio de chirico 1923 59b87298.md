@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_with_brother_by_giorgio_de_chirico_1923.jpe
 collection: "1900s"
 inferred_year: "1923"
 artist: "giorgio de chirico"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Cartoon Music Character
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "945x675"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

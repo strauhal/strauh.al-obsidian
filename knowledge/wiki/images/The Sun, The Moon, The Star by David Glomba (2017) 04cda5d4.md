@@ -6,7 +6,7 @@ source_relpath: "2000s/The Sun, The Moon, The Star by David Glomba (2017).jpg"
 collection: "2000s"
 inferred_year: "2017"
 artist: ""
-dimensions: ""
+dimensions: "1231x1233"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

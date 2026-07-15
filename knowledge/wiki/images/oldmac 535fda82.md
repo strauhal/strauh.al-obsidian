@@ -6,7 +6,7 @@ source_relpath: "wallpapers/oldmac.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5120x3200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

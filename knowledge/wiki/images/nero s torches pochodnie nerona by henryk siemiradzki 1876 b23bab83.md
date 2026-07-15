@@ -6,7 +6,7 @@ source_relpath: "1800s/nero_s_torches_pochodnie_nerona_by_henryk_siemiradzki_187
 collection: "1800s"
 inferred_year: "1876"
 artist: "henryk siemiradzki"
-dimensions: ""
+dimensions: "4000x2105"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

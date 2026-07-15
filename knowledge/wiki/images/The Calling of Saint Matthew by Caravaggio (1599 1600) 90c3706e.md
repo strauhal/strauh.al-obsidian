@@ -6,7 +6,7 @@ source_relpath: "1500s/The Calling of Saint Matthew by Caravaggio (1599–1600).
 collection: "1500s"
 inferred_year: "1600"
 artist: ""
-dimensions: ""
+dimensions: "1280x1315"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

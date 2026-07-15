@@ -6,7 +6,7 @@ source_relpath: "1800s/the_veiled_woman_by_theodore_ralli_1884.jpg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "theodore ralli"
-dimensions: ""
+dimensions: "768x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

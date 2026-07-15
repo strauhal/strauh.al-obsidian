@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Cartoon Girl Kneeling on Tennis Court with
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Hanna K"
-dimensions: ""
+dimensions: "736x920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

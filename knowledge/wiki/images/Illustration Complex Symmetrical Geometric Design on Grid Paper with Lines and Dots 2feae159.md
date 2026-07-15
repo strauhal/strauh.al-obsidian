@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Complex Symmetrical Geometric Design on
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1335x1071"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

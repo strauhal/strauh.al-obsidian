@@ -6,7 +6,7 @@ source_relpath: "photography/Discarded Striped Mattress With Graffiti 'Nothing R
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x375"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Halftone Portrait Of A Man Looking Right.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

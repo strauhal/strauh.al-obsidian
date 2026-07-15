@@ -6,7 +6,7 @@ source_relpath: "1800s/Woman in an Interior by Édouard Vuillard (1893).jpeg"
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

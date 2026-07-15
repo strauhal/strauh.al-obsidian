@@ -6,7 +6,7 @@ source_relpath: "photography/China After Mao—Couple Hiding Under a Bridge by L
 collection: "photography"
 inferred_year: ""
 artist: "Liu Heung Shing"
-dimensions: ""
+dimensions: "1320x2004"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

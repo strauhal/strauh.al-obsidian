@@ -6,7 +6,7 @@ source_relpath: "1800s/les_andelys_the_washerwomen_by_paul_signac_1886.jpeg"
 collection: "1800s"
 inferred_year: "1886"
 artist: "paul signac"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/man_in_chair_with_drink_and_cigarette_by_saul_steinberg_1
 collection: "1900s"
 inferred_year: "1966"
 artist: "saul steinberg"
-dimensions: ""
+dimensions: "640x531"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

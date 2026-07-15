@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Profile Drawing with Text Describing Patient's
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "810x620"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

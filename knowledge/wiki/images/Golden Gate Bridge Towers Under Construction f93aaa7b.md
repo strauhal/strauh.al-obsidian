@@ -6,7 +6,7 @@ source_relpath: "photography/Golden Gate Bridge Towers Under Construction.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "964x1206"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

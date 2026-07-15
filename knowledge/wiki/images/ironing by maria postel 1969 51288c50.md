@@ -6,7 +6,7 @@ source_relpath: "1900s/ironing_by_maria_postel_1969.jpeg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "maria postel"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

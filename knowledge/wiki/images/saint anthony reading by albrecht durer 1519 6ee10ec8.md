@@ -6,7 +6,7 @@ source_relpath: "1500s/saint_anthony_reading_by_albrecht_durer_1519.jpg"
 collection: "1500s"
 inferred_year: "1519"
 artist: "albrecht durer"
-dimensions: ""
+dimensions: "1500x1043"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

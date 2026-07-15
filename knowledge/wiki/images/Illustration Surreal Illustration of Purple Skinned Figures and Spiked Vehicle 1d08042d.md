@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal Illustration of Purple-Skinned 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x862"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

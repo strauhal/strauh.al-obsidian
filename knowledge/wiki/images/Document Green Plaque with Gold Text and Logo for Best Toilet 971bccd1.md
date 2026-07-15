@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Green Plaque with Gold Text and Logo for Be
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "523x475"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/1951_206_sir_john_shaw_and_his_family_in_the_park_at_elth
 collection: "1900s"
 inferred_year: "1951"
 artist: ""
-dimensions: ""
+dimensions: "3000x1964"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

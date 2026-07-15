@@ -6,7 +6,7 @@ source_relpath: "1800s/study_for_l_amour_et_psyche_love_and_psyche_by_william_ad
 collection: "1800s"
 inferred_year: "1899"
 artist: "william adolphe bouguereau"
-dimensions: ""
+dimensions: "397x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Red Heart Balloon Inside Blue Dumpster At Night.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3888x2592"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

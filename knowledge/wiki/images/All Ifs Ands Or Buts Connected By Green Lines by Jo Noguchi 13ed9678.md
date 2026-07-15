@@ -6,7 +6,7 @@ source_relpath: "unsorted/All Ifs Ands Or Buts Connected By Green Lines by Jo No
 collection: "unsorted"
 inferred_year: ""
 artist: "Green Lines by Jo Noguchi"
-dimensions: ""
+dimensions: "564x706"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Speed Racer by Tatsunoko Production (1967-1968).jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: ""
-dimensions: ""
+dimensions: "720x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

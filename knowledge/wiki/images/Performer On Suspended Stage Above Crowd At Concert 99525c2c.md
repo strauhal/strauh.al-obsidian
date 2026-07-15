@@ -6,7 +6,7 @@ source_relpath: "photography/Performer On Suspended Stage Above Crowd At Concert
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x799"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

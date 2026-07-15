@@ -6,7 +6,7 @@ source_relpath: "1500s/the_fall_of_the_rebel_angels_by_giorgio_ghisi_1550_1551.j
 collection: "1500s"
 inferred_year: "1551"
 artist: "giorgio ghisi"
-dimensions: ""
+dimensions: "1280x1761"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

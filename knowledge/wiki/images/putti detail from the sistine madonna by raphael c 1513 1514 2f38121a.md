@@ -6,7 +6,7 @@ source_relpath: "1500s/putti_detail_from_the_sistine_madonna_by_raphael_c_1513_1
 collection: "1500s"
 inferred_year: "1514"
 artist: "raphael"
-dimensions: ""
+dimensions: "807x792"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

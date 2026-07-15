@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Text Stating Computers Cannot Be Held Accou
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2206x1618"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

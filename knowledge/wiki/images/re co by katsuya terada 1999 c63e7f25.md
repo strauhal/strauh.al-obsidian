@@ -6,7 +6,7 @@ source_relpath: "1900s/re_co_by_katsuya_terada_1999.png"
 collection: "1900s"
 inferred_year: "1999"
 artist: "katsuya terada"
-dimensions: ""
+dimensions: "736x920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

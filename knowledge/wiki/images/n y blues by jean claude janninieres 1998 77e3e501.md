@@ -6,7 +6,7 @@ source_relpath: "1900s/n_y_blues_by_jean_claude_janninieres_1998.jpeg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "jean claude janninieres"
-dimensions: ""
+dimensions: "750x590"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

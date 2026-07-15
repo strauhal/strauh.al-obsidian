@@ -6,7 +6,7 @@ source_relpath: "1700s/sir_henry_raeburn_the_reverend_robert_walker_skaiting_upo
 collection: "1700s"
 inferred_year: "1795"
 artist: ""
-dimensions: ""
+dimensions: "715x1197"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

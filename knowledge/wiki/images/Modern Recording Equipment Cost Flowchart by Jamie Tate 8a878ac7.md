@@ -6,7 +6,7 @@ source_relpath: "diagrams/Modern_Recording_Equipment_Cost_Flowchart_by_Jamie_Tat
 collection: "diagrams"
 inferred_year: ""
 artist: "Jamie Tate"
-dimensions: ""
+dimensions: "2048x1581"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

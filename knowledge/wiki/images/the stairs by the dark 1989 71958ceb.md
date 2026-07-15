@@ -6,7 +6,7 @@ source_relpath: "1900s/the_stairs_by_the_dark_1989.png"
 collection: "1900s"
 inferred_year: "1989"
 artist: ""
-dimensions: ""
+dimensions: "850x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/aishu_no_hi_by_yoshida_masaji_1968.jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "yoshida masaji"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

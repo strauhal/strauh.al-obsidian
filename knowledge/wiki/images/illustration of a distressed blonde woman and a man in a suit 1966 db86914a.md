@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_of_a_distressed_blonde_woman_and_a_man_in_a_
 collection: "1900s"
 inferred_year: "1966"
 artist: ""
-dimensions: ""
+dimensions: "2292x3056"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

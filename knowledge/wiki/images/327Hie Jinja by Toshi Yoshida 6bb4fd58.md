@@ -6,7 +6,7 @@ source_relpath: "ukiyo_e/327Hie-Jinja-by-Toshi-Yoshida.jpg"
 collection: "ukiyo_e"
 inferred_year: ""
 artist: "Toshi Yoshida"
-dimensions: ""
+dimensions: "722x958"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/ukiyo_e"]
 ---

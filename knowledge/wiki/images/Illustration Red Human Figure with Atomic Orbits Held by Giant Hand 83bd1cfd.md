@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Red Human Figure with Atomic Orbits Hel
 collection: "unsorted"
 inferred_year: ""
 artist: "Giant Hand"
-dimensions: ""
+dimensions: "514x696"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

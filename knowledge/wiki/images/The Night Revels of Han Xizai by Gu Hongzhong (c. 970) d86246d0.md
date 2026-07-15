@@ -6,7 +6,7 @@ source_relpath: "2000s/The Night Revels of Han Xizai by Gu Hongzhong (c. 970).jp
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4720x396"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

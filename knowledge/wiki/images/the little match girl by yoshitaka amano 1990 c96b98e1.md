@@ -6,7 +6,7 @@ source_relpath: "1900s/the_little_match_girl_by_yoshitaka_amano_1990.jpeg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "yoshitaka amano"
-dimensions: ""
+dimensions: "1125x1399"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

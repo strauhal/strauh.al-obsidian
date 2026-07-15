@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Slumped Over Bloody Desk in Mess
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2362x2362"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

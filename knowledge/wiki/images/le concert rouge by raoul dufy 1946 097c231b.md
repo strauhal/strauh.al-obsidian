@@ -6,7 +6,7 @@ source_relpath: "1900s/le_concert_rouge_by_raoul_dufy_1946.jpeg"
 collection: "1900s"
 inferred_year: "1946"
 artist: "raoul dufy"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

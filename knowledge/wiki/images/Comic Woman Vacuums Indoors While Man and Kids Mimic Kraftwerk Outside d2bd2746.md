@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Woman Vacuums Indoors While Man and Kids Mimic
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "400x474"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

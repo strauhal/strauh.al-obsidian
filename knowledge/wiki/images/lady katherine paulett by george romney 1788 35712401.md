@@ -6,7 +6,7 @@ source_relpath: "1700s/lady_katherine_paulett_by_george_romney_1788.jpeg"
 collection: "1700s"
 inferred_year: "1788"
 artist: "george romney"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

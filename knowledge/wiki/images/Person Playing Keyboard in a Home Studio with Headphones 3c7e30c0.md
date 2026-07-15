@@ -6,7 +6,7 @@ source_relpath: "photography/Person Playing Keyboard in a Home Studio with Headp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1232x1840"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

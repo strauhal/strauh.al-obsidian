@@ -6,7 +6,7 @@ source_relpath: "photography/Cemetery Crosses with City Skyline at Sunset.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1500x976"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

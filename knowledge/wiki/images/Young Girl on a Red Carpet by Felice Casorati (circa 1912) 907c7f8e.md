@@ -6,7 +6,7 @@ source_relpath: "2000s/Young Girl on a Red Carpet by Felice Casorati (circa 1912
 collection: "2000s"
 inferred_year: "1912"
 artist: ""
-dimensions: ""
+dimensions: "1020x942"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

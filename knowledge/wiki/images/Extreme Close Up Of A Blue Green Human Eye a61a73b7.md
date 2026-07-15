@@ -6,7 +6,7 @@ source_relpath: "photography/Extreme Close-Up Of A Blue-Green Human Eye.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x550"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

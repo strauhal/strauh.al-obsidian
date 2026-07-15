@@ -23,7 +23,7 @@ Images attributed by filename: 1
 - [[knowledge/wiki/anchors/j-w-n-sullivan|J. W. N. Sullivan]] — named in this note
 - [[knowledge/wiki/images/Autozone by Jordan Sullivan (2025) 136c9057|Autozone by Jordan Sullivan (2025)]] — shared language: jordan, sullivan
 - [[knowledge/wiki/images/Alert Alert by Jordan Sullivan (2020) 1e0b18f5|Alert Alert by Jordan Sullivan (2020)]] — shared language: jordan, sullivan
-- [[knowledge/wiki/culture/reading-beethoven-his-spiritual-development|Reading - Beethoven: His Spiritual Development]] — shared language: sullivan
 - [[knowledge/wiki/pages/arcades project|arcades project]] — shared language: jordan
+- [[knowledge/wiki/culture/reading-beethoven-his-spiritual-development|Reading - Beethoven: His Spiritual Development]] — shared language: sullivan
 - [[knowledge/wiki/images/my favorite room 1340 c png 18ffa72e|my favorite room 1340 c png]] — shared language: room
 <!-- vault-crosslinks:end -->

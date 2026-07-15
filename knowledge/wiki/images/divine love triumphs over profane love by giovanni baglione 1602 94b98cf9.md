@@ -6,7 +6,7 @@ source_relpath: "1600s/divine_love_triumphs_over_profane_love_by_giovanni_baglio
 collection: "1600s"
 inferred_year: "1602"
 artist: "giovanni baglione"
-dimensions: ""
+dimensions: "1200x1841"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

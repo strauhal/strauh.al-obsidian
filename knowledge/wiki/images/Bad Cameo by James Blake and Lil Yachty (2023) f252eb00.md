@@ -6,7 +6,7 @@ source_relpath: "2000s/Bad Cameo by James Blake & Lil Yachty (2023).jpg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "1170x1169"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

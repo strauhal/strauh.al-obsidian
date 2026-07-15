@@ -6,7 +6,7 @@ source_relpath: "photography/People In A Meeting Room With Laptops On A Table.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "556x741"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

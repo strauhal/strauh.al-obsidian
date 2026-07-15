@@ -6,7 +6,7 @@ source_relpath: "unsorted/Pingfu Tie (A Consoling Letter) by Lu Ji (c. 300 AD).j
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2264x1894"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

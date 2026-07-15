@@ -6,7 +6,7 @@ source_relpath: "1900s/INFORMATION by Carl Andre (1970).jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "1333x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

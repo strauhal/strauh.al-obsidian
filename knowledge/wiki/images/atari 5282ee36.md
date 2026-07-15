@@ -6,7 +6,7 @@ source_relpath: "wallpapers/atari.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3837x1608"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

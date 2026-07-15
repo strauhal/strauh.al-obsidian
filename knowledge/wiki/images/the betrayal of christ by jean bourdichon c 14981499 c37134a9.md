@@ -6,7 +6,7 @@ source_relpath: "1400s/the_betrayal_of_christ_by_jean_bourdichon_c_14981499.jpg"
 collection: "1400s"
 inferred_year: "1400s"
 artist: "jean bourdichon"
-dimensions: ""
+dimensions: "759x1211"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

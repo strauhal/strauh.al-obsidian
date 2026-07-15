@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - AI-Generated Hatsune Miku at US Capitol Protes
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

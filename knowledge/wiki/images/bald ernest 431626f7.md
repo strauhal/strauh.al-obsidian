@@ -6,7 +6,7 @@ source_relpath: "ernest/bald_ernest.png"
 collection: "ernest"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2268x2896"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/ernest"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Nymph by Torso Solutions (2022).jpg"
 collection: "2000s"
 inferred_year: "2022"
 artist: ""
-dimensions: ""
+dimensions: "1290x1016"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

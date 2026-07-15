@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Musical_Forms:_Binary,_Ternary,_R
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "565x722"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

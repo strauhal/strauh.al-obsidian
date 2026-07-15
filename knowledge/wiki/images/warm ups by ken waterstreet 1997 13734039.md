@@ -6,7 +6,7 @@ source_relpath: "1900s/warm_ups_by_ken_waterstreet_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "ken waterstreet"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

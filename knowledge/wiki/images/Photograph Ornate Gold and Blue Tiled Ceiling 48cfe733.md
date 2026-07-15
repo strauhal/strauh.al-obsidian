@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Ornate Gold and Blue Tiled Ceiling.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3212x2151"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

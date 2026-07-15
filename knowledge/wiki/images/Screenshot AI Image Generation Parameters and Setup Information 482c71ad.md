@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - AI Image Generation Parameters and Setup 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "864x570"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_sue_tilley_by_lucian_freud_1995.jpeg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "lucian freud"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

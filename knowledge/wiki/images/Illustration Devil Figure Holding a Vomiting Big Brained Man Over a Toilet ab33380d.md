@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Devil Figure Holding a Vomiting Big-Bra
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x879"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

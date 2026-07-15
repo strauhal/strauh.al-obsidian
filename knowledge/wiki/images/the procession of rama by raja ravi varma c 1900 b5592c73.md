@@ -6,7 +6,7 @@ source_relpath: "1900s/the_procession_of_rama_by_raja_ravi_varma_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "raja ravi varma"
-dimensions: ""
+dimensions: "6870x3876"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

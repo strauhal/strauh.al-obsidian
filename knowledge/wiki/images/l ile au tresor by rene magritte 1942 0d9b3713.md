@@ -6,7 +6,7 @@ source_relpath: "1900s/l_ile_au_tresor_by_rene_magritte_1942.jpg"
 collection: "1900s"
 inferred_year: "1942"
 artist: "rene magritte"
-dimensions: ""
+dimensions: "1634x1361"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

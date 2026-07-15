@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-08T23:13:23",
-  "markdownFiles": 19446,
-  "existingDirectedLinks": 34413,
-  "discoveredDirectedLinks": 99737,
-  "totalDirectedLinks": 134150,
-  "uniqueConnectedPairs": 110926,
-  "filesWithDiscoveredLinks": 19446,
+  "generated": "2026-07-15T01:28:27",
+  "markdownFiles": 19452,
+  "existingDirectedLinks": 34422,
+  "discoveredDirectedLinks": 99777,
+  "totalDirectedLinks": 134199,
+  "uniqueConnectedPairs": 110968,
+  "filesWithDiscoveredLinks": 19452,
   "minimumDiscoveredLinks": 2,
   "maximumDiscoveredLinks": 8,
   "byType": {
@@ -20,14 +20,14 @@
       "discoveredOutbound": 885
     },
     "artist": {
-      "files": 3518,
-      "existingOutbound": 4577,
-      "discoveredOutbound": 20470
+      "files": 3521,
+      "existingOutbound": 4580,
+      "discoveredOutbound": 20488
     },
     "book": {
-      "files": 520,
-      "existingOutbound": 1662,
-      "discoveredOutbound": 4160
+      "files": 521,
+      "existingOutbound": 1665,
+      "discoveredOutbound": 4168
     },
     "concept": {
       "files": 32,
@@ -65,9 +65,9 @@
       "discoveredOutbound": 8
     },
     "html": {
-      "files": 78,
-      "existingOutbound": 232,
-      "discoveredOutbound": 624
+      "files": 79,
+      "existingOutbound": 234,
+      "discoveredOutbound": 632
     },
     "ideas": {
       "files": 1,
@@ -75,9 +75,9 @@
       "discoveredOutbound": 8
     },
     "image": {
-      "files": 14172,
-      "existingOutbound": 20443,
-      "discoveredOutbound": 68696
+      "files": 14173,
+      "existingOutbound": 20444,
+      "discoveredOutbound": 68702
     },
     "image-analysis": {
       "files": 1,
@@ -86,12 +86,12 @@
     },
     "image_collection": {
       "files": 37,
-      "existingOutbound": 3501,
+      "existingOutbound": 3502,
       "discoveredOutbound": 286
     },
     "index": {
       "files": 5,
-      "existingOutbound": 261,
+      "existingOutbound": 259,
       "discoveredOutbound": 40
     },
     "influences": {
@@ -121,7 +121,7 @@
     },
     "map": {
       "files": 45,
-      "existingOutbound": 936,
+      "existingOutbound": 937,
       "discoveredOutbound": 360
     },
     "memory-summary": {
@@ -46193,6 +46193,27 @@
       "discoveredOutbound": 6,
       "totalOutbound": 7
     },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260710122514.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260710122644.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
+    "knowledge/archive/auto-generated/artists-stale/Artist - A-20260715012738.md": {
+      "title": "Artist - A.E",
+      "type": "artist",
+      "existingOutbound": 1,
+      "discoveredOutbound": 6,
+      "totalOutbound": 7
+    },
     "knowledge/archive/auto-generated/artists-stale/Artist - A.md": {
       "title": "Artist - A.E",
       "type": "artist",
@@ -60728,9 +60749,9 @@
     "knowledge/wiki/_index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 114,
+      "existingOutbound": 113,
       "discoveredOutbound": 8,
-      "totalOutbound": 122
+      "totalOutbound": 121
     },
     "knowledge/wiki/anchors/2024-misc-bookmarks.md": {
       "title": "2024 misc bookmarks",
@@ -71890,6 +71911,13 @@
       "discoveredOutbound": 8,
       "totalOutbound": 11
     },
+    "knowledge/wiki/books/2607-02317v1.md": {
+      "title": "2607.02317v1",
+      "type": "book",
+      "existingOutbound": 3,
+      "discoveredOutbound": 8,
+      "totalOutbound": 11
+    },
     "knowledge/wiki/books/54b7f9bf8681400300255cab-original.md": {
       "title": "54b7f9bf8681400300255cab original",
       "type": "book",
@@ -74882,9 +74910,9 @@
     "knowledge/wiki/collections/Collection - wallpapers.md": {
       "title": "Collection - wallpapers",
       "type": "image_collection",
-      "existingOutbound": 153,
+      "existingOutbound": 154,
       "discoveredOutbound": 8,
-      "totalOutbound": 161
+      "totalOutbound": 162
     },
     "knowledge/wiki/collections/Date Bucket - 1410s.md": {
       "title": "Date Bucket - 1410s",
@@ -87665,8 +87693,8 @@
       "title": "Grace by Aldo",
       "type": "image",
       "existingOutbound": 2,
-      "discoveredOutbound": 3,
-      "totalOutbound": 5
+      "discoveredOutbound": 4,
+      "totalOutbound": 6
     },
     "knowledge/wiki/images/Graffiti 'Sorry About Your Wall' on a building in winter 3c2999d9.md": {
       "title": "Graffiti 'Sorry About Your Wall' on a building in winter",
@@ -134806,6 +134834,13 @@
       "discoveredOutbound": 5,
       "totalOutbound": 6
     },
+    "knowledge/wiki/images/wife and cat 3a1a73b5.md": {
+      "title": "wife and cat",
+      "type": "image",
+      "existingOutbound": 1,
+      "discoveredOutbound": 5,
+      "totalOutbound": 6
+    },
     "knowledge/wiki/images/wildcats promotional poster by travis charest and richard friend 1999 e86d40f2.md": {
       "title": "wildcats promotional poster by travis charest and richard friend 1999",
       "type": "image",
@@ -135362,9 +135397,9 @@
     "knowledge/wiki/maps/Library - Unsorted.md": {
       "title": "Library - Unsorted",
       "type": "map",
-      "existingOutbound": 113,
+      "existingOutbound": 114,
       "discoveredOutbound": 8,
-      "totalOutbound": 121
+      "totalOutbound": 122
     },
     "knowledge/wiki/maps/Map - 3D Graph.md": {
       "title": "Map - 3D Graph",
@@ -135792,6 +135827,13 @@
       "existingOutbound": 3,
       "discoveredOutbound": 8,
       "totalOutbound": 11
+    },
+    "knowledge/wiki/pages/epk.md": {
+      "title": "epk",
+      "type": "html",
+      "existingOutbound": 2,
+      "discoveredOutbound": 8,
+      "totalOutbound": 10
     },
     "knowledge/wiki/pages/ernest.md": {
       "title": "ernest",
@@ -136272,9 +136314,9 @@
     "knowledge/wiki/strauh.al Index.md": {
       "title": "strauh.al Index",
       "type": "index",
-      "existingOutbound": 114,
+      "existingOutbound": 113,
       "discoveredOutbound": 8,
-      "totalOutbound": 122
+      "totalOutbound": 121
     },
     "knowledge/wiki/works/Arcades Project (Revisited).md": {
       "title": "Arcades Project (Revisited)",

@@ -6,7 +6,7 @@ source_relpath: "1700s/the_tennis_court_oath_le_serment_du_jeu_de_paume_by_jacqu
 collection: "1700s"
 inferred_year: "1791"
 artist: "jacques louis david"
-dimensions: ""
+dimensions: "5004x3303"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

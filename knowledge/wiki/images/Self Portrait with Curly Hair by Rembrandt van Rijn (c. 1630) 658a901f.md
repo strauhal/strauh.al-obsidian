@@ -6,7 +6,7 @@ source_relpath: "2000s/Self-Portrait with Curly Hair by Rembrandt van Rijn (c. 1
 collection: "2000s"
 inferred_year: "1630"
 artist: ""
-dimensions: ""
+dimensions: "1202x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

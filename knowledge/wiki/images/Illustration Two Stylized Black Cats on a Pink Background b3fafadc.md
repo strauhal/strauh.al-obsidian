@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Stylized Black Cats on a Pink Backg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x1654"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

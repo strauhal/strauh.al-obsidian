@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Thirty Black Ink Sketches of Su
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

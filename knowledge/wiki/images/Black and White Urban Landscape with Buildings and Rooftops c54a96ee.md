@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Urban Landscape with Buildings and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

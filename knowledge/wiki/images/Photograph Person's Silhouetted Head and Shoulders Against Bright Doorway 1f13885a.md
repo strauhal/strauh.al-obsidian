@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Person's Silhouetted Head and Shoulders Agai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1080x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

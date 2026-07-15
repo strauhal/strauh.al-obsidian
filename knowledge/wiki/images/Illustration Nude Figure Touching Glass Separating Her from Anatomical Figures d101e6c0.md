@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Nude Figure Touching Glass Separating H
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1490"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

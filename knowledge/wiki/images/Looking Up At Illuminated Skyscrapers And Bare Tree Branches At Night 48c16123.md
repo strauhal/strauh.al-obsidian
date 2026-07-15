@@ -6,7 +6,7 @@ source_relpath: "photography/Looking Up At Illuminated Skyscrapers And Bare Tree
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x603"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

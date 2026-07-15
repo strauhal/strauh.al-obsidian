@@ -6,7 +6,7 @@ source_relpath: "1800s/oedipus_and_the_sphinx_by_franz_stuck_1891.jpg"
 collection: "1800s"
 inferred_year: "1891"
 artist: "franz stuck"
-dimensions: ""
+dimensions: "1600x936"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

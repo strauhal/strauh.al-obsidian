@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Man Arguing With An Eye About Drawing by Rober
 collection: "unsorted"
 inferred_year: ""
 artist: "Robert Crumb"
-dimensions: ""
+dimensions: "736x935"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

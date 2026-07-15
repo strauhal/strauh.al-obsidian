@@ -6,7 +6,7 @@ source_relpath: "1500s/assumption_of_the_virgin_by_correggio_c_1526_1530.jpeg"
 collection: "1500s"
 inferred_year: "1530"
 artist: "correggio"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

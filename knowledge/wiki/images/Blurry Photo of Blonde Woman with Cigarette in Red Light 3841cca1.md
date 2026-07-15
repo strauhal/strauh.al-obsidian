@@ -6,7 +6,7 @@ source_relpath: "photography/Blurry Photo of Blonde Woman with Cigarette in Red 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1069x1460"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

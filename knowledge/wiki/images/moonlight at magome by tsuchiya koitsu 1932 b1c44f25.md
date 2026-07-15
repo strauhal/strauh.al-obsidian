@@ -6,7 +6,7 @@ source_relpath: "1900s/moonlight_at_magome_by_tsuchiya_koitsu_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "tsuchiya koitsu"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_chariot_of_aurora_by_herbert_james_draper_c_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "herbert james draper"
-dimensions: ""
+dimensions: "1125x744"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

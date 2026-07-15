@@ -6,7 +6,7 @@ source_relpath: "1500s/frescoes_in_the_sistine_chapel_ceiling_and_the_last_judgm
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo buonarroti 15081541"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

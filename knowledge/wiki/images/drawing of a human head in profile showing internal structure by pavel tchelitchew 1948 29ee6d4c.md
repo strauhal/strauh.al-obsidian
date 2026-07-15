@@ -6,7 +6,7 @@ source_relpath: "1900s/drawing_of_a_human_head_in_profile_showing_internal_struc
 collection: "1900s"
 inferred_year: "1948"
 artist: "pavel tchelitchew"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

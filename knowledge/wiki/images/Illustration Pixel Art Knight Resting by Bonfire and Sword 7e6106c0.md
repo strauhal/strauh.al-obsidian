@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Knight Resting by Bonfire and
 collection: "unsorted"
 inferred_year: ""
 artist: "Bonfire and Sword"
-dimensions: ""
+dimensions: "256x256"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_painter_by_mark_j_ferrari_1987.png"
 collection: "1900s"
 inferred_year: "1987"
 artist: "mark j ferrari"
-dimensions: ""
+dimensions: "2880x3600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

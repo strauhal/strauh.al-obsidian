@@ -6,7 +6,7 @@ source_relpath: "photography/The Burning Monk by Malcolm Browne.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Malcolm Browne"
-dimensions: ""
+dimensions: "1579x930"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

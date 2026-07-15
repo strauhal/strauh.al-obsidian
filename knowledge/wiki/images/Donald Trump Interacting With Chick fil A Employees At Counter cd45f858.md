@@ -6,7 +6,7 @@ source_relpath: "photography/Donald Trump Interacting With Chick-fil-A Employees
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1031x660"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

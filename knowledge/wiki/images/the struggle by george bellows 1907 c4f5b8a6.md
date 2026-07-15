@@ -6,7 +6,7 @@ source_relpath: "1900s/the_struggle_by_george_bellows_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "george bellows"
-dimensions: ""
+dimensions: "1505x1392"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

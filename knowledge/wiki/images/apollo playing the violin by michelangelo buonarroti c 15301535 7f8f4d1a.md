@@ -6,7 +6,7 @@ source_relpath: "1500s/apollo_playing_the_violin_by_michelangelo_buonarroti_c_15
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo buonarroti"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Individuals Spray Painting Yellow Highway Bridge Ov
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

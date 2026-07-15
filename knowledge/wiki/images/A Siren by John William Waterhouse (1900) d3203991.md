@@ -6,7 +6,7 @@ source_relpath: "1900s/A Siren by John William Waterhouse (1900).jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "1044x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

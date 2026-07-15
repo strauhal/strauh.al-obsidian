@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Isometric Illustration of a Green City 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x2121"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

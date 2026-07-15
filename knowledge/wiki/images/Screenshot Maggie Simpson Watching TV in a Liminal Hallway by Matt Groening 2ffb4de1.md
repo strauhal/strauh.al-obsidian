@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Maggie Simpson Watching TV in a Liminal H
 collection: "unsorted"
 inferred_year: ""
 artist: "Matt Groening"
-dimensions: ""
+dimensions: "828x603"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

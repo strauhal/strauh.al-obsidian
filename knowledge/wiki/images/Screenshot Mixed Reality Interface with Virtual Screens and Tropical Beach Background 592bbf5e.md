@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Mixed Reality Interface with Virtual Scre
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1052x719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

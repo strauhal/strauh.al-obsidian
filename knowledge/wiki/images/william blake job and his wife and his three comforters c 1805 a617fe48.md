@@ -6,7 +6,7 @@ source_relpath: "1800s/william_blake_job_and_his_wife_and_his_three_comforters_c
 collection: "1800s"
 inferred_year: "1805"
 artist: ""
-dimensions: ""
+dimensions: "800x664"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

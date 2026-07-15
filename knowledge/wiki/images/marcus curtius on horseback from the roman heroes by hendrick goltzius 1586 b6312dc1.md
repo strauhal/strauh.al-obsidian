@@ -6,7 +6,7 @@ source_relpath: "1500s/marcus_curtius_on_horseback_from_the_roman_heroes_by_hend
 collection: "1500s"
 inferred_year: "1586"
 artist: "hendrick goltzius"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

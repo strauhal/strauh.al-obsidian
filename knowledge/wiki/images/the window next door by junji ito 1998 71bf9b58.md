@@ -6,7 +6,7 @@ source_relpath: "1900s/the_window_next_door_by_junji_ito_1998.jpeg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

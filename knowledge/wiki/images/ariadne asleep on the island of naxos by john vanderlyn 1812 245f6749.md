@@ -6,7 +6,7 @@ source_relpath: "1800s/ariadne_asleep_on_the_island_of_naxos_by_john_vanderlyn_1
 collection: "1800s"
 inferred_year: "1812"
 artist: "john vanderlyn"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

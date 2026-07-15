@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Smoking Towers, Plane, Roses, Car, Coff
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "959x895"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

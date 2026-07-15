@@ -6,7 +6,7 @@ source_relpath: "photography/Caiman With Butterflies On Its Head By A River.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "880x1408"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Apartment Interior with Kitchen, Dining, and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

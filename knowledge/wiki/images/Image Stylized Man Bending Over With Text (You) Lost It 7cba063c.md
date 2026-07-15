@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Stylized Man Bending Over With Text (You) Lost
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "300x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

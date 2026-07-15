@@ -6,7 +6,7 @@ source_relpath: "1900s/something_on_the_eight_ball_by_stuart_davis_19531954.jpeg
 collection: "1900s"
 inferred_year: "1900s"
 artist: "stuart davis 19531954"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

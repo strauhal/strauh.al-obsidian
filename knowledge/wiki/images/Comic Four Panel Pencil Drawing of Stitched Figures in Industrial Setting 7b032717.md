@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Four Panel Pencil Drawing of Stitched Figures in 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2333x1700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

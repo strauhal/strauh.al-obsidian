@@ -6,7 +6,7 @@ source_relpath: "gif_collection/Light_dispersion_conceptual_waves.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

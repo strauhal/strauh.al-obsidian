@@ -6,7 +6,7 @@ source_relpath: "1800s/A Corner of My Studio by William Merritt Chase (1877).jpe
 collection: "1800s"
 inferred_year: "1877"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

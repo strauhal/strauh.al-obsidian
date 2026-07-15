@@ -6,7 +6,7 @@ source_relpath: "1900s/photograph_of_bias_cutting_spring_summer_1986_by_peter_li
 collection: "1900s"
 inferred_year: "1986"
 artist: "peter lindbergh"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

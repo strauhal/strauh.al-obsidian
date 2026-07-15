@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Network_Diagram_on_Grid.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "702x327"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

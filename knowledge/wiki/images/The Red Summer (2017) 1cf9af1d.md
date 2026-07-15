@@ -6,7 +6,7 @@ source_relpath: "2000s/The Red Summer (2017).png"
 collection: "2000s"
 inferred_year: "2017"
 artist: ""
-dimensions: ""
+dimensions: "1641x1344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

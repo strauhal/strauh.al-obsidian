@@ -6,7 +6,7 @@ source_relpath: "influences/robert_bechtle.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x842"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_tenth_street_studio_by_william_merritt_chase_1880.jpe
 collection: "1800s"
 inferred_year: "1880"
 artist: "william merritt chase"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

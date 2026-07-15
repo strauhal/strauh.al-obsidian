@@ -6,7 +6,7 @@ source_relpath: "1900s/still_life_with_bottles_by_stuart_davis_1948.jpeg"
 collection: "1900s"
 inferred_year: "1948"
 artist: "stuart davis"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

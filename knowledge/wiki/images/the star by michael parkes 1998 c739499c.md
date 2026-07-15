@@ -6,7 +6,7 @@ source_relpath: "1900s/the_star_by_michael_parkes_1998.jpg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "michael parkes"
-dimensions: ""
+dimensions: "1500x2009"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

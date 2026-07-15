@@ -6,7 +6,7 @@ source_relpath: "photography/Night Sky with Numerous Satellite Trails and Milky 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x667"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

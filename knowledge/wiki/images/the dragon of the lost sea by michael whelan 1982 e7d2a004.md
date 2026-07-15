@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_of_the_lost_sea_by_michael_whelan_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "michael whelan"
-dimensions: ""
+dimensions: "1500x994"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

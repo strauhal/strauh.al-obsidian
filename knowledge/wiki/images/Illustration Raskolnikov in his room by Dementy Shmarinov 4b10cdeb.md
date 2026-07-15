@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Raskolnikov in his room by Dementy Shma
 collection: "unsorted"
 inferred_year: ""
 artist: "Dementy Shmarinov"
-dimensions: ""
+dimensions: "750x911"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

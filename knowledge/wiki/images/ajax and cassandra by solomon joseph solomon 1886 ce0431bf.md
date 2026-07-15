@@ -6,7 +6,7 @@ source_relpath: "1800s/ajax_and_cassandra_by_solomon_joseph_solomon_1886.jpg"
 collection: "1800s"
 inferred_year: "1886"
 artist: "solomon joseph solomon"
-dimensions: ""
+dimensions: "993x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

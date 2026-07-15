@@ -6,7 +6,7 @@ source_relpath: "1600s/a_satyr_and_a_nymph_with_a_basket_of_fruit_by_jacob_jorda
 collection: "1600s"
 inferred_year: "1625"
 artist: "jacob jordaens"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

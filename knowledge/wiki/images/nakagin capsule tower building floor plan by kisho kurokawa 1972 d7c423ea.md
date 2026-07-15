@@ -6,7 +6,7 @@ source_relpath: "1900s/nakagin_capsule_tower_building_floor_plan_by_kisho_kuroka
 collection: "1900s"
 inferred_year: "1972"
 artist: "kisho kurokawa"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

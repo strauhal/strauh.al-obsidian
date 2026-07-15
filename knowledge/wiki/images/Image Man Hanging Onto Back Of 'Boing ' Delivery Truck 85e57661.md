@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Man Hanging Onto Back Of 'Boing!' Delivery Tru
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x706"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

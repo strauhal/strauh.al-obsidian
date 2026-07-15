@@ -6,7 +6,7 @@ source_relpath: "1900s/pablo_picasso_les_demoiselles_davignon_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: ""
+dimensions: "2700x2797"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

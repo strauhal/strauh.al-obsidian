@@ -6,7 +6,7 @@ source_relpath: "1600s/Caritas (Charity) by Peter Paul Rubens (c. 1612-1613).jpe
 collection: "1600s"
 inferred_year: "1613"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Manga Character With Wide Eyes And Simple Mout
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "401x461"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

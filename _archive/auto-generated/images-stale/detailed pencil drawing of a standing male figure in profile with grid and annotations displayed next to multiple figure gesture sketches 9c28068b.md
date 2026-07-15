@@ -25,7 +25,7 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: annotations, next
+- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: annotations
 - [[knowledge/wiki/images/Illustration Loose Pencil Sketches of Multiple Figures and Heads 13a4567c|Illustration Loose Pencil Sketches of Multiple Figures and Heads]] — shared language: multiple, sketches, pencil
 - [[_archive/auto-generated/images-stale/loose pencil sketches of multiple figures and heads 87422741|loose pencil sketches of multiple figures and heads]] — shared language: multiple, sketches, pencil
 - [[_archive/auto-generated/images-stale/pencil sketches of human figures in various poses displayed on a board 72a610f3|pencil sketches of human figures in various poses displayed on a board]] — shared language: displayed, sketches, pencil

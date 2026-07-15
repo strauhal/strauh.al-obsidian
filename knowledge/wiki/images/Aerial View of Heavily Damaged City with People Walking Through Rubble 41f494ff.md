@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Heavily Damaged City with People Wal
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "614x607"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

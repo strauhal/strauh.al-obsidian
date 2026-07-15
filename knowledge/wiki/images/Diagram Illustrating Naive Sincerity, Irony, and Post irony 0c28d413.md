@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Naive_Sincerity,_Irony,_and_Post-
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "564x843"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

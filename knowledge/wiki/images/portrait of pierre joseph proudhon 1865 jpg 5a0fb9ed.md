@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_pierre_joseph_proudhon_1865_jpg.jpg"
 collection: "1800s"
 inferred_year: "1865"
 artist: ""
-dimensions: ""
+dimensions: "1446x1880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

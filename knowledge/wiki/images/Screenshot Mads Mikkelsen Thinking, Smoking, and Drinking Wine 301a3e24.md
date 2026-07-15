@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Mads Mikkelsen Thinking, Smoking, and Dri
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x734"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

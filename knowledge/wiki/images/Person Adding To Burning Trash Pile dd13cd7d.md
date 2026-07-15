@@ -6,7 +6,7 @@ source_relpath: "photography/Person Adding To Burning Trash Pile.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x563"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

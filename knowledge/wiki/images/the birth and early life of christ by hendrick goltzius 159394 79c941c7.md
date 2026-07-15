@@ -6,7 +6,7 @@ source_relpath: "1500s/the_birth_and_early_life_of_christ_by_hendrick_goltzius_1
 collection: "1500s"
 inferred_year: "1500s"
 artist: "hendrick goltzius 159394"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

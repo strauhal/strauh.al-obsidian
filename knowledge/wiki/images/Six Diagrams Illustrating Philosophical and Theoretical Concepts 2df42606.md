@@ -6,7 +6,7 @@ source_relpath: "diagrams/Six_Diagrams_Illustrating_Philosophical_and_Theoretica
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x769"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

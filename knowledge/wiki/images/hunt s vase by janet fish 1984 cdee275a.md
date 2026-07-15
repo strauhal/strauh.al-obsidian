@@ -6,7 +6,7 @@ source_relpath: "1900s/hunt_s_vase_by_janet_fish_1984.jpeg"
 collection: "1900s"
 inferred_year: "1984"
 artist: "janet fish"
-dimensions: ""
+dimensions: "3213x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/john_singer_sargent_sketch_for_architecture_painting_and_
 collection: "1900s"
 inferred_year: "1921"
 artist: ""
-dimensions: ""
+dimensions: "1207x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

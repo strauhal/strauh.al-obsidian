@@ -6,7 +6,7 @@ source_relpath: "photography/Computer Desk Setup In A Room With Teletubbies Wall
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1120x1984"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

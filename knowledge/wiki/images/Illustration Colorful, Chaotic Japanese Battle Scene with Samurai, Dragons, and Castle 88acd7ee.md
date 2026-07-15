@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colorful, Chaotic Japanese Battle Scene
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

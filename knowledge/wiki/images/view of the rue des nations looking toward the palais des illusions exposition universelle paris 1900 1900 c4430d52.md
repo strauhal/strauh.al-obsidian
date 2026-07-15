@@ -6,7 +6,7 @@ source_relpath: "1900s/view_of_the_rue_des_nations_looking_toward_the_palais_des
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "3516x2568"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

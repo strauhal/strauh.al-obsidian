@@ -6,7 +6,7 @@ source_relpath: "1500s/medusa_by_michelangelo_merisi_da_caravaggio_1597_1598.jpg
 collection: "1500s"
 inferred_year: "1598"
 artist: "michelangelo merisi da caravaggio"
-dimensions: ""
+dimensions: "1243x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

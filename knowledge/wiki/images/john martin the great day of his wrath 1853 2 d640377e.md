@@ -6,7 +6,7 @@ source_relpath: "1800s/john_martin_the_great_day_of_his_wrath_1853_2.jpg"
 collection: "1800s"
 inferred_year: "1853"
 artist: ""
-dimensions: ""
+dimensions: "2224x1420"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

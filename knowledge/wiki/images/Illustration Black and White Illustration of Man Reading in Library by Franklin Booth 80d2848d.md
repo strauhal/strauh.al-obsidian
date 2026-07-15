@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Illustration of Man Readin
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Franklin Booth"
-dimensions: ""
+dimensions: "1532x1932"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

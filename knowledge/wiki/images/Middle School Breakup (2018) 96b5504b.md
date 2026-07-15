@@ -6,7 +6,7 @@ source_relpath: "2000s/Middle School Breakup (2018).png"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: ""
+dimensions: "464x466"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

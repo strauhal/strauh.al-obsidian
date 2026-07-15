@@ -6,7 +6,7 @@ source_relpath: "1900s/Monument Valley by Toshi Yoshida (1972).jpg"
 collection: "1900s"
 inferred_year: "1972"
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

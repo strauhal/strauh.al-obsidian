@@ -6,7 +6,7 @@ source_relpath: "photography/Red Brick Hotel And Green Grain Elevator Under Blue
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x810"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

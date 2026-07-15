@@ -6,7 +6,7 @@ source_relpath: "1900s/No Ideas by Saul Steinberg (1970).jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "1201x876"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Shell-Esso Brent C Oil Platform in Rough Seas.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1442x1366"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

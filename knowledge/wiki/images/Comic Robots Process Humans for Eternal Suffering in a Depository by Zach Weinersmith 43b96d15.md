@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Robots Process Humans for Eternal Suffering in
 collection: "unsorted"
 inferred_year: ""
 artist: "Zach Weinersmith"
-dimensions: ""
+dimensions: "800x4280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

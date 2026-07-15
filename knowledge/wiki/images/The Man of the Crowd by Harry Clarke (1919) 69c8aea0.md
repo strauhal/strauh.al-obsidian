@@ -6,7 +6,7 @@ source_relpath: "2000s/The Man of the Crowd by Harry Clarke (1919).jpeg"
 collection: "2000s"
 inferred_year: "1919"
 artist: ""
-dimensions: ""
+dimensions: "1500x2037"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

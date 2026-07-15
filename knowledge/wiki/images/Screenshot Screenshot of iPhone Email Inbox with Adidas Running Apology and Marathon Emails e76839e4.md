@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of iPhone Email Inbox with Adidas
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "700x376"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

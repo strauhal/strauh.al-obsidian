@@ -6,7 +6,7 @@ source_relpath: "1500s/the_peasant_brawl_by_pieter_bruegel_the_elder_c_1558.jpeg
 collection: "1500s"
 inferred_year: "1558"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

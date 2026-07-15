@@ -6,7 +6,7 @@ source_relpath: "1800s/the_voyage_of_life_childhood_by_thomas_cole_1842.jpg"
 collection: "1800s"
 inferred_year: "1842"
 artist: "thomas cole"
-dimensions: ""
+dimensions: "2560x1752"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

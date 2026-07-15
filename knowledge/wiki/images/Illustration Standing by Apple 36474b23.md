@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Standing by Apple.png"
 collection: "unsorted"
 inferred_year: ""
 artist: "Apple"
-dimensions: ""
+dimensions: "512x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

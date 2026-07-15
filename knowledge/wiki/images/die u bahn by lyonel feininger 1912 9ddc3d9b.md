@@ -6,7 +6,7 @@ source_relpath: "1900s/die_u_bahn_by_lyonel_feininger_1912.jpg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "lyonel feininger"
-dimensions: ""
+dimensions: "1080x1075"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

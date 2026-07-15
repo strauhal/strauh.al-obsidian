@@ -6,7 +6,7 @@ source_relpath: "1900s/the_runners_by_ben_shahn_1968.jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "ben shahn"
-dimensions: ""
+dimensions: "4096x1888"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Neco raid by Vodnik (2024).jpg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: ""
+dimensions: "3256x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

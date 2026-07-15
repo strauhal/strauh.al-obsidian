@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Highly Saturated Abstract Portrait Of A Wo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "224x225"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

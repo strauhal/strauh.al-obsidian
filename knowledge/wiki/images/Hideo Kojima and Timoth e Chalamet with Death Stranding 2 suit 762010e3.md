@@ -6,7 +6,7 @@ source_relpath: "photography/Hideo Kojima and Timothée Chalamet with Death Stra
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1896x1199"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

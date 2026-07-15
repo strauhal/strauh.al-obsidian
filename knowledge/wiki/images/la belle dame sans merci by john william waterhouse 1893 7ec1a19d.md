@@ -6,7 +6,7 @@ source_relpath: "1800s/la_belle_dame_sans_merci_by_john_william_waterhouse_1893.
 collection: "1800s"
 inferred_year: "1893"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "2000x2708"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

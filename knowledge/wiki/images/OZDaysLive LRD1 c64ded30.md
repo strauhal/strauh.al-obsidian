@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/mizutani/OZDaysLive-LRD1.png"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x1205"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

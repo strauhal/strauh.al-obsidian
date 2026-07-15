@@ -6,7 +6,7 @@ source_relpath: "diagrams/Population_Data_and_World-Class_Patents_in_Advanced_Di
 collection: "diagrams"
 inferred_year: ""
 artist: "Association of the Bavarian Economy"
-dimensions: ""
+dimensions: "1125x1825"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

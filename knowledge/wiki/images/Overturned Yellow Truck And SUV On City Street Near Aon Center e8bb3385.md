@@ -6,7 +6,7 @@ source_relpath: "photography/Overturned Yellow Truck And SUV On City Street Near
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2005x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

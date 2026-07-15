@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_willem_de_kooning_1947.jpeg"
 collection: "1900s"
 inferred_year: "1947"
 artist: "willem de kooning"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

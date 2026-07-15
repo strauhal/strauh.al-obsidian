@@ -6,7 +6,7 @@ source_relpath: "1900s/jackie_and_caroline_by_alex_katz_1962.jpeg"
 collection: "1900s"
 inferred_year: "1962"
 artist: "alex katz"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

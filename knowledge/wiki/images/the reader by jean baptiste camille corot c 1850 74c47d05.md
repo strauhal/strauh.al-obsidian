@@ -6,7 +6,7 @@ source_relpath: "1800s/the_reader_by_jean_baptiste_camille_corot_c_1850.jpg"
 collection: "1800s"
 inferred_year: "1850"
 artist: "jean baptiste camille corot"
-dimensions: ""
+dimensions: "500x611"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

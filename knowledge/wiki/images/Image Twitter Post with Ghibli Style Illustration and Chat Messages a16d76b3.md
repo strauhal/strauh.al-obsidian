@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Twitter Post with Ghibli-Style Illustration and C
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1124x1900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

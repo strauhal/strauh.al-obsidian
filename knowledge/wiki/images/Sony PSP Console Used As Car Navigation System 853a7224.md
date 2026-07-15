@@ -6,7 +6,7 @@ source_relpath: "photography/Sony PSP Console Used As Car Navigation System.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

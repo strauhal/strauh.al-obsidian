@@ -6,7 +6,7 @@ source_relpath: "1800s/adolph_northen_napoleons_retreat_from_moscow_1866.jpg"
 collection: "1800s"
 inferred_year: "1866"
 artist: ""
-dimensions: ""
+dimensions: "1600x1055"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

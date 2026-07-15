@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Brutalist Silence Co-working Space by Claus 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Claus Brechenmacher and Reiner Baumann Photography"
-dimensions: ""
+dimensions: "1704x959"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Logical_Map_of_the_ARPANET_Network_in_March_1977.jpeg"
 collection: "diagrams"
 inferred_year: "1977"
 artist: ""
-dimensions: ""
+dimensions: "3181x2163"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/2024_downloadsfolder.html"
 source_relpath: "2024_downloadsfolder.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # 2024 downloadsfolder
@@ -490,5 +490,5 @@ strauh.al/2024_downloadsfolder
 - [[knowledge/wiki/pages/2023 downloadsfolder|2023 downloadsfolder]] — shared language: n.jpg, shot, pm.png
 - [[knowledge/wiki/books/2408-04681v1|2408.04681v1]] — shared language: v1.pdf
 - [[knowledge/wiki/books/2410-01131v1|2410.01131v1]] — shared language: v1.pdf
-- [[knowledge/wiki/images/Screenshot Man in Lifeboat on Green Screen Water with Grid Sky 304a8726|Screenshot Man in Lifeboat on Green Screen Water with Grid Sky]] — shared language: screen, screenshot
+- [[knowledge/wiki/books/2607-02317v1|2607.02317v1]] — shared language: v1.pdf
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/iannis_xenakis_and_le_corbusier_philips_pavilion_brussels
 collection: "1900s"
 inferred_year: "1958"
 artist: ""
-dimensions: ""
+dimensions: "2680x2390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

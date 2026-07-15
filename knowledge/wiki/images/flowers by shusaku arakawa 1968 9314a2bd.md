@@ -6,7 +6,7 @@ source_relpath: "1900s/flowers_by_shusaku_arakawa_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "shusaku arakawa"
-dimensions: ""
+dimensions: "1120x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

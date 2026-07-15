@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - My Little Resume by Joseph Redmon.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Joseph Redmon"
-dimensions: ""
+dimensions: "1179x1535"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

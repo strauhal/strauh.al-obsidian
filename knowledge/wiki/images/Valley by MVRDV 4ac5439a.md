@@ -6,7 +6,7 @@ source_relpath: "photography/Valley by MVRDV.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "MVRDV"
-dimensions: ""
+dimensions: "758x949"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

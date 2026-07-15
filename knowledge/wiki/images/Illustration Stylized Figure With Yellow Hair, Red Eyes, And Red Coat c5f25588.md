@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Figure With Yellow Hair, Red E
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x2436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

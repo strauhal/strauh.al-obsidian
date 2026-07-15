@@ -6,7 +6,7 @@ source_relpath: "1900s/pablo_picasso_in_his_studio_at_la_californie_cannes_by_da
 collection: "1900s"
 inferred_year: "1957"
 artist: "david douglas duncan"
-dimensions: ""
+dimensions: "1274x1326"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

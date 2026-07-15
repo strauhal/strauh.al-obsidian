@@ -6,7 +6,7 @@ source_relpath: "1800s/the_roses_of_heliogabalus_by_lawrence_alma_tadema_1888_2.
 collection: "1800s"
 inferred_year: "1888"
 artist: "lawrence alma tadema"
-dimensions: ""
+dimensions: "6000x3694"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

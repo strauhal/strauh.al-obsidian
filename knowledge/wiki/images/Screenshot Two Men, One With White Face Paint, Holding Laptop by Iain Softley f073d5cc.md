@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Two Men, One With White Face Paint, Holdi
 collection: "unsorted"
 inferred_year: ""
 artist: "Iain Softley"
-dimensions: ""
+dimensions: "900x566"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

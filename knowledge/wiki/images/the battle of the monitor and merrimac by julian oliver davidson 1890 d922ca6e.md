@@ -6,7 +6,7 @@ source_relpath: "1800s/the_battle_of_the_monitor_and_merrimac_by_julian_oliver_d
 collection: "1800s"
 inferred_year: "1890"
 artist: "julian oliver davidson"
-dimensions: ""
+dimensions: "4460x2508"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

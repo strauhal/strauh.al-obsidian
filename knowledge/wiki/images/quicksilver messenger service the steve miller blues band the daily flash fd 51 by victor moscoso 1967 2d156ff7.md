@@ -6,7 +6,7 @@ source_relpath: "1900s/quicksilver_messenger_service_the_steve_miller_blues_band
 collection: "1900s"
 inferred_year: "1967"
 artist: "victor moscoso"
-dimensions: ""
+dimensions: "1440x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

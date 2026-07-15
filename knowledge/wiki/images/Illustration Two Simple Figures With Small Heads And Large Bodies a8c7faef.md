@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Simple Figures With Small Heads And
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1067"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

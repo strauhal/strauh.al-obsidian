@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Man Standing Next to Abstract Blue and Black
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "655x486"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

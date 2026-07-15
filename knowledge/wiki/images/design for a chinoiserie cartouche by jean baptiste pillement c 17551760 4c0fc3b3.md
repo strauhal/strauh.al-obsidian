@@ -6,7 +6,7 @@ source_relpath: "1700s/design_for_a_chinoiserie_cartouche_by_jean_baptiste_pille
 collection: "1700s"
 inferred_year: "1700s"
 artist: "jean baptiste pillement"
-dimensions: ""
+dimensions: "2400x3253"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

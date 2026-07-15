@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Drawing of Male Head with Propor
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "854x856"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

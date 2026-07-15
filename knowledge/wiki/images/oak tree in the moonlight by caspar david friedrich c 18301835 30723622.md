@@ -6,7 +6,7 @@ source_relpath: "1800s/oak_tree_in_the_moonlight_by_caspar_david_friedrich_c_183
 collection: "1800s"
 inferred_year: "1800s"
 artist: "caspar david friedrich"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

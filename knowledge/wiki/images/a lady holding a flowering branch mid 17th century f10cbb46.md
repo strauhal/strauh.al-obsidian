@@ -6,7 +6,7 @@ source_relpath: "1600s/a_lady_holding_a_flowering_branch_mid_17th_century.jpg"
 collection: "1600s"
 inferred_year: "1600s"
 artist: ""
-dimensions: ""
+dimensions: "492x914"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

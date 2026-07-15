@@ -6,7 +6,7 @@ source_relpath: "1900s/cross_kors_by_vladimir_bonacic_1969.jpeg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "vladimir bonacic"
-dimensions: ""
+dimensions: "565x573"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Photoshop Edit Menu as Physical Sign in Mountains.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1929x2572"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

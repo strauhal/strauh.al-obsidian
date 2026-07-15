@@ -6,7 +6,7 @@ source_relpath: "1800s/Lake Lucerne by Robert Zünd (c. 1880).jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: ""
+dimensions: "1024x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

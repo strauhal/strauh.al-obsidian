@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - The Day the Joker Went Wild! by Gene Colan.jpg
 collection: "unsorted"
 inferred_year: ""
 artist: "Gene Colan"
-dimensions: ""
+dimensions: "938x931"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

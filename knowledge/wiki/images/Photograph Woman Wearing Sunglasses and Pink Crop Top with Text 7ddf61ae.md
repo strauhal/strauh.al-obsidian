@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Woman Wearing Sunglasses and Pink Crop Top w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1099x1419"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

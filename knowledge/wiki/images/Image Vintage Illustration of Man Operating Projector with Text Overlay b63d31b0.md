@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Vintage Illustration of Man Operating Projecto
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "490x333"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

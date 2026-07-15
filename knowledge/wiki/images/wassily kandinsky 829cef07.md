@@ -6,7 +6,7 @@ source_relpath: "influences/wassily_kandinsky.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "603x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

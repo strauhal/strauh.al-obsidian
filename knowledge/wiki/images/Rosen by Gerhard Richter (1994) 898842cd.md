@@ -6,7 +6,7 @@ source_relpath: "1900s/Rosen by Gerhard Richter (1994).jpg"
 collection: "1900s"
 inferred_year: "1994"
 artist: ""
-dimensions: ""
+dimensions: "1440x1303"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

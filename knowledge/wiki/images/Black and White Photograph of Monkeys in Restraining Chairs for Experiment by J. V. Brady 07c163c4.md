@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Monkeys in Restrainin
 collection: "photography"
 inferred_year: ""
 artist: "J. V. Brady"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

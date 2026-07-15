@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Futuristic White Race Car on Abstract S
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x816"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

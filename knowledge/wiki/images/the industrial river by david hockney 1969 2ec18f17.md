@@ -6,7 +6,7 @@ source_relpath: "1900s/the_industrial_river_by_david_hockney_1969.jpeg"
 collection: "1900s"
 inferred_year: "1969"
 artist: "david hockney"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Stretching At Desk In Sunlit Roo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1464x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

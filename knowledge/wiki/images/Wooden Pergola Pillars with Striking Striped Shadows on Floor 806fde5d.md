@@ -6,7 +6,7 @@ source_relpath: "photography/Wooden Pergola Pillars with Striking Striped Shadow
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x760"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

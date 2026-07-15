@@ -6,7 +6,7 @@ source_relpath: "photography/Carrie-Anne Moss as Trinity in The Matrix.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "672x1011"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

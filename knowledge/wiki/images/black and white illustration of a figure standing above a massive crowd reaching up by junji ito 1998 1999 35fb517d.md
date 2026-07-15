@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_illustration_of_a_figure_standing_above_a
 collection: "1900s"
 inferred_year: "1999"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

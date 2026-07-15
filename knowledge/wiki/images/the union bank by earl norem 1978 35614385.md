@@ -6,7 +6,7 @@ source_relpath: "1900s/the_union_bank_by_earl_norem_1978.jpg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "earl norem"
-dimensions: ""
+dimensions: "3000x2024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

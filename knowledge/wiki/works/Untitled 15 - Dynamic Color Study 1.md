@@ -4,8 +4,8 @@ type: work
 year: 2023
 tags: [work, video, drawing, stylegan, color]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Untitled 15 - Dynamic Color Study 1

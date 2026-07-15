@@ -6,7 +6,7 @@ source_relpath: "photography/Spacious White Studio Room With Wooden Floors And S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1220x816"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tree_of_life_by_nikolai_kalmakov_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "nikolai kalmakov"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

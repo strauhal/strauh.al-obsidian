@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_an_unknown_lady_by_hans_holbein_the_younger_c
 collection: "1500s"
 inferred_year: "1536"
 artist: "hans holbein the younger"
-dimensions: ""
+dimensions: "936x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

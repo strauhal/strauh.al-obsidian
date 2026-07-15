@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_chuck_close_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "chuck close"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

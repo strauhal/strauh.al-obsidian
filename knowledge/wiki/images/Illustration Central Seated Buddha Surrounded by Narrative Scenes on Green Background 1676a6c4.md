@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Central Seated Buddha Surrounded by Narrat
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Narrative Scenes on Green Background"
-dimensions: ""
+dimensions: "1315x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

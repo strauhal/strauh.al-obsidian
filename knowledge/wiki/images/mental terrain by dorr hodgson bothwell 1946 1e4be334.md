@@ -6,7 +6,7 @@ source_relpath: "1900s/mental_terrain_by_dorr_hodgson_bothwell_1946.jpeg"
 collection: "1900s"
 inferred_year: "1946"
 artist: "dorr hodgson bothwell"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

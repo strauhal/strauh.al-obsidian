@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Figure with Spiked Crown in Blue
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3277x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

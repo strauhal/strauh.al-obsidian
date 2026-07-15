@@ -6,7 +6,7 @@ source_relpath: "photography/White Building in Desert Landscape with Mountains a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x628"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

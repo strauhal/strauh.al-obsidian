@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of Colorful Striped Agricultural Fields
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "591x680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

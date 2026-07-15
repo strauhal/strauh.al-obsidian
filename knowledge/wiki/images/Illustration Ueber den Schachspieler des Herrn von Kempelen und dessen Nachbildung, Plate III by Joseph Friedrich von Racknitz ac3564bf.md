@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ueber den Schachspieler des Herrn von K
 collection: "unsorted"
 inferred_year: ""
 artist: "Joseph Friedrich von Racknitz"
-dimensions: ""
+dimensions: "2678x2439"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

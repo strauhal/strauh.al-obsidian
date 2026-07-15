@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/ Christopher Simpson - Science of Coercion_ Communication Research and Psychological Warfare, 1945-1960 (1996, Oxford University Press, USA) - libgen.li.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Science of Coercion Communication Research and Psychological Warfare, 1945-1960

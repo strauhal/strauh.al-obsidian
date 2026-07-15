@@ -6,7 +6,7 @@ source_relpath: "1800s/Portrait of a Young Man by Richard Dadd (1853).jpg"
 collection: "1800s"
 inferred_year: "1853"
 artist: ""
-dimensions: ""
+dimensions: "1000x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

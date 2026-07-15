@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/draw_for_me.html"
 source_relpath: "draw_for_me.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # draw for me

@@ -6,7 +6,7 @@ source_relpath: "1900s/ventilation_system_by_charles_sheeler_1929.jpeg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "charles sheeler"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

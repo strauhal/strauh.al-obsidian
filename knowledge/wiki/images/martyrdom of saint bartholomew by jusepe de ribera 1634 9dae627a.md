@@ -6,7 +6,7 @@ source_relpath: "1600s/martyrdom_of_saint_bartholomew_by_jusepe_de_ribera_1634.j
 collection: "1600s"
 inferred_year: "1634"
 artist: "jusepe de ribera"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

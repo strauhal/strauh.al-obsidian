@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Warrior in Armor Holding Sword Against Fie
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Sage"
-dimensions: ""
+dimensions: "845x1281"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

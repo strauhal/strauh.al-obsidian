@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - The Internet Map by Barrett Lyon.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Barrett Lyon"
-dimensions: ""
+dimensions: "1280x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

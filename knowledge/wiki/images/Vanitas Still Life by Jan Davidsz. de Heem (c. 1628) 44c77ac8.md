@@ -6,7 +6,7 @@ source_relpath: "1600s/Vanitas Still Life by Jan Davidsz. de Heem (c. 1628).jpg"
 collection: "1600s"
 inferred_year: "1628"
 artist: ""
-dimensions: ""
+dimensions: "3599x4226"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

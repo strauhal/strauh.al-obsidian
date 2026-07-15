@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Stylized Figures In Alternative Fashio
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "720x903"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/defense_devant_un_tribunal_d_exception_by_jean_dubuffet_1
 collection: "1900s"
 inferred_year: "1967"
 artist: "jean dubuffet"
-dimensions: ""
+dimensions: "800x1206"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

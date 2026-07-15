@@ -6,7 +6,7 @@ source_relpath: "2000s/Mai Dang Lao (McDonald's) by Xu Bing (2001).jpeg"
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "1189x1189"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

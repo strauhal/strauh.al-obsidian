@@ -6,7 +6,7 @@ source_relpath: "photography/Packaged Bratwurst With Green Label.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1272x677"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

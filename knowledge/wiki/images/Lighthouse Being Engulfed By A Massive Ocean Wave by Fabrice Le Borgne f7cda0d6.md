@@ -6,7 +6,7 @@ source_relpath: "photography/Lighthouse Being Engulfed By A Massive Ocean Wave b
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "910x1365"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

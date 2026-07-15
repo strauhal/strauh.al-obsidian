@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Landscape with Red and Blue Mo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1664x1664"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

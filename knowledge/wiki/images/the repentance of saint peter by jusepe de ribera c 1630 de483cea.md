@@ -6,7 +6,7 @@ source_relpath: "1600s/the_repentance_of_saint_peter_by_jusepe_de_ribera_c_1630.
 collection: "1600s"
 inferred_year: "1630"
 artist: "jusepe de ribera"
-dimensions: ""
+dimensions: "1920x1270"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "influences/virgil_abloh.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "924x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

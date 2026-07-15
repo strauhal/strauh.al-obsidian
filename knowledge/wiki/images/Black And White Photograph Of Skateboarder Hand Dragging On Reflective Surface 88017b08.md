@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Skateboarder Hand Dra
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1179x1447"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

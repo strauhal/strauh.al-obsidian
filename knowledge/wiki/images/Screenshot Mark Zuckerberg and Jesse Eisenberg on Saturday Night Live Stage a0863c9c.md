@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Mark Zuckerberg and Jesse Eisenberg on Sa
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "648x365"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

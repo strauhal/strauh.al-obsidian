@@ -6,7 +6,7 @@ source_relpath: "photography/Extremely Dirty And Cluttered Kitchen With Applianc
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "714x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

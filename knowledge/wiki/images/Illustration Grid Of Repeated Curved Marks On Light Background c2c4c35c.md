@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid Of Repeated Curved Marks On Light 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "756x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

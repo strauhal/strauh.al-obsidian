@@ -6,7 +6,7 @@ source_relpath: "photography/Park Bench Partially Submerged In Water Reflecting 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

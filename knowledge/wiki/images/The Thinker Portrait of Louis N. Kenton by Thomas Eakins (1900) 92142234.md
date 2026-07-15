@@ -6,7 +6,7 @@ source_relpath: "1900s/The Thinker: Portrait of Louis N. Kenton by Thomas Eakins
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

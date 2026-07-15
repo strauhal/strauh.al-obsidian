@@ -6,7 +6,7 @@ source_relpath: "1900s/auerbach_s_studio_1985.jpeg"
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

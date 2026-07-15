@@ -6,7 +6,7 @@ source_relpath: "photography/The Ruins of Sikandar Bagh Palace Showing the Skele
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3400x2990"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

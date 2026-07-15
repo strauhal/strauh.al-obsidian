@@ -6,7 +6,7 @@ source_relpath: "1400s/the_virgin_in_prayer_by_dieric_bouts_c_1470.jpeg"
 collection: "1400s"
 inferred_year: "1470"
 artist: "dieric bouts"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

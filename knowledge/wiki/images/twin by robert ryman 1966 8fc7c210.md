@@ -6,7 +6,7 @@ source_relpath: "1900s/twin_by_robert_ryman_1966.jpeg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "robert ryman"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

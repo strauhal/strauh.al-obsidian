@@ -6,7 +6,7 @@ source_relpath: "1900s/le_groupe_by_moebius_jean_giraud_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "moebius jean giraud"
-dimensions: ""
+dimensions: "2500x1876"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

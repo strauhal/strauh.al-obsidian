@@ -6,7 +6,7 @@ source_relpath: "1800s/woman_in_a_black_boa_by_henri_de_toulouse_lautrec_1892.jp
 collection: "1800s"
 inferred_year: "1892"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

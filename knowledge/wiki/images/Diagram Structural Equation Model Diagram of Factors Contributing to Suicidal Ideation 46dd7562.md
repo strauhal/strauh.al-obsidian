@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Structural Equation Model Diagram of Factors Co
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "734x525"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

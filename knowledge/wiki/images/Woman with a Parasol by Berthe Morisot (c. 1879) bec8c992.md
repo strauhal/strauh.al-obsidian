@@ -6,7 +6,7 @@ source_relpath: "1800s/Woman with a Parasol by Berthe Morisot (c. 1879).jpg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: ""
+dimensions: "2560x2360"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

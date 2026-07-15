@@ -6,7 +6,7 @@ source_relpath: "1800s/luna_the_moon_by_william_adolphe_bouguereau_1884.jpg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "william adolphe bouguereau"
-dimensions: ""
+dimensions: "1541x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

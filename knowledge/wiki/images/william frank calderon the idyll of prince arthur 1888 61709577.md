@@ -6,7 +6,7 @@ source_relpath: "1800s/william_frank_calderon_the_idyll_of_prince_arthur_1888.jp
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: ""
+dimensions: "1280x879"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

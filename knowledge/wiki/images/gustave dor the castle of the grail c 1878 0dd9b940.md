@@ -6,7 +6,7 @@ source_relpath: "1800s/gustave_dor_the_castle_of_the_grail_c_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: ""
+dimensions: "1690x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_studio_l_atelier_by_pablo_picasso_1955.jpeg"
 collection: "1900s"
 inferred_year: "1955"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

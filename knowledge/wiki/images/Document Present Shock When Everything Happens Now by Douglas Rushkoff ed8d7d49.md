@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Present Shock: When Everything Happens Now 
 collection: "unsorted"
 inferred_year: ""
 artist: "Douglas Rushkoff"
-dimensions: ""
+dimensions: "1180x402"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

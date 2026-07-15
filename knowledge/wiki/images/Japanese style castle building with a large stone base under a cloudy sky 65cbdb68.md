@@ -6,7 +6,7 @@ source_relpath: "photography/Japanese-style castle building with a large stone b
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1178x1166"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

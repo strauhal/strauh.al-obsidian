@@ -6,7 +6,7 @@ source_relpath: "unsorted/Shadows on Door by Line Holtegaard.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Line Holtegaard"
-dimensions: ""
+dimensions: "1259x1890"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

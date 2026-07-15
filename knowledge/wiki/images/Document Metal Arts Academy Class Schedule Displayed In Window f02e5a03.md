@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Metal Arts Academy Class Schedule Displayed
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_Chart_of_Philosophical_Terms_with_Meanings_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1150x717"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

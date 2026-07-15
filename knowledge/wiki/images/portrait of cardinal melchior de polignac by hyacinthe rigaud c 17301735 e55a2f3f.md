@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_cardinal_melchior_de_polignac_by_hyacinthe_ri
 collection: "1700s"
 inferred_year: "1700s"
 artist: "hyacinthe rigaud"
-dimensions: ""
+dimensions: "790x977"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

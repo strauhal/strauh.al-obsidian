@@ -6,7 +6,7 @@ source_relpath: "1500s/the_fall_of_the_rebel_angels_by_pieter_bruegel_the_elder_
 collection: "1500s"
 inferred_year: "1562"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "1360x982"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Barcelona with Sagrada Familia and M
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

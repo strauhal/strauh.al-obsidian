@@ -6,7 +6,7 @@ source_relpath: "2000s/The Last Customer by Valeriy Brosin (2013).jpeg"
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: ""
+dimensions: "1000x913"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

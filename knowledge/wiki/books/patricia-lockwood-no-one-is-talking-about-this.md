@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/No One Is Talking About This -- Patricia Lockwood -- Booker Prize Shortlist, 2021 -- Penguin Publishing Group -- 9780593189580 -- df33a58f44b5cacb19f344820720983c -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # No One Is Talking About This

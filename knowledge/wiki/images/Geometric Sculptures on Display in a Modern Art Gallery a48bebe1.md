@@ -6,7 +6,7 @@ source_relpath: "photography/Geometric Sculptures on Display in a Modern Art Gal
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x565"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

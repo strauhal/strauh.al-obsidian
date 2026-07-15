@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black and White Japanese Concert Poster for
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x674"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

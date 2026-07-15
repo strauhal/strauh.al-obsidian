@@ -6,7 +6,7 @@ source_relpath: "photography/Buddhist Monk Engulfed In Flames On A Street With O
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x433"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Green Wig At A Science-Themed Display.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "634x684"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_beach_by_david_hockney_1978.jpeg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "david hockney"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

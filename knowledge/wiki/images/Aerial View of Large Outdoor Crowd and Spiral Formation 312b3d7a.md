@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Large Outdoor Crowd and Spiral Forma
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "860x644"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

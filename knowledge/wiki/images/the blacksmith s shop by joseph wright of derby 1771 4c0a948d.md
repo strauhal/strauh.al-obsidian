@@ -6,7 +6,7 @@ source_relpath: "1700s/the_blacksmith_s_shop_by_joseph_wright_of_derby_1771.jpeg
 collection: "1700s"
 inferred_year: "1771"
 artist: "joseph wright of derby"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

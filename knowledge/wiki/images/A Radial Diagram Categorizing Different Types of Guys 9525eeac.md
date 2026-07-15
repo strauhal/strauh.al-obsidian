@@ -6,7 +6,7 @@ source_relpath: "diagrams/A_Radial_Diagram_Categorizing_Different_Types_of_Guys.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1242x1868"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

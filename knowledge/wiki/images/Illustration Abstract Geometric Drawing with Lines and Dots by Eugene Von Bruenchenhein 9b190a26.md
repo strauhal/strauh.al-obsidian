@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Geometric Drawing with Lines a
 collection: "unsorted"
 inferred_year: ""
 artist: "Eugene Von Bruenchenhein"
-dimensions: ""
+dimensions: "1669x1092"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

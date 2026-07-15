@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Young Man In Orange Jumpsuit Escorted By Pol
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Police Officers Near Helicopter"
-dimensions: ""
+dimensions: "1800x1197"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

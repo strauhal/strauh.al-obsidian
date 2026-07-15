@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Yellow Bear Costume Body Holding Phone, Head
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

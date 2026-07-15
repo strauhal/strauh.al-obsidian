@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sketch of an Interior Room with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1341x1018"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

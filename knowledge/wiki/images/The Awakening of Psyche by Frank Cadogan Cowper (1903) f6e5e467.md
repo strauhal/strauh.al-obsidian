@@ -6,7 +6,7 @@ source_relpath: "1900s/The Awakening of Psyche by Frank Cadogan Cowper (1903).jp
 collection: "1900s"
 inferred_year: "1903"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

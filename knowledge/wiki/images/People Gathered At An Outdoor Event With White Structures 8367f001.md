@@ -6,7 +6,7 @@ source_relpath: "photography/People Gathered At An Outdoor Event With White Stru
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x1403"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

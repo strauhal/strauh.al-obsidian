@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Puffer Jacket and Sweatpants Exiting Silver 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "808x1161"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

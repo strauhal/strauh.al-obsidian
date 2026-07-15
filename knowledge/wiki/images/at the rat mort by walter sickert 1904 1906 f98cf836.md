@@ -6,7 +6,7 @@ source_relpath: "1900s/at_the_rat_mort_by_walter_sickert_1904_1906.jpeg"
 collection: "1900s"
 inferred_year: "1906"
 artist: "walter sickert"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

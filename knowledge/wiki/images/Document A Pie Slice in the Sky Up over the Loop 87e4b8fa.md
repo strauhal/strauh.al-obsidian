@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - A Pie Slice in the Sky Up over the Loop.jpg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x1091"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

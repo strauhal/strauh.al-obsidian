@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Multi-Panel Comic Page of Figures in a Desolate F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

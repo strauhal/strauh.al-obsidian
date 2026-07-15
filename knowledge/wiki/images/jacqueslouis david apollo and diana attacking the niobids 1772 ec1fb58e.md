@@ -6,7 +6,7 @@ source_relpath: "1700s/jacqueslouis_david_apollo_and_diana_attacking_the_niobids
 collection: "1700s"
 inferred_year: "1772"
 artist: ""
-dimensions: ""
+dimensions: "6872x5311"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

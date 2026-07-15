@@ -6,7 +6,7 @@ source_relpath: "diary/thedamntrain.jpeg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "450x579"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

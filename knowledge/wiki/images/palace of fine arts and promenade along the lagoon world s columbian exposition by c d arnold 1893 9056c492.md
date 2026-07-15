@@ -6,7 +6,7 @@ source_relpath: "1800s/palace_of_fine_arts_and_promenade_along_the_lagoon_world_
 collection: "1800s"
 inferred_year: "1893"
 artist: "c d arnold"
-dimensions: ""
+dimensions: "4975x3982"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

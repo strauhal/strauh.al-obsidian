@@ -6,7 +6,7 @@ source_relpath: "1900s/sunday_strip_october_25_1987_by_bill_watterson_1987.jpg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "611x755"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

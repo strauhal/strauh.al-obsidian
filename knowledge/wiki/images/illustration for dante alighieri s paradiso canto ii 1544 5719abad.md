@@ -6,7 +6,7 @@ source_relpath: "1500s/illustration_for_dante_alighieri_s_paradiso_canto_ii_1544
 collection: "1500s"
 inferred_year: "1544"
 artist: ""
-dimensions: ""
+dimensions: "1675x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

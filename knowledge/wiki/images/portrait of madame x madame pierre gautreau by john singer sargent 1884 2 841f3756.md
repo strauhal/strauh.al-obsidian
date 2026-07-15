@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_madame_x_madame_pierre_gautreau_by_john_singe
 collection: "1800s"
 inferred_year: "1884"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "1895x3680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

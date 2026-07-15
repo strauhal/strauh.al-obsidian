@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a Brutalist-style building with red car
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1354"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

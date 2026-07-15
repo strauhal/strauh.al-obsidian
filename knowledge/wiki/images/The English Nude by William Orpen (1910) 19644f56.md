@@ -6,7 +6,7 @@ source_relpath: "1900s/The English Nude by William Orpen (1910).jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "1656x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Soldier Dropping Grenade Down Stairwell by Danfung 
 collection: "photography"
 inferred_year: ""
 artist: "Danfung Dennis"
-dimensions: ""
+dimensions: "540x540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

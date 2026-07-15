@@ -6,7 +6,7 @@ source_relpath: "photography/Person Grilling Sausages on Robot-Shaped Grill in V
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1341"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

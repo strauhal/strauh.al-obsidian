@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized View of Lighthouse on Hill wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

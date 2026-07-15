@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black And White Pixel Art Compilation Of E
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3700x1935"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

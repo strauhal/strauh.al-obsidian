@@ -6,7 +6,7 @@ source_relpath: "1400s/Adoration of the Magi by Sandro Botticelli (c. 1475).jpg"
 collection: "1400s"
 inferred_year: "1475"
 artist: ""
-dimensions: ""
+dimensions: "3840x3137"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

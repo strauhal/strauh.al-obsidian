@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_madame_raoul_rochette_by_jean_auguste_dominiq
 collection: "1800s"
 inferred_year: "1830"
 artist: "jean auguste dominique ingres"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

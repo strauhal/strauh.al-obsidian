@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Portrait of Person with Glasse
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x3893"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

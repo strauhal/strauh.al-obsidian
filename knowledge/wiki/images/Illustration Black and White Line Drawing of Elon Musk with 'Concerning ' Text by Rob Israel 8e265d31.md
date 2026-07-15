@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Line Drawing of Elon Musk 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Rob Israel"
-dimensions: ""
+dimensions: "1088x1360"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

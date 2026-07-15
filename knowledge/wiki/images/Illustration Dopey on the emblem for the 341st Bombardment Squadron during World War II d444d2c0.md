@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Dopey on the emblem for the 341st Bomba
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "690x924"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

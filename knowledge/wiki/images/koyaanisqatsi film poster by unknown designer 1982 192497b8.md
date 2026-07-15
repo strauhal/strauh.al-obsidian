@@ -6,7 +6,7 @@ source_relpath: "1900s/koyaanisqatsi_film_poster_by_unknown_designer_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "unknown designer"
-dimensions: ""
+dimensions: "1000x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

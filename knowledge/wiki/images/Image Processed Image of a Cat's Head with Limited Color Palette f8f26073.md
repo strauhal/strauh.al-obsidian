@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Processed Image of a Cat's Head with Limited C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "250x200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

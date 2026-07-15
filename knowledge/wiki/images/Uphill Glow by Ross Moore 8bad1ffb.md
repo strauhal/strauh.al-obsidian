@@ -6,7 +6,7 @@ source_relpath: "2000s/Uphill Glow by Ross Moore.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Ross Moore"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

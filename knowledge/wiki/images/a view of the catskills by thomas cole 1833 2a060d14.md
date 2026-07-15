@@ -6,7 +6,7 @@ source_relpath: "1800s/a_view_of_the_catskills_by_thomas_cole_1833.jpeg"
 collection: "1800s"
 inferred_year: "1833"
 artist: "thomas cole"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

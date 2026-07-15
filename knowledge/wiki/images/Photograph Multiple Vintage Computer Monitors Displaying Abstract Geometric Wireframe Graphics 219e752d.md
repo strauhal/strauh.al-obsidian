@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Multiple Vintage Computer Monitors Displayin
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1149x878"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

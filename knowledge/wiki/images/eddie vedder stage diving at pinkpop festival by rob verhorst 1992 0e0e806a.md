@@ -6,7 +6,7 @@ source_relpath: "1900s/eddie_vedder_stage_diving_at_pinkpop_festival_by_rob_verh
 collection: "1900s"
 inferred_year: "1992"
 artist: "rob verhorst"
-dimensions: ""
+dimensions: "827x827"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/le_sauvetage_the_rescue_by_pablo_picasso_1933.jpeg"
 collection: "1900s"
 inferred_year: "1933"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

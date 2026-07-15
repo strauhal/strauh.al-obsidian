@@ -7,8 +7,8 @@ status: queued
 queue_order: 30
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # The End of Evangelion: Original Soundtrack

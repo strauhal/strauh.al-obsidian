@@ -6,7 +6,7 @@ source_relpath: "1900s/the_great_day_by_wojciech_siudmak_1989.jpg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "wojciech siudmak"
-dimensions: ""
+dimensions: "3000x1654"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

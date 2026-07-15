@@ -1,10 +1,10 @@
 # Wiki Lint Report
 
-Generated: 2026-07-08T23:13:32
+Generated: 2026-07-15T01:29:05
 
 ## Summary
 
-- Notes checked: 10806
+- Notes checked: 10809
 - Missing frontmatter: 0
 - Broken wikilinks: 4
 - Orphan notes: 0
@@ -34,5 +34,5 @@ Generated: 2026-07-08T23:13:32
 - [[knowledge/wiki/artists/Artist - John Romita Jr. and Scott Hanna|Artist - John Romita Jr. and Scott Hanna]] — shared language: romita, scott, hanna
 - [[knowledge/wiki/concepts/Rebuilding from the Bottom|Rebuilding from the Bottom]] — shared language: broken, comic
 - [[knowledge/wiki/maps/Books Folder Title List|Books Folder Title List]] — shared language: knowledge
-- [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media, wiki
+- [[knowledge/wiki/maps/Map - Concepts|Map - Concepts]] — shared language: wiki, knowledge
 <!-- vault-crosslinks:end -->

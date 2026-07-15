@@ -6,7 +6,7 @@ source_relpath: "1900s/notes_on_interiors_show_by_ed_ruscha_1979.jpeg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "ed ruscha"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Minimalist Concrete Interior with Modern Furniture 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1704x2556"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

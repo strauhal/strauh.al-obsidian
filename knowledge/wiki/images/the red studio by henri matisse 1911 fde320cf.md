@@ -6,7 +6,7 @@ source_relpath: "1900s/the_red_studio_by_henri_matisse_1911.jpeg"
 collection: "1900s"
 inferred_year: "1911"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Laptops Cut Into Interlocking Puzzle Pieces.png
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1063x997"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

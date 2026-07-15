@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of Amoeba Music Store, San Francisco.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3264x2448"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

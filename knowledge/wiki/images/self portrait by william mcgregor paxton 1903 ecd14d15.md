@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_by_william_mcgregor_paxton_1903.jpeg"
 collection: "1900s"
 inferred_year: "1903"
 artist: "william mcgregor paxton"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

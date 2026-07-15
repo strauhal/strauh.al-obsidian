@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Airbrushed Portrait Of Two People Before M
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Elena Rotenberg"
-dimensions: ""
+dimensions: "893x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

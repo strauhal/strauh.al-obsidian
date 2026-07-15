@@ -6,7 +6,7 @@ source_relpath: "photography/South Korean Athlete Aiming Pistol in Shooting Comp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1067"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

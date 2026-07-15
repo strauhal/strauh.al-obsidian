@@ -6,7 +6,7 @@ source_relpath: "1900s/no_16_red_brown_and_black_by_mark_rothko_1958.jpeg"
 collection: "1900s"
 inferred_year: "1958"
 artist: "mark rothko"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

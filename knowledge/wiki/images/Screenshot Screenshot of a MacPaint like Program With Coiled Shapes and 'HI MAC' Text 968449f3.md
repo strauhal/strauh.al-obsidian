@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a MacPaint-like Program Wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2252x1762"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

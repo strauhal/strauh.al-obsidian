@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Monochromatic Portrait Painting of an Olde
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Stefan Burnett"
-dimensions: ""
+dimensions: "1200x1025"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

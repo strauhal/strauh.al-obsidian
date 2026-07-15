@@ -6,7 +6,7 @@ source_relpath: "photography/Man Next To Mr. Peanut Costume At Event.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x342"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

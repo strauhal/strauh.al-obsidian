@@ -6,7 +6,7 @@ source_relpath: "album_covers/solo_piano_by_philip_glass_1989.jpeg"
 collection: "album_covers"
 inferred_year: "1989"
 artist: "philip glass"
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

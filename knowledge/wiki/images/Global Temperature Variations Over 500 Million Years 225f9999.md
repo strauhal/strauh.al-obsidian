@@ -6,7 +6,7 @@ source_relpath: "diagrams/Global_Temperature_Variations_Over_500_Million_Years.p
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1130x328"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

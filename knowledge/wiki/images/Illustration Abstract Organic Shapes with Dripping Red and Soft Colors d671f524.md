@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Organic Shapes with Dripping Red 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1250x1562"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

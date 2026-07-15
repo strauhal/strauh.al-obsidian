@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Image Of Person Curled Up On Hexago
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "549x540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

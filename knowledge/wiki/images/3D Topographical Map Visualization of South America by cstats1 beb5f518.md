@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Topographical_Map_Visualization_of_South_America_by
 collection: "diagrams"
 inferred_year: ""
 artist: "cstats1"
-dimensions: ""
+dimensions: "1093x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

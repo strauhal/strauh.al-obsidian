@@ -6,7 +6,7 @@ source_relpath: "1900s/the_eye_of_the_sea_by_salvador_dali_1942.jpg"
 collection: "1900s"
 inferred_year: "1942"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "641x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

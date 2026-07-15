@@ -6,7 +6,7 @@ source_relpath: "1900s/head_by_leon_golub_1975.jpeg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "leon golub"
-dimensions: ""
+dimensions: "1469x1919"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

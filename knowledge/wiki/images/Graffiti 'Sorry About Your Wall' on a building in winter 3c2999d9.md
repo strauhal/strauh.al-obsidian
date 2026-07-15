@@ -6,7 +6,7 @@ source_relpath: "photography/Graffiti 'Sorry About Your Wall' on a building in w
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1108"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

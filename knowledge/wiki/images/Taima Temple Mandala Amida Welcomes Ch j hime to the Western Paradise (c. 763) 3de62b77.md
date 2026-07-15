@@ -6,7 +6,7 @@ source_relpath: "unsorted/Taima Temple Mandala: Amida Welcomes Chūjōhime to th
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2415x3196"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

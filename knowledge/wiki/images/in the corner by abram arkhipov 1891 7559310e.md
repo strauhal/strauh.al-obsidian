@@ -6,7 +6,7 @@ source_relpath: "1800s/in_the_corner_by_abram_arkhipov_1891.jpg"
 collection: "1800s"
 inferred_year: "1891"
 artist: "abram arkhipov"
-dimensions: ""
+dimensions: "962x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

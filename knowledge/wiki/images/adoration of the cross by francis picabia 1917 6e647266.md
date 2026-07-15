@@ -6,7 +6,7 @@ source_relpath: "1900s/adoration_of_the_cross_by_francis_picabia_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "francis picabia"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

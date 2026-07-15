@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Multiple Black Ink Urban Sketches on a 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2001x1454"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

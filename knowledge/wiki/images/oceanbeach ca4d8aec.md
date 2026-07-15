@@ -6,7 +6,7 @@ source_relpath: "photography/oceanbeach.tif"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4469x2794"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

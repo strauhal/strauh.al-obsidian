@@ -6,7 +6,7 @@ source_relpath: "photography/Distressed Silhouette Of A Standing Human Figure On
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1199x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_s_lair_by_larry_elmore_1990.jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "larry elmore"
-dimensions: ""
+dimensions: "1500x1057"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_haight_ashbury_scene_by_robert_crumb_1967.jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "robert crumb"
-dimensions: ""
+dimensions: "1203x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

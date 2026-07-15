@@ -6,7 +6,7 @@ source_relpath: "1900s/salvador_dal_corpus_hypercubus_1954.jpg"
 collection: "1900s"
 inferred_year: "1954"
 artist: ""
-dimensions: ""
+dimensions: "726x1139"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

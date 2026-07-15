@@ -6,7 +6,7 @@ source_relpath: "photography/Bubble Chamber Photograph Showing Particle Tracks a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

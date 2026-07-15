@@ -6,7 +6,7 @@ source_relpath: "photography/Young Woman Holding Camcorders on a Train with Sunl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1050x1423"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

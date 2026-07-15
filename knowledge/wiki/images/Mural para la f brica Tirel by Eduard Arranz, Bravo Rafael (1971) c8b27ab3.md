@@ -6,7 +6,7 @@ source_relpath: "1900s/Mural para la fábrica Tirel by Eduard Arranz, Bravo Rafa
 collection: "1900s"
 inferred_year: "1971"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

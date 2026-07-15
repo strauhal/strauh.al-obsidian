@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Engraved Portrait of Theodore Roosevelt
 collection: "unsorted"
 inferred_year: ""
 artist: "Franklin Booth"
-dimensions: ""
+dimensions: "1071x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

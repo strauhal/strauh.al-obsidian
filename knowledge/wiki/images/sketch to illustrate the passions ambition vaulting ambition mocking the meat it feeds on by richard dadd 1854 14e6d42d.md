@@ -6,7 +6,7 @@ source_relpath: "1800s/sketch_to_illustrate_the_passions_ambition_vaulting_ambit
 collection: "1800s"
 inferred_year: "1854"
 artist: "richard dadd"
-dimensions: ""
+dimensions: "2362x3289"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

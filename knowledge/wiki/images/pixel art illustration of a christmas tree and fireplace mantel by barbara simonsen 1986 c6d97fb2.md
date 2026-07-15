@@ -6,7 +6,7 @@ source_relpath: "1900s/pixel_art_illustration_of_a_christmas_tree_and_fireplace_
 collection: "1900s"
 inferred_year: "1986"
 artist: "barbara simonsen"
-dimensions: ""
+dimensions: "2304x2312"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

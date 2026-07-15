@@ -6,7 +6,7 @@ source_relpath: "photography/Musicians Playing String Instruments In An Anechoic
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

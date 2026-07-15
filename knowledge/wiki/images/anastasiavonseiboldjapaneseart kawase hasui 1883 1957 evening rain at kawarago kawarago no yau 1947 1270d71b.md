@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/anastasiavonseiboldjapaneseart-kawase-hasu
 collection: "artists"
 inferred_year: "1947"
 artist: ""
-dimensions: ""
+dimensions: "1100x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

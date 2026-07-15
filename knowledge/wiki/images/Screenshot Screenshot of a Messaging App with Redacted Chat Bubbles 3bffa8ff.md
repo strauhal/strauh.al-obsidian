@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Messaging App with Redact
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "526x286"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

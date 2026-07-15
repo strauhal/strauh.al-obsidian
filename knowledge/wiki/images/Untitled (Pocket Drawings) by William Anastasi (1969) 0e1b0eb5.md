@@ -6,7 +6,7 @@ source_relpath: "2000s/Untitled (Pocket Drawings) by William Anastasi (1969).jpg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2000x1580"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

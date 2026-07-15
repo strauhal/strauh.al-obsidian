@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Black And White Manga Panel Of Large Robots Fi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1535"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

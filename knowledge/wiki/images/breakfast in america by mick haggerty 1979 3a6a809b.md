@@ -6,7 +6,7 @@ source_relpath: "1900s/breakfast_in_america_by_mick_haggerty_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "mick haggerty"
-dimensions: ""
+dimensions: "2009x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

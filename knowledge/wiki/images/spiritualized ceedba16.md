@@ -6,7 +6,7 @@ source_relpath: "album_covers/spiritualized.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1500x1491"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

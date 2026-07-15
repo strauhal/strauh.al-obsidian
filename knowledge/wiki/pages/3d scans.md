@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/3d_scans.html"
 source_relpath: "3d_scans.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # 3d scans
@@ -19,7 +19,7 @@ strauh.al/3d_scans
 
 # [strauh.al](https://strauh.al)/3d_scans
 
-## Vellum Portraits
+## studiostrauhal
 
 ## 2025 vellum portraits
 
@@ -41,11 +41,11 @@ strauh.al/3d_scans
 ## Discovered Connections
 
 - [[knowledge/wiki/works/Video Portraiture|Video Portraiture]] — shared language: vellum
-- [[knowledge/wiki/concepts/The Weather in the Ink|The Weather in the Ink]] — shared language: vellum
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits, pages, page
 - [[knowledge/wiki/works/Dreams Series|Dreams Series]] — shared language: scans
+- [[knowledge/wiki/people/Megan|Megan]] — shared language: portraits, pages, page
 - [[knowledge/wiki/pages/portraits|portraits]] — shared language: portraits, none, related
 - [[knowledge/wiki/people/Ray Harryhausen|Ray Harryhausen]] — shared language: popping, ollie
-- [[knowledge/wiki/people/Alexander Scriabin|Alexander Scriabin]] — shared language: vellum
 - [[knowledge/wiki/images/ernest a5c7d0c2|ernest]] — shared language: portraits
+- [[knowledge/wiki/pages/strauh.al Home|strauh.al Home]] — shared language: scans, none, related
+- [[knowledge/wiki/pages/philosophical texts|philosophical texts]] — shared language: none, related, yet
 <!-- vault-crosslinks:end -->

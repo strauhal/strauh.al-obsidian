@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting With Black Shapes And
 collection: "unsorted"
 inferred_year: ""
 artist: "Robert Motherwell"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

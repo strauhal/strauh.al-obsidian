@@ -6,7 +6,7 @@ source_relpath: "diagrams/CT_Scan_of_Skull_With_Hyperdontia.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x493"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

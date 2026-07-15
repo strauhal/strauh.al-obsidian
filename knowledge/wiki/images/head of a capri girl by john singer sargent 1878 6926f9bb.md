@@ -6,7 +6,7 @@ source_relpath: "1800s/head_of_a_capri_girl_by_john_singer_sargent_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "1211x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

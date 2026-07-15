@@ -6,7 +6,7 @@ source_relpath: "1900s/The Architect by Leonid Tishkov (1991).jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: ""
-dimensions: ""
+dimensions: "1920x1310"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

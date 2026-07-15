@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of Chat Interface with Informatio
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1179x1542"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

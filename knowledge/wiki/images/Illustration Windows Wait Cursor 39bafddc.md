@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Windows Wait Cursor.png"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "400x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 
 - [[knowledge/wiki/artists/Artist - Wait But Why|Artist - Wait But Why]] — shared language: wait
 - [[knowledge/wiki/images/Illustration Windows 98 Ad Hourglass Cursor, 'Loads Faster' Slogan 9ab40588|Illustration Windows 98 Ad Hourglass Cursor, 'Loads Faster' Slogan]] — shared language: cursor, windows
-- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: wait
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 06120971|it+moves +just+wait+for+it+ + +)]] — shared language: wait
 - [[knowledge/wiki/images/it+moves +just+wait+for+it+ + +) 3d4a4e05|it+moves +just+wait+for+it+ + +)]] — shared language: wait
+- [[knowledge/wiki/people/Albert Camus|Albert Camus]] — shared language: wait
 <!-- vault-crosslinks:end -->

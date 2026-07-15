@@ -6,7 +6,7 @@ source_relpath: "2000s/Burning House by Mattis Dovier (2014).gif"
 collection: "2000s"
 inferred_year: "2014"
 artist: ""
-dimensions: ""
+dimensions: "720x576"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

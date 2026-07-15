@@ -6,7 +6,7 @@ source_relpath: "1900s/st_george_by_pavel_tchelitchew_1920.jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "pavel tchelitchew"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

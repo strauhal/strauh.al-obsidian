@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Satirical Comic Depicting Absurd News Headline
 collection: "unsorted"
 inferred_year: ""
 artist: "Beany Tuesday"
-dimensions: ""
+dimensions: "1639x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

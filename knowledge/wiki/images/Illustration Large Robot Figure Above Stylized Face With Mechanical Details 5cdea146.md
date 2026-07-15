@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Large Robot Figure Above Stylized Face 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x1284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/Portrait of a Man by Cornelis de Vos (c. 1620-1625).jpeg"
 collection: "1600s"
 inferred_year: "1625"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

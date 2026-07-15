@@ -6,7 +6,7 @@ source_relpath: "1800s/the_temptation_of_christ_by_fyodor_bruni_1837.jpg"
 collection: "1800s"
 inferred_year: "1837"
 artist: "fyodor bruni"
-dimensions: ""
+dimensions: "900x643"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

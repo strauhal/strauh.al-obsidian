@@ -6,7 +6,7 @@ source_relpath: "photography/Young Girl Holding LEGO Creation in a Vintage Adver
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1284x1605"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

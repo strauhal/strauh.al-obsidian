@@ -6,7 +6,7 @@ source_relpath: "photography/Person In Dark Hooded Top And Goggles On Couch.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1588"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

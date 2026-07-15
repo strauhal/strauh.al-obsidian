@@ -6,7 +6,7 @@ source_relpath: "1900s/the_palm_beach_scene_by_hiroshi_nagai_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "hiroshi nagai"
-dimensions: ""
+dimensions: "1136x1136"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

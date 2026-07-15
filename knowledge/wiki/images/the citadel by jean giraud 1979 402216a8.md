@@ -6,7 +6,7 @@ source_relpath: "1900s/the_citadel_by_jean_giraud_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "jean giraud"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

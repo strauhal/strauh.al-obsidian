@@ -6,7 +6,7 @@ source_relpath: "2000s/Blue Teeth by Uno Moralez (2010).gif"
 collection: "2000s"
 inferred_year: "2010"
 artist: ""
-dimensions: ""
+dimensions: "639x819"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

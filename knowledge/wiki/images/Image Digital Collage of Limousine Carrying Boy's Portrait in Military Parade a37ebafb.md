@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Digital Collage of Limousine Carrying Boy's Portr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "598x465"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

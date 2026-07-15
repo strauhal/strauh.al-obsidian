@@ -6,7 +6,7 @@ source_relpath: "1900s/Diver by Harold Edgerton (1955).jpg"
 collection: "1900s"
 inferred_year: "1955"
 artist: ""
-dimensions: ""
+dimensions: "500x665"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

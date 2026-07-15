@@ -6,7 +6,7 @@ source_relpath: "1500s/lot_and_his_daughters_lothi_filiae_by_joos_van_winghe_c_1
 collection: "1500s"
 inferred_year: "1590"
 artist: "joos van winghe"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

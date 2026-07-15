@@ -6,7 +6,7 @@ source_relpath: "photography/McDonald's and Eneos Gas Station at Night in Japan.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1206x845"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

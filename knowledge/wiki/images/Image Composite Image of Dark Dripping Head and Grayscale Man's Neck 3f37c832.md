@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Composite Image of Dark Dripping Head and Gray
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "593x656"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

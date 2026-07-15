@@ -6,7 +6,7 @@ source_relpath: "1800s/the_violinist_by_john_william_waterhouse_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "640x838"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

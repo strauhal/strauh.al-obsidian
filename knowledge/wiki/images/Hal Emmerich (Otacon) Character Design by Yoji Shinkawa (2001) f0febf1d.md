@@ -6,7 +6,7 @@ source_relpath: "2000s/Hal Emmerich (Otacon) Character Design by Yoji Shinkawa (
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "180x466"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

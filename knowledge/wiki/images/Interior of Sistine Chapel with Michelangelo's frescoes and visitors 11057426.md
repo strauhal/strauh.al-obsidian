@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of Sistine Chapel with Michelangelo's fres
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "7160x3628"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Tabby Cat Covered In White Packing Peanuts On Woode
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1782x1180"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

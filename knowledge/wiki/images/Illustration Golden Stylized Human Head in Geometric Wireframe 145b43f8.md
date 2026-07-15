@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Golden Stylized Human Head in Geometric
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "690x599"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

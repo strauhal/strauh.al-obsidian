@@ -6,7 +6,7 @@ source_relpath: "photography/Highly Cluttered Room With Computer Desk And Trash.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

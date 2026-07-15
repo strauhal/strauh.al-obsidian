@@ -6,7 +6,7 @@ source_relpath: "1900s/at_the_window_by_konstantin_korovin_1913.jpg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "konstantin korovin"
-dimensions: ""
+dimensions: "501x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

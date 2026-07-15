@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Illustration of Frog Playing Harp 
 collection: "unsorted"
 inferred_year: ""
 artist: "Antonio Rubino"
-dimensions: ""
+dimensions: "639x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

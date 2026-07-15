@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Figures in a Cluttered Gothic Study by
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Bernie Wrightson"
-dimensions: ""
+dimensions: "2039x2962"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

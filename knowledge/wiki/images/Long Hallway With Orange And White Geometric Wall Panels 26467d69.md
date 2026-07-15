@@ -6,7 +6,7 @@ source_relpath: "photography/Long Hallway With Orange And White Geometric Wall P
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1628"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Black and White Cosmic Creatur
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2991x2390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

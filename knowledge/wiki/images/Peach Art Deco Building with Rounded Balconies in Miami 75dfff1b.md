@@ -6,7 +6,7 @@ source_relpath: "photography/Peach Art Deco Building with Rounded Balconies in M
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

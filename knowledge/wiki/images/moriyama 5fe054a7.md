@@ -6,7 +6,7 @@ source_relpath: "photography/daido_moriyama/moriyama.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1376"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

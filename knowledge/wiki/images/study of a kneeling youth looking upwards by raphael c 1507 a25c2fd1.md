@@ -6,7 +6,7 @@ source_relpath: "1500s/study_of_a_kneeling_youth_looking_upwards_by_raphael_c_15
 collection: "1500s"
 inferred_year: "1507"
 artist: "raphael"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

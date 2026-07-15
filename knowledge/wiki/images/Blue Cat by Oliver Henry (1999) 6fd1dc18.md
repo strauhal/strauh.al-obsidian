@@ -6,7 +6,7 @@ source_relpath: "1900s/Blue Cat by Oliver Henry (1999).jpg"
 collection: "1900s"
 inferred_year: "1999"
 artist: ""
-dimensions: ""
+dimensions: "1062x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

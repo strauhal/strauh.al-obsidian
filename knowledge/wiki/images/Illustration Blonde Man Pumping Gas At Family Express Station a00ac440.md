@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Man Pumping Gas At Family Expres
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x2560"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

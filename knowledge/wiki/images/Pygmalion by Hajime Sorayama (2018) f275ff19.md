@@ -6,7 +6,7 @@ source_relpath: "2000s/Pygmalion by Hajime Sorayama (2018).jpg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: ""
+dimensions: "2340x3310"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

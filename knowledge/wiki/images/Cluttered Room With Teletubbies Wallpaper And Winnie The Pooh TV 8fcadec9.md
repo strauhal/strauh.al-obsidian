@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Room With Teletubbies Wallpaper And Winni
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1120x1984"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

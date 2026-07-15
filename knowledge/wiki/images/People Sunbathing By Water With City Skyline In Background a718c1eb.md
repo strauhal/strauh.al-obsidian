@@ -6,7 +6,7 @@ source_relpath: "photography/People Sunbathing By Water With City Skyline In Bac
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

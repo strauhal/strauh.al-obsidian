@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Green Fairy With Red Wings, Unicorn, City 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "500x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

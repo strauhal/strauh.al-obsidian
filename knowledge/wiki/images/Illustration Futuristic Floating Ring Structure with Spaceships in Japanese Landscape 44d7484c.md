@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Futuristic Floating Ring Structure with
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3277x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Collection - wallpapers"
 source_kind: "image_collection"
-count: "152"
+count: "153"
 compiled: "True"
 tags: ["strauhal", "collection"]
 ---
@@ -9,7 +9,7 @@ tags: ["strauhal", "collection"]
 
 Part of [[strauh.al Image Archive]].
 
-Files: 152
+Files: 153
 
 ## Sample
 
@@ -212,6 +212,7 @@ Files: 152
 - [[water cd9d9b2f|water]]
 - [[wave copy 9ca902b4|wave copy]]
 - [[wave c8640d58|wave]]
+- [[wife and cat 3a1a73b5|wife and cat]]
 - [[womanstatue 481f26bc|womanstatue]]
 - [[womanstatue2 5a5a7b85|womanstatue2]]
 - [[yellowcar 5438b273|yellowcar]]

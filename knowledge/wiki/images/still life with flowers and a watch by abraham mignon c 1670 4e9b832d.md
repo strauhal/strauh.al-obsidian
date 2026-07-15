@@ -6,7 +6,7 @@ source_relpath: "1600s/still_life_with_flowers_and_a_watch_by_abraham_mignon_c_1
 collection: "1600s"
 inferred_year: "1670"
 artist: "abraham mignon"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

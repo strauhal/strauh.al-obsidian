@@ -6,7 +6,7 @@ source_relpath: "1900s/alexej_von_jawlensky_abstract_head_1919.jpg"
 collection: "1900s"
 inferred_year: "1919"
 artist: ""
-dimensions: ""
+dimensions: "1543x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

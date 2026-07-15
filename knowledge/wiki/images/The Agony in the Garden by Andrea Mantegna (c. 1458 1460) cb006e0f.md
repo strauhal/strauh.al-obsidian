@@ -6,7 +6,7 @@ source_relpath: "2000s/The Agony in the Garden by Andrea Mantegna (c. 1458-1460)
 collection: "2000s"
 inferred_year: "1460"
 artist: ""
-dimensions: ""
+dimensions: "5422x4226"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

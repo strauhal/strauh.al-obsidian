@@ -6,7 +6,7 @@ source_relpath: "100s/Bust of Alexander the Great (1st-2nd Century CE).jpg"
 collection: "100s"
 inferred_year: "100s"
 artist: ""
-dimensions: ""
+dimensions: "3750x5000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/100s"]
 ---

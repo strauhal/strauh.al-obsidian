@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait Photo of Two People Against a Wall.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

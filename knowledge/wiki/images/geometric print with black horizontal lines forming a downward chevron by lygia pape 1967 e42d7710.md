@@ -6,7 +6,7 @@ source_relpath: "1900s/geometric_print_with_black_horizontal_lines_forming_a_dow
 collection: "1900s"
 inferred_year: "1967"
 artist: "lygia pape"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

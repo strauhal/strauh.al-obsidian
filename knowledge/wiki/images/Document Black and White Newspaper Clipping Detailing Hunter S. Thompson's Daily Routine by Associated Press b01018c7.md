@@ -6,7 +6,7 @@ source_relpath: "2000s/Document - Black and White Newspaper Clipping Detailing H
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Associated Press"
-dimensions: ""
+dimensions: "620x691"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Digital Audio Workstation Interface with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1442x1078"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

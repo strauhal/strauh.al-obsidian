@@ -6,7 +6,7 @@ source_relpath: "1900s/philippe_mohlitz_the_great_gallery_late_20th_century.jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: ""
+dimensions: "750x911"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

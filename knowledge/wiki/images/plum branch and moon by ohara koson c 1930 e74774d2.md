@@ -6,7 +6,7 @@ source_relpath: "1900s/plum_branch_and_moon_by_ohara_koson_c_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "ohara koson"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

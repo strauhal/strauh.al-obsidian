@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Morgan Housel Quote Graphic on Excel an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "811x374"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

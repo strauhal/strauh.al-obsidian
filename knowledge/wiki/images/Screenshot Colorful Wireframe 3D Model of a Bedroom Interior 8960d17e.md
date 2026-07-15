@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Colorful Wireframe 3D Model of a Bedroom 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

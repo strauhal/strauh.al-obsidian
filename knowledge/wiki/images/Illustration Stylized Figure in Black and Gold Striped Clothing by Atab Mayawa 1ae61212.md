@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Figure in Black and Gold Striped 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Atab Mayawa"
-dimensions: ""
+dimensions: "1489x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

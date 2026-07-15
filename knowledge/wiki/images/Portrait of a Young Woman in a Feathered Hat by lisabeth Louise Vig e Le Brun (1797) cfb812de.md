@@ -6,7 +6,7 @@ source_relpath: "1700s/Portrait of a Young Woman in a Feathered Hat by Élisabet
 collection: "1700s"
 inferred_year: "1797"
 artist: ""
-dimensions: ""
+dimensions: "1280x1802"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Abstract Geometric Vessel with Pink, Yellow, and Gr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "564x423"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

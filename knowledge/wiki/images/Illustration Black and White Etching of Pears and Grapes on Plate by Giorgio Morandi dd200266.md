@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Etching of Pears and Grape
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Giorgio Morandi"
-dimensions: ""
+dimensions: "1600x1390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

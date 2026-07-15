@@ -6,7 +6,7 @@ source_relpath: "1900s/Visage by Henri Matisse (1951).jpg"
 collection: "1900s"
 inferred_year: "1951"
 artist: ""
-dimensions: ""
+dimensions: "2289x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

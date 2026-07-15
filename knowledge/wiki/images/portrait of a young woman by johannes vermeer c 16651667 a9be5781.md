@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_a_young_woman_by_johannes_vermeer_c_16651667.
 collection: "1600s"
 inferred_year: "1600s"
 artist: "johannes vermeer"
-dimensions: ""
+dimensions: "1143x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

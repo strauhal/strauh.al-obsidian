@@ -6,7 +6,7 @@ source_relpath: "1900s/1954_303_portrait_of_a_sculptor_jpg.jpg"
 collection: "1900s"
 inferred_year: "1954"
 artist: ""
-dimensions: ""
+dimensions: "1813x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tradition_of_art_by_kenyon_cox_1915.jpg"
 collection: "1900s"
 inferred_year: "1915"
 artist: "kenyon cox"
-dimensions: ""
+dimensions: "882x1260"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

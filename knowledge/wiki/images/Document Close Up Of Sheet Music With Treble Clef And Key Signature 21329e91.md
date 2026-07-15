@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Close-Up Of Sheet Music With Treble Clef An
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "356x265"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

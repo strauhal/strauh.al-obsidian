@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Contemporary Art Installation Featuring Pa
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "823x549"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

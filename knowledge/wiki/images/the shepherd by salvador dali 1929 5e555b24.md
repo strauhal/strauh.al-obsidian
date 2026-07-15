@@ -6,7 +6,7 @@ source_relpath: "1900s/the_shepherd_by_salvador_dali_1929.jpeg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "640x853"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

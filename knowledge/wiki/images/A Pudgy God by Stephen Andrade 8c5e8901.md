@@ -6,7 +6,7 @@ source_relpath: "2000s/A Pudgy God by Stephen Andrade.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Stephen Andrade"
-dimensions: ""
+dimensions: "600x893"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

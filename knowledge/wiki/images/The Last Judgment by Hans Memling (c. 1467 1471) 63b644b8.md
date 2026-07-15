@@ -6,7 +6,7 @@ source_relpath: "1400s/The Last Judgment by Hans Memling (c. 1467-1471).jpg"
 collection: "1400s"
 inferred_year: "1471"
 artist: ""
-dimensions: ""
+dimensions: "1690x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

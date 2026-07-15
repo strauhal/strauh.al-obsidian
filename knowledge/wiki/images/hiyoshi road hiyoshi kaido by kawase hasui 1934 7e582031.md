@@ -6,7 +6,7 @@ source_relpath: "1900s/hiyoshi_road_hiyoshi_kaido_by_kawase_hasui_1934.jpg"
 collection: "1900s"
 inferred_year: "1934"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "1341x1938"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

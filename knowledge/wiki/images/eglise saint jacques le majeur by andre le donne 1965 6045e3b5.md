@@ -6,7 +6,7 @@ source_relpath: "1900s/eglise_saint_jacques_le_majeur_by_andre_le_donne_1965.jpg
 collection: "1900s"
 inferred_year: "1965"
 artist: "andre le donne"
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

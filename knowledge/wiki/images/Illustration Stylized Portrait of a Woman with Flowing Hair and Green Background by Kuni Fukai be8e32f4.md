@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Portrait of a Woman with Flowing 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kuni Fukai"
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/the_cottage_with_the_thatched_roof_and_a_large_tree_by_re
 collection: "1600s"
 inferred_year: "1640"
 artist: "rembrandt harmenszoon van rijn"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

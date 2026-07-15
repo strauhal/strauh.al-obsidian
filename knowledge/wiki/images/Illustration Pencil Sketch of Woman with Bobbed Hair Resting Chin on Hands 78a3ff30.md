@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Woman with Bobbed Hair Re
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1673x1998"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

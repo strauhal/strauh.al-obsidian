@@ -6,7 +6,7 @@ source_relpath: "photography/Young Woman In Kimono Making Peace Sign.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

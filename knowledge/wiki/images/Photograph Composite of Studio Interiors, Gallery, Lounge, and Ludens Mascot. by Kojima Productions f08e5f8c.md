@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Composite of Studio Interiors, Gallery, Loun
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kojima Productions"
-dimensions: ""
+dimensions: "1920x1634"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

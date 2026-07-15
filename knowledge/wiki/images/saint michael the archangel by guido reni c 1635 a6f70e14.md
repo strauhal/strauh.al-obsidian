@@ -6,7 +6,7 @@ source_relpath: "1600s/saint_michael_the_archangel_by_guido_reni_c_1635.jpg"
 collection: "1600s"
 inferred_year: "1635"
 artist: "guido reni"
-dimensions: ""
+dimensions: "1200x1790"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

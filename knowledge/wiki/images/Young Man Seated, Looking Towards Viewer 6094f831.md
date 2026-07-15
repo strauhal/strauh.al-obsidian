@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man Seated, Looking Towards Viewer.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1011x1540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

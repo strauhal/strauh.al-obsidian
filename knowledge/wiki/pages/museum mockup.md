@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/museum/mockup.html"
 source_relpath: "museum/mockup.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # museum mockup
@@ -38,5 +38,5 @@ Toggle Mode
 - [[knowledge/wiki/pages/religious texts quran|religious texts quran]] — shared language: click, rotate, concepts
 - [[knowledge/wiki/pages/religious texts bible|religious texts bible]] — shared language: click, rotate, pan
 - [[knowledge/wiki/images/Photograph Museum Gallery With Visitors Viewing Artworks b1b28849|Photograph Museum Gallery With Visitors Viewing Artworks]] — shared language: museum
-- [[knowledge/wiki/pages/religious texts dhammapada|religious texts dhammapada]] — shared language: click, rotate, pan
+- [[knowledge/wiki/images/Photograph Four Framed Paintings Displayed In A Museum Gallery 858ac780|Photograph Four Framed Paintings Displayed In A Museum Gallery]] — shared language: museum
 <!-- vault-crosslinks:end -->

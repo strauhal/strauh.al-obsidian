@@ -6,7 +6,7 @@ source_relpath: "photography/Messy Artist's Studio with Paint Splatters and Art 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1744x1059"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

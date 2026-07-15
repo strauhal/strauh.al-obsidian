@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Watercolor Painting of Many Small Birds
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1055x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

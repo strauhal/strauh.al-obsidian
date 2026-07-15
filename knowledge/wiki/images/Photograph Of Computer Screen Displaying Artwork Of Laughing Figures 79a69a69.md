@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph Of Computer Screen Displaying Artwork Of
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

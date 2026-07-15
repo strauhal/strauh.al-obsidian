@@ -6,7 +6,7 @@ source_relpath: "influences/josetsu.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2434x1738"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

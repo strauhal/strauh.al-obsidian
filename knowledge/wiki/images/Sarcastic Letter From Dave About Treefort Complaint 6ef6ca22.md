@@ -6,7 +6,7 @@ source_relpath: "photography/Sarcastic Letter From Dave About Treefort Complaint
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1203"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

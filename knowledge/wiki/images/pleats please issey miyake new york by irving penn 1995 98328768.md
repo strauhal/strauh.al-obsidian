@@ -6,7 +6,7 @@ source_relpath: "1900s/pleats_please_issey_miyake_new_york_by_irving_penn_1995.p
 collection: "1900s"
 inferred_year: "1995"
 artist: "irving penn"
-dimensions: ""
+dimensions: "1406x2052"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

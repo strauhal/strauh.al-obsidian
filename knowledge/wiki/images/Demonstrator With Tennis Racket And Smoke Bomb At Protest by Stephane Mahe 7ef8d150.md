@@ -6,7 +6,7 @@ source_relpath: "photography/Demonstrator With Tennis Racket And Smoke Bomb At P
 collection: "photography"
 inferred_year: ""
 artist: "Stephane Mahe"
-dimensions: ""
+dimensions: "800x533"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

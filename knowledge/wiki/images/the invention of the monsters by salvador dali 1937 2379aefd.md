@@ -6,7 +6,7 @@ source_relpath: "1900s/the_invention_of_the_monsters_by_salvador_dali_1937.jpeg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

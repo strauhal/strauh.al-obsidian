@@ -6,7 +6,7 @@ source_relpath: "photography/Audience at AIPAC Conference with US and Israeli Fl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "630x342"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The School of Athens by Raphael (1509-1511).jpg"
 collection: "2000s"
 inferred_year: "1511"
 artist: ""
-dimensions: ""
+dimensions: "3697x2414"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

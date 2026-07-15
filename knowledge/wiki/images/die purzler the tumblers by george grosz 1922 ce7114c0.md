@@ -6,7 +6,7 @@ source_relpath: "1900s/die_purzler_the_tumblers_by_george_grosz_1922.jpeg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "george grosz"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

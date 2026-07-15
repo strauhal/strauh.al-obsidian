@@ -6,7 +6,7 @@ source_relpath: "1400s/hieronymus_bosch_the_garden_of_earthly_delights_c_1490_a0
 collection: "1400s"
 inferred_year: "1490"
 artist: ""
-dimensions: ""
+dimensions: "4412x2362"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

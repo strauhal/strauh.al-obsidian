@@ -6,7 +6,7 @@ source_relpath: "1900s/buffet_by_wayne_thiebaud_1976.jpeg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "wayne thiebaud"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

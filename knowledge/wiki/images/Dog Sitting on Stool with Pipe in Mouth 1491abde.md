@@ -6,7 +6,7 @@ source_relpath: "photography/Dog Sitting on Stool with Pipe in Mouth.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x1333"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

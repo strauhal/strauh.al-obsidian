@@ -6,7 +6,7 @@ source_relpath: "1900s/snail_girl_by_junji_ito_1998.jpg"
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: ""
+dimensions: "1765x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Clear Vinyl Record with White Abstract Patterns and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

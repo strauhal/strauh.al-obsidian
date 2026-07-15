@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Sketch of Angry Woman with Braids 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "857x869"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

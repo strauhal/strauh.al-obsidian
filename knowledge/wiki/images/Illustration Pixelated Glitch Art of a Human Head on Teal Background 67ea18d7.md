@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Glitch Art of a Human Head on Te
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x726"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

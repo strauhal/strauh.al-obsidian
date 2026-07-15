@@ -6,7 +6,7 @@ source_relpath: "1900s/gray_by_roger_bissiere_1958.jpeg"
 collection: "1900s"
 inferred_year: "1958"
 artist: "roger bissiere"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

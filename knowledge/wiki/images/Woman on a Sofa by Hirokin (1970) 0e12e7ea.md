@@ -6,7 +6,7 @@ source_relpath: "1900s/Woman on a Sofa by Hirokin (1970).jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "3071x2063"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

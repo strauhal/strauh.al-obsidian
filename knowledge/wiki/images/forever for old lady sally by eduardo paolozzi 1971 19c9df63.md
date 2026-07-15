@@ -6,7 +6,7 @@ source_relpath: "1900s/forever_for_old_lady_sally_by_eduardo_paolozzi_1971.jpeg"
 collection: "1900s"
 inferred_year: "1971"
 artist: "eduardo paolozzi"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

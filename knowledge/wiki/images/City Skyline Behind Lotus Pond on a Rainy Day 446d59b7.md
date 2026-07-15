@@ -6,7 +6,7 @@ source_relpath: "photography/City Skyline Behind Lotus Pond on a Rainy Day.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1479"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

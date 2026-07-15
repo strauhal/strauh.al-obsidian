@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Art Installation with Painting, Standing F
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1878x1104"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

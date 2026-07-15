@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_vladimir_mayakovsky_by_alexander_rodchenko_19
 collection: "1900s"
 inferred_year: "1924"
 artist: "alexander rodchenko"
-dimensions: ""
+dimensions: "1440x1766"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

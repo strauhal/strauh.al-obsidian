@@ -6,7 +6,7 @@ source_relpath: "1900s/doctor_manhattan_s_circulatory_system_walking_through_the
 collection: "1900s"
 inferred_year: "1986"
 artist: "dave gibbons"
-dimensions: ""
+dimensions: "640x994"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

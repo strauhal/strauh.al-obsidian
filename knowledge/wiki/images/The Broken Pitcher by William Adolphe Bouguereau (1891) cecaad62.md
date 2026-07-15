@@ -6,7 +6,7 @@ source_relpath: "1800s/The Broken Pitcher by William-Adolphe Bouguereau (1891).j
 collection: "1800s"
 inferred_year: "1891"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

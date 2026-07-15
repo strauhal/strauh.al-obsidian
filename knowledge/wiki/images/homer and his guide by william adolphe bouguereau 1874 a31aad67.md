@@ -6,7 +6,7 @@ source_relpath: "1800s/homer_and_his_guide_by_william_adolphe_bouguereau_1874.jp
 collection: "1800s"
 inferred_year: "1874"
 artist: "william adolphe bouguereau"
-dimensions: ""
+dimensions: "1200x1770"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

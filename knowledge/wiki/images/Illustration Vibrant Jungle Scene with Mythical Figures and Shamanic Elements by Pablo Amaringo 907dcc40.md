@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Jungle Scene with Mythical Figu
 collection: "unsorted"
 inferred_year: ""
 artist: "Pablo Amaringo"
-dimensions: ""
+dimensions: "1443x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

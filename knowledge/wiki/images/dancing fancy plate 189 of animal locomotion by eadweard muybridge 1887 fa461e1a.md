@@ -6,7 +6,7 @@ source_relpath: "1800s/dancing_fancy_plate_189_of_animal_locomotion_by_eadweard_
 collection: "1800s"
 inferred_year: "1887"
 artist: "eadweard muybridge"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

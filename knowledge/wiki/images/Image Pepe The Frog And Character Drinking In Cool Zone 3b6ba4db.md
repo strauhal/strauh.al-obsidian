@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Pepe The Frog And Character Drinking In Cool Z
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "939x534"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

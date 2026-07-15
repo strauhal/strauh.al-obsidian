@@ -6,7 +6,7 @@ source_relpath: "photography/Man Posing In Front Of Golden Gate Bridge, Sunny Da
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "512x414"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

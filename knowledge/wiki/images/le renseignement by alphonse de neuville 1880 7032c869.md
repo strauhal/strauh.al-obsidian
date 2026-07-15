@@ -6,7 +6,7 @@ source_relpath: "1800s/le_renseignement_by_alphonse_de_neuville_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "alphonse de neuville"
-dimensions: ""
+dimensions: "3759x2484"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

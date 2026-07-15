@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Two Men In 1980s Neon Grid Background With Tex
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1417x1417"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

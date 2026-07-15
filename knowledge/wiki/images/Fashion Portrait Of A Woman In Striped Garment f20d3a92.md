@@ -6,7 +6,7 @@ source_relpath: "photography/Fashion Portrait Of A Woman In Striped Garment.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Green Dragon-like Creature on
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1152x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

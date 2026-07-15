@@ -9,8 +9,8 @@ metadata: curated
 aliases: [06b benjamin-work of art in the age of mechanical reproduction]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/06b_benjamin-work of art in the age of mechanical reproduction.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # The Work of Art in the Age of Mechanical Reproduction

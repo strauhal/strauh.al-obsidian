@@ -6,7 +6,7 @@ source_relpath: "1800s/gustave_caillebotte_the_floor_scrapers_les_raboteurs_de_p
 collection: "1800s"
 inferred_year: "1875"
 artist: ""
-dimensions: ""
+dimensions: "1800x1474"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

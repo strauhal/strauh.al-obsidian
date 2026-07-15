@@ -6,7 +6,7 @@ source_relpath: "2000s/The Water Sprite by Ernst Josephson (1882).jpg"
 collection: "2000s"
 inferred_year: "1882"
 artist: ""
-dimensions: ""
+dimensions: "716x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

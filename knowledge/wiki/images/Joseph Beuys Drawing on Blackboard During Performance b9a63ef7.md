@@ -6,7 +6,7 @@ source_relpath: "photography/Joseph Beuys Drawing on Blackboard During Performan
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x335"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The Dante Quartet by Stan Brakhage (1987).png"
 collection: "2000s"
 inferred_year: "1987"
 artist: ""
-dimensions: ""
+dimensions: "304x234"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

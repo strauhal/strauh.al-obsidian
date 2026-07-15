@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Police Officer Eating Fast Food on Magazine
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "540x743"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

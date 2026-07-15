@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Wikipedia Page Featuring 'T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "886x1008"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

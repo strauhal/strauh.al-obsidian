@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - A Church Without God by Israel Lopez Ba
 collection: "unsorted"
 inferred_year: ""
 artist: "Israel Lopez Balan"
-dimensions: ""
+dimensions: "818x573"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

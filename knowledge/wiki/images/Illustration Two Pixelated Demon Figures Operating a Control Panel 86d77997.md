@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Pixelated Demon Figures Operating a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

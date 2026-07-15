@@ -6,7 +6,7 @@ source_relpath: "1600s/head_of_a_man_with_a_ruff_by_peter_paul_rubens_c_1618_162
 collection: "1600s"
 inferred_year: "1620"
 artist: "peter paul rubens"
-dimensions: ""
+dimensions: "1709x2008"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

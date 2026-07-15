@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Illustration of a Woman
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1424x1965"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

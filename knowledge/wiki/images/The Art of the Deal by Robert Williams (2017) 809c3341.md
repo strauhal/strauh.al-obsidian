@@ -6,7 +6,7 @@ source_relpath: "2000s/The Art of the Deal by Robert Williams (2017).jpeg"
 collection: "2000s"
 inferred_year: "2017"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

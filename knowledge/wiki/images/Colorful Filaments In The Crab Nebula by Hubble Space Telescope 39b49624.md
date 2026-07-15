@@ -6,7 +6,7 @@ source_relpath: "photography/Colorful Filaments In The Crab Nebula by Hubble Spa
 collection: "photography"
 inferred_year: ""
 artist: "Hubble Space Telescope"
-dimensions: ""
+dimensions: "712x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

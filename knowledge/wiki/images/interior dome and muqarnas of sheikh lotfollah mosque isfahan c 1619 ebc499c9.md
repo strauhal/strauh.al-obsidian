@@ -6,7 +6,7 @@ source_relpath: "1600s/interior_dome_and_muqarnas_of_sheikh_lotfollah_mosque_isf
 collection: "1600s"
 inferred_year: "1619"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Home Music Studio Setup With Laptop, Speakers, And 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

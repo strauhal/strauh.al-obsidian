@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Diagram_Illustrating_Interconnected_Conspiracy
 collection: "diagrams"
 inferred_year: ""
 artist: "Dylan Louis Monroe"
-dimensions: ""
+dimensions: "1523x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

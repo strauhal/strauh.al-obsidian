@@ -6,7 +6,7 @@ source_relpath: "1500s/the_last_supper_intarsia_panel_by_fra_damiano_da_bergamo_
 collection: "1500s"
 inferred_year: "1547"
 artist: "fra damiano da bergamo"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

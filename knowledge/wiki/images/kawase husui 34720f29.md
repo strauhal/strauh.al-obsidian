@@ -6,7 +6,7 @@ source_relpath: "influences/kawase_husui.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x1014"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

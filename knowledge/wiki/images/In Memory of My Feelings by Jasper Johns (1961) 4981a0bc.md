@@ -6,7 +6,7 @@ source_relpath: "2000s/In Memory of My Feelings by Jasper Johns (1961).jpg"
 collection: "2000s"
 inferred_year: "1961"
 artist: ""
-dimensions: ""
+dimensions: "4000x2706"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

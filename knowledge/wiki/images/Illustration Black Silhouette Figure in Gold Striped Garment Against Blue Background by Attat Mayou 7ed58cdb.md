@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black Silhouette Figure in Gold Striped Ga
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Attat Mayou"
-dimensions: ""
+dimensions: "1489x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

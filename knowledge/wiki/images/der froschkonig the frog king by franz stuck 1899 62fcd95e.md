@@ -6,7 +6,7 @@ source_relpath: "1800s/der_froschkonig_the_frog_king_by_franz_stuck_1899.jpg"
 collection: "1800s"
 inferred_year: "1899"
 artist: "franz stuck"
-dimensions: ""
+dimensions: "2050x2193"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

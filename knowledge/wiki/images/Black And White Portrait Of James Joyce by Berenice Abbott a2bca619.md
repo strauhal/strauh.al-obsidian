@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Portrait Of James Joyce by Berenice
 collection: "photography"
 inferred_year: ""
 artist: "Berenice Abbott"
-dimensions: ""
+dimensions: "1146x1458"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

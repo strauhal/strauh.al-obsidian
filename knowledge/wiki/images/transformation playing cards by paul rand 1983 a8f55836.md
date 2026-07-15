@@ -6,7 +6,7 @@ source_relpath: "1900s/transformation_playing_cards_by_paul_rand_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "paul rand"
-dimensions: ""
+dimensions: "2000x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

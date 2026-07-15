@@ -6,7 +6,7 @@ source_relpath: "photography/Floral Arrangement with Pink Roses in a Decorative 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x1138"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

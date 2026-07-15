@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Willem Dafoe Posing Beside Norman Osborn Por
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "736x981"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

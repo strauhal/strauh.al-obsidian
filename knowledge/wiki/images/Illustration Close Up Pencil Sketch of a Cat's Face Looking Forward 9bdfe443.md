@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Close-Up Pencil Sketch of a Cat's Face 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1790"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

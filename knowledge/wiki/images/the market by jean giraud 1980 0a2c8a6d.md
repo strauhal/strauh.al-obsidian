@@ -6,7 +6,7 @@ source_relpath: "1900s/the_market_by_jean_giraud_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: "jean giraud"
-dimensions: ""
+dimensions: "3600x2400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sleeping Man Visited by Nude Nymphs and
 collection: "unsorted"
 inferred_year: ""
 artist: "Nude Nymphs and a Devil Figure"
-dimensions: ""
+dimensions: "2000x1048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

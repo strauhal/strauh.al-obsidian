@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art of a Dark Rider on Horseback in 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1912x1982"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/el_encuentro_by_remedios_varo_1962.jpg"
 collection: "1900s"
 inferred_year: "1962"
 artist: "remedios varo"
-dimensions: ""
+dimensions: "480x358"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

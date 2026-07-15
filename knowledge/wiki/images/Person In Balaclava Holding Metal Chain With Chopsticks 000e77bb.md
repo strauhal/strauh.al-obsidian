@@ -6,7 +6,7 @@ source_relpath: "photography/Person In Balaclava Holding Metal Chain With Chopst
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "414x414"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Robert F. Kennedy Looking Down Beneath A Picture Of
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "650x424"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

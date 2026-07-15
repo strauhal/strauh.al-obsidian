@@ -6,7 +6,7 @@ source_relpath: "photography/Silhouette Of A Cat Against A Colorful Sunset Sky.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

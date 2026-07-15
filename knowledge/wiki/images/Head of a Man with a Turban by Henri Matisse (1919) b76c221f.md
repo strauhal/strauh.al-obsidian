@@ -6,7 +6,7 @@ source_relpath: "1900s/Head of a Man with a Turban by Henri Matisse (1919).jpeg"
 collection: "1900s"
 inferred_year: "1919"
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

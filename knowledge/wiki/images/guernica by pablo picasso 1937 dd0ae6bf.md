@@ -6,7 +6,7 @@ source_relpath: "1900s/guernica_by_pablo_picasso_1937.jpg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "3200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

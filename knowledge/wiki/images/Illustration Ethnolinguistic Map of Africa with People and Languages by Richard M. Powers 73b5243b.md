@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ethnolinguistic Map of Africa with Peop
 collection: "unsorted"
 inferred_year: ""
 artist: "Richard M. Powers"
-dimensions: ""
+dimensions: "1754x2179"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

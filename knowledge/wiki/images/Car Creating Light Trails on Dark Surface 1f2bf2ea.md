@@ -6,7 +6,7 @@ source_relpath: "photography/Car Creating Light Trails on Dark Surface.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "676x909"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

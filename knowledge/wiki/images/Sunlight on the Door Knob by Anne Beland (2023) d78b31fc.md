@@ -6,7 +6,7 @@ source_relpath: "2000s/Sunlight on the Door Knob by Anne Beland (2023).jpeg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "1000x754"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

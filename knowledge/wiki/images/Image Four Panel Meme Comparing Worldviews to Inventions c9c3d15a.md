@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Four-Panel Meme Comparing Worldviews to Invention
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1008x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

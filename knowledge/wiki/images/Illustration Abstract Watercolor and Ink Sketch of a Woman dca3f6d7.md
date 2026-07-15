@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Watercolor and Ink Sketch of a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1195x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

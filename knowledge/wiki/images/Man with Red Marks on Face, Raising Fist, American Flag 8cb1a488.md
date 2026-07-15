@@ -6,7 +6,7 @@ source_relpath: "photography/Man with Red Marks on Face, Raising Fist, American 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4189x2793"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "wallpapers/drowning.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2391x1593"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

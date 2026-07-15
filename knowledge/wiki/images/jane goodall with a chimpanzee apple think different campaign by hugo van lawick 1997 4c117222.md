@@ -6,7 +6,7 @@ source_relpath: "1900s/jane_goodall_with_a_chimpanzee_apple_think_different_camp
 collection: "1900s"
 inferred_year: "1997"
 artist: "hugo van lawick"
-dimensions: ""
+dimensions: "1323x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

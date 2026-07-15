@@ -6,7 +6,7 @@ source_relpath: "1900s/Chronocyclegraph of a Solderer by Frank and Lillian Gilbr
 collection: "1900s"
 inferred_year: "1914"
 artist: ""
-dimensions: ""
+dimensions: "288x369"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

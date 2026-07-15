@@ -6,7 +6,7 @@ source_relpath: "2000s/The Rider by Zoltán Magyar (2020).jpg"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: ""
+dimensions: "2048x2047"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

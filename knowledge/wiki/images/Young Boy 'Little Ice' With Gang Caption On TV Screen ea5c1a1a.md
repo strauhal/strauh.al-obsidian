@@ -6,7 +6,7 @@ source_relpath: "photography/Young Boy 'Little Ice' With Gang Caption On TV Scre
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Layla and Other Assorted Love Songs by Émile Frandsen (1
 collection: "2000s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

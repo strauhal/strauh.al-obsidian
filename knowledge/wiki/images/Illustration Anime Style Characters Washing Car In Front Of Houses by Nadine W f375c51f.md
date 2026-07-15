@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime-Style Characters Washing Car In F
 collection: "unsorted"
 inferred_year: ""
 artist: "Nadine W"
-dimensions: ""
+dimensions: "1200x1720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

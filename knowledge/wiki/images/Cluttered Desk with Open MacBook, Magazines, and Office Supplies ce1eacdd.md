@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Desk with Open MacBook, Magazines, and Of
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3456x2304"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

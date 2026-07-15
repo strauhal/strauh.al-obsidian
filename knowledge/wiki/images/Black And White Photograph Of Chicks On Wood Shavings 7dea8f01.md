@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Chicks On Wood Shavin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1850x2718"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

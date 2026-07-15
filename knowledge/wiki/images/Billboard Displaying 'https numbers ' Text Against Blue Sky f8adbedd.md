@@ -6,7 +6,7 @@ source_relpath: "photography/Billboard Displaying 'https:-- {numbers}' Text Agai
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1293x1287"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

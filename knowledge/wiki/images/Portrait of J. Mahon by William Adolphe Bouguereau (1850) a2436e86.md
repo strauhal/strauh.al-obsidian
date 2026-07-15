@@ -6,7 +6,7 @@ source_relpath: "1800s/Portrait of J. Mahon by William-Adolphe Bouguereau (1850)
 collection: "1800s"
 inferred_year: "1850"
 artist: ""
-dimensions: ""
+dimensions: "997x1260"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

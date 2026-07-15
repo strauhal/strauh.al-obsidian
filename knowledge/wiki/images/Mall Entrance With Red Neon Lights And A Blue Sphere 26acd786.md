@@ -6,7 +6,7 @@ source_relpath: "photography/Mall Entrance With Red Neon Lights And A Blue Spher
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "512x414"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

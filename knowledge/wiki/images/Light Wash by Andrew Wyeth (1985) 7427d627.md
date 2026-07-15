@@ -6,7 +6,7 @@ source_relpath: "1900s/Light Wash by Andrew Wyeth (1985).jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: ""
-dimensions: ""
+dimensions: "1280x1234"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

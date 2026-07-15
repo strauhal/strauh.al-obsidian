@@ -6,7 +6,7 @@ source_relpath: "photography/Stonehenge Stones Sprayed With Orange Powder, Two P
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1952x1098"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

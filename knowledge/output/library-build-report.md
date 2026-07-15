@@ -1,8 +1,8 @@
 # Library Build Report
 
-Generated: 2026-07-08T23:12:54
+Generated: 2026-07-10T12:26:42
 
-Entries parsed: 419
+Entries parsed: 420
 
 - Art and Aesthetics: 69
 - Design and Making: 10
@@ -13,7 +13,7 @@ Entries parsed: 419
 - Politics and Society: 33
 - Psychoanalysis and Psychology: 26
 - Spirituality and Esoterica: 28
-- Unsorted: 113
+- Unsorted: 114
 
 <!-- vault-crosslinks:start -->
 ## Discovered Connections

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Webpage About Bunkers in 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1337"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

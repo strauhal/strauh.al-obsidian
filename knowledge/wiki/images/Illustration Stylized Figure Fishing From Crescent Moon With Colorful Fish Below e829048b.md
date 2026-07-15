@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Figure Fishing From Crescent Moon
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

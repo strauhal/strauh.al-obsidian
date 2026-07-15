@@ -6,7 +6,7 @@ source_relpath: "photography/Framed Expressionist Nude Sketch with Yellow Cloth 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "908x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

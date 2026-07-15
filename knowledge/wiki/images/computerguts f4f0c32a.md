@@ -6,7 +6,7 @@ source_relpath: "wallpapers/computerguts.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1852x1046"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

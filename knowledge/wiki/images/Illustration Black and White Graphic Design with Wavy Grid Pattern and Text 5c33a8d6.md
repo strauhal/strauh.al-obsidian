@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Graphic Design with Wavy G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "843x1203"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

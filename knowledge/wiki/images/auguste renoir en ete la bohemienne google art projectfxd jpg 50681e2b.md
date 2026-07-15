@@ -6,7 +6,7 @@ source_relpath: "1800s/auguste_renoir_en_ete_la_bohemienne_google_art_projectfxd
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: ""
+dimensions: "2737x4015"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

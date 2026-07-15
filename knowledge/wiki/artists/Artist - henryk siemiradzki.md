@@ -25,8 +25,8 @@ Images attributed by filename: 2
 
 - [[knowledge/wiki/images/By the Spring by Henryk Siemiradzki (1880) 90581f33|By the Spring by Henryk Siemiradzki (1880)]] — shared language: henryk, siemiradzki
 - [[knowledge/wiki/images/henryk siemiradzki christ in the house of martha and mary 1886 29e1e31b|henryk siemiradzki christ in the house of martha and mary 1886]] — shared language: henryk, siemiradzki
-- [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
+- [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
 - [[knowledge/wiki/images/christian krohg the sick child 1881 0b183b1b|christian krohg the sick child 1881]] — shared language: christian
 - [[knowledge/wiki/images/Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde b92fd565|Illustration Oil Painting of Minecraft Scene with Blue Blocks and Torches by Cayde]] — shared language: torches
 <!-- vault-crosslinks:end -->

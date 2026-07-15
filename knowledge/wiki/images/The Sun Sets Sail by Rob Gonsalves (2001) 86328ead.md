@@ -6,7 +6,7 @@ source_relpath: "2000s/The Sun Sets Sail by Rob Gonsalves (2001).jpg"
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "2916x1438"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Reflected In A Mirror, One Holding A Phone.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "887x753"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

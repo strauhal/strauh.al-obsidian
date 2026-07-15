@@ -6,7 +6,7 @@ source_relpath: "1800s/arthur_streeton_pastoral_1889.jpg"
 collection: "1800s"
 inferred_year: "1889"
 artist: ""
-dimensions: ""
+dimensions: "5077x2659"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

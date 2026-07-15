@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Amazing Spider-Man Vol 2 #36 by John Romita Jr
 collection: "unsorted"
 inferred_year: ""
 artist: "John Romita Jr. and Scott Hanna"
-dimensions: ""
+dimensions: "2048x1535"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

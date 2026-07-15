@@ -6,7 +6,7 @@ source_relpath: "photography/Early iPod Prototype In Beige Casing With Click Whe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2880x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

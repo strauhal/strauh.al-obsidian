@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting with Black, Blue, Whi
 collection: "unsorted"
 inferred_year: ""
 artist: "Congo"
-dimensions: ""
+dimensions: "2025x1549"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

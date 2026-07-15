@@ -6,7 +6,7 @@ source_relpath: "photography/Older Man With Curly Gray Hair And Sunglasses Exten
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x315"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

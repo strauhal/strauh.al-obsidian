@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Man Sits Barefoot on Stool Against Pink Ba
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Gao Hang"
-dimensions: ""
+dimensions: "798x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

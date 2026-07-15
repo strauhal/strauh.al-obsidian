@@ -6,7 +6,7 @@ source_relpath: "1900s/le_pin_de_bormes_by_henri_edmond_cross_1909.jpeg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "henri edmond cross"
-dimensions: ""
+dimensions: "800x999"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/vanity_by_john_william_waterhouse_1900.jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "1184x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

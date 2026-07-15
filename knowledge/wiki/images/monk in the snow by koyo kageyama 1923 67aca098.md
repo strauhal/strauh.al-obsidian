@@ -6,7 +6,7 @@ source_relpath: "1900s/monk_in_the_snow_by_koyo_kageyama_1923.jpeg"
 collection: "1900s"
 inferred_year: "1923"
 artist: "koyo kageyama"
-dimensions: ""
+dimensions: "736x1249"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

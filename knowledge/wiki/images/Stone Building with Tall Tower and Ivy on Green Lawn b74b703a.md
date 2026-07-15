@@ -6,7 +6,7 @@ source_relpath: "photography/Stone Building with Tall Tower and Ivy on Green Law
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

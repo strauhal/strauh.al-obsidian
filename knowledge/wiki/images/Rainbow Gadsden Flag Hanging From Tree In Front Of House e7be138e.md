@@ -6,7 +6,7 @@ source_relpath: "photography/Rainbow Gadsden Flag Hanging From Tree In Front Of 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x1138"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

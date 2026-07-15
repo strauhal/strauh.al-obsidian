@@ -6,7 +6,7 @@ source_relpath: "1900s/egon_schiele_gustav_klimt_im_blauen_malerkittel_1913_jpeg
 collection: "1900s"
 inferred_year: "1913"
 artist: ""
-dimensions: ""
+dimensions: "3354x5088"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

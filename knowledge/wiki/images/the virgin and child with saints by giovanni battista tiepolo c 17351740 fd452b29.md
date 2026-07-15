@@ -6,7 +6,7 @@ source_relpath: "1700s/the_virgin_and_child_with_saints_by_giovanni_battista_tie
 collection: "1700s"
 inferred_year: "1700s"
 artist: "giovanni battista tiepolo"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

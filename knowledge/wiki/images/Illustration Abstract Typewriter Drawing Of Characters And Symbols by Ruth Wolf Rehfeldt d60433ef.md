@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Typewriter Drawing Of Characters 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Ruth Wolf Rehfeldt"
-dimensions: ""
+dimensions: "800x567"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

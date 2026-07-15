@@ -6,7 +6,7 @@ source_relpath: "1900s/the_mulatto_by_boris_grigoriev_1926.jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: "boris grigoriev"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

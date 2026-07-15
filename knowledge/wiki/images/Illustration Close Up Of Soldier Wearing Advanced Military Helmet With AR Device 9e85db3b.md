@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Close-Up Of Soldier Wearing Advanced Mi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "840x489"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/future_cityscape_by_syd_mead_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "syd mead"
-dimensions: ""
+dimensions: "2245x1054"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

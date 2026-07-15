@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Historical Chinese Illustrations of Tra
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

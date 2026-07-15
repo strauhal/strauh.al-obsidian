@@ -6,7 +6,7 @@ source_relpath: "1900s/gino_severini_lindustrie_dans_le_paysage_1911.jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: ""
+dimensions: "750x466"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

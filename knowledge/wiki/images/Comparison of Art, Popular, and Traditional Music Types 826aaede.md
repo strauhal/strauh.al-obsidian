@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Art,_Popular,_and_Traditional_Music_Type
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

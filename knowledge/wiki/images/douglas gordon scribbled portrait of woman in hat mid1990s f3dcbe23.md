@@ -6,7 +6,7 @@ source_relpath: "1900s/douglas_gordon_scribbled_portrait_of_woman_in_hat_mid1990
 collection: "1900s"
 inferred_year: "1990"
 artist: ""
-dimensions: ""
+dimensions: "1064x596"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

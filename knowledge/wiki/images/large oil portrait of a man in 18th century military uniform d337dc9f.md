@@ -6,7 +6,7 @@ source_relpath: "1700s/large_oil_portrait_of_a_man_in_18th_century_military_unif
 collection: "1700s"
 inferred_year: "1700s"
 artist: ""
-dimensions: ""
+dimensions: "860x573"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

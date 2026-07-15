@@ -6,7 +6,7 @@ source_relpath: "diagrams/Black_and_White_Grid_of_Adversarial_Examples.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2436x1125"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

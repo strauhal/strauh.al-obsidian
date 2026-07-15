@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait by Andy Warhol (1964).jpeg"
 collection: "1900s"
 inferred_year: "1964"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

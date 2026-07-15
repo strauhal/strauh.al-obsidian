@@ -6,7 +6,7 @@ source_relpath: "2000s/Son Goku by Akira Toriyama (1984-1995).jpg"
 collection: "2000s"
 inferred_year: "1995"
 artist: ""
-dimensions: ""
+dimensions: "640x717"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

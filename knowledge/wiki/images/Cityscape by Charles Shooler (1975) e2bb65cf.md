@@ -6,7 +6,7 @@ source_relpath: "1900s/Cityscape by Charles Shooler (1975).jpeg"
 collection: "1900s"
 inferred_year: "1975"
 artist: ""
-dimensions: ""
+dimensions: "550x436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Person Holding Rotated Collage of Hands and Faces.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1063x1053"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

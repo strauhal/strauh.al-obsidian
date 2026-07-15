@@ -6,7 +6,7 @@ source_relpath: "1900s/one_for_the_road_documentation_of_a_happening_by_wolf_vos
 collection: "1900s"
 inferred_year: "1964"
 artist: "wolf vostell"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

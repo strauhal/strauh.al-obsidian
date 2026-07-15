@@ -6,7 +6,7 @@ source_relpath: "photography/Blindfolded Man Balancing on Steel Beam Above City.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "962x1285"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

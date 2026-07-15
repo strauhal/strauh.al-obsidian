@@ -6,7 +6,7 @@ source_relpath: "1900s/thomas_eakins_by_david_levine_1972.jpg"
 collection: "1900s"
 inferred_year: "1972"
 artist: "david levine"
-dimensions: ""
+dimensions: "1662x2938"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

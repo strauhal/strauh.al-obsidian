@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_the_russian_prisoner_of_war_grigory_khristofo
 collection: "1900s"
 inferred_year: "1916"
 artist: "egon schiele"
-dimensions: ""
+dimensions: "1200x675"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

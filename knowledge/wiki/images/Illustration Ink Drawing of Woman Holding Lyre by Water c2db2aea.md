@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ink Drawing of Woman Holding Lyre by Wa
 collection: "unsorted"
 inferred_year: ""
 artist: "Water"
-dimensions: ""
+dimensions: "1348x1874"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Fantasy Warriors Fighting a Large
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5821x8333"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

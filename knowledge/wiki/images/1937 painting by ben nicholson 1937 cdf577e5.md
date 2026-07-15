@@ -6,7 +6,7 @@ source_relpath: "1900s/1937_painting_by_ben_nicholson_1937.jpeg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "ben nicholson"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

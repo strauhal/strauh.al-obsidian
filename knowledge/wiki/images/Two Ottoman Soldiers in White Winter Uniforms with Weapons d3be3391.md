@@ -6,7 +6,7 @@ source_relpath: "photography/Two Ottoman Soldiers in White Winter Uniforms with 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x949"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Egon Schiele in his Studio with Sculpture by Anton 
 collection: "photography"
 inferred_year: ""
 artist: "Anton Josef Tr ka"
-dimensions: ""
+dimensions: "1500x1035"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

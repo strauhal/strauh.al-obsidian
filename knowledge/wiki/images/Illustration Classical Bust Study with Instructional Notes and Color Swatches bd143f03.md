@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Classical Bust Study with Instructional
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "598x850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

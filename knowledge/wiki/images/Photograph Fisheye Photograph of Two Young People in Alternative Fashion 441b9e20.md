@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Fisheye Photograph of Two Young People in Al
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "736x907"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

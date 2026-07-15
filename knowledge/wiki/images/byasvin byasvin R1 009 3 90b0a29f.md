@@ -6,7 +6,7 @@ source_relpath: "ernest/byasvin_byasvin-R1-009-3.jpg"
 collection: "ernest"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3047x4310"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/ernest"]
 ---

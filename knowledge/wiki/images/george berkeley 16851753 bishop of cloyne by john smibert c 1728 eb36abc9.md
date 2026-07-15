@@ -6,7 +6,7 @@ source_relpath: "1700s/george_berkeley_16851753_bishop_of_cloyne_by_john_smibert
 collection: "1700s"
 inferred_year: "1728"
 artist: "john smibert"
-dimensions: ""
+dimensions: "800x1075"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

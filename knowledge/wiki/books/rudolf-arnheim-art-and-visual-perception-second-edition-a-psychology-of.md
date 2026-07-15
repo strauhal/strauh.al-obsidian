@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Art and Visual Perception, Second Edition _ A Psychology of -- Rudolf Arnheim -- 2, 2004 -- University of California Press -- 9780520243835 -- ff86d80f33c55152b0d456bba50b5720 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Art and Visual Perception, Second Edition A Psychology of

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Concrete Building With Angular Design.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

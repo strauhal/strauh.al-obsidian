@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black Scribble Drawing Suggesting a Face o
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "870x870"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

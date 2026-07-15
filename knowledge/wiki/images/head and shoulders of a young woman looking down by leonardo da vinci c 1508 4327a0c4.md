@@ -6,7 +6,7 @@ source_relpath: "1500s/head_and_shoulders_of_a_young_woman_looking_down_by_leona
 collection: "1500s"
 inferred_year: "1508"
 artist: "leonardo da vinci"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Meditation by Seo Young-Deok.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Seo Young Deok"
-dimensions: ""
+dimensions: "891x891"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

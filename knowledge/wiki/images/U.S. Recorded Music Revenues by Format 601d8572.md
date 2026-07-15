@@ -6,7 +6,7 @@ source_relpath: "diagrams/U.S._Recorded_Music_Revenues_by_Format.png"
 collection: "diagrams"
 inferred_year: ""
 artist: "Format"
-dimensions: ""
+dimensions: "1000x827"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

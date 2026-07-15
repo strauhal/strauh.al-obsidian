@@ -6,7 +6,7 @@ source_relpath: "1900s/rubycon_by_tangerine_dream_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "tangerine dream"
-dimensions: ""
+dimensions: "3189x1558"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

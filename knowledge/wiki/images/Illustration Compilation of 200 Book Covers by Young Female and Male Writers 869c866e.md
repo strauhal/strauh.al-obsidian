@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Compilation of 200 Book Covers by Young
 collection: "unsorted"
 inferred_year: ""
 artist: "Young Female and Male Writers"
-dimensions: ""
+dimensions: "3680x2164"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

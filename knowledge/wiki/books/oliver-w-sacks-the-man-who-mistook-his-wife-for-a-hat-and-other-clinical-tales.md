@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Oliver W. Sacks - The Man Who Mistook His Wife for a Hat_ And Other Clinical Tales (1987, Harpercollins) - libgen.li.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # The Man Who Mistook His Wife for a Hat And Other Clinical Tales

@@ -6,7 +6,7 @@ source_relpath: "photography/Vandalized Waymo Self-Driving Car During Protest.we
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1196"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

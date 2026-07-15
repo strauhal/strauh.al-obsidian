@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Blurry Painting of Sailboat on Choppy Wate
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

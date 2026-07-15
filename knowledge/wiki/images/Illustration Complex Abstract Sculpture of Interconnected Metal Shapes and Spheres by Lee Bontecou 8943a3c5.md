@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Complex Abstract Sculpture of Interconn
 collection: "unsorted"
 inferred_year: ""
 artist: "Lee Bontecou"
-dimensions: ""
+dimensions: "643x482"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

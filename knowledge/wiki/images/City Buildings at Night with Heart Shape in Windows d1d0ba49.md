@@ -6,7 +6,7 @@ source_relpath: "photography/City Buildings at Night with Heart Shape in Windows
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "563x729"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Technical_Chart_for_Piano_Stretch_Tuning.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1016x716"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

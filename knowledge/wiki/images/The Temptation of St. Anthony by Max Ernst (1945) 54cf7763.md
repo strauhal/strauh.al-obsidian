@@ -6,7 +6,7 @@ source_relpath: "1900s/The Temptation of St. Anthony by Max Ernst (1945).jpg"
 collection: "1900s"
 inferred_year: "1945"
 artist: ""
-dimensions: ""
+dimensions: "1892x1534"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_end_of_the_dinner_by_hermen_anglada_camarasa_1898.jpg
 collection: "1800s"
 inferred_year: "1898"
 artist: "hermen anglada camarasa"
-dimensions: ""
+dimensions: "4000x2879"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

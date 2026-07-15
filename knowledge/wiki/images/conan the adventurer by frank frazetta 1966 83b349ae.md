@@ -6,7 +6,7 @@ source_relpath: "1900s/conan_the_adventurer_by_frank_frazetta_1966.jpg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "frank frazetta"
-dimensions: ""
+dimensions: "1211x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

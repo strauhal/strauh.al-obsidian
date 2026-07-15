@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Interior Scene With A Window, Plant, And O
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "937x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

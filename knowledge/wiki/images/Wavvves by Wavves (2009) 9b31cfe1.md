@@ -6,7 +6,7 @@ source_relpath: "photography/Wavvves by Wavves (2009).jpg"
 collection: "photography"
 inferred_year: "2009"
 artist: ""
-dimensions: ""
+dimensions: "1200x1197"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

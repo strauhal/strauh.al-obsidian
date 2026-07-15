@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Store Employees Process Transactions Manu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "910x1510"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

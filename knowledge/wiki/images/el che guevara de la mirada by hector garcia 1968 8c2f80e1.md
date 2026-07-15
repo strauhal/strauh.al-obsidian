@@ -6,7 +6,7 @@ source_relpath: "1900s/el_che_guevara_de_la_mirada_by_hector_garcia_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "hector garcia"
-dimensions: ""
+dimensions: "1280x1822"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

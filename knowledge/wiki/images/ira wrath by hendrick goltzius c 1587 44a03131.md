@@ -6,7 +6,7 @@ source_relpath: "1500s/ira_wrath_by_hendrick_goltzius_c_1587.jpeg"
 collection: "1500s"
 inferred_year: "1587"
 artist: "hendrick goltzius"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

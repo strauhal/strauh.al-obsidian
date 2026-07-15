@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a digital screen displaying abstract gr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

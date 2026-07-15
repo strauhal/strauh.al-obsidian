@@ -6,7 +6,7 @@ source_relpath: "photography/Dark Room, PlayStation 2 Logo, Lord Farquaad, Hands
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x4000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

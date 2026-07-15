@@ -7,8 +7,8 @@ status: queued
 queue_order: 39
 tags: [culture, movie, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Charlie and the Chocolate Factory (2005)

@@ -6,7 +6,7 @@ source_relpath: "1800s/sir_lawrence_almatadema_the_roses_of_heliogabalus_1888.jp
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: ""
+dimensions: "6000x3694"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

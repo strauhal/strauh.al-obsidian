@@ -6,7 +6,7 @@ source_relpath: "photography/Untitled VII (Ejaculate in Trajectory) by Andres Se
 collection: "photography"
 inferred_year: ""
 artist: "Andres Serrano"
-dimensions: ""
+dimensions: "3200x2173"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

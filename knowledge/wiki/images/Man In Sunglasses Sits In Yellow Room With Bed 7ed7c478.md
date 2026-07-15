@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Sunglasses Sits In Yellow Room With Bed.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1118x792"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

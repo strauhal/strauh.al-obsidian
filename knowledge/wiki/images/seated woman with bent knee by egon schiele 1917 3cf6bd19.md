@@ -6,7 +6,7 @@ source_relpath: "1900s/seated_woman_with_bent_knee_by_egon_schiele_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "egon schiele"
-dimensions: ""
+dimensions: "800x1186"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

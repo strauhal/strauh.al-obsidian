@@ -6,7 +6,7 @@ source_relpath: "diagrams/Scatter_Plot_of_Russian_Federal_Election_Results_and_V
 collection: "diagrams"
 inferred_year: ""
 artist: "Kobak and Shpilkin"
-dimensions: ""
+dimensions: "1564x1592"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_eternal_question_by_charles_dana_gibson_c_1905.jpg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "charles dana gibson"
-dimensions: ""
+dimensions: "981x1196"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

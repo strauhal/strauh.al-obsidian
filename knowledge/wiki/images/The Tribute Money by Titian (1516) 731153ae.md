@@ -6,7 +6,7 @@ source_relpath: "1500s/The Tribute Money by Titian (1516).jpg"
 collection: "1500s"
 inferred_year: "1516"
 artist: ""
-dimensions: ""
+dimensions: "3896x4226"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

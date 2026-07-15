@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Wavy Lines with Orange, Pink, 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3113x3728"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

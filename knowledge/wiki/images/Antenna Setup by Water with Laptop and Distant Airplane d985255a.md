@@ -6,7 +6,7 @@ source_relpath: "photography/Antenna Setup by Water with Laptop and Distant Airp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x2436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

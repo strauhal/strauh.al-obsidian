@@ -6,7 +6,7 @@ source_relpath: "1900s/rain_at_the_toshodaiji_temple_nara_by_kawase_hasui_1930.j
 collection: "1900s"
 inferred_year: "1930"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

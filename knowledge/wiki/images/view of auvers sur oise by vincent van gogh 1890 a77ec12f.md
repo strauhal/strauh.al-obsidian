@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_auvers_sur_oise_by_vincent_van_gogh_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "vincent van gogh"
-dimensions: ""
+dimensions: "3332x1922"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Le Pont-Neuf by Charles Meryon (1853).jpg"
 collection: "1800s"
 inferred_year: "1853"
 artist: ""
-dimensions: ""
+dimensions: "3400x3394"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

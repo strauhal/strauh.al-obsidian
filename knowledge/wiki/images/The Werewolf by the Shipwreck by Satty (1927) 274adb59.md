@@ -6,7 +6,7 @@ source_relpath: "1900s/The Werewolf by the Shipwreck by Satty (1927).jpg"
 collection: "1900s"
 inferred_year: "1927"
 artist: ""
-dimensions: ""
+dimensions: "836x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

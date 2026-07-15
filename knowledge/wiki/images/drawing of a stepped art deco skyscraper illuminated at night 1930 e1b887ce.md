@@ -6,7 +6,7 @@ source_relpath: "1900s/drawing_of_a_stepped_art_deco_skyscraper_illuminated_at_n
 collection: "1900s"
 inferred_year: "1930"
 artist: ""
-dimensions: ""
+dimensions: "1021x1860"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

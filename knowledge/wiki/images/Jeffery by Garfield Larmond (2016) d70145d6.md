@@ -6,7 +6,7 @@ source_relpath: "2000s/Jeffery by Garfield Larmond (2016).jpg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: ""
+dimensions: "640x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

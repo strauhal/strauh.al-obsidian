@@ -6,7 +6,7 @@ source_relpath: "album_covers/ape of naples.jpeg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1217"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

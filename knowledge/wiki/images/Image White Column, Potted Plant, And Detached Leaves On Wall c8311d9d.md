@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - White Column, Potted Plant, And Detached Leaves O
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1080x1074"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

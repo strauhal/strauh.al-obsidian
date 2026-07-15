@@ -6,7 +6,7 @@ source_relpath: "photography/A Trumpet Modified With Tactical Weapon Parts And S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "830x552"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

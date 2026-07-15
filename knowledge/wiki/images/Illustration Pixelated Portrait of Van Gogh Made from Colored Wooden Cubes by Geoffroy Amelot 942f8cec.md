@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Portrait of Van Gogh Made from C
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Geoffroy Amelot"
-dimensions: ""
+dimensions: "969x1434"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

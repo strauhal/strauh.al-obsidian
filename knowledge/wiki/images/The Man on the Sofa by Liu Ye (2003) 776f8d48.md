@@ -6,7 +6,7 @@ source_relpath: "2000s/The Man on the Sofa by Liu Ye (2003).jpeg"
 collection: "2000s"
 inferred_year: "2003"
 artist: ""
-dimensions: ""
+dimensions: "700x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

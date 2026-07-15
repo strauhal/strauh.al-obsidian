@@ -6,7 +6,7 @@ source_relpath: "photography/Abstract Composition Of Red And Green Light And Sha
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

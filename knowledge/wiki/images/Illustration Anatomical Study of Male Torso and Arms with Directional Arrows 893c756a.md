@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anatomical Study of Male Torso and Arms
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x947"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Elvis Presley Smiling, Walking in Brown Suit, 1970s
 collection: "photography"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "1240x2029"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

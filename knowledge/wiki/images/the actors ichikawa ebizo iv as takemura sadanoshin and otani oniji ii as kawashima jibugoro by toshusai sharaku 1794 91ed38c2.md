@@ -6,7 +6,7 @@ source_relpath: "1700s/the_actors_ichikawa_ebizo_iv_as_takemura_sadanoshin_and_o
 collection: "1700s"
 inferred_year: "1794"
 artist: "toshusai sharaku"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

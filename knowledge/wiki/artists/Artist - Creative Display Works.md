@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: creative
 - [[knowledge/wiki/concepts/The Oedipal Screen|The Oedipal Screen]] — shared language: display
+- [[knowledge/wiki/concepts/AI Slop|AI Slop]] — shared language: creative
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: creative
 - [[knowledge/wiki/works/The Record Label|The Record Label]] — shared language: creative
 - [[Welcome|strauh.al Knowledge Base]] — shared language: works

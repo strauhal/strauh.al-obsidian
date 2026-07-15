@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Dove and Bat Flying Against Dark Bac
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "750x604"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

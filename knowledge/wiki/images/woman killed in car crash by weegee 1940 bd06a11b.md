@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_killed_in_car_crash_by_weegee_1940.jpeg"
 collection: "1900s"
 inferred_year: "1940"
 artist: "weegee"
-dimensions: ""
+dimensions: "600x785"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

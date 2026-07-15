@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves Posing With An Older Woman.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "551x551"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

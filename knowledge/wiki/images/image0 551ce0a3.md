@@ -6,7 +6,7 @@ source_relpath: "gif_collection/image0.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "200x334"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

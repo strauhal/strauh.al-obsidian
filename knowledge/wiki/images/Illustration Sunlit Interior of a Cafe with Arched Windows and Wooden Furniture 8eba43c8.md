@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sunlit Interior of a Cafe with Arched W
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

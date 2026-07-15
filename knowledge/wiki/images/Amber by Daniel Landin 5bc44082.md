@@ -6,7 +6,7 @@ source_relpath: "photography/Amber by Daniel Landin.png"
 collection: "photography"
 inferred_year: ""
 artist: "Daniel Landin"
-dimensions: ""
+dimensions: "2114x703"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

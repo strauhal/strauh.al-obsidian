@@ -6,7 +6,7 @@ source_relpath: "diagrams/Complex_Diagram_Illustrating_The_Cult_of_Baal_Conspira
 collection: "diagrams"
 inferred_year: ""
 artist: "Dylan Louis Monroe"
-dimensions: ""
+dimensions: "2040x2689"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

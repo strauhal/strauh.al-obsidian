@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Simple Line Drawing of Bent-Over Figure
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "789x584"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

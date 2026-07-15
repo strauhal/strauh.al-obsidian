@@ -8,8 +8,8 @@ status: available-local
 metadata: curated
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Lacan on Paranoiac Knowledge .txt"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Lacan on Paranoiac Knowledge

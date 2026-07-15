@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/david-byrne-talking-heads-suit-today-inli
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2500x2552"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

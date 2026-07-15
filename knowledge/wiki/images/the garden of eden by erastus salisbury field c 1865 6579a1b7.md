@@ -6,7 +6,7 @@ source_relpath: "1800s/the_garden_of_eden_by_erastus_salisbury_field_c_1865.jpeg
 collection: "1800s"
 inferred_year: "1865"
 artist: "erastus salisbury field"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

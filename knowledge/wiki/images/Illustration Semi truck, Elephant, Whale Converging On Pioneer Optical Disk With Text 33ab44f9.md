@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Semi-truck, Elephant, Whale Converging 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1638"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

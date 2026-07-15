@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Bird Discusses Patterns, Becomes Part of Pattern 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "False Knees"
-dimensions: ""
+dimensions: "1184x1207"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

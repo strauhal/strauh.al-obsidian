@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman in Brown Military Uniform Among Pink
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "629x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Studies of Pierre Renoir; His Mother, Aline Charigot; Nud
 collection: "1800s"
 inferred_year: "1895"
 artist: ""
-dimensions: ""
+dimensions: "1902x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

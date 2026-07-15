@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dragon_by_ken_feingold_1987.jpeg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "ken feingold"
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

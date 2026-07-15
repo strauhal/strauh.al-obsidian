@@ -6,7 +6,7 @@ source_relpath: "1900s/computer_generated_drawing_by_desmond_paul_henry_1962.jpe
 collection: "1900s"
 inferred_year: "1962"
 artist: "desmond paul henry"
-dimensions: ""
+dimensions: "884x1072"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

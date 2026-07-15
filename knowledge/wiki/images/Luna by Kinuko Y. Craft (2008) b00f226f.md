@@ -6,7 +6,7 @@ source_relpath: "2000s/Luna by Kinuko Y. Craft (2008).jpg"
 collection: "2000s"
 inferred_year: "2008"
 artist: ""
-dimensions: ""
+dimensions: "1500x1992"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

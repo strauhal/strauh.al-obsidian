@@ -6,7 +6,7 @@ source_relpath: "1800s/henry_sissons_the_assault_late_19th_century.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: ""
+dimensions: "2116x3136"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

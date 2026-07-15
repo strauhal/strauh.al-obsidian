@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Young Woman Smoking on Bed in Cluttered
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Live Performance With Red Stage Lighting And Audien
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1365"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Open-Plan Office In Vaulted Brick Archway With Desk
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x562"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

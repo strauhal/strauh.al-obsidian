@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Retro-futuristic Cityscape Viewed From 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x991"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

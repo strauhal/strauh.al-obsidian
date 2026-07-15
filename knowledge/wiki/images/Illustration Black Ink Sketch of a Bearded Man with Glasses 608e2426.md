@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black Ink Sketch of a Bearded Man with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x1994"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

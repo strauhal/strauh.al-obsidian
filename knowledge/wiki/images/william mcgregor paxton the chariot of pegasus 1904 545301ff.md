@@ -6,7 +6,7 @@ source_relpath: "1900s/william_mcgregor_paxton_the_chariot_of_pegasus_1904.jpg"
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: ""
+dimensions: "1547x651"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_concert_by_pavel_tchelitchew_1930.jpeg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "pavel tchelitchew"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

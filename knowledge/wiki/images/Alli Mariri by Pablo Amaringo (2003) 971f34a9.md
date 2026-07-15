@@ -6,7 +6,7 @@ source_relpath: "2000s/Alli Mariri by Pablo Amaringo (2003).jpg"
 collection: "2000s"
 inferred_year: "2003"
 artist: ""
-dimensions: ""
+dimensions: "1000x1257"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

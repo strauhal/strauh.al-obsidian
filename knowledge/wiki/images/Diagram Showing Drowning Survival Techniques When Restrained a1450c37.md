@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Showing_Drowning_Survival_Techniques_When_Rest
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "749x1166"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

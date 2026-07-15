@@ -6,7 +6,7 @@ source_relpath: "1800s/black_and_white_photograph_of_a_large_crowd_walking_towar
 collection: "1800s"
 inferred_year: "1893"
 artist: "neoclassical exhibition halls"
-dimensions: ""
+dimensions: "6648x5338"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

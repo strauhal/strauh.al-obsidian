@@ -6,7 +6,7 @@ source_relpath: "1800s/The Hangover (La Gueule de Bois) by Henri de Toulouse-Lau
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: ""
+dimensions: "686x864"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

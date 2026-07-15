@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Minimalist Hallway with Mailboxes and Glass 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

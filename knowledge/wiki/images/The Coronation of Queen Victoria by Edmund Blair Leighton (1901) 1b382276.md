@@ -6,7 +6,7 @@ source_relpath: "1900s/The Coronation of Queen Victoria by Edmund Blair Leighton
 collection: "1900s"
 inferred_year: "1901"
 artist: ""
-dimensions: ""
+dimensions: "3672x6616"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

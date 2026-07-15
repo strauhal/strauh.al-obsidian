@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Image Of Two Figures In
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x501"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

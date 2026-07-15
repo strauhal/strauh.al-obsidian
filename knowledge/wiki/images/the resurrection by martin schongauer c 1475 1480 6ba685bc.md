@@ -6,7 +6,7 @@ source_relpath: "1400s/the_resurrection_by_martin_schongauer_c_1475_1480.jpeg"
 collection: "1400s"
 inferred_year: "1480"
 artist: "martin schongauer"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

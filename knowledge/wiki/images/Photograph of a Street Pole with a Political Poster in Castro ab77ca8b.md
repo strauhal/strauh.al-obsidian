@@ -6,7 +6,7 @@ source_relpath: "photography/Photograph of a Street Pole with a Political Poster
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

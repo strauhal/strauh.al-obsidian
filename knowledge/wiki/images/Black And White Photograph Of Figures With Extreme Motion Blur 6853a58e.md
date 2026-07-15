@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Figures With Extreme 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1004x732"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

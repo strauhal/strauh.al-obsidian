@@ -6,7 +6,7 @@ source_relpath: "gif_collection/Hippocampus.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

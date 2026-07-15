@@ -6,7 +6,7 @@ source_relpath: "photography/Man Wearing VR Headset And Smoking Hookah In Restau
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1676x1148"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

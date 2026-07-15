@@ -6,7 +6,7 @@ source_relpath: "1800s/john_speed_mourner_beside_a_coffin_in_a_mountain_landscap
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: ""
+dimensions: "640x736"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

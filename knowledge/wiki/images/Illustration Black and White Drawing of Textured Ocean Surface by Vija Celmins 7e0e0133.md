@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Drawing of Textured Oce
 collection: "unsorted"
 inferred_year: ""
 artist: "Vija Celmins"
-dimensions: ""
+dimensions: "1500x1275"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

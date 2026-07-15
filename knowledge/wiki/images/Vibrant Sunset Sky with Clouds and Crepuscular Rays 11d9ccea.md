@@ -6,7 +6,7 @@ source_relpath: "photography/Vibrant Sunset Sky with Clouds and Crepuscular Rays
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

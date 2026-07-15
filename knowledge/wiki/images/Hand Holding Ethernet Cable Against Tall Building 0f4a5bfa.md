@@ -6,7 +6,7 @@ source_relpath: "photography/Hand Holding Ethernet Cable Against Tall Building.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x913"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

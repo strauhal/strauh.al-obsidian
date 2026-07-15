@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Grainy Black And White Building Facade With 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1179x1027"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

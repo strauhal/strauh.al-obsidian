@@ -6,7 +6,7 @@ source_relpath: "1500s/Rabbits between the staves (c. 1540-50).jpg"
 collection: "1500s"
 inferred_year: "1540"
 artist: ""
-dimensions: ""
+dimensions: "564x368"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

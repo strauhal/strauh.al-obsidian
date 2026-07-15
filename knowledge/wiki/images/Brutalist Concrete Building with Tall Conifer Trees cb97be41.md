@@ -6,7 +6,7 @@ source_relpath: "photography/Brutalist Concrete Building with Tall Conifer Trees
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

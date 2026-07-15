@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Handwritten Notes Titled 'Monk's Advice' on
 collection: "unsorted"
 inferred_year: ""
 artist: "Thelonious Monk"
-dimensions: ""
+dimensions: "600x816"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Venn_Diagram_of_Philosophical_Concepts:_Intuition,_Exp
 collection: "diagrams"
 inferred_year: ""
 artist: "LOGICABLE"
-dimensions: ""
+dimensions: "2048x1786"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/The Crucifixion by Andrea Mantegna (1457–1459).jpg"
 collection: "1400s"
 inferred_year: "1459"
 artist: ""
-dimensions: ""
+dimensions: "1904x1374"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

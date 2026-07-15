@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Intricate Ornate Fantasy Architecture Draw
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Laurent Gapaillard"
-dimensions: ""
+dimensions: "1343x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

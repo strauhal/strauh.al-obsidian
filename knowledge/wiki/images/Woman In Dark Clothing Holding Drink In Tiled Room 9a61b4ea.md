@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Dark Clothing Holding Drink In Tiled Room.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1452"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Clergy in Red and White Robes from Behind.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x1610"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

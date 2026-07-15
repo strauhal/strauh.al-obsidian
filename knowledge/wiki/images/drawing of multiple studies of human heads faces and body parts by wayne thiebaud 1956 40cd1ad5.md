@@ -6,7 +6,7 @@ source_relpath: "1900s/drawing_of_multiple_studies_of_human_heads_faces_and_body
 collection: "1900s"
 inferred_year: "1956"
 artist: "wayne thiebaud"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

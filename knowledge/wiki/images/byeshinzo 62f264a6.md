@@ -6,7 +6,7 @@ source_relpath: "diary/byeshinzo.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x499"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

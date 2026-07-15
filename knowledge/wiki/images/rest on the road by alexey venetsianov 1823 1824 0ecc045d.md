@@ -6,7 +6,7 @@ source_relpath: "1800s/rest_on_the_road_by_alexey_venetsianov_1823_1824.jpg"
 collection: "1800s"
 inferred_year: "1824"
 artist: "alexey venetsianov"
-dimensions: ""
+dimensions: "935x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Flowchart_for_reading_Carl_Jung's_books,_with_introduc
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2241x1444"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

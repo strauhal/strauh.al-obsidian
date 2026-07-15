@@ -6,7 +6,7 @@ source_relpath: "1900s/schema_of_the_tendencies_of_configuration_by_rudolf_arnhe
 collection: "1900s"
 inferred_year: "1954"
 artist: "rudolf arnheim"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

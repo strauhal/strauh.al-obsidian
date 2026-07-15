@@ -6,7 +6,7 @@ source_relpath: "2000s/RMB City: A Second Life City Planning 04 by Cao Fei (2007
 collection: "2000s"
 inferred_year: "2007"
 artist: ""
-dimensions: ""
+dimensions: "915x686"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

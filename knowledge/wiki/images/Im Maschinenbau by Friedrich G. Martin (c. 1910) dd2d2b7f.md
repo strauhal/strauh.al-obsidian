@@ -6,7 +6,7 @@ source_relpath: "1900s/Im Maschinenbau by Friedrich G. Martin (c. 1910).jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "1800x1213"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

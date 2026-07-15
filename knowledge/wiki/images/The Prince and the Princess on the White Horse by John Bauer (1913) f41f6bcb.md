@@ -6,7 +6,7 @@ source_relpath: "1900s/The Prince and the Princess on the White Horse by John Ba
 collection: "1900s"
 inferred_year: "1913"
 artist: ""
-dimensions: ""
+dimensions: "564x775"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/jeune_femme_aux_bouquets_de_roses_by_jean_dupas_1922.jpg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "jean dupas"
-dimensions: ""
+dimensions: "2048x3599"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/the_departure_of_regulus_from_rome_detail_of_marcia_by_wi
 collection: "1700s"
 inferred_year: "1791"
 artist: "william sharp"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/General Dynamics Astronautics Lobby with Spiral Ram
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1287x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

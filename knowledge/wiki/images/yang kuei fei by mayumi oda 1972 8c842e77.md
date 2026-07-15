@@ -6,7 +6,7 @@ source_relpath: "1900s/yang_kuei_fei_by_mayumi_oda_1972.jpeg"
 collection: "1900s"
 inferred_year: "1972"
 artist: "mayumi oda"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1300s/six_gentlemen_liu_junzi_tu_by_ni_zan_1345.jpeg"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "ni zan"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

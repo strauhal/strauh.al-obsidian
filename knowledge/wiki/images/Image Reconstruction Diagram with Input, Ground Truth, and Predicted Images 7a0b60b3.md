@@ -6,7 +6,7 @@ source_relpath: "diagrams/Image_Reconstruction_Diagram_with_Input,_Ground_Truth,
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1182x384"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

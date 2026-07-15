@@ -6,7 +6,7 @@ source_relpath: "1900s/Crucifixion by Egon Schiele (1907).jpeg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: ""
+dimensions: "1280x1268"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/two_horses_by_edgar_degas_c_1880_1885.jpeg"
 collection: "1800s"
 inferred_year: "1885"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "857x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

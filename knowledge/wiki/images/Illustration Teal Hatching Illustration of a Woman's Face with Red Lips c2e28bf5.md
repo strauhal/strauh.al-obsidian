@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Teal Hatching Illustration of a Woman's
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

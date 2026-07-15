@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black And White Digital Wirefr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "838x838"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Intricate Serpent and Tree Illustration
 collection: "unsorted"
 inferred_year: ""
 artist: "Carl Jung"
-dimensions: ""
+dimensions: "820x1076"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

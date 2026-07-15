@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Raised Hands Holding Documents Walks Past 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1070x1077"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

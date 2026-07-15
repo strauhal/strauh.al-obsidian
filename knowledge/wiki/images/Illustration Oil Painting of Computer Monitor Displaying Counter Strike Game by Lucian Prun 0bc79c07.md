@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Oil Painting of Computer Monitor Displa
 collection: "unsorted"
 inferred_year: ""
 artist: "Lucian Prun"
-dimensions: ""
+dimensions: "1200x1022"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

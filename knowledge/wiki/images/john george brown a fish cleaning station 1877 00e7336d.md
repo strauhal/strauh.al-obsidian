@@ -6,7 +6,7 @@ source_relpath: "1800s/john_george_brown_a_fish_cleaning_station_1877.jpg"
 collection: "1800s"
 inferred_year: "1877"
 artist: ""
-dimensions: ""
+dimensions: "1278x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

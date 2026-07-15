@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Spiral Galaxy with 'Thanks For Th
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "983x983"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

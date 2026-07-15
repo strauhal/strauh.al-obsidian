@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Satellite View of San Francisco Bay Are
 collection: "unsorted"
 inferred_year: ""
 artist: "East of Nowhere"
-dimensions: ""
+dimensions: "1500x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

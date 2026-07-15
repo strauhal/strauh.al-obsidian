@@ -6,7 +6,7 @@ source_relpath: "photography/Empty Room With Laptop And Water Bottle On Floor.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x510"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

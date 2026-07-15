@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Black And White Ink Drawing Of Four Figures In Co
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

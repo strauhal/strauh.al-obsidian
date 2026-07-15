@@ -6,7 +6,7 @@ source_relpath: "1900s/the_bradys_and_the_chinese_drug_dealer_or_the_four_myster
 collection: "1900s"
 inferred_year: "1922"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

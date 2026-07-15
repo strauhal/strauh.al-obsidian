@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman Covering Boy's Eyes in a Garden.j
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1279x1838"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

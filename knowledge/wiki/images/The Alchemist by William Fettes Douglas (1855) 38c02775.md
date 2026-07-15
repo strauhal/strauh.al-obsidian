@@ -6,7 +6,7 @@ source_relpath: "1800s/The Alchemist by William Fettes Douglas (1855).webp"
 collection: "1800s"
 inferred_year: "1855"
 artist: ""
-dimensions: ""
+dimensions: "896x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

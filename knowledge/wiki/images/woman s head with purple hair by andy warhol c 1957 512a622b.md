@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_s_head_with_purple_hair_by_andy_warhol_c_1957.jpg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "andy warhol"
-dimensions: ""
+dimensions: "450x539"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

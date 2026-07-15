@@ -6,7 +6,7 @@ source_relpath: "unsorted/Cat and Small Bird by Toshi Yoshida.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Toshi Yoshida"
-dimensions: ""
+dimensions: "512x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

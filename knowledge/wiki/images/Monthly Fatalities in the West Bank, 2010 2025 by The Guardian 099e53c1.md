@@ -6,7 +6,7 @@ source_relpath: "diagrams/Monthly_Fatalities_in_the_West_Bank,_2010-2025_by_The_
 collection: "diagrams"
 inferred_year: "2025"
 artist: ""
-dimensions: ""
+dimensions: "634x438"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

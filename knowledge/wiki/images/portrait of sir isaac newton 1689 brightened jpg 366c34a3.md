@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_sir_isaac_newton_1689_brightened_jpg.jpg"
 collection: "1600s"
 inferred_year: "1689"
 artist: ""
-dimensions: ""
+dimensions: "2218x2671"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

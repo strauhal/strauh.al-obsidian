@@ -6,7 +6,7 @@ source_relpath: "1500s/the_golden_age_by_lucas_cranach_the_elder_1508.jpeg"
 collection: "1500s"
 inferred_year: "1508"
 artist: "lucas cranach the elder"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

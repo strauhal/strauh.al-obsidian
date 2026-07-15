@@ -6,7 +6,7 @@ source_relpath: "1800s/phedre_acte_v_scene_derniere_by_anne_louis_girodet_1801.j
 collection: "1800s"
 inferred_year: "1801"
 artist: "anne louis girodet"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

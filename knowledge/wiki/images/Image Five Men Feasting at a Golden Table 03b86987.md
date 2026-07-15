@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Five Men Feasting at a Golden Table.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1024x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

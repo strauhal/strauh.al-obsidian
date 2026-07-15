@@ -6,7 +6,7 @@ source_relpath: "2000s/Cut 2 by Hideo Tanaka (2017).jpg"
 collection: "2000s"
 inferred_year: "2017"
 artist: ""
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

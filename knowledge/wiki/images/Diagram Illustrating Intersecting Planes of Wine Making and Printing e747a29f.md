@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Intersecting_Planes_of_Wine_Makin
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "588x335"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Ceramic Bust of Woman Holding Blue Bird.jp
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/bust 18b2b566|bust]] — shared language: bust
 - [[knowledge/wiki/images/Illustration Black and White Illustration of a Woman Holding a Thermos a5e710f2|Illustration Black and White Illustration of a Woman Holding a Thermos]] — shared language: holding
-- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
+- [[knowledge/wiki/images/Illustration Blue and White Ceramic Soda Cans with Traditional Patterns 67d3630c|Illustration Blue and White Ceramic Soda Cans with Traditional Patterns]] — shared language: ceramic
 <!-- vault-crosslinks:end -->

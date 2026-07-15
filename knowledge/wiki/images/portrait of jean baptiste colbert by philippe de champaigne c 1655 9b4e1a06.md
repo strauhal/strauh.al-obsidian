@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_jean_baptiste_colbert_by_philippe_de_champaig
 collection: "1600s"
 inferred_year: "1655"
 artist: "philippe de champaigne"
-dimensions: ""
+dimensions: "756x977"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

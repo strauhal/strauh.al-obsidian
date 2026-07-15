@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Artwork With Vibrant Colors An
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1520x1514"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

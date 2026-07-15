@@ -6,7 +6,7 @@ source_relpath: "1900s/die_eltern_by_kathe_kollwitz_1921.jpg"
 collection: "1900s"
 inferred_year: "1921"
 artist: "kathe kollwitz"
-dimensions: ""
+dimensions: "1920x1715"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

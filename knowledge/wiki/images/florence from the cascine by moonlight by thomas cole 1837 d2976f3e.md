@@ -6,7 +6,7 @@ source_relpath: "1800s/florence_from_the_cascine_by_moonlight_by_thomas_cole_183
 collection: "1800s"
 inferred_year: "1837"
 artist: "moonlight by thomas cole"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Six Prototypes of Nike's Project Amplify Powered Fo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x2500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

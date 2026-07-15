@@ -9,8 +9,8 @@ metadata: curated
 aliases: [The Camp Of The Saints]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The Camp Of The Saints -- Unknown -- 2016 -- f306fa29267eedd660c2002e7842ad29 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # The Camp of the Saints

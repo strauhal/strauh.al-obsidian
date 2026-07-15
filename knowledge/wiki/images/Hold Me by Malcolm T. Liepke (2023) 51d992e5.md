@@ -6,7 +6,7 @@ source_relpath: "2000s/Hold Me by Malcolm T. Liepke (2023).jpg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "899x1272"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

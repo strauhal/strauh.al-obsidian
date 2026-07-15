@@ -6,7 +6,7 @@ source_relpath: "1800s/The Village Lawyer by Richard Redgrave (1842).jpeg"
 collection: "1800s"
 inferred_year: "1842"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

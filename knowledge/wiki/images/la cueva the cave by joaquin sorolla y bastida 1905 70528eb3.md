@@ -6,7 +6,7 @@ source_relpath: "1900s/la_cueva_the_cave_by_joaquin_sorolla_y_bastida_1905.jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "joaquin sorolla y bastida"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

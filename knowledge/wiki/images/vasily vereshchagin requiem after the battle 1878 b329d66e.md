@@ -6,7 +6,7 @@ source_relpath: "1800s/vasily_vereshchagin_requiem_after_the_battle_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: ""
+dimensions: "2186x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

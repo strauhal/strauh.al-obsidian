@@ -6,7 +6,7 @@ source_relpath: "photography/Wet Cat With Spiky Fur Staring At Camera.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "540x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

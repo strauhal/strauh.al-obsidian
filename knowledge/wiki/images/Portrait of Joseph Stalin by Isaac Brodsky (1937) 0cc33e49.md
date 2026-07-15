@@ -6,7 +6,7 @@ source_relpath: "1900s/Portrait of Joseph Stalin by Isaac Brodsky (1937).jpg"
 collection: "1900s"
 inferred_year: "1937"
 artist: ""
-dimensions: ""
+dimensions: "1000x1323"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

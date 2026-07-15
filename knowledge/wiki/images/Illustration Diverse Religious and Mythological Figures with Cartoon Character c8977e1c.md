@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Diverse Religious and Mythological Figu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "702x702"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

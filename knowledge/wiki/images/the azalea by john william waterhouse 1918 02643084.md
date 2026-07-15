@@ -6,7 +6,7 @@ source_relpath: "1900s/the_azalea_by_john_william_waterhouse_1918.jpg"
 collection: "1900s"
 inferred_year: "1918"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "1240x1206"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Woman With Red Accents Cradlin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "896x1344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Konoyo by Tim Hecker (2018).jpg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: ""
+dimensions: "3000x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

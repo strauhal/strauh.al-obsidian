@@ -6,7 +6,7 @@ source_relpath: "1900s/jade_beads_by_guy_rose_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "guy rose"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

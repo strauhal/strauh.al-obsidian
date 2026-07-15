@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman In Long Dress By Fireplace.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Fireplace"
-dimensions: ""
+dimensions: "2187x2932"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

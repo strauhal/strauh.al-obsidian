@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Elevated Train and Buildings at 1893 Chicago
 collection: "2000s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "1618x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Photograph - Ele
 - [[knowledge/wiki/images/Green And White Train On Elevated Tracks In Chicago Skyline ec286cad|Green And White Train On Elevated Tracks In Chicago Skyline]] — shared language: elevated, train, chicago
 - [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: train
 - [[knowledge/wiki/concepts/The Flâneur as Web Surfer|The Flâneur as Web Surfer]] — shared language: buildings
-- [[knowledge/wiki/images/World's Columbian Exposition, Chicago (1893) 054ec074|World's Columbian Exposition, Chicago (1893)]] — shared language: world's, chicago
+- [[knowledge/wiki/people/Charles Baudelaire|Charles Baudelaire]] — shared language: fair, chicago
 <!-- vault-crosslinks:end -->

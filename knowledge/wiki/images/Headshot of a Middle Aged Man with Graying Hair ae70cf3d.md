@@ -6,7 +6,7 @@ source_relpath: "photography/Headshot of a Middle-Aged Man with Graying Hair.png
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "400x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

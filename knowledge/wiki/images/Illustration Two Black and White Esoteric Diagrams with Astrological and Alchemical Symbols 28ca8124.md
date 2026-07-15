@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Black and White Esoteric Diagrams w
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

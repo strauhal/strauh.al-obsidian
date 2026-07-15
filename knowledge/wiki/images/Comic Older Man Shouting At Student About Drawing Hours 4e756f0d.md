@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Older Man Shouting At Student About Drawing Hours
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "721x425"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of Generative Drawing with Thr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x2436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

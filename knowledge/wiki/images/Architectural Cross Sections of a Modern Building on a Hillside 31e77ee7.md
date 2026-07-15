@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architectural_Cross-Sections_of_a_Modern_Building_on_a
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

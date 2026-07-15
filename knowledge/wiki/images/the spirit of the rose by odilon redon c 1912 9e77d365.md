@@ -6,7 +6,7 @@ source_relpath: "1900s/the_spirit_of_the_rose_by_odilon_redon_c_1912.jpeg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "odilon redon"
-dimensions: ""
+dimensions: "1630x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

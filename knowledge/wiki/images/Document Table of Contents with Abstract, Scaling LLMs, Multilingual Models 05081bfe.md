@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Table of Contents with Abstract, Scaling LL
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "685x609"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

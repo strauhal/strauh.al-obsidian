@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_oval_by_robert_motherwell_1974.jpeg"
 collection: "1900s"
 inferred_year: "1974"
 artist: "robert motherwell"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

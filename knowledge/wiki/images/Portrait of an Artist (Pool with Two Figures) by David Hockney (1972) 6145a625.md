@@ -6,7 +6,7 @@ source_relpath: "1900s/Portrait of an Artist (Pool with Two Figures) by David Ho
 collection: "1900s"
 inferred_year: "1972"
 artist: ""
-dimensions: ""
+dimensions: "1024x718"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

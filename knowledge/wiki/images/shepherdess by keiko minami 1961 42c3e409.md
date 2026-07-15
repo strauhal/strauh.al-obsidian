@@ -6,7 +6,7 @@ source_relpath: "1900s/shepherdess_by_keiko_minami_1961.jpeg"
 collection: "1900s"
 inferred_year: "1961"
 artist: "keiko minami"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

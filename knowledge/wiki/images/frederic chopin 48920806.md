@@ -6,7 +6,7 @@ source_relpath: "influences/frederic_chopin.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1212x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

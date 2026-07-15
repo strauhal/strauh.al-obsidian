@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Futuristic Book Cover with Blue Light Strea
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

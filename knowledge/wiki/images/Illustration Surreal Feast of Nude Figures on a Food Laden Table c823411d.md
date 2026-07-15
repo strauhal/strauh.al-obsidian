@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal Feast of Nude Figures on a Food-La
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2193x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

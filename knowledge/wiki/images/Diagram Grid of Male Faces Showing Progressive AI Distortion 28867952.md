@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Grid of Male Faces Showing Progressive AI Disto
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "640x683"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

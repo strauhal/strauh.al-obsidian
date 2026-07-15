@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black and White Photo of Math Teachers Prot
 collection: "unsorted"
 inferred_year: ""
 artist: "Associated Press"
-dimensions: ""
+dimensions: "823x1073"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

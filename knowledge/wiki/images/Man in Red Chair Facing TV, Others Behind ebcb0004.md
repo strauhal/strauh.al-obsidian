@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Red Chair Facing TV, Others Behind.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1068x591"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

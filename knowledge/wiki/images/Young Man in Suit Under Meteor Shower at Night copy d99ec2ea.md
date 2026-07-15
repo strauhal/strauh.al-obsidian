@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man in Suit Under Meteor Shower at Night copy
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1066x1421"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

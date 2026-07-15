@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Isometric Pixel Art Building Interior w
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2400x2400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

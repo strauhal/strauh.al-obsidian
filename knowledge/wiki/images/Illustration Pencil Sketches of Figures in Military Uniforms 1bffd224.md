@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Sketches of Figures in Military 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x732"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

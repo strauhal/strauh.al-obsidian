@@ -6,7 +6,7 @@ source_relpath: "photography/Bison Jumping Over Stream In Field Of Yellow Flower
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x375"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

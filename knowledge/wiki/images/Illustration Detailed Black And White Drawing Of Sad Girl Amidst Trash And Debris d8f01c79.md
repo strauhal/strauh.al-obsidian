@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Black And White Drawing Of Sad Gi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "904x1384"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/MountKamagadakeHida-KawaseHasui-JapaneseWo
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1100x1619"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

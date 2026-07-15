@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - In-Game Chat Log with Korean and English 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x786"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

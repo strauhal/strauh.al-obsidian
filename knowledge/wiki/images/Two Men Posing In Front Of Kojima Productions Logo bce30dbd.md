@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Posing In Front Of Kojima Productions Logo.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1616x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

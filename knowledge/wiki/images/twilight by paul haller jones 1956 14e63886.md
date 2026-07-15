@@ -6,7 +6,7 @@ source_relpath: "1900s/twilight_by_paul_haller_jones_1956.jpeg"
 collection: "1900s"
 inferred_year: "1956"
 artist: "paul haller jones"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

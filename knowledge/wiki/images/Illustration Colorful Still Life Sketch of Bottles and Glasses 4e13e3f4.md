@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Colorful Still Life Sketch of Bottles and 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1486"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_princess_maria_nikolaevna_volkonskaya_by_karl
 collection: "1800s"
 inferred_year: "1837"
 artist: "karl bryullov"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

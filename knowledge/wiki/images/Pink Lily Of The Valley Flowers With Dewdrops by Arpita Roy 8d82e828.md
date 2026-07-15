@@ -6,7 +6,7 @@ source_relpath: "photography/Pink Lily Of The Valley Flowers With Dewdrops by Ar
 collection: "photography"
 inferred_year: ""
 artist: "Arpita Roy"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

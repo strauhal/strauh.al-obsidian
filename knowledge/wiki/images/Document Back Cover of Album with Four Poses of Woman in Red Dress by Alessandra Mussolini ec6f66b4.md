@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Back Cover of Album with Four Poses of Woma
 collection: "unsorted"
 inferred_year: ""
 artist: "Alessandra Mussolini"
-dimensions: ""
+dimensions: "600x575"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

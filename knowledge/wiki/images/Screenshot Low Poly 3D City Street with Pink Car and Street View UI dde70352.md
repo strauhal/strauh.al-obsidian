@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Low-Poly 3D City Street with Pink Car and
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x884"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

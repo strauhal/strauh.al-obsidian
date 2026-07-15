@@ -6,7 +6,7 @@ source_relpath: "1900s/steve_jobs_with_macintosh_by_norman_seeff_1984.jpg"
 collection: "1900s"
 inferred_year: "1984"
 artist: "norman seeff"
-dimensions: ""
+dimensions: "1280x1885"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

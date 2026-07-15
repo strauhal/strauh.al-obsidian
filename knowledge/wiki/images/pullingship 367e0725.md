@@ -6,7 +6,7 @@ source_relpath: "diary/pullingship.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4586x2120"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

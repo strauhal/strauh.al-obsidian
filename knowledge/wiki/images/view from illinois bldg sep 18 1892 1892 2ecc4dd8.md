@@ -6,7 +6,7 @@ source_relpath: "1800s/view_from_illinois_bldg_sep_18_1892_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: ""
+dimensions: "5427x2540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

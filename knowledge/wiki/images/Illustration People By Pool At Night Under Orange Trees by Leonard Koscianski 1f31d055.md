@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - People By Pool At Night Under Orange Tr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "743x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

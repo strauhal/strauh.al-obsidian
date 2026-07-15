@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Translucent Pink Figure Adorned with Vibra
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "720x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

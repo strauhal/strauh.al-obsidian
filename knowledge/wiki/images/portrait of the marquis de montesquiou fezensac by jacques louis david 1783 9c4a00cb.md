@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_the_marquis_de_montesquiou_fezensac_by_jacque
 collection: "1700s"
 inferred_year: "1783"
 artist: "jacques louis david"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

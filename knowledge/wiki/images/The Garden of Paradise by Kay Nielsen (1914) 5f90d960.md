@@ -6,7 +6,7 @@ source_relpath: "1900s/The Garden of Paradise by Kay Nielsen (1914).jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: ""
-dimensions: ""
+dimensions: "1048x1408"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

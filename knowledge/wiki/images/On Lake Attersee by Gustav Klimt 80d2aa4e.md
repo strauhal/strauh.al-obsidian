@@ -6,7 +6,7 @@ source_relpath: "unsorted/On Lake Attersee by Gustav Klimt.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Gustav Klimt"
-dimensions: ""
+dimensions: "900x896"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

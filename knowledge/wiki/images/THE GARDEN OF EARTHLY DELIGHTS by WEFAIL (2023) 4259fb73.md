@@ -6,7 +6,7 @@ source_relpath: "2000s/THE GARDEN OF EARTHLY DELIGHTS by WEFAIL (2023).jpeg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "1455x1922"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

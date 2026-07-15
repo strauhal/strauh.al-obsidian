@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Progression of Faces from Realistic to Cartoon
 collection: "unsorted"
 inferred_year: ""
 artist: "Scott McCloud"
-dimensions: ""
+dimensions: "792x571"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

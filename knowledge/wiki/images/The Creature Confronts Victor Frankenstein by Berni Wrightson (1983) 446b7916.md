@@ -6,7 +6,7 @@ source_relpath: "1900s/The Creature Confronts Victor Frankenstein by Berni Wrigh
 collection: "1900s"
 inferred_year: "1983"
 artist: ""
-dimensions: ""
+dimensions: "2034x2970"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

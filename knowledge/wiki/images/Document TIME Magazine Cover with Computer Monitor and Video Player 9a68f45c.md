@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - TIME Magazine Cover with Computer Monitor a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1748x2332"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

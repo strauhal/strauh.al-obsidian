@@ -6,7 +6,7 @@ source_relpath: "photography/Behind-The-Scenes Photograph of Ewan McGregor Filmi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "775x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

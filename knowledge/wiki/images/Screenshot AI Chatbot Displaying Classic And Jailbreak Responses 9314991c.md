@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - AI Chatbot Displaying Classic And Jailbre
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1075x684"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/victor_frankenstein_watches_over_the_creature_by_berni_wr
 collection: "1900s"
 inferred_year: "1983"
 artist: "berni wrightson"
-dimensions: ""
+dimensions: "1032x956"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

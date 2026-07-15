@@ -6,7 +6,7 @@ source_relpath: "1900s/princess_ozma_by_john_r_neill_1909.png"
 collection: "1900s"
 inferred_year: "1909"
 artist: "john r neill"
-dimensions: ""
+dimensions: "526x736"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

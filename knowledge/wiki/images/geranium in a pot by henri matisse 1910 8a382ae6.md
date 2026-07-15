@@ -6,7 +6,7 @@ source_relpath: "1900s/geranium_in_a_pot_by_henri_matisse_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

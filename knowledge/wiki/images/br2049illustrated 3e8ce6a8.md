@@ -6,7 +6,7 @@ source_relpath: "wallpapers/br2049illustrated.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3200x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

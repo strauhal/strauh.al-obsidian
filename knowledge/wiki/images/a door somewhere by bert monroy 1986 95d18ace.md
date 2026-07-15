@@ -6,7 +6,7 @@ source_relpath: "1900s/a_door_somewhere_by_bert_monroy_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "bert monroy"
-dimensions: ""
+dimensions: "1900x2288"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

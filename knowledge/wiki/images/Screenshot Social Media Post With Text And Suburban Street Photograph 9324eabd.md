@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Social Media Post With Text And Suburban 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "512x502"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

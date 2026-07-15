@@ -6,7 +6,7 @@ source_relpath: "1900s/maniac_mansion_dave_s_room_scene_by_lucasfilm_games_1987.
 collection: "1900s"
 inferred_year: "1987"
 artist: "lucasfilm games"
-dimensions: ""
+dimensions: "455x423"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two People Posing Against A Plain Background.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

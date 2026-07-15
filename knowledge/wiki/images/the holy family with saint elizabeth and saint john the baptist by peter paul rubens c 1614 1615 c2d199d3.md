@@ -6,7 +6,7 @@ source_relpath: "1600s/the_holy_family_with_saint_elizabeth_and_saint_john_the_b
 collection: "1600s"
 inferred_year: "1615"
 artist: "peter paul rubens"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

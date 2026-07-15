@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Geometric Pattern Diagram with Red, Black, and 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "774x698"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

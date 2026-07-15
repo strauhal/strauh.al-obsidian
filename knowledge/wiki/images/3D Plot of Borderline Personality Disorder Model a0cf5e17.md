@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Plot_of_Borderline_Personality_Disorder_Model.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x646"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

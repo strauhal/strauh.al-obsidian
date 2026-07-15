@@ -6,7 +6,7 @@ source_relpath: "photography/Computer Angel Pin on Retail Packaging.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "681x931"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

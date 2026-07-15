@@ -6,7 +6,7 @@ source_relpath: "photography/Sumo Wrestlers Posing In A Field Of Sunflowers by K
 collection: "photography"
 inferred_year: ""
 artist: "Katsuaki"
-dimensions: ""
+dimensions: "978x1020"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

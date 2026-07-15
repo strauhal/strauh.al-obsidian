@@ -6,7 +6,7 @@ source_relpath: "1800s/valdemar_atterdag_holding_visby_to_ransom_1361_by_gustaf_
 collection: "1800s"
 inferred_year: "1882"
 artist: "gustaf hellquist"
-dimensions: ""
+dimensions: "3731x2309"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

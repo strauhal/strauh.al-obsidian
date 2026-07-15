@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Black and White Portrait of Hegel with Humorous T
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "680x253"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

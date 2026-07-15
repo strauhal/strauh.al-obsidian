@@ -6,7 +6,7 @@ source_relpath: "1900s/study_for_the_dance_by_henri_matisse_1909.png"
 collection: "1900s"
 inferred_year: "1909"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "500x309"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

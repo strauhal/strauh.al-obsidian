@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Looking Right With Bokeh City Lights At Night.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

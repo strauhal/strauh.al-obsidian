@@ -6,7 +6,7 @@ source_relpath: "photography/Men Working At Drafting Tables In Large Office.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1045x1045"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Five Drinking Glasses with Rose Stems and Red Liqui
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1134x1134"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Anime Girl Looking At Shrimp In Aquarium With Pun
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x969"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/High-Speed Trains Parked In A Lit Train Yard At Nig
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

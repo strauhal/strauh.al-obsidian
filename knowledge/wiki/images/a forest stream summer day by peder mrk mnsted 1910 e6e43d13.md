@@ -6,7 +6,7 @@ source_relpath: "1900s/a_forest_stream_summer_day_by_peder_mrk_mnsted_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "peder mrk mnsted"
-dimensions: ""
+dimensions: "2000x1415"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

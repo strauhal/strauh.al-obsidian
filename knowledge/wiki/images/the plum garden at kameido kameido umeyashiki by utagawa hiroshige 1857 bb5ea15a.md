@@ -6,7 +6,7 @@ source_relpath: "1800s/the_plum_garden_at_kameido_kameido_umeyashiki_by_utagawa_
 collection: "1800s"
 inferred_year: "1857"
 artist: "utagawa hiroshige"
-dimensions: ""
+dimensions: "2041x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

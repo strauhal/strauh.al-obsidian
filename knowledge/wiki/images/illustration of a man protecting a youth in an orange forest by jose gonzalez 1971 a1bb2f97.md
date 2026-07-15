@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_of_a_man_protecting_a_youth_in_an_orange_for
 collection: "1900s"
 inferred_year: "1971"
 artist: "jose gonzalez"
-dimensions: ""
+dimensions: "2292x3056"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

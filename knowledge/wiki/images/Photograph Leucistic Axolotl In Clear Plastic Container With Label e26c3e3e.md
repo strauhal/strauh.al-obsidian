@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Leucistic Axolotl In Clear Plastic Container
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1349"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

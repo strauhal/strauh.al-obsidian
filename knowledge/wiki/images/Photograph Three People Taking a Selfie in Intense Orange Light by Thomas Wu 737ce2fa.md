@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Three People Taking a Selfie in Intense Oran
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Thomas Wu"
-dimensions: ""
+dimensions: "1024x683"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

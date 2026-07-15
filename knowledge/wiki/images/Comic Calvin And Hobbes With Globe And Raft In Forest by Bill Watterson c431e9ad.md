@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Calvin And Hobbes With Globe And Raft In Forest b
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Bill Watterson"
-dimensions: ""
+dimensions: "860x491"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

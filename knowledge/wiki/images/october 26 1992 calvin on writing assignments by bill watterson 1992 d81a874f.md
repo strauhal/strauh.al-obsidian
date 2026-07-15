@@ -6,7 +6,7 @@ source_relpath: "1900s/october_26_1992_calvin_on_writing_assignments_by_bill_wat
 collection: "1900s"
 inferred_year: "1992"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "596x756"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

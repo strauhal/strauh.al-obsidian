@@ -6,7 +6,7 @@ source_relpath: "photography/Martin Luther King Jr. Speaking at March on Washing
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1110x732"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

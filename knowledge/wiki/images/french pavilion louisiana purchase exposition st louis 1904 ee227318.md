@@ -6,7 +6,7 @@ source_relpath: "1900s/french_pavilion_louisiana_purchase_exposition_st_louis_19
 collection: "1900s"
 inferred_year: "1904"
 artist: ""
-dimensions: ""
+dimensions: "6000x4842"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Vintage Green Text Spreadsheet Displaying
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "560x384"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

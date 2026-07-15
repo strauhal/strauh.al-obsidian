@@ -6,7 +6,7 @@ source_relpath: "1500s/madonna_with_the_pear_by_albrecht_durer_1512.jpeg"
 collection: "1500s"
 inferred_year: "1512"
 artist: "albrecht durer"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

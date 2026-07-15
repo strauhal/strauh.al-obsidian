@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Still Life Painting of Bottle and Glass
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "980x654"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

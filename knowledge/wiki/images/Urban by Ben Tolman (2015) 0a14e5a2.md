@@ -6,7 +6,7 @@ source_relpath: "2000s/Urban by Ben Tolman (2015).jpg"
 collection: "2000s"
 inferred_year: "2015"
 artist: ""
-dimensions: ""
+dimensions: "3375x5170"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

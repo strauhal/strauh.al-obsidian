@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Hand-Drawn Cubes Transitioning from Sol
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1007"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

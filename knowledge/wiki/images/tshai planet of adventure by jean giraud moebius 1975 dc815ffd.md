@@ -6,7 +6,7 @@ source_relpath: "1900s/tshai_planet_of_adventure_by_jean_giraud_moebius_1975.jpg
 collection: "1900s"
 inferred_year: "1975"
 artist: "jean giraud moebius"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

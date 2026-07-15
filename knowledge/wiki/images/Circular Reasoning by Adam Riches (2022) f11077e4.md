@@ -6,7 +6,7 @@ source_relpath: "2000s/Circular Reasoning by Adam Riches (2022).jpeg"
 collection: "2000s"
 inferred_year: "2022"
 artist: ""
-dimensions: ""
+dimensions: "1780x1767"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

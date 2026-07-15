@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Watercolor and Ink Drawing of a Cellular T
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2981x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

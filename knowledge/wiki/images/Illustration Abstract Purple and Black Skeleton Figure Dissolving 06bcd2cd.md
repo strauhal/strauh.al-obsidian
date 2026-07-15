@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Purple and Black Skeleton Figu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "680x491"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

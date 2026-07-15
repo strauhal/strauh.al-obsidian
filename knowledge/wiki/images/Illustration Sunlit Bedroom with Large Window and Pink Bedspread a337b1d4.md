@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sunlit Bedroom with Large Window and Pi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1177x1789"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

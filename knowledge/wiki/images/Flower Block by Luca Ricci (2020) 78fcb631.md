@@ -6,7 +6,7 @@ source_relpath: "2000s/Flower Block by Luca Ricci (2020).jpeg"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: ""
+dimensions: "1440x1795"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Ink Drawing Of BlackWar
 collection: "unsorted"
 inferred_year: ""
 artist: "TolgArt"
-dimensions: ""
+dimensions: "4950x3474"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

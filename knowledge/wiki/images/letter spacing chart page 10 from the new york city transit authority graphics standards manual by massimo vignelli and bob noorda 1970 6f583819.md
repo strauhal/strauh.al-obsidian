@@ -6,7 +6,7 @@ source_relpath: "1900s/letter_spacing_chart_page_10_from_the_new_york_city_trans
 collection: "1900s"
 inferred_year: "1970"
 artist: "massimo vignelli and bob noorda"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

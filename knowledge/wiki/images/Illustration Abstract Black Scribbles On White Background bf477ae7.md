@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Black Scribbles On White Backg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4000x2800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

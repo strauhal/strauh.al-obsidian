@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - It's a Miracle We Ever Met by Hallie Ba
 collection: "unsorted"
 inferred_year: ""
 artist: "Hallie Bateman"
-dimensions: ""
+dimensions: "960x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/julnatt_by_gustaf_hesselbom_1894.jpeg"
 collection: "1800s"
 inferred_year: "1894"
 artist: "gustaf hesselbom"
-dimensions: ""
+dimensions: "731x565"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

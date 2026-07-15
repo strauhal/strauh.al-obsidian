@@ -6,7 +6,7 @@ source_relpath: "1600s/elijah_fed_by_the_angel_by_gerard_seghers_c_1640.jpg"
 collection: "1600s"
 inferred_year: "1640"
 artist: ""
-dimensions: ""
+dimensions: "1024x905"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

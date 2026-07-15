@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Alligator with Human 
 collection: "photography"
 inferred_year: ""
 artist: "Helmut Newton"
-dimensions: ""
+dimensions: "1060x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

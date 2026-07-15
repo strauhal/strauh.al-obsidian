@@ -6,7 +6,7 @@ source_relpath: "1800s/william_morris_by_frederick_hollyer_1884.jpg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "frederick hollyer"
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

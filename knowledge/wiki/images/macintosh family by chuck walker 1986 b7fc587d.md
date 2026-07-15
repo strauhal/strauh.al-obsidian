@@ -6,7 +6,7 @@ source_relpath: "1900s/macintosh_family_by_chuck_walker_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "chuck walker"
-dimensions: ""
+dimensions: "642x846"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

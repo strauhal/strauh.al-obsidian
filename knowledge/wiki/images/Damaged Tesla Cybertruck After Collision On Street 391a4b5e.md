@@ -6,7 +6,7 @@ source_relpath: "photography/Damaged Tesla Cybertruck After Collision On Street.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x1689"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

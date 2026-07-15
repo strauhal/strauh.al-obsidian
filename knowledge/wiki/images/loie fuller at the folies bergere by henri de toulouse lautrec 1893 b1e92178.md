@@ -6,7 +6,7 @@ source_relpath: "1800s/loie_fuller_at_the_folies_bergere_by_henri_de_toulouse_la
 collection: "1800s"
 inferred_year: "1893"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

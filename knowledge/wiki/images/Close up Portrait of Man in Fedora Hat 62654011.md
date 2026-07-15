@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up Portrait of Man in Fedora Hat.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1232x1228"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

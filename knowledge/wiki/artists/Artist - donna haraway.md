@@ -22,5 +22,5 @@ Images attributed by filename: 1
 
 - [[knowledge/wiki/books/rudolf-arnheim-art-and-visual-perception-second-edition-a-psychology-of|Art and Visual Perception, Second Edition A Psychology of]] — shared language: second
 - [[knowledge/wiki/images/the second coming by peter saul 1969 75bb7b97|the second coming by peter saul 1969]] — shared language: second
-- [[knowledge/wiki/images/fire at the second cliff house san francisco 1907 188b1295|fire at the second cliff house san francisco 1907]] — shared language: second
+- [[knowledge/wiki/artists/Artist - don harridge|Artist - don harridge]] — nearby note in the same source series
 <!-- vault-crosslinks:end -->

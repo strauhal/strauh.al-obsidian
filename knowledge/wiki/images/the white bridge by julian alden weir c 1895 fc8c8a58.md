@@ -6,7 +6,7 @@ source_relpath: "1800s/the_white_bridge_by_julian_alden_weir_c_1895.jpeg"
 collection: "1800s"
 inferred_year: "1895"
 artist: "julian alden weir"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

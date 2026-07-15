@@ -6,7 +6,7 @@ source_relpath: "1900s/general_von_wolkern_1912.jpeg"
 collection: "1900s"
 inferred_year: "1912"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

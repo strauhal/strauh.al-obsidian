@@ -6,7 +6,7 @@ source_relpath: "1900s/man_in_trench_coat_by_antonio_lopez_c_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "antonio lopez"
-dimensions: ""
+dimensions: "1280x1766"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

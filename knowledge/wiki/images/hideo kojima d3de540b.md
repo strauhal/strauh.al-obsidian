@@ -6,7 +6,7 @@ source_relpath: "influences/hideo_kojima.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1616"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

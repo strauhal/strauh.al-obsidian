@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Underlined Text '(You)' on Light Backgrou
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "146x62"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

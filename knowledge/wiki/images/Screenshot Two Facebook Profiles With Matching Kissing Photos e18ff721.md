@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Two Facebook Profiles With Matching Kissi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "748x774"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

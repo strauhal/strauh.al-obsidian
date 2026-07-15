@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_a_black_man_by_jean_baptiste_greuze_c_1757.jp
 collection: "1700s"
 inferred_year: "1757"
 artist: "jean baptiste greuze"
-dimensions: ""
+dimensions: "563x738"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

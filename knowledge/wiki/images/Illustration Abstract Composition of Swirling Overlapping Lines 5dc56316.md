@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Composition of Swirling Overla
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2100x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

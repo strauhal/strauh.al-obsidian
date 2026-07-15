@@ -6,7 +6,7 @@ source_relpath: "1600s/govert_flinck_the_return_of_the_prodigal_son_1642.jpg"
 collection: "1600s"
 inferred_year: "1642"
 artist: ""
-dimensions: ""
+dimensions: "2531x3519"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grid of 72 Black and White Occult Sigils w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1519"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

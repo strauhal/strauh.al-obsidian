@@ -6,7 +6,7 @@ source_relpath: "1800s/the_banjo_player_by_william_sidney_mount_1856.jpeg"
 collection: "1800s"
 inferred_year: "1856"
 artist: "william sidney mount"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

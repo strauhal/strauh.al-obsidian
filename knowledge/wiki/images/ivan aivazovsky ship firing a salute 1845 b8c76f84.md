@@ -6,7 +6,7 @@ source_relpath: "1800s/ivan_aivazovsky_ship_firing_a_salute_1845.jpg"
 collection: "1800s"
 inferred_year: "1845"
 artist: ""
-dimensions: ""
+dimensions: "1577x826"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

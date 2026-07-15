@@ -6,7 +6,7 @@ source_relpath: "diagrams/Graph_Comparing_Mental_Hospital_And_Prison_Populations
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "578x559"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

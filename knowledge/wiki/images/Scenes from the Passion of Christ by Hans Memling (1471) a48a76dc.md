@@ -6,7 +6,7 @@ source_relpath: "1400s/Scenes from the Passion of Christ by Hans Memling (1471).
 collection: "1400s"
 inferred_year: "1471"
 artist: ""
-dimensions: ""
+dimensions: "3200x1924"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

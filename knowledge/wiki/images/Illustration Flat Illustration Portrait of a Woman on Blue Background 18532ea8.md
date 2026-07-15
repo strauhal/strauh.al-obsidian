@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Flat Illustration Portrait of a Woman o
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "860x996"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

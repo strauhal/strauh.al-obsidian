@@ -6,7 +6,7 @@ source_relpath: "1500s/virginia_de_medici_with_her_children_by_alessandro_allori
 collection: "1500s"
 inferred_year: "1586"
 artist: "alessandro allori"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

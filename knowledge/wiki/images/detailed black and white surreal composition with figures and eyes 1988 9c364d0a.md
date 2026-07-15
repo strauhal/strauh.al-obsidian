@@ -6,7 +6,7 @@ source_relpath: "1900s/detailed_black_and_white_surreal_composition_with_figures
 collection: "1900s"
 inferred_year: "1988"
 artist: ""
-dimensions: ""
+dimensions: "818x1060"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

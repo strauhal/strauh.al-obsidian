@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Watching World Trade Center Towers Smoking.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "959x1279"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

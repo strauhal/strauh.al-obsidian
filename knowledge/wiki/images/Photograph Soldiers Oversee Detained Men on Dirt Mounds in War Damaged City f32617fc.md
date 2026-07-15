@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Soldiers Oversee Detained Men on Dirt Mounds
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "600x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

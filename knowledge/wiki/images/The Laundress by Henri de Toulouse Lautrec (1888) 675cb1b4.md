@@ -6,7 +6,7 @@ source_relpath: "1800s/The Laundress by Henri de Toulouse-Lautrec (1888).jpeg"
 collection: "1800s"
 inferred_year: "1888"
 artist: ""
-dimensions: ""
+dimensions: "1362x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

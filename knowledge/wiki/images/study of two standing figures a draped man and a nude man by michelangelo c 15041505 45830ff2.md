@@ -6,7 +6,7 @@ source_relpath: "1500s/study_of_two_standing_figures_a_draped_man_and_a_nude_man
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

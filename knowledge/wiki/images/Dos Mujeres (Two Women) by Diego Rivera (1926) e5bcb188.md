@@ -6,7 +6,7 @@ source_relpath: "1900s/Dos Mujeres (Two Women) by Diego Rivera (1926).jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

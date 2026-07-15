@@ -6,7 +6,7 @@ source_relpath: "1900s/the_path_by_michael_parkes_1988.jpg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "michael parkes"
-dimensions: ""
+dimensions: "1267x1700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

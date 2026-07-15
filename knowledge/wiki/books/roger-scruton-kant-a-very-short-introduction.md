@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Kant A Very Short Introduction (Very Short Introductions)]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Kant_ A Very Short Introduction (Very Short Introductions).epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Kant: A Very Short Introduction

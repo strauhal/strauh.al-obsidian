@@ -6,7 +6,7 @@ source_relpath: "1800s/woman_reading_at_a_table_la_liseuse_by_henri_de_toulouse_
 collection: "1800s"
 inferred_year: "1897"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "2069x2500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

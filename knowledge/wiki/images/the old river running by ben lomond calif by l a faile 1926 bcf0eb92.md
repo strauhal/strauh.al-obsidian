@@ -6,7 +6,7 @@ source_relpath: "1900s/the_old_river_running_by_ben_lomond_calif_by_l_a_faile_19
 collection: "1900s"
 inferred_year: "1926"
 artist: "ben lomond calif by l a faile"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

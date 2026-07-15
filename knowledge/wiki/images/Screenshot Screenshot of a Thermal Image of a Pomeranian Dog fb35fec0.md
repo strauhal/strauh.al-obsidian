@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Thermal Image of a Pomera
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1120x962"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

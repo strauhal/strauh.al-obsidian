@@ -6,7 +6,7 @@ source_relpath: "1900s/the_mattress_by_eric_fischl_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "eric fischl"
-dimensions: ""
+dimensions: "790x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

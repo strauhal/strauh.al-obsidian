@@ -6,7 +6,7 @@ source_relpath: "photography/Person Viewing Framed Photograph In Gallery.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x1025"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

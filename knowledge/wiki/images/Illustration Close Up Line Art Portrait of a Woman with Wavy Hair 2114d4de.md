@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Close-Up Line Art Portrait of a Woman with
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1800x1402"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

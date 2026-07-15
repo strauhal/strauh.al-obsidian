@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sun_saule_by_mikalojus_konstantinas_ciurlionis_1905_1
 collection: "1900s"
 inferred_year: "1906"
 artist: "mikalojus konstantinas ciurlionis"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

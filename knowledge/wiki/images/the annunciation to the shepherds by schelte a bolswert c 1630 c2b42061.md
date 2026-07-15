@@ -6,7 +6,7 @@ source_relpath: "1600s/the_annunciation_to_the_shepherds_by_schelte_a_bolswert_c
 collection: "1600s"
 inferred_year: "1630"
 artist: "schelte a bolswert"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

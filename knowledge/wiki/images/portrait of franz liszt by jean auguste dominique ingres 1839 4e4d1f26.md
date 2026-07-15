@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_franz_liszt_by_jean_auguste_dominique_ingres_
 collection: "1800s"
 inferred_year: "1839"
 artist: "jean auguste dominique ingres"
-dimensions: ""
+dimensions: "1262x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

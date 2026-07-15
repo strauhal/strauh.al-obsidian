@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Close-Up Of Human Eye With Severe Conjunctiv
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "720x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

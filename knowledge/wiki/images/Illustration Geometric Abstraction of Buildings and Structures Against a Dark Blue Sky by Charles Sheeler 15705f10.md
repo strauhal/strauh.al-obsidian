@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Geometric Abstraction of Buildings and 
 collection: "unsorted"
 inferred_year: ""
 artist: "Charles Sheeler"
-dimensions: ""
+dimensions: "550x509"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

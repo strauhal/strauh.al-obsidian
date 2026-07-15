@@ -6,7 +6,7 @@ source_relpath: "2000s/Saint Jerome Writing by Caravaggio (1605-1606).jpg"
 collection: "2000s"
 inferred_year: "1606"
 artist: ""
-dimensions: ""
+dimensions: "1200x856"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

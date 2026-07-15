@@ -6,7 +6,7 @@ source_relpath: "1900s/pencil_drawing_of_a_convoluted_organic_figure_by_hans_bel
 collection: "1900s"
 inferred_year: "1937"
 artist: "hans bellmer"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

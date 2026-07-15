@@ -6,7 +6,7 @@ source_relpath: "1800s/edward_william_cooke_the_dogana_and_santa_maria_della_sal
 collection: "1800s"
 inferred_year: "1851"
 artist: ""
-dimensions: ""
+dimensions: "6414x3696"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

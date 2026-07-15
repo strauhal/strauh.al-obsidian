@@ -6,7 +6,7 @@ source_relpath: "2000s/Reader by Simon Leclerc (2025).jpeg"
 collection: "2000s"
 inferred_year: "2025"
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Rainy Tokyo Street at Night with Neon Signs 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Greg Girard"
-dimensions: ""
+dimensions: "1440x966"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

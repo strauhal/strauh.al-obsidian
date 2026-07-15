@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of A Trumpet Player On S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "786x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

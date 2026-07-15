@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman Offering Flowers To Incense Burne
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1101"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

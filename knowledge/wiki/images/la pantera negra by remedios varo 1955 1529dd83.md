@@ -6,7 +6,7 @@ source_relpath: "1900s/la_pantera_negra_by_remedios_varo_1955.jpg"
 collection: "1900s"
 inferred_year: "1955"
 artist: "remedios varo"
-dimensions: ""
+dimensions: "1125x1125"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

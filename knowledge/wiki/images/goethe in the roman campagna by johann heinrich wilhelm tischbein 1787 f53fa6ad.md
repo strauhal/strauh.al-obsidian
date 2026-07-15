@@ -6,7 +6,7 @@ source_relpath: "1700s/goethe_in_the_roman_campagna_by_johann_heinrich_wilhelm_t
 collection: "1700s"
 inferred_year: "1787"
 artist: "johann heinrich wilhelm tischbein"
-dimensions: ""
+dimensions: "2421x1902"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

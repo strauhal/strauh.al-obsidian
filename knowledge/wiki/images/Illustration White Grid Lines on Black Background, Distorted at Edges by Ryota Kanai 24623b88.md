@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - White Grid Lines on Black Background, D
 collection: "unsorted"
 inferred_year: ""
 artist: "Ryota Kanai"
-dimensions: ""
+dimensions: "1080x705"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

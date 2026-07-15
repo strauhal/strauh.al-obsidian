@@ -6,7 +6,7 @@ source_relpath: "2000s/The Flight of the Prisoners by James Tissot (1896-1902).j
 collection: "2000s"
 inferred_year: "1902"
 artist: ""
-dimensions: ""
+dimensions: "1200x819"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

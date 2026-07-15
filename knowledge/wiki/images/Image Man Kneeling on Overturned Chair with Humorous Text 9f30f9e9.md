@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Man Kneeling on Overturned Chair with Humorous
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "519x648"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

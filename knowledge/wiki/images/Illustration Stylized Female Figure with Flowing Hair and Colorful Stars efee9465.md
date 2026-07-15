@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Female Figure with Flowing Hai
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1621x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

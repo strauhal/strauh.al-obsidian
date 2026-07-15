@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man In Cap And Scarf Carrying Guitar Case.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "725x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

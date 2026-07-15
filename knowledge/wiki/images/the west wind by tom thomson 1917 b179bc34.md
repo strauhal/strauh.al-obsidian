@@ -6,7 +6,7 @@ source_relpath: "1900s/the_west_wind_by_tom_thomson_1917.jpeg"
 collection: "1900s"
 inferred_year: "1917"
 artist: "tom thomson"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

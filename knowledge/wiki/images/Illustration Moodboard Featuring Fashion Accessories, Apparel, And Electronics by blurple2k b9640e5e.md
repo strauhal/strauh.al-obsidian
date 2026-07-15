@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Moodboard Featuring Fashion Accessories
 collection: "unsorted"
 inferred_year: ""
 artist: "blurple2k"
-dimensions: ""
+dimensions: "1180x1140"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/flix_gonzleztorres_untitled_curtain_installation_early_19
 collection: "1900s"
 inferred_year: "1990"
 artist: ""
-dimensions: ""
+dimensions: "1200x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

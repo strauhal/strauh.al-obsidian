@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/Cg5ccdRW0AA09xr.jpg-large.jpeg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1549"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

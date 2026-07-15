@@ -6,7 +6,7 @@ source_relpath: "photography/National Guard Soldiers Patrol Street with Trump Ba
 collection: "photography"
 inferred_year: ""
 artist: "J. Scott Applewhite"
-dimensions: ""
+dimensions: "980x764"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

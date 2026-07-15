@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_anne_vallayer_coster_by_alexander_roslin_1780
 collection: "1700s"
 inferred_year: "1780"
 artist: "alexander roslin"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Line_Graph_Showing_Deaths_of_Despair_and_Components_Ov
 collection: "diagrams"
 inferred_year: ""
 artist: "infraa"
-dimensions: ""
+dimensions: "1086x704"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

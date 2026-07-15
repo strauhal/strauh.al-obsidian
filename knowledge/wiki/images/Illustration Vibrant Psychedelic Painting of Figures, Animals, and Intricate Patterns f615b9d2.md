@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Vibrant Psychedelic Painting of Figures, A
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x896"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

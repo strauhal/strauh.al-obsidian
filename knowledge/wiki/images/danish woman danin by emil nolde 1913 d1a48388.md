@@ -6,7 +6,7 @@ source_relpath: "1900s/danish_woman_danin_by_emil_nolde_1913.jpeg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "emil nolde"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

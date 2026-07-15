@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Line Drawing of Three Stylized 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1428x1452"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

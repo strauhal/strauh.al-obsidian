@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Vagabond by Takehiko Inoue.png"
 collection: "unsorted"
 inferred_year: ""
 artist: "Takehiko Inoue"
-dimensions: ""
+dimensions: "1080x795"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

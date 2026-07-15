@@ -6,7 +6,7 @@ source_relpath: "1900s/the_lifesaver_by_norman_rockwell_1959.jpg"
 collection: "1900s"
 inferred_year: "1959"
 artist: "norman rockwell"
-dimensions: ""
+dimensions: "1000x1250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

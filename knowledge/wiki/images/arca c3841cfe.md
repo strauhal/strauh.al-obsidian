@@ -6,7 +6,7 @@ source_relpath: "influences/arca.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_incredulity_of_thomas_by_carl_bloch_1881.jpg"
 collection: "1800s"
 inferred_year: "1881"
 artist: "carl bloch"
-dimensions: ""
+dimensions: "1287x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

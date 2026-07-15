@@ -6,7 +6,7 @@ source_relpath: "1800s/Haystacks, Morning, Éragny by Camille Pissarro (1899).jp
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: ""
+dimensions: "1000x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

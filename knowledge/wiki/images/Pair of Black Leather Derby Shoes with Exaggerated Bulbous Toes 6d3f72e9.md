@@ -6,7 +6,7 @@ source_relpath: "photography/Pair of Black Leather Derby Shoes with Exaggerated 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1100x1480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

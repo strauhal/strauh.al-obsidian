@@ -6,7 +6,7 @@ source_relpath: "photography/Rack of Black T-Shirts in a Store.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x2001"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

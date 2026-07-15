@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Portrait Of A Woman In Yellow Shawl And
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Line Drawing with Dense Centra
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1132"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

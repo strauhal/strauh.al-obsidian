@@ -6,7 +6,7 @@ source_relpath: "1800s/baby_s_first_caress_by_mary_cassatt_1891.jpeg"
 collection: "1800s"
 inferred_year: "1891"
 artist: "mary cassatt"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

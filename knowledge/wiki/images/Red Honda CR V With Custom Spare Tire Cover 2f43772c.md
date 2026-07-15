@@ -6,7 +6,7 @@ source_relpath: "photography/Red Honda CR-V With Custom Spare Tire Cover.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "861x1148"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

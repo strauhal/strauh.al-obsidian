@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Hand With Red And Yellow High
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

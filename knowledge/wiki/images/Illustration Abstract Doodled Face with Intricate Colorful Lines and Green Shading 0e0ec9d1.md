@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Doodled Face with Intricate Co
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

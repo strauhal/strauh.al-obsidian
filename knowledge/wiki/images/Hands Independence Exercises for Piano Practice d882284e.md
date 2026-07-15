@@ -6,7 +6,7 @@ source_relpath: "diagrams/Hands_Independence_Exercises_for_Piano_Practice.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "970x1444"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

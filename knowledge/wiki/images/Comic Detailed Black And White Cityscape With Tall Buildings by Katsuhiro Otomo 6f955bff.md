@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Detailed Black And White Cityscape With Tall B
 collection: "unsorted"
 inferred_year: ""
 artist: "Katsuhiro Otomo"
-dimensions: ""
+dimensions: "1600x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

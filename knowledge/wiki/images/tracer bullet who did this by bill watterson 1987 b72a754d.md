@@ -6,7 +6,7 @@ source_relpath: "1900s/tracer_bullet_who_did_this_by_bill_watterson_1987.jpg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "869x1844"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

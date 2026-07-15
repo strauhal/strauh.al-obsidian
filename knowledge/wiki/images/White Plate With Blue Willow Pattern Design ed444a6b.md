@@ -6,7 +6,7 @@ source_relpath: "photography/White Plate With Blue Willow Pattern Design.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1124x1130"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

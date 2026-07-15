@@ -6,7 +6,7 @@ source_relpath: "1700s/st_peters_basilica_interior_pannini_1735_jpg.jpg"
 collection: "1700s"
 inferred_year: "1735"
 artist: ""
-dimensions: ""
+dimensions: "2188x1507"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

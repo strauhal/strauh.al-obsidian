@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Bartender from The Town with No Name by Delt
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Delta 4"
-dimensions: ""
+dimensions: "499x276"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

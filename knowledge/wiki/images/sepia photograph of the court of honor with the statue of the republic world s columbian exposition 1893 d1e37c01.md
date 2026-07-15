@@ -6,7 +6,7 @@ source_relpath: "1800s/sepia_photograph_of_the_court_of_honor_with_the_statue_of
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4732x3712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Six Dark Themed Pixel Art Comic Panels with Te
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

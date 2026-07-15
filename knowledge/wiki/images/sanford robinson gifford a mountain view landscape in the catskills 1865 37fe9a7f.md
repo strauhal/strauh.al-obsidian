@@ -6,7 +6,7 @@ source_relpath: "1800s/sanford_robinson_gifford_a_mountain_view_landscape_in_the
 collection: "1800s"
 inferred_year: "1865"
 artist: ""
-dimensions: ""
+dimensions: "3840x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

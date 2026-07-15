@@ -6,7 +6,7 @@ source_relpath: "1500s/head_of_a_woman_la_scapigliata_by_leonardo_da_vinci_c_150
 collection: "1500s"
 inferred_year: "1508"
 artist: "leonardo da vinci"
-dimensions: ""
+dimensions: "607x780"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

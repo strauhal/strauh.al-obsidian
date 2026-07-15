@@ -4,8 +4,8 @@ type: map
 status: synthesized
 tags: [map, profile, creative-practice, chatgpt-memory]
 sources: ["[[ChatGPT Memory Summary]]", "[[about]]", "[[diary]]", "[[influences]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Map - Ernest Creative Profile

@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of A Small Display Module Showing App Icon
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1596x1154"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

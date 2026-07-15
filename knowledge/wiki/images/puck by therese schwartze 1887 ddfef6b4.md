@@ -6,7 +6,7 @@ source_relpath: "1800s/puck_by_therese_schwartze_1887.jpg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "therese schwartze"
-dimensions: ""
+dimensions: "1412x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man Kneeling Before Woman Outdoors.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "126x174"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

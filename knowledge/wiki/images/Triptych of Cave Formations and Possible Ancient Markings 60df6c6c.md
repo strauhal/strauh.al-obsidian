@@ -6,7 +6,7 @@ source_relpath: "photography/Triptych of Cave Formations and Possible Ancient Ma
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3800x2280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

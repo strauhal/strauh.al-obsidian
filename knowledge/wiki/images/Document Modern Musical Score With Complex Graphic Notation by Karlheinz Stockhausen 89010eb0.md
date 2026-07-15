@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Modern Musical Score With Complex Graphic N
 collection: "unsorted"
 inferred_year: ""
 artist: "Karlheinz Stockhausen"
-dimensions: ""
+dimensions: "1218x816"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

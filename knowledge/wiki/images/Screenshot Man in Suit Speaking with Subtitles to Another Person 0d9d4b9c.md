@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Man in Suit Speaking with Subtitles to An
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1148"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

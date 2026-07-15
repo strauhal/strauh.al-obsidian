@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/Art_of_Moebius_.jpeg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1456"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

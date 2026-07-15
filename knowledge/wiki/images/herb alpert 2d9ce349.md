@@ -6,7 +6,7 @@ source_relpath: "influences/herb_alpert.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "726x726"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

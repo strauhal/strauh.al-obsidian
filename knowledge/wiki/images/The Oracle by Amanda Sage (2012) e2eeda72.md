@@ -6,7 +6,7 @@ source_relpath: "2000s/The Oracle by Amanda Sage (2012).jpg"
 collection: "2000s"
 inferred_year: "2012"
 artist: ""
-dimensions: ""
+dimensions: "540x735"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

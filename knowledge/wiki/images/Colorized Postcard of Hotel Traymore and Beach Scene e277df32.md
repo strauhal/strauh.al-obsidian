@@ -6,7 +6,7 @@ source_relpath: "photography/Colorized Postcard of Hotel Traymore and Beach Scen
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x652"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

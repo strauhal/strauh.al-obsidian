@@ -6,7 +6,7 @@ source_relpath: "1800s/Night View of Saruwaka-machi by Utagawa Hiroshige (1856).
 collection: "1800s"
 inferred_year: "1856"
 artist: ""
-dimensions: ""
+dimensions: "1280x1411"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

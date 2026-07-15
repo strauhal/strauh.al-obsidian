@@ -6,7 +6,7 @@ source_relpath: "1900s/mao_by_andy_warhol_1973.jpeg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "andy warhol"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Mind_Map_of_Art_Criticism_Throughout_History.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1492"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

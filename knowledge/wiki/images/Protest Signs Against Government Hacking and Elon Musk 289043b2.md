@@ -6,7 +6,7 @@ source_relpath: "photography/Protest Signs Against Government Hacking and Elon M
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x969"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

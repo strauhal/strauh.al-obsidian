@@ -6,7 +6,7 @@ source_relpath: "1800s/Vase of Flowers by George Henry Hall (1879).jpeg"
 collection: "1800s"
 inferred_year: "1879"
 artist: ""
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

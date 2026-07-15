@@ -6,7 +6,7 @@ source_relpath: "1900s/the_family_by_chaim_soutine_c_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: "chaim soutine"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

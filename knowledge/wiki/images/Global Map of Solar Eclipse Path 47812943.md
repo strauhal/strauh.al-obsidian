@@ -6,7 +6,7 @@ source_relpath: "diagrams/Global_Map_of_Solar_Eclipse_Path.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1114"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

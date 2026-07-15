@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Intricate Colorful Tilework Ceiling with Geo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1646x1242"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

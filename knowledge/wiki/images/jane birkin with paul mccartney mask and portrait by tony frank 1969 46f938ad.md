@@ -6,7 +6,7 @@ source_relpath: "1900s/jane_birkin_with_paul_mccartney_mask_and_portrait_by_tony
 collection: "1900s"
 inferred_year: "1969"
 artist: "tony frank"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

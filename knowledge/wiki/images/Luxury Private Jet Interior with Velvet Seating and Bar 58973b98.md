@@ -6,7 +6,7 @@ source_relpath: "photography/Luxury Private Jet Interior with Velvet Seating and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1138x1452"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

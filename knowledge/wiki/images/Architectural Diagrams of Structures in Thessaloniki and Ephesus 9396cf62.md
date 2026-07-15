@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architectural_Diagrams_of_Structures_in_Thessaloniki_a
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1102x1572"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

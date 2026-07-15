@@ -6,7 +6,7 @@ source_relpath: "1900s/vinterdag_i_dyrehaven_by_peder_mrk_mnsted_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "peder mrk mnsted"
-dimensions: ""
+dimensions: "3840x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

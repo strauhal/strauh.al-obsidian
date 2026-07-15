@@ -6,7 +6,7 @@ source_relpath: "1900s/la_biblioteca_de_babel_by_pablo_echaurren_1975.jpeg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "pablo echaurren"
-dimensions: ""
+dimensions: "1024x680"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

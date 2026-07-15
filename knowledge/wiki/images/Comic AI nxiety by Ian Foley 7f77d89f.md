@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - AI-nxiety by Ian Foley.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Ian Foley"
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

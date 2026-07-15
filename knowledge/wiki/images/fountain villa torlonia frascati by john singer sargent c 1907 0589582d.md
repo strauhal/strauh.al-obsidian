@@ -6,7 +6,7 @@ source_relpath: "1900s/fountain_villa_torlonia_frascati_by_john_singer_sargent_c
 collection: "1900s"
 inferred_year: "1907"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "626x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/le_serment_by_nicolas_de_launay_1780.jpeg"
 collection: "1700s"
 inferred_year: "1780"
 artist: "nicolas de launay"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

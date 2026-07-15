@@ -6,7 +6,7 @@ source_relpath: "photography/Tennis Serve by Harold Edgerton.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Harold Edgerton"
-dimensions: ""
+dimensions: "640x520"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

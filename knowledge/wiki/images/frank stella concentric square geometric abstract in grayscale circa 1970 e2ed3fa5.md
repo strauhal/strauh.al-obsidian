@@ -6,7 +6,7 @@ source_relpath: "1900s/frank_stella_concentric_square_geometric_abstract_in_gray
 collection: "1900s"
 inferred_year: "1970"
 artist: ""
-dimensions: ""
+dimensions: "1414x1413"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

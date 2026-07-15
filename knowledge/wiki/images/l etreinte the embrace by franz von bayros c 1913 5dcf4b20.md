@@ -6,7 +6,7 @@ source_relpath: "1900s/l_etreinte_the_embrace_by_franz_von_bayros_c_1913.jpeg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "franz von bayros"
-dimensions: ""
+dimensions: "960x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

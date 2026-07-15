@@ -6,7 +6,7 @@ source_relpath: "photography/Coffee Cup With Man's Face On Foam.gif"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

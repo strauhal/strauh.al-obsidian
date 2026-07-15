@@ -6,7 +6,7 @@ source_relpath: "wallpapers/consumerism.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1066x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Character Parts with Floral an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

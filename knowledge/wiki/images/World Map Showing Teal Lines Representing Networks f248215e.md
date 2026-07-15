@@ -6,7 +6,7 @@ source_relpath: "diagrams/World_Map_Showing_Teal_Lines_Representing_Networks.jpe
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2244x1432"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

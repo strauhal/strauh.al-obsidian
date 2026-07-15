@@ -6,7 +6,7 @@ source_relpath: "1900s/walker_evans_alabama_tenant_farmer_wife_1936.jpg"
 collection: "1900s"
 inferred_year: "1936"
 artist: ""
-dimensions: ""
+dimensions: "1200x817"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

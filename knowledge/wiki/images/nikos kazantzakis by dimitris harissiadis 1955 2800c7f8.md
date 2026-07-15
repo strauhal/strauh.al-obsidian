@@ -6,7 +6,7 @@ source_relpath: "1900s/nikos_kazantzakis_by_dimitris_harissiadis_1955.jpg"
 collection: "1900s"
 inferred_year: "1955"
 artist: "dimitris harissiadis"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/henry_pelham_boy_with_a_squirrel_by_john_singleton_copley
 collection: "1700s"
 inferred_year: "1765"
 artist: "john singleton copley"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

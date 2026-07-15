@@ -6,7 +6,7 @@ source_relpath: "2000s/Asia Dragon by Roger Dean (2003).jpg"
 collection: "2000s"
 inferred_year: "2003"
 artist: ""
-dimensions: ""
+dimensions: "1920x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

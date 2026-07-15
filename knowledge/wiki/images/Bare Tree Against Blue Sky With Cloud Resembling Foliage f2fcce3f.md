@@ -6,7 +6,7 @@ source_relpath: "photography/Bare Tree Against Blue Sky With Cloud Resembling Fo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "670x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

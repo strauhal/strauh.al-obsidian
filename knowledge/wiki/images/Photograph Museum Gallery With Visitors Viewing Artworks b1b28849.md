@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Museum Gallery With Visitors Viewing Artwork
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

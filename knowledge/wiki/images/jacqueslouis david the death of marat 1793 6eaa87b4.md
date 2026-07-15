@@ -6,7 +6,7 @@ source_relpath: "1700s/jacqueslouis_david_the_death_of_marat_1793.jpg"
 collection: "1700s"
 inferred_year: "1793"
 artist: ""
-dimensions: ""
+dimensions: "4045x5205"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

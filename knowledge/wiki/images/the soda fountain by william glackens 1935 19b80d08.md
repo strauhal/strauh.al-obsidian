@@ -6,7 +6,7 @@ source_relpath: "1900s/the_soda_fountain_by_william_glackens_1935.jpeg"
 collection: "1900s"
 inferred_year: "1935"
 artist: "william glackens"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

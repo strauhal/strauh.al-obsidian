@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_man_with_raised_fist_by_georg_baselitz_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "georg baselitz"
-dimensions: ""
+dimensions: "1219x1260"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

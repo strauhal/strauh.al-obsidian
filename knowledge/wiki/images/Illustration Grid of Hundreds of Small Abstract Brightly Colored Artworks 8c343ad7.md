@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Hundreds of Small Abstract Brig
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2900x2900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

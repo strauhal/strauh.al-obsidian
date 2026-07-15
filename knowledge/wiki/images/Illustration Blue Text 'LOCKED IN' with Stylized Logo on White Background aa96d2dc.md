@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Text 'LOCKED IN' with Stylized Log
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "697x392"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

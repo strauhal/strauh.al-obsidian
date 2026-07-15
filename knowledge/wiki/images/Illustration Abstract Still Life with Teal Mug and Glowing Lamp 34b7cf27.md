@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Still Life with Teal Mug and Glow
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "639x447"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

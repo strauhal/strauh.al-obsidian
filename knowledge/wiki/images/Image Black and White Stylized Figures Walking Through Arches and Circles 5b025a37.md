@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Black and White Stylized Figures Walking Through 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1080x1348"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/ancient_rome_by_giovanni_paolo_panini_1757.jpg"
 collection: "1700s"
 inferred_year: "1757"
 artist: "giovanni paolo panini"
-dimensions: ""
+dimensions: "3869x2831"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Surreal Painting of Skeletal Figures an
 collection: "unsorted"
 inferred_year: ""
 artist: "Zdzis aw Beksi ski"
-dimensions: ""
+dimensions: "1000x995"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

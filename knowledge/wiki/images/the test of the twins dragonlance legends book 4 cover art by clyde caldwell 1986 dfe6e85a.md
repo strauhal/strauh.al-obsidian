@@ -6,7 +6,7 @@ source_relpath: "1900s/the_test_of_the_twins_dragonlance_legends_book_4_cover_ar
 collection: "1900s"
 inferred_year: "1986"
 artist: "clyde caldwell"
-dimensions: ""
+dimensions: "1428x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

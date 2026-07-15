@@ -6,7 +6,7 @@ source_relpath: "album_covers/FJaHP6iXoAAbUP9.png"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "512x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

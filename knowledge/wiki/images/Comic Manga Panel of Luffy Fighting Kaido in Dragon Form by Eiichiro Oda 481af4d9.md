@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Manga Panel of Luffy Fighting Kaido in Dragon 
 collection: "unsorted"
 inferred_year: ""
 artist: "Eiichiro Oda"
-dimensions: ""
+dimensions: "739x824"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

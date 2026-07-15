@@ -6,7 +6,7 @@ source_relpath: "1800s/the_congress_of_vienna_by_jean_baptiste_isabey_1815.jpg"
 collection: "1800s"
 inferred_year: "1815"
 artist: "jean baptiste isabey"
-dimensions: ""
+dimensions: "1260x854"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

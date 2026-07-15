@@ -6,7 +6,7 @@ source_relpath: "diagrams/Intricate_Alchemical_Diagram_with_Central_Figure_and_C
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x1077"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

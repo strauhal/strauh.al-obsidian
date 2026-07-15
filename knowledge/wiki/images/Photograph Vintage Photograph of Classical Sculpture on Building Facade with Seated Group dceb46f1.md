@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Vintage Photograph of Classical Sculpture on
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4798x6000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

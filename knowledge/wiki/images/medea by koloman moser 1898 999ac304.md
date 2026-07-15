@@ -6,7 +6,7 @@ source_relpath: "1800s/medea_by_koloman_moser_1898.jpeg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "koloman moser"
-dimensions: ""
+dimensions: "4096x4523"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Masked King Baldwin IV in White Robes on 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 
 - [[knowledge/wiki/images/king george iii in coronation robes by allan ramsay 1762 6d669aa0|king george iii in coronation robes by allan ramsay 1762]] — shared language: king, robes
 - [[knowledge/wiki/images/Illustration Masked Figure With Green Eyes And Dark Creature 5057007d|Illustration Masked Figure With Green Eyes And Dark Creature]] — shared language: masked
-- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: masked
 - [[knowledge/wiki/images/Illustration Figures in Red Robes at Table on Beach 5890d09f|Illustration Figures in Red Robes at Table on Beach]] — shared language: robes
+- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: masked
 - [[knowledge/wiki/images/king crimson abad7a5c|king crimson]] — shared language: king
 <!-- vault-crosslinks:end -->

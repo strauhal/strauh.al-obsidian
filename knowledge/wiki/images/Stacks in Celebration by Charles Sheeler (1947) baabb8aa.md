@@ -6,7 +6,7 @@ source_relpath: "1900s/Stacks in Celebration by Charles Sheeler (1947).jpeg"
 collection: "1900s"
 inferred_year: "1947"
 artist: ""
-dimensions: ""
+dimensions: "996x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/Saint George and the Dragon by Paolo Uccello (c. 1470).jp
 collection: "1400s"
 inferred_year: "1470"
 artist: ""
-dimensions: ""
+dimensions: "1700x1301"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

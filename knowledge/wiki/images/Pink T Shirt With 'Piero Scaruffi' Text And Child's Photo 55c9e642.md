@@ -6,7 +6,7 @@ source_relpath: "photography/Pink T-Shirt With 'Piero Scaruffi' Text And Child's
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "460x520"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

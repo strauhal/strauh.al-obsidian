@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_jacob_cats_1651_1718_by_adriaen_van_der_werff
 collection: "1700s"
 inferred_year: "1700"
 artist: "adriaen van der werff"
-dimensions: ""
+dimensions: "813x1061"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

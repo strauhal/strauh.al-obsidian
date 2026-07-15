@@ -6,7 +6,7 @@ source_relpath: "1900s/dreamin_by_chara_1999.jpg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "chara"
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

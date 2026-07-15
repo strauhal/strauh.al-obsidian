@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Calvin Tries to Get His Dad to Play in the Sno
 collection: "unsorted"
 inferred_year: ""
 artist: "Bill Watterson"
-dimensions: ""
+dimensions: "1666x1168"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

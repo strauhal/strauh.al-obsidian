@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Oil Painting of Man's Portrait with Digita
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "540x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

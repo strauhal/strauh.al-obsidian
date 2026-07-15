@@ -6,7 +6,7 @@ source_relpath: "photography/Grainy Black And White Photo Of Four Blurry Figures
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1334"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

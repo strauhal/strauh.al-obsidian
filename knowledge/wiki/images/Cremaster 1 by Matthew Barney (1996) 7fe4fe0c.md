@@ -6,7 +6,7 @@ source_relpath: "photography/Cremaster 1 by Matthew Barney (1996).jpeg"
 collection: "photography"
 inferred_year: "1996"
 artist: ""
-dimensions: ""
+dimensions: "1080x1354"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

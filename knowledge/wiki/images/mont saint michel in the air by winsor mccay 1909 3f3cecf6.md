@@ -6,7 +6,7 @@ source_relpath: "1900s/mont_saint_michel_in_the_air_by_winsor_mccay_1909.jpeg"
 collection: "1900s"
 inferred_year: "1909"
 artist: "winsor mccay"
-dimensions: ""
+dimensions: "550x387"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

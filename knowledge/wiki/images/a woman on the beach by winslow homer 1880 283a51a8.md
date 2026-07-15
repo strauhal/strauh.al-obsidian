@@ -6,7 +6,7 @@ source_relpath: "1800s/a_woman_on_the_beach_by_winslow_homer_1880.jpeg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "winslow homer"
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

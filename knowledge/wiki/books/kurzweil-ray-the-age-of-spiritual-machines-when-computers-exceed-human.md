@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/The age of spiritual machines - when computers exceed human -- Kurzweil, Ray -- New York, 2000 -- Penguin (Non-Classics) -- 9781101066447 -- b6436a2e4d75bafc4e2c7ed69f7d400b -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # The age of spiritual machines - when computers exceed human

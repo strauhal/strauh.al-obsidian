@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White-Haired Character with Long Ears, Gre
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1588x1462"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

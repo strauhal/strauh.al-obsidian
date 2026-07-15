@@ -6,7 +6,7 @@ source_relpath: "1900s/the_quilt_by_john_wilde_1974.jpeg"
 collection: "1900s"
 inferred_year: "1974"
 artist: "john wilde"
-dimensions: ""
+dimensions: "2100x2924"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

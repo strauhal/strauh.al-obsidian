@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Pixel Art Dog-Cow Characte
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Susan Kare"
-dimensions: ""
+dimensions: "172x136"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

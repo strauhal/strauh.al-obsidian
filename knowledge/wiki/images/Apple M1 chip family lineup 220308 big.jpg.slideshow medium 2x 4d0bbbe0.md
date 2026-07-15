@@ -6,7 +6,7 @@ source_relpath: "computers/Apple-M1-chip-family-lineup-220308_big.jpg.slideshow-
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1799x1011"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

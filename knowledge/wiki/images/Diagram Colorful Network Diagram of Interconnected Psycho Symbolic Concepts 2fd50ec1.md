@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Colorful Network Diagram of Interconnected Psyc
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4040x3290"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

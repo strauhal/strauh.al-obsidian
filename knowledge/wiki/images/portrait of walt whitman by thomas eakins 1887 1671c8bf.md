@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_walt_whitman_by_thomas_eakins_1887.jpeg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "thomas eakins"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

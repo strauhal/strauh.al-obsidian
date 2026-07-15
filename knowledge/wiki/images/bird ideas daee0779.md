@@ -6,7 +6,7 @@ source_relpath: "diary/bird_ideas.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "886x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

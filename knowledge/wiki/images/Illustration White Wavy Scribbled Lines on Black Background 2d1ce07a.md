@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Wavy Scribbled Lines on Black Backgr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1080x597"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

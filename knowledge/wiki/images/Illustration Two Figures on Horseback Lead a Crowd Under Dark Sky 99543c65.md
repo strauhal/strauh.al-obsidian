@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Figures on Horseback Lead a Crowd U
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Bedroom at Night with Warm Interior Light.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x2545"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

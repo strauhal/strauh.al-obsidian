@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_sister_saint_alphonse_by_antoine_plamondon_18
 collection: "1800s"
 inferred_year: "1841"
 artist: "antoine plamondon"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

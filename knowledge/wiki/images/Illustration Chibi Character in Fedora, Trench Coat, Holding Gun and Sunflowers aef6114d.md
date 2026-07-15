@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Chibi Character in Fedora, Trench Coat,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2859x4282"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Mythological Figure Riding Sea Horses T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1206x1095"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

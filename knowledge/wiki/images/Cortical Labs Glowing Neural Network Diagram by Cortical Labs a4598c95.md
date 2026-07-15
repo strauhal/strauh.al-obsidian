@@ -6,7 +6,7 @@ source_relpath: "diagrams/Cortical_Labs_Glowing_Neural_Network_Diagram_by_Cortic
 collection: "diagrams"
 inferred_year: ""
 artist: "Cortical Labs"
-dimensions: ""
+dimensions: "492x350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Earth Is a Man by Roberto Matta (1941-1942).webp"
 collection: "1900s"
 inferred_year: "1942"
 artist: ""
-dimensions: ""
+dimensions: "1200x903"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

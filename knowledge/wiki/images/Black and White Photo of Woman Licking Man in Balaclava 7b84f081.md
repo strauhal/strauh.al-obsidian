@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo of Woman Licking Man in Balac
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x594"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

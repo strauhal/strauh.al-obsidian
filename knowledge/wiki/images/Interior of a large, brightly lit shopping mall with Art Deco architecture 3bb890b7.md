@@ -6,7 +6,7 @@ source_relpath: "photography/Interior of a large, brightly lit shopping mall wit
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "965x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

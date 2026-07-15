@@ -6,7 +6,7 @@ source_relpath: "1800s/diana_and_endymion_by_george_dawe_1809.jpg"
 collection: "1800s"
 inferred_year: "1809"
 artist: "george dawe"
-dimensions: ""
+dimensions: "896x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

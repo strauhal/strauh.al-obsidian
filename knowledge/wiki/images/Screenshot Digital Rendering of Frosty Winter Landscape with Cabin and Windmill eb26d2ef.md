@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Digital Rendering of Frosty Winter Landsc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1864x1150"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Visual Programming Enviro
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1260x532"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

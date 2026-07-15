@@ -6,7 +6,7 @@ source_relpath: "photography/photograph_of_a_woman_in_a_school_uniform_holding_a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

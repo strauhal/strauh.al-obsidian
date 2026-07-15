@@ -6,7 +6,7 @@ source_relpath: "1800s/herodiade_by_gustave_dore_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
 artist: "gustave dore"
-dimensions: ""
+dimensions: "1079x1343"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

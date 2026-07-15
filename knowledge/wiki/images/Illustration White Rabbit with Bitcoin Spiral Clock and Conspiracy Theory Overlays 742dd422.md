@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - White Rabbit with Bitcoin Spiral Clock and
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1290x1672"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

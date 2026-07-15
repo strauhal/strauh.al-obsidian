@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Illustration of Woman's Face with
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Patrick Nagel"
-dimensions: ""
+dimensions: "600x575"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

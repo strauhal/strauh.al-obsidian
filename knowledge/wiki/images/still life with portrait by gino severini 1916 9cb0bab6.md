@@ -6,7 +6,7 @@ source_relpath: "1900s/still_life_with_portrait_by_gino_severini_1916.jpeg"
 collection: "1900s"
 inferred_year: "1916"
 artist: "gino severini"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/Girl at a Fountain by Léon Bonnat (1875).png"
 collection: "1800s"
 inferred_year: "1875"
 artist: ""
-dimensions: ""
+dimensions: "525x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

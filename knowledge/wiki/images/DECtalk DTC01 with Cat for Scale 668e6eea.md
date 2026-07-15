@@ -6,7 +6,7 @@ source_relpath: "photography/DECtalk DTC01 with Cat for Scale.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1432x1054"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

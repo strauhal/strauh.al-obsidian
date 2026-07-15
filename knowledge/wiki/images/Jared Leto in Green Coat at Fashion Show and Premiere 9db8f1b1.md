@@ -6,7 +6,7 @@ source_relpath: "photography/Jared Leto in Green Coat at Fashion Show and Premie
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "637x643"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

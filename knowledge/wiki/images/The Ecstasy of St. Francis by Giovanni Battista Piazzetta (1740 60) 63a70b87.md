@@ -6,7 +6,7 @@ source_relpath: "2000s/The Ecstasy of St. Francis by Giovanni Battista Piazzetta
 collection: "2000s"
 inferred_year: "1740"
 artist: ""
-dimensions: ""
+dimensions: "610x1238"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

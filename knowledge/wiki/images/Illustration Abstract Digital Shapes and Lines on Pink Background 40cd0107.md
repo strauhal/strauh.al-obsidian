@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Digital Shapes and Lines on Pi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

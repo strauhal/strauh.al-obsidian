@@ -6,7 +6,7 @@ source_relpath: "2000s/The Phenomenon of Light by Rob Gonsalves (2005).jpg"
 collection: "2000s"
 inferred_year: "2005"
 artist: ""
-dimensions: ""
+dimensions: "746x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

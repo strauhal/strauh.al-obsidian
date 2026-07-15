@@ -6,7 +6,7 @@ source_relpath: "1100s/listening_to_the_qin_ting_qin_tu_by_emperor_huizong_c_111
 collection: "1100s"
 inferred_year: "1100s"
 artist: "emperor huizong"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1100s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/andy_warhol_and_the_velvet_underground_at_the_castle_by_l
 collection: "1900s"
 inferred_year: "1967"
 artist: "lisa law"
-dimensions: ""
+dimensions: "2048x1376"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

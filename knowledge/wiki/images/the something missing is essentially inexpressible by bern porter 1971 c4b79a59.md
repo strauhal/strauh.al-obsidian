@@ -6,7 +6,7 @@ source_relpath: "1900s/the_something_missing_is_essentially_inexpressible_by_ber
 collection: "1900s"
 inferred_year: "1971"
 artist: "bern porter"
-dimensions: ""
+dimensions: "1435x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Textile Art of Boat Hull Reflected in R
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1500x1090"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

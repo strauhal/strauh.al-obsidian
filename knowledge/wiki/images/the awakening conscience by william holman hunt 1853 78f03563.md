@@ -6,7 +6,7 @@ source_relpath: "1800s/the_awakening_conscience_by_william_holman_hunt_1853.jpg"
 collection: "1800s"
 inferred_year: "1853"
 artist: "william holman hunt"
-dimensions: ""
+dimensions: "2136x2929"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

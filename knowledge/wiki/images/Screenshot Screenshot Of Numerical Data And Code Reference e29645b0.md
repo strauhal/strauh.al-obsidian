@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot Of Numerical Data And Code Ref
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "816x966"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

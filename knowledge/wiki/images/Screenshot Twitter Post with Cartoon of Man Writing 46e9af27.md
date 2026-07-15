@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Twitter Post with Cartoon of Man Writing.
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x2436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

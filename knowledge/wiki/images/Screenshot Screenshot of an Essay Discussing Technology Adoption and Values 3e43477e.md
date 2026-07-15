@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of an Essay Discussing Technology
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1396"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

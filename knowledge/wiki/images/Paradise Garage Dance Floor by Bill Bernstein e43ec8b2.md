@@ -6,7 +6,7 @@ source_relpath: "photography/Paradise Garage Dance Floor by Bill Bernstein.webp"
 collection: "photography"
 inferred_year: ""
 artist: "Bill Bernstein"
-dimensions: ""
+dimensions: "1600x1030"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

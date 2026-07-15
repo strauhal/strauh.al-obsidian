@@ -6,7 +6,7 @@ source_relpath: "diagrams/Network_Diagram_of_German_Philosophers_and_Scientists,
 collection: "diagrams"
 inferred_year: "1835"
 artist: ""
-dimensions: ""
+dimensions: "926x1436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/random_distribution_of_40_000_squares_using_the_odd_and_e
 collection: "1900s"
 inferred_year: "1960"
 artist: "francois morellet"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "ernest/essence.jpg"
 collection: "ernest"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1818x1228"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/ernest"]
 ---

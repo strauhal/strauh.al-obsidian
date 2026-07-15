@@ -6,7 +6,7 @@ source_relpath: "1900s/mrs_fiske_warren_gretchen_osgood_by_john_singer_sargent_1
 collection: "1900s"
 inferred_year: "1903"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

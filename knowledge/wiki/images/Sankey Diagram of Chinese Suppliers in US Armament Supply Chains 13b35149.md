@@ -6,7 +6,7 @@ source_relpath: "diagrams/Sankey_Diagram_of_Chinese_Suppliers_in_US_Armament_Sup
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x605"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

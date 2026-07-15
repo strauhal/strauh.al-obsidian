@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - The Great Fall by Kilian Eng.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kilian Eng"
-dimensions: ""
+dimensions: "1575x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

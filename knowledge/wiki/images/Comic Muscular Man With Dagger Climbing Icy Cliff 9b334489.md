@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Muscular Man With Dagger Climbing Icy Cliff.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1393x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

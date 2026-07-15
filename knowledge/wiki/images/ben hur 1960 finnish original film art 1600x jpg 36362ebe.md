@@ -6,7 +6,7 @@ source_relpath: "1900s/ben_hur_1960_finnish_original_film_art_1600x_jpg.jpg"
 collection: "1900s"
 inferred_year: "1600"
 artist: ""
-dimensions: ""
+dimensions: "1038x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

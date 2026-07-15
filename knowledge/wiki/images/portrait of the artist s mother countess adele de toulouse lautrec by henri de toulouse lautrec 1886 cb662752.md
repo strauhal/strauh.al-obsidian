@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_the_artist_s_mother_countess_adele_de_toulous
 collection: "1800s"
 inferred_year: "1886"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

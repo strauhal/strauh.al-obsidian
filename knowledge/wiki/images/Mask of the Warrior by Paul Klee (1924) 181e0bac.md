@@ -6,7 +6,7 @@ source_relpath: "1900s/Mask of the Warrior by Paul Klee (1924).jpg"
 collection: "1900s"
 inferred_year: "1924"
 artist: ""
-dimensions: ""
+dimensions: "1621x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

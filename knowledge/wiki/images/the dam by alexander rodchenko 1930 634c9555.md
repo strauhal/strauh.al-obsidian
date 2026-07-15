@@ -6,7 +6,7 @@ source_relpath: "1900s/the_dam_by_alexander_rodchenko_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "alexander rodchenko"
-dimensions: ""
+dimensions: "2000x1532"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

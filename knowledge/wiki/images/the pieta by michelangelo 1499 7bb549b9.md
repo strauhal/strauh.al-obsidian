@@ -6,7 +6,7 @@ source_relpath: "1400s/the_pieta_by_michelangelo_1499.jpeg"
 collection: "1400s"
 inferred_year: "1499"
 artist: "michelangelo"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/aspen_by_toshi_yoshida_1973.jpg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "toshi yoshida"
-dimensions: ""
+dimensions: "1405x2308"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

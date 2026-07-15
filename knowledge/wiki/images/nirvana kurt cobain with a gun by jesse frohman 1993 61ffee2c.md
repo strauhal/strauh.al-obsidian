@@ -6,7 +6,7 @@ source_relpath: "1900s/nirvana_kurt_cobain_with_a_gun_by_jesse_frohman_1993.jpg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "jesse frohman"
-dimensions: ""
+dimensions: "696x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

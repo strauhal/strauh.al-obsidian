@@ -6,7 +6,7 @@ source_relpath: "photography/Chronocyclegraph of a Person's Movement by Frank Gi
 collection: "photography"
 inferred_year: ""
 artist: "Frank Gilbreth"
-dimensions: ""
+dimensions: "640x590"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Insect Under Sun Says 'I'm Caught In My Own Br
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1284x553"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

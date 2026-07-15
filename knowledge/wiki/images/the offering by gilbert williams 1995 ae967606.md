@@ -6,7 +6,7 @@ source_relpath: "1900s/the_offering_by_gilbert_williams_1995.jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "gilbert williams"
-dimensions: ""
+dimensions: "794x1150"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

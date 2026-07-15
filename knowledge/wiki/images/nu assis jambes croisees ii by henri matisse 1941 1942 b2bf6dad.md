@@ -6,7 +6,7 @@ source_relpath: "1900s/nu_assis_jambes_croisees_ii_by_henri_matisse_1941_1942.jp
 collection: "1900s"
 inferred_year: "1942"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Painting of a Couple Dancing Folklorico in
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - P
 - [[knowledge/wiki/images/romain cazes interior of the cathedral of burgos 1862 8feb1392|romain cazes interior of the cathedral of burgos 1862]] — shared language: cathedral
 - [[knowledge/wiki/images/Illustration Cartoon Couple Expressing Love For Their Spouses f59223a8|Illustration Cartoon Couple Expressing Love For Their Spouses]] — shared language: couple
 - [[knowledge/wiki/images/Couple in Small Motorboat on Water ba1facad|Couple in Small Motorboat on Water]] — shared language: couple
-- [[knowledge/wiki/images/Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers 510a82e6|Illustration Stylized Blue Figures Dancing Under Red Sky with Onlookers]] — shared language: dancing
+- [[knowledge/wiki/images/Couple Walking On Busy Street At Night 99d8a76a|Couple Walking On Busy Street At Night]] — shared language: couple
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "1900s/00081_brutalist_architecture_1960_png.png"
 collection: "1900s"
 inferred_year: "1960"
 artist: ""
-dimensions: ""
+dimensions: "512x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

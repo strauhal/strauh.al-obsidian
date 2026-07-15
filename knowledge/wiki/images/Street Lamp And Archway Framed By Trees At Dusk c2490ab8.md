@@ -6,7 +6,7 @@ source_relpath: "photography/Street Lamp And Archway Framed By Trees At Dusk.jpg
 collection: "photography"
 inferred_year: ""
 artist: "Trees At Dusk"
-dimensions: ""
+dimensions: "3000x4000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

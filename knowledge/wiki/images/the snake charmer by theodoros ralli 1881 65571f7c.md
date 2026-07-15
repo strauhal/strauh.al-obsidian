@@ -6,7 +6,7 @@ source_relpath: "1800s/the_snake_charmer_by_theodoros_ralli_1881.jpg"
 collection: "1800s"
 inferred_year: "1881"
 artist: "theodoros ralli"
-dimensions: ""
+dimensions: "1473x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

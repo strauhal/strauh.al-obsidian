@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Heart rate when my wife asked for a divor
 collection: "unsorted"
 inferred_year: ""
 artist: "u PM ME YOUR RECOMMEND"
-dimensions: ""
+dimensions: "1290x1121"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Screenshot - 
 ## Discovered Connections
 
 - [[knowledge/wiki/books/oliver-w-sacks-the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales|The Man Who Mistook His Wife for a Hat And Other Clinical Tales]] — shared language: wife
+- [[knowledge/wiki/images/wife and cat 3a1a73b5|wife and cat]] — shared language: wife
 - [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: media
 - [[knowledge/wiki/books/parasitic-ai|Parasitic AI]] — shared language: media
 - [[knowledge/wiki/images/Screenshot Screenshot of Social Media Post with Abstract Line Drawing 7b8adc36|Screenshot Screenshot of Social Media Post with Abstract Line Drawing]] — shared language: screenshot, media
-- [[knowledge/wiki/images/william blake job and his wife and his three comforters c 1805 a617fe48|william blake job and his wife and his three comforters c 1805]] — shared language: wife
 <!-- vault-crosslinks:end -->

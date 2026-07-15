@@ -6,7 +6,7 @@ source_relpath: "photography/Elderly Man in Robes with Two Women on Subway.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x833"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

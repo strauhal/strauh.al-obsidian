@@ -6,7 +6,7 @@ source_relpath: "1900s/reclining_nude_by_henri_gaudier_brzeska_c_1913.jpeg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "henri gaudier brzeska"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

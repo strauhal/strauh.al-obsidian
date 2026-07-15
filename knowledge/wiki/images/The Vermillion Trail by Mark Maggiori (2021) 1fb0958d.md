@@ -6,7 +6,7 @@ source_relpath: "2000s/The Vermillion Trail by Mark Maggiori (2021).jpg"
 collection: "2000s"
 inferred_year: "2021"
 artist: ""
-dimensions: ""
+dimensions: "1125x1392"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

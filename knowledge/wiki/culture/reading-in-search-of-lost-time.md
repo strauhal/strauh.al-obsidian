@@ -7,8 +7,8 @@ status: queued
 queue_order: 36
 tags: [culture, reading, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # In Search of Lost Time

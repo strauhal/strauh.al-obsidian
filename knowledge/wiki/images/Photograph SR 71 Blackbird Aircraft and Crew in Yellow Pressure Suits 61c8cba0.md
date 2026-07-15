@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - SR-71 Blackbird Aircraft and Crew in Yellow 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "593x844"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

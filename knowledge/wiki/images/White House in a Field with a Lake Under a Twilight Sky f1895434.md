@@ -6,7 +6,7 @@ source_relpath: "photography/White House in a Field with a Lake Under a Twilight
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1094"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Mixed Media Painting of a Silhoue
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Hunter Biden"
-dimensions: ""
+dimensions: "600x919"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - A
 - [[knowledge/wiki/images/Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares 9199a264|Illustration Mixed Media Drawing with Architectural Sketches, Text, and Abstract Squares]] — shared language: mixed, media, text
 - [[knowledge/wiki/images/Illustration Abstract Mixed Media with Interlocking Figures and Maze 41301ffe|Illustration Abstract Mixed Media with Interlocking Figures and Maze]] — shared language: mixed, media
 - [[knowledge/wiki/maps/Map - Library|Map - Library]] — shared language: media
-- [[knowledge/wiki/maps/Library - Media and Technology|Library - Media and Technology]] — shared language: media
+- [[knowledge/wiki/images/Black And White Portrait Of A Man In Silhouette dfb9afa1|Black And White Portrait Of A Man In Silhouette]] — shared language: silhouette
 <!-- vault-crosslinks:end -->

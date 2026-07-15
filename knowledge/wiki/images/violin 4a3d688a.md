@@ -6,7 +6,7 @@ source_relpath: "diary/violin.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x794"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

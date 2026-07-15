@@ -6,7 +6,7 @@ source_relpath: "1800s/dante_and_virgil_by_william_adolphe_bouguereau_1850.jpg"
 collection: "1800s"
 inferred_year: "1850"
 artist: "william adolphe bouguereau"
-dimensions: ""
+dimensions: "3360x4265"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

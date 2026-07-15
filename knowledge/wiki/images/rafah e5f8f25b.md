@@ -6,7 +6,7 @@ source_relpath: "diary/rafah.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1468"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

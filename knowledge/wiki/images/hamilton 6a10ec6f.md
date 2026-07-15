@@ -6,7 +6,7 @@ source_relpath: "wallpapers/hamilton.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

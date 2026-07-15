@@ -6,7 +6,7 @@ source_relpath: "1900s/william_merritt_chase_a_daisy_field_1906.jpg"
 collection: "1900s"
 inferred_year: "1906"
 artist: ""
-dimensions: ""
+dimensions: "2000x1338"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Pete Conrad Collecting Core Sample by Alan Bean.jpg
 collection: "photography"
 inferred_year: ""
 artist: "Alan Bean"
-dimensions: ""
+dimensions: "4175x4175"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

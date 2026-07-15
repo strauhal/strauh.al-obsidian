@@ -6,7 +6,7 @@ source_relpath: "2000s/Carnation, Lily, Lily, Rose by John Singer Sargent (1885-
 collection: "2000s"
 inferred_year: "1886"
 artist: ""
-dimensions: ""
+dimensions: "2333x2560"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

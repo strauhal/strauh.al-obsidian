@@ -6,7 +6,7 @@ source_relpath: "1800s/the_star_by_edgar_degas_c_1878.jpeg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

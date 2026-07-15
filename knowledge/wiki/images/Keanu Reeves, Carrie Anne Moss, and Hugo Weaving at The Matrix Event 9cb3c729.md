@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves, Carrie-Anne Moss, and Hugo Weaving at
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

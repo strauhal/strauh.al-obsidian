@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - LIGHTING GUIDE MASTER PRO PORTRAIT LIGHTIN
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3000x4242"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

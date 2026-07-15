@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Long Colonnade with Coffered Ceiling, Design
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Albert Speer"
-dimensions: ""
+dimensions: "356x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Watermelon Slices With White Candies On Blue Cuttin
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x853"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Aerial View of Chappell Roan's Performanc
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1184"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

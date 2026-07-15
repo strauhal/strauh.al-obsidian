@@ -6,7 +6,7 @@ source_relpath: "photography/Casio Wrist Camera Displaying Airplane, Model Airpl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "554x767"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

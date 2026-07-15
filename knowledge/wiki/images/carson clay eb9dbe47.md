@@ -6,7 +6,7 @@ source_relpath: "influences/carson_clay.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Black And White Abstract Symbo
 collection: "unsorted"
 inferred_year: ""
 artist: "Sleep Token"
-dimensions: ""
+dimensions: "1275x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

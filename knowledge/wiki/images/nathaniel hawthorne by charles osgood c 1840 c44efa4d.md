@@ -6,7 +6,7 @@ source_relpath: "1800s/nathaniel_hawthorne_by_charles_osgood_c_1840.jpg"
 collection: "1800s"
 inferred_year: "1840"
 artist: "charles osgood"
-dimensions: ""
+dimensions: "800x901"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

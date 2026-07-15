@@ -6,7 +6,7 @@ source_relpath: "1800s/kalki_avatar_by_raja_ravi_varma_c_1894.jpg"
 collection: "1800s"
 inferred_year: "1894"
 artist: "raja ravi varma"
-dimensions: ""
+dimensions: "2894x4022"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

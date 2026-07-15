@@ -6,7 +6,7 @@ source_relpath: "1900s/wirtschaftswerte_economic_values_by_joseph_beuys_1980.jpe
 collection: "1900s"
 inferred_year: "1980"
 artist: "joseph beuys"
-dimensions: ""
+dimensions: "1000x562"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

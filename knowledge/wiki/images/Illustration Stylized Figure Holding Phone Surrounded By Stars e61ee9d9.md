@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Figure Holding Phone Surrounde
 collection: "unsorted"
 inferred_year: ""
 artist: "Stars"
-dimensions: ""
+dimensions: "1242x1228"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Untitled (Nude) by Philip Pearlstein (1961).jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

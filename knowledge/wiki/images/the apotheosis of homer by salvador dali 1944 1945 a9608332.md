@@ -6,7 +6,7 @@ source_relpath: "1900s/the_apotheosis_of_homer_by_salvador_dali_1944_1945.jpeg"
 collection: "1900s"
 inferred_year: "1945"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

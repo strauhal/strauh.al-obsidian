@@ -28,8 +28,8 @@ Images attributed by filename: 3
 
 - [[knowledge/wiki/images/The Beginning of Life by Franti ek Kupka (1900) 7dc777c4|The Beginning of Life by Franti ek Kupka (1900)]] — shared language: kupka
 - [[knowledge/wiki/images/Prometheus Bound by Thomas Cole (1847) 394a573a|Prometheus Bound by Thomas Cole (1847)]] — shared language: prometheus
+- [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — shared language: prometheus
 - [[knowledge/wiki/images/Illustration Abstract Red And Black Checkered Spheres And Planes 0b63037c|Illustration Abstract Red And Black Checkered Spheres And Planes]] — shared language: planes
 - [[knowledge/wiki/images/Illustration Abstract Digital Composition with Intersecting Gridded Planes ea15b3b0|Illustration Abstract Digital Composition with Intersecting Gridded Planes]] — shared language: planes
-- [[knowledge/wiki/images/Prometheus Bound by Peter Paul Rubens (c. 1611 1618) 1ad3382c|Prometheus Bound by Peter Paul Rubens (c. 1611 1618)]] — shared language: prometheus
 - [[knowledge/wiki/images/Diagonal Freeway by Wayne Thiebaud (1993) d97cc45d|Diagonal Freeway by Wayne Thiebaud (1993)]] — shared language: diagonal
 <!-- vault-crosslinks:end -->

@@ -6,7 +6,7 @@ source_relpath: "photography/Millau Viaduct Cable-Stayed Bridge Emerging From Cl
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1777x2208"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

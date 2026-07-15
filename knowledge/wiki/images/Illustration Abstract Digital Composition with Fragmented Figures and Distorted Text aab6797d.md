@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Digital Composition with Fragment
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1247x1481"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

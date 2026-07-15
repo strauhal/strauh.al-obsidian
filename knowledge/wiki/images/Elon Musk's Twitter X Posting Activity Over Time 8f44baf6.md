@@ -6,7 +6,7 @@ source_relpath: "diagrams/Elon_Musk's_Twitter-X_Posting_Activity_Over_Time.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "590x633"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

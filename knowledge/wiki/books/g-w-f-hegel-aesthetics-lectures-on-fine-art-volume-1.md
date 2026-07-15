@@ -9,8 +9,8 @@ metadata: curated
 aliases: [g-w-f-hegel-aesthetics-lectures-on-fine-art-volume-1]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/g-w-f-hegel-aesthetics-lectures-on-fine-art-volume-1.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Aesthetics: Lectures on Fine Art, Volume 1

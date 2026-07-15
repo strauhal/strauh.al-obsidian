@@ -6,7 +6,7 @@ source_relpath: "1800s/the_lament_for_icarus_by_john_william_waterhouse_1898.jpe
 collection: "1800s"
 inferred_year: "1898"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

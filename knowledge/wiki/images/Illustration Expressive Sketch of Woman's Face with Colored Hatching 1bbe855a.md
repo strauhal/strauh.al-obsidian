@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Expressive Sketch of Woman's Face with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Attic Room With Computer Desk And Bed.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x707"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/dirck_van_baburen_the_lute_player_circa_1622.jpg"
 collection: "1600s"
 inferred_year: "1622"
 artist: ""
-dimensions: ""
+dimensions: "1919x2500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

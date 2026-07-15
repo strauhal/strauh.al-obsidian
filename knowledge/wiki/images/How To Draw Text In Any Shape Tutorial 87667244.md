@@ -6,7 +6,7 @@ source_relpath: "diagrams/How_To_Draw_Text_In_Any_Shape_Tutorial.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1642x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

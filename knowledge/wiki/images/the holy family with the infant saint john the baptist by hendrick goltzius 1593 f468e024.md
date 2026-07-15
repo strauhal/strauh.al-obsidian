@@ -6,7 +6,7 @@ source_relpath: "1500s/the_holy_family_with_the_infant_saint_john_the_baptist_by
 collection: "1500s"
 inferred_year: "1593"
 artist: "hendrick goltzius"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

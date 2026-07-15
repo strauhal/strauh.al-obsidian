@@ -6,7 +6,7 @@ source_relpath: "1900s/plate_97_by_hilma_af_klint_c_19001915.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "hilma af klint"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Metal Gear Solid 2: Sons of Liberty by Hideo Kojima (2001
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "750x926"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

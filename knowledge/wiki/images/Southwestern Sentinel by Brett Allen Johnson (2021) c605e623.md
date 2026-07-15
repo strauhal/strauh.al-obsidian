@@ -6,7 +6,7 @@ source_relpath: "2000s/Southwestern Sentinel by Brett Allen Johnson (2021).jpg"
 collection: "2000s"
 inferred_year: "2021"
 artist: ""
-dimensions: ""
+dimensions: "1024x959"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

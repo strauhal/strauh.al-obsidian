@@ -6,7 +6,7 @@ source_relpath: "1600s/double_portrait_of_two_women_by_adriaen_hanneman_c_1650.j
 collection: "1600s"
 inferred_year: "1650"
 artist: "adriaen hanneman"
-dimensions: ""
+dimensions: "1159x938"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/kitten_playing_with_a_quill_by_guillaume_vanden_eycken_19
 collection: "1900s"
 inferred_year: "1913"
 artist: "guillaume vanden eycken"
-dimensions: ""
+dimensions: "1200x887"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

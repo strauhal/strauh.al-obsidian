@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Figure in Pointed Hat Gazing at Smoking Or
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1402x1580"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

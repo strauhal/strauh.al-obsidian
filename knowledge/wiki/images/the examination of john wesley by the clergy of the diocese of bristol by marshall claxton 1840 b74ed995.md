@@ -6,7 +6,7 @@ source_relpath: "1800s/the_examination_of_john_wesley_by_the_clergy_of_the_dioce
 collection: "1800s"
 inferred_year: "1840"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

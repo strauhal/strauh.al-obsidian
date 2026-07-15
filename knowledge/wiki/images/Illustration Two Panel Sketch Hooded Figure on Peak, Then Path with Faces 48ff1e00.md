@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two-Panel Sketch: Hooded Figure on Peak
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "576x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

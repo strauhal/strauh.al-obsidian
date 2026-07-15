@@ -6,7 +6,7 @@ source_relpath: "2000s/The Document of Metal Gear Solid 2 by Yoji Shinkawa (2002
 collection: "2000s"
 inferred_year: "2002"
 artist: ""
-dimensions: ""
+dimensions: "1533x2291"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

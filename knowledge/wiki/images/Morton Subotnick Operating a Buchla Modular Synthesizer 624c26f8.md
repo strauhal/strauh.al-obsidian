@@ -6,7 +6,7 @@ source_relpath: "photography/Morton Subotnick Operating a Buchla Modular Synthes
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x602"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

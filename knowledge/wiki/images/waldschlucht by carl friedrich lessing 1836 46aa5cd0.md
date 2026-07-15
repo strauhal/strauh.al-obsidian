@@ -6,7 +6,7 @@ source_relpath: "1800s/waldschlucht_by_carl_friedrich_lessing_1836.jpg"
 collection: "1800s"
 inferred_year: "1836"
 artist: "carl friedrich lessing"
-dimensions: ""
+dimensions: "2400x1856"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

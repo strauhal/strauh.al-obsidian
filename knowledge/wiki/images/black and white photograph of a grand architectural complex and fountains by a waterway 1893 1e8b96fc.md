@@ -6,7 +6,7 @@ source_relpath: "1800s/black_and_white_photograph_of_a_grand_architectural_compl
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4398x3349"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

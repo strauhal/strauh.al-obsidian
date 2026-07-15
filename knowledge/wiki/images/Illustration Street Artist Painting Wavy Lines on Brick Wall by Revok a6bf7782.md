@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Street Artist Painting Wavy Lines on Brick
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Revok"
-dimensions: ""
+dimensions: "1024x818"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

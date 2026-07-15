@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Cartoon of Person Holding Canvas, Brain an
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Dabspunk"
-dimensions: ""
+dimensions: "2250x1688"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

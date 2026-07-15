@@ -6,7 +6,7 @@ source_relpath: "photography/Mick Jagger Wearing Sunglasses At A Computer.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1749x1312"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

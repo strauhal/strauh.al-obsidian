@@ -6,7 +6,7 @@ source_relpath: "photography/Person In Maid Outfit Operating DJ Equipment.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "749x856"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

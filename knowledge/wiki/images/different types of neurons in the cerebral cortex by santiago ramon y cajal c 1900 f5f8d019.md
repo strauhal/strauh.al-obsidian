@@ -6,7 +6,7 @@ source_relpath: "1900s/different_types_of_neurons_in_the_cerebral_cortex_by_sant
 collection: "1900s"
 inferred_year: "1900"
 artist: "santiago ramon y cajal"
-dimensions: ""
+dimensions: "440x578"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

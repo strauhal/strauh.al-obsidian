@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Students Running, Throwing Pap
 collection: "unsorted"
 inferred_year: ""
 artist: "Shikishima Kuon"
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

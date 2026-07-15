@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Three Nude Figures On A Bed With Landscape
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "526x523"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

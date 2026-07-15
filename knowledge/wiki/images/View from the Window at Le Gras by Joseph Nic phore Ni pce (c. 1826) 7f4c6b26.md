@@ -6,7 +6,7 @@ source_relpath: "1800s/View from the Window at Le Gras by Joseph Nicéphore Nié
 collection: "1800s"
 inferred_year: "1826"
 artist: ""
-dimensions: ""
+dimensions: "981x870"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

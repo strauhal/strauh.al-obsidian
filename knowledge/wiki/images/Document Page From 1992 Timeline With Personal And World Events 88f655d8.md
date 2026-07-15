@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Page From 1992 Timeline With Personal And W
 collection: "unsorted"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

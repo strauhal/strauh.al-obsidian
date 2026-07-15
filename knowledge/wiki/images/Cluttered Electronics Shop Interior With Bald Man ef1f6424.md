@@ -6,7 +6,7 @@ source_relpath: "photography/Cluttered Electronics Shop Interior With Bald Man.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "540x536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

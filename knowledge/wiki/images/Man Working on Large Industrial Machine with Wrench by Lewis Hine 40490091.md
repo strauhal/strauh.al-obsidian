@@ -6,7 +6,7 @@ source_relpath: "photography/Man Working on Large Industrial Machine with Wrench
 collection: "photography"
 inferred_year: ""
 artist: "Lewis Hine"
-dimensions: ""
+dimensions: "1078x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

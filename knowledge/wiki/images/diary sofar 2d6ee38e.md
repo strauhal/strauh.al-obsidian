@@ -6,7 +6,7 @@ source_relpath: "diary/diary_sofar.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1502x578"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

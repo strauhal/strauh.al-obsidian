@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Diary Entries About Love and Despair From O
 collection: "unsorted"
 inferred_year: "1877"
 artist: ""
-dimensions: ""
+dimensions: "1284x529"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

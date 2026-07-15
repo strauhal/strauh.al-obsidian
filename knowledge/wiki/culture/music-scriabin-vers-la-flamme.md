@@ -7,8 +7,8 @@ status: queued
 queue_order: 34
 tags: [culture, music, queued]
 sources: ["[[current-cultural-diet]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Scriabin: Vers la flamme

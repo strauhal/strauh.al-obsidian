@@ -6,7 +6,7 @@ source_relpath: "1500s/mercurius_argum_interficit_mercury_kills_argus_by_pieter_
 collection: "1500s"
 inferred_year: "1558"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

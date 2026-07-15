@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_in_blue_dress_by_milton_avery_1957.jpeg"
 collection: "1900s"
 inferred_year: "1957"
 artist: "milton avery"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

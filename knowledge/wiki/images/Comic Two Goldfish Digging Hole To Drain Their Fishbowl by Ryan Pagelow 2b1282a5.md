@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two Goldfish Digging Hole To Drain Their Fishb
 collection: "unsorted"
 inferred_year: ""
 artist: "Ryan Pagelow"
-dimensions: ""
+dimensions: "1080x1229"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

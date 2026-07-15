@@ -6,7 +6,7 @@ source_relpath: "2000s/Theologue by Alex Grey (2001).jpeg"
 collection: "2000s"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "1144x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

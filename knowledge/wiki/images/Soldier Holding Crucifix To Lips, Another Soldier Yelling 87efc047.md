@@ -6,7 +6,7 @@ source_relpath: "photography/Soldier Holding Crucifix To Lips, Another Soldier Y
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "650x428"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

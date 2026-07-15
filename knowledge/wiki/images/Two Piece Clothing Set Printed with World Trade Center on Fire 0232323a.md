@@ -6,7 +6,7 @@ source_relpath: "photography/Two-Piece Clothing Set Printed with World Trade Cen
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "848x1015"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Vast Solar Panel Array Covering a Mountainous Hills
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "715x643"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

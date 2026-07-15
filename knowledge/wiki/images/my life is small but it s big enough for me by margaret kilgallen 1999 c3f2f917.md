@@ -6,7 +6,7 @@ source_relpath: "1900s/my_life_is_small_but_it_s_big_enough_for_me_by_margaret_k
 collection: "1900s"
 inferred_year: "1999"
 artist: "margaret kilgallen"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

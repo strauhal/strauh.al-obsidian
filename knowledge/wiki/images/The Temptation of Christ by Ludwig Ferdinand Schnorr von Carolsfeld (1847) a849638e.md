@@ -6,7 +6,7 @@ source_relpath: "2000s/The Temptation of Christ by Ludwig Ferdinand Schnorr von 
 collection: "2000s"
 inferred_year: "1847"
 artist: ""
-dimensions: ""
+dimensions: "3508x2507"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/drawings_made_by_an_artist_under_the_influence_of_lsd_195
 collection: "1900s"
 inferred_year: "1959"
 artist: ""
-dimensions: ""
+dimensions: "500x340"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

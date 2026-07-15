@@ -6,7 +6,7 @@ source_relpath: "photography/Rider On Horseback Herding Cattle In Deep Snow.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4096x3238"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

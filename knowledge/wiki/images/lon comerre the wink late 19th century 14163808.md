@@ -6,7 +6,7 @@ source_relpath: "1800s/lon_comerre_the_wink_late_19th_century.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: ""
+dimensions: "1192x1932"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

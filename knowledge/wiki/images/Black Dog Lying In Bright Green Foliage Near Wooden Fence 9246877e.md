@@ -6,7 +6,7 @@ source_relpath: "photography/Black Dog Lying In Bright Green Foliage Near Wooden
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "596x565"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

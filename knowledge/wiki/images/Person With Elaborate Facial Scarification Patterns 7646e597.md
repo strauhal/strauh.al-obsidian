@@ -6,7 +6,7 @@ source_relpath: "photography/Person With Elaborate Facial Scarification Patterns
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x522"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

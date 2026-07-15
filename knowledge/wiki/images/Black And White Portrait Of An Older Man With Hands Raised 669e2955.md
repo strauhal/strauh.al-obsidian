@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Portrait Of An Older Man With Hands
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "695x643"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

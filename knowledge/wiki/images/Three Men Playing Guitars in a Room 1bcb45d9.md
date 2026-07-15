@@ -6,7 +6,7 @@ source_relpath: "photography/Three Men Playing Guitars in a Room.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1067x935"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

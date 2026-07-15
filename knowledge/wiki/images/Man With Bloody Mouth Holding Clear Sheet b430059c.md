@@ -6,7 +6,7 @@ source_relpath: "photography/Man With Bloody Mouth Holding Clear Sheet.webp"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

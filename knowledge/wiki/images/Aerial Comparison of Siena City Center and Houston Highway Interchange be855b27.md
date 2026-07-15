@@ -6,7 +6,7 @@ source_relpath: "diagrams/Aerial_Comparison_of_Siena_City_Center_and_Houston_Hig
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x1394"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

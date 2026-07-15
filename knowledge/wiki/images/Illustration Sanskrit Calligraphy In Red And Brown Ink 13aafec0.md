@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sanskrit Calligraphy In Red And Brown I
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

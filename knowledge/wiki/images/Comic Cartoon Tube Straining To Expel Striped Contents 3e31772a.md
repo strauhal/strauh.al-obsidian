@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Cartoon Tube Straining To Expel Striped Conten
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "609x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

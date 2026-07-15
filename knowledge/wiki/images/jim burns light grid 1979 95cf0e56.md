@@ -6,7 +6,7 @@ source_relpath: "1900s/jim_burns_light_grid_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: ""
-dimensions: ""
+dimensions: "720x811"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

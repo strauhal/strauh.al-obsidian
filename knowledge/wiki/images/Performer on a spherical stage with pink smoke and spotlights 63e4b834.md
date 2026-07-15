@@ -6,7 +6,7 @@ source_relpath: "photography/Performer on a spherical stage with pink smoke and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

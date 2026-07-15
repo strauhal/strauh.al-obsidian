@@ -6,7 +6,7 @@ source_relpath: "1800s/lady_lilith_by_dante_gabriel_rossetti_18661868.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "dante gabriel rossetti 18661868"
-dimensions: ""
+dimensions: "2448x3264"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

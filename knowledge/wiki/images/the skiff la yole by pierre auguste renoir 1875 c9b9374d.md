@@ -6,7 +6,7 @@ source_relpath: "1800s/the_skiff_la_yole_by_pierre_auguste_renoir_1875.jpeg"
 collection: "1800s"
 inferred_year: "1875"
 artist: "pierre auguste renoir"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

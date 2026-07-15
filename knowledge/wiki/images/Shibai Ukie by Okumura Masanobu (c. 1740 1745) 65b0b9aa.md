@@ -6,7 +6,7 @@ source_relpath: "1700s/Shibai Ukie by Okumura Masanobu (c. 1740-1745).jpg"
 collection: "1700s"
 inferred_year: "1745"
 artist: ""
-dimensions: ""
+dimensions: "987x679"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

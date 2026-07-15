@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Colorful Abstract Still Life Painting o
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1151x1456"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

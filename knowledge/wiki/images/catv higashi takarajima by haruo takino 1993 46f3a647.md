@@ -6,7 +6,7 @@ source_relpath: "1900s/catv_higashi_takarajima_by_haruo_takino_1993.jpg"
 collection: "1900s"
 inferred_year: "1993"
 artist: "haruo takino"
-dimensions: ""
+dimensions: "2048x2903"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/View of Nassau by Albert Bierstadt (1877).jpeg"
 collection: "1800s"
 inferred_year: "1877"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

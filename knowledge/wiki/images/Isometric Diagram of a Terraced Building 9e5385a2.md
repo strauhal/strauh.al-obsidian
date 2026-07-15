@@ -6,7 +6,7 @@ source_relpath: "diagrams/Isometric_Diagram_of_a_Terraced_Building.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2380x3200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

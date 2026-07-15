@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - MacOS Desktop Screenshot with Distorted Imag
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2880x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

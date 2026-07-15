@@ -6,7 +6,7 @@ source_relpath: "1900s/rain_at_yotsugi_bridge_yotsugi_bashi_no_ame_by_kawase_has
 collection: "1900s"
 inferred_year: "1932"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "1259x1899"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

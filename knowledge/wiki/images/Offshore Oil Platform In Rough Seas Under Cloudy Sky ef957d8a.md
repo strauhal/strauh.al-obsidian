@@ -6,7 +6,7 @@ source_relpath: "photography/Offshore Oil Platform In Rough Seas Under Cloudy Sk
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1008"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The Burial of the Count of Orgaz by El Greco (1586-1588).
 collection: "2000s"
 inferred_year: "1588"
 artist: ""
-dimensions: ""
+dimensions: "1316x1612"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Character Concept Art: Multiple M
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x888"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

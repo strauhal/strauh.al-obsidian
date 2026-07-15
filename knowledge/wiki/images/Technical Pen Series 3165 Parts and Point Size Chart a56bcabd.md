@@ -6,7 +6,7 @@ source_relpath: "diagrams/Technical_Pen_Series_3165_Parts_and_Point_Size_Chart.j
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

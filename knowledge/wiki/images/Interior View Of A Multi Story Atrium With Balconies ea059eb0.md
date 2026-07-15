@@ -6,7 +6,7 @@ source_relpath: "photography/Interior View Of A Multi-Story Atrium With Balconie
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

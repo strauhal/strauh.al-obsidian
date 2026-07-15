@@ -6,7 +6,7 @@ source_relpath: "1800s/Isle of the Dead by Arnold Böcklin (1883).jpg"
 collection: "1800s"
 inferred_year: "1883"
 artist: ""
-dimensions: ""
+dimensions: "4933x2628"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

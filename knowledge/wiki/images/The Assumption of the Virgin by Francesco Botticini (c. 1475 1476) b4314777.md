@@ -6,7 +6,7 @@ source_relpath: "1400s/The Assumption of the Virgin by Francesco Botticini (c. 1
 collection: "1400s"
 inferred_year: "1476"
 artist: ""
-dimensions: ""
+dimensions: "1024x619"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

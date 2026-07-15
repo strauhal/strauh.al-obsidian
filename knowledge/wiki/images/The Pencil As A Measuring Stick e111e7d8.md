@@ -6,7 +6,7 @@ source_relpath: "diagrams/The_Pencil_As_A_Measuring-Stick.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "450x398"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

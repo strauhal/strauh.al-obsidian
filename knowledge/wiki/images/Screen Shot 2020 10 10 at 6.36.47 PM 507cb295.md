@@ -6,7 +6,7 @@ source_relpath: "wallpapers/Screen Shot 2020-10-10 at 6.36.47 PM.png"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2880x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

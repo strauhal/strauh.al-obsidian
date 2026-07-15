@@ -6,7 +6,7 @@ source_relpath: "photography/Room Cluttered With Synthesizers And Electronic Mus
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal Pen And Ink Drawing Of Female Figu
 collection: "2000s"
 inferred_year: "2000s"
 artist: "L. Mayus"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/rain_at_gokokuji_temple_by_kawase_hasui_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

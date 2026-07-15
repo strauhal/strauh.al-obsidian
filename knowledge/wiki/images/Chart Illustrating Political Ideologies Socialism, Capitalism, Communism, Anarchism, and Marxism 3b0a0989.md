@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_Illustrating_Political_Ideologies:_Socialism,_Ca
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

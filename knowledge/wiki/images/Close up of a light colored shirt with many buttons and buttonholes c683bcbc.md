@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a light-colored shirt with many buttons
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x1593"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

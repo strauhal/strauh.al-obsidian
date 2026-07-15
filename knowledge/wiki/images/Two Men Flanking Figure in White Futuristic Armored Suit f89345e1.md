@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Flanking Figure in White Futuristic Armored
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

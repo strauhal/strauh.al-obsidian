@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_a_man_with_a_letter_by_titian_c_1545.jpeg"
 collection: "1500s"
 inferred_year: "1545"
 artist: "titian"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Japanese Weather Presenter With Digital T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

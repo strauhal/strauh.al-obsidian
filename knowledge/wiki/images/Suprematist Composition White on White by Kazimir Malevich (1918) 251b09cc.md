@@ -6,7 +6,7 @@ source_relpath: "2000s/Suprematist Composition: White on White by Kazimir Malevi
 collection: "2000s"
 inferred_year: "1918"
 artist: ""
-dimensions: ""
+dimensions: "2000x1998"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

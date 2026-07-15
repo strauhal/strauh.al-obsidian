@@ -6,7 +6,7 @@ source_relpath: "1800s/john_martin_the_destruction_of_sodom_and_gomorrah_1859.jp
 collection: "1800s"
 inferred_year: "1859"
 artist: ""
-dimensions: ""
+dimensions: "2863x1830"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

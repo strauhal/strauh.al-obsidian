@@ -6,7 +6,7 @@ source_relpath: "1900s/Lamia by John William Waterhouse (1905).jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: ""
-dimensions: ""
+dimensions: "1200x862"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

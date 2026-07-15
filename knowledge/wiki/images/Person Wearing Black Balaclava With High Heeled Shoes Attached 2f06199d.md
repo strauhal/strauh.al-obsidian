@@ -6,7 +6,7 @@ source_relpath: "photography/Person Wearing Black Balaclava With High-Heeled Sho
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "407x612"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

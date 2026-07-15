@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_with_a_blue_dog_by_kees_van_dongen_1922.jpg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "kees van dongen"
-dimensions: ""
+dimensions: "1501x3072"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

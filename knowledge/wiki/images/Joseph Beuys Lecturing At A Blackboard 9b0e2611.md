@@ -6,7 +6,7 @@ source_relpath: "photography/Joseph Beuys Lecturing At A Blackboard.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "772x525"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

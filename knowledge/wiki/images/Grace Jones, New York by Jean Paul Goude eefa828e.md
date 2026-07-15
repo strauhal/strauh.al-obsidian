@@ -6,7 +6,7 @@ source_relpath: "photography/Grace Jones, New York by Jean-Paul Goude.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "Jean Paul Goude"
-dimensions: ""
+dimensions: "1280x1431"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

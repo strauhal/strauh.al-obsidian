@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_Los_Angeles_City_and_Suburban_Lines.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1538x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

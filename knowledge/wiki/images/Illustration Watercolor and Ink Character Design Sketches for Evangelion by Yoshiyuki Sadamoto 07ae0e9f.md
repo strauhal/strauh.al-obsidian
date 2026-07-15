@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Watercolor and Ink Character Design Ske
 collection: "unsorted"
 inferred_year: ""
 artist: "Yoshiyuki Sadamoto"
-dimensions: ""
+dimensions: "4580x2876"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

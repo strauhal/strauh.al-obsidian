@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal Biomorphic Forms With A Window Vie
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "736x928"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

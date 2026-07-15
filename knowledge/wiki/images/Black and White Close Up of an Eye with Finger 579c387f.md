@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Close-Up of an Eye with Finger.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "376x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Donald Trump and Christian Bale Posing Indoors.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1013x993"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

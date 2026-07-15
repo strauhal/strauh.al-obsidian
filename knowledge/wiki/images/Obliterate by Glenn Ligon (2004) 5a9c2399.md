@@ -6,7 +6,7 @@ source_relpath: "2000s/Obliterate by Glenn Ligon (2004).webp"
 collection: "2000s"
 inferred_year: "2004"
 artist: ""
-dimensions: ""
+dimensions: "377x470"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

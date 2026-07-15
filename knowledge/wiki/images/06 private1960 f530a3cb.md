@@ -6,7 +6,7 @@ source_relpath: "photography/fan_ho/06-private1960.jpg"
 collection: "photography"
 inferred_year: "1960"
 artist: ""
-dimensions: ""
+dimensions: "1166x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

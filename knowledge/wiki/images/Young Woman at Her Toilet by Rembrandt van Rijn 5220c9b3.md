@@ -6,7 +6,7 @@ source_relpath: "2000s/Young Woman at Her Toilet by Rembrandt van Rijn.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Rembrandt van Rijn"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

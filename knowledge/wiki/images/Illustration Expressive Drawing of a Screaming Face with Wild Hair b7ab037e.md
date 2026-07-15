@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Expressive Drawing of a Screaming Face 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x742"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

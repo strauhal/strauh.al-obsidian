@@ -6,7 +6,7 @@ source_relpath: "2000s/Nativity by Kost' Markovych.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kost' Markovych"
-dimensions: ""
+dimensions: "564x570"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

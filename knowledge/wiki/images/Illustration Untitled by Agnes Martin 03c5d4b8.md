@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Untitled by Agnes Martin.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Agnes Martin"
-dimensions: ""
+dimensions: "2000x1963"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

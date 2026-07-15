@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Sanguine Drawing of Two Male Nude Figures 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Iliya Mirochnik"
-dimensions: ""
+dimensions: "604x850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

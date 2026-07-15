@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_the_artist_s_son_yury_repin_by_ilya_repin_188
 collection: "1800s"
 inferred_year: "1883"
 artist: "ilya repin"
-dimensions: ""
+dimensions: "790x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

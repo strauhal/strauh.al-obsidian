@@ -6,7 +6,7 @@ source_relpath: "1900s/helen_frankenthaler_cloud_study_1980.jpg"
 collection: "1900s"
 inferred_year: "1980"
 artist: ""
-dimensions: ""
+dimensions: "697x549"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

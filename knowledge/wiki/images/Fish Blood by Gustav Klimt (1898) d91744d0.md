@@ -6,7 +6,7 @@ source_relpath: "2000s/Fish Blood by Gustav Klimt (1898).jpeg"
 collection: "2000s"
 inferred_year: "1898"
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/net_by_lee_krasner_1959.jpeg"
 collection: "1900s"
 inferred_year: "1959"
 artist: "lee krasner"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

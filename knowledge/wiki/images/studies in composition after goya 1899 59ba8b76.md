@@ -6,7 +6,7 @@ source_relpath: "1800s/studies_in_composition_after_goya_1899.jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

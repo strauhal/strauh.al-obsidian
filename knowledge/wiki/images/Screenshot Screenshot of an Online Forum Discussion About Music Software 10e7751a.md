@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of an Online Forum Discussion 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1020x790"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

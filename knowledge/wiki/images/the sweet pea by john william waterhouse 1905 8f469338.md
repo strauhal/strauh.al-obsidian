@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sweet_pea_by_john_william_waterhouse_1905.jpeg"
 collection: "1900s"
 inferred_year: "1905"
 artist: "john william waterhouse"
-dimensions: ""
+dimensions: "488x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

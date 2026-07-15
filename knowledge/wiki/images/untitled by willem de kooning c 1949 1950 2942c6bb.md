@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_by_willem_de_kooning_c_1949_1950.jpeg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "willem de kooning"
-dimensions: ""
+dimensions: "2000x1482"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

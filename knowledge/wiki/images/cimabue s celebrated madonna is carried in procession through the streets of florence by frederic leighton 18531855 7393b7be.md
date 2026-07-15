@@ -6,7 +6,7 @@ source_relpath: "1800s/cimabue_s_celebrated_madonna_is_carried_in_procession_thr
 collection: "1800s"
 inferred_year: "1800s"
 artist: "frederic leighton 18531855"
-dimensions: ""
+dimensions: "3639x1610"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Evangelion Unit-01 In Ruined City Again
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3840x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

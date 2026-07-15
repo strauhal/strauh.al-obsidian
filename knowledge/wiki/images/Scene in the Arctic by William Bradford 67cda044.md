@@ -6,7 +6,7 @@ source_relpath: "1800s/Scene in the Arctic by William Bradford.jpeg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "William Bradford"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

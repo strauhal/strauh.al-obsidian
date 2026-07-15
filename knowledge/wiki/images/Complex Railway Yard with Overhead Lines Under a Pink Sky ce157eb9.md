@@ -6,7 +6,7 @@ source_relpath: "photography/Complex Railway Yard with Overhead Lines Under a Pi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1396x1019"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

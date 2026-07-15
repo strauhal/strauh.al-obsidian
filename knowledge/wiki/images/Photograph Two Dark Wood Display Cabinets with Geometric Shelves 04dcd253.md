@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Two Dark Wood Display Cabinets with Geometri
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "552x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

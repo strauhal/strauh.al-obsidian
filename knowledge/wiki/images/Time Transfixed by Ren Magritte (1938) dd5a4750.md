@@ -6,7 +6,7 @@ source_relpath: "2000s/Time Transfixed by René Magritte (1938).jpg"
 collection: "2000s"
 inferred_year: "1938"
 artist: ""
-dimensions: ""
+dimensions: "1200x1801"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

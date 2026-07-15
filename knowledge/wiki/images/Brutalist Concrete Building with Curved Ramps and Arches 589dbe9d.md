@@ -6,7 +6,7 @@ source_relpath: "photography/Brutalist Concrete Building with Curved Ramps and A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

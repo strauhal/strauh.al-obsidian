@@ -6,7 +6,7 @@ source_relpath: "1900s/phenomena_sound_of_grass_by_paul_jenkins_1968.jpeg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "paul jenkins"
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

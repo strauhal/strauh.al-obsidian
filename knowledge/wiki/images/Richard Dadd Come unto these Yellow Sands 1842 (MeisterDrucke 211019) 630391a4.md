@@ -6,7 +6,7 @@ source_relpath: "1800s/Richard Dadd - Come unto these Yellow Sands 1842  - (Meis
 collection: "1800s"
 inferred_year: "1842"
 artist: ""
-dimensions: ""
+dimensions: "1260x894"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

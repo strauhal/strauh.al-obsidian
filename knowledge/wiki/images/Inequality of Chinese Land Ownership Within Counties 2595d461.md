@@ -6,7 +6,7 @@ source_relpath: "diagrams/Inequality_of_Chinese_Land_Ownership_Within_Counties.j
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1636x1001"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

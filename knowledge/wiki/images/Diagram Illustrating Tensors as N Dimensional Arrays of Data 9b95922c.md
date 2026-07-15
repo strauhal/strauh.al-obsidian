@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Tensors_as_N-Dimensional_Arrays_o
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "891x441"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/regatta_at_argenteuil_by_claude_monet_1872.jpeg"
 collection: "1800s"
 inferred_year: "1872"
 artist: "claude monet"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

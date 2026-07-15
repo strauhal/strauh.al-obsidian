@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of A Parade With A Large
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "908x691"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

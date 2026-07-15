@@ -6,7 +6,7 @@ source_relpath: "2000s/Portrait of Mlle. Lange as Danae by Anne-Louis Girodet de
 collection: "2000s"
 inferred_year: "1799"
 artist: ""
-dimensions: ""
+dimensions: "640x789"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

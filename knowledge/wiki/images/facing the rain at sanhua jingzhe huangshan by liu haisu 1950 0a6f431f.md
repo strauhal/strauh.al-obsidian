@@ -6,7 +6,7 @@ source_relpath: "1900s/facing_the_rain_at_sanhua_jingzhe_huangshan_by_liu_haisu_
 collection: "1900s"
 inferred_year: "1950"
 artist: "liu haisu"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

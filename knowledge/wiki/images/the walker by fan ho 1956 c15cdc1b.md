@@ -6,7 +6,7 @@ source_relpath: "1900s/the_walker_by_fan_ho_1956.jpg"
 collection: "1900s"
 inferred_year: "1956"
 artist: "fan ho"
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

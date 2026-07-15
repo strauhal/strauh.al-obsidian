@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_of_the_artist_s_library_by_walter_gay_1909_13.jp
 collection: "1900s"
 inferred_year: "1909"
 artist: "walter gay"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

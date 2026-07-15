@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - World's Columbian Exposition, Administration
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4135x3328"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - WordArt Gallery Dialog Box.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "420x362"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Bastard!! Heavy Metal, Dark Fantasy by Kazushi Hagiwara (
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "1180x1684"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

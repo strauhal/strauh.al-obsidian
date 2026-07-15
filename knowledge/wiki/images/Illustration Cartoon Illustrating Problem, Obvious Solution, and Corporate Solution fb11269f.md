@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cartoon Illustrating Problem, Obvious S
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x670"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

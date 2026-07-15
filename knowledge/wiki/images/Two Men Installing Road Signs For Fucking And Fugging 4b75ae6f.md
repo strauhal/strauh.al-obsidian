@@ -6,7 +6,7 @@ source_relpath: "photography/Two Men Installing Road Signs For Fucking And Fuggi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1207"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

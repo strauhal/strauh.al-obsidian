@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Monkey-Like Figures Playing Instr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5697x2126"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

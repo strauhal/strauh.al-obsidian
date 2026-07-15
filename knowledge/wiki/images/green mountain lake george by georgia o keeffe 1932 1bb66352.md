@@ -6,7 +6,7 @@ source_relpath: "1900s/green_mountain_lake_george_by_georgia_o_keeffe_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "georgia o keeffe"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

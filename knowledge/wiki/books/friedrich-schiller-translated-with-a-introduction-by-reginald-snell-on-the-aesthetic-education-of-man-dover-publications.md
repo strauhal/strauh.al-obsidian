@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Friedrich Schiller _ translated with a introduction by Reginald Snell. - On the aesthetic education of man-Dover Publications (2004).epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # On the aesthetic education of man-Dover Publications

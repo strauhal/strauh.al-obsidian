@@ -6,7 +6,7 @@ source_relpath: "photography/Suburban Houses, Large Pine Tree, Airport, and Airp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1486x836"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

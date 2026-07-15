@@ -6,7 +6,7 @@ source_relpath: "photography/Colorful Water Droplets On A Textured Surface.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x713"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

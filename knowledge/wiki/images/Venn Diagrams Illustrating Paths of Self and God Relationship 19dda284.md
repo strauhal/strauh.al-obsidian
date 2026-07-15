@@ -6,7 +6,7 @@ source_relpath: "diagrams/Venn_Diagrams_Illustrating_Paths_of_Self_and_God_Relat
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

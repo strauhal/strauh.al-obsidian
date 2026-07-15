@@ -6,7 +6,7 @@ source_relpath: "1900s/cite_de_la_vallee_by_jean_giraud_1987.jpg"
 collection: "1900s"
 inferred_year: "1987"
 artist: "jean giraud"
-dimensions: ""
+dimensions: "800x612"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

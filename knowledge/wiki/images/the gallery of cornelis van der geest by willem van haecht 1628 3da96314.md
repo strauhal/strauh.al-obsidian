@@ -6,7 +6,7 @@ source_relpath: "1600s/the_gallery_of_cornelis_van_der_geest_by_willem_van_haech
 collection: "1600s"
 inferred_year: "1628"
 artist: "willem van haecht"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

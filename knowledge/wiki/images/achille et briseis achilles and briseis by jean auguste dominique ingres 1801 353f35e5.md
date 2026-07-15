@@ -6,7 +6,7 @@ source_relpath: "1800s/achille_et_briseis_achilles_and_briseis_by_jean_auguste_d
 collection: "1800s"
 inferred_year: "1801"
 artist: "jean auguste dominique ingres"
-dimensions: ""
+dimensions: "1024x556"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

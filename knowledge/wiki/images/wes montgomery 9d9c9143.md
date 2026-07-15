@@ -6,7 +6,7 @@ source_relpath: "influences/wes_montgomery.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "937x527"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

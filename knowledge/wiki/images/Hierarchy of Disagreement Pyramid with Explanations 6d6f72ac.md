@@ -6,7 +6,7 @@ source_relpath: "diagrams/Hierarchy_of_Disagreement_Pyramid_with_Explanations.jp
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1436x1148"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Death and Life by Gustav Klimt (1910-1911).jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: ""
+dimensions: "657x650"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

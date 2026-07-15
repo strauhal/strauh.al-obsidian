@@ -6,7 +6,7 @@ source_relpath: "photography/Spiderwebs on a metal gate at sunrise.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1598x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

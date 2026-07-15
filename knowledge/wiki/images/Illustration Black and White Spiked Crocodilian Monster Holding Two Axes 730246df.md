@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black and White Spiked Crocodilian Mons
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1875x1720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Art Gallery Installation with Multiple Grey Canvase
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x953"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

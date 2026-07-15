@@ -6,7 +6,7 @@ source_relpath: "1900s/fire_emblem_genealogy_of_the_holy_war_illustration_by_may
 collection: "1900s"
 inferred_year: "1996"
 artist: "mayumi hirota"
-dimensions: ""
+dimensions: "4300x2700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

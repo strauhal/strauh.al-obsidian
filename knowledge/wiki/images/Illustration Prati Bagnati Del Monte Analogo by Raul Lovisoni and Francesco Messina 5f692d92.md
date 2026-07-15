@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Prati Bagnati Del Monte Analogo by Raul
 collection: "unsorted"
 inferred_year: ""
 artist: "Raul Lovisoni and Francesco Messina"
-dimensions: ""
+dimensions: "540x540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

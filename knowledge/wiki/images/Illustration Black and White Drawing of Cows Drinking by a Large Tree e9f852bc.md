@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Drawing of Cows Drinking b
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "750x1033"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

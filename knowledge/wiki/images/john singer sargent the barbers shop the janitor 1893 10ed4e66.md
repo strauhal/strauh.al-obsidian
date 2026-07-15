@@ -6,7 +6,7 @@ source_relpath: "1800s/john_singer_sargent_the_barbers_shop_the_janitor_1893.jpg
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "2000x983"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Batman: The Dark Knight Returns by Frank Miller (1986).jp
 collection: "1900s"
 inferred_year: "1986"
 artist: ""
-dimensions: ""
+dimensions: "500x742"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

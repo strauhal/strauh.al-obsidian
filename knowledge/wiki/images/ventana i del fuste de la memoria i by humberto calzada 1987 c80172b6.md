@@ -6,7 +6,7 @@ source_relpath: "1900s/ventana_i_del_fuste_de_la_memoria_i_by_humberto_calzada_1
 collection: "1900s"
 inferred_year: "1987"
 artist: "humberto calzada"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

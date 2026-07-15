@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Sketchy Line Drawing Of
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2880x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

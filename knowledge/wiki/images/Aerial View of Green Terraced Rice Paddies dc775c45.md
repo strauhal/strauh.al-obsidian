@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Green Terraced Rice Paddies.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x525"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

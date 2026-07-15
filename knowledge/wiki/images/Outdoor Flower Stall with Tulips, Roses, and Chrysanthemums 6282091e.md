@@ -6,7 +6,7 @@ source_relpath: "photography/Outdoor Flower Stall with Tulips, Roses, and Chrysa
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2416"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

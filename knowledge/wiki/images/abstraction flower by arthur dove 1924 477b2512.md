@@ -6,7 +6,7 @@ source_relpath: "1900s/abstraction_flower_by_arthur_dove_1924.jpeg"
 collection: "1900s"
 inferred_year: "1924"
 artist: "arthur dove"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

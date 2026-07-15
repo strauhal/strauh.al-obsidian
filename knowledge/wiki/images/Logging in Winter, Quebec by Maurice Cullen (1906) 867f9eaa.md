@@ -6,7 +6,7 @@ source_relpath: "1900s/Logging in Winter, Quebec by Maurice Cullen (1906).jpg"
 collection: "1900s"
 inferred_year: "1906"
 artist: ""
-dimensions: ""
+dimensions: "720x538"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

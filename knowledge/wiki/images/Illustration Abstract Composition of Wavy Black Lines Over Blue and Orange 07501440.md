@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Composition of Wavy Black Lines O
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2664x3289"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Concrete with 'SACARMNETO' Inscription and Utility 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "454x356"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

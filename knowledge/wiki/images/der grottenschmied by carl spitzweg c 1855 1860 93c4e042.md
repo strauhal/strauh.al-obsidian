@@ -6,7 +6,7 @@ source_relpath: "1800s/der_grottenschmied_by_carl_spitzweg_c_1855_1860.jpeg"
 collection: "1800s"
 inferred_year: "1860"
 artist: "carl spitzweg"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

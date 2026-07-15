@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Pixel Art City Skyline Und
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Marcio Luis Teixeira"
-dimensions: ""
+dimensions: "2304x1340"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

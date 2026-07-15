@@ -6,7 +6,7 @@ source_relpath: "1800s/pip_and_the_convict_illustration_for_great_expectations_b
 collection: "1800s"
 inferred_year: "1861"
 artist: "john mclenan"
-dimensions: ""
+dimensions: "981x711"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

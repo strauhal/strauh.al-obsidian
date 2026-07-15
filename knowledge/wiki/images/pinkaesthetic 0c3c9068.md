@@ -6,7 +6,7 @@ source_relpath: "wallpapers/pinkaesthetic.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1411"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

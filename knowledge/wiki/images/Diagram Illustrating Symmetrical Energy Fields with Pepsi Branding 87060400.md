@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Symmetrical_Energy_Fields_with_Pe
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "320x274"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Portrait of Steve Jobs on Apple Mem
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1040x780"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

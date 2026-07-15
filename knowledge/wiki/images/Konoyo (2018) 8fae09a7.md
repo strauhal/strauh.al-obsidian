@@ -6,7 +6,7 @@ source_relpath: "2000s/Konoyo (2018).jpeg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: ""
+dimensions: "3264x3264"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

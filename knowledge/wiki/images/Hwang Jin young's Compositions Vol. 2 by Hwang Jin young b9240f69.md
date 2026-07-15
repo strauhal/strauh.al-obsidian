@@ -6,7 +6,7 @@ source_relpath: "unsorted/Hwang Jin-young's Compositions Vol. 2 by Hwang Jin-you
 collection: "unsorted"
 inferred_year: ""
 artist: "Hwang Jin young"
-dimensions: ""
+dimensions: "500x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

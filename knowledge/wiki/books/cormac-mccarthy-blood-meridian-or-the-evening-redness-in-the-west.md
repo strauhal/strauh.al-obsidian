@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Blood Meridian - Or the Evening Redness in the West -- Cormac McCarthy -- 1st ed, New York, ©1985 -- Random House, Incorporated -- 9780307762528 -- 4c0d5efa59459d8342ab821921805986 -- Anna’s Archive.epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Blood Meridian - Or the Evening Redness in the West

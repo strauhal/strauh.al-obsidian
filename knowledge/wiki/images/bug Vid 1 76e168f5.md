@@ -6,7 +6,7 @@ source_relpath: "gif_collection/bug-Vid-1.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

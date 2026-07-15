@@ -6,7 +6,7 @@ source_relpath: "1900s/yukoku_patriotism_by_yukio_mishima_1966.jpg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "yukio mishima"
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

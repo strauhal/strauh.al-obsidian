@@ -6,7 +6,7 @@ source_relpath: "1800s/the_deluge_by_gustave_dore_1866_2.jpg"
 collection: "1800s"
 inferred_year: "1866"
 artist: "gustave dore"
-dimensions: ""
+dimensions: "1280x1605"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

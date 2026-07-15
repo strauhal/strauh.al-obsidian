@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting of Vintage Car at In-
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

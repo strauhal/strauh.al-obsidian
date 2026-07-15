@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Three People Planking on a Wall Next to Stai
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1125x1104"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

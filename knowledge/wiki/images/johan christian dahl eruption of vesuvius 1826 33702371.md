@@ -6,7 +6,7 @@ source_relpath: "1800s/johan_christian_dahl_eruption_of_vesuvius_1826.jpg"
 collection: "1800s"
 inferred_year: "1826"
 artist: ""
-dimensions: ""
+dimensions: "900x599"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_German_Roads_by_PythonMaps.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: "PythonMaps"
-dimensions: ""
+dimensions: "3061x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_doors_sparrow_fd_50_by_victor_moscoso_1967.jpg"
 collection: "1900s"
 inferred_year: "1967"
 artist: "victor moscoso"
-dimensions: ""
+dimensions: "1434x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

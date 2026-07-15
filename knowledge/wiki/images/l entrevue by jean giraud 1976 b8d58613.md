@@ -6,7 +6,7 @@ source_relpath: "1900s/l_entrevue_by_jean_giraud_1976.jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "jean giraud"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Drawing Program Displayin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "946x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized House, Figures, And Framed Mec
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1800x1395"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

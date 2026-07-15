@@ -6,7 +6,7 @@ source_relpath: "1800s/the_angel_of_death_by_hugo_simberg_1895.jpg"
 collection: "1800s"
 inferred_year: "1895"
 artist: "hugo simberg"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

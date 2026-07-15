@@ -6,7 +6,7 @@ source_relpath: "photography/Man In A Fedora With A Red Rose In A Vase.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

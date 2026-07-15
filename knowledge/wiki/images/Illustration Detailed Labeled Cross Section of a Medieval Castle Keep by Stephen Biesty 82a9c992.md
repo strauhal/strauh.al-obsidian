@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Detailed Labeled Cross-Section of a Mediev
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Stephen Biesty"
-dimensions: ""
+dimensions: "3022x3996"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

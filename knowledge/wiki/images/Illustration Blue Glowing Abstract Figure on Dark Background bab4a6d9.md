@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Glowing Abstract Figure on Dark Ba
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "564x556"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

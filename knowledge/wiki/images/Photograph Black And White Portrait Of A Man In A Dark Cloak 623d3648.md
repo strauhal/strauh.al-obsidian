@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black And White Portrait Of A Man In A Dark 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "640x903"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

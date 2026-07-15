@@ -6,7 +6,7 @@ source_relpath: "photography/Chuck Jones Drawing His Surprised Reflection In A M
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "605x605"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Timeline_of_American_Slavery_and_Segregation.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

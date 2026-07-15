@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of Figure in Profile with Sc
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "570x855"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

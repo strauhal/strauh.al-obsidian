@@ -6,7 +6,7 @@ source_relpath: "1500s/The Lamentation over the Dead Christ by Giovanni Bellini 
 collection: "1500s"
 inferred_year: "1500"
 artist: ""
-dimensions: ""
+dimensions: "1280x1129"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

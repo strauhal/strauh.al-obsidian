@@ -6,7 +6,7 @@ source_relpath: "1600s/The Philosopher in Meditation by Rembrandt van Rijn (c. 1
 collection: "1600s"
 inferred_year: "1632"
 artist: ""
-dimensions: ""
+dimensions: "964x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

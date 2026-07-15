@@ -6,7 +6,7 @@ source_relpath: "1900s/gun_by_andy_warhol_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "andy warhol"
-dimensions: ""
+dimensions: "750x592"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

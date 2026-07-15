@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Concentrated Solar Power Plant in De
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4000x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

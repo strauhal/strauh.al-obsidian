@@ -6,7 +6,7 @@ source_relpath: "1900s/friends_album_cover_by_rick_griffin_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "rick griffin"
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

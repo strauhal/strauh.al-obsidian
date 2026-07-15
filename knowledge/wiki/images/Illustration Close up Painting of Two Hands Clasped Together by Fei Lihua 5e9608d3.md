@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Close-up Painting of Two Hands Clasped Tog
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Fei Lihua"
-dimensions: ""
+dimensions: "1350x1687"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

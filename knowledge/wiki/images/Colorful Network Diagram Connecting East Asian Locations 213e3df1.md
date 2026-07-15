@@ -6,7 +6,7 @@ source_relpath: "diagrams/Colorful_Network_Diagram_Connecting_East_Asian_Locatio
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2870x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

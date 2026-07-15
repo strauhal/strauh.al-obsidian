@@ -6,7 +6,7 @@ source_relpath: "unsorted/Portrait of Terentius Neo (c. 79 AD).jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "908x998"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cosmic Scene with Mesoamerican Pyramid,
 collection: "unsorted"
 inferred_year: ""
 artist: "Tukaaria"
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

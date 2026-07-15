@@ -6,7 +6,7 @@ source_relpath: "photography/Full Body Studio Photograph Of Person In Lavender S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3768x5651"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

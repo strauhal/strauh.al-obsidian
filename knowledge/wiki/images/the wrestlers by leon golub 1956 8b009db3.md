@@ -6,7 +6,7 @@ source_relpath: "1900s/the_wrestlers_by_leon_golub_1956.jpg"
 collection: "1900s"
 inferred_year: "1956"
 artist: "leon golub"
-dimensions: ""
+dimensions: "801x1199"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

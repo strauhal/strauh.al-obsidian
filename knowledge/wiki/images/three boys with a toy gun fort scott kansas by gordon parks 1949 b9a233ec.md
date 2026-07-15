@@ -6,7 +6,7 @@ source_relpath: "1900s/three_boys_with_a_toy_gun_fort_scott_kansas_by_gordon_par
 collection: "1900s"
 inferred_year: "1949"
 artist: "gordon parks"
-dimensions: ""
+dimensions: "962x653"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

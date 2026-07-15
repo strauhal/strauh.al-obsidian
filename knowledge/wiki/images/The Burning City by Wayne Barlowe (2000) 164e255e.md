@@ -6,7 +6,7 @@ source_relpath: "2000s/The Burning City by Wayne Barlowe (2000).png"
 collection: "2000s"
 inferred_year: "2000"
 artist: ""
-dimensions: ""
+dimensions: "1581x1028"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

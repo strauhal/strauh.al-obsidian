@@ -6,7 +6,7 @@ source_relpath: "1900s/the_crucifixion_of_the_twenty_six_martyrs_of_japan_by_fuj
 collection: "1900s"
 inferred_year: "1907"
 artist: "fujishima takeji"
-dimensions: ""
+dimensions: "670x457"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

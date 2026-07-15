@@ -6,7 +6,7 @@ source_relpath: "1000s/1983_1047_adam_and_eve_in_paradise_jpg.jpg"
 collection: "1000s"
 inferred_year: "1983"
 artist: ""
-dimensions: ""
+dimensions: "2332x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1000s"]
 ---

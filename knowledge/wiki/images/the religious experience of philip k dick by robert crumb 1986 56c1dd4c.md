@@ -6,7 +6,7 @@ source_relpath: "1900s/the_religious_experience_of_philip_k_dick_by_robert_crumb
 collection: "1900s"
 inferred_year: "1986"
 artist: "robert crumb"
-dimensions: ""
+dimensions: "480x632"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

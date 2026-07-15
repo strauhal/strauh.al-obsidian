@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In Orange Fox Costume Posing With Inflatable 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "601x601"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

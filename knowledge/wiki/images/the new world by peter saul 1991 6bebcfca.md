@@ -6,7 +6,7 @@ source_relpath: "1900s/the_new_world_by_peter_saul_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "peter saul"
-dimensions: ""
+dimensions: "1834x1404"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

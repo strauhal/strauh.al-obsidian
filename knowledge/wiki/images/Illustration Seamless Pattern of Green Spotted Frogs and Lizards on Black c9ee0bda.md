@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Seamless Pattern of Green Spotted Frogs
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

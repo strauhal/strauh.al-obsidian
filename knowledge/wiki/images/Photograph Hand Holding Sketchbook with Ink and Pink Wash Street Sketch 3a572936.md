@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Hand Holding Sketchbook with Ink and Pink Wa
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

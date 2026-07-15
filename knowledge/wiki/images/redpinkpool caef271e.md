@@ -6,7 +6,7 @@ source_relpath: "wallpapers/redpinkpool.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1768x1150"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

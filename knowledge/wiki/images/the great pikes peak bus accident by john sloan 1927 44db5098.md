@@ -6,7 +6,7 @@ source_relpath: "1900s/the_great_pikes_peak_bus_accident_by_john_sloan_1927.jpeg
 collection: "1900s"
 inferred_year: "1927"
 artist: "john sloan"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

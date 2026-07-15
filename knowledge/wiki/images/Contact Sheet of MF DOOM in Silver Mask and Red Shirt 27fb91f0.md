@@ -6,7 +6,7 @@ source_relpath: "photography/Contact Sheet of MF DOOM in Silver Mask and Red Shi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "838x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

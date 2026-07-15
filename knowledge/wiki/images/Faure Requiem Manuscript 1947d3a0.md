@@ -6,7 +6,7 @@ source_relpath: "gif_collection/Faure_Requiem_Manuscript.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "368x429"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/nepenthes_by_walter_hood_fitch_1881.jpeg"
 collection: "1800s"
 inferred_year: "1881"
 artist: "walter hood fitch"
-dimensions: ""
+dimensions: "2344x3360"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

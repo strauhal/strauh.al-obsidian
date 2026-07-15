@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Grand Theft Auto IV explo
 collection: "unsorted"
 inferred_year: ""
 artist: "Shone"
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "computers/FtJUeSAWIAEgKFt.jpeg"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x2118"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

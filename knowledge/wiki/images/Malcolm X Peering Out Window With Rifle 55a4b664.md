@@ -6,7 +6,7 @@ source_relpath: "photography/Malcolm X Peering Out Window With Rifle.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "836x1215"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

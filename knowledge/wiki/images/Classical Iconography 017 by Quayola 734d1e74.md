@@ -6,7 +6,7 @@ source_relpath: "2000s/Classical Iconography 017 by Quayola.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Quayola"
-dimensions: ""
+dimensions: "1612x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Illustration of Teal Spheres an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

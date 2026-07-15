@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_Bureaucracy_Lifecycle_with_Progra
 collection: "diagrams"
 inferred_year: ""
 artist: "Charles Hugh Smith"
-dimensions: ""
+dimensions: "859x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

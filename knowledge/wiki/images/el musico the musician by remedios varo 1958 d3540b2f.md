@@ -6,7 +6,7 @@ source_relpath: "1900s/el_musico_the_musician_by_remedios_varo_1958.jpeg"
 collection: "1900s"
 inferred_year: "1958"
 artist: "remedios varo"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

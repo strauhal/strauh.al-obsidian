@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Digital Infrastructure by Randall Munroe.png"
 collection: "unsorted"
 inferred_year: ""
 artist: "Randall Munroe"
-dimensions: ""
+dimensions: "310x394"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

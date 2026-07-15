@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grotesque Decomposed Head on Abstract Spla
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1125x1393"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

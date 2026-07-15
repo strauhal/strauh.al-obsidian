@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photo Of Person On Skateboard In Fr
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "672x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

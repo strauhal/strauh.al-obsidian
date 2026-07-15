@@ -6,7 +6,7 @@ source_relpath: "2000s/The Long Ride by John Moyers (2005).jpeg"
 collection: "2000s"
 inferred_year: "2005"
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

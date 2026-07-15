@@ -6,7 +6,7 @@ source_relpath: "1900s/the_hands_of_the_artist_by_gerry_phibbs_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "gerry phibbs"
-dimensions: ""
+dimensions: "1440x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

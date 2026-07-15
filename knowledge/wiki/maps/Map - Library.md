@@ -2,15 +2,15 @@
 title: Map - Library
 type: map
 tags: [map, library, books]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Map - Library
 
 A linked map of the iCloud Readings folder. It knows titles, likely authors, source paths, and broad themes, but it does not pretend to summarize unread books.
 
-Total entries: 419
+Total entries: 420
 
 [Open the iCloud Readings folder](file:///Users/erneststrauhal/Library/Mobile%20Documents/com~apple~CloudDocs/Readings)
 
@@ -25,7 +25,7 @@ Total entries: 419
 - [[Library - Politics and Society]] (33)
 - [[Library - Psychoanalysis and Psychology]] (26)
 - [[Library - Spirituality and Esoterica]] (28)
-- [[Library - Unsorted]] (113)
+- [[Library - Unsorted]] (114)
 
 ## Strong Bridges Into The Wiki
 
@@ -50,6 +50,6 @@ Total entries: 419
 - [[knowledge/output/library-build-report|library-build-report]] — shared language: technology, esoterica, media
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: media, philosophy, total
 - [[knowledge/wiki/works/GAN Color Studies|GAN Color Studies]] — shared language: elegance, spontaneity, latent
-- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
 - [[knowledge/wiki/people/Yoji Shinkawa|Yoji Shinkawa]] — shared language: elegance, spontaneity, read
+- [[knowledge/wiki/books/ai-dating|ai dating]] — shared language: technology, media
 <!-- vault-crosslinks:end -->

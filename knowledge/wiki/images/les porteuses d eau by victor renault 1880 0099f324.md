@@ -6,7 +6,7 @@ source_relpath: "1800s/les_porteuses_d_eau_by_victor_renault_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "victor renault"
-dimensions: ""
+dimensions: "1540x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

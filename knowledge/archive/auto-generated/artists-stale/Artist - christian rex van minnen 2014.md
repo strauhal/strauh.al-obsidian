@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[_archive/auto-generated/images-stale/the mirror by christian rex van minnen 2013 9854a1e9|the mirror by christian rex van minnen 2013]] — shared language: minnen, rex, christian
 - [[knowledge/wiki/concepts/Decadence Is Beautiful|Decadence Is Beautiful]] — shared language: van
 - [[knowledge/wiki/images/Mg Rex Sketch 1 by Yoji Shinkawa 878843d7|Mg Rex Sketch 1 by Yoji Shinkawa]] — shared language: rex
-- [[knowledge/wiki/artists/Artist - christian clement|Artist - christian clement]] — shared language: christian
+- [[knowledge/wiki/images/the archaeologists by christian clement 1985 5ec045e9|the archaeologists by christian clement 1985]] — shared language: christian
 <!-- vault-crosslinks:end -->

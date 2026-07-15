@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_knight_on_horseback_by_jean_michel_basquiat_1982
 collection: "1900s"
 inferred_year: "1982"
 artist: "jean michel basquiat"
-dimensions: ""
+dimensions: "2048x1448"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

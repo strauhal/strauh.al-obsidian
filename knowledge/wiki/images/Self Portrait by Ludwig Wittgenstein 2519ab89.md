@@ -6,7 +6,7 @@ source_relpath: "photography/Self-Portrait by Ludwig Wittgenstein.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Ludwig Wittgenstein"
-dimensions: ""
+dimensions: "406x570"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

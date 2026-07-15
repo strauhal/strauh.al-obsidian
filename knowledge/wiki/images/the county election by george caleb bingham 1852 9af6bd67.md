@@ -6,7 +6,7 @@ source_relpath: "1800s/the_county_election_by_george_caleb_bingham_1852.jpeg"
 collection: "1800s"
 inferred_year: "1852"
 artist: "george caleb bingham"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

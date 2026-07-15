@@ -6,7 +6,7 @@ source_relpath: "1900s/john_cage_composer_new_york_by_richard_avedon_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "richard avedon"
-dimensions: ""
+dimensions: "1732x737"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black and White Calligraphic Talisman with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x2436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

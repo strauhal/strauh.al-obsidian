@@ -6,7 +6,7 @@ source_relpath: "1900s/Skybox by Ron Cobb (1990).jpeg"
 collection: "1900s"
 inferred_year: "1990"
 artist: ""
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

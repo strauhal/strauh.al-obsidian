@@ -6,7 +6,7 @@ source_relpath: "photography/Orange And White Cat Lying Down Looking At Camera.g
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "480x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

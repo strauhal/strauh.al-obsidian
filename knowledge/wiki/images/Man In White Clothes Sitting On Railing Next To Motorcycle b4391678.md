@@ -6,7 +6,7 @@ source_relpath: "photography/Man In White Clothes Sitting On Railing Next To Mot
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "641x1028"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

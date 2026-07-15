@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Page Listing 60 Lies With Bible Verses.jpeg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2479x3571"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

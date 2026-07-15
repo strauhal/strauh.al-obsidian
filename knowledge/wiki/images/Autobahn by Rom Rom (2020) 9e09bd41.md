@@ -6,7 +6,7 @@ source_relpath: "2000s/Autobahn by Rom Rom (2020).png"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

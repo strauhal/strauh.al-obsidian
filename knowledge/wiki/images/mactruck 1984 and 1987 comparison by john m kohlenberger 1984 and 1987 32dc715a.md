@@ -6,7 +6,7 @@ source_relpath: "1900s/mactruck_1984_and_1987_comparison_by_john_m_kohlenberger_
 collection: "1900s"
 inferred_year: "1987"
 artist: "john m kohlenberger"
-dimensions: ""
+dimensions: "2304x2880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

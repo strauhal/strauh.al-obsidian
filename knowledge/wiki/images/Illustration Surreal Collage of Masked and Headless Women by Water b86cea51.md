@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Surreal Collage of Masked and Headless Wom
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Water"
-dimensions: ""
+dimensions: "643x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

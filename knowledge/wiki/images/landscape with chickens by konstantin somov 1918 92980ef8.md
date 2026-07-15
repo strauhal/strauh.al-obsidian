@@ -6,7 +6,7 @@ source_relpath: "1900s/landscape_with_chickens_by_konstantin_somov_1918.jpg"
 collection: "1900s"
 inferred_year: "1918"
 artist: "konstantin somov"
-dimensions: ""
+dimensions: "750x490"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

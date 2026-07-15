@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Person on Couch Reading Tablet by Window a
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Window at Night"
-dimensions: ""
+dimensions: "1022x743"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

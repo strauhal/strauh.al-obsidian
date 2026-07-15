@@ -6,7 +6,7 @@ source_relpath: "gif_collection/rei smile.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x375"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

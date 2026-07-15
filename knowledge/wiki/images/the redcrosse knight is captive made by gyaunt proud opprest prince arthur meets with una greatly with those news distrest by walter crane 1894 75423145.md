@@ -6,7 +6,7 @@ source_relpath: "1800s/the_redcrosse_knight_is_captive_made_by_gyaunt_proud_oppr
 collection: "1800s"
 inferred_year: "1894"
 artist: ""
-dimensions: ""
+dimensions: "3156x3966"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

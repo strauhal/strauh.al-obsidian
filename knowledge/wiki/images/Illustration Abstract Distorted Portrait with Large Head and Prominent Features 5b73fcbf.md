@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Distorted Portrait with Large 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Nine Line Drawings Illustrating Different Crown
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "710x985"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

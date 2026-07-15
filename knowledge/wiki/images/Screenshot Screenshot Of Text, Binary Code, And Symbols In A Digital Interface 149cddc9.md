@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot Of Text, Binary Code, And Symb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x534"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

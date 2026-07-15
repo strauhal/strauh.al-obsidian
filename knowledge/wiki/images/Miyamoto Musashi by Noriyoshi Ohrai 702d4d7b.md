@@ -6,7 +6,7 @@ source_relpath: "unsorted/Miyamoto Musashi by Noriyoshi Ohrai.png"
 collection: "unsorted"
 inferred_year: ""
 artist: "Noriyoshi Ohrai"
-dimensions: ""
+dimensions: "1240x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

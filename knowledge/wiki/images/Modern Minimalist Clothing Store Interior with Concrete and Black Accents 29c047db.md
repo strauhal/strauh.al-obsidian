@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Minimalist Clothing Store Interior with Conc
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1457"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

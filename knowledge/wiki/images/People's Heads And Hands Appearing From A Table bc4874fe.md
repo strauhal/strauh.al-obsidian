@@ -6,7 +6,7 @@ source_relpath: "photography/People's Heads And Hands Appearing From A Table.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

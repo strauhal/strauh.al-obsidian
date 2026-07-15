@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Page with Black Organic Shapes and Grid of
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1674x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

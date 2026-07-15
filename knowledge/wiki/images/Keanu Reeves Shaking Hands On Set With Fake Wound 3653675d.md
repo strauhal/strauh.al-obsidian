@@ -6,7 +6,7 @@ source_relpath: "photography/Keanu Reeves Shaking Hands On Set With Fake Wound.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1068"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

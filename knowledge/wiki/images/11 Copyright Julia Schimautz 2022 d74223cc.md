@@ -6,7 +6,7 @@ source_relpath: "gif_collection/11-Copyright__Julia_Schimautz_2022.gif"
 collection: "gif_collection"
 inferred_year: "2022"
 artist: ""
-dimensions: ""
+dimensions: "800x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

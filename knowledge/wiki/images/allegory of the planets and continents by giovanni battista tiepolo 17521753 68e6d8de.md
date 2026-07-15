@@ -6,7 +6,7 @@ source_relpath: "1700s/allegory_of_the_planets_and_continents_by_giovanni_battis
 collection: "1700s"
 inferred_year: "1700s"
 artist: "giovanni battista tiepolo 17521753"
-dimensions: ""
+dimensions: "4032x2268"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

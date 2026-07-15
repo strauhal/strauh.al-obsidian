@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - YouTube Video Thumbnail of Two Bishops Fi
 collection: "unsorted"
 inferred_year: ""
 artist: "GMHikaru"
-dimensions: ""
+dimensions: "828x602"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Warriors, One Horned, One Wolf-Head
 collection: "unsorted"
 inferred_year: ""
 artist: "Heinrich Wilhelm Brinckmann Thiersch"
-dimensions: ""
+dimensions: "1180x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

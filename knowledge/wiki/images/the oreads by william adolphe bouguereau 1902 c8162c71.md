@@ -6,7 +6,7 @@ source_relpath: "1900s/the_oreads_by_william_adolphe_bouguereau_1902.jpg"
 collection: "1900s"
 inferred_year: "1902"
 artist: "william adolphe bouguereau"
-dimensions: ""
+dimensions: "1462x2667"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

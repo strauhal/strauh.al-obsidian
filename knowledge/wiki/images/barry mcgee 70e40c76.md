@@ -6,7 +6,7 @@ source_relpath: "influences/barry_mcgee.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

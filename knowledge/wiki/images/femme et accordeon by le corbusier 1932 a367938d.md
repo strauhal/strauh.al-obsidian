@@ -6,7 +6,7 @@ source_relpath: "1900s/femme_et_accordeon_by_le_corbusier_1932.jpeg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "le corbusier"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

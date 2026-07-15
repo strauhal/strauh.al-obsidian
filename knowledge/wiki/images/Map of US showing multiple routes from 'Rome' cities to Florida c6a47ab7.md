@@ -6,7 +6,7 @@ source_relpath: "diagrams/Map_of_US_showing_multiple_routes_from_'Rome'_cities_t
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "918x642"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

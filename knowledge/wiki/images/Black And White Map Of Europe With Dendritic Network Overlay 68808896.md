@@ -6,7 +6,7 @@ source_relpath: "diagrams/Black_And_White_Map_Of_Europe_With_Dendritic_Network_O
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "892x892"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

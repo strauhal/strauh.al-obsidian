@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_allen_knapp_by_robert_henri_c_1914.jpeg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "robert henri"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

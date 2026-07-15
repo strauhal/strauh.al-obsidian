@@ -6,7 +6,7 @@ source_relpath: "1300s/ink_bamboo_for_the_qingbige_by_ke_jiusi_1338.jpeg"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "ke jiusi"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

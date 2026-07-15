@@ -6,7 +6,7 @@ source_relpath: "photography/Group of Young People Posing Outdoors at Night.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Illustrating_The_Hierarchy_Of_Disagreement.png
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

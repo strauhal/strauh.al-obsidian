@@ -6,7 +6,7 @@ source_relpath: "photography/Street View Of Buildings And Parked Cars Under Blue
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

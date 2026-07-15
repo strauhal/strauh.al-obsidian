@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Screenshot of Text Message with White Canvas
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1125x1185"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

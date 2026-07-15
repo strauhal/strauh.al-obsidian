@@ -6,7 +6,7 @@ source_relpath: "photography/Lombard Street.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "683x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

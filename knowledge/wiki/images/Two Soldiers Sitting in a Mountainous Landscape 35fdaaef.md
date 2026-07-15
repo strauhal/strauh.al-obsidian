@@ -6,7 +6,7 @@ source_relpath: "photography/Two Soldiers Sitting in a Mountainous Landscape.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x683"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -25,5 +25,5 @@ Images attributed by filename: 1
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis|Artist - mark francis]] — shared language: mark
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark francis 2008|Artist - mark francis 2008]] — shared language: mark
 - [[knowledge/archive/auto-generated/artists-stale/Artist - mark j ferrari 1987|Artist - mark j ferrari 1987]] — shared language: mark
-- [[knowledge/archive/auto-generated/artists-stale/Artist - mark rothko 1950|Artist - mark rothko 1950]] — shared language: mark
+- [[knowledge/wiki/images/no 10 by mark rothko 1950 36d47fad|no 10 by mark rothko 1950]] — shared language: mark
 <!-- vault-crosslinks:end -->

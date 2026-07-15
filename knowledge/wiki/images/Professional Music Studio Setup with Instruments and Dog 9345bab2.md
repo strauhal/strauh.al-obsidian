@@ -6,7 +6,7 @@ source_relpath: "photography/Professional Music Studio Setup with Instruments an
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1153"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

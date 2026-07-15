@@ -6,7 +6,7 @@ source_relpath: "1900s/mano_cosmica_by_pedro_friedeberg_1970.jpg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "pedro friedeberg"
-dimensions: ""
+dimensions: "1421x1950"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

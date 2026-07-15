@@ -6,7 +6,7 @@ source_relpath: "1800s/the_administration_building_world_s_columbian_exposition_
 collection: "1800s"
 inferred_year: "1894"
 artist: "john moran"
-dimensions: ""
+dimensions: "1148x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

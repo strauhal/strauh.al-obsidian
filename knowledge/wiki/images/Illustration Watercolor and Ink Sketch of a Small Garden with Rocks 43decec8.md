@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Watercolor and Ink Sketch of a Small Garde
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1430"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

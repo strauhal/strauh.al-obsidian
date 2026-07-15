@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Sketchbook Page with Multiple Character
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2188x3213"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/deer_at_night_by_ohara_koson_c_1926.jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: "ohara koson"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Black Custom Car with Whitewall Tires Parked by Bri
 collection: "photography"
 inferred_year: ""
 artist: "Brick Building"
-dimensions: ""
+dimensions: "1055x1401"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

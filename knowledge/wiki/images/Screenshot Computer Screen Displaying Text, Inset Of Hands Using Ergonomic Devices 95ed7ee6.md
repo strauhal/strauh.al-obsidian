@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Computer Screen Displaying Text, Inset Of
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

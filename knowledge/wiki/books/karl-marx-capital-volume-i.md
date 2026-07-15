@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Capital-Volume-I]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Capital-Volume-I.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Capital, Volume I

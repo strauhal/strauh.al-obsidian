@@ -6,7 +6,7 @@ source_relpath: "photography/Students Studying in a Library with Laptops and Boo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x891"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

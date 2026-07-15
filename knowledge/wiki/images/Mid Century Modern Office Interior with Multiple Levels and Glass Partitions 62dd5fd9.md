@@ -6,7 +6,7 @@ source_relpath: "photography/Mid-Century Modern Office Interior with Multiple Le
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x575"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

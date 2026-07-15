@@ -6,7 +6,7 @@ source_relpath: "photography/Fawn Sleeping Next To Damaged Deer Archery Target.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x949"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

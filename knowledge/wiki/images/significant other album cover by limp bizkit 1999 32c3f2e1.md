@@ -6,7 +6,7 @@ source_relpath: "1900s/significant_other_album_cover_by_limp_bizkit_1999.jpg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "limp bizkit"
-dimensions: ""
+dimensions: "1400x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

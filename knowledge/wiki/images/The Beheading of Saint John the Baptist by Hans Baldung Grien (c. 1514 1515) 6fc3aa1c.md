@@ -6,7 +6,7 @@ source_relpath: "1500s/The Beheading of Saint John the Baptist by Hans Baldung G
 collection: "1500s"
 inferred_year: "1515"
 artist: ""
-dimensions: ""
+dimensions: "855x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

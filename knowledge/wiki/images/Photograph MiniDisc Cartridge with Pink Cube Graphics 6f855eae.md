@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - MiniDisc Cartridge with Pink Cube Graphics.j
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "736x702"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

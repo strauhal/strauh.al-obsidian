@@ -6,7 +6,7 @@ source_relpath: "photography/Man Singing Into Microphone At Concert With Goat In
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x540"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_vartoosh_by_arshile_gorky_1933.jpg"
 collection: "1900s"
 inferred_year: "1933"
 artist: "arshile gorky"
-dimensions: ""
+dimensions: "714x907"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

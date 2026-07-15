@@ -6,7 +6,7 @@ source_relpath: "1700s/Witches' Flight by Francisco Goya (c. 1798).jpg"
 collection: "1700s"
 inferred_year: "1798"
 artist: ""
-dimensions: ""
+dimensions: "2068x2952"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

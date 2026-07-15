@@ -6,7 +6,7 @@ source_relpath: "1900s/mannerbildnis_portrait_of_a_man_by_erich_heckel_1919.jpeg
 collection: "1900s"
 inferred_year: "1919"
 artist: "erich heckel"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

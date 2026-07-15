@@ -6,7 +6,7 @@ source_relpath: "1900s/young_boxers_by_mark_markov_grinberg_1937.jpg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "mark markov grinberg"
-dimensions: ""
+dimensions: "791x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---
@@ -31,5 +31,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1900s/young_boxers_by_
 - [[knowledge/wiki/artists/Artist - Mark Maggiori|Artist - Mark Maggiori]] — shared language: mark
 - [[knowledge/wiki/images/no 10 by mark rothko 1950 36d47fad|no 10 by mark rothko 1950]] — shared language: mark
 - [[knowledge/wiki/artists/Artist - Mark Ferrari|Artist - Mark Ferrari]] — shared language: mark
-- [[knowledge/wiki/artists/Artist - mark j ferrari|Artist - mark j ferrari]] — shared language: mark
+- [[knowledge/wiki/books/mark-fisher-capitalist-realism-is-there-no-alternative|Capitalist Realism: Is There No Alternative?]] — shared language: mark
 <!-- vault-crosslinks:end -->

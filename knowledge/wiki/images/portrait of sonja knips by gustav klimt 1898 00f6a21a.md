@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_sonja_knips_by_gustav_klimt_1898.jpg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "gustav klimt"
-dimensions: ""
+dimensions: "4505x4500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

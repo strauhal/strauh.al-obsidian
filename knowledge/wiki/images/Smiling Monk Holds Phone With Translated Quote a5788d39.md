@@ -6,7 +6,7 @@ source_relpath: "photography/Smiling Monk Holds Phone With Translated Quote.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x926"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -25,9 +25,9 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Smiling Mo
 <!-- vault-crosslinks:start -->
 ## Discovered Connections
 
+- [[knowledge/wiki/concepts/Trainpilled|Trainpilled]] — shared language: phone
 - [[knowledge/wiki/books/friedrich-nietzsche-selected-and-translated-with-an-introduction-by-r-j-hollingdale-a-nietzsche-reader-penguin-classics|A Nietzsche Reader (Penguin Classics)]] — shared language: translated
 - [[knowledge/wiki/artists/Artist - Thelonious Monk|Artist - Thelonious Monk]] — shared language: monk
 - [[knowledge/wiki/books/friedrich-schiller-translated-with-a-introduction-by-reginald-snell-on-the-aesthetic-education-of-man-dover-publications|On the aesthetic education of man-Dover Publications]] — shared language: translated
 - [[knowledge/wiki/pages/random quote|random quote]] — shared language: quote
-- [[knowledge/wiki/images/Illustration Smiling Woman in Polluted Water, Truck Dumping Waste 86aff28e|Illustration Smiling Woman in Polluted Water, Truck Dumping Waste]] — shared language: smiling
 <!-- vault-crosslinks:end -->

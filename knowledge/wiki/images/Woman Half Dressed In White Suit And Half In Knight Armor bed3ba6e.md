@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Half Dressed In White Suit And Half In Knight
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

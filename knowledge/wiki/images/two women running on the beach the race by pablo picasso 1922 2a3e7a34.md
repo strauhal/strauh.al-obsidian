@@ -6,7 +6,7 @@ source_relpath: "1900s/two_women_running_on_the_beach_the_race_by_pablo_picasso_
 collection: "1900s"
 inferred_year: "1922"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

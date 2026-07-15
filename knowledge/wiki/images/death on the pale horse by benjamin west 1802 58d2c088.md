@@ -6,7 +6,7 @@ source_relpath: "1800s/death_on_the_pale_horse_by_benjamin_west_1802.jpeg"
 collection: "1800s"
 inferred_year: "1802"
 artist: "benjamin west"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_rope_dancer_accompanies_herself_with_her_shadows_by_m
 collection: "1900s"
 inferred_year: "1916"
 artist: "man ray"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

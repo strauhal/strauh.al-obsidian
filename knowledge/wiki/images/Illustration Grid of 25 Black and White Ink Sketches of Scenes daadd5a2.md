@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of 25 Black and White Ink Sketches
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1309"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

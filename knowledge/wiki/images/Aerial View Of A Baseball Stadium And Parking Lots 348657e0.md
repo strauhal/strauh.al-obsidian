@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View Of A Baseball Stadium And Parking Lots.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1169x877"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

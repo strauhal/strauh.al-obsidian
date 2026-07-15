@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Photograph Of Person Submerged In W
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1333x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

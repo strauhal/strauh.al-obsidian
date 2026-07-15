@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Two People in City with Japanese Text, Co
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1450"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

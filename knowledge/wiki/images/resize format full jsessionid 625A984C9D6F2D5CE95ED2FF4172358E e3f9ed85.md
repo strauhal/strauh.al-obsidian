@@ -6,7 +6,7 @@ source_relpath: "artists/degas/resize-format=full;jsessionid=625A984C9D6F2D5CE95
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "6318x4852"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

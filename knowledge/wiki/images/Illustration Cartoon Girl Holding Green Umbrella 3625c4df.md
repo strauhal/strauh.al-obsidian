@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cartoon Girl Holding Green Umbrella.jpg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x535"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

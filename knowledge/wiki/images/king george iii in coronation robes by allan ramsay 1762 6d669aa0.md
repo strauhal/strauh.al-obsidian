@@ -6,7 +6,7 @@ source_relpath: "1700s/king_george_iii_in_coronation_robes_by_allan_ramsay_1762.
 collection: "1700s"
 inferred_year: "1762"
 artist: "allan ramsay"
-dimensions: ""
+dimensions: "1200x1874"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_louis_xv_king_of_france_and_navarre_by_jean_b
 collection: "1700s"
 inferred_year: "1725"
 artist: "jean baptiste van loo"
-dimensions: ""
+dimensions: "800x1007"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

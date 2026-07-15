@@ -6,7 +6,7 @@ source_relpath: "1800s/yokkaichi_mie_river_yokkaichi_mie_gawa_by_utagawa_hiroshi
 collection: "1800s"
 inferred_year: "1834"
 artist: "utagawa hiroshige"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

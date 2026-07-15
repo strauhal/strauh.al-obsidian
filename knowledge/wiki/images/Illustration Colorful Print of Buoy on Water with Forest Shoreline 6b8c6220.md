@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Colorful Print of Buoy on Water with Fores
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---
@@ -27,7 +27,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/2000s/Illustration - C
 
 - [[knowledge/wiki/concepts/The Spatial Web|The Spatial Web]] — shared language: colorful
 - [[knowledge/wiki/images/Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections 9aad0bea|Illustration Abstract Lake with Forest, Mountains, and Stylized Water Reflections]] — shared language: forest, water
-- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 - [[knowledge/wiki/images/Illustration Colorful Houses and Water in Expressive Illustration Style b3b5c50f|Illustration Colorful Houses and Water in Expressive Illustration Style]] — shared language: colorful, water
+- [[knowledge/wiki/artists/Artist - FOREST|Artist - FOREST]] — shared language: forest
 - [[knowledge/wiki/images/Illustration Colorful Landscape Painting of Water Reflecting Trees and Building 9aa7474e|Illustration Colorful Landscape Painting of Water Reflecting Trees and Building]] — shared language: colorful, water
 <!-- vault-crosslinks:end -->

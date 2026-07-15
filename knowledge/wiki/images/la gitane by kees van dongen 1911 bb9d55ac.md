@@ -6,7 +6,7 @@ source_relpath: "1900s/la_gitane_by_kees_van_dongen_1911.jpeg"
 collection: "1900s"
 inferred_year: "1911"
 artist: "kees van dongen"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Heavily Damaged Tesla Cybertrucks After Collisi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1543x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

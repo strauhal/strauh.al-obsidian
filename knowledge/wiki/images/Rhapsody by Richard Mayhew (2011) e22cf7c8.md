@@ -6,7 +6,7 @@ source_relpath: "2000s/Rhapsody by Richard Mayhew (2011).webp"
 collection: "2000s"
 inferred_year: "2011"
 artist: ""
-dimensions: ""
+dimensions: "600x516"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

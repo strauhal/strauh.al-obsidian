@@ -6,7 +6,7 @@ source_relpath: "1500s/spring_primavera_by_giuseppe_arcimboldo_1573.jpg"
 collection: "1500s"
 inferred_year: "1573"
 artist: "giuseppe arcimboldo"
-dimensions: ""
+dimensions: "800x1068"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

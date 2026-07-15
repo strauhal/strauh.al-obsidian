@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_nicolas_boileau_despreaux_by_hyacinthe_rigaud
 collection: "1700s"
 inferred_year: "1700"
 artist: "hyacinthe rigaud"
-dimensions: ""
+dimensions: "827x1055"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

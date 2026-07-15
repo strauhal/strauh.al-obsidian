@@ -6,7 +6,7 @@ source_relpath: "wallpapers/cyberpunk.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x853"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

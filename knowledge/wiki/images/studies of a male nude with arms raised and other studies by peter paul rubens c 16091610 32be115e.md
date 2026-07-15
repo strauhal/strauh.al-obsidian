@@ -6,7 +6,7 @@ source_relpath: "1600s/studies_of_a_male_nude_with_arms_raised_and_other_studies
 collection: "1600s"
 inferred_year: "1600s"
 artist: "peter paul rubens"
-dimensions: ""
+dimensions: "1397x1746"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

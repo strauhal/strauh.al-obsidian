@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Standing Next To Tall Stack Of Computer Print
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2294x2853"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

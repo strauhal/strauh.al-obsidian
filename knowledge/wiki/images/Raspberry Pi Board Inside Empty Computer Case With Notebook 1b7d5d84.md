@@ -6,7 +6,7 @@ source_relpath: "photography/Raspberry Pi Board Inside Empty Computer Case With 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x667"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

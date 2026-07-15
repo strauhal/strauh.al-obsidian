@@ -6,7 +6,7 @@ source_relpath: "1600s/sight_from_allegories_of_the_five_senses_by_jan_brueghel_
 collection: "1600s"
 inferred_year: "1617"
 artist: "jan brueghel and peter paul rubens"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

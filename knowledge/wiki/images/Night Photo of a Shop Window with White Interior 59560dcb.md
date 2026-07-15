@@ -6,7 +6,7 @@ source_relpath: "photography/Night Photo of a Shop Window with White Interior.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x1322"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

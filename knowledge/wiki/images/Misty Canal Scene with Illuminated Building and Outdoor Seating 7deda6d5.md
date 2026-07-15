@@ -6,7 +6,7 @@ source_relpath: "photography/Misty Canal Scene with Illuminated Building and Out
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1456x816"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

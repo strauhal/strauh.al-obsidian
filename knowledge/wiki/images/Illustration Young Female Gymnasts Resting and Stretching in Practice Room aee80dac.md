@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Young Female Gymnasts Resting and Stretchi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1600x1107"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

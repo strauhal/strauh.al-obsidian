@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Hands Interacting With Electro
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3333x1667"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Isometric Grid Puzzle Video Game Interfac
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x544"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

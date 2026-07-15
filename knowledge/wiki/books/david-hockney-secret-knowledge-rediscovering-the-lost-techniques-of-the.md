@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Secret knowledge - rediscovering the lost techniques of the -- David Hockney -- New York, New York State, 2001 -- Penguin Putnam -- 9780142005019 -- 125c46495cba761816b2d1a781dc8f5c -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Secret knowledge - rediscovering the lost techniques of the

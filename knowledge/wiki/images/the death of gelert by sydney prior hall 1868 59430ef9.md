@@ -6,7 +6,7 @@ source_relpath: "1800s/the_death_of_gelert_by_sydney_prior_hall_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
 artist: "sydney prior hall"
-dimensions: ""
+dimensions: "1514x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

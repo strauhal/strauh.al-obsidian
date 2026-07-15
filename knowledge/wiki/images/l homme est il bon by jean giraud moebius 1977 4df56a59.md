@@ -6,7 +6,7 @@ source_relpath: "1900s/l_homme_est_il_bon_by_jean_giraud_moebius_1977.jpg"
 collection: "1900s"
 inferred_year: "1977"
 artist: "jean giraud moebius"
-dimensions: ""
+dimensions: "1080x1348"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

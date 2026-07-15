@@ -6,7 +6,7 @@ source_relpath: "photography/Full Moon Over Monument Valley Desert Landscape.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "795x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

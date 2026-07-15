@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Weathered Bronze Sculpture of Winged Femal
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3000x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

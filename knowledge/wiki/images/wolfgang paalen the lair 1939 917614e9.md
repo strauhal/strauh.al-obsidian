@@ -6,7 +6,7 @@ source_relpath: "1900s/wolfgang_paalen_the_lair_1939.png"
 collection: "1900s"
 inferred_year: "1939"
 artist: ""
-dimensions: ""
+dimensions: "949x876"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

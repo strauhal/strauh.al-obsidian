@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_camogli_by_andreas_sitterath_1887.jpg"
 collection: "1800s"
 inferred_year: "1887"
 artist: "andreas sitterath"
-dimensions: ""
+dimensions: "4900x3132"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1500s/The Artist's Right Hand by Hendrick Goltzius (1588).jpg"
 collection: "1500s"
 inferred_year: "1588"
 artist: ""
-dimensions: ""
+dimensions: "7146x5049"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1600s/the_merry_family_by_jacob_jordaens_c_1638.jpeg"
 collection: "1600s"
 inferred_year: "1638"
 artist: "jacob jordaens"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

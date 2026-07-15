@@ -6,7 +6,7 @@ source_relpath: "photography/James Joyce by Berenice Abbott (2).jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1146x1458"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

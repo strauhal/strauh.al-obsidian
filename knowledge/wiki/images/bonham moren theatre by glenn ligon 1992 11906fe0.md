@@ -6,7 +6,7 @@ source_relpath: "1900s/bonham_moren_theatre_by_glenn_ligon_1992.jpeg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "glenn ligon"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

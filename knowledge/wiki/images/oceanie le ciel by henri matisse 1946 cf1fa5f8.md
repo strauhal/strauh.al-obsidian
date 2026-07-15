@@ -6,7 +6,7 @@ source_relpath: "1900s/oceanie_le_ciel_by_henri_matisse_1946.jpg"
 collection: "1900s"
 inferred_year: "1946"
 artist: "henri matisse"
-dimensions: ""
+dimensions: "1280x586"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

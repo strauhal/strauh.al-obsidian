@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Photograph of a Screen Displaying a Text Pos
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1102x495"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

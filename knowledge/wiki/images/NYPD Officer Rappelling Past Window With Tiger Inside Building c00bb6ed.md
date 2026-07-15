@@ -6,7 +6,7 @@ source_relpath: "photography/NYPD Officer Rappelling Past Window With Tiger Insi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "647x524"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

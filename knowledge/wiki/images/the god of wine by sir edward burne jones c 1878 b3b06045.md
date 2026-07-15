@@ -6,7 +6,7 @@ source_relpath: "1800s/the_god_of_wine_by_sir_edward_burne_jones_c_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "sir edward burne jones"
-dimensions: ""
+dimensions: "1286x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

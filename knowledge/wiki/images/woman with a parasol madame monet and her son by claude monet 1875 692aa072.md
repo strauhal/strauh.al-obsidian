@@ -6,7 +6,7 @@ source_relpath: "1800s/woman_with_a_parasol_madame_monet_and_her_son_by_claude_m
 collection: "1800s"
 inferred_year: "1875"
 artist: "claude monet"
-dimensions: ""
+dimensions: "720x811"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

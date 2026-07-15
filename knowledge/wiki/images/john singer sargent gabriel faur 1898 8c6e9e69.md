@@ -6,7 +6,7 @@ source_relpath: "1800s/john_singer_sargent_gabriel_faur_1898.jpg"
 collection: "1800s"
 inferred_year: "1898"
 artist: ""
-dimensions: ""
+dimensions: "1996x2222"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -2,8 +2,8 @@
 title: Map - Works
 type: map
 tags: [map, works]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Map - Works

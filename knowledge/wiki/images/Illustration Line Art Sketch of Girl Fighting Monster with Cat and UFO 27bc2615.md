@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Line Art Sketch of Girl Fighting Monster w
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "712x891"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

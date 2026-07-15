@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_miss_elizabeth_johnson_by_francis_cotes_1765.
 collection: "1700s"
 inferred_year: "1765"
 artist: "francis cotes"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

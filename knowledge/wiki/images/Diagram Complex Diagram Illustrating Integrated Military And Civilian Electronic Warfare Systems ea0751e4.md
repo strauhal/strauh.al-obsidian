@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Complex Diagram Illustrating Integrated Militar
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "775x581"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

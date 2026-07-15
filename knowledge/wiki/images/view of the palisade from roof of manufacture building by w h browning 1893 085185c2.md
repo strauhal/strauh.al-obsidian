@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_the_palisade_from_roof_of_manufacture_building_by
 collection: "1800s"
 inferred_year: "1893"
 artist: "w h browning"
-dimensions: ""
+dimensions: "4309x3528"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

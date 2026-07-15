@@ -6,7 +6,7 @@ source_relpath: "1900s/schwebendes_by_wassily_kandinsky_1935.jpeg"
 collection: "1900s"
 inferred_year: "1935"
 artist: "wassily kandinsky"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

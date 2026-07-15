@@ -6,7 +6,7 @@ source_relpath: "1900s/bob_dylan_at_breakfast_paris_by_barry_feinstein_1966.jpg"
 collection: "1900s"
 inferred_year: "1966"
 artist: "barry feinstein"
-dimensions: ""
+dimensions: "924x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Long Architectural Corridor with Fluted Colu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "5026x6001"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Portrait Of A Man In Silhouette.png
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/dog_by_francis_bacon_1952.jpg"
 collection: "1900s"
 inferred_year: "1952"
 artist: "francis bacon"
-dimensions: ""
+dimensions: "581x842"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

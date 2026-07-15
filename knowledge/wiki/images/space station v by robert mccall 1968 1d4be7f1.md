@@ -6,7 +6,7 @@ source_relpath: "1900s/space_station_v_by_robert_mccall_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "robert mccall"
-dimensions: ""
+dimensions: "2799x2179"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

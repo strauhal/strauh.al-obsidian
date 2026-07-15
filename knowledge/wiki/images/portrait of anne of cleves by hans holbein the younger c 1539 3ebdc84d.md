@@ -6,7 +6,7 @@ source_relpath: "1500s/portrait_of_anne_of_cleves_by_hans_holbein_the_younger_c_
 collection: "1500s"
 inferred_year: "1539"
 artist: "hans holbein the younger"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

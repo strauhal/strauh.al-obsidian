@@ -6,7 +6,7 @@ source_relpath: "1800s/the_bard_by_john_martin_1817.jpg"
 collection: "1800s"
 inferred_year: "1817"
 artist: "john martin"
-dimensions: ""
+dimensions: "815x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

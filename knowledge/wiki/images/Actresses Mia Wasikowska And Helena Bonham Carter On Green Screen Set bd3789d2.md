@@ -6,7 +6,7 @@ source_relpath: "photography/Actresses Mia Wasikowska And Helena Bonham Carter O
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x488"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

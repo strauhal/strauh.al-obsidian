@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - High-Angle Black and White Photograph of a G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "7000x5533"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

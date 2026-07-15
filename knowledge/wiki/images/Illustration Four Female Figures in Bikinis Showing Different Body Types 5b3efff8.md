@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Four Female Figures in Bikinis Showing 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2258x1646"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

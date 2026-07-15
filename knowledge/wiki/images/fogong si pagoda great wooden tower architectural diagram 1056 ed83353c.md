@@ -6,7 +6,7 @@ source_relpath: "1000s/fogong_si_pagoda_great_wooden_tower_architectural_diagram
 collection: "1000s"
 inferred_year: "1000s"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1000s"]
 ---

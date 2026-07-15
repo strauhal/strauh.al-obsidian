@@ -6,7 +6,7 @@ source_relpath: "photography/Man In Fishing Attire With A Cigarette And Cap by K
 collection: "photography"
 inferred_year: ""
 artist: "Kokusai Yoshida"
-dimensions: ""
+dimensions: "600x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

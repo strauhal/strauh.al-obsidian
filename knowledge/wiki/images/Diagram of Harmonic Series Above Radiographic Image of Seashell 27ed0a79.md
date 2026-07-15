@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Harmonic_Series_Above_Radiographic_Image_of
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

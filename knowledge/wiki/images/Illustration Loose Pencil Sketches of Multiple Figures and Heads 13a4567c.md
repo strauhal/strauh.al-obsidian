@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Loose Pencil Sketches of Multiple Figures 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2480x3508"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

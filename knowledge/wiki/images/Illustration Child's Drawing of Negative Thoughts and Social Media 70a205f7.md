@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Child's Drawing of Negative Thoughts an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1118x1017"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

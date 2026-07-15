@@ -6,7 +6,7 @@ source_relpath: "wallpapers/commesdesgarcons.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1388"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

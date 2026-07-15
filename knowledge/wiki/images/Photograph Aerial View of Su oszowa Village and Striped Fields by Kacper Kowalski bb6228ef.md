@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Aerial View of Sułoszowa Village and Stripe
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Kacper Kowalski"
-dimensions: ""
+dimensions: "1349x1686"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

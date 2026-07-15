@@ -6,7 +6,7 @@ source_relpath: "photography/Scenic View of Cliffside Town with White and Pastel
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

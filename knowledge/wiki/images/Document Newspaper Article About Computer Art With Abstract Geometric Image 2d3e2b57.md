@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Newspaper Article About Computer Art With A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "770x681"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Surreal Purple Landscape With Two Figures.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x551"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

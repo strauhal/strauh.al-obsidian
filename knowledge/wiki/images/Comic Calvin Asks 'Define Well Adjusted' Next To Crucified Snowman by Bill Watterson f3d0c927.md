@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Calvin Asks 'Define Well-Adjusted' Next To Cru
 collection: "unsorted"
 inferred_year: ""
 artist: "Bill Watterson"
-dimensions: ""
+dimensions: "1776x1848"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

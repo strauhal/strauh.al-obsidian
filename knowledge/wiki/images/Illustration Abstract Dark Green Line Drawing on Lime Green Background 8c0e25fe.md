@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Dark Green Line Drawing on Lime G
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Limit Telephotography by Trevor Paglen (2010).jpg"
 collection: "photography"
 inferred_year: "2010"
 artist: ""
-dimensions: ""
+dimensions: "960x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

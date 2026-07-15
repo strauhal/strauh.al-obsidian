@@ -6,7 +6,7 @@ source_relpath: "diagrams/Ternary_Plot_with_Icarus,_Narcissus,_and_Sisyphus.jpeg
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "922x898"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

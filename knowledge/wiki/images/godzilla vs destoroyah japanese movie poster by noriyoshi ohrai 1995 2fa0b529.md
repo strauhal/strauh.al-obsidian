@@ -6,7 +6,7 @@ source_relpath: "1900s/godzilla_vs_destoroyah_japanese_movie_poster_by_noriyoshi
 collection: "1900s"
 inferred_year: "1995"
 artist: "noriyoshi ohrai"
-dimensions: ""
+dimensions: "1989x2821"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

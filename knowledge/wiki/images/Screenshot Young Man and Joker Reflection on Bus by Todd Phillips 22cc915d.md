@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Young Man and Joker Reflection on Bus by Tod
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Todd Phillips"
-dimensions: ""
+dimensions: "1941x1107"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

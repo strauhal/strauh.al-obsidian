@@ -6,7 +6,7 @@ source_relpath: "1900s/jambons_saucissons_le_lyonnais_by_henry_monnier_1930.jpeg
 collection: "1900s"
 inferred_year: "1930"
 artist: "henry monnier"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

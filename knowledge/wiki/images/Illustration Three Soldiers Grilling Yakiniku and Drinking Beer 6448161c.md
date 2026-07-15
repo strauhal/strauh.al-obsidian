@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Soldiers Grilling Yakiniku and Dr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1447x2047"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

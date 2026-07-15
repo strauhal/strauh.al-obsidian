@@ -6,7 +6,7 @@ source_relpath: "1900s/the_fortune_teller_by_gil_elvgren_1940.jpg"
 collection: "1900s"
 inferred_year: "1940"
 artist: "gil elvgren"
-dimensions: ""
+dimensions: "921x1046"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Mannequin-like Figure with Black Bar and Dramatic L
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

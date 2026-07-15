@@ -6,7 +6,7 @@ source_relpath: "2000s/World's Columbian Exposition, Chicago (1893).jpg"
 collection: "2000s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4798x2913"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

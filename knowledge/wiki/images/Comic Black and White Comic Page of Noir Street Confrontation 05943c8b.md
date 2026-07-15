@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Black and White Comic Page of Noir Street Confron
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "660x1002"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

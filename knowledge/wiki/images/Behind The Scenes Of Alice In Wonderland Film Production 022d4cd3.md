@@ -6,7 +6,7 @@ source_relpath: "photography/Behind-The-Scenes Of Alice In Wonderland Film Produ
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x488"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

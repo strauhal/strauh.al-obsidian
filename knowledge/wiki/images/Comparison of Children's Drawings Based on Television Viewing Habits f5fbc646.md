@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Children's_Drawings_Based_on_Television_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "639x551"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

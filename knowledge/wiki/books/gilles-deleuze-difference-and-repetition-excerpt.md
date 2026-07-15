@@ -9,8 +9,8 @@ metadata: curated
 aliases: [excerpt-from-Difference and Repetition]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/excerpt-from-Difference_and_Repetition.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Difference and Repetition (excerpt)

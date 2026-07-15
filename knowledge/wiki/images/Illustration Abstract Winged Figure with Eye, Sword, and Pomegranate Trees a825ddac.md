@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Winged Figure with Eye, Sword,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1781x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

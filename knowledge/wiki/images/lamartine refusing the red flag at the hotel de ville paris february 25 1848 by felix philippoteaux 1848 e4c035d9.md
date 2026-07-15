@@ -6,7 +6,7 @@ source_relpath: "1800s/lamartine_refusing_the_red_flag_at_the_hotel_de_ville_par
 collection: "1800s"
 inferred_year: "1848"
 artist: "felix philippoteaux"
-dimensions: ""
+dimensions: "5503x2745"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Freddie Mercury in Yellow Jacket Pointing Forward.p
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "560x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

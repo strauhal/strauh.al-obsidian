@@ -6,7 +6,7 @@ source_relpath: "1900s/issey_miyake_white_and_black_new_york_by_irving_penn_1990
 collection: "1900s"
 inferred_year: "1990"
 artist: "irving penn"
-dimensions: ""
+dimensions: "1280x1306"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

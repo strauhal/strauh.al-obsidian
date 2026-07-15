@@ -4,8 +4,8 @@ type: concept
 aliases: [tug of war, machine collaboration, negotiated authorship]
 tags: [concept, ai-art, authorship, control]
 sources: ["[[No More Human Art]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Human-Machine Tug of War

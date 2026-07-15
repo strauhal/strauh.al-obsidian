@@ -6,7 +6,7 @@ source_relpath: "1800s/Boatmen on the Missouri by George Caleb Bingham (1846).jp
 collection: "1800s"
 inferred_year: "1846"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

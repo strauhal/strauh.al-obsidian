@@ -6,7 +6,7 @@ source_relpath: "photography/Whenever, If Ever by The World Is a Beautiful Place
 collection: "photography"
 inferred_year: "2013"
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

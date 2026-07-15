@@ -26,5 +26,5 @@ Threads: 3
 - [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — shared language: attachments, messages, website
 - [[knowledge/wiki/concepts/The Archive as Consciousness|The Archive as Consciousness]] — shared language: site, link
 - [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, incoming
-- [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: attachments, messages, threads
+- [[knowledge/private/fanmail/threads/03-broken-link|Private Correspondence - 03 - Broken Link :)]] — shared language: broken, site, link
 <!-- vault-crosslinks:end -->

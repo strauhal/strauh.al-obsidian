@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/death grips/dg deli.jpg"
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

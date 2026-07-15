@@ -6,7 +6,7 @@ source_relpath: "1900s/man_on_brooklyn_bridge_new_york_by_william_klein_1980.jpg
 collection: "1900s"
 inferred_year: "1980"
 artist: "william klein"
-dimensions: ""
+dimensions: "479x333"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

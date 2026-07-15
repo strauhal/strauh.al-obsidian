@@ -6,7 +6,7 @@ source_relpath: "photography/Man Sitting On Chair Underwater In Swimming Pool.pn
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "543x638"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

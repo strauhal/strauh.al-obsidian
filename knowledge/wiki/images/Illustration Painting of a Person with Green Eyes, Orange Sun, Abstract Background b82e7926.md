@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Painting of a Person with Green Eyes, Oran
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2747x3670"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

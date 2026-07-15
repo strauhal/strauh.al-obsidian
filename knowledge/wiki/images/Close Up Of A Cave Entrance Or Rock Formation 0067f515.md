@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of A Cave Entrance Or Rock Formation.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

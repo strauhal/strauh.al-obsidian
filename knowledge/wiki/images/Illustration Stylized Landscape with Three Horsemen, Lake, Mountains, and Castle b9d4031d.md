@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Landscape with Three Horsemen,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1433x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

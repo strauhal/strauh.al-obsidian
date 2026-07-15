@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Composite Image of Woman's Eyes in Keff
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

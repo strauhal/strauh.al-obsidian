@@ -6,7 +6,7 @@ source_relpath: "photography/Modern Clothing Store Interior with Racks and Manne
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x613"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

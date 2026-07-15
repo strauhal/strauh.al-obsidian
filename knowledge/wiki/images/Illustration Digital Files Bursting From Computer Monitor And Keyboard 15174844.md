@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Files Bursting From Computer Mo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x987"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

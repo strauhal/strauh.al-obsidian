@@ -6,7 +6,7 @@ source_relpath: "1800s/perseus_and_andromeda_by_karl_bryullov_1822.jpg"
 collection: "1800s"
 inferred_year: "1822"
 artist: "karl bryullov"
-dimensions: ""
+dimensions: "1115x1410"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

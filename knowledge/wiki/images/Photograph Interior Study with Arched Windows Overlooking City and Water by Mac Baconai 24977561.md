@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Interior Study with Arched Windows Overlooki
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Mac Baconai"
-dimensions: ""
+dimensions: "1693x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Prometheus Bound by Peter Paul Rubens (c. 1611-1618).jpg"
 collection: "2000s"
 inferred_year: "1618"
 artist: ""
-dimensions: ""
+dimensions: "1200x1387"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

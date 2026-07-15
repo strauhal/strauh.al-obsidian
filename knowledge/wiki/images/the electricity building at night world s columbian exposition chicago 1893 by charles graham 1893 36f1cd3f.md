@@ -6,7 +6,7 @@ source_relpath: "1800s/the_electricity_building_at_night_world_s_columbian_expos
 collection: "1800s"
 inferred_year: "1893"
 artist: "charles graham"
-dimensions: ""
+dimensions: "5500x3418"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

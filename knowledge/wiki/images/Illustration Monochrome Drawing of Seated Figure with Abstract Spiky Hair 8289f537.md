@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Monochrome Drawing of Seated Figure wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "642x841"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

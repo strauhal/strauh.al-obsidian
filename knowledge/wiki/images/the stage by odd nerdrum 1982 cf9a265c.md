@@ -6,7 +6,7 @@ source_relpath: "1900s/the_stage_by_odd_nerdrum_1982.jpeg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "odd nerdrum"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

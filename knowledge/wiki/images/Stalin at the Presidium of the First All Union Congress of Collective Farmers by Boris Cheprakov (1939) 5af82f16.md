@@ -6,7 +6,7 @@ source_relpath: "1900s/Stalin at the Presidium of the First All-Union Congress o
 collection: "1900s"
 inferred_year: "1939"
 artist: ""
-dimensions: ""
+dimensions: "1334x1769"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

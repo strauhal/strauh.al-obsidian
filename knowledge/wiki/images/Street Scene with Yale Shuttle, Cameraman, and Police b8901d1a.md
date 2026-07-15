@@ -6,7 +6,7 @@ source_relpath: "photography/Street Scene with Yale Shuttle, Cameraman, and Poli
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

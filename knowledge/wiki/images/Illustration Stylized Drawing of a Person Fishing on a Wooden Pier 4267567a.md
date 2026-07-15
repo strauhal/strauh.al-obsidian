@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Drawing of a Person Fishing on a 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1440x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

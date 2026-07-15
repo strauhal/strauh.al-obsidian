@@ -6,7 +6,7 @@ source_relpath: "photography/Two Pilots Inspecting Fighter Jet with Nose Art.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1366"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

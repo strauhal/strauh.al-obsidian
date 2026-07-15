@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Hyperrealistic View From Car Window Over W
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Marcago"
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

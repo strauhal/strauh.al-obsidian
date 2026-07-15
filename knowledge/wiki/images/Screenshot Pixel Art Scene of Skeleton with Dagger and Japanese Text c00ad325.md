@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Pixel Art Scene of Skeleton with Dagger and 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "540x338"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

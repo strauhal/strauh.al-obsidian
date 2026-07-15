@@ -6,7 +6,7 @@ source_relpath: "1900s/hyatt_regency_san_francisco_by_john_portman_1973.jpg"
 collection: "1900s"
 inferred_year: "1973"
 artist: "john portman"
-dimensions: ""
+dimensions: "700x855"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

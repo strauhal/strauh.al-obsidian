@@ -6,7 +6,7 @@ source_relpath: "diagrams/Infographic_Explaining_Digital_Occultism_and_Memetic_C
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1037x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

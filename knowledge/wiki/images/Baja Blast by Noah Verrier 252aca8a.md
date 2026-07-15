@@ -6,7 +6,7 @@ source_relpath: "unsorted/Baja Blast by Noah Verrier.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Noah Verrier"
-dimensions: ""
+dimensions: "1508x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

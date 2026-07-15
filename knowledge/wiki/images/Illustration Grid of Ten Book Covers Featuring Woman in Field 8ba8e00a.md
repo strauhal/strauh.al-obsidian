@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Ten Book Covers Featuring Woman
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1250x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

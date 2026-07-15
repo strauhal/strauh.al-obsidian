@@ -2,7 +2,7 @@
 title: "strauh.al Index"
 source_kind: "index"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:53"
+compiled_at: "2026-07-15T01:26:53"
 tags: ["strauhal", "index"]
 ---
 # strauh.al Index
@@ -17,8 +17,8 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 
 ## Counts
 
-- HTML pages compiled: 78
-- Image files indexed: 8403
+- HTML pages compiled: 77
+- Image files indexed: 8404
 - Image collections: 33
 
 ## HTML Pages
@@ -44,8 +44,6 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[artists moebius]]
 - [[baby videos]]
 - [[brain]]
-- [[brain debug test]]
-- [[brain(wip)]]
 - [[comics]]
 - [[computers]]
 - [[copypastas]]
@@ -56,6 +54,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[donate]]
 - [[draw for me]]
 - [[dreams]]
+- [[epk]]
 - [[ernest]]
 - [[even more art]]
 - [[gif collection]]
@@ -136,7 +135,7 @@ This is the compiled Obsidian layer for the strauh.al database: raw sources in, 
 - [[Collection - ukiyo e]] (96 files)
 - [[Collection - unnamed]] (39 files)
 - [[Collection - unsorted]] (1127 files)
-- [[Collection - wallpapers]] (152 files)
+- [[Collection - wallpapers]] (153 files)
 
 ## Maintenance
 

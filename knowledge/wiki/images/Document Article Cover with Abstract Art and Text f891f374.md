@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Article Cover with Abstract Art and Text.jp
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

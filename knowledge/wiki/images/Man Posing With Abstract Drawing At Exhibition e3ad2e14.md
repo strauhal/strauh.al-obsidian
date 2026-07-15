@@ -6,7 +6,7 @@ source_relpath: "photography/Man Posing With Abstract Drawing At Exhibition.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

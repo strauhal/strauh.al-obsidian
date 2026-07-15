@@ -6,7 +6,7 @@ source_relpath: "1900s/crucifixion_corpus_hypercubus_by_salvador_dali_1954.jpeg"
 collection: "1900s"
 inferred_year: "1954"
 artist: "salvador dali"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Article Text About Amazon Fresh Just Walk
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x866"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

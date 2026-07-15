@@ -6,7 +6,7 @@ source_relpath: "photography/Man Standing in Front of Garage with Flowering Bush
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1358"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

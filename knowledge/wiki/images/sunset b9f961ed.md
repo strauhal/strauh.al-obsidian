@@ -6,7 +6,7 @@ source_relpath: "wallpapers/sunset.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

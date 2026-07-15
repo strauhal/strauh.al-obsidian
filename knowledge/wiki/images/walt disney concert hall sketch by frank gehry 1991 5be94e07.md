@@ -6,7 +6,7 @@ source_relpath: "1900s/walt_disney_concert_hall_sketch_by_frank_gehry_1991.jpg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "frank gehry"
-dimensions: ""
+dimensions: "512x340"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

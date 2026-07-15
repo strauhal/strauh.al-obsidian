@@ -6,7 +6,7 @@ source_relpath: "photography/Panoramic View of Grand Canyon with Colorado River 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

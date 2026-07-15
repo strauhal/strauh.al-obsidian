@@ -6,7 +6,7 @@ source_relpath: "1900s/grevy_s_zebra_from_endangered_species_by_andy_warhol_1983
 collection: "1900s"
 inferred_year: "1983"
 artist: "andy warhol"
-dimensions: ""
+dimensions: "1600x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

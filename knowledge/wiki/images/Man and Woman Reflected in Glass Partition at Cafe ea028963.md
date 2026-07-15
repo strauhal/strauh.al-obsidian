@@ -6,7 +6,7 @@ source_relpath: "photography/Man and Woman Reflected in Glass Partition at Cafe.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1322"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

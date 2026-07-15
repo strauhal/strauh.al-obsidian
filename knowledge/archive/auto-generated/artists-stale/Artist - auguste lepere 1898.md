@@ -21,8 +21,8 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/wiki/artists/Artist - auguste lepere|Artist - auguste lepere]] — named in this note
-- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — shared language: auguste
 - [[knowledge/archive/auto-generated/artists-stale/Artist - auguste renoir 1882|Artist - auguste renoir 1882]] — shared language: auguste
+- [[knowledge/wiki/images/chrysanthemums by auguste renoir 1882 75b21f55|chrysanthemums by auguste renoir 1882]] — shared language: auguste
 - [[knowledge/wiki/artists/Artist - auguste renoir|Artist - auguste renoir]] — shared language: auguste
 - [[knowledge/archive/auto-generated/artists-stale/Artist - auguste renoir 1883|Artist - auguste renoir 1883]] — shared language: auguste
 - [[knowledge/archive/auto-generated/artists-stale/Artist - pierre auguste renoir 1879|Artist - pierre auguste renoir 1879]] — shared language: auguste

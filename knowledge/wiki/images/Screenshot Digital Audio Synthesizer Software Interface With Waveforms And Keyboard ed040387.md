@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Digital Audio Synthesizer Software Interf
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "901x728"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

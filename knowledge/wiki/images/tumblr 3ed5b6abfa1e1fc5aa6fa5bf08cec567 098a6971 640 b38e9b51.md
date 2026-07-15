@@ -6,7 +6,7 @@ source_relpath: "pictures_of_musicians/mizutani/tumblr_3ed5b6abfa1e1fc5aa6fa5bf0
 collection: "pictures_of_musicians"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "624x735"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/pictures_of_musicians"]
 ---

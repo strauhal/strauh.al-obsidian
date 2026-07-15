@@ -6,7 +6,7 @@ source_relpath: "photography/Donald Trump Using Tablet At Formal Event.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1398"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

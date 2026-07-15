@@ -6,7 +6,7 @@ source_relpath: "diagrams/Fractal_Boundaries_of_Neural_Network_Hyperparameters_b
 collection: "diagrams"
 inferred_year: ""
 artist: "Sohl Dickstein"
-dimensions: ""
+dimensions: "2994x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

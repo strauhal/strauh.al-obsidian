@@ -6,7 +6,7 @@ source_relpath: "1800s/leitura_by_jose_ferraz_de_almeida_junior_1892.jpg"
 collection: "1800s"
 inferred_year: "1892"
 artist: "jose ferraz de almeida junior"
-dimensions: ""
+dimensions: "4981x3379"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

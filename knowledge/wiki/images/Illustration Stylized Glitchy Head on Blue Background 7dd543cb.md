@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Glitchy Head on Blue Backgroun
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2300x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

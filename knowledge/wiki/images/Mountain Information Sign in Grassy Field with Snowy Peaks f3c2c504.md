@@ -6,7 +6,7 @@ source_relpath: "photography/Mountain Information Sign in Grassy Field with Snow
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2899x2899"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

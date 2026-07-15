@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Social Media Post With Four Women In Hallowe
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1125x1944"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Piazza San Marco by Giovanni Antonio Canal (Canaletto) (c
 collection: "2000s"
 inferred_year: "1735"
 artist: ""
-dimensions: ""
+dimensions: "3971x2448"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

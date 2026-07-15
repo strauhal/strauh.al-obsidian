@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_lady_blessington_by_sir_thomas_lawrence_c_182
 collection: "1800s"
 inferred_year: "1822"
 artist: "sir thomas lawrence"
-dimensions: ""
+dimensions: "2002x2558"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

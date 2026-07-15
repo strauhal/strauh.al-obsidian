@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Astronauts Working On Red Spaceship In 
 collection: "unsorted"
 inferred_year: ""
 artist: "Allen Wei"
-dimensions: ""
+dimensions: "750x1307"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

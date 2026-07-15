@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Close-Up View of a Colorful Microchip Die.jp
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "512x487"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

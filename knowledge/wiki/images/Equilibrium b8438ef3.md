@@ -6,7 +6,7 @@ source_relpath: "photography/Equilibrium.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "820x795"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

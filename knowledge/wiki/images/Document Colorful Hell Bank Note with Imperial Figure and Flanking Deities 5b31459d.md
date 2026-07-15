@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Colorful Hell Bank Note with Imperial Figur
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x570"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Document - Co
 - [[knowledge/wiki/books/pdf-document|PDF document]] — shared language: document
 - [[knowledge/wiki/images/Two Men Flanking Figure in White Futuristic Armored Suit f89345e1|Two Men Flanking Figure in White Futuristic Armored Suit]] — shared language: flanking
 - [[knowledge/wiki/images/Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities c70f3184|Photograph Colorful, Multi Tiered South Indian Temple Gopuram Adorned With Deities]] — shared language: deities, colorful
-- [[knowledge/wiki/images/Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc 87068a38|Document Advertisement for iTunes on Windows with 'Hell Froze Over' tagline. by Apple Inc]] — shared language: hell, document
+- [[knowledge/wiki/images/Illustration Mythological Battle of Deities and Demons on Animals b60a7643|Illustration Mythological Battle of Deities and Demons on Animals]] — shared language: deities
 <!-- vault-crosslinks:end -->

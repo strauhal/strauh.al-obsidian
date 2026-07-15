@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chart_showing_net_return_on_undergraduate_degrees_by_s
 collection: "diagrams"
 inferred_year: ""
 artist: "subject and gender. by The Economist"
-dimensions: ""
+dimensions: "600x691"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

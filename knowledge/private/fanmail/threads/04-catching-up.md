@@ -102,7 +102,7 @@ Temple on Monday at 5 sounds good though. I'll be there
 - [[knowledge/wiki/concepts/Synesthesia|Synesthesia]] — shared language: able, music, hear
 - [[knowledge/wiki/concepts/Reading Like a Computer|Reading Like a Computer]] — shared language: think, time, it's
 - [[knowledge/wiki/concepts/The Attention Economy|The Attention Economy]] — shared language: think, able, time
-- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: sounds, music, temple
+- [[knowledge/wiki/concepts/Art Fills the God-Shaped Hole|Art Fills the God-Shaped Hole]] — shared language: sounds, temple, music
 - [[knowledge/wiki/concepts/The Internet as Confidant|The Internet as Confidant]] — shared language: hey, that's, it's
 - [[knowledge/wiki/concepts/The Panel as Canvas|The Panel as Canvas]] — shared language: that's, it's, play
 <!-- vault-crosslinks:end -->

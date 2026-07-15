@@ -6,7 +6,7 @@ source_relpath: "2000s/Portrait of a Dog by Jonah Yano (2023).jpg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "700x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

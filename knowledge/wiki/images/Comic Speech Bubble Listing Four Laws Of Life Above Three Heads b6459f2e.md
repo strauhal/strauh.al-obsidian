@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Speech Bubble Listing Four Laws Of Life Above 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x526"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

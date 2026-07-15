@@ -6,7 +6,7 @@ source_relpath: "1800s/The Water Carrier by William-Adolphe Bouguereau (1889).jp
 collection: "1800s"
 inferred_year: "1889"
 artist: ""
-dimensions: ""
+dimensions: "573x712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

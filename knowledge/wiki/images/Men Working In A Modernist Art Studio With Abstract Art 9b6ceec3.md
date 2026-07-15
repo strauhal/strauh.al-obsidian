@@ -6,7 +6,7 @@ source_relpath: "photography/Men Working In A Modernist Art Studio With Abstract
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

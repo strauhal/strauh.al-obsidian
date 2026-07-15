@@ -6,7 +6,7 @@ source_relpath: "1900s/the_crowd_by_saul_steinberg_1965.jpg"
 collection: "1900s"
 inferred_year: "1965"
 artist: "saul steinberg"
-dimensions: ""
+dimensions: "1000x607"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

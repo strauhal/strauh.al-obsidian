@@ -6,7 +6,7 @@ source_relpath: "photography/Side Profile of Person Wearing a Modern VR Headset.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x704"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

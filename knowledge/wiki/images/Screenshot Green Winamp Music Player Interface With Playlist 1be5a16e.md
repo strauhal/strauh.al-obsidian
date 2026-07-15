@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Green Winamp Music Player Interface With Pla
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "275x408"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

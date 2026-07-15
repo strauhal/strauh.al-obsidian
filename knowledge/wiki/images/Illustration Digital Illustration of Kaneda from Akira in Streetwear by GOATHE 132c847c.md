@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Digital Illustration of Kaneda from Akira 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "GOATHE"
-dimensions: ""
+dimensions: "1080x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

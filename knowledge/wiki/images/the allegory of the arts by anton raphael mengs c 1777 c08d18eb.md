@@ -6,7 +6,7 @@ source_relpath: "1700s/the_allegory_of_the_arts_by_anton_raphael_mengs_c_1777.jp
 collection: "1700s"
 inferred_year: "1777"
 artist: "anton raphael mengs"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

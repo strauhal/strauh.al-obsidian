@@ -6,7 +6,7 @@ source_relpath: "1900s/structure_de_tete_by_vera_molnar_1976.jpg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "vera molnar"
-dimensions: ""
+dimensions: "934x1165"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

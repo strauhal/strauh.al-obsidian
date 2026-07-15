@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Picnicking on Train Tracks with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x750"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

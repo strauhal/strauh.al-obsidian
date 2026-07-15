@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of An Intel i486 DX2 Microprocessor.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3840x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

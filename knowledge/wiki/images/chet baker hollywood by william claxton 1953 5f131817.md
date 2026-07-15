@@ -6,7 +6,7 @@ source_relpath: "1900s/chet_baker_hollywood_by_william_claxton_1953.jpeg"
 collection: "1900s"
 inferred_year: "1953"
 artist: "william claxton"
-dimensions: ""
+dimensions: "564x1002"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

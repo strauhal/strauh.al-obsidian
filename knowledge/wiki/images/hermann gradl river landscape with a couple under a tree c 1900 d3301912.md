@@ -6,7 +6,7 @@ source_relpath: "1900s/hermann_gradl_river_landscape_with_a_couple_under_a_tree_
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "3684x2824"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

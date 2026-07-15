@@ -6,7 +6,7 @@ source_relpath: "diagrams/Black_and_White_Bifurcation_Diagram_Showing_Period-Dou
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "686x386"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

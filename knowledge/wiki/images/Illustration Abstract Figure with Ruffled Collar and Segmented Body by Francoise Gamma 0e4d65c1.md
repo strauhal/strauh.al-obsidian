@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Figure with Ruffled Collar and Se
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Francoise Gamma"
-dimensions: ""
+dimensions: "450x825"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

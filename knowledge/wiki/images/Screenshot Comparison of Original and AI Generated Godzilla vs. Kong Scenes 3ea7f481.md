@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Comparison of Original and AI-Generated G
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4096x2526"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

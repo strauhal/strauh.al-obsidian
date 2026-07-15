@@ -6,7 +6,7 @@ source_relpath: "diagrams/Figure_Drawing_Reference_with_Grid_and_Simplified_Pose
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1355x579"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a Sailor Moon dress-up game
 collection: "unsorted"
 inferred_year: ""
 artist: "Avi"
-dimensions: ""
+dimensions: "778x591"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

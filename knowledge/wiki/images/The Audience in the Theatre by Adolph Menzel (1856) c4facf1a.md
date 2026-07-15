@@ -6,7 +6,7 @@ source_relpath: "1800s/The Audience in the Theatre by Adolph Menzel (1856).jpg"
 collection: "1800s"
 inferred_year: "1856"
 artist: ""
-dimensions: ""
+dimensions: "921x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

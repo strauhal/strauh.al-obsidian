@@ -6,7 +6,7 @@ source_relpath: "1800s/the_transformation_of_the_thieves_canto_xxv_by_gustave_do
 collection: "1800s"
 inferred_year: "1861"
 artist: "gustave dore"
-dimensions: ""
+dimensions: "963x1210"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

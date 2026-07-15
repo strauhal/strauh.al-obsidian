@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Princess Peach DJing and Smoking at a C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x726"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

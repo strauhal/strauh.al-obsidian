@@ -6,7 +6,7 @@ source_relpath: "1800s/a_midsummer_night_s_dream_by_john_simmons_1860.jpg"
 collection: "1800s"
 inferred_year: "1860"
 artist: "john simmons"
-dimensions: ""
+dimensions: "4508x3749"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1400s/the_last_judgment_beaune_altarpiece_central_panel_by_rogi
 collection: "1400s"
 inferred_year: "1400s"
 artist: "rogier van der weyden"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

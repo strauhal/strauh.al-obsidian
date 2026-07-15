@@ -6,7 +6,7 @@ source_relpath: "photography/Green And White Train On Elevated Tracks In Chicago
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "799x648"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Green Character Jumping Over Broken Skateb
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Dan Hipp"
-dimensions: ""
+dimensions: "736x1081"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

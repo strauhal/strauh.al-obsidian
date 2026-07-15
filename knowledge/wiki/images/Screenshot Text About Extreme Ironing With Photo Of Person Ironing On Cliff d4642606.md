@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Text About Extreme Ironing With Photo Of 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "854x1066"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

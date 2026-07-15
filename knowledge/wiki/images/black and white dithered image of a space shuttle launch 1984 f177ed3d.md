@@ -6,7 +6,7 @@ source_relpath: "1900s/black_and_white_dithered_image_of_a_space_shuttle_launch_
 collection: "1900s"
 inferred_year: "1984"
 artist: ""
-dimensions: ""
+dimensions: "2304x2880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

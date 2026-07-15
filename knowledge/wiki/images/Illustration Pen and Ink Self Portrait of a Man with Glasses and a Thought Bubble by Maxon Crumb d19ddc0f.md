@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pen-and-Ink Self-Portrait of a Man with
 collection: "unsorted"
 inferred_year: ""
 artist: "Maxon Crumb"
-dimensions: ""
+dimensions: "1799x2400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

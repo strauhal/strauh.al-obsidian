@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Colorful Coastal Town on Turquoise Bay with 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2048x1360"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Rack of Black Clothing Against a Light Blue Wall.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "640x427"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

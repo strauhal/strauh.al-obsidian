@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_Comparing_Hand-Drawn_And_Perfect_Circles_Label
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1381x917"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

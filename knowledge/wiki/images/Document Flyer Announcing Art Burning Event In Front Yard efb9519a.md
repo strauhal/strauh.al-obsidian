@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Flyer Announcing Art Burning Event In Front
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "596x742"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

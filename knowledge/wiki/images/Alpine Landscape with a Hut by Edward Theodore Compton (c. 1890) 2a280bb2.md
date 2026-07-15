@@ -6,7 +6,7 @@ source_relpath: "1800s/Alpine Landscape with a Hut by Edward Theodore Compton (c
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: ""
+dimensions: "4323x2216"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

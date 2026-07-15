@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Innocent by Shin'ichi Sakamoto.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Shin'ichi Sakamoto"
-dimensions: ""
+dimensions: "474x791"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

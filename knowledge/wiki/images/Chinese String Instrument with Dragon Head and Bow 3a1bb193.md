@@ -6,7 +6,7 @@ source_relpath: "photography/Chinese String Instrument with Dragon Head and Bow.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "972x1296"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

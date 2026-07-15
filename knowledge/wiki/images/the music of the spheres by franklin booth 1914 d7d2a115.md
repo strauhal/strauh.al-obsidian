@@ -6,7 +6,7 @@ source_relpath: "1900s/the_music_of_the_spheres_by_franklin_booth_1914.jpg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "franklin booth"
-dimensions: ""
+dimensions: "1621x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/The Sirens and Ulysses by William Etty (1837).jpeg"
 collection: "2000s"
 inferred_year: "1837"
 artist: ""
-dimensions: ""
+dimensions: "944x632"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

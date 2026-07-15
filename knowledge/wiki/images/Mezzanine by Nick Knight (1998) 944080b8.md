@@ -6,7 +6,7 @@ source_relpath: "2000s/Mezzanine by Nick Knight (1998).jpeg"
 collection: "2000s"
 inferred_year: "1998"
 artist: ""
-dimensions: ""
+dimensions: "1280x959"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

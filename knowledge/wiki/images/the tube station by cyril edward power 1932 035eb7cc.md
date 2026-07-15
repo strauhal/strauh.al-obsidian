@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tube_station_by_cyril_edward_power_1932.jpg"
 collection: "1900s"
 inferred_year: "1932"
 artist: "cyril edward power"
-dimensions: ""
+dimensions: "1080x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

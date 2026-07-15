@@ -6,7 +6,7 @@ source_relpath: "1900s/apoteosis_de_franco_by_enrique_segura_iglesias_1950.jpg"
 collection: "1900s"
 inferred_year: "1950"
 artist: "enrique segura iglesias"
-dimensions: ""
+dimensions: "1440x808"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

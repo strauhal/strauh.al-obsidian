@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Code Editor Displaying Deeply Nested Blocks 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1170x616"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

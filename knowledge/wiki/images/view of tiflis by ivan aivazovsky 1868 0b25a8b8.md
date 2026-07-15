@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_tiflis_by_ivan_aivazovsky_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
 artist: "ivan aivazovsky"
-dimensions: ""
+dimensions: "960x767"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

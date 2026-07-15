@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Close-Up Of Orange Pleated Fabric Texture.jp
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1037x1350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Daft Punk in Robotic Helmets and Leather Jackets.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x907"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_madame_adelaide_marie_adelaide_de_france_as_c
 collection: "1700s"
 inferred_year: "1745"
 artist: "jean marc nattier"
-dimensions: ""
+dimensions: "844x1048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

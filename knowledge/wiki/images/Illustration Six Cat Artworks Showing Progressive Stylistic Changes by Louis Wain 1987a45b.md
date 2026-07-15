@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Six Cat Artworks Showing Progressive St
 collection: "unsorted"
 inferred_year: ""
 artist: "Louis Wain"
-dimensions: ""
+dimensions: "500x1011"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Aerial View of Hiroshima Peace Memorial After Atomi
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1199"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

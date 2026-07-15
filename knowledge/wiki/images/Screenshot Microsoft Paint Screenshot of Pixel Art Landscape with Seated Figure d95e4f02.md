@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Microsoft Paint Screenshot of Pixel Art L
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1772x1486"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

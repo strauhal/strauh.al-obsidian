@@ -6,7 +6,7 @@ source_relpath: "influences/terry_riley.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "900x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

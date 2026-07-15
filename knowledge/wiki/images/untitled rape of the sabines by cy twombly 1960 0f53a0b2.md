@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_rape_of_the_sabines_by_cy_twombly_1960.jpeg"
 collection: "1900s"
 inferred_year: "1960"
 artist: "cy twombly"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Fluffy Orange Cat Wearing Wizard Hat And Holding St
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "681x674"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

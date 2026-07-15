@@ -6,7 +6,7 @@ source_relpath: "1800s/the_jungfrau_by_alexandre_calame_1863.jpg"
 collection: "1800s"
 inferred_year: "1863"
 artist: "alexandre calame"
-dimensions: ""
+dimensions: "2000x1418"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

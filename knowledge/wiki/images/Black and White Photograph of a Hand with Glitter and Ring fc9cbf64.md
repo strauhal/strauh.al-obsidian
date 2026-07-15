@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of a Hand with Glitter a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1069"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

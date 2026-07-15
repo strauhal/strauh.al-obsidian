@@ -6,7 +6,7 @@ source_relpath: "photography/Dense Aerial View of Reddish-Brown Buildings with L
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1242x1545"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

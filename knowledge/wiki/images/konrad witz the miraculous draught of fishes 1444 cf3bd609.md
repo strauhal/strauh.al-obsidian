@@ -6,7 +6,7 @@ source_relpath: "1400s/konrad_witz_the_miraculous_draught_of_fishes_1444.jpg"
 collection: "1400s"
 inferred_year: "1444"
 artist: ""
-dimensions: ""
+dimensions: "2450x2152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

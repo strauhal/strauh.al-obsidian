@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Original iTunes Icon by Apple Inc.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Apple Inc"
-dimensions: ""
+dimensions: "736x552"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

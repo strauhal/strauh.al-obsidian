@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black and White Photograph of a Courtyard wi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "6000x4879"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

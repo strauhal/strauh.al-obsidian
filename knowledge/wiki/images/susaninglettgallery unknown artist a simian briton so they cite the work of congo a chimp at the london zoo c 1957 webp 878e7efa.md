@@ -6,7 +6,7 @@ source_relpath: "1900s/susaninglettgallery_unknown_artist_a_simian_briton_so_the
 collection: "1900s"
 inferred_year: "1957"
 artist: ""
-dimensions: ""
+dimensions: "2400x1850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

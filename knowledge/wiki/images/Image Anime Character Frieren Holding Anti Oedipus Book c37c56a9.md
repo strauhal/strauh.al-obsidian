@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Anime Character Frieren Holding Anti-Oedipus B
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1291x1291"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

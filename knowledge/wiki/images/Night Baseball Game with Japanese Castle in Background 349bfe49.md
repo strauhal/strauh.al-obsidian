@@ -6,7 +6,7 @@ source_relpath: "photography/Night Baseball Game with Japanese Castle in Backgro
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "811x1014"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

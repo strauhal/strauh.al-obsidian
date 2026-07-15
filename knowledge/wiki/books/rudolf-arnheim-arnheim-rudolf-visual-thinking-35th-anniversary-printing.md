@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Visual thinking_35th anniversary printing -- RUDOLF ARNHEIM, Arnheim, Rudolf -- 1997, 1997 -- UNIVERSITY OF CALIFORNIA PRESS -- 9780052018710 -- 3c768d01a5eaa874707ef774b393efa5 -- Anna’s Archive.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Visual thinking 35th anniversary printing

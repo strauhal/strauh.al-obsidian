@@ -6,7 +6,7 @@ source_relpath: "1600s/the_laughing_boy_with_a_bird_by_bernardo_strozzi_c_1620_1
 collection: "1600s"
 inferred_year: "1625"
 artist: "bernardo strozzi"
-dimensions: ""
+dimensions: "1471x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---
@@ -29,7 +29,7 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/1600s/the_laughing_boy
 
 - [[knowledge/wiki/people/Terry A. Davis|Terry A. Davis]] — shared language: bird
 - [[knowledge/wiki/images/bernardo bellotto view of warsaw from praga c 1770 d38850a7|bernardo bellotto view of warsaw from praga c 1770]] — shared language: bernardo
-- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
 - [[knowledge/wiki/images/Illustration Pencil Drawing of a Laughing Woman with Ponytail 49e77128|Illustration Pencil Drawing of a Laughing Woman with Ponytail]] — shared language: laughing
+- [[knowledge/wiki/images/bird ideas daee0779|bird ideas]] — shared language: bird
 - [[knowledge/wiki/images/Photograph Of Computer Screen Displaying Artwork Of Laughing Figures 79a69a69|Photograph Of Computer Screen Displaying Artwork Of Laughing Figures]] — shared language: laughing
 <!-- vault-crosslinks:end -->

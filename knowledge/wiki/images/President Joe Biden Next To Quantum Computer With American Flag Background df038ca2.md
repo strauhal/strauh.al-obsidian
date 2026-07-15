@@ -6,7 +6,7 @@ source_relpath: "photography/President Joe Biden Next To Quantum Computer With A
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "540x670"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

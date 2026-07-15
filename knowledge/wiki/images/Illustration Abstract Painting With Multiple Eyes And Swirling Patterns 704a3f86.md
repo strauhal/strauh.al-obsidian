@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Painting With Multiple Eyes An
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2408x2413"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

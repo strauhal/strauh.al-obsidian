@@ -21,9 +21,9 @@ Images attributed by filename: 1
 ## Discovered Connections
 
 - [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw wrobel 2018|Artist - zdzisaw wrobel 2018]] — named in this note
-- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — shared language: zdzisaw
-- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1972|Artist - zdzisaw beksinski 1972]] — shared language: zdzisaw
-- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1980|Artist - zdzisaw beksinski 1980]] — shared language: zdzisaw
-- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1984|Artist - zdzisaw beksinski 1984]] — shared language: zdzisaw
 - [[knowledge/wiki/images/untitled by zdzisaw beksinski 1972 53dd94ba|untitled by zdzisaw beksinski 1972]] — shared language: zdzisaw
+- [[knowledge/wiki/images/untitled by zdzisaw beksinski 1980 4494e1de|untitled by zdzisaw beksinski 1980]] — shared language: zdzisaw
+- [[knowledge/wiki/images/untitled by zdzisaw beksinski 1984 97f1003b|untitled by zdzisaw beksinski 1984]] — shared language: zdzisaw
+- [[knowledge/wiki/images/untitled by zdzisaw beksinski 1985 0c406b2c|untitled by zdzisaw beksinski 1985]] — shared language: zdzisaw
+- [[knowledge/archive/auto-generated/artists-stale/Artist - zdzisaw beksinski 1970s|Artist - zdzisaw beksinski 1970s]] — shared language: zdzisaw
 <!-- vault-crosslinks:end -->

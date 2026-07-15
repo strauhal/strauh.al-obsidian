@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Surreal Black And White Ink Comic Panels With Fig
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1440x1213"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

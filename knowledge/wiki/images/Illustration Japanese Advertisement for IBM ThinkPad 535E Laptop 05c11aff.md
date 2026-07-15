@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Japanese Advertisement for IBM ThinkPad 53
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1203x1719"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

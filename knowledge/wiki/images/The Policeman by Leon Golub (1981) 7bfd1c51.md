@@ -6,7 +6,7 @@ source_relpath: "2000s/The Policeman by Leon Golub (1981).jpg"
 collection: "2000s"
 inferred_year: "1981"
 artist: ""
-dimensions: ""
+dimensions: "1200x956"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

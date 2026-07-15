@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman's Eyes and Drifting White Sedan C
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

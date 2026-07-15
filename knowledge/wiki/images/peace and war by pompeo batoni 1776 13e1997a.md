@@ -6,7 +6,7 @@ source_relpath: "1700s/peace_and_war_by_pompeo_batoni_1776.jpeg"
 collection: "1700s"
 inferred_year: "1776"
 artist: "pompeo batoni"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

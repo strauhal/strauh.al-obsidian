@@ -6,7 +6,7 @@ source_relpath: "1900s/natura_morta_con_cinque_oggetti_by_giorgio_morandi_1929.j
 collection: "1900s"
 inferred_year: "1929"
 artist: "giorgio morandi"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

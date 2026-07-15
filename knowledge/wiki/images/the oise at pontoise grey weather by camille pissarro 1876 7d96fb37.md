@@ -6,7 +6,7 @@ source_relpath: "1800s/the_oise_at_pontoise_grey_weather_by_camille_pissarro_187
 collection: "1800s"
 inferred_year: "1876"
 artist: "camille pissarro"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

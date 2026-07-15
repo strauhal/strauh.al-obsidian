@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Man with Partially Sh
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "336x227"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Girl at Computer with B
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1753x1753"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

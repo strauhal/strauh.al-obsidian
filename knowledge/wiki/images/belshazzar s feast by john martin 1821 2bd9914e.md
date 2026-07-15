@@ -6,7 +6,7 @@ source_relpath: "1800s/belshazzar_s_feast_by_john_martin_1821.jpg"
 collection: "1800s"
 inferred_year: "1821"
 artist: "john martin"
-dimensions: ""
+dimensions: "2560x1713"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

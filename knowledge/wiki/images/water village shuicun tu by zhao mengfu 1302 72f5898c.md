@@ -6,7 +6,7 @@ source_relpath: "1300s/water_village_shuicun_tu_by_zhao_mengfu_1302.jpg"
 collection: "1300s"
 inferred_year: "1300s"
 artist: "zhao mengfu"
-dimensions: ""
+dimensions: "8475x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

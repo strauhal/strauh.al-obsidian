@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Abstract Red And White Organic Figu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x566"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

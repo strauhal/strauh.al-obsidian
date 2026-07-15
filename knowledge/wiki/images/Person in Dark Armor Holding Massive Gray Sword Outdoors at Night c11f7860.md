@@ -6,7 +6,7 @@ source_relpath: "photography/Person in Dark Armor Holding Massive Gray Sword Out
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x1070"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

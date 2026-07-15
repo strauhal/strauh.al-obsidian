@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Scratched Silver Apple Laptop on White Backg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

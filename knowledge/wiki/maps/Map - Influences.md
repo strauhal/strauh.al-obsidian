@@ -2,8 +2,8 @@
 title: Map - Influences
 type: map
 tags: [map, influences, people]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Map - Influences

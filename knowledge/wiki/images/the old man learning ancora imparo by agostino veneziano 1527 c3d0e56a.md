@@ -6,7 +6,7 @@ source_relpath: "1500s/the_old_man_learning_ancora_imparo_by_agostino_veneziano_
 collection: "1500s"
 inferred_year: "1527"
 artist: "agostino veneziano"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

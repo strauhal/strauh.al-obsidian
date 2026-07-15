@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - The Blackest Spot in Christendom by Joseph
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Joseph Clement Coll"
-dimensions: ""
+dimensions: "900x1505"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

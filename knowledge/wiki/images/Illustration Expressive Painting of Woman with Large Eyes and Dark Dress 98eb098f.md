@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Expressive Painting of Woman with Large Ey
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1563x1552"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

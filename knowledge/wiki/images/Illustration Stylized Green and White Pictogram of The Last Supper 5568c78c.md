@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Green and White Pictogram of T
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x375"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

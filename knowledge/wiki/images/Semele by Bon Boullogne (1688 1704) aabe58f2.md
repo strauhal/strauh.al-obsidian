@@ -6,7 +6,7 @@ source_relpath: "1600s/Semele by Bon Boullogne (1688-1704).jpg"
 collection: "1600s"
 inferred_year: "1704"
 artist: ""
-dimensions: ""
+dimensions: "628x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

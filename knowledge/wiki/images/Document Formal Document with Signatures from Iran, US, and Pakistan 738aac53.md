@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Formal Document with Signatures from Iran, 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1506x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Hairless Dog with Pointed Ears Sitting.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "231x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

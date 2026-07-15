@@ -6,7 +6,7 @@ source_relpath: "diagrams/AI_Image_Processing_Demonstration:_Pixelated_Face_and_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "390x199"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

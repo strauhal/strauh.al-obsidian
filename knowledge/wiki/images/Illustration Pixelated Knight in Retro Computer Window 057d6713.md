@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixelated Knight in Retro Computer Wind
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1036"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Modern White Building with Curved Architecture and 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

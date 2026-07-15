@@ -6,7 +6,7 @@ source_relpath: "2000s/HEROIN MAKES HAPPY - demo 2000 (2000).jpg"
 collection: "2000s"
 inferred_year: "2000"
 artist: ""
-dimensions: ""
+dimensions: "597x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

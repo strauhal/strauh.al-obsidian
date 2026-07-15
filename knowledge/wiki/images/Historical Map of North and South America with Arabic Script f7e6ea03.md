@@ -6,7 +6,7 @@ source_relpath: "diagrams/Historical_Map_of_North_and_South_America_with_Arabic_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1408x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

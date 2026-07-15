@@ -6,7 +6,7 @@ source_relpath: "2000s/The Raid by Josan Gonzalez and Laurie Greasley.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Josan Gonzalez and Laurie Greasley"
-dimensions: ""
+dimensions: "768x1152"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

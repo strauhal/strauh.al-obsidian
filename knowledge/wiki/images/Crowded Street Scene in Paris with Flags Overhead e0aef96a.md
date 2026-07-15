@@ -6,7 +6,7 @@ source_relpath: "photography/Crowded Street Scene in Paris with Flags Overhead.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "853x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

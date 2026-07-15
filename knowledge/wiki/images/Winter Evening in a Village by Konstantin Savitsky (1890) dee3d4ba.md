@@ -6,7 +6,7 @@ source_relpath: "1800s/Winter Evening in a Village by Konstantin Savitsky (1890)
 collection: "1800s"
 inferred_year: "1890"
 artist: ""
-dimensions: ""
+dimensions: "1170x1437"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

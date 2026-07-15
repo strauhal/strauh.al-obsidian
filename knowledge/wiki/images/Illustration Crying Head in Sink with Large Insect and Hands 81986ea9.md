@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Crying Head in Sink with Large Insect a
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "852x846"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

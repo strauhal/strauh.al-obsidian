@@ -6,7 +6,7 @@ source_relpath: "1800s/The Nymphaeum by William-Adolphe Bouguereau (1878).jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: ""
-dimensions: ""
+dimensions: "2016x1404"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Still Life With Bottles And Containers 
 collection: "unsorted"
 inferred_year: ""
 artist: "Giorgio Morandi"
-dimensions: ""
+dimensions: "1000x668"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Denji and Asa Sharing Earbuds on a Benc
 collection: "unsorted"
 inferred_year: ""
 artist: "Dollllls2"
-dimensions: ""
+dimensions: "1400x1950"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

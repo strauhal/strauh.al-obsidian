@@ -6,7 +6,7 @@ source_relpath: "1800s/gustave_dor_dante_and_virgil_among_the_wrathful_and_the_s
 collection: "1800s"
 inferred_year: "1861"
 artist: ""
-dimensions: ""
+dimensions: "2299x1787"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

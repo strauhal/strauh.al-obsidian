@@ -6,7 +6,7 @@ source_relpath: "photography/Person Typing at Large Curved Screen Displaying Dat
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4096x2293"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

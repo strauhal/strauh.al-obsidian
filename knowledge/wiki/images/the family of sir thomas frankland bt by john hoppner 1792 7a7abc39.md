@@ -6,7 +6,7 @@ source_relpath: "1700s/the_family_of_sir_thomas_frankland_bt_by_john_hoppner_179
 collection: "1700s"
 inferred_year: "1792"
 artist: "john hoppner"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

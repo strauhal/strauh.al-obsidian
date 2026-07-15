@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Woman in Black Dress Leaning on Grand Piano.
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Edward Steichen"
-dimensions: ""
+dimensions: "1680x2122"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

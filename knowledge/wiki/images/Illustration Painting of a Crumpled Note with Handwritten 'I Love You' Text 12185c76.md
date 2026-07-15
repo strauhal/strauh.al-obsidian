@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Painting of a Crumpled Note with Handwr
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

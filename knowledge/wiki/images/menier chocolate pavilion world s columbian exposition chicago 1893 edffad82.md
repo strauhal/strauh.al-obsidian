@@ -6,7 +6,7 @@ source_relpath: "1800s/menier_chocolate_pavilion_world_s_columbian_exposition_ch
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "5709x4712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

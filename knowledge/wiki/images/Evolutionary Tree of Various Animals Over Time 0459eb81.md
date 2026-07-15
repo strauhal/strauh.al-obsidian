@@ -6,7 +6,7 @@ source_relpath: "diagrams/Evolutionary_Tree_of_Various_Animals_Over_Time.png"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

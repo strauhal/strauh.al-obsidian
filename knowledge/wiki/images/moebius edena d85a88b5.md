@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/moebius-edena.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x825"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

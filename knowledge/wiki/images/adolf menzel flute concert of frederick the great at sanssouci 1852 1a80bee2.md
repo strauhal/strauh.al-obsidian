@@ -6,7 +6,7 @@ source_relpath: "1800s/adolf_menzel_flute_concert_of_frederick_the_great_at_sans
 collection: "1800s"
 inferred_year: "1852"
 artist: ""
-dimensions: ""
+dimensions: "2560x1758"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

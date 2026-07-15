@@ -2,14 +2,14 @@
 title: Books Folder Title List
 slug: books
 type: library
-ingested: 2026-07-08
+ingested: 2026-07-10
 compiled: true
 tags: [raw, books]
 ---
 
 # Books Folder Title List
 
-Entries: 419
+Entries: 420
 
 - Figure Drawing for All It's Worth — Andrew Loomis (1951)
 - Introductory Lectures on Aesthetics — Bosanquet, Bernard Hegel,Georg,Wilhelm Friedrich Inwood, Michael (2010)
@@ -69,6 +69,7 @@ Entries: 419
 - 2408.04681v1
 - 2410.01131v1
 - 2509.11391v2
+- 2607.02317v1
 - 54b7f9bf8681400300255cab original
 - 7 There Will Come Soft Rains — Ray Bradbury
 - 9009675 01 AB 9009700 01-Art-as-a-Form-of-Reality

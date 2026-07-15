@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - 3D Rendered Spiral Object Composed of Rep
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "924x870"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

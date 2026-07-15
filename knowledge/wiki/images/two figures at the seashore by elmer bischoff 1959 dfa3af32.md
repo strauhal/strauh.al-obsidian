@@ -6,7 +6,7 @@ source_relpath: "1900s/two_figures_at_the_seashore_by_elmer_bischoff_1959.jpeg"
 collection: "1900s"
 inferred_year: "1959"
 artist: "elmer bischoff"
-dimensions: ""
+dimensions: "4284x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

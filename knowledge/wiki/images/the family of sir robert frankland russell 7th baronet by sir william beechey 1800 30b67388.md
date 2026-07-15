@@ -6,7 +6,7 @@ source_relpath: "1800s/the_family_of_sir_robert_frankland_russell_7th_baronet_by
 collection: "1800s"
 inferred_year: "1800"
 artist: "sir william beechey"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

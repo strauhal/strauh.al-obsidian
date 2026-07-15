@@ -6,7 +6,7 @@ source_relpath: "computers/Screenshot-2022-03-16-at-16.02.28-1-1024x640.png"
 collection: "computers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x640"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/computers"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Children's_Drawings_Based_on_Television_
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "639x551"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---
@@ -26,8 +26,8 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/diagrams/Comparison_of
 ## Discovered Connections
 
 - [[knowledge/wiki/images/Comparison of Children's Drawings Based on Television Viewing Habits f5fbc646|Comparison of Children's Drawings Based on Television Viewing Habits]] — shared language: children's, television, viewing
-- [[knowledge/wiki/concepts/Post-Irony|Post-Irony]] — shared language: based
 - [[knowledge/wiki/books/joseph-beuys-drawings-of-joseph-beuys-moma|Drawings of Joseph Beuys (MoMA)]] — shared language: drawings
 - [[knowledge/wiki/books/moma-drawings-of-joseph-beuys-museum-of-modern-art|Drawings of Joseph Beuys-Museum of Modern Art]] — shared language: drawings
 - [[knowledge/wiki/images/Person Viewing Framed Photograph In Gallery 9a1ff34f|Person Viewing Framed Photograph In Gallery]] — shared language: viewing
+- [[knowledge/wiki/images/Photograph Person Viewing Art Installation in a Modern Gallery ef4623a0|Photograph Person Viewing Art Installation in a Modern Gallery]] — shared language: viewing
 <!-- vault-crosslinks:end -->

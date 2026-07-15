@@ -6,7 +6,7 @@ source_relpath: "1800s/dancers_in_red_skirts_by_edgar_degas_c_1884.jpeg"
 collection: "1800s"
 inferred_year: "1884"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1700s/the_sick_woman_by_jean_honore_fragonard_c_1770_1775.jpeg"
 collection: "1700s"
 inferred_year: "1775"
 artist: "jean honore fragonard"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

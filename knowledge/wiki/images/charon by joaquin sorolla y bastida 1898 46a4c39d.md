@@ -6,7 +6,7 @@ source_relpath: "1800s/charon_by_joaquin_sorolla_y_bastida_1898.jpeg"
 collection: "1800s"
 inferred_year: "1898"
 artist: "joaquin sorolla y bastida"
-dimensions: ""
+dimensions: "3564x2097"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

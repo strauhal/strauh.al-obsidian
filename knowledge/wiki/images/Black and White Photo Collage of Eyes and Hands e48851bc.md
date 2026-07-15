@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo Collage of Eyes and Hands.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1075x1065"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

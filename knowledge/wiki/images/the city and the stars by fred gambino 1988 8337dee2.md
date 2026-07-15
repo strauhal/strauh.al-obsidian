@@ -6,7 +6,7 @@ source_relpath: "1900s/the_city_and_the_stars_by_fred_gambino_1988.jpg"
 collection: "1900s"
 inferred_year: "1988"
 artist: "fred gambino"
-dimensions: ""
+dimensions: "2968x1607"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Coca-Cola Bottle Floating Above Clouds 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "614x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

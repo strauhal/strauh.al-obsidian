@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/rain-in-shinagawa-kawase-hasui-5.gif.jpeg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1100x1595"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

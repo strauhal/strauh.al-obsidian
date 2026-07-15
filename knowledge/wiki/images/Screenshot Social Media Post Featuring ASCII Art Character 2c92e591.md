@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Social Media Post Featuring ASCII Art Cha
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x957"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

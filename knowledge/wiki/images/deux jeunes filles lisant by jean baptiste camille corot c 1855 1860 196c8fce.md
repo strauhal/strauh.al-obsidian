@@ -6,7 +6,7 @@ source_relpath: "1800s/deux_jeunes_filles_lisant_by_jean_baptiste_camille_corot_
 collection: "1800s"
 inferred_year: "1860"
 artist: "jean baptiste camille corot"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

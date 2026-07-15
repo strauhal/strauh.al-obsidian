@@ -6,7 +6,7 @@ source_relpath: "1800s/la_tentation_de_saint_antoine_by_felicien_rops_1878.jpg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "felicien rops"
-dimensions: ""
+dimensions: "2208x3030"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

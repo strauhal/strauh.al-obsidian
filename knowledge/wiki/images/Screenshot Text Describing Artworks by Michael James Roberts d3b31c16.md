@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Text Describing Artworks by Michael James Ro
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Michael James Roberts"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

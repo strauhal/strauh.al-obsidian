@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Nine Black and White Ink Drawings of Urban
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2000x1302"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/richard_wagner_by_franz_hanfstaengl_c_1865.jpeg"
 collection: "1800s"
 inferred_year: "1865"
 artist: "franz hanfstaengl"
-dimensions: ""
+dimensions: "460x620"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Illustration of a Woman With Red Hair A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "500x683"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

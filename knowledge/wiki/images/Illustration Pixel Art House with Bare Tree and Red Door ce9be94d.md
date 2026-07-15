@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art House with Bare Tree and Red Doo
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1280x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

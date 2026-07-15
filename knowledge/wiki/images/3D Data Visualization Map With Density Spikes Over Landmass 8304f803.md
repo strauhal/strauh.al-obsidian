@@ -6,7 +6,7 @@ source_relpath: "diagrams/3D_Data_Visualization_Map_With_Density_Spikes_Over_Lan
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x675"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

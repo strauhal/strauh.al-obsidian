@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Two People in Traditional Attire Against Cor
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "405x608"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

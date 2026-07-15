@@ -6,7 +6,7 @@ source_relpath: "1900s/The Secretary by Luc Tuymans (1995).jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: ""
-dimensions: ""
+dimensions: "2271x2880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

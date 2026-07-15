@@ -6,7 +6,7 @@ source_relpath: "1400s/the_whore_of_babylon_by_michael_wolgemut_and_wilhelm_pley
 collection: "1400s"
 inferred_year: "1493"
 artist: "michael wolgemut and wilhelm pleydenwurff"
-dimensions: ""
+dimensions: "1200x881"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

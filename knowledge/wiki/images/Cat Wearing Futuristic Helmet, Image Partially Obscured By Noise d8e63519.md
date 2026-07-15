@@ -6,7 +6,7 @@ source_relpath: "photography/Cat Wearing Futuristic Helmet, Image Partially Obsc
 collection: "photography"
 inferred_year: ""
 artist: "Noise"
-dimensions: ""
+dimensions: "1200x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

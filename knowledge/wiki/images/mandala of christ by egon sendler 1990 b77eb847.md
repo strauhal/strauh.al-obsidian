@@ -6,7 +6,7 @@ source_relpath: "1900s/mandala_of_christ_by_egon_sendler_1990.jpeg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "egon sendler"
-dimensions: ""
+dimensions: "564x564"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

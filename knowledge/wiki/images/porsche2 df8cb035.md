@@ -6,7 +6,7 @@ source_relpath: "wallpapers/porsche2.gif"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x780"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

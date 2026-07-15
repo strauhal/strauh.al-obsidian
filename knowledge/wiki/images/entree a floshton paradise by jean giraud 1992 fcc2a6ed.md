@@ -6,7 +6,7 @@ source_relpath: "1900s/entree_a_floshton_paradise_by_jean_giraud_1992.jpeg"
 collection: "1900s"
 inferred_year: "1992"
 artist: "jean giraud"
-dimensions: ""
+dimensions: "750x591"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

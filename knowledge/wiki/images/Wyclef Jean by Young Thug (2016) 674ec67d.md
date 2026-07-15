@@ -6,7 +6,7 @@ source_relpath: "2000s/Wyclef Jean by Young Thug (2016).jpg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: ""
+dimensions: "3648x3648"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

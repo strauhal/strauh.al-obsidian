@@ -6,7 +6,7 @@ source_relpath: "photography/Shinto Blessing Ceremony for a Fighter Jet in a Han
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1061"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/vishnu_on_garuda_with_consorts_by_raja_ravi_varma_c_1895.
 collection: "1800s"
 inferred_year: "1895"
 artist: "raja ravi varma"
-dimensions: ""
+dimensions: "1780x2518"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

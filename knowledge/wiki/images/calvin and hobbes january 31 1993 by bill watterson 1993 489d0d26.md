@@ -6,7 +6,7 @@ source_relpath: "1900s/calvin_and_hobbes_january_31_1993_by_bill_watterson_1993.
 collection: "1900s"
 inferred_year: "1993"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "1080x840"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

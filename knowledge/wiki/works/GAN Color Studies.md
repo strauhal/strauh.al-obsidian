@@ -4,8 +4,8 @@ type: work
 aliases: [Untitled 4 Color Study 1, Pix2Pix color studies]
 tags: [work, drawing, pix2pix, gan, color]
 sources: ["[[No More Human Art]]", "[[ideas-sketchbook]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # GAN Color Studies

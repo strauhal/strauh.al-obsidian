@@ -6,7 +6,7 @@ source_relpath: "photography/Colorful Supernova Remnant With Intricate Filaments
 collection: "photography"
 inferred_year: ""
 artist: "Hubble Space Telescope"
-dimensions: ""
+dimensions: "3864x3864"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

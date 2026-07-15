@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grid of Sixteen Ink Sketches of Architectu
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2000x1417"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

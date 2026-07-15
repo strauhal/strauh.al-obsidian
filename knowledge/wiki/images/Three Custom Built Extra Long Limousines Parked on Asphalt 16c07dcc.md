@@ -6,7 +6,7 @@ source_relpath: "photography/Three Custom-Built Extra-Long Limousines Parked on 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x971"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

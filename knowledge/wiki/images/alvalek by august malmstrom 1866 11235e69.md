@@ -6,7 +6,7 @@ source_relpath: "1800s/alvalek_by_august_malmstrom_1866.jpg"
 collection: "1800s"
 inferred_year: "1866"
 artist: "august malmstrom"
-dimensions: ""
+dimensions: "1040x1269"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

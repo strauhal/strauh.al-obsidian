@@ -6,7 +6,7 @@ source_relpath: "1900s/New York by Franklin Booth (1920).jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: ""
-dimensions: ""
+dimensions: "2425x3322"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

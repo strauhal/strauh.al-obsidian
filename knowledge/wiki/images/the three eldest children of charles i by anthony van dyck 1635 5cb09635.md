@@ -6,7 +6,7 @@ source_relpath: "1600s/the_three_eldest_children_of_charles_i_by_anthony_van_dyc
 collection: "1600s"
 inferred_year: "1635"
 artist: "anthony van dyck"
-dimensions: ""
+dimensions: "1050x933"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

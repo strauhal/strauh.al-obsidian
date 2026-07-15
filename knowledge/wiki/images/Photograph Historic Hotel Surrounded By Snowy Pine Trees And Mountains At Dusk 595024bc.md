@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Historic Hotel Surrounded By Snowy Pine Tree
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Snowy Pine Trees And Mountains At Dusk"
-dimensions: ""
+dimensions: "2048x1365"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

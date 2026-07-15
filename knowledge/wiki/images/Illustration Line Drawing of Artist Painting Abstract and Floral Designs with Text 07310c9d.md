@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing of Artist Painting Abstrac
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "814x1060"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

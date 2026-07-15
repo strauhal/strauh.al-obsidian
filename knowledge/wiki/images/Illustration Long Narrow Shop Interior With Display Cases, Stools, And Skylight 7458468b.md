@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Long Narrow Shop Interior With Display 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

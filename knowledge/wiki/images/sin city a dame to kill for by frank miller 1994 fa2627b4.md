@@ -6,7 +6,7 @@ source_relpath: "1900s/sin_city_a_dame_to_kill_for_by_frank_miller_1994.jpeg"
 collection: "1900s"
 inferred_year: "1994"
 artist: "frank miller"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

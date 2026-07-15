@@ -6,7 +6,7 @@ source_relpath: "1800s/jan_matejko_astronomer_copernicus_or_conversations_with_g
 collection: "1800s"
 inferred_year: "1873"
 artist: ""
-dimensions: ""
+dimensions: "4000x2877"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

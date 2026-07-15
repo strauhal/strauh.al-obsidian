@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Buddha Meditating as Earth Goddess Wrin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "546x650"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

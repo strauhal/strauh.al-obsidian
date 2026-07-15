@@ -6,7 +6,7 @@ source_relpath: "1900s/le_chevalier_aux_ailes_bleues_the_knight_with_blue_wings_
 collection: "1900s"
 inferred_year: "1910"
 artist: "paul serusier"
-dimensions: ""
+dimensions: "2000x2025"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

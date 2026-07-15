@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Girl in Red Plugsuit and Mecha A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2560x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

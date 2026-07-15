@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Purple Line Drawing of Symmetrical Sci-Fi 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "899x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Two Surgeons Operating On Patient, One Wearing Head
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "959x659"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

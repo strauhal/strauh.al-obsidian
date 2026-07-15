@@ -6,7 +6,7 @@ source_relpath: "1900s/calvin_and_hobbes_comic_strip_may_23_1994_by_bill_watters
 collection: "1900s"
 inferred_year: "1994"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "452x1248"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

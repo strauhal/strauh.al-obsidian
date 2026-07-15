@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Etching of Hilly Landscape wit
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1393"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

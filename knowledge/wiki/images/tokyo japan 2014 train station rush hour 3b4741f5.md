@@ -6,7 +6,7 @@ source_relpath: "photography/daido_moriyama/tokyo-japan-2014-train-station-rush-
 collection: "photography"
 inferred_year: "2014"
 artist: ""
-dimensions: ""
+dimensions: "1024x768"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Black Hands Enclosing Green Sh
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "860x890"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

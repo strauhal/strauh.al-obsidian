@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Charcoal Drawing of Willem Dafoe Lookin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1297"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

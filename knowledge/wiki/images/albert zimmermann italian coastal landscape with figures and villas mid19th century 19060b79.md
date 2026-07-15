@@ -6,7 +6,7 @@ source_relpath: "1800s/albert_zimmermann_italian_coastal_landscape_with_figures_
 collection: "1800s"
 inferred_year: "1800s"
 artist: ""
-dimensions: ""
+dimensions: "3509x2170"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

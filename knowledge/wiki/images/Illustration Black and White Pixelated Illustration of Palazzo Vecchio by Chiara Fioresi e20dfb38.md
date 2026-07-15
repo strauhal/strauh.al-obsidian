@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Pixelated Illustration of 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Chiara Fioresi"
-dimensions: ""
+dimensions: "1728x2160"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/i_am_happy_because_every_one_loves_me_by_louis_wain_c_190
 collection: "1900s"
 inferred_year: "1900"
 artist: "louis wain"
-dimensions: ""
+dimensions: "1109x1272"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

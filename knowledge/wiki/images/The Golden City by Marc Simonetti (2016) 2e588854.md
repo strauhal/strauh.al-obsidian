@@ -6,7 +6,7 @@ source_relpath: "2000s/The Golden City by Marc Simonetti (2016).jpg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: ""
+dimensions: "2000x923"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

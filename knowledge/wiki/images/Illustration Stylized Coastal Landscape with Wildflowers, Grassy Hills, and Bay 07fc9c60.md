@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Coastal Landscape with Wildflo
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1107x1102"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

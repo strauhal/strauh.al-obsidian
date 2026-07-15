@@ -6,7 +6,7 @@ source_relpath: "photography/Smiling Woman In Hat Winking In Car Trunk With Wate
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1778x2404"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

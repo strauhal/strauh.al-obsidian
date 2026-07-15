@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_jeanne_samary_by_pierre_auguste_renoir_1877.j
 collection: "1800s"
 inferred_year: "1877"
 artist: "pierre auguste renoir"
-dimensions: ""
+dimensions: "2024x2501"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

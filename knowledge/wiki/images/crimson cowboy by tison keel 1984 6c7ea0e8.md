@@ -6,7 +6,7 @@ source_relpath: "1900s/crimson_cowboy_by_tison_keel_1984.jpeg"
 collection: "1900s"
 inferred_year: "1984"
 artist: "tison keel"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

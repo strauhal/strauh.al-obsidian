@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Script Draft with Handwritten Revisions for
 collection: "unsorted"
 inferred_year: ""
 artist: "Thomas Pynchon"
-dimensions: ""
+dimensions: "768x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

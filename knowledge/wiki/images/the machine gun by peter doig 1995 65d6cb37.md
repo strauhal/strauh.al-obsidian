@@ -6,7 +6,7 @@ source_relpath: "1900s/the_machine_gun_by_peter_doig_1995.jpeg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "peter doig"
-dimensions: ""
+dimensions: "1440x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

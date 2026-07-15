@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Pattern of Wavy White and Teal Re
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1696x2254"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Long Artwork Showing Continuous Transforma
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "9860x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

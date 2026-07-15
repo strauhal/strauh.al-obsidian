@@ -6,7 +6,7 @@ source_relpath: "1600s/the_brethren_of_joseph_requesting_benjamin_from_their_fat
 collection: "1600s"
 inferred_year: "1643"
 artist: "rembrandt van rijn"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_world_of_the_word_by_toshio_iwai_1990.jpg"
 collection: "1900s"
 inferred_year: "1990"
 artist: "toshio iwai"
-dimensions: ""
+dimensions: "2048x1448"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

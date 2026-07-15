@@ -6,7 +6,7 @@ source_relpath: "1900s/akira_by_katsuhiro_otomo_1989.jpeg"
 collection: "1900s"
 inferred_year: "1989"
 artist: "katsuhiro otomo"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

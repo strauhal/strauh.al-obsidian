@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Intricate Pencil Drawing of a Floating Fan
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Laurent Gapaillard"
-dimensions: ""
+dimensions: "736x1252"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

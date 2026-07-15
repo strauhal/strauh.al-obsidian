@@ -6,7 +6,7 @@ source_relpath: "1900s/thomas_jacques_somerscales_fullrigged_ship_in_heavy_seas_
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "2560x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

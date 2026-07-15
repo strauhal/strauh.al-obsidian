@@ -6,7 +6,7 @@ source_relpath: "2000s/The Glendearning Getaway by Andy Thomas (2018).jpg"
 collection: "2000s"
 inferred_year: "2018"
 artist: ""
-dimensions: ""
+dimensions: "1920x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

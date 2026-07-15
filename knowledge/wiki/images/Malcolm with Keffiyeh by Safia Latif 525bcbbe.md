@@ -6,7 +6,7 @@ source_relpath: "unsorted/Malcolm with Keffiyeh by Safia Latif.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Safia Latif"
-dimensions: ""
+dimensions: "1079x1433"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

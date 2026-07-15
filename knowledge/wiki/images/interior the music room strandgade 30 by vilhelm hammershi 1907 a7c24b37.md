@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_the_music_room_strandgade_30_by_vilhelm_hammersh
 collection: "1900s"
 inferred_year: "1907"
 artist: "vilhelm hammershi"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

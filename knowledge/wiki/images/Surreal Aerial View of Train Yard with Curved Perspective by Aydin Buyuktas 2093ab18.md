@@ -6,7 +6,7 @@ source_relpath: "photography/Surreal Aerial View of Train Yard with Curved Persp
 collection: "photography"
 inferred_year: ""
 artist: "Aydin Buyuktas"
-dimensions: ""
+dimensions: "859x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

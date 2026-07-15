@@ -6,7 +6,7 @@ source_relpath: "1900s/Portrait of Friedrich Nietzsche by Edvard Munch (1906) (2
 collection: "1900s"
 inferred_year: "1906"
 artist: ""
-dimensions: ""
+dimensions: "750x421"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

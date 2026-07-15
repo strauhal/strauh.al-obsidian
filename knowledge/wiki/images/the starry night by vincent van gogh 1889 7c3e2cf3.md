@@ -6,7 +6,7 @@ source_relpath: "1800s/the_starry_night_by_vincent_van_gogh_1889.jpeg"
 collection: "1800s"
 inferred_year: "1889"
 artist: "vincent van gogh"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

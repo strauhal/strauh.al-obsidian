@@ -6,7 +6,7 @@ source_relpath: "photography/Joseph Beuys Drawing on a Blackboard.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1235x852"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

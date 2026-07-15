@@ -6,7 +6,7 @@ source_relpath: "1900s/reclining_woman_by_oskar_kokoschka_1910.jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "oskar kokoschka"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

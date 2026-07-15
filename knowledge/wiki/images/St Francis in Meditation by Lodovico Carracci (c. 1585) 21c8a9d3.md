@@ -6,7 +6,7 @@ source_relpath: "1500s/St Francis in Meditation by Lodovico Carracci (c. 1585).j
 collection: "1500s"
 inferred_year: "1585"
 artist: ""
-dimensions: ""
+dimensions: "3597x4848"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

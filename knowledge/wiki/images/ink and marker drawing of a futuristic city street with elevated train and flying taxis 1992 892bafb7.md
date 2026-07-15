@@ -6,7 +6,7 @@ source_relpath: "1900s/ink_and_marker_drawing_of_a_futuristic_city_street_with_e
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "750x593"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

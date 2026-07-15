@@ -6,7 +6,7 @@ source_relpath: "1700s/roman_charity_by_jean_baptiste_greuze_1767.jpg"
 collection: "1700s"
 inferred_year: "1767"
 artist: "jean baptiste greuze"
-dimensions: ""
+dimensions: "1054x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_a_woman_wally_neuzil_by_egon_schiele_1912.jpg
 collection: "1900s"
 inferred_year: "1912"
 artist: "egon schiele"
-dimensions: ""
+dimensions: "975x1300"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

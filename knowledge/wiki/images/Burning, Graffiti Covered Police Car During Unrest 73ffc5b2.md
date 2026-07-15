@@ -6,7 +6,7 @@ source_relpath: "photography/Burning, Graffiti-Covered Police Car During Unrest.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

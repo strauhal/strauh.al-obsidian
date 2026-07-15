@@ -6,7 +6,7 @@ source_relpath: "1900s/iris_garden_by_clifton_karhu_1985.jpeg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "clifton karhu"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

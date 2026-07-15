@@ -6,7 +6,7 @@ source_relpath: "2000s/De Nuce Maga by Vincent Proce (2024).jpeg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: ""
+dimensions: "1328x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

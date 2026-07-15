@@ -6,7 +6,7 @@ source_relpath: "1900s/dalahast_och_tupp_by_sigrid_hjerten_1916.jpeg"
 collection: "1900s"
 inferred_year: "1916"
 artist: "sigrid hjerten"
-dimensions: ""
+dimensions: "2452x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

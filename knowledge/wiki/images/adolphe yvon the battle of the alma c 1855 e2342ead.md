@@ -6,7 +6,7 @@ source_relpath: "1800s/adolphe_yvon_the_battle_of_the_alma_c_1855.jpg"
 collection: "1800s"
 inferred_year: "1855"
 artist: ""
-dimensions: ""
+dimensions: "1966x1140"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

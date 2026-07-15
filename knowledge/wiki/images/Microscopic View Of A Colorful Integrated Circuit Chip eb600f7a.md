@@ -6,7 +6,7 @@ source_relpath: "photography/Microscopic View Of A Colorful Integrated Circuit C
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3641x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/la_fenetre_de_l_atelier_by_henri_fantin_latour_1873.jpg"
 collection: "1800s"
 inferred_year: "1873"
 artist: "henri fantin latour"
-dimensions: ""
+dimensions: "969x922"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

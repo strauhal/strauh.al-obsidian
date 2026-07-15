@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Person Holding Colorful Modular Apple Comput
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Hartmut Esslinger Frog Design"
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

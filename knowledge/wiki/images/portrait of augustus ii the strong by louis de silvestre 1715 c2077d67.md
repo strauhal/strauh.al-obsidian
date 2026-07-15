@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_augustus_ii_the_strong_by_louis_de_silvestre_
 collection: "1700s"
 inferred_year: "1715"
 artist: "louis de silvestre"
-dimensions: ""
+dimensions: "770x977"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

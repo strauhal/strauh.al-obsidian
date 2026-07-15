@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of Margaret Kilgallen on
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "672x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

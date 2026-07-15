@@ -6,7 +6,7 @@ source_relpath: "1900s/1924_127_woman_at_her_toilette_jpg.jpg"
 collection: "1900s"
 inferred_year: "1924"
 artist: ""
-dimensions: ""
+dimensions: "3000x2246"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

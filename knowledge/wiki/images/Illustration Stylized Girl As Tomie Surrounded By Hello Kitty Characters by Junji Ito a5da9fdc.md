@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Girl As Tomie Surrounded By He
 collection: "unsorted"
 inferred_year: ""
 artist: "Hello Kitty Characters by Junji Ito"
-dimensions: ""
+dimensions: "747x675"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

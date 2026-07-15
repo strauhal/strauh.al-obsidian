@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Black And White Drawing Of A Duc
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "672x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

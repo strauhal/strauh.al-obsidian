@@ -6,7 +6,7 @@ source_relpath: "photography/Three Robed Figures Protesting ChatGPT at a Convent
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "983x1324"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Technician In Cleanroom Holding Silicon Wafer Refle
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1586x1778"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

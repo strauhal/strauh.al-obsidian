@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman's Face With Red, Orange, And Gree
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

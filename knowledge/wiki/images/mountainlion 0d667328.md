@@ -6,7 +6,7 @@ source_relpath: "wallpapers/mountainlion.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5120x2880"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

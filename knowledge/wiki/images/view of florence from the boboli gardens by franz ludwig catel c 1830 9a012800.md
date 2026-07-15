@@ -6,7 +6,7 @@ source_relpath: "1800s/view_of_florence_from_the_boboli_gardens_by_franz_ludwig_
 collection: "1800s"
 inferred_year: "1830"
 artist: "franz ludwig catel"
-dimensions: ""
+dimensions: "5712x3213"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

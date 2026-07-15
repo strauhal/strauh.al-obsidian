@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up Photograph of Circuit Board with Cat-Shape
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "735x554"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

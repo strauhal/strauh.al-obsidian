@@ -6,7 +6,7 @@ source_relpath: "album_covers/hashjar.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2874x2850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

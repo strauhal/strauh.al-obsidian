@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Abstract Digital Art with Color
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2304x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

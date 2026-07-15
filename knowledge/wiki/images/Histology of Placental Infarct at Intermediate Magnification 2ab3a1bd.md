@@ -6,7 +6,7 @@ source_relpath: "photography/Histology of Placental Infarct at Intermediate Magn
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4272x2848"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

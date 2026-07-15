@@ -6,7 +6,7 @@ source_relpath: "1800s/pulcinellas_by_giovanni_domenico_tiepolo_c_17971800.jpg"
 collection: "1800s"
 inferred_year: "1800s"
 artist: "giovanni domenico tiepolo"
-dimensions: ""
+dimensions: "3200x1969"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

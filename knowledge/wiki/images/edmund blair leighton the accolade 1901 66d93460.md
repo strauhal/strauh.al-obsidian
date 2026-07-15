@@ -6,7 +6,7 @@ source_relpath: "1900s/edmund_blair_leighton_the_accolade_1901.jpg"
 collection: "1900s"
 inferred_year: "1901"
 artist: ""
-dimensions: ""
+dimensions: "2329x4000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

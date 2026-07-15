@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Figures Observe White-Haired Person
 collection: "unsorted"
 inferred_year: ""
 artist: "Lunarelles"
-dimensions: ""
+dimensions: "1754x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

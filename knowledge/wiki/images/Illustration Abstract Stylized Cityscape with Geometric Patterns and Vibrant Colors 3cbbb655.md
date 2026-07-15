@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Stylized Cityscape with Geomet
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3200x3200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

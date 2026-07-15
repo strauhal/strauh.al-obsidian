@@ -6,7 +6,7 @@ source_relpath: "1900s/composition_by_laszlo_moholy_nagy_1929.jpeg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "laszlo moholy nagy"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

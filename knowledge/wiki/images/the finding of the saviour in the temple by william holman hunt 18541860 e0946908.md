@@ -6,7 +6,7 @@ source_relpath: "1800s/the_finding_of_the_saviour_in_the_temple_by_william_holma
 collection: "1800s"
 inferred_year: "1800s"
 artist: "william holman hunt 18541860"
-dimensions: ""
+dimensions: "4000x2451"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

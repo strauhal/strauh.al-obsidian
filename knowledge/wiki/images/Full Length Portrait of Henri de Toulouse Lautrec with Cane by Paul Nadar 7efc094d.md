@@ -6,7 +6,7 @@ source_relpath: "photography/Full-Length Portrait of Henri de Toulouse-Lautrec w
 collection: "photography"
 inferred_year: ""
 artist: "Paul Nadar"
-dimensions: ""
+dimensions: "1072x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

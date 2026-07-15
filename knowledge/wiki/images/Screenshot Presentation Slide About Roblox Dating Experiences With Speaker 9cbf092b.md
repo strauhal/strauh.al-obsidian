@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Presentation Slide About Roblox Dating Ex
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1010x1012"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

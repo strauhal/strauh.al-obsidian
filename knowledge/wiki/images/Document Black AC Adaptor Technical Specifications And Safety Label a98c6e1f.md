@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Black AC Adaptor Technical Specifications A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "749x753"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

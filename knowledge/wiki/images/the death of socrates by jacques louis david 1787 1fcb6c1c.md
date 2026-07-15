@@ -6,7 +6,7 @@ source_relpath: "1700s/the_death_of_socrates_by_jacques_louis_david_1787.jpeg"
 collection: "1700s"
 inferred_year: "1787"
 artist: "jacques louis david"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

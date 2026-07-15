@@ -6,7 +6,7 @@ source_relpath: "1800s/four_dancers_by_edgar_degas_ca_1899.jpeg"
 collection: "1800s"
 inferred_year: "1899"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

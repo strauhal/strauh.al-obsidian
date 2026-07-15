@@ -6,7 +6,7 @@ source_relpath: "1900s/uzumaki_panel_depicting_the_spiral_phenomenon_by_junji_it
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

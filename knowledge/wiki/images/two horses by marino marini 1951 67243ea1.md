@@ -6,7 +6,7 @@ source_relpath: "1900s/two_horses_by_marino_marini_1951.jpeg"
 collection: "1900s"
 inferred_year: "1951"
 artist: "marino marini"
-dimensions: ""
+dimensions: "857x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

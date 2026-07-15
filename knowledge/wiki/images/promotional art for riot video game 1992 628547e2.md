@@ -6,7 +6,7 @@ source_relpath: "1900s/promotional_art_for_riot_video_game_1992.png"
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "1995x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

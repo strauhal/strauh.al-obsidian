@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Possible_Locations_of_Goya's_Black_Painting
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1179x1191"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

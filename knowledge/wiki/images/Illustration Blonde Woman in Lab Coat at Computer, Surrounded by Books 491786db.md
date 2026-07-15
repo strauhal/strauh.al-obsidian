@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blonde Woman in Lab Coat at Computer, S
 collection: "unsorted"
 inferred_year: ""
 artist: "Books"
-dimensions: ""
+dimensions: "1600x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/black_and_white_photograph_of_a_large_classical_building_
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: ""
+dimensions: "5556x2495"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

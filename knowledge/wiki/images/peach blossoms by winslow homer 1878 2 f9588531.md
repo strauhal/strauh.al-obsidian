@@ -6,7 +6,7 @@ source_relpath: "1800s/peach_blossoms_by_winslow_homer_1878_2.jpeg"
 collection: "1800s"
 inferred_year: "1878"
 artist: "winslow homer"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

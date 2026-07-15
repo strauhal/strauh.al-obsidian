@@ -6,7 +6,7 @@ source_relpath: "photography/Apotheosis of St Ignatius by Andrea Pozzo.jpg"
 collection: "photography"
 inferred_year: ""
 artist: "Andrea Pozzo"
-dimensions: ""
+dimensions: "2955x3940"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

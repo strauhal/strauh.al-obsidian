@@ -6,7 +6,7 @@ source_relpath: "photography/Hands on Laptop with Digital Audio Workstation Soft
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2880x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/photography/Hands on L
 - [[knowledge/wiki/works/Implicit Distance|Implicit Distance]] — shared language: audio
 - [[knowledge/wiki/maps/Map - Ernest Creative Profile|Map - Ernest Creative Profile]] — shared language: software, audio
 - [[knowledge/wiki/images/Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls 6ca2969e|Screenshot Soundscape Editor Digital Audio Workstation Interface with Waveforms and Controls]] — shared language: workstation, audio, digital
-- [[knowledge/wiki/images/Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard ed040387|Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard]] — shared language: audio, software, digital
+- [[knowledge/wiki/images/Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard ed040387|Screenshot Digital Audio Synthesizer Software Interface With Waveforms And Keyboard]] — shared language: software, audio, digital
 <!-- vault-crosslinks:end -->

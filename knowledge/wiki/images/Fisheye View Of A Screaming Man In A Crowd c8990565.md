@@ -6,7 +6,7 @@ source_relpath: "photography/Fisheye View Of A Screaming Man In A Crowd.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "572x704"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

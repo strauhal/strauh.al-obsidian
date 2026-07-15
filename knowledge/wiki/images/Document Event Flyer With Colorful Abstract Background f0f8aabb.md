@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Event Flyer With Colorful Abstract Backgrou
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1800x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

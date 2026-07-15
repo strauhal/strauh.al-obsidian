@@ -6,7 +6,7 @@ source_relpath: "1900s/The Dream of the Architect by Franklin Booth (1912).jpg"
 collection: "1900s"
 inferred_year: "1912"
 artist: ""
-dimensions: ""
+dimensions: "989x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

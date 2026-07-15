@@ -6,7 +6,7 @@ source_relpath: "artists/moebius/hires-moebius-voyagehermes-1.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1879x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

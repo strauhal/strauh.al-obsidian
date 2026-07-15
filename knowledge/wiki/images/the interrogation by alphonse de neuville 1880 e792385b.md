@@ -6,7 +6,7 @@ source_relpath: "1800s/the_interrogation_by_alphonse_de_neuville_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "alphonse de neuville"
-dimensions: ""
+dimensions: "3811x2532"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

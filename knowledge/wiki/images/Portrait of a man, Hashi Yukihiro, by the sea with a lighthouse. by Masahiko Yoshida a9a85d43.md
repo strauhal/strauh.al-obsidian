@@ -6,7 +6,7 @@ source_relpath: "photography/Portrait of a man, Hashi Yukihiro, by the sea with 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "810x1012"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/matte_painting_for_black_narcissus_by_w_percy_day_1947.pn
 collection: "1900s"
 inferred_year: "1947"
 artist: "w percy day"
-dimensions: ""
+dimensions: "1500x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/italian_movie_poster_for_la_pantera_rosa_1963.jpeg"
 collection: "1900s"
 inferred_year: "1963"
 artist: ""
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Front_View_Diagram_of_Multiple_Screens_in_a_Perspectiv
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1486x1070"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagrams_Illustrating_Image_Generation_Model_Poisoning
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1535x897"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

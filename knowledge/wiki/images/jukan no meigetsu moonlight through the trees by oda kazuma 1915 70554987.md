@@ -6,7 +6,7 @@ source_relpath: "1900s/jukan_no_meigetsu_moonlight_through_the_trees_by_oda_kazu
 collection: "1900s"
 inferred_year: "1915"
 artist: "oda kazuma"
-dimensions: ""
+dimensions: "736x1022"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/White Men Can't Rap (1992).jpg"
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "400x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

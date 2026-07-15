@@ -6,7 +6,7 @@ source_relpath: "1800s/The Hanging Gardens of Babylon by Ferdinand Knab (c. 1880
 collection: "1800s"
 inferred_year: "1880"
 artist: ""
-dimensions: ""
+dimensions: "800x528"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

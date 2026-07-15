@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Chibi Character Surrounded By Weapon Icons
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Weapon Icons In Dark Street"
-dimensions: ""
+dimensions: "1029x1011"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

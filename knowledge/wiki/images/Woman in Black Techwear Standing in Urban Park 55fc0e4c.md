@@ -6,7 +6,7 @@ source_relpath: "photography/Woman in Black Techwear Standing in Urban Park.jpeg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x2500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diary/zwon.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

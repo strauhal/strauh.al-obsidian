@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two-Panel Comic About Videoconference And Coff
 collection: "unsorted"
 inferred_year: ""
 artist: "VOST"
-dimensions: ""
+dimensions: "684x855"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

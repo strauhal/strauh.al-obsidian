@@ -6,7 +6,7 @@ source_relpath: "1500s/the_expulsion_of_heliodorus_from_the_temple_by_raphael_15
 collection: "1500s"
 inferred_year: "1512"
 artist: "raphael"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

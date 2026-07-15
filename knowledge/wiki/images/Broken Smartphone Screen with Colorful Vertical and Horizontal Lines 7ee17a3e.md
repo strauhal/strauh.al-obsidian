@@ -6,7 +6,7 @@ source_relpath: "photography/Broken Smartphone Screen with Colorful Vertical and
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x2999"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

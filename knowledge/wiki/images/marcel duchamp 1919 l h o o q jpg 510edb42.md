@@ -6,7 +6,7 @@ source_relpath: "1900s/marcel_duchamp_1919_l_h_o_o_q_jpg.jpg"
 collection: "1900s"
 inferred_year: "1919"
 artist: ""
-dimensions: ""
+dimensions: "1742x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

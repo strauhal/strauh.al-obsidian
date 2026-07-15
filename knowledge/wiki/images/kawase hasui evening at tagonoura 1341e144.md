@@ -6,7 +6,7 @@ source_relpath: "artists/kawase_husui/kawase-hasui-evening-at-tagonoura.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1401x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Yantra Illustration of Rahu, Garuda, and a
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1092x1136"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

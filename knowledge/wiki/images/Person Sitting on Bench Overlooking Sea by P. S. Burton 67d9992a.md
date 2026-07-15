@@ -6,7 +6,7 @@ source_relpath: "photography/Person Sitting on Bench Overlooking Sea by P. S. Bu
 collection: "photography"
 inferred_year: ""
 artist: "P. S. Burton"
-dimensions: ""
+dimensions: "768x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Rough Digital Sketches of Anime-Style Fema
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "839x1038"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

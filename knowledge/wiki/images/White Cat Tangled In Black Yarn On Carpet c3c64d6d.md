@@ -6,7 +6,7 @@ source_relpath: "photography/White Cat Tangled In Black Yarn On Carpet.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1020x765"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

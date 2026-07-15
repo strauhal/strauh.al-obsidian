@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Man With Large Mustache Holdin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "449x563"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

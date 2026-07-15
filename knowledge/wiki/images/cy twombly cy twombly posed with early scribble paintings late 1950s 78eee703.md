@@ -6,7 +6,7 @@ source_relpath: "1900s/cy_twombly_cy_twombly_posed_with_early_scribble_paintings
 collection: "1900s"
 inferred_year: "1950"
 artist: ""
-dimensions: ""
+dimensions: "1064x1196"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

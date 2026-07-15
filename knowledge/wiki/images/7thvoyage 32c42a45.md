@@ -6,7 +6,7 @@ source_relpath: "wallpapers/7thvoyage.jpg"
 collection: "wallpapers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1024x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/wallpapers"]
 ---

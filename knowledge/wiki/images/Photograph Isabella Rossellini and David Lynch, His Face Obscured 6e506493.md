@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Isabella Rossellini and David Lynch, His Fac
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "481x599"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Man Standing Next To A Brown Cabin In A Forest.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "634x467"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

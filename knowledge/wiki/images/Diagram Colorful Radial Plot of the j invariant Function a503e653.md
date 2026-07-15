@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Colorful Radial Plot of the j-invariant Functio
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "947x704"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

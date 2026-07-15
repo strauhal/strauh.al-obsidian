@@ -6,7 +6,7 @@ source_relpath: "1900s/world_systems_analysis_by_mark_lombardi_1994.jpg"
 collection: "1900s"
 inferred_year: "1994"
 artist: "mark lombardi"
-dimensions: ""
+dimensions: "1231x822"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/LOSS_OF_LAND.jpg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1774x1074"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Instructional_Diagram_Showing_Human_Proportions_And_Fo
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "743x506"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

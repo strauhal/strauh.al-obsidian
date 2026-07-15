@@ -6,7 +6,7 @@ source_relpath: "diagrams/Comparison_of_Generated_Images_with_Deconvolution_Arti
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "744x255"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

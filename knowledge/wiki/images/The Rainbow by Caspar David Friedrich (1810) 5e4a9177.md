@@ -6,7 +6,7 @@ source_relpath: "1800s/The Rainbow by Caspar David Friedrich (1810).jpg"
 collection: "1800s"
 inferred_year: "1810"
 artist: ""
-dimensions: ""
+dimensions: "1800x1266"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

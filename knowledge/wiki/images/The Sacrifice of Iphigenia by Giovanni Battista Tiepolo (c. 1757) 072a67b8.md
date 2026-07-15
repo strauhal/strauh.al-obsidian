@@ -6,7 +6,7 @@ source_relpath: "1700s/The Sacrifice of Iphigenia by Giovanni Battista Tiepolo (
 collection: "1700s"
 inferred_year: "1757"
 artist: ""
-dimensions: ""
+dimensions: "4200x2710"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Saint Francis Expelling the Devils.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1117x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

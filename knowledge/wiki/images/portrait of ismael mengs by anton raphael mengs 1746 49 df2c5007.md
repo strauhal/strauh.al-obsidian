@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_ismael_mengs_by_anton_raphael_mengs_1746_49.j
 collection: "1700s"
 inferred_year: "1746"
 artist: "anton raphael mengs"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

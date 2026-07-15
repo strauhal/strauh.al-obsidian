@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Of Hyundai Car Rear With Illuminated Taill
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "829x829"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

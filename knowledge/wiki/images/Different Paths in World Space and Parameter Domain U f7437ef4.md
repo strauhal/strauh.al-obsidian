@@ -6,7 +6,7 @@ source_relpath: "diagrams/Different_Paths_in_World_Space_and_Parameter_Domain_U.
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1804x921"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

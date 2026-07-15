@@ -6,7 +6,7 @@ source_relpath: "1700s/the_triumph_of_venus_by_giovanni_battista_tiepolo_c_1743.
 collection: "1700s"
 inferred_year: "1743"
 artist: "giovanni battista tiepolo"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

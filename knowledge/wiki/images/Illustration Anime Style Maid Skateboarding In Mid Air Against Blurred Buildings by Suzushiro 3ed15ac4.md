@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime-Style Maid Skateboarding In Mid-A
 collection: "unsorted"
 inferred_year: ""
 artist: "Suzushiro"
-dimensions: ""
+dimensions: "1412x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

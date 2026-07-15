@@ -6,7 +6,7 @@ source_relpath: "1900s/1922_434_the_place_du_havre_paris_jpg.jpg"
 collection: "1900s"
 inferred_year: "1922"
 artist: ""
-dimensions: ""
+dimensions: "2747x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

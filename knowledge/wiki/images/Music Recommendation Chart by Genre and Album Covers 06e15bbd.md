@@ -6,7 +6,7 @@ source_relpath: "diagrams/Music_Recommendation_Chart_by_Genre_and_Album_Covers.j
 collection: "diagrams"
 inferred_year: ""
 artist: "Genre and Album Covers"
-dimensions: ""
+dimensions: "2313x5000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

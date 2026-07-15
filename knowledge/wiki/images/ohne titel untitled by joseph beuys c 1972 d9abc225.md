@@ -6,7 +6,7 @@ source_relpath: "1900s/ohne_titel_untitled_by_joseph_beuys_c_1972.jpeg"
 collection: "1900s"
 inferred_year: "1972"
 artist: "joseph beuys"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

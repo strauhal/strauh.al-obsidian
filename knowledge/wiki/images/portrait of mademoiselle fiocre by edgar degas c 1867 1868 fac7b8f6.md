@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_mademoiselle_fiocre_by_edgar_degas_c_1867_186
 collection: "1800s"
 inferred_year: "1868"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Person On Stage Holding Microphone Under Blue Light
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1439x1777"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

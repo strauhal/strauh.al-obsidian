@@ -6,7 +6,7 @@ source_relpath: "1900s/printed_text_on_a_cream_colored_page_including_the_name_m
 collection: "1900s"
 inferred_year: "1965"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

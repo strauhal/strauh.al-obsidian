@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Overhead View of Swimmer Submerged in Blue
 collection: "2000s"
 inferred_year: "2000s"
 artist: "David Hockney"
-dimensions: ""
+dimensions: "736x552"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Blender Software Interface Displaying Wir
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3000x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

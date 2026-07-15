@@ -6,7 +6,7 @@ source_relpath: "2000s/War Games by Petrina Ryan-Kleid (2008).png"
 collection: "2000s"
 inferred_year: "2008"
 artist: ""
-dimensions: ""
+dimensions: "686x686"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

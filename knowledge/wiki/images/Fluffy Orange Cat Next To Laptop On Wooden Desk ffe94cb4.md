@@ -6,7 +6,7 @@ source_relpath: "photography/Fluffy Orange Cat Next To Laptop On Wooden Desk.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x665"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

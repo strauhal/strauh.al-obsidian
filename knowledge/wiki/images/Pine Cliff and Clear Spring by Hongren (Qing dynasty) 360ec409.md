@@ -6,7 +6,7 @@ source_relpath: "2000s/Pine Cliff and Clear Spring by Hongren (Qing dynasty).jpe
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

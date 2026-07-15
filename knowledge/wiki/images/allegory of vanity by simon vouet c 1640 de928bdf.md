@@ -6,7 +6,7 @@ source_relpath: "1600s/allegory_of_vanity_by_simon_vouet_c_1640.jpg"
 collection: "1600s"
 inferred_year: "1640"
 artist: "simon vouet"
-dimensions: ""
+dimensions: "1260x1114"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

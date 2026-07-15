@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Line Drawing Of A Perso
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

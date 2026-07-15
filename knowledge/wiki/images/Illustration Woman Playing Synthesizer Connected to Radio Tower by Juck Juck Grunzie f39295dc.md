@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman Playing Synthesizer Connected to Rad
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Juck Juck Grunzie"
-dimensions: ""
+dimensions: "1080x1077"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

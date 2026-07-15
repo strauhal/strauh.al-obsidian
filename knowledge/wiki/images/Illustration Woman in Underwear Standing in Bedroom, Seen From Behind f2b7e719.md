@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Woman in Underwear Standing in Bedroom,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "749x558"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

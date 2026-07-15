@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Classical Exposition Building Across Water, 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Tree Foliage"
-dimensions: ""
+dimensions: "6801x5436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

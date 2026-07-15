@@ -6,7 +6,7 @@ source_relpath: "1900s/palazzo_della_civilta_italiana_by_giovanni_guerrini_ernes
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: ""
+dimensions: "1800x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/God Speed! by Edmund Blair Leighton (1900).jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "1024x1410"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

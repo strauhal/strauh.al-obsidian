@@ -6,7 +6,7 @@ source_relpath: "photography/Yves Saint Laurent at Christian Dior's Funeral.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x1094"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

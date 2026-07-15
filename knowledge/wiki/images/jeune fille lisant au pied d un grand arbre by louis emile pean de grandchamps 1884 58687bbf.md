@@ -6,7 +6,7 @@ source_relpath: "1800s/jeune_fille_lisant_au_pied_d_un_grand_arbre_by_louis_emil
 collection: "1800s"
 inferred_year: "1884"
 artist: "louis emile pean de grandchamps"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

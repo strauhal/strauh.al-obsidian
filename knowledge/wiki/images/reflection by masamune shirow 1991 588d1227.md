@@ -6,7 +6,7 @@ source_relpath: "1900s/reflection_by_masamune_shirow_1991.jpeg"
 collection: "1900s"
 inferred_year: "1991"
 artist: "masamune shirow"
-dimensions: ""
+dimensions: "624x968"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

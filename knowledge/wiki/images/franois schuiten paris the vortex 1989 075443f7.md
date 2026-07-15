@@ -6,7 +6,7 @@ source_relpath: "1900s/franois_schuiten_paris_the_vortex_1989.jpg"
 collection: "1900s"
 inferred_year: "1989"
 artist: ""
-dimensions: ""
+dimensions: "1435x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/red_square_by_konstantin_yuon_1926.jpeg"
 collection: "1900s"
 inferred_year: "1926"
 artist: "konstantin yuon"
-dimensions: ""
+dimensions: "735x608"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

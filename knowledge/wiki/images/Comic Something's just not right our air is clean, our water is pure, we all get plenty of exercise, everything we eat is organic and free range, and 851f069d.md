@@ -6,7 +6,7 @@ source_relpath: "2000s/Comic - Something's just not right—our air is clean, ou
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Alex"
-dimensions: ""
+dimensions: "519x390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

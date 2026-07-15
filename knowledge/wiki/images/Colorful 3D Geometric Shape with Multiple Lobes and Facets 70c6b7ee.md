@@ -6,7 +6,7 @@ source_relpath: "diagrams/Colorful_3D_Geometric_Shape_with_Multiple_Lobes_and_Fa
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1920x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Close-Up Of Teeth With Blue And White Porcelain D
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "673x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

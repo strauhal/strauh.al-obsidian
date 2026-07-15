@@ -6,7 +6,7 @@ source_relpath: "1900s/...And Stay Down! by Charles Keegan (1998).jpg"
 collection: "1900s"
 inferred_year: "1998"
 artist: ""
-dimensions: ""
+dimensions: "564x470"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

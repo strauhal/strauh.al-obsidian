@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Pink Flowers And A Yellow Butterfly On A Ma
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x1809"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

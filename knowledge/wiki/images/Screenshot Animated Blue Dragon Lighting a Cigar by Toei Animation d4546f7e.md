@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Animated Blue Dragon Lighting a Cigar by 
 collection: "unsorted"
 inferred_year: ""
 artist: "Toei Animation"
-dimensions: ""
+dimensions: "600x450"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

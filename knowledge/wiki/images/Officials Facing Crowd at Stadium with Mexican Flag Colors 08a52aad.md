@@ -6,7 +6,7 @@ source_relpath: "photography/Officials Facing Crowd at Stadium with Mexican Flag
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1064x710"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/minotaure_aveugle_guide_par_une_fillette_iii_by_pablo_pic
 collection: "1900s"
 inferred_year: "1934"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

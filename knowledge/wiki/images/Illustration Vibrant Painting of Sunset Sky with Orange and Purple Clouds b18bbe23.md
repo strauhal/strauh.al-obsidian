@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Vibrant Painting of Sunset Sky with Ora
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "903x905"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

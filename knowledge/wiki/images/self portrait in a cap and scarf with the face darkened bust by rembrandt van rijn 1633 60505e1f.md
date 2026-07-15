@@ -6,7 +6,7 @@ source_relpath: "1600s/self_portrait_in_a_cap_and_scarf_with_the_face_darkened_b
 collection: "1600s"
 inferred_year: "1633"
 artist: "rembrandt van rijn"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

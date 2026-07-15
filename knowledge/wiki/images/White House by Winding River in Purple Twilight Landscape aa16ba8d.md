@@ -6,7 +6,7 @@ source_relpath: "photography/White House by Winding River in Purple Twilight Lan
 collection: "photography"
 inferred_year: ""
 artist: "Winding River in Purple Twilight Landscape"
-dimensions: ""
+dimensions: "2048x1543"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

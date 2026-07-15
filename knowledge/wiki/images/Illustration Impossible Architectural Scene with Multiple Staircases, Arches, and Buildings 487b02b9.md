@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impossible Architectural Scene with Mul
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "853x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Girl Asuka in Red Plugsuit on Mec
 collection: "unsorted"
 inferred_year: ""
 artist: "Yoshiyuki Sadamoto"
-dimensions: ""
+dimensions: "3912x3884"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

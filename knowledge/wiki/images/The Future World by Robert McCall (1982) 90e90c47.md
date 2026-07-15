@@ -6,7 +6,7 @@ source_relpath: "1900s/The Future World by Robert McCall (1982).jpeg"
 collection: "1900s"
 inferred_year: "1982"
 artist: ""
-dimensions: ""
+dimensions: "564x423"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/when_i_grow_up_i_want_to_be_a_radical_terrorist_calvin_an
 collection: "1900s"
 inferred_year: "1986"
 artist: "bill watterson"
-dimensions: ""
+dimensions: "1549x2038"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

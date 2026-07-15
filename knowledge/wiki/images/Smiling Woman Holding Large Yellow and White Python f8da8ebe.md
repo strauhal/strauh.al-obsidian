@@ -6,7 +6,7 @@ source_relpath: "photography/Smiling Woman Holding Large Yellow and White Python
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x905"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

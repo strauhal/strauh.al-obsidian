@@ -6,7 +6,7 @@ source_relpath: "1900s/the_music_by_pavel_tchelitchew_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "pavel tchelitchew"
-dimensions: ""
+dimensions: "924x987"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

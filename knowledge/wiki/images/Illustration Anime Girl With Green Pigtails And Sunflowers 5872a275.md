@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Anime Girl With Green Pigtails And Sunf
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1256x1674"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

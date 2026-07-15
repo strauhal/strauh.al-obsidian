@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - White Text on Orange Textured Background with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

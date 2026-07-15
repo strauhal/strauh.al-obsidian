@@ -6,7 +6,7 @@ source_relpath: "2000s/Egg Chair Siamese by Ann Mika (2010).jpg"
 collection: "2000s"
 inferred_year: "2010"
 artist: ""
-dimensions: ""
+dimensions: "686x950"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

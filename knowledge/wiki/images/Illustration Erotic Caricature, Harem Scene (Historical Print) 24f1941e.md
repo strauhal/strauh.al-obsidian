@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Erotic Caricature, Harem Scene (Histori
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1025"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

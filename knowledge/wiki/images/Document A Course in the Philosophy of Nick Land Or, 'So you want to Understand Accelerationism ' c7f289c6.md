@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - A Course in the Philosophy of Nick Land Or,
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

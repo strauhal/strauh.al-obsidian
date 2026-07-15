@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - The New Citroën 2CV Dolly.jpg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1066x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---
@@ -29,5 +29,5 @@ Original path: `/Users/erneststrauhal/GitHub/strauh.al3.1/unsorted/Illustration 
 - [[knowledge/wiki/people/Wassily Kandinsky|Wassily Kandinsky]] — shared language: new
 - [[knowledge/wiki/maps/Library - Politics and Society|Library - Politics and Society]] — shared language: new
 - [[knowledge/wiki/books/james-gleick-chaos-making-a-new-science|Chaos Making a New Science]] — shared language: new
-- [[knowledge/wiki/books/jasbir-k-puar-bodies-with-new-organs|Bodies with New Organs]] — shared language: new
+- [[knowledge/wiki/anchors/new-mexico|new mexico]] — shared language: new
 <!-- vault-crosslinks:end -->

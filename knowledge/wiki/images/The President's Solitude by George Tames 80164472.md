@@ -6,7 +6,7 @@ source_relpath: "photography/The President's Solitude by George Tames.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: "George Tames"
-dimensions: ""
+dimensions: "932x716"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

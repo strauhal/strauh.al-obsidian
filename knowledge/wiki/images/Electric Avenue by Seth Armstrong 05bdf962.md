@@ -6,7 +6,7 @@ source_relpath: "2000s/Electric Avenue by Seth Armstrong.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Seth Armstrong"
-dimensions: ""
+dimensions: "1600x2140"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

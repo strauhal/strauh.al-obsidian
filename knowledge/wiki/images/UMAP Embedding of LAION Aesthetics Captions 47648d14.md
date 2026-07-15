@@ -6,7 +6,7 @@ source_relpath: "diagrams/UMAP_Embedding_of_LAION-Aesthetics_Captions.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x1163"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

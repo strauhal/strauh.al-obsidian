@@ -6,7 +6,7 @@ source_relpath: "1900s/mountain_landscape_by_nikolay_krymov_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "nikolay krymov"
-dimensions: ""
+dimensions: "2500x1839"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

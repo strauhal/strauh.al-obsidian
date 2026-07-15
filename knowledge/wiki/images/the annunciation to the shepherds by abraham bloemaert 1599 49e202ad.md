@@ -6,7 +6,7 @@ source_relpath: "1500s/the_annunciation_to_the_shepherds_by_abraham_bloemaert_15
 collection: "1500s"
 inferred_year: "1599"
 artist: "abraham bloemaert"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

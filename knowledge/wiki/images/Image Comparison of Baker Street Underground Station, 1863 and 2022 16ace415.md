@@ -6,7 +6,7 @@ source_relpath: "unsorted/Image - Comparison of Baker Street Underground Station
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1170x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

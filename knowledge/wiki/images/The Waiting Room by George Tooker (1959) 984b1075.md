@@ -6,7 +6,7 @@ source_relpath: "1900s/The Waiting Room by George Tooker (1959).jpg"
 collection: "1900s"
 inferred_year: "1959"
 artist: ""
-dimensions: ""
+dimensions: "2048x1615"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Portrait of Hooded Figure Smoking with Swi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "915x1205"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

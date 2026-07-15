@@ -9,8 +9,8 @@ metadata: curated
 aliases: [Intro-Tibetan-Buddhism-John-Powers 2]
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Intro-Tibetan-Buddhism-John-Powers 2.pdf"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Introduction to Tibetan Buddhism

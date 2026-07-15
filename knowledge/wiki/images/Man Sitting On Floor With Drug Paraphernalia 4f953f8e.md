@@ -6,7 +6,7 @@ source_relpath: "photography/Man Sitting On Floor With Drug Paraphernalia.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "638x658"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

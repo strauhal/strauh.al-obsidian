@@ -2,8 +2,8 @@
 title: Library - Philosophy
 type: map
 tags: [map, library, books]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Library - Philosophy

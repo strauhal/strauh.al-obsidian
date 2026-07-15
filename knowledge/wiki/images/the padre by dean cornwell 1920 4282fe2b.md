@@ -6,7 +6,7 @@ source_relpath: "1900s/the_padre_by_dean_cornwell_1920.jpg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "dean cornwell"
-dimensions: ""
+dimensions: "3000x2637"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

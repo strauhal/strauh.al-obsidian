@@ -6,7 +6,7 @@ source_relpath: "photography/Escalator Structure on a Steep Overgrown Hillside.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Pencil Sketches of Various Pig Cha
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2267x3090"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

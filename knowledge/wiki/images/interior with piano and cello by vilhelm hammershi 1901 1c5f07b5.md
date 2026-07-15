@@ -6,7 +6,7 @@ source_relpath: "1900s/interior_with_piano_and_cello_by_vilhelm_hammershi_1901.j
 collection: "1900s"
 inferred_year: "1901"
 artist: "vilhelm hammershi"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

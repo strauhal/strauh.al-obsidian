@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Concept Art of a Wheel-Shaped Space Sta
 collection: "unsorted"
 inferred_year: ""
 artist: "Orbital Assembly Corporation"
-dimensions: ""
+dimensions: "1199x795"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

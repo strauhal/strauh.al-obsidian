@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Line Drawing Of Person With Glasses Hol
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1187x1422"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

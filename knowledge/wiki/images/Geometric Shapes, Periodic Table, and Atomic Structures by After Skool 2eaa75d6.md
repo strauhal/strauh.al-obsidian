@@ -6,7 +6,7 @@ source_relpath: "diagrams/Geometric_Shapes,_Periodic_Table,_and_Atomic_Structure
 collection: "diagrams"
 inferred_year: ""
 artist: "After Skool"
-dimensions: ""
+dimensions: "3360x2100"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

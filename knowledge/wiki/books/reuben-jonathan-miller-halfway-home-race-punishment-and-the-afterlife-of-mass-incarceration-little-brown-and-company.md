@@ -8,8 +8,8 @@ status: available-local
 metadata: auto
 source_path: "/Users/erneststrauhal/Library/Mobile Documents/com~apple~CloudDocs/Readings/Reuben Jonathan Miller - Halfway Home_ Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company (2021).epub"
 sources: ["[[books]]"]
-created: 2026-07-08
-updated: 2026-07-08
+created: 2026-07-10
+updated: 2026-07-10
 ---
 
 # Halfway Home Race, Punishment, and the Afterlife of Mass Incarceration-Little, Brown and Company

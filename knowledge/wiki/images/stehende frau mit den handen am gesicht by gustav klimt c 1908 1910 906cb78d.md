@@ -6,7 +6,7 @@ source_relpath: "1900s/stehende_frau_mit_den_handen_am_gesicht_by_gustav_klimt_c
 collection: "1900s"
 inferred_year: "1910"
 artist: "gustav klimt"
-dimensions: ""
+dimensions: "2268x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

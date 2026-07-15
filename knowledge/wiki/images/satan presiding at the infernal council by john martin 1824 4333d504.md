@@ -6,7 +6,7 @@ source_relpath: "1800s/satan_presiding_at_the_infernal_council_by_john_martin_18
 collection: "1800s"
 inferred_year: "1824"
 artist: "john martin"
-dimensions: ""
+dimensions: "1600x1106"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

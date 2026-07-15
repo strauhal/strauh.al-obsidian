@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Bald Figure Shouting 'Don't Shoot!' From Insid
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x428"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

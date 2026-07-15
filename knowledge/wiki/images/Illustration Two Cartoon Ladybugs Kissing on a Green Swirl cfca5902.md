@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Two Cartoon Ladybugs Kissing on a Green
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1169x597"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

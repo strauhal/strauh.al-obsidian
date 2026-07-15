@@ -6,7 +6,7 @@ source_relpath: "photography/Woman In White Dress In Wooded Clearing Near Struct
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "992x557"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

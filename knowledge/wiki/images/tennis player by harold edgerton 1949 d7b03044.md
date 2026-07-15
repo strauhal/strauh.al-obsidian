@@ -6,7 +6,7 @@ source_relpath: "1900s/tennis_player_by_harold_edgerton_1949.jpg"
 collection: "1900s"
 inferred_year: "1949"
 artist: "harold edgerton"
-dimensions: ""
+dimensions: "640x422"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

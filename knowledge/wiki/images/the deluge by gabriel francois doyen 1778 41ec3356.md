@@ -6,7 +6,7 @@ source_relpath: "1700s/the_deluge_by_gabriel_francois_doyen_1778.jpeg"
 collection: "1700s"
 inferred_year: "1778"
 artist: "gabriel francois doyen"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

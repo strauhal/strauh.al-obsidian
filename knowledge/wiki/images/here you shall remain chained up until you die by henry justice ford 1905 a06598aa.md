@@ -6,7 +6,7 @@ source_relpath: "1900s/here_you_shall_remain_chained_up_until_you_die_by_henry_j
 collection: "1900s"
 inferred_year: "1905"
 artist: "henry justice ford"
-dimensions: ""
+dimensions: "736x1231"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/voutes_et_coupoles_syrie_et_asie_mineure_damas_et_nicee_p
 collection: "1800s"
 inferred_year: "1899"
 artist: "auguste choisy"
-dimensions: ""
+dimensions: "1102x1572"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/The Boxer by Edvard Munch (1909-1918).jpeg"
 collection: "1900s"
 inferred_year: "1918"
 artist: ""
-dimensions: ""
+dimensions: "1549x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

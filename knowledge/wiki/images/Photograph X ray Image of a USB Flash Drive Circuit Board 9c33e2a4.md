@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - X-ray Image of a USB Flash Drive Circuit Boa
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "680x289"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_great_red_dragon_and_the_woman_clothed_with_the_sun_b
 collection: "1800s"
 inferred_year: "1805"
 artist: "william blake"
-dimensions: ""
+dimensions: "1280x1614"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

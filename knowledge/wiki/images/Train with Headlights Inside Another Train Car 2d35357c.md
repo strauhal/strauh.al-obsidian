@@ -6,7 +6,7 @@ source_relpath: "photography/Train with Headlights Inside Another Train Car.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1290x1116"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

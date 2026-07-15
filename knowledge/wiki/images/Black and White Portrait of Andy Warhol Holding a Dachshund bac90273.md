@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Portrait of Andy Warhol Holding a D
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3496x2437"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

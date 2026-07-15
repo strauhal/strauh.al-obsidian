@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Numbers 1-7 Using Vertical Lin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1400x958"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

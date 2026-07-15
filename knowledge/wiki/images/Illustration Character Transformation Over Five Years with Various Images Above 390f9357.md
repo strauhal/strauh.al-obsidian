@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Character Transformation Over Five Year
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x698"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

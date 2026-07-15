@@ -6,7 +6,7 @@ source_relpath: "1900s/the_spirit_of_the_ancient_oak_by_maxfield_parrish_1920.jp
 collection: "1900s"
 inferred_year: "1920"
 artist: "maxfield parrish"
-dimensions: ""
+dimensions: "1427x843"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

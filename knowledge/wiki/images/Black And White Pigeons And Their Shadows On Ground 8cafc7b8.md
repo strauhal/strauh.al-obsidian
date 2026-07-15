@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Pigeons And Their Shadows On Ground
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x525"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

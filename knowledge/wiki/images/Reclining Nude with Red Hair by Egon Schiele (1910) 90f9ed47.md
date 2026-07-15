@@ -6,7 +6,7 @@ source_relpath: "1900s/Reclining Nude with Red Hair by Egon Schiele (1910).jpeg"
 collection: "1900s"
 inferred_year: "1910"
 artist: ""
-dimensions: ""
+dimensions: "932x1599"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

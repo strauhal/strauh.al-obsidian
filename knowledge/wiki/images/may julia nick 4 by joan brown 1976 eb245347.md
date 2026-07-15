@@ -6,7 +6,7 @@ source_relpath: "1900s/may_julia_nick_4_by_joan_brown_1976.jpeg"
 collection: "1900s"
 inferred_year: "1976"
 artist: "joan brown"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

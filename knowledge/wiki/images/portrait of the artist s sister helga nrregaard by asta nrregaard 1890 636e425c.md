@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_the_artist_s_sister_helga_nrregaard_by_asta_n
 collection: "1800s"
 inferred_year: "1890"
 artist: "asta nrregaard"
-dimensions: ""
+dimensions: "1280x1847"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

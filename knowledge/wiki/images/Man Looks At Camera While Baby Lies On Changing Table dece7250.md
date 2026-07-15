@@ -6,7 +6,7 @@ source_relpath: "photography/Man Looks At Camera While Baby Lies On Changing Tab
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x823"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

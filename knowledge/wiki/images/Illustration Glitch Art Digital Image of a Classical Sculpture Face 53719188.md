@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Glitch Art Digital Image of a Classical Sc
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1440x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

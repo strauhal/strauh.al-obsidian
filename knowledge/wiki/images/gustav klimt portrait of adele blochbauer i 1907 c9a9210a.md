@@ -6,7 +6,7 @@ source_relpath: "1900s/gustav_klimt_portrait_of_adele_blochbauer_i_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: ""
+dimensions: "1415x1416"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

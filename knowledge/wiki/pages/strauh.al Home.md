@@ -4,7 +4,7 @@ source_kind: "html"
 source_file: "/Users/erneststrauhal/GitHub/strauh.al4/index.html"
 source_relpath: "index.html"
 compiled: "True"
-compiled_at: "2026-07-08T23:12:51"
+compiled_at: "2026-07-15T01:26:40"
 tags: ["strauhal", "source/html"]
 ---
 # strauh.al Home
@@ -35,6 +35,8 @@ strauh.al
 
 ### [/2000s](https://strauh.al/art#2000s)
 
+## [/photography](https://strauh.al/photography)
+
 ## [/brain](https://strauh.al/brain)
 
 ## [/3d_scans](https://strauh.al/3d_scans)
@@ -46,8 +48,6 @@ strauh.al
 ## [/random_quote](https://strauh.al/random_quote)
 
 ## [/draw_for_me](https://strauh.al/draw_for_me)
-
-## [/photography](https://strauh.al/photography)
 
 ## [/diagrams](https://strauh.al/diagrams)
 

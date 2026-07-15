@@ -6,7 +6,7 @@ source_relpath: "1500s/sistine_ceiling_fresco_in_the_sistine_chapel_by_michelang
 collection: "1500s"
 inferred_year: "1500s"
 artist: "michelangelo 15081512"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

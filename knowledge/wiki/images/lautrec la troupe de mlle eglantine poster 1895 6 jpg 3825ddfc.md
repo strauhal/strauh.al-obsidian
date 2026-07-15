@@ -6,7 +6,7 @@ source_relpath: "1800s/lautrec_la_troupe_de_mlle_eglantine_poster_1895_6_jpg.jpg
 collection: "1800s"
 inferred_year: "1895"
 artist: ""
-dimensions: ""
+dimensions: "1789x1357"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

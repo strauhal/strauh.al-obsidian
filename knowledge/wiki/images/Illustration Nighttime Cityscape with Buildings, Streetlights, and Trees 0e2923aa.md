@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Nighttime Cityscape with Buildings, Str
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x893"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

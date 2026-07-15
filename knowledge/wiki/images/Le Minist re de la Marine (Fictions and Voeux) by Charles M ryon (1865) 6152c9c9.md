@@ -6,7 +6,7 @@ source_relpath: "2000s/Le Ministère de la Marine (Fictions & Voeux) by Charles 
 collection: "2000s"
 inferred_year: "1865"
 artist: ""
-dimensions: ""
+dimensions: "2379x2639"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

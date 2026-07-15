@@ -6,7 +6,7 @@ source_relpath: "1800s/john_atkinson_grimshaw_liverpool_quay_by_moonlight_c_1887
 collection: "1800s"
 inferred_year: "1887"
 artist: "moonlight"
-dimensions: ""
+dimensions: "2000x1189"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

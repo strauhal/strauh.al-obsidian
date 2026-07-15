@@ -6,7 +6,7 @@ source_relpath: "photography/Person's Wrist Wearing Bracelet With Tech Logos.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

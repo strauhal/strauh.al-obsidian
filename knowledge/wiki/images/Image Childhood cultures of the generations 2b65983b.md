@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Childhood cultures of the generations.png"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1290x3253"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

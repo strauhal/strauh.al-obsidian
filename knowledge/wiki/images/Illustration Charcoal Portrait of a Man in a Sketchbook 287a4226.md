@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Charcoal Portrait of a Man in a Sketchb
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1416x1772"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

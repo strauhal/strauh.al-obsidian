@@ -6,7 +6,7 @@ source_relpath: "1900s/page_169_from_the_volume_geographische_und_allgmeine_heft
 collection: "1900s"
 inferred_year: "1900s"
 artist: "adolf wolfli"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

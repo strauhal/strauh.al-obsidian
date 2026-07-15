@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Nude Figures in Circular and M
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

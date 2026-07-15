@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Red Car and Motorcycle Facing Mount St. Hele
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Richard Lasher"
-dimensions: ""
+dimensions: "1586x2022"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

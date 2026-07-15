@@ -6,7 +6,7 @@ source_relpath: "1900s/Pine Trees at Omiya Hikawa Park by Kawase Hasui (1929).jp
 collection: "1900s"
 inferred_year: "1929"
 artist: ""
-dimensions: ""
+dimensions: "1278x1919"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

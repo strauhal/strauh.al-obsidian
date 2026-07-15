@@ -6,7 +6,7 @@ source_relpath: "1800s/moulin_de_la_galette_by_henri_de_toulouse_lautrec_1889.jp
 collection: "1800s"
 inferred_year: "1889"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

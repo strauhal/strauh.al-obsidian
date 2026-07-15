@@ -6,7 +6,7 @@ source_relpath: "1800s/love_and_the_maidens_by_john_roddam_spencer_stanhope_1877
 collection: "1800s"
 inferred_year: "1877"
 artist: "john roddam spencer stanhope"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

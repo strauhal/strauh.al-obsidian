@@ -6,7 +6,7 @@ source_relpath: "photography/Person Standing on Icy Road in Snowy Mountain Lands
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "948x1263"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

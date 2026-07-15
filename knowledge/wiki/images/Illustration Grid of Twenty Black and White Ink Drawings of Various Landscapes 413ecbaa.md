@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Grid of Twenty Black and White Ink Drawing
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2000x1289"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Reverberant Checkers (2023).jpg"
 collection: "2000s"
 inferred_year: "2023"
 artist: ""
-dimensions: ""
+dimensions: "2100x2545"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

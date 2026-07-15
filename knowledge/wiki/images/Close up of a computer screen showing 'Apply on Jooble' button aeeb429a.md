@@ -6,7 +6,7 @@ source_relpath: "photography/Close-up of a computer screen showing 'Apply on Joo
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

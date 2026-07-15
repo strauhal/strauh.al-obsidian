@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Headshot Of A Young Man Wearing Glasses.p
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "484x336"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

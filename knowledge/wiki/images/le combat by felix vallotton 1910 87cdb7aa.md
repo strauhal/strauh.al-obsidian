@@ -6,7 +6,7 @@ source_relpath: "1900s/le_combat_by_felix_vallotton_1910.jpg"
 collection: "1900s"
 inferred_year: "1910"
 artist: "felix vallotton"
-dimensions: ""
+dimensions: "2048x1490"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1500s/studies_of_nude_figures_and_a_rearing_horse_by_leonardo_d
 collection: "1500s"
 inferred_year: "1503"
 artist: "leonardo da vinci"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

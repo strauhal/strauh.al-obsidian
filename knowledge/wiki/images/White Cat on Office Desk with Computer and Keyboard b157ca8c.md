@@ -6,7 +6,7 @@ source_relpath: "photography/White Cat on Office Desk with Computer and Keyboard
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "675x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

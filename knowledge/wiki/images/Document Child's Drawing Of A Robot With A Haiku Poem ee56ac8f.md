@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Child's Drawing Of A Robot With A Haiku Poe
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "600x450"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

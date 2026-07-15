@@ -6,7 +6,7 @@ source_relpath: "1900s/embracing_couple_by_gustav_klimt_c_19071908.jpeg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: "gustav klimt"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diagrams/Quantum_Circuit_Diagram_with_Gates_U0_and_Ok,i_and_Mat
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1395x753"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

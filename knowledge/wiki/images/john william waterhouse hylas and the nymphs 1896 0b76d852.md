@@ -6,7 +6,7 @@ source_relpath: "1800s/john_william_waterhouse_hylas_and_the_nymphs_1896.jpg"
 collection: "1800s"
 inferred_year: "1896"
 artist: ""
-dimensions: ""
+dimensions: "5507x3304"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

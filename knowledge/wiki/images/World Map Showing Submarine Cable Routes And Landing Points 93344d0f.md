@@ -6,7 +6,7 @@ source_relpath: "diagrams/World_Map_Showing_Submarine_Cable_Routes_And_Landing_P
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

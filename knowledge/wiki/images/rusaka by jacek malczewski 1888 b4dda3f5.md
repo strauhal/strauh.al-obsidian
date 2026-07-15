@@ -6,7 +6,7 @@ source_relpath: "1800s/rusaka_by_jacek_malczewski_1888.jpg"
 collection: "1800s"
 inferred_year: "1888"
 artist: "jacek malczewski"
-dimensions: ""
+dimensions: "1200x1113"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

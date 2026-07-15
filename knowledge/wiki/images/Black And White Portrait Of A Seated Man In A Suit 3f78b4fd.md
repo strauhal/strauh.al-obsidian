@@ -6,7 +6,7 @@ source_relpath: "photography/Black And White Portrait Of A Seated Man In A Suit.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "411x379"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

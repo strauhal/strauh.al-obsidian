@@ -6,7 +6,7 @@ source_relpath: "1700s/Allegory of the Planets and Continents by Giovanni Battis
 collection: "1700s"
 inferred_year: "1752"
 artist: ""
-dimensions: ""
+dimensions: "2057x2725"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

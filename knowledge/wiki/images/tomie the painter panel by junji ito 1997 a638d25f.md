@@ -6,7 +6,7 @@ source_relpath: "1900s/tomie_the_painter_panel_by_junji_ito_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

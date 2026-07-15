@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Purple Robot Emerging From Giant Eye by
 collection: "unsorted"
 inferred_year: ""
 artist: "Hideaki Anno"
-dimensions: ""
+dimensions: "2048x1147"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

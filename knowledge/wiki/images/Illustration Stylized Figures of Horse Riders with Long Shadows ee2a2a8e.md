@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stylized Figures of Horse Riders with L
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3024x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

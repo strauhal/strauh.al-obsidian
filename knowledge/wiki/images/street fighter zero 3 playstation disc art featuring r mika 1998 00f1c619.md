@@ -6,7 +6,7 @@ source_relpath: "1900s/street_fighter_zero_3_playstation_disc_art_featuring_r_mi
 collection: "1900s"
 inferred_year: "1998"
 artist: ""
-dimensions: ""
+dimensions: "850x850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

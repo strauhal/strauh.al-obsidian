@@ -6,7 +6,7 @@ source_relpath: "1800s/tete_de_chardon_thistle_head_by_odilon_redon_c_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "odilon redon"
-dimensions: ""
+dimensions: "1621x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

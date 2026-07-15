@@ -6,7 +6,7 @@ source_relpath: "1800s/kveld_ved_kysten_evening_on_the_coast_by_amaldus_nielsen_
 collection: "1800s"
 inferred_year: "1878"
 artist: "amaldus nielsen"
-dimensions: ""
+dimensions: "3793x2239"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

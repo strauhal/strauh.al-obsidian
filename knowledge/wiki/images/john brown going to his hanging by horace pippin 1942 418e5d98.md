@@ -6,7 +6,7 @@ source_relpath: "1900s/john_brown_going_to_his_hanging_by_horace_pippin_1942.jpe
 collection: "1900s"
 inferred_year: "1942"
 artist: "horace pippin"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

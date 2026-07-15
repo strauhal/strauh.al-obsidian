@@ -6,7 +6,7 @@ source_relpath: "1600s/head_of_an_old_man_with_curly_hair_looking_down_bust_by_r
 collection: "1600s"
 inferred_year: "1630"
 artist: "rembrandt van rijn"
-dimensions: ""
+dimensions: "1102x1280"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

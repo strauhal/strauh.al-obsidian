@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Vibrant Flower Garden With Pink And Yellow
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2411x1940"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

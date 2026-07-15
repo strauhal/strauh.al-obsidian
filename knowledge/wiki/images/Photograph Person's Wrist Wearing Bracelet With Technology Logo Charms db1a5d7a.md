@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Person's Wrist Wearing Bracelet With Technol
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2000x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

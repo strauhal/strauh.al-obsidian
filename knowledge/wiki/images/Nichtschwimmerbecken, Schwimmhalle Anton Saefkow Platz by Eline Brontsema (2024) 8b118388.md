@@ -6,7 +6,7 @@ source_relpath: "2000s/Nichtschwimmerbecken, Schwimmhalle Anton Saefkow-Platz by
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: ""
+dimensions: "2048x1765"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

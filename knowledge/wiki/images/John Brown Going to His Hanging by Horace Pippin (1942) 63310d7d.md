@@ -6,7 +6,7 @@ source_relpath: "1900s/John Brown Going to His Hanging by Horace Pippin (1942).j
 collection: "1900s"
 inferred_year: "1942"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

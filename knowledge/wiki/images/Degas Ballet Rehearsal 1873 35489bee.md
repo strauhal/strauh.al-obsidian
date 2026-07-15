@@ -6,7 +6,7 @@ source_relpath: "artists/degas/Degas-Ballet-Rehearsal-1873.jpg"
 collection: "artists"
 inferred_year: "1873"
 artist: ""
-dimensions: ""
+dimensions: "1280x989"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

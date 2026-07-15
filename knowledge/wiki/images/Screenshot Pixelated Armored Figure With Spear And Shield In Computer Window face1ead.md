@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Pixelated Armored Figure With Spear And S
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1930x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

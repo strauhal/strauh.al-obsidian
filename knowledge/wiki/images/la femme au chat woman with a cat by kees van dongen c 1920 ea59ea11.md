@@ -6,7 +6,7 @@ source_relpath: "1900s/la_femme_au_chat_woman_with_a_cat_by_kees_van_dongen_c_19
 collection: "1900s"
 inferred_year: "1920"
 artist: "kees van dongen"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

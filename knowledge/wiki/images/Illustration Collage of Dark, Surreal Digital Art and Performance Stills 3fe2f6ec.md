@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Collage of Dark, Surreal Digital Art an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

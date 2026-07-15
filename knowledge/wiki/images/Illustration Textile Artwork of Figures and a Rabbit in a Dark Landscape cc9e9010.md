@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Textile Artwork of Figures and a Rabbit in
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1440x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

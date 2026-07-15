@@ -6,7 +6,7 @@ source_relpath: "1900s/natura_morta_con_sei_oggetti_still_life_with_six_objects_
 collection: "1900s"
 inferred_year: "1930"
 artist: "giorgio morandi"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

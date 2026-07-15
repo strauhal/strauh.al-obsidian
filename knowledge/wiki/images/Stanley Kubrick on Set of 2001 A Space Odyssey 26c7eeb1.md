@@ -6,7 +6,7 @@ source_relpath: "photography/Stanley Kubrick on Set of 2001: A Space Odyssey.jpg
 collection: "photography"
 inferred_year: "2001"
 artist: ""
-dimensions: ""
+dimensions: "704x1063"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

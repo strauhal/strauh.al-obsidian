@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Figures, Animals, and Patterns in
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Marcel Dzama"
-dimensions: ""
+dimensions: "1094x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

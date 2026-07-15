@@ -6,7 +6,7 @@ source_relpath: "1900s/Still Life with Flowers and Fruit by David Hockney (1984)
 collection: "1900s"
 inferred_year: "1984"
 artist: ""
-dimensions: ""
+dimensions: "960x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

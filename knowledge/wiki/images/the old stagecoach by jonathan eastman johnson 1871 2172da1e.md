@@ -6,7 +6,7 @@ source_relpath: "1800s/the_old_stagecoach_by_jonathan_eastman_johnson_1871.jpeg"
 collection: "1800s"
 inferred_year: "1871"
 artist: "jonathan eastman johnson"
-dimensions: ""
+dimensions: "5712x3213"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

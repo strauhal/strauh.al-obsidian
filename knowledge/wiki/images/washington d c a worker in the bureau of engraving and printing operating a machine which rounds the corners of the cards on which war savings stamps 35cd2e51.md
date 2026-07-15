@@ -6,7 +6,7 @@ source_relpath: "1900s/washington_d_c_a_worker_in_the_bureau_of_engraving_and_pr
 collection: "1900s"
 inferred_year: "1942"
 artist: "john vachon"
-dimensions: ""
+dimensions: "2157x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

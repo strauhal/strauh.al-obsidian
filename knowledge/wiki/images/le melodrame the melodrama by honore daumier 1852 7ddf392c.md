@@ -6,7 +6,7 @@ source_relpath: "1800s/le_melodrame_the_melodrama_by_honore_daumier_1852.jpg"
 collection: "1800s"
 inferred_year: "1852"
 artist: "honore daumier"
-dimensions: ""
+dimensions: "1281x1400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

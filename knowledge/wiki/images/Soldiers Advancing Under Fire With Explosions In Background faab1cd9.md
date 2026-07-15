@@ -6,7 +6,7 @@ source_relpath: "photography/Soldiers Advancing Under Fire With Explosions In Ba
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x485"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

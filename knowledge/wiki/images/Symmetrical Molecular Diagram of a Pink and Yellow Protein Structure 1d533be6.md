@@ -6,7 +6,7 @@ source_relpath: "diagrams/Symmetrical_Molecular_Diagram_of_a_Pink_and_Yellow_Pro
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "602x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

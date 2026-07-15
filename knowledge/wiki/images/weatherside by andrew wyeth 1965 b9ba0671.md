@@ -6,7 +6,7 @@ source_relpath: "1900s/weatherside_by_andrew_wyeth_1965.jpeg"
 collection: "1900s"
 inferred_year: "1965"
 artist: "andrew wyeth"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

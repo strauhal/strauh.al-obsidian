@@ -6,7 +6,7 @@ source_relpath: "photography/Retro Transparent Electronic Devices and Storage Me
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2046x2821"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

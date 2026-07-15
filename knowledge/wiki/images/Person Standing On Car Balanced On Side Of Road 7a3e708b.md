@@ -6,7 +6,7 @@ source_relpath: "photography/Person Standing On Car Balanced On Side Of Road.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "570x450"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

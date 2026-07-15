@@ -6,7 +6,7 @@ source_relpath: "1800s/only_love_and_death_change_all_things_by_aubrey_beardsley
 collection: "1800s"
 inferred_year: "1894"
 artist: "aubrey beardsley"
-dimensions: ""
+dimensions: "500x216"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

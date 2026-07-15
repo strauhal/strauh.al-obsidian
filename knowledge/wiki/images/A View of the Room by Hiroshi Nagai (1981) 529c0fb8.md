@@ -6,7 +6,7 @@ source_relpath: "1900s/A View of the Room by Hiroshi Nagai (1981).jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: ""
-dimensions: ""
+dimensions: "1080x1383"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

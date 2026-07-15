@@ -6,7 +6,7 @@ source_relpath: "2000s/Hyper Paris (Plan Voisin) by Jean-François Rauzier (2012
 collection: "2000s"
 inferred_year: "2012"
 artist: ""
-dimensions: ""
+dimensions: "930x523"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Two Ink Sketch Comic Panels with Figures in Mi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "899x1883"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

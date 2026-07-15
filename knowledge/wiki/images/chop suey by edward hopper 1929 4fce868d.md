@@ -6,7 +6,7 @@ source_relpath: "1900s/chop_suey_by_edward_hopper_1929.jpg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "edward hopper"
-dimensions: ""
+dimensions: "1013x839"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

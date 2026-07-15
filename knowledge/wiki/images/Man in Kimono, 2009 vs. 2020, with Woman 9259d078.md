@@ -6,7 +6,7 @@ source_relpath: "photography/Man in Kimono, 2009 vs. 2020, with Woman.png"
 collection: "photography"
 inferred_year: "2020"
 artist: ""
-dimensions: ""
+dimensions: "1218x927"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Two Portraits Comparing Broad Smile And Neu
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1164x1344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

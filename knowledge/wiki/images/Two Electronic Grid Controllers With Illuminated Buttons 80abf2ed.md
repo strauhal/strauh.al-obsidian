@@ -6,7 +6,7 @@ source_relpath: "photography/Two Electronic Grid Controllers With Illuminated Bu
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2400x1351"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/the_women_of_algiers_in_a_garden_by_theodore_chasseriau_1
 collection: "1800s"
 inferred_year: "1845"
 artist: "theodore chasseriau"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

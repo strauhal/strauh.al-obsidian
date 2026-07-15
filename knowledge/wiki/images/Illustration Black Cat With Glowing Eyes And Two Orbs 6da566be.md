@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black Cat With Glowing Eyes And Two Orbs.j
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1080x1341"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Naked Figure Confronts Antlered Centaur in
 collection: "2000s"
 inferred_year: "2000s"
 artist: "G. Cagle"
-dimensions: ""
+dimensions: "733x1172"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

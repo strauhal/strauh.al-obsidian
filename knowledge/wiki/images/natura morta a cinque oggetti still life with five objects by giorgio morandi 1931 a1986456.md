@@ -6,7 +6,7 @@ source_relpath: "1900s/natura_morta_a_cinque_oggetti_still_life_with_five_object
 collection: "1900s"
 inferred_year: "1931"
 artist: "giorgio morandi"
-dimensions: ""
+dimensions: "1200x901"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

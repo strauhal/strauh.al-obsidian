@@ -6,7 +6,7 @@ source_relpath: "1800s/l_atelier_by_jean_georges_vibert_1880.jpg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "jean georges vibert"
-dimensions: ""
+dimensions: "1502x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

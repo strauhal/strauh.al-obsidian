@@ -6,7 +6,7 @@ source_relpath: "1800s/first_ballet_action_plate_370_of_animal_locomotion_by_ead
 collection: "1800s"
 inferred_year: "1887"
 artist: "eadweard muybridge"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

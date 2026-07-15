@@ -6,7 +6,7 @@ source_relpath: "photography/Grainy, Blurry View of Light Through a Dark Opening
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "896x1344"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

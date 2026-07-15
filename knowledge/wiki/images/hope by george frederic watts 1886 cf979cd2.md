@@ -6,7 +6,7 @@ source_relpath: "1800s/hope_by_george_frederic_watts_1886.jpg"
 collection: "1800s"
 inferred_year: "1886"
 artist: "george frederic watts"
-dimensions: ""
+dimensions: "2169x2800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

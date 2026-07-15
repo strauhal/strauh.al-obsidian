@@ -6,7 +6,7 @@ source_relpath: "1400s/saint_francis_in_the_desert_by_giovanni_bellini_c_1480148
 collection: "1400s"
 inferred_year: "1400s"
 artist: "giovanni bellini"
-dimensions: ""
+dimensions: "1024x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

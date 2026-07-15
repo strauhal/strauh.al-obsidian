@@ -6,7 +6,7 @@ source_relpath: "1700s/still_life_with_flowers_and_fruit_by_jan_van_huysum_c_171
 collection: "1700s"
 inferred_year: "1715"
 artist: "jan van huysum"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

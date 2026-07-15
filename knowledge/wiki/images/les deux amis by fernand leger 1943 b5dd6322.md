@@ -6,7 +6,7 @@ source_relpath: "1900s/les_deux_amis_by_fernand_leger_1943.jpg"
 collection: "1900s"
 inferred_year: "1943"
 artist: "fernand leger"
-dimensions: ""
+dimensions: "1920x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

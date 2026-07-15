@@ -6,7 +6,7 @@ source_relpath: "1800s/miss_la_la_at_the_cirque_fernando_by_edgar_degas_1879.jpe
 collection: "1800s"
 inferred_year: "1879"
 artist: "edgar degas"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

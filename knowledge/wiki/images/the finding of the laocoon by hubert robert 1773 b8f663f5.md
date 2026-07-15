@@ -6,7 +6,7 @@ source_relpath: "1700s/the_finding_of_the_laocoon_by_hubert_robert_1773.jpg"
 collection: "1700s"
 inferred_year: "1773"
 artist: "hubert robert"
-dimensions: ""
+dimensions: "2528x4001"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixelated Knight Holding Sword in Retro Wi
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1930x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Stacked Glass Jars With Tree Branches I
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1457"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

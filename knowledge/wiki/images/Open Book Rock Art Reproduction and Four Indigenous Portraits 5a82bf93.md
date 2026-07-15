@@ -6,7 +6,7 @@ source_relpath: "photography/Open Book: Rock Art Reproduction and Four Indigenou
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "693x442"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

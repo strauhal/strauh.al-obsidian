@@ -6,7 +6,7 @@ source_relpath: "1900s/frank_e_schoonover_joan_of_arc_1911.jpg"
 collection: "1900s"
 inferred_year: "1911"
 artist: ""
-dimensions: ""
+dimensions: "600x777"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

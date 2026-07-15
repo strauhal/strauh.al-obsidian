@@ -6,7 +6,7 @@ source_relpath: "1800s/claude_monet_impression_sunrise_1872.jpg"
 collection: "1800s"
 inferred_year: "1872"
 artist: ""
-dimensions: ""
+dimensions: "1280x996"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

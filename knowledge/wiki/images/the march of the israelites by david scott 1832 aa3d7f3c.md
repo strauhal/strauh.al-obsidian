@@ -6,7 +6,7 @@ source_relpath: "1800s/the_march_of_the_israelites_by_david_scott_1832.jpg"
 collection: "1800s"
 inferred_year: "1832"
 artist: "david scott"
-dimensions: ""
+dimensions: "1536x1246"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

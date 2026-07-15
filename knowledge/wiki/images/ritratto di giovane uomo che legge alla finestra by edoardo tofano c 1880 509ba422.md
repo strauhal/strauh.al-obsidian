@@ -6,7 +6,7 @@ source_relpath: "1800s/ritratto_di_giovane_uomo_che_legge_alla_finestra_by_edoar
 collection: "1800s"
 inferred_year: "1880"
 artist: "edoardo tofano"
-dimensions: ""
+dimensions: "1860x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

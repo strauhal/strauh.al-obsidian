@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Bust of Aeschylus With Quote 'Everyone'
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1512x1512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

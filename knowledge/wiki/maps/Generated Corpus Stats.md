@@ -6,9 +6,9 @@ tags: ["strauhal", "index"]
 ---
 # Generated Corpus Stats
 
-HTML pages compiled: 78
+HTML pages compiled: 77
 
-Images compiled: 8403
+Images compiled: 8404
 
 Collections compiled: 33
 

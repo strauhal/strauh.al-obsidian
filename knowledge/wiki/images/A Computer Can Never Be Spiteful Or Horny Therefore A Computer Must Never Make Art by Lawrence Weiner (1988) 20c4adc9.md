@@ -6,7 +6,7 @@ source_relpath: "1900s/A Computer Can Never Be Spiteful Or Horny Therefore A Com
 collection: "1900s"
 inferred_year: "1988"
 artist: ""
-dimensions: ""
+dimensions: "674x493"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

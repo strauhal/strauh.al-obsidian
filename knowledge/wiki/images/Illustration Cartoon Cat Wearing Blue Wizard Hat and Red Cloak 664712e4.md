@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Cartoon Cat Wearing Blue Wizard Hat and
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "828x650"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

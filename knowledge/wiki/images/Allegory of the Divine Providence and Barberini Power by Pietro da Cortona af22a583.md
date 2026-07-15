@@ -6,7 +6,7 @@ source_relpath: "photography/Allegory of the Divine Providence and Barberini Pow
 collection: "photography"
 inferred_year: ""
 artist: "Pietro da Cortona"
-dimensions: ""
+dimensions: "2955x3940"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

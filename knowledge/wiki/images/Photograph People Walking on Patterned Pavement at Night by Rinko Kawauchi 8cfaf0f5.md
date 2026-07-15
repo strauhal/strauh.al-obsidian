@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - People Walking on Patterned Pavement at Nigh
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Rinko Kawauchi"
-dimensions: ""
+dimensions: "1440x1440"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

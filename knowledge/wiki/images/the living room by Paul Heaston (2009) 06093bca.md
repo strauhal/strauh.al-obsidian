@@ -6,7 +6,7 @@ source_relpath: "2000s/the living room by Paul Heaston (2009).jpg"
 collection: "2000s"
 inferred_year: "2009"
 artist: ""
-dimensions: ""
+dimensions: "2048x1624"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

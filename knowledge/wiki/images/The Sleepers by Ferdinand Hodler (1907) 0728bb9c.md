@@ -6,7 +6,7 @@ source_relpath: "1900s/The Sleepers by Ferdinand Hodler (1907).jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: ""
-dimensions: ""
+dimensions: "720x798"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

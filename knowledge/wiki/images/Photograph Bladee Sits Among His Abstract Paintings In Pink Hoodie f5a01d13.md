@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Bladee Sits Among His Abstract Paintings In 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1200x2132"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

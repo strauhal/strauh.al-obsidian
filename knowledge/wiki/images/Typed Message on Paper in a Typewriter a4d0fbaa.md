@@ -6,7 +6,7 @@ source_relpath: "photography/Typed Message on Paper in a Typewriter.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

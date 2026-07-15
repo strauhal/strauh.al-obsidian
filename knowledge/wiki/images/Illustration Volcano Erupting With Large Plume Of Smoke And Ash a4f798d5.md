@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Volcano Erupting With Large Plume Of Sm
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "512x512"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/la_lunette_d_approche_by_rene_magritte_1963.jpg"
 collection: "1900s"
 inferred_year: "1963"
 artist: "rene magritte"
-dimensions: ""
+dimensions: "1584x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

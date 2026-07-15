@@ -6,7 +6,7 @@ source_relpath: "1600s/Bacchus and Ariadne by Charles de La Fosse (c. 1699-1700)
 collection: "1600s"
 inferred_year: "1700"
 artist: ""
-dimensions: ""
+dimensions: "1614x3072"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

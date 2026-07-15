@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art of Skeletal Demon and Haloed 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4020x3660"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

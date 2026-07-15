@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Highly Stylized Blue And Orange Digital
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "544x724"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

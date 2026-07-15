@@ -6,7 +6,7 @@ source_relpath: "photography/Young Man In Baseball Uniform Kneeling With Bat On 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "557x836"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

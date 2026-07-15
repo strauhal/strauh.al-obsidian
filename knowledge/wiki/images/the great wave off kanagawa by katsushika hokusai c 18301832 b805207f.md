@@ -6,7 +6,7 @@ source_relpath: "1800s/the_great_wave_off_kanagawa_by_katsushika_hokusai_c_18301
 collection: "1800s"
 inferred_year: "1800s"
 artist: "katsushika hokusai"
-dimensions: ""
+dimensions: "1024x715"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

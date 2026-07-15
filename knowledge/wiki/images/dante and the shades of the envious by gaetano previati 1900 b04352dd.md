@@ -6,7 +6,7 @@ source_relpath: "1900s/dante_and_the_shades_of_the_envious_by_gaetano_previati_1
 collection: "1900s"
 inferred_year: "1900"
 artist: "gaetano previati"
-dimensions: ""
+dimensions: "600x809"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

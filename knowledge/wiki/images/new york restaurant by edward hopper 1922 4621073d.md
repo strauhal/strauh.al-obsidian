@@ -6,7 +6,7 @@ source_relpath: "1900s/new_york_restaurant_by_edward_hopper_1922.jpeg"
 collection: "1900s"
 inferred_year: "1922"
 artist: "edward hopper"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

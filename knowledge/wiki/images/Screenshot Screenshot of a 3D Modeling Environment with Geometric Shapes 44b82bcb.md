@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Screenshot of a 3D Modeling Environment w
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1878x1214"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

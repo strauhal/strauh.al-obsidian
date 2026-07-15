@@ -6,7 +6,7 @@ source_relpath: "1900s/illustration_for_frankenstein_victor_frankenstein_discove
 collection: "1900s"
 inferred_year: "1983"
 artist: "bernie wrightson"
-dimensions: ""
+dimensions: "2029x2976"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

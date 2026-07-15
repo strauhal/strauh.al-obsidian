@@ -6,7 +6,7 @@ source_relpath: "photography/Ceramic Glaze Test Tile And Vase With Green And Bro
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

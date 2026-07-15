@@ -6,7 +6,7 @@ source_relpath: "1700s/the_shepherdess_by_jean_honore_fragonard_c_1750_1752.jpeg
 collection: "1700s"
 inferred_year: "1752"
 artist: "jean honore fragonard"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

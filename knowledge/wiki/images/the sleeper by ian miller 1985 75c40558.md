@@ -6,7 +6,7 @@ source_relpath: "1900s/the_sleeper_by_ian_miller_1985.jpg"
 collection: "1900s"
 inferred_year: "1985"
 artist: "ian miller"
-dimensions: ""
+dimensions: "1890x2049"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

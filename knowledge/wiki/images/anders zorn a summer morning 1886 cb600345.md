@@ -6,7 +6,7 @@ source_relpath: "1800s/anders_zorn_a_summer_morning_1886.jpg"
 collection: "1800s"
 inferred_year: "1886"
 artist: ""
-dimensions: ""
+dimensions: "1338x1902"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/street_dresden_by_ernst_ludwig_kirchner_1908.jpeg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "ernst ludwig kirchner"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

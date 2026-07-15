@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Religious Icon of Bearded Man Holding Lamb
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "564x662"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

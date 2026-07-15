@@ -6,7 +6,7 @@ source_relpath: "2000s/From the Knees of my Nose to the Belly of my Toes by Alex
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: ""
+dimensions: "468x708"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

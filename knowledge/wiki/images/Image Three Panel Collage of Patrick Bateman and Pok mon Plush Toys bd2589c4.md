@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Three-Panel Collage of Patrick Bateman and Pokém
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1236x1220"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

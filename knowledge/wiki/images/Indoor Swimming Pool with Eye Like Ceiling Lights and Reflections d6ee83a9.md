@@ -6,7 +6,7 @@ source_relpath: "photography/Indoor Swimming Pool with Eye-Like Ceiling Lights a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1643x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

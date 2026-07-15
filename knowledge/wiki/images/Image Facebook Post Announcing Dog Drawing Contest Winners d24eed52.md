@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Facebook Post Announcing Dog Drawing Contest Winn
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "499x533"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

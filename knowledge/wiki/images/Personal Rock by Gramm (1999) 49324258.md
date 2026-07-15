@@ -6,7 +6,7 @@ source_relpath: "2000s/Personal Rock by Gramm (1999).jpg"
 collection: "2000s"
 inferred_year: "1999"
 artist: ""
-dimensions: ""
+dimensions: "1200x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/self_portrait_with_carnation_by_otto_dix_1912.jpg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "otto dix"
-dimensions: ""
+dimensions: "1597x2400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

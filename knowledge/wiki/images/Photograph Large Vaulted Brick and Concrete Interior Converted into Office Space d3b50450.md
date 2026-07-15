@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Large Vaulted Brick and Concrete Interior Co
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "711x400"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Graffiti-Covered Rooftops And City Skyline At Dusk.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

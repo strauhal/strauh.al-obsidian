@@ -6,7 +6,7 @@ source_relpath: "1900s/las_vegas_nevada_by_stephen_shore_1979.jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: "stephen shore"
-dimensions: ""
+dimensions: "1147x1421"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

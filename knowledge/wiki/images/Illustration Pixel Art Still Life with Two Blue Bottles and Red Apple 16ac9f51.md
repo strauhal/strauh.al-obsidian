@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pixel Art Still Life with Two Blue Bottles
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1990x2460"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

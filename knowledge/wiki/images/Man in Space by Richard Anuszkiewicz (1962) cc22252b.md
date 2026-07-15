@@ -6,7 +6,7 @@ source_relpath: "1900s/Man in Space by Richard Anuszkiewicz (1962).jpg"
 collection: "1900s"
 inferred_year: "1962"
 artist: ""
-dimensions: ""
+dimensions: "1056x1494"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

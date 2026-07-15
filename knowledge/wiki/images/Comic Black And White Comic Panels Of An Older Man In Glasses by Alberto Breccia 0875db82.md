@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Black And White Comic Panels Of An Older Man I
 collection: "unsorted"
 inferred_year: ""
 artist: "Alberto Breccia"
-dimensions: ""
+dimensions: "1239x1600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

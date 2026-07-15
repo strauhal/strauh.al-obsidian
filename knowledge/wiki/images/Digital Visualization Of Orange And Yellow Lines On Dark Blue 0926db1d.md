@@ -6,7 +6,7 @@ source_relpath: "diagrams/Digital_Visualization_Of_Orange_And_Yellow_Lines_On_Da
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "801x595"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/the_tiger_by_minas_avetisyan_1975.jpeg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "minas avetisyan"
-dimensions: ""
+dimensions: "680x390"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

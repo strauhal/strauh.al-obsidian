@@ -6,7 +6,7 @@ source_relpath: "1900s/the_starship_and_the_vortex_by_chris_foss_1978.jpeg"
 collection: "1900s"
 inferred_year: "1978"
 artist: "chris foss"
-dimensions: ""
+dimensions: "2048x1484"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

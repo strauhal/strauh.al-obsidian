@@ -6,7 +6,7 @@ source_relpath: "1900s/50 Secrets of Magic Craftsmanship by Salvador Dalí (1947
 collection: "1900s"
 inferred_year: "1947"
 artist: ""
-dimensions: ""
+dimensions: "751x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

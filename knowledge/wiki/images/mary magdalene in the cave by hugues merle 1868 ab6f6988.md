@@ -6,7 +6,7 @@ source_relpath: "1800s/mary_magdalene_in_the_cave_by_hugues_merle_1868.jpg"
 collection: "1800s"
 inferred_year: "1868"
 artist: "hugues merle"
-dimensions: ""
+dimensions: "1600x1317"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

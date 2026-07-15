@@ -6,7 +6,7 @@ source_relpath: "1800s/isaac_levitan_above_eternal_peace_1894.jpg"
 collection: "1800s"
 inferred_year: "1894"
 artist: ""
-dimensions: ""
+dimensions: "3476x2049"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

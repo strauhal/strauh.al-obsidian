@@ -6,7 +6,7 @@ source_relpath: "1900s/New York Street with Moon by Georgia O'Keeffe (1925).jpeg
 collection: "1900s"
 inferred_year: "1925"
 artist: ""
-dimensions: ""
+dimensions: "668x765"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

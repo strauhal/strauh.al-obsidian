@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - Major Grubert's Bubble Ship Flying Over Forest
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x1348"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "diary/renoirsketches.jpg"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1902x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

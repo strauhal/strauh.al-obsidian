@@ -6,7 +6,7 @@ source_relpath: "1900s/harlequin_s_family_with_a_monkey_by_pablo_picasso_1905.jp
 collection: "1900s"
 inferred_year: "1905"
 artist: "pablo picasso"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Collage of Tommy Wiseau Film Credits.jpg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "995x1746"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

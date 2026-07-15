@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Seamless Pattern of Waterfalls and Turbule
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "5273x3336"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

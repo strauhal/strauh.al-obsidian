@@ -6,7 +6,7 @@ source_relpath: "1900s/Speed Racer in the Mach 5 by Tatsuo Yoshida (1967-1968).j
 collection: "1900s"
 inferred_year: "1968"
 artist: ""
-dimensions: ""
+dimensions: "720x480"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

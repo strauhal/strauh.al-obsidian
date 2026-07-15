@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Woman Winking, Smiling, Holding a Vintage 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Unomoralez"
-dimensions: ""
+dimensions: "707x442"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

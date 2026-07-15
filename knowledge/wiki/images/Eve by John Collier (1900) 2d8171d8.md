@@ -6,7 +6,7 @@ source_relpath: "1900s/Eve by John Collier (1900).jpg"
 collection: "1900s"
 inferred_year: "1900"
 artist: ""
-dimensions: ""
+dimensions: "1054x2418"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

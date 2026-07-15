@@ -6,7 +6,7 @@ source_relpath: "photography/Interior View of a Cluttered, Sparsely Furnished Ro
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1080x686"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

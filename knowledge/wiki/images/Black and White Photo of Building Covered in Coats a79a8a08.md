@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo of Building Covered in Coats.
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "692x866"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

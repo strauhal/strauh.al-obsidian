@@ -6,7 +6,7 @@ source_relpath: "1700s/Moses Striking the Rock by Giovanni Battista Tiepolo (c. 
 collection: "1700s"
 inferred_year: "1770"
 artist: ""
-dimensions: ""
+dimensions: "2939x4226"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

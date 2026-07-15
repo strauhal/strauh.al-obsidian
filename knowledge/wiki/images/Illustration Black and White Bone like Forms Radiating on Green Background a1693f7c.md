@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Black and White Bone-like Forms Radiating 
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "675x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

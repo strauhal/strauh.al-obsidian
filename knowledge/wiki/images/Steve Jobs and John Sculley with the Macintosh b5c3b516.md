@@ -6,7 +6,7 @@ source_relpath: "photography/Steve Jobs and John Sculley with the Macintosh.webp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x497"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

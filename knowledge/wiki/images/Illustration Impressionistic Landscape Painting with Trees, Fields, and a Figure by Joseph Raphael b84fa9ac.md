@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impressionistic Landscape Painting with
 collection: "unsorted"
 inferred_year: ""
 artist: "Joseph Raphael"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

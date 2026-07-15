@@ -6,7 +6,7 @@ source_relpath: "1800s/carnation_lily_lily_rose_by_john_singer_sargent_18851886.
 collection: "1800s"
 inferred_year: "1800s"
 artist: "john singer sargent 18851886"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Expressive Portrait of a Person in Flor
 collection: "unsorted"
 inferred_year: ""
 artist: "Elizabeth Peyton"
-dimensions: ""
+dimensions: "2552x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

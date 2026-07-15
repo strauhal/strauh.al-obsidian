@@ -6,7 +6,7 @@ source_relpath: "photography/Outdoor LED Screens Displaying Windows Desktop Inte
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1280x959"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

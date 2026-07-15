@@ -6,7 +6,7 @@ source_relpath: "diagrams/Architectural_Diagram_of_a_World_Study_Center_by_Patri
 collection: "diagrams"
 inferred_year: ""
 artist: "Patrick E. Leahy"
-dimensions: ""
+dimensions: "2000x1516"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

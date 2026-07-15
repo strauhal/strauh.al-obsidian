@@ -6,7 +6,7 @@ source_relpath: "1800s/westward_the_course_of_empire_takes_its_way_by_emanuel_le
 collection: "1800s"
 inferred_year: "1861"
 artist: "emanuel leutze"
-dimensions: ""
+dimensions: "2666x1617"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

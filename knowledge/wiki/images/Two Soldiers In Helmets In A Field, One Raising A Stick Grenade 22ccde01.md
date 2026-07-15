@@ -6,7 +6,7 @@ source_relpath: "photography/Two Soldiers In Helmets In A Field, One Raising A S
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "700x350"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

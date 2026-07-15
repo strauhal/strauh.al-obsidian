@@ -6,7 +6,7 @@ source_relpath: "1900s/the_temple_of_apshai_by_ivan_rehak_1986.png"
 collection: "1900s"
 inferred_year: "1986"
 artist: "ivan rehak"
-dimensions: ""
+dimensions: "1753x1195"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

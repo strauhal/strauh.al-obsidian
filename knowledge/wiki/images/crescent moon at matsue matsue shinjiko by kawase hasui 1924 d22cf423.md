@@ -6,7 +6,7 @@ source_relpath: "1900s/crescent_moon_at_matsue_matsue_shinjiko_by_kawase_hasui_1
 collection: "1900s"
 inferred_year: "1924"
 artist: "kawase hasui"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

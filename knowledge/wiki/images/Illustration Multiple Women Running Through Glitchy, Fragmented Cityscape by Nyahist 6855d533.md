@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Multiple Women Running Through Glitchy,
 collection: "unsorted"
 inferred_year: ""
 artist: "Nyahist"
-dimensions: ""
+dimensions: "2048x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

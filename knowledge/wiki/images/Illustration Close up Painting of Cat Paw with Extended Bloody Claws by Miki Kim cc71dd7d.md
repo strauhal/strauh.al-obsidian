@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Close-up Painting of Cat Paw with Extended
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Miki Kim"
-dimensions: ""
+dimensions: "1170x1287"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

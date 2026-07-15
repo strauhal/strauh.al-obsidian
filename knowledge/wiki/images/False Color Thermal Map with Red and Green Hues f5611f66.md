@@ -6,7 +6,7 @@ source_relpath: "diagrams/False-Color_Thermal_Map_with_Red_and_Green_Hues.jpeg"
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "496x496"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Hand Holding Sketchbook with Fishing Boat Dr
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1152x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

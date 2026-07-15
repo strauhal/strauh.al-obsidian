@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Four Pencil Sketches of a Cartoon Skunk
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1152x896"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

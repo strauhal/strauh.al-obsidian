@@ -6,7 +6,7 @@ source_relpath: "1900s/three_bauhaus_students_by_t_lux_feininger_1927.jpg"
 collection: "1900s"
 inferred_year: "1927"
 artist: "t lux feininger"
-dimensions: ""
+dimensions: "776x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

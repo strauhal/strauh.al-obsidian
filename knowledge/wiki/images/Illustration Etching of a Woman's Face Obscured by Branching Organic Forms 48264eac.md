@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Etching of a Woman's Face Obscured by Bran
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Branching Organic Forms"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

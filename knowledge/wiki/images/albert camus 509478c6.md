@@ -6,7 +6,7 @@ source_relpath: "influences/albert_camus.jpg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2048x1371"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

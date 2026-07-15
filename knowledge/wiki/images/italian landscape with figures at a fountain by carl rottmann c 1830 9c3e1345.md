@@ -6,7 +6,7 @@ source_relpath: "1800s/italian_landscape_with_figures_at_a_fountain_by_carl_rott
 collection: "1800s"
 inferred_year: "1830"
 artist: "carl rottmann"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

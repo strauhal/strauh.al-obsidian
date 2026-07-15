@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - People Holding a Large Red Melting Rug by 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Faig Ahmed"
-dimensions: ""
+dimensions: "1512x2016"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

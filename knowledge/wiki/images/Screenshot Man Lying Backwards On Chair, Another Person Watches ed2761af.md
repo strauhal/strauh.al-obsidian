@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Man Lying Backwards On Chair, Another Per
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "981x929"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

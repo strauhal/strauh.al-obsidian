@@ -6,7 +6,7 @@ source_relpath: "1900s/the_chinese_girl_by_robert_henri_1914.jpeg"
 collection: "1900s"
 inferred_year: "1914"
 artist: "robert henri"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

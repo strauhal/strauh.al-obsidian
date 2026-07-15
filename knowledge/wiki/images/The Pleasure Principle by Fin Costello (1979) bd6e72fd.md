@@ -6,7 +6,7 @@ source_relpath: "1900s/The Pleasure Principle by Fin Costello (1979).jpg"
 collection: "1900s"
 inferred_year: "1979"
 artist: ""
-dimensions: ""
+dimensions: "960x960"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

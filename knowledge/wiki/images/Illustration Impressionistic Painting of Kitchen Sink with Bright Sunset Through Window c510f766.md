@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impressionistic Painting of Kitchen Sin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1701x1701"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

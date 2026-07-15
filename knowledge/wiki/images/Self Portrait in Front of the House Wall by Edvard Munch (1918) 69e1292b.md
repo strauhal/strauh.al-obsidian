@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait in Front of the House Wall by Edvard Munch 
 collection: "1900s"
 inferred_year: "1918"
 artist: ""
-dimensions: ""
+dimensions: "1440x1819"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

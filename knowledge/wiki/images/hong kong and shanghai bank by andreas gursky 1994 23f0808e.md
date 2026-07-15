@@ -6,7 +6,7 @@ source_relpath: "1900s/hong_kong_and_shanghai_bank_by_andreas_gursky_1994.jpeg"
 collection: "1900s"
 inferred_year: "1994"
 artist: "andreas gursky"
-dimensions: ""
+dimensions: "1280x1710"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

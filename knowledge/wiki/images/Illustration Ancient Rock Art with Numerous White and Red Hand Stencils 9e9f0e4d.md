@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Ancient Rock Art with Numerous White an
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "660x433"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

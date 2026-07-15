@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Bird-Masked Flute Player with Dancing S
 collection: "unsorted"
 inferred_year: ""
 artist: "A.E"
-dimensions: ""
+dimensions: "1171x1172"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

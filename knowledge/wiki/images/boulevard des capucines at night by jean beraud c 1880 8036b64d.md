@@ -6,7 +6,7 @@ source_relpath: "1800s/boulevard_des_capucines_at_night_by_jean_beraud_c_1880.jp
 collection: "1800s"
 inferred_year: "1880"
 artist: "jean beraud"
-dimensions: ""
+dimensions: "6756x4276"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

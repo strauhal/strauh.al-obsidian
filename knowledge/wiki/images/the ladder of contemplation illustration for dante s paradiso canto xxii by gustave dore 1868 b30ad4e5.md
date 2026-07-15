@@ -6,7 +6,7 @@ source_relpath: "1800s/the_ladder_of_contemplation_illustration_for_dante_s_para
 collection: "1800s"
 inferred_year: "1868"
 artist: "gustave dore"
-dimensions: ""
+dimensions: "788x971"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

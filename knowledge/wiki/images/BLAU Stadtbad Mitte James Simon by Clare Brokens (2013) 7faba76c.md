@@ -6,7 +6,7 @@ source_relpath: "2000s/BLAU @ Stadtbad Mitte James Simon by Clare Brokens (2013)
 collection: "2000s"
 inferred_year: "2013"
 artist: ""
-dimensions: ""
+dimensions: "891x1180"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Blue Nintendo DS Carrying Bag With Strap.jpg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/cityscape_i_formerly_landscape_i_by_richard_diebenkorn_19
 collection: "1900s"
 inferred_year: "1963"
 artist: "richard diebenkorn"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

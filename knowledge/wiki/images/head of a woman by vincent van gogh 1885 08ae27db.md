@@ -6,7 +6,7 @@ source_relpath: "1800s/head_of_a_woman_by_vincent_van_gogh_1885.jpg"
 collection: "1800s"
 inferred_year: "1885"
 artist: "vincent van gogh"
-dimensions: ""
+dimensions: "1431x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

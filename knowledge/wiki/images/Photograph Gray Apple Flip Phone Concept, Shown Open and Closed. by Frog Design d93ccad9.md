@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Gray Apple Flip Phone Concept, Shown Open an
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Frog Design"
-dimensions: ""
+dimensions: "1080x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

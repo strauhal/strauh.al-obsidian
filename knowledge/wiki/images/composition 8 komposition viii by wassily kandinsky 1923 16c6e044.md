@@ -6,7 +6,7 @@ source_relpath: "1900s/composition_8_komposition_viii_by_wassily_kandinsky_1923.
 collection: "1900s"
 inferred_year: "1923"
 artist: "wassily kandinsky"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

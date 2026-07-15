@@ -6,7 +6,7 @@ source_relpath: "1800s/justine_dieuhl_seated_in_forest_s_garden_by_henri_de_toul
 collection: "1800s"
 inferred_year: "1891"
 artist: "henri de toulouse lautrec"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

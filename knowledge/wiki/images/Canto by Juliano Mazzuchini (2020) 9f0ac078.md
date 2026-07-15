@@ -6,7 +6,7 @@ source_relpath: "2000s/Canto by Juliano Mazzuchini (2020).jpg"
 collection: "2000s"
 inferred_year: "2020"
 artist: ""
-dimensions: ""
+dimensions: "1080x1337"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

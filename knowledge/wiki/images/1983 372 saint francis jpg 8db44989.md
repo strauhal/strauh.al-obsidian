@@ -6,7 +6,7 @@ source_relpath: "1900s/1983_372_saint_francis_jpg.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: ""
-dimensions: ""
+dimensions: "1617x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

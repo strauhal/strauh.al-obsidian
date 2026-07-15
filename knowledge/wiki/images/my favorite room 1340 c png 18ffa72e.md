@@ -6,7 +6,7 @@ source_relpath: "1300s/my_favorite_room_1340_c_png.png"
 collection: "1300s"
 inferred_year: "1300s"
 artist: ""
-dimensions: ""
+dimensions: "1340x841"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1300s"]
 ---

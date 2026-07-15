@@ -6,7 +6,7 @@ source_relpath: "1800s/moonlight_on_the_lagoons_by_charles_graham_1893.jpg"
 collection: "1800s"
 inferred_year: "1893"
 artist: "charles graham"
-dimensions: ""
+dimensions: "1200x1594"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

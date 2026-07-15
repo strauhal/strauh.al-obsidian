@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Character Head Studies With Helmet And 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "650x500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

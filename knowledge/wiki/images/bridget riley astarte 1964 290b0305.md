@@ -6,7 +6,7 @@ source_relpath: "1900s/bridget_riley_astarte_1964.jpeg"
 collection: "1900s"
 inferred_year: "1964"
 artist: ""
-dimensions: ""
+dimensions: "1180x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Black and White Photograph of World's Columb
 collection: "2000s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "3046x2290"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "comics/why_do_they_call_it_oven.jpeg"
 collection: "comics"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1234x678"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/comics"]
 ---

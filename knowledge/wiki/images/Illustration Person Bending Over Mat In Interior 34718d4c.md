@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Person Bending Over Mat In Interior.jpg
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1289"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

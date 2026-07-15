@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Digital Sketch of Woman with Blue Face 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "519x729"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

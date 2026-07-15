@@ -6,7 +6,7 @@ source_relpath: "1900s/magnets_the_vapors_single_cover_by_mark_haddon_1981.jpg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "mark haddon"
-dimensions: ""
+dimensions: "1400x1359"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Three Figures Sheltering From Rain Unde
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1813x1299"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/head_of_a_woman_study_for_a_spanish_woman_by_john_singer_
 collection: "1800s"
 inferred_year: "1880"
 artist: "john singer sargent"
-dimensions: ""
+dimensions: "512x699"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

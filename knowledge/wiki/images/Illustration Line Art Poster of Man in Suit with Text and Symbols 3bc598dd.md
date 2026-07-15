@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Line Art Poster of Man in Suit with Text a
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3000x5000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

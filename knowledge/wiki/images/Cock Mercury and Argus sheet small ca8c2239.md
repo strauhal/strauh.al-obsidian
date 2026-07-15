@@ -6,7 +6,7 @@ source_relpath: "artists/hieronymous_cock/Cock_Mercury&Argus_sheet_small.jpg"
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1600x1113"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Psychoanalytic Relational Map with colored node
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3140x2554"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

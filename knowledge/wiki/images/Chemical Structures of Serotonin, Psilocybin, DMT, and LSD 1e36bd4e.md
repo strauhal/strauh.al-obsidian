@@ -6,7 +6,7 @@ source_relpath: "diagrams/Chemical_Structures_of_Serotonin,_Psilocybin,_DMT,_and
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "470x167"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

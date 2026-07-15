@@ -6,7 +6,7 @@ source_relpath: "1600s/venus_and_adonis_by_peter_paul_rubens_c_1614.jpg"
 collection: "1600s"
 inferred_year: "1614"
 artist: "peter paul rubens"
-dimensions: ""
+dimensions: "2190x1519"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

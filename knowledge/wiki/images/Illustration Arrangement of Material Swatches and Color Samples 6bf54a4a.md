@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Arrangement of Material Swatches and Co
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

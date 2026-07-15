@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impasto Painting of Speed Racer and Mac
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "4000x3000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

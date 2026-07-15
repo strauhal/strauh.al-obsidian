@@ -6,7 +6,7 @@ source_relpath: "photography/Person Holding Sketchbook with Charcoal Drawing of 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

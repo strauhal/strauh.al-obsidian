@@ -6,7 +6,7 @@ source_relpath: "1900s/screenshot_of_macromedia_flash_4_about_dialog_box_1999.pn
 collection: "1900s"
 inferred_year: "1999"
 artist: ""
-dimensions: ""
+dimensions: "800x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

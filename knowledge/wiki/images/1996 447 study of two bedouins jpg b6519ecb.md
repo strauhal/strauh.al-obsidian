@@ -6,7 +6,7 @@ source_relpath: "1900s/1996_447_study_of_two_bedouins_jpg.jpg"
 collection: "1900s"
 inferred_year: "1996"
 artist: ""
-dimensions: ""
+dimensions: "2708x2250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

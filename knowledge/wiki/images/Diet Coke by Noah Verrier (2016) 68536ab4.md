@@ -6,7 +6,7 @@ source_relpath: "2000s/Diet Coke by Noah Verrier (2016).jpeg"
 collection: "2000s"
 inferred_year: "2016"
 artist: ""
-dimensions: ""
+dimensions: "850x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

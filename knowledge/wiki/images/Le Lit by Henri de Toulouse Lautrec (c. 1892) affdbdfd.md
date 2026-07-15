@@ -6,7 +6,7 @@ source_relpath: "1800s/Le Lit by Henri de Toulouse-Lautrec (c. 1892).png"
 collection: "1800s"
 inferred_year: "1892"
 artist: ""
-dimensions: ""
+dimensions: "2048x1536"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

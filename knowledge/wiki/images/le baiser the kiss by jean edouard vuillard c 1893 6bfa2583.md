@@ -6,7 +6,7 @@ source_relpath: "1800s/le_baiser_the_kiss_by_jean_edouard_vuillard_c_1893.jpg"
 collection: "1800s"
 inferred_year: "1893"
 artist: "jean edouard vuillard"
-dimensions: ""
+dimensions: "906x1282"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

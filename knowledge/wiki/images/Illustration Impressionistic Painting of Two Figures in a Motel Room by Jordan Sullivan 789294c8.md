@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Impressionistic Painting of Two Figures
 collection: "unsorted"
 inferred_year: ""
 artist: "Jordan Sullivan"
-dimensions: ""
+dimensions: "1290x1277"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

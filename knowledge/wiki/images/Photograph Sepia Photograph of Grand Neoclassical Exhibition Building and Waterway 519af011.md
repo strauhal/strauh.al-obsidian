@@ -6,7 +6,7 @@ source_relpath: "2000s/Photograph - Sepia Photograph of Grand Neoclassical Exhib
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4563x3657"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/coffee_by_sarah_moon_1995.jpg"
 collection: "1900s"
 inferred_year: "1995"
 artist: "sarah moon"
-dimensions: ""
+dimensions: "1080x1242"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

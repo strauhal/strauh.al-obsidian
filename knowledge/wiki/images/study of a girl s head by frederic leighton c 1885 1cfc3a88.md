@@ -6,7 +6,7 @@ source_relpath: "1800s/study_of_a_girl_s_head_by_frederic_leighton_c_1885.jpeg"
 collection: "1800s"
 inferred_year: "1885"
 artist: "frederic leighton"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

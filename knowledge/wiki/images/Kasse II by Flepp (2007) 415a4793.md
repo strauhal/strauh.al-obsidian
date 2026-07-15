@@ -6,7 +6,7 @@ source_relpath: "2000s/Kasse II by Flepp (2007).jpg"
 collection: "2000s"
 inferred_year: "2007"
 artist: ""
-dimensions: ""
+dimensions: "691x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

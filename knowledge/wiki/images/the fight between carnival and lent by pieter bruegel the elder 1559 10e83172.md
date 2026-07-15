@@ -6,7 +6,7 @@ source_relpath: "1500s/the_fight_between_carnival_and_lent_by_pieter_bruegel_the
 collection: "1500s"
 inferred_year: "1559"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "3648x2736"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

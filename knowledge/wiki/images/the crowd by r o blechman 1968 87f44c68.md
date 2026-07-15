@@ -6,7 +6,7 @@ source_relpath: "1900s/the_crowd_by_r_o_blechman_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "r o blechman"
-dimensions: ""
+dimensions: "1000x627"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

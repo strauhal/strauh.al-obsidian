@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Stylized Tropical Beach Scene with Pool an
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Hiroshi Nagai"
-dimensions: ""
+dimensions: "986x909"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

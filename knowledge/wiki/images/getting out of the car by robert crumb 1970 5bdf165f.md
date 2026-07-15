@@ -6,7 +6,7 @@ source_relpath: "1900s/getting_out_of_the_car_by_robert_crumb_1970.jpeg"
 collection: "1900s"
 inferred_year: "1970"
 artist: "robert crumb"
-dimensions: ""
+dimensions: "1400x994"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

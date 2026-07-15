@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Text About Consciousness, Neural Activity
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x583"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

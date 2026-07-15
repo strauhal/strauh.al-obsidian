@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Untitled by Zdzisław Beksiński.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: "Zdzis aw Beksi ski"
-dimensions: ""
+dimensions: "1600x1140"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

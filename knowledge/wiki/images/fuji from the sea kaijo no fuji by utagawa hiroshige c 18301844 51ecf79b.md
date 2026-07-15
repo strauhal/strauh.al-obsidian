@@ -6,7 +6,7 @@ source_relpath: "1800s/fuji_from_the_sea_kaijo_no_fuji_by_utagawa_hiroshige_c_18
 collection: "1800s"
 inferred_year: "1800s"
 artist: "utagawa hiroshige"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

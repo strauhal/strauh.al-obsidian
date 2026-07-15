@@ -6,7 +6,7 @@ source_relpath: "unsorted/First (1896) and Last (1972) Self-Portrait by Pablo Pi
 collection: "unsorted"
 inferred_year: "1972"
 artist: ""
-dimensions: ""
+dimensions: "800x523"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

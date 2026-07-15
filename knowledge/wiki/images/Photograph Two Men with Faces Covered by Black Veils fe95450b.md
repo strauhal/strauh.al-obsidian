@@ -6,7 +6,7 @@ source_relpath: "unsorted/Photograph - Two Men with Faces Covered by Black Veils
 collection: "unsorted"
 inferred_year: ""
 artist: "Black Veils"
-dimensions: ""
+dimensions: "1300x1009"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

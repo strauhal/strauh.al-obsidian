@@ -6,7 +6,7 @@ source_relpath: "1900s/Self-Portrait by Florence Henri (1928) (2).jpg"
 collection: "1900s"
 inferred_year: "1928"
 artist: ""
-dimensions: ""
+dimensions: "1076x1066"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

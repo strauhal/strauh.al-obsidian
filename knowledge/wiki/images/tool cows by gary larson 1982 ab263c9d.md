@@ -6,7 +6,7 @@ source_relpath: "1900s/tool_cows_by_gary_larson_1982.jpg"
 collection: "1900s"
 inferred_year: "1982"
 artist: "gary larson"
-dimensions: ""
+dimensions: "554x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

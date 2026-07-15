@@ -6,7 +6,7 @@ source_relpath: "1900s/portrait_of_a_young_man_by_arshile_gorky_1937.jpg"
 collection: "1900s"
 inferred_year: "1937"
 artist: "arshile gorky"
-dimensions: ""
+dimensions: "426x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

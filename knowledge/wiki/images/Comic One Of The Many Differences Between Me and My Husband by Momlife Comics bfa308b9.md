@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - One Of The Many Differences Between Me & My Hu
 collection: "unsorted"
 inferred_year: ""
 artist: "Momlife Comics"
-dimensions: ""
+dimensions: "640x626"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

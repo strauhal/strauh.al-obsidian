@@ -6,7 +6,7 @@ source_relpath: "diagrams/Diagram_of_Five_Elements_(Wuxing)_Matrix_in_Chinese_Ch
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1053x492"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

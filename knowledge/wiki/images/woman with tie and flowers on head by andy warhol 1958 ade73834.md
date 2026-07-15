@@ -6,7 +6,7 @@ source_relpath: "1900s/woman_with_tie_and_flowers_on_head_by_andy_warhol_1958.jp
 collection: "1900s"
 inferred_year: "1958"
 artist: "andy warhol"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

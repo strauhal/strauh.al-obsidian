@@ -6,7 +6,7 @@ source_relpath: "photography/Golden Gate Bridge, San Francisco Skyline, Boats on
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1244x700"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

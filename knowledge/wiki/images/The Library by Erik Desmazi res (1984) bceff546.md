@@ -6,7 +6,7 @@ source_relpath: "1900s/The Library by Erik Desmazières (1984).jpeg"
 collection: "1900s"
 inferred_year: "1984"
 artist: ""
-dimensions: ""
+dimensions: "588x423"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

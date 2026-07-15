@@ -6,7 +6,7 @@ source_relpath: "1900s/loops_and_swift_horses_are_surer_than_lead_by_charles_mar
 collection: "1900s"
 inferred_year: "1916"
 artist: "charles marion russell"
-dimensions: ""
+dimensions: "5712x4284"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

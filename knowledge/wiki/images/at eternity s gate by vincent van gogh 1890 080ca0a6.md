@@ -6,7 +6,7 @@ source_relpath: "1800s/at_eternity_s_gate_by_vincent_van_gogh_1890.webp"
 collection: "1800s"
 inferred_year: "1890"
 artist: "vincent van gogh"
-dimensions: ""
+dimensions: "1496x1920"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

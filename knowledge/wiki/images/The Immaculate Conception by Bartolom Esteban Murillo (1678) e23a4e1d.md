@@ -6,7 +6,7 @@ source_relpath: "2000s/The Immaculate Conception by Bartolomé Esteban Murillo (
 collection: "2000s"
 inferred_year: "1678"
 artist: ""
-dimensions: ""
+dimensions: "980x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

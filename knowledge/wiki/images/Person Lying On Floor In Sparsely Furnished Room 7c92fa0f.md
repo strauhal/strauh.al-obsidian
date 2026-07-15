@@ -6,7 +6,7 @@ source_relpath: "photography/Person Lying On Floor In Sparsely Furnished Room.jp
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "750x981"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

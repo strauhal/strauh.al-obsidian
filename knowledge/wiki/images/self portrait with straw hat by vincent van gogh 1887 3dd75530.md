@@ -6,7 +6,7 @@ source_relpath: "1800s/self_portrait_with_straw_hat_by_vincent_van_gogh_1887.jpe
 collection: "1800s"
 inferred_year: "1887"
 artist: "vincent van gogh"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

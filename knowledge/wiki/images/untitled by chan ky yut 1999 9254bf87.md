@@ -6,7 +6,7 @@ source_relpath: "1900s/untitled_by_chan_ky_yut_1999.jpeg"
 collection: "1900s"
 inferred_year: "1999"
 artist: "chan ky yut"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

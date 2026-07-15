@@ -6,7 +6,7 @@ source_relpath: "1900s/vierge_virgin_by_marcel_duchamp_1912.jpg"
 collection: "1900s"
 inferred_year: "1912"
 artist: "marcel duchamp"
-dimensions: ""
+dimensions: "965x1296"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

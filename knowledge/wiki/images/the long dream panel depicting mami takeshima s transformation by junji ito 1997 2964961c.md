@@ -6,7 +6,7 @@ source_relpath: "1900s/the_long_dream_panel_depicting_mami_takeshima_s_transform
 collection: "1900s"
 inferred_year: "1997"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

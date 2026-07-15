@@ -6,7 +6,7 @@ source_relpath: "photography/Dithered Photograph of a Cat Looking Upwards.png"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "250x200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

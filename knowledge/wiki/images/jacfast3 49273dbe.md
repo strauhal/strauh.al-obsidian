@@ -6,7 +6,7 @@ source_relpath: "diary/jacfast3.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1633x2117"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

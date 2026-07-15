@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_grand_duchess_maria_nikolaevna_by_karl_bryull
 collection: "1800s"
 inferred_year: "1837"
 artist: "karl bryullov"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

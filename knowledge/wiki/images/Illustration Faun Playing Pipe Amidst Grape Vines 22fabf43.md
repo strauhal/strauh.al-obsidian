@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Faun Playing Pipe Amidst Grape Vines.pn
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "838x850"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

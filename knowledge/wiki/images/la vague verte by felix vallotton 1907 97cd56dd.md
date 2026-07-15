@@ -6,7 +6,7 @@ source_relpath: "1900s/la_vague_verte_by_felix_vallotton_1907.jpg"
 collection: "1900s"
 inferred_year: "1907"
 artist: "felix vallotton"
-dimensions: ""
+dimensions: "1024x1028"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

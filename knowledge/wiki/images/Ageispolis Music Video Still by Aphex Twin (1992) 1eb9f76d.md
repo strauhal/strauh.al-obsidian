@@ -6,7 +6,7 @@ source_relpath: "1900s/Ageispolis Music Video Still by Aphex Twin (1992).png"
 collection: "1900s"
 inferred_year: "1992"
 artist: ""
-dimensions: ""
+dimensions: "2880x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

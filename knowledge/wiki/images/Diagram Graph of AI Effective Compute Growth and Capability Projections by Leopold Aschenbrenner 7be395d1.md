@@ -6,7 +6,7 @@ source_relpath: "2000s/Diagram - Graph of AI Effective Compute Growth and Capabi
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Leopold Aschenbrenner"
-dimensions: ""
+dimensions: "3320x2560"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Grid of Hand-Drawn Perspective Sketches
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2000x1219"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

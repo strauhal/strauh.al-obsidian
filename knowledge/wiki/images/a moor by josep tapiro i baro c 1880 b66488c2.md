@@ -6,7 +6,7 @@ source_relpath: "1800s/a_moor_by_josep_tapiro_i_baro_c_1880.jpeg"
 collection: "1800s"
 inferred_year: "1880"
 artist: "josep tapiro i baro"
-dimensions: ""
+dimensions: "1490x1974"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

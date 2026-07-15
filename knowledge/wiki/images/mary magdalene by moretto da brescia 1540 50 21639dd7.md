@@ -6,7 +6,7 @@ source_relpath: "1500s/mary_magdalene_by_moretto_da_brescia_1540_50.jpeg"
 collection: "1500s"
 inferred_year: "1540"
 artist: "moretto da brescia"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

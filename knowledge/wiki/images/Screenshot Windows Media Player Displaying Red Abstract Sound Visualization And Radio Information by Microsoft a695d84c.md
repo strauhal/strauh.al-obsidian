@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Windows Media Player Displaying Red Abstr
 collection: "unsorted"
 inferred_year: ""
 artist: "Microsoft"
-dimensions: ""
+dimensions: "595x419"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Transparent Sign Showing Reconstructed Tower Over R
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1077x1436"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

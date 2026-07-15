@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Watercolor and Ink Sketch of Parisian R
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "570x815"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

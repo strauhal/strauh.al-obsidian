@@ -6,7 +6,7 @@ source_relpath: "1800s/blick_auf_salzburg_von_der_franziskanerkirche_by_johann_p
 collection: "1800s"
 inferred_year: "1840"
 artist: "johann pezolt"
-dimensions: ""
+dimensions: "2123x1181"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "photography/Dramatic Red Sky Over Dark Garden at Dusk.jpeg"
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

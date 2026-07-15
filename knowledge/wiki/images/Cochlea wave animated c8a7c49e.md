@@ -6,7 +6,7 @@ source_relpath: "gif_collection/Cochlea_wave_animated.gif"
 collection: "gif_collection"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "200x143"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/gif_collection"]
 ---

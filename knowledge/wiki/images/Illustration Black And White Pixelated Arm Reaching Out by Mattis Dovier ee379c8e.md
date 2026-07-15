@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Black And White Pixelated Arm Reaching 
 collection: "unsorted"
 inferred_year: ""
 artist: "Mattis Dovier"
-dimensions: ""
+dimensions: "540x362"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Minimalist Figures With Long Flowing H
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1448x1209"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

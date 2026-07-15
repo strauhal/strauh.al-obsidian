@@ -6,7 +6,7 @@ source_relpath: "1600s/Bologna by Giovanni Battista Falda (c. 1670).jpg"
 collection: "1600s"
 inferred_year: "1670"
 artist: ""
-dimensions: ""
+dimensions: "1080x791"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

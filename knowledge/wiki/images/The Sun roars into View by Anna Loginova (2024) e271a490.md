@@ -6,7 +6,7 @@ source_relpath: "2000s/The Sun roars into View by Anna Loginova (2024).jpeg"
 collection: "2000s"
 inferred_year: "2024"
 artist: ""
-dimensions: ""
+dimensions: "1598x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

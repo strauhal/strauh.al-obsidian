@@ -6,7 +6,7 @@ source_relpath: "1900s/the_grand_staircase_by_j_c_leyendecker_1930.jpg"
 collection: "1900s"
 inferred_year: "1930"
 artist: "j c leyendecker"
-dimensions: ""
+dimensions: "654x1000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

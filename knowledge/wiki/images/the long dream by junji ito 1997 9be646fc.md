@@ -6,7 +6,7 @@ source_relpath: "1900s/the_long_dream_by_junji_ito_1997.jpeg"
 collection: "1900s"
 inferred_year: "1997"
 artist: "junji ito"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/doppelbildnis_double_portrait_by_adolf_wolfli_1920.jpeg"
 collection: "1900s"
 inferred_year: "1920"
 artist: "adolf wolfli"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

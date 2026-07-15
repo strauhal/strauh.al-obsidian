@@ -6,7 +6,7 @@ source_relpath: "1900s/montague_dawson_the_kings_ship_mid20th_century.jpg"
 collection: "1900s"
 inferred_year: "1900s"
 artist: ""
-dimensions: ""
+dimensions: "4000x3212"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

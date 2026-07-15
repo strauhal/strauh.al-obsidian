@@ -6,7 +6,7 @@ source_relpath: "1900s/cover_illustration_for_junkie_ace_double_d_15_by_norman_s
 collection: "1900s"
 inferred_year: "1953"
 artist: "norman saunders"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

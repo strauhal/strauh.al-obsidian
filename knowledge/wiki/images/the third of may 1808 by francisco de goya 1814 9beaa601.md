@@ -6,7 +6,7 @@ source_relpath: "1800s/the_third_of_may_1808_by_francisco_de_goya_1814.jpg"
 collection: "1800s"
 inferred_year: "1814"
 artist: "francisco de goya"
-dimensions: ""
+dimensions: "5903x4539"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

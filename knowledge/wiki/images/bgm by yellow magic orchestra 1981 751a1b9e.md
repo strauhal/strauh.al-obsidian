@@ -6,7 +6,7 @@ source_relpath: "1900s/bgm_by_yellow_magic_orchestra_1981.jpeg"
 collection: "1900s"
 inferred_year: "1981"
 artist: "yellow magic orchestra"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

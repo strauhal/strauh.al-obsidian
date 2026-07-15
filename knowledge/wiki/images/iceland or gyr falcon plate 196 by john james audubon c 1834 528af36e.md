@@ -6,7 +6,7 @@ source_relpath: "1800s/iceland_or_gyr_falcon_plate_196_by_john_james_audubon_c_1
 collection: "1800s"
 inferred_year: "1834"
 artist: "john james audubon"
-dimensions: ""
+dimensions: "2294x3529"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

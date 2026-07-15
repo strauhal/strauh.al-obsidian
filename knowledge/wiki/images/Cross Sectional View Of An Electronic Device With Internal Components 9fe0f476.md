@@ -6,7 +6,7 @@ source_relpath: "diagrams/Cross-Sectional_View_Of_An_Electronic_Device_With_Inte
 collection: "diagrams"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1400x1078"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diagrams"]
 ---

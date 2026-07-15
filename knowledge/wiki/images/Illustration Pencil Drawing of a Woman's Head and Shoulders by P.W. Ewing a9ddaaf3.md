@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Drawing of a Woman's Head and Shoul
 collection: "2000s"
 inferred_year: "2000s"
 artist: "P.W. Ewing"
-dimensions: ""
+dimensions: "843x1031"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

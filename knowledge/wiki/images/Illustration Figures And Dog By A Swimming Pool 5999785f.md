@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Figures And Dog By A Swimming Pool.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

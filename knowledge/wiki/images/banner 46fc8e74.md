@@ -6,7 +6,7 @@ source_relpath: "banner.gif"
 collection: "root"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "300x250"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/root"]
 ---

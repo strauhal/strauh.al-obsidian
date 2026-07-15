@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Blue Demonic Figure With Red Eyes And H
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "745x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

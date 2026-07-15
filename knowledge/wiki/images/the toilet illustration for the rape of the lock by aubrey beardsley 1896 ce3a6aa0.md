@@ -6,7 +6,7 @@ source_relpath: "1800s/the_toilet_illustration_for_the_rape_of_the_lock_by_aubre
 collection: "1800s"
 inferred_year: "1896"
 artist: "aubrey beardsley"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

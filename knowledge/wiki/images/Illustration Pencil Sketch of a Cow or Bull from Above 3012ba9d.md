@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Pencil Sketch of a Cow or Bull from Above.
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

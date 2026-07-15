@@ -6,7 +6,7 @@ source_relpath: "photography/Black Baseball Cap with Embroidered Humorous Text.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1463x1817"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

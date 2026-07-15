@@ -6,7 +6,7 @@ source_relpath: "photography/Woman Relaxing in Office with Vintage Computers.jpe
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1360x620"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

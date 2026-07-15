@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Two Avatars On Motorcycle Near Tropical I
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

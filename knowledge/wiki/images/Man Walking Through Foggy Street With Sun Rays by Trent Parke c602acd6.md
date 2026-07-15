@@ -6,7 +6,7 @@ source_relpath: "photography/Man Walking Through Foggy Street With Sun Rays by T
 collection: "photography"
 inferred_year: ""
 artist: "Trent Parke"
-dimensions: ""
+dimensions: "1200x742"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

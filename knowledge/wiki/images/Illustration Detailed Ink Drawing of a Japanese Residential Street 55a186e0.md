@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Detailed Ink Drawing of a Japanese Resi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1000x1470"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

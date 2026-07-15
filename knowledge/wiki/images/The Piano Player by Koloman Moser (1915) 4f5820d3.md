@@ -6,7 +6,7 @@ source_relpath: "1900s/The Piano Player by Koloman Moser (1915).jpg"
 collection: "1900s"
 inferred_year: "1915"
 artist: ""
-dimensions: ""
+dimensions: "559x856"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

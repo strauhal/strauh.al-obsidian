@@ -6,7 +6,7 @@ source_relpath: "2000s/MS Paint Mirror by Drought.jpeg"
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Drought"
-dimensions: ""
+dimensions: "1536x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

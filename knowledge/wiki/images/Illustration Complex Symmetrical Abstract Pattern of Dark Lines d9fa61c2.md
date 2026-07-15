@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Complex Symmetrical Abstract Pattern of
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "768x1024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

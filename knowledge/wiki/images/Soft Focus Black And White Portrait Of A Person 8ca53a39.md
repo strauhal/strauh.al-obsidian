@@ -6,7 +6,7 @@ source_relpath: "photography/Soft Focus Black And White Portrait Of A Person.jpg
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1730x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

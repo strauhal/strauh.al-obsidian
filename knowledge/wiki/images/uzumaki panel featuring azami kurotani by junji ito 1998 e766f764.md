@@ -6,7 +6,7 @@ source_relpath: "1900s/uzumaki_panel_featuring_azami_kurotani_by_junji_ito_1998.
 collection: "1900s"
 inferred_year: "1998"
 artist: "junji ito"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

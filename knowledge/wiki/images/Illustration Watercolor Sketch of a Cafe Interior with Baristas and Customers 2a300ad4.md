@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Watercolor Sketch of a Cafe Interior wi
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1638x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

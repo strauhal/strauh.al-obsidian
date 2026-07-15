@@ -6,7 +6,7 @@ source_relpath: "photography/People Skating Under Disco Lights at an Indoor Even
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "3648x2432"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

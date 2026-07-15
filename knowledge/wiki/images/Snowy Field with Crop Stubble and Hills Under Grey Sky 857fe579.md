@@ -6,7 +6,7 @@ source_relpath: "photography/Snowy Field with Crop Stubble and Hills Under Grey 
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "960x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

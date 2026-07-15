@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Charcoal Sketch of a Woman's Face with 
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2203x2545"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

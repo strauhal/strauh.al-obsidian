@@ -6,7 +6,7 @@ source_relpath: "2000s/Image - Wojak-Style Character And Green Handheld Device W
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "951x484"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

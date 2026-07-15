@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pencil Drawing of a Woman's Head and Sh
 collection: "unsorted"
 inferred_year: ""
 artist: "Pepe Gonzalez"
-dimensions: ""
+dimensions: "474x602"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

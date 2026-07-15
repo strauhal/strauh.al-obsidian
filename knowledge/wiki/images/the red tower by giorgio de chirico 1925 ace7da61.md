@@ -6,7 +6,7 @@ source_relpath: "1900s/the_red_tower_by_giorgio_de_chirico_1925.jpg"
 collection: "1900s"
 inferred_year: "1925"
 artist: "giorgio de chirico"
-dimensions: ""
+dimensions: "1772x1421"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

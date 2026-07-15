@@ -6,7 +6,7 @@ source_relpath: "2000s/Deer in the Forest II by Franz Marc (1914).jpg"
 collection: "2000s"
 inferred_year: "1914"
 artist: ""
-dimensions: ""
+dimensions: "1920x2086"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

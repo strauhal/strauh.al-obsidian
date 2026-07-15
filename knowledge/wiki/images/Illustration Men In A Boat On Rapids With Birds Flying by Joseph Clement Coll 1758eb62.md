@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Men In A Boat On Rapids With Birds Flying 
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Joseph Clement Coll"
-dimensions: ""
+dimensions: "941x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

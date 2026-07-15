@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Graffiti Mural of The Simpsons Characte
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x568"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

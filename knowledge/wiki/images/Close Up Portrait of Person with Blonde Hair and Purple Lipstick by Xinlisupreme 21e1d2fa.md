@@ -6,7 +6,7 @@ source_relpath: "photography/Close-Up Portrait of Person with Blonde Hair and Pu
 collection: "photography"
 inferred_year: ""
 artist: "Xinlisupreme"
-dimensions: ""
+dimensions: "1280x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

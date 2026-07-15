@@ -6,7 +6,7 @@ source_relpath: "1900s/The Gardens of Aedena by Jean Giraud (Moebius) (1988).jpg
 collection: "1900s"
 inferred_year: "1988"
 artist: ""
-dimensions: ""
+dimensions: "3648x2432"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

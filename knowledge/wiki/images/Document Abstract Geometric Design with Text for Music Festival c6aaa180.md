@@ -6,7 +6,7 @@ source_relpath: "unsorted/Document - Abstract Geometric Design with Text for Mus
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1089x673"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1800s/actor_ichikawa_danjuro_viii_as_kajiwara_genta_kagesue_by_
 collection: "1800s"
 inferred_year: "1852"
 artist: "utagawa kunisada"
-dimensions: ""
+dimensions: "417x600"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

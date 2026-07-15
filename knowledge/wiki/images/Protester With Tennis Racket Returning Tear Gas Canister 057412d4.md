@@ -6,7 +6,7 @@ source_relpath: "photography/Protester With Tennis Racket Returning Tear Gas Can
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "800x533"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

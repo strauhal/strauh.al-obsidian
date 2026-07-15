@@ -6,7 +6,7 @@ source_relpath: "1800s/the_bridge_at_villeneuve_la_garenne_by_alfred_sisley_1874
 collection: "1800s"
 inferred_year: "1874"
 artist: "alfred sisley"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

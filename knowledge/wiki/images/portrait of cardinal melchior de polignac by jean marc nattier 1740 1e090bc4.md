@@ -6,7 +6,7 @@ source_relpath: "1700s/portrait_of_cardinal_melchior_de_polignac_by_jean_marc_na
 collection: "1700s"
 inferred_year: "1740"
 artist: "jean marc nattier"
-dimensions: ""
+dimensions: "835x1052"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1700s"]
 ---

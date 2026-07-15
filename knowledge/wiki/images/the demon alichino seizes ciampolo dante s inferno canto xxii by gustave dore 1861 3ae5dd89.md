@@ -6,7 +6,7 @@ source_relpath: "1800s/the_demon_alichino_seizes_ciampolo_dante_s_inferno_canto_
 collection: "1800s"
 inferred_year: "1861"
 artist: "gustave dore"
-dimensions: ""
+dimensions: "1618x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

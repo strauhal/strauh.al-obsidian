@@ -6,7 +6,7 @@ source_relpath: "1600s/the_incredulity_of_st_thomas_by_rembrandt_van_rijn_about_
 collection: "1600s"
 inferred_year: "1640"
 artist: "rembrandt van rijn about"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

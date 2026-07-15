@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Abstract Form Rendered with Parallel Li
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1233x1701"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

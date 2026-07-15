@@ -6,7 +6,7 @@ source_relpath: "1500s/poet_on_a_mountain_top_by_shen_zhou_c_1500_2.jpeg"
 collection: "1500s"
 inferred_year: "1500"
 artist: "shen zhou"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

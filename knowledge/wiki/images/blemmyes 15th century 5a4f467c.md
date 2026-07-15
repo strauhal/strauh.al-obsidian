@@ -6,7 +6,7 @@ source_relpath: "1400s/blemmyes_15th_century.png"
 collection: "1400s"
 inferred_year: "1400s"
 artist: ""
-dimensions: ""
+dimensions: "1187x1345"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1400s"]
 ---

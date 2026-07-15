@@ -6,7 +6,7 @@ source_relpath: "unsorted/Diagram - Comparison of Apple M3, M3 Pro, and M3 Max C
 collection: "unsorted"
 inferred_year: ""
 artist: "Apple"
-dimensions: ""
+dimensions: "2880x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

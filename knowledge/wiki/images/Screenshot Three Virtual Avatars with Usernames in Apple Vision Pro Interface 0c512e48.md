@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Three Virtual Avatars with Usernames in A
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1987x1124"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

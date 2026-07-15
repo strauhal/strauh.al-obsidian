@@ -6,7 +6,7 @@ source_relpath: "diary/warhol.png"
 collection: "diary"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1200x899"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/diary"]
 ---

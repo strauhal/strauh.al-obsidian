@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photograph of a Gold Mine by Sebast
 collection: "photography"
 inferred_year: ""
 artist: "Sebasti o Salgado"
-dimensions: ""
+dimensions: "4398x2848"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

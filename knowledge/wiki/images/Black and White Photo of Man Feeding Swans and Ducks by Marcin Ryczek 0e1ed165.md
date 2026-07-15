@@ -6,7 +6,7 @@ source_relpath: "photography/Black and White Photo of Man Feeding Swans and Duck
 collection: "photography"
 inferred_year: ""
 artist: "Marcin Ryczek"
-dimensions: ""
+dimensions: "1080x775"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

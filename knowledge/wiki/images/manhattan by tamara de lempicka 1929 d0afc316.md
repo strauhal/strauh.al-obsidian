@@ -6,7 +6,7 @@ source_relpath: "1900s/manhattan_by_tamara_de_lempicka_1929.jpeg"
 collection: "1900s"
 inferred_year: "1929"
 artist: "tamara de lempicka"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Pixel Art Illustration of a Standing Li
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "146x146"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "influences/yoji_shinkawa.jpeg"
 collection: "influences"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1440x1800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/influences"]
 ---

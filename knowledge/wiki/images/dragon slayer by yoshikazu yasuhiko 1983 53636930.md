@@ -6,7 +6,7 @@ source_relpath: "1900s/dragon_slayer_by_yoshikazu_yasuhiko_1983.jpg"
 collection: "1900s"
 inferred_year: "1983"
 artist: "yoshikazu yasuhiko"
-dimensions: ""
+dimensions: "2057x2970"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

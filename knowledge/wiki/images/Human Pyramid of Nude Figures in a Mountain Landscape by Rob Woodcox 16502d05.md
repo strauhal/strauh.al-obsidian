@@ -6,7 +6,7 @@ source_relpath: "photography/Human Pyramid of Nude Figures in a Mountain Landsca
 collection: "photography"
 inferred_year: ""
 artist: "Rob Woodcox"
-dimensions: ""
+dimensions: "720x720"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Comic - The Bizarro World.jpeg"
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "334x371"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

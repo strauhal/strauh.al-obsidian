@@ -6,7 +6,7 @@ source_relpath: "2000s/The End of Evangelion (1997).png"
 collection: "2000s"
 inferred_year: "1997"
 artist: ""
-dimensions: ""
+dimensions: "446x260"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/siren_by_lillian_schwartz_1971.jpeg"
 collection: "1900s"
 inferred_year: "1971"
 artist: "lillian schwartz"
-dimensions: ""
+dimensions: "1638x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

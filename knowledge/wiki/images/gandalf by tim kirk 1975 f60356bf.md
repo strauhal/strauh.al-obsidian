@@ -6,7 +6,7 @@ source_relpath: "1900s/gandalf_by_tim_kirk_1975.jpg"
 collection: "1900s"
 inferred_year: "1975"
 artist: "tim kirk"
-dimensions: ""
+dimensions: "3024x4032"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

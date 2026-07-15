@@ -6,7 +6,7 @@ source_relpath: "photography/Vibrant Green Aurora Borealis Over Dark Landscape.j
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1125x1074"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

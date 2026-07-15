@@ -6,7 +6,7 @@ source_relpath: "2000s/Screenshot - Complex Abstract Illustration Displayed in M
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "3574x4096"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

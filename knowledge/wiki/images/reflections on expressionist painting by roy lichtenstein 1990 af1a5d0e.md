@@ -6,7 +6,7 @@ source_relpath: "1900s/reflections_on_expressionist_painting_by_roy_lichtenstein
 collection: "1900s"
 inferred_year: "1990"
 artist: "roy lichtenstein"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

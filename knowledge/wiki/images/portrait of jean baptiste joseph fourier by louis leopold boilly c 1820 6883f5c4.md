@@ -6,7 +6,7 @@ source_relpath: "1800s/portrait_of_jean_baptiste_joseph_fourier_by_louis_leopold
 collection: "1800s"
 inferred_year: "1820"
 artist: "louis leopold boilly"
-dimensions: ""
+dimensions: "1280x1619"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

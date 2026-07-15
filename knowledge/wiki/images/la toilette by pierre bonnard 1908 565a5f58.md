@@ -6,7 +6,7 @@ source_relpath: "1900s/la_toilette_by_pierre_bonnard_1908.jpg"
 collection: "1900s"
 inferred_year: "1908"
 artist: "pierre bonnard"
-dimensions: ""
+dimensions: "1007x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

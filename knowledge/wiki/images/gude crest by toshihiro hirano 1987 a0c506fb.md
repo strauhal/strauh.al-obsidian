@@ -6,7 +6,7 @@ source_relpath: "1900s/gude_crest_by_toshihiro_hirano_1987.png"
 collection: "1900s"
 inferred_year: "1987"
 artist: "toshihiro hirano"
-dimensions: ""
+dimensions: "1410x2000"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

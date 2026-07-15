@@ -28,6 +28,6 @@ Original path: `/sessions/elegant-serene-archimedes/mnt/GitHub/strauh.al3.1/2000
 - [[knowledge/wiki/images/Illustration Cross stitch Embroidery of Three Rabbits and a Butterfly 46e2663d|Illustration Cross stitch Embroidery of Three Rabbits and a Butterfly]] — named in this note
 - [[_archive/failed-intelligence-tests/Constellation - Orion|Constellation - Orion]] — shared language: three
 - [[knowledge/wiki/images/Rabbits between the staves (c. 1540 50) 0cf0173c|Rabbits between the staves (c. 1540 50)]] — shared language: rabbits
+- [[knowledge/wiki/images/Illustration Embroidery Style Drawing of Two Women and a Masked Man e79aca2a|Illustration Embroidery Style Drawing of Two Women and a Masked Man]] — shared language: embroidery
 - [[_archive/auto-generated/images-stale/black thread embroidery of a fantasy map on white fabric 6f21afdd|black thread embroidery of a fantasy map on white fabric]] — shared language: embroidery
-- [[knowledge/wiki/images/Illustration Black Thread Embroidery of a Fantasy Map on White Fabric bbf2f311|Illustration Black Thread Embroidery of a Fantasy Map on White Fabric]] — shared language: embroidery
 <!-- vault-crosslinks:end -->

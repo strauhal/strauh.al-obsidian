@@ -6,7 +6,7 @@ source_relpath: "1900s/freedom_of_speech_by_norman_rockwell_1943.jpeg"
 collection: "1900s"
 inferred_year: "1943"
 artist: "norman rockwell"
-dimensions: ""
+dimensions: "4284x5712"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

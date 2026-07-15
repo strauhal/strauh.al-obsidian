@@ -6,7 +6,7 @@ source_relpath: "photography/Silver Teapot On Post With Snow-Capped Mountains In
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "736x551"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

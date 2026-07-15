@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Abstract Figure in Bold Colors with Halfto
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "1501x1113"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

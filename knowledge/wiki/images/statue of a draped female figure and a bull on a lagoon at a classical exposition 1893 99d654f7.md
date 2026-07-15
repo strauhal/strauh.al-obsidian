@@ -6,7 +6,7 @@ source_relpath: "1800s/statue_of_a_draped_female_figure_and_a_bull_on_a_lagoon_a
 collection: "1800s"
 inferred_year: "1893"
 artist: ""
-dimensions: ""
+dimensions: "4588x3739"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

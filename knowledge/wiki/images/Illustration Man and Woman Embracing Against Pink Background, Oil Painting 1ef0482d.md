@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Man and Woman Embracing Against Pink Backg
 collection: "2000s"
 inferred_year: "2000s"
 artist: ""
-dimensions: ""
+dimensions: "2500x2500"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

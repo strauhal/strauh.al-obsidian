@@ -6,7 +6,7 @@ source_relpath: "1900s/composition_no_10_pier_and_ocean_by_piet_mondrian_1915.jp
 collection: "1900s"
 inferred_year: "1915"
 artist: "piet mondrian"
-dimensions: ""
+dimensions: "1280x1170"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

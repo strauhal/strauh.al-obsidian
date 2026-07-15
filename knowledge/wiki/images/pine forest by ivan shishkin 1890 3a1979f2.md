@@ -6,7 +6,7 @@ source_relpath: "1800s/pine_forest_by_ivan_shishkin_1890.jpg"
 collection: "1800s"
 inferred_year: "1890"
 artist: "ivan shishkin"
-dimensions: ""
+dimensions: "552x900"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

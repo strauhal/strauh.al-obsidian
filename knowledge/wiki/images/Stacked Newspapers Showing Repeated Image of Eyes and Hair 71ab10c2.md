@@ -6,7 +6,7 @@ source_relpath: "photography/Stacked Newspapers Showing Repeated Image of Eyes a
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "474x791"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

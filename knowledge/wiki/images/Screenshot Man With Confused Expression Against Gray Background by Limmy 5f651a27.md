@@ -6,7 +6,7 @@ source_relpath: "unsorted/Screenshot - Man With Confused Expression Against Gray
 collection: "unsorted"
 inferred_year: ""
 artist: "Limmy"
-dimensions: ""
+dimensions: "1280x738"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

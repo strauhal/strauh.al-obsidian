@@ -6,7 +6,7 @@ source_relpath: "1900s/the_living_room_by_marsden_hartley_1913.jpg"
 collection: "1900s"
 inferred_year: "1913"
 artist: "marsden hartley"
-dimensions: ""
+dimensions: "1280x957"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "artists/degas/'Ballet_Rehearsal'_by_Edgar_Degas,_pastel,_Pushki
 collection: "artists"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "2760x2140"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/artists"]
 ---

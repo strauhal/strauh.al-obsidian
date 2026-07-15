@@ -6,7 +6,7 @@ source_relpath: "1600s/portrait_of_jean_baptiste_colbert_marquis_de_seignelay_by
 collection: "1600s"
 inferred_year: "1688"
 artist: "hyacinthe rigaud"
-dimensions: ""
+dimensions: "630x800"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1600s"]
 ---

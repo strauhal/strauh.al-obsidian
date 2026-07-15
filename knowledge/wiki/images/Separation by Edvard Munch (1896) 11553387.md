@@ -6,7 +6,7 @@ source_relpath: "1800s/Separation by Edvard Munch (1896).jpg"
 collection: "1800s"
 inferred_year: "1896"
 artist: ""
-dimensions: ""
+dimensions: "900x677"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1800s"]
 ---

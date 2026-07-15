@@ -6,7 +6,7 @@ source_relpath: "1500s/study_of_two_figures_by_annibale_carracci_c_1590.jpeg"
 collection: "1500s"
 inferred_year: "1590"
 artist: "annibale carracci"
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

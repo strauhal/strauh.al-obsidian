@@ -6,7 +6,7 @@ source_relpath: "1500s/the_triumph_of_death_by_pieter_bruegel_the_elder_c_1562.j
 collection: "1500s"
 inferred_year: "1562"
 artist: "pieter bruegel the elder"
-dimensions: ""
+dimensions: "3051x2161"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1500s"]
 ---

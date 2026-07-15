@@ -6,7 +6,7 @@ source_relpath: "1900s/wall_of_bricks_by_christo_and_jeanne_claude_1968.jpg"
 collection: "1900s"
 inferred_year: "1968"
 artist: "christo and jeanne claude"
-dimensions: ""
+dimensions: "455x674"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/Hero and Leandro (A Painting in Four Parts) Part I by Cy 
 collection: "1900s"
 inferred_year: "1984"
 artist: ""
-dimensions: ""
+dimensions: "1000x810"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "1900s/A Man Fishing by John Singer Sargent (1912).jpeg"
 collection: "1900s"
 inferred_year: "1912"
 artist: ""
-dimensions: ""
+dimensions: "4032x3024"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

@@ -6,7 +6,7 @@ source_relpath: "unsorted/Illustration - Man In Suit With Patterned Shirt Holdin
 collection: "unsorted"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "312x961"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/unsorted"]
 ---

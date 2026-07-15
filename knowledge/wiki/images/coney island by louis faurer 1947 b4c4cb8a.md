@@ -6,7 +6,7 @@ source_relpath: "1900s/coney_island_by_louis_faurer_1947.jpg"
 collection: "1900s"
 inferred_year: "1947"
 artist: "louis faurer"
-dimensions: ""
+dimensions: "1500x1080"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/1900s"]
 ---

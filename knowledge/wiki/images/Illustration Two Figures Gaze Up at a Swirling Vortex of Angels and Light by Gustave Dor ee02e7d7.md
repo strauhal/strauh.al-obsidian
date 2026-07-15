@@ -6,7 +6,7 @@ source_relpath: "2000s/Illustration - Two Figures Gaze Up at a Swirling Vortex o
 collection: "2000s"
 inferred_year: "2000s"
 artist: "Gustave Dor"
-dimensions: ""
+dimensions: "1859x2048"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/2000s"]
 ---

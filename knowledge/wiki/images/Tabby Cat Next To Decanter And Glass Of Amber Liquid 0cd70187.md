@@ -6,7 +6,7 @@ source_relpath: "photography/Tabby Cat Next To Decanter And Glass Of Amber Liqui
 collection: "photography"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "720x730"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/photography"]
 ---

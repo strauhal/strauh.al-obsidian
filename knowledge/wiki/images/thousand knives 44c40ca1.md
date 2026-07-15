@@ -6,7 +6,7 @@ source_relpath: "album_covers/thousand_knives.jpg"
 collection: "album_covers"
 inferred_year: ""
 artist: ""
-dimensions: ""
+dimensions: "1199x1200"
 compiled: "True"
 tags: ["strauhal", "source/image", "collection/album_covers"]
 ---

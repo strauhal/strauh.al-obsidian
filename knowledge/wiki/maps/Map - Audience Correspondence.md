@@ -2,26 +2,26 @@
 title: Map - Audience Correspondence
 type: map
 tags: [map, audience, correspondence, archive, community]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # Map - Audience Correspondence
 
-An aggregate view of correspondence received around strauh.al and computerdrawing.club from August 2025 through March 2026. Personal identities and private details are intentionally excluded.
+An aggregate view of correspondence received around strauh.al and computerdrawing.club. Personal identities and private details are intentionally excluded.
 
 ## Corpus
 
-- 72 EML files
-- 38 unique messages after deduplication
-- 22 threads
-- 33 unique incoming messages
-- 12 drawing attachments
+- 139 EML files
+- 76 unique messages after deduplication
+- 43 threads
+- 65 unique incoming messages
+- 50 drawing attachments
 
 ## Kinds of Contact
 
-- Drawing submissions: 15
-- Site feedback and corrections: 4
+- Drawing submissions: 46
+- Site feedback and corrections: 5
 - Audience responses: 5
 - Private correspondence: 7
 - Other brief messages: 2
@@ -46,16 +46,3 @@ An aggregate view of correspondence received around strauh.al and computerdrawin
 ## Privacy
 
 Full messages, pseudonymized thread notes, and attachments are stored under `knowledge/private/fanmail/`. This map deliberately avoids names, addresses, phone numbers, and intimate personal disclosures.
-
-<!-- vault-crosslinks:start -->
-## Discovered Connections
-
-- [[knowledge/private/fanmail/Private Fanmail Index|Private Fanmail Index]] — named in this note
-- [[knowledge/wiki/maps/Map - Works|Map - Works]] — named in this note
-- [[knowledge/wiki/concepts/Dead Architecture|Dead Architecture]] — shared language: completed, assembled, traces
-- [[knowledge/wiki/people/Barry McGee|Barry McGee]] — shared language: internet, messages
-- [[knowledge/output/fanmail-import-report|fanmail-import-report]] — shared language: unique, messages, fanmail
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: site, private
-- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private
-- [[knowledge/wiki/images/Image Twitter Post with Ghibli Style Illustration and Chat Messages a16d76b3|Image Twitter Post with Ghibli Style Illustration and Chat Messages]] — shared language: messages
-<!-- vault-crosslinks:end -->

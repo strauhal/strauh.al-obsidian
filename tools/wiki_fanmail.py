@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 VAULT = Path(__file__).resolve().parents[1]
-SOURCE = Path.home() / "Desktop" / "fanmail"
+SOURCE = VAULT.parent / "computerdrawing.club" / "fanmail"
 PRIVATE = VAULT / "knowledge" / "private" / "fanmail"
 ORIGINALS = PRIVATE / "originals"
 ATTACHMENTS = PRIVATE / "attachments"
@@ -304,11 +304,11 @@ updated: {today}
 
 # Map - Audience Correspondence
 
-An aggregate view of correspondence received around strauh.al and computerdrawing.club from August 2025 through March 2026. Personal identities and private details are intentionally excluded.
+An aggregate view of correspondence received around strauh.al and computerdrawing.club. Personal identities and private details are intentionally excluded.
 
 ## Corpus
 
-- 72 EML files
+- {len(list(SOURCE.glob('*.eml')))} EML files
 - {len(messages)} unique messages after deduplication
 - {len(records)} threads
 - {len(incoming)} unique incoming messages

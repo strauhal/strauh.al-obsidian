@@ -2,35 +2,38 @@
 title: "Private Correspondence - 01 - (No Subject)"
 type: private-correspondence
 private: true
-category: other
-message_count: 1
-incoming_count: 1
+category: drawing-submission
+message_count: 3
+incoming_count: 3
 tags: [private, correspondence, fanmail]
-created: 2026-06-22
-updated: 2026-06-22
+created: 2026-07-15
+updated: 2026-07-15
 ---
 
 # (No Subject)
 
-**Participants:** Correspondent 05
+**Participants:** Correspondent 06, Correspondent 08, Correspondent 34
 
-**Category:** other
+**Category:** drawing-submission
 
-## 2026-03-18 - Correspondent 05
+## 2025-08-01 - Correspondent 34
+
+**Direction:** incoming
+
+I love you
+
+![[knowledge/private/fanmail/attachments/b6df0fc79943.png]]
+
+## 2026-03-18 - Correspondent 08
 
 **Direction:** incoming
 
 hi
 
-<!-- vault-crosslinks:start -->
-## Discovered Connections
+## 2026-05-17 - Correspondent 06
 
-- [[knowledge/private/fanmail/threads/02-art|Private Correspondence - 02 - art]] — shared language: private, incoming, direction
-- [[knowledge/wiki/maps/Map - Drawing Submissions|Map - Drawing Submissions]] — shared language: incoming, private
-- [[knowledge/private/fanmail/threads/08-drawing|Private Correspondence - 08 - drawing]] — shared language: private, incoming, direction
-- [[knowledge/private/fanmail/threads/18-site-drawings|Private Correspondence - 18 - site drawings]] — shared language: private, incoming, direction
-- [[knowledge/private/fanmail/threads/13-my-pic|Private Correspondence - 13 - My Pic]] — shared language: private, incoming, direction
-- [[knowledge/private/fanmail/threads/10-love-your-archive|Private Correspondence - 10 - Love your archive]] — shared language: private, incoming, direction
-- [[knowledge/wiki/maps/Map - Audience Correspondence|Map - Audience Correspondence]] — shared language: private
-- [[knowledge/wiki/people/Megan|Megan]] — shared language: subject
-<!-- vault-crosslinks:end -->
+**Direction:** incoming
+
+Here you are Ernest, Great Site btw
+
+![[knowledge/private/fanmail/attachments/a68bec5eeed9.png]]
